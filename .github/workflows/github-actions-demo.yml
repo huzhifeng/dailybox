@@ -26,7 +26,7 @@ jobs:
         run: python sjmy.py
       - name: Commit
         run: |
-          git config --local user.email 'hu_zhifeng@qq.com'
+          git config --local user.email 'huzhifeng@qq.com'
           git config --local user.username 'Zhifeng Hu'
           git commit -a -m "Add changes"
       - name: Push
