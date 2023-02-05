@@ -17,6 +17,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - run: echo ${{ toJson(github) }}
       - name: Setup python
         uses: actions/setup-python@v4
         with:
