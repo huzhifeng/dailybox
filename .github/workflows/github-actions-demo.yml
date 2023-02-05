@@ -22,4 +22,4 @@ jobs:
           python-version: '3.10'
       - run: python -V
       - run: pip install feedparser
-      - run: pip list
+      - run: python sjmy.py
