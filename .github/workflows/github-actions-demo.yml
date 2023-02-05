@@ -22,14 +22,13 @@ jobs:
       - name: Run script
         run: python sjmy.py
       - name: Commit
-        env: 
-          USER: ${{ secrets.USER }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-          HOST: ${{ secrets.HOST }}
         run: |
           git config --global user.email huzhifeng@qq.com
-          git config --global user.username huzhifeng
-          git add .
-          git commit -m "update" -a
-          git push
+          git config --global user.username 'Zhifeng Hu'
+          git commit -a -m "Add changes"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with: 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
         
