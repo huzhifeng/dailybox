@@ -17,7 +17,6 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo ${{ toJson(github) }}
       - name: Setup python
         uses: actions/setup-python@v4
         with:
@@ -25,14 +24,14 @@ jobs:
       - run: pip install feedparser
       - name: Run script
         run: python sjmy.py
-      - name: Commit
+      - name: Commit files
         run: |
-          git config --local user.email 'huzhifeng@qq.com'
-          git config --local user.username 'Zhifeng Hu'
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git commit -a -m "Add changes"
-      - name: Push
+      - name: Push changes
         uses: ad-m/github-push-action@master
-        with: 
-          github_token: ${{ secrets.SJMY }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
         
