@@ -9,7 +9,7 @@ jobs:
   RSS-Dialy-Actions:
     runs-on: ubuntu-latest
     permissions:
-      contents: read|write
+      contents: write
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
