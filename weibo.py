@@ -9,7 +9,7 @@ import urllib
 feed_urls = [
     'https://weibo.com/ajax/side/hotSearch'
 ]
-news_url = 'https://s.weibo.com/weibo?q={hash1}{key}{hash2}'
+news_url = 'https://s.weibo.com/weibo?q=%23{word}%23'
 
 def main():
     today = datetime.datetime.today().strftime('%Y%m%d')
@@ -22,7 +22,7 @@ def main():
             for entry in feed['data']['realtime']:
                 item = {
                     'title': entry['word'],
-                    'link': news_url.format(hash1=urllib.parse.quote('#'), key=entry['word'], hash2=urllib.parse.quote('#'))
+                    'link': news_url.format(word=entry['word'])
                 }
                 rss.append(item)
                 if len(rss) == 3:
