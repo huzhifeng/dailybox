@@ -1,55 +1,201 @@
 {
-	"atom": [
+	"feed": [
 		{
-			"title": "阮一峰的网络日志",
+			"channel": "阮一峰的网络日志",
+			"url": "https://ruanyifeng.com/blog/atom.xml",
 			"enable": 1,
-			"feed": "https://ruanyifeng.com/blog/atom.xml",
+			"category": "博客",
 			"tags": ["阮一峰", "科技爱好者周刊", "周刊", "Weekly", "科技", "Tech", "博客", "Blog"]
 		},
 		{
-			"title": "胡涂说",
+			"channel": "酷壳",
+			"url": "https://coolshell.cn/feed",
 			"enable": 1,
-			"feed": "https://hutusi.com/feed.xml",
+			"category": "博客",
+			"tags": ["陈皓", "酷壳", "博客", "Blog"]
+		},
+		{
+			"channel": "ManateeLazyCat",
+			"url": "https://manateelazycat.github.io/feed.xml",
+			"enable": 1,
+			"category": "博客",
+			"tags": ["ManateeLazyCat", "王勇", "深度", "Deepin", "博客", "Blog"]
+		},
+		{
+			"channel": "枫言枫语",
+			"url": "https://justinyan.me/feed",
+			"enable": 1,
+			"category": "博客",
+			"tags": ["枫言枫语", "枫影", "Justin Yan", "博客", "Blog"]
+		},
+		{
+			"channel": "胡涂说",
+			"url": "https://hutusi.com/feed.xml",
+			"enable": 1,
+			"category": "博客",
 			"tags": ["胡涂说", "博客", "Blog"]
-		}
-	],
-	"rss": [
-		{
-			"title": "酷壳",
-			"feed": "https://coolshell.cn/feed",
-			"enable": 1,
-			"tags": ["酷壳", "博客", "Blog"]
 		},
 		{
-			"title": "喷嚏网",
-			"feed": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
+			"channel": "二丫讲梵",
+			"url": "https://wiki.eryajf.net/rss.xml",
 			"enable": 1,
-			"tags": ["喷嚏图卦", "喷嚏网", "日报", "Daily"]
+			"category": "博客",
+			"tags": ["二丫讲梵", "博客", "Blog"]
 		},
 		{
-			"title": "拾月周刊",
-			"feed": "https://www.skyue.com/feed/category/weekly/",
+			"channel": "Ein Verne",
+			"url": "https://einverne.github.io/feed.xml",
 			"enable": 1,
-			"tags": ["拾月周刊", "拾月", "周刊", "Weekly"]
+			"category": "博客",
+			"tags": ["Ein Verne", "博客", "Blog"]
 		},
 		{
-			"title": "拾月",
-			"feed": "https://www.skyue.com/feed/category/post/",
+			"channel": "拾月",
+			"url": "https://www.skyue.com/feed/category/post/",
 			"enable": 1,
+			"category": "博客",
 			"tags": ["拾月", "博客", "Blog"]
 		},
 		{
-			"title": "Hacker News",
-			"feed": "https://news.ycombinator.com/rss",
+			"channel": "拾月周刊",
+			"url": "https://www.skyue.com/feed/category/weekly/",
+			"enable": 1,
+			"category": "周刊",
+			"tags": ["拾月周刊", "拾月", "周刊", "Weekly"]
+		},
+		{
+			"channel": "无人知晓",
+			"url": "https://feed.xyzfm.space/ypn9dydpbxpc",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["有知有行", "孟岩", "无人知晓", "播客", "Podcast"]
+		},
+		{
+			"channel": "知行小酒馆",
+			"url": "https://feed.xyzfm.space/j8yp8gxkmgqr",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["有知有行", "知行小酒馆", "播客", "Podcast"]
+		},
+		{
+			"channel": "声东击西",
+			"url": "https://feeds.fireside.fm/shengdongjixi/rss",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["声动活泼", "声东击西", "播客", "Podcast"]
+		},
+		{
+			"channel": "声动早咖啡",
+			"url": "https://feeds.fireside.fm/sheng-espresso/rss",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["声动活泼", "声动早咖啡", "播客", "Podcast"]
+		},
+		{
+			"channel": "科技早知道",
+			"url": "https://feeds.fireside.fm/guiguzaozhidao/rss",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["声动活泼", "科技早知道", "播客", "Podcast"]
+		},
+		{
+			"channel": "科技乱炖",
+			"url": "https://feeds.daopub.com/ld.xml",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["津津乐道", "科技乱炖", "播客", "Podcast"]
+		},
+		{
+			"channel": "看理想圆桌",
+			"url": "https://api.vistopia.com.cn/rss/program/13.xml",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["看理想", "看理想圆桌", "播客", "Podcast"]
+		},
+		{
+			"channel": "没理想编辑部",
+			"url": "https://api.vistopia.com.cn/rss/program/116.xml",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["看理想", "没理想编辑部", "播客", "Podcast"]
+		},
+		{
+			"channel": "商业就是这样",
+			"url": "https://feeds.fireside.fm/thatisbiz/rss",
+			"enable": 1,
+			"category": "播客",
+			"tags": ["第一财经", "YiMagazine", "播客", "Podcast", "商业就是这样", "周刊", "Weekly"]
+		},
+		{
+			"channel": "This Week in Linux",
+			"url": "https://tuxdigital.com/feed/thisweekinlinux-mp3/",
+			"enable": 0,
+			"category": "播客",
+			"tags": ["This Week in Linux", "播客", "Podcast"]
+		},
+		{
+			"channel": "Destination Linux",
+			"url": "https://destinationlinux.org/feed/mp3",
+			"enable": 0,
+			"category": "播客",
+			"tags": ["Destination Linux", "播客", "Podcast"]
+		},
+		{
+			"channel": "开源之道",
+			"url": "https://opensourceway.community/index.xml",
+			"enable": 1,
+			"category": "开源",
+			"tags": ["开源之道", "李建盛", "适兕", "开源", "Opensource"]
+		},
+		{
+			"channel": "Opensource.com",
+			"url": "https://opensource.com/feed",
+			"enable": 1,
+			"category": "开源",
+			"tags": ["开源", "Opensource"]
+		},
+		{
+			"channel": "It's FOSS",
+			"url": "https://itsfoss.com/rss/",
+			"enable": 1,
+			"category": "开源",
+			"tags": ["FOSS", "开源", "Opensource"]
+		},
+		{
+			"channel": "This Week in GNOME",
+			"url": "https://thisweek.gnome.org/index.xml",
+			"enable": 0,
+			"category": "开源",
+			"tags": ["GNOME", "This Week in GNOME", "开源", "Opensource"]
+		},
+		{
+			"channel": "This week in KDE",
+			"url": "https://pointieststick.com/feed/",
+			"enable": 0,
+			"category": "开源",
+			"tags": ["KDE", "This week in KDE", "开源", "Opensource"]
+		},
+		{
+			"channel": "喷嚏网",
+			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
+			"enable": 1,
+			"category": "资讯",
+			"tags": ["喷嚏图卦", "喷嚏网", "日报", "Daily"]
+		},
+		{
+			"channel": "Hacker News",
+			"url": "https://news.ycombinator.com/rss",
 			"enable": 0,
 			"tags": ["YC", "Hacker News", "English"]
 		}
 	],
 	"api": [
 		{
-			"title": "轻松一刻",
-			"feed": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
+			"channel": "轻松一刻",
+			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-3.html",
+			"_comment": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
 			"enable": 1,
+			"category": "资讯",
 			"tags": ["网易", "轻松一刻", "日报", "Daily", "新闻", "News"],
 			"request": {
 				"method": "get"
@@ -64,9 +210,11 @@
 			}
 		},
 		{
-			"title": "派早报",
-			"feed": "https://sspai.com/api/v1/article/tag/page/get?limit=12&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
+			"channel": "派早报",
+			"url": "https://sspai.com/api/v1/article/tag/page/get?limit=3&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
+			"_comment": "https://sspai.com/api/v1/article/tag/page/get?limit=12&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
 			"enable": 1,
+			"category": "日报",
 			"tags": ["少数派", "派早报", "日报", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "get"
@@ -81,9 +229,10 @@
 			}
 		},
 		{
-			"title": "8点1氪",
-			"feed": "https://gateway.36kr.com/api/mis/me/article",
+			"channel": "8点1氪",
+			"url": "https://gateway.36kr.com/api/mis/me/article",
 			"enable": 1,
+			"category": "日报",
 			"tags": ["36氦", "36Kr", "日报", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "post",
@@ -93,7 +242,7 @@
 					"param": {
 						"userId": "5652071",
 						"pageEvent": 0,
-						"pageSize": 10,
+						"pageSize": 3,
 						"pageCallback": "",
 						"siteId": 1,
 						"platformId": 2
@@ -111,9 +260,10 @@
 			}
 		},
 		{
-			"title": "极客早知道",
-			"feed": "https://mainssl.geekpark.net/api/v1/columns/74",
+			"channel": "极客早知道",
+			"url": "https://mainssl.geekpark.net/api/v1/columns/74",
 			"enable": 1,
+			"category": "日报",
 			"tags": ["极客公园", "GeekPark", "极客早知道", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "get"
@@ -128,15 +278,16 @@
 			}
 		},
 		{
-			"title": "晚点早知道",
-			"feed": "https://www.latepost.com/news/get-news-data",
+			"channel": "晚点早知道",
+			"url": "https://www.latepost.com/news/get-news-data",
 			"enable": 1,
+			"category": "日报",
 			"tags": ["晚点", "LatePost", "晚点早知道", "日报", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "post",
 				"payload": {
 					"page": 1,
-					"limit": 10,
+					"limit": 3,
 					"programa": 3
 				}
 			},
@@ -150,9 +301,10 @@
 			}
 		},
 		{
-			"title": "微博热搜",
-			"feed": "https://weibo.com/ajax/side/hotSearch",
+			"channel": "微博热搜",
+			"url": "https://weibo.com/ajax/side/hotSearch",
 			"enable": 1,
+			"category": "资讯",
 			"tags": ["新浪", "微博", "微博热搜", "日报", "Daily", "新闻", "News"],
 			"request": {
 				"method": "get"
@@ -167,9 +319,10 @@
 			}
 		},
 		{
-			"title": "竹白百科 先锋作品",
-			"feed": "https://open.zhubai.wiki/a/zb/s/pl/hip",
+			"channel": "先锋作品",
+			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
 			"enable": 1,
+			"category": "漫游",
 			"tags": ["竹白", "竹白百科", "先锋作品", "日报", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "post"
@@ -184,9 +337,10 @@
 			}
 		},
 		{
-			"title": "竹白百科 上周热门",
-			"feed": "https://open.zhubai.wiki/a/zb/s/ht/pl/wk",
-			"enable": 1,
+			"channel": "上周热门",
+			"url": "https://open.zhubai.wiki/a/zb/s/ht/pl/wk",
+			"enable": 0,
+			"category": "资讯",
 			"tags": ["竹白", "竹白百科", "上周热门", "周报", "Weekly", "科技", "Tech"],
 			"request": {
 				"method": "post"
@@ -201,8 +355,8 @@
 			}
 		},
 		{
-			"title": "今日热议",
-			"feed": "https://www.v2ex.com/api/topics/hot.json",
+			"channel": "今日热议",
+			"url": "https://www.v2ex.com/api/topics/hot.json",
 			"enable": 0,
 			"tags": ["V2EX", "今日热议", "日报", "Daily", "科技", "Tech"],
 			"request": {
@@ -218,8 +372,8 @@
 			}
 		},
 		{
-			"title": "GitHub 新锐榜",
-			"feed": "https://api.github.com/search/repositories?q=created:>{date} stars:>100 forks:>10&sort=stars&order=desc&per_page=10",
+			"channel": "GitHub 新锐榜",
+			"url": "https://api.github.com/search/repositories?q=created:>{date} stars:>100 forks:>10&sort=stars&order=desc&per_page=10",
 			"enable": 0,
 			"tags": ["GitHub", "GitHub 新锐榜", "日报", "Daily", "科技", "Tech"],
 			"request": {
