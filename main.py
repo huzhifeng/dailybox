@@ -121,6 +121,9 @@ def main():
                 if '轻松一刻' == api['channel']:
                     if not 'source' in entry or not '轻松一刻' == entry['source']:
                         continue
+                if '喷嚏网' == api['channel']:
+                    if not '喷嚏图卦' in entry.title:
+                        continue
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
