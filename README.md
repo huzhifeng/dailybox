@@ -27,9 +27,12 @@
 - 轻松一刻 | [轻松一刻:男人最宝贵的东西，便是一生坚持一件事](https://3g.163.com/news/article/I0UICQT3000181BR.html)
 - 轻松一刻 | [轻松一刻：人与猴的爱恨情仇，仅仅只是因为一个巴掌…](https://3g.163.com/news/article/I0SC44KG000181BR.html)
 - 轻松一刻 | [轻松一刻：对面妹子谈笑风生，怎么让她注意到我](https://3g.163.com/news/article/I0KDRSP1000181BR.html)
+- 微博热搜 | [谢娜瘦二十斤综艺回归首秀](https://s.weibo.com/weibo?q=%23谢娜瘦二十斤综艺回归首秀%23)
 - 微博热搜 | [裸辞真的是很幼稚的行为吗](https://s.weibo.com/weibo?q=%23裸辞真的是很幼稚的行为吗%23)
-- 微博热搜 | [关晓彤是听到了什么](https://s.weibo.com/weibo?q=%23关晓彤是听到了什么%23)
 - 微博热搜 | [充分发挥市场在资源配置中的决定性作用](https://s.weibo.com/weibo?q=%23充分发挥市场在资源配置中的决定性作用%23)
+- 什么值得买|文章榜 | [生活品质好物 篇十七：一文选对破壁机，5款主流破壁机横评——跟着老王选厨电，买对不买贵](https://post.smzdm.com/p/axzme209/)
+- 什么值得买|文章榜 | [把全能轻薄笔记本的配置做到这么高， 你让那些旗舰本该怎么办？华硕笔记本无畏15i 2023](https://post.smzdm.com/p/awz69gmk/)
+- 什么值得买|文章榜 | [生活焕新纪 篇一百零九：春日焕新高品质空调，当选国货之光—格力，7款热门机型一站推荐](https://post.smzdm.com/p/a30mzzxr/)
 
 ## 开源
 - Opensource.com | [6 steps to reduce the carbon footprint of your website](https://opensource.com/article/23/3/reduce-carbon-footprint-website)

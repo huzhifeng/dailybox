@@ -355,6 +355,25 @@
 			}
 		},
 		{
+			"channel": "什么值得买|文章榜",
+			"url": "https://post.smzdm.com/rank/json_more/?unit=1",
+			"_comment": "https://post.smzdm.com/ | https://post.smzdm.com/hot_1/ | https://post.smzdm.com/hot_json_more/?unit=day",
+			"enable": 1,
+			"category": "资讯",
+			"tags": ["什么值得买", "文章榜", "日报", "Daily", "生活", "Life"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "data"
+			},
+			"entry": {
+				"date": "publish_time",
+				"title": "title",
+				"link": "{article_url}"
+			}
+		},
+		{
 			"channel": "今日热议",
 			"url": "https://www.v2ex.com/api/topics/hot.json",
 			"enable": 0,

@@ -134,6 +134,8 @@ def main():
                     break
                 if '微博热搜' == api['channel'] and i >= 3:
                     break
+                if '什么值得买|文章榜' == api['channel'] and i >= 3:
+                    break
                 m = { placeholder: entry[placeholder] }
                 item = {
                     'category': api['category'],
