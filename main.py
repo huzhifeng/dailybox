@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+import shutil
 from pathlib import Path
 import json
 import time
@@ -15,13 +16,12 @@ def load_feed_conf():
     return conf
 
 def publish_md(items):
-    categorys = ['博客', '播客', '日报', '周刊', '资讯', '开源', '漫游']
+    categorys = ['博客', '播客', '日报', '资讯', '开源', '漫游']
     md = { category: [] for category in categorys }
     today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fname = 'docs/DBB-{0}.md'.format(today_str)
-    lnk = 'latest'
+    fname = 'docs/daily-box-{0}.md'.format(today_str)
 
-    txt = '# Daily Box Bot {0}\n\n'.format(today_str)
+    txt = '# Daily Box {0}\n这是我每天的收件盒，正如《阿甘正传》里的台词一样“生活就像一盒巧克力，你永远不知道你会得到什么”，希望这个收件盒总能带给我探索新知的欲望和热爱生活的勇气。\n\n'.format(today_str)
 
     for item in items:
         if item['category'] in categorys:
@@ -44,9 +44,7 @@ def publish_md(items):
         fd = open(fname, 'w')
         fd.write(txt)
         fd.close()
-        if os.path.islink(lnk):
-            os.unlink(lnk)
-        os.symlink(fname, lnk)
+        shutil.copy(fname, 'README.md')
 
 def main():
     today = datetime.datetime.today()
@@ -73,7 +71,7 @@ def main():
                 published = entry.get('published_parsed', today)
                 if isinstance(published, time.struct_time):
                     published = datetime.datetime(*published[:6])
-                if published < yesterday:
+                if not published or published < yesterday:
                     continue
                 item = {
                     'category': feed['category'],
