@@ -176,6 +176,28 @@
 			"tags": ["KDE", "This week in KDE", "开源", "Opensource"]
 		},
 		{
+			"channel": "Awesome Open Source",
+			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g",
+			"enable": 0,
+			"category": "开源",
+			"tags": ["Linux", "Awesome Open Source", "开源", "Opensource"]
+		},
+		{
+			"channel": "The Linux Experiment",
+			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+			"enable": 0,
+			"category": "开源",
+			"tags": ["Linux", "Nick", "开源", "Opensource"]
+		},
+		{
+			"channel": "TED Talks Daily",
+			"url": "https://pa.tedcdn.com/feeds/talks.rss",
+			"_comment": "http://feeds.feedburner.com/tedtalks_video",
+			"enable": 1,
+			"category": "视频",
+			"tags": ["TED", "Talks", "Daily", "TED Talks Daily"]
+		},
+		{
 			"channel": "喷嚏网",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
 			"enable": 1,
@@ -184,8 +206,10 @@
 		},
 		{
 			"channel": "Hacker News",
-			"url": "https://news.ycombinator.com/rss",
-			"enable": 0,
+			"url": "https://hnrss.org/frontpage?points=300",
+			"_comment": "https://news.ycombinator.com/rss",
+			"enable": 1,
+			"category": "资讯",
 			"tags": ["YC", "Hacker News", "English"]
 		}
 	],
@@ -371,6 +395,24 @@
 				"date": "publish_time",
 				"title": "title",
 				"link": "{article_url}"
+			}
+		},
+		{
+			"channel": "哔哩哔哩热门",
+			"url": "https://api.bilibili.com/x/web-interface/popular?ps=3&pn=1",
+			"enable": 1,
+			"category": "视频",
+			"tags": ["哔哩哔哩", "Bilibili", "热门", "Daily", "视频", "Video"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "data.list"
+			},
+			"entry": {
+				"date": "pubdate",
+				"title": "title",
+				"link": "{short_link}"
 			}
 		},
 		{

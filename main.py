@@ -16,7 +16,7 @@ def load_feed_conf():
     return conf
 
 def publish_md(items):
-    categorys = ['博客', '播客', '日报', '资讯', '开源', '漫游']
+    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游']
     md = { category: [] for category in categorys }
     today_str = datetime.datetime.today().strftime('%Y%m%d')
     fname = 'docs/daily-box-{0}.md'.format(today_str)
