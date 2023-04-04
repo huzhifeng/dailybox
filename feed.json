@@ -162,6 +162,13 @@
 			"tags": ["FOSS", "开源", "Opensource"]
 		},
 		{
+			"channel": "Planet virt-tools",
+			"url": "https://planet.virt-tools.org/atom.xml",
+			"enable": 1,
+			"category": "开源",
+			"tags": ["Planet", "Virtualization", "QEMU", "KVM", "libvirt", "virt-manager", "开源", "Opensource"]
+		},
+		{
 			"channel": "This Week in GNOME",
 			"url": "https://thisweek.gnome.org/index.xml",
 			"enable": 0,
