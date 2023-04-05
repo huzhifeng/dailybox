@@ -1,2 +1,4 @@
+dateparser==1.1.8
 feedparser==6.0.10
+python_dateutil==2.8.2
 requests==2.27.1

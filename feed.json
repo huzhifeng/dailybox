@@ -222,7 +222,7 @@
 	],
 	"api": [
 		{
-			"channel": "轻松一刻",
+			"channel": "网易轻松一刻",
 			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-3.html",
 			"_comment": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
 			"enable": 1,
@@ -254,7 +254,7 @@
 				"list": "data"
 			},
 			"entry": {
-				"date": "released_time",
+				"date": "created_time",
 				"title": "title",
 				"link": "https://sspai.com/post/{id}"
 			}
@@ -326,7 +326,7 @@
 				"list": "data"
 			},
 			"entry": {
-				"date": "released_time",
+				"date": "release_time",
 				"title": "title",
 				"link": "https://www.latepost.com/news/dj_detail?id={id}"
 			}
@@ -417,7 +417,7 @@
 				"list": "data.list"
 			},
 			"entry": {
-				"date": "pubdate",
+				"date": "ctime",
 				"title": "title",
 				"link": "{short_link}"
 			}
@@ -436,7 +436,7 @@
 			"entry": {
 				"date": "created",
 				"title": "title",
-				"link": "https://www.v2ex.com/t/{id}"
+				"link": "{url}"
 			}
 		},
 		{

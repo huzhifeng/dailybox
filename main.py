@@ -6,6 +6,8 @@ from pathlib import Path
 import json
 import time
 import datetime
+import dateutil.parser
+import dateparser
 import feedparser
 import requests
 
@@ -68,7 +70,7 @@ def main():
                 continue
 
             for entry in d.entries:
-                published = entry.get('published_parsed', today)
+                published = entry.get('published_parsed' if entry.has_key('published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
                     published = datetime.datetime(*published[:6])
                 if not published or published < yesterday:
@@ -113,10 +115,28 @@ def main():
 
             title = api['entry']['title']
             link = api['entry']['link']
+            date = api['entry']['date']
             placeholder = link.split('{')[1].split('}')[0]
             i = 0
             for entry in entries:
-                if '轻松一刻' == api['channel']:
+                if '8点1氪' == api['channel']:
+                    if 'templateMaterial' in entry:
+                        entry = entry['templateMaterial']
+                if isinstance(entry[date], int):
+                    if '8点1氪' == api['channel']:
+                        published = datetime.datetime.fromtimestamp(entry[date] / 1000)
+                    else:
+                        published = datetime.datetime.fromtimestamp(entry[date])
+                else:
+                    if '晚点早知道' == api['channel']:
+                        published = dateparser.parse(entry[date]) # '今天'/'昨天'
+                    elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
+                        published = dateparser.parse(entry[date]) # '1.9小时前'/'1680614161357'
+                    else:
+                        published = dateutil.parser.parse(entry[date])
+                if not published or published < yesterday:
+                    continue
+                if '网易轻松一刻' == api['channel']:
                     if not 'source' in entry or not '轻松一刻' == entry['source']:
                         continue
                 if '喷嚏网' == api['channel']:
@@ -125,9 +145,6 @@ def main():
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
-                if '8点1氪' == api['channel']:
-                    if 'templateMaterial' in entry:
-                        entry = entry['templateMaterial']
                 if '极客早知道' == api['channel'] and i >= 3:
                     break
                 if '先锋作品' == api['channel'] and i >= 3:
