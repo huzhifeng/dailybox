@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+"""Dialy Box Bot."""
 import os
 import shutil
 from pathlib import Path
@@ -11,31 +10,35 @@ import dateparser
 import feedparser
 import requests
 
+
 def load_feed_conf():
-    with open('feed.json', 'r') as f:
+    """Load configuration."""
+    with open('feed.json', mode='r', encoding='utf-8') as f:
         conf = json.load(f)
 
     return conf
 
-def publish_md(items):
-    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游']
-    md = { category: [] for category in categorys }
-    today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fname = 'docs/daily-box-{0}.md'.format(today_str)
 
-    txt = '# Daily Box {0}\n这是我每天的收件盒，正如《阿甘正传》里的台词一样“生活就像一盒巧克力，你永远不知道你会得到什么”，希望这个收件盒总能带给我探索新知的欲望和热爱生活的勇气。\n\n'.format(today_str)
+def publish_md(items):
+    """Publish to markdown."""
+    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游']
+    categorys_obj = {category: [] for category in categorys}
+    today_str = datetime.datetime.today().strftime('%Y%m%d')
+    fname = f'docs/daily-box-{today_str}.md'
+
+    txt = f'# Daily Box {today_str}\n生活就像一盒巧克力，你永远不知道你会得到什么。\n\n'
 
     for item in items:
         if item['category'] in categorys:
-            md[item['category']].append(item)
+            categorys_obj[item['category']].append(item)
 
     for category in categorys:
-        txt += '## {0}\n'.format(category)
-        if not md[category]:
+        txt += f'## {category}\n'
+        if not categorys_obj[category]:
             txt += '- N/A\n'
         else:
-            for item in md[category]:
-                txt += '- {0} | [{1}]({2})\n'.format(item['channel'], item['title'], item['link'])
+            for item in categorys_obj[category]:
+                txt += f'- {item["channel"]} | [{item["title"]}]({item["link"]})\n'
         txt += '\n'
 
     txt += 'EOF'
@@ -43,12 +46,14 @@ def publish_md(items):
 
     Path("docs").mkdir(parents=True, exist_ok=True)
     if not os.path.isfile(fname):
-        fd = open(fname, 'w')
+        fd = open(fname, mode='w', encoding='utf-8')
         fd.write(txt)
         fd.close()
         shutil.copy(fname, 'README.md')
 
+
 def main():
+    """Main loop."""
     today = datetime.datetime.today()
     yesterday = today - datetime.timedelta(days=1)
     ts = datetime.datetime.now().timestamp()
@@ -70,7 +75,8 @@ def main():
                 continue
 
             for entry in d.entries:
-                published = entry.get('published_parsed' if entry.has_key('published_parsed') else 'updated_parsed', today)
+                published = entry.get('published_parsed' if entry.has_key(
+                    'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
                     published = datetime.datetime(*published[:6])
                 if not published or published < yesterday:
@@ -95,11 +101,11 @@ def main():
                     payload = api['request']['payload']
                     if '8点1氪' == api['channel']:
                         payload['timestamp'] = ts * 1000
-                    res = requests.post(url, json = payload)
+                    res = requests.post(url, json=payload, timeout=10)
                 else:
-                    res = requests.post(url)
+                    res = requests.post(url, timeout=10)
             else:
-                res = requests.get(url)
+                res = requests.get(url, timeout=10)
             resp = res.json()
             keys = api['response']['list'].split('.')
             l = len(keys)
@@ -107,10 +113,11 @@ def main():
                 entries = resp[keys[0]]
             elif l == 2 and keys[0] in resp and keys[1] in resp[keys[0]]:
                 entries = resp[keys[0]][keys[1]]
-            elif l == 3 and keys[0] in resp and keys[1] in resp[keys[0]] and keys[2] in resp[keys[0]][keys[1]]:
+            elif l == 3 and keys[0] in resp and keys[1] in resp[keys[0]] \
+                and keys[2] in resp[keys[0]][keys[1]]:
                 entries = resp[keys[0]][keys[1]][keys[2]]
             else:
-                print('{0} response error'.format(api['url']))
+                print(f'{api["url"]} response error')
                 continue
 
             title = api['entry']['title']
@@ -124,14 +131,17 @@ def main():
                         entry = entry['templateMaterial']
                 if isinstance(entry[date], int):
                     if '8点1氪' == api['channel']:
-                        published = datetime.datetime.fromtimestamp(entry[date] / 1000)
+                        published = datetime.datetime.fromtimestamp(
+                            entry[date] / 1000)
                     else:
-                        published = datetime.datetime.fromtimestamp(entry[date])
+                        published = datetime.datetime.fromtimestamp(
+                            entry[date])
                 else:
                     if '晚点早知道' == api['channel']:
-                        published = dateparser.parse(entry[date]) # '今天'/'昨天'
+                        published = dateparser.parse(entry[date])  # '今天'/'昨天'
                     elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
-                        published = dateparser.parse(entry[date]) # '1.9小时前'/'1680614161357'
+                        # '1.9小时前'/'1680614161357'
+                        published = dateparser.parse(entry[date])
                     else:
                         published = dateutil.parser.parse(entry[date])
                 if not published or published < yesterday:
@@ -153,18 +163,19 @@ def main():
                     break
                 if '什么值得买|文章榜' == api['channel'] and i >= 3:
                     break
-                m = { placeholder: entry[placeholder] }
+                link_map = {placeholder: entry[placeholder]}
                 item = {
                     'category': api['category'],
                     'channel': api['channel'],
                     'title': entry[title],
-                    'link': link.format_map(m)
+                    'link': link.format_map(link_map)
                 }
                 items.append(item)
                 i = i + 1
                 print(item)
 
         publish_md(items)
+
 
 if __name__ == '__main__':
     main()

@@ -419,7 +419,7 @@
 			"entry": {
 				"date": "ctime",
 				"title": "title",
-				"link": "{short_link}"
+				"link": "{short_link_v2}"
 			}
 		},
 		{
