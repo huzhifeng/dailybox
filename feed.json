@@ -262,7 +262,7 @@
 		{
 			"channel": "8点1氪",
 			"url": "https://gateway.36kr.com/api/mis/me/article",
-			"enable": 1,
+			"enable": 0,
 			"category": "日报",
 			"tags": ["36氦", "36Kr", "日报", "Daily", "科技", "Tech"],
 			"request": {
