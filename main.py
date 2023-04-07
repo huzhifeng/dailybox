@@ -3,6 +3,7 @@ import os
 import shutil
 from pathlib import Path
 import json
+import logging
 import time
 import datetime
 import dateutil.parser
@@ -26,7 +27,7 @@ def publish_md(items):
     today_str = datetime.datetime.today().strftime('%Y%m%d')
     fname = f'docs/daily-box-{today_str}.md'
 
-    txt = f'# Daily Box {today_str}\n生活就像一盒巧克力，你永远不知道你会得到什么。\n\n'
+    txt = f'# Daily Box {today_str}\n\n'
 
     for item in items:
         if item['category'] in categorys:
@@ -60,8 +61,14 @@ def main():
     conf = load_feed_conf()
     items = []
 
+    logger = logging.getLogger(__name__)
+    logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
+    console_handler = logging.StreamHandler()
+    logger.addHandler(console_handler)
+
     if 'feed' in conf:
         for feed in conf['feed']:
+            logger.debug(feed['url'])
             if 'enable' in feed and feed['enable'] == 0:
                 continue
             d = feedparser.parse(feed['url'], modified=yesterday)
@@ -74,7 +81,13 @@ def main():
                 print('no entries')
                 continue
 
+            i = 0
             for entry in d.entries:
+                if i >= 3:
+                    break
+                if '喷嚏网' == feed['channel']:
+                    if not '喷嚏图卦' in entry.title:
+                        continue
                 published = entry.get('published_parsed' if entry.has_key(
                     'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
@@ -88,10 +101,12 @@ def main():
                     'link': entry.link
                 }
                 items.append(item)
+                i = i + 1
                 print(item)
 
     if 'api' in conf:
         for api in conf['api']:
+            logger.debug(api['url'])
             if 'enable' in api and api['enable'] == 0:
                 continue
             method = api['request']['method']
@@ -101,11 +116,11 @@ def main():
                     payload = api['request']['payload']
                     if '8点1氪' == api['channel']:
                         payload['timestamp'] = ts * 1000
-                    res = requests.post(url, json=payload, timeout=10)
+                    res = requests.post(url, json=payload, timeout=30)
                 else:
-                    res = requests.post(url, timeout=10)
+                    res = requests.post(url, timeout=30)
             else:
-                res = requests.get(url, timeout=10)
+                res = requests.get(url, timeout=30)
             resp = res.json()
             keys = api['response']['list'].split('.')
             l = len(keys)
@@ -144,10 +159,12 @@ def main():
                     elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
                         # '1.9小时前'/'1680614161357'
                         published = dateparser.parse(entry[date])
+                    elif 'GitHub中文社区' == api['channel']:
+                        # ''2023-04-07T10:38:28Z''
+                        published = dateparser.parse(entry[date])
+                        published = published.replace(tzinfo=None)
                     else:
                         published = dateutil.parser.parse(entry[date])
-                if published.tzinfo:
-                    published = published.replace(tzinfo=None) # GitHub中文社区
                 if not published or published < yesterday:
                     continue
                 if '网易轻松一刻' == api['channel']:

@@ -1,9 +1,9 @@
-name: RSS Daily
+name: Daily Box Bot
 on: 
   schedule:
     - cron:  '0 22 * * *'
 jobs:
-  RSS-Dialy-Actions:
+  Dialy-Box-Bot-Actions:
     runs-on: ubuntu-latest
     permissions:
       contents: write
