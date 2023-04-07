@@ -126,6 +126,8 @@ def main():
             placeholder = link.split('{')[1].split('}')[0]
             i = 0
             for entry in entries:
+                if i >= 3:
+                    break
                 if '8点1氪' == api['channel']:
                     if 'templateMaterial' in entry:
                         entry = entry['templateMaterial']
@@ -144,6 +146,8 @@ def main():
                         published = dateparser.parse(entry[date])
                     else:
                         published = dateutil.parser.parse(entry[date])
+                if published.tzinfo:
+                    published = published.replace(tzinfo=None) # GitHub中文社区
                 if not published or published < yesterday:
                     continue
                 if '网易轻松一刻' == api['channel']:
@@ -155,14 +159,6 @@ def main():
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
-                if '极客早知道' == api['channel'] and i >= 3:
-                    break
-                if '先锋作品' == api['channel'] and i >= 3:
-                    break
-                if '微博热搜' == api['channel'] and i >= 3:
-                    break
-                if '什么值得买|文章榜' == api['channel'] and i >= 3:
-                    break
                 link_map = {placeholder: entry[placeholder]}
                 item = {
                     'category': api['category'],
