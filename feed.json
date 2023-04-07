@@ -444,8 +444,8 @@
 			"url": "https://www.githubs.cn/api/graphql",
 			"_comment": "https://www.githubs.cn/trending",
 			"enable": 1,
-			"category": "日报",
-			"tags": ["GitHub", "日报", "Daily", "科技", "Tech"],
+			"category": "开源",
+			"tags": ["GitHub", "开源", "Opensource"],
 			"request": {
 				"method": "post",
 				"payload": {
