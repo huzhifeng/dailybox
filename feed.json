@@ -207,6 +207,7 @@
 		{
 			"channel": "喷嚏网",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
+			"_comment": "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei",
 			"enable": 1,
 			"category": "资讯",
 			"tags": ["喷嚏图卦", "喷嚏网", "日报", "Daily"]
@@ -214,7 +215,7 @@
 		{
 			"channel": "Hacker News",
 			"url": "https://hnrss.org/frontpage?points=300",
-			"_comment": "https://news.ycombinator.com/rss",
+			"_comment": "https://news.ycombinator.com | https://news.ycombinator.com/rss",
 			"enable": 1,
 			"category": "资讯",
 			"tags": ["YC", "Hacker News", "English"]
@@ -224,7 +225,7 @@
 		{
 			"channel": "网易轻松一刻",
 			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-3.html",
-			"_comment": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
+			"_comment": "https://3g.163.com/touch/exclusive/sub/qsyk",
 			"enable": 1,
 			"category": "资讯",
 			"tags": ["网易", "轻松一刻", "日报", "Daily", "新闻", "News"],
@@ -243,7 +244,7 @@
 		{
 			"channel": "派早报",
 			"url": "https://sspai.com/api/v1/article/tag/page/get?limit=3&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
-			"_comment": "https://sspai.com/api/v1/article/tag/page/get?limit=12&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
+			"_comment": "https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5",
 			"enable": 1,
 			"category": "日报",
 			"tags": ["少数派", "派早报", "日报", "Daily", "科技", "Tech"],
@@ -262,6 +263,7 @@
 		{
 			"channel": "8点1氪",
 			"url": "https://gateway.36kr.com/api/mis/me/article",
+			"_comment": "https://36kr.com/user/5652071",
 			"enable": 0,
 			"category": "日报",
 			"tags": ["36氦", "36Kr", "日报", "Daily", "科技", "Tech"],
@@ -293,6 +295,7 @@
 		{
 			"channel": "极客早知道",
 			"url": "https://mainssl.geekpark.net/api/v1/columns/74",
+			"_comment": "https://www.geekpark.net/column/74",
 			"enable": 1,
 			"category": "日报",
 			"tags": ["极客公园", "GeekPark", "极客早知道", "Daily", "科技", "Tech"],
@@ -311,6 +314,7 @@
 		{
 			"channel": "晚点早知道",
 			"url": "https://www.latepost.com/news/get-news-data",
+			"_comment": "https://www.latepost.com/news/index?proma=3",
 			"enable": 1,
 			"category": "日报",
 			"tags": ["晚点", "LatePost", "晚点早知道", "日报", "Daily", "科技", "Tech"],
@@ -334,6 +338,7 @@
 		{
 			"channel": "微博热搜",
 			"url": "https://weibo.com/ajax/side/hotSearch",
+			"_comment": "https://weibo.com/newlogin?tabtype=search",
 			"enable": 1,
 			"category": "资讯",
 			"tags": ["新浪", "微博", "微博热搜", "日报", "Daily", "新闻", "News"],
