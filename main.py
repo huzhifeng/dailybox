@@ -120,6 +120,8 @@ def main():
                 else:
                     res = requests.post(url, timeout=30)
             else:
+                if 'GitHub Advanced Search' == api['channel']:
+                    url = url.format(date=yesterday.strftime('%Y-%m-%d'))
                 res = requests.get(url, timeout=30)
             resp = res.json()
             keys = api['response']['list'].split('.')
@@ -159,7 +161,7 @@ def main():
                     elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
                         # '1.9小时前'/'1680614161357'
                         published = dateparser.parse(entry[date])
-                    elif 'GitHub中文社区' == api['channel']:
+                    elif 'GitHub中文社区' == api['channel'] or 'GitHub Advanced Search' == api['channel']:
                         # ''2023-04-07T10:38:28Z''
                         published = dateparser.parse(entry[date])
                         published = published.replace(tzinfo=None)
