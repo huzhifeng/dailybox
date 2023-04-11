@@ -40,8 +40,8 @@ def publish_md(items):
         else:
             for item in categorys_obj[category]:
                 if '语录' == category:
-                    if item["from"]:
-                        txt += f'- "{item["content"]}" - {item["author"]} 《{item["from"]}》\n'
+                    if item["origin"]:
+                        txt += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
                     else:
                         txt += f'- "{item["content"]}" - {item["author"]}\n'
                 else:
@@ -215,16 +215,18 @@ def main():
             url = quote['url']
             res = requests.get(url, timeout=30)
             entry = res.json()
-            if quote['content'] not in entry or quote['author'] not in entry:
+            if not quote['content'] in entry or not entry[quote['content']]:
                 continue
-            if 'from' in quote and quote['from'] in entry and entry[quote['from']]:
-                quote_from = entry[quote['from']]
+            if not quote['author'] in entry or not entry[quote['author']]:
+                continue
+            if 'origin' in quote and quote['origin'] in entry and entry[quote['origin']]:
+                origin = entry[quote['origin']]
             else:
-                quote_from = ''
+                origin = ''
             item = {
                 'category': quote['category'],
                 'content': entry[quote['content']],
-                'from': quote_from,
+                'origin': origin,
                 'author': entry[quote['author']]
             }
             items.append(item)
