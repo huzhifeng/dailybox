@@ -431,7 +431,7 @@
 			"channel": "V2EX今日热议主题",
 			"url": "https://www.v2ex.com/api/topics/hot.json",
 			"_comment": "https://www.v2ex.com/help/api | https://www.v2ex.com/t/170154 | https://v2ex.com/t/726858",
-			"enable": 0,
+			"enable": 1,
 			"tags": ["V2EX", "今日热议", "日报", "Daily", "科技", "Tech"],
 			"request": {
 				"method": "get"
