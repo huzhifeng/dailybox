@@ -528,7 +528,7 @@
 			"_comment": "https://developer.hitokoto.cn/sentence/",
 			"category": "语录",
 			"content": "hitokoto",
-			"from": "from",
+			"origin": "from",
 			"author": "from_who"
 		},
 		{
@@ -537,7 +537,7 @@
 			"_comment": "https://gushi.ci/",
 			"category": "语录",
 			"content": "content",
-			"from": "origin",
+			"origin": "origin",
 			"author": "author"
 		},
 		{
@@ -547,7 +547,7 @@
 			"enable": 0,
 			"category": "语录",
 			"content": "content",
-			"from": "origin.title",
+			"origin": "origin.title",
 			"author": "origin.author"
 		},
 		{
