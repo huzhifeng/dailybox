@@ -88,6 +88,9 @@ def main():
                 if '喷嚏网' == feed['channel']:
                     if not '喷嚏图卦' in entry.title:
                         continue
+                elif 'Hacker News' == feed['channel']:
+                    if 'comments' in entry:
+                        entry.link = entry.comments
                 published = entry.get('published_parsed' if entry.has_key(
                     'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
@@ -116,6 +119,11 @@ def main():
                     payload = api['request']['payload']
                     if '8点1氪' == api['channel']:
                         payload['timestamp'] = ts * 1000
+                    elif 'Product Hunt' == api['channel']:
+                        payload['variables']['year'] = today.year
+                        payload['variables']['month'] = today.month
+                        payload['variables']['day'] = today.day
+                        print(payload)
                     res = requests.post(url, json=payload, timeout=30)
                 else:
                     res = requests.post(url, timeout=30)
@@ -148,6 +156,10 @@ def main():
                 if '8点1氪' == api['channel']:
                     if 'templateMaterial' in entry:
                         entry = entry['templateMaterial']
+                elif 'Product Hunt' == api['channel']:
+                    if 'node' in entry:
+                        entry = entry['node']
+
                 if isinstance(entry[date], int):
                     if '8点1氪' == api['channel']:
                         published = datetime.datetime.fromtimestamp(
@@ -157,12 +169,12 @@ def main():
                             entry[date])
                 else:
                     if '晚点早知道' == api['channel']:
-                        published = dateparser.parse(entry[date])  # '今天'/'昨天'
+                        published = dateparser.parse(entry[date])  # '今天' or '昨天'
                     elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
-                        # '1.9小时前'/'1680614161357'
+                        # '1.9小时前' or '1680614161357'
                         published = dateparser.parse(entry[date])
-                    elif 'GitHub中文社区' == api['channel'] or 'GitHub Advanced Search' == api['channel']:
-                        # ''2023-04-07T10:38:28Z''
+                    elif 'GitHub中文社区' == api['channel'] or 'GitHub Advanced Search' == api['channel'] or 'Product Hunt' == api['channel']:
+                        # '2023-04-07T10:38:28Z' or '2023-04-10T00:01:00-07:00'
                         published = dateparser.parse(entry[date])
                         published = published.replace(tzinfo=None)
                     else:
