@@ -130,13 +130,28 @@ def main():
                         payload['variables']['year'] = today.year
                         payload['variables']['month'] = today.month
                         payload['variables']['day'] = today.day
-                    res = requests.post(url, json=payload, timeout=30)
+                    try:
+                        res = requests.post(url, json=payload, timeout=30)
+                        res.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        logger.error(e)
+                        continue
                 else:
-                    res = requests.post(url, timeout=30)
+                    try:
+                        res = requests.post(url, timeout=30)
+                        res.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        logger.error(e)
+                        continue
             else:
                 if 'GitHub Advanced Search' == api['channel']:
                     url = url.format(date=lastweek.strftime('%Y-%m-%d'))
-                res = requests.get(url, timeout=30)
+                try:
+                    res = requests.get(url, timeout=30)
+                    res.raise_for_status()
+                except requests.exceptions.RequestException as e:
+                    logger.error(e)
+                    continue
             resp = res.json()
             keys = api['response']['list'].split('.')
             l = len(keys)
@@ -213,7 +228,12 @@ def main():
             if 'enable' in quote and quote['enable'] == 0:
                 continue
             url = quote['url']
-            res = requests.get(url, timeout=30)
+            try:
+                res = requests.get(url, timeout=30)
+                res.raise_for_status()
+            except requests.exceptions.RequestException as e:
+                logger.error(e)
+                continue
             entry = res.json()
             if not quote['content'] in entry or not entry[quote['content']]:
                 continue
