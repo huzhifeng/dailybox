@@ -315,7 +315,7 @@
 			"channel": "晚点早知道",
 			"url": "https://www.latepost.com/news/get-news-data",
 			"_comment": "https://www.latepost.com/news/index?proma=3",
-			"enable": 1,
+			"enable": 0,
 			"category": "日报",
 			"tags": ["晚点", "LatePost", "晚点早知道", "日报", "Daily", "科技", "Tech"],
 			"request": {
