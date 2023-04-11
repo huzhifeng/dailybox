@@ -49,7 +49,7 @@ def publish_md(items):
         txt += '\n'
 
     txt += 'EOF'
-    logger.debug(txt)
+    print(txt)
 
     Path("docs").mkdir(parents=True, exist_ok=True)
     if not os.path.isfile(fname):
