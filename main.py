@@ -22,7 +22,7 @@ def load_feed_conf():
 
 def publish_md(items):
     """Publish to markdown."""
-    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游']
+    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游', '语录']
     categorys_obj = {category: [] for category in categorys}
     today_str = datetime.datetime.today().strftime('%Y%m%d')
     fname = f'docs/daily-box-{today_str}.md'
@@ -39,7 +39,13 @@ def publish_md(items):
             txt += '- N/A\n'
         else:
             for item in categorys_obj[category]:
-                txt += f'- {item["channel"]} | [{item["title"]}]({item["link"]})\n'
+                if '语录' == category:
+                    if item["from"]:
+                        txt += f'- "{item["content"]}" - <<{item["from"]}>> {item["author"]}\n'
+                    else:
+                        txt += f'- "{item["content"]}" - {item["author"]}\n'
+                else:
+                    txt += f'- {item["channel"]} | [{item["title"]}]({item["link"]})\n'
         txt += '\n'
 
     txt += 'EOF'
@@ -57,6 +63,7 @@ def main():
     """Main loop."""
     today = datetime.datetime.today()
     yesterday = today - datetime.timedelta(days=1)
+    lastweek = today - datetime.timedelta(weeks=1)
     ts = datetime.datetime.now().timestamp()
     conf = load_feed_conf()
     items = []
@@ -129,7 +136,7 @@ def main():
                     res = requests.post(url, timeout=30)
             else:
                 if 'GitHub Advanced Search' == api['channel']:
-                    url = url.format(date=yesterday.strftime('%Y-%m-%d'))
+                    url = url.format(date=lastweek.strftime('%Y-%m-%d'))
                 res = requests.get(url, timeout=30)
             resp = res.json()
             keys = api['response']['list'].split('.')
@@ -200,6 +207,28 @@ def main():
                 items.append(item)
                 i = i + 1
                 print(item)
+
+    if 'quote' in conf:
+        for quote in conf['quote']:
+            logger.debug(quote['url'])
+            if 'enable' in quote and quote['enable'] == 0:
+                continue
+            url = quote['url']
+            res = requests.get(url, timeout=30)
+            entry = res.json()
+            if quote['content'] not in entry or quote['author'] not in entry:
+                continue
+            if 'from' in quote and quote['from'] in entry and entry[quote['from']]:
+                quote_from = entry[quote['from']]
+            else:
+                quote_from = ''
+            item = {
+                'category': quote['category'],
+                'content': entry[quote['content']],
+                'from': quote_from,
+                'author': entry[quote['author']]
+            }
+            items.append(item)
 
         publish_md(items)
 
