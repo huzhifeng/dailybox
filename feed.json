@@ -428,8 +428,9 @@
 			}
 		},
 		{
-			"channel": "今日热议",
+			"channel": "V2EX今日热议主题",
 			"url": "https://www.v2ex.com/api/topics/hot.json",
+			"_comment": "https://www.v2ex.com/help/api | https://www.v2ex.com/t/170154 | https://v2ex.com/t/726858",
 			"enable": 0,
 			"tags": ["V2EX", "今日热议", "日报", "Daily", "科技", "Tech"],
 			"request": {
@@ -442,6 +443,36 @@
 				"date": "created",
 				"title": "title",
 				"link": "{url}"
+			}
+		},
+		{
+			"channel": "Product Hunt",
+			"url": "https://www.producthunt.com/frontend/graphql",
+			"_comment": "https://www.producthunt.com/time-travel/2023/4/10 | https://www.producthunt.com/feed",
+			"enable": 0,
+			"category": "开源",
+			"tags": ["Product Hunt", "开源", "Opensource"],
+			"request": {
+				"method": "post",
+				"payload": {
+					"operationName": "ArchivePage",
+					"variables": {
+						"year": 2023,
+						"month": 4,
+						"day": 10,
+						"order": "DAILY_RANK",
+						"cursor": null
+					},
+					"query": "query ArchivePage($year:Int$month:Int$day:Int$cursor:String$order:PostsOrder){posts(first:20 year:$year month:$month day:$day order:$order after:$cursor){edges{node{id ...PostItemList __typename}__typename}pageInfo{endCursor hasNextPage __typename}__typename}}fragment PostItemList on Post{id ...PostItem __typename}fragment PostItem on Post{id commentsCount name shortenedUrl slug tagline updatedAt pricingType topics(first:1){edges{node{id name slug __typename}__typename}__typename}redirectToProduct{id slug __typename}...PostThumbnail ...PostVoteButton __typename}fragment PostThumbnail on Post{id name thumbnailImageUuid ...PostStatusIcons __typename}fragment PostStatusIcons on Post{id name productState __typename}fragment PostVoteButton on Post{id featuredAt updatedAt createdAt disabledWhenScheduled hasVoted ...on Votable{id votesCount __typename}__typename}"
+				}
+			},
+			"response": {
+				"list": "data.posts.edges"
+			},
+			"entry": {
+				"date": "createdAt",
+				"title": "name",
+				"link": "https://www.producthunt.com/posts/{slug}"
 			}
 		},
 		{
