@@ -41,7 +41,7 @@ def publish_md(items):
             for item in categorys_obj[category]:
                 if '语录' == category:
                     if item["from"]:
-                        txt += f'- "{item["content"]}" - <<{item["from"]}>> {item["author"]}\n'
+                        txt += f'- "{item["content"]}" - {item["author"]} 《{item["from"]}》\n'
                     else:
                         txt += f'- "{item["content"]}" - {item["author"]}\n'
                 else:
@@ -49,7 +49,7 @@ def publish_md(items):
         txt += '\n'
 
     txt += 'EOF'
-    print(txt)
+    logger.debug(txt)
 
     Path("docs").mkdir(parents=True, exist_ok=True)
     if not os.path.isfile(fname):
@@ -85,7 +85,7 @@ def main():
             if updated < yesterday:
                 continue
             if not d.has_key('entries'):
-                print('no entries')
+                logger.debug('no entries')
                 continue
 
             i = 0
@@ -112,7 +112,7 @@ def main():
                 }
                 items.append(item)
                 i = i + 1
-                print(item)
+                logger.debug(item)
 
     if 'api' in conf:
         for api in conf['api']:
@@ -130,7 +130,6 @@ def main():
                         payload['variables']['year'] = today.year
                         payload['variables']['month'] = today.month
                         payload['variables']['day'] = today.day
-                        print(payload)
                     res = requests.post(url, json=payload, timeout=30)
                 else:
                     res = requests.post(url, timeout=30)
@@ -149,7 +148,7 @@ def main():
                 and keys[2] in resp[keys[0]][keys[1]]:
                 entries = resp[keys[0]][keys[1]][keys[2]]
             else:
-                print(f'{api["url"]} response error')
+                logger.debug(f'{api["url"]} response error')
                 continue
 
             title = api['entry']['title']
@@ -206,7 +205,7 @@ def main():
                 }
                 items.append(item)
                 i = i + 1
-                print(item)
+                logger.debug(item)
 
     if 'quote' in conf:
         for quote in conf['quote']:
@@ -229,6 +228,7 @@ def main():
                 'author': entry[quote['author']]
             }
             items.append(item)
+            logger.debug(item)
 
         publish_md(items)
 

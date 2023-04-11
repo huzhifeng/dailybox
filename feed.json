@@ -532,6 +532,33 @@
 			"author": "from_who"
 		},
 		{
+			"channel": "今日诗词",
+			"url": "https://v1.jinrishici.com/all",
+			"_comment": "https://gushi.ci/",
+			"category": "语录",
+			"content": "content",
+			"from": "origin",
+			"author": "author"
+		},
+		{
+			"channel": "今日诗词",
+			"url": "https://v2.jinrishici.com/one.json",
+			"_comment": "https://www.jinrishici.com/",
+			"enable": 0,
+			"category": "语录",
+			"content": "content",
+			"from": "origin.title",
+			"author": "origin.author"
+		},
+		{
+			"channel": "一句",
+			"url": "http://yijuzhan.com/api/word.php?m=json",
+			"_comment": "http://yijuzhan.com/",
+			"category": "语录",
+			"content": "content",
+			"author": "source"
+		},
+		{
 			"channel": "Quotable",
 			"url": "https://api.quotable.io/random",
 			"_comment": "https://github.com/lukePeavey/quotable",
