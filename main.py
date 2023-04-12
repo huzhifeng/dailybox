@@ -78,7 +78,11 @@ def main():
             logger.debug(feed['url'])
             if 'enable' in feed and feed['enable'] == 0:
                 continue
-            d = feedparser.parse(feed['url'], modified=yesterday)
+            try:
+                d = feedparser.parse(feed['url'], modified=yesterday)
+            except Exception as e:
+                logger.error(e)
+                continue
             updated = d.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
