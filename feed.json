@@ -324,8 +324,9 @@
 			}
 		},
 		{
-			"channel": "先锋作品",
+			"channel": "竹白先锋作品",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
+			"_comment": "https://www.zhubai.wiki/",
 			"category": "漫游",
 			"tags": ["竹白", "竹白百科", "先锋作品", "日报", "Daily", "科技", "Tech"],
 			"request": {
@@ -341,8 +342,27 @@
 			}
 		},
 		{
-			"channel": "上周热门",
+			"channel": "竹白新锐作品",
+			"url": "https://open.zhubai.wiki/a/zb/s/pl/nep",
+			"_comment": "https://www.zhubai.wiki/",
+			"category": "漫游",
+			"tags": ["竹白", "竹白百科", "新锐作品", "日报", "Daily", "科技", "Tech"],
+			"request": {
+				"method": "post"
+			},
+			"response": {
+				"list": "data"
+			},
+			"entry": {
+				"date": "luSort",
+				"title": "pn",
+				"link": "{pu}"
+			}
+		},
+		{
+			"channel": "竹白上周热门",
 			"url": "https://open.zhubai.wiki/a/zb/s/ht/pl/wk",
+			"_comment": "http://analy.zhubai.wiki/",
 			"enable": 0,
 			"category": "资讯",
 			"tags": ["竹白", "竹白百科", "上周热门", "周报", "Weekly", "科技", "Tech"],

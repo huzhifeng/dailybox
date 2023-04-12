@@ -195,7 +195,7 @@ def main():
                 else:
                     if '晚点早知道' == api['channel']:
                         published = dateparser.parse(entry[date])  # '今天' or '昨天'
-                    elif '先锋作品' == api['channel'] or '上周热门' == api['channel']:
+                    elif '竹白先锋作品' == api['channel'] or '竹白新锐作品' == api['channel'] or '竹白上周热门' == api['channel']:
                         # '1.9小时前' or '1680614161357'
                         published = dateparser.parse(entry[date])
                     elif 'GitHub中文社区' == api['channel'] or 'GitHub Advanced Search' == api['channel'] or 'Product Hunt' == api['channel']:
