@@ -81,7 +81,7 @@ def main():
             try:
                 d = feedparser.parse(feed['url'], modified=yesterday)
             except Exception as e:
-                logger.error(e)
+                logger.warning(e)
                 continue
             updated = d.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
@@ -138,14 +138,14 @@ def main():
                         res = requests.post(url, json=payload, timeout=30)
                         res.raise_for_status()
                     except requests.exceptions.RequestException as e:
-                        logger.error(e)
+                        logger.warning(e)
                         continue
                 else:
                     try:
                         res = requests.post(url, timeout=30)
                         res.raise_for_status()
                     except requests.exceptions.RequestException as e:
-                        logger.error(e)
+                        logger.warning(e)
                         continue
             else:
                 if 'GitHub Advanced Search' == api['channel']:
@@ -154,7 +154,7 @@ def main():
                     res = requests.get(url, timeout=30)
                     res.raise_for_status()
                 except requests.exceptions.RequestException as e:
-                    logger.error(e)
+                    logger.warning(e)
                     continue
             resp = res.json()
             keys = api['response']['list'].split('.')
@@ -236,7 +236,7 @@ def main():
                 res = requests.get(url, timeout=30)
                 res.raise_for_status()
             except requests.exceptions.RequestException as e:
-                logger.error(e)
+                logger.warning(e)
                 continue
             entry = res.json()
             if not quote['content'] in entry or not entry[quote['content']]:
