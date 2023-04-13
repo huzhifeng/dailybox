@@ -99,6 +99,9 @@ def main():
                 if '喷嚏网' == feed['channel']:
                     if not '喷嚏图卦' in entry.title:
                         continue
+                elif '津津乐道' == feed['channel']:
+                    if not "科技乱炖" in entry.title and not "编码人声" in entry.title:
+                        continue
                 elif 'Hacker News' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
