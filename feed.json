@@ -85,10 +85,11 @@
 			"tags": ["声动活泼", "科技早知道", "播客", "Podcast"]
 		},
 		{
-			"channel": "科技乱炖",
-			"url": "https://feeds.daopub.com/ld.xml",
+			"channel": "津津乐道",
+			"url": "https://feeds.daopub.com/all.xml",
+			"_comment": "https://dao.fm/",
 			"category": "播客",
-			"tags": ["津津乐道", "科技乱炖", "播客", "Podcast"]
+			"tags": ["津津乐道", "科技乱炖", "编码人声", "播客", "Podcast"]
 		},
 		{
 			"channel": "看理想圆桌",
