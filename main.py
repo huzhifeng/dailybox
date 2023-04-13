@@ -45,7 +45,7 @@ def publish_md(items):
                     else:
                         txt += f'- "{item["content"]}" - {item["author"]}\n'
                 else:
-                    txt += f'- {item["channel"]} | [{item["title"]}]({item["link"]})\n'
+                    txt += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
         txt += '\n'
 
     txt += 'EOF'
@@ -105,6 +105,9 @@ def main():
                 elif 'Hacker News' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
+                elif '科技早知道' == feed['channel']:
+                    if 'itunes_episode' in entry:
+                        entry.link = f'https://guiguzaozhidao.fireside.fm/{entry.itunes_episode}'
                 published = entry.get('published_parsed' if entry.has_key(
                     'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
@@ -114,6 +117,7 @@ def main():
                 item = {
                     'category': feed['category'],
                     'channel': feed['channel'],
+                    'portal': feed['portal'],
                     'title': entry.title,
                     'link': entry.link
                 }
@@ -222,6 +226,7 @@ def main():
                 item = {
                     'category': api['category'],
                     'channel': api['channel'],
+                    'portal': api['portal'],
                     'title': entry[title],
                     'link': link.format_map(link_map)
                 }
