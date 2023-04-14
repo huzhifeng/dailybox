@@ -22,37 +22,43 @@ def load_feed_conf():
 
 def publish_md(items):
     """Publish to markdown."""
-    categorys_obj = {}
+    categories_obj = {}
     today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fd_daily_box = f'archives/daily-box-{today_str}.md'
+    fname_daily_box = f'archives/daily-box-{today_str}.md'
     md_daily_box = f'# Daily Box {today_str}\n\n'
 
     for item in items:
         category = item['category']
-        if not category in categorys_obj:
-            categorys_obj[category] = ''
+        if not category in categories_obj:
+            categories_obj[category] = ''
         if '语录' == category:
             if item["origin"]:
-                categorys_obj[category] += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
+                categories_obj[category] += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
             else:
-                categorys_obj[category] += f'- "{item["content"]}" - {item["author"]}\n'
+                categories_obj[category] += f'- "{item["content"]}" - {item["author"]}\n'
         else:
-            categorys_obj[category] += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
+            categories_obj[category] += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
 
 
-    for category in categorys_obj:
+    for category in categories_obj:
         md_daily_box += f'## {category}\n'
-        md_daily_box += f'{categorys_obj[category]}\n'
+        md_daily_box += f'{categories_obj[category]}\n'
+        md_category = f'## {today_str}\n{categories_obj[category]}\n\n'
+        Path("categories").mkdir(parents=True, exist_ok=True)
+        fname_category = f'categories/{category}.md'
+        fd_category = open(fname_category, mode='a', encoding='utf-8')
+        fd_category.write(md_category)
+        fd_category.close()
 
     md_daily_box += 'EOF'
     print(md_daily_box)
 
     Path("archives").mkdir(parents=True, exist_ok=True)
-    if not os.path.isfile(fd_daily_box):
-        fd = open(fd_daily_box, mode='w', encoding='utf-8')
-        fd.write(md_daily_box)
-        fd.close()
-        shutil.copy(fd_daily_box, 'README.md')
+    if not os.path.isfile(fname_daily_box):
+        fd_daily_box = open(fname_daily_box, mode='w', encoding='utf-8')
+        fd_daily_box.write(md_daily_box)
+        fd_daily_box.close()
+        shutil.copy(fname_daily_box, 'README.md')
 
 
 def main():
