@@ -25,7 +25,7 @@ def publish_md(items):
     categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游', '语录']
     categorys_obj = {category: [] for category in categorys}
     today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fname = f'docs/daily-box-{today_str}.md'
+    fname = f'archives/daily-box-{today_str}.md'
 
     txt = f'# Daily Box {today_str}\n\n'
 
@@ -51,7 +51,7 @@ def publish_md(items):
     txt += 'EOF'
     print(txt)
 
-    Path("docs").mkdir(parents=True, exist_ok=True)
+    Path("archives").mkdir(parents=True, exist_ok=True)
     if not os.path.isfile(fname):
         fd = open(fname, mode='w', encoding='utf-8')
         fd.write(txt)
