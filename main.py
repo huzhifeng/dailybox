@@ -22,41 +22,37 @@ def load_feed_conf():
 
 def publish_md(items):
     """Publish to markdown."""
-    categorys = ['博客', '播客', '视频', '日报', '资讯', '开源', '漫游', '语录']
-    categorys_obj = {category: [] for category in categorys}
+    categorys_obj = {}
     today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fname = f'archives/daily-box-{today_str}.md'
-
-    txt = f'# Daily Box {today_str}\n\n'
+    fd_daily_box = f'archives/daily-box-{today_str}.md'
+    md_daily_box = f'# Daily Box {today_str}\n\n'
 
     for item in items:
-        if item['category'] in categorys:
-            categorys_obj[item['category']].append(item)
-
-    for category in categorys:
-        txt += f'## {category}\n'
-        if not categorys_obj[category]:
-            txt += '- N/A\n'
+        category = item['category']
+        if not category in categorys_obj:
+            categorys_obj[category] = ''
+        if '语录' == category:
+            if item["origin"]:
+                categorys_obj[category] += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
+            else:
+                categorys_obj[category] += f'- "{item["content"]}" - {item["author"]}\n'
         else:
-            for item in categorys_obj[category]:
-                if '语录' == category:
-                    if item["origin"]:
-                        txt += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
-                    else:
-                        txt += f'- "{item["content"]}" - {item["author"]}\n'
-                else:
-                    txt += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
-        txt += '\n'
+            categorys_obj[category] += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
 
-    txt += 'EOF'
-    print(txt)
+
+    for category in categorys_obj:
+        md_daily_box += f'## {category}\n'
+        md_daily_box += f'{categorys_obj[category]}\n'
+
+    md_daily_box += 'EOF'
+    print(md_daily_box)
 
     Path("archives").mkdir(parents=True, exist_ok=True)
-    if not os.path.isfile(fname):
-        fd = open(fname, mode='w', encoding='utf-8')
-        fd.write(txt)
+    if not os.path.isfile(fd_daily_box):
+        fd = open(fd_daily_box, mode='w', encoding='utf-8')
+        fd.write(md_daily_box)
         fd.close()
-        shutil.copy(fname, 'README.md')
+        shutil.copy(fd_daily_box, 'README.md')
 
 
 def main():
@@ -75,10 +71,10 @@ def main():
 
     if 'feed' in conf:
         for feed in conf['feed']:
-            logger.debug(feed['url'])
             if 'enable' in feed and feed['enable'] == 0:
                 continue
             try:
+                logger.debug(feed['url'])
                 d = feedparser.parse(feed['url'], modified=yesterday)
             except Exception as e:
                 logger.warning(e)
@@ -127,11 +123,11 @@ def main():
 
     if 'api' in conf:
         for api in conf['api']:
-            logger.debug(api['url'])
             if 'enable' in api and api['enable'] == 0:
                 continue
             method = api['request']['method']
             url = api['url']
+            logger.debug(url)
             if method == 'post':
                 if 'payload' in api['request']:
                     payload = api['request']['payload']
@@ -236,11 +232,11 @@ def main():
 
     if 'quote' in conf:
         for quote in conf['quote']:
-            logger.debug(quote['url'])
             if 'enable' in quote and quote['enable'] == 0:
                 continue
             url = quote['url']
             try:
+                logger.debug(url)
                 res = requests.get(url, timeout=30)
                 res.raise_for_status()
             except requests.exceptions.RequestException as e:
