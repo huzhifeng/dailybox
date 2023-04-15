@@ -286,6 +286,7 @@ def main():
                 origin = ''
             item = {
                 'category': quote['category'],
+                'tags': quote['tags'] if 'tags' in quote else [quote['category']],
                 'content': entry[quote['content']],
                 'origin': origin,
                 'author': entry[quote['author']]
