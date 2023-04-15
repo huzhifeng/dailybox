@@ -57,9 +57,12 @@ def publish_md(items):
         md_category = f'## {today_str}\n{categories_obj[category]}\n'
         Path('categories').mkdir(parents=True, exist_ok=True)
         fname_category = f'categories/{category}.md'
-        fd_category = open(fname_category, mode='a', encoding='utf-8')
-        fd_category.write(md_category)
-        fd_category.close()
+        md_old = ''
+        if os.path.isfile(fname_category):
+            with open(fname_category, mode='r', encoding='utf-8') as fd_category_old:
+                md_old = fd_category_old.read()
+        with open(fname_category, mode='w', encoding='utf-8') as fd_category_new:
+            fd_category_new.write(f'{md_category}{md_old}')
 
     md_daily_box += 'EOF'
     print(md_daily_box)
@@ -75,9 +78,12 @@ def publish_md(items):
         md_tag = f'## {today_str}\n{tags_obj[tag]}\n'
         Path('tags').mkdir(parents=True, exist_ok=True)
         fname_tag = f'tags/{tag}.md'
-        fd_tag = open(fname_tag, mode='a', encoding='utf-8')
-        fd_tag.write(md_tag)
-        fd_tag.close()
+        md_old = ''
+        if os.path.isfile(fname_tag):
+            with open(fname_tag, mode='r', encoding='utf-8') as fd_tag_old:
+                md_old = fd_tag_old.read()
+        with open(fname_tag, mode='w', encoding='utf-8') as fd_tag_new:
+            fd_tag_new.write(f'{md_tag}{md_old}')
 
 
 def main():
