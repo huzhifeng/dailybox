@@ -153,6 +153,14 @@
 			"tags": ["硬核观察", "Linux", "日报"]
 		},
 		{
+			"channel": "泰晓资讯",
+			"portal": "https://tinylab.org/albums/#%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF-ref",
+			"url": "https://tinylab.org/rss.xml",
+			"_comment": "https://github.com/tinyclub/tinylab.org",
+			"category": "开源",
+			"tags": ["泰晓资讯", "Linux"]
+		},
+		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",

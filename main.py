@@ -107,6 +107,9 @@ def main():
                 elif '硬核观察' == feed['channel']:
                     if not '硬核观察' in entry.title:
                         continue
+                elif '泰晓资讯' == feed['channel']:
+                    if not '泰晓资讯' in entry.title:
+                        continue
                 elif 'Hacker News' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
