@@ -5,56 +5,56 @@
 			"portal": "https://www.ruanyifeng.com/blog/",
 			"url": "https://ruanyifeng.com/blog/atom.xml",
 			"category": "博客",
-			"tags": ["阮一峰", "科技爱好者周刊", "周刊", "Weekly", "科技", "Tech", "博客", "Blog"]
+			"tags": ["阮一峰", "博客", "周刊"]
 		},
 		{
 			"channel": "酷壳",
 			"portal": "https://coolshell.cn/",
 			"url": "https://coolshell.cn/feed",
 			"category": "博客",
-			"tags": ["陈皓", "酷壳", "博客", "Blog"]
+			"tags": ["陈皓", "酷壳", "博客"]
 		},
 		{
 			"channel": "ManateeLazyCat",
 			"portal": "https://manateelazycat.github.io/",
 			"url": "https://manateelazycat.github.io/feed.xml",
 			"category": "博客",
-			"tags": ["ManateeLazyCat", "王勇", "深度", "Deepin", "博客", "Blog"]
+			"tags": ["ManateeLazyCat", "王勇", "博客"]
 		},
 		{
 			"channel": "枫言枫语",
 			"portal": "https://justinyan.me/",
 			"url": "https://justinyan.me/feed",
 			"category": "博客",
-			"tags": ["枫言枫语", "枫影", "Justin Yan", "博客", "Blog"]
+			"tags": ["枫言枫语", "博客"]
 		},
 		{
 			"channel": "胡涂说",
 			"portal": "https://hutusi.com/",
 			"url": "https://hutusi.com/feed.xml",
 			"category": "博客",
-			"tags": ["胡涂说", "博客", "Blog"]
+			"tags": ["胡涂说", "博客"]
 		},
 		{
 			"channel": "二丫讲梵",
 			"portal": "https://wiki.eryajf.net/",
 			"url": "https://wiki.eryajf.net/rss.xml",
 			"category": "博客",
-			"tags": ["二丫讲梵", "博客", "Blog"]
+			"tags": ["二丫讲梵", "博客", "周刊"]
 		},
 		{
 			"channel": "Ein Verne",
 			"portal": "https://einverne.github.io/",
 			"url": "https://einverne.github.io/feed.xml",
 			"category": "博客",
-			"tags": ["Ein Verne", "博客", "Blog"]
+			"tags": ["博客"]
 		},
 		{
 			"channel": "拾月",
 			"portal": "https://www.skyue.com/",
 			"url": "https://www.skyue.com/feed/",
 			"category": "博客",
-			"tags": ["拾月", "拾月周刊", "博客", "Blog", "周刊", "Weekly"]
+			"tags": ["拾月", "博客", "周刊"]
 		},
 		{
 			"channel": "无人知晓",
@@ -62,7 +62,7 @@
 			"url": "https://feed.xyzfm.space/ypn9dydpbxpc",
 			"_comment": "https://youzhiyouxing.cn/materials",
 			"category": "播客",
-			"tags": ["有知有行", "孟岩", "无人知晓", "播客", "Podcast"]
+			"tags": ["有知有行", "孟岩", "无人知晓", "播客"]
 		},
 		{
 			"channel": "知行小酒馆",
@@ -70,7 +70,7 @@
 			"url": "https://feed.xyzfm.space/j8yp8gxkmgqr",
 			"_comment": "https://youzhiyouxing.cn/materials",
 			"category": "播客",
-			"tags": ["有知有行", "知行小酒馆", "播客", "Podcast"]
+			"tags": ["有知有行", "知行小酒馆", "播客"]
 		},
 		{
 			"channel": "声东击西",
@@ -78,7 +78,7 @@
 			"url": "https://feeds.fireside.fm/shengdongjixi/rss",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e2831ed418a84a046231c00",
 			"category": "播客",
-			"tags": ["声动活泼", "声东击西", "播客", "Podcast"]
+			"tags": ["声动活泼", "声东击西", "播客"]
 		},
 		{
 			"channel": "声动早咖啡",
@@ -86,7 +86,7 @@
 			"url": "https://feeds.fireside.fm/sheng-espresso/rss",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3",
 			"category": "播客",
-			"tags": ["声动活泼", "声动早咖啡", "播客", "Podcast"]
+			"tags": ["声动活泼", "声动早咖啡", "播客"]
 		},
 		{
 			"channel": "科技早知道",
@@ -94,7 +94,7 @@
 			"url": "https://feeds.fireside.fm/guiguzaozhidao/rss",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e74b52c418a84a046ecaceb",
 			"category": "播客",
-			"tags": ["声动活泼", "科技早知道", "硅谷早知道", "播客", "Podcast"]
+			"tags": ["声动活泼", "科技早知道", "播客"]
 		},
 		{
 			"channel": "津津乐道",
@@ -102,7 +102,7 @@
 			"url": "https://feeds.daopub.com/all.xml",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e285480418a84a046275bf2",
 			"category": "播客",
-			"tags": ["津津乐道", "科技乱炖", "编码人声", "播客", "Podcast"]
+			"tags": ["津津乐道", "科技乱炖", "编码人声", "播客"]
 		},
 		{
 			"channel": "看理想圆桌",
@@ -110,7 +110,7 @@
 			"url": "https://api.vistopia.com.cn/rss/program/13.xml",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e4ff4c7418a84a046977618",
 			"category": "播客",
-			"tags": ["看理想", "看理想圆桌", "播客", "Podcast"]
+			"tags": ["看理想", "看理想圆桌", "播客"]
 		},
 		{
 			"channel": "没理想编辑部",
@@ -118,7 +118,7 @@
 			"url": "https://api.vistopia.com.cn/rss/program/116.xml",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e2aaf28418a84a046542eb7",
 			"category": "播客",
-			"tags": ["看理想", "没理想编辑部", "播客", "Podcast"]
+			"tags": ["看理想", "没理想编辑部", "播客"]
 		},
 		{
 			"channel": "商业就是这样",
@@ -126,7 +126,7 @@
 			"url": "https://feeds.fireside.fm/thatisbiz/rss",
 			"_comment": "https://www.xiaoyuzhoufm.com/podcast/6022a180ef5fdaddc30bb101",
 			"category": "播客",
-			"tags": ["第一财经", "YiMagazine", "播客", "Podcast", "商业就是这样", "周刊", "Weekly"]
+			"tags": ["第一财经", "商业就是这样", "播客"]
 		},
 		{
 			"channel": "This Week in Linux",
@@ -134,7 +134,7 @@
 			"url": "https://tuxdigital.com/feed/thisweekinlinux-mp3/",
 			"enable": 0,
 			"category": "播客",
-			"tags": ["This Week in Linux", "播客", "Podcast"]
+			"tags": ["This Week in Linux", "Linux", "播客"]
 		},
 		{
 			"channel": "Destination Linux",
@@ -142,43 +142,43 @@
 			"url": "https://destinationlinux.org/feed/mp3",
 			"enable": 0,
 			"category": "播客",
-			"tags": ["Destination Linux", "播客", "Podcast"]
+			"tags": ["Destination Linux", "Linux", "播客"]
 		},
 		{
 			"channel": "硬核观察",
 			"portal": "https://linux.cn/news/express/",
 			"url": "https://linux.cn/rss.xml",
 			"_comment": "https://linux.cn/insight.xml",
-			"category": "开源",
-			"tags": ["Linux", "硬核观察", "开源", "日报"]
+			"category": "日报",
+			"tags": ["硬核观察", "Linux", "日报"]
 		},
 		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",
 			"category": "开源",
-			"tags": ["开源之道", "李建盛", "适兕", "开源", "Opensource"]
+			"tags": ["开源之道", "李建盛", "适兕", "开源"]
 		},
 		{
 			"channel": "Opensource.com",
 			"portal": "https://opensource.com/",
 			"url": "https://opensource.com/feed",
 			"category": "开源",
-			"tags": ["开源", "Opensource"]
+			"tags": ["开源"]
 		},
 		{
 			"channel": "It's FOSS",
 			"portal": "https://itsfoss.com/",
 			"url": "https://itsfoss.com/rss/",
 			"category": "开源",
-			"tags": ["FOSS", "开源", "Opensource"]
+			"tags": ["FOSS", "开源"]
 		},
 		{
 			"channel": "Planet virt-tools",
 			"portal": "https://planet.virt-tools.org/",
 			"url": "https://planet.virt-tools.org/atom.xml",
 			"category": "开源",
-			"tags": ["Planet", "Virtualization", "QEMU", "KVM", "libvirt", "virt-manager", "开源", "Opensource"]
+			"tags": ["Planet", "虚拟化", "开源"]
 		},
 		{
 			"channel": "This Week in GNOME",
@@ -186,7 +186,7 @@
 			"url": "https://thisweek.gnome.org/index.xml",
 			"enable": 0,
 			"category": "开源",
-			"tags": ["GNOME", "This Week in GNOME", "开源", "Opensource"]
+			"tags": ["Linux", "GNOME", "This Week in GNOME", "开源"]
 		},
 		{
 			"channel": "This week in KDE",
@@ -194,7 +194,7 @@
 			"url": "https://pointieststick.com/feed/",
 			"enable": 0,
 			"category": "开源",
-			"tags": ["KDE", "This week in KDE", "开源", "Opensource"]
+			"tags": ["Linux", "KDE", "This week in KDE", "开源"]
 		},
 		{
 			"channel": "Awesome Open Source",
@@ -202,7 +202,7 @@
 			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g",
 			"enable": 0,
 			"category": "开源",
-			"tags": ["Linux", "Awesome Open Source", "开源", "Opensource"]
+			"tags": ["Linux", "Awesome Open Source", "开源", "YouTube"]
 		},
 		{
 			"channel": "The Linux Experiment",
@@ -210,7 +210,7 @@
 			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
 			"enable": 0,
 			"category": "开源",
-			"tags": ["Linux", "Nick", "开源", "Opensource"]
+			"tags": ["Linux", "The Linux Experiment", "开源", "YouTube"]
 		},
 		{
 			"channel": "TED Talks Daily",
@@ -218,14 +218,14 @@
 			"url": "https://pa.tedcdn.com/feeds/talks.rss",
 			"_comment": "http://feeds.feedburner.com/tedtalks_video",
 			"category": "视频",
-			"tags": ["TED", "Talks", "Daily", "TED Talks Daily"]
+			"tags": ["TED"]
 		},
 		{
 			"channel": "喷嚏网",
 			"portal": "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
 			"category": "资讯",
-			"tags": ["喷嚏图卦", "喷嚏网", "日报", "Daily"]
+			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
 		{
 			"channel": "Hacker News",
@@ -233,7 +233,7 @@
 			"url": "https://hnrss.org/frontpage?points=300",
 			"_comment": "https://news.ycombinator.com/rss",
 			"category": "资讯",
-			"tags": ["YC", "Hacker News", "English"]
+			"tags": ["Hacker News"]
 		}
 	],
 	"api": [
@@ -242,7 +242,7 @@
 			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
 			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-3.html",
 			"category": "资讯",
-			"tags": ["网易", "轻松一刻", "日报", "Daily", "新闻", "News"],
+			"tags": ["轻松一刻", "日报"],
 			"request": {
 				"method": "get"
 			},
@@ -260,7 +260,7 @@
 			"portal": "https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5",
 			"url": "https://sspai.com/api/v1/article/tag/page/get?limit=3&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
 			"category": "日报",
-			"tags": ["少数派", "派早报", "日报", "Daily", "科技", "Tech"],
+			"tags": ["少数派", "派早报", "日报"],
 			"request": {
 				"method": "get"
 			},
@@ -278,7 +278,7 @@
 			"portal": "https://36kr.com/user/5652071",
 			"url": "https://gateway.36kr.com/api/mis/me/article",
 			"category": "日报",
-			"tags": ["36氦", "36Kr", "日报", "Daily", "科技", "Tech"],
+			"tags": ["36氦", "8点1氪", "日报"],
 			"request": {
 				"method": "post",
 				"payload": {
@@ -309,7 +309,7 @@
 			"portal": "https://www.geekpark.net/column/74",
 			"url": "https://mainssl.geekpark.net/api/v1/columns/74",
 			"category": "日报",
-			"tags": ["极客公园", "GeekPark", "极客早知道", "Daily", "科技", "Tech"],
+			"tags": ["极客公园", "极客早知道", "日报"],
 			"request": {
 				"method": "get"
 			},
@@ -327,7 +327,7 @@
 			"portal": "https://www.latepost.com/news/index?proma=3",
 			"url": "https://www.latepost.com/news/get-news-data",
 			"category": "日报",
-			"tags": ["晚点", "LatePost", "晚点早知道", "日报", "Daily", "科技", "Tech"],
+			"tags": ["晚点早知道", "日报"],
 			"request": {
 				"method": "post",
 				"payload": {
@@ -350,7 +350,7 @@
 			"portal": "https://weibo.com/newlogin?tabtype=search",
 			"url": "https://weibo.com/ajax/side/hotSearch",
 			"category": "资讯",
-			"tags": ["新浪", "微博", "微博热搜", "日报", "Daily", "新闻", "News"],
+			"tags": ["微博热搜", "资讯"],
 			"request": {
 				"method": "get"
 			},
@@ -368,7 +368,7 @@
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
 			"category": "漫游",
-			"tags": ["竹白", "竹白百科", "先锋作品", "日报", "Daily", "科技", "Tech"],
+			"tags": ["竹白", "竹白百科", "先锋作品"],
 			"request": {
 				"method": "post"
 			},
@@ -386,7 +386,7 @@
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/nep",
 			"category": "漫游",
-			"tags": ["竹白", "竹白百科", "新锐作品", "日报", "Daily", "科技", "Tech"],
+			"tags": ["竹白", "竹白百科", "新锐作品"],
 			"request": {
 				"method": "post"
 			},
@@ -405,7 +405,7 @@
 			"url": "https://open.zhubai.wiki/a/zb/s/ht/pl/wk",
 			"enable": 0,
 			"category": "资讯",
-			"tags": ["竹白", "竹白百科", "热门", "周报", "Weekly", "科技", "Tech"],
+			"tags": ["竹白", "竹白百科", "热门", "周刊"],
 			"request": {
 				"method": "post"
 			},
@@ -424,7 +424,7 @@
 			"url": "https://post.smzdm.com/rank/json_more/?unit=1",
 			"_comment": "https://post.smzdm.com/ | https://post.smzdm.com/hot_1/ | https://post.smzdm.com/hot_json_more/?unit=day",
 			"category": "资讯",
-			"tags": ["什么值得买", "热门", "文章榜", "日报", "Daily", "生活", "Life"],
+			"tags": ["什么值得买", "资讯"],
 			"request": {
 				"method": "get"
 			},
@@ -442,7 +442,7 @@
 			"portal": "https://www.bilibili.com/v/popular/all/",
 			"url": "https://api.bilibili.com/x/web-interface/popular?ps=3&pn=1",
 			"category": "视频",
-			"tags": ["哔哩哔哩", "Bilibili", "热门", "Daily", "视频", "Video"],
+			"tags": ["哔哩哔哩", "视频"],
 			"request": {
 				"method": "get"
 			},
@@ -461,7 +461,8 @@
 			"url": "https://www.v2ex.com/api/topics/hot.json",
 			"_comment": "https://www.v2ex.com/help/api | https://www.v2ex.com/t/170154 | https://v2ex.com/t/726858",
 			"enable": 0,
-			"tags": ["V2EX", "今日热议", "日报", "Daily", "科技", "Tech"],
+			"category": "资讯",
+			"tags": ["V2EX", "资讯"],
 			"request": {
 				"method": "get"
 			},
@@ -481,7 +482,7 @@
 			"_comment": "https://www.producthunt.com/time-travel/2023/4/10 | https://www.producthunt.com/feed",
 			"enable": 0,
 			"category": "开源",
-			"tags": ["Product Hunt", "开源", "Opensource"],
+			"tags": ["Product Hunt", "开源"],
 			"request": {
 				"method": "post",
 				"payload": {
@@ -510,7 +511,7 @@
 			"portal": "https://www.githubs.cn/trending",
 			"url": "https://www.githubs.cn/api/graphql",
 			"category": "开源",
-			"tags": ["GitHub", "开源", "Opensource"],
+			"tags": ["GitHub", "开源"],
 			"request": {
 				"method": "post",
 				"payload": {
@@ -535,7 +536,7 @@
 			"portal": "https://github.com/search/advanced",
 			"url": "https://api.github.com/search/repositories?q=created:>{date} stars:>100 forks:>10&sort=stars&order=desc&per_page=10",
 			"category": "开源",
-			"tags": ["GitHub", "开源", "Opensource"],
+			"tags": ["GitHub", "开源"],
 			"request": {
 				"method": "get"
 			},
