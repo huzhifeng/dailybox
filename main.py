@@ -23,6 +23,7 @@ def load_feed_conf():
 def publish_md(items):
     """Publish to markdown."""
     categories_obj = {}
+    tags_obj = {}
     today_str = datetime.datetime.today().strftime('%Y%m%d')
     fname_daily_box = f'archives/daily-box-{today_str}.md'
     md_daily_box = f'# Daily Box {today_str}\n\n'
@@ -31,14 +32,24 @@ def publish_md(items):
         category = item['category']
         if not category in categories_obj:
             categories_obj[category] = ''
+
+        tags = item['tags'] if 'tags' in item else [];
+        for tag in tags:
+            if not tag in tags_obj:
+                tags_obj[tag] = ''
+
+        md_entry = ''
         if '语录' == category:
             if item['origin']:
-                categories_obj[category] += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
+                md_entry = f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
             else:
-                categories_obj[category] += f'- "{item["content"]}" - {item["author"]}\n'
+                md_entry = f'- "{item["content"]}" - {item["author"]}\n'
         else:
-            categories_obj[category] += f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
+            md_entry = f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
 
+        categories_obj[category] += md_entry
+        for tag in tags:
+            tags_obj[tag] += md_entry
 
     for category in categories_obj:
         md_daily_box += f'## {category}\n'
@@ -59,6 +70,14 @@ def publish_md(items):
         fd_daily_box.write(md_daily_box)
         fd_daily_box.close()
         shutil.copy(fname_daily_box, 'README.md')
+
+    for tag in tags_obj:
+        md_tag = f'## {today_str}\n{tags_obj[tag]}\n'
+        Path('tags').mkdir(parents=True, exist_ok=True)
+        fname_tag = f'tags/{tag}.md'
+        fd_tag = open(fname_tag, mode='a', encoding='utf-8')
+        fd_tag.write(md_tag)
+        fd_tag.close()
 
 
 def main():
@@ -124,6 +143,7 @@ def main():
                     continue
                 item = {
                     'category': feed['category'],
+                    'tags': feed['tags'],
                     'channel': feed['channel'],
                     'portal': feed['portal'],
                     'title': entry.title,
@@ -233,6 +253,7 @@ def main():
                 link_map = {placeholder: entry[placeholder]}
                 item = {
                     'category': api['category'],
+                    'tags': api['tags'],
                     'channel': api['channel'],
                     'portal': api['portal'],
                     'title': entry[title],
