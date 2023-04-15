@@ -43,7 +43,7 @@ def publish_md(items):
     for category in categories_obj:
         md_daily_box += f'## {category}\n'
         md_daily_box += f'{categories_obj[category]}\n'
-        md_category = f'## {today_str}\n{categories_obj[category]}\n\n'
+        md_category = f'## {today_str}\n{categories_obj[category]}\n'
         Path('categories').mkdir(parents=True, exist_ok=True)
         fname_category = f'categories/{category}.md'
         fd_category = open(fname_category, mode='a', encoding='utf-8')
