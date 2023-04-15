@@ -145,6 +145,14 @@
 			"tags": ["Destination Linux", "播客", "Podcast"]
 		},
 		{
+			"channel": "硬核观察",
+			"portal": "https://linux.cn/news/express/",
+			"url": "https://linux.cn/rss.xml",
+			"_comment": "https://linux.cn/insight.xml",
+			"category": "开源",
+			"tags": ["Linux", "硬核观察", "开源", "日报"]
+		},
+		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",

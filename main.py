@@ -32,7 +32,7 @@ def publish_md(items):
         if not category in categories_obj:
             categories_obj[category] = ''
         if '语录' == category:
-            if item["origin"]:
+            if item['origin']:
                 categories_obj[category] += f'- "{item["content"]}" - {item["author"]} 《{item["origin"]}》\n'
             else:
                 categories_obj[category] += f'- "{item["content"]}" - {item["author"]}\n'
@@ -44,7 +44,7 @@ def publish_md(items):
         md_daily_box += f'## {category}\n'
         md_daily_box += f'{categories_obj[category]}\n'
         md_category = f'## {today_str}\n{categories_obj[category]}\n\n'
-        Path("categories").mkdir(parents=True, exist_ok=True)
+        Path('categories').mkdir(parents=True, exist_ok=True)
         fname_category = f'categories/{category}.md'
         fd_category = open(fname_category, mode='a', encoding='utf-8')
         fd_category.write(md_category)
@@ -53,7 +53,7 @@ def publish_md(items):
     md_daily_box += 'EOF'
     print(md_daily_box)
 
-    Path("archives").mkdir(parents=True, exist_ok=True)
+    Path('archives').mkdir(parents=True, exist_ok=True)
     if not os.path.isfile(fname_daily_box):
         fd_daily_box = open(fname_daily_box, mode='w', encoding='utf-8')
         fd_daily_box.write(md_daily_box)
@@ -71,7 +71,7 @@ def main():
     items = []
 
     logger = logging.getLogger(__name__)
-    logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
+    logger.setLevel(os.environ.get('LOGLEVEL', 'INFO'))
     console_handler = logging.StreamHandler()
     logger.addHandler(console_handler)
 
@@ -102,7 +102,10 @@ def main():
                     if not '喷嚏图卦' in entry.title:
                         continue
                 elif '津津乐道' == feed['channel']:
-                    if not "科技乱炖" in entry.title and not "编码人声" in entry.title:
+                    if not '科技乱炖' in entry.title and not '编码人声' in entry.title:
+                        continue
+                elif '硬核观察' == feed['channel']:
+                    if not '硬核观察' in entry.title:
                         continue
                 elif 'Hacker News' == feed['channel']:
                     if 'comments' in entry:
@@ -176,7 +179,7 @@ def main():
                 and keys[2] in resp[keys[0]][keys[1]]:
                 entries = resp[keys[0]][keys[1]][keys[2]]
             else:
-                logger.debug(f'{api["url"]} response error')
+                logger.debug(f'{url} response error')
                 continue
 
             title = api['entry']['title']
