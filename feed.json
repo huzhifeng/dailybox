@@ -57,6 +57,14 @@
 			"tags": ["拾月", "博客", "周刊"]
 		},
 		{
+			"channel": "后互联网时代的乱弹",
+			"portal": "https://pie.wetime.com/",
+			"url": "https://proxy.wavpub.com/pie.xml",
+			"_comment": "https://hosting.wavpub.cn/pie/",
+			"category": "播客",
+			"tags": ["后互联网时代的乱弹", "播客"]
+		},
+		{
 			"channel": "无人知晓",
 			"portal": "https://www.xiaoyuzhoufm.com/podcast/611719d3cb0b82e1df0ad29e",
 			"url": "https://feed.xyzfm.space/ypn9dydpbxpc",
