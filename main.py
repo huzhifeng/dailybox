@@ -300,7 +300,7 @@ def main():
             items.append(item)
             logger.debug(item)
 
-        publish_md(items)
+    publish_md(items)
 
 
 if __name__ == '__main__':
