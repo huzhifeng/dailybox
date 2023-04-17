@@ -1,3 +1,8 @@
+## 20230417
+- [Hacker News](https://news.ycombinator.com/front) | [MiniGPT-4](https://news.ycombinator.com/item?id=35598281)
+- [Hacker News](https://news.ycombinator.com/front) | [I liked this simple calculus exercise](https://news.ycombinator.com/item?id=35595808)
+- [Hacker News](https://news.ycombinator.com/front) | [AT&T Wireless traffic shaping apparently making some websites unusable](https://news.ycombinator.com/item?id=35592607)
+
 ## 20230416
 - [Hacker News](https://news.ycombinator.com/front) | [Dishwasher Salmon](https://news.ycombinator.com/item?id=35586683)
 
