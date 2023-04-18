@@ -1,3 +1,8 @@
+## 20230418
+- [GitHub中文社区](https://www.githubs.cn/trending) | [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PineappleExpress808/auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator)
+
 ## 20230417
 - [GitHub中文社区](https://www.githubs.cn/trending) | [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)

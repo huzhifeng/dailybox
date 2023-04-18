@@ -1,3 +1,6 @@
+## 20230418
+- [It's FOSS](https://itsfoss.com/) | [Linux Terminal Basics #10: Getting Help in Linux Terminal](https://itsfoss.com/linux-command-help/)
+
 ## 20230417
 - [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #4: Arrays and Tuples in Rust](https://itsfoss.com/rust-arrays-tuples/)
 
