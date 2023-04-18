@@ -290,6 +290,24 @@
 			}
 		},
 		{
+			"channel": "爱范儿早报",
+			"portal": "https://www.ifanr.com/category/ifanrnews",
+			"url": "https://sso.ifanr.com/api/v5/wp/article/?post_category=%E6%97%A9%E6%8A%A5&position=ifr_fourth_cards_layout&limit=3&offset=0",
+			"category": "日报",
+			"tags": ["爱范儿", "日报"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "objects"
+			},
+			"entry": {
+				"date": "created_at",
+				"title": "post_title",
+				"link": "{post_url}"
+			}
+		},
+		{
 			"channel": "8点1氪",
 			"portal": "https://36kr.com/user/5652071",
 			"url": "https://gateway.36kr.com/api/mis/me/article",
