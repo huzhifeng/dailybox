@@ -1,3 +1,7 @@
+## 20230418
+- [Hacker News](https://news.ycombinator.com/front) | [Making friends as an adult is hard (2021)](https://news.ycombinator.com/item?id=35608965)
+- [Hacker News](https://news.ycombinator.com/front) | [Why don’t more people live close to friends?](https://news.ycombinator.com/item?id=35608662)
+
 ## 20230417
 - [Hacker News](https://news.ycombinator.com/front) | [MiniGPT-4](https://news.ycombinator.com/item?id=35598281)
 - [Hacker News](https://news.ycombinator.com/front) | [I liked this simple calculus exercise](https://news.ycombinator.com/item?id=35595808)
