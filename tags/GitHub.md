@@ -1,3 +1,8 @@
+## 20230419
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt)
+
 ## 20230418
 - [GitHub中文社区](https://www.githubs.cn/trending) | [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
