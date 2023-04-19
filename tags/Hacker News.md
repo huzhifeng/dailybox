@@ -1,3 +1,7 @@
+## 20230419
+- [Hacker News](https://news.ycombinator.com/front) | [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://news.ycombinator.com/item?id=35620924)
+- [Hacker News](https://news.ycombinator.com/front) | [Clock](https://news.ycombinator.com/item?id=35620291)
+
 ## 20230418
 - [Hacker News](https://news.ycombinator.com/front) | [Making friends as an adult is hard (2021)](https://news.ycombinator.com/item?id=35608965)
 - [Hacker News](https://news.ycombinator.com/front) | [Why don’t more people live close to friends?](https://news.ycombinator.com/item?id=35608662)

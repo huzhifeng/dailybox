@@ -1,3 +1,6 @@
+## 20230419
+- [It's FOSS](https://itsfoss.com/) | [Getting Started With NixOS](https://itsfoss.com/nixos-tutorials/)
+
 ## 20230418
 - [It's FOSS](https://itsfoss.com/) | [Linux Terminal Basics #10: Getting Help in Linux Terminal](https://itsfoss.com/linux-command-help/)
 
