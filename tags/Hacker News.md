@@ -1,3 +1,8 @@
+## 20230420
+- [Hacker News](https://news.ycombinator.com/front) | [Mullvad VPN was subject to a search warrant](https://news.ycombinator.com/item?id=35638917)
+- [Hacker News](https://news.ycombinator.com/front) | [Imgur Updates TOS, Banning NSFW Content](https://news.ycombinator.com/item?id=35635884)
+- [Hacker News](https://news.ycombinator.com/front) | [Only one pair of distinct positive integers satisfy the equation m^n = n^m](https://news.ycombinator.com/item?id=35635491)
+
 ## 20230419
 - [Hacker News](https://news.ycombinator.com/front) | [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://news.ycombinator.com/item?id=35620924)
 - [Hacker News](https://news.ycombinator.com/front) | [Clock](https://news.ycombinator.com/item?id=35620291)

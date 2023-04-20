@@ -1,3 +1,8 @@
+## 20230420
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dzoba/gptrpg](https://github.com/dzoba/gptrpg)
+
 ## 20230419
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)

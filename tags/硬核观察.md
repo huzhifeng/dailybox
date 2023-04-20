@@ -1,3 +1,6 @@
+## 20230420
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 #977 Docker 公司称过去三年收入增长了 30 倍](https://linux.cn/article-15740-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230419
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 #976 因没打补丁导致澳军用直升机坠毁](https://linux.cn/article-15737-1.html?utm_source=rss&utm_medium=rss)
 
