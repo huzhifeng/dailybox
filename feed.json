@@ -258,7 +258,7 @@
 			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
 			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-3.html",
 			"category": "资讯",
-			"tags": ["轻松一刻", "日报"],
+			"tags": ["网易轻松一刻", "日报"],
 			"request": {
 				"method": "get"
 			},
@@ -268,7 +268,25 @@
 			"entry": {
 				"date": "ptime",
 				"title": "title",
-				"link": "https://3g.163.com/news/article/{postid}.html"
+				"link": "{url}"
+			}
+		},
+		{
+			"channel": "网易智见访谈",
+			"portal": "https://m.163.com/news/sub/T1561627188873.html",
+			"url": "https://c.m.163.com/nc/article/headline/T1561627188873/0-3.html",
+			"category": "资讯",
+			"tags": ["网易智见访谈"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "T1561627188873"
+			},
+			"entry": {
+				"date": "ptime",
+				"title": "title",
+				"link": "{url}"
 			}
 		},
 		{
