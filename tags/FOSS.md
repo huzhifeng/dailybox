@@ -1,3 +1,6 @@
+## 20230421
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.16: Fedora 38 & Ubuntu 23.04 Released, ChatGPT in Terminal and More](https://itsfoss.com/newsletter/foss-weekly-23-16/)
+
 ## 20230419
 - [It's FOSS](https://itsfoss.com/) | [Getting Started With NixOS](https://itsfoss.com/nixos-tutorials/)
 

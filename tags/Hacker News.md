@@ -1,3 +1,8 @@
+## 20230421
+- [Hacker News](https://news.ycombinator.com/front) | [Inkscape is hiring: Accelerating the GTK4 migration](https://news.ycombinator.com/item?id=35650663)
+- [Hacker News](https://news.ycombinator.com/front) | [World’s largest battery maker announces major breakthrough in energy density](https://news.ycombinator.com/item?id=35649935)
+- [Hacker News](https://news.ycombinator.com/front) | [Spinning Diagrams with CSS](https://news.ycombinator.com/item?id=35646199)
+
 ## 20230420
 - [Hacker News](https://news.ycombinator.com/front) | [Mullvad VPN was subject to a search warrant](https://news.ycombinator.com/item?id=35638917)
 - [Hacker News](https://news.ycombinator.com/front) | [Imgur Updates TOS, Banning NSFW Content](https://news.ycombinator.com/item?id=35635884)
