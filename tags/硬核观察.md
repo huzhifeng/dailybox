@@ -1,3 +1,6 @@
+## 20230421
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #978 ICANN 提议允许域名被任何政府扣押](https://linux.cn/article-15742-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230420
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 #977 Docker 公司称过去三年收入增长了 30 倍](https://linux.cn/article-15740-1.html?utm_source=rss&utm_medium=rss)
 

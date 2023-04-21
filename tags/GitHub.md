@@ -1,3 +1,8 @@
+## 20230421
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [a16z/magi](https://github.com/a16z/magi)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT)
+
 ## 20230420
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
