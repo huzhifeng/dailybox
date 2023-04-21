@@ -113,6 +113,14 @@
 			"tags": ["声动活泼", "硅谷101", "播客"]
 		},
 		{
+			"channel": "商业WHY酱",
+			"portal": "https://msbussinesswhy.fireside.fm/",
+			"url": "https://feeds.fireside.fm/msbussinesswhy/rss",
+			"_comment": "https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a",
+			"category": "播客",
+			"tags": ["声动活泼", "商业WHY酱", "播客"]
+		},
+		{
 			"channel": "津津乐道",
 			"portal": "https://dao.fm/",
 			"url": "https://feeds.daopub.com/all.xml",
