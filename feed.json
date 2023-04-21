@@ -105,6 +105,14 @@
 			"tags": ["声动活泼", "科技早知道", "播客"]
 		},
 		{
+			"channel": "硅谷101",
+			"portal": "https://sv101.fireside.fm/",
+			"url": "https://feeds.fireside.fm/sv101/rss",
+			"_comment": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+			"category": "播客",
+			"tags": ["声动活泼", "硅谷101", "播客"]
+		},
+		{
 			"channel": "津津乐道",
 			"portal": "https://dao.fm/",
 			"url": "https://feeds.daopub.com/all.xml",
