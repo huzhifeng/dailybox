@@ -155,6 +155,8 @@ def main():
                     'title': entry.title,
                     'link': entry.link
                 }
+                if '周刊' in item['title']:
+                    item['tags'].append('周刊')
                 items.append(item)
                 i = i + 1
                 logger.debug(item)

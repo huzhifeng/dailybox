@@ -5,7 +5,7 @@
 			"portal": "https://www.ruanyifeng.com/blog/",
 			"url": "https://ruanyifeng.com/blog/atom.xml",
 			"category": "博客",
-			"tags": ["阮一峰", "博客", "周刊"]
+			"tags": ["阮一峰", "博客"]
 		},
 		{
 			"channel": "酷壳",
@@ -40,7 +40,7 @@
 			"portal": "https://wiki.eryajf.net/",
 			"url": "https://wiki.eryajf.net/rss.xml",
 			"category": "博客",
-			"tags": ["二丫讲梵", "博客", "周刊"]
+			"tags": ["二丫讲梵", "博客"]
 		},
 		{
 			"channel": "Ein Verne",
@@ -54,7 +54,7 @@
 			"portal": "https://www.skyue.com/",
 			"url": "https://www.skyue.com/feed/",
 			"category": "博客",
-			"tags": ["拾月", "博客", "周刊"]
+			"tags": ["拾月", "博客"]
 		},
 		{
 			"channel": "后互联网时代的乱弹",
@@ -504,7 +504,7 @@
 			"url": "https://open.zhubai.wiki/a/zb/s/ht/pl/wk",
 			"enable": 0,
 			"category": "资讯",
-			"tags": ["竹白", "竹白百科", "热门", "周刊"],
+			"tags": ["竹白", "竹白百科"],
 			"request": {
 				"method": "post"
 			},
