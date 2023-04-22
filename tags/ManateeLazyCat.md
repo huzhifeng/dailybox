@@ -1,3 +1,6 @@
+## 20230422
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《生意的艺术》](https://manateelazycat.github.io/reading/2023/04/22/reading-the-art-of-business.html)
+
 ## 20230417
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Emacs GC 的一些研究](https://manateelazycat.github.io/emacs/2023/04/17/emacs-gc-research.html)
 

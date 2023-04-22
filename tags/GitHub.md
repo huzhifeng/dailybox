@@ -1,3 +1,8 @@
+## 20230422
+- [GitHub中文社区](https://www.githubs.cn/trending) | [suno-ai/bark](https://github.com/suno-ai/bark)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dzoba/gptrpg](https://github.com/dzoba/gptrpg)
+
 ## 20230421
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [a16z/magi](https://github.com/a16z/magi)

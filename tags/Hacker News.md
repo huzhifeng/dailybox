@@ -1,3 +1,7 @@
+## 20230422
+- [Hacker News](https://news.ycombinator.com/front) | [Sundar Pichai received $226M compensation, boosted by a triennial stock grant](https://news.ycombinator.com/item?id=35664972)
+- [Hacker News](https://news.ycombinator.com/front) | [Windows on Btrfs](https://news.ycombinator.com/item?id=35660186)
+
 ## 20230421
 - [Hacker News](https://news.ycombinator.com/front) | [Inkscape is hiring: Accelerating the GTK4 migration](https://news.ycombinator.com/item?id=35650663)
 - [Hacker News](https://news.ycombinator.com/front) | [World’s largest battery maker announces major breakthrough in energy density](https://news.ycombinator.com/item?id=35649935)
