@@ -1,3 +1,6 @@
+## 20230422
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #979 肯尼亚的论文枪手面临失业](https://linux.cn/article-15745-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230421
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #978 ICANN 提议允许域名被任何政府扣押](https://linux.cn/article-15742-1.html?utm_source=rss&utm_medium=rss)
 
