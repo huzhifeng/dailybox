@@ -57,6 +57,20 @@
 			"tags": ["拾月", "博客"]
 		},
 		{
+			"channel": "BMPI",
+			"portal": "https://www.bmpi.dev/",
+			"url": "https://www.bmpi.dev/index.xml",
+			"category": "博客",
+			"tags": ["马大伟", "BMPI", "博客"]
+		},
+		{
+			"channel": "Limboy",
+			"portal": "https://limboy.me",
+			"url": "https://limboy.me/index.xml",
+			"category": "博客",
+			"tags": ["Limboy", "博客"]
+		},
+		{
 			"channel": "后互联网时代的乱弹",
 			"portal": "https://pie.wetime.com/",
 			"url": "https://proxy.wavpub.com/pie.xml",
@@ -167,6 +181,14 @@
 			"enable": 0,
 			"category": "播客",
 			"tags": ["Destination Linux", "Linux", "播客"]
+		},
+		{
+			"channel": "FLOSS Weekly",
+			"portal": "https://twit.tv/shows/floss-weekly",
+			"url": "https://feeds.twit.tv/floss.xml",
+			"enable": 0,
+			"category": "播客",
+			"tags": ["TWiT", "Linux", "播客"]
 		},
 		{
 			"channel": "硬核观察",
@@ -309,6 +331,7 @@
 			"channel": "派早报",
 			"portal": "https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5",
 			"url": "https://sspai.com/api/v1/article/tag/page/get?limit=3&offset=0&tag=%E6%B4%BE%E6%97%A9%E6%8A%A5",
+			"_comment": "https://sspai.com/feed",
 			"category": "日报",
 			"tags": ["少数派", "派早报", "日报"],
 			"request": {
