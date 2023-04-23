@@ -1,3 +1,6 @@
+## 20230423
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #980 Rust 为之前拟议的商标政策道歉](https://linux.cn/article-15748-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230422
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #979 肯尼亚的论文枪手面临失业](https://linux.cn/article-15745-1.html?utm_source=rss&utm_medium=rss)
 
