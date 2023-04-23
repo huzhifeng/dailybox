@@ -155,7 +155,7 @@ def main():
                     'title': entry.title,
                     'link': entry.link
                 }
-                if '周刊' in item['title']:
+                if '周刊' in item['title'] or 'Weekly'.casefold() in item['title'].casefold():
                     item['tags'].append('周刊')
                 items.append(item)
                 i = i + 1
