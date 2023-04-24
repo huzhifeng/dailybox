@@ -290,6 +290,22 @@
 			"tags": ["Lobsters"]
 		},
 		{
+			"channel": "Slashdot",
+			"portal": "https://linux.slashdot.org/",
+			"url": "https://rss.slashdot.org/Slashdot/slashdotLinux",
+			"_comment": "https://slashdot.org/faq/feeds.shtml",
+			"category": "资讯",
+			"tags": ["Slashdot", "Linux"]
+		},
+		{
+			"channel": "Slashdot",
+			"portal": "https://developers.slashdot.org/",
+			"url": "https://rss.slashdot.org/Slashdot/slashdotDevelopers",
+			"_comment": "https://slashdot.org/faq/feeds.shtml",
+			"category": "资讯",
+			"tags": ["Slashdot"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
