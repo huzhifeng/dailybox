@@ -138,6 +138,9 @@ def main():
                 elif 'Hacker News' == feed['channel'] or 'Lobsters' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
+                elif 'Slashdot' == feed['channel']:
+                    if 'slash_comments' in entry and int(entry['slash_comments']) < 10:
+                        continue
                 elif '科技早知道' == feed['channel']:
                     if 'itunes_episode' in entry:
                         entry.link = f'https://guiguzaozhidao.fireside.fm/{entry.itunes_episode}'
