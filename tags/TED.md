@@ -1,3 +1,6 @@
+## 20230424
+- [TED Talks Daily](https://www.ted.com/talks) | [How modern audiences can talk about aging art | Margaret Hall](https://www.ted.com/talks/margaret_hall_how_modern_audiences_can_talk_about_aging_art?rss)
+
 ## 20230421
 - [TED Talks Daily](https://www.ted.com/talks) | [How to feng shui your fridge -- and other happy climate hacks | Jiaying Zhao](https://www.ted.com/talks/jiaying_zhao_how_to_feng_shui_your_fridge_and_other_happy_climate_hacks?rss)
 

@@ -1,3 +1,6 @@
+## 20230424
+- [Hacker News](https://news.ycombinator.com/front) | [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://news.ycombinator.com/item?id=35684828)
+
 ## 20230423
 - [Hacker News](https://news.ycombinator.com/front) | [iOS 17 app sideloading might only be available in Europe](https://news.ycombinator.com/item?id=35671968)
 
