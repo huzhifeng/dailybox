@@ -1,3 +1,9 @@
+## 20230424
+- [GitHub中文社区](https://www.githubs.cn/trending) | [suno-ai/bark](https://github.com/suno-ai/bark)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+
 ## 20230423
 - [GitHub中文社区](https://www.githubs.cn/trending) | [suno-ai/bark](https://github.com/suno-ai/bark)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
