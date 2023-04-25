@@ -1,3 +1,7 @@
+## 20230425
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #982 马斯克前歌手女友支持用 AI 深度伪造其声音](https://linux.cn/article-15754-1.html?utm_source=rss&utm_medium=rss)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Begins Cutting 'Hundreds of Jobs'](https://linux.slashdot.org/story/23/04/24/2220256/red-hat-begins-cutting-hundreds-of-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230424
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #981 智能音箱应该学会闭嘴](https://linux.cn/article-15751-1.html?utm_source=rss&utm_medium=rss)
 

@@ -1,3 +1,8 @@
+## 20230425
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM)
+
 ## 20230424
 - [GitHub中文社区](https://www.githubs.cn/trending) | [suno-ai/bark](https://github.com/suno-ai/bark)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
