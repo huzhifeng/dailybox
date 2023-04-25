@@ -10,6 +10,7 @@ import dateutil.parser
 import dateparser
 import feedparser
 import requests
+import urllib
 
 
 def load_feed_conf():
@@ -265,6 +266,9 @@ def main():
                     if not '_score' in entry or int(entry['_score']) < 100:
                         continue
                 link_map = {placeholder: entry[placeholder]}
+                if '微博热搜' == api['channel']:
+                    # 中文和空格需要做 URL 编码，例如 '长月烬明 抄袭阴阳师'
+                    link_map[placeholder] = urllib.parse.quote(entry[placeholder])
                 item = {
                     'category': api['category'],
                     'tags': api['tags'],
