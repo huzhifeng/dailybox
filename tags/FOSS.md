@@ -1,3 +1,6 @@
+## 20230425
+- [It's FOSS](https://itsfoss.com/) | [The Ultimate Guide to i3 Customization in Linux](https://itsfoss.com/i3-customization/)
+
 ## 20230424
 - [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #5: Functions in the Rust Programming Language](https://itsfoss.com/rust-functions/)
 
