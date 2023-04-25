@@ -599,6 +599,26 @@
 		},
 		{
 			"channel": "Product Hunt",
+			"portal": "https://www.producthunt.com",
+			"url": "https://ph.buzzing.cc/feed.json",
+			"_comment": "https://ph.buzzing.cc/ | https://ph.buzzing.cc/feed.xml",
+			"enable": 1,
+			"category": "产品",
+			"tags": ["Product Hunt", "产品"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "items"
+			},
+			"entry": {
+				"date": "_original_published",
+				"title": "title",
+				"link": "{url}"
+			}
+		},
+		{
+			"channel": "Product Hunt",
 			"portal": "https://www.producthunt.com/time-travel",
 			"url": "https://www.producthunt.com/frontend/graphql",
 			"_comment": "https://www.producthunt.com/time-travel/2023/4/10 | https://www.producthunt.com/feed",
