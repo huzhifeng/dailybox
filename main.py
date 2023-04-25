@@ -135,7 +135,7 @@ def main():
                 elif '泰晓资讯' == feed['channel']:
                     if not '泰晓资讯' in entry.title:
                         continue
-                elif 'Hacker News' == feed['channel']:
+                elif 'Hacker News' == feed['channel'] or 'Lobsters' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
                 elif '科技早知道' == feed['channel']:

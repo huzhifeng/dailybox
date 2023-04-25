@@ -282,6 +282,14 @@
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
 		{
+			"channel": "Lobsters",
+			"portal": "https://lobste.rs/",
+			"url": "https://lobste.rs/rss",
+			"_comment": "https://lobste.buzzing.cc/feed.json",
+			"category": "资讯",
+			"tags": ["Lobsters"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
