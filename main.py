@@ -258,6 +258,9 @@ def main():
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
+                if 'Product Hunt' == api['channel']:
+                    if not '_score' in entry or int(entry['_score']) < 100:
+                        continue
                 link_map = {placeholder: entry[placeholder]}
                 item = {
                     'category': api['category'],
@@ -267,6 +270,10 @@ def main():
                     'title': entry[title],
                     'link': link.format_map(link_map)
                 }
+                if 'Product Hunt' == api['channel']:
+                    if '_title_prefix' in entry and '_links' in entry:
+                        item['title'] = entry['_title_prefix'].removesuffix(' - ')
+                        item['link'] = entry['_links'][0]['url']
                 items.append(item)
                 i = i + 1
                 logger.debug(item)
