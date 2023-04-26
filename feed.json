@@ -282,6 +282,14 @@
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
 		{
+			"channel": "V2EX",
+			"portal": "https://www.v2ex.com/",
+			"url": "https://rsshub.app/v2ex/topics/hot",
+			"_comment": "https://www.v2ex.com/api/topics/hot.json",
+			"category": "资讯",
+			"tags": ["V2EX"]
+		},
+		{
 			"channel": "Lobsters",
 			"portal": "https://lobste.rs/",
 			"url": "https://lobste.rs/rss",
