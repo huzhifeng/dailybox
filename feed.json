@@ -238,7 +238,6 @@
 			"channel": "This Week in GNOME",
 			"portal": "https://thisweek.gnome.org/",
 			"url": "https://thisweek.gnome.org/index.xml",
-			"enable": 0,
 			"category": "开源",
 			"tags": ["Linux", "GNOME", "This Week in GNOME", "开源"]
 		},
@@ -246,7 +245,6 @@
 			"channel": "This week in KDE",
 			"portal": "https://pointieststick.com/",
 			"url": "https://pointieststick.com/feed/",
-			"enable": 0,
 			"category": "开源",
 			"tags": ["Linux", "KDE", "This week in KDE", "开源"]
 		},
@@ -254,7 +252,6 @@
 			"channel": "Awesome Open Source",
 			"portal": "https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g",
 			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g",
-			"enable": 0,
 			"category": "开源",
 			"tags": ["Linux", "Awesome Open Source", "开源", "YouTube"]
 		},
@@ -262,7 +259,6 @@
 			"channel": "The Linux Experiment",
 			"portal": "https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw",
 			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-			"enable": 0,
 			"category": "开源",
 			"tags": ["Linux", "The Linux Experiment", "开源", "YouTube"]
 		},
@@ -659,7 +655,6 @@
 			"portal": "https://www.producthunt.com",
 			"url": "https://ph.buzzing.cc/feed.json",
 			"_comment": "https://ph.buzzing.cc/ | https://ph.buzzing.cc/feed.xml",
-			"enable": 1,
 			"category": "产品",
 			"tags": ["Product Hunt", "产品"],
 			"request": {
