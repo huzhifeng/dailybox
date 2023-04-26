@@ -1,3 +1,6 @@
+## 20230426
+- [TED Talks Daily](https://www.ted.com/talks) | [Pussy Riot's powerful message to Vladimir Putin | Nadya Tolokonnikova](https://www.ted.com/talks/nadya_tolokonnikova_pussy_riot_s_powerful_message_to_vladimir_putin?rss)
+
 ## 20230424
 - [TED Talks Daily](https://www.ted.com/talks) | [How modern audiences can talk about aging art | Margaret Hall](https://www.ted.com/talks/margaret_hall_how_modern_audiences_can_talk_about_aging_art?rss)
 
