@@ -527,6 +527,7 @@
 			"channel": "微博热搜",
 			"portal": "https://weibo.com/newlogin?tabtype=search",
 			"url": "https://weibo.com/ajax/side/hotSearch",
+			"_comment": "https://rsshub.app/weibo/search/hot",
 			"category": "资讯",
 			"tags": ["微博热搜", "资讯"],
 			"request": {
