@@ -303,6 +303,13 @@
 			"tags": ["界面新闻", "科技早报", "日报"]
 		},
 		{
+			"channel": "十年之约",
+			"portal": "https://www.foreverblog.cn/feeds.html",
+			"url": "https://rsshub.app/foreverblog/feeds",
+			"category": "漫游",
+			"tags": ["十年之约"]
+		},
+		{
 			"channel": "V2EX",
 			"portal": "https://www.v2ex.com/",
 			"url": "https://rsshub.app/v2ex/topics/hot",
