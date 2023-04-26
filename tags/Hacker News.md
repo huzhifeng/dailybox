@@ -1,3 +1,6 @@
+## 20230426
+- [Hacker News](https://news.ycombinator.com/front) | [UK Blocks Microsoft’s $69B Activision Deal](https://news.ycombinator.com/item?id=35711968)
+
 ## 20230424
 - [Hacker News](https://news.ycombinator.com/front) | [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://news.ycombinator.com/item?id=35684828)
 

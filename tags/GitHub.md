@@ -1,3 +1,8 @@
+## 20230426
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 ## 20230425
 - [GitHub中文社区](https://www.githubs.cn/trending) | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
