@@ -195,7 +195,7 @@ def main():
                     elif 'Product Hunt' == api['channel']:
                         payload['variables']['year'] = today.year
                         payload['variables']['month'] = today.month
-                        payload['variables']['day'] = today.day
+                        payload['variables']['day'] = yesterday.day
                     try:
                         res = requests.post(url, json=payload, timeout=request_timeout, headers=request_headers)
                         res.raise_for_status()
