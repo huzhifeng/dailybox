@@ -1,3 +1,6 @@
+## 20230427
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.17: i3 Guide, Kernel 6.3, Essential Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-23-17/)
+
 ## 20230425
 - [It's FOSS](https://itsfoss.com/) | [The Ultimate Guide to i3 Customization in Linux](https://itsfoss.com/i3-customization/)
 

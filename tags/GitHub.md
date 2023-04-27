@@ -1,3 +1,8 @@
+## 20230427
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [GFW-knocker/gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy)
+
 ## 20230426
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
