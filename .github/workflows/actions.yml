@@ -1,21 +1,18 @@
 name: Daily Box Bot
 on: 
   schedule:
-    - cron:  '30 15 * * *'
+    - cron:  '30 21 * * *'
 jobs:
   Dialy-Box-Bot-Actions:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Check out repository code
+      - name: Check out
         uses: actions/checkout@v3
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
       - name: Setup python
         uses: actions/setup-python@v4
         with:
@@ -30,7 +27,7 @@ jobs:
           git config --local user.email "hu_zhifeng@qq.com"
           git config --local user.name "Zhifeng Hu"
           git add .
-          git commit -m "Add changes"
+          git commit -m "Bot: update $(date +%Y%m%d)"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
