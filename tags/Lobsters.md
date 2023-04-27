@@ -1,3 +1,8 @@
+## 20230427
+- [Lobsters](https://lobste.rs/) | [Datomic is Free (as in beer)](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer)
+- [Lobsters](https://lobste.rs/) | [Call For Testers: Spatial Shell](https://lobste.rs/s/m57dw4/call_for_testers_spatial_shell)
+- [Lobsters](https://lobste.rs/) | [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial)
+
 ## 20230426
 - [Lobsters](https://lobste.rs/) | [Futexes: a translation dictionary](https://lobste.rs/s/a1m85x/futexes_translation_dictionary)
 - [Lobsters](https://lobste.rs/) | [Characterizing Tech Debt](https://lobste.rs/s/zvvi3g/characterizing_tech_debt)

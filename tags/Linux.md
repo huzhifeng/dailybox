@@ -1,3 +1,8 @@
+## 20230427
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #984 ChatGPT 允许禁用聊天历史，但仍会保留 30 天](https://linux.cn/article-15760-1.html?utm_source=rss&utm_medium=rss)
+- [Slashdot](https://linux.slashdot.org/) | [New Intel Linux Graphics Driver Patches Released, Up To 10-15% Better Performance](https://tech.slashdot.org/story/23/04/27/1927209/new-intel-linux-graphics-driver-patches-released-up-to-10-15-better-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Kernel 6.3 Released](https://linux.slashdot.org/story/23/04/26/0023238/linux-kernel-63-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230426
 - [Slashdot](https://linux.slashdot.org/) | [Linux Kernel 6.3 Released](https://linux.slashdot.org/story/23/04/26/0023238/linux-kernel-63-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

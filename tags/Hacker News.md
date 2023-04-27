@@ -1,3 +1,8 @@
+## 20230427
+- [Hacker News](https://news.ycombinator.com/front) | [As I am currently in a war zone, I don't have many options for cabling](https://news.ycombinator.com/item?id=35730074)
+- [Hacker News](https://news.ycombinator.com/front) | [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://news.ycombinator.com/item?id=35729558)
+- [Hacker News](https://news.ycombinator.com/front) | [Datomic is Free](https://news.ycombinator.com/item?id=35727967)
+
 ## 20230426
 - [Hacker News](https://news.ycombinator.com/front) | [UK Blocks Microsoft’s $69B Activision Deal](https://news.ycombinator.com/item?id=35711968)
 
