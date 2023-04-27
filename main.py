@@ -89,7 +89,8 @@ def publish_md(items):
 
 def main():
     """Main loop."""
-    today = datetime.datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
+    now = datetime.datetime.today()
+    today = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday = today - datetime.timedelta(days=1)
     lastweek = today - datetime.timedelta(weeks=1)
     ts = datetime.datetime.now().timestamp()
@@ -120,7 +121,7 @@ def main():
             updated = d.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
-            if updated < today:
+            if updated < yesterday:
                 continue
             if not d.has_key('entries'):
                 logger.debug('no entries')
@@ -155,7 +156,15 @@ def main():
                     'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
                     published = datetime.datetime(*published[:6])
-                if not published or published < today:
+                if not published:
+                    if '喷嚏网' == feed['channel']:
+                        if 'Wes' in entry.published:
+                            # typo, Wes should be Wed
+                            published = dateparser.parse(entry.published.replace('Wes', 'Wed'))
+                            published = published.replace(tzinfo=None)
+                    else:
+                            continue
+                if published < yesterday:
                     continue
                 item = {
                     'category': feed['category'],
@@ -257,7 +266,7 @@ def main():
                         published = published.replace(tzinfo=None)
                     else:
                         published = dateutil.parser.parse(entry[date])
-                if not published or published < today:
+                if not published or published < yesterday:
                     continue
                 if '网易轻松一刻' == api['channel']:
                     if not 'source' in entry or not '轻松一刻' == entry['source']:
