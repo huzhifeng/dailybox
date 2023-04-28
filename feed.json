@@ -143,6 +143,14 @@
 			"tags": ["津津乐道", "科技乱炖", "编码人声", "播客"]
 		},
 		{
+			"channel": "八分",
+			"portal": "https://vistopia.com.cn/detail/11",
+			"url": "https://rsshub.app/ximalaya/album/51101122",
+			"_comment": "https://wulu.zone/posts/rsshub-bafen",
+			"category": "播客",
+			"tags": ["看理想", "梁文道", "八分", "播客"]
+		},
+		{
 			"channel": "看理想圆桌",
 			"portal": "https://www.vistopia.com.cn/detail/13",
 			"url": "https://api.vistopia.com.cn/rss/program/13.xml",
