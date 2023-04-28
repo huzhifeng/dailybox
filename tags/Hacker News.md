@@ -1,3 +1,8 @@
+## 20230428
+- [Hacker News](https://news.ycombinator.com/front) | [Check if your IKEA chair is compatible with your screen](https://news.ycombinator.com/item?id=35742476)
+- [Hacker News](https://news.ycombinator.com/front) | [Driver adventures for a 1999 webcam](https://news.ycombinator.com/item?id=35740001)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
+
 ## 20230427
 - [Hacker News](https://news.ycombinator.com/front) | [As I am currently in a war zone, I don't have many options for cabling](https://news.ycombinator.com/item?id=35730074)
 - [Hacker News](https://news.ycombinator.com/front) | [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://news.ycombinator.com/item?id=35729558)

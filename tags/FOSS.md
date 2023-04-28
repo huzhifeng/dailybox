@@ -1,3 +1,7 @@
+## 20230428
+- [It's FOSS](https://itsfoss.com/) | [7 Super Lightweight Linux Distros](https://itsfoss.com/super-lightweight-distros/)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.17: i3 Guide, Kernel 6.3, Essential Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-23-17/)
+
 ## 20230427
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.17: i3 Guide, Kernel 6.3, Essential Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-23-17/)
 

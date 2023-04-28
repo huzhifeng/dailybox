@@ -1,3 +1,8 @@
+## 20230428
+- [Product Hunt](https://www.producthunt.com) | [Merlin 2.0](https://www.producthunt.com/posts/merlin-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Microsoft Designer for Web](https://www.producthunt.com/posts/microsoft-designer-for-web)
+- [Product Hunt](https://www.producthunt.com) | [Entre 3.0 | Communities](https://www.producthunt.com/posts/entre-3-0-communities)
+
 ## 20230427
 - [Product Hunt](https://www.producthunt.com) | [Fixel Font by MacPaw](https://www.producthunt.com/posts/fixel-font-by-macpaw)
 - [Product Hunt](https://www.producthunt.com) | [Life-Changing Concepts](https://www.producthunt.com/posts/life-changing-concepts)

@@ -1,3 +1,6 @@
+## 20230428
+- [TED Talks Daily](https://www.ted.com/talks) | [Why AI is incredibly smart -- and shockingly stupid | Yejin Choi](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?rss)
+
 ## 20230427
 - [TED Talks Daily](https://www.ted.com/talks) | [Pussy Riot's powerful message to Vladimir Putin | Nadya Tolokonnikova](https://www.ted.com/talks/nadya_tolokonnikova_pussy_riot_s_powerful_message_to_vladimir_putin?rss)
 
