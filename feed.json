@@ -353,7 +353,7 @@
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
-			"_comment": "https://news.ycombinator.com/rss",
+			"_comment": "https://news.ycombinator.com/rss | https://hnrss.org/best",
 			"category": "资讯",
 			"tags": ["Hacker News"]
 		}
