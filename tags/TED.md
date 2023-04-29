@@ -1,3 +1,6 @@
+## 20230429
+- [TED Talks Daily](https://www.ted.com/talks) | [Why AI is incredibly smart -- and shockingly stupid | Yejin Choi](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?rss)
+
 ## 20230428
 - [TED Talks Daily](https://www.ted.com/talks) | [Why AI is incredibly smart -- and shockingly stupid | Yejin Choi](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?rss)
 

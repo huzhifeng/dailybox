@@ -1,3 +1,8 @@
+## 20230429
+- [Product Hunt](https://www.producthunt.com) | [80 Digital Product Ideas](https://www.producthunt.com/posts/80-digital-product-ideas)
+- [Product Hunt](https://www.producthunt.com) | [Clobbr](https://www.producthunt.com/posts/clobbr)
+- [Product Hunt](https://www.producthunt.com) | [FinChat - ChatGPT for Finance](https://www.producthunt.com/posts/finchat-chatgpt-for-finance)
+
 ## 20230428
 - [Product Hunt](https://www.producthunt.com) | [Merlin 2.0](https://www.producthunt.com/posts/merlin-2-0)
 - [Product Hunt](https://www.producthunt.com) | [Microsoft Designer for Web](https://www.producthunt.com/posts/microsoft-designer-for-web)

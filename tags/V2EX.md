@@ -1,3 +1,8 @@
+## 20230429
+- [V2EX](https://www.v2ex.com/) | [日本程序员水平为什么这么高？很多厉害的开源项目都是日本人写的，例如 MessagePack、GitBucket（没拼错，不是 a 家那个）、各种欧美大厂游戏资源包解密工具（暂...](https://www.v2ex.com/t/936484)
+- [V2EX](https://www.v2ex.com/) | [为什么现在的维修工价格这么高？](https://www.v2ex.com/t/936480)
+- [V2EX](https://www.v2ex.com/) | [寻找 steam 多人游戏推荐](https://www.v2ex.com/t/936413)
+
 ## 20230428
 - [V2EX](https://www.v2ex.com/) | [中简社区是整体没落了，还是个例?](https://www.v2ex.com/t/936268)
 - [V2EX](https://www.v2ex.com/) | [我的 UI 组件库发布了！](https://www.v2ex.com/t/936264)

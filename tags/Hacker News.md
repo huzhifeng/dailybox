@@ -1,3 +1,6 @@
+## 20230429
+- [Hacker News](https://news.ycombinator.com/front) | [Remove “This incident will be reported.” from user warnings](https://news.ycombinator.com/item?id=35752237)
+
 ## 20230428
 - [Hacker News](https://news.ycombinator.com/front) | [Check if your IKEA chair is compatible with your screen](https://news.ycombinator.com/item?id=35742476)
 - [Hacker News](https://news.ycombinator.com/front) | [Driver adventures for a 1999 webcam](https://news.ycombinator.com/item?id=35740001)

@@ -1,3 +1,8 @@
+## 20230429
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Eugeny/tabby](https://github.com/Eugeny/tabby)
+
 ## 20230428
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)

@@ -1,3 +1,10 @@
+## 20230429
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #986 美国准备制定法律，发射核弹的人工智能是非法的](https://linux.cn/article-15766-1.html?utm_source=rss&utm_medium=rss)
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #985 微软用 Rust 重写核心 Windows 代码](https://linux.cn/article-15763-1.html?utm_source=rss&utm_medium=rss)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#93 Snapshot](https://thisweek.gnome.org/posts/2023/04/twig-93/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: The bug slaughterfest continues](https://pointieststick.com/2023/04/28/this-week-in-kde-the-bug-slaughterfest-continues/)
+- [Slashdot](https://linux.slashdot.org/) | [System76 Plans Its Own Open Hardware Laptop, and a New Desktop Environment Written in Rust](https://linux.slashdot.org/story/23/04/29/0250255/system76-plans-its-own-open-hardware-laptop-and-a-new-desktop-environment-written-in-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230428
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #985 微软用 Rust 重写核心 Windows 代码](https://linux.cn/article-15763-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #984 ChatGPT 允许禁用聊天历史，但仍会保留 30 天](https://linux.cn/article-15760-1.html?utm_source=rss&utm_medium=rss)
