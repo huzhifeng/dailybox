@@ -1,3 +1,8 @@
+## 20230429
+- [Lobsters](https://lobste.rs/) | [Memoirs from the old web: The KEYGEN element](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element)
+- [Lobsters](https://lobste.rs/) | [Tufte CSS](https://lobste.rs/s/qoj66x/tufte_css)
+- [Lobsters](https://lobste.rs/) | [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with)
+
 ## 20230428
 - [Lobsters](https://lobste.rs/) | [gefs: a good enough file system for plan 9](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9)
 - [Lobsters](https://lobste.rs/) | [Deno KV - a global database for global apps](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps)
