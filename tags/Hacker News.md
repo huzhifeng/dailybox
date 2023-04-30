@@ -1,3 +1,7 @@
+## 20230430
+- [Hacker News](https://news.ycombinator.com/front) | [Whistleblowers are the conscience of society, yet suffer gravely](https://news.ycombinator.com/item?id=35762780)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft quietly supported legislation to make it easier to fix devices](https://news.ycombinator.com/item?id=35758842)
+
 ## 20230429
 - [Hacker News](https://news.ycombinator.com/front) | [Remove “This incident will be reported.” from user warnings](https://news.ycombinator.com/item?id=35752237)
 

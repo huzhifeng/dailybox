@@ -1,3 +1,8 @@
+## 20230430
+- [Lobsters](https://lobste.rs/) | [Debian-based distros have adopted PEP 668](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668)
+- [Lobsters](https://lobste.rs/) | [Writing an OS in Go: The Bootloader](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader)
+- [Lobsters](https://lobste.rs/) | [My favorite C compiler flags during development](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during)
+
 ## 20230429
 - [Lobsters](https://lobste.rs/) | [Memoirs from the old web: The KEYGEN element](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element)
 - [Lobsters](https://lobste.rs/) | [Tufte CSS](https://lobste.rs/s/qoj66x/tufte_css)
