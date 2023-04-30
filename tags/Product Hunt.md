@@ -1,3 +1,8 @@
+## 20230430
+- [Product Hunt](https://www.producthunt.com) | [100+ Free World-Class ChatGPT Prompts](https://www.producthunt.com/posts/100-free-world-class-chatgpt-prompts)
+- [Product Hunt](https://www.producthunt.com) | [PluginLab](https://www.producthunt.com/posts/pluginlab)
+- [Product Hunt](https://www.producthunt.com) | [Notion Ultimate Content System](https://www.producthunt.com/posts/notion-ultimate-content-system)
+
 ## 20230429
 - [Product Hunt](https://www.producthunt.com) | [80 Digital Product Ideas](https://www.producthunt.com/posts/80-digital-product-ideas)
 - [Product Hunt](https://www.producthunt.com) | [Clobbr](https://www.producthunt.com/posts/clobbr)

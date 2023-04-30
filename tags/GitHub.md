@@ -1,3 +1,6 @@
+## 20230430
+- [GitHub中文社区](https://www.githubs.cn/trending) | [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt)
+
 ## 20230429
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)

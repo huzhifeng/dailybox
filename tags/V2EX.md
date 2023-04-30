@@ -1,3 +1,8 @@
+## 20230430
+- [V2EX](https://www.v2ex.com/) | [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639)
+- [V2EX](https://www.v2ex.com/) | [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616)
+- [V2EX](https://www.v2ex.com/) | [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581)
+
 ## 20230429
 - [V2EX](https://www.v2ex.com/) | [日本程序员水平为什么这么高？很多厉害的开源项目都是日本人写的，例如 MessagePack、GitBucket（没拼错，不是 a 家那个）、各种欧美大厂游戏资源包解密工具（暂...](https://www.v2ex.com/t/936484)
 - [V2EX](https://www.v2ex.com/) | [为什么现在的维修工价格这么高？](https://www.v2ex.com/t/936480)

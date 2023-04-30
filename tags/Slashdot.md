@@ -1,3 +1,6 @@
+## 20230430
+- [Slashdot](https://developers.slashdot.org/) | [AI Coding Competition Pits GPT-4 Against Bard, GitHub Co-Pilot, Bing, and Claude+](https://developers.slashdot.org/story/23/04/30/0454245/ai-coding-competition-pits-gpt-4-against-bard-github-co-pilot-bing-and-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230429
 - [Slashdot](https://linux.slashdot.org/) | [System76 Plans Its Own Open Hardware Laptop, and a New Desktop Environment Written in Rust](https://linux.slashdot.org/story/23/04/29/0250255/system76-plans-its-own-open-hardware-laptop-and-a-new-desktop-environment-written-in-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Long-time Slashdot Reader Announces Open Source, Java-Based, Full-Stack Web Development Framework](https://developers.slashdot.org/story/23/04/29/1713240/long-time-slashdot-reader-announces-open-source-java-based-full-stack-web-development-framework?utm_source=rss1.0mainlinkanon&utm_medium=feed)

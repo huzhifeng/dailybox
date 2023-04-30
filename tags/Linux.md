@@ -1,3 +1,6 @@
+## 20230430
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #987 Windows 10 已发布最终版本](https://linux.cn/article-15769-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230429
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #986 美国准备制定法律，发射核弹的人工智能是非法的](https://linux.cn/article-15766-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #985 微软用 Rust 重写核心 Windows 代码](https://linux.cn/article-15763-1.html?utm_source=rss&utm_medium=rss)
