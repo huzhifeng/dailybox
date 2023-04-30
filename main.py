@@ -4,6 +4,7 @@ import shutil
 from pathlib import Path
 import json
 import logging
+import pytz
 import time
 import datetime
 import dateutil.parser
@@ -89,8 +90,9 @@ def publish_md(items):
 
 def main():
     """Main loop."""
-    now = datetime.datetime.today()
-    today = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    tz = pytz.timezone('Asia/Shanghai')
+    now = datetime.datetime.now(tz)
+    today = now.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     yesterday = today - datetime.timedelta(days=1)
     lastweek = today - datetime.timedelta(weeks=1)
     ts = datetime.datetime.now().timestamp()
