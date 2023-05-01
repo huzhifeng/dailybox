@@ -1,3 +1,8 @@
+## 20230501
+- [V2EX](https://www.v2ex.com/) | [有没有人跟我一样偏好原生 JS 写项目，而不是 TS](https://www.v2ex.com/t/936772)
+- [V2EX](https://www.v2ex.com/) | [你们是在什么背景下决定买车的？](https://www.v2ex.com/t/936750)
+- [V2EX](https://www.v2ex.com/) | [现在千兆快的只有 50 兆上行？](https://www.v2ex.com/t/936736)
+
 ## 20230430
 - [V2EX](https://www.v2ex.com/) | [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639)
 - [V2EX](https://www.v2ex.com/) | [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616)

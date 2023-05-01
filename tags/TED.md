@@ -1,3 +1,6 @@
+## 20230501
+- [TED Talks Daily](https://www.ted.com/talks) | [The amazing AI super tutor for students and teachers | Sal Khan](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers?rss)
+
 ## 20230429
 - [TED Talks Daily](https://www.ted.com/talks) | [Why AI is incredibly smart -- and shockingly stupid | Yejin Choi](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid?rss)
 

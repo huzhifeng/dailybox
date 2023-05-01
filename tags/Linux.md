@@ -1,3 +1,7 @@
+## 20230501
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #988 sudo 和 su 命令正在用 Rust 重写](https://linux.cn/article-15772-1.html?utm_source=rss&utm_medium=rss)
+- [Slashdot](https://linux.slashdot.org/) | ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230430
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #987 Windows 10 已发布最终版本](https://linux.cn/article-15769-1.html?utm_source=rss&utm_medium=rss)
 
