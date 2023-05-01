@@ -51,7 +51,7 @@ def main():
             resp = feedparser.parse(
                 feed['url'], modified=yesterday, request_headers=request_headers)
             if resp.bozo:
-                logger.warning(resp.bozo_exception)
+                logger.warning('bozo exception: %s', resp.bozo_exception)
                 continue
             updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
