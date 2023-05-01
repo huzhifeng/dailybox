@@ -25,7 +25,9 @@ def main():
     timestamp = datetime.datetime.now().timestamp()
     items = []
     request_timeout = 30
-    user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
+    user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) '\
+                    'AppleWebKit/537.36 (KHTML, like Gecko) '\
+                    'Chrome/109.0.0.0 Safari/537.36'
     request_headers = {
         'user-agent': user_agent
     }
@@ -38,31 +40,30 @@ def main():
     logger.addHandler(console_handler)
 
     conf = {}
-    with open('feed.json', mode='r', encoding='utf-8') as f:
-        conf = json.load(f)
+    with open('feed.json', mode='r', encoding='utf-8') as fd_conf:
+        conf = json.load(fd_conf)
 
     if 'feed' in conf:
         for feed in conf['feed']:
             if 'enable' in feed and feed['enable'] == 0:
                 continue
-            try:
-                logger.debug(feed['url'])
-                d = feedparser.parse(
-                    feed['url'], modified=yesterday, request_headers=request_headers)
-            except Exception as e_parse:
-                logger.warning(e_parse)
+            logger.debug(feed['url'])
+            resp = feedparser.parse(
+                feed['url'], modified=yesterday, request_headers=request_headers)
+            if resp.bozo:
+                logger.warning(resp.bozo_exception)
                 continue
-            updated = d.feed.get('updated_parsed', today)
+            updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
             if updated < yesterday:
                 continue
-            if not d.has_key('entries'):
+            if not resp.has_key('entries'):
                 logger.debug('no entries')
                 continue
 
             i = 0
-            for entry in d.entries:
+            for entry in resp.entries:
                 if i >= 3:
                     break
                 if '喷嚏网' == feed['channel']:
@@ -160,12 +161,12 @@ def main():
                     continue
             resp_json = resp.json()
             keys = api['response']['list'].split('.')
-            l = len(keys)
-            if l == 1 and keys[0] in resp_json:
+            nesting_level = len(keys)
+            if nesting_level == 1 and keys[0] in resp_json:
                 entries = resp_json[keys[0]]
-            elif l == 2 and keys[0] in resp_json and keys[1] in resp_json[keys[0]]:
+            elif nesting_level == 2 and keys[0] in resp_json and keys[1] in resp_json[keys[0]]:
                 entries = resp_json[keys[0]][keys[1]]
-            elif l == 3 and keys[0] in resp_json and keys[1] in resp_json[keys[0]] \
+            elif nesting_level == 3 and keys[0] in resp_json and keys[1] in resp_json[keys[0]] \
                     and keys[2] in resp_json[keys[0]][keys[1]]:
                 entries = resp_json[keys[0]][keys[1]][keys[2]]
             else:
@@ -302,7 +303,8 @@ def main():
             else:
                 md_entry = f'- "{item["content"]}" - {item["author"]}\n'
         else:
-            md_entry = f'- [{item["channel"]}]({item["portal"]}) | [{item["title"]}]({item["link"]})\n'
+            md_entry = f'- [{item["channel"]}]({item["portal"]}) '\
+                        f'| [{item["title"]}]({item["link"]})\n'
 
         categories_obj[category] += md_entry
         for tag in tags:
@@ -340,7 +342,6 @@ def main():
                 md_old = fd_tag_old.read()
         with open(fname_tag, mode='w', encoding='utf-8') as fd_tag_new:
             fd_tag_new.write(f'{md_tag}{md_old}')
-
 
 
 if __name__ == '__main__':
