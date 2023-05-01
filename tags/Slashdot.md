@@ -1,3 +1,7 @@
+## 20230501
+- [Slashdot](https://linux.slashdot.org/) | ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230430
 - [Slashdot](https://developers.slashdot.org/) | [AI Coding Competition Pits GPT-4 Against Bard, GitHub Co-Pilot, Bing, and Claude+](https://developers.slashdot.org/story/23/04/30/0454245/ai-coding-competition-pits-gpt-4-against-bard-github-co-pilot-bing-and-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

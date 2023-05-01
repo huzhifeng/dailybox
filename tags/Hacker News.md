@@ -1,3 +1,8 @@
+## 20230501
+- [Hacker News](https://news.ycombinator.com/front) | [Help make mass surveillance of entire populations uneconomical](https://news.ycombinator.com/item?id=35772005)
+- [Hacker News](https://news.ycombinator.com/front) | [Krita: A professional free and open source painting program](https://news.ycombinator.com/item?id=35771994)
+- [Hacker News](https://news.ycombinator.com/front) | [Geoffrey Hinton leaves Google and warns of danger ahead](https://news.ycombinator.com/item?id=35771104)
+
 ## 20230430
 - [Hacker News](https://news.ycombinator.com/front) | [Whistleblowers are the conscience of society, yet suffer gravely](https://news.ycombinator.com/item?id=35762780)
 - [Hacker News](https://news.ycombinator.com/front) | [Microsoft quietly supported legislation to make it easier to fix devices](https://news.ycombinator.com/item?id=35758842)

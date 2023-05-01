@@ -1,3 +1,8 @@
+## 20230501
+- [Lobsters](https://lobste.rs/) | [ntfy.sh - Open source push notifications via PUT/POST](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications)
+- [Lobsters](https://lobste.rs/) | [LLuffman: LLM-based steganography](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography)
+- [Lobsters](https://lobste.rs/) | [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting)
+
 ## 20230430
 - [Lobsters](https://lobste.rs/) | [Debian-based distros have adopted PEP 668](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668)
 - [Lobsters](https://lobste.rs/) | [Writing an OS in Go: The Bootloader](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader)
