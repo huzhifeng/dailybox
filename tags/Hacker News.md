@@ -1,3 +1,6 @@
+## 20230502
+- [Hacker News](https://news.ycombinator.com/front) | [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://news.ycombinator.com/item?id=35787080)
+
 ## 20230501
 - [Hacker News](https://news.ycombinator.com/front) | [Help make mass surveillance of entire populations uneconomical](https://news.ycombinator.com/item?id=35772005)
 - [Hacker News](https://news.ycombinator.com/front) | [Krita: A professional free and open source painting program](https://news.ycombinator.com/item?id=35771994)

@@ -1,3 +1,8 @@
+## 20230502
+- [Lobsters](https://lobste.rs/) | [Let's Make Sure Github Doesn't Become the only Option](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only)
+- [Lobsters](https://lobste.rs/) | [Why Split Lexing and Parsing Into Two Separate Phases?](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two)
+- [Lobsters](https://lobste.rs/) | [Mojo — a new programming language for all AI developers](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai)
+
 ## 20230501
 - [Lobsters](https://lobste.rs/) | [ntfy.sh - Open source push notifications via PUT/POST](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications)
 - [Lobsters](https://lobste.rs/) | [LLuffman: LLM-based steganography](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography)

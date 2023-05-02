@@ -1,3 +1,8 @@
+## 20230502
+- [V2EX](https://www.v2ex.com/) | [手机高刷屏真的很爽很🐂🍺](https://www.v2ex.com/t/936869)
+- [V2EX](https://www.v2ex.com/) | [如何规划和积累财富，让自己能早点从无趣无意义的日常工作中解脱出来？](https://www.v2ex.com/t/936857)
+- [V2EX](https://www.v2ex.com/) | [不知道 为啥亲戚（长辈）总是喜欢批评我 不知道做错了什么~](https://www.v2ex.com/t/936843)
+
 ## 20230501
 - [V2EX](https://www.v2ex.com/) | [有没有人跟我一样偏好原生 JS 写项目，而不是 TS](https://www.v2ex.com/t/936772)
 - [V2EX](https://www.v2ex.com/) | [你们是在什么背景下决定买车的？](https://www.v2ex.com/t/936750)
