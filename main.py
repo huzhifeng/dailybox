@@ -52,7 +52,9 @@ def main():
                 feed['url'], modified=yesterday, request_headers=request_headers)
             if resp.bozo:
                 logger.warning('bozo exception: %s', resp.bozo_exception)
-                continue
+                if not resp.entries:
+                    logger.warning('entries empty')
+                    continue
             updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
