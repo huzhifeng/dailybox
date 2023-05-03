@@ -1,3 +1,7 @@
+## 20230504
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [effortless-indent 快速缩进粘贴的代码](https://manateelazycat.github.io/emacs/2023/05/03/effortless-indent.html)
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《5000 天后的世界》](https://manateelazycat.github.io/reading/2023/05/03/reading-next-500-days.html)
+
 ## 20230502
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Wraplish 完全异步的英文空格插件](https://manateelazycat.github.io/emacs/2023/05/02/wraplish.html)
 

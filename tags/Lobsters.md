@@ -1,3 +1,8 @@
+## 20230504
+- [Lobsters](https://lobste.rs/) | [Somehow AutoHotKey is kinda good now](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now)
+- [Lobsters](https://lobste.rs/) | [Cloud exit pays off in performance too](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too)
+- [Lobsters](https://lobste.rs/) | [Does GPT-4 think better in Javascript?](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript)
+
 ## 20230502
 - [Lobsters](https://lobste.rs/) | [Let's Make Sure Github Doesn't Become the only Option](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only)
 - [Lobsters](https://lobste.rs/) | [Why Split Lexing and Parsing Into Two Separate Phases?](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two)

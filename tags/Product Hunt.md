@@ -1,3 +1,8 @@
+## 20230504
+- [Product Hunt](https://www.producthunt.com) | [Parsio 2.0](https://www.producthunt.com/posts/parsio-2-0)
+- [Product Hunt](https://www.producthunt.com) | [tea](https://www.producthunt.com/posts/tea)
+- [Product Hunt](https://www.producthunt.com) | [Prelaunch.com](https://www.producthunt.com/posts/prelaunch-com)
+
 ## 20230502
 - [Product Hunt](https://www.producthunt.com) | [DeepBrain AI Interview](https://www.producthunt.com/posts/deepbrain-ai-interview)
 - [Product Hunt](https://www.producthunt.com) | [TeamGPT](https://www.producthunt.com/posts/teamgpt)

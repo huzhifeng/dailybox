@@ -1,3 +1,6 @@
+## 20230504
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #990 Windows 11 将默认采用 ReFS 文件系统](https://linux.cn/article-15778-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230502
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #989 使用游戏机来控制机枪炮塔](https://linux.cn/article-15775-1.html?utm_source=rss&utm_medium=rss)
 

@@ -1,3 +1,6 @@
+## 20230504
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+
 ## 20230502
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [QiuChenly/QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader)

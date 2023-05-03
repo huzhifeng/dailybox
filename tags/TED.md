@@ -1,3 +1,6 @@
+## 20230504
+- [TED Talks Daily](https://www.ted.com/talks) | [3 money lessons from infamous scam artists | J Mase III](https://www.ted.com/talks/j_mase_iii_3_money_lessons_from_infamous_scam_artists?rss)
+
 ## 20230501
 - [TED Talks Daily](https://www.ted.com/talks) | [The amazing AI super tutor for students and teachers | Sal Khan](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers?rss)
 

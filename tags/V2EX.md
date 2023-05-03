@@ -1,3 +1,8 @@
+## 20230504
+- [V2EX](https://www.v2ex.com/) | [心心念念了一年的宁芝键盘](https://www.v2ex.com/t/937039)
+- [V2EX](https://www.v2ex.com/) | [未来是注定的，只是任何人都无法预测而已](https://www.v2ex.com/t/937007)
+- [V2EX](https://www.v2ex.com/) | [唉 年纪轻轻的就有结节了](https://www.v2ex.com/t/937006)
+
 ## 20230502
 - [V2EX](https://www.v2ex.com/) | [手机高刷屏真的很爽很🐂🍺](https://www.v2ex.com/t/936869)
 - [V2EX](https://www.v2ex.com/) | [如何规划和积累财富，让自己能早点从无趣无意义的日常工作中解脱出来？](https://www.v2ex.com/t/936857)
