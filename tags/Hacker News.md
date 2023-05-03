@@ -1,3 +1,8 @@
+## 20230504
+- [Hacker News](https://news.ycombinator.com/front) | [Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://news.ycombinator.com/item?id=35803435)
+- [Hacker News](https://news.ycombinator.com/front) | [The Framework Laptop 13](https://news.ycombinator.com/item?id=35802210)
+- [Hacker News](https://news.ycombinator.com/front) | [Passkeys: The beginning of the end of the password](https://news.ycombinator.com/item?id=35801392)
+
 ## 20230502
 - [Hacker News](https://news.ycombinator.com/front) | [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://news.ycombinator.com/item?id=35787080)
 
