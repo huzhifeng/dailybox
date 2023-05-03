@@ -26,8 +26,8 @@ def main():
     items = []
     request_timeout = 30
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) '\
-                    'AppleWebKit/537.36 (KHTML, like Gecko) '\
-                    'Chrome/109.0.0.0 Safari/537.36'
+        'AppleWebKit/537.36 (KHTML, like Gecko) '\
+        'Chrome/109.0.0.0 Safari/537.36'
     request_headers = {
         'user-agent': user_agent
     }
@@ -52,8 +52,15 @@ def main():
                 feed['url'], modified=yesterday, request_headers=request_headers)
             if resp.bozo:
                 logger.warning('bozo exception: %s', resp.bozo_exception)
-                if not resp.entries:
-                    logger.warning('entries empty')
+                if isinstance(resp.bozo_exception, feedparser.exceptions.CharacterEncodingOverride):
+                    # Validate a feed online:
+                    # https://validator.w3.org/feed/
+                    # Handling Incorrectly-Declared Encodings:
+                    # https://pythonhosted.org/feedparser/character-encoding.html#handling-incorrectly-declared-encodings
+                    logger.info(
+                        'Ignore warning: document declared as us-ascii, but parsed as utf-8')
+                else:
+                    logger.warning('Other bozo exception, please attention')
                     continue
             updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
@@ -81,7 +88,7 @@ def main():
                     if not '泰晓资讯' in entry.title:
                         continue
                 elif 'Hacker News' == feed['channel'] \
-                    or 'Lobsters' == feed['channel']:
+                        or 'Lobsters' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments
                 elif 'Slashdot' == feed['channel']:
@@ -114,7 +121,7 @@ def main():
                     'link': entry.link
                 }
                 if '周刊' in item['title'] \
-                    or 'Weekly'.casefold() in item['title'].casefold():
+                        or 'Weekly'.casefold() in item['title'].casefold():
                     item['tags'].append('周刊')
                 items.append(item)
                 i = i + 1
@@ -202,13 +209,13 @@ def main():
                         published = dateparser.parse(
                             entry[date])  # '今天' or '昨天'
                     elif '竹白先锋作品' == api['channel'] \
-                        or '竹白新锐作品' == api['channel'] \
-                        or '竹白上周热门' == api['channel']:
+                            or '竹白新锐作品' == api['channel'] \
+                            or '竹白上周热门' == api['channel']:
                         # '1.9小时前' or '1680614161357'
                         published = dateparser.parse(entry[date])
                     elif 'GitHub中文社区' == api['channel'] \
-                        or 'GitHub Advanced Search' == api['channel'] \
-                        or 'Product Hunt' == api['channel']:
+                            or 'GitHub Advanced Search' == api['channel'] \
+                            or 'Product Hunt' == api['channel']:
                         # '2023-04-07T10:38:28Z' or '2023-04-10T00:01:00-07:00'
                         published = dateparser.parse(entry[date])
                         published = published.replace(tzinfo=None)
@@ -306,7 +313,7 @@ def main():
                 md_entry = f'- "{item["content"]}" - {item["author"]}\n'
         else:
             md_entry = f'- [{item["channel"]}]({item["portal"]}) '\
-                        f'| [{item["title"]}]({item["link"]})\n'
+                f'| [{item["title"]}]({item["link"]})\n'
 
         categories_obj[category] += md_entry
         for tag in tags:
