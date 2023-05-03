@@ -21,6 +21,7 @@ def main():
     now = datetime.datetime.now(timezone)
     today = now.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     yesterday = today - datetime.timedelta(days=1)
+    tomorrow = today + datetime.timedelta(days=1)
     lastweek = today - datetime.timedelta(weeks=1)
     timestamp = datetime.datetime.now().timestamp()
     items = []
@@ -291,9 +292,14 @@ def main():
 
     categories_obj = {}
     tags_obj = {}
-    today_str = datetime.datetime.today().strftime('%Y%m%d')
-    fname_daily_box = f'archives/daily-box-{today_str}.md'
+    today_str = today.strftime('%Y%m%d')
+    yesterday_str = yesterday.strftime('%Y%m%d')
+    tomorrow_str = tomorrow.strftime('%Y%m%d')
+    fname_daily_box_today = f'archives/daily-box-{today_str}.md'
+    fname_daily_box_yesterday = f'archives/daily-box-{yesterday_str}.md'
+    fname_daily_box_tomorrow = f'archives/daily-box-{tomorrow_str}.md'
     md_daily_box = f'# Daily Box {today_str}\n\n'
+    md_daily_box += f'[前一天]({fname_daily_box_yesterday}) | [后一天]({fname_daily_box_tomorrow})\n\n'
 
     for item in items:
         category = item['category']
@@ -336,10 +342,10 @@ def main():
     print(md_daily_box)
 
     Path('archives').mkdir(parents=True, exist_ok=True)
-    fd_daily_box = open(fname_daily_box, mode='w', encoding='utf-8')
+    fd_daily_box = open(fname_daily_box_today, mode='w', encoding='utf-8')
     fd_daily_box.write(md_daily_box)
     fd_daily_box.close()
-    shutil.copy(fname_daily_box, 'README.md')
+    shutil.copy(fname_daily_box_today, 'README.md')
 
     for tag, tag_val in tags_obj.items():
         md_tag = f'## {today_str}\n{tag_val}\n'
