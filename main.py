@@ -296,10 +296,7 @@ def main():
     yesterday_str = yesterday.strftime('%Y%m%d')
     tomorrow_str = tomorrow.strftime('%Y%m%d')
     fname_daily_box_today = f'archives/daily-box-{today_str}.md'
-    fname_daily_box_yesterday = f'archives/daily-box-{yesterday_str}.md'
-    fname_daily_box_tomorrow = f'archives/daily-box-{tomorrow_str}.md'
     md_daily_box = f'# Daily Box {today_str}\n\n'
-    md_daily_box += f'[前一天]({fname_daily_box_yesterday}) | [后一天]({fname_daily_box_tomorrow})\n\n'
 
     for item in items:
         category = item['category']
@@ -338,6 +335,9 @@ def main():
         with open(fname_category, mode='w', encoding='utf-8') as fd_category_new:
             fd_category_new.write(f'{md_category}{md_old}')
 
+    md_daily_box += '## 更多\n'
+    md_daily_box += f'- [前一天](daily-box-{yesterday_str}.md)\n'
+    md_daily_box += f'- [后一天](daily-box-{tomorrow_str}.md)\n\n'
     md_daily_box += 'EOF'
     print(md_daily_box)
 
