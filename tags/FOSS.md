@@ -1,3 +1,6 @@
+## 20230506
+- [It's FOSS](https://itsfoss.com/) | [10 Beautiful Fonts for Your Linux Terminal](https://itsfoss.com/fonts-linux-terminal/)
+
 ## 20230505
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.18: Ubuntu 18.04 to Discontinue, Debian 12 Features, Qemu VM and More](https://itsfoss.com/newsletter/foss-weekly-23-18/)
 

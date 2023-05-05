@@ -1,3 +1,6 @@
+## 20230506
+- [Slashdot](https://developers.slashdot.org/) | [Hugging Face and ServiceNow Release a Free Code-Generating Model](https://developers.slashdot.org/story/23/05/05/1819212/hugging-face-and-servicenow-release-a-free-code-generating-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230501
 - [Slashdot](https://linux.slashdot.org/) | ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | ['sudo' and 'su' Are Being Rewritten In Rust For Memory Safety](https://linux.slashdot.org/story/23/05/01/0020239/sudo-and-su-are-being-rewritten-in-rust-for-memory-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed)
