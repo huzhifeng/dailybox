@@ -1,3 +1,7 @@
+## 20230506
+- [Hacker News](https://news.ycombinator.com/front) | [Htmx Is the Future](https://news.ycombinator.com/item?id=35829733)
+- [Hacker News](https://news.ycombinator.com/front) | [Build your own private WireGuard VPN with PiVPN](https://news.ycombinator.com/item?id=35828046)
+
 ## 20230505
 - [Hacker News](https://news.ycombinator.com/front) | [So this guy is now S3. All of S3](https://news.ycombinator.com/item?id=35820368)
 - [Hacker News](https://news.ycombinator.com/front) | [Google “We have no moat, and neither does OpenAI”](https://news.ycombinator.com/item?id=35813322)

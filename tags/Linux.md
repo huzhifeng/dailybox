@@ -1,3 +1,7 @@
+## 20230506
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #992 谷歌内部备忘录称开源 AI 将会是最后的赢家](https://linux.cn/article-15784-1.html?utm_source=rss&utm_medium=rss)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#94 Configuring Columns](https://thisweek.gnome.org/posts/2023/05/twig-94/)
+
 ## 20230505
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #991 中国人工智能产业几乎没有受到芯片出口管制的影响](https://linux.cn/article-15781-1.html?utm_source=rss&utm_medium=rss)
 

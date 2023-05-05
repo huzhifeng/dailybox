@@ -1,3 +1,8 @@
+## 20230506
+- [Lobsters](https://lobste.rs/) | [macOS Internals](https://lobste.rs/s/il6b75/macos_internals)
+- [Lobsters](https://lobste.rs/) | [A few words on Ruby's type annotations state](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state)
+- [Lobsters](https://lobste.rs/) | [Stop Using Hamburger Menus](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus)
+
 ## 20230505
 - [Lobsters](https://lobste.rs/) | [Mitchell Hashimoto uses a simple code editor](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code)
 - [Lobsters](https://lobste.rs/) | [Maybe you should store passwords in plaintext](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords)

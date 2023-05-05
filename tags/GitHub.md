@@ -1,3 +1,8 @@
+## 20230506
+- [GitHub中文社区](https://www.githubs.cn/trending) | [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)
+
 ## 20230505
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
