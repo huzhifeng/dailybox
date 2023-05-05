@@ -1,3 +1,6 @@
+## 20230505
+- [TED Talks Daily](https://www.ted.com/talks) | [How poetry unlocked my superpowers | Keenan Scott II](https://www.ted.com/talks/keenan_scott_ii_how_poetry_unlocked_my_superpowers?rss)
+
 ## 20230504
 - [TED Talks Daily](https://www.ted.com/talks) | [3 money lessons from infamous scam artists | J Mase III](https://www.ted.com/talks/j_mase_iii_3_money_lessons_from_infamous_scam_artists?rss)
 

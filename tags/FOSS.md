@@ -1,3 +1,6 @@
+## 20230505
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.18: Ubuntu 18.04 to Discontinue, Debian 12 Features, Qemu VM and More](https://itsfoss.com/newsletter/foss-weekly-23-18/)
+
 ## 20230504
 - [It's FOSS](https://itsfoss.com/) | [8 Best Remote Desktop Tools for Linux](https://itsfoss.com/remote-desktop-tools/)
 
