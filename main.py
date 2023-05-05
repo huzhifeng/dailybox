@@ -25,7 +25,7 @@ def main():
     lastweek = today - datetime.timedelta(weeks=1)
     timestamp = datetime.datetime.now().timestamp()
     items = []
-    request_timeout = 30
+    request_timeout = int(os.getenv('TIMEOUT', 180))
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) '\
         'AppleWebKit/537.36 (KHTML, like Gecko) '\
         'Chrome/109.0.0.0 Safari/537.36'
@@ -49,8 +49,15 @@ def main():
             if 'enable' in feed and feed['enable'] == 0:
                 continue
             logger.debug(feed['url'])
-            resp = feedparser.parse(
-                feed['url'], modified=yesterday, request_headers=request_headers)
+            try:
+                resp = feedparser.parse(
+                    feed['url'], modified=yesterday, request_headers=request_headers)
+            except TimeoutError as e_timeout:
+                logger.warning(e_timeout)
+                continue
+            except Exception as e_req:
+                logger.warning(e_req)
+                continue
             if resp.bozo:
                 logger.warning('bozo exception: %s', resp.bozo_exception)
                 if isinstance(resp.bozo_exception, feedparser.exceptions.CharacterEncodingOverride):
