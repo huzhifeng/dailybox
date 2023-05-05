@@ -1,3 +1,6 @@
+## 20230505
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #991 中国人工智能产业几乎没有受到芯片出口管制的影响](https://linux.cn/article-15781-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20230504
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #990 Windows 11 将默认采用 ReFS 文件系统](https://linux.cn/article-15778-1.html?utm_source=rss&utm_medium=rss)
 

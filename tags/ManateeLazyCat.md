@@ -1,3 +1,7 @@
+## 20230505
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [听道德经](https://manateelazycat.github.io/think/2023/05/04/daodejing.html)
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《练习的心态》](https://manateelazycat.github.io/reading/2023/05/04/reading-the-practicing-mind.html)
+
 ## 20230504
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [effortless-indent 快速缩进粘贴的代码](https://manateelazycat.github.io/emacs/2023/05/03/effortless-indent.html)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [读《5000 天后的世界》](https://manateelazycat.github.io/reading/2023/05/03/reading-next-500-days.html)

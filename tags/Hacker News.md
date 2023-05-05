@@ -1,3 +1,7 @@
+## 20230505
+- [Hacker News](https://news.ycombinator.com/front) | [So this guy is now S3. All of S3](https://news.ycombinator.com/item?id=35820368)
+- [Hacker News](https://news.ycombinator.com/front) | [Google “We have no moat, and neither does OpenAI”](https://news.ycombinator.com/item?id=35813322)
+
 ## 20230504
 - [Hacker News](https://news.ycombinator.com/front) | [Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://news.ycombinator.com/item?id=35803435)
 - [Hacker News](https://news.ycombinator.com/front) | [The Framework Laptop 13](https://news.ycombinator.com/item?id=35802210)

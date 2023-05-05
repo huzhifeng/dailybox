@@ -1,3 +1,8 @@
+## 20230505
+- [Lobsters](https://lobste.rs/) | [Mitchell Hashimoto uses a simple code editor](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code)
+- [Lobsters](https://lobste.rs/) | [Maybe you should store passwords in plaintext](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords)
+- [Lobsters](https://lobste.rs/) | [Moving Prime Video service to monolith reduces costs by 90%](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith)
+
 ## 20230504
 - [Lobsters](https://lobste.rs/) | [Somehow AutoHotKey is kinda good now](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now)
 - [Lobsters](https://lobste.rs/) | [Cloud exit pays off in performance too](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too)

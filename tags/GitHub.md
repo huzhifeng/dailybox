@@ -1,3 +1,8 @@
+## 20230505
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
+
 ## 20230504
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 
