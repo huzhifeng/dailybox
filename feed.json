@@ -236,11 +236,39 @@
 			"tags": ["FOSS", "开源"]
 		},
 		{
+			"channel": "Planet Kernel",
+			"portal": "https://planet.kernel.org/",
+			"url": "https://planet.kernel.org/rss20.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "开源"]
+		},
+		{
+			"channel": "Planet Fedora",
+			"portal": "http://fedoraplanet.org/",
+			"url": "http://fedoraplanet.org/rss20.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "Fedora"]
+		},
+		{
+			"channel": "Planet Debian",
+			"portal": "https://planet.debian.org/",
+			"url": "https://planet.debian.org/rss20.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "Debian"]
+		},
+		{
+			"channel": "Planet Ubuntu",
+			"portal": "https://planet.ubuntu.com/",
+			"url": "https://planet.ubuntu.com/rss20.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "Ubuntu"]
+		},
+		{
 			"channel": "Planet virt-tools",
 			"portal": "https://planet.virt-tools.org/",
 			"url": "https://planet.virt-tools.org/atom.xml",
 			"category": "开源",
-			"tags": ["Planet", "虚拟化", "开源"]
+			"tags": ["Planet", "Linux", "虚拟化"]
 		},
 		{
 			"channel": "This Week in GNOME",
@@ -277,6 +305,13 @@
 			"_comment": "http://feeds.feedburner.com/tedtalks_video",
 			"category": "视频",
 			"tags": ["TED"]
+		},
+		{
+			"channel": "DistroWatch Weekly",
+			"portal": "https://distrowatch.com/weekly.php",
+			"url": "https://distrowatch.com/news/dww.xml",
+			"category": "资讯",
+			"tags": ["资讯", "DistroWatch", "周刊"]
 		},
 		{
 			"channel": "喷嚏网",
