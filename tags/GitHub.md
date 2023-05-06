@@ -1,3 +1,8 @@
+## 20230507
+- [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [qdrant/qdrant](https://github.com/qdrant/qdrant)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
 ## 20230506
 - [GitHub中文社区](https://www.githubs.cn/trending) | [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)

@@ -1,3 +1,7 @@
+## 20230507
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #993 Hugging Face 发布免费的代码生成 AI](https://linux.cn/article-15788-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2023](https://reproducible-builds.org/reports/2023-04/)
+
 ## 20230506
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #992 谷歌内部备忘录称开源 AI 将会是最后的赢家](https://linux.cn/article-15784-1.html?utm_source=rss&utm_medium=rss)
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#94 Configuring Columns](https://thisweek.gnome.org/posts/2023/05/twig-94/)

@@ -1,3 +1,6 @@
+## 20230507
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [网页沉浸式双语翻译的原理](https://manateelazycat.github.io/emacs/eaf/2023/05/06/the-principle-of-immersive-translation.html)
+
 ## 20230505
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [听道德经](https://manateelazycat.github.io/think/2023/05/04/daodejing.html)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [读《练习的心态》](https://manateelazycat.github.io/reading/2023/05/04/reading-the-practicing-mind.html)

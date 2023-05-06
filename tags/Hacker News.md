@@ -1,3 +1,8 @@
+## 20230507
+- [Hacker News](https://news.ycombinator.com/front) | [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://news.ycombinator.com/item?id=35843566)
+- [Hacker News](https://news.ycombinator.com/front) | [Atuin replaces your existing shell history with a SQLite database](https://news.ycombinator.com/item?id=35839470)
+- [Hacker News](https://news.ycombinator.com/front) | [Sailing boat rescued by the Götheborg](https://news.ycombinator.com/item?id=35838751)
+
 ## 20230506
 - [Hacker News](https://news.ycombinator.com/front) | [Htmx Is the Future](https://news.ycombinator.com/item?id=35829733)
 - [Hacker News](https://news.ycombinator.com/front) | [Build your own private WireGuard VPN with PiVPN](https://news.ycombinator.com/item?id=35828046)

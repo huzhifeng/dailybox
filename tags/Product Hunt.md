@@ -1,3 +1,7 @@
+## 20230507
+- [Product Hunt](https://www.producthunt.com) | [Indie News](https://www.producthunt.com/posts/indie-news)
+- [Product Hunt](https://www.producthunt.com) | [Smart AIdeas](https://www.producthunt.com/posts/smart-aideas)
+
 ## 20230506
 - [Product Hunt](https://www.producthunt.com) | [Kaleido](https://www.producthunt.com/posts/kaleido-2)
 - [Product Hunt](https://www.producthunt.com) | [Immigram](https://www.producthunt.com/posts/immigram)
