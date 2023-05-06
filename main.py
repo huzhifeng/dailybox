@@ -25,7 +25,7 @@ def main():
     lastweek = today - datetime.timedelta(weeks=1)
     timestamp = datetime.datetime.now().timestamp()
     items = []
-    request_timeout = int(os.getenv('TIMEOUT', 180))
+    request_timeout = int(os.getenv('TIMEOUT', '180'))
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) '\
         'AppleWebKit/537.36 (KHTML, like Gecko) '\
         'Chrome/109.0.0.0 Safari/537.36'
@@ -122,7 +122,7 @@ def main():
                     continue
                 item = {
                     'category': feed['category'],
-                    'tags': feed['tags'],
+                    'tags': feed['tags'].copy(),
                     'channel': feed['channel'],
                     'portal': feed['portal'],
                     'title': entry.title,
