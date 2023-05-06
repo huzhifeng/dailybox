@@ -1,3 +1,8 @@
+## 20230507
+- [Lobsters](https://lobste.rs/) | [Discord Should Remove Usernames Entirely](https://lobste.rs/s/esb6gw/discord_should_remove_usernames)
+- [Lobsters](https://lobste.rs/) | [Memoirs from the old web: IE's crazy content rating system](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content)
+- [Lobsters](https://lobste.rs/) | [WebGPU: Rotating Cube](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube)
+
 ## 20230506
 - [Lobsters](https://lobste.rs/) | [macOS Internals](https://lobste.rs/s/il6b75/macos_internals)
 - [Lobsters](https://lobste.rs/) | [A few words on Ruby's type annotations state](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state)

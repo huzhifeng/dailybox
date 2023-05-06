@@ -1,3 +1,8 @@
+## 20230507
+- [V2EX](https://www.v2ex.com/) | [金蝶 ERM 是一坨大粪还是我是大粪。](https://www.v2ex.com/t/937894)
+- [V2EX](https://www.v2ex.com/) | [兄弟们，控制不住买车的欲望，求打醒](https://www.v2ex.com/t/937813)
+- [V2EX](https://www.v2ex.com/) | [喜闻乐见之选车环节](https://www.v2ex.com/t/937778)
+
 ## 20230506
 - [V2EX](https://www.v2ex.com/) | [闲鱼上该讲信用还是利益？](https://www.v2ex.com/t/937601)
 - [V2EX](https://www.v2ex.com/) | [iPhone 下直接隐藏私密应用的 AALocker，终身会员零元购，限免截止 5 月 31 日。](https://www.v2ex.com/t/937573)

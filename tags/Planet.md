@@ -1,3 +1,6 @@
+## 20230507
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2023](https://reproducible-builds.org/reports/2023-04/)
+
 ## 20230429
 - [Planet virt-tools](https://planet.virt-tools.org/) | [2023 Client Workshop for Linux on IBM Z and LinuxONE North America](https://kvmonz.blogspot.com/2023/04/2023-client-workshop-for-linux-on-ibm-z.html)
 
