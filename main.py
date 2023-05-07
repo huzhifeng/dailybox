@@ -84,16 +84,16 @@ def main():
                 if i >= 3:
                     break
                 if '喷嚏网' == feed['channel']:
-                    if not '喷嚏图卦' in entry.title:
+                    if '喷嚏图卦' not in entry.title:
                         continue
                 elif '津津乐道' == feed['channel']:
-                    if not '科技乱炖' in entry.title and not '编码人声' in entry.title:
+                    if '科技乱炖' not in entry.title and '编码人声' not in entry.title:
                         continue
                 elif '硬核观察' == feed['channel']:
-                    if not '硬核观察' in entry.title:
+                    if '硬核观察' not in entry.title:
                         continue
                 elif '泰晓资讯' == feed['channel']:
-                    if not '泰晓资讯' in entry.title:
+                    if '泰晓资讯' not in entry.title:
                         continue
                 elif 'Hacker News' == feed['channel'] \
                         or 'Lobsters' == feed['channel']:
@@ -232,16 +232,16 @@ def main():
                 if not published or published < yesterday:
                     continue
                 if '网易轻松一刻' == api['channel']:
-                    if not 'source' in entry or not '轻松一刻' == entry['source']:
+                    if 'source' not in entry or not '轻松一刻' == entry['source']:
                         continue
                 if '喷嚏网' == api['channel']:
-                    if not '喷嚏图卦' in entry.title:
+                    if '喷嚏图卦' not in entry.title:
                         continue
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
                 if 'Product Hunt' == api['channel']:
-                    if not '_score' in entry or int(entry['_score']) < 100:
+                    if '_score' not in entry or int(entry['_score']) < 100:
                         continue
                 link_map = {placeholder: entry[placeholder]}
                 if '微博热搜' == api['channel']:
@@ -279,9 +279,9 @@ def main():
                 logger.warning(e_req)
                 continue
             entry = resp.json()
-            if not quote['content'] in entry or not entry[quote['content']]:
+            if quote['content'] not in entry or not entry[quote['content']]:
                 continue
-            if not quote['author'] in entry or not entry[quote['author']]:
+            if quote['author'] not in entry or not entry[quote['author']]:
                 continue
             if 'origin' in quote and quote['origin'] in entry and entry[quote['origin']]:
                 origin = entry[quote['origin']]
@@ -307,12 +307,12 @@ def main():
 
     for item in items:
         category = item['category']
-        if not category in categories_obj:
+        if category not in categories_obj:
             categories_obj[category] = ''
 
         tags = item['tags'] if 'tags' in item else []
         for tag in tags:
-            if not tag in tags_obj:
+            if tag not in tags_obj:
                 tags_obj[tag] = ''
 
         md_entry = ''
