@@ -1,3 +1,8 @@
+## 20230508
+- [Lobsters](https://lobste.rs/) | [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence)
+- [Lobsters](https://lobste.rs/) | [Hardening macOS (updated for macOS Ventura)](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos)
+- [Lobsters](https://lobste.rs/) | [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml)
+
 ## 20230507
 - [Lobsters](https://lobste.rs/) | [Discord Should Remove Usernames Entirely](https://lobste.rs/s/esb6gw/discord_should_remove_usernames)
 - [Lobsters](https://lobste.rs/) | [Memoirs from the old web: IE's crazy content rating system](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content)

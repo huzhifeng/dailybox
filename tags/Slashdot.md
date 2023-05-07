@@ -1,3 +1,7 @@
+## 20230508
+- [Slashdot](https://developers.slashdot.org/) | [Swift Creator's Company Builds New Programming Language 'Mojo' - a Python Superset](https://developers.slashdot.org/story/23/05/07/0544230/swift-creators-company-builds-new-programming-language-mojo---a-python-superset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | ['Faster, Leaner' Python 3.12 Released Today with Improvements to Speed, Multiprocessing](https://developers.slashdot.org/story/23/05/06/2356202/faster-leaner-python-312-released-today-with-improvements-to-speed-multiprocessing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230506
 - [Slashdot](https://developers.slashdot.org/) | [Hugging Face and ServiceNow Release a Free Code-Generating Model](https://developers.slashdot.org/story/23/05/05/1819212/hugging-face-and-servicenow-release-a-free-code-generating-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

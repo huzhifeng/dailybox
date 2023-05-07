@@ -1,3 +1,8 @@
+## 20230508
+- [Hacker News](https://news.ycombinator.com/front) | [EU sends Apple stark warning over USB-C charging on new iPhones](https://news.ycombinator.com/item?id=35849043)
+- [Hacker News](https://news.ycombinator.com/front) | [Walkout at global science journal over ‘unethical’ fees](https://news.ycombinator.com/item?id=35848894)
+- [Hacker News](https://news.ycombinator.com/front) | [macOS Internals](https://news.ycombinator.com/item?id=35847715)
+
 ## 20230507
 - [Hacker News](https://news.ycombinator.com/front) | [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://news.ycombinator.com/item?id=35843566)
 - [Hacker News](https://news.ycombinator.com/front) | [Atuin replaces your existing shell history with a SQLite database](https://news.ycombinator.com/item?id=35839470)

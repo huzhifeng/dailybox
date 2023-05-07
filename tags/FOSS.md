@@ -1,3 +1,6 @@
+## 20230508
+- [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #7: Using Loops in Rust](https://itsfoss.com/rust-loops/)
+
 ## 20230506
 - [It's FOSS](https://itsfoss.com/) | [10 Beautiful Fonts for Your Linux Terminal](https://itsfoss.com/fonts-linux-terminal/)
 

@@ -1,3 +1,8 @@
+## 20230508
+- [V2EX](https://www.v2ex.com/) | [想知道欧美说中文人的比例有多高，外贸网站频繁有同行恶意下单，屏蔽国内 IP 后他们买了家宽代理池继续捣乱（IP 段 76.188.115.x 等，确认是美国家宽），目前特...](https://www.v2ex.com/t/938044)
+- [V2EX](https://www.v2ex.com/) | [诸位是如何打造个人知识库的？ wiki 还是笔记软件？](https://www.v2ex.com/t/938037)
+- [V2EX](https://www.v2ex.com/) | [北京移动宽带 407.7 一年，真香](https://www.v2ex.com/t/937998)
+
 ## 20230507
 - [V2EX](https://www.v2ex.com/) | [金蝶 ERM 是一坨大粪还是我是大粪。](https://www.v2ex.com/t/937894)
 - [V2EX](https://www.v2ex.com/) | [兄弟们，控制不住买车的欲望，求打醒](https://www.v2ex.com/t/937813)

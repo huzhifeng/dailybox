@@ -1,3 +1,8 @@
+## 20230508
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #994 研究发现，硬盘一般三年就坏](https://linux.cn/article-15791-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Fixing missing yubikey trouble on fedora 38](https://kushaldas.in/posts/fixing-missing-yubikey-trouble-on-fedora-38.html)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2023](http://blog.alteholz.eu/2023/05/my-debian-activities-in-april-2023/)
+
 ## 20230507
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #993 Hugging Face 发布免费的代码生成 AI](https://linux.cn/article-15788-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2023](https://reproducible-builds.org/reports/2023-04/)

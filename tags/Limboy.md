@@ -1,3 +1,6 @@
+## 20230508
+- [Limboy](https://limboy.me) | [真诚可能是最重要的一个品德](https://limboy.me/posts/sincerity/)
+
 ## 20230506
 - [Limboy](https://limboy.me) | [使用 Google Groups 作为评论系统](https://limboy.me/posts/use-google-groups-as-comment-system/)
 
