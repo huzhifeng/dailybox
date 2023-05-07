@@ -1,3 +1,8 @@
+## 20230508
+- [Product Hunt](https://www.producthunt.com) | [Sweephy](https://www.producthunt.com/posts/sweephy-3)
+- [Product Hunt](https://www.producthunt.com) | [Mr. Free Tools](https://www.producthunt.com/posts/mr-free-tools-1)
+- [Product Hunt](https://www.producthunt.com) | [Life Planner 2.0](https://www.producthunt.com/posts/life-planner-2-0)
+
 ## 20230507
 - [Product Hunt](https://www.producthunt.com) | [Indie News](https://www.producthunt.com/posts/indie-news)
 - [Product Hunt](https://www.producthunt.com) | [Smart AIdeas](https://www.producthunt.com/posts/smart-aideas)

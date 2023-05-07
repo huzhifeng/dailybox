@@ -1,3 +1,8 @@
+## 20230508
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openai/shap-e](https://github.com/openai/shap-e)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder)
+
 ## 20230507
 - [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [qdrant/qdrant](https://github.com/qdrant/qdrant)
