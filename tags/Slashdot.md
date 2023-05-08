@@ -1,3 +1,7 @@
+## 20230509
+- [Slashdot](https://developers.slashdot.org/) | [Codon Compiler For Python Is Fast - but With Some Caveats](https://developers.slashdot.org/story/23/05/08/0114255/codon-compiler-for-python-is-fast---but-with-some-caveats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Why the Creator of Ruby on Rails Prefers Dynamic Typing](https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230508
 - [Slashdot](https://developers.slashdot.org/) | [Swift Creator's Company Builds New Programming Language 'Mojo' - a Python Superset](https://developers.slashdot.org/story/23/05/07/0544230/swift-creators-company-builds-new-programming-language-mojo---a-python-superset?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | ['Faster, Leaner' Python 3.12 Released Today with Improvements to Speed, Multiprocessing](https://developers.slashdot.org/story/23/05/06/2356202/faster-leaner-python-312-released-today-with-improvements-to-speed-multiprocessing?utm_source=rss1.0mainlinkanon&utm_medium=feed)

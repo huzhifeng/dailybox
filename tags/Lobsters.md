@@ -1,3 +1,8 @@
+## 20230509
+- [Lobsters](https://lobste.rs/) | [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released)
+- [Lobsters](https://lobste.rs/) | [On Custom-Width Integer Types](https://lobste.rs/s/vq4ici/on_custom_width_integer_types)
+- [Lobsters](https://lobste.rs/) | [SpaceTraders: an API based game](https://lobste.rs/s/0l25al/spacetraders_api_based_game)
+
 ## 20230508
 - [Lobsters](https://lobste.rs/) | [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence)
 - [Lobsters](https://lobste.rs/) | [Hardening macOS (updated for macOS Ventura)](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos)

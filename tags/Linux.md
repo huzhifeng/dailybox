@@ -1,3 +1,14 @@
+## 20230509
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #995 比利时合法化白帽黑客行为](https://linux.cn/article-15794-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Microconference proposals are being published](https://lpc.events/blog/current/index.php/2023/05/08/microconference-proposals-are-being-published/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Chatbots de auto-atendimento 🥱](https://avi.alkalay.net/2023/05/dilema-chatbots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Trying different desktop environments using “rpm-ostree rebase”](https://fedoramagazine.org/trying-different-desktop-environments-using-rpm-ostree/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 374 – The event we called left-pad, Episode 77 remaster part 1](https://opensourcesecurity.io/2023/05/07/episode-374-the-event-we-called-left-pad-episode-77-remaster-part-1/)
+- [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Open to work!](https://blog.pault.ag/post/716775061205434368)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Paul Tagliamonte: Open to work!](https://blog.pault.ag/post/716775061205434368)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Spring news from the LXD team](https://ubuntu.com//blog/spring-news-from-the-lxd-team)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Dustin Kirkland: My Walk on the Portuguese Camino de Santiago, 2023](http://blog.dustinkirkland.com/2023/04/camino-de-santiago-2023.html)
+
 ## 20230508
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #994 研究发现，硬盘一般三年就坏](https://linux.cn/article-15791-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Fixing missing yubikey trouble on fedora 38](https://kushaldas.in/posts/fixing-missing-yubikey-trouble-on-fedora-38.html)

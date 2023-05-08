@@ -1,3 +1,7 @@
+## 20230509
+- [Hacker News](https://news.ycombinator.com/front) | [Ink: React for interactive command-line apps](https://news.ycombinator.com/item?id=35863837)
+- [Hacker News](https://news.ycombinator.com/front) | [Street Fighter II, paper trails (2021)](https://news.ycombinator.com/item?id=35859338)
+
 ## 20230508
 - [Hacker News](https://news.ycombinator.com/front) | [EU sends Apple stark warning over USB-C charging on new iPhones](https://news.ycombinator.com/item?id=35849043)
 - [Hacker News](https://news.ycombinator.com/front) | [Walkout at global science journal over ‘unethical’ fees](https://news.ycombinator.com/item?id=35848894)
