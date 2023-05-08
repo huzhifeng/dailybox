@@ -1,3 +1,8 @@
+## 20230509
+- [GitHub中文社区](https://www.githubs.cn/trending) | [qdrant/qdrant](https://github.com/qdrant/qdrant)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry)
+
 ## 20230508
 - [GitHub中文社区](https://www.githubs.cn/trending) | [openai/shap-e](https://github.com/openai/shap-e)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)

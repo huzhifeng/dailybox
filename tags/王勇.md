@@ -1,3 +1,6 @@
+## 20230509
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [谈研发人员的进步](https://manateelazycat.github.io/think/2023/05/08/developer-better.html)
+
 ## 20230507
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [网页沉浸式双语翻译的原理](https://manateelazycat.github.io/emacs/eaf/2023/05/06/the-principle-of-immersive-translation.html)
 
