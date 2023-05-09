@@ -317,7 +317,7 @@
 			"channel": "喷嚏网",
 			"portal": "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
-			"_comment": "https://rsshub.app/dapenti/tugua",
+			"_comment": "https://rsshub.app/dapenti/tugua | https://plink.anyfeeder.com/pentitugua",
 			"category": "资讯",
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
@@ -344,6 +344,31 @@
 			"_comment": "https://m.jiemian.com/lists/459.html",
 			"category": "日报",
 			"tags": ["界面新闻", "科技早报", "日报"]
+		},
+		{
+			"channel": "极客日报",
+			"portal": "https://blog.csdn.net/csdngeeknews",
+			"url": "https://blog.csdn.net/csdngeeknews/rss/list",
+			"_comment": "https://rsshub.app/csdn/blog/csdngeeknews",
+			"category": "日报",
+			"tags": ["CSDN", "极客日报", "日报"]
+		},
+		{
+			"channel": "CSDN资讯",
+			"portal": "https://blog.csdn.net/csdnnews",
+			"url": "https://blog.csdn.net/csdnnews/rss/list",
+			"_comment": "https://rsshub.app/csdn/blog/csdnnews",
+			"enable": 0,
+			"category": "资讯",
+			"tags": ["CSDN", "资讯"]
+		},
+		{
+			"channel": "博客园",
+			"portal": "https://www.cnblogs.com/aggsite/headline",
+			"url": "https://rsshub.app/cnblogs/aggsite/headline",
+			"_comment": "https://feed.cnblogs.com/blog/sitehome/rss",
+			"category": "漫游",
+			"tags": ["博客园"]
 		},
 		{
 			"channel": "十年之约",
@@ -591,6 +616,24 @@
 			}
 		},
 		{
+			"channel": "CSDN排行榜",
+			"portal": "https://blog.csdn.net/rank/list",
+			"url": "https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=25&type=",
+			"category": "漫游",
+			"tags": ["CSDN"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "data"
+			},
+			"entry": {
+				"date": "period",
+				"title": "articleTitle",
+				"link": "{articleDetailUrl}"
+			}
+		},
+		{
 			"channel": "竹白先锋作品",
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
@@ -700,6 +743,25 @@
 				"date": "created",
 				"title": "title",
 				"link": "{url}"
+			}
+		},
+		{
+			"channel": "diff.blog",
+			"portal": "https://diff.blog/",
+			"url": "https://diff.blog/api/posts/top?limit=10",
+			"_comment": "https://diff.blog/api/posts/new?limit=5",
+			"category": "资讯",
+			"tags": ["diff.blog", "资讯"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": ""
+			},
+			"entry": {
+				"date": "updated_on",
+				"title": "title",
+				"link": "https://diff.blog/post/{slug}/"
 			}
 		},
 		{
