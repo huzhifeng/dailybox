@@ -179,8 +179,14 @@ def main():
             resp_json = resp.json()
             keys = api['response']['list'].split('.')
             nesting_level = len(keys)
-            if nesting_level == 1 and keys[0] in resp_json:
-                entries = resp_json[keys[0]]
+            if nesting_level == 1:
+                if not keys[0]:
+                    entries = resp_json
+                else keys[0] in resp_json:
+                    entries = resp_json[keys[0]]
+                else:
+                    logger.debug('%s response error', url)
+                    continue
             elif nesting_level == 2 and keys[0] in resp_json and keys[1] in resp_json[keys[0]]:
                 entries = resp_json[keys[0]][keys[1]]
             elif nesting_level == 3 and keys[0] in resp_json and keys[1] in resp_json[keys[0]] \
