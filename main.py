@@ -229,6 +229,7 @@ def main():
                         published = dateparser.parse(entry[date])
                     elif 'GitHub中文社区' == api['channel'] \
                             or 'GitHub Advanced Search' == api['channel'] \
+                            or 'diff.blog' == api['channel'] \
                             or 'Product Hunt' == api['channel']:
                         # '2023-04-07T10:38:28Z' or '2023-04-10T00:01:00-07:00'
                         published = dateparser.parse(entry[date])
