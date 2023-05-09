@@ -182,7 +182,7 @@ def main():
             if nesting_level == 1:
                 if not keys[0]:
                     entries = resp_json
-                else keys[0] in resp_json:
+                elif keys[0] in resp_json:
                     entries = resp_json[keys[0]]
                 else:
                     logger.debug('%s response error', url)
