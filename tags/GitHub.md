@@ -1,3 +1,9 @@
+## 20230510
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openai/shap-e](https://github.com/openai/shap-e)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [pengsida/learning_research](https://github.com/pengsida/learning_research)
+
 ## 20230509
 - [GitHub中文社区](https://www.githubs.cn/trending) | [qdrant/qdrant](https://github.com/qdrant/qdrant)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src)

@@ -1,3 +1,8 @@
+## 20230510
+- [V2EX](https://www.v2ex.com/) | [主动放弃使用了十年的编辑器之神 Vim](https://www.v2ex.com/t/938628)
+- [V2EX](https://www.v2ex.com/) | [2023 年独立开发者这条路还能走下去吗](https://www.v2ex.com/t/938565)
+- [V2EX](https://www.v2ex.com/) | [求推荐一个滚轮不会出问题的鼠标](https://www.v2ex.com/t/938554)
+
 ## 20230509
 - [V2EX](https://www.v2ex.com/) | [外婆病危 + 女友分手在同一天](https://www.v2ex.com/t/938311)
 - [V2EX](https://www.v2ex.com/) | [如何合理的，合法的在日常中携带着“正当防卫工具”](https://www.v2ex.com/t/938259)

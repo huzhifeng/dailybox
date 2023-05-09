@@ -1,3 +1,8 @@
+## 20230510
+- [Product Hunt](https://www.producthunt.com) | [Briefly AI](https://www.producthunt.com/posts/briefly-ai)
+- [Product Hunt](https://www.producthunt.com) | [Data-driven VC Landscape 2023](https://www.producthunt.com/posts/data-driven-vc-landscape-2023)
+- [Product Hunt](https://www.producthunt.com) | [LT Browser 2.0](https://www.producthunt.com/posts/lt-browser-2-0)
+
 ## 20230509
 - [Product Hunt](https://www.producthunt.com) | [Per Diem](https://www.producthunt.com/posts/per-diem-2)
 - [Product Hunt](https://www.producthunt.com) | [Finch](https://www.producthunt.com/posts/finch-10)

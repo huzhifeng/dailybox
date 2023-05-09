@@ -1,3 +1,6 @@
+## 20230510
+- [TED Talks Daily](https://www.ted.com/talks) | [The disappearing computer -- and a world where you can take AI everywhere | Imran Chaudhri](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere?rss)
+
 ## 20230509
 - [TED Talks Daily](https://www.ted.com/talks) | [4 ways to have healthy conversations about race | Afrika Afeni Mills](https://www.ted.com/talks/afrika_afeni_mills_4_ways_to_have_healthy_conversations_about_race?rss)
 

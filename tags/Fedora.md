@@ -1,3 +1,8 @@
+## 20230510
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Justin W. Flory: “I am the wilderness”: On trust & community](https://blog.jwf.io/2023/05/trust-and-community/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: April 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-april-2023/)
+
 ## 20230509
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Chatbots de auto-atendimento 🥱](https://avi.alkalay.net/2023/05/dilema-chatbots.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Trying different desktop environments using “rpm-ostree rebase”](https://fedoramagazine.org/trying-different-desktop-environments-using-rpm-ostree/)
