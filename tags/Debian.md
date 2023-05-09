@@ -1,3 +1,6 @@
+## 20230510
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.1 on CRAN: New Package](http://dirk.eddelbuettel.com/blog/2023/05/08#crc32c_0.0.1)
+
 ## 20230509
 - [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Open to work!](https://blog.pault.ag/post/716775061205434368)
 

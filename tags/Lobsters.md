@@ -1,3 +1,8 @@
+## 20230510
+- [Lobsters](https://lobste.rs/) | [An Introduction to TLA+ and Its Use in Parties](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties)
+- [Lobsters](https://lobste.rs/) | [The seven specification ur-languages](https://lobste.rs/s/juyhvd/seven_specification_ur_languages)
+- [Lobsters](https://lobste.rs/) | [Odin Programming Language](https://lobste.rs/s/95gumw/odin_programming_language)
+
 ## 20230509
 - [Lobsters](https://lobste.rs/) | [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released)
 - [Lobsters](https://lobste.rs/) | [On Custom-Width Integer Types](https://lobste.rs/s/vq4ici/on_custom_width_integer_types)

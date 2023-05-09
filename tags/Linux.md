@@ -1,3 +1,12 @@
+## 20230510
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #996 数千名黑客将寻找 AI 大模型的缺陷](https://linux.cn/article-15797-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Justin W. Flory: “I am the wilderness”: On trust & community](https://blog.jwf.io/2023/05/trust-and-community/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: April 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-april-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.1 on CRAN: New Package](http://dirk.eddelbuettel.com/blog/2023/05/08#crc32c_0.0.1)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 786](https://fridge.ubuntu.com/2023/05/08/ubuntu-weekly-newsletter-issue-786/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Kubecon EU 2023: Operator Day hosted by Canonical – recordings available](https://ubuntu.com//blog/operator-day-eu-2023-recordings)
+
 ## 20230509
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #995 比利时合法化白帽黑客行为](https://linux.cn/article-15794-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Microconference proposals are being published](https://lpc.events/blog/current/index.php/2023/05/08/microconference-proposals-are-being-published/)

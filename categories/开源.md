@@ -1,3 +1,11 @@
+## 20230510
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Justin W. Flory: “I am the wilderness”: On trust & community](https://blog.jwf.io/2023/05/trust-and-community/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: April 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-april-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.1 on CRAN: New Package](http://dirk.eddelbuettel.com/blog/2023/05/08#crc32c_0.0.1)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 786](https://fridge.ubuntu.com/2023/05/08/ubuntu-weekly-newsletter-issue-786/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Kubecon EU 2023: Operator Day hosted by Canonical – recordings available](https://ubuntu.com//blog/operator-day-eu-2023-recordings)
+
 ## 20230509
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Microconference proposals are being published](https://lpc.events/blog/current/index.php/2023/05/08/microconference-proposals-are-being-published/)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Chatbots de auto-atendimento 🥱](https://avi.alkalay.net/2023/05/dilema-chatbots.html)

@@ -1,3 +1,7 @@
+## 20230510
+- [Hacker News](https://news.ycombinator.com/front) | [Language models can explain neurons in language models](https://news.ycombinator.com/item?id=35877402)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple brings Final Cut Pro and Logic Pro to iPad](https://news.ycombinator.com/item?id=35873732)
+
 ## 20230509
 - [Hacker News](https://news.ycombinator.com/front) | [Ink: React for interactive command-line apps](https://news.ycombinator.com/item?id=35863837)
 - [Hacker News](https://news.ycombinator.com/front) | [Street Fighter II, paper trails (2021)](https://news.ycombinator.com/item?id=35859338)
