@@ -1,3 +1,6 @@
+## 20230511
+- [Slashdot](https://linux.slashdot.org/) | [Goodbye To Roblox On Linux With Their New Anti-Cheat and Wine Blocking](https://linux.slashdot.org/story/23/05/09/225243/goodbye-to-roblox-on-linux-with-their-new-anti-cheat-and-wine-blocking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230509
 - [Slashdot](https://developers.slashdot.org/) | [Codon Compiler For Python Is Fast - but With Some Caveats](https://developers.slashdot.org/story/23/05/08/0114255/codon-compiler-for-python-is-fast---but-with-some-caveats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Why the Creator of Ruby on Rails Prefers Dynamic Typing](https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing?utm_source=rss1.0mainlinkanon&utm_medium=feed)

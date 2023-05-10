@@ -1,3 +1,8 @@
+## 20230511
+- [Lobsters](https://lobste.rs/) | [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin)
+- [Lobsters](https://lobste.rs/) | [See this page fetch itself, byte by byte, over TLS](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte)
+- [Lobsters](https://lobste.rs/) | [Binary formats and protocols: LTV is better than TLV](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better)
+
 ## 20230510
 - [Lobsters](https://lobste.rs/) | [An Introduction to TLA+ and Its Use in Parties](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties)
 - [Lobsters](https://lobste.rs/) | [The seven specification ur-languages](https://lobste.rs/s/juyhvd/seven_specification_ur_languages)

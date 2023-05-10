@@ -1,3 +1,9 @@
+## 20230511
+- [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
+
 ## 20230510
 - [GitHub中文社区](https://www.githubs.cn/trending) | [openai/shap-e](https://github.com/openai/shap-e)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)

@@ -1,3 +1,6 @@
+## 20230511
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [谈研发人员怎么专注](https://manateelazycat.github.io/think/2023/05/10/developer-focus.html)
+
 ## 20230510
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [谈研发人员的烦恼](https://manateelazycat.github.io/think/2023/05/09/developer-trouble.html)
 

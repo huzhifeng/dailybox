@@ -1,3 +1,8 @@
+## 20230511
+- [Product Hunt](https://www.producthunt.com) | [Roketfy](https://www.producthunt.com/posts/roketfy)
+- [Product Hunt](https://www.producthunt.com) | [PDF.ai](https://www.producthunt.com/posts/pdf-ai)
+- [Product Hunt](https://www.producthunt.com) | [Landing Pages Explained](https://www.producthunt.com/posts/landing-pages-explained)
+
 ## 20230510
 - [Product Hunt](https://www.producthunt.com) | [Briefly AI](https://www.producthunt.com/posts/briefly-ai)
 - [Product Hunt](https://www.producthunt.com) | [Data-driven VC Landscape 2023](https://www.producthunt.com/posts/data-driven-vc-landscape-2023)

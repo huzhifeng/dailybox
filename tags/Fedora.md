@@ -1,3 +1,8 @@
+## 20230511
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Use FIDO U2F security keys with Fedora Linux](https://fedoramagazine.org/use-fido-u2f-security-keys-with-fedora-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Weekly status of Packit Team: Packit May 2023](https://packit.dev/posts/weekly/may-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Major Hayden: My beef with mailing lists](https://major.io/p/mailing-list-beef/)
+
 ## 20230510
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Justin W. Flory: “I am the wilderness”: On trust & community](https://blog.jwf.io/2023/05/trust-and-community/)
