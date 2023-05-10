@@ -1,3 +1,8 @@
+## 20230511
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: What is new in Algorithms / Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
+- [Hacker News](https://news.ycombinator.com/front) | [Google I/O 2023](https://news.ycombinator.com/item?id=35886559)
+- [Hacker News](https://news.ycombinator.com/front) | [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
+
 ## 20230510
 - [Hacker News](https://news.ycombinator.com/front) | [Language models can explain neurons in language models](https://news.ycombinator.com/item?id=35877402)
 - [Hacker News](https://news.ycombinator.com/front) | [Apple brings Final Cut Pro and Logic Pro to iPad](https://news.ycombinator.com/item?id=35873732)

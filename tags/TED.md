@@ -1,3 +1,6 @@
+## 20230511
+- [TED Talks Daily](https://www.ted.com/talks) | [How "second chance" laws could transform the US justice system | Sheena Meade](https://www.ted.com/talks/sheena_meade_how_second_chance_laws_could_transform_the_us_justice_system?rss)
+
 ## 20230510
 - [TED Talks Daily](https://www.ted.com/talks) | [The disappearing computer -- and a world where you can take AI everywhere | Imran Chaudhri](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere?rss)
 

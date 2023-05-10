@@ -1,3 +1,14 @@
+## 20230511
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #997 OpenAI 用 GPT-4 来解释 GPT-2 的行为](https://linux.cn/article-15800-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Use FIDO U2F security keys with Fedora Linux](https://fedoramagazine.org/use-fido-u2f-security-keys-with-fedora-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Weekly status of Packit Team: Packit May 2023](https://packit.dev/posts/weekly/may-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Major Hayden: My beef with mailing lists](https://major.io/p/mailing-list-beef/)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Debian Contributions: DEP-17, Debian Reimbursements Web App, and more! (by Utkarsh Gupta, Stefano Rivera)](https://www.freexian.com/blog/debian-contributions-04-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Studio: We Need Your Help](https://ubuntustudio.org/2023/05/we-need-your-help/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: OpenInfra Summit Vancouver 2023 is coming](https://ubuntu.com//blog/openinfra-summit-vancouver-2023)
+- [Slashdot](https://linux.slashdot.org/) | [Goodbye To Roblox On Linux With Their New Anti-Cheat and Wine Blocking](https://linux.slashdot.org/story/23/05/09/225243/goodbye-to-roblox-on-linux-with-their-new-anti-cheat-and-wine-blocking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230510
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #996 数千名黑客将寻找 AI 大模型的缺陷](https://linux.cn/article-15797-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)

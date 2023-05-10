@@ -1,3 +1,8 @@
+## 20230511
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Studio: We Need Your Help](https://ubuntustudio.org/2023/05/we-need-your-help/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: OpenInfra Summit Vancouver 2023 is coming](https://ubuntu.com//blog/openinfra-summit-vancouver-2023)
+
 ## 20230510
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 786](https://fridge.ubuntu.com/2023/05/08/ubuntu-weekly-newsletter-issue-786/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Kubecon EU 2023: Operator Day hosted by Canonical – recordings available](https://ubuntu.com//blog/operator-day-eu-2023-recordings)

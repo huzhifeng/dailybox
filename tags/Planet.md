@@ -1,3 +1,12 @@
+## 20230511
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Use FIDO U2F security keys with Fedora Linux](https://fedoramagazine.org/use-fido-u2f-security-keys-with-fedora-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Weekly status of Packit Team: Packit May 2023](https://packit.dev/posts/weekly/may-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Major Hayden: My beef with mailing lists](https://major.io/p/mailing-list-beef/)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Debian Contributions: DEP-17, Debian Reimbursements Web App, and more! (by Utkarsh Gupta, Stefano Rivera)](https://www.freexian.com/blog/debian-contributions-04-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Studio: We Need Your Help](https://ubuntustudio.org/2023/05/we-need-your-help/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: OpenInfra Summit Vancouver 2023 is coming](https://ubuntu.com//blog/openinfra-summit-vancouver-2023)
+
 ## 20230510
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: MSI and Insecure KMs](https://blogs.gnome.org/hughsie/2023/05/09/msi-and-insecure-kms/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Justin W. Flory: “I am the wilderness”: On trust & community](https://blog.jwf.io/2023/05/trust-and-community/)
