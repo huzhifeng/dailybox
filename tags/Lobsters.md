@@ -1,3 +1,8 @@
+## 20230512
+- [Lobsters](https://lobste.rs/) | [Testing a new encrypted messaging app's extraordinary claims](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s)
+- [Lobsters](https://lobste.rs/) | [Thea Flowers doesn't use package managers](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers)
+- [Lobsters](https://lobste.rs/) | [bcachefs - a new COW filesystem](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem)
+
 ## 20230511
 - [Lobsters](https://lobste.rs/) | [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin)
 - [Lobsters](https://lobste.rs/) | [See this page fetch itself, byte by byte, over TLS](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte)

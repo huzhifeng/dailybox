@@ -1,3 +1,15 @@
+## 20230512
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #998 Roblox 不但不支持 Linux，还屏蔽了 Wine](https://linux.cn/article-15804-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Twitter's e2ee DMs are better than nothing](https://mjg59.dreamwidth.org/66791.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng insider 2023-05: learning; UDP; upgrading;](https://peter.czanik.hu/other/syslog-ng-insider-2023-05-learning-udp-upgrading/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: GNOME Logout Inhbit](http://caolanm.blogspot.com/2023/05/gnome-logout-inhbit.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part II](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-ii/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: India Press freedom, Profiteering, AMD issues in the wild.](https://flossexperiences.wordpress.com/2023/05/11/india-press-freedom-profiteering-amd-issues-in-the-wild/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at Dell Technologies World 2023](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2023)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Matter on Ubuntu: getting started with the standard for smart home devices](https://ubuntu.com//blog/matter-on-ubuntu-getting-started)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E246 Abardinamento Artificial](https://podcastubuntuportugal.org/e246/)
+- [This week in KDE](https://pointieststick.com/) | [Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
+
 ## 20230511
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #997 OpenAI 用 GPT-4 来解释 GPT-2 的行为](https://linux.cn/article-15800-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Use FIDO U2F security keys with Fedora Linux](https://fedoramagazine.org/use-fido-u2f-security-keys-with-fedora-linux/)

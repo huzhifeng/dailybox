@@ -1,3 +1,8 @@
+## 20230512
+- [V2EX](https://www.v2ex.com/) | [2023 年了，我觉得 iPhone 比安卓难用很多](https://www.v2ex.com/t/939263)
+- [V2EX](https://www.v2ex.com/) | [Google 的验证码要把人逼疯](https://www.v2ex.com/t/939152)
+- [V2EX](https://www.v2ex.com/) | [计算机专硕士研一 选择前端还是后端？还是测试？](https://www.v2ex.com/t/939136)
+
 ## 20230511
 - [V2EX](https://www.v2ex.com/) | [有没有真正安全的匿名聊天工具？不用翻墙最好](https://www.v2ex.com/t/938900)
 - [V2EX](https://www.v2ex.com/) | [网贷真的有点可怕啊......](https://www.v2ex.com/t/938893)

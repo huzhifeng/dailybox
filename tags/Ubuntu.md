@@ -1,3 +1,8 @@
+## 20230512
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at Dell Technologies World 2023](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2023)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Matter on Ubuntu: getting started with the standard for smart home devices](https://ubuntu.com//blog/matter-on-ubuntu-getting-started)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E246 Abardinamento Artificial](https://podcastubuntuportugal.org/e246/)
+
 ## 20230511
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Studio: We Need Your Help](https://ubuntustudio.org/2023/05/we-need-your-help/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board)

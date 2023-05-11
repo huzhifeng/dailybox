@@ -1,3 +1,8 @@
+## 20230512
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://news.ycombinator.com/item?id=35905437)
+- [Hacker News](https://news.ycombinator.com/front) | [100K Context Windows](https://news.ycombinator.com/item?id=35904773)
+- [Hacker News](https://news.ycombinator.com/front) | [Electronics Lab Bench Setup Guide](https://news.ycombinator.com/item?id=35903294)
+
 ## 20230511
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: What is new in Algorithms / Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 - [Hacker News](https://news.ycombinator.com/front) | [Google I/O 2023](https://news.ycombinator.com/item?id=35886559)

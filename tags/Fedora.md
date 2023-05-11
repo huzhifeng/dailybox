@@ -1,3 +1,8 @@
+## 20230512
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng insider 2023-05: learning; UDP; upgrading;](https://peter.czanik.hu/other/syslog-ng-insider-2023-05-learning-udp-upgrading/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: GNOME Logout Inhbit](http://caolanm.blogspot.com/2023/05/gnome-logout-inhbit.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part II](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-ii/)
+
 ## 20230511
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Use FIDO U2F security keys with Fedora Linux](https://fedoramagazine.org/use-fido-u2f-security-keys-with-fedora-linux/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Weekly status of Packit Team: Packit May 2023](https://packit.dev/posts/weekly/may-2023/)
