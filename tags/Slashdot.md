@@ -1,3 +1,7 @@
+## 20230512
+- [Slashdot](https://developers.slashdot.org/) | ['Stack Overflow is ChatGPT Casualty'](https://developers.slashdot.org/story/23/05/11/0956219/stack-overflow-is-chatgpt-casualty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Google Launches an AI Coding Bot For Android Developers](https://developers.slashdot.org/story/23/05/11/0149253/google-launches-an-ai-coding-bot-for-android-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230511
 - [Slashdot](https://linux.slashdot.org/) | [Goodbye To Roblox On Linux With Their New Anti-Cheat and Wine Blocking](https://linux.slashdot.org/story/23/05/09/225243/goodbye-to-roblox-on-linux-with-their-new-anti-cheat-and-wine-blocking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

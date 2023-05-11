@@ -1,3 +1,8 @@
+## 20230512
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI 将完全取代前端开发吗？](https://blog.csdn.net/tangxiaoyin/article/details/130597950)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [基于yolov5的NEU-NET产品缺陷目标检测](https://blog.csdn.net/qq_62238325/article/details/130599147)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Redis系列】Redis布隆过滤之8亿大数据集实战](https://blog.csdn.net/weixin_36755535/article/details/130590373)
+
 ## 20230511
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [ChatGPT 之父推出加密货币钱包；Intel 被曝预算砍掉 10％、裁员 20％；Firefox 113 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130593829)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [GPT-4的免费使用方法分享](https://blog.csdn.net/qiuweichen1215/article/details/130566160)

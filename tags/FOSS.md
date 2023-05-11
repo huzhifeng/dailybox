@@ -1,3 +1,6 @@
+## 20230512
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.19: New Zinc Distro, Terminal Fonts, Tux Story and More](https://itsfoss.com/newsletter/foss-weekly-23-19/)
+
 ## 20230508
 - [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #7: Using Loops in Rust](https://itsfoss.com/rust-loops/)
 

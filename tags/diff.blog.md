@@ -1,3 +1,6 @@
+## 20230512
+- [diff.blog](https://diff.blog/) | [30,000 GitHub stars](https://diff.blog/post/30000-github-stars-138959/)
+
 ## 20230511
 - [diff.blog](https://diff.blog/) | [GitHub's New Code Search is Bad for Finding Code](https://diff.blog/post/githubs-new-code-search-is-bad-for-finding-code-138899/)
 

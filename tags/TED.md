@@ -1,3 +1,6 @@
+## 20230512
+- [TED Talks Daily](https://www.ted.com/talks) | [Does working hard really make you a good person? | Azim Shariff](https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person?rss)
+
 ## 20230511
 - [TED Talks Daily](https://www.ted.com/talks) | [How "second chance" laws could transform the US justice system | Sheena Meade](https://www.ted.com/talks/sheena_meade_how_second_chance_laws_could_transform_the_us_justice_system?rss)
 

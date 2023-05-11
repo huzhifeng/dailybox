@@ -1,3 +1,6 @@
+## 20230512
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: India Press freedom, Profiteering, AMD issues in the wild.](https://flossexperiences.wordpress.com/2023/05/11/india-press-freedom-profiteering-amd-issues-in-the-wild/)
+
 ## 20230511
 - [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Debian Contributions: DEP-17, Debian Reimbursements Web App, and more! (by Utkarsh Gupta, Stefano Rivera)](https://www.freexian.com/blog/debian-contributions-04-2023/)
 
