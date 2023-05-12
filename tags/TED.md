@@ -1,3 +1,6 @@
+## 20230513
+- [TED Talks Daily](https://www.ted.com/talks) | [The urgent risks of runaway AI -- and what to do about them | Gary Marcus](https://www.ted.com/talks/gary_marcus_the_urgent_risks_of_runaway_ai_and_what_to_do_about_them?rss)
+
 ## 20230512
 - [TED Talks Daily](https://www.ted.com/talks) | [Does working hard really make you a good person? | Azim Shariff](https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person?rss)
 

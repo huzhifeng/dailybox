@@ -1,3 +1,6 @@
+## 20230513
+- [It's FOSS](https://itsfoss.com/) | [7 Deadly Sins of Distrohopping](https://itsfoss.com/distrohopping-issues/)
+
 ## 20230512
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.19: New Zinc Distro, Terminal Fonts, Tux Story and More](https://itsfoss.com/newsletter/foss-weekly-23-19/)
 
