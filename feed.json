@@ -236,6 +236,13 @@
 			"tags": ["FOSS", "开源"]
 		},
 		{
+			"channel": "Collabora",
+			"portal": "https://www.collabora.com/news-and-blog/",
+			"url": "https://www.collabora.com/newsroom-rss-feed.rss",
+			"category": "开源",
+			"tags": ["Collabora", "Linux", "开源"]
+		},
+		{
 			"channel": "Planet Kernel",
 			"portal": "https://planet.kernel.org/",
 			"url": "https://planet.kernel.org/rss20.xml",
