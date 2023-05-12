@@ -410,6 +410,13 @@
 			"tags": ["Slashdot"]
 		},
 		{
+			"channel": "The Overflow",
+			"portal": "https://stackoverflow.blog/newsletter/",
+			"url": "https://stackoverflow.blog/newsletter/feed/",
+			"category": "资讯",
+			"tags": ["Stack Overflow"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
