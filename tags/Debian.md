@@ -1,3 +1,8 @@
+## 20230513
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230512-Debian-Reunion-Hamburg-2023](http://layer-acht.org/thinking/blog/20230512-Debian-Reunion-Hamburg-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.2 on CRAN: Build Fixes](http://dirk.eddelbuettel.com/blog/2023/05/11#crc32c_0.0.2)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: I hate proprietary software](https://blog.trueelena.org/blog/2023/05/12-i_hate_proprietary_software/index.html)
+
 ## 20230512
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: India Press freedom, Profiteering, AMD issues in the wild.](https://flossexperiences.wordpress.com/2023/05/11/india-press-freedom-profiteering-amd-issues-in-the-wild/)
 

@@ -1,3 +1,6 @@
+## 20230513
+- [Slashdot](https://developers.slashdot.org/) | ['EU's Cyber Resilience Act Contains a Poison Pill for Open Source Developers'](https://developers.slashdot.org/story/23/05/12/159217/eus-cyber-resilience-act-contains-a-poison-pill-for-open-source-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230512
 - [Slashdot](https://developers.slashdot.org/) | ['Stack Overflow is ChatGPT Casualty'](https://developers.slashdot.org/story/23/05/11/0956219/stack-overflow-is-chatgpt-casualty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Google Launches an AI Coding Bot For Android Developers](https://developers.slashdot.org/story/23/05/11/0149253/google-launches-an-ai-coding-bot-for-android-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,8 @@
+## 20230513
+- [Product Hunt](https://www.producthunt.com) | [AutoGPT Plugins by SamurAI](https://www.producthunt.com/posts/autogpt-plugins-by-samurai)
+- [Product Hunt](https://www.producthunt.com) | [OpenOs](https://www.producthunt.com/posts/openos)
+- [Product Hunt](https://www.producthunt.com) | [Storeez.app](https://www.producthunt.com/posts/storeez-app)
+
 ## 20230512
 - [Product Hunt](https://www.producthunt.com) | [Fine-Tuner.ai](https://www.producthunt.com/posts/fine-tuner-ai)
 - [Product Hunt](https://www.producthunt.com) | [Metabob](https://www.producthunt.com/posts/metabob)

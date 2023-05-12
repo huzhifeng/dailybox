@@ -1,3 +1,6 @@
+## 20230513
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Rolando Blanco: [HowTo] Install Passbolt in ubuntu 22.04 (easy way)](https://rolando.iblanco.us/howto-install-passbolt-in-ubuntu-22-04-easy-way/)
+
 ## 20230512
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at Dell Technologies World 2023](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2023)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Matter on Ubuntu: getting started with the standard for smart home devices](https://ubuntu.com//blog/matter-on-ubuntu-getting-started)

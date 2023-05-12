@@ -1,3 +1,8 @@
+## 20230513
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: MariaDB backups in one line](https://avi.alkalay.net/2023/05/mariadb-backups-in-one-line.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Ben Cotton: #inaction bcotton](https://funnelfiasco.com/blog/2023/05/12/inaction-bcotton/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Friday’s Fedora Facts: 2023-19](https://communityblog.fedoraproject.org/fridays-fedora-facts-2023-19/)
+
 ## 20230512
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng insider 2023-05: learning; UDP; upgrading;](https://peter.czanik.hu/other/syslog-ng-insider-2023-05-learning-udp-upgrading/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: GNOME Logout Inhbit](http://caolanm.blogspot.com/2023/05/gnome-logout-inhbit.html)

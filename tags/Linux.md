@@ -1,3 +1,15 @@
+## 20230513
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #999 “特性和错误多到无法列出” 的新文件系统准备进入内核主线](https://linux.cn/article-15807-1.html?utm_source=rss&utm_medium=rss)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: MariaDB backups in one line](https://avi.alkalay.net/2023/05/mariadb-backups-in-one-line.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Ben Cotton: #inaction bcotton](https://funnelfiasco.com/blog/2023/05/12/inaction-bcotton/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Friday’s Fedora Facts: 2023-19](https://communityblog.fedoraproject.org/fridays-fedora-facts-2023-19/)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230512-Debian-Reunion-Hamburg-2023](http://layer-acht.org/thinking/blog/20230512-Debian-Reunion-Hamburg-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.2 on CRAN: Build Fixes](http://dirk.eddelbuettel.com/blog/2023/05/11#crc32c_0.0.2)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: I hate proprietary software](https://blog.trueelena.org/blog/2023/05/12-i_hate_proprietary_software/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Rolando Blanco: [HowTo] Install Passbolt in ubuntu 22.04 (easy way)](https://rolando.iblanco.us/howto-install-passbolt-in-ubuntu-22-04-easy-way/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#95 Overlaid Zoom](https://thisweek.gnome.org/posts/2023/05/twig-95/)
+- [This week in KDE](https://pointieststick.com/) | [These weeks in KDE: no more hidey-hidey authentication dialog games](https://pointieststick.com/2023/05/11/these-weeks-in-kde-no-more-hidey-hidey-authentication-dialog-games/)
+
 ## 20230512
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #998 Roblox 不但不支持 Linux，还屏蔽了 Wine](https://linux.cn/article-15804-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Twitter's e2ee DMs are better than nothing](https://mjg59.dreamwidth.org/66791.html)

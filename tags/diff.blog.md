@@ -1,3 +1,6 @@
+## 20230513
+- [diff.blog](https://diff.blog/) | [Introducing "Implement DNS in a Weekend"](https://diff.blog/post/introducing-implement-dns-in-a-weekend-139055/)
+
 ## 20230512
 - [diff.blog](https://diff.blog/) | [30,000 GitHub stars](https://diff.blog/post/30000-github-stars-138959/)
 

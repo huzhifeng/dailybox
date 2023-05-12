@@ -1,3 +1,12 @@
+## 20230513
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: MariaDB backups in one line](https://avi.alkalay.net/2023/05/mariadb-backups-in-one-line.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Ben Cotton: #inaction bcotton](https://funnelfiasco.com/blog/2023/05/12/inaction-bcotton/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Friday’s Fedora Facts: 2023-19](https://communityblog.fedoraproject.org/fridays-fedora-facts-2023-19/)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230512-Debian-Reunion-Hamburg-2023](http://layer-acht.org/thinking/blog/20230512-Debian-Reunion-Hamburg-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.2 on CRAN: Build Fixes](http://dirk.eddelbuettel.com/blog/2023/05/11#crc32c_0.0.2)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: I hate proprietary software](https://blog.trueelena.org/blog/2023/05/12-i_hate_proprietary_software/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Rolando Blanco: [HowTo] Install Passbolt in ubuntu 22.04 (easy way)](https://rolando.iblanco.us/howto-install-passbolt-in-ubuntu-22-04-easy-way/)
+
 ## 20230512
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Twitter's e2ee DMs are better than nothing](https://mjg59.dreamwidth.org/66791.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng insider 2023-05: learning; UDP; upgrading;](https://peter.czanik.hu/other/syslog-ng-insider-2023-05-learning-udp-upgrading/)

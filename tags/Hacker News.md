@@ -1,3 +1,8 @@
+## 20230513
+- [Hacker News](https://news.ycombinator.com/front) | [The .zip TLD sucks and it needs to be immediately revoked](https://news.ycombinator.com/item?id=35920336)
+- [Hacker News](https://news.ycombinator.com/front) | [Linda Yaccarino is the new CEO of Twitter](https://news.ycombinator.com/item?id=35917912)
+- [Hacker News](https://news.ycombinator.com/front) | [Implement DNS in a Weekend](https://news.ycombinator.com/item?id=35916064)
+
 ## 20230512
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://news.ycombinator.com/item?id=35905437)
 - [Hacker News](https://news.ycombinator.com/front) | [100K Context Windows](https://news.ycombinator.com/item?id=35904773)
