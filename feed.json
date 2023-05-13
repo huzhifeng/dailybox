@@ -243,6 +243,41 @@
 			"tags": ["Collabora", "Linux", "开源"]
 		},
 		{
+			"channel": "Red Hat Blog",
+			"portal": "https://www.redhat.com/en/blog",
+			"url": "https://www.redhat.com/en/rss/blog",
+			"category": "开源",
+			"tags": ["Red Hat", "Linux", "开源"]
+		},
+		{
+			"channel": "Red Hat Developer",
+			"portal": "https://developers.redhat.com/",
+			"url": "https://developers.redhat.com/blog/feed",
+			"category": "开源",
+			"tags": ["Red Hat", "Linux", "开源"]
+		},
+		{
+			"channel": "Phoronix",
+			"portal": "https://www.phoronix.com/",
+			"url": "https://www.phoronix.com/rss.php",
+			"category": "资讯",
+			"tags": ["Phoronix", "Linux"]
+		},
+		{
+			"channel": "9to5Linux",
+			"portal": "https://9to5linux.com/",
+			"url": "https://9to5linux.com/feed/atom",
+			"category": "资讯",
+			"tags": ["9to5Linux", "Linux"]
+		},
+		{
+			"channel": "OMG! Linux",
+			"portal": "https://www.omglinux.com/",
+			"url": "https://www.omglinux.com/feed/",
+			"category": "资讯",
+			"tags": ["OMG! Linux", "Linux"]
+		},
+		{
 			"channel": "Planet Kernel",
 			"portal": "https://planet.kernel.org/",
 			"url": "https://planet.kernel.org/rss20.xml",
