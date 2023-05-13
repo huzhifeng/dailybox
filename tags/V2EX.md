@@ -1,3 +1,8 @@
+## 20230514
+- [V2EX](https://www.v2ex.com/) | [重疾险终于定下来了，有没有懂行的帮我看看](https://www.v2ex.com/t/939762)
+- [V2EX](https://www.v2ex.com/) | [国内大部分大学和发达国家差距真不是一点半点](https://www.v2ex.com/t/939753)
+- [V2EX](https://www.v2ex.com/) | [你们是如何管理实体的手机卡的](https://www.v2ex.com/t/939745)
+
 ## 20230513
 - [V2EX](https://www.v2ex.com/) | [看了《2023 年了，我觉得 iPhone 比安卓难用很多》之后，想问各位用 iPhone 并且觉得体验很好的朋友说一下为什么](https://www.v2ex.com/t/939521)
 - [V2EX](https://www.v2ex.com/) | [v2ex plus 用户们，你们知道你们的浏览器被用来跑分布式爬虫了吗](https://www.v2ex.com/t/939486)

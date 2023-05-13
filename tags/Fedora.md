@@ -1,3 +1,7 @@
+## 20230514
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.19 and 8.2.6](https://blog.remirepo.net/post/2023/05/13/PHP-version-8.1.19-and-8.2.6)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/13/finished-reading-the.html)
+
 ## 20230513
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: MariaDB backups in one line](https://avi.alkalay.net/2023/05/mariadb-backups-in-one-line.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Ben Cotton: #inaction bcotton](https://funnelfiasco.com/blog/2023/05/12/inaction-bcotton/)

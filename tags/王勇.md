@@ -1,3 +1,6 @@
+## 20230514
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [EAF Browser 支持 HTML5 视频](https://manateelazycat.github.io/emacs/eaf/2023/05/13/eaf-browser-html5-video.html)
+
 ## 20230511
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [谈研发人员怎么专注](https://manateelazycat.github.io/think/2023/05/10/developer-focus.html)
 
