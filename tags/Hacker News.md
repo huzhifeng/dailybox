@@ -1,3 +1,6 @@
+## 20230514
+- [Hacker News](https://news.ycombinator.com/front) | [TikTok Owner Had 'Backdoor' for CCP Access to US Data, Lawsuit Alleges](https://news.ycombinator.com/item?id=35929348)
+
 ## 20230513
 - [Hacker News](https://news.ycombinator.com/front) | [The .zip TLD sucks and it needs to be immediately revoked](https://news.ycombinator.com/item?id=35920336)
 - [Hacker News](https://news.ycombinator.com/front) | [Linda Yaccarino is the new CEO of Twitter](https://news.ycombinator.com/item?id=35917912)

@@ -1,3 +1,8 @@
+## 20230514
+- [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+
 ## 20230513
 - [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)

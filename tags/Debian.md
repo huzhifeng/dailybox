@@ -1,3 +1,7 @@
+## 20230514
+- [Planet Debian](https://planet.debian.org/) | [Sergio Durigan Junior: Ubuntu debuginfod and source code indexing](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
+
 ## 20230513
 - [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230512-Debian-Reunion-Hamburg-2023](http://layer-acht.org/thinking/blog/20230512-Debian-Reunion-Hamburg-2023/)
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: crc32c 0.0.2 on CRAN: Build Fixes](http://dirk.eddelbuettel.com/blog/2023/05/11#crc32c_0.0.2)

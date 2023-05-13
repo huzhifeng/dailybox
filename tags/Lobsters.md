@@ -1,3 +1,8 @@
+## 20230514
+- [Lobsters](https://lobste.rs/) | [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
+- [Lobsters](https://lobste.rs/) | [This time, it feels different](https://lobste.rs/s/fvilxt/this_time_it_feels_different)
+- [Lobsters](https://lobste.rs/) | [Oils 0.15.0 - Big Contributions and More Concessions](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more)
+
 ## 20230512
 - [Lobsters](https://lobste.rs/) | [Testing a new encrypted messaging app's extraordinary claims](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s)
 - [Lobsters](https://lobste.rs/) | [Thea Flowers doesn't use package managers](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers)

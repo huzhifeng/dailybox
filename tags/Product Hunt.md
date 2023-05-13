@@ -1,3 +1,8 @@
+## 20230514
+- [Product Hunt](https://www.producthunt.com) | [PicAvatar](https://www.producthunt.com/posts/picavatar)
+- [Product Hunt](https://www.producthunt.com) | [gifstat](https://www.producthunt.com/posts/gifstat)
+- [Product Hunt](https://www.producthunt.com) | [Taskade AI Workflows](https://www.producthunt.com/posts/taskade-ai-workflows)
+
 ## 20230513
 - [Product Hunt](https://www.producthunt.com) | [AutoGPT Plugins by SamurAI](https://www.producthunt.com/posts/autogpt-plugins-by-samurai)
 - [Product Hunt](https://www.producthunt.com) | [OpenOs](https://www.producthunt.com/posts/openos)

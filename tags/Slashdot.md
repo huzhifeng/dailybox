@@ -1,3 +1,6 @@
+## 20230514
+- [Slashdot](https://linux.slashdot.org/) | [Despite Layoffs, Open Source and Linux Skills are Still in Demand](https://news.slashdot.org/story/23/05/13/0150256/despite-layoffs-open-source-and-linux-skills-are-still-in-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230513
 - [Slashdot](https://developers.slashdot.org/) | ['EU's Cyber Resilience Act Contains a Poison Pill for Open Source Developers'](https://developers.slashdot.org/story/23/05/12/159217/eus-cyber-resilience-act-contains-a-poison-pill-for-open-source-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

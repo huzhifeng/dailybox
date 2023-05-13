@@ -1,3 +1,17 @@
+## 20230514
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1000 修复一个零日漏洞要多久，有时候需要一年](https://linux.cn/article-15810-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10 Released For Guile-Written Init/Service Manager](https://www.phoronix.com/news/GNU-Shepherd-0.10)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Aims For Greater Script Execution Control On Linux](https://www.phoronix.com/news/MS-Linux-Script-Exec-Control)
+- [Phoronix](https://www.phoronix.com/) | [Fwupd 1.9.1 Released With Many Bug Fixes, New Capabilities](https://www.phoronix.com/news/Fwupd-1.9.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.106 Improves Breeze Icons, Plasma Browser Integration, and More](https://9to5linux.com/kde-frameworks-5-106-improves-breeze-icons-plasma-browser-integration-and-more)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.19 and 8.2.6](https://blog.remirepo.net/post/2023/05/13/PHP-version-8.1.19-and-8.2.6)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/13/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Sergio Durigan Junior: Ubuntu debuginfod and source code indexing](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Sergio Durigan Junior: Ubuntu debuginfod and source code indexing](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 (Bionic Beaver) begins 31 May 2023](https://fridge.ubuntu.com/2023/05/13/extended-security-maintenance-for-ubuntu-18-04-bionic-beaver-begins-31-may-2023/)
+- [Slashdot](https://linux.slashdot.org/) | [Despite Layoffs, Open Source and Linux Skills are Still in Demand](https://news.slashdot.org/story/23/05/13/0150256/despite-layoffs-open-source-and-linux-skills-are-still-in-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230513
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #999 “特性和错误多到无法列出” 的新文件系统准备进入内核主线](https://linux.cn/article-15807-1.html?utm_source=rss&utm_medium=rss)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: MariaDB backups in one line](https://avi.alkalay.net/2023/05/mariadb-backups-in-one-line.html)
