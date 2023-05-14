@@ -1,3 +1,8 @@
+## 20230515
+- [Lobsters](https://lobste.rs/) | [Context-Free Grammar Parsing with LLMs](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms)
+- [Lobsters](https://lobste.rs/) | [Diving into a secret macOS tool - networkQuality](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool)
+- [Lobsters](https://lobste.rs/) | [Build a desktop app with Qt and Rust](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust)
+
 ## 20230514
 - [Lobsters](https://lobste.rs/) | [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 - [Lobsters](https://lobste.rs/) | [This time, it feels different](https://lobste.rs/s/fvilxt/this_time_it_feels_different)

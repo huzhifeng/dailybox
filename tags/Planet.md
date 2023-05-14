@@ -1,3 +1,8 @@
+## 20230515
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Joining files with FFmpeg](http://blog.sesse.net/blog/tech/2023-05-14-22-54_joining_files_with_ffmpeg.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: The 2023 LinuxCNC Norwegian developer gathering](https://people.skolelinux.org/pere/blog/The_2023_LinuxCNC_Norwegian_developer_gathering.html)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230514-fwupd](http://layer-acht.org/thinking/blog/20230514-fwupd/)
+
 ## 20230514
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.19 and 8.2.6](https://blog.remirepo.net/post/2023/05/13/PHP-version-8.1.19-and-8.2.6)
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/13/finished-reading-the.html)

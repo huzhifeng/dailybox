@@ -1,3 +1,6 @@
+## 20230515
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [最佳代理实践 2023-05-14](https://manateelazycat.github.io/proxy/2023/05/14/best-proxy.html)
+
 ## 20230514
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [EAF Browser 支持 HTML5 视频](https://manateelazycat.github.io/emacs/eaf/2023/05/13/eaf-browser-html5-video.html)
 

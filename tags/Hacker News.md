@@ -1,3 +1,7 @@
+## 20230515
+- [Hacker News](https://news.ycombinator.com/front) | [Run Llama 13B with a 6GB graphics card](https://news.ycombinator.com/item?id=35937505)
+- [Hacker News](https://news.ycombinator.com/front) | [The networkQuality tool on macOS](https://news.ycombinator.com/item?id=35936999)
+
 ## 20230514
 - [Hacker News](https://news.ycombinator.com/front) | [TikTok Owner Had 'Backdoor' for CCP Access to US Data, Lawsuit Alleges](https://news.ycombinator.com/item?id=35929348)
 

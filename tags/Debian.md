@@ -1,3 +1,8 @@
+## 20230515
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Joining files with FFmpeg](http://blog.sesse.net/blog/tech/2023-05-14-22-54_joining_files_with_ffmpeg.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: The 2023 LinuxCNC Norwegian developer gathering](https://people.skolelinux.org/pere/blog/The_2023_LinuxCNC_Norwegian_developer_gathering.html)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230514-fwupd](http://layer-acht.org/thinking/blog/20230514-fwupd/)
+
 ## 20230514
 - [Planet Debian](https://planet.debian.org/) | [Sergio Durigan Junior: Ubuntu debuginfod and source code indexing](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
