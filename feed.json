@@ -236,6 +236,13 @@
 			"tags": ["FOSS", "开源"]
 		},
 		{
+			"channel": "LibHunt",
+			"portal": "https://www.libhunt.com/",
+			"url": "https://www.libhunt.com/feed",
+			"category": "开源",
+			"tags": ["LibHunt", "开源"]
+		},
+		{
 			"channel": "Collabora",
 			"portal": "https://www.collabora.com/news-and-blog/",
 			"url": "https://www.collabora.com/newsroom-rss-feed.rss",
