@@ -1,3 +1,6 @@
+## 20230515
+- [diff.blog](https://diff.blog/) | [The Group Decode ROM: The 8086 processor's first step of instruction decoding](https://diff.blog/post/the-group-decode-rom-the-8086-processors-first-step-of-instruction-decoding-139114/)
+
 ## 20230513
 - [diff.blog](https://diff.blog/) | [Introducing "Implement DNS in a Weekend"](https://diff.blog/post/introducing-implement-dns-in-a-weekend-139055/)
 

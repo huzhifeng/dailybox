@@ -1,3 +1,12 @@
+## 20230515
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1001 微软正在研究使 Linux 脚本更安全](https://linux.cn/article-15813-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc2 Released As A Fairly Calm Mother's Day Kernel](https://www.phoronix.com/news/Linux-6.4-rc2)
+- [Phoronix](https://www.phoronix.com/) | [Linux Features Loved By Microsoft Engineers Working On WSL2](https://www.phoronix.com/news/Linux-Kernel-Features-MS-Loves)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc2 Preps For AMD Zen 4 Model 78h](https://www.phoronix.com/news/AMD-Family-19h-Model-78h-Linux)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Joining files with FFmpeg](http://blog.sesse.net/blog/tech/2023-05-14-22-54_joining_files_with_ffmpeg.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: The 2023 LinuxCNC Norwegian developer gathering](https://people.skolelinux.org/pere/blog/The_2023_LinuxCNC_Norwegian_developer_gathering.html)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230514-fwupd](http://layer-acht.org/thinking/blog/20230514-fwupd/)
+
 ## 20230514
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1000 修复一个零日漏洞要多久，有时候需要一年](https://linux.cn/article-15810-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10 Released For Guile-Written Init/Service Manager](https://www.phoronix.com/news/GNU-Shepherd-0.10)
