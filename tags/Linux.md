@@ -1,3 +1,19 @@
+## 20230516
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1002 某种程度上亚马逊 OpenSearch 成功了](https://linux.cn/article-15816-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy JBoss EAP on an Azure virtual machine](https://developers.redhat.com/articles/2023/05/15/how-deploy-jboss-eap-azure-virtual-machine)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use the new OpenShift quick starts to deploy JBoss EAP](https://developers.redhat.com/articles/2023/05/15/how-use-new-openshift-quick-starts-deploy-jboss-eap)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Clang 17 Adds Initial C++26 Compile Flags With -std=c++26](https://www.phoronix.com/news/LLVM-Clang-17-std-CPP-26-CPP2C)
+- [Phoronix](https://www.phoronix.com/) | [Sourceware Now Part Of The Software Freedom Conservancy](https://www.phoronix.com/news/Sourceware-Joins-SFC-2023)
+- [Phoronix](https://www.phoronix.com/) | [TornadoVM Continues Adapting Java OpenJDK/GraalVM For Heterogeneous Hardware](https://www.phoronix.com/news/TornadoVM-0.15.1)
+- [9to5Linux](https://9to5linux.com/) | [KeePassXC 2.7.5 Password Manager Adds New Option to Allow Screenshots, Botan 3 Support](https://9to5linux.com/keepassxc-2-7-5-password-manager-adds-new-option-to-allow-screenshots-botan-3-support)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 14th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-may-14th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: The Community Platform Engineering F2F 2023 Experience – Part II](https://fedoramagazine.org/the-community-platform-engineering-f2f-2023-experience-part-ii/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 375 – The market forces of left-pad, Episode 77 remaster part 2](https://opensourcesecurity.io/2023/05/14/episode-375-the-market-forces-of-left-pad-episode-77-remaster-part-2/)
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: GCP: Private Service Connect Forwarding Rules can not be Updated](http://sven.stormbind.net/blog/posts/gcp_psc_forwarding_rule_terraform/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSimdJson 0.1.10 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2023/05/14#rcppsimdjson_0.1.10)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat's Layoffs Included Fedora Program Manager](https://linux.slashdot.org/story/23/05/15/0517232/red-hats-layoffs-included-fedora-program-manager?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230515
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1001 微软正在研究使 Linux 脚本更安全](https://linux.cn/article-15813-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc2 Released As A Fairly Calm Mother's Day Kernel](https://www.phoronix.com/news/Linux-6.4-rc2)

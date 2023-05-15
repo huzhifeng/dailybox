@@ -1,3 +1,6 @@
+## 20230516
+- [TED Talks Daily](https://www.ted.com/talks) | [What the world can learn from China's innovation playbook | Keyu Jin](https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?rss)
+
 ## 20230513
 - [TED Talks Daily](https://www.ted.com/talks) | [The urgent risks of runaway AI -- and what to do about them | Gary Marcus](https://www.ted.com/talks/gary_marcus_the_urgent_risks_of_runaway_ai_and_what_to_do_about_them?rss)
 

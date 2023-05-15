@@ -1,3 +1,8 @@
+## 20230516
+- [Lobsters](https://lobste.rs/) | [Large language models and plagiarism](https://lobste.rs/s/926cq7/large_language_models_plagiarism)
+- [Lobsters](https://lobste.rs/) | [Real Multithreading is Coming to Python](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python)
+- [Lobsters](https://lobste.rs/) | [The Maddest My Code Made Anyone](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone)
+
 ## 20230515
 - [Lobsters](https://lobste.rs/) | [Context-Free Grammar Parsing with LLMs](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms)
 - [Lobsters](https://lobste.rs/) | [Diving into a secret macOS tool - networkQuality](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool)

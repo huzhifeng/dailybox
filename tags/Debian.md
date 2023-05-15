@@ -1,3 +1,7 @@
+## 20230516
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: GCP: Private Service Connect Forwarding Rules can not be Updated](http://sven.stormbind.net/blog/posts/gcp_psc_forwarding_rule_terraform/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSimdJson 0.1.10 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2023/05/14#rcppsimdjson_0.1.10)
+
 ## 20230515
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Joining files with FFmpeg](http://blog.sesse.net/blog/tech/2023-05-14-22-54_joining_files_with_ffmpeg.html)
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: The 2023 LinuxCNC Norwegian developer gathering](https://people.skolelinux.org/pere/blog/The_2023_LinuxCNC_Norwegian_developer_gathering.html)

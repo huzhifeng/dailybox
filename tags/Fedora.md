@@ -1,3 +1,8 @@
+## 20230516
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: The Community Platform Engineering F2F 2023 Experience – Part II](https://fedoramagazine.org/the-community-platform-engineering-f2f-2023-experience-part-ii/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 375 – The market forces of left-pad, Episode 77 remaster part 2](https://opensourcesecurity.io/2023/05/14/episode-375-the-market-forces-of-left-pad-episode-77-remaster-part-2/)
+
 ## 20230514
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.19 and 8.2.6](https://blog.remirepo.net/post/2023/05/13/PHP-version-8.1.19-and-8.2.6)
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/13/finished-reading-the.html)
