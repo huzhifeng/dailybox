@@ -1,3 +1,6 @@
+## 20230516
+- [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #8: Write the Milestone Rust Program](https://itsfoss.com/milestone-rust-program/)
+
 ## 20230513
 - [It's FOSS](https://itsfoss.com/) | [7 Deadly Sins of Distrohopping](https://itsfoss.com/distrohopping-issues/)
 

@@ -1,3 +1,9 @@
+## 20230516
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米辟谣武汉总部35岁以上员工只保留10%；丰田致歉！200万车主车辆数据遭泄露；jQuery 3.7.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130677773)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT教程（终极版）](https://blog.csdn.net/qq_41838305/article/details/130646196)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 Finops Crane 集训营】学习云原生成本优化](https://blog.csdn.net/zhai_865327/article/details/130659994)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [一觉醒来Chat gpt就被淘汰了](https://blog.csdn.net/qiuweichen1215/article/details/130666022)
+
 ## 20230515
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【ChatGPT】ChatGPT国内镜像网站集合](https://blog.csdn.net/m0_73367097/article/details/130600177)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【飞书ChatGPT机器人】飞书接入ChatGPT，打造智能问答助手](https://blog.csdn.net/weixin_43412762/article/details/130653644)

@@ -1,3 +1,6 @@
+## 20230516
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://news.ycombinator.com/item?id=35948462)
+
 ## 20230515
 - [Hacker News](https://news.ycombinator.com/front) | [Run Llama 13B with a 6GB graphics card](https://news.ycombinator.com/item?id=35937505)
 - [Hacker News](https://news.ycombinator.com/front) | [The networkQuality tool on macOS](https://news.ycombinator.com/item?id=35936999)

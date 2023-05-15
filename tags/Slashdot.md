@@ -1,3 +1,7 @@
+## 20230516
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat's Layoffs Included Fedora Program Manager](https://linux.slashdot.org/story/23/05/15/0517232/red-hats-layoffs-included-fedora-program-manager?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Cloudflare CTO Predicts Coding AIs Will Bring More Productivity, Urges 'Data Fluidity'](https://tech.slashdot.org/story/23/05/15/0147234/cloudflare-cto-predicts-coding-ais-will-bring-more-productivity-urges-data-fluidity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230514
 - [Slashdot](https://linux.slashdot.org/) | [Despite Layoffs, Open Source and Linux Skills are Still in Demand](https://news.slashdot.org/story/23/05/13/0150256/despite-layoffs-open-source-and-linux-skills-are-still-in-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,8 @@
+## 20230516
+- [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengzhile/pandora](https://github.com/pengzhile/pandora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+
 ## 20230515
 - [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)

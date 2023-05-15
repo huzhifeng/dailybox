@@ -1,3 +1,8 @@
+## 20230516
+- [Product Hunt](https://www.producthunt.com) | [aiCarousels.com](https://www.producthunt.com/posts/aicarousels-com)
+- [Product Hunt](https://www.producthunt.com) | [Vibinex Code-Review](https://www.producthunt.com/posts/vibinex-code-review)
+- [Product Hunt](https://www.producthunt.com) | [Fake It Till You Make It](https://www.producthunt.com/posts/fake-it-till-you-make-it)
+
 ## 20230515
 - [Product Hunt](https://www.producthunt.com) | [Lalamu Studio Demo](https://www.producthunt.com/posts/lalamu-studio-demo)
 - [Product Hunt](https://www.producthunt.com) | [PaletteBrain](https://www.producthunt.com/posts/palettebrain)
