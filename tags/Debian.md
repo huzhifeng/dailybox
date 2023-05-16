@@ -1,3 +1,6 @@
+## 20230517
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, April 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-04/)
+
 ## 20230516
 - [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: GCP: Private Service Connect Forwarding Rules can not be Updated](http://sven.stormbind.net/blog/posts/gcp_psc_forwarding_rule_terraform/)
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSimdJson 0.1.10 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2023/05/14#rcppsimdjson_0.1.10)

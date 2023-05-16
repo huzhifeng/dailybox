@@ -1,3 +1,10 @@
+## 20230517
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng Python Packaging](https://peter.czanik.hu/other/syslog-ng-python-packaging/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Mark J. Wielaard: Sourceware joins Software Freedom Conservancy](https://gnu.wildebeest.org/blog/mjw/2023/05/16/sourceware-joins-software-freedom-conservancy/)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, April 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-04/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Soaking Up the Cider](https://linuxmatters.sh/3/)
+
 ## 20230516
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: The Community Platform Engineering F2F 2023 Experience – Part II](https://fedoramagazine.org/the-community-platform-engineering-f2f-2023-experience-part-ii/)

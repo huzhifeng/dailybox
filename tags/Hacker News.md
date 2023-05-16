@@ -1,3 +1,8 @@
+## 20230517
+- [Hacker News](https://news.ycombinator.com/front) | [The Sourdough Framework](https://news.ycombinator.com/item?id=35961590)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://news.ycombinator.com/item?id=35960663)
+- [Hacker News](https://news.ycombinator.com/front) | [Sam Altman goes before US Congress to propose licenses for building AI](https://news.ycombinator.com/item?id=35960125)
+
 ## 20230516
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://news.ycombinator.com/item?id=35948462)
 

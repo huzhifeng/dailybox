@@ -1,3 +1,8 @@
+## 20230517
+- [Phoronix](https://www.phoronix.com/) | [Rocky Linux 9.2 Released With Intel Arc Graphics Support, AArch64 64kb Page Size Kernel](https://www.phoronix.com/news/Rocky-Linux-9.2)
+- [Phoronix](https://www.phoronix.com/) | [Lutris 0.5.13 Released - More Responsive & Restores Ability To Run Games Via Proton](https://www.phoronix.com/news/Lutris-0.5.13-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel Uncore Frequency Linux Driver Prepares For TPMI & Cluster Level Power Controls](https://www.phoronix.com/news/Intel-Uncore-Freq-Cluster-Cont)
+
 ## 20230516
 - [Phoronix](https://www.phoronix.com/) | [LLVM Clang 17 Adds Initial C++26 Compile Flags With -std=c++26](https://www.phoronix.com/news/LLVM-Clang-17-std-CPP-26-CPP2C)
 - [Phoronix](https://www.phoronix.com/) | [Sourceware Now Part Of The Software Freedom Conservancy](https://www.phoronix.com/news/Sourceware-Joins-SFC-2023)

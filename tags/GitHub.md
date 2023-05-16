@@ -1,3 +1,9 @@
+## 20230517
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sunner/ChatALL](https://github.com/sunner/ChatALL)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel)
+
 ## 20230516
 - [GitHub中文社区](https://www.githubs.cn/trending) | [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [pengzhile/pandora](https://github.com/pengzhile/pandora)

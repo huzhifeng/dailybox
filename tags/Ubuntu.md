@@ -1,3 +1,6 @@
+## 20230517
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Soaking Up the Cider](https://linuxmatters.sh/3/)
+
 ## 20230514
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Sergio Durigan Junior: Ubuntu debuginfod and source code indexing](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 (Bionic Beaver) begins 31 May 2023](https://fridge.ubuntu.com/2023/05/13/extended-security-maintenance-for-ubuntu-18-04-bionic-beaver-begins-31-may-2023/)

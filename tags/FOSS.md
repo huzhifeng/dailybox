@@ -1,3 +1,6 @@
+## 20230517
+- [It's FOSS](https://itsfoss.com/) | [Beginner's Guide to System Updates in Linux Mint](https://itsfoss.com/linux-mint-update/)
+
 ## 20230516
 - [It's FOSS](https://itsfoss.com/) | [Rust Basics Series #8: Write the Milestone Rust Program](https://itsfoss.com/milestone-rust-program/)
 

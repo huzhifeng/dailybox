@@ -1,3 +1,9 @@
+## 20230517
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [Midjourney官方中文版在QQ开启内测申请；“Hi,Siri”将成历史，苹果计划修改语音助手唤醒方式|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130698979)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [5.6 Mybatis代码生成器Mybatis Generator (MBG)实战详解](https://blog.csdn.net/scm_2008/article/details/130630861)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT教程（终极版）](https://blog.csdn.net/qq_41838305/article/details/130646196)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [一觉醒来Chat gpt就被淘汰了](https://blog.csdn.net/qiuweichen1215/article/details/130666022)
+
 ## 20230516
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米辟谣武汉总部35岁以上员工只保留10%；丰田致歉！200万车主车辆数据遭泄露；jQuery 3.7.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130677773)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT教程（终极版）](https://blog.csdn.net/qq_41838305/article/details/130646196)

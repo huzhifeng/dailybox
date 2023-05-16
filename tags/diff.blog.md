@@ -1,3 +1,6 @@
+## 20230517
+- [diff.blog](https://diff.blog/) | [Haskell in Production: CollegeVine](https://diff.blog/post/haskell-in-production-collegevine-139256/)
+
 ## 20230515
 - [diff.blog](https://diff.blog/) | [The Group Decode ROM: The 8086 processor's first step of instruction decoding](https://diff.blog/post/the-group-decode-rom-the-8086-processors-first-step-of-instruction-decoding-139114/)
 

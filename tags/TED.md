@@ -1,3 +1,6 @@
+## 20230517
+- [TED Talks Daily](https://www.ted.com/talks) | [3 ways your money can fight climate change | Veronica Chau](https://www.ted.com/talks/veronica_chau_3_ways_your_money_can_fight_climate_change?rss)
+
 ## 20230516
 - [TED Talks Daily](https://www.ted.com/talks) | [What the world can learn from China's innovation playbook | Keyu Jin](https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?rss)
 

@@ -1,3 +1,15 @@
+## 20230517
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1003 微软 WSL2 工程师超爱的 Linux 功能](https://linux.cn/article-15819-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [The benefits of Fedora 38 long double transition in ppc64le](https://developers.redhat.com/articles/2023/05/16/benefits-fedora-38-long-double-transition-ppc64le)
+- [Phoronix](https://www.phoronix.com/) | [Rocky Linux 9.2 Released With Intel Arc Graphics Support, AArch64 64kb Page Size Kernel](https://www.phoronix.com/news/Rocky-Linux-9.2)
+- [Phoronix](https://www.phoronix.com/) | [Lutris 0.5.13 Released - More Responsive & Restores Ability To Run Games Via Proton](https://www.phoronix.com/news/Lutris-0.5.13-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel Uncore Frequency Linux Driver Prepares For TPMI & Cluster Level Power Controls](https://www.phoronix.com/news/Intel-Uncore-Freq-Cluster-Cont)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng Python Packaging](https://peter.czanik.hu/other/syslog-ng-python-packaging/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Mark J. Wielaard: Sourceware joins Software Freedom Conservancy](https://gnu.wildebeest.org/blog/mjw/2023/05/16/sourceware-joins-software-freedom-conservancy/)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, April 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-04/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Soaking Up the Cider](https://linuxmatters.sh/3/)
+
 ## 20230516
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1002 某种程度上亚马逊 OpenSearch 成功了](https://linux.cn/article-15816-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy JBoss EAP on an Azure virtual machine](https://developers.redhat.com/articles/2023/05/15/how-deploy-jboss-eap-azure-virtual-machine)
