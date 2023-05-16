@@ -1,3 +1,8 @@
+## 20230517
+- [Lobsters](https://lobste.rs/) | [Qdrant Vector Search Engine is Written in Rust: Here's why](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written)
+- [Lobsters](https://lobste.rs/) | [You should be reading academic computer science papers (2022)](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer)
+- [Lobsters](https://lobste.rs/) | [Erlang/OTP 26 Highlights](https://lobste.rs/s/z52y8e/erlang_otp_26_highlights)
+
 ## 20230516
 - [Lobsters](https://lobste.rs/) | [Large language models and plagiarism](https://lobste.rs/s/926cq7/large_language_models_plagiarism)
 - [Lobsters](https://lobste.rs/) | [Real Multithreading is Coming to Python](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python)

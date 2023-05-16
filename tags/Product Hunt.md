@@ -1,3 +1,8 @@
+## 20230517
+- [Product Hunt](https://www.producthunt.com) | [Humbo iOS app](https://www.producthunt.com/posts/humbo-ios-app)
+- [Product Hunt](https://www.producthunt.com) | [Automate Your Busywork](https://www.producthunt.com/posts/automate-your-busywork)
+- [Product Hunt](https://www.producthunt.com) | [Kommunicate 3.0](https://www.producthunt.com/posts/kommunicate-3-0-2)
+
 ## 20230516
 - [Product Hunt](https://www.producthunt.com) | [aiCarousels.com](https://www.producthunt.com/posts/aicarousels-com)
 - [Product Hunt](https://www.producthunt.com) | [Vibinex Code-Review](https://www.producthunt.com/posts/vibinex-code-review)
