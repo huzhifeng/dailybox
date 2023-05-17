@@ -1,3 +1,9 @@
+## 20230518
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度云首次实现季度盈利；OpenAI 或将发布新的开源语言模型；苹果已注册 xrOS 系统商标|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130718577)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT国内免费使用方法有哪些?](https://blog.csdn.net/qq_67276605/article/details/130694430)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT教程（终极版）](https://blog.csdn.net/2301_77531618/article/details/130711293)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Kubernetes架构与组件详解](https://blog.csdn.net/u010349629/article/details/130638487)
+
 ## 20230517
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [Midjourney官方中文版在QQ开启内测申请；“Hi,Siri”将成历史，苹果计划修改语音助手唤醒方式|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130698979)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [5.6 Mybatis代码生成器Mybatis Generator (MBG)实战详解](https://blog.csdn.net/scm_2008/article/details/130630861)

@@ -1,3 +1,7 @@
+## 20230518
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack)
+
 ## 20230517
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Soaking Up the Cider](https://linuxmatters.sh/3/)
 

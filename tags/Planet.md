@@ -1,3 +1,11 @@
+## 20230518
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: NBD-backed qemu guest RAM](https://rwmj.wordpress.com/2023/05/17/nbd-backed-qemu-guest-ram/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: libvirt surprise](https://blog.stevecoinc.com/2023/05/libvirt-surprise.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack)
+
 ## 20230517
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng Python Packaging](https://peter.czanik.hu/other/syslog-ng-python-packaging/)

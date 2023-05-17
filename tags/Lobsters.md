@@ -1,3 +1,8 @@
+## 20230518
+- [Lobsters](https://lobste.rs/) | [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file)
+- [Lobsters](https://lobste.rs/) | [Nickel language](https://lobste.rs/s/y0mbnp/nickel_language)
+- [Lobsters](https://lobste.rs/) | [People want products, not projects](https://lobste.rs/s/xduoqo/people_want_products_not_projects)
+
 ## 20230517
 - [Lobsters](https://lobste.rs/) | [Qdrant Vector Search Engine is Written in Rust: Here's why](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written)
 - [Lobsters](https://lobste.rs/) | [You should be reading academic computer science papers (2022)](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer)

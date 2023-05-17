@@ -1,3 +1,8 @@
+## 20230518
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: NBD-backed qemu guest RAM](https://rwmj.wordpress.com/2023/05/17/nbd-backed-qemu-guest-ram/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: libvirt surprise](https://blog.stevecoinc.com/2023/05/libvirt-surprise.html)
+
 ## 20230517
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng Python Packaging](https://peter.czanik.hu/other/syslog-ng-python-packaging/)

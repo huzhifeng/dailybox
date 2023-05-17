@@ -1,3 +1,18 @@
+## 20230518
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1004 研究称 AI 的涌现能力来自于评估模式的错误](https://linux.cn/article-15822-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Build lean Node.js container images with UBI and Podman](https://developers.redhat.com/articles/2023/05/17/build-lean-nodejs-container-images-ubi-and-podman)
+- [Phoronix](https://www.phoronix.com/) | [Wayland's Weston 12.0 Released With Multi-GPU Support, PipeWire Backend, Tearing Control](https://www.phoronix.com/news/Wayland-Weston-12.0)
+- [Phoronix](https://www.phoronix.com/) | [System76 Pangolin Makes For A Nice All-AMD Linux Laptop](https://www.phoronix.com/review/system76-pangolin-amd)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Knocks On Docker In Latest Snaps Promotion](https://www.phoronix.com/news/Ubuntu-Snaps-Docker-Comparison)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.2 Reaches End of Life, Users Urged to Upgrade to Linux Kernel 6.3](https://9to5linux.com/linux-kernel-6-2-reaches-end-of-life-users-urged-to-upgrade-to-linux-kernel-6-3)
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: NBD-backed qemu guest RAM](https://rwmj.wordpress.com/2023/05/17/nbd-backed-qemu-guest-ram/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: libvirt surprise](https://blog.stevecoinc.com/2023/05/libvirt-surprise.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack)
+- [This week in KDE](https://pointieststick.com/) | [KDE developer interviews from Augsburg, Germany](https://pointieststick.com/2023/05/17/kde-developer-interviews-from-augsburg-germany/)
+
 ## 20230517
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1003 微软 WSL2 工程师超爱的 Linux 功能](https://linux.cn/article-15819-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [The benefits of Fedora 38 long double transition in ppc64le](https://developers.redhat.com/articles/2023/05/16/benefits-fedora-38-long-double-transition-ppc64le)
