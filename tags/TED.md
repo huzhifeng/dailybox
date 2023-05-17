@@ -1,3 +1,6 @@
+## 20230518
+- [TED Talks Daily](https://www.ted.com/talks) | [Lessons from losing my mind | Andy Dunn](https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?rss)
+
 ## 20230517
 - [TED Talks Daily](https://www.ted.com/talks) | [3 ways your money can fight climate change | Veronica Chau](https://www.ted.com/talks/veronica_chau_3_ways_your_money_can_fight_climate_change?rss)
 

@@ -1,3 +1,6 @@
+## 20230518
+- [Slashdot](https://developers.slashdot.org/) | ['Mojo May Be the Biggest Programming Language Advance In Decades'](https://developers.slashdot.org/story/23/05/17/034204/mojo-may-be-the-biggest-programming-language-advance-in-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230516
 - [Slashdot](https://linux.slashdot.org/) | [Red Hat's Layoffs Included Fedora Program Manager](https://linux.slashdot.org/story/23/05/15/0517232/red-hats-layoffs-included-fedora-program-manager?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Cloudflare CTO Predicts Coding AIs Will Bring More Productivity, Urges 'Data Fluidity'](https://tech.slashdot.org/story/23/05/15/0147234/cloudflare-cto-predicts-coding-ais-will-bring-more-productivity-urges-data-fluidity?utm_source=rss1.0mainlinkanon&utm_medium=feed)

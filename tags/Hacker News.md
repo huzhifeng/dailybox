@@ -1,3 +1,7 @@
+## 20230518
+- [Hacker News](https://news.ycombinator.com/front) | [Controlled burns can prevent wildfires; regulations make them nearly impossible](https://news.ycombinator.com/item?id=35976743)
+- [Hacker News](https://news.ycombinator.com/front) | [Americans Have Never Been So Unwilling to Relocate for a New Job](https://news.ycombinator.com/item?id=35973882)
+
 ## 20230517
 - [Hacker News](https://news.ycombinator.com/front) | [The Sourdough Framework](https://news.ycombinator.com/item?id=35961590)
 - [Hacker News](https://news.ycombinator.com/front) | [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://news.ycombinator.com/item?id=35960663)

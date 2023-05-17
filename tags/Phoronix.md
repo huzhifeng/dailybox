@@ -1,3 +1,8 @@
+## 20230518
+- [Phoronix](https://www.phoronix.com/) | [Wayland's Weston 12.0 Released With Multi-GPU Support, PipeWire Backend, Tearing Control](https://www.phoronix.com/news/Wayland-Weston-12.0)
+- [Phoronix](https://www.phoronix.com/) | [System76 Pangolin Makes For A Nice All-AMD Linux Laptop](https://www.phoronix.com/review/system76-pangolin-amd)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Knocks On Docker In Latest Snaps Promotion](https://www.phoronix.com/news/Ubuntu-Snaps-Docker-Comparison)
+
 ## 20230517
 - [Phoronix](https://www.phoronix.com/) | [Rocky Linux 9.2 Released With Intel Arc Graphics Support, AArch64 64kb Page Size Kernel](https://www.phoronix.com/news/Rocky-Linux-9.2)
 - [Phoronix](https://www.phoronix.com/) | [Lutris 0.5.13 Released - More Responsive & Restores Ability To Run Games Via Proton](https://www.phoronix.com/news/Lutris-0.5.13-Released)

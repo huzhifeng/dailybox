@@ -1,3 +1,8 @@
+## 20230518
+- [Product Hunt](https://www.producthunt.com) | [MyShell](https://www.producthunt.com/posts/myshell)
+- [Product Hunt](https://www.producthunt.com) | [Digger ](https://www.producthunt.com/posts/digger-2)
+- [Product Hunt](https://www.producthunt.com) | [HopShop](https://www.producthunt.com/posts/hopshop)
+
 ## 20230517
 - [Product Hunt](https://www.producthunt.com) | [Humbo iOS app](https://www.producthunt.com/posts/humbo-ios-app)
 - [Product Hunt](https://www.producthunt.com) | [Automate Your Busywork](https://www.producthunt.com/posts/automate-your-busywork)
