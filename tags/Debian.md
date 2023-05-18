@@ -1,3 +1,6 @@
+## 20230519
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: A terrible Pixel Tablet](https://anarc.at/blog/2023-05-18-terrible-pixel-tablet/)
+
 ## 20230517
 - [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, April 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-04/)
 

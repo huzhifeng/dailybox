@@ -1,3 +1,8 @@
+## 20230519
+- [Product Hunt](https://www.producthunt.com) | [Usermaven](https://www.producthunt.com/posts/usermaven-2)
+- [Product Hunt](https://www.producthunt.com) | [Langdock](https://www.producthunt.com/posts/langdock)
+- [Product Hunt](https://www.producthunt.com) | [SingleStore Kai for MongoDB](https://www.producthunt.com/posts/singlestore-kai-for-mongodb)
+
 ## 20230518
 - [Product Hunt](https://www.producthunt.com) | [MyShell](https://www.producthunt.com/posts/myshell)
 - [Product Hunt](https://www.producthunt.com) | [Digger ](https://www.producthunt.com/posts/digger-2)

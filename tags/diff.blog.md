@@ -1,3 +1,7 @@
+## 20230519
+- [diff.blog](https://diff.blog/) | [Introducing the ChatGPT app for iOS](https://diff.blog/post/introducing-the-chatgpt-app-for-ios-139404/)
+- [diff.blog](https://diff.blog/) | [Retiring the AWS Documentation on GitHub](https://diff.blog/post/retiring-the-aws-documentation-on-github-139362/)
+
 ## 20230518
 - [diff.blog](https://diff.blog/) | [Manage Podman containers with Systemd and Quadlet](https://diff.blog/post/manage-podman-containers-with-systemd-and-quadlet-139349/)
 

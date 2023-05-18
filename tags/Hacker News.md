@@ -1,3 +1,7 @@
+## 20230519
+- [Hacker News](https://news.ycombinator.com/front) | [ChatGPT app for iOS](https://news.ycombinator.com/item?id=35990552)
+- [Hacker News](https://news.ycombinator.com/front) | [User In Yer Face, a worst-practise UI experiment (2018)](https://news.ycombinator.com/item?id=35985240)
+
 ## 20230518
 - [Hacker News](https://news.ycombinator.com/front) | [Controlled burns can prevent wildfires; regulations make them nearly impossible](https://news.ycombinator.com/item?id=35976743)
 - [Hacker News](https://news.ycombinator.com/front) | [Americans Have Never Been So Unwilling to Relocate for a New Job](https://news.ycombinator.com/item?id=35973882)

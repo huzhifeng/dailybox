@@ -1,3 +1,20 @@
+## 20230519
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1005 Asahi Linux 开发者说，唯一的道路是 Wayland](https://linux.cn/article-15825-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use RHEL application compatibility guidelines](https://developers.redhat.com/articles/2023/05/18/how-use-rhel-application-compatibility-guidelines)
+- [Phoronix](https://www.phoronix.com/) | [Bug Bounties May Sound Great, But Aren't Always Handled Well](https://www.phoronix.com/news/Bug-Bounties-Quite-A-Pain)
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Announces AmpereOne With Up to 192 Cores Per Socket](https://www.phoronix.com/review/ampereone-192-cores)
+- [Phoronix](https://www.phoronix.com/) | [sdl12-compat Gets More Games Working For This SDL1-On-SDL2 Compatibility Layer](https://www.phoronix.com/news/sdl-compat-1.2.62)
+- [9to5Linux](https://9to5linux.com/) | [System76 Updates Lemur Pro Linux Laptop with 13th-Gen Intel CPUs and DDR5 RAM](https://9to5linux.com/system76-updates-lemur-pro-linux-laptop-with-13th-gen-intel-cpus-and-ddr5-ram)
+- [9to5Linux](https://9to5linux.com/) | [Xfce&#8217;s Screenshot Tool Now Lets You Save Screenshots in AVIF and JXL Image Formats](https://9to5linux.com/xfces-screenshot-tool-now-lets-you-save-screenshots-in-avif-and-jxl-image-formats)
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.2 and Rocky Linux 9.2 Are Out Now as Free RHEL 9.2 Alternatives](https://9to5linux.com/almalinux-os-9-2-and-rocky-linux-9-2-are-out-now-as-rhel-9-2-alternatives)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/18/i-am-not.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part III](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iii/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: kojidb down](https://status.fedoraproject.org/2023-05-17-kojidb-outage.html)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: A terrible Pixel Tablet](https://anarc.at/blog/2023-05-18-terrible-pixel-tablet/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E247 Cebolas Satisficientes](https://podcastubuntuportugal.org/e247/)
+
 ## 20230518
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1004 研究称 AI 的涌现能力来自于评估模式的错误](https://linux.cn/article-15822-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Build lean Node.js container images with UBI and Podman](https://developers.redhat.com/articles/2023/05/17/build-lean-nodejs-container-images-ubi-and-podman)

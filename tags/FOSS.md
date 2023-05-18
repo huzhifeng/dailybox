@@ -1,3 +1,6 @@
+## 20230519
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.20: risiOS Distro, Plasma 6, Distrohopping, FOSSverse and More](https://itsfoss.com/newsletter/foss-weekly-23-20/)
+
 ## 20230517
 - [It's FOSS](https://itsfoss.com/) | [Beginner's Guide to System Updates in Linux Mint](https://itsfoss.com/linux-mint-update/)
 

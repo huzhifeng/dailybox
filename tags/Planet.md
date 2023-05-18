@@ -1,3 +1,11 @@
+## 20230519
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/18/i-am-not.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part III](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iii/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: kojidb down](https://status.fedoraproject.org/2023-05-17-kojidb-outage.html)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: A terrible Pixel Tablet](https://anarc.at/blog/2023-05-18-terrible-pixel-tablet/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E247 Cebolas Satisficientes](https://podcastubuntuportugal.org/e247/)
+
 ## 20230518
 - [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)

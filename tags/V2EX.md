@@ -1,3 +1,8 @@
+## 20230519
+- [V2EX](https://www.v2ex.com/) | [如果这个作者有问题，你还会用他的软件嘛（类似的如歌手演员呢）](https://www.v2ex.com/t/941057)
+- [V2EX](https://www.v2ex.com/) | [请教一下大伙是怎么样保存互联网文章？](https://www.v2ex.com/t/941024)
+- [V2EX](https://www.v2ex.com/) | [C++ 项目，出现了匪夷所思的 bug，在 vector 中添加对象，会导致 vector 崩溃，进而整个程序崩溃。](https://www.v2ex.com/t/941007)
+
 ## 20230518
 - [V2EX](https://www.v2ex.com/) | [除了接私活，还有什么副业增加额外收入](https://www.v2ex.com/t/940645)
 - [V2EX](https://www.v2ex.com/) | [这种炫酷的前端是怎么实现的呢](https://www.v2ex.com/t/940640)

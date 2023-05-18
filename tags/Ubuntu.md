@@ -1,3 +1,7 @@
+## 20230519
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E247 Cebolas Satisficientes](https://podcastubuntuportugal.org/e247/)
+
 ## 20230518
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack)

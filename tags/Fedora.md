@@ -1,3 +1,8 @@
+## 20230519
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/18/i-am-not.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part III](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iii/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: kojidb down](https://status.fedoraproject.org/2023-05-17-kojidb-outage.html)
+
 ## 20230518
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: server update/reboots](https://status.fedoraproject.org/2023-05-17-server-reboots.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: NBD-backed qemu guest RAM](https://rwmj.wordpress.com/2023/05/17/nbd-backed-qemu-guest-ram/)

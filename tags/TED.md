@@ -1,3 +1,6 @@
+## 20230519
+- [TED Talks Daily](https://www.ted.com/talks) | [What makes a "good college" -- and why it matters | Cecilia M. Orphan](https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?rss)
+
 ## 20230518
 - [TED Talks Daily](https://www.ted.com/talks) | [Lessons from losing my mind | Andy Dunn](https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?rss)
 
