@@ -1,3 +1,8 @@
+## 20230519
+- [Lobsters](https://lobste.rs/) | [PROCOMM PLUS for Windows - One World. One Communications Software](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one)
+- [Lobsters](https://lobste.rs/) | [LMDB - the first version of Redis written in Tcl](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl)
+- [Lobsters](https://lobste.rs/) | [Deco: Delimiter Collision Free Format](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format)
+
 ## 20230518
 - [Lobsters](https://lobste.rs/) | [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file)
 - [Lobsters](https://lobste.rs/) | [Nickel language](https://lobste.rs/s/y0mbnp/nickel_language)

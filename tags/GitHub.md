@@ -1,3 +1,8 @@
+## 20230519
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/guidance](https://github.com/microsoft/guidance)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sunner/ChatALL](https://github.com/sunner/ChatALL)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [smol-ai/developer](https://github.com/smol-ai/developer)
+
 ## 20230518
 - [GitHub中文社区](https://www.githubs.cn/trending) | [smol-ai/developer](https://github.com/smol-ai/developer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)

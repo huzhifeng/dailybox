@@ -1,3 +1,8 @@
+## 20230519
+- [Phoronix](https://www.phoronix.com/) | [Bug Bounties May Sound Great, But Aren't Always Handled Well](https://www.phoronix.com/news/Bug-Bounties-Quite-A-Pain)
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Announces AmpereOne With Up to 192 Cores Per Socket](https://www.phoronix.com/review/ampereone-192-cores)
+- [Phoronix](https://www.phoronix.com/) | [sdl12-compat Gets More Games Working For This SDL1-On-SDL2 Compatibility Layer](https://www.phoronix.com/news/sdl-compat-1.2.62)
+
 ## 20230518
 - [Phoronix](https://www.phoronix.com/) | [Wayland's Weston 12.0 Released With Multi-GPU Support, PipeWire Backend, Tearing Control](https://www.phoronix.com/news/Wayland-Weston-12.0)
 - [Phoronix](https://www.phoronix.com/) | [System76 Pangolin Makes For A Nice All-AMD Linux Laptop](https://www.phoronix.com/review/system76-pangolin-amd)

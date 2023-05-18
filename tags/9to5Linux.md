@@ -1,3 +1,8 @@
+## 20230519
+- [9to5Linux](https://9to5linux.com/) | [System76 Updates Lemur Pro Linux Laptop with 13th-Gen Intel CPUs and DDR5 RAM](https://9to5linux.com/system76-updates-lemur-pro-linux-laptop-with-13th-gen-intel-cpus-and-ddr5-ram)
+- [9to5Linux](https://9to5linux.com/) | [Xfce&#8217;s Screenshot Tool Now Lets You Save Screenshots in AVIF and JXL Image Formats](https://9to5linux.com/xfces-screenshot-tool-now-lets-you-save-screenshots-in-avif-and-jxl-image-formats)
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.2 and Rocky Linux 9.2 Are Out Now as Free RHEL 9.2 Alternatives](https://9to5linux.com/almalinux-os-9-2-and-rocky-linux-9-2-are-out-now-as-rhel-9-2-alternatives)
+
 ## 20230518
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.2 Reaches End of Life, Users Urged to Upgrade to Linux Kernel 6.3](https://9to5linux.com/linux-kernel-6-2-reaches-end-of-life-users-urged-to-upgrade-to-linux-kernel-6-3)
 
