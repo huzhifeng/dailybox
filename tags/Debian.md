@@ -1,3 +1,6 @@
+## 20230520
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: wmbusmeters, parse data from your utility meter - nice free software](https://people.skolelinux.org/pere/blog/wmbusmeters__parse_data_from_your_utility_meter___nice_free_software.html)
+
 ## 20230519
 - [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: A terrible Pixel Tablet](https://anarc.at/blog/2023-05-18-terrible-pixel-tablet/)
 

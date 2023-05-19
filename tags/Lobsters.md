@@ -1,3 +1,8 @@
+## 20230520
+- [Lobsters](https://lobste.rs/) | [Andreas Kling is sure it'll work this time](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time)
+- [Lobsters](https://lobste.rs/) | [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop)
+- [Lobsters](https://lobste.rs/) | [The absurd cost of finalizers in Go](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go)
+
 ## 20230519
 - [Lobsters](https://lobste.rs/) | [PROCOMM PLUS for Windows - One World. One Communications Software](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one)
 - [Lobsters](https://lobste.rs/) | [LMDB - the first version of Redis written in Tcl](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl)

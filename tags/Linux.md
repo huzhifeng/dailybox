@@ -1,3 +1,15 @@
+## 20230520
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1006 Gartner：多云并不是必要的](https://linux.cn/article-15828-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.9 Released With Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.9)
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Now Controlled By An Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA R530 vs. AMD Linux 6.3 + Mesa 23.2-dev Gaming Performance](https://www.phoronix.com/review/may-2023-linux-gpus)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/19/i-finally-found.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Everything you need to know about Vim and text on Linux (Slides)](https://dissociatedpress.net/2023/05/19/everything-you-need-to-know-about-vim-and-text-on-linux-slides/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 20 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-20-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: wmbusmeters, parse data from your utility meter - nice free software](https://people.skolelinux.org/pere/blog/wmbusmeters__parse_data_from_your_utility_meter___nice_free_software.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#96 Polished Settings](https://thisweek.gnome.org/posts/2023/05/twig-96/)
+
 ## 20230519
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1005 Asahi Linux 开发者说，唯一的道路是 Wayland](https://linux.cn/article-15825-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)

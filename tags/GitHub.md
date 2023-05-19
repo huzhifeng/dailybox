@@ -1,3 +1,8 @@
+## 20230520
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
+
 ## 20230519
 - [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/guidance](https://github.com/microsoft/guidance)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [sunner/ChatALL](https://github.com/sunner/ChatALL)

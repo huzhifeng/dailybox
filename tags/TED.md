@@ -1,3 +1,6 @@
+## 20230520
+- [TED Talks Daily](https://www.ted.com/talks) | [The incredible creativity of deepfakes -- and the worrying future of AI | Tom Graham](https://www.ted.com/talks/tom_graham_the_incredible_creativity_of_deepfakes_and_the_worrying_future_of_ai?rss)
+
 ## 20230519
 - [TED Talks Daily](https://www.ted.com/talks) | [What makes a "good college" -- and why it matters | Cecilia M. Orphan](https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?rss)
 
