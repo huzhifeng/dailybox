@@ -1,3 +1,8 @@
+## 20230520
+- [Hacker News](https://news.ycombinator.com/front) | [Google Photorealistic 3D Tiles and Unreal Engine](https://news.ycombinator.com/item?id=36000631)
+- [Hacker News](https://news.ycombinator.com/front) | [Linux tool to show progress for cp, mv, dd](https://news.ycombinator.com/item?id=36000407)
+- [Hacker News](https://news.ycombinator.com/front) | [Orb Farm](https://news.ycombinator.com/item?id=35999835)
+
 ## 20230519
 - [Hacker News](https://news.ycombinator.com/front) | [ChatGPT app for iOS](https://news.ycombinator.com/item?id=35990552)
 - [Hacker News](https://news.ycombinator.com/front) | [User In Yer Face, a worst-practise UI experiment (2018)](https://news.ycombinator.com/item?id=35985240)

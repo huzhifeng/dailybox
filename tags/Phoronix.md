@@ -1,3 +1,8 @@
+## 20230520
+- [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.9 Released With Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.9)
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Now Controlled By An Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA R530 vs. AMD Linux 6.3 + Mesa 23.2-dev Gaming Performance](https://www.phoronix.com/review/may-2023-linux-gpus)
+
 ## 20230519
 - [Phoronix](https://www.phoronix.com/) | [Bug Bounties May Sound Great, But Aren't Always Handled Well](https://www.phoronix.com/news/Bug-Bounties-Quite-A-Pain)
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing Announces AmpereOne With Up to 192 Cores Per Socket](https://www.phoronix.com/review/ampereone-192-cores)

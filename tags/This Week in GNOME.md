@@ -1,3 +1,6 @@
+## 20230520
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#96 Polished Settings](https://thisweek.gnome.org/posts/2023/05/twig-96/)
+
 ## 20230513
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#95 Overlaid Zoom](https://thisweek.gnome.org/posts/2023/05/twig-95/)
 

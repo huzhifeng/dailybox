@@ -1,3 +1,6 @@
+## 20230520
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry)
+
 ## 20230519
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E247 Cebolas Satisficientes](https://podcastubuntuportugal.org/e247/)

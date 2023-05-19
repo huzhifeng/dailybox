@@ -1,3 +1,10 @@
+## 20230520
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/19/i-finally-found.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Everything you need to know about Vim and text on Linux (Slides)](https://dissociatedpress.net/2023/05/19/everything-you-need-to-know-about-vim-and-text-on-linux-slides/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 20 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-20-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: wmbusmeters, parse data from your utility meter - nice free software](https://people.skolelinux.org/pere/blog/wmbusmeters__parse_data_from_your_utility_meter___nice_free_software.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry)
+
 ## 20230519
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/18/i-am-not.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part III](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iii/)

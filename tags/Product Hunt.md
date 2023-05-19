@@ -1,3 +1,8 @@
+## 20230520
+- [Product Hunt](https://www.producthunt.com) | [Yoodli AI Speech Coach](https://www.producthunt.com/posts/yoodli-ai-speech-coach)
+- [Product Hunt](https://www.producthunt.com) | [IT-Rating](https://www.producthunt.com/posts/it-rating-2)
+- [Product Hunt](https://www.producthunt.com) | [Trible](https://www.producthunt.com/posts/trible)
+
 ## 20230519
 - [Product Hunt](https://www.producthunt.com) | [Usermaven](https://www.producthunt.com/posts/usermaven-2)
 - [Product Hunt](https://www.producthunt.com) | [Langdock](https://www.producthunt.com/posts/langdock)
