@@ -1,3 +1,6 @@
+## 20230521
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Shared library loading.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-May-20.html.en#2023-May-20-21:39:04)
+
 ## 20230520
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/19/i-finally-found.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Everything you need to know about Vim and text on Linux (Slides)](https://dissociatedpress.net/2023/05/19/everything-you-need-to-know-about-vim-and-text-on-linux-slides/)

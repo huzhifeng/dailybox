@@ -1,3 +1,6 @@
+## 20230521
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Shared library loading.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-May-20.html.en#2023-May-20-21:39:04)
+
 ## 20230520
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: wmbusmeters, parse data from your utility meter - nice free software](https://people.skolelinux.org/pere/blog/wmbusmeters__parse_data_from_your_utility_meter___nice_free_software.html)
 

@@ -1,3 +1,8 @@
+## 20230521
+- [Lobsters](https://lobste.rs/) | [Building a Signal Analyzer with Modern Web Tech](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web)
+- [Lobsters](https://lobste.rs/) | [My Robotic Mower Woes](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes)
+- [Lobsters](https://lobste.rs/) | [Writing Python like it’s Rust](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust)
+
 ## 20230520
 - [Lobsters](https://lobste.rs/) | [Andreas Kling is sure it'll work this time](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time)
 - [Lobsters](https://lobste.rs/) | [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop)

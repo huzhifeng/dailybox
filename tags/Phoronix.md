@@ -1,3 +1,8 @@
+## 20230521
+- [Phoronix](https://www.phoronix.com/) | [KDE Begins Laying The Groundwork For HDR Support, Wayland Color Management](https://www.phoronix.com/news/KDE-HDR-This-Week)
+- [Phoronix](https://www.phoronix.com/) | [Intel Publishes "X86-S" Specification For 64-bit Only Architecture](https://www.phoronix.com/news/Intel-X86-S-64-bit-Only)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Preparing For Their First Vulkan Extension](https://www.phoronix.com/news/Microsoft-MSFT-Vulkan-Ext)
+
 ## 20230520
 - [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.9 Released With Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.9)
 - [Phoronix](https://www.phoronix.com/) | [CodeWeavers Now Controlled By An Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)

@@ -1,3 +1,8 @@
+## 20230521
+- [Product Hunt](https://www.producthunt.com) | [Notion Creator Guide](https://www.producthunt.com/posts/notion-creator-guide-2)
+- [Product Hunt](https://www.producthunt.com) | [AppLogoCreator](https://www.producthunt.com/posts/applogocreator)
+- [Product Hunt](https://www.producthunt.com) | [Foqus](https://www.producthunt.com/posts/foqus)
+
 ## 20230520
 - [Product Hunt](https://www.producthunt.com) | [Yoodli AI Speech Coach](https://www.producthunt.com/posts/yoodli-ai-speech-coach)
 - [Product Hunt](https://www.producthunt.com) | [IT-Rating](https://www.producthunt.com/posts/it-rating-2)

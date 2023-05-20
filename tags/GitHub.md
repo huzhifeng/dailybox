@@ -1,3 +1,9 @@
+## 20230521
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts)
+
 ## 20230520
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)

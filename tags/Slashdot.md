@@ -1,3 +1,6 @@
+## 20230521
+- [Slashdot](https://developers.slashdot.org/) | [A Crowd-Funded Startup Is Making a Coffee Cup That Can Be Eaten](https://developers.slashdot.org/story/23/05/19/2144202/a-crowd-funded-startup-is-making-a-coffee-cup-that-can-be-eaten?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230518
 - [Slashdot](https://developers.slashdot.org/) | ['Mojo May Be the Biggest Programming Language Advance In Decades'](https://developers.slashdot.org/story/23/05/17/034204/mojo-may-be-the-biggest-programming-language-advance-in-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
