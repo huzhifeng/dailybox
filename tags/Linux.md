@@ -1,3 +1,10 @@
+## 20230521
+- [Phoronix](https://www.phoronix.com/) | [KDE Begins Laying The Groundwork For HDR Support, Wayland Color Management](https://www.phoronix.com/news/KDE-HDR-This-Week)
+- [Phoronix](https://www.phoronix.com/) | [Intel Publishes "X86-S" Specification For 64-bit Only Architecture](https://www.phoronix.com/news/Intel-X86-S-64-bit-Only)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Preparing For Their First Vulkan Extension](https://www.phoronix.com/news/Microsoft-MSFT-Vulkan-Ext)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Shared library loading.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-May-20.html.en#2023-May-20-21:39:04)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Preliminary HDR support](https://pointieststick.com/2023/05/20/this-week-in-kde-preliminary-hdr-support/)
+
 ## 20230520
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1006 Gartner：多云并不是必要的](https://linux.cn/article-15828-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.9 Released With Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.9)

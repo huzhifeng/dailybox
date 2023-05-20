@@ -1,3 +1,6 @@
+## 20230521
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Preliminary HDR support](https://pointieststick.com/2023/05/20/this-week-in-kde-preliminary-hdr-support/)
+
 ## 20230518
 - [This week in KDE](https://pointieststick.com/) | [KDE developer interviews from Augsburg, Germany](https://pointieststick.com/2023/05/17/kde-developer-interviews-from-augsburg-germany/)
 
