@@ -1,3 +1,8 @@
+## 20230522
+- [Product Hunt](https://www.producthunt.com) | [Plus AI Market Research Reports](https://www.producthunt.com/posts/plus-ai-market-research-reports)
+- [Product Hunt](https://www.producthunt.com) | [Damn Good Tools](https://www.producthunt.com/posts/damn-good-tools)
+- [Product Hunt](https://www.producthunt.com) | [Notion Second Brain](https://www.producthunt.com/posts/notion-second-brain-3)
+
 ## 20230521
 - [Product Hunt](https://www.producthunt.com) | [Notion Creator Guide](https://www.producthunt.com/posts/notion-creator-guide-2)
 - [Product Hunt](https://www.producthunt.com) | [AppLogoCreator](https://www.producthunt.com/posts/applogocreator)

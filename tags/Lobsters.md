@@ -1,3 +1,8 @@
+## 20230522
+- [Lobsters](https://lobste.rs/) | [PGP signatures on PyPI: worse than useless](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless)
+- [Lobsters](https://lobste.rs/) | [Honing Your Craft](https://lobste.rs/s/prqy43/honing_your_craft)
+- [Lobsters](https://lobste.rs/) | [Resilient LL Parsing Tutorial](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial)
+
 ## 20230521
 - [Lobsters](https://lobste.rs/) | [Building a Signal Analyzer with Modern Web Tech](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web)
 - [Lobsters](https://lobste.rs/) | [My Robotic Mower Woes](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes)

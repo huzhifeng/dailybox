@@ -1,3 +1,13 @@
+## 20230522
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1008 拥有最多电子支付的国家是印度](https://linux.cn/article-15833-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux To Disable PCID For Intel Alder Lake & Raptor Lake Due To Issue With INVLPG](https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL)
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Completes Its Git Migration](https://www.phoronix.com/news/Arch-Linux-Git-Migration-Over)
+- [Phoronix](https://www.phoronix.com/) | [RADV Driver Lands More Vulkan Overhead Reduction Optimizations](https://www.phoronix.com/news/RADV-Gfx-Srates-Optimizations)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Promises Basic HDR Support](https://9to5linux.com/kde-plasma-6-desktop-environment-promises-basic-hdr-support)
+- [OMG! Linux](https://www.omglinux.com/) | [You Can Now Make Bootable ChromeOS Flex USB on Linux](https://www.omglinux.com/make-chrome-os-flex-usb-linux/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Infomaniak First Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/infomaniak-platinum-debconf23.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Stone Canal](https://www.eyrie.org/~eagle/reviews/books/0-8125-6864-8.html)
+
 ## 20230521
 - [Phoronix](https://www.phoronix.com/) | [KDE Begins Laying The Groundwork For HDR Support, Wayland Color Management](https://www.phoronix.com/news/KDE-HDR-This-Week)
 - [Phoronix](https://www.phoronix.com/) | [Intel Publishes "X86-S" Specification For 64-bit Only Architecture](https://www.phoronix.com/news/Intel-X86-S-64-bit-Only)

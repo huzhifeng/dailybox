@@ -1,3 +1,6 @@
+## 20230522
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Promises Basic HDR Support](https://9to5linux.com/kde-plasma-6-desktop-environment-promises-basic-hdr-support)
+
 ## 20230519
 - [9to5Linux](https://9to5linux.com/) | [System76 Updates Lemur Pro Linux Laptop with 13th-Gen Intel CPUs and DDR5 RAM](https://9to5linux.com/system76-updates-lemur-pro-linux-laptop-with-13th-gen-intel-cpus-and-ddr5-ram)
 - [9to5Linux](https://9to5linux.com/) | [Xfce&#8217;s Screenshot Tool Now Lets You Save Screenshots in AVIF and JXL Image Formats](https://9to5linux.com/xfces-screenshot-tool-now-lets-you-save-screenshots-in-avif-and-jxl-image-formats)
