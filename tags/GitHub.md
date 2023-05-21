@@ -1,3 +1,8 @@
+## 20230522
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+
 ## 20230521
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)

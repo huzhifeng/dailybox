@@ -1,3 +1,6 @@
+## 20230522
+- [Hacker News](https://news.ycombinator.com/front) | [Writing Python like it's Rust](https://news.ycombinator.com/item?id=36018621)
+
 ## 20230521
 - [Hacker News](https://news.ycombinator.com/front) | [Don Knuth Plays with ChatGPT](https://news.ycombinator.com/item?id=36012360)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://news.ycombinator.com/item?id=36009774)

@@ -1,3 +1,8 @@
+## 20230522
+- [Phoronix](https://www.phoronix.com/) | [Linux To Disable PCID For Intel Alder Lake & Raptor Lake Due To Issue With INVLPG](https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL)
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Completes Its Git Migration](https://www.phoronix.com/news/Arch-Linux-Git-Migration-Over)
+- [Phoronix](https://www.phoronix.com/) | [RADV Driver Lands More Vulkan Overhead Reduction Optimizations](https://www.phoronix.com/news/RADV-Gfx-Srates-Optimizations)
+
 ## 20230521
 - [Phoronix](https://www.phoronix.com/) | [KDE Begins Laying The Groundwork For HDR Support, Wayland Color Management](https://www.phoronix.com/news/KDE-HDR-This-Week)
 - [Phoronix](https://www.phoronix.com/) | [Intel Publishes "X86-S" Specification For 64-bit Only Architecture](https://www.phoronix.com/news/Intel-X86-S-64-bit-Only)
