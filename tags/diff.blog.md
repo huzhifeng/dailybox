@@ -1,3 +1,7 @@
+## 20230523
+- [diff.blog](https://diff.blog/) | [Governance of superintelligence](https://diff.blog/post/governance-of-superintelligence-139840/)
+- [diff.blog](https://diff.blog/) | [Abductive diagnostics for Müsli](https://diff.blog/post/abductive-diagnostics-for-musli-139813/)
+
 ## 20230519
 - [diff.blog](https://diff.blog/) | [Introducing the ChatGPT app for iOS](https://diff.blog/post/introducing-the-chatgpt-app-for-ios-139404/)
 - [diff.blog](https://diff.blog/) | [Retiring the AWS Documentation on GitHub](https://diff.blog/post/retiring-the-aws-documentation-on-github-139362/)

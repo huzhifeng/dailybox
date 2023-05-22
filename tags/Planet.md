@@ -1,3 +1,12 @@
+## 20230523
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 22 May 1300 UTC](https://neuroblog.fedoraproject.org/2023/05/22/next-open-neurofedora-meeting-22-May-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: rpi-microk8s-bootstrap: Automate RPI device conversion into Kubernetes cluster nodes with Terraform](https://foolcontrol.org/?p=4555)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Tsalmoth](https://www.eyrie.org/~eagle/reviews/books/1-4668-8970-5.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023)
+
 ## 20230522
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Infomaniak First Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/infomaniak-platinum-debconf23.html)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Stone Canal](https://www.eyrie.org/~eagle/reviews/books/0-8125-6864-8.html)

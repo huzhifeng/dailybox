@@ -1,3 +1,8 @@
+## 20230523
+- [Lobsters](https://lobste.rs/) | [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million)
+- [Lobsters](https://lobste.rs/) | [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent)
+- [Lobsters](https://lobste.rs/) | [Dynamic Tracing on OpenBSD 7.3](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3)
+
 ## 20230522
 - [Lobsters](https://lobste.rs/) | [PGP signatures on PyPI: worse than useless](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless)
 - [Lobsters](https://lobste.rs/) | [Honing Your Craft](https://lobste.rs/s/prqy43/honing_your_craft)

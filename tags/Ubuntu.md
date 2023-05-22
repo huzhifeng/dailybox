@@ -1,3 +1,6 @@
+## 20230523
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023)
+
 ## 20230520
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry)
 

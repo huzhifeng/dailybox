@@ -1,3 +1,8 @@
+## 20230523
+- [Product Hunt](https://www.producthunt.com) | [AI Job Interview Coach](https://www.producthunt.com/posts/ai-job-interview-coach)
+- [Product Hunt](https://www.producthunt.com) | [ToDesktop Builder](https://www.producthunt.com/posts/todesktop-builder)
+- [Product Hunt](https://www.producthunt.com) | [Marketing Mega-Prompts](https://www.producthunt.com/posts/marketing-mega-prompts)
+
 ## 20230522
 - [Product Hunt](https://www.producthunt.com) | [Plus AI Market Research Reports](https://www.producthunt.com/posts/plus-ai-market-research-reports)
 - [Product Hunt](https://www.producthunt.com) | [Damn Good Tools](https://www.producthunt.com/posts/damn-good-tools)

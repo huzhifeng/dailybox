@@ -1,3 +1,8 @@
+## 20230523
+- [Hacker News](https://news.ycombinator.com/front) | [Severance payments at Wikimedia Foundation](https://news.ycombinator.com/item?id=36029115)
+- [Hacker News](https://news.ycombinator.com/front) | [Memory Allocation](https://news.ycombinator.com/item?id=36029087)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta fined $1.3B over data transfers to U.S.](https://news.ycombinator.com/item?id=36028845)
+
 ## 20230522
 - [Hacker News](https://news.ycombinator.com/front) | [Writing Python like it's Rust](https://news.ycombinator.com/item?id=36018621)
 

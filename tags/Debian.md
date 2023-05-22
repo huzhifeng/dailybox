@@ -1,3 +1,7 @@
+## 20230523
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: rpi-microk8s-bootstrap: Automate RPI device conversion into Kubernetes cluster nodes with Terraform](https://foolcontrol.org/?p=4555)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Tsalmoth](https://www.eyrie.org/~eagle/reviews/books/1-4668-8970-5.html)
+
 ## 20230522
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Infomaniak First Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/infomaniak-platinum-debconf23.html)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Stone Canal](https://www.eyrie.org/~eagle/reviews/books/0-8125-6864-8.html)
