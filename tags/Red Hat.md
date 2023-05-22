@@ -1,3 +1,6 @@
+## 20230523
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift Data Science for fraud detection](https://developers.redhat.com/articles/2023/05/22/how-use-openshift-data-science-fraud-detection)
+
 ## 20230519
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use RHEL application compatibility guidelines](https://developers.redhat.com/articles/2023/05/18/how-use-rhel-application-compatibility-guidelines)
 

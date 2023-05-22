@@ -1,3 +1,7 @@
+## 20230523
+- [LibHunt](https://www.libhunt.com/) | [CustomDiscordRPC](https://www.libhunt.com/r/CustomDiscordRPC)
+- [LibHunt](https://www.libhunt.com/) | [privateGPT](https://www.libhunt.com/r/privateGPT)
+
 ## 20230520
 - [LibHunt](https://www.libhunt.com/) | [twitch-mention-notifier](https://www.libhunt.com/r/twitch-mention-notifier)
 - [LibHunt](https://www.libhunt.com/) | [guidance](https://www.libhunt.com/r/guidance)

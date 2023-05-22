@@ -1,3 +1,18 @@
+## 20230523
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1009 澳证交所宣告用区块链改造其核心交易系统失败](https://linux.cn/article-15836-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift Data Science for fraud detection](https://developers.redhat.com/articles/2023/05/22/how-use-openshift-data-science-fraud-detection)
+- [Phoronix](https://www.phoronix.com/) | [Intel Provides AI-Accelerated HPC Update For ISC 2023](https://www.phoronix.com/review/intel-isc-2023)
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Launches New Open-Source Software Sponsorship Program](https://www.phoronix.com/news/Cloudflare-Open-Source-Sponsor)
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q2.2 Brings New Extension For VKD3D-Proton, Performance Tuning](https://www.phoronix.com/news/AMDVLK-2023.Q2.2)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 21st, 2023](https://9to5linux.com/9to5linux-weekly-roundup-may-21st-2023)
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 22 May 1300 UTC](https://neuroblog.fedoraproject.org/2023/05/22/next-open-neurofedora-meeting-22-May-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: rpi-microk8s-bootstrap: Automate RPI device conversion into Kubernetes cluster nodes with Terraform](https://foolcontrol.org/?p=4555)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Tsalmoth](https://www.eyrie.org/~eagle/reviews/books/1-4668-8970-5.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023)
+
 ## 20230522
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1008 拥有最多电子支付的国家是印度](https://linux.cn/article-15833-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux To Disable PCID For Intel Alder Lake & Raptor Lake Due To Issue With INVLPG](https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL)

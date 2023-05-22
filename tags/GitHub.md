@@ -1,3 +1,8 @@
+## 20230523
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [w-okada/voice-changer](https://github.com/w-okada/voice-changer)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
 ## 20230522
 - [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)

@@ -1,3 +1,8 @@
+## 20230523
+- [Phoronix](https://www.phoronix.com/) | [Intel Provides AI-Accelerated HPC Update For ISC 2023](https://www.phoronix.com/review/intel-isc-2023)
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Launches New Open-Source Software Sponsorship Program](https://www.phoronix.com/news/Cloudflare-Open-Source-Sponsor)
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q2.2 Brings New Extension For VKD3D-Proton, Performance Tuning](https://www.phoronix.com/news/AMDVLK-2023.Q2.2)
+
 ## 20230522
 - [Phoronix](https://www.phoronix.com/) | [Linux To Disable PCID For Intel Alder Lake & Raptor Lake Due To Issue With INVLPG](https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL)
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Completes Its Git Migration](https://www.phoronix.com/news/Arch-Linux-Git-Migration-Over)

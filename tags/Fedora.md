@@ -1,3 +1,8 @@
+## 20230523
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 22 May 1300 UTC](https://neuroblog.fedoraproject.org/2023/05/22/next-open-neurofedora-meeting-22-May-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
+
 ## 20230520
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/05/19/i-finally-found.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Everything you need to know about Vim and text on Linux (Slides)](https://dissociatedpress.net/2023/05/19/everything-you-need-to-know-about-vim-and-text-on-linux-slides/)
