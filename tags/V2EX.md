@@ -1,3 +1,8 @@
+## 20230524
+- [V2EX](https://www.v2ex.com/) | [格力的空调真的比其他品牌的空调更好吗还是噱头？](https://www.v2ex.com/t/942307)
+- [V2EX](https://www.v2ex.com/) | [受害者笔记，企业项目千万千万别用腾讯云。](https://www.v2ex.com/t/942227)
+- [V2EX](https://www.v2ex.com/) | [买小电驴还是公路车自行车](https://www.v2ex.com/t/942189)
+
 ## 20230523
 - [V2EX](https://www.v2ex.com/) | [婆媳矛盾，最受伤的老公， 520 躺在客厅沙发睡了一晚](https://www.v2ex.com/t/941970)
 - [V2EX](https://www.v2ex.com/) | [明天是表哥的婚礼，大概率要喝很多酒，请问有什么避免醉酒的药物或方法](https://www.v2ex.com/t/941920)

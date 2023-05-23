@@ -1,3 +1,7 @@
+## 20230524
+- [Red Hat Developer](https://developers.redhat.com/) | [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to Red Hat Developer Hub and Janus](https://developers.redhat.com/articles/2023/05/23/developers-guide-red-hat-developer-hub-and-janus)
+
 ## 20230523
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift Data Science for fraud detection](https://developers.redhat.com/articles/2023/05/22/how-use-openshift-data-science-fraud-detection)
 

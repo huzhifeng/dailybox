@@ -1,3 +1,7 @@
+## 20230524
+- [LibHunt](https://www.libhunt.com/) | [Godot](https://www.libhunt.com/r/godot)
+- [LibHunt](https://www.libhunt.com/) | [t3-turbo-next-app-router](https://www.libhunt.com/r/t3-turbo-next-app-router)
+
 ## 20230523
 - [LibHunt](https://www.libhunt.com/) | [CustomDiscordRPC](https://www.libhunt.com/r/CustomDiscordRPC)
 - [LibHunt](https://www.libhunt.com/) | [privateGPT](https://www.libhunt.com/r/privateGPT)

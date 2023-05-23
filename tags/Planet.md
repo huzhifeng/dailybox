@@ -1,3 +1,15 @@
+## 20230524
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Community Survey Taker 2023 !](https://badges.fedoraproject.org/badge/community-survey-taker-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Joining the Linux Foundation Europe Advisory Board](https://blogs.igalia.com/siglesias/2023/05/23/Joining-the-LFE-Advisory-Board/)
+- [Planet Debian](https://planet.debian.org/) | [Craig Small: Devices with cgroup v2](https://dropbear.xyz/2023/05/23/devices-with-cgroup-v2/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: neovim plugins and distributions](https://jmtd.net/log/neovim/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: proxmox Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/proxmox-platinum-debconf23.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Pro is now available on Graviton (ARM) instances](https://ubuntu.com//blog/ubuntu-pro-now-available-on-aws-graviton-instances)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Versioning of sbsa-ref machine](https://marcin.juszkiewicz.com.pl/2023/05/23/versioning-of-sbsa-ref-machine/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [WARNING: Updating from RHEL8.6 to RHEL8.7/RHEL8.8 may break Network Access with RoCE Express Adapters](https://kvmonz.blogspot.com/2023/05/warning-updating-from-rhel86-to.html)
+
 ## 20230523
 - [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): lavapipe and sparse memory bindings: part two](https://airlied.blogspot.com/2023/05/lavapipe-and-sparse-memory-bindings_21.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)

@@ -1,3 +1,6 @@
+## 20230524
+- [It's FOSS](https://itsfoss.com/) | [Handling Externally Managed Environment Error With Pip in Ubuntu 23.10](https://itsfoss.com/externally-managed-environment/)
+
 ## 20230519
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.20: risiOS Distro, Plasma 6, Distrohopping, FOSSverse and More](https://itsfoss.com/newsletter/foss-weekly-23-20/)
 

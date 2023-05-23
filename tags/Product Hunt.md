@@ -1,3 +1,8 @@
+## 20230524
+- [Product Hunt](https://www.producthunt.com) | [Open Source Marketplace by Scoutflo](https://www.producthunt.com/posts/open-source-marketplace-by-scoutflo)
+- [Product Hunt](https://www.producthunt.com) | [Hatchways 2.0](https://www.producthunt.com/posts/hatchways-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Pagy 1.0](https://www.producthunt.com/posts/pagy-1-0)
+
 ## 20230523
 - [Product Hunt](https://www.producthunt.com) | [AI Job Interview Coach](https://www.producthunt.com/posts/ai-job-interview-coach)
 - [Product Hunt](https://www.producthunt.com) | [ToDesktop Builder](https://www.producthunt.com/posts/todesktop-builder)

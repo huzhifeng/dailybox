@@ -1,3 +1,7 @@
+## 20230524
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Pro is now available on Graviton (ARM) instances](https://ubuntu.com//blog/ubuntu-pro-now-available-on-aws-graviton-instances)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education)
+
 ## 20230523
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023)
 

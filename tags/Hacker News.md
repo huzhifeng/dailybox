@@ -1,3 +1,7 @@
+## 20230524
+- [Hacker News](https://news.ycombinator.com/front) | [Apple announces multibillion deal with Broadcom to make components in the USA](https://news.ycombinator.com/item?id=36044977)
+- [Hacker News](https://news.ycombinator.com/front) | [Waymo and Uber partner to bring autonomous driving technology to Uber](https://news.ycombinator.com/item?id=36043322)
+
 ## 20230523
 - [Hacker News](https://news.ycombinator.com/front) | [Severance payments at Wikimedia Foundation](https://news.ycombinator.com/item?id=36029115)
 - [Hacker News](https://news.ycombinator.com/front) | [Memory Allocation](https://news.ycombinator.com/item?id=36029087)

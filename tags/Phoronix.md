@@ -1,3 +1,8 @@
+## 20230524
+- [Phoronix](https://www.phoronix.com/) | [AMD CPU "k10temp" Linux Driver Updated To Report Negative Temperatures](https://www.phoronix.com/news/AMD-k10temp-Negative-Temps)
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon Software For Linux 22.40.5 Driver Released](https://www.phoronix.com/news/Radeon-Software-Linux-22.40.5)
+- [Phoronix](https://www.phoronix.com/) | [Podman Desktop 1.0 Released As An Alternative To Docker Desktop](https://www.phoronix.com/news/Podman-Desktop-1.0)
+
 ## 20230523
 - [Phoronix](https://www.phoronix.com/) | [Intel Provides AI-Accelerated HPC Update For ISC 2023](https://www.phoronix.com/review/intel-isc-2023)
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Launches New Open-Source Software Sponsorship Program](https://www.phoronix.com/news/Cloudflare-Open-Source-Sponsor)
