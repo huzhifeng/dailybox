@@ -1,3 +1,23 @@
+## 20230524
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1010 必应超越百度成为中国最大的桌面搜索引擎](https://linux.cn/article-15839-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to Red Hat Developer Hub and Janus](https://developers.redhat.com/articles/2023/05/23/developers-guide-red-hat-developer-hub-and-janus)
+- [Phoronix](https://www.phoronix.com/) | [AMD CPU "k10temp" Linux Driver Updated To Report Negative Temperatures](https://www.phoronix.com/news/AMD-k10temp-Negative-Temps)
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon Software For Linux 22.40.5 Driver Released](https://www.phoronix.com/news/Radeon-Software-Linux-22.40.5)
+- [Phoronix](https://www.phoronix.com/) | [Podman Desktop 1.0 Released As An Alternative To Docker Desktop](https://www.phoronix.com/news/Podman-Desktop-1.0)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Onyx Approved as Immutable Fedora Linux 39 Spin with Budgie Desktop](https://9to5linux.com/fedora-onyx-approved-as-immutable-fedora-linux-39-spin-with-budgie-desktop)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Community Survey Taker 2023 !](https://badges.fedoraproject.org/badge/community-survey-taker-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Joining the Linux Foundation Europe Advisory Board](https://blogs.igalia.com/siglesias/2023/05/23/Joining-the-LFE-Advisory-Board/)
+- [Planet Debian](https://planet.debian.org/) | [Craig Small: Devices with cgroup v2](https://dropbear.xyz/2023/05/23/devices-with-cgroup-v2/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: neovim plugins and distributions](https://jmtd.net/log/neovim/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: proxmox Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/proxmox-platinum-debconf23.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Pro is now available on Graviton (ARM) instances](https://ubuntu.com//blog/ubuntu-pro-now-available-on-aws-graviton-instances)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Versioning of sbsa-ref machine](https://marcin.juszkiewicz.com.pl/2023/05/23/versioning-of-sbsa-ref-machine/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [WARNING: Updating from RHEL8.6 to RHEL8.7/RHEL8.8 may break Network Access with RoCE Express Adapters](https://kvmonz.blogspot.com/2023/05/warning-updating-from-rhel86-to.html)
+- [This week in KDE](https://pointieststick.com/) | [Presentation at University of Macedonia: Making a Difference](https://pointieststick.com/2023/05/23/presentation-at-university-of-macedonia-making-a-difference/)
+
 ## 20230523
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1009 澳证交所宣告用区块链改造其核心交易系统失败](https://linux.cn/article-15836-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift Data Science for fraud detection](https://developers.redhat.com/articles/2023/05/22/how-use-openshift-data-science-fraud-detection)

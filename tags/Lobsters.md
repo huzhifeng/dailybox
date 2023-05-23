@@ -1,3 +1,8 @@
+## 20230524
+- [Lobsters](https://lobste.rs/) | [Gleam v0.29 - Gleam gets autocompletion](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion)
+- [Lobsters](https://lobste.rs/) | [How to include Git version information in Go](https://lobste.rs/s/a4zoah/how_include_git_version_information_go)
+- [Lobsters](https://lobste.rs/) | [Trusted publishing: a new benchmark for packaging security](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for)
+
 ## 20230523
 - [Lobsters](https://lobste.rs/) | [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million)
 - [Lobsters](https://lobste.rs/) | [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent)

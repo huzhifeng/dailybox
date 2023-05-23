@@ -1,3 +1,8 @@
+## 20230524
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Community Survey Taker 2023 !](https://badges.fedoraproject.org/badge/community-survey-taker-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Joining the Linux Foundation Europe Advisory Board](https://blogs.igalia.com/siglesias/2023/05/23/Joining-the-LFE-Advisory-Board/)
+
 ## 20230523
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 22 May 1300 UTC](https://neuroblog.fedoraproject.org/2023/05/22/next-open-neurofedora-meeting-22-May-1300-utc.html)

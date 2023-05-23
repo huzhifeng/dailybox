@@ -1,3 +1,6 @@
+## 20230524
+- [diff.blog](https://diff.blog/) | [Demystifying Tupper's formula](https://diff.blog/post/demystifying-tuppers-formula-139861/)
+
 ## 20230523
 - [diff.blog](https://diff.blog/) | [Governance of superintelligence](https://diff.blog/post/governance-of-superintelligence-139840/)
 - [diff.blog](https://diff.blog/) | [Abductive diagnostics for Müsli](https://diff.blog/post/abductive-diagnostics-for-musli-139813/)

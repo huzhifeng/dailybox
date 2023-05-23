@@ -1,3 +1,6 @@
+## 20230524
+- [TED Talks Daily](https://www.ted.com/talks) | [Is someone you love suffering in silence? Here's what to do | Gus Worland](https://www.ted.com/talks/gus_worland_is_someone_you_love_suffering_in_silence_here_s_what_to_do?rss)
+
 ## 20230523
 - [TED Talks Daily](https://www.ted.com/talks) | [The timeless, ancient language of art | Wangechi Mutu](https://www.ted.com/talks/wangechi_mutu_the_timeless_ancient_language_of_art?rss)
 

@@ -1,3 +1,8 @@
+## 20230524
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN)
+
 ## 20230523
 - [GitHub中文社区](https://www.githubs.cn/trending) | [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [w-okada/voice-changer](https://github.com/w-okada/voice-changer)

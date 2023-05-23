@@ -1,3 +1,8 @@
+## 20230524
+- [Planet Debian](https://planet.debian.org/) | [Craig Small: Devices with cgroup v2](https://dropbear.xyz/2023/05/23/devices-with-cgroup-v2/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: neovim plugins and distributions](https://jmtd.net/log/neovim/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: proxmox Platinum Sponsor of DebConf23](https://bits.debian.org/2023/05/proxmox-platinum-debconf23.html)
+
 ## 20230523
 - [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: rpi-microk8s-bootstrap: Automate RPI device conversion into Kubernetes cluster nodes with Terraform](https://foolcontrol.org/?p=4555)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Tsalmoth](https://www.eyrie.org/~eagle/reviews/books/1-4668-8970-5.html)
