@@ -1,3 +1,8 @@
+## 20230525
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: RIP Brenda McDowell](https://www.earth.li/~noodles/blog/2023/05/rip-brenda-mcdowell.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian Reunion MiniDebConf 2022](https://jonathancarter.org/2023/05/24/debian-reunion-minidebconf-2022/)
+
 ## 20230524
 - [Planet Debian](https://planet.debian.org/) | [Craig Small: Devices with cgroup v2](https://dropbear.xyz/2023/05/23/devices-with-cgroup-v2/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: neovim plugins and distributions](https://jmtd.net/log/neovim/)

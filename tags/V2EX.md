@@ -1,3 +1,8 @@
+## 20230525
+- [V2EX](https://www.v2ex.com/) | [没想到我居然被电信诈骗了，花钱买教训。](https://www.v2ex.com/t/942642)
+- [V2EX](https://www.v2ex.com/) | [求一个跟女朋友分享照片的软件](https://www.v2ex.com/t/942572)
+- [V2EX](https://www.v2ex.com/) | [最近裁员有感：互联网行业的待遇来源](https://www.v2ex.com/t/942555)
+
 ## 20230524
 - [V2EX](https://www.v2ex.com/) | [格力的空调真的比其他品牌的空调更好吗还是噱头？](https://www.v2ex.com/t/942307)
 - [V2EX](https://www.v2ex.com/) | [受害者笔记，企业项目千万千万别用腾讯云。](https://www.v2ex.com/t/942227)

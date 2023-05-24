@@ -1,3 +1,8 @@
+## 20230525
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference)
+
 ## 20230524
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Pro is now available on Graviton (ARM) instances](https://ubuntu.com//blog/ubuntu-pro-now-available-on-aws-graviton-instances)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education)

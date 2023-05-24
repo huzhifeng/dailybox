@@ -1,3 +1,8 @@
+## 20230525
+- [Lobsters](https://lobste.rs/) | [A new direction for Pijul's hosting service](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service)
+- [Lobsters](https://lobste.rs/) | [You don't need a modal window](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window)
+- [Lobsters](https://lobste.rs/) | [PyPI was subpoenaed](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed)
+
 ## 20230524
 - [Lobsters](https://lobste.rs/) | [Gleam v0.29 - Gleam gets autocompletion](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion)
 - [Lobsters](https://lobste.rs/) | [How to include Git version information in Go](https://lobste.rs/s/a4zoah/how_include_git_version_information_go)
