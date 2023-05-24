@@ -1,3 +1,14 @@
+## 20230525
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 camera support now available in rpmfusion-nonfree](https://hansdegoede.livejournal.com/27276.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: EU EDPB vs. Irish DPC vs. Meta Platforms](https://fale.io/blog/2023/05/24/eu-edpb-vs.-irish-dpc-vs.-meta-platforms)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: RIP Brenda McDowell](https://www.earth.li/~noodles/blog/2023/05/rip-brenda-mcdowell.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian Reunion MiniDebConf 2022](https://jonathancarter.org/2023/05/24/debian-reunion-minidebconf-2022/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference)
+
 ## 20230524
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Community Survey Taker 2023 !](https://badges.fedoraproject.org/badge/community-survey-taker-2023)

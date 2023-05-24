@@ -1,3 +1,8 @@
+## 20230525
+- [Phoronix](https://www.phoronix.com/) | [Fedora's RPM Fusion Adds Experimental Intel IPU6 Web Camera Support](https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera)
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 7600 Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-linux)
+- [Phoronix](https://www.phoronix.com/) | [AMD EDAC Linux Driver Being Extended To Support Ryzen 7000 Series CPUs](https://www.phoronix.com/news/AMD-EDAC-Ryzen-7000-Series)
+
 ## 20230524
 - [Phoronix](https://www.phoronix.com/) | [AMD CPU "k10temp" Linux Driver Updated To Report Negative Temperatures](https://www.phoronix.com/news/AMD-k10temp-Negative-Temps)
 - [Phoronix](https://www.phoronix.com/) | [AMD Radeon Software For Linux 22.40.5 Driver Released](https://www.phoronix.com/news/Radeon-Software-Linux-22.40.5)

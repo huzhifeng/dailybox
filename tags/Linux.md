@@ -1,3 +1,19 @@
+## 20230525
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1011 OpenAI 呼吁像监管原子能一样监管超级智能](https://linux.cn/article-15842-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Fedora's RPM Fusion Adds Experimental Intel IPU6 Web Camera Support](https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera)
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 7600 Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-linux)
+- [Phoronix](https://www.phoronix.com/) | [AMD EDAC Linux Driver Being Extended To Support Ryzen 7000 Series CPUs](https://www.phoronix.com/news/AMD-EDAC-Ryzen-7000-Series)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 115 Will Let You Open Links or Search with Middle-Click on New Tab Button](https://9to5linux.com/firefox-115-will-let-you-open-links-or-search-with-middle-click-on-new-tab-button)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 camera support now available in rpmfusion-nonfree](https://hansdegoede.livejournal.com/27276.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: EU EDPB vs. Irish DPC vs. Meta Platforms](https://fale.io/blog/2023/05/24/eu-edpb-vs.-irish-dpc-vs.-meta-platforms)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: RIP Brenda McDowell](https://www.earth.li/~noodles/blog/2023/05/rip-brenda-mcdowell.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian Reunion MiniDebConf 2022](https://jonathancarter.org/2023/05/24/debian-reunion-minidebconf-2022/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference)
+
 ## 20230524
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1010 必应超越百度成为中国最大的桌面搜索引擎](https://linux.cn/article-15839-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)

@@ -1,3 +1,6 @@
+## 20230525
+- [It's FOSS](https://itsfoss.com/) | [How to Stress Test CPU in Linux](https://itsfoss.com/stress-test-cpu-linux/)
+
 ## 20230524
 - [It's FOSS](https://itsfoss.com/) | [Handling Externally Managed Environment Error With Pip in Ubuntu 23.10](https://itsfoss.com/externally-managed-environment/)
 

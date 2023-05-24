@@ -1,3 +1,8 @@
+## 20230525
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 camera support now available in rpmfusion-nonfree](https://hansdegoede.livejournal.com/27276.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: EU EDPB vs. Irish DPC vs. Meta Platforms](https://fale.io/blog/2023/05/24/eu-edpb-vs.-irish-dpc-vs.-meta-platforms)
+
 ## 20230524
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Community Survey Taker 2023 !](https://badges.fedoraproject.org/badge/community-survey-taker-2023)

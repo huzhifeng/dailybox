@@ -1,3 +1,6 @@
+## 20230525
+- [TED Talks Daily](https://www.ted.com/talks) | [A foster care system where every child has a loving home | Sixto Cancel](https://www.ted.com/talks/sixto_cancel_a_foster_care_system_where_every_child_has_a_loving_home?rss)
+
 ## 20230524
 - [TED Talks Daily](https://www.ted.com/talks) | [Is someone you love suffering in silence? Here's what to do | Gus Worland](https://www.ted.com/talks/gus_worland_is_someone_you_love_suffering_in_silence_here_s_what_to_do?rss)
 

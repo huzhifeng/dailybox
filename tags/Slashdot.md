@@ -1,3 +1,6 @@
+## 20230525
+- [Slashdot](https://developers.slashdot.org/) | [PyPI Was Subpoenaed](https://developers.slashdot.org/story/23/05/24/1838223/pypi-was-subpoenaed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230522
 - [Slashdot](https://developers.slashdot.org/) | [Google Colab Promises 'AI-Powered Coding, Free of Charge'](https://developers.slashdot.org/story/23/05/21/1926213/google-colab-promises-ai-powered-coding-free-of-charge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

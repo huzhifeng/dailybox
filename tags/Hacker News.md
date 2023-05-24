@@ -1,3 +1,7 @@
+## 20230525
+- [Hacker News](https://news.ycombinator.com/front) | [PyPI Was Subpoenaed](https://news.ycombinator.com/item?id=36061407)
+- [Hacker News](https://news.ycombinator.com/front) | [Simple exercise to eliminate gastroesophageal reflux (2022)](https://news.ycombinator.com/item?id=36059247)
+
 ## 20230524
 - [Hacker News](https://news.ycombinator.com/front) | [Apple announces multibillion deal with Broadcom to make components in the USA](https://news.ycombinator.com/item?id=36044977)
 - [Hacker News](https://news.ycombinator.com/front) | [Waymo and Uber partner to bring autonomous driving technology to Uber](https://news.ycombinator.com/item?id=36043322)

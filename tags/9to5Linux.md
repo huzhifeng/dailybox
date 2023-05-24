@@ -1,3 +1,6 @@
+## 20230525
+- [9to5Linux](https://9to5linux.com/) | [Firefox 115 Will Let You Open Links or Search with Middle-Click on New Tab Button](https://9to5linux.com/firefox-115-will-let-you-open-links-or-search-with-middle-click-on-new-tab-button)
+
 ## 20230524
 - [9to5Linux](https://9to5linux.com/) | [Fedora Onyx Approved as Immutable Fedora Linux 39 Spin with Budgie Desktop](https://9to5linux.com/fedora-onyx-approved-as-immutable-fedora-linux-39-spin-with-budgie-desktop)
 
