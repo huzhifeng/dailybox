@@ -1,3 +1,6 @@
+## 20230526
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.21: Pip Issue, CPU Stress Testing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-23-21/)
+
 ## 20230525
 - [It's FOSS](https://itsfoss.com/) | [How to Stress Test CPU in Linux](https://itsfoss.com/stress-test-cpu-linux/)
 

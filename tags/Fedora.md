@@ -1,3 +1,8 @@
+## 20230526
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Closing a cycle](https://blogs.igalia.com/siglesias/2023/05/25/Closing-a-cycle/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part IV](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iv/)
+
 ## 20230525
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 camera support now available in rpmfusion-nonfree](https://hansdegoede.livejournal.com/27276.html)

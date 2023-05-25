@@ -1,3 +1,7 @@
+## 20230526
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: New Debian Developers and Maintainers (March and April 2023)](https://bits.debian.org/2023/05/new-developers-2023-04.html)
+
 ## 20230525
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: RIP Brenda McDowell](https://www.earth.li/~noodles/blog/2023/05/rip-brenda-mcdowell.html)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)

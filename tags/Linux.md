@@ -1,3 +1,19 @@
+## 20230526
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1012 Meta 公布革命性可扩展模型架构 Megabyte](https://linux.cn/article-15845-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Weston 12.0: Highlights and changes for Wayland's reference compositor](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [3 patterns for deploying Helm charts with ArgoCD](https://developers.redhat.com/articles/2023/05/25/3-patterns-deploying-helm-charts-argocd)
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Reaches Beta With Performance Improvements - Including SIMD for x86 & ARM](https://www.phoronix.com/news/PostgreSQL-16-Beta-1)
+- [Phoronix](https://www.phoronix.com/) | [IBM Baking Some Nice Optimizations To EXT4's Multi-Block Allocator](https://www.phoronix.com/news/IBM-EXT4-MB-Allocator-Faster)
+- [Phoronix](https://www.phoronix.com/) | [AI Processing Unit "APU" Driver For Linux DRM Is Among The Latest Accelerator Drivers](https://www.phoronix.com/news/Linux-DRM-APU-Driver-Patches)
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Closing a cycle](https://blogs.igalia.com/siglesias/2023/05/25/Closing-a-cycle/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part IV](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iv/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: New Debian Developers and Maintainers (March and April 2023)](https://bits.debian.org/2023/05/new-developers-2023-04.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E248 Lutricías Lúdicas](https://podcastubuntuportugal.org/e248/)
+
 ## 20230525
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1011 OpenAI 呼吁像监管原子能一样监管超级智能](https://linux.cn/article-15842-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Fedora's RPM Fusion Adds Experimental Intel IPU6 Web Camera Support](https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera)

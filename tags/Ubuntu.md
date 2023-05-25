@@ -1,3 +1,8 @@
+## 20230526
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E248 Lutricías Lúdicas](https://podcastubuntuportugal.org/e248/)
+
 ## 20230525
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Scarlett Gately Moore: KDE Gear 23.04.1 Snaps Released! Snapcraft updates and more.](https://www.scarlettgatelymoore.dev/kde-gear-23-04-1-snaps-released-snapcraft-updates-and-more/)

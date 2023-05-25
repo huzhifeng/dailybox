@@ -1,3 +1,8 @@
+## 20230526
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Reaches Beta With Performance Improvements - Including SIMD for x86 & ARM](https://www.phoronix.com/news/PostgreSQL-16-Beta-1)
+- [Phoronix](https://www.phoronix.com/) | [IBM Baking Some Nice Optimizations To EXT4's Multi-Block Allocator](https://www.phoronix.com/news/IBM-EXT4-MB-Allocator-Faster)
+- [Phoronix](https://www.phoronix.com/) | [AI Processing Unit "APU" Driver For Linux DRM Is Among The Latest Accelerator Drivers](https://www.phoronix.com/news/Linux-DRM-APU-Driver-Patches)
+
 ## 20230525
 - [Phoronix](https://www.phoronix.com/) | [Fedora's RPM Fusion Adds Experimental Intel IPU6 Web Camera Support](https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera)
 - [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 7600 Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-linux)
