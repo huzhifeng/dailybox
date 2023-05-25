@@ -1,3 +1,8 @@
+## 20230526
+- [diff.blog](https://diff.blog/) | [AI Canon](https://diff.blog/post/ai-canon-140021/)
+- [diff.blog](https://diff.blog/) | [Democratic Inputs to AI](https://diff.blog/post/democratic-inputs-to-ai-140040/)
+- [diff.blog](https://diff.blog/) | [Layoffs push down scores on Glassdoor: this is how companies respond](https://diff.blog/post/layoffs-push-down-scores-on-glassdoor-this-is-how-companies-respond-140037/)
+
 ## 20230524
 - [diff.blog](https://diff.blog/) | [Demystifying Tupper's formula](https://diff.blog/post/demystifying-tuppers-formula-139861/)
 

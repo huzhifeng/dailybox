@@ -1,3 +1,13 @@
+## 20230526
+- [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Closing a cycle](https://blogs.igalia.com/siglesias/2023/05/25/Closing-a-cycle/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Wrapping up the Fedora Websites and Apps Community Initiative: Part IV](https://communityblog.fedoraproject.org/wrapping-up-the-fedora-websites-and-apps-community-initiative-part-iv/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: New Debian Developers and Maintainers (March and April 2023)](https://bits.debian.org/2023/05/new-developers-2023-04.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E248 Lutricías Lúdicas](https://podcastubuntuportugal.org/e248/)
+
 ## 20230525
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 camera support now available in rpmfusion-nonfree](https://hansdegoede.livejournal.com/27276.html)

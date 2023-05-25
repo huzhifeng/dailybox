@@ -1,3 +1,8 @@
+## 20230526
+- [Lobsters](https://lobste.rs/) | [Pamela Fox won't quit vi](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi)
+- [Lobsters](https://lobste.rs/) | [Even more hindsight on Vim, Helix and Kakoune](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune)
+- [Lobsters](https://lobste.rs/) | [Fuck It, We'll Do It Live](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live)
+
 ## 20230525
 - [Lobsters](https://lobste.rs/) | [A new direction for Pijul's hosting service](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service)
 - [Lobsters](https://lobste.rs/) | [You don't need a modal window](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window)

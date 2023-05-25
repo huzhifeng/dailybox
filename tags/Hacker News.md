@@ -1,3 +1,8 @@
+## 20230526
+- [Hacker News](https://news.ycombinator.com/front) | [AI Canon](https://news.ycombinator.com/item?id=36072268)
+- [Hacker News](https://news.ycombinator.com/front) | [Everything you always wanted to know about mathematics (2013) [pdf]](https://news.ycombinator.com/item?id=36069847)
+- [Hacker News](https://news.ycombinator.com/front) | [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://news.ycombinator.com/item?id=36068850)
+
 ## 20230525
 - [Hacker News](https://news.ycombinator.com/front) | [PyPI Was Subpoenaed](https://news.ycombinator.com/item?id=36061407)
 - [Hacker News](https://news.ycombinator.com/front) | [Simple exercise to eliminate gastroesophageal reflux (2022)](https://news.ycombinator.com/item?id=36059247)

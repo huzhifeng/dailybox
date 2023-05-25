@@ -1,3 +1,6 @@
+## 20230526
+- [Red Hat Developer](https://developers.redhat.com/) | [3 patterns for deploying Helm charts with ArgoCD](https://developers.redhat.com/articles/2023/05/25/3-patterns-deploying-helm-charts-argocd)
+
 ## 20230524
 - [Red Hat Developer](https://developers.redhat.com/) | [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
 - [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to Red Hat Developer Hub and Janus](https://developers.redhat.com/articles/2023/05/23/developers-guide-red-hat-developer-hub-and-janus)

@@ -1,3 +1,7 @@
+## 20230526
+- [Limboy](https://limboy.me) | [漩涡](https://limboy.me/books/uzumaki/)
+- [Limboy](https://limboy.me) | [把自己当作他人，把他人当做自己，把课题当作科学研究](https://limboy.me/posts/3-tips/)
+
 ## 20230508
 - [Limboy](https://limboy.me) | [真诚可能是最重要的一个品德](https://limboy.me/posts/sincerity/)
 

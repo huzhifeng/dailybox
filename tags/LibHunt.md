@@ -1,3 +1,8 @@
+## 20230526
+- [LibHunt](https://www.libhunt.com/) | [SuperAGI](https://www.libhunt.com/r/SuperAGI)
+- [LibHunt](https://www.libhunt.com/) | [bip39](https://www.libhunt.com/r/bip39)
+- [LibHunt](https://www.libhunt.com/) | [qlora](https://www.libhunt.com/r/qlora)
+
 ## 20230524
 - [LibHunt](https://www.libhunt.com/) | [Godot](https://www.libhunt.com/r/godot)
 - [LibHunt](https://www.libhunt.com/) | [t3-turbo-next-app-router](https://www.libhunt.com/r/t3-turbo-next-app-router)
