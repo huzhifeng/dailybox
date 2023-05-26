@@ -1,3 +1,17 @@
+## 20230527
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1013 微软总裁希望控制 AI 以免被俄罗斯、中国等利用](https://linux.cn/article-15848-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts QDMA Linux Driver For Review](https://www.phoronix.com/news/AMD-QDMA-Linux-Driver)
+- [Phoronix](https://www.phoronix.com/) | [Those Using The XFS File-System Will Want To Avoid Linux 6.3 For Now](https://www.phoronix.com/news/Linux-6.3-XFS-Metadata-Corrupt)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics A750/A770 Quick Linux Competition With The Radeon RX 7600](https://www.phoronix.com/news/Intel-Arc-Graphics-Mesa-23.2)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 21 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-21-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.20RC1 and 8.2.7RC1](https://blog.remirepo.net/post/2023/05/26/PHP-version-8.1.20RC1-and-8.2.7RC1)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Late Victorian Combinations](https://blog.trueelena.org/blog/2023/05/26-late_victorian_combinations/index.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Correspondence Book](https://blog.trueelena.org/blog/2023/05/26-correspondence_book/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#97 GNOME Latam 2023](https://thisweek.gnome.org/posts/2023/05/twig-97/)
+
 ## 20230526
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1012 Meta 公布革命性可扩展模型架构 Megabyte](https://linux.cn/article-15845-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Weston 12.0: Highlights and changes for Wayland's reference compositor](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)

@@ -1,3 +1,6 @@
+## 20230527
+- [TED Talks Daily](https://www.ted.com/talks) | [The dinosaur detectives of real-life Jurassic parks | Martin Lockley](https://www.ted.com/talks/martin_lockley_the_dinosaur_detectives_of_real_life_jurassic_parks?rss)
+
 ## 20230526
 - [TED Talks Daily](https://www.ted.com/talks) | [Are life-saving medicines hiding in the world's coldest places? | Normand Voyer](https://www.ted.com/talks/normand_voyer_are_life_saving_medicines_hiding_in_the_world_s_coldest_places?rss)
 

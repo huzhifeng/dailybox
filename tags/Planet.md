@@ -1,3 +1,12 @@
+## 20230527
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 21 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-21-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.20RC1 and 8.2.7RC1](https://blog.remirepo.net/post/2023/05/26/PHP-version-8.1.20RC1-and-8.2.7RC1)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Late Victorian Combinations](https://blog.trueelena.org/blog/2023/05/26-late_victorian_combinations/index.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Correspondence Book](https://blog.trueelena.org/blog/2023/05/26-correspondence_book/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling)
+
 ## 20230526
 - [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Closing a cycle](https://blogs.igalia.com/siglesias/2023/05/25/Closing-a-cycle/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)

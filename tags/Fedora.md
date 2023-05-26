@@ -1,3 +1,8 @@
+## 20230527
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 21 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-21-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.20RC1 and 8.2.7RC1](https://blog.remirepo.net/post/2023/05/26/PHP-version-8.1.20RC1-and-8.2.7RC1)
+
 ## 20230526
 - [Planet Fedora](http://fedoraplanet.org/) | [Samuel Iglesias: Closing a cycle](https://blogs.igalia.com/siglesias/2023/05/25/Closing-a-cycle/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Upgrade of Copr servers](https://status.fedoraproject.org/2023-05-25-coprupgrade.html)

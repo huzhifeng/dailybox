@@ -1,3 +1,8 @@
+## 20230527
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts QDMA Linux Driver For Review](https://www.phoronix.com/news/AMD-QDMA-Linux-Driver)
+- [Phoronix](https://www.phoronix.com/) | [Those Using The XFS File-System Will Want To Avoid Linux 6.3 For Now](https://www.phoronix.com/news/Linux-6.3-XFS-Metadata-Corrupt)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics A750/A770 Quick Linux Competition With The Radeon RX 7600](https://www.phoronix.com/news/Intel-Arc-Graphics-Mesa-23.2)
+
 ## 20230526
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Reaches Beta With Performance Improvements - Including SIMD for x86 & ARM](https://www.phoronix.com/news/PostgreSQL-16-Beta-1)
 - [Phoronix](https://www.phoronix.com/) | [IBM Baking Some Nice Optimizations To EXT4's Multi-Block Allocator](https://www.phoronix.com/news/IBM-EXT4-MB-Allocator-Faster)

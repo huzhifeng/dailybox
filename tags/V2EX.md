@@ -1,3 +1,8 @@
+## 20230527
+- [V2EX](https://www.v2ex.com/) | [大伙来评评](https://www.v2ex.com/t/943185)
+- [V2EX](https://www.v2ex.com/) | [做一个调研，如果有人给你外包单子，你愿意给中间人多少利润？](https://www.v2ex.com/t/943133)
+- [V2EX](https://www.v2ex.com/) | [梳理了一下每个月的支出，没钱剩下来，很累啊，大伙平时都是怎么攒钱的？](https://www.v2ex.com/t/943130)
+
 ## 20230526
 - [V2EX](https://www.v2ex.com/) | [[店大欺客] apple 就是牛啊](https://www.v2ex.com/t/942936)
 - [V2EX](https://www.v2ex.com/) | [外贸团队求一个梯子方案](https://www.v2ex.com/t/942909)
