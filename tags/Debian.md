@@ -1,3 +1,7 @@
+## 20230527
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Late Victorian Combinations](https://blog.trueelena.org/blog/2023/05/26-late_victorian_combinations/index.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Correspondence Book](https://blog.trueelena.org/blog/2023/05/26-correspondence_book/index.html)
+
 ## 20230526
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: New Debian Developers and Maintainers (March and April 2023)](https://bits.debian.org/2023/05/new-developers-2023-04.html)

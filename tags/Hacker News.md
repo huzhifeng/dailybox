@@ -1,3 +1,6 @@
+## 20230527
+- [Hacker News](https://news.ycombinator.com/front) | [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://news.ycombinator.com/item?id=36083620)
+
 ## 20230526
 - [Hacker News](https://news.ycombinator.com/front) | [AI Canon](https://news.ycombinator.com/item?id=36072268)
 - [Hacker News](https://news.ycombinator.com/front) | [Everything you always wanted to know about mathematics (2013) [pdf]](https://news.ycombinator.com/item?id=36069847)

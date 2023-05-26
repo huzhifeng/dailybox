@@ -1,3 +1,6 @@
+## 20230527
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#97 GNOME Latam 2023](https://thisweek.gnome.org/posts/2023/05/twig-97/)
+
 ## 20230520
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#96 Polished Settings](https://thisweek.gnome.org/posts/2023/05/twig-96/)
 

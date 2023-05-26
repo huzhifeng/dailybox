@@ -1,3 +1,6 @@
+## 20230527
+- [LibHunt](https://www.libhunt.com/) | [Neurite](https://www.libhunt.com/r/Neurite)
+
 ## 20230526
 - [LibHunt](https://www.libhunt.com/) | [SuperAGI](https://www.libhunt.com/r/SuperAGI)
 - [LibHunt](https://www.libhunt.com/) | [bip39](https://www.libhunt.com/r/bip39)

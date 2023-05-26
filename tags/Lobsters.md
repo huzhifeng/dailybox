@@ -1,3 +1,8 @@
+## 20230527
+- [Lobsters](https://lobste.rs/) | [Linear feeds are a dark pattern](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern)
+- [Lobsters](https://lobste.rs/) | [Building a Personal VoIP System](https://lobste.rs/s/1ma7qd/building_personal_voip_system)
+- [Lobsters](https://lobste.rs/) | [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
+
 ## 20230526
 - [Lobsters](https://lobste.rs/) | [Pamela Fox won't quit vi](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi)
 - [Lobsters](https://lobste.rs/) | [Even more hindsight on Vim, Helix and Kakoune](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune)

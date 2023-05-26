@@ -1,3 +1,7 @@
+## 20230527
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling)
+
 ## 20230526
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Upgraded this host to Debian 12 (bookworm)](https://jonathancarter.org/2023/05/25/upgraded-this-host-to-debian-12-bookworm/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
