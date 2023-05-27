@@ -1,3 +1,11 @@
+## 20230528
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1014 微软发布 Azure Linux 正式版](https://linux.cn/article-15851-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.2 Virgl Lands Support For OpenGL 4.6 Inside Virtual Machines](https://www.phoronix.com/news/Mesa-23.2-Virgl-OpenGL-4.6-VMs)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Improve VM Guest Performance When The Host Encounters Memory Pressure](https://www.phoronix.com/news/Better-Guest-For-Host-RAM-Press)
+- [Phoronix](https://www.phoronix.com/) | [Intel Proposes Using Netlink For Linux Graphics Driver RAS & Telemetry](https://www.phoronix.com/news/Intel-RFC-DRM-Netlink-RAS)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023](https://ubuntu.com//blog/ubuntu-summit-2023)
+
 ## 20230527
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1013 微软总裁希望控制 AI 以免被俄罗斯、中国等利用](https://linux.cn/article-15848-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts QDMA Linux Driver For Review](https://www.phoronix.com/news/AMD-QDMA-Linux-Driver)

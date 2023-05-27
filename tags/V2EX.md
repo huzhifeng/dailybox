@@ -1,3 +1,8 @@
+## 20230528
+- [V2EX](https://www.v2ex.com/) | [入职国内公司，出差外派到泰国清迈做开发，靠谱码？](https://www.v2ex.com/t/943475)
+- [V2EX](https://www.v2ex.com/) | [科学上网，不需要大流量，不需要大带宽，但需要稳定不要频繁切换节点，有什么好的方案吗？](https://www.v2ex.com/t/943430)
+- [V2EX](https://www.v2ex.com/) | [中午被老板喊去谈话了](https://www.v2ex.com/t/943429)
+
 ## 20230527
 - [V2EX](https://www.v2ex.com/) | [大伙来评评](https://www.v2ex.com/t/943185)
 - [V2EX](https://www.v2ex.com/) | [做一个调研，如果有人给你外包单子，你愿意给中间人多少利润？](https://www.v2ex.com/t/943133)
