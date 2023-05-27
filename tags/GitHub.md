@@ -1,3 +1,8 @@
+## 20230528
+- [GitHub中文社区](https://www.githubs.cn/trending) | [artidoro/qlora](https://github.com/artidoro/qlora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
+
 ## 20230527
 - [GitHub中文社区](https://www.githubs.cn/trending) | [artidoro/qlora](https://github.com/artidoro/qlora)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)

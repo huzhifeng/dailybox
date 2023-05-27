@@ -1,3 +1,8 @@
+## 20230528
+- [Lobsters](https://lobste.rs/) | [What's up in the Python community? - May 2023](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023)
+- [Lobsters](https://lobste.rs/) | [Oxidizing OCaml: Locality](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality)
+- [Lobsters](https://lobste.rs/) | [Why does the farmer emoji have a length of 7 in JavaScript?](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7)
+
 ## 20230527
 - [Lobsters](https://lobste.rs/) | [Linear feeds are a dark pattern](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern)
 - [Lobsters](https://lobste.rs/) | [Building a Personal VoIP System](https://lobste.rs/s/1ma7qd/building_personal_voip_system)

@@ -1,3 +1,6 @@
+## 20230528
+- [diff.blog](https://diff.blog/) | [A governance system, if you can keep it](https://diff.blog/post/a-governance-system-if-you-can-keep-it-140116/)
+
 ## 20230526
 - [diff.blog](https://diff.blog/) | [AI Canon](https://diff.blog/post/ai-canon-140021/)
 - [diff.blog](https://diff.blog/) | [Democratic Inputs to AI](https://diff.blog/post/democratic-inputs-to-ai-140040/)

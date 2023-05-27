@@ -1,3 +1,6 @@
+## 20230528
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023](https://ubuntu.com//blog/ubuntu-summit-2023)
+
 ## 20230527
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling)

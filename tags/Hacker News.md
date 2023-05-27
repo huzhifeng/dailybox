@@ -1,3 +1,6 @@
+## 20230528
+- [Hacker News](https://news.ycombinator.com/front) | [Scar tissues make relationships wear out (2013)](https://news.ycombinator.com/item?id=36093954)
+
 ## 20230527
 - [Hacker News](https://news.ycombinator.com/front) | [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://news.ycombinator.com/item?id=36083620)
 
