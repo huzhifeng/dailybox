@@ -1,3 +1,8 @@
+## 20230529
+- [V2EX](https://www.v2ex.com/) | [你会用一杯奶茶换一个月不洗袜子嘛？](https://www.v2ex.com/t/943640)
+- [V2EX](https://www.v2ex.com/) | [住了高楼后 发现没素质的人是真多](https://www.v2ex.com/t/943633)
+- [V2EX](https://www.v2ex.com/) | [鉴于最近情感贴较多我也凑个热闹。情感树洞，不吐不快。](https://www.v2ex.com/t/943631)
+
 ## 20230528
 - [V2EX](https://www.v2ex.com/) | [入职国内公司，出差外派到泰国清迈做开发，靠谱码？](https://www.v2ex.com/t/943475)
 - [V2EX](https://www.v2ex.com/) | [科学上网，不需要大流量，不需要大带宽，但需要稳定不要频繁切换节点，有什么好的方案吗？](https://www.v2ex.com/t/943430)

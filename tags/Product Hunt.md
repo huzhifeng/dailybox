@@ -1,3 +1,8 @@
+## 20230529
+- [Product Hunt](https://www.producthunt.com) | [Digital Marketing Guide](https://www.producthunt.com/posts/digital-marketing-guide)
+- [Product Hunt](https://www.producthunt.com) | [Scribble To Art](https://www.producthunt.com/posts/scribble-to-art)
+- [Product Hunt](https://www.producthunt.com) | [Workflos.ai](https://www.producthunt.com/posts/workflos-ai)
+
 ## 20230528
 - [Product Hunt](https://www.producthunt.com) | [Muzify.ai](https://www.producthunt.com/posts/muzify-ai)
 - [Product Hunt](https://www.producthunt.com) | [Creators' AI](https://www.producthunt.com/posts/creators-ai)
