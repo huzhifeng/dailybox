@@ -1,3 +1,7 @@
+## 20230529
+- [LibHunt](https://www.libhunt.com/) | [g-helper](https://www.libhunt.com/r/g-helper)
+- [LibHunt](https://www.libhunt.com/) | [alephone](https://www.libhunt.com/r/alephone)
+
 ## 20230527
 - [LibHunt](https://www.libhunt.com/) | [Neurite](https://www.libhunt.com/r/Neurite)
 

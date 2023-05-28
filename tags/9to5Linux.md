@@ -1,3 +1,6 @@
+## 20230529
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23 Is Now Available for Beta Testing Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/mx-linux-23-is-now-available-for-beta-testing-based-on-debian-12-bookworm)
+
 ## 20230525
 - [9to5Linux](https://9to5linux.com/) | [Firefox 115 Will Let You Open Links or Search with Middle-Click on New Tab Button](https://9to5linux.com/firefox-115-will-let-you-open-links-or-search-with-middle-click-on-new-tab-button)
 

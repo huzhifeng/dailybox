@@ -1,3 +1,8 @@
+## 20230529
+- [Lobsters](https://lobste.rs/) | [The Gemini protocol seen by this HTTP client person](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client)
+- [Lobsters](https://lobste.rs/) | [WordPress Turns 20](https://lobste.rs/s/sd9ln2/wordpress_turns_20)
+- [Lobsters](https://lobste.rs/) | [GraphQL and Type Systems](https://lobste.rs/s/62dnvb/graphql_type_systems)
+
 ## 20230528
 - [Lobsters](https://lobste.rs/) | [What's up in the Python community? - May 2023](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023)
 - [Lobsters](https://lobste.rs/) | [Oxidizing OCaml: Locality](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality)

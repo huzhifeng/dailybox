@@ -1,3 +1,11 @@
+## 20230529
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1015 红帽利用 Ansible 数据训练运维 AI](https://linux.cn/article-15854-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc4 Released As A "Fairly Normal" Release](https://www.phoronix.com/news/Linux-6.4-rc4)
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.251 Released With One New Extension Worked On By Valve, Nintendo & Others](https://www.phoronix.com/news/Vulkan-1.3.251-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix For Potentially Bogus Number Of Intel Hybrid CPU HT Siblings](https://www.phoronix.com/news/Linux-Fixes-Bogus-HT-Siblings)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23 Is Now Available for Beta Testing Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/mx-linux-23-is-now-available-for-beta-testing-based-on-debian-12-bookworm)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+
 ## 20230528
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1014 微软发布 Azure Linux 正式版](https://linux.cn/article-15851-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Mesa 23.2 Virgl Lands Support For OpenGL 4.6 Inside Virtual Machines](https://www.phoronix.com/news/Mesa-23.2-Virgl-OpenGL-4.6-VMs)

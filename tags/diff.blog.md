@@ -1,3 +1,6 @@
+## 20230529
+- [diff.blog](https://diff.blog/) | [The Gemini protocol seen by this HTTP client person](https://diff.blog/post/the-gemini-protocol-seen-by-this-http-client-person-140253/)
+
 ## 20230528
 - [diff.blog](https://diff.blog/) | [A governance system, if you can keep it](https://diff.blog/post/a-governance-system-if-you-can-keep-it-140116/)
 

@@ -1,3 +1,6 @@
+## 20230529
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+
 ## 20230528
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023](https://ubuntu.com//blog/ubuntu-summit-2023)
