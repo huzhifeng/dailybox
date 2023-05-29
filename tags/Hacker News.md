@@ -1,3 +1,6 @@
+## 20230530
+- [Hacker News](https://news.ycombinator.com/front) | [300ms Faster: Reducing Wikipedia's total blocking time](https://news.ycombinator.com/item?id=36113430)
+
 ## 20230528
 - [Hacker News](https://news.ycombinator.com/front) | [Scar tissues make relationships wear out (2013)](https://news.ycombinator.com/item?id=36093954)
 

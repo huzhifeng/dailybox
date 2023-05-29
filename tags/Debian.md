@@ -1,3 +1,8 @@
+## 20230530
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Recommendations for Tools for Backing Up and Archiving to Removable Media](https://changelog.complete.org/archives/10500-recommendations-for-tools-for-backing-up-and-archiving-to-removable-media)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: MiniDebConf Germany 2023](https://jonathancarter.org/2023/05/29/minidebconf-germany-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Considering Convergence](https://etbe.coker.com.au/2023/05/29/considering-convergence/)
+
 ## 20230527
 - [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Late Victorian Combinations](https://blog.trueelena.org/blog/2023/05/26-late_victorian_combinations/index.html)
 - [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Correspondence Book](https://blog.trueelena.org/blog/2023/05/26-correspondence_book/index.html)

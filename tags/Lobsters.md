@@ -1,3 +1,8 @@
+## 20230530
+- [Lobsters](https://lobste.rs/) | [Email addresses are not primary user identities](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user)
+- [Lobsters](https://lobste.rs/) | [Ratatui: Build rich terminal user interfaces using Rust](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user)
+- [Lobsters](https://lobste.rs/) | [Zeal - Open Source Offline Documentation Browser](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation)
+
 ## 20230529
 - [Lobsters](https://lobste.rs/) | [The Gemini protocol seen by this HTTP client person](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client)
 - [Lobsters](https://lobste.rs/) | [WordPress Turns 20](https://lobste.rs/s/sd9ln2/wordpress_turns_20)
