@@ -1,3 +1,23 @@
+## 20230530
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1016 中国淡出超算 TOP500 榜单](https://linux.cn/article-15857-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Making new strides at AWE](https://www.collabora.com/news-and-blog/news-and-events/making-new-strides-awe.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift GitOps to deploy applications](https://developers.redhat.com/articles/2023/05/29/how-use-openshift-gitops-deploy-applications)
+- [Phoronix](https://www.phoronix.com/) | [System76 Virgo Aims To Be The Quietest Yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
+- [Phoronix](https://www.phoronix.com/) | [XFS Metadata Corruption On Linux 6.3 Tracked Down To One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Latest 113 Patches For Linux KVM TDX Support](https://www.phoronix.com/news/Linux-KVM-TDX-v14)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice to Get APNG Import/Export Support and Improved OpenPGP Encryption During GSoC 2023](https://9to5linux.com/libreoffice-to-get-apng-import-export-support-and-improved-openpgp-encryption-during-gsoc-2023)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 28th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-may-28th-2023)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 2.8.1 Released with Linux Kernel 6.3, Plasma Wayland by Default](https://9to5linux.com/nitrux-2-8-1-released-with-linux-kernel-6-3-plasma-wayland-by-default)
+- [OMG! Linux](https://www.omglinux.com/) | [This App Lets You Apply Dither Effects to Images on Linux](https://www.omglinux.com/halftone-dither-effect-app-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: WordPress, poster child of the LAMP stack, turns 20](https://dissociatedpress.net/2023/05/29/wordpress-poster-child-of-the-lamp-stack-turns-20/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: PipeWire camera support in Firefox](https://jgrulich.cz/2023/05/29/pipewire-camera-support-in-firefox/?utm_source=rss&utm_medium=rss&utm_campaign=pipewire-camera-support-in-firefox)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Recommendations for Tools for Backing Up and Archiving to Removable Media](https://changelog.complete.org/archives/10500-recommendations-for-tools-for-backing-up-and-archiving-to-removable-media)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: MiniDebConf Germany 2023](https://jonathancarter.org/2023/05/29/minidebconf-germany-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Considering Convergence](https://etbe.coker.com.au/2023/05/29/considering-convergence/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Simple RSS Mastodon Bot](https://popey.com/blog/2023/05/simple-rss-mastodon-bot/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: MiniDebConf Germany 2023](https://jonathancarter.org/2023/05/29/minidebconf-germany-2023/)
+
 ## 20230529
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1015 红帽利用 Ansible 数据训练运维 AI](https://linux.cn/article-15854-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc4 Released As A "Fairly Normal" Release](https://www.phoronix.com/news/Linux-6.4-rc4)

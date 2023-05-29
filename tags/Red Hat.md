@@ -1,3 +1,6 @@
+## 20230530
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use OpenShift GitOps to deploy applications](https://developers.redhat.com/articles/2023/05/29/how-use-openshift-gitops-deploy-applications)
+
 ## 20230526
 - [Red Hat Developer](https://developers.redhat.com/) | [3 patterns for deploying Helm charts with ArgoCD](https://developers.redhat.com/articles/2023/05/25/3-patterns-deploying-helm-charts-argocd)
 

@@ -1,3 +1,8 @@
+## 20230530
+- [Phoronix](https://www.phoronix.com/) | [System76 Virgo Aims To Be The Quietest Yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
+- [Phoronix](https://www.phoronix.com/) | [XFS Metadata Corruption On Linux 6.3 Tracked Down To One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Latest 113 Patches For Linux KVM TDX Support](https://www.phoronix.com/news/Linux-KVM-TDX-v14)
+
 ## 20230529
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc4 Released As A "Fairly Normal" Release](https://www.phoronix.com/news/Linux-6.4-rc4)
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.251 Released With One New Extension Worked On By Valve, Nintendo & Others](https://www.phoronix.com/news/Vulkan-1.3.251-Released)

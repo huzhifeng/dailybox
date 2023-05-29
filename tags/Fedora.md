@@ -1,3 +1,8 @@
+## 20230530
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: WordPress, poster child of the LAMP stack, turns 20](https://dissociatedpress.net/2023/05/29/wordpress-poster-child-of-the-lamp-stack-turns-20/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: PipeWire camera support in Firefox](https://jgrulich.cz/2023/05/29/pipewire-camera-support-in-firefox/?utm_source=rss&utm_medium=rss&utm_campaign=pipewire-camera-support-in-firefox)
+
 ## 20230529
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
 

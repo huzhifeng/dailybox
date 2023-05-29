@@ -1,3 +1,8 @@
+## 20230530
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Neo-Desktop/WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [pengzhile/pandora](https://github.com/pengzhile/pandora)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+
 ## 20230529
 - [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [artidoro/qlora](https://github.com/artidoro/qlora)
