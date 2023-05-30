@@ -1,3 +1,8 @@
+## 20230531
+- [Product Hunt](https://www.producthunt.com) | [Todo.is](https://www.producthunt.com/posts/todo-is)
+- [Product Hunt](https://www.producthunt.com) | [Liffery](https://www.producthunt.com/posts/liffery)
+- [Product Hunt](https://www.producthunt.com) | [Magicflow 2.0](https://www.producthunt.com/posts/magicflow-2-0)
+
 ## 20230530
 - [Product Hunt](https://www.producthunt.com) | [Dreamore AI](https://www.producthunt.com/posts/dreamore-ai)
 

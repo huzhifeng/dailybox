@@ -1,3 +1,6 @@
+## 20230531
+- [It's FOSS](https://itsfoss.com/) | [Install and Use pipx in Linux](https://itsfoss.com/install-pipx-ubuntu/)
+
 ## 20230530
 - [It's FOSS](https://itsfoss.com/) | [How to Update Snap Packages in Ubuntu](https://itsfoss.com/snap-update/)
 

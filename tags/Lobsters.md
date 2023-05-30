@@ -1,3 +1,8 @@
+## 20230531
+- [Lobsters](https://lobste.rs/) | [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly)
+- [Lobsters](https://lobste.rs/) | [Modern CPUs have a backstage cast](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast)
+- [Lobsters](https://lobste.rs/) | [Using UPX for compression might work against you](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work)
+
 ## 20230530
 - [Lobsters](https://lobste.rs/) | [Email addresses are not primary user identities](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user)
 - [Lobsters](https://lobste.rs/) | [Ratatui: Build rich terminal user interfaces using Rust](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user)

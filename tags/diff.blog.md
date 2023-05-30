@@ -1,3 +1,6 @@
+## 20230531
+- [diff.blog](https://diff.blog/) | [★ A Laravel package to quickly see which HTML is rendered by which Blade view](https://diff.blog/post/a-laravel-package-to-quickly-see-which-html-is-rendered-by-which-blade-view-140333/)
+
 ## 20230529
 - [diff.blog](https://diff.blog/) | [The Gemini protocol seen by this HTTP client person](https://diff.blog/post/the-gemini-protocol-seen-by-this-http-client-person-140253/)
 

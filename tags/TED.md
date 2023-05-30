@@ -1,3 +1,6 @@
+## 20230531
+- [TED Talks Daily](https://www.ted.com/talks) | [Your right to mental privacy in the age of brain-sensing tech | Nita Farahany](https://www.ted.com/talks/nita_farahany_your_right_to_mental_privacy_in_the_age_of_brain_sensing_tech?rss)
+
 ## 20230527
 - [TED Talks Daily](https://www.ted.com/talks) | [The dinosaur detectives of real-life Jurassic parks | Martin Lockley](https://www.ted.com/talks/martin_lockley_the_dinosaur_detectives_of_real_life_jurassic_parks?rss)
 

@@ -1,3 +1,6 @@
+## 20230531
+- [9to5Linux](https://9to5linux.com/) | [Kali Linux 2023.2 Brings PipeWire Support to Xfce Edition, Overhauls i3 Desktop](https://9to5linux.com/kali-linux-2023-2-brings-pipewire-support-to-xfce-edition-overhauls-i3-desktop)
+
 ## 20230530
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice to Get APNG Import/Export Support and Improved OpenPGP Encryption During GSoC 2023](https://9to5linux.com/libreoffice-to-get-apng-import-export-support-and-improved-openpgp-encryption-during-gsoc-2023)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 28th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-may-28th-2023)

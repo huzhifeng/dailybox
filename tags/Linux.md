@@ -1,3 +1,20 @@
+## 20230531
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1017 人工智能有“灭绝（人类）的危险”](https://linux.cn/article-15862-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Why use RHEL for SAP Solutions?](https://developers.redhat.com/articles/2023/05/30/why-use-rhel-sap-solutions)
+- [Red Hat Developer](https://developers.redhat.com/) | [Build an all-in-one edge manager with single-node OpenShift](https://developers.redhat.com/articles/2023/05/30/build-edge-manager-single-node-openshift)
+- [Phoronix](https://www.phoronix.com/) | [Chrome 114 Released With CHIPS, Popover API](https://www.phoronix.com/news/Chrome-114-Released)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Clang 16 vs. GCC 13 Compiler Performance On AMD 4th Gen EPYC "Genoa"](https://www.phoronix.com/review/amd-znver4-gcc13-clang16)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.3.5 Released With XFS Metadata Corruption Fix](https://www.phoronix.com/news/Linux-6.3.5-Released)
+- [9to5Linux](https://9to5linux.com/) | [Kali Linux 2023.2 Brings PipeWire Support to Xfce Edition, Overhauls i3 Desktop](https://9to5linux.com/kali-linux-2023-2-brings-pipewire-support-to-xfce-edition-overhauls-i3-desktop)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Software Fix Reduces Background CPU Usage](https://www.omglinux.com/gnome-software-reduce-resource-use-when-idle/)
+- [OMG! Linux](https://www.omglinux.com/) | [Purism Unveil New $2999 Librem Server V2](https://www.omglinux.com/purism-announce-librem-server-v2/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: wiki upgrade outage](https://status.fedoraproject.org/2023-05-31-wiki.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Mimicking of Known Successes](https://www.eyrie.org/~eagle/reviews/books/1-250-86051-2.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Automatic for the People](https://linuxmatters.sh/4/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Join the Ubuntu crew at GUADEC 2023](https://ubuntu.com//blog/join-the-ubuntu-crew-at-guadec-2023)
+
 ## 20230530
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1016 中国淡出超算 TOP500 榜单](https://linux.cn/article-15857-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Making new strides at AWE](https://www.collabora.com/news-and-blog/news-and-events/making-new-strides-awe.html)
