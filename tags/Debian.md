@@ -1,3 +1,6 @@
+## 20230531
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Mimicking of Known Successes](https://www.eyrie.org/~eagle/reviews/books/1-250-86051-2.html)
+
 ## 20230530
 - [Planet Debian](https://planet.debian.org/) | [John Goerzen: Recommendations for Tools for Backing Up and Archiving to Removable Media](https://changelog.complete.org/archives/10500-recommendations-for-tools-for-backing-up-and-archiving-to-removable-media)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: MiniDebConf Germany 2023](https://jonathancarter.org/2023/05/29/minidebconf-germany-2023/)

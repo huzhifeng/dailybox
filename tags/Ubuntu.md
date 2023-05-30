@@ -1,3 +1,7 @@
+## 20230531
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Automatic for the People](https://linuxmatters.sh/4/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Join the Ubuntu crew at GUADEC 2023](https://ubuntu.com//blog/join-the-ubuntu-crew-at-guadec-2023)
+
 ## 20230530
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Simple RSS Mastodon Bot](https://popey.com/blog/2023/05/simple-rss-mastodon-bot/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: MiniDebConf Germany 2023](https://jonathancarter.org/2023/05/29/minidebconf-germany-2023/)

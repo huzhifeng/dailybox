@@ -1,3 +1,8 @@
+## 20230531
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: wiki upgrade outage](https://status.fedoraproject.org/2023-05-31-wiki.html)
+
 ## 20230530
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: WordPress, poster child of the LAMP stack, turns 20](https://dissociatedpress.net/2023/05/29/wordpress-poster-child-of-the-lamp-stack-turns-20/)

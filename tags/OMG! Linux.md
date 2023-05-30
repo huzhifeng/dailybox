@@ -1,3 +1,7 @@
+## 20230531
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Software Fix Reduces Background CPU Usage](https://www.omglinux.com/gnome-software-reduce-resource-use-when-idle/)
+- [OMG! Linux](https://www.omglinux.com/) | [Purism Unveil New $2999 Librem Server V2](https://www.omglinux.com/purism-announce-librem-server-v2/)
+
 ## 20230530
 - [OMG! Linux](https://www.omglinux.com/) | [This App Lets You Apply Dither Effects to Images on Linux](https://www.omglinux.com/halftone-dither-effect-app-linux/)
 

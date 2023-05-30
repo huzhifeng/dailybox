@@ -1,3 +1,6 @@
+## 20230531
+- [Hacker News](https://news.ycombinator.com/front) | [JMAP – a much needed modern email open standard](https://news.ycombinator.com/item?id=36127703)
+
 ## 20230530
 - [Hacker News](https://news.ycombinator.com/front) | [300ms Faster: Reducing Wikipedia's total blocking time](https://news.ycombinator.com/item?id=36113430)
 

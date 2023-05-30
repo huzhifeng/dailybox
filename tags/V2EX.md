@@ -1,3 +1,8 @@
+## 20230531
+- [V2EX](https://www.v2ex.com/) | [既不是房奴 也不是卡奴 也不是车奴后 有点不想活了怎么办？](https://www.v2ex.com/t/944264)
+- [V2EX](https://www.v2ex.com/) | [在校大学生，想办一张 visa，有什么推荐吗，之前网上申请过农行的被拒绝了。](https://www.v2ex.com/t/944180)
+- [V2EX](https://www.v2ex.com/) | [吐槽下现在一些政府 IT 项目](https://www.v2ex.com/t/944155)
+
 ## 20230530
 - [V2EX](https://www.v2ex.com/) | [面试题：如何 O(n) 的复杂度内筛选 60 亿人的身高](https://www.v2ex.com/t/943925)
 - [V2EX](https://www.v2ex.com/) | [[转载] 我在北邮被偷喜茶后的 161 个小时](https://www.v2ex.com/t/943867)
