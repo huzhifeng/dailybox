@@ -1,3 +1,8 @@
+## 20230601
+- [Hacker News](https://news.ycombinator.com/front) | [Had a call with Reddit to discuss pricing](https://news.ycombinator.com/item?id=36141083)
+- [Hacker News](https://news.ycombinator.com/front) | [The greatest risk of AI is from the people who control it, not the tech itself](https://news.ycombinator.com/item?id=36139852)
+- [Hacker News](https://news.ycombinator.com/front) | [Slide to Unlock](https://news.ycombinator.com/item?id=36138304)
+
 ## 20230531
 - [Hacker News](https://news.ycombinator.com/front) | [JMAP – a much needed modern email open standard](https://news.ycombinator.com/item?id=36127703)
 

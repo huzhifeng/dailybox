@@ -1,3 +1,6 @@
+## 20230601
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com//blog/ubuntu-core-an-immutable-linux-desktop)
+
 ## 20230531
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Podcast from the UK LoCo: Automatic for the People](https://linuxmatters.sh/4/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Join the Ubuntu crew at GUADEC 2023](https://ubuntu.com//blog/join-the-ubuntu-crew-at-guadec-2023)

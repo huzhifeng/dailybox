@@ -1,3 +1,6 @@
+## 20230601
+- [OMG! Linux](https://www.omglinux.com/) | [Is GNOME Shell Getting an Official Light Theme?](https://www.omglinux.com/is-gnome-shell-getting-an-official-light-theme/)
+
 ## 20230531
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Software Fix Reduces Background CPU Usage](https://www.omglinux.com/gnome-software-reduce-resource-use-when-idle/)
 - [OMG! Linux](https://www.omglinux.com/) | [Purism Unveil New $2999 Librem Server V2](https://www.omglinux.com/purism-announce-librem-server-v2/)

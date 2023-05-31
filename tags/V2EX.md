@@ -1,3 +1,8 @@
+## 20230601
+- [V2EX](https://www.v2ex.com/) | [32 岁大龄程序员,失业 1 年了,快撑不下去了](https://www.v2ex.com/t/944545)
+- [V2EX](https://www.v2ex.com/) | [北漂 8 年，在普通同龄人中是啥水平？](https://www.v2ex.com/t/944511)
+- [V2EX](https://www.v2ex.com/) | [2023 年，你们注销淘宝/支付宝账号了吗](https://www.v2ex.com/t/944504)
+
 ## 20230531
 - [V2EX](https://www.v2ex.com/) | [既不是房奴 也不是卡奴 也不是车奴后 有点不想活了怎么办？](https://www.v2ex.com/t/944264)
 - [V2EX](https://www.v2ex.com/) | [在校大学生，想办一张 visa，有什么推荐吗，之前网上申请过农行的被拒绝了。](https://www.v2ex.com/t/944180)

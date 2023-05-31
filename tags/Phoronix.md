@@ -1,3 +1,8 @@
+## 20230601
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU Linux Driver Enabling FreeSync Video By Default, Improved Power Savings](https://www.phoronix.com/news/AMDGPU-FS-Video-Default-PS)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Details Initial Plans For Immutable Linux Desktop With Ubuntu Core & Snaps](https://www.phoronix.com/news/Ubuntu-Desktop-Immutable-Plans)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 39 To Raise Its vm.max_map_count To Satisfy Some Steam Play Games](https://www.phoronix.com/news/Fedora-39-Max-Map-Count-Approve)
+
 ## 20230531
 - [Phoronix](https://www.phoronix.com/) | [Chrome 114 Released With CHIPS, Popover API](https://www.phoronix.com/news/Chrome-114-Released)
 - [Phoronix](https://www.phoronix.com/) | [LLVM Clang 16 vs. GCC 13 Compiler Performance On AMD 4th Gen EPYC "Genoa"](https://www.phoronix.com/review/amd-znver4-gcc13-clang16)

@@ -1,3 +1,7 @@
+## 20230601
+- [LibHunt](https://www.libhunt.com/) | [sd-webui-controlnet](https://www.libhunt.com/r/sd-webui-controlnet)
+- [LibHunt](https://www.libhunt.com/) | [rfcs](https://www.libhunt.com/r/rfcs)
+
 ## 20230530
 - [LibHunt](https://www.libhunt.com/) | [Voyager](https://www.libhunt.com/r/MineDojo/Voyager)
 
