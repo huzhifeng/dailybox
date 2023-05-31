@@ -1,3 +1,8 @@
+## 20230601
+- [diff.blog](https://diff.blog/) | [Improving Mathematical Reasoning with Process Supervision](https://diff.blog/post/improving-mathematical-reasoning-with-process-supervision-140416/)
+- [diff.blog](https://diff.blog/) | [Zulip 7.0: Threaded open-source team chat](https://diff.blog/post/zulip-70-threaded-open-source-team-chat-140418/)
+- [diff.blog](https://diff.blog/) | [Improvements to static analysis in the GCC 13 compiler](https://diff.blog/post/improvements-to-static-analysis-in-the-gcc-13-compiler-140399/)
+
 ## 20230531
 - [diff.blog](https://diff.blog/) | [★ A Laravel package to quickly see which HTML is rendered by which Blade view](https://diff.blog/post/a-laravel-package-to-quickly-see-which-html-is-rendered-by-which-blade-view-140333/)
 

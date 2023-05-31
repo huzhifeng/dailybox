@@ -1,3 +1,8 @@
+## 20230601
+- [Lobsters](https://lobste.rs/) | [I think Zig is hard...but worth it](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it)
+- [Lobsters](https://lobste.rs/) | [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
+- [Lobsters](https://lobste.rs/) | [Does a programming language with ML-style modules need packages?](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style)
+
 ## 20230531
 - [Lobsters](https://lobste.rs/) | [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly)
 - [Lobsters](https://lobste.rs/) | [Modern CPUs have a backstage cast](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast)

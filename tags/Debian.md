@@ -1,3 +1,8 @@
+## 20230601
+- [Planet Debian](https://planet.debian.org/) | [Arturo Borrero González: Wikimedia Hackathon 2023 Athens summary](https://ral-arturo.org/2023/05/31/hackathon.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links May 2023](https://etbe.coker.com.au/2023/05/31/links-may-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Genesis GV60](https://etbe.coker.com.au/2023/05/31/genesis-gv60/)
+
 ## 20230531
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Mimicking of Known Successes](https://www.eyrie.org/~eagle/reviews/books/1-250-86051-2.html)
 

@@ -1,3 +1,8 @@
+## 20230601
+- [Product Hunt](https://www.producthunt.com) | [Shoplift.ai](https://www.producthunt.com/posts/shoplift-ai)
+- [Product Hunt](https://www.producthunt.com) | [Ugly Duckling](https://www.producthunt.com/posts/ugly-duckling)
+- [Product Hunt](https://www.producthunt.com) | [Recraft.AI](https://www.producthunt.com/posts/recraft-ai)
+
 ## 20230531
 - [Product Hunt](https://www.producthunt.com) | [Todo.is](https://www.producthunt.com/posts/todo-is)
 - [Product Hunt](https://www.producthunt.com) | [Liffery](https://www.producthunt.com/posts/liffery)

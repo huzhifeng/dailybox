@@ -1,3 +1,6 @@
+## 20230601
+- [TED Talks Daily](https://www.ted.com/talks) | [5 steps to fix any problem at work | Anne Morriss](https://www.ted.com/talks/anne_morriss_5_steps_to_fix_any_problem_at_work?rss)
+
 ## 20230531
 - [TED Talks Daily](https://www.ted.com/talks) | [Your right to mental privacy in the age of brain-sensing tech | Nita Farahany](https://www.ted.com/talks/nita_farahany_your_right_to_mental_privacy_in_the_age_of_brain_sensing_tech?rss)
 

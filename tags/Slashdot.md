@@ -1,3 +1,6 @@
+## 20230601
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Core as an immutable Linux Desktop base](https://news.slashdot.org/story/23/05/31/208235/ubuntu-core-as-an-immutable-linux-desktop-base?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230530
 - [Slashdot](https://developers.slashdot.org/) | [Tears of the Kingdom's Bridge Physics Have Game Developers Wowed](https://games.slashdot.org/story/23/05/29/1627244/tears-of-the-kingdoms-bridge-physics-have-game-developers-wowed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [AI Means Everyone Can Now Be a Programmer, Nvidia Chief Says](https://developers.slashdot.org/story/23/05/29/1434244/ai-means-everyone-can-now-be-a-programmer-nvidia-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,23 @@
+## 20230601
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1018 Rust 项目再次陷入领导力危机](https://linux.cn/article-15863-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [USB 3.0 preliminary support in U-boot for Radxa Rock-5B](https://www.collabora.com/news-and-blog/blog/2023/05/31/usb-30-preliminary-support-uboot-radxa-rock-5b/)
+- [Red Hat Developer](https://developers.redhat.com/) | [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU Linux Driver Enabling FreeSync Video By Default, Improved Power Savings](https://www.phoronix.com/news/AMDGPU-FS-Video-Default-PS)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Details Initial Plans For Immutable Linux Desktop With Ubuntu Core & Snaps](https://www.phoronix.com/news/Ubuntu-Desktop-Immutable-Plans)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 39 To Raise Its vm.max_map_count To Satisfy Some Steam Play Games](https://www.phoronix.com/news/Fedora-39-Max-Map-Count-Approve)
+- [9to5Linux](https://9to5linux.com/) | [Canonical: We Are Excited to Explore the Idea of a Fully Containerized, Immutable Ubuntu Desktop](https://9to5linux.com/canonical-we-are-excited-to-explore-the-idea-of-a-fully-containerised-immutable-ubuntu-desktop)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.2 Released with Fixes for GNOME Software, Nautilus, and More](https://9to5linux.com/gnome-44-2-released-with-fixes-for-gnome-software-nautilus-and-more)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 18.04 LTS (Bionic Beaver) Transitions to Extended Security Maintenance](https://9to5linux.com/ubuntu-18-04-lts-bionic-beaver-transitions-to-extended-security-maintenance)
+- [OMG! Linux](https://www.omglinux.com/) | [Is GNOME Shell Getting an Official Light Theme?](https://www.omglinux.com/is-gnome-shell-getting-an-official-light-theme/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: wiki upgrade outage](https://status.fedoraproject.org/2023-05-31-wiki.html)
+- [Planet Debian](https://planet.debian.org/) | [Arturo Borrero González: Wikimedia Hackathon 2023 Athens summary](https://ral-arturo.org/2023/05/31/hackathon.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links May 2023](https://etbe.coker.com.au/2023/05/31/links-may-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Genesis GV60](https://etbe.coker.com.au/2023/05/31/genesis-gv60/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com//blog/ubuntu-core-an-immutable-linux-desktop)
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Core as an immutable Linux Desktop base](https://news.slashdot.org/story/23/05/31/208235/ubuntu-core-as-an-immutable-linux-desktop-base?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230531
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1017 人工智能有“灭绝（人类）的危险”](https://linux.cn/article-15862-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Why use RHEL for SAP Solutions?](https://developers.redhat.com/articles/2023/05/30/why-use-rhel-sap-solutions)
