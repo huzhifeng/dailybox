@@ -1,3 +1,6 @@
+## 20230602
+- [OMG! Linux](https://www.omglinux.com/) | [Quickly Create Cool ASCII Text Art on Linux Using This App](https://www.omglinux.com/calligraphy-ascii-text-art-linux/)
+
 ## 20230601
 - [OMG! Linux](https://www.omglinux.com/) | [Is GNOME Shell Getting an Official Light Theme?](https://www.omglinux.com/is-gnome-shell-getting-an-official-light-theme/)
 

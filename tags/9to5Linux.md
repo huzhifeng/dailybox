@@ -1,3 +1,8 @@
+## 20230602
+- [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Powered by Linux Kernel 6.3 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-powered-by-linux-kernel-6-3-is-now-available-for-download)
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Galago Pro Linux Laptop Gets 13th Gen Intel H-Class CPUs, Faster 144Hz Screen](https://9to5linux.com/system76s-galago-pro-linux-laptop-gets-13th-gen-intel-h-class-cpus-faster-144hz-screen)
+- [9to5Linux](https://9to5linux.com/) | [NixOS 23.05 Released with GNOME 44, KDE Plasma 5.27 LTS, and Linux 6.1 LTS](https://9to5linux.com/nixos-23-05-released-with-gnome-44-kde-plasma-5-27-lts-and-linux-6-1-lts)
+
 ## 20230601
 - [9to5Linux](https://9to5linux.com/) | [Canonical: We Are Excited to Explore the Idea of a Fully Containerized, Immutable Ubuntu Desktop](https://9to5linux.com/canonical-we-are-excited-to-explore-the-idea-of-a-fully-containerised-immutable-ubuntu-desktop)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 44.2 Released with Fixes for GNOME Software, Nautilus, and More](https://9to5linux.com/gnome-44-2-released-with-fixes-for-gnome-software-nautilus-and-more)

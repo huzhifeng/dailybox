@@ -1,3 +1,8 @@
+## 20230602
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Story of the first digital computers](https://avi.alkalay.net/2023/06/first-digital-computers.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
+
 ## 20230601
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)

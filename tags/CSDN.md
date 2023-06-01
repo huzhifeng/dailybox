@@ -1,3 +1,9 @@
+## 20230602
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [李彦宏宣布设立10亿创投基金促进大模型生态发展；Kindle中国电子书店停止运营；Bootstrap 5.3发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130982043)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [快六一啦，学习CSS3实现一个冰淇淋动画特效](https://blog.csdn.net/xingyu_qie/article/details/130942228)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [分布式RPC框架Dubbo详解](https://blog.csdn.net/qq_43649937/article/details/130967487)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉实战--OpenCV进行红绿灯识别](https://blog.csdn.net/weixin_51390582/article/details/130948872)
+
 ## 20230601
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [快播公司已破产注销；ChatGPT 之父警告：AI 可能灭绝人类；苹果官方：618 将开启全球首次直播|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130962835)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉实战--OpenCV进行红绿灯识别](https://blog.csdn.net/weixin_51390582/article/details/130948872)

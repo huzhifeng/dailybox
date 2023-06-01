@@ -1,3 +1,13 @@
+## 20230602
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Story of the first digital computers](https://avi.alkalay.net/2023/06/first-digital-computers.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230601-developers-reference-translations](http://layer-acht.org/thinking/blog/20230601-developers-reference-translations/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Desktop Computers Make Sense?](https://etbe.coker.com.au/2023/06/01/desktop-computers-sense/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Already June.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-1.html.en#2023-Jun-1-11:23:10)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Business benefits of artificial intelligence in retail](https://ubuntu.com//blog/business-benefits-of-artificial-intelligence-in-retail)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E249 Salame Yellow](https://podcastubuntuportugal.org/e249/)
+
 ## 20230601
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-01-s390x.html)

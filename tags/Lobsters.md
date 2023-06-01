@@ -1,3 +1,8 @@
+## 20230602
+- [Lobsters](https://lobste.rs/) | [NixOS 23.05 released](https://lobste.rs/s/rnwf7j/nixos_23_05_released)
+- [Lobsters](https://lobste.rs/) | [Family Photos vs 256 Kb RAM](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram)
+- [Lobsters](https://lobste.rs/) | [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with)
+
 ## 20230601
 - [Lobsters](https://lobste.rs/) | [I think Zig is hard...but worth it](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it)
 - [Lobsters](https://lobste.rs/) | [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)

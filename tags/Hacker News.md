@@ -1,3 +1,7 @@
+## 20230602
+- [Hacker News](https://news.ycombinator.com/front) | [Learn x86-64 assembly by writing a GUI from scratch](https://news.ycombinator.com/item?id=36153237)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://news.ycombinator.com/item?id=36148807)
+
 ## 20230601
 - [Hacker News](https://news.ycombinator.com/front) | [Had a call with Reddit to discuss pricing](https://news.ycombinator.com/item?id=36141083)
 - [Hacker News](https://news.ycombinator.com/front) | [The greatest risk of AI is from the people who control it, not the tech itself](https://news.ycombinator.com/item?id=36139852)

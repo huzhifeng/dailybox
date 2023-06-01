@@ -1,3 +1,8 @@
+## 20230602
+- [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230601-developers-reference-translations](http://layer-acht.org/thinking/blog/20230601-developers-reference-translations/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Desktop Computers Make Sense?](https://etbe.coker.com.au/2023/06/01/desktop-computers-sense/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Already June.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-1.html.en#2023-Jun-1-11:23:10)
+
 ## 20230601
 - [Planet Debian](https://planet.debian.org/) | [Arturo Borrero González: Wikimedia Hackathon 2023 Athens summary](https://ral-arturo.org/2023/05/31/hackathon.html)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links May 2023](https://etbe.coker.com.au/2023/05/31/links-may-2023/)

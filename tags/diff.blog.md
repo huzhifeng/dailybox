@@ -1,3 +1,8 @@
+## 20230602
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.70.0](https://diff.blog/post/announcing-rust-1700-140502/)
+- [diff.blog](https://diff.blog/) | [OpenAI cybersecurity grant program](https://diff.blog/post/openai-cybersecurity-grant-program-140492/)
+- [diff.blog](https://diff.blog/) | [The RustConf Keynote Fiasco, explained](https://diff.blog/post/the-rustconf-keynote-fiasco-explained-140436/)
+
 ## 20230601
 - [diff.blog](https://diff.blog/) | [Improving Mathematical Reasoning with Process Supervision](https://diff.blog/post/improving-mathematical-reasoning-with-process-supervision-140416/)
 - [diff.blog](https://diff.blog/) | [Zulip 7.0: Threaded open-source team chat](https://diff.blog/post/zulip-70-threaded-open-source-team-chat-140418/)

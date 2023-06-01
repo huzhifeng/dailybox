@@ -1,3 +1,8 @@
+## 20230602
+- [Product Hunt](https://www.producthunt.com) | [Folio](https://www.producthunt.com/posts/folio-4)
+- [Product Hunt](https://www.producthunt.com) | [FireTexts](https://www.producthunt.com/posts/firetexts)
+- [Product Hunt](https://www.producthunt.com) | [Rep AI](https://www.producthunt.com/posts/rep-ai)
+
 ## 20230601
 - [Product Hunt](https://www.producthunt.com) | [Shoplift.ai](https://www.producthunt.com/posts/shoplift-ai)
 - [Product Hunt](https://www.producthunt.com) | [Ugly Duckling](https://www.producthunt.com/posts/ugly-duckling)

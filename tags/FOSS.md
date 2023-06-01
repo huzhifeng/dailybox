@@ -1,3 +1,6 @@
+## 20230602
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.22: Immutable Ubuntu Edition, Face Unlock and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-23-22/)
+
 ## 20230531
 - [It's FOSS](https://itsfoss.com/) | [Install and Use pipx in Linux](https://itsfoss.com/install-pipx-ubuntu/)
 
