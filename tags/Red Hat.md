@@ -1,3 +1,9 @@
+## 20230602
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Performance tracing of Podman using eBPF](https://www.redhat.com/en/blog/performance-tracing-podman-using-ebpf)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Application-driven analytics: How to embed analytics in applications using OpensShift and MongoDB Atlas](https://www.redhat.com/en/blog/application-driven-analytics-how-embed-analytics-applications-using-opensshift-and-mongodb-atlas)
+- [Red Hat Developer](https://developers.redhat.com/) | [OpenShift 4.13: Create serverless functions and more](https://developers.redhat.com/articles/2023/06/01/openshift-413-serverless-functions-and-more)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate your Quarkus deployment using Ansible](https://developers.redhat.com/articles/2023/06/01/automate-your-quarkus-deployment-using-ansible)
+
 ## 20230601
 - [Red Hat Developer](https://developers.redhat.com/) | [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
 

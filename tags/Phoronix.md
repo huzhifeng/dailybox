@@ -1,3 +1,8 @@
+## 20230602
+- [Phoronix](https://www.phoronix.com/) | [Apache NetBeans 18 Released With Many Improvements, Initial Support For Rust](https://www.phoronix.com/news/Apache-NeatBeans-18)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Scheduler Patch Will To Help AMD Systems With Multiple LLCs Per Die](https://www.phoronix.com/news/Multi-LLC-Select-Idle-Sibling)
+- [Phoronix](https://www.phoronix.com/) | [Loongson Extending Etnaviv Driver For PCI Device Support](https://www.phoronix.com/news/Loongson-Etnaviv-PCI-Driver)
+
 ## 20230601
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU Linux Driver Enabling FreeSync Video By Default, Improved Power Savings](https://www.phoronix.com/news/AMDGPU-FS-Video-Default-PS)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Details Initial Plans For Immutable Linux Desktop With Ubuntu Core & Snaps](https://www.phoronix.com/news/Ubuntu-Desktop-Immutable-Plans)

@@ -1,3 +1,7 @@
+## 20230602
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Business benefits of artificial intelligence in retail](https://ubuntu.com//blog/business-benefits-of-artificial-intelligence-in-retail)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E249 Salame Yellow](https://podcastubuntuportugal.org/e249/)
+
 ## 20230601
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com//blog/ubuntu-core-an-immutable-linux-desktop)
 

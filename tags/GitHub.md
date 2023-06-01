@@ -1,3 +1,8 @@
+## 20230602
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [s0md3v/roop](https://github.com/s0md3v/roop)
+
 ## 20230601
 - [GitHub中文社区](https://www.githubs.cn/trending) | [s0md3v/roop](https://github.com/s0md3v/roop)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)

@@ -1,3 +1,6 @@
+## 20230602
+- [TED Talks Daily](https://www.ted.com/talks) | [The poetry of everyday language | Julián Delgado Lopera](https://www.ted.com/talks/julian_delgado_lopera_the_poetry_of_everyday_language?rss)
+
 ## 20230601
 - [TED Talks Daily](https://www.ted.com/talks) | [5 steps to fix any problem at work | Anne Morriss](https://www.ted.com/talks/anne_morriss_5_steps_to_fix_any_problem_at_work?rss)
 
