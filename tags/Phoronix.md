@@ -1,3 +1,8 @@
+## 20230603
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK vs. Mesa RADV Radeon Vulkan Driver Performance On Linux](https://www.phoronix.com/review/amdvlk-radv-rx7900)
+- [Phoronix](https://www.phoronix.com/) | [System76's Coreboot Open Firmware Manages To Disable Intel ME For Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+- [Phoronix](https://www.phoronix.com/) | [Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement](https://www.phoronix.com/news/Red-Hat-Less-LibreOffice)
+
 ## 20230602
 - [Phoronix](https://www.phoronix.com/) | [Apache NetBeans 18 Released With Many Improvements, Initial Support For Rust](https://www.phoronix.com/news/Apache-NeatBeans-18)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Scheduler Patch Will To Help AMD Systems With Multiple LLCs Per Die](https://www.phoronix.com/news/Multi-LLC-Select-Idle-Sibling)

@@ -1,3 +1,7 @@
+## 20230603
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini Linux Laptops Get Raptor Lake CPUs, NVIDIA RTX 4070 GPUs](https://9to5linux.com/tuxedo-gemini-linux-laptops-get-raptor-lake-cpus-nvidia-rtx-4070-gpus)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 with Cinnamon 5.8 Is Getting Support for Gestures](https://9to5linux.com/linux-mint-21-2-with-cinnamon-5-8-is-getting-support-for-gestures)
+
 ## 20230602
 - [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Powered by Linux Kernel 6.3 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-powered-by-linux-kernel-6-3-is-now-available-for-download)
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Galago Pro Linux Laptop Gets 13th Gen Intel H-Class CPUs, Faster 144Hz Screen](https://9to5linux.com/system76s-galago-pro-linux-laptop-gets-13th-gen-intel-h-class-cpus-faster-144hz-screen)

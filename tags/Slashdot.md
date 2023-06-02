@@ -1,3 +1,6 @@
+## 20230603
+- [Slashdot](https://developers.slashdot.org/) | [Stanford Golf Phenom Rose Zhang Turns Pro, Vows To 'Never Code Again'](https://developers.slashdot.org/story/23/06/01/2220213/stanford-golf-phenom-rose-zhang-turns-pro-vows-to-never-code-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230601
 - [Slashdot](https://linux.slashdot.org/) | [Ubuntu Core as an immutable Linux Desktop base](https://news.slashdot.org/story/23/05/31/208235/ubuntu-core-as-an-immutable-linux-desktop-base?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

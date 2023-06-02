@@ -1,3 +1,6 @@
+## 20230603
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#98 Fast Searching](https://thisweek.gnome.org/posts/2023/06/twig-98/)
+
 ## 20230527
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#97 GNOME Latam 2023](https://thisweek.gnome.org/posts/2023/05/twig-97/)
 

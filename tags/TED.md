@@ -1,3 +1,6 @@
+## 20230603
+- [TED Talks Daily](https://www.ted.com/talks) | [How to design a school for the future | Punya Mishra](https://www.ted.com/talks/punya_mishra_how_to_design_a_school_for_the_future?rss)
+
 ## 20230602
 - [TED Talks Daily](https://www.ted.com/talks) | [The poetry of everyday language | Julián Delgado Lopera](https://www.ted.com/talks/julian_delgado_lopera_the_poetry_of_everyday_language?rss)
 
