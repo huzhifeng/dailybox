@@ -1,3 +1,8 @@
+## 20230603
+- [LibHunt](https://www.libhunt.com/) | [Reddit](https://www.libhunt.com/r/reddit-archive/reddit)
+- [LibHunt](https://www.libhunt.com/) | [SillyTavern](https://www.libhunt.com/r/SillyTavern)
+- [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
+
 ## 20230601
 - [LibHunt](https://www.libhunt.com/) | [sd-webui-controlnet](https://www.libhunt.com/r/sd-webui-controlnet)
 - [LibHunt](https://www.libhunt.com/) | [rfcs](https://www.libhunt.com/r/rfcs)

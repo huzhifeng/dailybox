@@ -1,3 +1,6 @@
+## 20230603
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker container security: demystifying FIPS-enabled containers with Ubuntu Pro](https://ubuntu.com//blog/docker-container-security-demystifying-fips-enabled-containers-with-ubuntu-pro)
+
 ## 20230602
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Business benefits of artificial intelligence in retail](https://ubuntu.com//blog/business-benefits-of-artificial-intelligence-in-retail)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E249 Salame Yellow](https://podcastubuntuportugal.org/e249/)

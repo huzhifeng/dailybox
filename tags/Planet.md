@@ -1,3 +1,10 @@
+## 20230603
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/02/finished-reading-chip.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 22 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-22-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Jelmer Vernooij: Porting Python projects to Rust](https://www.jelmer.uk/port-py-to-rust.html)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker container security: demystifying FIPS-enabled containers with Ubuntu Pro](https://ubuntu.com//blog/docker-container-security-demystifying-fips-enabled-containers-with-ubuntu-pro)
+
 ## 20230602
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: koji database upgrade](https://status.fedoraproject.org/2023-06-01-koji-database.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Story of the first digital computers](https://avi.alkalay.net/2023/06/first-digital-computers.html)

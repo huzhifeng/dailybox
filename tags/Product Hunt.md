@@ -1,3 +1,8 @@
+## 20230603
+- [Product Hunt](https://www.producthunt.com) | [Zendesk AI by Caffeinated CX](https://www.producthunt.com/posts/zendesk-ai-by-caffeinated-cx)
+- [Product Hunt](https://www.producthunt.com) | [Narrated Tours](https://www.producthunt.com/posts/narrated-tours)
+- [Product Hunt](https://www.producthunt.com) | [SmartSync V2](https://www.producthunt.com/posts/smartsync-v2)
+
 ## 20230602
 - [Product Hunt](https://www.producthunt.com) | [Folio](https://www.producthunt.com/posts/folio-4)
 - [Product Hunt](https://www.producthunt.com) | [FireTexts](https://www.producthunt.com/posts/firetexts)

@@ -1,3 +1,7 @@
+## 20230603
+- [OMG! Linux](https://www.omglinux.com/) | [Red Hat Stop Packaging LibreOffice as RPM for RHEL, Fedora](https://www.omglinux.com/red-hat-stop-packaging-libreoffice/)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Working on New UI for Fractional Scaling](https://www.omglinux.com/gnome-fractional-scaling-settings-design/)
+
 ## 20230602
 - [OMG! Linux](https://www.omglinux.com/) | [Quickly Create Cool ASCII Text Art on Linux Using This App](https://www.omglinux.com/calligraphy-ascii-text-art-linux/)
 

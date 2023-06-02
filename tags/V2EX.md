@@ -1,3 +1,8 @@
+## 20230603
+- [V2EX](https://www.v2ex.com/) | [游戏荒，又不想浪费自己舒适的电竞设备，求给个建议](https://www.v2ex.com/t/945257)
+- [V2EX](https://www.v2ex.com/) | [上车， iOS 17 Developer Beta 资格回帖免费邀请，数量有限](https://www.v2ex.com/t/945206)
+- [V2EX](https://www.v2ex.com/) | [想学钢琴，已经下单了罗兰 FP30X，过来人有什么忠告](https://www.v2ex.com/t/945171)
+
 ## 20230602
 - [V2EX](https://www.v2ex.com/) | [半年时间，折腾的我不想再谈恋爱了甚至有点恐女。](https://www.v2ex.com/t/944959)
 - [V2EX](https://www.v2ex.com/) | [介绍下护林员岗位](https://www.v2ex.com/t/944918)

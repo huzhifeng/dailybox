@@ -1,3 +1,7 @@
+## 20230603
+- [Planet Debian](https://planet.debian.org/) | [Jelmer Vernooij: Porting Python projects to Rust](https://www.jelmer.uk/port-py-to-rust.html)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
+
 ## 20230602
 - [Planet Debian](https://planet.debian.org/) | [Holger Levsen: 20230601-developers-reference-translations](http://layer-acht.org/thinking/blog/20230601-developers-reference-translations/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Desktop Computers Make Sense?](https://etbe.coker.com.au/2023/06/01/desktop-computers-sense/)

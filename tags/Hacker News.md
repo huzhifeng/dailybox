@@ -1,3 +1,6 @@
+## 20230603
+- [Hacker News](https://news.ycombinator.com/front) | [Radiation-hardened Quine (2014)](https://news.ycombinator.com/item?id=36162164)
+
 ## 20230602
 - [Hacker News](https://news.ycombinator.com/front) | [Learn x86-64 assembly by writing a GUI from scratch](https://news.ycombinator.com/item?id=36153237)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://news.ycombinator.com/item?id=36148807)

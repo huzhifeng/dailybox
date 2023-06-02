@@ -1,3 +1,19 @@
+## 20230603
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1020 日本表示版权不适用于 AI 训练](https://linux.cn/article-15871-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK vs. Mesa RADV Radeon Vulkan Driver Performance On Linux](https://www.phoronix.com/review/amdvlk-radv-rx7900)
+- [Phoronix](https://www.phoronix.com/) | [System76's Coreboot Open Firmware Manages To Disable Intel ME For Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+- [Phoronix](https://www.phoronix.com/) | [Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement](https://www.phoronix.com/news/Red-Hat-Less-LibreOffice)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini Linux Laptops Get Raptor Lake CPUs, NVIDIA RTX 4070 GPUs](https://9to5linux.com/tuxedo-gemini-linux-laptops-get-raptor-lake-cpus-nvidia-rtx-4070-gpus)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 with Cinnamon 5.8 Is Getting Support for Gestures](https://9to5linux.com/linux-mint-21-2-with-cinnamon-5-8-is-getting-support-for-gestures)
+- [OMG! Linux](https://www.omglinux.com/) | [Red Hat Stop Packaging LibreOffice as RPM for RHEL, Fedora](https://www.omglinux.com/red-hat-stop-packaging-libreoffice/)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Working on New UI for Fractional Scaling](https://www.omglinux.com/gnome-fractional-scaling-settings-design/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/02/finished-reading-chip.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 22 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-22-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Jelmer Vernooij: Porting Python projects to Rust](https://www.jelmer.uk/port-py-to-rust.html)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker container security: demystifying FIPS-enabled containers with Ubuntu Pro](https://ubuntu.com//blog/docker-container-security-demystifying-fips-enabled-containers-with-ubuntu-pro)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#98 Fast Searching](https://thisweek.gnome.org/posts/2023/06/twig-98/)
+
 ## 20230602
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1019 Ubuntu 将发布纯 Snap 版的不可变 Linux](https://linux.cn/article-15867-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Performance tracing of Podman using eBPF](https://www.redhat.com/en/blog/performance-tracing-podman-using-ebpf)

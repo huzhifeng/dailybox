@@ -1,3 +1,8 @@
+## 20230603
+- [Lobsters](https://lobste.rs/) | [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui)
+- [Lobsters](https://lobste.rs/) | [Important change for the .ga TLD 6th june 2023](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023)
+- [Lobsters](https://lobste.rs/) | [My Approach to Building Large Technical Projects](https://lobste.rs/s/hjwidr/my_approach_building_large_technical)
+
 ## 20230602
 - [Lobsters](https://lobste.rs/) | [NixOS 23.05 released](https://lobste.rs/s/rnwf7j/nixos_23_05_released)
 - [Lobsters](https://lobste.rs/) | [Family Photos vs 256 Kb RAM](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram)
