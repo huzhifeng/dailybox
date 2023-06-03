@@ -1,3 +1,14 @@
+## 20230604
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1021 美国空军否认人工智能无人机杀死其操作员](https://linux.cn/article-15874-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer](https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Finalizing UEFI Unaccepted Memory Support For Linux](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-v13)
+- [Phoronix](https://www.phoronix.com/) | [Portable Computing Language 4.0 Adds Intel Level Zero API Driver](https://www.phoronix.com/news/PoCL-4.0-RC1-Level-Zero)
+- [9to5Linux](https://9to5linux.com/) | [GNOME Shell 44.2 Improves Built-In Screen Recorder, Bluetooth Menu, and More](https://9to5linux.com/gnome-shell-44-2-improves-built-in-screen-recorder-bluetooth-menu-and-more)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/03/finished-reading-on.html)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in May 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-may-2023.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: for developers](https://pointieststick.com/2023/06/02/this-week-in-kde-for-developers/)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat is Dropping Its Support for LibreOffice](https://linux.slashdot.org/story/23/06/03/1638240/red-hat-is-dropping-its-support-for-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230603
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1020 日本表示版权不适用于 AI 训练](https://linux.cn/article-15871-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMDVLK vs. Mesa RADV Radeon Vulkan Driver Performance On Linux](https://www.phoronix.com/review/amdvlk-radv-rx7900)

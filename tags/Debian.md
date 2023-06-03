@@ -1,3 +1,6 @@
+## 20230604
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in May 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-may-2023.html)
+
 ## 20230603
 - [Planet Debian](https://planet.debian.org/) | [Jelmer Vernooij: Porting Python projects to Rust](https://www.jelmer.uk/port-py-to-rust.html)
 - [Planet Debian](https://planet.debian.org/) | [Matt Brown: Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)

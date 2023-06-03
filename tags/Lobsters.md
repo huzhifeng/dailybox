@@ -1,3 +1,8 @@
+## 20230604
+- [Lobsters](https://lobste.rs/) | [Using Fossil](https://lobste.rs/s/emgzrz/using_fossil)
+- [Lobsters](https://lobste.rs/) | [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs)
+- [Lobsters](https://lobste.rs/) | [The Expressivity Limitations of Object-Oriented Programming](https://lobste.rs/s/mjhujr/expressivity_limitations_object)
+
 ## 20230603
 - [Lobsters](https://lobste.rs/) | [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui)
 - [Lobsters](https://lobste.rs/) | [Important change for the .ga TLD 6th june 2023](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023)

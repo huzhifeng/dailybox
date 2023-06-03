@@ -1,3 +1,7 @@
+## 20230604
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/03/finished-reading-on.html)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in May 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-may-2023.html)
+
 ## 20230603
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/02/finished-reading-chip.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 22 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-22-2023/)
