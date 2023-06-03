@@ -1,3 +1,8 @@
+## 20230604
+- [V2EX](https://www.v2ex.com/) | [不知道怎么摆脱妈妈](https://www.v2ex.com/t/945555)
+- [V2EX](https://www.v2ex.com/) | [Mac 好用的截图软件 shottr 开始收费](https://www.v2ex.com/t/945497)
+- [V2EX](https://www.v2ex.com/) | [坐我旁边的二阳同事只请一天假就回来上班，而且请假通知也没说是阳了就说身体不适，导致我完全没防护一阳了](https://www.v2ex.com/t/945488)
+
 ## 20230603
 - [V2EX](https://www.v2ex.com/) | [游戏荒，又不想浪费自己舒适的电竞设备，求给个建议](https://www.v2ex.com/t/945257)
 - [V2EX](https://www.v2ex.com/) | [上车， iOS 17 Developer Beta 资格回帖免费邀请，数量有限](https://www.v2ex.com/t/945206)

@@ -1,3 +1,8 @@
+## 20230604
+- [Phoronix](https://www.phoronix.com/) | [AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer](https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Finalizing UEFI Unaccepted Memory Support For Linux](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-v13)
+- [Phoronix](https://www.phoronix.com/) | [Portable Computing Language 4.0 Adds Intel Level Zero API Driver](https://www.phoronix.com/news/PoCL-4.0-RC1-Level-Zero)
+
 ## 20230603
 - [Phoronix](https://www.phoronix.com/) | [AMDVLK vs. Mesa RADV Radeon Vulkan Driver Performance On Linux](https://www.phoronix.com/review/amdvlk-radv-rx7900)
 - [Phoronix](https://www.phoronix.com/) | [System76's Coreboot Open Firmware Manages To Disable Intel ME For Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)

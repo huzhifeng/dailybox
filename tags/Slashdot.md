@@ -1,3 +1,6 @@
+## 20230604
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat is Dropping Its Support for LibreOffice](https://linux.slashdot.org/story/23/06/03/1638240/red-hat-is-dropping-its-support-for-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230603
 - [Slashdot](https://developers.slashdot.org/) | [Stanford Golf Phenom Rose Zhang Turns Pro, Vows To 'Never Code Again'](https://developers.slashdot.org/story/23/06/01/2220213/stanford-golf-phenom-rose-zhang-turns-pro-vows-to-never-code-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
