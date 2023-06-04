@@ -1,3 +1,8 @@
+## 20230605
+- [V2EX](https://www.v2ex.com/) | [原来做跨境电商(woo)这么挣钱？这确实颠覆了我的认知](https://www.v2ex.com/t/945757)
+- [V2EX](https://www.v2ex.com/) | [生而为人，不是任小米随便支配的猪狗！](https://www.v2ex.com/t/945694)
+- [V2EX](https://www.v2ex.com/) | [拿驾驶证 8 年了，今年打算买车，但担心驾校学的都忘光了怎么办？](https://www.v2ex.com/t/945656)
+
 ## 20230604
 - [V2EX](https://www.v2ex.com/) | [不知道怎么摆脱妈妈](https://www.v2ex.com/t/945555)
 - [V2EX](https://www.v2ex.com/) | [Mac 好用的截图软件 shottr 开始收费](https://www.v2ex.com/t/945497)

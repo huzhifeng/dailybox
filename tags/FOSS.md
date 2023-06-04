@@ -1,3 +1,6 @@
+## 20230605
+- [It's FOSS](https://itsfoss.com/) | [Moo! There is a Cow in My Linux Terminal](https://itsfoss.com/cowsay/)
+
 ## 20230602
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.22: Immutable Ubuntu Edition, Face Unlock and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-23-22/)
 

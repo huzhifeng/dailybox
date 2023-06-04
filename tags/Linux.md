@@ -1,3 +1,15 @@
+## 20230605
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1022 这是我们所知的计算机编程的终结](https://linux.cn/article-15876-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Debian 12 "Bookworm" Set For Release Next Week With Around 100 Known Bugs](https://www.phoronix.com/news/Debian-12-Next-Week)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc5 Released - The Kernel Is Looking To Be In Good Shape](https://www.phoronix.com/news/Linux-6.4-rc5)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Flang Begins Seeing NVIDIA CUDA Fortran Support](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
+- [9to5Linux](https://9to5linux.com/) | [How to Enable Wayland for Hybrid NVIDIA Graphics on Fedora Linux 38 Workstation](https://9to5linux.com/how-to-enable-wayland-for-hybrid-nvidia-graphics-on-fedora-linux-38-workstation)
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-lazy-thus-flatpak.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in May 2023](http://blog.alteholz.eu/2023/06/my-debian-activities-in-may-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Oficina de tradução do Manual do(a) Administrador(a) Debian em 13 de junho](https://debianbrasil.org.br/blog/oficina-traducao-manual-administrador-debian/)
+- [Slashdot](https://linux.slashdot.org/) | [System76's Open Firmware 'Re-Disables' Intel's Management Engine](https://linux.slashdot.org/story/23/06/04/0250218/system76s-open-firmware-re-disables-intels-management-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230604
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1021 美国空军否认人工智能无人机杀死其操作员](https://linux.cn/article-15874-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer](https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements)

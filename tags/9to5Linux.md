@@ -1,3 +1,6 @@
+## 20230605
+- [9to5Linux](https://9to5linux.com/) | [How to Enable Wayland for Hybrid NVIDIA Graphics on Fedora Linux 38 Workstation](https://9to5linux.com/how-to-enable-wayland-for-hybrid-nvidia-graphics-on-fedora-linux-38-workstation)
+
 ## 20230604
 - [9to5Linux](https://9to5linux.com/) | [GNOME Shell 44.2 Improves Built-In Screen Recorder, Bluetooth Menu, and More](https://9to5linux.com/gnome-shell-44-2-improves-built-in-screen-recorder-bluetooth-menu-and-more)
 

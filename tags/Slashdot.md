@@ -1,3 +1,7 @@
+## 20230605
+- [Slashdot](https://linux.slashdot.org/) | [System76's Open Firmware 'Re-Disables' Intel's Management Engine](https://linux.slashdot.org/story/23/06/04/0250218/system76s-open-firmware-re-disables-intels-management-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [NYT: It's the End of Computer Programming As We Know It](https://developers.slashdot.org/story/23/06/03/1514212/nyt-its-the-end-of-computer-programming-as-we-know-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230604
 - [Slashdot](https://linux.slashdot.org/) | [Red Hat is Dropping Its Support for LibreOffice](https://linux.slashdot.org/story/23/06/03/1638240/red-hat-is-dropping-its-support-for-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
