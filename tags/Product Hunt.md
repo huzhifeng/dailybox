@@ -1,3 +1,8 @@
+## 20230605
+- [Product Hunt](https://www.producthunt.com) | [SaasSherlock](https://www.producthunt.com/posts/saassherlock)
+- [Product Hunt](https://www.producthunt.com) | [Dazzle illustrations](https://www.producthunt.com/posts/dazzle-illustrations)
+- [Product Hunt](https://www.producthunt.com) | [Market Test](https://www.producthunt.com/posts/market-test)
+
 ## 20230604
 - [Product Hunt](https://www.producthunt.com) | [6ix Events](https://www.producthunt.com/posts/6ix-events)
 - [Product Hunt](https://www.producthunt.com) | [Tiles](https://www.producthunt.com/posts/tiles-2)

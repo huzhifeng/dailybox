@@ -1,3 +1,6 @@
+## 20230605
+- [diff.blog](https://diff.blog/) | [Anything can be a message queue if you use it wrongly enough](https://diff.blog/post/anything-can-be-a-message-queue-if-you-use-it-wrongly-enough-140629/)
+
 ## 20230602
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.70.0](https://diff.blog/post/announcing-rust-1700-140502/)
 - [diff.blog](https://diff.blog/) | [OpenAI cybersecurity grant program](https://diff.blog/post/openai-cybersecurity-grant-program-140492/)

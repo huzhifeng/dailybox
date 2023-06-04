@@ -1,3 +1,8 @@
+## 20230605
+- [Lobsters](https://lobste.rs/) | [Anything can be a message queue if you use it wrongly enough](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it)
+- [Lobsters](https://lobste.rs/) | [Writing a KVM hypervisor VMM in Python](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python)
+- [Lobsters](https://lobste.rs/) | [Proposing a struct syntax for Python](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python)
+
 ## 20230604
 - [Lobsters](https://lobste.rs/) | [Using Fossil](https://lobste.rs/s/emgzrz/using_fossil)
 - [Lobsters](https://lobste.rs/) | [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs)

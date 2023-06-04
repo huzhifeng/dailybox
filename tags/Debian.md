@@ -1,3 +1,7 @@
+## 20230605
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in May 2023](http://blog.alteholz.eu/2023/06/my-debian-activities-in-may-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Oficina de tradução do Manual do(a) Administrador(a) Debian em 13 de junho](https://debianbrasil.org.br/blog/oficina-traducao-manual-administrador-debian/)
+
 ## 20230604
 - [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in May 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-may-2023.html)
 

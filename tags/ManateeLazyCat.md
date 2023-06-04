@@ -1,3 +1,6 @@
+## 20230605
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [最佳代理实践之机场 (2023-06-04)](https://manateelazycat.github.io/proxy/2023/06/04/best-proxy.html)
+
 ## 20230604
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [ArchLinux 安装 N 卡闭源驱动](https://manateelazycat.github.io/linux/2023/06/03/nvidia-driver.html)
 

@@ -1,3 +1,8 @@
+## 20230605
+- [Phoronix](https://www.phoronix.com/) | [Debian 12 "Bookworm" Set For Release Next Week With Around 100 Known Bugs](https://www.phoronix.com/news/Debian-12-Next-Week)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc5 Released - The Kernel Is Looking To Be In Good Shape](https://www.phoronix.com/news/Linux-6.4-rc5)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Flang Begins Seeing NVIDIA CUDA Fortran Support](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
+
 ## 20230604
 - [Phoronix](https://www.phoronix.com/) | [AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer](https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements)
 - [Phoronix](https://www.phoronix.com/) | [Intel Continues Finalizing UEFI Unaccepted Memory Support For Linux](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-v13)

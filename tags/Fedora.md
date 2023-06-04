@@ -1,3 +1,7 @@
+## 20230605
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-lazy-thus-flatpak.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
+
 ## 20230604
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/03/finished-reading-on.html)
 

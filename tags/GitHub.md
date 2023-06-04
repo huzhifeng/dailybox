@@ -1,3 +1,8 @@
+## 20230605
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [2004content/rarbg](https://github.com/2004content/rarbg)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+
 ## 20230604
 - [GitHub中文社区](https://www.githubs.cn/trending) | [2004content/rarbg](https://github.com/2004content/rarbg)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
