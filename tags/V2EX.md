@@ -1,3 +1,8 @@
+## 20230606
+- [V2EX](https://www.v2ex.com/) | [🎁 [首发送码] 庆 WWDC 躲猫猫发布啦！从没见过的高颜值保护手机隐私 App](https://www.v2ex.com/t/946018)
+- [V2EX](https://www.v2ex.com/) | [为什么不买房](https://www.v2ex.com/t/945953)
+- [V2EX](https://www.v2ex.com/) | [3 个月 NAS 硬盘已损毁，长江存储的 ssd 这么不禁用么？](https://www.v2ex.com/t/945920)
+
 ## 20230605
 - [V2EX](https://www.v2ex.com/) | [原来做跨境电商(woo)这么挣钱？这确实颠覆了我的认知](https://www.v2ex.com/t/945757)
 - [V2EX](https://www.v2ex.com/) | [生而为人，不是任小米随便支配的猪狗！](https://www.v2ex.com/t/945694)

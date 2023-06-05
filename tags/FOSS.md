@@ -1,3 +1,6 @@
+## 20230606
+- [It's FOSS](https://itsfoss.com/) | [How to Prevent Ubuntu from Going into Sleep Mode](https://itsfoss.com/ubuntu-prevent-sleep/)
+
 ## 20230605
 - [It's FOSS](https://itsfoss.com/) | [Moo! There is a Cow in My Linux Terminal](https://itsfoss.com/cowsay/)
 

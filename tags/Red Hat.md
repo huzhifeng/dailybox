@@ -1,3 +1,8 @@
+## 20230606
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible workflow](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-workflow)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible automation](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible CLI](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-cli)
+
 ## 20230602
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Performance tracing of Podman using eBPF](https://www.redhat.com/en/blog/performance-tracing-podman-using-ebpf)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Application-driven analytics: How to embed analytics in applications using OpensShift and MongoDB Atlas](https://www.redhat.com/en/blog/application-driven-analytics-how-embed-analytics-applications-using-opensshift-and-mongodb-atlas)

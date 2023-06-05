@@ -1,3 +1,6 @@
+## 20230606
+- [Product Hunt](https://www.producthunt.com) | [ChatX](https://www.producthunt.com/posts/chatx)
+
 ## 20230605
 - [Product Hunt](https://www.producthunt.com) | [SaasSherlock](https://www.producthunt.com/posts/saassherlock)
 - [Product Hunt](https://www.producthunt.com) | [Dazzle illustrations](https://www.producthunt.com/posts/dazzle-illustrations)

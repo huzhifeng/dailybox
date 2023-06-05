@@ -1,3 +1,6 @@
+## 20230606
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023 – Call for Proposals](https://ubuntu.com//blog/ubuntu-summit-2023-call-for-proposals)
+
 ## 20230603
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Docker container security: demystifying FIPS-enabled containers with Ubuntu Pro](https://ubuntu.com//blog/docker-container-security-demystifying-fips-enabled-containers-with-ubuntu-pro)
 

@@ -1,3 +1,6 @@
+## 20230606
+- [TED Talks Daily](https://www.ted.com/talks) | [Can we recreate the voice of a 3,000-year-old mummy? | David M. Howard](https://www.ted.com/talks/david_m_howard_can_we_recreate_the_voice_of_a_3_000_year_old_mummy?rss)
+
 ## 20230603
 - [TED Talks Daily](https://www.ted.com/talks) | [How to design a school for the future | Punya Mishra](https://www.ted.com/talks/punya_mishra_how_to_design_a_school_for_the_future?rss)
 

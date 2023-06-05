@@ -1,3 +1,8 @@
+## 20230606
+- [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Me, Myself, and DevOpsDays 2023 Prague](https://talkweb.eu/openweb/3792/)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 05 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/05/next-open-neurofedora-meeting-05-June-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: 4 cool new projects to try in COPR for June 2023](https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-june-2023/)
+
 ## 20230605
 - [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-lazy-thus-flatpak.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)

@@ -1,3 +1,8 @@
+## 20230606
+- [Lobsters](https://lobste.rs/) | [The Rust I Wanted Had No Future](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future)
+- [Lobsters](https://lobste.rs/) | [WWDC 2023](https://lobste.rs/s/9bz6bl/wwdc_2023)
+- [Lobsters](https://lobste.rs/) | [Building a Programming Language in Twenty-Four Hours](https://lobste.rs/s/fb1khu/building_programming_language_twenty)
+
 ## 20230605
 - [Lobsters](https://lobste.rs/) | [Anything can be a message queue if you use it wrongly enough](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it)
 - [Lobsters](https://lobste.rs/) | [Writing a KVM hypervisor VMM in Python](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python)

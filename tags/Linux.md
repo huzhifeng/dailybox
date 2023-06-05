@@ -1,3 +1,20 @@
+## 20230606
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1023 AMD 霄龙 Rome 芯片会在连续运行 1044 天后崩溃](https://linux.cn/article-15879-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible workflow](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-workflow)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible automation](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible CLI](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-cli)
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces The M2 Ultra SoC - 24 Core CPU, Up To 192GB Unified Memory](https://www.phoronix.com/news/Apple-M2-Ultra)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ready For Ryzen Linux Systems To Use AMD P-State Active Mode By Default](https://www.phoronix.com/news/AMD-P-State-Active-Default)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Prepping Meteor Lake Graphics On Linux, Adds VRR eDP Support](https://www.phoronix.com/news/Intel-Graphics-Linux-6.5)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 114 Released with Revamped DNS over HTTPS Feature, WebTransport by Default](https://9to5linux.com/firefox-114-released-with-revamped-dns-over-https-feature-cookie-banner-reduction)
+- [9to5Linux](https://9to5linux.com/) | [blendOS 3 Promises Support for 9 Linux Distros, Repository-less Updates](https://9to5linux.com/blendos-3-promises-support-for-9-linux-distros-repositoryless-updates)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 4th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-4th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Me, Myself, and DevOpsDays 2023 Prague](https://talkweb.eu/openweb/3792/)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 05 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/05/next-open-neurofedora-meeting-05-June-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: 4 cool new projects to try in COPR for June 2023](https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in May 2023](https://reproducible-builds.org/reports/2023-05/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023 – Call for Proposals](https://ubuntu.com//blog/ubuntu-summit-2023-call-for-proposals)
+
 ## 20230605
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1022 这是我们所知的计算机编程的终结](https://linux.cn/article-15876-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Debian 12 "Bookworm" Set For Release Next Week With Around 100 Known Bugs](https://www.phoronix.com/news/Debian-12-Next-Week)
