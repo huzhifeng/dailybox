@@ -1,3 +1,8 @@
+## 20230606
+- [9to5Linux](https://9to5linux.com/) | [Firefox 114 Released with Revamped DNS over HTTPS Feature, WebTransport by Default](https://9to5linux.com/firefox-114-released-with-revamped-dns-over-https-feature-cookie-banner-reduction)
+- [9to5Linux](https://9to5linux.com/) | [blendOS 3 Promises Support for 9 Linux Distros, Repository-less Updates](https://9to5linux.com/blendos-3-promises-support-for-9-linux-distros-repositoryless-updates)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 4th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-4th-2023)
+
 ## 20230605
 - [9to5Linux](https://9to5linux.com/) | [How to Enable Wayland for Hybrid NVIDIA Graphics on Fedora Linux 38 Workstation](https://9to5linux.com/how-to-enable-wayland-for-hybrid-nvidia-graphics-on-fedora-linux-38-workstation)
 

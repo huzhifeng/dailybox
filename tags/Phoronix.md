@@ -1,3 +1,8 @@
+## 20230606
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces The M2 Ultra SoC - 24 Core CPU, Up To 192GB Unified Memory](https://www.phoronix.com/news/Apple-M2-Ultra)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ready For Ryzen Linux Systems To Use AMD P-State Active Mode By Default](https://www.phoronix.com/news/AMD-P-State-Active-Default)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Prepping Meteor Lake Graphics On Linux, Adds VRR eDP Support](https://www.phoronix.com/news/Intel-Graphics-Linux-6.5)
+
 ## 20230605
 - [Phoronix](https://www.phoronix.com/) | [Debian 12 "Bookworm" Set For Release Next Week With Around 100 Known Bugs](https://www.phoronix.com/news/Debian-12-Next-Week)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4-rc5 Released - The Kernel Is Looking To Be In Good Shape](https://www.phoronix.com/news/Linux-6.4-rc5)

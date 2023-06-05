@@ -1,3 +1,8 @@
+## 20230606
+- [Hacker News](https://news.ycombinator.com/front) | [Apple Vision Pro: Apple’s first spatial computer](https://news.ycombinator.com/item?id=36201593)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://news.ycombinator.com/item?id=36199639)
+- [Hacker News](https://news.ycombinator.com/front) | [Our right to challenge junk patents is under threat](https://news.ycombinator.com/item?id=36198329)
+
 ## 20230605
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Rarbg on IPFS](https://news.ycombinator.com/item?id=36186185)
 - [Hacker News](https://news.ycombinator.com/front) | [Why do railway tracks have crushed stones alongside them?](https://news.ycombinator.com/item?id=36183788)
