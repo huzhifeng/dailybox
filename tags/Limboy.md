@@ -1,3 +1,6 @@
+## 20230607
+- [Limboy](https://limboy.me) | [方便的代价](https://limboy.me/posts/the-price-of-convenience/)
+
 ## 20230526
 - [Limboy](https://limboy.me) | [漩涡](https://limboy.me/books/uzumaki/)
 - [Limboy](https://limboy.me) | [把自己当作他人，把他人当做自己，把课题当作科学研究](https://limboy.me/posts/3-tips/)

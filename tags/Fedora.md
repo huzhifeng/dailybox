@@ -1,3 +1,8 @@
+## 20230607
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Apple did it again with Vision Pro](https://avi.alkalay.net/2023/06/apple-vision-pro.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Introducing sngbench: a shell script to performance test your syslog-ng](https://peter.czanik.hu/other/syslog-ng-sngbench-shell-script-to-performance-test-syslog-ng/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP open now until 20 June](https://communityblog.fedoraproject.org/flock-2023-cfp-open-now-until-20-june/)
+
 ## 20230606
 - [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Me, Myself, and DevOpsDays 2023 Prague](https://talkweb.eu/openweb/3792/)
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 05 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/05/next-open-neurofedora-meeting-05-June-1300-utc.html)

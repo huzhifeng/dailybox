@@ -1,3 +1,16 @@
+## 20230607
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1024 美国发射了一颗供黑客们攻击的卫星](https://linux.cn/article-15882-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add Support For Some New AMD CCP Hardware](https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware)
+- [Phoronix](https://www.phoronix.com/) | [RADV+Zink vs. RadeonSI OpenGL Performance On Mesa 23.2-devel](https://www.phoronix.com/review/radeon-zink-summer23)
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces Faster Arc Pro A60 & A60M Graphics](https://www.phoronix.com/news/Intel-Arc-Pro-A60)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 115 Beta Brings Cookie Banner Reduction, Quick Actions in Address Bar](https://9to5linux.com/firefox-115-beta-brings-cookie-banner-reduction-quick-actions-in-address-bar)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Apple did it again with Vision Pro](https://avi.alkalay.net/2023/06/apple-vision-pro.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Introducing sngbench: a shell script to performance test your syslog-ng](https://peter.czanik.hu/other/syslog-ng-sngbench-shell-script-to-performance-test-syslog-ng/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP open now until 20 June](https://communityblog.fedoraproject.org/flock-2023-cfp-open-now-until-20-june/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Faster accurate range reduction](http://blog.sesse.net/blog/tech/2023-06-06-22-14_faster_accurate_range_reduction.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhonePro First Impression](https://etbe.coker.com.au/2023/06/06/pinephonepro-first-impression/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Dell 32″ 4K Monitor and DisplayPort Switch](https://etbe.coker.com.au/2023/06/06/dell-32-4k-displayport-switch/)
+
 ## 20230606
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1023 AMD 霄龙 Rome 芯片会在连续运行 1044 天后崩溃](https://linux.cn/article-15879-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible workflow](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-workflow)

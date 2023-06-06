@@ -1,3 +1,8 @@
+## 20230607
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Faster accurate range reduction](http://blog.sesse.net/blog/tech/2023-06-06-22-14_faster_accurate_range_reduction.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhonePro First Impression](https://etbe.coker.com.au/2023/06/06/pinephonepro-first-impression/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Dell 32″ 4K Monitor and DisplayPort Switch](https://etbe.coker.com.au/2023/06/06/dell-32-4k-displayport-switch/)
+
 ## 20230606
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in May 2023](https://reproducible-builds.org/reports/2023-05/)
 

@@ -1,3 +1,6 @@
+## 20230607
+- [Slashdot](https://developers.slashdot.org/) | [Reddit on New Pricing Plan: Company 'Needs To Be Fairly Paid'](https://tech.slashdot.org/story/23/06/06/1444256/reddit-on-new-pricing-plan-company-needs-to-be-fairly-paid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230605
 - [Slashdot](https://linux.slashdot.org/) | [System76's Open Firmware 'Re-Disables' Intel's Management Engine](https://linux.slashdot.org/story/23/06/04/0250218/system76s-open-firmware-re-disables-intels-management-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [NYT: It's the End of Computer Programming As We Know It](https://developers.slashdot.org/story/23/06/03/1514212/nyt-its-the-end-of-computer-programming-as-we-know-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)

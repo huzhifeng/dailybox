@@ -1,3 +1,8 @@
+## 20230607
+- [Hacker News](https://news.ycombinator.com/front) | [GGML – AI at the Edge](https://news.ycombinator.com/item?id=36215651)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenGL 3.1 on Asahi Linux](https://news.ycombinator.com/item?id=36212674)
+- [Hacker News](https://news.ycombinator.com/front) | [US SEC sues Coinbase, one day after suing Binance](https://news.ycombinator.com/item?id=36212120)
+
 ## 20230606
 - [Hacker News](https://news.ycombinator.com/front) | [Apple Vision Pro: Apple’s first spatial computer](https://news.ycombinator.com/item?id=36201593)
 - [Hacker News](https://news.ycombinator.com/front) | [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://news.ycombinator.com/item?id=36199639)

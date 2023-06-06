@@ -1,3 +1,7 @@
+## 20230607
+- [LibHunt](https://www.libhunt.com/) | [stable-diffusion-webui](https://www.libhunt.com/r/stable-diffusion-webui)
+- [LibHunt](https://www.libhunt.com/) | [uBlock](https://www.libhunt.com/r/uBlock)
+
 ## 20230606
 - [LibHunt](https://www.libhunt.com/) | [talk-codebase](https://www.libhunt.com/r/talk-codebase)
 
