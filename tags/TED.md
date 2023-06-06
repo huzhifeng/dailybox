@@ -1,3 +1,6 @@
+## 20230607
+- [TED Talks Daily](https://www.ted.com/talks) | [How wireless energy from space could power everything | Ali Hajimiri](https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?rss)
+
 ## 20230606
 - [TED Talks Daily](https://www.ted.com/talks) | [Can we recreate the voice of a 3,000-year-old mummy? | David M. Howard](https://www.ted.com/talks/david_m_howard_can_we_recreate_the_voice_of_a_3_000_year_old_mummy?rss)
 

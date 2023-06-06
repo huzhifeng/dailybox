@@ -1,3 +1,8 @@
+## 20230607
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add Support For Some New AMD CCP Hardware](https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware)
+- [Phoronix](https://www.phoronix.com/) | [RADV+Zink vs. RadeonSI OpenGL Performance On Mesa 23.2-devel](https://www.phoronix.com/review/radeon-zink-summer23)
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces Faster Arc Pro A60 & A60M Graphics](https://www.phoronix.com/news/Intel-Arc-Pro-A60)
+
 ## 20230606
 - [Phoronix](https://www.phoronix.com/) | [Apple Announces The M2 Ultra SoC - 24 Core CPU, Up To 192GB Unified Memory](https://www.phoronix.com/news/Apple-M2-Ultra)
 - [Phoronix](https://www.phoronix.com/) | [AMD Ready For Ryzen Linux Systems To Use AMD P-State Active Mode By Default](https://www.phoronix.com/news/AMD-P-State-Active-Default)

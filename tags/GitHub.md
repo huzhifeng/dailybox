@@ -1,3 +1,8 @@
+## 20230607
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openchatai/OpenChat](https://github.com/openchatai/OpenChat)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+
 ## 20230606
 - [GitHub中文社区](https://www.githubs.cn/trending) | [2004content/rarbg](https://github.com/2004content/rarbg)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)

@@ -1,3 +1,6 @@
+## 20230607
+- [9to5Linux](https://9to5linux.com/) | [Firefox 115 Beta Brings Cookie Banner Reduction, Quick Actions in Address Bar](https://9to5linux.com/firefox-115-beta-brings-cookie-banner-reduction-quick-actions-in-address-bar)
+
 ## 20230606
 - [9to5Linux](https://9to5linux.com/) | [Firefox 114 Released with Revamped DNS over HTTPS Feature, WebTransport by Default](https://9to5linux.com/firefox-114-released-with-revamped-dns-over-https-feature-cookie-banner-reduction)
 - [9to5Linux](https://9to5linux.com/) | [blendOS 3 Promises Support for 9 Linux Distros, Repository-less Updates](https://9to5linux.com/blendos-3-promises-support-for-9-linux-distros-repositoryless-updates)

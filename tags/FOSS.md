@@ -1,3 +1,6 @@
+## 20230607
+- [It's FOSS](https://itsfoss.com/) | [Using tail Command in Linux](https://itsfoss.com/tail-command/)
+
 ## 20230606
 - [It's FOSS](https://itsfoss.com/) | [How to Prevent Ubuntu from Going into Sleep Mode](https://itsfoss.com/ubuntu-prevent-sleep/)
 

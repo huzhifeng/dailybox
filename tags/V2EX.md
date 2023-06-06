@@ -1,3 +1,8 @@
+## 20230607
+- [V2EX](https://www.v2ex.com/) | [生娃还是需要冷静点想一想](https://www.v2ex.com/t/946334)
+- [V2EX](https://www.v2ex.com/) | [钟文泽已经佩戴体验了 Vision pro 唉，居然和宣传片里大致一样，好兴奋。](https://www.v2ex.com/t/946308)
+- [V2EX](https://www.v2ex.com/) | [15 寸 MacBook air 真是个超级大败笔， 12 寸 MacBook 才是刚需啊！](https://www.v2ex.com/t/946284)
+
 ## 20230606
 - [V2EX](https://www.v2ex.com/) | [🎁 [首发送码] 庆 WWDC 躲猫猫发布啦！从没见过的高颜值保护手机隐私 App](https://www.v2ex.com/t/946018)
 - [V2EX](https://www.v2ex.com/) | [为什么不买房](https://www.v2ex.com/t/945953)

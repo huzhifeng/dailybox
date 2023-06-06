@@ -1,3 +1,8 @@
+## 20230607
+- [Product Hunt](https://www.producthunt.com) | [Process AI](https://www.producthunt.com/posts/process-ai)
+- [Product Hunt](https://www.producthunt.com) | [Webflow DevLink](https://www.producthunt.com/posts/webflow-devlink)
+- [Product Hunt](https://www.producthunt.com) | [Sorcel Beta](https://www.producthunt.com/posts/sorcel-beta)
+
 ## 20230606
 - [Product Hunt](https://www.producthunt.com) | [ChatX](https://www.producthunt.com/posts/chatx)
 

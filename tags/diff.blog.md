@@ -1,3 +1,6 @@
+## 20230607
+- [diff.blog](https://diff.blog/) | [Why AI Will Save the World](https://diff.blog/post/why-ai-will-save-the-world-140779/)
+
 ## 20230605
 - [diff.blog](https://diff.blog/) | [Anything can be a message queue if you use it wrongly enough](https://diff.blog/post/anything-can-be-a-message-queue-if-you-use-it-wrongly-enough-140629/)
 
