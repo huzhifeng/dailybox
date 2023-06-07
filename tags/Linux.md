@@ -1,3 +1,15 @@
+## 20230608
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1025 苹果 Safari 浏览器支持了被谷歌放弃的 JPEG XL](https://linux.cn/article-15886-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy Quarkus applications directly to OpenShift using S2I](https://developers.redhat.com/articles/2023/06/07/deploy-quarkus-applications-openshift-s2i)
+- [Phoronix](https://www.phoronix.com/) | [UEFI Unaccepted Memory Support Appears Ready For Linux 6.5](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-CC-6.5)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.2 Receives Asahi AGX Gallium3D Changes For OpenGL 3.1 + GLES 3.0](https://www.phoronix.com/news/Mesa-23.2-AGX-Lands-OpenGL-3.1)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Posted That Would Allow Boot-Time Disabling Of x86 32-bit Processes](https://www.phoronix.com/news/Linux-Boot-Disable-32-bit)
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 23.06 Arrives for Linux Phones and Tablets with GNOME Mobile](https://9to5linux.com/postmarketos-23-06-arrives-for-linux-phones-and-tablets-with-gnome-mobile)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.5 Releases with KDE Plasma 5.27 LTS, Xfce 4.18, and More](https://9to5linux.com/opensuse-leap-15-5-releases-with-kde-plasma-5-27-lts-xfce-4-18-and-more)
+- [OMG! Linux](https://www.omglinux.com/) | [openSUSE Leap 15.5 Released, Available to Download](https://www.omglinux.com/opensuse-leap-15-5-released/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: DevConf.cz 2023 Attendee !](https://badges.fedoraproject.org/badge/devconf.cz-2023-attendee)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Rocket ships and radishes](https://opensourcesecurity.io/2023/06/06/rocket-ships-and-radishes/)
+
 ## 20230607
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1024 美国发射了一颗供黑客们攻击的卫星](https://linux.cn/article-15882-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add Support For Some New AMD CCP Hardware](https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware)

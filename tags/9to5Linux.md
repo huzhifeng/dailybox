@@ -1,3 +1,7 @@
+## 20230608
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 23.06 Arrives for Linux Phones and Tablets with GNOME Mobile](https://9to5linux.com/postmarketos-23-06-arrives-for-linux-phones-and-tablets-with-gnome-mobile)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.5 Releases with KDE Plasma 5.27 LTS, Xfce 4.18, and More](https://9to5linux.com/opensuse-leap-15-5-releases-with-kde-plasma-5-27-lts-xfce-4-18-and-more)
+
 ## 20230607
 - [9to5Linux](https://9to5linux.com/) | [Firefox 115 Beta Brings Cookie Banner Reduction, Quick Actions in Address Bar](https://9to5linux.com/firefox-115-beta-brings-cookie-banner-reduction-quick-actions-in-address-bar)
 

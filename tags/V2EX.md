@@ -1,3 +1,8 @@
+## 20230608
+- [V2EX](https://www.v2ex.com/) | [老婆怀孕 34 周了，丈母娘刚五十出头于 6.3 号突发脑出血目前还在 icu 重度昏迷，医生说出血量太大醒过来概率很低，基本是靠 icu 中仪器维持着，不知道坚持下去...](https://www.v2ex.com/t/946629)
+- [V2EX](https://www.v2ex.com/) | [WWDC 苹果完美的抄袭了我的软件](https://www.v2ex.com/t/946603)
+- [V2EX](https://www.v2ex.com/) | [关于消费的困扰](https://www.v2ex.com/t/946556)
+
 ## 20230607
 - [V2EX](https://www.v2ex.com/) | [生娃还是需要冷静点想一想](https://www.v2ex.com/t/946334)
 - [V2EX](https://www.v2ex.com/) | [钟文泽已经佩戴体验了 Vision pro 唉，居然和宣传片里大致一样，好兴奋。](https://www.v2ex.com/t/946308)

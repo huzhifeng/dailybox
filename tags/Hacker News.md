@@ -1,3 +1,7 @@
+## 20230608
+- [Hacker News](https://news.ycombinator.com/front) | [Windows 11 calls a zip file a 'postcode file' in UK English](https://news.ycombinator.com/item?id=36231313)
+- [Hacker News](https://news.ycombinator.com/front) | [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://news.ycombinator.com/item?id=36228125)
+
 ## 20230607
 - [Hacker News](https://news.ycombinator.com/front) | [GGML – AI at the Edge](https://news.ycombinator.com/item?id=36215651)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenGL 3.1 on Asahi Linux](https://news.ycombinator.com/item?id=36212674)

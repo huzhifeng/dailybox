@@ -1,3 +1,9 @@
+## 20230608
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO 称公司没有上市计划；特斯拉自动驾驶将开放给其他车企；百度智能云推出代码助手 Comate|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131080979)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入浅出之Docker Compose详解](https://blog.csdn.net/qq_43649937/article/details/131073227)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近人工智能|NLP的语言革命](https://blog.csdn.net/weixin_54174102/article/details/131079833)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【历史上的今天】6 月 7 日：图灵逝世；Kubernetes 开源版本发布；分组交换网络发明者出生](https://blog.csdn.net/Byeweiyang/article/details/131085765)
+
 ## 20230607
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里云面向全球召开AI黑客编程大赛；OpenAI里程碑达成！全球最快实现10亿月活；Firefox 114发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131069578)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [YOLOv5/v7 添加注意力机制，30多种模块分析①，SE模块，SK模块](https://blog.csdn.net/guorui_java/article/details/131039426)

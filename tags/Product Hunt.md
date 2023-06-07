@@ -1,3 +1,8 @@
+## 20230608
+- [Product Hunt](https://www.producthunt.com) | [Feature Launch by June](https://www.producthunt.com/posts/feature-launch-by-june)
+- [Product Hunt](https://www.producthunt.com) | [Omni.us](https://www.producthunt.com/posts/omni-us-2)
+- [Product Hunt](https://www.producthunt.com) | [Pitch Avatar](https://www.producthunt.com/posts/pitch-avatar)
+
 ## 20230607
 - [Product Hunt](https://www.producthunt.com) | [Process AI](https://www.producthunt.com/posts/process-ai)
 - [Product Hunt](https://www.producthunt.com) | [Webflow DevLink](https://www.producthunt.com/posts/webflow-devlink)

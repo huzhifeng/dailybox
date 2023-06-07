@@ -1,3 +1,6 @@
+## 20230608
+- [TED Talks Daily](https://www.ted.com/talks) | [Nature, art and magical blocks of flying concrete | Lonneke Gordijn](https://www.ted.com/talks/lonneke_gordijn_nature_art_and_magical_blocks_of_flying_concrete?rss)
+
 ## 20230607
 - [TED Talks Daily](https://www.ted.com/talks) | [How wireless energy from space could power everything | Ali Hajimiri](https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?rss)
 

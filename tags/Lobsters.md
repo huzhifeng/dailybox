@@ -1,3 +1,8 @@
+## 20230608
+- [Lobsters](https://lobste.rs/) | [SICP in Emacs](https://lobste.rs/s/0r1whx/sicp_emacs)
+- [Lobsters](https://lobste.rs/) | [Mojo is a much better "Objective-C without the C" than Swift ever was](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c)
+- [Lobsters](https://lobste.rs/) | [Modded Minecraft Malware "fractureiser" - What We Know](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser)
+
 ## 20230607
 - [Lobsters](https://lobste.rs/) | [WebKit Features in Safari 17 beta](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta)
 - [Lobsters](https://lobste.rs/) | [Three-way handshake bypassing Little Snitch](https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little)

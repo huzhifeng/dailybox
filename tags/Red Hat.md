@@ -1,3 +1,6 @@
+## 20230608
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy Quarkus applications directly to OpenShift using S2I](https://developers.redhat.com/articles/2023/06/07/deploy-quarkus-applications-openshift-s2i)
+
 ## 20230606
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible workflow](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-workflow)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create an EC2 instance in AWS using Ansible automation](https://developers.redhat.com/articles/2023/06/05/how-create-ec2-instance-aws-using-ansible-automation)
