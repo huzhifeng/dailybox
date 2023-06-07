@@ -1,3 +1,8 @@
+## 20230608
+- [Phoronix](https://www.phoronix.com/) | [UEFI Unaccepted Memory Support Appears Ready For Linux 6.5](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-CC-6.5)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.2 Receives Asahi AGX Gallium3D Changes For OpenGL 3.1 + GLES 3.0](https://www.phoronix.com/news/Mesa-23.2-AGX-Lands-OpenGL-3.1)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Posted That Would Allow Boot-Time Disabling Of x86 32-bit Processes](https://www.phoronix.com/news/Linux-Boot-Disable-32-bit)
+
 ## 20230607
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add Support For Some New AMD CCP Hardware](https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware)
 - [Phoronix](https://www.phoronix.com/) | [RADV+Zink vs. RadeonSI OpenGL Performance On Mesa 23.2-devel](https://www.phoronix.com/review/radeon-zink-summer23)

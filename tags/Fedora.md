@@ -1,3 +1,7 @@
+## 20230608
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: DevConf.cz 2023 Attendee !](https://badges.fedoraproject.org/badge/devconf.cz-2023-attendee)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Rocket ships and radishes](https://opensourcesecurity.io/2023/06/06/rocket-ships-and-radishes/)
+
 ## 20230607
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Apple did it again with Vision Pro](https://avi.alkalay.net/2023/06/apple-vision-pro.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Introducing sngbench: a shell script to performance test your syslog-ng](https://peter.czanik.hu/other/syslog-ng-sngbench-shell-script-to-performance-test-syslog-ng/)

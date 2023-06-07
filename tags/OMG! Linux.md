@@ -1,3 +1,6 @@
+## 20230608
+- [OMG! Linux](https://www.omglinux.com/) | [openSUSE Leap 15.5 Released, Available to Download](https://www.omglinux.com/opensuse-leap-15-5-released/)
+
 ## 20230603
 - [OMG! Linux](https://www.omglinux.com/) | [Red Hat Stop Packaging LibreOffice as RPM for RHEL, Fedora](https://www.omglinux.com/red-hat-stop-packaging-libreoffice/)
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Working on New UI for Fractional Scaling](https://www.omglinux.com/gnome-fractional-scaling-settings-design/)

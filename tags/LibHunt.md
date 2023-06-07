@@ -1,3 +1,8 @@
+## 20230608
+- [LibHunt](https://www.libhunt.com/) | [sydent](https://www.libhunt.com/r/sydent)
+- [LibHunt](https://www.libhunt.com/) | [Mastodon](https://www.libhunt.com/r/mastodon)
+- [LibHunt](https://www.libhunt.com/) | [TwitchAdSolutions](https://www.libhunt.com/r/TwitchAdSolutions)
+
 ## 20230607
 - [LibHunt](https://www.libhunt.com/) | [stable-diffusion-webui](https://www.libhunt.com/r/stable-diffusion-webui)
 - [LibHunt](https://www.libhunt.com/) | [uBlock](https://www.libhunt.com/r/uBlock)

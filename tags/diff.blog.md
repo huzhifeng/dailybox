@@ -1,3 +1,7 @@
+## 20230608
+- [diff.blog](https://diff.blog/) | [SICP in Emacs](https://diff.blog/post/sicp-in-emacs-140867/)
+- [diff.blog](https://diff.blog/) | [AlphaDev discovers faster sorting algorithms](https://diff.blog/post/alphadev-discovers-faster-sorting-algorithms-140847/)
+
 ## 20230607
 - [diff.blog](https://diff.blog/) | [Why AI Will Save the World](https://diff.blog/post/why-ai-will-save-the-world-140779/)
 

@@ -1,3 +1,9 @@
+## 20230608
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [reactive-python/reactpy](https://github.com/reactive-python/reactpy)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser)
+
 ## 20230607
 - [GitHub中文社区](https://www.githubs.cn/trending) | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [openchatai/OpenChat](https://github.com/openchatai/OpenChat)
