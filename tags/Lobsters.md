@@ -1,3 +1,8 @@
+## 20230609
+- [Lobsters](https://lobste.rs/) | [The Apollo Reddit client will shut down June 30](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june)
+- [Lobsters](https://lobste.rs/) | [Douglas Crockford: “We should stop using JavaScript”](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using)
+- [Lobsters](https://lobste.rs/) | [Understanding CPUs can help speed up Numba and NumPy code](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up)
+
 ## 20230608
 - [Lobsters](https://lobste.rs/) | [SICP in Emacs](https://lobste.rs/s/0r1whx/sicp_emacs)
 - [Lobsters](https://lobste.rs/) | [Mojo is a much better "Objective-C without the C" than Swift ever was](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c)

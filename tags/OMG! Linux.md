@@ -1,3 +1,6 @@
+## 20230609
+- [OMG! Linux](https://www.omglinux.com/) | [Using ChatGPT from the Command Line is Easy on Linux](https://www.omglinux.com/chatgpt-command-line/)
+
 ## 20230608
 - [OMG! Linux](https://www.omglinux.com/) | [openSUSE Leap 15.5 Released, Available to Download](https://www.omglinux.com/opensuse-leap-15-5-released/)
 

@@ -1,3 +1,8 @@
+## 20230609
+- [V2EX](https://www.v2ex.com/) | [我就喜欢和年长的人聊天，能不能给我一句忠告，让我少走你走过的弯路，谢谢了](https://www.v2ex.com/t/947045)
+- [V2EX](https://www.v2ex.com/) | [亲测有效，合着 19 块开通京东 PLUS，优惠到离谱](https://www.v2ex.com/t/947019)
+- [V2EX](https://www.v2ex.com/) | [话说能进入 985/211 高校的多么](https://www.v2ex.com/t/946943)
+
 ## 20230608
 - [V2EX](https://www.v2ex.com/) | [老婆怀孕 34 周了，丈母娘刚五十出头于 6.3 号突发脑出血目前还在 icu 重度昏迷，医生说出血量太大醒过来概率很低，基本是靠 icu 中仪器维持着，不知道坚持下去...](https://www.v2ex.com/t/946629)
 - [V2EX](https://www.v2ex.com/) | [WWDC 苹果完美的抄袭了我的软件](https://www.v2ex.com/t/946603)

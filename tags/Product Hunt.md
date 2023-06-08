@@ -1,3 +1,8 @@
+## 20230609
+- [Product Hunt](https://www.producthunt.com) | [Bucket](https://www.producthunt.com/posts/bucket-6)
+- [Product Hunt](https://www.producthunt.com) | [WP Umbrella](https://www.producthunt.com/posts/wp-umbrella-2)
+- [Product Hunt](https://www.producthunt.com) | [Zing by Trainn](https://www.producthunt.com/posts/zing-by-trainn)
+
 ## 20230608
 - [Product Hunt](https://www.producthunt.com) | [Feature Launch by June](https://www.producthunt.com/posts/feature-launch-by-june)
 - [Product Hunt](https://www.producthunt.com) | [Omni.us](https://www.producthunt.com/posts/omni-us-2)

@@ -1,3 +1,7 @@
+## 20230609
+- [LibHunt](https://www.libhunt.com/) | [PowerDeleteSuite](https://www.libhunt.com/r/PowerDeleteSuite)
+- [LibHunt](https://www.libhunt.com/) | [homebrew-apple](https://www.libhunt.com/r/homebrew-apple)
+
 ## 20230608
 - [LibHunt](https://www.libhunt.com/) | [sydent](https://www.libhunt.com/r/sydent)
 - [LibHunt](https://www.libhunt.com/) | [Mastodon](https://www.libhunt.com/r/mastodon)

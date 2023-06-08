@@ -1,3 +1,9 @@
+## 20230609
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应考生喊话马化腾；库克承认在使用 ChatGPT；OpenHarmony 4.0 Beta1 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131101500)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习强基计划10-3：详解Bagging与随机森林算法(附Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/131041885)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [学生考试作弊检测系统 yolov8](https://blog.csdn.net/KO_159/article/details/131097538)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云计算——云计算关键技术](https://blog.csdn.net/yj11290301/article/details/131094949)
+
 ## 20230608
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO 称公司没有上市计划；特斯拉自动驾驶将开放给其他车企；百度智能云推出代码助手 Comate|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131080979)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入浅出之Docker Compose详解](https://blog.csdn.net/qq_43649937/article/details/131073227)

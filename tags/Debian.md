@@ -1,3 +1,6 @@
+## 20230609
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
+
 ## 20230607
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Faster accurate range reduction](http://blog.sesse.net/blog/tech/2023-06-06-22-14_faster_accurate_range_reduction.html)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhonePro First Impression](https://etbe.coker.com.au/2023/06/06/pinephonepro-first-impression/)
