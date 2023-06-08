@@ -1,3 +1,6 @@
+## 20230609
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E250 Cups Lock](https://podcastubuntuportugal.org/e250/)
+
 ## 20230606
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu Summit 2023 – Call for Proposals](https://ubuntu.com//blog/ubuntu-summit-2023-call-for-proposals)
 

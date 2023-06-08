@@ -1,3 +1,8 @@
+## 20230609
+- [GitHub中文社区](https://www.githubs.cn/trending) | [apple/homebrew-apple](https://github.com/apple/homebrew-apple)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openchatai/OpenChat](https://github.com/openchatai/OpenChat)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware)
+
 ## 20230608
 - [GitHub中文社区](https://www.githubs.cn/trending) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)

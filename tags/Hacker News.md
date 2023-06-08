@@ -1,3 +1,8 @@
+## 20230609
+- [Hacker News](https://news.ycombinator.com/front) | [Apollo will close down on June 30th](https://news.ycombinator.com/item?id=36245435)
+- [Hacker News](https://news.ycombinator.com/front) | [iOS 17 automatically removes tracking parameters from links you click on](https://news.ycombinator.com/item?id=36243955)
+- [Hacker News](https://news.ycombinator.com/front) | [The Last Egg](https://news.ycombinator.com/item?id=36241768)
+
 ## 20230608
 - [Hacker News](https://news.ycombinator.com/front) | [Windows 11 calls a zip file a 'postcode file' in UK English](https://news.ycombinator.com/item?id=36231313)
 - [Hacker News](https://news.ycombinator.com/front) | [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://news.ycombinator.com/item?id=36228125)

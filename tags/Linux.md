@@ -1,3 +1,16 @@
+## 20230609
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1026 人工智能发现了更快的排序算法](https://linux.cn/article-15889-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
+- [Phoronix](https://www.phoronix.com/) | [JDK 21 Forked From Mainline For What Will Be The Next Java LTS Release](https://www.phoronix.com/news/JDK-21-Forked-From-Mainline)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Ice Lake vs. AMD EPYC Milan Server Performance, Efficiency & Value In 2023](https://www.phoronix.com/review/milan-icelake-servers-2023)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.2 Released With Intel Fix For VKD3D-Proton, More RADV Fixes](https://www.phoronix.com/news/Mesa-23.1.2-Released)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.4 Office Suite Released with More Than 80 Bug Fixes](https://9to5linux.com/libreoffice-7-5-4-office-suite-released-with-more-than-80-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.2 Is Out to Improve Dolphin, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-04-2-is-out-to-improve-dolphin-kdenlive-and-other-kde-apps)
+- [OMG! Linux](https://www.omglinux.com/) | [Using ChatGPT from the Command Line is Easy on Linux](https://www.omglinux.com/chatgpt-command-line/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.29, 8.1.20 and 8.2.7](https://blog.remirepo.net/post/2023/06/08/PHP-version-8.0.29-8.1.20-and-8.2.7)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E250 Cups Lock](https://podcastubuntuportugal.org/e250/)
+
 ## 20230608
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1025 苹果 Safari 浏览器支持了被谷歌放弃的 JPEG XL](https://linux.cn/article-15886-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploy Quarkus applications directly to OpenShift using S2I](https://developers.redhat.com/articles/2023/06/07/deploy-quarkus-applications-openshift-s2i)

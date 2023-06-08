@@ -1,3 +1,8 @@
+## 20230609
+- [Phoronix](https://www.phoronix.com/) | [JDK 21 Forked From Mainline For What Will Be The Next Java LTS Release](https://www.phoronix.com/news/JDK-21-Forked-From-Mainline)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Ice Lake vs. AMD EPYC Milan Server Performance, Efficiency & Value In 2023](https://www.phoronix.com/review/milan-icelake-servers-2023)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.2 Released With Intel Fix For VKD3D-Proton, More RADV Fixes](https://www.phoronix.com/news/Mesa-23.1.2-Released)
+
 ## 20230608
 - [Phoronix](https://www.phoronix.com/) | [UEFI Unaccepted Memory Support Appears Ready For Linux 6.5](https://www.phoronix.com/news/UEFI-Unaccepted-Memory-CC-6.5)
 - [Phoronix](https://www.phoronix.com/) | [Mesa 23.2 Receives Asahi AGX Gallium3D Changes For OpenGL 3.1 + GLES 3.0](https://www.phoronix.com/news/Mesa-23.2-AGX-Lands-OpenGL-3.1)

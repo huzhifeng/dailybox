@@ -1,3 +1,6 @@
+## 20230609
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.23: openSUSE 15.5, GNOME 45 New Features, Tail Command and More](https://itsfoss.com/newsletter/foss-weekly-23-23/)
+
 ## 20230607
 - [It's FOSS](https://itsfoss.com/) | [Using tail Command in Linux](https://itsfoss.com/tail-command/)
 

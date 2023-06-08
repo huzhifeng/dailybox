@@ -1,3 +1,7 @@
+## 20230609
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.4 Office Suite Released with More Than 80 Bug Fixes](https://9to5linux.com/libreoffice-7-5-4-office-suite-released-with-more-than-80-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.2 Is Out to Improve Dolphin, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-04-2-is-out-to-improve-dolphin-kdenlive-and-other-kde-apps)
+
 ## 20230608
 - [9to5Linux](https://9to5linux.com/) | [postmarketOS 23.06 Arrives for Linux Phones and Tablets with GNOME Mobile](https://9to5linux.com/postmarketos-23-06-arrives-for-linux-phones-and-tablets-with-gnome-mobile)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.5 Releases with KDE Plasma 5.27 LTS, Xfce 4.18, and More](https://9to5linux.com/opensuse-leap-15-5-releases-with-kde-plasma-5-27-lts-xfce-4-18-and-more)

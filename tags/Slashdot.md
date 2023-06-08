@@ -1,3 +1,7 @@
+## 20230609
+- [Slashdot](https://developers.slashdot.org/) | [Apollo, Popular Reddit App, To Shut Down June 30 Following API Price Surge](https://developers.slashdot.org/story/23/06/08/1742245/apollo-popular-reddit-app-to-shut-down-june-30-following-api-price-surge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [AI System Devises First Optimizations To Sorting Code In Over a Decade](https://developers.slashdot.org/story/23/06/08/021213/ai-system-devises-first-optimizations-to-sorting-code-in-over-a-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230607
 - [Slashdot](https://developers.slashdot.org/) | [Reddit on New Pricing Plan: Company 'Needs To Be Fairly Paid'](https://tech.slashdot.org/story/23/06/06/1444256/reddit-on-new-pricing-plan-company-needs-to-be-fairly-paid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

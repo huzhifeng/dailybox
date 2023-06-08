@@ -1,3 +1,6 @@
+## 20230609
+- [TED Talks Daily](https://www.ted.com/talks) | [The outlaws of the ocean -- and how we're reeling them in | Tony Long](https://www.ted.com/talks/tony_long_the_outlaws_of_the_ocean_and_how_we_re_reeling_them_in?rss)
+
 ## 20230608
 - [TED Talks Daily](https://www.ted.com/talks) | [Nature, art and magical blocks of flying concrete | Lonneke Gordijn](https://www.ted.com/talks/lonneke_gordijn_nature_art_and_magical_blocks_of_flying_concrete?rss)
 

@@ -1,3 +1,6 @@
+## 20230609
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.29, 8.1.20 and 8.2.7](https://blog.remirepo.net/post/2023/06/08/PHP-version-8.0.29-8.1.20-and-8.2.7)
+
 ## 20230608
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: DevConf.cz 2023 Attendee !](https://badges.fedoraproject.org/badge/devconf.cz-2023-attendee)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Rocket ships and radishes](https://opensourcesecurity.io/2023/06/06/rocket-ships-and-radishes/)
