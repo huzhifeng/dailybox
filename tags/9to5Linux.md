@@ -1,3 +1,6 @@
+## 20230610
+- [9to5Linux](https://9to5linux.com/) | [Thunderbird 115 Reaches Beta with Updated UI and Improved OpenPGP Support](https://9to5linux.com/thunderbird-115-reaches-beta-with-updated-ui-and-improved-openpgp-support)
+
 ## 20230609
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.4 Office Suite Released with More Than 80 Bug Fixes](https://9to5linux.com/libreoffice-7-5-4-office-suite-released-with-more-than-80-bug-fixes)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.2 Is Out to Improve Dolphin, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-04-2-is-out-to-improve-dolphin-kdenlive-and-other-kde-apps)

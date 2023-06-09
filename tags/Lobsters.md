@@ -1,3 +1,8 @@
+## 20230610
+- [Lobsters](https://lobste.rs/) | [cube.sed](https://lobste.rs/s/un2nt7/cube_sed)
+- [Lobsters](https://lobste.rs/) | [acme.sh runs arbitrary commands from a remote server](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from)
+- [Lobsters](https://lobste.rs/) | [Monitoring is a Pain](https://lobste.rs/s/qiy7if/monitoring_is_pain)
+
 ## 20230609
 - [Lobsters](https://lobste.rs/) | [The Apollo Reddit client will shut down June 30](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june)
 - [Lobsters](https://lobste.rs/) | [Douglas Crockford: “We should stop using JavaScript”](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using)

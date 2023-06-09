@@ -1,3 +1,9 @@
+## 20230610
+- [Planet Fedora](http://fedoraplanet.org/) | [Jiri Eischmann: Help Us Test Evolution](https://eischmann.wordpress.com/2023/06/09/help-us-test-evolution/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 23 2022](https://communityblog.fedoraproject.org/cpe-weekly-update-week-23-2022-2/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Phone upgraded to Debian 12](https://jonathancarter.org/2023/06/09/phone-upgraded-to-debian-12/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Planet Debian rendered with PtLink](https://grep.be/blog//en/computer/ptlink/Planet_Debian_rendered_with_PtLink/)
+
 ## 20230609
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.29, 8.1.20 and 8.2.7](https://blog.remirepo.net/post/2023/06/08/PHP-version-8.0.29-8.1.20-and-8.2.7)
 - [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)

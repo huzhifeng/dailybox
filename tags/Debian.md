@@ -1,3 +1,7 @@
+## 20230610
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Phone upgraded to Debian 12](https://jonathancarter.org/2023/06/09/phone-upgraded-to-debian-12/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Planet Debian rendered with PtLink](https://grep.be/blog//en/computer/ptlink/Planet_Debian_rendered_with_PtLink/)
+
 ## 20230609
 - [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 

@@ -1,3 +1,15 @@
+## 20230610
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1027 Vivaldi 将伪装成 Edge 以让用户使用必应聊天](https://linux.cn/article-15892-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add HuC Loading Support For Intel Meteor Lake](https://www.phoronix.com/news/Linux-6.5-Brings-Intel-MTL-HuC)
+- [Phoronix](https://www.phoronix.com/) | [Intel Updates Cluster Scheduling Linux Patches For Hybrid CPUs](https://www.phoronix.com/news/Intel-Cluster-Sched-Hybrid-V2)
+- [Phoronix](https://www.phoronix.com/) | [Google's Patches To Speed-Up Over-Committed Linux Guest VMs Are Looking Great](https://www.phoronix.com/news/Google-Benchmarks-Heavy-VMs)
+- [9to5Linux](https://9to5linux.com/) | [Thunderbird 115 Reaches Beta with Updated UI and Improved OpenPGP Support](https://9to5linux.com/thunderbird-115-reaches-beta-with-updated-ui-and-improved-openpgp-support)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jiri Eischmann: Help Us Test Evolution](https://eischmann.wordpress.com/2023/06/09/help-us-test-evolution/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 23 2022](https://communityblog.fedoraproject.org/cpe-weekly-update-week-23-2022-2/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Phone upgraded to Debian 12](https://jonathancarter.org/2023/06/09/phone-upgraded-to-debian-12/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Planet Debian rendered with PtLink](https://grep.be/blog//en/computer/ptlink/Planet_Debian_rendered_with_PtLink/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#99 Overlaid Sidebars](https://thisweek.gnome.org/posts/2023/06/twig-99/)
+
 ## 20230609
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1026 人工智能发现了更快的排序算法](https://linux.cn/article-15889-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
