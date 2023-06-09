@@ -1,3 +1,6 @@
+## 20230610
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [解决 Vivaldi 浏览器无法播放 HTML 视频的问题](https://manateelazycat.github.io/linux/2023/06/09/vivaldi-html5-video.html)
+
 ## 20230605
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [最佳代理实践之机场 (2023-06-04)](https://manateelazycat.github.io/proxy/2023/06/04/best-proxy.html)
 

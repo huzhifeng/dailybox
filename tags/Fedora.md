@@ -1,3 +1,7 @@
+## 20230610
+- [Planet Fedora](http://fedoraplanet.org/) | [Jiri Eischmann: Help Us Test Evolution](https://eischmann.wordpress.com/2023/06/09/help-us-test-evolution/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 23 2022](https://communityblog.fedoraproject.org/cpe-weekly-update-week-23-2022-2/)
+
 ## 20230609
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.29, 8.1.20 and 8.2.7](https://blog.remirepo.net/post/2023/06/08/PHP-version-8.0.29-8.1.20-and-8.2.7)
 

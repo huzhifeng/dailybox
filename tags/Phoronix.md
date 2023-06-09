@@ -1,3 +1,8 @@
+## 20230610
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add HuC Loading Support For Intel Meteor Lake](https://www.phoronix.com/news/Linux-6.5-Brings-Intel-MTL-HuC)
+- [Phoronix](https://www.phoronix.com/) | [Intel Updates Cluster Scheduling Linux Patches For Hybrid CPUs](https://www.phoronix.com/news/Intel-Cluster-Sched-Hybrid-V2)
+- [Phoronix](https://www.phoronix.com/) | [Google's Patches To Speed-Up Over-Committed Linux Guest VMs Are Looking Great](https://www.phoronix.com/news/Google-Benchmarks-Heavy-VMs)
+
 ## 20230609
 - [Phoronix](https://www.phoronix.com/) | [JDK 21 Forked From Mainline For What Will Be The Next Java LTS Release](https://www.phoronix.com/news/JDK-21-Forked-From-Mainline)
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon Ice Lake vs. AMD EPYC Milan Server Performance, Efficiency & Value In 2023](https://www.phoronix.com/review/milan-icelake-servers-2023)

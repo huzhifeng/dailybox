@@ -1,3 +1,6 @@
+## 20230610
+- [TED Talks Daily](https://www.ted.com/talks) | [The natural building blocks of sustainable architecture | Michael Green](https://www.ted.com/talks/michael_green_the_natural_building_blocks_of_sustainable_architecture?rss)
+
 ## 20230609
 - [TED Talks Daily](https://www.ted.com/talks) | [The outlaws of the ocean -- and how we're reeling them in | Tony Long](https://www.ted.com/talks/tony_long_the_outlaws_of_the_ocean_and_how_we_re_reeling_them_in?rss)
 

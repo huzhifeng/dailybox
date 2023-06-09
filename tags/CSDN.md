@@ -1,3 +1,9 @@
+## 20230610
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [字节正在内部测试对话类 AI 项目；Deepmind 推出新系统革新排序算法；ChatGPT iOS 应用更新|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131121118)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云计算——云计算关键技术](https://blog.csdn.net/yj11290301/article/details/131094949)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [学生考试作弊检测系统 yolov8](https://blog.csdn.net/KO_159/article/details/131097538)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据挖掘实战】——舆情分析：对微博文本进行情绪分类](https://blog.csdn.net/lxwssjszsdnr_/article/details/130963883)
+
 ## 20230609
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应考生喊话马化腾；库克承认在使用 ChatGPT；OpenHarmony 4.0 Beta1 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131101500)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习强基计划10-3：详解Bagging与随机森林算法(附Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/131041885)

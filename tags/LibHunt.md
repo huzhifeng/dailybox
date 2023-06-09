@@ -1,3 +1,7 @@
+## 20230610
+- [LibHunt](https://www.libhunt.com/) | [kbin](https://www.libhunt.com/r/kbin)
+- [LibHunt](https://www.libhunt.com/) | [Whisky](https://www.libhunt.com/r/Whisky)
+
 ## 20230609
 - [LibHunt](https://www.libhunt.com/) | [PowerDeleteSuite](https://www.libhunt.com/r/PowerDeleteSuite)
 - [LibHunt](https://www.libhunt.com/) | [homebrew-apple](https://www.libhunt.com/r/homebrew-apple)

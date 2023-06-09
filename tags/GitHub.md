@@ -1,3 +1,8 @@
+## 20230610
+- [GitHub中文社区](https://www.githubs.cn/trending) | [MCRcortex/nekodetector](https://github.com/MCRcortex/nekodetector)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xinyu1205/Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+
 ## 20230609
 - [GitHub中文社区](https://www.githubs.cn/trending) | [apple/homebrew-apple](https://github.com/apple/homebrew-apple)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [openchatai/OpenChat](https://github.com/openchatai/OpenChat)

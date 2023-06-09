@@ -1,3 +1,8 @@
+## 20230610
+- [V2EX](https://www.v2ex.com/) | [苹果需要重新设计 Apple Music，太难用了](https://www.v2ex.com/t/947276)
+- [V2EX](https://www.v2ex.com/) | [工作难找要被淘汰了，又不知道去做什么好啊，连网约车都饱和了。。。](https://www.v2ex.com/t/947259)
+- [V2EX](https://www.v2ex.com/) | [摸鱼天团就在身边, 你会怎么办?](https://www.v2ex.com/t/947230)
+
 ## 20230609
 - [V2EX](https://www.v2ex.com/) | [我就喜欢和年长的人聊天，能不能给我一句忠告，让我少走你走过的弯路，谢谢了](https://www.v2ex.com/t/947045)
 - [V2EX](https://www.v2ex.com/) | [亲测有效，合着 19 块开通京东 PLUS，优惠到离谱](https://www.v2ex.com/t/947019)
