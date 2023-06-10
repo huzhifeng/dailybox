@@ -1,3 +1,7 @@
+## 20230611
+- [9to5Linux](https://9to5linux.com/) | [Debian 12 &#8220;Bookworm&#8221; Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/debian-12-bookworm-officially-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.107 Enables Thumbnail Caching on Encrypted Volumes](https://9to5linux.com/kde-frameworks-5-107-enables-thumbnail-caching-on-encyrpted-volumes)
+
 ## 20230610
 - [9to5Linux](https://9to5linux.com/) | [Thunderbird 115 Reaches Beta with Updated UI and Improved OpenPGP Support](https://9to5linux.com/thunderbird-115-reaches-beta-with-updated-ui-and-improved-openpgp-support)
 

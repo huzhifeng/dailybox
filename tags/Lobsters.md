@@ -1,3 +1,8 @@
+## 20230611
+- [Lobsters](https://lobste.rs/) | [Responses to common criticisms of Lisp languages?](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp)
+- [Lobsters](https://lobste.rs/) | [Debian 12 "bookworm" released](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released)
+- [Lobsters](https://lobste.rs/) | [Zig Language Server And Cancellation](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation)
+
 ## 20230610
 - [Lobsters](https://lobste.rs/) | [cube.sed](https://lobste.rs/s/un2nt7/cube_sed)
 - [Lobsters](https://lobste.rs/) | [acme.sh runs arbitrary commands from a remote server](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from)

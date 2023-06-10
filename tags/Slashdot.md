@@ -1,3 +1,7 @@
+## 20230611
+- [Slashdot](https://developers.slashdot.org/) | [Intel Open Sources New 'One Mono' Font for Programmers](https://developers.slashdot.org/story/23/06/10/030224/intel-open-sources-new-one-mono-font-for-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Google's Bard AI Can Now Write and Execute Code To Answer a Question](https://developers.slashdot.org/story/23/06/09/2047241/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230609
 - [Slashdot](https://developers.slashdot.org/) | [Apollo, Popular Reddit App, To Shut Down June 30 Following API Price Surge](https://developers.slashdot.org/story/23/06/08/1742245/apollo-popular-reddit-app-to-shut-down-june-30-following-api-price-surge?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [AI System Devises First Optimizations To Sorting Code In Over a Decade](https://developers.slashdot.org/story/23/06/08/021213/ai-system-devises-first-optimizations-to-sorting-code-in-over-a-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed)

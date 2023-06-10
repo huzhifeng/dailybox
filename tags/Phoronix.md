@@ -1,3 +1,8 @@
+## 20230611
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.0 Released - Powered By Linux 6.1 LTS, Easier Non-Free Firmware Handling](https://www.phoronix.com/news/Debian-12-Released)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA SHIELD Controller Driver Coming With Linux 6.5](https://www.phoronix.com/news/NVIDIA-SHIELD-HID-Driver)
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6 X11 Session "Barely Buggier" Than Plasma 5 On X11](https://www.phoronix.com/news/Plasma-6-X11-Barely-Buggier)
+
 ## 20230610
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add HuC Loading Support For Intel Meteor Lake](https://www.phoronix.com/news/Linux-6.5-Brings-Intel-MTL-HuC)
 - [Phoronix](https://www.phoronix.com/) | [Intel Updates Cluster Scheduling Linux Patches For Hybrid CPUs](https://www.phoronix.com/news/Intel-Cluster-Sched-Hybrid-V2)

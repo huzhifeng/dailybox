@@ -1,3 +1,6 @@
+## 20230611
+- [Product Hunt](https://www.producthunt.com) | [Deepshot](https://www.producthunt.com/posts/deepshot-3)
+
 ## 20230610
 - [Product Hunt](https://www.producthunt.com) | [Factual On-Brand AI Writer](https://www.producthunt.com/posts/factual-on-brand-ai-writer)
 - [Product Hunt](https://www.producthunt.com) | [Pensieve AI](https://www.producthunt.com/posts/pensieve-ai-1)

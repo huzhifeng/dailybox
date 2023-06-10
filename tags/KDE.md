@@ -1,3 +1,6 @@
+## 20230611
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: major plumbing work in Plasma 6](https://pointieststick.com/2023/06/09/this-week-in-kde-major-plumbing-work-in-plasma-6/)
+
 ## 20230604
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: for developers](https://pointieststick.com/2023/06/02/this-week-in-kde-for-developers/)
 
