@@ -1,3 +1,15 @@
+## 20230611
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1028 谷歌 Bard 现在可以自己编写代码来回答问题](https://linux.cn/article-15895-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.0 Released - Powered By Linux 6.1 LTS, Easier Non-Free Firmware Handling](https://www.phoronix.com/news/Debian-12-Released)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA SHIELD Controller Driver Coming With Linux 6.5](https://www.phoronix.com/news/NVIDIA-SHIELD-HID-Driver)
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6 X11 Session "Barely Buggier" Than Plasma 5 On X11](https://www.phoronix.com/news/Plasma-6-X11-Barely-Buggier)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12 &#8220;Bookworm&#8221; Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/debian-12-bookworm-officially-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.107 Enables Thumbnail Caching on Encrypted Volumes](https://9to5linux.com/kde-frameworks-5-107-enables-thumbnail-caching-on-encyrpted-volumes)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 202306101949 - Release of install media - scripts running now](http://flosslinuxblog.blogspot.com/2023/06/202306101949-release-of-install-media.html)
+- [Planet Debian](https://planet.debian.org/) | [Marco d'Itri: On having a track record in operating systems development](https://blog.bofh.it/debian/id_467)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: plocate 1.1.19 released](http://blog.sesse.net/blog/tech/2023-06-10-16-15_plocate_1_1_19_released.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: major plumbing work in Plasma 6](https://pointieststick.com/2023/06/09/this-week-in-kde-major-plumbing-work-in-plasma-6/)
+
 ## 20230610
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1027 Vivaldi 将伪装成 Edge 以让用户使用必应聊天](https://linux.cn/article-15892-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Add HuC Loading Support For Intel Meteor Lake](https://www.phoronix.com/news/Linux-6.5-Brings-Intel-MTL-HuC)

@@ -1,3 +1,8 @@
+## 20230611
+- [V2EX](https://www.v2ex.com/) | [在 pdd 买 mac 靠谱吗？比官网便宜 4k](https://www.v2ex.com/t/947541)
+- [V2EX](https://www.v2ex.com/) | [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532)
+- [V2EX](https://www.v2ex.com/) | [Java 应届生要不要换行](https://www.v2ex.com/t/947515)
+
 ## 20230610
 - [V2EX](https://www.v2ex.com/) | [苹果需要重新设计 Apple Music，太难用了](https://www.v2ex.com/t/947276)
 - [V2EX](https://www.v2ex.com/) | [工作难找要被淘汰了，又不知道去做什么好啊，连网约车都饱和了。。。](https://www.v2ex.com/t/947259)

@@ -1,3 +1,8 @@
+## 20230611
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [reactive-python/reactpy](https://github.com/reactive-python/reactpy)
+
 ## 20230610
 - [GitHub中文社区](https://www.githubs.cn/trending) | [MCRcortex/nekodetector](https://github.com/MCRcortex/nekodetector)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xinyu1205/Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)

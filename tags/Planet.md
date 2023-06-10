@@ -1,3 +1,8 @@
+## 20230611
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 202306101949 - Release of install media - scripts running now](http://flosslinuxblog.blogspot.com/2023/06/202306101949-release-of-install-media.html)
+- [Planet Debian](https://planet.debian.org/) | [Marco d'Itri: On having a track record in operating systems development](https://blog.bofh.it/debian/id_467)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: plocate 1.1.19 released](http://blog.sesse.net/blog/tech/2023-06-10-16-15_plocate_1_1_19_released.html)
+
 ## 20230610
 - [Planet Fedora](http://fedoraplanet.org/) | [Jiri Eischmann: Help Us Test Evolution](https://eischmann.wordpress.com/2023/06/09/help-us-test-evolution/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 23 2022](https://communityblog.fedoraproject.org/cpe-weekly-update-week-23-2022-2/)

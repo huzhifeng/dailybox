@@ -1,3 +1,8 @@
+## 20230611
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [微信小程序——实现蓝牙设备搜索及连接功能](https://blog.csdn.net/hh867308122/article/details/131138562)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【乐观锁与悲观锁】—— 每天一点小知识](https://blog.csdn.net/qq_58035032/article/details/131134250)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring Boot banner详解](https://blog.csdn.net/weixin_40972073/article/details/131116036)
+
 ## 20230610
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [字节正在内部测试对话类 AI 项目；Deepmind 推出新系统革新排序算法；ChatGPT iOS 应用更新|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131121118)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [云计算——云计算关键技术](https://blog.csdn.net/yj11290301/article/details/131094949)
