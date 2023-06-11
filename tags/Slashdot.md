@@ -1,3 +1,7 @@
+## 20230612
+- [Slashdot](https://linux.slashdot.org/) | [Debian 12 'Bookworm' Released](https://linux.slashdot.org/story/23/06/11/0333242/debian-12-bookworm-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Will Productivity Gains from AI-Generated Code Be Offset by the Need to Maintain and Review It?](https://developers.slashdot.org/story/23/06/11/0550239/will-productivity-gains-from-ai-generated-code-be-offset-by-the-need-to-maintain-and-review-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230611
 - [Slashdot](https://developers.slashdot.org/) | [Intel Open Sources New 'One Mono' Font for Programmers](https://developers.slashdot.org/story/23/06/10/030224/intel-open-sources-new-one-mono-font-for-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Google's Bard AI Can Now Write and Execute Code To Answer a Question](https://developers.slashdot.org/story/23/06/09/2047241/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question?utm_source=rss1.0mainlinkanon&utm_medium=feed)

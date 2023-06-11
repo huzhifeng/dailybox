@@ -1,3 +1,8 @@
+## 20230612
+- [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: Private Key Redaction: Redux](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: sanitizers 0.1.1 on CRAN: Updated and Expanded](http://dirk.eddelbuettel.com/blog/2023/06/11#sanitizers_0.1.1)
+- [Planet Debian](https://planet.debian.org/) | [Michael Prokop: What to expect from Debian/bookworm #newinbookworm](https://michael-prokop.at/blog/2023/06/11/what-to-expect-from-debian-bookworm-newinbookworm/)
+
 ## 20230611
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 202306101949 - Release of install media - scripts running now](http://flosslinuxblog.blogspot.com/2023/06/202306101949-release-of-install-media.html)
 - [Planet Debian](https://planet.debian.org/) | [Marco d'Itri: On having a track record in operating systems development](https://blog.bofh.it/debian/id_467)

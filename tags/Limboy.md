@@ -1,3 +1,6 @@
+## 20230612
+- [Limboy](https://limboy.me) | [将糟心事变成习惯的触发器](https://limboy.me/posts/turn-bad-thing-into-trigger/)
+
 ## 20230607
 - [Limboy](https://limboy.me) | [方便的代价](https://limboy.me/posts/the-price-of-convenience/)
 

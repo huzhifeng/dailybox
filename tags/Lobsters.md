@@ -1,3 +1,8 @@
+## 20230612
+- [Lobsters](https://lobste.rs/) | [Rust Module System Encourages Poor Practices (Comparing to Go)](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor)
+- [Lobsters](https://lobste.rs/) | [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command)
+- [Lobsters](https://lobste.rs/) | [History and effective use of Vim](https://lobste.rs/s/geecgb/history_effective_use_vim)
+
 ## 20230611
 - [Lobsters](https://lobste.rs/) | [Responses to common criticisms of Lisp languages?](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp)
 - [Lobsters](https://lobste.rs/) | [Debian 12 "bookworm" released](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released)

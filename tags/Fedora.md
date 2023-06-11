@@ -1,3 +1,6 @@
+## 20230612
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/11/finished-reading-waking.html)
+
 ## 20230610
 - [Planet Fedora](http://fedoraplanet.org/) | [Jiri Eischmann: Help Us Test Evolution](https://eischmann.wordpress.com/2023/06/09/help-us-test-evolution/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 23 2022](https://communityblog.fedoraproject.org/cpe-weekly-update-week-23-2022-2/)

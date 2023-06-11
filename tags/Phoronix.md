@@ -1,3 +1,8 @@
+## 20230612
+- [Phoronix](https://www.phoronix.com/) | [More ACO Code Landing For RadeonSI Gallium3D](https://www.phoronix.com/news/RadeonSI-More-ACO)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Updated For Sapphire Rapids C0.x Idle States](https://www.phoronix.com/news/SPR-C0.1-C0.2-Idle-States-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Venus VirtIO-GPU Driver Adds More Extensions To Help Zink](https://www.phoronix.com/news/Mesa-Venus-Zink)
+
 ## 20230611
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.0 Released - Powered By Linux 6.1 LTS, Easier Non-Free Firmware Handling](https://www.phoronix.com/news/Debian-12-Released)
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA SHIELD Controller Driver Coming With Linux 6.5](https://www.phoronix.com/news/NVIDIA-SHIELD-HID-Driver)

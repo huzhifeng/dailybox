@@ -1,3 +1,8 @@
+## 20230612
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [使用SQL语句创建存储过程](https://blog.csdn.net/qq_67276605/article/details/131114027)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [微信小程序——实现蓝牙设备搜索及连接功能](https://blog.csdn.net/hh867308122/article/details/131138562)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [哈哥的博客阅读指南，一文对接全链路导引 --- 未完待续~](https://blog.csdn.net/weixin_42250835/article/details/131136574)
+
 ## 20230611
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [微信小程序——实现蓝牙设备搜索及连接功能](https://blog.csdn.net/hh867308122/article/details/131138562)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【乐观锁与悲观锁】—— 每天一点小知识](https://blog.csdn.net/qq_58035032/article/details/131134250)
