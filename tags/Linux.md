@@ -1,3 +1,14 @@
+## 20230612
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1029 不太会讲笑话的 ChatGPT](https://linux.cn/article-15898-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [More ACO Code Landing For RadeonSI Gallium3D](https://www.phoronix.com/news/RadeonSI-More-ACO)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Updated For Sapphire Rapids C0.x Idle States](https://www.phoronix.com/news/SPR-C0.1-C0.2-Idle-States-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Venus VirtIO-GPU Driver Adds More Extensions To Help Zink](https://www.phoronix.com/news/Mesa-Venus-Zink)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/11/finished-reading-waking.html)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: Private Key Redaction: Redux](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: sanitizers 0.1.1 on CRAN: Updated and Expanded](http://dirk.eddelbuettel.com/blog/2023/06/11#sanitizers_0.1.1)
+- [Planet Debian](https://planet.debian.org/) | [Michael Prokop: What to expect from Debian/bookworm #newinbookworm](https://michael-prokop.at/blog/2023/06/11/what-to-expect-from-debian-bookworm-newinbookworm/)
+- [Slashdot](https://linux.slashdot.org/) | [Debian 12 'Bookworm' Released](https://linux.slashdot.org/story/23/06/11/0333242/debian-12-bookworm-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230611
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1028 谷歌 Bard 现在可以自己编写代码来回答问题](https://linux.cn/article-15895-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.0 Released - Powered By Linux 6.1 LTS, Easier Non-Free Firmware Handling](https://www.phoronix.com/news/Debian-12-Released)

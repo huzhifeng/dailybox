@@ -1,3 +1,6 @@
+## 20230612
+- [LibHunt](https://www.libhunt.com/) | [save-3rd-party-apps](https://www.libhunt.com/r/save-3rd-party-apps)
+
 ## 20230610
 - [LibHunt](https://www.libhunt.com/) | [kbin](https://www.libhunt.com/r/kbin)
 - [LibHunt](https://www.libhunt.com/) | [Whisky](https://www.libhunt.com/r/Whisky)

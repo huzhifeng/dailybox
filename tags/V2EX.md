@@ -1,3 +1,8 @@
+## 20230612
+- [V2EX](https://www.v2ex.com/) | [可能有点不道德 但我还是想问](https://www.v2ex.com/t/947816)
+- [V2EX](https://www.v2ex.com/) | [那些不能买的产品&品牌](https://www.v2ex.com/t/947776)
+- [V2EX](https://www.v2ex.com/) | [什么岗位越老越吃香，随着年龄和工作年限越来越有价值？](https://www.v2ex.com/t/947754)
+
 ## 20230611
 - [V2EX](https://www.v2ex.com/) | [在 pdd 买 mac 靠谱吗？比官网便宜 4k](https://www.v2ex.com/t/947541)
 - [V2EX](https://www.v2ex.com/) | [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532)

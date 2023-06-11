@@ -1,3 +1,8 @@
+## 20230612
+- [Product Hunt](https://www.producthunt.com) | [250+ ChatGPT Plugins](https://www.producthunt.com/posts/250-chatgpt-plugins)
+- [Product Hunt](https://www.producthunt.com) | [Promptology](https://www.producthunt.com/posts/promptology)
+- [Product Hunt](https://www.producthunt.com) | [Winn](https://www.producthunt.com/posts/winn)
+
 ## 20230611
 - [Product Hunt](https://www.producthunt.com) | [Deepshot](https://www.producthunt.com/posts/deepshot-3)
 

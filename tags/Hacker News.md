@@ -1,3 +1,6 @@
+## 20230612
+- [Hacker News](https://news.ycombinator.com/front) | [Reddit Strike Has Started](https://news.ycombinator.com/item?id=36283249)
+
 ## 20230610
 - [Hacker News](https://news.ycombinator.com/front) | [Archive your Reddit data before it's too late](https://news.ycombinator.com/item?id=36259930)
 

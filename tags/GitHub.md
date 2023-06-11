@@ -1,3 +1,8 @@
+## 20230612
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
 ## 20230611
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
