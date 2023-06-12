@@ -1,3 +1,6 @@
+## 20230613
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #1: Create and Run Your First Bash Shell Script](https://itsfoss.com/create-bash-script/)
+
 ## 20230610
 - [It's FOSS](https://itsfoss.com/) | [10 Best Virtualization Software for Linux](https://itsfoss.com/virtualization-software-linux/)
 

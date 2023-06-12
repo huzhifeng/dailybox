@@ -1,3 +1,6 @@
+## 20230613
+- [TED Talks Daily](https://www.ted.com/talks) | [Why is it so hard to get effective birth control in the US? | Mark Edwards](https://www.ted.com/talks/mark_edwards_why_is_it_so_hard_to_get_effective_birth_control_in_the_us?rss)
+
 ## 20230610
 - [TED Talks Daily](https://www.ted.com/talks) | [The natural building blocks of sustainable architecture | Michael Green](https://www.ted.com/talks/michael_green_the_natural_building_blocks_of_sustainable_architecture?rss)
 

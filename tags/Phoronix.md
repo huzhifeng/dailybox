@@ -1,3 +1,8 @@
+## 20230613
+- [Phoronix](https://www.phoronix.com/) | [AMD Continues Work On Enhancing GPU Support With Xen Virtualization](https://www.phoronix.com/news/AMD-GPU-Xen-Hypervisor-S3)
+- [Phoronix](https://www.phoronix.com/) | [RISC-V KASLR Support For Linux Revised Again](https://www.phoronix.com/news/Linux-RISC-V-KASLR-v3)
+- [Phoronix](https://www.phoronix.com/) | [Linux cpupower Tool Being Extended For AMD P-State Features](https://www.phoronix.com/news/Linux-cpupower-AMD-P-State)
+
 ## 20230612
 - [Phoronix](https://www.phoronix.com/) | [More ACO Code Landing For RadeonSI Gallium3D](https://www.phoronix.com/news/RadeonSI-More-ACO)
 - [Phoronix](https://www.phoronix.com/) | [Linux Patches Updated For Sapphire Rapids C0.x Idle States](https://www.phoronix.com/news/SPR-C0.1-C0.2-Idle-States-Linux)

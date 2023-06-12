@@ -1,3 +1,13 @@
+## 20230613
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1030 超过 80% 的 Reddit 子区关闭](https://linux.cn/article-15900-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Continues Work On Enhancing GPU Support With Xen Virtualization](https://www.phoronix.com/news/AMD-GPU-Xen-Hypervisor-S3)
+- [Phoronix](https://www.phoronix.com/) | [RISC-V KASLR Support For Linux Revised Again](https://www.phoronix.com/news/Linux-RISC-V-KASLR-v3)
+- [Phoronix](https://www.phoronix.com/) | [Linux cpupower Tool Being Extended For AMD P-State Features](https://www.phoronix.com/news/Linux-cpupower-AMD-P-State)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 11th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-11th-2023)
+- [Planet Kernel](https://planet.kernel.org/) | [Paul E. Mc Kenney: Parallel Programming: June 2023 Update](https://paulmck.livejournal.com/69651.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 379 – Will open source save the world, again?](https://opensourcesecurity.io/2023/06/11/episode-379-will-open-source-save-the-world-again/)
+
 ## 20230612
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1029 不太会讲笑话的 ChatGPT](https://linux.cn/article-15898-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [More ACO Code Landing For RadeonSI Gallium3D](https://www.phoronix.com/news/RadeonSI-More-ACO)

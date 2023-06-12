@@ -1,3 +1,8 @@
+## 20230613
+- [Product Hunt](https://www.producthunt.com) | [Duply.co](https://www.producthunt.com/posts/duply-co-2)
+- [Product Hunt](https://www.producthunt.com) | [GetGenie Ai](https://www.producthunt.com/posts/getgenie-ai)
+- [Product Hunt](https://www.producthunt.com) | [Binocs](https://www.producthunt.com/posts/binocs-3)
+
 ## 20230612
 - [Product Hunt](https://www.producthunt.com) | [250+ ChatGPT Plugins](https://www.producthunt.com/posts/250-chatgpt-plugins)
 - [Product Hunt](https://www.producthunt.com) | [Promptology](https://www.producthunt.com/posts/promptology)

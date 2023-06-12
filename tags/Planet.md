@@ -1,3 +1,8 @@
+## 20230613
+- [Planet Kernel](https://planet.kernel.org/) | [Paul E. Mc Kenney: Parallel Programming: June 2023 Update](https://paulmck.livejournal.com/69651.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 379 – Will open source save the world, again?](https://opensourcesecurity.io/2023/06/11/episode-379-will-open-source-save-the-world-again/)
+
 ## 20230612
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/11/finished-reading-waking.html)
 - [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: Private Key Redaction: Redux](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)

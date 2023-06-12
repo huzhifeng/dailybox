@@ -1,3 +1,9 @@
+## 20230613
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [“上4休3”公司不建议新公司模仿；甲骨文组队，欲挑战微软OpenAI组合；Qt Creator 11 Beta发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131162718)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能| Computer Vision 数字化时代的视觉启示录](https://blog.csdn.net/weixin_54174102/article/details/131149685)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Spring】——Spring生命周期](https://blog.csdn.net/m0_63951142/article/details/131150003)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring高手之路4——深度解析Spring内置作用域及其在实践中的应用](https://blog.csdn.net/qq_34115899/article/details/131109608)
+
 ## 20230612
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [使用SQL语句创建存储过程](https://blog.csdn.net/qq_67276605/article/details/131114027)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [微信小程序——实现蓝牙设备搜索及连接功能](https://blog.csdn.net/hh867308122/article/details/131138562)

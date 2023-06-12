@@ -1,3 +1,8 @@
+## 20230613
+- [Lobsters](https://lobste.rs/) | [Why not tell people to "simply" use pyenv, poetry or anaconda](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv)
+- [Lobsters](https://lobste.rs/) | [An America-less Internet](https://lobste.rs/s/21mbed/america_less_internet)
+- [Lobsters](https://lobste.rs/) | [Lisp Game Jam - "Wireworld" in WebAssembly using Spritely's Hoot project](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly)
+
 ## 20230612
 - [Lobsters](https://lobste.rs/) | [Rust Module System Encourages Poor Practices (Comparing to Go)](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor)
 - [Lobsters](https://lobste.rs/) | [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command)
