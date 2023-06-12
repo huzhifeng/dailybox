@@ -1,3 +1,6 @@
+## 20230613
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 11th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-11th-2023)
+
 ## 20230611
 - [9to5Linux](https://9to5linux.com/) | [Debian 12 &#8220;Bookworm&#8221; Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/debian-12-bookworm-officially-released-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.107 Enables Thumbnail Caching on Encrypted Volumes](https://9to5linux.com/kde-frameworks-5-107-enables-thumbnail-caching-on-encyrpted-volumes)

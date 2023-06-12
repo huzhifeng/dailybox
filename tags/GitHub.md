@@ -1,3 +1,9 @@
+## 20230613
+- [GitHub中文社区](https://www.githubs.cn/trending) | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
+
 ## 20230612
 - [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)

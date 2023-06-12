@@ -1,3 +1,7 @@
+## 20230613
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 379 – Will open source save the world, again?](https://opensourcesecurity.io/2023/06/11/episode-379-will-open-source-save-the-world-again/)
+
 ## 20230612
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/06/11/finished-reading-waking.html)
 
