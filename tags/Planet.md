@@ -1,3 +1,8 @@
+## 20230614
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng 4.2: extra UDP performance](https://peter.czanik.hu/other/syslog-ng-42-extra-udp-performance/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Linux 38 election results](https://communityblog.fedoraproject.org/fedora-linux-38-election-results/)
+
 ## 20230613
 - [Planet Kernel](https://planet.kernel.org/) | [Paul E. Mc Kenney: Parallel Programming: June 2023 Update](https://paulmck.livejournal.com/69651.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)

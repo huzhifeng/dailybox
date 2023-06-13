@@ -1,3 +1,6 @@
+## 20230614
+- [OMG! Linux](https://www.omglinux.com/) | [Debian 13 Gets Codename, Plans Official Support for RISC-V](https://www.omglinux.com/debian-13-codename-is-trixie/)
+
 ## 20230609
 - [OMG! Linux](https://www.omglinux.com/) | [Using ChatGPT from the Command Line is Easy on Linux](https://www.omglinux.com/chatgpt-command-line/)
 

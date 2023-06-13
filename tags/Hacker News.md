@@ -1,3 +1,8 @@
+## 20230614
+- [Hacker News](https://news.ycombinator.com/front) | [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
+- [Hacker News](https://news.ycombinator.com/front) | [Comic Mono](https://news.ycombinator.com/item?id=36312200)
+- [Hacker News](https://news.ycombinator.com/front) | [Rewriting the Ruby parser](https://news.ycombinator.com/item?id=36310130)
+
 ## 20230613
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://news.ycombinator.com/item?id=36296695)
 - [Hacker News](https://news.ycombinator.com/front) | [Edge sends images you view online to Microsoft](https://news.ycombinator.com/item?id=36295364)

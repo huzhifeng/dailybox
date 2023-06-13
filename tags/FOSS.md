@@ -1,3 +1,6 @@
+## 20230614
+- [It's FOSS](https://itsfoss.com/) | [Using head Command in Linux](https://itsfoss.com/head-command/)
+
 ## 20230613
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #1: Create and Run Your First Bash Shell Script](https://itsfoss.com/create-bash-script/)
 

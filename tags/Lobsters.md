@@ -1,3 +1,8 @@
+## 20230614
+- [Lobsters](https://lobste.rs/) | [WASI socket extensions for Go 1.21](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21)
+- [Lobsters](https://lobste.rs/) | [Rewriting the Ruby parser](https://lobste.rs/s/1y78kf/rewriting_ruby_parser)
+- [Lobsters](https://lobste.rs/) | [GHC Language Extensions Compatibility](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility)
+
 ## 20230613
 - [Lobsters](https://lobste.rs/) | [Why not tell people to "simply" use pyenv, poetry or anaconda](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv)
 - [Lobsters](https://lobste.rs/) | [An America-less Internet](https://lobste.rs/s/21mbed/america_less_internet)

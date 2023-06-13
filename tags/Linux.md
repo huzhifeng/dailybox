@@ -1,3 +1,19 @@
+## 20230614
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1031 西数 NAS 硬盘因三年老化警告引发用户恐慌和愤怒](https://linux.cn/article-15903-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to monitor Quarkus native executables with JFR](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
+- [Red Hat Developer](https://developers.redhat.com/) | [Improvements to Native Image JFR support in GraalVM for JDK 20](https://developers.redhat.com/articles/2023/06/13/improvements-native-image-jfr-support-graalvm-jdk-20)
+- [Phoronix](https://www.phoronix.com/) | [RADV Ray-Tracing Enabled By Default For Mesa 23.2](https://www.phoronix.com/news/RADV-RT-Default-Mesa-23.2)
+- [Phoronix](https://www.phoronix.com/) | [AMD Talks Up Open-Source Software For AI, Introduces Instinct MI300X](https://www.phoronix.com/news/AMD-Instinct-MI300X-AI)
+- [Phoronix](https://www.phoronix.com/) | [AMD Uses AI Day To Launch Genoa-X & Bergamo](https://www.phoronix.com/news/AMD-Launches-Bergamo-Genoa-X)
+- [9to5Linux](https://9to5linux.com/) | [Ultramarine Linux 38 Launches with System76&#8217;s Scheduler, Based on Fedora 38](https://9to5linux.com/ultramarine-linux-38-launches-with-system76s-scheduler-based-on-fedora-38)
+- [9to5Linux](https://9to5linux.com/) | [Tails 5.14 Brings Automatic LUKS2 Migration, Captive Portal Detection](https://9to5linux.com/tails-5-14-brings-automatic-luks2-migration-captive-portal-detection)
+- [9to5Linux](https://9to5linux.com/) | [First Look at risiOS: Fedora Linux Remix with a Few Tricks Under Its Sleeve](https://9to5linux.com/first-look-at-risios-fedora-linux-remix-with-a-few-tricks-under-its-sleeve)
+- [OMG! Linux](https://www.omglinux.com/) | [Debian 13 Gets Codename, Plans Official Support for RISC-V](https://www.omglinux.com/debian-13-codename-is-trixie/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng 4.2: extra UDP performance](https://peter.czanik.hu/other/syslog-ng-42-extra-udp-performance/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Linux 38 election results](https://communityblog.fedoraproject.org/fedora-linux-38-election-results/)
+- [This week in KDE](https://pointieststick.com/) | [Tips & tricks: handwritten signatures in Okular](https://pointieststick.com/2023/06/13/tips-tricks-handwritten-signatures-in-okular/)
+
 ## 20230613
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1030 超过 80% 的 Reddit 子区关闭](https://linux.cn/article-15900-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Continues Work On Enhancing GPU Support With Xen Virtualization](https://www.phoronix.com/news/AMD-GPU-Xen-Hypervisor-S3)
