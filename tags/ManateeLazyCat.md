@@ -1,3 +1,6 @@
+## 20230614
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [EAF 音乐更新](https://manateelazycat.github.io/emacs/eaf/2023/06/13/eaf-music.html)
+
 ## 20230610
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [解决 Vivaldi 浏览器无法播放 HTML 视频的问题](https://manateelazycat.github.io/linux/2023/06/09/vivaldi-html5-video.html)
 

@@ -1,3 +1,6 @@
+## 20230614
+- [This week in KDE](https://pointieststick.com/) | [Tips & tricks: handwritten signatures in Okular](https://pointieststick.com/2023/06/13/tips-tricks-handwritten-signatures-in-okular/)
+
 ## 20230611
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: major plumbing work in Plasma 6](https://pointieststick.com/2023/06/09/this-week-in-kde-major-plumbing-work-in-plasma-6/)
 

@@ -1,3 +1,6 @@
+## 20230614
+- [TED Talks Daily](https://www.ted.com/talks) | ["STILL C U" / "Figures" | Jessie Reyez](https://www.ted.com/talks/jessie_reyez_still_c_u_figures?rss)
+
 ## 20230613
 - [TED Talks Daily](https://www.ted.com/talks) | [Why is it so hard to get effective birth control in the US? | Mark Edwards](https://www.ted.com/talks/mark_edwards_why_is_it_so_hard_to_get_effective_birth_control_in_the_us?rss)
 

@@ -1,3 +1,7 @@
+## 20230614
+- [Red Hat Developer](https://developers.redhat.com/) | [How to monitor Quarkus native executables with JFR](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
+- [Red Hat Developer](https://developers.redhat.com/) | [Improvements to Native Image JFR support in GraalVM for JDK 20](https://developers.redhat.com/articles/2023/06/13/improvements-native-image-jfr-support-graalvm-jdk-20)
+
 ## 20230608
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploy Quarkus applications directly to OpenShift using S2I](https://developers.redhat.com/articles/2023/06/07/deploy-quarkus-applications-openshift-s2i)
 

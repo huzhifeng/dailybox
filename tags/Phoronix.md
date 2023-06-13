@@ -1,3 +1,8 @@
+## 20230614
+- [Phoronix](https://www.phoronix.com/) | [RADV Ray-Tracing Enabled By Default For Mesa 23.2](https://www.phoronix.com/news/RADV-RT-Default-Mesa-23.2)
+- [Phoronix](https://www.phoronix.com/) | [AMD Talks Up Open-Source Software For AI, Introduces Instinct MI300X](https://www.phoronix.com/news/AMD-Instinct-MI300X-AI)
+- [Phoronix](https://www.phoronix.com/) | [AMD Uses AI Day To Launch Genoa-X & Bergamo](https://www.phoronix.com/news/AMD-Launches-Bergamo-Genoa-X)
+
 ## 20230613
 - [Phoronix](https://www.phoronix.com/) | [AMD Continues Work On Enhancing GPU Support With Xen Virtualization](https://www.phoronix.com/news/AMD-GPU-Xen-Hypervisor-S3)
 - [Phoronix](https://www.phoronix.com/) | [RISC-V KASLR Support For Linux Revised Again](https://www.phoronix.com/news/Linux-RISC-V-KASLR-v3)

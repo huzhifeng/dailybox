@@ -1,3 +1,8 @@
+## 20230614
+- [V2EX](https://www.v2ex.com/) | [外省上班已经交了社保，但是家乡村里一直催交农村合作医疗](https://www.v2ex.com/t/948312)
+- [V2EX](https://www.v2ex.com/) | [你们不觉得产品经理这活，应该由程序员自己亲自干吗？](https://www.v2ex.com/t/948294)
+- [V2EX](https://www.v2ex.com/) | [怎么帮老爸要破产老板拖欠的工资](https://www.v2ex.com/t/948207)
+
 ## 20230613
 - [V2EX](https://www.v2ex.com/) | [毕业旅行和女朋友去新疆，跟小团游有什么注意事项？](https://www.v2ex.com/t/947942)
 - [V2EX](https://www.v2ex.com/) | [求助！楼上的住户总是关我家水表阀门](https://www.v2ex.com/t/947926)

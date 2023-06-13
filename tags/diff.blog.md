@@ -1,3 +1,6 @@
+## 20230614
+- [diff.blog](https://diff.blog/) | [Function calling and other API updates](https://diff.blog/post/function-calling-and-other-api-updates-141351/)
+
 ## 20230608
 - [diff.blog](https://diff.blog/) | [SICP in Emacs](https://diff.blog/post/sicp-in-emacs-140867/)
 - [diff.blog](https://diff.blog/) | [AlphaDev discovers faster sorting algorithms](https://diff.blog/post/alphadev-discovers-faster-sorting-algorithms-140847/)

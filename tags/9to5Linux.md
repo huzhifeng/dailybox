@@ -1,3 +1,8 @@
+## 20230614
+- [9to5Linux](https://9to5linux.com/) | [Ultramarine Linux 38 Launches with System76&#8217;s Scheduler, Based on Fedora 38](https://9to5linux.com/ultramarine-linux-38-launches-with-system76s-scheduler-based-on-fedora-38)
+- [9to5Linux](https://9to5linux.com/) | [Tails 5.14 Brings Automatic LUKS2 Migration, Captive Portal Detection](https://9to5linux.com/tails-5-14-brings-automatic-luks2-migration-captive-portal-detection)
+- [9to5Linux](https://9to5linux.com/) | [First Look at risiOS: Fedora Linux Remix with a Few Tricks Under Its Sleeve](https://9to5linux.com/first-look-at-risios-fedora-linux-remix-with-a-few-tricks-under-its-sleeve)
+
 ## 20230613
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 11th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-11th-2023)
 
