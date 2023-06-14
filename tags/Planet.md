@@ -1,3 +1,10 @@
+## 20230615
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration for LPC 2023 is almost here](https://lpc.events/blog/current/index.php/2023/06/14/registration-for-lpc-2023-is-almost-here/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: CLUG Talk: Running Debian on a 100Gbps router](https://jonathancarter.org/2023/06/14/clug-talk-running-debian-on-a-100gbps-router/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Not Use …](https://etbe.coker.com.au/2023/06/15/do-not-use/)
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: htop on stage in the theatre](http://sven.stormbind.net/blog/posts/misc_htop_in_the_theatre/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How we improved testing Ubuntu on WSL – and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl)
+
 ## 20230614
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Networking upgrades](https://status.fedoraproject.org/2023-06-13-network-upgrades.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Syslog-ng 4.2: extra UDP performance](https://peter.czanik.hu/other/syslog-ng-42-extra-udp-performance/)

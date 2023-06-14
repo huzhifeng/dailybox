@@ -1,3 +1,9 @@
+## 20230615
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [余承东回应高通对华为恢复 5G 芯片供应；ChatGPT 发布重要更新；微软推出免费 AI 入门课|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131201946)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [耗时3个月，线下访谈30+ csdn大佬，规划出了我的云原生学习路线](https://blog.csdn.net/wisdom_futrue/article/details/131191717)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络之—网络故障](https://blog.csdn.net/weixin_36755535/article/details/131175410)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机网络-网络体系结构](https://blog.csdn.net/st200112266/article/details/131197173)
+
 ## 20230614
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [蔚来全系降价3万元，取消终身免费换电；GPT-4两句话复刻DeepMind最快排序算法？Node.js20.3.0发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131182058)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能| Computer Vision 数字化时代的视觉启示录](https://blog.csdn.net/weixin_54174102/article/details/131149685)

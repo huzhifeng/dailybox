@@ -1,3 +1,8 @@
+## 20230615
+- [Product Hunt](https://www.producthunt.com) | [Superpowered AI](https://www.producthunt.com/posts/superpowered-ai-2)
+- [Product Hunt](https://www.producthunt.com) | [Scalenut](https://www.producthunt.com/posts/scalenut-2)
+- [Product Hunt](https://www.producthunt.com) | [Greenifs.ai](https://www.producthunt.com/posts/greenifs-ai)
+
 ## 20230614
 - [Product Hunt](https://www.producthunt.com) | [Coda AI](https://www.producthunt.com/posts/coda-ai)
 - [Product Hunt](https://www.producthunt.com) | [Mikrolo](https://www.producthunt.com/posts/mikrolo)

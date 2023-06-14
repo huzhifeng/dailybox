@@ -1,3 +1,17 @@
+## 20230615
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1032 伊朗把 FPGA 开发板“变成了”量子设备](https://linux.cn/article-15906-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Publishes Initial openSIL Open-Source CPU Silicon Initialization Code](https://www.phoronix.com/news/AMD-openSIL-Published)
+- [Phoronix](https://www.phoronix.com/) | [It's Recommended To Avoid Using The Open-Source NVIDIA Driver On Linux 6.3](https://www.phoronix.com/news/Avoid-Nouveau-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [LibreOffice 7.6 Beta Available For This Excellent Open-Source Office Suite](https://www.phoronix.com/news/LibreOffice-7.6-Beta-1)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.10 &#8220;Kinetic Kudu&#8221; to Reach End of Life on July 20th, 2023](https://9to5linux.com/ubuntu-22-10-kinetic-kudu-to-reach-end-of-life-on-july-20th-2023)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.54.03 Linux Graphics Driver Released with Better Wayland Support](https://9to5linux.com/nvidia-535-54-03-linux-graphics-driver-released-with-better-wayland-support)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration for LPC 2023 is almost here](https://lpc.events/blog/current/index.php/2023/06/14/registration-for-lpc-2023-is-almost-here/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: CLUG Talk: Running Debian on a 100Gbps router](https://jonathancarter.org/2023/06/14/clug-talk-running-debian-on-a-100gbps-router/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Not Use …](https://etbe.coker.com.au/2023/06/15/do-not-use/)
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: htop on stage in the theatre](http://sven.stormbind.net/blog/posts/misc_htop_in_the_theatre/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How we improved testing Ubuntu on WSL – and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl)
+- [This week in KDE](https://pointieststick.com/) | [Call to Action: Easy porting opportunity in Plasma](https://pointieststick.com/2023/06/14/call-to-action-easy-porting-opportunity-in-plasma/)
+
 ## 20230614
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1031 西数 NAS 硬盘因三年老化警告引发用户恐慌和愤怒](https://linux.cn/article-15903-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to monitor Quarkus native executables with JFR](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)

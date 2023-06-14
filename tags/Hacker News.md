@@ -1,3 +1,7 @@
+## 20230615
+- [Hacker News](https://news.ycombinator.com/front) | [New York State Senate passes prohibitions on non-competes](https://news.ycombinator.com/item?id=36329483)
+- [Hacker News](https://news.ycombinator.com/front) | [I booted Linux 293k times in 21 hours](https://news.ycombinator.com/item?id=36325986)
+
 ## 20230614
 - [Hacker News](https://news.ycombinator.com/front) | [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
 - [Hacker News](https://news.ycombinator.com/front) | [Comic Mono](https://news.ycombinator.com/item?id=36312200)

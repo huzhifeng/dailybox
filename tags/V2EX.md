@@ -1,3 +1,8 @@
+## 20230615
+- [V2EX](https://www.v2ex.com/) | [猛然发现， Linux 这些年进步迅速啊。Windows 的原有市场在慢慢被蚕食。。](https://www.v2ex.com/t/948683)
+- [V2EX](https://www.v2ex.com/) | [是时候该换掉你的 axios 了](https://www.v2ex.com/t/948621)
+- [V2EX](https://www.v2ex.com/) | [过了 MFI 认证的 the Apple Find My network 产品，活动价格 29](https://www.v2ex.com/t/948578)
+
 ## 20230614
 - [V2EX](https://www.v2ex.com/) | [外省上班已经交了社保，但是家乡村里一直催交农村合作医疗](https://www.v2ex.com/t/948312)
 - [V2EX](https://www.v2ex.com/) | [你们不觉得产品经理这活，应该由程序员自己亲自干吗？](https://www.v2ex.com/t/948294)
