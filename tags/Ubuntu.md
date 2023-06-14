@@ -1,3 +1,6 @@
+## 20230615
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How we improved testing Ubuntu on WSL – and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl)
+
 ## 20230609
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E250 Cups Lock](https://podcastubuntuportugal.org/e250/)
 

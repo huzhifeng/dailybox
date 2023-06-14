@@ -1,3 +1,8 @@
+## 20230615
+- [Phoronix](https://www.phoronix.com/) | [AMD Publishes Initial openSIL Open-Source CPU Silicon Initialization Code](https://www.phoronix.com/news/AMD-openSIL-Published)
+- [Phoronix](https://www.phoronix.com/) | [It's Recommended To Avoid Using The Open-Source NVIDIA Driver On Linux 6.3](https://www.phoronix.com/news/Avoid-Nouveau-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [LibreOffice 7.6 Beta Available For This Excellent Open-Source Office Suite](https://www.phoronix.com/news/LibreOffice-7.6-Beta-1)
+
 ## 20230614
 - [Phoronix](https://www.phoronix.com/) | [RADV Ray-Tracing Enabled By Default For Mesa 23.2](https://www.phoronix.com/news/RADV-RT-Default-Mesa-23.2)
 - [Phoronix](https://www.phoronix.com/) | [AMD Talks Up Open-Source Software For AI, Introduces Instinct MI300X](https://www.phoronix.com/news/AMD-Instinct-MI300X-AI)

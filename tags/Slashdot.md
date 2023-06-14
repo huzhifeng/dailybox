@@ -1,3 +1,6 @@
+## 20230615
+- [Slashdot](https://developers.slashdot.org/) | [Google Home's Script Editor Is Now Live](https://developers.slashdot.org/story/23/06/13/2143218/google-homes-script-editor-is-now-live?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230613
 - [Slashdot](https://developers.slashdot.org/) | [Will Submerging Computers Make Data Centers More Climate Friendly?](https://developers.slashdot.org/story/23/06/12/036218/will-submerging-computers-make-data-centers-more-climate-friendly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,7 @@
+## 20230615
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.10 &#8220;Kinetic Kudu&#8221; to Reach End of Life on July 20th, 2023](https://9to5linux.com/ubuntu-22-10-kinetic-kudu-to-reach-end-of-life-on-july-20th-2023)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.54.03 Linux Graphics Driver Released with Better Wayland Support](https://9to5linux.com/nvidia-535-54-03-linux-graphics-driver-released-with-better-wayland-support)
+
 ## 20230614
 - [9to5Linux](https://9to5linux.com/) | [Ultramarine Linux 38 Launches with System76&#8217;s Scheduler, Based on Fedora 38](https://9to5linux.com/ultramarine-linux-38-launches-with-system76s-scheduler-based-on-fedora-38)
 - [9to5Linux](https://9to5linux.com/) | [Tails 5.14 Brings Automatic LUKS2 Migration, Captive Portal Detection](https://9to5linux.com/tails-5-14-brings-automatic-luks2-migration-captive-portal-detection)

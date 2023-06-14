@@ -1,3 +1,7 @@
+## 20230615
+- [LibHunt](https://www.libhunt.com/) | [fractureiser](https://www.libhunt.com/r/fractureiser)
+- [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)
+
 ## 20230614
 - [LibHunt](https://www.libhunt.com/) | [bytebase.com](https://www.libhunt.com/r/bytebase.com)
 

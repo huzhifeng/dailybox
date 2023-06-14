@@ -1,3 +1,8 @@
+## 20230615
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: CLUG Talk: Running Debian on a 100Gbps router](https://jonathancarter.org/2023/06/14/clug-talk-running-debian-on-a-100gbps-router/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Do Not Use …](https://etbe.coker.com.au/2023/06/15/do-not-use/)
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: htop on stage in the theatre](http://sven.stormbind.net/blog/posts/misc_htop_in_the_theatre/)
+
 ## 20230612
 - [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: Private Key Redaction: Redux](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: sanitizers 0.1.1 on CRAN: Updated and Expanded](http://dirk.eddelbuettel.com/blog/2023/06/11#sanitizers_0.1.1)

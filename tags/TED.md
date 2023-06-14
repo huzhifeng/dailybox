@@ -1,3 +1,6 @@
+## 20230615
+- [TED Talks Daily](https://www.ted.com/talks) | [The next global superpower isn't who you think | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_next_global_superpower_isn_t_who_you_think?rss)
+
 ## 20230614
 - [TED Talks Daily](https://www.ted.com/talks) | ["STILL C U" / "Figures" | Jessie Reyez](https://www.ted.com/talks/jessie_reyez_still_c_u_figures?rss)
 

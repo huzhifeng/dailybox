@@ -1,3 +1,6 @@
+## 20230615
+- [This week in KDE](https://pointieststick.com/) | [Call to Action: Easy porting opportunity in Plasma](https://pointieststick.com/2023/06/14/call-to-action-easy-porting-opportunity-in-plasma/)
+
 ## 20230614
 - [This week in KDE](https://pointieststick.com/) | [Tips & tricks: handwritten signatures in Okular](https://pointieststick.com/2023/06/13/tips-tricks-handwritten-signatures-in-okular/)
 
