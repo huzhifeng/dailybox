@@ -1,3 +1,6 @@
+## 20230616
+- [diff.blog](https://diff.blog/) | [Building an out-of-tree Rust Kernel Module Part Three](https://diff.blog/post/building-an-out-of-tree-rust-kernel-module-part-three-141470/)
+
 ## 20230614
 - [diff.blog](https://diff.blog/) | [Function calling and other API updates](https://diff.blog/post/function-calling-and-other-api-updates-141351/)
 

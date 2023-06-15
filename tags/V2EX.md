@@ -1,3 +1,8 @@
+## 20230616
+- [V2EX](https://www.v2ex.com/) | [备受程序员关注的 996.icu 后续来了：圆满解决！](https://www.v2ex.com/t/949073)
+- [V2EX](https://www.v2ex.com/) | [终于知道为什么 996.icu 从 19 年底就没人合并更新了](https://www.v2ex.com/t/949048)
+- [V2EX](https://www.v2ex.com/) | [今天看朋友失业金才知道我被单位坑了，靠](https://www.v2ex.com/t/948935)
+
 ## 20230615
 - [V2EX](https://www.v2ex.com/) | [猛然发现， Linux 这些年进步迅速啊。Windows 的原有市场在慢慢被蚕食。。](https://www.v2ex.com/t/948683)
 - [V2EX](https://www.v2ex.com/) | [是时候该换掉你的 axios 了](https://www.v2ex.com/t/948621)

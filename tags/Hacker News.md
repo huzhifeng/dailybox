@@ -1,3 +1,7 @@
+## 20230616
+- [Hacker News](https://news.ycombinator.com/front) | [Sequence diagrams, the only good thing UML brought to software development](https://news.ycombinator.com/item?id=36342931)
+- [Hacker News](https://news.ycombinator.com/front) | [Our Plan for Python 3.13](https://news.ycombinator.com/item?id=36339777)
+
 ## 20230615
 - [Hacker News](https://news.ycombinator.com/front) | [New York State Senate passes prohibitions on non-competes](https://news.ycombinator.com/item?id=36329483)
 - [Hacker News](https://news.ycombinator.com/front) | [I booted Linux 293k times in 21 hours](https://news.ycombinator.com/item?id=36325986)

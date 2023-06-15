@@ -1,3 +1,6 @@
+## 20230616
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [比尔·盖茨到达北京；印度要求中国手机品牌高管应为印籍；Android 14 Beta 3 推出|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131221095)
+
 ## 20230615
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [余承东回应高通对华为恢复 5G 芯片供应；ChatGPT 发布重要更新；微软推出免费 AI 入门课|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131201946)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [耗时3个月，线下访谈30+ csdn大佬，规划出了我的云原生学习路线](https://blog.csdn.net/wisdom_futrue/article/details/131191717)

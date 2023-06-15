@@ -1,3 +1,8 @@
+## 20230616
+- [Product Hunt](https://www.producthunt.com) | [Masthead Data](https://www.producthunt.com/posts/masthead-data)
+- [Product Hunt](https://www.producthunt.com) | [Hotjar AI for Surveys](https://www.producthunt.com/posts/hotjar-ai-for-surveys)
+- [Product Hunt](https://www.producthunt.com) | [AlphaCTR](https://www.producthunt.com/posts/alphactr)
+
 ## 20230615
 - [Product Hunt](https://www.producthunt.com) | [Superpowered AI](https://www.producthunt.com/posts/superpowered-ai-2)
 - [Product Hunt](https://www.producthunt.com) | [Scalenut](https://www.producthunt.com/posts/scalenut-2)

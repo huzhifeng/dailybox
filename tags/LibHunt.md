@@ -1,3 +1,6 @@
+## 20230616
+- [LibHunt](https://www.libhunt.com/) | [audiocraft](https://www.libhunt.com/r/audiocraft)
+
 ## 20230615
 - [LibHunt](https://www.libhunt.com/) | [fractureiser](https://www.libhunt.com/r/fractureiser)
 - [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)

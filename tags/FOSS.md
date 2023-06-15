@@ -1,3 +1,6 @@
+## 20230616
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.24: Free Book, Debian 12 Release, New Bash Series [Anniversary Special]](https://itsfoss.com/newsletter/foss-weekly-23-24/)
+
 ## 20230614
 - [It's FOSS](https://itsfoss.com/) | [Using head Command in Linux](https://itsfoss.com/head-command/)
 

@@ -1,3 +1,6 @@
+## 20230616
+- [Limboy](https://limboy.me) | [我的理想住所](https://limboy.me/posts/my-ideal-residence/)
+
 ## 20230612
 - [Limboy](https://limboy.me) | [将糟心事变成习惯的触发器](https://limboy.me/posts/turn-bad-thing-into-trigger/)
 
