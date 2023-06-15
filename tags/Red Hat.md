@@ -1,3 +1,9 @@
+## 20230616
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Streamlined Kubernetes cluster management: Introducing Red Hat Advanced Cluster Management 2.8](https://www.redhat.com/en/blog/streamlined-kubernetes-cluster-management-introducing-red-hat-advanced-cluster-management-28)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible to create a VM on Azure via workflow](https://developers.redhat.com/articles/2023/06/15/how-use-ansible-create-vm-azure-workflow)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible to create a VM on Azure](https://developers.redhat.com/articles/2023/06/15/how-use-ansible-create-vm-azure)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to automate VM creation on Azure with Ansible CLI](https://developers.redhat.com/articles/2023/06/15/how-automate-vm-creation-azure-ansible-cli)
+
 ## 20230614
 - [Red Hat Developer](https://developers.redhat.com/) | [How to monitor Quarkus native executables with JFR](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
 - [Red Hat Developer](https://developers.redhat.com/) | [Improvements to Native Image JFR support in GraalVM for JDK 20](https://developers.redhat.com/articles/2023/06/13/improvements-native-image-jfr-support-graalvm-jdk-20)

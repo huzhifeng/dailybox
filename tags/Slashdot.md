@@ -1,3 +1,6 @@
+## 20230616
+- [Slashdot](https://developers.slashdot.org/) | [92% of Programmers Are Using AI Tools, Says GitHub Developer Survey](https://developers.slashdot.org/story/23/06/15/0445230/92-of-programmers-are-using-ai-tools-says-github-developer-survey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230615
 - [Slashdot](https://developers.slashdot.org/) | [Google Home's Script Editor Is Now Live](https://developers.slashdot.org/story/23/06/13/2143218/google-homes-script-editor-is-now-live?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

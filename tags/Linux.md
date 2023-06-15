@@ -1,3 +1,19 @@
+## 20230616
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1033 安卓开源项目将不是一个完整的开源移动操作系统](https://linux.cn/article-15910-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Streamlined Kubernetes cluster management: Introducing Red Hat Advanced Cluster Management 2.8](https://www.redhat.com/en/blog/streamlined-kubernetes-cluster-management-introducing-red-hat-advanced-cluster-management-28)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible to create a VM on Azure via workflow](https://developers.redhat.com/articles/2023/06/15/how-use-ansible-create-vm-azure-workflow)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible to create a VM on Azure](https://developers.redhat.com/articles/2023/06/15/how-use-ansible-create-vm-azure)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to automate VM creation on Azure with Ansible CLI](https://developers.redhat.com/articles/2023/06/15/how-automate-vm-creation-azure-ansible-cli)
+- [Phoronix](https://www.phoronix.com/) | [Running Linux On The ASUS ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces "Biggest Brand Update" For Core CPUs](https://www.phoronix.com/news/Intel-Core-Ultra-Brand)
+- [Phoronix](https://www.phoronix.com/) | [Qt 6.6 Beta Released With New Qt Graphs Module, Text To Speech Improvements](https://www.phoronix.com/news/Qt-6.6-Beta)
+- [Planet Fedora](http://fedoraplanet.org/) | [Gary Benson: Use stdbuf to tee without buffering](https://gbenson.net/stdbuf-tee-without-buffering/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Casper: Commande Podman](https://casperlefantom.net/post/2023/06/15/commande-podman/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Ayisha, Manju Warrier, Debutsav, Books](https://flossexperiences.wordpress.com/2023/06/16/ayisha-manju-warrier-debutsav-books/)
+- [Planet Debian](https://planet.debian.org/) | [Thomas Lange: 20.000 customized images created by the FAI.me build service](http://blog.fai-project.org/posts/faime-20000/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: containers as first-class network citizens](https://jmtd.net/log/podman_network/)
+
 ## 20230615
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1032 伊朗把 FPGA 开发板“变成了”量子设备](https://linux.cn/article-15906-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Publishes Initial openSIL Open-Source CPU Silicon Initialization Code](https://www.phoronix.com/news/AMD-openSIL-Published)

@@ -1,3 +1,8 @@
+## 20230616
+- [Lobsters](https://lobste.rs/) | [The quest for a Secure and Accessible Desktop](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop)
+- [Lobsters](https://lobste.rs/) | [Tindall On Software Delays](https://lobste.rs/s/guh9t9/tindall_on_software_delays)
+- [Lobsters](https://lobste.rs/) | [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your)
+
 ## 20230615
 - [Lobsters](https://lobste.rs/) | [I booted Linux 292,612 times](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times)
 - [Lobsters](https://lobste.rs/) | [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)

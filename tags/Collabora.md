@@ -1,3 +1,6 @@
+## 20230616
+- [Collabora](https://www.collabora.com/news-and-blog/) | [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
+
 ## 20230609
 - [Collabora](https://www.collabora.com/news-and-blog/) | [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
 

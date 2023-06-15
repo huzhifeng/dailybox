@@ -1,3 +1,6 @@
+## 20230616
+- [TED Talks Daily](https://www.ted.com/talks) | [How to weave a cultural legacy through storytelling | Cohen Bradley](https://www.ted.com/talks/cohen_bradley_how_to_weave_a_cultural_legacy_through_storytelling?rss)
+
 ## 20230615
 - [TED Talks Daily](https://www.ted.com/talks) | [The next global superpower isn't who you think | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_next_global_superpower_isn_t_who_you_think?rss)
 

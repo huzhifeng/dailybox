@@ -1,3 +1,8 @@
+## 20230616
+- [Phoronix](https://www.phoronix.com/) | [Running Linux On The ASUS ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces "Biggest Brand Update" For Core CPUs](https://www.phoronix.com/news/Intel-Core-Ultra-Brand)
+- [Phoronix](https://www.phoronix.com/) | [Qt 6.6 Beta Released With New Qt Graphs Module, Text To Speech Improvements](https://www.phoronix.com/news/Qt-6.6-Beta)
+
 ## 20230615
 - [Phoronix](https://www.phoronix.com/) | [AMD Publishes Initial openSIL Open-Source CPU Silicon Initialization Code](https://www.phoronix.com/news/AMD-openSIL-Published)
 - [Phoronix](https://www.phoronix.com/) | [It's Recommended To Avoid Using The Open-Source NVIDIA Driver On Linux 6.3](https://www.phoronix.com/news/Avoid-Nouveau-Linux-6.3)
