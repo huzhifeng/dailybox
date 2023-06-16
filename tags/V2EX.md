@@ -1,3 +1,8 @@
+## 20230617
+- [V2EX](https://www.v2ex.com/) | [8 年 iOS，一时冲动，直接裸辞了，面试机会都没有](https://www.v2ex.com/t/949346)
+- [V2EX](https://www.v2ex.com/) | [你弃用 Firefox 的原因是？](https://www.v2ex.com/t/949337)
+- [V2EX](https://www.v2ex.com/) | [5000 块以内的组装机都是垃圾，不服来辩](https://www.v2ex.com/t/949308)
+
 ## 20230616
 - [V2EX](https://www.v2ex.com/) | [备受程序员关注的 996.icu 后续来了：圆满解决！](https://www.v2ex.com/t/949073)
 - [V2EX](https://www.v2ex.com/) | [终于知道为什么 996.icu 从 19 年底就没人合并更新了](https://www.v2ex.com/t/949048)

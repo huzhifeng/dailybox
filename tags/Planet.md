@@ -1,3 +1,14 @@
+## 20230617
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration for LPC 2023 is open](https://lpc.events/blog/current/index.php/2023/06/16/registration-for-lpc-2023-is-open/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 24 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-24-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Using Postfix DNS SRV record resolution feature](https://fedoramagazine.org/using-postfix-dns-srv-record-resolution-feature/)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Qt 6 in Debian bullseye, take 2](https://perezmeyer.com.ar/blog/2023/06/16/qt6-in-debian-bullseye-take-2/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: BOINC and Idle Users](https://etbe.coker.com.au/2023/06/16/boinc-idle-users/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Upgraded my main machines to bookworm.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-16.html.en#2023-Jun-16-22:14:10)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference)
+
 ## 20230616
 - [Planet Fedora](http://fedoraplanet.org/) | [Gary Benson: Use stdbuf to tee without buffering](https://gbenson.net/stdbuf-tee-without-buffering/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Casper: Commande Podman](https://casperlefantom.net/post/2023/06/15/commande-podman/)

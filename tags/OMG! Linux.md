@@ -1,3 +1,6 @@
+## 20230617
+- [OMG! Linux](https://www.omglinux.com/) | [CrunchBang++ 12.0 Released, Based on Debian 12 (Still Supports 32-bit)](https://www.omglinux.com/crunchbang-plus-plus-12-released/)
+
 ## 20230614
 - [OMG! Linux](https://www.omglinux.com/) | [Debian 13 Gets Codename, Plans Official Support for RISC-V](https://www.omglinux.com/debian-13-codename-is-trixie/)
 

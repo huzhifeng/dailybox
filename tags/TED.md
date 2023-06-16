@@ -1,3 +1,6 @@
+## 20230617
+- [TED Talks Daily](https://www.ted.com/talks) | [No. You cannot touch my hair! | Mena Fombo](https://www.ted.com/talks/mena_fombo_no_you_cannot_touch_my_hair_jun_2023?rss)
+
 ## 20230616
 - [TED Talks Daily](https://www.ted.com/talks) | [How to weave a cultural legacy through storytelling | Cohen Bradley](https://www.ted.com/talks/cohen_bradley_how_to_weave_a_cultural_legacy_through_storytelling?rss)
 
