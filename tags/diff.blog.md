@@ -1,3 +1,6 @@
+## 20230617
+- [diff.blog](https://diff.blog/) | [Throwing in the towel on mobile Linux](https://diff.blog/post/throwing-in-the-towel-on-mobile-linux-141532/)
+
 ## 20230616
 - [diff.blog](https://diff.blog/) | [Building an out-of-tree Rust Kernel Module Part Three](https://diff.blog/post/building-an-out-of-tree-rust-kernel-module-part-three-141470/)
 

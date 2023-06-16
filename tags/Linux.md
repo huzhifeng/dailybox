@@ -1,3 +1,21 @@
+## 20230617
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1034 Reddit 威胁换掉继续抗议的子区管理员](https://linux.cn/article-15913-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
+- [Phoronix](https://www.phoronix.com/) | [The Nasty Linux 6.3 Nouveau Driver Bug Appears To Have Been Figured Out](https://www.phoronix.com/news/Patch-For-Nouveau-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [GNOME Wayland vs. X.Org Performance For Radeon & NVIDIA Gaming On Ubuntu 23.04](https://www.phoronix.com/review/ubuntu-2304-wayland-xorg-gaming)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 7.0 &#8220;Orion Belt&#8221; Officially Released Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/sparkylinux-7-0-orion-belt-officially-released-based-on-debian-12-bookworm)
+- [OMG! Linux](https://www.omglinux.com/) | [CrunchBang++ 12.0 Released, Based on Debian 12 (Still Supports 32-bit)](https://www.omglinux.com/crunchbang-plus-plus-12-released/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration for LPC 2023 is open](https://lpc.events/blog/current/index.php/2023/06/16/registration-for-lpc-2023-is-open/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 24 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-24-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Using Postfix DNS SRV record resolution feature](https://fedoramagazine.org/using-postfix-dns-srv-record-resolution-feature/)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Qt 6 in Debian bullseye, take 2](https://perezmeyer.com.ar/blog/2023/06/16/qt6-in-debian-bullseye-take-2/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: BOINC and Idle Users](https://etbe.coker.com.au/2023/06/16/boinc-idle-users/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Upgraded my main machines to bookworm.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-16.html.en#2023-Jun-16-22:14:10)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#100 One Hundred](https://thisweek.gnome.org/posts/2023/06/twig-100/)
+
 ## 20230616
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1033 安卓开源项目将不是一个完整的开源移动操作系统](https://linux.cn/article-15910-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)

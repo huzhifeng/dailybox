@@ -1,3 +1,8 @@
+## 20230617
+- [Lobsters](https://lobste.rs/) | [A Note About Zig Books for the Zig Community](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community)
+- [Lobsters](https://lobste.rs/) | [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without)
+- [Lobsters](https://lobste.rs/) | [Put an io_uring on it - Exploiting the Linux Kernel](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel)
+
 ## 20230616
 - [Lobsters](https://lobste.rs/) | [The quest for a Secure and Accessible Desktop](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop)
 - [Lobsters](https://lobste.rs/) | [Tindall On Software Delays](https://lobste.rs/s/guh9t9/tindall_on_software_delays)

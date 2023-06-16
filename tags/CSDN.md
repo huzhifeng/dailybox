@@ -1,3 +1,9 @@
+## 20230617
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [王小川新公司开源 70 亿参数量的中英文预训练大模型，可商用；谷歌要求员工慎用 AI，即便是自己家的 Bard|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131240397)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络之—网络故障](https://blog.csdn.net/weixin_36755535/article/details/131175410)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI 绘画（1）：生成一个图片的标准流程](https://blog.csdn.net/qq_44695769/article/details/131203946)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [new Vue后整个的流程](https://blog.csdn.net/weixin_48998573/article/details/131220893)
+
 ## 20230616
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [比尔·盖茨到达北京；印度要求中国手机品牌高管应为印籍；Android 14 Beta 3 推出|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131221095)
 

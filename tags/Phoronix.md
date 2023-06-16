@@ -1,3 +1,8 @@
+## 20230617
+- [Phoronix](https://www.phoronix.com/) | [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
+- [Phoronix](https://www.phoronix.com/) | [The Nasty Linux 6.3 Nouveau Driver Bug Appears To Have Been Figured Out](https://www.phoronix.com/news/Patch-For-Nouveau-Linux-6.3)
+- [Phoronix](https://www.phoronix.com/) | [GNOME Wayland vs. X.Org Performance For Radeon & NVIDIA Gaming On Ubuntu 23.04](https://www.phoronix.com/review/ubuntu-2304-wayland-xorg-gaming)
+
 ## 20230616
 - [Phoronix](https://www.phoronix.com/) | [Running Linux On The ASUS ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces "Biggest Brand Update" For Core CPUs](https://www.phoronix.com/news/Intel-Core-Ultra-Brand)

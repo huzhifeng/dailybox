@@ -1,3 +1,8 @@
+## 20230617
+- [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 24 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-24-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Using Postfix DNS SRV record resolution feature](https://fedoramagazine.org/using-postfix-dns-srv-record-resolution-feature/)
+
 ## 20230616
 - [Planet Fedora](http://fedoraplanet.org/) | [Gary Benson: Use stdbuf to tee without buffering](https://gbenson.net/stdbuf-tee-without-buffering/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Casper: Commande Podman](https://casperlefantom.net/post/2023/06/15/commande-podman/)

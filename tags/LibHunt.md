@@ -1,3 +1,7 @@
+## 20230617
+- [LibHunt](https://www.libhunt.com/) | [OpenDAN-Personal-AI-OS](https://www.libhunt.com/r/OpenDAN-Personal-AI-OS)
+- [LibHunt](https://www.libhunt.com/) | [genshin-optimizer](https://www.libhunt.com/r/genshin-optimizer)
+
 ## 20230616
 - [LibHunt](https://www.libhunt.com/) | [audiocraft](https://www.libhunt.com/r/audiocraft)
 

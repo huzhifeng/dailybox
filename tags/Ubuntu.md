@@ -1,3 +1,7 @@
+## 20230617
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference)
+
 ## 20230615
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: How we improved testing Ubuntu on WSL – and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl)
 

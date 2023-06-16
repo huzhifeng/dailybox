@@ -1,3 +1,8 @@
+## 20230617
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Qt 6 in Debian bullseye, take 2](https://perezmeyer.com.ar/blog/2023/06/16/qt6-in-debian-bullseye-take-2/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: BOINC and Idle Users](https://etbe.coker.com.au/2023/06/16/boinc-idle-users/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Upgraded my main machines to bookworm.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-16.html.en#2023-Jun-16-22:14:10)
+
 ## 20230616
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Ayisha, Manju Warrier, Debutsav, Books](https://flossexperiences.wordpress.com/2023/06/16/ayisha-manju-warrier-debutsav-books/)
 - [Planet Debian](https://planet.debian.org/) | [Thomas Lange: 20.000 customized images created by the FAI.me build service](http://blog.fai-project.org/posts/faime-20000/)

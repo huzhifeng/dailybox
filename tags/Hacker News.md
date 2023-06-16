@@ -1,3 +1,7 @@
+## 20230617
+- [Hacker News](https://news.ycombinator.com/front) | [Illinois prohibits weapons, facial recognition on police drones](https://news.ycombinator.com/item?id=36359296)
+- [Hacker News](https://news.ycombinator.com/front) | [Full Time](https://news.ycombinator.com/item?id=36356876)
+
 ## 20230616
 - [Hacker News](https://news.ycombinator.com/front) | [Sequence diagrams, the only good thing UML brought to software development](https://news.ycombinator.com/item?id=36342931)
 - [Hacker News](https://news.ycombinator.com/front) | [Our Plan for Python 3.13](https://news.ycombinator.com/item?id=36339777)

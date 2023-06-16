@@ -1,3 +1,8 @@
+## 20230617
+- [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
 ## 20230615
 - [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
