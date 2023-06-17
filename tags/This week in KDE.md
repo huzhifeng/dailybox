@@ -1,3 +1,6 @@
+## 20230618
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: nicer digital signing in Okular](https://pointieststick.com/2023/06/16/this-week-in-kde-nicer-digital-signing-in-okular/)
+
 ## 20230615
 - [This week in KDE](https://pointieststick.com/) | [Call to Action: Easy porting opportunity in Plasma](https://pointieststick.com/2023/06/14/call-to-action-easy-porting-opportunity-in-plasma/)
 

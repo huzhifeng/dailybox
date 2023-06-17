@@ -1,3 +1,6 @@
+## 20230618
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 LTS began on May 31, 2023](https://fridge.ubuntu.com/2023/06/17/extended-security-maintenance-for-ubuntu-18-04-lts-began-on-may-31-2023/)
+
 ## 20230617
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference)

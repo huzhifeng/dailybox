@@ -1,3 +1,8 @@
+## 20230618
+- [V2EX](https://www.v2ex.com/) | [信息安全方向怎么样？](https://www.v2ex.com/t/949584)
+- [V2EX](https://www.v2ex.com/) | [一些疑惑，为什么 rust 干不过 go 呢](https://www.v2ex.com/t/949560)
+- [V2EX](https://www.v2ex.com/) | [youtu 好多徒手建木屋的视频](https://www.v2ex.com/t/949541)
+
 ## 20230617
 - [V2EX](https://www.v2ex.com/) | [8 年 iOS，一时冲动，直接裸辞了，面试机会都没有](https://www.v2ex.com/t/949346)
 - [V2EX](https://www.v2ex.com/) | [你弃用 Firefox 的原因是？](https://www.v2ex.com/t/949337)

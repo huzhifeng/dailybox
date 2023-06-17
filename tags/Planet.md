@@ -1,3 +1,9 @@
+## 20230618
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Laptop para não comprar](https://avi.alkalay.net/2023/06/laptop-para-nao-comprar.html)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Blag 2.0 released](https://venthur.de/2023-06-17-blag.html)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Using dar for Data Archiving](https://changelog.complete.org/archives/10527-using-dar-for-data-archiving)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 LTS began on May 31, 2023](https://fridge.ubuntu.com/2023/06/17/extended-security-maintenance-for-ubuntu-18-04-lts-began-on-may-31-2023/)
+
 ## 20230617
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration for LPC 2023 is open](https://lpc.events/blog/current/index.php/2023/06/16/registration-for-lpc-2023-is-open/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)

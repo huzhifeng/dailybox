@@ -1,3 +1,7 @@
+## 20230618
+- [Hacker News](https://news.ycombinator.com/front) | [Update: U+237C ⍼ &Angzarr;](https://news.ycombinator.com/item?id=36369553)
+- [Hacker News](https://news.ycombinator.com/front) | [London Underground Dot Matrix Typeface](https://news.ycombinator.com/item?id=36367667)
+
 ## 20230617
 - [Hacker News](https://news.ycombinator.com/front) | [Illinois prohibits weapons, facial recognition on police drones](https://news.ycombinator.com/item?id=36359296)
 - [Hacker News](https://news.ycombinator.com/front) | [Full Time](https://news.ycombinator.com/item?id=36356876)
