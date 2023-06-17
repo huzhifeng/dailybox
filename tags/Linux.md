@@ -1,3 +1,14 @@
+## 20230618
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1035 英特尔开始出货量子处理器](https://linux.cn/article-15917-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Lisa Su Reaffirms Commitment To Improving AMD ROCm Support, Engaging The Community](https://www.phoronix.com/news/Lisa-Su-ROCm-Commitment)
+- [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 Starting To Get Underway, More Activity In 2024](https://www.phoronix.com/news/CentOS-Stream-10-Start)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4 Lands Fix For Open-Source NVIDIA Driver Use-After-Free Issue](https://www.phoronix.com/news/Nouveau-Use-After-Free-Fixed)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Laptop para não comprar](https://avi.alkalay.net/2023/06/laptop-para-nao-comprar.html)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Blag 2.0 released](https://venthur.de/2023-06-17-blag.html)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Using dar for Data Archiving](https://changelog.complete.org/archives/10527-using-dar-for-data-archiving)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 LTS began on May 31, 2023](https://fridge.ubuntu.com/2023/06/17/extended-security-maintenance-for-ubuntu-18-04-lts-began-on-may-31-2023/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: nicer digital signing in Okular](https://pointieststick.com/2023/06/16/this-week-in-kde-nicer-digital-signing-in-okular/)
+
 ## 20230617
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1034 Reddit 威胁换掉继续抗议的子区管理员](https://linux.cn/article-15913-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)

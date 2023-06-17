@@ -1,3 +1,8 @@
+## 20230618
+- [Phoronix](https://www.phoronix.com/) | [Lisa Su Reaffirms Commitment To Improving AMD ROCm Support, Engaging The Community](https://www.phoronix.com/news/Lisa-Su-ROCm-Commitment)
+- [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 Starting To Get Underway, More Activity In 2024](https://www.phoronix.com/news/CentOS-Stream-10-Start)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4 Lands Fix For Open-Source NVIDIA Driver Use-After-Free Issue](https://www.phoronix.com/news/Nouveau-Use-After-Free-Fixed)
+
 ## 20230617
 - [Phoronix](https://www.phoronix.com/) | [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
 - [Phoronix](https://www.phoronix.com/) | [The Nasty Linux 6.3 Nouveau Driver Bug Appears To Have Been Figured Out](https://www.phoronix.com/news/Patch-For-Nouveau-Linux-6.3)

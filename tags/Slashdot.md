@@ -1,3 +1,6 @@
+## 20230618
+- [Slashdot](https://developers.slashdot.org/) | [Is AI an Excuse for Not Learning To Code?](https://developers.slashdot.org/story/23/06/17/1934235/is-ai-an-excuse-for-not-learning-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230616
 - [Slashdot](https://developers.slashdot.org/) | [92% of Programmers Are Using AI Tools, Says GitHub Developer Survey](https://developers.slashdot.org/story/23/06/15/0445230/92-of-programmers-are-using-ai-tools-says-github-developer-survey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,6 @@
+## 20230618
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Laptop para não comprar](https://avi.alkalay.net/2023/06/laptop-para-nao-comprar.html)
+
 ## 20230617
 - [Planet Fedora](http://fedoraplanet.org/) | [Karel Zak: util-linux v2.39: Improved Mount Interface and Exciting Updates](http://karelzak.blogspot.com/2023/06/util-linux-v239-improved-mount.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 24 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-24-2023/)

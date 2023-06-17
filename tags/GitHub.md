@@ -1,3 +1,8 @@
+## 20230618
+- [GitHub中文社区](https://www.githubs.cn/trending) | [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+
 ## 20230617
 - [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)

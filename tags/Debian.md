@@ -1,3 +1,7 @@
+## 20230618
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Blag 2.0 released](https://venthur.de/2023-06-17-blag.html)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Using dar for Data Archiving](https://changelog.complete.org/archives/10527-using-dar-for-data-archiving)
+
 ## 20230617
 - [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Qt 6 in Debian bullseye, take 2](https://perezmeyer.com.ar/blog/2023/06/16/qt6-in-debian-bullseye-take-2/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: BOINC and Idle Users](https://etbe.coker.com.au/2023/06/16/boinc-idle-users/)

@@ -1,3 +1,8 @@
+## 20230618
+- [Lobsters](https://lobste.rs/) | [The best Python feature you cannot use](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use)
+- [Lobsters](https://lobste.rs/) | [Ikea-Oriented Development](https://lobste.rs/s/yfy98y/ikea_oriented_development)
+- [Lobsters](https://lobste.rs/) | [Not so Common Desktop Environment (NsCDE) 2.3 released](https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2)
+
 ## 20230617
 - [Lobsters](https://lobste.rs/) | [A Note About Zig Books for the Zig Community](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community)
 - [Lobsters](https://lobste.rs/) | [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without)

@@ -1,3 +1,6 @@
+## 20230618
+- [Product Hunt](https://www.producthunt.com) | [Mental Health Tracker ](https://www.producthunt.com/posts/mental-health-tracker)
+
 ## 20230617
 - [Product Hunt](https://www.producthunt.com) | [Project Atlas Agents](https://www.producthunt.com/posts/project-atlas-agents)
 - [Product Hunt](https://www.producthunt.com) | [Plotline](https://www.producthunt.com/posts/plotline)
