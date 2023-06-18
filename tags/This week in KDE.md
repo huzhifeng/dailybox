@@ -1,3 +1,6 @@
+## 20230619
+- [This week in KDE](https://pointieststick.com/) | [On the road to Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
+
 ## 20230618
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: nicer digital signing in Okular](https://pointieststick.com/2023/06/16/this-week-in-kde-nicer-digital-signing-in-okular/)
 

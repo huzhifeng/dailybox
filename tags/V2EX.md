@@ -1,3 +1,8 @@
+## 20230619
+- [V2EX](https://www.v2ex.com/) | [专科非科班现在学 Java 真的是 49 年入国军吗](https://www.v2ex.com/t/949783)
+- [V2EX](https://www.v2ex.com/) | [深圳北站开车前 8 分钟停止“进站”是什么逻辑？](https://www.v2ex.com/t/949701)
+- [V2EX](https://www.v2ex.com/) | [好消息， WG 之三体出预告片了。](https://www.v2ex.com/t/949690)
+
 ## 20230618
 - [V2EX](https://www.v2ex.com/) | [信息安全方向怎么样？](https://www.v2ex.com/t/949584)
 - [V2EX](https://www.v2ex.com/) | [一些疑惑，为什么 rust 干不过 go 呢](https://www.v2ex.com/t/949560)

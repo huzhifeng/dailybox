@@ -1,3 +1,6 @@
+## 20230619
+- [diff.blog](https://diff.blog/) | [Goodbye, Twilio](https://diff.blog/post/goodbye-twilio-141713/)
+
 ## 20230617
 - [diff.blog](https://diff.blog/) | [Throwing in the towel on mobile Linux](https://diff.blog/post/throwing-in-the-towel-on-mobile-linux-141532/)
 

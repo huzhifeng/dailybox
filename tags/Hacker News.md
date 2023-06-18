@@ -1,3 +1,8 @@
+## 20230619
+- [Hacker News](https://news.ycombinator.com/front) | [Imaginary problems are the root of bad software](https://news.ycombinator.com/item?id=36380711)
+- [Hacker News](https://news.ycombinator.com/front) | [Jellyfin: Free software media system](https://news.ycombinator.com/item?id=36378689)
+- [Hacker News](https://news.ycombinator.com/front) | [Sennheiser HD 555 to HD 595 Mod](https://news.ycombinator.com/item?id=36377875)
+
 ## 20230618
 - [Hacker News](https://news.ycombinator.com/front) | [Update: U+237C ⍼ &Angzarr;](https://news.ycombinator.com/item?id=36369553)
 - [Hacker News](https://news.ycombinator.com/front) | [London Underground Dot Matrix Typeface](https://news.ycombinator.com/item?id=36367667)

@@ -1,3 +1,8 @@
+## 20230619
+- [LibHunt](https://www.libhunt.com/) | [koboldcpp](https://www.libhunt.com/r/koboldcpp)
+- [LibHunt](https://www.libhunt.com/) | [Microsoft-Activation-Scripts](https://www.libhunt.com/r/Microsoft-Activation-Scripts)
+- [LibHunt](https://www.libhunt.com/) | [devilutionX](https://www.libhunt.com/r/devilutionX)
+
 ## 20230618
 - [LibHunt](https://www.libhunt.com/) | [Killed by Google](https://www.libhunt.com/r/killedbygoogle)
 

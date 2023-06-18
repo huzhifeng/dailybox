@@ -1,3 +1,8 @@
+## 20230619
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: spdl 0.0.5 on CRAN: Small Extension](http://dirk.eddelbuettel.com/blog/2023/06/18#spdl_0.0.5)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Solo V2: nice but flawed](https://veronneau.org/solo-v2-nice-but-flawed.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSpdlog 0.0.13 on CRAN: Small Extensions](http://dirk.eddelbuettel.com/blog/2023/06/17#rcppspdlog_0.0.13)
+
 ## 20230618
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Blag 2.0 released](https://venthur.de/2023-06-17-blag.html)
 - [Planet Debian](https://planet.debian.org/) | [John Goerzen: Using dar for Data Archiving](https://changelog.complete.org/archives/10527-using-dar-for-data-archiving)
