@@ -1,3 +1,8 @@
+## 20230619
+- [Lobsters](https://lobste.rs/) | [The legend of "x86 CPUs decode instructions into RISC form internally"](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into)
+- [Lobsters](https://lobste.rs/) | [My First Impressions of Nix](https://lobste.rs/s/xzeu0q/my_first_impressions_nix)
+- [Lobsters](https://lobste.rs/) | [Designing Pythonic library APIs](https://lobste.rs/s/shioaj/designing_pythonic_library_apis)
+
 ## 20230618
 - [Lobsters](https://lobste.rs/) | [The best Python feature you cannot use](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use)
 - [Lobsters](https://lobste.rs/) | [Ikea-Oriented Development](https://lobste.rs/s/yfy98y/ikea_oriented_development)

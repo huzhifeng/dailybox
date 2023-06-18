@@ -1,3 +1,8 @@
+## 20230619
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【从删库到跑路】详细讲解MySQL的函数和约束作用](https://blog.csdn.net/m0_72853403/article/details/131222460)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [MySQL：七种 SQL JOINS 的实现（图文详解）](https://blog.csdn.net/weixin_52533007/article/details/131240219)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|深度学习 算法的创世纪](https://blog.csdn.net/weixin_54174102/article/details/131263755)
+
 ## 20230618
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据分析之道-Matplotlib(九)】Matplotlib棉棒图](https://blog.csdn.net/AOAIYI/article/details/131256585)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [我准备蓝桥杯的这一年](https://blog.csdn.net/qq_57150526/article/details/131252921)

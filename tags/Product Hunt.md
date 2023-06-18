@@ -1,3 +1,8 @@
+## 20230619
+- [Product Hunt](https://www.producthunt.com) | [Notion Software Developer OS](https://www.producthunt.com/posts/notion-software-developer-os)
+- [Product Hunt](https://www.producthunt.com) | [Deepchecks Monitoring](https://www.producthunt.com/posts/deepchecks-monitoring)
+- [Product Hunt](https://www.producthunt.com) | [AI-Chat Interior Designer](https://www.producthunt.com/posts/ai-chat-interior-designer)
+
 ## 20230618
 - [Product Hunt](https://www.producthunt.com) | [Mental Health Tracker ](https://www.producthunt.com/posts/mental-health-tracker)
 

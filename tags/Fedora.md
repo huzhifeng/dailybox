@@ -1,3 +1,6 @@
+## 20230619
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
+
 ## 20230618
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Laptop para não comprar](https://avi.alkalay.net/2023/06/laptop-para-nao-comprar.html)
 
