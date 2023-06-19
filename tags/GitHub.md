@@ -1,3 +1,8 @@
+## 20230620
+- [GitHub中文社区](https://www.githubs.cn/trending) | [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [vercel-labs/ai](https://github.com/vercel-labs/ai)
+
 ## 20230619
 - [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [vercel-labs/ai](https://github.com/vercel-labs/ai)

@@ -1,3 +1,6 @@
+## 20230620
+- [Hacker News](https://news.ycombinator.com/front) | [PostgreSQL reconsiders its process-based model](https://news.ycombinator.com/item?id=36393030)
+
 ## 20230619
 - [Hacker News](https://news.ycombinator.com/front) | [Imaginary problems are the root of bad software](https://news.ycombinator.com/item?id=36380711)
 - [Hacker News](https://news.ycombinator.com/front) | [Jellyfin: Free software media system](https://news.ycombinator.com/item?id=36378689)

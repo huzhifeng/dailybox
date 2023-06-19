@@ -1,3 +1,8 @@
+## 20230620
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 Beta Is Now Available for Download with Cinnamon 5.8](https://9to5linux.com/linux-mint-21-2-beta-is-now-available-for-download-with-cinnamon-5-8)
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro and Bonobo WS Linux Laptops Get &#8220;Raptor Lake&#8221; CPUs](https://9to5linux.com/system76s-oryx-pro-and-bonobo-ws-linux-laptops-get-raptor-lake-cpus)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux Devs Make It Easier to Upgrade Your Immutable Nitrux OS Installations](https://9to5linux.com/nitrux-devs-make-it-easier-to-upgrade-your-immutable-nitrux-os-installations)
+
 ## 20230617
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 7.0 &#8220;Orion Belt&#8221; Officially Released Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/sparkylinux-7-0-orion-belt-officially-released-based-on-debian-12-bookworm)
 

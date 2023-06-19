@@ -1,3 +1,8 @@
+## 20230620
+- [Product Hunt](https://www.producthunt.com) | [Free AI-powered face replacement tool](https://www.producthunt.com/posts/free-ai-powered-face-replacement-tool)
+- [Product Hunt](https://www.producthunt.com) | [Palette Hunt](https://www.producthunt.com/posts/palette-hunt)
+- [Product Hunt](https://www.producthunt.com) | [Generative AI for Factual Content](https://www.producthunt.com/posts/generative-ai-for-factual-content)
+
 ## 20230619
 - [Product Hunt](https://www.producthunt.com) | [Notion Software Developer OS](https://www.producthunt.com/posts/notion-software-developer-os)
 - [Product Hunt](https://www.producthunt.com) | [Deepchecks Monitoring](https://www.producthunt.com/posts/deepchecks-monitoring)

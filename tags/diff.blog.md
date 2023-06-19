@@ -1,3 +1,6 @@
+## 20230620
+- [diff.blog](https://diff.blog/) | [Reforming the free software message](https://diff.blog/post/reforming-the-free-software-message-141736/)
+
 ## 20230619
 - [diff.blog](https://diff.blog/) | [Goodbye, Twilio](https://diff.blog/post/goodbye-twilio-141713/)
 

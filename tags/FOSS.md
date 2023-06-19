@@ -1,3 +1,6 @@
+## 20230620
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #2: Using Variables in Bash](https://itsfoss.com/bash-use-variables/)
+
 ## 20230619
 - [It's FOSS](https://itsfoss.com/) | [Best Open Source Email Servers](https://itsfoss.com/open-source-email-servers/)
 

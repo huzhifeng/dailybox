@@ -1,3 +1,8 @@
+## 20230620
+- [V2EX](https://www.v2ex.com/) | [小声问下：现在买房是时机吗？](https://www.v2ex.com/t/949988)
+- [V2EX](https://www.v2ex.com/) | [有没有让你发出 "WC，还有这样的网站" 的网站？](https://www.v2ex.com/t/949936)
+- [V2EX](https://www.v2ex.com/) | [一线城市定居有多难](https://www.v2ex.com/t/949914)
+
 ## 20230619
 - [V2EX](https://www.v2ex.com/) | [专科非科班现在学 Java 真的是 49 年入国军吗](https://www.v2ex.com/t/949783)
 - [V2EX](https://www.v2ex.com/) | [深圳北站开车前 8 分钟停止“进站”是什么逻辑？](https://www.v2ex.com/t/949701)

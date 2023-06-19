@@ -1,3 +1,8 @@
+## 20230620
+- [Red Hat Developer](https://developers.redhat.com/) | [My advice for designing features for the hybrid cloud](https://developers.redhat.com/articles/2023/06/19/tips-designing-features-hybrid-cloud)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to set up MongoDB Atlas on OpenShift](https://developers.redhat.com/articles/2023/06/19/how-set-mongodb-atlas-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Fine-tune large language models using OpenShift Data Science](https://developers.redhat.com/articles/2023/06/19/fine-tune-large-language-models-using-openshift-data-science)
+
 ## 20230616
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Streamlined Kubernetes cluster management: Introducing Red Hat Advanced Cluster Management 2.8](https://www.redhat.com/en/blog/streamlined-kubernetes-cluster-management-introducing-red-hat-advanced-cluster-management-28)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible to create a VM on Azure via workflow](https://developers.redhat.com/articles/2023/06/15/how-use-ansible-create-vm-azure-workflow)
