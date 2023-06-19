@@ -1,3 +1,8 @@
+## 20230620
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/06/19#rcpparmadillo_0.12.4.1.0)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Linux kernel USB errors -71 and -110](https://daniel-lange.com/archives/183-Linux-kernel-USB-errors-71-and-110.html)
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: First taste of Debian 12](https://wp.c9h.org/cj/?p=1949)
+
 ## 20230619
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: spdl 0.0.5 on CRAN: Small Extension](http://dirk.eddelbuettel.com/blog/2023/06/18#spdl_0.0.5)
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Solo V2: nice but flawed](https://veronneau.org/solo-v2-nice-but-flawed.html)

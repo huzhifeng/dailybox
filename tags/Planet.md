@@ -1,3 +1,10 @@
+## 20230620
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 19 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/19/next-open-neurofedora-meeting-19-June-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 380 – A new Sovereign Tech Fund program and the BBC on destroying hard drives](https://opensourcesecurity.io/2023/06/18/episode-380-a-new-sovereign-tech-fund-program-and-the-bbc-on-destroying-hard-drives/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/06/19#rcpparmadillo_0.12.4.1.0)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Linux kernel USB errors -71 and -110](https://daniel-lange.com/archives/183-Linux-kernel-USB-errors-71-and-110.html)
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: First taste of Debian 12](https://wp.c9h.org/cj/?p=1949)
+
 ## 20230619
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: spdl 0.0.5 on CRAN: Small Extension](http://dirk.eddelbuettel.com/blog/2023/06/18#spdl_0.0.5)

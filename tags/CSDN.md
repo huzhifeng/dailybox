@@ -1,3 +1,9 @@
+## 20230620
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微软亚洲研究院辟谣撤离中国转移到加拿大；京东：未来二十年提供超过100万就业岗位；Meta发布新语音生成系统|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131281185)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【云原生】· 一文了解docker中的网络](https://blog.csdn.net/qq_61116007/article/details/131287350)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|深度学习 算法的创世纪](https://blog.csdn.net/weixin_54174102/article/details/131263755)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】Docker的优势、与虚拟机技术的区别、三个重要概念和架构及工作原理的详细讲解](https://blog.csdn.net/m0_75058342/article/details/131233718)
+
 ## 20230619
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【从删库到跑路】详细讲解MySQL的函数和约束作用](https://blog.csdn.net/m0_72853403/article/details/131222460)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [MySQL：七种 SQL JOINS 的实现（图文详解）](https://blog.csdn.net/weixin_52533007/article/details/131240219)

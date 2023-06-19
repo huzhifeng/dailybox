@@ -1,3 +1,7 @@
+## 20230620
+- [LibHunt](https://www.libhunt.com/) | [Visual Studio Code](https://www.libhunt.com/r/vscode)
+- [LibHunt](https://www.libhunt.com/) | [gpt-engineer](https://www.libhunt.com/r/gpt-engineer)
+
 ## 20230619
 - [LibHunt](https://www.libhunt.com/) | [koboldcpp](https://www.libhunt.com/r/koboldcpp)
 - [LibHunt](https://www.libhunt.com/) | [Microsoft-Activation-Scripts](https://www.libhunt.com/r/Microsoft-Activation-Scripts)

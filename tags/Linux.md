@@ -1,3 +1,20 @@
+## 20230620
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1037 PostgreSQL 超过 MySQL 成为开发者首选数据库](https://linux.cn/article-15923-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [My advice for designing features for the hybrid cloud](https://developers.redhat.com/articles/2023/06/19/tips-designing-features-hybrid-cloud)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to set up MongoDB Atlas on OpenShift](https://developers.redhat.com/articles/2023/06/19/how-set-mongodb-atlas-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Fine-tune large language models using OpenShift Data Science](https://developers.redhat.com/articles/2023/06/19/fine-tune-large-language-models-using-openshift-data-science)
+- [Phoronix](https://www.phoronix.com/) | [F2FS Preparing To Land Async Buffered Write Support](https://www.phoronix.com/news/F2FS-Async-Buffered-Writes)
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Aiming To Address IBRS Mitigation Still Being Too Costly On Performance](https://www.phoronix.com/news/Red-Hat-Disable-IBRS-When-Idle)
+- [Phoronix](https://www.phoronix.com/) | [SVT-AV1 1.6 Squeezes Out Even More Performance For CPU-Based AV1 Encoding](https://www.phoronix.com/news/SVT-AV1-1.6)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 Beta Is Now Available for Download with Cinnamon 5.8](https://9to5linux.com/linux-mint-21-2-beta-is-now-available-for-download-with-cinnamon-5-8)
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro and Bonobo WS Linux Laptops Get &#8220;Raptor Lake&#8221; CPUs](https://9to5linux.com/system76s-oryx-pro-and-bonobo-ws-linux-laptops-get-raptor-lake-cpus)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux Devs Make It Easier to Upgrade Your Immutable Nitrux OS Installations](https://9to5linux.com/nitrux-devs-make-it-easier-to-upgrade-your-immutable-nitrux-os-installations)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 19 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/19/next-open-neurofedora-meeting-19-June-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 380 – A new Sovereign Tech Fund program and the BBC on destroying hard drives](https://opensourcesecurity.io/2023/06/18/episode-380-a-new-sovereign-tech-fund-program-and-the-bbc-on-destroying-hard-drives/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/06/19#rcpparmadillo_0.12.4.1.0)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Linux kernel USB errors -71 and -110](https://daniel-lange.com/archives/183-Linux-kernel-USB-errors-71-and-110.html)
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: First taste of Debian 12](https://wp.c9h.org/cj/?p=1949)
+
 ## 20230619
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1036 众包工人用 AI 为 AI 做数据标注工作](https://linux.cn/article-15920-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [RADV Zink Sees Another "Massive" Optimization On The Way](https://www.phoronix.com/news/RADV-Zink-Epilog-Optimization)

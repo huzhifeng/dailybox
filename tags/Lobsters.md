@@ -1,3 +1,8 @@
+## 20230620
+- [Lobsters](https://lobste.rs/) | [Plain Text Journaling](https://lobste.rs/s/9vw2i7/plain_text_journaling)
+- [Lobsters](https://lobste.rs/) | [PostgreSQL reconsiders its process-based model](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process)
+- [Lobsters](https://lobste.rs/) | [Hurl: a terrible but cute idea for a language](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language)
+
 ## 20230619
 - [Lobsters](https://lobste.rs/) | [The legend of "x86 CPUs decode instructions into RISC form internally"](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into)
 - [Lobsters](https://lobste.rs/) | [My First Impressions of Nix](https://lobste.rs/s/xzeu0q/my_first_impressions_nix)
