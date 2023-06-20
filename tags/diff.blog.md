@@ -1,3 +1,8 @@
+## 20230621
+- [diff.blog](https://diff.blog/) | [Introducing the Rust Leadership Council](https://diff.blog/post/introducing-the-rust-leadership-council-141792/)
+- [diff.blog](https://diff.blog/) | [RoboCat: A self-improving robotic agent](https://diff.blog/post/robocat-a-self-improving-robotic-agent-141820/)
+- [diff.blog](https://diff.blog/) | [Emerging Architectures for LLM Applications](https://diff.blog/post/emerging-architectures-for-llm-applications-141835/)
+
 ## 20230620
 - [diff.blog](https://diff.blog/) | [Reforming the free software message](https://diff.blog/post/reforming-the-free-software-message-141736/)
 

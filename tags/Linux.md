@@ -1,3 +1,17 @@
+## 20230621
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1038 谷歌警告员工不要使用 Bard 生成的代码](https://linux.cn/article-15927-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on Chrome OS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
+- [Phoronix](https://www.phoronix.com/) | [SDL2 Now Transitioning To Maintenance Mode](https://www.phoronix.com/news/SDL2-To-Maintenance-Mode)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Slated To Add Provisioning Primitives For Thinly Provisioned Storage](https://www.phoronix.com/news/Linux-65-Provisioning-Primitive)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Adding Qualcomm Adreno 690 Open-Source GPU Support](https://www.phoronix.com/news/Linux-6.5-MSM-Adreno-A690)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.6 Is Out to Improve Plasma Wayland Session, Support for Flatpak Apps](https://9to5linux.com/kde-plasma-5-27-6-is-out-to-improve-plasma-wayland-session-support-for-flatpak-apps)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Real-time and Scheduling Microconference CFP](https://lpc.events/blog/current/index.php/2023/06/20/real-time-and-scheduling-microconference-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: pagure.io outage](https://status.fedoraproject.org/2023-06-20-pagure-outage.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: What I learned about syslog-ng performance using sngbench](https://peter.czanik.hu/other/syslog-ng-what-i-learned-about-syslog-ng-peformance-using-sngbench/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Williamson: DevConf.CZ 2023, Rawhide update test gating, ELN testing and more!](https://www.happyassassin.net/posts/2023/06/20/devconfcz-2023-rawhide-update-test-gating-eln-testing-and-more/)
+- [Planet Debian](https://planet.debian.org/) | [Vasudev Kamath: Notes: Experimenting with ZRAM and Memory Over commit](https://copyninja.in/blog/zram_memory_overcommit.html)
+- [Slashdot](https://linux.slashdot.org/) | [Latest SUSE Linux Enterprise Goes All in With Confidential Computing](https://linux.slashdot.org/story/23/06/20/1846203/latest-suse-linux-enterprise-goes-all-in-with-confidential-computing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230620
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1037 PostgreSQL 超过 MySQL 成为开发者首选数据库](https://linux.cn/article-15923-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [My advice for designing features for the hybrid cloud](https://developers.redhat.com/articles/2023/06/19/tips-designing-features-hybrid-cloud)

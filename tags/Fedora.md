@@ -1,3 +1,8 @@
+## 20230621
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: pagure.io outage](https://status.fedoraproject.org/2023-06-20-pagure-outage.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: What I learned about syslog-ng performance using sngbench](https://peter.czanik.hu/other/syslog-ng-what-i-learned-about-syslog-ng-peformance-using-sngbench/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Williamson: DevConf.CZ 2023, Rawhide update test gating, ELN testing and more!](https://www.happyassassin.net/posts/2023/06/20/devconfcz-2023-rawhide-update-test-gating-eln-testing-and-more/)
+
 ## 20230620
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 19 June 1300 UTC](https://neuroblog.fedoraproject.org/2023/06/19/next-open-neurofedora-meeting-19-June-1300-utc.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 380 – A new Sovereign Tech Fund program and the BBC on destroying hard drives](https://opensourcesecurity.io/2023/06/18/episode-380-a-new-sovereign-tech-fund-program-and-the-bbc-on-destroying-hard-drives/)

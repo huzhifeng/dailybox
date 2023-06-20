@@ -1,3 +1,6 @@
+## 20230621
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.6 Is Out to Improve Plasma Wayland Session, Support for Flatpak Apps](https://9to5linux.com/kde-plasma-5-27-6-is-out-to-improve-plasma-wayland-session-support-for-flatpak-apps)
+
 ## 20230620
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 Beta Is Now Available for Download with Cinnamon 5.8](https://9to5linux.com/linux-mint-21-2-beta-is-now-available-for-download-with-cinnamon-5-8)
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro and Bonobo WS Linux Laptops Get &#8220;Raptor Lake&#8221; CPUs](https://9to5linux.com/system76s-oryx-pro-and-bonobo-ws-linux-laptops-get-raptor-lake-cpus)
