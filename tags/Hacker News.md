@@ -1,3 +1,8 @@
+## 20230621
+- [Hacker News](https://news.ycombinator.com/front) | [Rivian embraces Tesla's charging standard for EVs](https://news.ycombinator.com/item?id=36403494)
+- [Hacker News](https://news.ycombinator.com/front) | [Loneliness is stronger when not alone](https://news.ycombinator.com/item?id=36403280)
+- [Hacker News](https://news.ycombinator.com/front) | [Style your RSS feed](https://news.ycombinator.com/item?id=36401854)
+
 ## 20230620
 - [Hacker News](https://news.ycombinator.com/front) | [PostgreSQL reconsiders its process-based model](https://news.ycombinator.com/item?id=36393030)
 

@@ -1,3 +1,8 @@
+## 20230621
+- [Lobsters](https://lobste.rs/) | [Hashing](https://lobste.rs/s/yrn8fk/hashing)
+- [Lobsters](https://lobste.rs/) | [TIL: Don’t forget your Web Manifest file](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file)
+- [Lobsters](https://lobste.rs/) | [Algebraic effect types explained with live examples](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with)
+
 ## 20230620
 - [Lobsters](https://lobste.rs/) | [Plain Text Journaling](https://lobste.rs/s/9vw2i7/plain_text_journaling)
 - [Lobsters](https://lobste.rs/) | [PostgreSQL reconsiders its process-based model](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process)

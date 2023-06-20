@@ -1,3 +1,6 @@
+## 20230621
+- [It's FOSS](https://itsfoss.com/) | [Using cd Command in Linux](https://itsfoss.com/cd-command/)
+
 ## 20230620
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #2: Using Variables in Bash](https://itsfoss.com/bash-use-variables/)
 

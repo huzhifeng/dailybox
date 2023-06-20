@@ -1,3 +1,6 @@
+## 20230621
+- [Planet Debian](https://planet.debian.org/) | [Vasudev Kamath: Notes: Experimenting with ZRAM and Memory Over commit](https://copyninja.in/blog/zram_memory_overcommit.html)
+
 ## 20230620
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/06/19#rcpparmadillo_0.12.4.1.0)
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Linux kernel USB errors -71 and -110](https://daniel-lange.com/archives/183-Linux-kernel-USB-errors-71-and-110.html)

@@ -1,3 +1,8 @@
+## 20230621
+- [Phoronix](https://www.phoronix.com/) | [SDL2 Now Transitioning To Maintenance Mode](https://www.phoronix.com/news/SDL2-To-Maintenance-Mode)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Slated To Add Provisioning Primitives For Thinly Provisioned Storage](https://www.phoronix.com/news/Linux-65-Provisioning-Primitive)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Adding Qualcomm Adreno 690 Open-Source GPU Support](https://www.phoronix.com/news/Linux-6.5-MSM-Adreno-A690)
+
 ## 20230620
 - [Phoronix](https://www.phoronix.com/) | [F2FS Preparing To Land Async Buffered Write Support](https://www.phoronix.com/news/F2FS-Async-Buffered-Writes)
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Aiming To Address IBRS Mitigation Still Being Too Costly On Performance](https://www.phoronix.com/news/Red-Hat-Disable-IBRS-When-Idle)

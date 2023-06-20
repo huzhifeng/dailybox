@@ -1,3 +1,6 @@
+## 20230621
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on Chrome OS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
+
 ## 20230616
 - [Collabora](https://www.collabora.com/news-and-blog/) | [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 
