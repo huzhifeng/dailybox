@@ -1,3 +1,7 @@
+## 20230622
+- [LibHunt](https://www.libhunt.com/) | [tafkars](https://www.libhunt.com/r/tafkars)
+- [LibHunt](https://www.libhunt.com/) | [Next.js](https://www.libhunt.com/r/next.js)
+
 ## 20230620
 - [LibHunt](https://www.libhunt.com/) | [Visual Studio Code](https://www.libhunt.com/r/vscode)
 - [LibHunt](https://www.libhunt.com/) | [gpt-engineer](https://www.libhunt.com/r/gpt-engineer)

@@ -1,3 +1,8 @@
+## 20230622
+- [Lobsters](https://lobste.rs/) | [Windows 98 Icons are Great (2015)](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015)
+- [Lobsters](https://lobste.rs/) | [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9)
+- [Lobsters](https://lobste.rs/) | [Flexible systems](https://lobste.rs/s/nxwj3u/flexible_systems)
+
 ## 20230621
 - [Lobsters](https://lobste.rs/) | [Hashing](https://lobste.rs/s/yrn8fk/hashing)
 - [Lobsters](https://lobste.rs/) | [TIL: Don’t forget your Web Manifest file](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file)

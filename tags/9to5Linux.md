@@ -1,3 +1,6 @@
+## 20230622
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.4 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-4-open-source-raw-image-editor-released-heres-whats-new)
+
 ## 20230621
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.6 Is Out to Improve Plasma Wayland Session, Support for Flatpak Apps](https://9to5linux.com/kde-plasma-5-27-6-is-out-to-improve-plasma-wayland-session-support-for-flatpak-apps)
 

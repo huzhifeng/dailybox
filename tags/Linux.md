@@ -1,3 +1,14 @@
+## 20230622
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1039 DeepMind 联合创始人提出新图灵测试](https://linux.cn/article-15930-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat build of Cryostat 2.3](https://developers.redhat.com/articles/2023/06/21/whats-new-red-hat-build-cryostat-23)
+- [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 13](https://developers.redhat.com/articles/2023/06/21/new-c-features-gcc-13)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.3.9 Released With Fix For Nasty Nouveau Issue](https://www.phoronix.com/news/Linux-6.3.9-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 21.2 Promoted To Beta With Desktop Improvements, HEIF & AVIF Support](https://www.phoronix.com/news/Linux-Mint-21.2-Beta)
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Now Limiting RHEL Sources To CentOS Stream](https://www.phoronix.com/news/Red-Hat-CentOS-Stream-Sources)
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.4 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-4-open-source-raw-image-editor-released-heres-whats-new)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP extended to 27 June](https://communityblog.fedoraproject.org/flock-2023-cfp-extended-27-june/)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: New Keyboard, Who This?](https://veronneau.org/new-keyboard-who-this.html)
+
 ## 20230621
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1038 谷歌警告员工不要使用 Bard 生成的代码](https://linux.cn/article-15927-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on Chrome OS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)

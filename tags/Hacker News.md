@@ -1,3 +1,6 @@
+## 20230622
+- [Hacker News](https://news.ycombinator.com/front) | [Making Figma better for developers with Dev Mode](https://news.ycombinator.com/item?id=36420712)
+
 ## 20230621
 - [Hacker News](https://news.ycombinator.com/front) | [Rivian embraces Tesla's charging standard for EVs](https://news.ycombinator.com/item?id=36403494)
 - [Hacker News](https://news.ycombinator.com/front) | [Loneliness is stronger when not alone](https://news.ycombinator.com/item?id=36403280)

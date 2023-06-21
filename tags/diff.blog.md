@@ -1,3 +1,6 @@
+## 20230622
+- [diff.blog](https://diff.blog/) | [Go 1.21 Release Candidate](https://diff.blog/post/go-121-release-candidate-142068/)
+
 ## 20230621
 - [diff.blog](https://diff.blog/) | [Introducing the Rust Leadership Council](https://diff.blog/post/introducing-the-rust-leadership-council-141792/)
 - [diff.blog](https://diff.blog/) | [RoboCat: A self-improving robotic agent](https://diff.blog/post/robocat-a-self-improving-robotic-agent-141820/)

@@ -1,3 +1,6 @@
+## 20230622
+- [It's FOSS](https://itsfoss.com/) | [Install and Use Flatpak on Ubuntu](https://itsfoss.com/flatpak-ubuntu/)
+
 ## 20230621
 - [It's FOSS](https://itsfoss.com/) | [Using cd Command in Linux](https://itsfoss.com/cd-command/)
 
