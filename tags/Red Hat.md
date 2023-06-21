@@ -1,3 +1,7 @@
+## 20230622
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat build of Cryostat 2.3](https://developers.redhat.com/articles/2023/06/21/whats-new-red-hat-build-cryostat-23)
+- [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 13](https://developers.redhat.com/articles/2023/06/21/new-c-features-gcc-13)
+
 ## 20230620
 - [Red Hat Developer](https://developers.redhat.com/) | [My advice for designing features for the hybrid cloud](https://developers.redhat.com/articles/2023/06/19/tips-designing-features-hybrid-cloud)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to set up MongoDB Atlas on OpenShift](https://developers.redhat.com/articles/2023/06/19/how-set-mongodb-atlas-openshift)

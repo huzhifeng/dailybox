@@ -1,3 +1,8 @@
+## 20230622
+- [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [csunny/DB-GPT](https://github.com/csunny/DB-GPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [steven-tey/novel](https://github.com/steven-tey/novel)
+
 ## 20230621
 - [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)

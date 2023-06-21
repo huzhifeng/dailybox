@@ -1,3 +1,6 @@
+## 20230622
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP extended to 27 June](https://communityblog.fedoraproject.org/flock-2023-cfp-extended-27-june/)
+
 ## 20230621
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: pagure.io outage](https://status.fedoraproject.org/2023-06-20-pagure-outage.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: What I learned about syslog-ng performance using sngbench](https://peter.czanik.hu/other/syslog-ng-what-i-learned-about-syslog-ng-peformance-using-sngbench/)

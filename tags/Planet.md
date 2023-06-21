@@ -1,3 +1,7 @@
+## 20230622
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP extended to 27 June](https://communityblog.fedoraproject.org/flock-2023-cfp-extended-27-june/)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: New Keyboard, Who This?](https://veronneau.org/new-keyboard-who-this.html)
+
 ## 20230621
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Real-time and Scheduling Microconference CFP](https://lpc.events/blog/current/index.php/2023/06/20/real-time-and-scheduling-microconference-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: pagure.io outage](https://status.fedoraproject.org/2023-06-20-pagure-outage.html)

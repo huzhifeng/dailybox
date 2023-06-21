@@ -1,3 +1,6 @@
+## 20230622
+- [TED Talks Daily](https://www.ted.com/talks) | [A 3-step guide to believing in yourself | Sheryl Lee Ralph](https://www.ted.com/talks/sheryl_lee_ralph_a_3_step_guide_to_believing_in_yourself?rss)
+
 ## 20230621
 - [TED Talks Daily](https://www.ted.com/talks) | [Kung Fu, Star Trek and the many paths to spirituality | Rainn Wilson](https://www.ted.com/talks/rainn_wilson_kung_fu_star_trek_and_the_many_paths_to_spirituality?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [How to solve the education crisis for boys and men | Richard Reeves](https://www.ted.com/talks/richard_reeves_how_to_solve_the_education_crisis_for_boys_and_men?rss)
