@@ -1,3 +1,6 @@
+## 20230623
+- [Slashdot](https://developers.slashdot.org/) | [Intel's New Font For Low-Vision Developers Is Causing Design Drama For Coders](https://developers.slashdot.org/story/23/06/21/2145216/intels-new-font-for-low-vision-developers-is-causing-design-drama-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230621
 - [Slashdot](https://linux.slashdot.org/) | [Latest SUSE Linux Enterprise Goes All in With Confidential Computing](https://linux.slashdot.org/story/23/06/20/1846203/latest-suse-linux-enterprise-goes-all-in-with-confidential-computing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

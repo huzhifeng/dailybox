@@ -1,3 +1,8 @@
+## 20230623
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Cheap Peripherals for Work](https://etbe.coker.com.au/2023/06/22/cheap-peripherals-work/)
+- [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple toy languages](https://blog.steve.fi/simple_toy_languages.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Furious Heaven](https://www.eyrie.org/~eagle/reviews/books/1-250-86701-0.html)
+
 ## 20230622
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: New Keyboard, Who This?](https://veronneau.org/new-keyboard-who-this.html)
 

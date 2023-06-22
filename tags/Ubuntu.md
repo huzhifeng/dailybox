@@ -1,3 +1,6 @@
+## 20230623
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators)
+
 ## 20230618
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Extended Security Maintenance for Ubuntu 18.04 LTS began on May 31, 2023](https://fridge.ubuntu.com/2023/06/17/extended-security-maintenance-for-ubuntu-18-04-lts-began-on-may-31-2023/)
 

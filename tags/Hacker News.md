@@ -1,3 +1,7 @@
+## 20230623
+- [Hacker News](https://news.ycombinator.com/front) | [Dear Red Hat: Are you dumb?](https://news.ycombinator.com/item?id=36436786)
+- [Hacker News](https://news.ycombinator.com/front) | [Mistakes to avoid to build a better 1-person business](https://news.ycombinator.com/item?id=36431268)
+
 ## 20230622
 - [Hacker News](https://news.ycombinator.com/front) | [Making Figma better for developers with Dev Mode](https://news.ycombinator.com/item?id=36420712)
 

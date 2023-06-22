@@ -1,3 +1,8 @@
+## 20230623
+- [Lobsters](https://lobste.rs/) | [Agile is people, the rest is commentary](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary)
+- [Lobsters](https://lobste.rs/) | [WinPopup (2001)](https://lobste.rs/s/fr2qsg/winpopup_2001)
+- [Lobsters](https://lobste.rs/) | [Coroutines make robot code easy](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy)
+
 ## 20230622
 - [Lobsters](https://lobste.rs/) | [Windows 98 Icons are Great (2015)](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015)
 - [Lobsters](https://lobste.rs/) | [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9)

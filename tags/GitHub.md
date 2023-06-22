@@ -1,3 +1,8 @@
+## 20230623
+- [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ykdojo/kaguya](https://github.com/ykdojo/kaguya)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)
+
 ## 20230622
 - [GitHub中文社区](https://www.githubs.cn/trending) | [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [csunny/DB-GPT](https://github.com/csunny/DB-GPT)
