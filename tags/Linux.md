@@ -1,3 +1,18 @@
+## 20230623
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1040 RHEL 源代码将只放在 CentOS Stream 上](https://linux.cn/article-15933-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to embark for Embedded Open Source Summit](https://www.collabora.com/news-and-blog/news-and-events/ready-to-embark-for-embedded-open-source-summit.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create a workspace via Try in Dev Spaces extension](https://developers.redhat.com/articles/2023/06/22/how-create-workspace-try-dev-spaces-extension)
+- [Phoronix](https://www.phoronix.com/) | [Fedora May Make It Easier To Switch To systemd-boot, Making A GRUB-Free System](https://www.phoronix.com/news/Fedora-GRUB-Free-Proposal)
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Linux Gaming Performance On The ASUS ROG Ally](https://www.phoronix.com/review/rog-ally-windows-linux)
+- [Phoronix](https://www.phoronix.com/) | [Wasmer 4.0 WebAssembly Implementation Brings WASIX Support](https://www.phoronix.com/news/Wasmer-4.0)
+- [Planet Fedora](http://fedoraplanet.org/) | [Luis Bazan: Unifi - Enable ICMP Request/Reply - WAN.](http://lokomurdok.blogspot.com/2023/06/unifi-enable-icmp-requestreply-wan.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21RC1 and 8.2.8RC1](https://blog.remirepo.net/post/2023/06/22/PHP-version-8.1.21RC1-and-8.2.8RC1)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: تولد ۱۲ سالگی وب سایت طرفداران فدورا](https://fedorafans.com/%d8%aa%d9%88%d9%84%d8%af-%db%b1%db%b2-%d8%b3%d8%a7%d9%84%da%af%db%8c-%d9%88%d8%a8-%d8%b3%d8%a7%db%8c%d8%aa-%d8%b7%d8%b1%d9%81%d8%af%d8%a7%d8%b1%d8%a7%d9%86-%d9%81%d8%af%d9%88%d8%b1%d8%a7/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Cheap Peripherals for Work](https://etbe.coker.com.au/2023/06/22/cheap-peripherals-work/)
+- [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple toy languages](https://blog.steve.fi/simple_toy_languages.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Furious Heaven](https://www.eyrie.org/~eagle/reviews/books/1-250-86701-0.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators)
+
 ## 20230622
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1039 DeepMind 联合创始人提出新图灵测试](https://linux.cn/article-15930-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat build of Cryostat 2.3](https://developers.redhat.com/articles/2023/06/21/whats-new-red-hat-build-cryostat-23)

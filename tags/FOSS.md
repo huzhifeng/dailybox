@@ -1,3 +1,6 @@
+## 20230623
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.25: ONLYOFFICE, Clipboard App, Bash Variables and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-23-25/)
+
 ## 20230622
 - [It's FOSS](https://itsfoss.com/) | [Install and Use Flatpak on Ubuntu](https://itsfoss.com/flatpak-ubuntu/)
 

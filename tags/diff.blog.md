@@ -1,3 +1,6 @@
+## 20230623
+- [diff.blog](https://diff.blog/) | [My ranking of every Shakespeare play](https://diff.blog/post/my-ranking-of-every-shakespeare-play-142101/)
+
 ## 20230622
 - [diff.blog](https://diff.blog/) | [Go 1.21 Release Candidate](https://diff.blog/post/go-121-release-candidate-142068/)
 

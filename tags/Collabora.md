@@ -1,3 +1,6 @@
+## 20230623
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to embark for Embedded Open Source Summit](https://www.collabora.com/news-and-blog/news-and-events/ready-to-embark-for-embedded-open-source-summit.html)
+
 ## 20230621
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on Chrome OS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
 

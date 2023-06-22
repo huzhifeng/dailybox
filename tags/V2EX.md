@@ -1,3 +1,8 @@
+## 20230623
+- [V2EX](https://www.v2ex.com/) | [美国的穷人相当于中国什么收入的生活水平](https://www.v2ex.com/t/950882)
+- [V2EX](https://www.v2ex.com/) | [墙外有感](https://www.v2ex.com/t/950880)
+- [V2EX](https://www.v2ex.com/) | [淘宝对假货的容忍度真高](https://www.v2ex.com/t/950878)
+
 ## 20230622
 - [V2EX](https://www.v2ex.com/) | [为啥我就是用不来苹果](https://www.v2ex.com/t/950641)
 - [V2EX](https://www.v2ex.com/) | [60 万 rmb 存银行，没任何风险的情况下最大收益是多少，怎么存呢](https://www.v2ex.com/t/950544)

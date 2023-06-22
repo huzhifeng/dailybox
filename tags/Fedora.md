@@ -1,3 +1,8 @@
+## 20230623
+- [Planet Fedora](http://fedoraplanet.org/) | [Luis Bazan: Unifi - Enable ICMP Request/Reply - WAN.](http://lokomurdok.blogspot.com/2023/06/unifi-enable-icmp-requestreply-wan.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21RC1 and 8.2.8RC1](https://blog.remirepo.net/post/2023/06/22/PHP-version-8.1.21RC1-and-8.2.8RC1)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: تولد ۱۲ سالگی وب سایت طرفداران فدورا](https://fedorafans.com/%d8%aa%d9%88%d9%84%d8%af-%db%b1%db%b2-%d8%b3%d8%a7%d9%84%da%af%db%8c-%d9%88%d8%a8-%d8%b3%d8%a7%db%8c%d8%aa-%d8%b7%d8%b1%d9%81%d8%af%d8%a7%d8%b1%d8%a7%d9%86-%d9%81%d8%af%d9%88%d8%b1%d8%a7/)
+
 ## 20230622
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Flock 2023 CfP extended to 27 June](https://communityblog.fedoraproject.org/flock-2023-cfp-extended-27-june/)
 
