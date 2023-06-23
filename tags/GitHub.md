@@ -1,3 +1,9 @@
+## 20230624
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [vllm-project/vllm](https://github.com/vllm-project/vllm)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [zksync/credo](https://github.com/zksync/credo)
+
 ## 20230623
 - [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ykdojo/kaguya](https://github.com/ykdojo/kaguya)

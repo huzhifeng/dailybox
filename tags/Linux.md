@@ -1,3 +1,16 @@
+## 20230624
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1041 AlmaLinux 确认受到 RHEL 源代码发布变化影响](https://linux.cn/article-15936-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases x86-simd-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
+- [Phoronix](https://www.phoronix.com/) | [Firewalld 2.0 Released With Faster Forwarding Performance Via NFTables Flowtable](https://www.phoronix.com/news/Firewalld-2.0)
+- [Phoronix](https://www.phoronix.com/) | [Two Fedora Spins Eye Going X.Org-less](https://www.phoronix.com/news/Fedora-Spins-Propose-Xorg-Less)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.3](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-3)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-23-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 25 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-25-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to use Testing Farm outside of RHEL](https://fedoramagazine.org/how-to-use-testing-farm-outside-of-rhel/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 243 released](https://diffoscope.org/news/diffoscope-243-released/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#101 Libadwaita Happenings](https://thisweek.gnome.org/posts/2023/06/twig-101/)
+
 ## 20230623
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1040 RHEL 源代码将只放在 CentOS Stream 上](https://linux.cn/article-15933-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to embark for Embedded Open Source Summit](https://www.collabora.com/news-and-blog/news-and-events/ready-to-embark-for-embedded-open-source-summit.html)

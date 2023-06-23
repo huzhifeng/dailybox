@@ -1,3 +1,6 @@
+## 20230624
+- [TED Talks Daily](https://www.ted.com/talks) | [Why Iranians are cutting their hair for "Woman, Life, Freedom" | Sahar Zand](https://www.ted.com/talks/sahar_zand_why_iranians_are_cutting_their_hair_for_woman_life_freedom?rss)
+
 ## 20230623
 - [TED Talks Daily](https://www.ted.com/talks) | [Why are we so bad at reporting good news? | Angus Hervey](https://www.ted.com/talks/angus_hervey_why_are_we_so_bad_at_reporting_good_news?rss)
 

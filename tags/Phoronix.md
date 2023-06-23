@@ -1,3 +1,8 @@
+## 20230624
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases x86-simd-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
+- [Phoronix](https://www.phoronix.com/) | [Firewalld 2.0 Released With Faster Forwarding Performance Via NFTables Flowtable](https://www.phoronix.com/news/Firewalld-2.0)
+- [Phoronix](https://www.phoronix.com/) | [Two Fedora Spins Eye Going X.Org-less](https://www.phoronix.com/news/Fedora-Spins-Propose-Xorg-Less)
+
 ## 20230623
 - [Phoronix](https://www.phoronix.com/) | [Fedora May Make It Easier To Switch To systemd-boot, Making A GRUB-Free System](https://www.phoronix.com/news/Fedora-GRUB-Free-Proposal)
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Linux Gaming Performance On The ASUS ROG Ally](https://www.phoronix.com/review/rog-ally-windows-linux)

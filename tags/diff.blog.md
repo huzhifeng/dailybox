@@ -1,3 +1,7 @@
+## 20230624
+- [diff.blog](https://diff.blog/) | [Improved API tokens for crates.io](https://diff.blog/post/improved-api-tokens-for-cratesio-142142/)
+- [diff.blog](https://diff.blog/) | [Google Domains to shut down](https://diff.blog/post/google-domains-to-shut-down-142110/)
+
 ## 20230623
 - [diff.blog](https://diff.blog/) | [My ranking of every Shakespeare play](https://diff.blog/post/my-ranking-of-every-shakespeare-play-142101/)
 

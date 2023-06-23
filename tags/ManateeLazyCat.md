@@ -1,3 +1,6 @@
+## 20230624
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [最佳代理实践之 v2raya (2023-06-23)](https://manateelazycat.github.io/proxy/2023/06/23/best-proxy.html)
+
 ## 20230614
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [EAF 音乐更新](https://manateelazycat.github.io/emacs/eaf/2023/06/13/eaf-music.html)
 

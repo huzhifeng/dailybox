@@ -1,3 +1,6 @@
+## 20230624
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://news.ycombinator.com/item?id=36446045)
+
 ## 20230623
 - [Hacker News](https://news.ycombinator.com/front) | [Dear Red Hat: Are you dumb?](https://news.ycombinator.com/item?id=36436786)
 - [Hacker News](https://news.ycombinator.com/front) | [Mistakes to avoid to build a better 1-person business](https://news.ycombinator.com/item?id=36431268)

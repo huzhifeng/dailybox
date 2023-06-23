@@ -1,3 +1,8 @@
+## 20230624
+- [Lobsters](https://lobste.rs/) | [Random floating point numbers](https://lobste.rs/s/kojwb9/random_floating_point_numbers)
+- [Lobsters](https://lobste.rs/) | [How to Kill a Decentralised Network (such as the Fediverse)](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as)
+- [Lobsters](https://lobste.rs/) | [What happens when a Matrix server disappears?](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server)
+
 ## 20230623
 - [Lobsters](https://lobste.rs/) | [Agile is people, the rest is commentary](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary)
 - [Lobsters](https://lobste.rs/) | [WinPopup (2001)](https://lobste.rs/s/fr2qsg/winpopup_2001)
