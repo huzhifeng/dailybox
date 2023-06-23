@@ -1,3 +1,8 @@
+## 20230624
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-23-s390x.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 25 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-25-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to use Testing Farm outside of RHEL](https://fedoramagazine.org/how-to-use-testing-farm-outside-of-rhel/)
+
 ## 20230623
 - [Planet Fedora](http://fedoraplanet.org/) | [Luis Bazan: Unifi - Enable ICMP Request/Reply - WAN.](http://lokomurdok.blogspot.com/2023/06/unifi-enable-icmp-requestreply-wan.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21RC1 and 8.2.8RC1](https://blog.remirepo.net/post/2023/06/22/PHP-version-8.1.21RC1-and-8.2.8RC1)

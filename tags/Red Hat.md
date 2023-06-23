@@ -1,3 +1,6 @@
+## 20230624
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)
+
 ## 20230623
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create a workspace via Try in Dev Spaces extension](https://developers.redhat.com/articles/2023/06/22/how-create-workspace-try-dev-spaces-extension)
 

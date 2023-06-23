@@ -1,3 +1,8 @@
+## 20230624
+- [V2EX](https://www.v2ex.com/) | [你认为买的最值的付费软件或者订阅软件？](https://www.v2ex.com/t/951081)
+- [V2EX](https://www.v2ex.com/) | [怎么感觉 PyQT 很少有人用 ，是不是被低估了](https://www.v2ex.com/t/951057)
+- [V2EX](https://www.v2ex.com/) | [如何看待这么个怪现象：地铁只能在本市打转，铁路无法跨城市通勤？](https://www.v2ex.com/t/951021)
+
 ## 20230623
 - [V2EX](https://www.v2ex.com/) | [美国的穷人相当于中国什么收入的生活水平](https://www.v2ex.com/t/950882)
 - [V2EX](https://www.v2ex.com/) | [墙外有感](https://www.v2ex.com/t/950880)

@@ -1,3 +1,8 @@
+## 20230624
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|机器学习 解码未来的科技革命](https://blog.csdn.net/weixin_54174102/article/details/131333906)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [开源计算机视觉库OpenCV详解](https://blog.csdn.net/chenlycly/article/details/131352357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [构建安全架构的 Azure 云：深入了解零信任体系结构](https://blog.csdn.net/dietime1943/article/details/131346261)
+
 ## 20230623
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [使用Vue + FormData + axios实现图片上传功能实战](https://blog.csdn.net/xingyu_qie/article/details/131317611)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [智能文档图像处理技术应用与实践](https://blog.csdn.net/weixin_53072519/article/details/131294775)

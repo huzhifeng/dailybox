@@ -1,3 +1,6 @@
+## 20230624
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 243 released](https://diffoscope.org/news/diffoscope-243-released/)
+
 ## 20230623
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Cheap Peripherals for Work](https://etbe.coker.com.au/2023/06/22/cheap-peripherals-work/)
 - [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple toy languages](https://blog.steve.fi/simple_toy_languages.html)

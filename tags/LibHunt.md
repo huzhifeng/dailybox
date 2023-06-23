@@ -1,3 +1,7 @@
+## 20230624
+- [LibHunt](https://www.libhunt.com/) | [scrcpy](https://www.libhunt.com/r/scrcpy)
+- [LibHunt](https://www.libhunt.com/) | [revanced-manager](https://www.libhunt.com/r/revanced-manager)
+
 ## 20230623
 - [LibHunt](https://www.libhunt.com/) | [React](https://www.libhunt.com/r/react)
 

@@ -1,3 +1,6 @@
+## 20230624
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.3](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-3)
+
 ## 20230622
 - [9to5Linux](https://9to5linux.com/) | [Darktable 4.4 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-4-open-source-raw-image-editor-released-heres-whats-new)
 
