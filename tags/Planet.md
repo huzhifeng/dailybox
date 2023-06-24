@@ -1,3 +1,9 @@
+## 20230625
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
+- [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple REPL for CP/M, in Z80 assembly](https://blog.steve.fi/simple_repl_for_cp_m__in_z80_assembly.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Rose/House](https://www.eyrie.org/~eagle/reviews/books/1-64524-034-7.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New KVM features in RHEL 9.2 and 8.8 on IBM Z](http://people.redhat.com/~thuth/blog/general/2023/06/24/rhel-92-88.html)
+
 ## 20230624
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: s390x power outage](https://status.fedoraproject.org/2023-06-23-s390x.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 25 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-25-2023/)

@@ -1,3 +1,8 @@
+## 20230625
+- [V2EX](https://www.v2ex.com/) | [开空调冷，不开又热。怎么解？](https://www.v2ex.com/t/951231)
+- [V2EX](https://www.v2ex.com/) | [老婆非常鸡娃，每天家里整的鸡飞狗跳怎么搞](https://www.v2ex.com/t/951211)
+- [V2EX](https://www.v2ex.com/) | [现在这个情况，是否考虑考编制？](https://www.v2ex.com/t/951172)
+
 ## 20230624
 - [V2EX](https://www.v2ex.com/) | [你认为买的最值的付费软件或者订阅软件？](https://www.v2ex.com/t/951081)
 - [V2EX](https://www.v2ex.com/) | [怎么感觉 PyQT 很少有人用 ，是不是被低估了](https://www.v2ex.com/t/951057)

@@ -1,3 +1,6 @@
+## 20230625
+- [Hacker News](https://news.ycombinator.com/front) | [Do, or do not. There is no try](https://news.ycombinator.com/item?id=36461102)
+
 ## 20230624
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://news.ycombinator.com/item?id=36446045)
 

@@ -1,3 +1,6 @@
+## 20230625
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: SDDM](https://pointieststick.com/2023/06/23/this-week-in-kde-sddm/)
+
 ## 20230619
 - [This week in KDE](https://pointieststick.com/) | [On the road to Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 

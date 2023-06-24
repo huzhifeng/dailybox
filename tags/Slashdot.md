@@ -1,3 +1,6 @@
+## 20230625
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Enterprised Linux Sources Will Now Be Available To Paying Customers Only](https://linux.slashdot.org/story/23/06/24/1752259/red-hat-enterprised-linux-sources-will-now-be-available-to-paying-customers-only?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230623
 - [Slashdot](https://developers.slashdot.org/) | [Intel's New Font For Low-Vision Developers Is Causing Design Drama For Coders](https://developers.slashdot.org/story/23/06/21/2145216/intels-new-font-for-low-vision-developers-is-causing-design-drama-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
