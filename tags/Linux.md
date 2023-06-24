@@ -1,3 +1,16 @@
+## 20230625
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1042 人工智能工件需要新的开源许可证](https://linux.cn/article-15939-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4 Bringing Great Improvements From AMD G.A.M. To Early Apple M2 Code, More Rust](https://www.phoronix.com/news/Linux-6.4-Feature-Recap)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Driver Change Leads To A Big Speed-Up Under Linux](https://www.phoronix.com/news/Intel-L3-Partial-Write-DG2)
+- [Phoronix](https://www.phoronix.com/) | [More Plasma 6 Work Continues, SDDM To Be Incubated By KDE](https://www.phoronix.com/news/More-Plasma-6-Porting-KSvg)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 7.5 Revamps Tempo Maps Editing, Remembers I/O Connections Per Device](https://9to5linux.com/ardour-7-5-revamps-tempo-maps-editing-remembers-i-o-connections-per-device)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
+- [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple REPL for CP/M, in Z80 assembly](https://blog.steve.fi/simple_repl_for_cp_m__in_z80_assembly.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Rose/House](https://www.eyrie.org/~eagle/reviews/books/1-64524-034-7.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New KVM features in RHEL 9.2 and 8.8 on IBM Z](http://people.redhat.com/~thuth/blog/general/2023/06/24/rhel-92-88.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: SDDM](https://pointieststick.com/2023/06/23/this-week-in-kde-sddm/)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Enterprised Linux Sources Will Now Be Available To Paying Customers Only](https://linux.slashdot.org/story/23/06/24/1752259/red-hat-enterprised-linux-sources-will-now-be-available-to-paying-customers-only?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230624
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1041 AlmaLinux 确认受到 RHEL 源代码发布变化影响](https://linux.cn/article-15936-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)

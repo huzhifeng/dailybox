@@ -1,3 +1,8 @@
+## 20230625
+- [Lobsters](https://lobste.rs/) | [XML is the future](https://lobste.rs/s/nqahtz/xml_is_future)
+- [Lobsters](https://lobste.rs/) | [The E-graph extraction problem is NP-complete](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete)
+- [Lobsters](https://lobste.rs/) | [keyberon: A rust crate to create a pure rust keyboard firmware](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust)
+
 ## 20230624
 - [Lobsters](https://lobste.rs/) | [Random floating point numbers](https://lobste.rs/s/kojwb9/random_floating_point_numbers)
 - [Lobsters](https://lobste.rs/) | [How to Kill a Decentralised Network (such as the Fediverse)](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as)

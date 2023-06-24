@@ -1,3 +1,8 @@
+## 20230625
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [开源计算机视觉库OpenCV详解](https://blog.csdn.net/chenlycly/article/details/131352357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Oralce系列十九：Oralce的体系结构](https://blog.csdn.net/apr15/article/details/131358913)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [构建安全架构的 Azure 云：深入了解零信任体系结构](https://blog.csdn.net/dietime1943/article/details/131346261)
+
 ## 20230624
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|机器学习 解码未来的科技革命](https://blog.csdn.net/weixin_54174102/article/details/131333906)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [开源计算机视觉库OpenCV详解](https://blog.csdn.net/chenlycly/article/details/131352357)

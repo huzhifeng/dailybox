@@ -1,3 +1,7 @@
+## 20230625
+- [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple REPL for CP/M, in Z80 assembly](https://blog.steve.fi/simple_repl_for_cp_m__in_z80_assembly.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Rose/House](https://www.eyrie.org/~eagle/reviews/books/1-64524-034-7.html)
+
 ## 20230624
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 243 released](https://diffoscope.org/news/diffoscope-243-released/)
 

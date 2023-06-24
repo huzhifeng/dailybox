@@ -1,3 +1,8 @@
+## 20230625
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4 Bringing Great Improvements From AMD G.A.M. To Early Apple M2 Code, More Rust](https://www.phoronix.com/news/Linux-6.4-Feature-Recap)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Driver Change Leads To A Big Speed-Up Under Linux](https://www.phoronix.com/news/Intel-L3-Partial-Write-DG2)
+- [Phoronix](https://www.phoronix.com/) | [More Plasma 6 Work Continues, SDDM To Be Incubated By KDE](https://www.phoronix.com/news/More-Plasma-6-Porting-KSvg)
+
 ## 20230624
 - [Phoronix](https://www.phoronix.com/) | [Intel Releases x86-simd-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
 - [Phoronix](https://www.phoronix.com/) | [Firewalld 2.0 Released With Faster Forwarding Performance Via NFTables Flowtable](https://www.phoronix.com/news/Firewalld-2.0)

@@ -1,3 +1,6 @@
+## 20230625
+- [9to5Linux](https://9to5linux.com/) | [Ardour 7.5 Revamps Tempo Maps Editing, Remembers I/O Connections Per Device](https://9to5linux.com/ardour-7-5-revamps-tempo-maps-editing-remembers-i-o-connections-per-device)
+
 ## 20230624
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.3](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-3)
 

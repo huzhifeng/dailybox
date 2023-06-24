@@ -1,3 +1,8 @@
+## 20230625
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ykdojo/kaguya](https://github.com/ykdojo/kaguya)
+
 ## 20230624
 - [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started)

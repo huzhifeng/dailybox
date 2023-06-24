@@ -1,3 +1,6 @@
+## 20230625
+- [LibHunt](https://www.libhunt.com/) | [OpenLLM](https://www.libhunt.com/r/OpenLLM)
+
 ## 20230624
 - [LibHunt](https://www.libhunt.com/) | [scrcpy](https://www.libhunt.com/r/scrcpy)
 - [LibHunt](https://www.libhunt.com/) | [revanced-manager](https://www.libhunt.com/r/revanced-manager)
