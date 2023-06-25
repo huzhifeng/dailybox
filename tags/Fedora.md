@@ -1,3 +1,6 @@
+## 20230626
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
+
 ## 20230625
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
 

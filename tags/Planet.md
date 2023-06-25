@@ -1,3 +1,15 @@
+## 20230626
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: The Ideal Microconference Topic Session](https://lpc.events/blog/current/index.php/2023/06/26/the-ideal-microconference-topic-session/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Figuring out the right card for foreign currency transactions](https://www.earth.li/~noodles/blog/2023/06/foreign-currency-debit-cards.html)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: update-info.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-25.html.en#2023-Jun-25-20:44:25)
+- [Planet Gentoo](https://planet.gentoo.org/) | [Week 4 Report, Automated Gentoo System Updater](https://blogs.gentoo.org/gsoc/2023/06/25/week-4-report-automated-gentoo-system-updater/)
+- [Planet Gentoo](https://planet.gentoo.org/) | [gentoo_update Introduction](https://blogs.gentoo.org/gsoc/2023/06/25/gentoo_update-introduction/)
+- [Planet Gentoo](https://planet.gentoo.org/) | [Week 4 report on porting Gentoo packages to modern C](https://blogs.gentoo.org/gsoc/2023/06/25/week-4-report-on-porting-gentoo-packages-to-modern-c/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08 release schedule](https://tsdgeos.blogspot.com/2023/06/kde-gear-2308-release-schedule.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [I got married!](https://akselmo.dev/posts/i-got-married/?utm_source=atom_feed)
+
 ## 20230625
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
 - [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple REPL for CP/M, in Z80 assembly](https://blog.steve.fi/simple_repl_for_cp_m__in_z80_assembly.html)

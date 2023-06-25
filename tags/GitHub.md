@@ -1,3 +1,8 @@
+## 20230626
+- [GitHub中文社区](https://www.githubs.cn/trending) | [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB)
+
 ## 20230625
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)

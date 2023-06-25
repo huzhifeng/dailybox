@@ -1,3 +1,6 @@
+## 20230626
+- [diff.blog](https://diff.blog/) | [Time is not a synchronization primitive](https://diff.blog/post/time-is-not-a-synchronization-primitive-142248/)
+
 ## 20230624
 - [diff.blog](https://diff.blog/) | [Improved API tokens for crates.io](https://diff.blog/post/improved-api-tokens-for-cratesio-142142/)
 - [diff.blog](https://diff.blog/) | [Google Domains to shut down](https://diff.blog/post/google-domains-to-shut-down-142110/)

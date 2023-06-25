@@ -1,3 +1,8 @@
+## 20230626
+- [Lobsters](https://lobste.rs/) | [Use `.config` to store your project configs](https://lobste.rs/s/wac58n/use_config_store_your_project_configs)
+- [Lobsters](https://lobste.rs/) | [A case for ClojureScript 2.0](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0)
+- [Lobsters](https://lobste.rs/) | [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
+
 ## 20230625
 - [Lobsters](https://lobste.rs/) | [XML is the future](https://lobste.rs/s/nqahtz/xml_is_future)
 - [Lobsters](https://lobste.rs/) | [The E-graph extraction problem is NP-complete](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete)

@@ -1,3 +1,8 @@
+## 20230626
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Figuring out the right card for foreign currency transactions](https://www.earth.li/~noodles/blog/2023/06/foreign-currency-debit-cards.html)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: update-info.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jun-25.html.en#2023-Jun-25-20:44:25)
+
 ## 20230625
 - [Planet Debian](https://planet.debian.org/) | [Steve Kemp: Simple REPL for CP/M, in Z80 assembly](https://blog.steve.fi/simple_repl_for_cp_m__in_z80_assembly.html)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Rose/House](https://www.eyrie.org/~eagle/reviews/books/1-64524-034-7.html)

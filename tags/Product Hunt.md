@@ -1,3 +1,8 @@
+## 20230626
+- [Product Hunt](https://www.producthunt.com) | [Jarside.ai](https://www.producthunt.com/posts/jarside-ai)
+- [Product Hunt](https://www.producthunt.com) | [SatoshiGPT](https://www.producthunt.com/posts/satoshigpt)
+- [Product Hunt](https://www.producthunt.com) | [Nozzle Keyword Clustering Tool](https://www.producthunt.com/posts/nozzle-keyword-clustering-tool)
+
 ## 20230625
 - [Product Hunt](https://www.producthunt.com) | [HuntedWall](https://www.producthunt.com/posts/huntedwall)
 - [Product Hunt](https://www.producthunt.com) | [HumanCircles.AI](https://www.producthunt.com/posts/humancircles-ai)

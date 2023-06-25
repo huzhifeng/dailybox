@@ -1,3 +1,10 @@
+## 20230626
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [王慧文因健康问题辞任美团董事；数百万GitHub项目易受依赖库劫持攻击；特斯拉首台超级计算机或在七月投产|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131390793)
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [马斯克和扎克伯格线上约架，地点“票价”都已定；超10万个ChatGPT账号泄露；苹果推出Vision Pro开发工具|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131371057)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析K8S存储](https://blog.csdn.net/weixin_36755535/article/details/131378439)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【探索AI未来】自动驾驶时代下的人工智能技术与挑战](https://blog.csdn.net/2301_77485708/article/details/131353653)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习强基计划9-2：图解字典学习KSVD算法(附Python实战)](https://blog.csdn.net/FRIGIDWINTER/article/details/131379974)
+
 ## 20230625
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [开源计算机视觉库OpenCV详解](https://blog.csdn.net/chenlycly/article/details/131352357)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Oralce系列十九：Oralce的体系结构](https://blog.csdn.net/apr15/article/details/131358913)
