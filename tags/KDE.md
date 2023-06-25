@@ -1,3 +1,7 @@
+## 20230626
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08 release schedule](https://tsdgeos.blogspot.com/2023/06/kde-gear-2308-release-schedule.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [I got married!](https://akselmo.dev/posts/i-got-married/?utm_source=atom_feed)
+
 ## 20230625
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: SDDM](https://pointieststick.com/2023/06/23/this-week-in-kde-sddm/)
 

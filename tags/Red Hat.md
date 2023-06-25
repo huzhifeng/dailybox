@@ -1,3 +1,7 @@
+## 20230626
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat OpenShift 4.13](https://developers.redhat.com/articles/2023/06/26/whats-new-red-hat-openshift-413)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy apps in a K8s cluster via automation controller](https://developers.redhat.com/articles/2023/06/26/how-deploy-apps-k8s-cluster-automation-controller)
+
 ## 20230624
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)
 

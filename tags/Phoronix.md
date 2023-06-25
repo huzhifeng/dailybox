@@ -1,3 +1,8 @@
+## 20230626
+- [Phoronix](https://www.phoronix.com/) | [GNU Linux-libre 6.4 Released For Stripping Out Possible Binary Blob Dependencies](https://www.phoronix.com/news/GNU-Linux-Libre-6.4)
+- [Phoronix](https://www.phoronix.com/) | [Mozilla Firefox 116 To Allow For Wayland-Only Builds](https://www.phoronix.com/news/Firefox-116-Allow-Wayland-Only)
+- [Phoronix](https://www.phoronix.com/) | [XFS Support For FS-VERITY Moves Closer To Mainline](https://www.phoronix.com/news/Linux-6.5-FS-VERITY)
+
 ## 20230625
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4 Bringing Great Improvements From AMD G.A.M. To Early Apple M2 Code, More Rust](https://www.phoronix.com/news/Linux-6.4-Feature-Recap)
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Driver Change Leads To A Big Speed-Up Under Linux](https://www.phoronix.com/news/Intel-L3-Partial-Write-DG2)

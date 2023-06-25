@@ -1,3 +1,8 @@
+## 20230626
+- [V2EX](https://www.v2ex.com/) | [2019 款 15 寸 MacBookPro i9，最后一代英特尔 Intel 处理器，该何去何从……](https://www.v2ex.com/t/951781)
+- [V2EX](https://www.v2ex.com/) | [如果让你变回 6 岁小孩子。重来一次，你能牛逼吗？](https://www.v2ex.com/t/951753)
+- [V2EX](https://www.v2ex.com/) | [关于房地产的一点猜想](https://www.v2ex.com/t/951706)
+
 ## 20230625
 - [V2EX](https://www.v2ex.com/) | [开空调冷，不开又热。怎么解？](https://www.v2ex.com/t/951231)
 - [V2EX](https://www.v2ex.com/) | [老婆非常鸡娃，每天家里整的鸡飞狗跳怎么搞](https://www.v2ex.com/t/951211)
