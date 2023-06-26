@@ -1,3 +1,8 @@
+## 20230627
+- [9to5Linux](https://9to5linux.com/) | [Open-Source NVIDIA Vulkan Driver NVK Now Supports Older GPUs, New Extensions](https://9to5linux.com/open-source-nvidia-vulkan-driver-nvk-now-supports-older-gpus-new-extensions)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.4 Kernel Released for Those Who Want to Build 100% Free PCs](https://9to5linux.com/gnu-linux-libre-6-4-kernel-released-for-those-who-want-to-build-100-free-pcs)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 25th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-25th-2023)
+
 ## 20230626
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.4 Kernel Released for Those Who Want to Build 100% Free PCs](https://9to5linux.com/gnu-linux-libre-6-4-kernel-released-for-those-who-want-to-build-100-free-pcs)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 25th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-25th-2023)

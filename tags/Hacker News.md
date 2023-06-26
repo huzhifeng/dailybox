@@ -1,3 +1,8 @@
+## 20230627
+- [Hacker News](https://news.ycombinator.com/front) | [Corporate profits account for almost half the increase in Europe’s inflation](https://news.ycombinator.com/item?id=36483276)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://news.ycombinator.com/item?id=36480687)
+- [Hacker News](https://news.ycombinator.com/front) | [Google has a secret browser hidden inside the settings](https://news.ycombinator.com/item?id=36478206)
+
 ## 20230625
 - [Hacker News](https://news.ycombinator.com/front) | [Do, or do not. There is no try](https://news.ycombinator.com/item?id=36461102)
 

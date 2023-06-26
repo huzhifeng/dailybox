@@ -1,3 +1,6 @@
+## 20230627
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #3: Passing Arguments and Accepting User Inputs](https://itsfoss.com/bash-pass-arguments/)
+
 ## 20230626
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #3: Passing Arguments and Accepting User Inputs](https://itsfoss.com/bash-pass-arguments/)
 
