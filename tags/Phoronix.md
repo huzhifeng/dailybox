@@ -1,3 +1,8 @@
+## 20230627
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://www.phoronix.com/news/Red-Hat-Open-Source-Commitment)
+- [Phoronix](https://www.phoronix.com/) | [NVK Open-Source NVIDIA Vulkan Driver Progresses On Running Some Games](https://www.phoronix.com/news/NVK-Summer-2023-Status)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 39 Eyes Switch To Anaconda WebUI For Installations](https://www.phoronix.com/news/F39-Workstation-Anaconda-Plan)
+
 ## 20230626
 - [Phoronix](https://www.phoronix.com/) | [GNU Linux-libre 6.4 Released For Stripping Out Possible Binary Blob Dependencies](https://www.phoronix.com/news/GNU-Linux-Libre-6.4)
 - [Phoronix](https://www.phoronix.com/) | [Mozilla Firefox 116 To Allow For Wayland-Only Builds](https://www.phoronix.com/news/Firefox-116-Allow-Wayland-Only)

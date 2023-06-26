@@ -1,3 +1,8 @@
+## 20230627
+- [V2EX](https://www.v2ex.com/) | [2019 款 15 寸 MacBookPro i9，最后一代英特尔 Intel 处理器，该何去何从……](https://www.v2ex.com/t/951781)
+- [V2EX](https://www.v2ex.com/) | [如果让你变回 6 岁小孩子。重来一次，你能牛逼吗？](https://www.v2ex.com/t/951753)
+- [V2EX](https://www.v2ex.com/) | [哪本书对你影响最大，让你有了新的认识？](https://www.v2ex.com/t/951691)
+
 ## 20230626
 - [V2EX](https://www.v2ex.com/) | [2019 款 15 寸 MacBookPro i9，最后一代英特尔 Intel 处理器，该何去何从……](https://www.v2ex.com/t/951781)
 - [V2EX](https://www.v2ex.com/) | [如果让你变回 6 岁小孩子。重来一次，你能牛逼吗？](https://www.v2ex.com/t/951753)

@@ -1,3 +1,6 @@
+## 20230627
+- [TED Talks Daily](https://www.ted.com/talks) | [A modern argument for the rights of animals | Peter Singer](https://www.ted.com/talks/peter_singer_a_modern_argument_for_the_rights_of_animals?rss)
+
 ## 20230624
 - [TED Talks Daily](https://www.ted.com/talks) | [Why Iranians are cutting their hair for "Woman, Life, Freedom" | Sahar Zand](https://www.ted.com/talks/sahar_zand_why_iranians_are_cutting_their_hair_for_woman_life_freedom?rss)
 

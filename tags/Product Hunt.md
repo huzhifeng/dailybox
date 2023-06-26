@@ -1,3 +1,8 @@
+## 20230627
+- [Product Hunt](https://www.producthunt.com) | [Generative QR by Stockimg AI](https://www.producthunt.com/posts/generative-qr-by-stockimg-ai)
+- [Product Hunt](https://www.producthunt.com) | [The New Spotify Desktop](https://www.producthunt.com/posts/the-new-spotify-desktop)
+- [Product Hunt](https://www.producthunt.com) | [Jarside.ai](https://www.producthunt.com/posts/jarside-ai)
+
 ## 20230626
 - [Product Hunt](https://www.producthunt.com) | [Jarside.ai](https://www.producthunt.com/posts/jarside-ai)
 - [Product Hunt](https://www.producthunt.com) | [SatoshiGPT](https://www.producthunt.com/posts/satoshigpt)

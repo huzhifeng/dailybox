@@ -1,3 +1,6 @@
+## 20230627
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
+
 ## 20230626
 - [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Figuring out the right card for foreign currency transactions](https://www.earth.li/~noodles/blog/2023/06/foreign-currency-debit-cards.html)

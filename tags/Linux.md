@@ -1,3 +1,19 @@
+## 20230627
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1044 中国论文贡献度首次超越美国](https://linux.cn/article-15945-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat OpenShift 4.13](https://developers.redhat.com/articles/2023/06/26/whats-new-red-hat-openshift-413)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy apps in a K8s cluster via automation controller](https://developers.redhat.com/articles/2023/06/26/how-deploy-apps-k8s-cluster-automation-controller)
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://www.phoronix.com/news/Red-Hat-Open-Source-Commitment)
+- [Phoronix](https://www.phoronix.com/) | [NVK Open-Source NVIDIA Vulkan Driver Progresses On Running Some Games](https://www.phoronix.com/news/NVK-Summer-2023-Status)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 39 Eyes Switch To Anaconda WebUI For Installations](https://www.phoronix.com/news/F39-Workstation-Anaconda-Plan)
+- [9to5Linux](https://9to5linux.com/) | [Open-Source NVIDIA Vulkan Driver NVK Now Supports Older GPUs, New Extensions](https://9to5linux.com/open-source-nvidia-vulkan-driver-nvk-now-supports-older-gpus-new-extensions)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.4 Kernel Released for Those Who Want to Build 100% Free PCs](https://9to5linux.com/gnu-linux-libre-6-4-kernel-released-for-those-who-want-to-build-100-free-pcs)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 25th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-june-25th-2023)
+- [OMG! Linux](https://www.omglinux.com/) | [FOSS Yeah: GNU Linux-libre Kernel 6.4 Released](https://www.omglinux.com/foss-yeah-gnu-linux-libre-kernel-6-4-released/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: The Ideal Microconference Topic Session](https://lpc.events/blog/current/index.php/2023/06/26/the-ideal-microconference-topic-session/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars II: A history of the early 2000s Linux landscape](https://dissociatedpress.net/2023/06/26/red-hat-and-the-clone-wars-ii-a-history-of-the-early-2000s-linux-landscape/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
+
 ## 20230626
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1044 中国论文贡献度首次超越美国](https://linux.cn/article-15945-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1043 数百万 GitHub 项目易受依赖库劫持攻击](https://linux.cn/article-15942-1.html?utm_source=rss&utm_medium=rss)

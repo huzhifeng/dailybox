@@ -1,3 +1,7 @@
+## 20230627
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars II: A history of the early 2000s Linux landscape](https://dissociatedpress.net/2023/06/26/red-hat-and-the-clone-wars-ii-a-history-of-the-early-2000s-linux-landscape/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
+
 ## 20230626
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
 

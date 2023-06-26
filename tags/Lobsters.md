@@ -1,3 +1,8 @@
+## 20230627
+- [Lobsters](https://lobste.rs/) | [Use `.config` to store your project configs](https://lobste.rs/s/wac58n/use_config_store_your_project_configs)
+- [Lobsters](https://lobste.rs/) | [tailer: a rewrite of the CLI tool "spacer" in Go](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go)
+- [Lobsters](https://lobste.rs/) | [A case for ClojureScript 2.0](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0)
+
 ## 20230626
 - [Lobsters](https://lobste.rs/) | [Use `.config` to store your project configs](https://lobste.rs/s/wac58n/use_config_store_your_project_configs)
 - [Lobsters](https://lobste.rs/) | [A case for ClojureScript 2.0](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0)

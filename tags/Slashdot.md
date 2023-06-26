@@ -1,3 +1,6 @@
+## 20230627
+- [Slashdot](https://developers.slashdot.org/) | [34% of AP CS Students Couldn't Solve This Java-Based 2D Array Question](https://developers.slashdot.org/story/23/06/26/018234/34-of-ap-cs-students-couldnt-solve-this-java-based-2d-array-question?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230626
 - [Slashdot](https://linux.slashdot.org/) | [EOL For Red Hat 7 and CentOS 7 In 1 Year and a Week](https://linux.slashdot.org/story/23/06/24/059207/eol-for-red-hat-7-and-centos-7-in-1-year-and-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [34% of AP CS Students Couldn't Solve This Java-Based 2D Array Question](https://developers.slashdot.org/story/23/06/26/018234/34-of-ap-cs-students-couldnt-solve-this-java-based-2d-array-question?utm_source=rss1.0mainlinkanon&utm_medium=feed)

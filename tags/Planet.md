@@ -1,3 +1,9 @@
+## 20230627
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: The Ideal Microconference Topic Session](https://lpc.events/blog/current/index.php/2023/06/26/the-ideal-microconference-topic-session/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars II: A history of the early 2000s Linux landscape](https://dissociatedpress.net/2023/06/26/red-hat-and-the-clone-wars-ii-a-history-of-the-early-2000s-linux-landscape/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
+
 ## 20230626
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: The Ideal Microconference Topic Session](https://lpc.events/blog/current/index.php/2023/06/26/the-ideal-microconference-topic-session/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 381 – WTF Reddit, APIs and risk](https://opensourcesecurity.io/2023/06/25/episode-381-wtf-reddit-apis-and-risk/)
