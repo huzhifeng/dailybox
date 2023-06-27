@@ -1,3 +1,8 @@
+## 20230628
+- [V2EX](https://www.v2ex.com/) | [办公室有点阴间温度。绝了](https://www.v2ex.com/t/952044)
+- [V2EX](https://www.v2ex.com/) | [2023 年安卓手机讨论](https://www.v2ex.com/t/952026)
+- [V2EX](https://www.v2ex.com/) | [苹果真的变态！](https://www.v2ex.com/t/951989)
+
 ## 20230627
 - [V2EX](https://www.v2ex.com/) | [2019 款 15 寸 MacBookPro i9，最后一代英特尔 Intel 处理器，该何去何从……](https://www.v2ex.com/t/951781)
 - [V2EX](https://www.v2ex.com/) | [如果让你变回 6 岁小孩子。重来一次，你能牛逼吗？](https://www.v2ex.com/t/951753)

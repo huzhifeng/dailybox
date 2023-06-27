@@ -1,3 +1,6 @@
+## 20230628
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [创造性思维和严格型编程语言](https://manateelazycat.github.io/think/2023/06/27/about-language.html)
+
 ## 20230624
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [最佳代理实践之 v2raya (2023-06-23)](https://manateelazycat.github.io/proxy/2023/06/23/best-proxy.html)
 

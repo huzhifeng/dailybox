@@ -1,3 +1,8 @@
+## 20230628
+- [Lobsters](https://lobste.rs/) | [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response)
+- [Lobsters](https://lobste.rs/) | [Tildes](https://lobste.rs/s/gjyma0/tildes)
+- [Lobsters](https://lobste.rs/) | [The Grug Brained Developer](https://lobste.rs/s/ifaar4/grug_brained_developer)
+
 ## 20230627
 - [Lobsters](https://lobste.rs/) | [Use `.config` to store your project configs](https://lobste.rs/s/wac58n/use_config_store_your_project_configs)
 - [Lobsters](https://lobste.rs/) | [tailer: a rewrite of the CLI tool "spacer" in Go](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go)

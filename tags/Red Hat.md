@@ -1,3 +1,6 @@
+## 20230628
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Ansible Automation Platform 2.4](https://developers.redhat.com/articles/2023/06/27/ansible-automation-platform-whats-new)
+
 ## 20230627
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat OpenShift 4.13](https://developers.redhat.com/articles/2023/06/26/whats-new-red-hat-openshift-413)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy apps in a K8s cluster via automation controller](https://developers.redhat.com/articles/2023/06/26/how-deploy-apps-k8s-cluster-automation-controller)

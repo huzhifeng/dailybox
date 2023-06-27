@@ -1,3 +1,6 @@
+## 20230628
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://linux.slashdot.org/story/23/06/27/2038259/red-hat-tries-to-address-criticism-over-their-source-repository-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230627
 - [Slashdot](https://developers.slashdot.org/) | [34% of AP CS Students Couldn't Solve This Java-Based 2D Array Question](https://developers.slashdot.org/story/23/06/26/018234/34-of-ap-cs-students-couldnt-solve-this-java-based-2d-array-question?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

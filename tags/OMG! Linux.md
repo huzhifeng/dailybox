@@ -1,3 +1,7 @@
+## 20230628
+- [OMG! Linux](https://www.omglinux.com/) | [Libreboot, the FOSS BIOS Replacement, Sees New Release](https://www.omglinux.com/new-libreboot-stable-release/)
+- [OMG! Linux](https://www.omglinux.com/) | [Fedora Workstation 39 May Use Web-Based Installer](https://www.omglinux.com/fedora-workstation-39-anaconda-webui/)
+
 ## 20230627
 - [OMG! Linux](https://www.omglinux.com/) | [FOSS Yeah: GNU Linux-libre Kernel 6.4 Released](https://www.omglinux.com/foss-yeah-gnu-linux-libre-kernel-6-4-released/)
 

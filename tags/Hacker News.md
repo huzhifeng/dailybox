@@ -1,3 +1,8 @@
+## 20230628
+- [Hacker News](https://news.ycombinator.com/front) | [The Password Game](https://news.ycombinator.com/item?id=36493715)
+- [Hacker News](https://news.ycombinator.com/front) | [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://news.ycombinator.com/item?id=36492329)
+- [Hacker News](https://news.ycombinator.com/front) | [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://news.ycombinator.com/item?id=36492010)
+
 ## 20230627
 - [Hacker News](https://news.ycombinator.com/front) | [Corporate profits account for almost half the increase in Europe’s inflation](https://news.ycombinator.com/item?id=36483276)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://news.ycombinator.com/item?id=36480687)
