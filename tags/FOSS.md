@@ -1,3 +1,6 @@
+## 20230628
+- [It's FOSS](https://itsfoss.com/) | [Using cat Command in Linux](https://itsfoss.com/cat-command/)
+
 ## 20230627
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #3: Passing Arguments and Accepting User Inputs](https://itsfoss.com/bash-pass-arguments/)
 

@@ -1,3 +1,9 @@
+## 20230628
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [李彦宏：文心大模型 3.5 版本推理速度提升 17 倍；ChatGPT 访问量增速大降；Linux 6.4 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131410046)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云计算——虚拟化层架构](https://blog.csdn.net/yj11290301/article/details/131377983)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习强基计划9-2：图解字典学习KSVD算法(附Python实战)](https://blog.csdn.net/FRIGIDWINTER/article/details/131379974)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [为什么我心中TOP1的编程语言是Java？我为什么选择Java？](https://blog.csdn.net/zhangxia_/article/details/131419272)
+
 ## 20230627
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [王慧文因健康问题辞任美团董事；数百万GitHub项目易受依赖库劫持攻击；特斯拉首台超级计算机或在七月投产|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131390793)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析K8S存储](https://blog.csdn.net/weixin_36755535/article/details/131378439)

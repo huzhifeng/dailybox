@@ -1,3 +1,8 @@
+## 20230628
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Takes On A Performance Patch: "I Relax By Playing With Inline Assembly"](https://www.phoronix.com/news/Linus-Torvalds-Relax-Inline-ASM)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Now Defaults To AMD P-State "Active" EPP For Modern Ryzen Systems](https://www.phoronix.com/news/Linux-6.5-Power-Management)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Enhance Load Balancing For Intel Hybrid CPUs](https://www.phoronix.com/news/Linux-6.5-Intel-Hybrid-Sched)
+
 ## 20230627
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://www.phoronix.com/news/Red-Hat-Open-Source-Commitment)
 - [Phoronix](https://www.phoronix.com/) | [NVK Open-Source NVIDIA Vulkan Driver Progresses On Running Some Games](https://www.phoronix.com/news/NVK-Summer-2023-Status)

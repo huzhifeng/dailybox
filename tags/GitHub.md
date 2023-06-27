@@ -1,3 +1,8 @@
+## 20230628
+- [GitHub中文社区](https://www.githubs.cn/trending) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
+
 ## 20230627
 - [GitHub中文社区](https://www.githubs.cn/trending) | [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [sveltejs/svelte](https://github.com/sveltejs/svelte)

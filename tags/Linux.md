@@ -1,3 +1,18 @@
+## 20230628
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1045 人工智能正在扼杀旧互联网](https://linux.cn/article-15948-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Ansible Automation Platform 2.4](https://developers.redhat.com/articles/2023/06/27/ansible-automation-platform-whats-new)
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Takes On A Performance Patch: "I Relax By Playing With Inline Assembly"](https://www.phoronix.com/news/Linus-Torvalds-Relax-Inline-ASM)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Now Defaults To AMD P-State "Active" EPP For Modern Ryzen Systems](https://www.phoronix.com/news/Linux-6.5-Power-Management)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 To Enhance Load Balancing For Intel Hybrid CPUs](https://www.phoronix.com/news/Linux-6.5-Intel-Hybrid-Sched)
+- [9to5Linux](https://9to5linux.com/) | [Blender 3.6 LTS Adds Light Trees Support on AMD GPUs, HW Ray-Tracing on Intel Arc](https://9to5linux.com/blender-3-6-lts-adds-light-trees-support-on-amd-gpus-hw-ray-tracing-on-intel-arc)
+- [OMG! Linux](https://www.omglinux.com/) | [Libreboot, the FOSS BIOS Replacement, Sees New Release](https://www.omglinux.com/new-libreboot-stable-release/)
+- [OMG! Linux](https://www.omglinux.com/) | [Fedora Workstation 39 May Use Web-Based Installer](https://www.omglinux.com/fedora-workstation-39-anaconda-webui/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Importance of Machine Learning Engineers, again](https://avi.alkalay.net/2023/06/importance-of-mlengineering.html)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Xfce4 opening links in Chromium despite Firefox having been set as the default browser](https://daniel-lange.com/archives/184-Xfce4-opening-links-in-Chromium-despite-Firefox-having-been-set-as-the-default-browser.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Running a ChatGPT Type System](https://etbe.coker.com.au/2023/06/27/running-a-chatgpt-type-system/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: The future of the eID on RHEL](https://grep.be/blog//en/work/The_future_of_the_eID_on_RHEL/)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://linux.slashdot.org/story/23/06/27/2038259/red-hat-tries-to-address-criticism-over-their-source-repository-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230627
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1044 中国论文贡献度首次超越美国](https://linux.cn/article-15945-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat OpenShift 4.13](https://developers.redhat.com/articles/2023/06/26/whats-new-red-hat-openshift-413)

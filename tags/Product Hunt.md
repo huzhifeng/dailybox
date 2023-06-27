@@ -1,3 +1,8 @@
+## 20230628
+- [Product Hunt](https://www.producthunt.com) | [Swantide](https://www.producthunt.com/posts/swantide)
+- [Product Hunt](https://www.producthunt.com) | [Wyndy](https://www.producthunt.com/posts/wyndy)
+- [Product Hunt](https://www.producthunt.com) | [Body Scan by Zing](https://www.producthunt.com/posts/body-scan-by-zing)
+
 ## 20230627
 - [Product Hunt](https://www.producthunt.com) | [Generative QR by Stockimg AI](https://www.producthunt.com/posts/generative-qr-by-stockimg-ai)
 - [Product Hunt](https://www.producthunt.com) | [The New Spotify Desktop](https://www.producthunt.com/posts/the-new-spotify-desktop)

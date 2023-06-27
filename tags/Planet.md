@@ -1,3 +1,9 @@
+## 20230628
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Importance of Machine Learning Engineers, again](https://avi.alkalay.net/2023/06/importance-of-mlengineering.html)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Xfce4 opening links in Chromium despite Firefox having been set as the default browser](https://daniel-lange.com/archives/184-Xfce4-opening-links-in-Chromium-despite-Firefox-having-been-set-as-the-default-browser.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Running a ChatGPT Type System](https://etbe.coker.com.au/2023/06/27/running-a-chatgpt-type-system/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: The future of the eID on RHEL](https://grep.be/blog//en/work/The_future_of_the_eID_on_RHEL/)
+
 ## 20230627
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: The Ideal Microconference Topic Session](https://lpc.events/blog/current/index.php/2023/06/26/the-ideal-microconference-topic-session/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars II: A history of the early 2000s Linux landscape](https://dissociatedpress.net/2023/06/26/red-hat-and-the-clone-wars-ii-a-history-of-the-early-2000s-linux-landscape/)

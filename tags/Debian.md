@@ -1,3 +1,8 @@
+## 20230628
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Xfce4 opening links in Chromium despite Firefox having been set as the default browser](https://daniel-lange.com/archives/184-Xfce4-opening-links-in-Chromium-despite-Firefox-having-been-set-as-the-default-browser.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Running a ChatGPT Type System](https://etbe.coker.com.au/2023/06/27/running-a-chatgpt-type-system/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: The future of the eID on RHEL](https://grep.be/blog//en/work/The_future_of_the_eID_on_RHEL/)
+
 ## 20230627
 - [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan 0.106.1 stable release](https://blog.slyon.de/2023/06/26/netplan-0-106-1-stable-release/)
 
