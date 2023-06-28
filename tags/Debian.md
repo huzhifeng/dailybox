@@ -1,3 +1,6 @@
+## 20230629
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Translation State](https://www.eyrie.org/~eagle/reviews/books/0-316-29024-6.html)
+
 ## 20230628
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Xfce4 opening links in Chromium despite Firefox having been set as the default browser](https://daniel-lange.com/archives/184-Xfce4-opening-links-in-Chromium-despite-Firefox-having-been-set-as-the-default-browser.html)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Running a ChatGPT Type System](https://etbe.coker.com.au/2023/06/27/running-a-chatgpt-type-system/)

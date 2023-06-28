@@ -1,3 +1,9 @@
+## 20230629
+- [GitHub中文社区](https://www.githubs.cn/trending) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [embedchain/embedchain](https://github.com/embedchain/embedchain)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies)
+
 ## 20230628
 - [GitHub中文社区](https://www.githubs.cn/trending) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)

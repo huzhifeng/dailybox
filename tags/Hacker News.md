@@ -1,3 +1,7 @@
+## 20230629
+- [Hacker News](https://news.ycombinator.com/front) | [We raised a bunch of money](https://news.ycombinator.com/item?id=36506865)
+- [Hacker News](https://news.ycombinator.com/front) | [Fast machines, slow machines](https://news.ycombinator.com/item?id=36503983)
+
 ## 20230628
 - [Hacker News](https://news.ycombinator.com/front) | [The Password Game](https://news.ycombinator.com/item?id=36493715)
 - [Hacker News](https://news.ycombinator.com/front) | [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://news.ycombinator.com/item?id=36492329)

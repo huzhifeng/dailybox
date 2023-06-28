@@ -1,3 +1,8 @@
+## 20230629
+- [Lobsters](https://lobste.rs/) | [GMail is Marking My Email as Spam](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam)
+- [Lobsters](https://lobste.rs/) | [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally)
+- [Lobsters](https://lobste.rs/) | [Programming Languages Going Above and Beyond](https://lobste.rs/s/jgk0id/programming_languages_going_above)
+
 ## 20230628
 - [Lobsters](https://lobste.rs/) | [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response)
 - [Lobsters](https://lobste.rs/) | [Tildes](https://lobste.rs/s/gjyma0/tildes)

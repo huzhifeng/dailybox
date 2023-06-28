@@ -1,3 +1,6 @@
+## 20230629
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms)
+
 ## 20230623
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators)
 

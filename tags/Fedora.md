@@ -1,3 +1,6 @@
+## 20230629
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Creative Freedom Art Challenge 2023 !](https://badges.fedoraproject.org/badge/creative-freedom-art-challenge-2023)
+
 ## 20230628
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Importance of Machine Learning Engineers, again](https://avi.alkalay.net/2023/06/importance-of-mlengineering.html)
 
