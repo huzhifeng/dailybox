@@ -1,3 +1,8 @@
+## 20230629
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.42.8 Adds Support for Port Priority for Bonding and PPP 2.5](https://9to5linux.com/networkmanager-1-42-8-adds-support-for-port-priority-for-bonding-and-ppp-2-5)
+- [9to5Linux](https://9to5linux.com/) | [You Can Finally Upgrade Your Zorin OS PCs with the Zorin OS Upgrader](https://9to5linux.com/you-can-finally-upgrade-your-zorin-os-pcs-with-the-zorin-os-upgrader)
+- [9to5Linux](https://9to5linux.com/) | [New TUXEDO InfinityBook Pro 16 Linux Laptop Gets NVIDIA RTX 4000 Series GPUs](https://9to5linux.com/new-tuxedo-infinitybook-pro-16-linux-laptop-gets-nvidia-rtx-4000-series-gpus)
+
 ## 20230628
 - [9to5Linux](https://9to5linux.com/) | [Blender 3.6 LTS Adds Light Trees Support on AMD GPUs, HW Ray-Tracing on Intel Arc](https://9to5linux.com/blender-3-6-lts-adds-light-trees-support-on-amd-gpus-hw-ray-tracing-on-intel-arc)
 

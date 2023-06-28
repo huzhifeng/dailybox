@@ -1,3 +1,6 @@
+## 20230629
+- [TED Talks Daily](https://www.ted.com/talks) | [How to fund real change in your community | Rebecca Darwent](https://www.ted.com/talks/rebecca_darwent_how_to_fund_real_change_in_your_community?rss)
+
 ## 20230628
 - [TED Talks Daily](https://www.ted.com/talks) | [A powerful new neurotech tool for augmenting your mind | Conor Russomanno](https://www.ted.com/talks/conor_russomanno_a_powerful_new_neurotech_tool_for_augmenting_your_mind?rss)
 

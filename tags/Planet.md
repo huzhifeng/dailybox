@@ -1,3 +1,8 @@
+## 20230629
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Creative Freedom Art Challenge 2023 !](https://badges.fedoraproject.org/badge/creative-freedom-art-challenge-2023)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Translation State](https://www.eyrie.org/~eagle/reviews/books/0-316-29024-6.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms)
+
 ## 20230628
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Importance of Machine Learning Engineers, again](https://avi.alkalay.net/2023/06/importance-of-mlengineering.html)
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: Xfce4 opening links in Chromium despite Firefox having been set as the default browser](https://daniel-lange.com/archives/184-Xfce4-opening-links-in-Chromium-despite-Firefox-having-been-set-as-the-default-browser.html)

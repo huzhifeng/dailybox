@@ -1,3 +1,15 @@
+## 20230629
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1046 红帽认为 RHEL 克隆品是对开源公司的“真正威胁”](https://linux.cn/article-15951-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA CUDA 12.2 Released With Linux HMM Support](https://www.phoronix.com/news/NVIDIA-CUDA-12.2)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings Sub-NUMA Clustering Support For HPE SGI UV Servers](https://www.phoronix.com/news/Linux-6.5-HPE-SGI-UV-SNC)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max 9480/9468 Show Significant Uplift In HPC & AI Workloads With HBM2e](https://www.phoronix.com/review/xeon-max-9468-9480-hbm2e)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.42.8 Adds Support for Port Priority for Bonding and PPP 2.5](https://9to5linux.com/networkmanager-1-42-8-adds-support-for-port-priority-for-bonding-and-ppp-2-5)
+- [9to5Linux](https://9to5linux.com/) | [You Can Finally Upgrade Your Zorin OS PCs with the Zorin OS Upgrader](https://9to5linux.com/you-can-finally-upgrade-your-zorin-os-pcs-with-the-zorin-os-upgrader)
+- [9to5Linux](https://9to5linux.com/) | [New TUXEDO InfinityBook Pro 16 Linux Laptop Gets NVIDIA RTX 4000 Series GPUs](https://9to5linux.com/new-tuxedo-infinitybook-pro-16-linux-laptop-gets-nvidia-rtx-4000-series-gpus)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Creative Freedom Art Challenge 2023 !](https://badges.fedoraproject.org/badge/creative-freedom-art-challenge-2023)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Translation State](https://www.eyrie.org/~eagle/reviews/books/0-316-29024-6.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms)
+
 ## 20230628
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1045 人工智能正在扼杀旧互联网](https://linux.cn/article-15948-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Ansible Automation Platform 2.4](https://developers.redhat.com/articles/2023/06/27/ansible-automation-platform-whats-new)

@@ -1,3 +1,9 @@
+## 20230629
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [53岁周鸿祎考上清华博士；图灵奖得主杨立昆炮轰ChatGPT：五年内就没人用了；Red Hat恪守对开源的承诺|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131429931)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析K8S调度](https://blog.csdn.net/weixin_36755535/article/details/131415996)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|自动驾驶 迈向无人驾驶未来](https://blog.csdn.net/weixin_54174102/article/details/131430438)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [MySQL：聚合函数（全面详解）](https://blog.csdn.net/weixin_52533007/article/details/131431573)
+
 ## 20230628
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [李彦宏：文心大模型 3.5 版本推理速度提升 17 倍；ChatGPT 访问量增速大降；Linux 6.4 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131410046)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [云计算——虚拟化层架构](https://blog.csdn.net/yj11290301/article/details/131377983)

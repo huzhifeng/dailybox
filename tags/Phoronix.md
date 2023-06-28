@@ -1,3 +1,8 @@
+## 20230629
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA CUDA 12.2 Released With Linux HMM Support](https://www.phoronix.com/news/NVIDIA-CUDA-12.2)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings Sub-NUMA Clustering Support For HPE SGI UV Servers](https://www.phoronix.com/news/Linux-6.5-HPE-SGI-UV-SNC)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max 9480/9468 Show Significant Uplift In HPC & AI Workloads With HBM2e](https://www.phoronix.com/review/xeon-max-9468-9480-hbm2e)
+
 ## 20230628
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Takes On A Performance Patch: "I Relax By Playing With Inline Assembly"](https://www.phoronix.com/news/Linus-Torvalds-Relax-Inline-ASM)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Now Defaults To AMD P-State "Active" EPP For Modern Ryzen Systems](https://www.phoronix.com/news/Linux-6.5-Power-Management)
