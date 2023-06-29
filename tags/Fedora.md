@@ -1,3 +1,6 @@
+## 20230630
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Why do Kubernetes Control Planes have an odd number of members?](https://fale.io/blog/2023/06/29/why-do-kubernetes-control-planes-have-an-odd-number-of-members)
+
 ## 20230629
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Creative Freedom Art Challenge 2023 !](https://badges.fedoraproject.org/badge/creative-freedom-art-challenge-2023)
 

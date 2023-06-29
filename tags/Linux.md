@@ -1,3 +1,19 @@
+## 20230630
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1047 ReactOS 项目冒泡表示还活着](https://linux.cn/article-15954-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to develop and deploy OpenShift console dynamic plugin](https://developers.redhat.com/articles/2023/06/29/how-develop-and-deploy-openshift-console-dynamic-plugin)
+- [Phoronix](https://www.phoronix.com/) | [Rocky Linux Shares How They May Continue To Obtain The RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
+- [Phoronix](https://www.phoronix.com/) | [Alibaba T-Head TH1520 RISC-V CPU & A Few New Arm SoCs Ready For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-SoCs)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Z1 Extreme: Windows vs. Linux CPU Performance](https://www.phoronix.com/review/ryzen-z1-extreme)
+- [9to5Linux](https://9to5linux.com/) | [Canonical Releases New Ubuntu Kernel Security Updates to Fix 3 Vulnerabilities](https://9to5linux.com/canonical-releases-new-ubuntu-kernel-security-updates-to-fix-3-vulnerabilities)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 2.9 Released with New Upgrade Tool, Latest KDE Software, and Much More](https://9to5linux.com/nitrux-2-9-released-with-new-upgrade-tool-latest-kde-software-and-much-more)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Why do Kubernetes Control Planes have an odd number of members?](https://fale.io/blog/2023/06/29/why-do-kubernetes-control-planes-have-an-odd-number-of-members)
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: Converting a windows install to a libvirt VM](https://wp.c9h.org/cj/?p=1952)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: Using signal-cli to cancel your Signal account](https://anarc.at/blog/2023-06-28-using-signal-cli-to-unregister/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Semiosis](https://www.eyrie.org/~eagle/reviews/books/0-7653-9137-6.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E253 Galifão D'Água](https://podcastubuntuportugal.org/e253/)
+
 ## 20230629
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1046 红帽认为 RHEL 克隆品是对开源公司的“真正威胁”](https://linux.cn/article-15951-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA CUDA 12.2 Released With Linux HMM Support](https://www.phoronix.com/news/NVIDIA-CUDA-12.2)

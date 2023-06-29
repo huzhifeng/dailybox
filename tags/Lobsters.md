@@ -1,3 +1,8 @@
+## 20230630
+- [Lobsters](https://lobste.rs/) | [NixOS and my Descent into Insanity](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity)
+- [Lobsters](https://lobste.rs/) | [CLI tools hidden in the Python standard library](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library)
+- [Lobsters](https://lobste.rs/) | [The AWK Programming Language, Second Edition](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition)
+
 ## 20230629
 - [Lobsters](https://lobste.rs/) | [GMail is Marking My Email as Spam](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam)
 - [Lobsters](https://lobste.rs/) | [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally)

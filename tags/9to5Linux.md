@@ -1,3 +1,7 @@
+## 20230630
+- [9to5Linux](https://9to5linux.com/) | [Canonical Releases New Ubuntu Kernel Security Updates to Fix 3 Vulnerabilities](https://9to5linux.com/canonical-releases-new-ubuntu-kernel-security-updates-to-fix-3-vulnerabilities)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 2.9 Released with New Upgrade Tool, Latest KDE Software, and Much More](https://9to5linux.com/nitrux-2-9-released-with-new-upgrade-tool-latest-kde-software-and-much-more)
+
 ## 20230629
 - [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.42.8 Adds Support for Port Priority for Bonding and PPP 2.5](https://9to5linux.com/networkmanager-1-42-8-adds-support-for-port-priority-for-bonding-and-ppp-2-5)
 - [9to5Linux](https://9to5linux.com/) | [You Can Finally Upgrade Your Zorin OS PCs with the Zorin OS Upgrader](https://9to5linux.com/you-can-finally-upgrade-your-zorin-os-pcs-with-the-zorin-os-upgrader)

@@ -1,3 +1,6 @@
+## 20230630
+- [TED Talks Daily](https://www.ted.com/talks) | [A liberating vision of identity that transcends labels | Jioji Ravulo](https://www.ted.com/talks/jioji_ravulo_a_liberating_vision_of_identity_that_transcends_labels?rss)
+
 ## 20230629
 - [TED Talks Daily](https://www.ted.com/talks) | [How to fund real change in your community | Rebecca Darwent](https://www.ted.com/talks/rebecca_darwent_how_to_fund_real_change_in_your_community?rss)
 
