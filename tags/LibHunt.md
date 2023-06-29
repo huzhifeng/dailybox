@@ -1,3 +1,8 @@
+## 20230630
+- [LibHunt](https://www.libhunt.com/) | [Hacker-Typer](https://www.libhunt.com/r/Hacker-Typer)
+- [LibHunt](https://www.libhunt.com/) | [ASP.NET Core](https://www.libhunt.com/r/aspnetcore)
+- [LibHunt](https://www.libhunt.com/) | [obsidian-releases](https://www.libhunt.com/r/obsidian-releases)
+
 ## 20230629
 - [LibHunt](https://www.libhunt.com/) | [TypeScript](https://www.libhunt.com/r/TypeScript)
 - [LibHunt](https://www.libhunt.com/) | [sub.rehab](https://www.libhunt.com/r/sub.rehab)

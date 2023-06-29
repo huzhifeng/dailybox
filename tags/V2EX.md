@@ -1,3 +1,8 @@
+## 20230630
+- [V2EX](https://www.v2ex.com/) | [这些年诞生的一个非常暴利而又低调的一个行业](https://www.v2ex.com/t/952753)
+- [V2EX](https://www.v2ex.com/) | [突然有一个想法：公司辞退员工需要付赔偿金。那员工主动离职，（可能）给公司造成了损失，是不是也需要支付一定的赔偿金呢？](https://www.v2ex.com/t/952698)
+- [V2EX](https://www.v2ex.com/) | [想在 v2 上搞一个即时群聊🐶，一边刷贴一边聊天，大家觉得这想法咋样？](https://www.v2ex.com/t/952634)
+
 ## 20230629
 - [V2EX](https://www.v2ex.com/) | [关于半个月前，有 V 友 998 元卖日赚 200 的项目(即将跑路)后续，给大家警醒](https://www.v2ex.com/t/952480)
 - [V2EX](https://www.v2ex.com/) | [​坐标西安，人生第一台车，买油还是混还是电？](https://www.v2ex.com/t/952411)

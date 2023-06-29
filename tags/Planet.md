@@ -1,3 +1,12 @@
+## 20230630
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Why do Kubernetes Control Planes have an odd number of members?](https://fale.io/blog/2023/06/29/why-do-kubernetes-control-planes-have-an-odd-number-of-members)
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: Converting a windows install to a libvirt VM](https://wp.c9h.org/cj/?p=1952)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: Using signal-cli to cancel your Signal account](https://anarc.at/blog/2023-06-28-using-signal-cli-to-unregister/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Semiosis](https://www.eyrie.org/~eagle/reviews/books/0-7653-9137-6.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E253 Galifão D'Água](https://podcastubuntuportugal.org/e253/)
+
 ## 20230629
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: Creative Freedom Art Challenge 2023 !](https://badges.fedoraproject.org/badge/creative-freedom-art-challenge-2023)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Translation State](https://www.eyrie.org/~eagle/reviews/books/0-316-29024-6.html)

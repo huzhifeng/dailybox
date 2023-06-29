@@ -1,3 +1,8 @@
+## 20230630
+- [Phoronix](https://www.phoronix.com/) | [Rocky Linux Shares How They May Continue To Obtain The RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
+- [Phoronix](https://www.phoronix.com/) | [Alibaba T-Head TH1520 RISC-V CPU & A Few New Arm SoCs Ready For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-SoCs)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Z1 Extreme: Windows vs. Linux CPU Performance](https://www.phoronix.com/review/ryzen-z1-extreme)
+
 ## 20230629
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA CUDA 12.2 Released With Linux HMM Support](https://www.phoronix.com/news/NVIDIA-CUDA-12.2)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings Sub-NUMA Clustering Support For HPE SGI UV Servers](https://www.phoronix.com/news/Linux-6.5-HPE-SGI-UV-SNC)

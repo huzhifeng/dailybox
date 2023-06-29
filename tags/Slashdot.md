@@ -1,3 +1,6 @@
+## 20230630
+- [Slashdot](https://developers.slashdot.org/) | [Oracle Spending 'Billions' on Nvidia Chips This Year, Ellison Says](https://developers.slashdot.org/story/23/06/29/0857259/oracle-spending-billions-on-nvidia-chips-this-year-ellison-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230628
 - [Slashdot](https://linux.slashdot.org/) | [Red Hat Tries To Address Criticism Over Their Source Repository Changes](https://linux.slashdot.org/story/23/06/27/2038259/red-hat-tries-to-address-criticism-over-their-source-repository-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

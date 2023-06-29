@@ -1,3 +1,6 @@
+## 20230630
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.26: Linux Kernel 6.4, Red Hat Lock Down, Exodia OS and More](https://itsfoss.com/newsletter/foss-weekly-23-26/)
+
 ## 20230628
 - [It's FOSS](https://itsfoss.com/) | [Using cat Command in Linux](https://itsfoss.com/cat-command/)
 

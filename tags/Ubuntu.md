@@ -1,3 +1,8 @@
+## 20230630
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E253 Galifão D'Água](https://podcastubuntuportugal.org/e253/)
+
 ## 20230629
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms)
 

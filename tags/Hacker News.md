@@ -1,3 +1,7 @@
+## 20230630
+- [Hacker News](https://news.ycombinator.com/front) | [Supreme Court strikes down affirmative action in college admissions](https://news.ycombinator.com/item?id=36520658)
+- [Hacker News](https://news.ycombinator.com/front) | [The Awk Programming Language, Second Edition](https://news.ycombinator.com/item?id=36517525)
+
 ## 20230629
 - [Hacker News](https://news.ycombinator.com/front) | [We raised a bunch of money](https://news.ycombinator.com/item?id=36506865)
 - [Hacker News](https://news.ycombinator.com/front) | [Fast machines, slow machines](https://news.ycombinator.com/item?id=36503983)

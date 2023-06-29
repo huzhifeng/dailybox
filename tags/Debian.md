@@ -1,3 +1,8 @@
+## 20230630
+- [Planet Debian](https://planet.debian.org/) | [C.J. Collier: Converting a windows install to a libvirt VM](https://wp.c9h.org/cj/?p=1952)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: Using signal-cli to cancel your Signal account](https://anarc.at/blog/2023-06-28-using-signal-cli-to-unregister/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Semiosis](https://www.eyrie.org/~eagle/reviews/books/0-7653-9137-6.html)
+
 ## 20230629
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Translation State](https://www.eyrie.org/~eagle/reviews/books/0-316-29024-6.html)
 

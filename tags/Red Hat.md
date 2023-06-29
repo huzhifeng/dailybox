@@ -1,3 +1,6 @@
+## 20230630
+- [Red Hat Developer](https://developers.redhat.com/) | [How to develop and deploy OpenShift console dynamic plugin](https://developers.redhat.com/articles/2023/06/29/how-develop-and-deploy-openshift-console-dynamic-plugin)
+
 ## 20230628
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Ansible Automation Platform 2.4](https://developers.redhat.com/articles/2023/06/27/ansible-automation-platform-whats-new)
 
