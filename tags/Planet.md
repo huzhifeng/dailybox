@@ -1,3 +1,14 @@
+## 20230701
+- [Planet Fedora](http://fedoraplanet.org/) | [Jozef Mlich: NemoMobile in June/2023](https://blog.mlich.cz/2023/06/nemomobile-in-june-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: “Qual é a sua pretensão salarial?”](https://avi.alkalay.net/2023/06/rh-pretensao-salarial.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Libblockdev 3.0](https://storageapis.wordpress.com/2023/06/30/libblockdev-3-0/)
+- [Planet Debian](https://planet.debian.org/) | [Abhijith PA: Running Debian on my phone](https://abhijithpa.me/2023/Running-Debian-on-my-phone/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links June 2023](https://etbe.coker.com.au/2023/06/30/links-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Motherboard battery, Framework, VR headsets, Steam](https://flossexperiences.wordpress.com/2023/06/30/motherboard-battery-framework-vr-headsets-steam/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Monitorama PDX 2023 Retrospective](https://popey.com/blog/2023/06/monitorama-pdx-2023-retrospective/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source)
+
 ## 20230630
 - [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Why do Kubernetes Control Planes have an odd number of members?](https://fale.io/blog/2023/06/29/why-do-kubernetes-control-planes-have-an-odd-number-of-members)
 - [Planet Debian](https://planet.debian.org/) | [C.J. Collier: Converting a windows install to a libvirt VM](https://wp.c9h.org/cj/?p=1952)

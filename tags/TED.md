@@ -1,3 +1,6 @@
+## 20230701
+- [TED Talks Daily](https://www.ted.com/talks) | [How to unleash your inner maximalist through costume | Machine Dazzle](https://www.ted.com/talks/machine_dazzle_how_to_unleash_your_inner_maximalist_through_costume?rss)
+
 ## 20230630
 - [TED Talks Daily](https://www.ted.com/talks) | [A liberating vision of identity that transcends labels | Jioji Ravulo](https://www.ted.com/talks/jioji_ravulo_a_liberating_vision_of_identity_that_transcends_labels?rss)
 

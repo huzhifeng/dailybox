@@ -1,3 +1,8 @@
+## 20230701
+- [Product Hunt](https://www.producthunt.com) | [Microanalytics.io](https://www.producthunt.com/posts/microanalytics-io-1)
+- [Product Hunt](https://www.producthunt.com) | [➤ QRCode AI ⌘](https://www.producthunt.com/posts/qrcode-ai)
+- [Product Hunt](https://www.producthunt.com) | [Signum.AI 4.0](https://www.producthunt.com/posts/signum-ai-4-0)
+
 ## 20230630
 - [Product Hunt](https://www.producthunt.com) | [Remote Contractor Management](https://www.producthunt.com/posts/remote-contractor-management)
 - [Product Hunt](https://www.producthunt.com) | [Arc](https://www.producthunt.com/posts/arc-6)

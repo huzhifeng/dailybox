@@ -1,3 +1,8 @@
+## 20230701
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Monitorama PDX 2023 Retrospective](https://popey.com/blog/2023/06/monitorama-pdx-2023-retrospective/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source)
+
 ## 20230630
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro)
