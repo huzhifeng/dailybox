@@ -1,3 +1,8 @@
+## 20230701
+- [Lobsters](https://lobste.rs/) | [Divorce from LLVM](https://lobste.rs/s/svhzj9/divorce_from_llvm)
+- [Lobsters](https://lobste.rs/) | [CommonJS is hurting JavaScript](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript)
+- [Lobsters](https://lobste.rs/) | [The simplest package manager (for Typst)](https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst)
+
 ## 20230630
 - [Lobsters](https://lobste.rs/) | [NixOS and my Descent into Insanity](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity)
 - [Lobsters](https://lobste.rs/) | [CLI tools hidden in the Python standard library](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library)

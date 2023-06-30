@@ -1,3 +1,20 @@
+## 20230701
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1048 Linus 的放松方式是写内联汇编](https://linux.cn/article-15956-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [ISystemTap: An interactive SystemTap notebook](https://developers.redhat.com/articles/2023/06/30/isystemtap-interactive-systemtap-notebook)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc1 Brings Linux Container Support, BLAKE3 Checksums, Block Cloning](https://www.phoronix.com/news/OpenZFS-2.2-rc1)
+- [Phoronix](https://www.phoronix.com/) | [Linux's SLAB Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Continues Making Preparations For WiFi 7, Enabling New Hardware](https://www.phoronix.com/news/WiFi-7-Linux-6.5)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jozef Mlich: NemoMobile in June/2023](https://blog.mlich.cz/2023/06/nemomobile-in-june-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: “Qual é a sua pretensão salarial?”](https://avi.alkalay.net/2023/06/rh-pretensao-salarial.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Libblockdev 3.0](https://storageapis.wordpress.com/2023/06/30/libblockdev-3-0/)
+- [Planet Debian](https://planet.debian.org/) | [Abhijith PA: Running Debian on my phone](https://abhijithpa.me/2023/Running-Debian-on-my-phone/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links June 2023](https://etbe.coker.com.au/2023/06/30/links-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Motherboard battery, Framework, VR headsets, Steam](https://flossexperiences.wordpress.com/2023/06/30/motherboard-battery-framework-vr-headsets-steam/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Monitorama PDX 2023 Retrospective](https://popey.com/blog/2023/06/monitorama-pdx-2023-retrospective/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#102 Contextual Back Buttons](https://thisweek.gnome.org/posts/2023/06/twig-102/)
+
 ## 20230630
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1047 ReactOS 项目冒泡表示还活着](https://linux.cn/article-15954-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to develop and deploy OpenShift console dynamic plugin](https://developers.redhat.com/articles/2023/06/29/how-develop-and-deploy-openshift-console-dynamic-plugin)

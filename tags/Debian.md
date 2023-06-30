@@ -1,3 +1,8 @@
+## 20230701
+- [Planet Debian](https://planet.debian.org/) | [Abhijith PA: Running Debian on my phone](https://abhijithpa.me/2023/Running-Debian-on-my-phone/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links June 2023](https://etbe.coker.com.au/2023/06/30/links-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Motherboard battery, Framework, VR headsets, Steam](https://flossexperiences.wordpress.com/2023/06/30/motherboard-battery-framework-vr-headsets-steam/)
+
 ## 20230630
 - [Planet Debian](https://planet.debian.org/) | [C.J. Collier: Converting a windows install to a libvirt VM](https://wp.c9h.org/cj/?p=1952)
 - [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: Using signal-cli to cancel your Signal account](https://anarc.at/blog/2023-06-28-using-signal-cli-to-unregister/)

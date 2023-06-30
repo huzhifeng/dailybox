@@ -1,3 +1,8 @@
+## 20230701
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc1 Brings Linux Container Support, BLAKE3 Checksums, Block Cloning](https://www.phoronix.com/news/OpenZFS-2.2-rc1)
+- [Phoronix](https://www.phoronix.com/) | [Linux's SLAB Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Continues Making Preparations For WiFi 7, Enabling New Hardware](https://www.phoronix.com/news/WiFi-7-Linux-6.5)
+
 ## 20230630
 - [Phoronix](https://www.phoronix.com/) | [Rocky Linux Shares How They May Continue To Obtain The RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
 - [Phoronix](https://www.phoronix.com/) | [Alibaba T-Head TH1520 RISC-V CPU & A Few New Arm SoCs Ready For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-SoCs)

@@ -1,3 +1,7 @@
+## 20230701
+- [Hacker News](https://news.ycombinator.com/front) | [Hurl 4.0.0](https://news.ycombinator.com/item?id=36539144)
+- [Hacker News](https://news.ycombinator.com/front) | [Terrible real estate agent photographs](https://news.ycombinator.com/item?id=36533193)
+
 ## 20230630
 - [Hacker News](https://news.ycombinator.com/front) | [Supreme Court strikes down affirmative action in college admissions](https://news.ycombinator.com/item?id=36520658)
 - [Hacker News](https://news.ycombinator.com/front) | [The Awk Programming Language, Second Edition](https://news.ycombinator.com/item?id=36517525)

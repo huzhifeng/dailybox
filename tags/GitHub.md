@@ -1,3 +1,8 @@
+## 20230701
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [abacaj/mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies)
+
 ## 20230629
 - [GitHub中文社区](https://www.githubs.cn/trending) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
