@@ -1,3 +1,19 @@
+## 20230702
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1049 中国用人工智能在 5 小时内设计出 RISC-V CPU](https://linux.cn/article-15960-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 4060 vs. AMD Radeon RX 7600 Linux Gaming Performance](https://www.phoronix.com/review/rtx4060-rx7600-linux)
+- [Phoronix](https://www.phoronix.com/) | [Apple Studio Display Linux Driver Published To Control The Backlight](https://www.phoronix.com/news/Apple-Studio-Display-Linux-Drv)
+- [Phoronix](https://www.phoronix.com/) | [Lavapipe Lands Vulkan Descriptors Support, Can Run Some VKD3D-Proton Games](https://www.phoronix.com/news/Lavapipe-Vulkan-Descriptors)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 115 ESR Is Here with Hardware Video Decoding for Intel GPUs on Linux](https://9to5linux.com/firefox-115-esr-is-here-with-hardware-video-decoding-for-intel-gpus-on-linux)
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS 2023.06 Is Out with Linux 6.3, Latest KDE Software](https://9to5linux.com/independent-distro-kaos-2023-06-is-out-with-linux-6-3-latest-kde-software)
+- [9to5Linux](https://9to5linux.com/) | [Peppermint OS Is Now Based on Debian 12, Here&#8217;s What&#8217;s New](https://9to5linux.com/peppermint-os-is-now-based-on-debian-12-heres-whats-new)
+- [OMG! Linux](https://www.omglinux.com/) | [Slick New Feature Added to GNOME’s Web Browser](https://www.omglinux.com/epiphany-browser-slick-tab-overview/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Kernel Debugging MC CFP](https://lpc.events/blog/current/index.php/2023/07/01/linux-kernel-debugging-mc-cfp/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The bestest sine function, redux](http://blog.sesse.net/blog/tech/2023-07-01-16-32_the_bestest_sine_function_redux.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The smallest Pride contribution](http://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: dotenv-cli update](https://venthur.de/2023-07-01-dotenv-cli-update.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 development continues](https://pointieststick.com/2023/06/30/this-week-in-kde-plasma-6-development-continues/)
+- [Slashdot](https://linux.slashdot.org/) | [Former Canonical Developer is Working on a Script that Replaces Snaps with Flatpaks](https://linux.slashdot.org/story/23/07/01/0046224/former-canonical-developer-is-working-on-a-script-that-replaces-snaps-with-flatpaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230701
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1048 Linus 的放松方式是写内联汇编](https://linux.cn/article-15956-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [ISystemTap: An interactive SystemTap notebook](https://developers.redhat.com/articles/2023/06/30/isystemtap-interactive-systemtap-notebook)

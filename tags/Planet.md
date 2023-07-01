@@ -1,3 +1,9 @@
+## 20230702
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Kernel Debugging MC CFP](https://lpc.events/blog/current/index.php/2023/07/01/linux-kernel-debugging-mc-cfp/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The bestest sine function, redux](http://blog.sesse.net/blog/tech/2023-07-01-16-32_the_bestest_sine_function_redux.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The smallest Pride contribution](http://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: dotenv-cli update](https://venthur.de/2023-07-01-dotenv-cli-update.html)
+
 ## 20230701
 - [Planet Fedora](http://fedoraplanet.org/) | [Jozef Mlich: NemoMobile in June/2023](https://blog.mlich.cz/2023/06/nemomobile-in-june-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: “Qual é a sua pretensão salarial?”](https://avi.alkalay.net/2023/06/rh-pretensao-salarial.html)

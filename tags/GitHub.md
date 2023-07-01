@@ -1,3 +1,8 @@
+## 20230702
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+
 ## 20230701
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [abacaj/mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference)

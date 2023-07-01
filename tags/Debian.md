@@ -1,3 +1,8 @@
+## 20230702
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The bestest sine function, redux](http://blog.sesse.net/blog/tech/2023-07-01-16-32_the_bestest_sine_function_redux.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The smallest Pride contribution](http://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: dotenv-cli update](https://venthur.de/2023-07-01-dotenv-cli-update.html)
+
 ## 20230701
 - [Planet Debian](https://planet.debian.org/) | [Abhijith PA: Running Debian on my phone](https://abhijithpa.me/2023/Running-Debian-on-my-phone/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links June 2023](https://etbe.coker.com.au/2023/06/30/links-june-2023/)

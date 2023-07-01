@@ -1,3 +1,8 @@
+## 20230702
+- [LibHunt](https://www.libhunt.com/) | [RedReader](https://www.libhunt.com/r/RedReader)
+- [LibHunt](https://www.libhunt.com/) | [askai](https://www.libhunt.com/r/yudax42/askai)
+- [LibHunt](https://www.libhunt.com/) | [murder](https://www.libhunt.com/r/ervinb/murder)
+
 ## 20230701
 - [LibHunt](https://www.libhunt.com/) | [nitter](https://www.libhunt.com/r/nitter)
 - [LibHunt](https://www.libhunt.com/) | [DragGAN](https://www.libhunt.com/r/DragGAN)

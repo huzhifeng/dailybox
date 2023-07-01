@@ -1,3 +1,8 @@
+## 20230702
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 4060 vs. AMD Radeon RX 7600 Linux Gaming Performance](https://www.phoronix.com/review/rtx4060-rx7600-linux)
+- [Phoronix](https://www.phoronix.com/) | [Apple Studio Display Linux Driver Published To Control The Backlight](https://www.phoronix.com/news/Apple-Studio-Display-Linux-Drv)
+- [Phoronix](https://www.phoronix.com/) | [Lavapipe Lands Vulkan Descriptors Support, Can Run Some VKD3D-Proton Games](https://www.phoronix.com/news/Lavapipe-Vulkan-Descriptors)
+
 ## 20230701
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc1 Brings Linux Container Support, BLAKE3 Checksums, Block Cloning](https://www.phoronix.com/news/OpenZFS-2.2-rc1)
 - [Phoronix](https://www.phoronix.com/) | [Linux's SLAB Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)

@@ -1,3 +1,6 @@
+## 20230702
+- [OMG! Linux](https://www.omglinux.com/) | [Slick New Feature Added to GNOME’s Web Browser](https://www.omglinux.com/epiphany-browser-slick-tab-overview/)
+
 ## 20230628
 - [OMG! Linux](https://www.omglinux.com/) | [Libreboot, the FOSS BIOS Replacement, Sees New Release](https://www.omglinux.com/new-libreboot-stable-release/)
 - [OMG! Linux](https://www.omglinux.com/) | [Fedora Workstation 39 May Use Web-Based Installer](https://www.omglinux.com/fedora-workstation-39-anaconda-webui/)

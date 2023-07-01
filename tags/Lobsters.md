@@ -1,3 +1,8 @@
+## 20230702
+- [Lobsters](https://lobste.rs/) | [The problem with federated web apps](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps)
+- [Lobsters](https://lobste.rs/) | [Orange-Website-Proofing My Blog](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog)
+- [Lobsters](https://lobste.rs/) | [Failure modes of decentralized systems](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems)
+
 ## 20230701
 - [Lobsters](https://lobste.rs/) | [Divorce from LLVM](https://lobste.rs/s/svhzj9/divorce_from_llvm)
 - [Lobsters](https://lobste.rs/) | [CommonJS is hurting JavaScript](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript)
