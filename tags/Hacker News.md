@@ -1,3 +1,8 @@
+## 20230702
+- [Hacker News](https://news.ycombinator.com/front) | [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
+- [Hacker News](https://news.ycombinator.com/front) | [How to Do Great Work](https://news.ycombinator.com/item?id=36550615)
+- [Hacker News](https://news.ycombinator.com/front) | [Far Cry 1.34 source code (2006)](https://news.ycombinator.com/item?id=36547801)
+
 ## 20230701
 - [Hacker News](https://news.ycombinator.com/front) | [Hurl 4.0.0](https://news.ycombinator.com/item?id=36539144)
 - [Hacker News](https://news.ycombinator.com/front) | [Terrible real estate agent photographs](https://news.ycombinator.com/item?id=36533193)

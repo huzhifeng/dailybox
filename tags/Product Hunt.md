@@ -1,3 +1,8 @@
+## 20230702
+- [Product Hunt](https://www.producthunt.com) | [Langchain](https://www.producthunt.com/posts/langchain)
+- [Product Hunt](https://www.producthunt.com) | [Free Printable Planners by Checklist.gg](https://www.producthunt.com/posts/free-printable-planners-by-checklist-gg)
+- [Product Hunt](https://www.producthunt.com) | [Swipefy for Spotify](https://www.producthunt.com/posts/swipefy-for-spotify)
+
 ## 20230701
 - [Product Hunt](https://www.producthunt.com) | [Microanalytics.io](https://www.producthunt.com/posts/microanalytics-io-1)
 - [Product Hunt](https://www.producthunt.com) | [➤ QRCode AI ⌘](https://www.producthunt.com/posts/qrcode-ai)

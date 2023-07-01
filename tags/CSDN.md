@@ -1,3 +1,8 @@
+## 20230702
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/2301_77152761/article/details/131458009)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [现在低代码平台推进阻力那么大，有没有最好的解决办法？](https://blog.csdn.net/qq_72157449/article/details/131484824)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SQL应知应会】行列转换（二）• MySQL版](https://blog.csdn.net/qq_40332045/article/details/131488624)
+
 ## 20230701
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [美团以 20.65 亿人民币收购光年之外；OpenCV 4.8.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131469793)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|自动驾驶 迈向无人驾驶未来](https://blog.csdn.net/weixin_54174102/article/details/131430438)

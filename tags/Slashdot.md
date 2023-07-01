@@ -1,3 +1,7 @@
+## 20230702
+- [Slashdot](https://linux.slashdot.org/) | [Former Canonical Developer is Working on a Script that Replaces Snaps with Flatpaks](https://linux.slashdot.org/story/23/07/01/0046224/former-canonical-developer-is-working-on-a-script-that-replaces-snaps-with-flatpaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [FBI Forms National Database To Track and Prevent 'Swatting'](https://developers.slashdot.org/story/23/06/30/2244207/fbi-forms-national-database-to-track-and-prevent-swatting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230630
 - [Slashdot](https://developers.slashdot.org/) | [Oracle Spending 'Billions' on Nvidia Chips This Year, Ellison Says](https://developers.slashdot.org/story/23/06/29/0857259/oracle-spending-billions-on-nvidia-chips-this-year-ellison-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

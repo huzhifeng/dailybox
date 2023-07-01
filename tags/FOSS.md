@@ -1,3 +1,6 @@
+## 20230702
+- [It's FOSS](https://itsfoss.com/) | [How to Remove Software Repositories from Ubuntu](https://itsfoss.com/remove-software-repositories-ubuntu/)
+
 ## 20230701
 - [It's FOSS](https://itsfoss.com/) | [How to Install Wine in Ubuntu](https://itsfoss.com/install-wine-ubuntu/)
 

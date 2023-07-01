@@ -1,3 +1,6 @@
+## 20230702
+- [diff.blog](https://diff.blog/) | [The complex history of the Intel i960 RISC processor](https://diff.blog/post/the-complex-history-of-the-intel-i960-risc-processor-142940/)
+
 ## 20230701
 - [diff.blog](https://diff.blog/) | [State of Clojure 2023 Results](https://diff.blog/post/state-of-clojure-2023-results-142615/)
 
