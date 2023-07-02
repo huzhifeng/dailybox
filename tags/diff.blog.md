@@ -1,3 +1,6 @@
+## 20230703
+- [diff.blog](https://diff.blog/) | [Building a Toy Programming Language in Python](https://diff.blog/post/building-a-toy-programming-language-in-python-142979/)
+
 ## 20230702
 - [diff.blog](https://diff.blog/) | [The complex history of the Intel i960 RISC processor](https://diff.blog/post/the-complex-history-of-the-intel-i960-risc-processor-142940/)
 

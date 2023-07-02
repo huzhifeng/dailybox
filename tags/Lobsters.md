@@ -1,3 +1,8 @@
+## 20230703
+- [Lobsters](https://lobste.rs/) | [The smallest Pride contribution](https://lobste.rs/s/bntuxk/smallest_pride_contribution)
+- [Lobsters](https://lobste.rs/) | [Static site update, self-hosted search via pagefind](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via)
+- [Lobsters](https://lobste.rs/) | [Programming on an Android tablet](https://lobste.rs/s/wdxc1b/programming_on_android_tablet)
+
 ## 20230702
 - [Lobsters](https://lobste.rs/) | [The problem with federated web apps](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps)
 - [Lobsters](https://lobste.rs/) | [Orange-Website-Proofing My Blog](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog)

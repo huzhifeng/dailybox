@@ -1,3 +1,12 @@
+## 20230703
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1050 Twitter 限流，新注册用户每天只能阅读 300 条推文](https://linux.cn/article-15962-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
+- [Phoronix](https://www.phoronix.com/) | [The 2023 State of The Embedded Linux Ecosystem](https://www.phoronix.com/news/2023-Embedded-Linux)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Lands Initial Support For Fat LTO Objects](https://www.phoronix.com/news/LLVM-Fat-LTO-Objects)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.4 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-4-on-ubuntu-heres-how)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Thank you Mikko](https://kushaldas.in/posts/thank-you-mikko.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: Ubuntu Server autoinstall with a physical machine](https://nobuto-m.github.io/post/2023/ubuntu-server-autoinstall-with-a-physical-machine/)
+
 ## 20230702
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1049 中国用人工智能在 5 小时内设计出 RISC-V CPU](https://linux.cn/article-15960-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 4060 vs. AMD Radeon RX 7600 Linux Gaming Performance](https://www.phoronix.com/review/rtx4060-rx7600-linux)

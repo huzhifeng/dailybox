@@ -1,3 +1,6 @@
+## 20230703
+- [Hacker News](https://news.ycombinator.com/front) | [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://news.ycombinator.com/item?id=36563590)
+
 ## 20230702
 - [Hacker News](https://news.ycombinator.com/front) | [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 - [Hacker News](https://news.ycombinator.com/front) | [How to Do Great Work](https://news.ycombinator.com/item?id=36550615)

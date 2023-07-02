@@ -1,3 +1,8 @@
+## 20230703
+- [Product Hunt](https://www.producthunt.com) | [Midjourney - 80+ Business Prompts](https://www.producthunt.com/posts/midjourney-80-business-prompts)
+- [Product Hunt](https://www.producthunt.com) | [Notion Ultimate Finance Tracker](https://www.producthunt.com/posts/notion-ultimate-finance-tracker-2)
+- [Product Hunt](https://www.producthunt.com) | [YouTube transcripts by Editby.ai](https://www.producthunt.com/posts/youtube-transcripts-by-editby-ai)
+
 ## 20230702
 - [Product Hunt](https://www.producthunt.com) | [Langchain](https://www.producthunt.com/posts/langchain)
 - [Product Hunt](https://www.producthunt.com) | [Free Printable Planners by Checklist.gg](https://www.producthunt.com/posts/free-printable-planners-by-checklist-gg)

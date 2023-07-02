@@ -1,3 +1,6 @@
+## 20230703
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: Ubuntu Server autoinstall with a physical machine](https://nobuto-m.github.io/post/2023/ubuntu-server-autoinstall-with-a-physical-machine/)
+
 ## 20230701
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: Monitorama PDX 2023 Retrospective](https://popey.com/blog/2023/06/monitorama-pdx-2023-retrospective/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel)

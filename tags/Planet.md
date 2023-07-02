@@ -1,3 +1,7 @@
+## 20230703
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Thank you Mikko](https://kushaldas.in/posts/thank-you-mikko.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: Ubuntu Server autoinstall with a physical machine](https://nobuto-m.github.io/post/2023/ubuntu-server-autoinstall-with-a-physical-machine/)
+
 ## 20230702
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Kernel Debugging MC CFP](https://lpc.events/blog/current/index.php/2023/07/01/linux-kernel-debugging-mc-cfp/)
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The bestest sine function, redux](http://blog.sesse.net/blog/tech/2023-07-01-16-32_the_bestest_sine_function_redux.html)

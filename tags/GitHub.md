@@ -1,3 +1,8 @@
+## 20230703
+- [GitHub中文社区](https://www.githubs.cn/trending) | [EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
+
 ## 20230702
 - [GitHub中文社区](https://www.githubs.cn/trending) | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
