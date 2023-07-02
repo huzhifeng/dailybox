@@ -1,3 +1,6 @@
+## 20230703
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Thank you Mikko](https://kushaldas.in/posts/thank-you-mikko.html)
+
 ## 20230701
 - [Planet Fedora](http://fedoraplanet.org/) | [Jozef Mlich: NemoMobile in June/2023](https://blog.mlich.cz/2023/06/nemomobile-in-june-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: “Qual é a sua pretensão salarial?”](https://avi.alkalay.net/2023/06/rh-pretensao-salarial.html)

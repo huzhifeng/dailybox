@@ -1,3 +1,6 @@
+## 20230703
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.4 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-4-on-ubuntu-heres-how)
+
 ## 20230702
 - [9to5Linux](https://9to5linux.com/) | [Firefox 115 ESR Is Here with Hardware Video Decoding for Intel GPUs on Linux](https://9to5linux.com/firefox-115-esr-is-here-with-hardware-video-decoding-for-intel-gpus-on-linux)
 - [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS 2023.06 Is Out with Linux 6.3, Latest KDE Software](https://9to5linux.com/independent-distro-kaos-2023-06-is-out-with-linux-6-3-latest-kde-software)

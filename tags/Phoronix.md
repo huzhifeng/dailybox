@@ -1,3 +1,8 @@
+## 20230703
+- [Phoronix](https://www.phoronix.com/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
+- [Phoronix](https://www.phoronix.com/) | [The 2023 State of The Embedded Linux Ecosystem](https://www.phoronix.com/news/2023-Embedded-Linux)
+- [Phoronix](https://www.phoronix.com/) | [LLVM Lands Initial Support For Fat LTO Objects](https://www.phoronix.com/news/LLVM-Fat-LTO-Objects)
+
 ## 20230702
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 4060 vs. AMD Radeon RX 7600 Linux Gaming Performance](https://www.phoronix.com/review/rtx4060-rx7600-linux)
 - [Phoronix](https://www.phoronix.com/) | [Apple Studio Display Linux Driver Published To Control The Backlight](https://www.phoronix.com/news/Apple-Studio-Display-Linux-Drv)
