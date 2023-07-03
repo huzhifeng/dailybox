@@ -1,3 +1,16 @@
+## 20230704
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1051 Snap 设计者开发用 Flatpak 替换 Snap 的脚本](https://linux.cn/article-15965-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Managing Java containers with Quarkus and Podman Desktop](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 KVM Brings Guest Snapshots For RISC-V, AMD PerfMonV2 For VMs](https://www.phoronix.com/news/Linux-6.5-KVM)
+- [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.41 Coming With Intel AMX-COMPLEX + FRED/LKGS, New RISC-V & LoongArch Bits](https://www.phoronix.com/news/GNU-Binutils-2.41-Branched)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Adding Initial Support For USB4 v2, Intel Barlow Ridge](https://www.phoronix.com/news/Linux-6.5-USB4-v2-Barlow-Ridge)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 2nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-2nd-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars III: The dawn of CentOS](https://dissociatedpress.net/2023/07/03/red-hat-and-the-clone-wars-iii-the-dawn-of-centos/)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 03 July 1300 UTC](https://neuroblog.fedoraproject.org/2023/07/03/next-open-neurofedora-meeting-03-July-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Hutterer: gitlab.freedesktop.org now has a bugbot for automatic issue/merge request processing](http://who-t.blogspot.com/2023/07/gitlabfreedesktoporg-now-has-bugbot-for.html)
+- [Slashdot](https://linux.slashdot.org/) | [Defying Red Hat, Rocky Linux and AlmaLinux Vow to Continue RHEL-Compatible Updates](https://linux.slashdot.org/story/23/07/03/0232231/defying-red-hat-rocky-linux-and-almalinux-vow-to-continue-rhel-compatible-updates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [After RHEL 7's EOL, Red Hat Will Offer a 4-Year 'Extended Life Cycle Support' Add-On](https://linux.slashdot.org/story/23/07/03/0135254/after-rhel-7s-eol-red-hat-will-offer-a-4-year-extended-life-cycle-support-add-on?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230703
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1050 Twitter 限流，新注册用户每天只能阅读 300 条推文](https://linux.cn/article-15962-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)

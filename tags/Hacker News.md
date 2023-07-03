@@ -1,3 +1,7 @@
+## 20230704
+- [Hacker News](https://news.ycombinator.com/front) | [Goodreads was the future of book reviews, then Amazon bought it](https://news.ycombinator.com/item?id=36575003)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
+
 ## 20230703
 - [Hacker News](https://news.ycombinator.com/front) | [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://news.ycombinator.com/item?id=36563590)
 

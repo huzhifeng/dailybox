@@ -1,3 +1,6 @@
+## 20230704
+- [Red Hat Developer](https://developers.redhat.com/) | [Managing Java containers with Quarkus and Podman Desktop](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop)
+
 ## 20230701
 - [Red Hat Developer](https://developers.redhat.com/) | [ISystemTap: An interactive SystemTap notebook](https://developers.redhat.com/articles/2023/06/30/isystemtap-interactive-systemtap-notebook)
 

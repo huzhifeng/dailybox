@@ -1,3 +1,6 @@
+## 20230704
+- [TED Talks Daily](https://www.ted.com/talks) | [How your company can gain a global talent advantage | Johann Daniel Harnoss](https://www.ted.com/talks/johann_daniel_harnoss_how_your_company_can_gain_a_global_talent_advantage?rss)
+
 ## 20230701
 - [TED Talks Daily](https://www.ted.com/talks) | [How to unleash your inner maximalist through costume | Machine Dazzle](https://www.ted.com/talks/machine_dazzle_how_to_unleash_your_inner_maximalist_through_costume?rss)
 

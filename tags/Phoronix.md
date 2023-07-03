@@ -1,3 +1,8 @@
+## 20230704
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 KVM Brings Guest Snapshots For RISC-V, AMD PerfMonV2 For VMs](https://www.phoronix.com/news/Linux-6.5-KVM)
+- [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.41 Coming With Intel AMX-COMPLEX + FRED/LKGS, New RISC-V & LoongArch Bits](https://www.phoronix.com/news/GNU-Binutils-2.41-Branched)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Adding Initial Support For USB4 v2, Intel Barlow Ridge](https://www.phoronix.com/news/Linux-6.5-USB4-v2-Barlow-Ridge)
+
 ## 20230703
 - [Phoronix](https://www.phoronix.com/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
 - [Phoronix](https://www.phoronix.com/) | [The 2023 State of The Embedded Linux Ecosystem](https://www.phoronix.com/news/2023-Embedded-Linux)

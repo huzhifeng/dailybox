@@ -1,3 +1,6 @@
+## 20230704
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 2nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-2nd-2023)
+
 ## 20230703
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.4 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-4-on-ubuntu-heres-how)
 
