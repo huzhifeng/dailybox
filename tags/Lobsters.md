@@ -1,3 +1,8 @@
+## 20230704
+- [Lobsters](https://lobste.rs/) | [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
+- [Lobsters](https://lobste.rs/) | [Names should be as short as possible while still being clear](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while)
+- [Lobsters](https://lobste.rs/) | [Demystifying Pratt Parsers](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers)
+
 ## 20230703
 - [Lobsters](https://lobste.rs/) | [The smallest Pride contribution](https://lobste.rs/s/bntuxk/smallest_pride_contribution)
 - [Lobsters](https://lobste.rs/) | [Static site update, self-hosted search via pagefind](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via)

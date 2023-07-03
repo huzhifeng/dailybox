@@ -1,3 +1,8 @@
+## 20230704
+- [V2EX](https://www.v2ex.com/) | [最近考公很火热。其实有一个岗位很不错](https://www.v2ex.com/t/953614)
+- [V2EX](https://www.v2ex.com/) | [买到烂尾楼的老哥们，你们最后是怎么处理的？](https://www.v2ex.com/t/953602)
+- [V2EX](https://www.v2ex.com/) | [第一次徒步夜爬体验到了濒死(夸张)，不知道以后还要不要去](https://www.v2ex.com/t/953562)
+
 ## 20230703
 - [V2EX](https://www.v2ex.com/) | [回国后早餐吃什么？](https://www.v2ex.com/t/953469)
 - [V2EX](https://www.v2ex.com/) | [子女的性格大部分遗传父母的吧？](https://www.v2ex.com/t/953451)

@@ -1,3 +1,6 @@
+## 20230704
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #4: Arithmetic Operations](https://itsfoss.com/bash-arithmetic-operation/)
+
 ## 20230702
 - [It's FOSS](https://itsfoss.com/) | [How to Remove Software Repositories from Ubuntu](https://itsfoss.com/remove-software-repositories-ubuntu/)
 

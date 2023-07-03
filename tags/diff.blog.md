@@ -1,3 +1,7 @@
+## 20230704
+- [diff.blog](https://diff.blog/) | [Can Dell’s 6K monitor beat their 8K monitor?](https://diff.blog/post/can-dells-6k-monitor-beat-their-8k-monitor-143042/)
+- [diff.blog](https://diff.blog/) | [Cracking Electron apps open](https://diff.blog/post/cracking-electron-apps-open-143038/)
+
 ## 20230703
 - [diff.blog](https://diff.blog/) | [Building a Toy Programming Language in Python](https://diff.blog/post/building-a-toy-programming-language-in-python-142979/)
 

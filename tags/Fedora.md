@@ -1,3 +1,8 @@
+## 20230704
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars III: The dawn of CentOS](https://dissociatedpress.net/2023/07/03/red-hat-and-the-clone-wars-iii-the-dawn-of-centos/)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 03 July 1300 UTC](https://neuroblog.fedoraproject.org/2023/07/03/next-open-neurofedora-meeting-03-July-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Hutterer: gitlab.freedesktop.org now has a bugbot for automatic issue/merge request processing](http://who-t.blogspot.com/2023/07/gitlabfreedesktoporg-now-has-bugbot-for.html)
+
 ## 20230703
 - [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Thank you Mikko](https://kushaldas.in/posts/thank-you-mikko.html)
 
