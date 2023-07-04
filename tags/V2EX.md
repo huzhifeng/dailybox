@@ -1,3 +1,8 @@
+## 20230705
+- [V2EX](https://www.v2ex.com/) | [折腾好久了，有没有什么好用的个人笔记/知识库方案推荐。](https://www.v2ex.com/t/953991)
+- [V2EX](https://www.v2ex.com/) | [是否该离职去广深?](https://www.v2ex.com/t/953916)
+- [V2EX](https://www.v2ex.com/) | [在工位上打喷嚏，应该捂嘴吗？](https://www.v2ex.com/t/953909)
+
 ## 20230704
 - [V2EX](https://www.v2ex.com/) | [最近考公很火热。其实有一个岗位很不错](https://www.v2ex.com/t/953614)
 - [V2EX](https://www.v2ex.com/) | [买到烂尾楼的老哥们，你们最后是怎么处理的？](https://www.v2ex.com/t/953602)

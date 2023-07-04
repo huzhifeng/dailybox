@@ -1,3 +1,6 @@
+## 20230705
+- [Slashdot](https://linux.slashdot.org/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://hardware.slashdot.org/story/23/07/03/2233208/amd-cpu-use-among-linux-gamers-approaching-70-marketshare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230704
 - [Slashdot](https://linux.slashdot.org/) | [Defying Red Hat, Rocky Linux and AlmaLinux Vow to Continue RHEL-Compatible Updates](https://linux.slashdot.org/story/23/07/03/0232231/defying-red-hat-rocky-linux-and-almalinux-vow-to-continue-rhel-compatible-updates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [After RHEL 7's EOL, Red Hat Will Offer a 4-Year 'Extended Life Cycle Support' Add-On](https://linux.slashdot.org/story/23/07/03/0135254/after-rhel-7s-eol-red-hat-will-offer-a-4-year-extended-life-cycle-support-add-on?utm_source=rss1.0mainlinkanon&utm_medium=feed)

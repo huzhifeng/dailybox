@@ -1,3 +1,6 @@
+## 20230705
+- [diff.blog](https://diff.blog/) | [Seriously, don't sign a CLA](https://diff.blog/post/seriously-dont-sign-a-cla-143073/)
+
 ## 20230704
 - [diff.blog](https://diff.blog/) | [Can Dell’s 6K monitor beat their 8K monitor?](https://diff.blog/post/can-dells-6k-monitor-beat-their-8k-monitor-143042/)
 - [diff.blog](https://diff.blog/) | [Cracking Electron apps open](https://diff.blog/post/cracking-electron-apps-open-143038/)
