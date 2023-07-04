@@ -1,3 +1,6 @@
+## 20230705
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to secure coding with FORTIFY_SOURCE](https://developers.redhat.com/articles/2023/07/04/developers-guide-secure-coding-fortifysource)
+
 ## 20230704
 - [Red Hat Developer](https://developers.redhat.com/) | [Managing Java containers with Quarkus and Podman Desktop](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop)
 

@@ -1,3 +1,8 @@
+## 20230705
+- [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [imoneoi/openchat](https://github.com/imoneoi/openchat)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
+
 ## 20230704
 - [GitHub中文社区](https://www.githubs.cn/trending) | [geohot/tinygrad](https://github.com/geohot/tinygrad)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials)

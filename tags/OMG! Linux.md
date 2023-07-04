@@ -1,3 +1,6 @@
+## 20230705
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 0.6 Released,  Ported to GTK4](https://www.omglinux.com/gnome-podcasts-0-6-released-ported-to-gtk4/)
+
 ## 20230702
 - [OMG! Linux](https://www.omglinux.com/) | [Slick New Feature Added to GNOME’s Web Browser](https://www.omglinux.com/epiphany-browser-slick-tab-overview/)
 

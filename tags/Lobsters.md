@@ -1,3 +1,8 @@
+## 20230705
+- [Lobsters](https://lobste.rs/) | [A slack clone in 5 lines of bash](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash)
+- [Lobsters](https://lobste.rs/) | [Binding On Port 0](https://lobste.rs/s/ohlq7i/binding_on_port_0)
+- [Lobsters](https://lobste.rs/) | [Makie, a modern and fast plotting library for Julia](https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for)
+
 ## 20230704
 - [Lobsters](https://lobste.rs/) | [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 - [Lobsters](https://lobste.rs/) | [Names should be as short as possible while still being clear](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while)

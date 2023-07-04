@@ -1,3 +1,8 @@
+## 20230705
+- [Hacker News](https://news.ycombinator.com/front) | [Sao Paulo: A city with no outdoor advertisements (2013)](https://news.ycombinator.com/item?id=36586632)
+- [Hacker News](https://news.ycombinator.com/front) | [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://news.ycombinator.com/item?id=36586346)
+- [Hacker News](https://news.ycombinator.com/front) | [Sourcegraph is no longer open source](https://news.ycombinator.com/item?id=36584656)
+
 ## 20230704
 - [Hacker News](https://news.ycombinator.com/front) | [Goodreads was the future of book reviews, then Amazon bought it](https://news.ycombinator.com/item?id=36575003)
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)

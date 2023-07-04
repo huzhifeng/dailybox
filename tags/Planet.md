@@ -1,3 +1,7 @@
+## 20230705
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.5](https://kiwitcms.org/blog/kiwi-tcms-team/2023/07/04/kiwi-tcms-125/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: No one fights alone. A guide to your first Firefox patch on Linux.](https://mastransky.wordpress.com/2023/07/04/no-one-fights-alone-a-guide-to-your-first-firefox-patch-on-linux/)
+
 ## 20230704
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars III: The dawn of CentOS](https://dissociatedpress.net/2023/07/03/red-hat-and-the-clone-wars-iii-the-dawn-of-centos/)
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 03 July 1300 UTC](https://neuroblog.fedoraproject.org/2023/07/03/next-open-neurofedora-meeting-03-July-1300-utc.html)

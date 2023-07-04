@@ -1,3 +1,6 @@
+## 20230705
+- [It's FOSS](https://itsfoss.com/) | [Using ls Command in Linux](https://itsfoss.com/ls-command/)
+
 ## 20230704
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #4: Arithmetic Operations](https://itsfoss.com/bash-arithmetic-operation/)
 

@@ -1,3 +1,8 @@
+## 20230705
+- [Product Hunt](https://www.producthunt.com) | [Remotion 4.0](https://www.producthunt.com/posts/remotion-4-0)
+- [Product Hunt](https://www.producthunt.com) | [bohr.io](https://www.producthunt.com/posts/bohr-io)
+- [Product Hunt](https://www.producthunt.com) | [Giraffe.io](https://www.producthunt.com/posts/giraffe-io)
+
 ## 20230704
 - [Product Hunt](https://www.producthunt.com) | [Product Hunt Launch Checklist](https://www.producthunt.com/posts/product-hunt-launch-checklist-ebb55cca-9629-4233-93de-83def7b89d2f)
 - [Product Hunt](https://www.producthunt.com) | [EducUp Studio](https://www.producthunt.com/posts/educup-studio)

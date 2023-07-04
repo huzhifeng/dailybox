@@ -1,3 +1,14 @@
+## 20230705
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1052 libjpeg-turbo 3.0 发布，开发者表示无力继续](https://linux.cn/article-15968-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to secure coding with FORTIFY_SOURCE](https://developers.redhat.com/articles/2023/07/04/developers-guide-secure-coding-fortifysource)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings Improvements To Firewire Support](https://www.phoronix.com/news/Linux-6.5-Firewire)
+- [Phoronix](https://www.phoronix.com/) | [Firefox 115 Now Available With Intel GPU Video Decoding On Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 Adds Support For RISC-V Vector Crypto Extensions](https://www.phoronix.com/news/GCC-RISC-V-Vector-Crypto-Exts)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 0.6 Released,  Ported to GTK4](https://www.omglinux.com/gnome-podcasts-0-6-released-ported-to-gtk4/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.5](https://kiwitcms.org/blog/kiwi-tcms-team/2023/07/04/kiwi-tcms-125/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: No one fights alone. A guide to your first Firefox patch on Linux.](https://mastransky.wordpress.com/2023/07/04/no-one-fights-alone-a-guide-to-your-first-firefox-patch-on-linux/)
+- [Slashdot](https://linux.slashdot.org/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://hardware.slashdot.org/story/23/07/03/2233208/amd-cpu-use-among-linux-gamers-approaching-70-marketshare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230704
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1051 Snap 设计者开发用 Flatpak 替换 Snap 的脚本](https://linux.cn/article-15965-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Managing Java containers with Quarkus and Podman Desktop](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop)
