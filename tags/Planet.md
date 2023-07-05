@@ -1,3 +1,6 @@
+## 20230706
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds Summit 2023 in Hamburg](https://reproducible-builds.org/news/2023/07/05/reproducible-builds-hamburg-meeting/)
+
 ## 20230705
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.5](https://kiwitcms.org/blog/kiwi-tcms-team/2023/07/04/kiwi-tcms-125/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: No one fights alone. A guide to your first Firefox patch on Linux.](https://mastransky.wordpress.com/2023/07/04/no-one-fights-alone-a-guide-to-your-first-firefox-patch-on-linux/)

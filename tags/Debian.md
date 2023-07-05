@@ -1,3 +1,6 @@
+## 20230706
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds Summit 2023 in Hamburg](https://reproducible-builds.org/news/2023/07/05/reproducible-builds-hamburg-meeting/)
+
 ## 20230702
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The bestest sine function, redux](http://blog.sesse.net/blog/tech/2023-07-01-16-32_the_bestest_sine_function_redux.html)
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: The smallest Pride contribution](http://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)

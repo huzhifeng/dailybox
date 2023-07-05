@@ -1,3 +1,8 @@
+## 20230706
+- [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [misskey-dev/misskey](https://github.com/misskey-dev/misskey)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)
+
 ## 20230705
 - [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [imoneoi/openchat](https://github.com/imoneoi/openchat)

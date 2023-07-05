@@ -1,3 +1,14 @@
+## 20230706
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1053 美国计划限制中国使用美国先进的云计算服务](https://linux.cn/article-15971-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.4: More work on MediaTek, Rockchip, and power supply](https://www.collabora.com/news-and-blog/news-and-events/kernel-64-more-work-on-mediatek-rockchip-and-power-supply.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Kafka Cruise Control for cluster optimization](https://developers.redhat.com/articles/2023/07/05/how-use-kafka-cruise-control-cluster-optimization)
+- [Phoronix](https://www.phoronix.com/) | [F2FS Prepares Some Minor Improvements For Linux 6.5](https://www.phoronix.com/news/F2FS-Linux-6.5)
+- [Phoronix](https://www.phoronix.com/) | [GNOME 45 Alpha Released With Various Optimizations, Better Built-In Screen Recorder](https://www.phoronix.com/news/GNOME-45-Alpha)
+- [Phoronix](https://www.phoronix.com/) | [Steam Deck vs. ASUS ROG Ally Arch Linux Gaming Performance](https://www.phoronix.com/review/steam-deck-rog-ally)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-alpha-is-now-available-for-public-testing-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 116 Beta Brings Quick Actions in Address Bar, Improves Wayland Support](https://9to5linux.com/firefox-116-beta-brings-quick-actions-in-address-bar-improves-wayland-support)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds Summit 2023 in Hamburg](https://reproducible-builds.org/news/2023/07/05/reproducible-builds-hamburg-meeting/)
+
 ## 20230705
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1052 libjpeg-turbo 3.0 发布，开发者表示无力继续](https://linux.cn/article-15968-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to secure coding with FORTIFY_SOURCE](https://developers.redhat.com/articles/2023/07/04/developers-guide-secure-coding-fortifysource)

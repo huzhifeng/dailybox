@@ -1,3 +1,8 @@
+## 20230706
+- [V2EX](https://www.v2ex.com/) | [自由职业后第一个 saas 产品发布了](https://www.v2ex.com/t/954305)
+- [V2EX](https://www.v2ex.com/) | [逐字返回的内容如何做关键词屏蔽](https://www.v2ex.com/t/954296)
+- [V2EX](https://www.v2ex.com/) | [有一个朋友在美团外包，然后自己计划 3 年转为美团内部岗，岗位是研发岗位。这事靠谱吗？](https://www.v2ex.com/t/954220)
+
 ## 20230705
 - [V2EX](https://www.v2ex.com/) | [折腾好久了，有没有什么好用的个人笔记/知识库方案推荐。](https://www.v2ex.com/t/953991)
 - [V2EX](https://www.v2ex.com/) | [是否该离职去广深?](https://www.v2ex.com/t/953916)

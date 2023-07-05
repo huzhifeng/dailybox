@@ -1,3 +1,6 @@
+## 20230706
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Kafka Cruise Control for cluster optimization](https://developers.redhat.com/articles/2023/07/05/how-use-kafka-cruise-control-cluster-optimization)
+
 ## 20230705
 - [Red Hat Developer](https://developers.redhat.com/) | [A developer’s guide to secure coding with FORTIFY_SOURCE](https://developers.redhat.com/articles/2023/07/04/developers-guide-secure-coding-fortifysource)
 

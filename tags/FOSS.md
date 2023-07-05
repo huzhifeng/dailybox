@@ -1,3 +1,6 @@
+## 20230706
+- [It's FOSS](https://itsfoss.com/) | [Display Animated ASCII Birthday Wish in Linux Terminal 🎂](https://itsfoss.com/birthday-wish-linux-terminal/)
+
 ## 20230705
 - [It's FOSS](https://itsfoss.com/) | [Using ls Command in Linux](https://itsfoss.com/ls-command/)
 
