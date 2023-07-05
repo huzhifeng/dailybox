@@ -1,3 +1,8 @@
+## 20230706
+- [Phoronix](https://www.phoronix.com/) | [F2FS Prepares Some Minor Improvements For Linux 6.5](https://www.phoronix.com/news/F2FS-Linux-6.5)
+- [Phoronix](https://www.phoronix.com/) | [GNOME 45 Alpha Released With Various Optimizations, Better Built-In Screen Recorder](https://www.phoronix.com/news/GNOME-45-Alpha)
+- [Phoronix](https://www.phoronix.com/) | [Steam Deck vs. ASUS ROG Ally Arch Linux Gaming Performance](https://www.phoronix.com/review/steam-deck-rog-ally)
+
 ## 20230705
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings Improvements To Firewire Support](https://www.phoronix.com/news/Linux-6.5-Firewire)
 - [Phoronix](https://www.phoronix.com/) | [Firefox 115 Now Available With Intel GPU Video Decoding On Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)

@@ -1,3 +1,8 @@
+## 20230706
+- [Lobsters](https://lobste.rs/) | [Rust Doesn't Have Named Arguments. So What?](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what)
+- [Lobsters](https://lobste.rs/) | [Firefox 115 can silently remotely disable my extension on any site](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely)
+- [Lobsters](https://lobste.rs/) | [An opinion on what's a good general-purpose programming language](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose)
+
 ## 20230705
 - [Lobsters](https://lobste.rs/) | [A slack clone in 5 lines of bash](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash)
 - [Lobsters](https://lobste.rs/) | [Binding On Port 0](https://lobste.rs/s/ohlq7i/binding_on_port_0)

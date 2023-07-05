@@ -1,3 +1,7 @@
+## 20230706
+- [diff.blog](https://diff.blog/) | [Introducing Superalignment](https://diff.blog/post/introducing-superalignment-143161/)
+- [diff.blog](https://diff.blog/) | [Beautifying our UI: Giving GitLab build features a fresh look](https://diff.blog/post/beautifying-our-ui-giving-gitlab-build-features-a-fresh-look-143162/)
+
 ## 20230705
 - [diff.blog](https://diff.blog/) | [Seriously, don't sign a CLA](https://diff.blog/post/seriously-dont-sign-a-cla-143073/)
 

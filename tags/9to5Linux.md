@@ -1,3 +1,7 @@
+## 20230706
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-alpha-is-now-available-for-public-testing-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 116 Beta Brings Quick Actions in Address Bar, Improves Wayland Support](https://9to5linux.com/firefox-116-beta-brings-quick-actions-in-address-bar-improves-wayland-support)
+
 ## 20230704
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 2nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-2nd-2023)
 

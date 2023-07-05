@@ -1,3 +1,6 @@
+## 20230706
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.4: More work on MediaTek, Rockchip, and power supply](https://www.collabora.com/news-and-blog/news-and-events/kernel-64-more-work-on-mediatek-rockchip-and-power-supply.html)
+
 ## 20230623
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to embark for Embedded Open Source Summit](https://www.collabora.com/news-and-blog/news-and-events/ready-to-embark-for-embedded-open-source-summit.html)
 

@@ -1,3 +1,6 @@
+## 20230706
+- [Hacker News](https://news.ycombinator.com/front) | [PhD Simulator](https://news.ycombinator.com/item?id=36597534)
+
 ## 20230705
 - [Hacker News](https://news.ycombinator.com/front) | [Sao Paulo: A city with no outdoor advertisements (2013)](https://news.ycombinator.com/item?id=36586632)
 - [Hacker News](https://news.ycombinator.com/front) | [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://news.ycombinator.com/item?id=36586346)

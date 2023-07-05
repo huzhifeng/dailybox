@@ -1,3 +1,6 @@
+## 20230706
+- [TED Talks Daily](https://www.ted.com/talks) | [How life on Earth adapts to you and me | Shane Campbell-Staton](https://www.ted.com/talks/shane_campbell_staton_how_life_on_earth_adapts_to_you_and_me?rss)
+
 ## 20230704
 - [TED Talks Daily](https://www.ted.com/talks) | [How your company can gain a global talent advantage | Johann Daniel Harnoss](https://www.ted.com/talks/johann_daniel_harnoss_how_your_company_can_gain_a_global_talent_advantage?rss)
 
