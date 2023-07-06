@@ -1,3 +1,6 @@
+## 20230707
+- [TED Talks Daily](https://www.ted.com/talks) | [Why thinking about death helps you live a better life | Alua Arthur](https://www.ted.com/talks/alua_arthur_why_thinking_about_death_helps_you_live_a_better_life?rss)
+
 ## 20230706
 - [TED Talks Daily](https://www.ted.com/talks) | [How life on Earth adapts to you and me | Shane Campbell-Staton](https://www.ted.com/talks/shane_campbell_staton_how_life_on_earth_adapts_to_you_and_me?rss)
 

@@ -1,3 +1,7 @@
+## 20230707
+- [Hacker News](https://news.ycombinator.com/front) | [GPT-4 API General Availability](https://news.ycombinator.com/item?id=36621120)
+- [Hacker News](https://news.ycombinator.com/front) | [Backend of Meta Threads is built with Python 3.10](https://news.ycombinator.com/item?id=36612835)
+
 ## 20230706
 - [Hacker News](https://news.ycombinator.com/front) | [PhD Simulator](https://news.ycombinator.com/item?id=36597534)
 

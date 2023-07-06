@@ -1,3 +1,9 @@
+## 20230707
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [InternLM/InternLM](https://github.com/InternLM/InternLM)
+
 ## 20230706
 - [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [misskey-dev/misskey](https://github.com/misskey-dev/misskey)

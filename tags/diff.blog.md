@@ -1,3 +1,7 @@
+## 20230707
+- [diff.blog](https://diff.blog/) | [GPT-4 API general availability and deprecation of older models in the Completions API](https://diff.blog/post/gpt-4-api-general-availability-and-deprecation-of-older-models-in-the-completions-api-143229/)
+- [diff.blog](https://diff.blog/) | [I want XAES-256-GCM/11](https://diff.blog/post/i-want-xaes-256-gcm11-143222/)
+
 ## 20230706
 - [diff.blog](https://diff.blog/) | [Introducing Superalignment](https://diff.blog/post/introducing-superalignment-143161/)
 - [diff.blog](https://diff.blog/) | [Beautifying our UI: Giving GitLab build features a fresh look](https://diff.blog/post/beautifying-our-ui-giving-gitlab-build-features-a-fresh-look-143162/)

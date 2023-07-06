@@ -1,3 +1,8 @@
+## 20230707
+- [9to5Linux](https://9to5linux.com/) | [Immutable Distro blendOS 3 Now Officially Available Based on Arch Linux](https://9to5linux.com/immutable-distro-blendos-3-now-officially-available-based-on-arch-linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.3 Is Out as the Last Update in the Series to Fix More Bugs](https://9to5linux.com/kde-gear-23-04-3-is-out-as-the-last-update-in-the-series-to-fix-more-bugs)
+- [9to5Linux](https://9to5linux.com/) | [New TUXEDO Stellaris 17 Linux Laptop Promises the Fastest Notebook Hardware on the Planet](https://9to5linux.com/new-tuxedo-stellaris-17-linux-laptop-promises-the-fastest-notebook-hardware-on-the-planet)
+
 ## 20230706
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-alpha-is-now-available-for-public-testing-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 116 Beta Brings Quick Actions in Address Bar, Improves Wayland Support](https://9to5linux.com/firefox-116-beta-brings-quick-actions-in-address-bar-improves-wayland-support)
