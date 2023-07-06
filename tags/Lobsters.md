@@ -1,3 +1,8 @@
+## 20230707
+- [Lobsters](https://lobste.rs/) | [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts)
+- [Lobsters](https://lobste.rs/) | [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
+- [Lobsters](https://lobste.rs/) | [I want XAES-256-GCM/11](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11)
+
 ## 20230706
 - [Lobsters](https://lobste.rs/) | [Rust Doesn't Have Named Arguments. So What?](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what)
 - [Lobsters](https://lobste.rs/) | [Firefox 115 can silently remotely disable my extension on any site](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely)

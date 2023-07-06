@@ -1,3 +1,9 @@
+## 20230707
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21 and 8.2.8](https://blog.remirepo.net/post/2023/07/06/PHP-version-8.1.21-and-8.2.8)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in June 2023](http://blog.alteholz.eu/2023/07/my-debian-activities-in-june-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development)
+
 ## 20230706
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds Summit 2023 in Hamburg](https://reproducible-builds.org/news/2023/07/05/reproducible-builds-hamburg-meeting/)
 

@@ -1,3 +1,9 @@
+## 20230707
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里发布免费的全新可变字体；Stability AI CEO：5年内，人类程序员将不复存在；Perl 5.38发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131568806)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数学建模】国赛真题分析 2012 A题 葡萄酒的评价](https://blog.csdn.net/shaozheng0503/article/details/131501572)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [给LLM装上知识：从LangChain+LLM的本地知识库问答到LLM与知识图谱的结合](https://blog.csdn.net/v_JULY_v/article/details/131552592)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [基于JavaSpringBoot+Vue+uniapp微信小程序实现鲜花商城购物系统](https://blog.csdn.net/weixin_39709134/article/details/131508514)
+
 ## 20230706
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应与Meta VR头显合作传闻；美国考虑限制中国用户使用美国云计算服务；ChatGPT暂停联网测试|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131548852)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Spring】从Spring源码入手分析广播与监听并完成项目实战](https://blog.csdn.net/Qingai521/article/details/131548884)

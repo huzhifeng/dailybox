@@ -1,3 +1,7 @@
+## 20230707
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development)
+
 ## 20230703
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: Ubuntu Server autoinstall with a physical machine](https://nobuto-m.github.io/post/2023/ubuntu-server-autoinstall-with-a-physical-machine/)
 

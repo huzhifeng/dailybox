@@ -1,3 +1,6 @@
+## 20230707
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.27: Peppermint OS, Warp Terminal, Math Bash and More](https://itsfoss.com/newsletter/foss-weekly-23-27/)
+
 ## 20230706
 - [It's FOSS](https://itsfoss.com/) | [Display Animated ASCII Birthday Wish in Linux Terminal 🎂](https://itsfoss.com/birthday-wish-linux-terminal/)
 

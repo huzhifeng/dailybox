@@ -1,3 +1,18 @@
+## 20230707
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1054 ChatGPT 流量 6 月首次出现月度下滑](https://linux.cn/article-15975-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Debezium SMT with Groovy to filter routing events](https://developers.redhat.com/articles/2023/07/06/how-use-debezium-smt-groovy-filter-routing-events)
+- [Phoronix](https://www.phoronix.com/) | [systemd 254-rc1 Deprecates SysV Scripts, Adds Soft Reboots & systemd-battery-check](https://www.phoronix.com/news/systemd-254-rc1)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 40 Considering To Implement Privacy-Preserving Telemetry](https://www.phoronix.com/news/Fedora-40-Considers-Telemetry)
+- [Phoronix](https://www.phoronix.com/) | [AMD Begins Sending "Family 26" Linux Patches For Apparent Zen 5 CPUs](https://www.phoronix.com/news/AMD-Family-26-Linux-Start)
+- [9to5Linux](https://9to5linux.com/) | [Immutable Distro blendOS 3 Now Officially Available Based on Arch Linux](https://9to5linux.com/immutable-distro-blendos-3-now-officially-available-based-on-arch-linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.3 Is Out as the Last Update in the Series to Fix More Bugs](https://9to5linux.com/kde-gear-23-04-3-is-out-as-the-last-update-in-the-series-to-fix-more-bugs)
+- [9to5Linux](https://9to5linux.com/) | [New TUXEDO Stellaris 17 Linux Laptop Promises the Fastest Notebook Hardware on the Planet](https://9to5linux.com/new-tuxedo-stellaris-17-linux-laptop-promises-the-fastest-notebook-hardware-on-the-planet)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21 and 8.2.8](https://blog.remirepo.net/post/2023/07/06/PHP-version-8.1.21-and-8.2.8)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in June 2023](http://blog.alteholz.eu/2023/07/my-debian-activities-in-june-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development)
+
 ## 20230706
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1053 美国计划限制中国使用美国先进的云计算服务](https://linux.cn/article-15971-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.4: More work on MediaTek, Rockchip, and power supply](https://www.collabora.com/news-and-blog/news-and-events/kernel-64-more-work-on-mediatek-rockchip-and-power-supply.html)

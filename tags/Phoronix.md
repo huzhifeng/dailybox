@@ -1,3 +1,8 @@
+## 20230707
+- [Phoronix](https://www.phoronix.com/) | [systemd 254-rc1 Deprecates SysV Scripts, Adds Soft Reboots & systemd-battery-check](https://www.phoronix.com/news/systemd-254-rc1)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 40 Considering To Implement Privacy-Preserving Telemetry](https://www.phoronix.com/news/Fedora-40-Considers-Telemetry)
+- [Phoronix](https://www.phoronix.com/) | [AMD Begins Sending "Family 26" Linux Patches For Apparent Zen 5 CPUs](https://www.phoronix.com/news/AMD-Family-26-Linux-Start)
+
 ## 20230706
 - [Phoronix](https://www.phoronix.com/) | [F2FS Prepares Some Minor Improvements For Linux 6.5](https://www.phoronix.com/news/F2FS-Linux-6.5)
 - [Phoronix](https://www.phoronix.com/) | [GNOME 45 Alpha Released With Various Optimizations, Better Built-In Screen Recorder](https://www.phoronix.com/news/GNOME-45-Alpha)

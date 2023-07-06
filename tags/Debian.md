@@ -1,3 +1,6 @@
+## 20230707
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in June 2023](http://blog.alteholz.eu/2023/07/my-debian-activities-in-june-2023/)
+
 ## 20230706
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds Summit 2023 in Hamburg](https://reproducible-builds.org/news/2023/07/05/reproducible-builds-hamburg-meeting/)
 

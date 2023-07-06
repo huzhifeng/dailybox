@@ -1,3 +1,6 @@
+## 20230707
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Debezium SMT with Groovy to filter routing events](https://developers.redhat.com/articles/2023/07/06/how-use-debezium-smt-groovy-filter-routing-events)
+
 ## 20230706
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Kafka Cruise Control for cluster optimization](https://developers.redhat.com/articles/2023/07/05/how-use-kafka-cruise-control-cluster-optimization)
 
