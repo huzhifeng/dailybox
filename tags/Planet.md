@@ -1,3 +1,9 @@
+## 20230708
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Prefer Safari over Chrome](https://avi.alkalay.net/2023/07/safari-versus-chrome.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Firefox on Linux update](https://mastransky.wordpress.com/2023/07/07/firefox-on-linux-update/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 27 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-27-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: Rcpp 1.0.11 on CRAN: Updates and Maintenance](http://dirk.eddelbuettel.com/blog/2023/07/06#rcpp_1.0.11)
+
 ## 20230707
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.21 and 8.2.8](https://blog.remirepo.net/post/2023/07/06/PHP-version-8.1.21-and-8.2.8)
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in June 2023](http://blog.alteholz.eu/2023/07/my-debian-activities-in-june-2023/)

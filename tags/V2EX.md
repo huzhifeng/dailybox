@@ -1,3 +1,8 @@
+## 20230708
+- [V2EX](https://www.v2ex.com/) | [程序员老铁们，每周剃一次胡须太麻烦了，有没有永久去胡的](https://www.v2ex.com/t/954900)
+- [V2EX](https://www.v2ex.com/) | [大家是怎么节约用钱的。看到之前你们的发帖我有点震惊](https://www.v2ex.com/t/954851)
+- [V2EX](https://www.v2ex.com/) | [你最喜欢吃的食物（百吃不厌）是什么？](https://www.v2ex.com/t/954826)
+
 ## 20230707
 - [V2EX](https://www.v2ex.com/) | [微信朋友圈替代？](https://www.v2ex.com/t/954664)
 - [V2EX](https://www.v2ex.com/) | [高仿 Twitter 社交应用 Threads 已正式上线，你会用吗？](https://www.v2ex.com/t/954553)

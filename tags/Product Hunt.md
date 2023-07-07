@@ -1,3 +1,8 @@
+## 20230708
+- [Product Hunt](https://www.producthunt.com) | [Creator Calculator](https://www.producthunt.com/posts/creator-calculator)
+- [Product Hunt](https://www.producthunt.com) | [Instagram Story Scheduler Tool](https://www.producthunt.com/posts/instagram-story-scheduler-tool)
+- [Product Hunt](https://www.producthunt.com) | [ice](https://www.producthunt.com/posts/ice-3)
+
 ## 20230707
 - [Product Hunt](https://www.producthunt.com) | [FlutterFlow AI Gen](https://www.producthunt.com/posts/flutterflow-ai-gen-2)
 - [Product Hunt](https://www.producthunt.com) | [Whimsical AI](https://www.producthunt.com/posts/whimsical-ai)

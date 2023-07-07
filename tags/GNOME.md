@@ -1,3 +1,6 @@
+## 20230708
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#103 Flowing Information](https://thisweek.gnome.org/posts/2023/07/twig-103/)
+
 ## 20230701
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#102 Contextual Back Buttons](https://thisweek.gnome.org/posts/2023/06/twig-102/)
 

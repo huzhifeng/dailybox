@@ -1,3 +1,6 @@
+## 20230708
+- [Red Hat Developer](https://developers.redhat.com/) | [Enable user-managed networking with ZTP](https://developers.redhat.com/articles/2023/07/07/enable-user-managed-networking-ztp)
+
 ## 20230707
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Debezium SMT with Groovy to filter routing events](https://developers.redhat.com/articles/2023/07/06/how-use-debezium-smt-groovy-filter-routing-events)
 

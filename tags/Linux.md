@@ -1,3 +1,18 @@
+## 20230708
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1055 5G 并没有影响飞行安全](https://linux.cn/article-15978-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Enable user-managed networking with ZTP](https://developers.redhat.com/articles/2023/07/07/enable-user-managed-networking-ztp)
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.12 Released With Additional Wayland Enablement](https://www.phoronix.com/news/Wine-8.12-Released)
+- [Phoronix](https://www.phoronix.com/) | [Meta Releases Intermediate Graphics Library "IGL" Built Atop Vulkan, OpenGL](https://www.phoronix.com/news/Intermediate-Graphics-Lib-IGL)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings New "cachestat" Syscall For Querying Page Cache Stats Of A File](https://www.phoronix.com/news/Linux-6.5-MM-cachestat)
+- [9to5Linux](https://9to5linux.com/) | [GNOME&#8217;s Phosh 0.29 Mobile UI Adds Lockscreen Notifications for Ongoing Calls](https://9to5linux.com/gnomes-phosh-0-29-mobile-ui-adds-lockscreen-notifications-for-ongoing-calls)
+- [9to5Linux](https://9to5linux.com/) | [GNOME Shell 45 Improves Built-In Screen Recorder, Removes the App Menu Indicator](https://9to5linux.com/gnome-shell-45-improves-built-in-screen-recorder-removes-the-app-menu-indicator)
+- [9to5Linux](https://9to5linux.com/) | [Wayland Support for Budgie Desktop Looks Bright, Even for Budgie 10](https://9to5linux.com/wayland-support-for-budgie-desktop-looks-bright-even-for-budgie-10)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Prefer Safari over Chrome](https://avi.alkalay.net/2023/07/safari-versus-chrome.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Firefox on Linux update](https://mastransky.wordpress.com/2023/07/07/firefox-on-linux-update/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 27 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-27-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: Rcpp 1.0.11 on CRAN: Updates and Maintenance](http://dirk.eddelbuettel.com/blog/2023/07/06#rcpp_1.0.11)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#103 Flowing Information](https://thisweek.gnome.org/posts/2023/07/twig-103/)
+
 ## 20230707
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1054 ChatGPT 流量 6 月首次出现月度下滑](https://linux.cn/article-15975-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
