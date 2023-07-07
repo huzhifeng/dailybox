@@ -1,3 +1,9 @@
+## 20230708
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [科大讯飞：10月24日发布通用大模型，全面对标ChatGPT；GPT-4 API全面开放使用；Bun 0.6.13发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131589952)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析K8S监控](https://blog.csdn.net/weixin_36755535/article/details/131583178)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [威联通NAS文件共享 - 搭建SFTP服务并内网穿透实现在外远程访问](https://blog.csdn.net/Qingai521/article/details/131596293)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数学建模】 灰色预测模型](https://blog.csdn.net/shaozheng0503/article/details/131577775)
+
 ## 20230707
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里发布免费的全新可变字体；Stability AI CEO：5年内，人类程序员将不复存在；Perl 5.38发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131568806)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数学建模】国赛真题分析 2012 A题 葡萄酒的评价](https://blog.csdn.net/shaozheng0503/article/details/131501572)

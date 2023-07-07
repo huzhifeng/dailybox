@@ -1,3 +1,8 @@
+## 20230708
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.12 Released With Additional Wayland Enablement](https://www.phoronix.com/news/Wine-8.12-Released)
+- [Phoronix](https://www.phoronix.com/) | [Meta Releases Intermediate Graphics Library "IGL" Built Atop Vulkan, OpenGL](https://www.phoronix.com/news/Intermediate-Graphics-Lib-IGL)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Brings New "cachestat" Syscall For Querying Page Cache Stats Of A File](https://www.phoronix.com/news/Linux-6.5-MM-cachestat)
+
 ## 20230707
 - [Phoronix](https://www.phoronix.com/) | [systemd 254-rc1 Deprecates SysV Scripts, Adds Soft Reboots & systemd-battery-check](https://www.phoronix.com/news/systemd-254-rc1)
 - [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 40 Considering To Implement Privacy-Preserving Telemetry](https://www.phoronix.com/news/Fedora-40-Considers-Telemetry)

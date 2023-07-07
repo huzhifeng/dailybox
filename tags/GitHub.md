@@ -1,3 +1,9 @@
+## 20230708
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [techwithtim/Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [outcoldman/hackernews-personal-blogs](https://github.com/outcoldman/hackernews-personal-blogs)
+
 ## 20230707
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)

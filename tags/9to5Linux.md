@@ -1,3 +1,8 @@
+## 20230708
+- [9to5Linux](https://9to5linux.com/) | [GNOME&#8217;s Phosh 0.29 Mobile UI Adds Lockscreen Notifications for Ongoing Calls](https://9to5linux.com/gnomes-phosh-0-29-mobile-ui-adds-lockscreen-notifications-for-ongoing-calls)
+- [9to5Linux](https://9to5linux.com/) | [GNOME Shell 45 Improves Built-In Screen Recorder, Removes the App Menu Indicator](https://9to5linux.com/gnome-shell-45-improves-built-in-screen-recorder-removes-the-app-menu-indicator)
+- [9to5Linux](https://9to5linux.com/) | [Wayland Support for Budgie Desktop Looks Bright, Even for Budgie 10](https://9to5linux.com/wayland-support-for-budgie-desktop-looks-bright-even-for-budgie-10)
+
 ## 20230707
 - [9to5Linux](https://9to5linux.com/) | [Immutable Distro blendOS 3 Now Officially Available Based on Arch Linux](https://9to5linux.com/immutable-distro-blendos-3-now-officially-available-based-on-arch-linux)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.04.3 Is Out as the Last Update in the Series to Fix More Bugs](https://9to5linux.com/kde-gear-23-04-3-is-out-as-the-last-update-in-the-series-to-fix-more-bugs)

@@ -1,3 +1,8 @@
+## 20230708
+- [Hacker News](https://news.ycombinator.com/front) | [32“ E Ink screen that displays daily newspapers on your wall (2021)](https://news.ycombinator.com/item?id=36629085)
+- [Hacker News](https://news.ycombinator.com/front) | [Excellence is a habit, but so is failure](https://news.ycombinator.com/item?id=36628356)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenWorm – A computational model of C. elegans worm](https://news.ycombinator.com/item?id=36628258)
+
 ## 20230707
 - [Hacker News](https://news.ycombinator.com/front) | [GPT-4 API General Availability](https://news.ycombinator.com/item?id=36621120)
 - [Hacker News](https://news.ycombinator.com/front) | [Backend of Meta Threads is built with Python 3.10](https://news.ycombinator.com/item?id=36612835)

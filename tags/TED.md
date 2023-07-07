@@ -1,3 +1,6 @@
+## 20230708
+- [TED Talks Daily](https://www.ted.com/talks) | [School is just the start. Here's how to help girls succeed for life | Angeline Murimirwa](https://www.ted.com/talks/angeline_murimirwa_school_is_just_the_start_here_s_how_to_help_girls_succeed_for_life?rss)
+
 ## 20230707
 - [TED Talks Daily](https://www.ted.com/talks) | [Why thinking about death helps you live a better life | Alua Arthur](https://www.ted.com/talks/alua_arthur_why_thinking_about_death_helps_you_live_a_better_life?rss)
 

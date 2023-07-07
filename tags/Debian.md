@@ -1,3 +1,6 @@
+## 20230708
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: Rcpp 1.0.11 on CRAN: Updates and Maintenance](http://dirk.eddelbuettel.com/blog/2023/07/06#rcpp_1.0.11)
+
 ## 20230707
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in June 2023](http://blog.alteholz.eu/2023/07/my-debian-activities-in-june-2023/)
 

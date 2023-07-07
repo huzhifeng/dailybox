@@ -1,3 +1,8 @@
+## 20230708
+- [Lobsters](https://lobste.rs/) | [Mistaken for malware](https://lobste.rs/s/uxvgkc/mistaken_for_malware)
+- [Lobsters](https://lobste.rs/) | [What is the type of Type?](https://lobste.rs/s/ibtnxo/what_is_type_type)
+- [Lobsters](https://lobste.rs/) | [How I Hacked my CASIO F-91W digital watch](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch)
+
 ## 20230707
 - [Lobsters](https://lobste.rs/) | [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts)
 - [Lobsters](https://lobste.rs/) | [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
