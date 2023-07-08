@@ -1,3 +1,6 @@
+## 20230709
+- [diff.blog](https://diff.blog/) | [Reverse-engineering the 8086 processor's address and data pin circuits](https://diff.blog/post/reverse-engineering-the-8086-processors-address-and-data-pin-circuits-143408/)
+
 ## 20230707
 - [diff.blog](https://diff.blog/) | [GPT-4 API general availability and deprecation of older models in the Completions API](https://diff.blog/post/gpt-4-api-general-availability-and-deprecation-of-older-models-in-the-completions-api-143229/)
 - [diff.blog](https://diff.blog/) | [I want XAES-256-GCM/11](https://diff.blog/post/i-want-xaes-256-gcm11-143222/)

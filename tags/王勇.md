@@ -1,3 +1,6 @@
+## 20230709
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [Ubuntu 手动编译 PyQt6 支持私有解码器](https://manateelazycat.github.io/2023/07/08/eaf-browser-ubuntu/)
+
 ## 20230629
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Jekyll 定制文章链接](https://manateelazycat.github.io/2023/06/28/jekyll-permalink/)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [LSP 诊断协议分析](https://manateelazycat.github.io/2023/06/28/lsp-server-diagnosis-bug/)

@@ -1,3 +1,7 @@
+## 20230709
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Open question: Podman and user/group IDs](https://perezmeyer.com.ar/blog/2023/07/08/podman_and_user_group_ids/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Sandboxing Phone Apps](https://etbe.coker.com.au/2023/07/08/sandboxing-phone-apps/)
+
 ## 20230708
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Prefer Safari over Chrome](https://avi.alkalay.net/2023/07/safari-versus-chrome.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Firefox on Linux update](https://mastransky.wordpress.com/2023/07/07/firefox-on-linux-update/)

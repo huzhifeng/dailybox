@@ -1,3 +1,7 @@
+## 20230709
+- [Product Hunt](https://www.producthunt.com) | [Locker](https://www.producthunt.com/posts/locker-5)
+- [Product Hunt](https://www.producthunt.com) | [AffiToday](https://www.producthunt.com/posts/affitoday)
+
 ## 20230708
 - [Product Hunt](https://www.producthunt.com) | [Creator Calculator](https://www.producthunt.com/posts/creator-calculator)
 - [Product Hunt](https://www.producthunt.com) | [Instagram Story Scheduler Tool](https://www.producthunt.com/posts/instagram-story-scheduler-tool)
