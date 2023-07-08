@@ -1,3 +1,8 @@
+## 20230709
+- [V2EX](https://www.v2ex.com/) | [各位有被 V2 上的机场 aff 坑过吗](https://www.v2ex.com/t/955174)
+- [V2EX](https://www.v2ex.com/) | [关于 bitlocker 加密，破解真的很难吗？成本又有多高？](https://www.v2ex.com/t/955158)
+- [V2EX](https://www.v2ex.com/) | [随口说了一句“前面那个女生身材真不错”，感觉人设崩塌了怎么破🥲](https://www.v2ex.com/t/955139)
+
 ## 20230708
 - [V2EX](https://www.v2ex.com/) | [程序员老铁们，每周剃一次胡须太麻烦了，有没有永久去胡的](https://www.v2ex.com/t/954900)
 - [V2EX](https://www.v2ex.com/) | [大家是怎么节约用钱的。看到之前你们的发帖我有点震惊](https://www.v2ex.com/t/954851)

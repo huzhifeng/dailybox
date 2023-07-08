@@ -1,3 +1,6 @@
+## 20230709
+- [Slashdot](https://developers.slashdot.org/) | [Perl 5.38 Released with New Experimental Syntax for Defining Object Classes](https://developers.slashdot.org/story/23/07/08/0055207/perl-538-released-with-new-experimental-syntax-for-defining-object-classes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230705
 - [Slashdot](https://linux.slashdot.org/) | [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://hardware.slashdot.org/story/23/07/03/2233208/amd-cpu-use-among-linux-gamers-approaching-70-marketshare?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

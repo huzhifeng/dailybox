@@ -1,3 +1,8 @@
+## 20230709
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.108 Released with Various Bug Fixes and Improvements](https://9to5linux.com/kde-frameworks-5-108-released-with-various-bug-fixes-and-improvements)
+- [9to5Linux](https://9to5linux.com/) | [Lightweight Distro Q4OS 5.2 &#8220;Aquarius&#8221; Is Out Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/lightweight-distro-q4os-5-2-aquarius-is-out-based-on-debian-12-bookworm)
+- [9to5Linux](https://9to5linux.com/) | [Solus 4.4 &#8220;Harmony&#8221; Released with Secure Boot Support, Linux 6.3, and More](https://9to5linux.com/solus-4-4-harmony-released-with-secure-boot-support-linux-6-3-and-more)
+
 ## 20230708
 - [9to5Linux](https://9to5linux.com/) | [GNOME&#8217;s Phosh 0.29 Mobile UI Adds Lockscreen Notifications for Ongoing Calls](https://9to5linux.com/gnomes-phosh-0-29-mobile-ui-adds-lockscreen-notifications-for-ongoing-calls)
 - [9to5Linux](https://9to5linux.com/) | [GNOME Shell 45 Improves Built-In Screen Recorder, Removes the App Menu Indicator](https://9to5linux.com/gnome-shell-45-improves-built-in-screen-recorder-removes-the-app-menu-indicator)

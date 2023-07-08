@@ -1,3 +1,15 @@
+## 20230709
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1056 Denuvo 想让你相信它的 DRM 不是“邪恶的”](https://linux.cn/article-15980-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Mesa RADV Driver Re-Enables Ray-Tracing Pipelines For AMD VanGogh APUs / Steam Deck](https://www.phoronix.com/news/RADV-RT-Re-Enables-Van-Gogh)
+- [Phoronix](https://www.phoronix.com/) | [Intel Speed Select Updates, x86 Android Tablet Updates For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-x86-Platform-Drivers)
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Rusticl Implements OpenCL Subgroups](https://www.phoronix.com/news/Rusticl-OpenCL-Subgroups)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.108 Released with Various Bug Fixes and Improvements](https://9to5linux.com/kde-frameworks-5-108-released-with-various-bug-fixes-and-improvements)
+- [9to5Linux](https://9to5linux.com/) | [Lightweight Distro Q4OS 5.2 &#8220;Aquarius&#8221; Is Out Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/lightweight-distro-q4os-5-2-aquarius-is-out-based-on-debian-12-bookworm)
+- [9to5Linux](https://9to5linux.com/) | [Solus 4.4 &#8220;Harmony&#8221; Released with Secure Boot Support, Linux 6.3, and More](https://9to5linux.com/solus-4-4-harmony-released-with-secure-boot-support-linux-6-3-and-more)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Open question: Podman and user/group IDs](https://perezmeyer.com.ar/blog/2023/07/08/podman_and_user_group_ids/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Sandboxing Phone Apps](https://etbe.coker.com.au/2023/07/08/sandboxing-phone-apps/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Akademy approaches](https://pointieststick.com/2023/07/07/this-week-in-kde-akademy-approaches/)
+
 ## 20230708
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1055 5G 并没有影响飞行安全](https://linux.cn/article-15978-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Enable user-managed networking with ZTP](https://developers.redhat.com/articles/2023/07/07/enable-user-managed-networking-ztp)

@@ -1,3 +1,8 @@
+## 20230709
+- [Phoronix](https://www.phoronix.com/) | [Mesa RADV Driver Re-Enables Ray-Tracing Pipelines For AMD VanGogh APUs / Steam Deck](https://www.phoronix.com/news/RADV-RT-Re-Enables-Van-Gogh)
+- [Phoronix](https://www.phoronix.com/) | [Intel Speed Select Updates, x86 Android Tablet Updates For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-x86-Platform-Drivers)
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Rusticl Implements OpenCL Subgroups](https://www.phoronix.com/news/Rusticl-OpenCL-Subgroups)
+
 ## 20230708
 - [Phoronix](https://www.phoronix.com/) | [Wine 8.12 Released With Additional Wayland Enablement](https://www.phoronix.com/news/Wine-8.12-Released)
 - [Phoronix](https://www.phoronix.com/) | [Meta Releases Intermediate Graphics Library "IGL" Built Atop Vulkan, OpenGL](https://www.phoronix.com/news/Intermediate-Graphics-Lib-IGL)

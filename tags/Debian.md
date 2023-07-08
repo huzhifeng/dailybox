@@ -1,3 +1,7 @@
+## 20230709
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Open question: Podman and user/group IDs](https://perezmeyer.com.ar/blog/2023/07/08/podman_and_user_group_ids/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Sandboxing Phone Apps](https://etbe.coker.com.au/2023/07/08/sandboxing-phone-apps/)
+
 ## 20230708
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: Rcpp 1.0.11 on CRAN: Updates and Maintenance](http://dirk.eddelbuettel.com/blog/2023/07/06#rcpp_1.0.11)
 

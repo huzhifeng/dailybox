@@ -1,3 +1,7 @@
+## 20230709
+- [Hacker News](https://news.ycombinator.com/front) | [When an app asks for permissions, it should have a “feed fake data” option](https://news.ycombinator.com/item?id=36644895)
+- [Hacker News](https://news.ycombinator.com/front) | [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://news.ycombinator.com/item?id=36643670)
+
 ## 20230708
 - [Hacker News](https://news.ycombinator.com/front) | [32“ E Ink screen that displays daily newspapers on your wall (2021)](https://news.ycombinator.com/item?id=36629085)
 - [Hacker News](https://news.ycombinator.com/front) | [Excellence is a habit, but so is failure](https://news.ycombinator.com/item?id=36628356)

@@ -1,3 +1,8 @@
+## 20230709
+- [Lobsters](https://lobste.rs/) | [This will be easy](https://lobste.rs/s/r5yxn1/this_will_be_easy)
+- [Lobsters](https://lobste.rs/) | [RISC-V Assembly Programming](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming)
+- [Lobsters](https://lobste.rs/) | [Test Against Reality](https://lobste.rs/s/ltxxwj/test_against_reality)
+
 ## 20230708
 - [Lobsters](https://lobste.rs/) | [Mistaken for malware](https://lobste.rs/s/uxvgkc/mistaken_for_malware)
 - [Lobsters](https://lobste.rs/) | [What is the type of Type?](https://lobste.rs/s/ibtnxo/what_is_type_type)
