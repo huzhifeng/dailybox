@@ -1,3 +1,6 @@
+## 20230710
+- [It's FOSS](https://itsfoss.com/) | [What are Exit Codes in Linux?](https://itsfoss.com/linux-exit-codes/)
+
 ## 20230707
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.27: Peppermint OS, Warp Terminal, Math Bash and More](https://itsfoss.com/newsletter/foss-weekly-23-27/)
 

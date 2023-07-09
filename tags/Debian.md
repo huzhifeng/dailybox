@@ -1,3 +1,7 @@
+## 20230710
+- [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: Upgraded fabre.debian.net to Debian 12 (bookworm)](https://kenhys.hatenablog.jp/entry/2023/07/09/212346)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Matrix](https://etbe.coker.com.au/2023/07/09/matrix/)
+
 ## 20230709
 - [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: Open question: Podman and user/group IDs](https://perezmeyer.com.ar/blog/2023/07/08/podman_and_user_group_ids/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Sandboxing Phone Apps](https://etbe.coker.com.au/2023/07/08/sandboxing-phone-apps/)

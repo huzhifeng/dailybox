@@ -1,3 +1,8 @@
+## 20230710
+- [V2EX](https://www.v2ex.com/) | [我感觉我快要抑郁了，求推荐心理学的书](https://www.v2ex.com/t/955297)
+- [V2EX](https://www.v2ex.com/) | [用了 3 天 Chatgpt Plus，又被封了](https://www.v2ex.com/t/955295)
+- [V2EX](https://www.v2ex.com/) | [我的锤子手机使用经历](https://www.v2ex.com/t/955285)
+
 ## 20230709
 - [V2EX](https://www.v2ex.com/) | [各位有被 V2 上的机场 aff 坑过吗](https://www.v2ex.com/t/955174)
 - [V2EX](https://www.v2ex.com/) | [关于 bitlocker 加密，破解真的很难吗？成本又有多高？](https://www.v2ex.com/t/955158)

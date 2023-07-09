@@ -1,3 +1,8 @@
+## 20230710
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc1 Released With Initial USB4 v2 Support, Cachestat, AMD RDNA3 Overclocking](https://www.phoronix.com/news/Linux-6.5-rc1)
+- [Phoronix](https://www.phoronix.com/) | [GIMP 2.99.16 Released As GIMP 3.0 RCs Near](https://www.phoronix.com/news/GIMP-2.99.16-Released)
+- [Phoronix](https://www.phoronix.com/) | [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
+
 ## 20230709
 - [Phoronix](https://www.phoronix.com/) | [Mesa RADV Driver Re-Enables Ray-Tracing Pipelines For AMD VanGogh APUs / Steam Deck](https://www.phoronix.com/news/RADV-RT-Re-Enables-Van-Gogh)
 - [Phoronix](https://www.phoronix.com/) | [Intel Speed Select Updates, x86 Android Tablet Updates For Linux 6.5](https://www.phoronix.com/news/Linux-6.5-x86-Platform-Drivers)

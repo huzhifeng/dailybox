@@ -1,3 +1,8 @@
+## 20230710
+- [Product Hunt](https://www.producthunt.com) | [Voicejacket (Beta)](https://www.producthunt.com/posts/voicejacket-beta)
+- [Product Hunt](https://www.producthunt.com) | [OpenAI API to Airtable](https://www.producthunt.com/posts/openai-api-to-airtable)
+- [Product Hunt](https://www.producthunt.com) | [Momento AI](https://www.producthunt.com/posts/momento-ai)
+
 ## 20230709
 - [Product Hunt](https://www.producthunt.com) | [Locker](https://www.producthunt.com/posts/locker-5)
 - [Product Hunt](https://www.producthunt.com) | [AffiToday](https://www.producthunt.com/posts/affitoday)
