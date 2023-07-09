@@ -1,3 +1,7 @@
+## 20230710
+- [9to5Linux](https://9to5linux.com/) | [Linus Torvalds Announces First Linux Kernel 6.5 Release Candidate](https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-6-5-release-candidate)
+- [9to5Linux](https://9to5linux.com/) | [How to Install the Latest GNOME Alpha/Beta Versions on Arch Linux](https://9to5linux.com/how-to-install-the-latest-gnome-alpha-beta-versions-on-arch-linux)
+
 ## 20230709
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.108 Released with Various Bug Fixes and Improvements](https://9to5linux.com/kde-frameworks-5-108-released-with-various-bug-fixes-and-improvements)
 - [9to5Linux](https://9to5linux.com/) | [Lightweight Distro Q4OS 5.2 &#8220;Aquarius&#8221; Is Out Based on Debian 12 &#8220;Bookworm&#8221;](https://9to5linux.com/lightweight-distro-q4os-5-2-aquarius-is-out-based-on-debian-12-bookworm)

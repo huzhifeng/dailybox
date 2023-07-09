@@ -1,3 +1,6 @@
+## 20230710
+- [Planet Fedora](http://fedoraplanet.org/) | [Ryan Rix: "it isn't a contest. Just enjoy the ride." - remembering Seth Vidal](https://arcology.garden/people/skvidal)
+
 ## 20230708
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Prefer Safari over Chrome](https://avi.alkalay.net/2023/07/safari-versus-chrome.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Firefox on Linux update](https://mastransky.wordpress.com/2023/07/07/firefox-on-linux-update/)

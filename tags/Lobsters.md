@@ -1,3 +1,8 @@
+## 20230710
+- [Lobsters](https://lobste.rs/) | [Toot toot! Mastodon-powered Blog Comments](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments)
+- [Lobsters](https://lobste.rs/) | [The Most Powerful Law in Software](https://lobste.rs/s/ukqxjq/most_powerful_law_software)
+- [Lobsters](https://lobste.rs/) | [Wayland on OpenBSD](https://lobste.rs/s/ok0sjk/wayland_on_openbsd)
+
 ## 20230709
 - [Lobsters](https://lobste.rs/) | [This will be easy](https://lobste.rs/s/r5yxn1/this_will_be_easy)
 - [Lobsters](https://lobste.rs/) | [RISC-V Assembly Programming](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming)

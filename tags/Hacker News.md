@@ -1,3 +1,6 @@
+## 20230710
+- [Hacker News](https://news.ycombinator.com/front) | [How small is the smallest .NET Hello World binary?](https://news.ycombinator.com/item?id=36652824)
+
 ## 20230709
 - [Hacker News](https://news.ycombinator.com/front) | [When an app asks for permissions, it should have a “feed fake data” option](https://news.ycombinator.com/item?id=36644895)
 - [Hacker News](https://news.ycombinator.com/front) | [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://news.ycombinator.com/item?id=36643670)

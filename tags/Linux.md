@@ -1,3 +1,15 @@
+## 20230710
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1057 谷歌再次重申“量子霸权”，声称制造了 70 个量子比特的量子超级计算](https://linux.cn/article-15983-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc1 Released With Initial USB4 v2 Support, Cachestat, AMD RDNA3 Overclocking](https://www.phoronix.com/news/Linux-6.5-rc1)
+- [Phoronix](https://www.phoronix.com/) | [GIMP 2.99.16 Released As GIMP 3.0 RCs Near](https://www.phoronix.com/news/GIMP-2.99.16-Released)
+- [Phoronix](https://www.phoronix.com/) | [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
+- [9to5Linux](https://9to5linux.com/) | [Linus Torvalds Announces First Linux Kernel 6.5 Release Candidate](https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-6-5-release-candidate)
+- [9to5Linux](https://9to5linux.com/) | [How to Install the Latest GNOME Alpha/Beta Versions on Arch Linux](https://9to5linux.com/how-to-install-the-latest-gnome-alpha-beta-versions-on-arch-linux)
+- [Planet Fedora](http://fedoraplanet.org/) | [Ryan Rix: "it isn't a contest. Just enjoy the ride." - remembering Seth Vidal](https://arcology.garden/people/skvidal)
+- [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: Upgraded fabre.debian.net to Debian 12 (bookworm)](https://kenhys.hatenablog.jp/entry/2023/07/09/212346)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Matrix](https://etbe.coker.com.au/2023/07/09/matrix/)
+- [Slashdot](https://linux.slashdot.org/) | [Researchers Discovered a New Linux Kernel 'StackRot' Privilege Escalation Vulnerability](https://linux.slashdot.org/story/23/07/09/0131210/researchers-discovered-a-new-linux-kernel-stackrot-privilege-escalation-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230709
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1056 Denuvo 想让你相信它的 DRM 不是“邪恶的”](https://linux.cn/article-15980-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Mesa RADV Driver Re-Enables Ray-Tracing Pipelines For AMD VanGogh APUs / Steam Deck](https://www.phoronix.com/news/RADV-RT-Re-Enables-Van-Gogh)
