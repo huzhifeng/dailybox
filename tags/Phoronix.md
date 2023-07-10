@@ -1,3 +1,8 @@
+## 20230711
+- [Phoronix](https://www.phoronix.com/) | [Radeon RADV Driver's Emulated Ray-Tracing Achieves 100% Pass Rate](https://www.phoronix.com/news/RADV-Emulated-RT-100p)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 1060 To RTX 4060 GPU Compute & Renderer Performance On Linux](https://www.phoronix.com/review/nvidia-rtx4060-compute)
+- [Phoronix](https://www.phoronix.com/) | [Oracle Intends To Keep Trying To Make Oracle Linux Compatible With RHEL](https://www.phoronix.com/news/Oracle-Linux-Keep-RHEL-Compat)
+
 ## 20230710
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc1 Released With Initial USB4 v2 Support, Cachestat, AMD RDNA3 Overclocking](https://www.phoronix.com/news/Linux-6.5-rc1)
 - [Phoronix](https://www.phoronix.com/) | [GIMP 2.99.16 Released As GIMP 3.0 RCs Near](https://www.phoronix.com/news/GIMP-2.99.16-Released)

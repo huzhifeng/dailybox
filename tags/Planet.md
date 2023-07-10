@@ -1,3 +1,13 @@
+## 20230711
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 383 – Is open source dying?](https://opensourcesecurity.io/2023/07/09/episode-383-is-open-source-dying/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: PLIO, Mum, Debconf, Pressure Cooker, RISC-V,](https://flossexperiences.wordpress.com/2023/07/10/plio-mum-debconf-pressure-cooker-risc-v/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: Java timezone sheanigans](https://abbbi.github.io//timezone/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [St&eacute;phane Graber: Time to move on](https://stgraber.org/2023/07/10/time-to-move-on/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [KVM in Linux Distributions in 2Q 2023](https://kvmonz.blogspot.com/2023/07/kvm-in-linux-distributions-in-2q-2023.html)
+
 ## 20230710
 - [Planet Fedora](http://fedoraplanet.org/) | [Ryan Rix: "it isn't a contest. Just enjoy the ride." - remembering Seth Vidal](https://arcology.garden/people/skvidal)
 - [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: Upgraded fabre.debian.net to Debian 12 (bookworm)](https://kenhys.hatenablog.jp/entry/2023/07/09/212346)

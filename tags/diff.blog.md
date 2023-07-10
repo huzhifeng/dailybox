@@ -1,3 +1,7 @@
+## 20230711
+- [diff.blog](https://diff.blog/) | [Lima: a nice way to run Linux VMs on Mac](https://diff.blog/post/lima-a-nice-way-to-run-linux-vms-on-mac-143501/)
+- [diff.blog](https://diff.blog/) | [How to get karma on Reddit](https://diff.blog/post/how-to-get-karma-on-reddit-143486/)
+
 ## 20230709
 - [diff.blog](https://diff.blog/) | [Reverse-engineering the 8086 processor's address and data pin circuits](https://diff.blog/post/reverse-engineering-the-8086-processors-address-and-data-pin-circuits-143408/)
 

@@ -1,3 +1,6 @@
+## 20230711
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 9th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-9th-2023)
+
 ## 20230710
 - [9to5Linux](https://9to5linux.com/) | [Linus Torvalds Announces First Linux Kernel 6.5 Release Candidate](https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-6-5-release-candidate)
 - [9to5Linux](https://9to5linux.com/) | [How to Install the Latest GNOME Alpha/Beta Versions on Arch Linux](https://9to5linux.com/how-to-install-the-latest-gnome-alpha-beta-versions-on-arch-linux)

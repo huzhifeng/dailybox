@@ -1,3 +1,8 @@
+## 20230711
+- [V2EX](https://www.v2ex.com/) | [如何帮一个文科生女性用上 ChatGPT](https://www.v2ex.com/t/955532)
+- [V2EX](https://www.v2ex.com/) | [开源了一个月入 3k 的产品：「寻隐/Queryable」](https://www.v2ex.com/t/955496)
+- [V2EX](https://www.v2ex.com/) | [我真的很透了这种教育方式](https://www.v2ex.com/t/955436)
+
 ## 20230710
 - [V2EX](https://www.v2ex.com/) | [我感觉我快要抑郁了，求推荐心理学的书](https://www.v2ex.com/t/955297)
 - [V2EX](https://www.v2ex.com/) | [用了 3 天 Chatgpt Plus，又被封了](https://www.v2ex.com/t/955295)

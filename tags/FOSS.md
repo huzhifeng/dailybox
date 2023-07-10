@@ -1,3 +1,6 @@
+## 20230711
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #5: Using Arrays in Bash](https://itsfoss.com/bash-arrays/)
+
 ## 20230710
 - [It's FOSS](https://itsfoss.com/) | [What are Exit Codes in Linux?](https://itsfoss.com/linux-exit-codes/)
 

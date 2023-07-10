@@ -1,3 +1,8 @@
+## 20230711
+- [Hacker News](https://news.ycombinator.com/front) | [New study reveals most classic video games are unavailable](https://news.ycombinator.com/item?id=36668472)
+- [Hacker News](https://news.ycombinator.com/front) | [First U.S. ban on sale of cellphone location data might be coming](https://news.ycombinator.com/item?id=36667848)
+- [Hacker News](https://news.ycombinator.com/front) | [Firefox address bar](https://news.ycombinator.com/item?id=36666116)
+
 ## 20230710
 - [Hacker News](https://news.ycombinator.com/front) | [How small is the smallest .NET Hello World binary?](https://news.ycombinator.com/item?id=36652824)
 

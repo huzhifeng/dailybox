@@ -1,3 +1,8 @@
+## 20230711
+- [Product Hunt](https://www.producthunt.com) | [Mobile FIRST](https://www.producthunt.com/posts/mobile-first)
+- [Product Hunt](https://www.producthunt.com) | [Clippulse](https://www.producthunt.com/posts/clippulse)
+- [Product Hunt](https://www.producthunt.com) | [KawaAI](https://www.producthunt.com/posts/kawaai)
+
 ## 20230710
 - [Product Hunt](https://www.producthunt.com) | [Voicejacket (Beta)](https://www.producthunt.com/posts/voicejacket-beta)
 - [Product Hunt](https://www.producthunt.com) | [OpenAI API to Airtable](https://www.producthunt.com/posts/openai-api-to-airtable)

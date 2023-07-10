@@ -1,3 +1,8 @@
+## 20230711
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: PLIO, Mum, Debconf, Pressure Cooker, RISC-V,](https://flossexperiences.wordpress.com/2023/07/10/plio-mum-debconf-pressure-cooker-risc-v/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: Java timezone sheanigans](https://abbbi.github.io//timezone/)
+
 ## 20230710
 - [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: Upgraded fabre.debian.net to Debian 12 (bookworm)](https://kenhys.hatenablog.jp/entry/2023/07/09/212346)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Matrix](https://etbe.coker.com.au/2023/07/09/matrix/)

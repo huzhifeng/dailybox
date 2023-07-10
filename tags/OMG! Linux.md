@@ -1,3 +1,6 @@
+## 20230711
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME May Reduce Number of Nautilus’ Sidebar Entries](https://www.omglinux.com/gnome-removes-some-nautilus-sidebar-entries/)
+
 ## 20230705
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 0.6 Released,  Ported to GTK4](https://www.omglinux.com/gnome-podcasts-0-6-released-ported-to-gtk4/)
 
