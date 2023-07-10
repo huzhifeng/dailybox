@@ -1,3 +1,8 @@
+## 20230711
+- [Lobsters](https://lobste.rs/) | [Factor: a practical stack language](https://lobste.rs/s/jfjzyp/factor_practical_stack_language)
+- [Lobsters](https://lobste.rs/) | [What’s New in Thunderbird 115](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115)
+- [Lobsters](https://lobste.rs/) | [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
+
 ## 20230710
 - [Lobsters](https://lobste.rs/) | [Toot toot! Mastodon-powered Blog Comments](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments)
 - [Lobsters](https://lobste.rs/) | [The Most Powerful Law in Software](https://lobste.rs/s/ukqxjq/most_powerful_law_software)

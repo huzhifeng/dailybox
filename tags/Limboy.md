@@ -1,3 +1,6 @@
+## 20230711
+- [Limboy](https://limboy.me) | [改变，问题形成和解决的原则](https://limboy.me/books/change/)
+
 ## 20230616
 - [Limboy](https://limboy.me) | [我的理想住所](https://limboy.me/posts/my-ideal-residence/)
 

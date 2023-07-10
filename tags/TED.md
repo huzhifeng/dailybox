@@ -1,3 +1,6 @@
+## 20230711
+- [TED Talks Daily](https://www.ted.com/talks) | [War, AI and the new global arms race | Alexandr Wang](https://www.ted.com/talks/alexandr_wang_war_ai_and_the_new_global_arms_race?rss)
+
 ## 20230708
 - [TED Talks Daily](https://www.ted.com/talks) | [School is just the start. Here's how to help girls succeed for life | Angeline Murimirwa](https://www.ted.com/talks/angeline_murimirwa_school_is_just_the_start_here_s_how_to_help_girls_succeed_for_life?rss)
 

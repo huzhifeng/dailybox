@@ -1,3 +1,6 @@
+## 20230711
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 383 – Is open source dying?](https://opensourcesecurity.io/2023/07/09/episode-383-is-open-source-dying/)
+
 ## 20230710
 - [Planet Fedora](http://fedoraplanet.org/) | [Ryan Rix: "it isn't a contest. Just enjoy the ride." - remembering Seth Vidal](https://arcology.garden/people/skvidal)
 

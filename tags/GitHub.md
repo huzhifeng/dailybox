@@ -1,3 +1,8 @@
+## 20230711
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
+
 ## 20230710
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [InternLM/InternLM](https://github.com/InternLM/InternLM)

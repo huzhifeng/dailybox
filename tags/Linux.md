@@ -1,3 +1,20 @@
+## 20230711
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1058 OpenAI 拿出五分之一的算力来防止人工智能“叛变”](https://linux.cn/article-15986-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate edge device onboarding with Ansible FDO collection](https://developers.redhat.com/articles/2023/07/10/automate-edge-device-onboarding-ansible-fdo-collection)
+- [Phoronix](https://www.phoronix.com/) | [Radeon RADV Driver's Emulated Ray-Tracing Achieves 100% Pass Rate](https://www.phoronix.com/news/RADV-Emulated-RT-100p)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 1060 To RTX 4060 GPU Compute & Renderer Performance On Linux](https://www.phoronix.com/review/nvidia-rtx4060-compute)
+- [Phoronix](https://www.phoronix.com/) | [Oracle Intends To Keep Trying To Make Oracle Linux Compatible With RHEL](https://www.phoronix.com/news/Oracle-Linux-Keep-RHEL-Compat)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 9th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-9th-2023)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME May Reduce Number of Nautilus’ Sidebar Entries](https://www.omglinux.com/gnome-removes-some-nautilus-sidebar-entries/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 383 – Is open source dying?](https://opensourcesecurity.io/2023/07/09/episode-383-is-open-source-dying/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: PLIO, Mum, Debconf, Pressure Cooker, RISC-V,](https://flossexperiences.wordpress.com/2023/07/10/plio-mum-debconf-pressure-cooker-risc-v/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: Java timezone sheanigans](https://abbbi.github.io//timezone/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [St&eacute;phane Graber: Time to move on](https://stgraber.org/2023/07/10/time-to-move-on/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [KVM in Linux Distributions in 2Q 2023](https://kvmonz.blogspot.com/2023/07/kvm-in-linux-distributions-in-2q-2023.html)
+
 ## 20230710
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1057 谷歌再次重申“量子霸权”，声称制造了 70 个量子比特的量子超级计算](https://linux.cn/article-15983-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc1 Released With Initial USB4 v2 Support, Cachestat, AMD RDNA3 Overclocking](https://www.phoronix.com/news/Linux-6.5-rc1)

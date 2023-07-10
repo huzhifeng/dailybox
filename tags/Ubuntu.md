@@ -1,3 +1,8 @@
+## 20230711
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [St&eacute;phane Graber: Time to move on](https://stgraber.org/2023/07/10/time-to-move-on/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)
+
 ## 20230707
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development)

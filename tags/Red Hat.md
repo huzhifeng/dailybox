@@ -1,3 +1,6 @@
+## 20230711
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate edge device onboarding with Ansible FDO collection](https://developers.redhat.com/articles/2023/07/10/automate-edge-device-onboarding-ansible-fdo-collection)
+
 ## 20230708
 - [Red Hat Developer](https://developers.redhat.com/) | [Enable user-managed networking with ZTP](https://developers.redhat.com/articles/2023/07/07/enable-user-managed-networking-ztp)
 

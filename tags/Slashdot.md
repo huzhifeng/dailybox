@@ -1,3 +1,6 @@
+## 20230711
+- [Slashdot](https://developers.slashdot.org/) | [Why Are There So Many Programming Languages?](https://developers.slashdot.org/story/23/07/09/1922207/why-are-there-so-many-programming-languages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230710
 - [Slashdot](https://linux.slashdot.org/) | [Researchers Discovered a New Linux Kernel 'StackRot' Privilege Escalation Vulnerability](https://linux.slashdot.org/story/23/07/09/0131210/researchers-discovered-a-new-linux-kernel-stackrot-privilege-escalation-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
