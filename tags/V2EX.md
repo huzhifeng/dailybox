@@ -1,3 +1,8 @@
+## 20230712
+- [V2EX](https://www.v2ex.com/) | [吐槽:太难了,在上海看病太难了,建议能不生还是不要生了](https://www.v2ex.com/t/955935)
+- [V2EX](https://www.v2ex.com/) | [2023 了，摩托车有望解禁吗？或者解禁电摩？](https://www.v2ex.com/t/955813)
+- [V2EX](https://www.v2ex.com/) | [第一次接朋友的外包项目，被坑了](https://www.v2ex.com/t/955810)
+
 ## 20230711
 - [V2EX](https://www.v2ex.com/) | [如何帮一个文科生女性用上 ChatGPT](https://www.v2ex.com/t/955532)
 - [V2EX](https://www.v2ex.com/) | [开源了一个月入 3k 的产品：「寻隐/Queryable」](https://www.v2ex.com/t/955496)

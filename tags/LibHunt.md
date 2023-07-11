@@ -1,3 +1,8 @@
+## 20230712
+- [LibHunt](https://www.libhunt.com/) | [digger](https://www.libhunt.com/r/digger)
+- [LibHunt](https://www.libhunt.com/) | [fichub.net](https://www.libhunt.com/r/fichub.net)
+- [LibHunt](https://www.libhunt.com/) | [clauneck](https://www.libhunt.com/r/clauneck)
+
 ## 20230711
 - [LibHunt](https://www.libhunt.com/) | [reactkit](https://www.libhunt.com/r/RodionChachura/reactkit)
 

@@ -1,3 +1,6 @@
+## 20230712
+- [diff.blog](https://diff.blog/) | [Storing Data in Control Flow](https://diff.blog/post/storing-data-in-control-flow-143595/)
+
 ## 20230711
 - [diff.blog](https://diff.blog/) | [Lima: a nice way to run Linux VMs on Mac](https://diff.blog/post/lima-a-nice-way-to-run-linux-vms-on-mac-143501/)
 - [diff.blog](https://diff.blog/) | [How to get karma on Reddit](https://diff.blog/post/how-to-get-karma-on-reddit-143486/)

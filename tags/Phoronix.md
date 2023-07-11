@@ -1,3 +1,8 @@
+## 20230712
+- [Phoronix](https://www.phoronix.com/) | [Thunderbird 115 Now Available & It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Aiming To Ship A GIMP 3.0 Snapshot](https://www.phoronix.com/news/GIMP-3.0-Snapshot-Ubuntu-23.10)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Z1 Extreme Proves Very Versatile For Power/Performance - Benchmarks Against The Ryzen 7 7840U](https://www.phoronix.com/review/amd-z1-extreme)
+
 ## 20230711
 - [Phoronix](https://www.phoronix.com/) | [Radeon RADV Driver's Emulated Ray-Tracing Achieves 100% Pass Rate](https://www.phoronix.com/news/RADV-Emulated-RT-100p)
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 1060 To RTX 4060 GPU Compute & Renderer Performance On Linux](https://www.phoronix.com/review/nvidia-rtx4060-compute)

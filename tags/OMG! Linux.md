@@ -1,3 +1,6 @@
+## 20230712
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Web Canary Builds Fly Once Again](https://www.omglinux.com/gnome-web-canary-builds-return/)
+
 ## 20230711
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME May Reduce Number of Nautilus’ Sidebar Entries](https://www.omglinux.com/gnome-removes-some-nautilus-sidebar-entries/)
 

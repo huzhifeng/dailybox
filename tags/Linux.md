@@ -1,3 +1,22 @@
+## 20230712
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1059 Oracle 嘲讽 IBM/红帽，建议 RHEL 成为 Oracle Linux 下游](https://linux.cn/article-15989-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a MSSQL database using Ansible Vault](https://developers.redhat.com/articles/2023/07/11/how-deploy-mssql-database-using-ansible-vault)
+- [Phoronix](https://www.phoronix.com/) | [Thunderbird 115 Now Available & It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Aiming To Ship A GIMP 3.0 Snapshot](https://www.phoronix.com/news/GIMP-3.0-Snapshot-Ubuntu-23.10)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Z1 Extreme Proves Very Versatile For Power/Performance - Benchmarks Against The Ryzen 7 7840U](https://www.phoronix.com/review/amd-z1-extreme)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.3 Reaches End of Life, Users Urged to Upgrade to Linux 6.4](https://9to5linux.com/linux-kernel-6-3-reaches-end-of-life-users-urged-to-upgrade-to-linux-6-4)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 115 Released with Supernova UI, OpenPGP Improvements](https://9to5linux.com/mozilla-thunderbird-115-released-with-supernova-ui-openpgp-improvements)
+- [9to5Linux](https://9to5linux.com/) | [fwupd 1.9.3 Adds Support for More Thunderbolt 4 Docks, TUXEDO InfinityBook Pro 13 v3](https://9to5linux.com/fwupd-1-9-3-adds-support-for-more-thunderbolt-4-docks-tuxedo-infinitybook-pro-13-v3)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Web Canary Builds Fly Once Again](https://www.omglinux.com/gnome-web-canary-builds-return/)
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars IV: Knives Out](https://dissociatedpress.net/2023/07/11/red-hat-and-the-clone-wars-iv-knives-out/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Composefs state of the union](https://blogs.gnome.org/alexl/2023/07/11/composefs-state-of-the-union/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: June 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Coping with non-free Debian](https://blog.josefsson.org/2023/07/11/coping-with-non-free-debian/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSpdlog 0.0.14 on CRAN: Upstream Update](http://dirk.eddelbuettel.com/blog/2023/07/10#rcppspdlog_0.0.14)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 795](https://fridge.ubuntu.com/2023/07/11/ubuntu-weekly-newsletter-issue-795/)
+
 ## 20230711
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1058 OpenAI 拿出五分之一的算力来防止人工智能“叛变”](https://linux.cn/article-15986-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate edge device onboarding with Ansible FDO collection](https://developers.redhat.com/articles/2023/07/10/automate-edge-device-onboarding-ansible-fdo-collection)

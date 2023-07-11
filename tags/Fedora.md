@@ -1,3 +1,8 @@
+## 20230712
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars IV: Knives Out](https://dissociatedpress.net/2023/07/11/red-hat-and-the-clone-wars-iv-knives-out/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Composefs state of the union](https://blogs.gnome.org/alexl/2023/07/11/composefs-state-of-the-union/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: June 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-june-2023/)
+
 ## 20230711
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 383 – Is open source dying?](https://opensourcesecurity.io/2023/07/09/episode-383-is-open-source-dying/)
 

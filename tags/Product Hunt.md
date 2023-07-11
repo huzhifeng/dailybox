@@ -1,3 +1,8 @@
+## 20230712
+- [Product Hunt](https://www.producthunt.com) | [Swimm AI (Beta)](https://www.producthunt.com/posts/swimm-ai-beta)
+- [Product Hunt](https://www.producthunt.com) | [Alltum](https://www.producthunt.com/posts/alltum)
+- [Product Hunt](https://www.producthunt.com) | [Shopify NFT App](https://www.producthunt.com/posts/shopify-nft-app)
+
 ## 20230711
 - [Product Hunt](https://www.producthunt.com) | [Mobile FIRST](https://www.producthunt.com/posts/mobile-first)
 - [Product Hunt](https://www.producthunt.com) | [Clippulse](https://www.producthunt.com/posts/clippulse)

@@ -1,3 +1,13 @@
+## 20230712
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars IV: Knives Out](https://dissociatedpress.net/2023/07/11/red-hat-and-the-clone-wars-iv-knives-out/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Composefs state of the union](https://blogs.gnome.org/alexl/2023/07/11/composefs-state-of-the-union/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: June 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-june-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Coping with non-free Debian](https://blog.josefsson.org/2023/07/11/coping-with-non-free-debian/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSpdlog 0.0.14 on CRAN: Upstream Update](http://dirk.eddelbuettel.com/blog/2023/07/10#rcppspdlog_0.0.14)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 795](https://fridge.ubuntu.com/2023/07/11/ubuntu-weekly-newsletter-issue-795/)
+
 ## 20230711
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 383 – Is open source dying?](https://opensourcesecurity.io/2023/07/09/episode-383-is-open-source-dying/)
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: PLIO, Mum, Debconf, Pressure Cooker, RISC-V,](https://flossexperiences.wordpress.com/2023/07/10/plio-mum-debconf-pressure-cooker-risc-v/)
