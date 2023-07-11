@@ -1,3 +1,8 @@
+## 20230712
+- [Lobsters](https://lobste.rs/) | [We Put a Distributed Database In the Browser – And Made a Game of It](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made)
+- [Lobsters](https://lobste.rs/) | [Vale's First Prototype for Immutable Region Borrowing](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable)
+- [Lobsters](https://lobste.rs/) | [pytest fixtures are magic](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic)
+
 ## 20230711
 - [Lobsters](https://lobste.rs/) | [Factor: a practical stack language](https://lobste.rs/s/jfjzyp/factor_practical_stack_language)
 - [Lobsters](https://lobste.rs/) | [What’s New in Thunderbird 115](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115)

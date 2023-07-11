@@ -1,3 +1,9 @@
+## 20230712
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信新增文章朗读功能；超越 ChatGPT 记录，Threads 上线 5 天用户破亿；在删除数据前如何通知客户|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131652970)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [用 Nginx 禁止国外 IP 访问我的网站...](https://blog.csdn.net/agonie201218/article/details/131640402)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【网络安全】带你了解什么是【黑客】](https://blog.csdn.net/Qingai521/article/details/131637803)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【架构设计】高并发架构实战：从需求分析到系统设计](https://blog.csdn.net/weixin_44171297/article/details/131665775)
+
 ## 20230711
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信支付兑换今日好礼不再累积提现免费额度；ChatGPT 上线最强应用「代码解释器」；GCC 10.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131631984)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [记一次阿里云被挖矿处理记录](https://blog.csdn.net/x1172031988/article/details/131613743)

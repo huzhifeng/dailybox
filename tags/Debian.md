@@ -1,3 +1,8 @@
+## 20230712
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Coping with non-free Debian](https://blog.josefsson.org/2023/07/11/coping-with-non-free-debian/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppSpdlog 0.0.14 on CRAN: Upstream Update](http://dirk.eddelbuettel.com/blog/2023/07/10#rcppspdlog_0.0.14)
+
 ## 20230711
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: PLIO, Mum, Debconf, Pressure Cooker, RISC-V,](https://flossexperiences.wordpress.com/2023/07/10/plio-mum-debconf-pressure-cooker-risc-v/)
 - [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan and systemd-networkd on Debian Bookworm](https://blog.slyon.de/2023/07/10/netplan-and-systemd-networkd-on-debian-bookworm/)

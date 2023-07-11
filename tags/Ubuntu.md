@@ -1,3 +1,6 @@
+## 20230712
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 795](https://fridge.ubuntu.com/2023/07/11/ubuntu-weekly-newsletter-issue-795/)
+
 ## 20230711
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [St&eacute;phane Graber: Time to move on](https://stgraber.org/2023/07/10/time-to-move-on/)

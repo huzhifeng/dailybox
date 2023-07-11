@@ -1,3 +1,6 @@
+## 20230712
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a MSSQL database using Ansible Vault](https://developers.redhat.com/articles/2023/07/11/how-deploy-mssql-database-using-ansible-vault)
+
 ## 20230711
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate edge device onboarding with Ansible FDO collection](https://developers.redhat.com/articles/2023/07/10/automate-edge-device-onboarding-ansible-fdo-collection)
 

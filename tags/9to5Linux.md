@@ -1,3 +1,8 @@
+## 20230712
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.3 Reaches End of Life, Users Urged to Upgrade to Linux 6.4](https://9to5linux.com/linux-kernel-6-3-reaches-end-of-life-users-urged-to-upgrade-to-linux-6-4)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 115 Released with Supernova UI, OpenPGP Improvements](https://9to5linux.com/mozilla-thunderbird-115-released-with-supernova-ui-openpgp-improvements)
+- [9to5Linux](https://9to5linux.com/) | [fwupd 1.9.3 Adds Support for More Thunderbolt 4 Docks, TUXEDO InfinityBook Pro 13 v3](https://9to5linux.com/fwupd-1-9-3-adds-support-for-more-thunderbolt-4-docks-tuxedo-infinitybook-pro-13-v3)
+
 ## 20230711
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 9th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-9th-2023)
 

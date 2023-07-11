@@ -1,3 +1,6 @@
+## 20230712
+- [It's FOSS](https://itsfoss.com/) | [Using cp Command in Linux](https://itsfoss.com/cp-command/)
+
 ## 20230711
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #5: Using Arrays in Bash](https://itsfoss.com/bash-arrays/)
 

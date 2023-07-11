@@ -1,3 +1,8 @@
+## 20230712
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [kyegomez/LongNet](https://github.com/kyegomez/LongNet)
+
 ## 20230711
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)

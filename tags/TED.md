@@ -1,3 +1,6 @@
+## 20230712
+- [TED Talks Daily](https://www.ted.com/talks) | [Will superintelligent AI end the world? | Eliezer Yudkowsky](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world?rss)
+
 ## 20230711
 - [TED Talks Daily](https://www.ted.com/talks) | [War, AI and the new global arms race | Alexandr Wang](https://www.ted.com/talks/alexandr_wang_war_ai_and_the_new_global_arms_race?rss)
 
