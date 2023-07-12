@@ -1,3 +1,6 @@
+## 20230713
+- [TED Talks Daily](https://www.ted.com/talks) | [The renewable energy revolution happening in Ukraine | Maxim Timchenko](https://www.ted.com/talks/maxim_timchenko_the_renewable_energy_revolution_happening_in_ukraine?rss)
+
 ## 20230712
 - [TED Talks Daily](https://www.ted.com/talks) | [Will superintelligent AI end the world? | Eliezer Yudkowsky](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world?rss)
 

@@ -1,3 +1,8 @@
+## 20230713
+- [Lobsters](https://lobste.rs/) | [dt: duck tape for your unix pipes](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes)
+- [Lobsters](https://lobste.rs/) | [ChatGPT visits the Emacs doctor](https://lobste.rs/s/gjlsdg/chatgpt_visits_emacs_doctor)
+- [Lobsters](https://lobste.rs/) | [LLM CLI tool now supports self-hosted language models via plugins](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted)
+
 ## 20230712
 - [Lobsters](https://lobste.rs/) | [We Put a Distributed Database In the Browser – And Made a Game of It](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made)
 - [Lobsters](https://lobste.rs/) | [Vale's First Prototype for Immutable Region Borrowing](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable)

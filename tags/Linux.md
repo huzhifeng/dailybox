@@ -1,3 +1,21 @@
+## 20230713
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1060 Linux 桌面份额突破 3%](https://linux.cn/article-15992-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance via workflow and Ansible](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-workflow-and-ansible)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance using Ansible Automation](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an instance on GCP using the Ansible CLI](https://developers.redhat.com/articles/2023/07/12/how-create-instance-gcp-using-ansible-cli)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Features From USB4 v2 To More WiFi 7, Unaccepted Memory, Scope-Based Resource Management](https://www.phoronix.com/review/linux-65-features)
+- [Phoronix](https://www.phoronix.com/) | [AMD Updates FreeSync Panel Replay Support For Linux](https://www.phoronix.com/news/AMD-FreeSync-Panel-Replay-v2)
+- [Phoronix](https://www.phoronix.com/) | [AMD FidelityFX SDK 1.0 Published On GPUOpen](https://www.phoronix.com/news/AMD-FidelityFX-SDK-1.0)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars V: Oracle Linux Origins](https://dissociatedpress.net/2023/07/12/red-hat-and-the-clone-wars-v-oracle-linux-origins/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in June 2023](https://reproducible-builds.org/reports/2023-06/)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: 2023 Mid Year Review](https://www.mattb.nz/w/2023/07/13/2023-mid-year-review/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms)
+- [Slashdot](https://linux.slashdot.org/) | [Oracle Takes On Red Hat In Linux Code Fight](https://developers.slashdot.org/story/23/07/11/2241224/oracle-takes-on-red-hat-in-linux-code-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [SUSE Will Fork Red Hat Enterprise Linux](https://linux.slashdot.org/story/23/07/11/2252212/suse-will-fork-red-hat-enterprise-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230712
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1059 Oracle 嘲讽 IBM/红帽，建议 RHEL 成为 Oracle Linux 下游](https://linux.cn/article-15989-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a MSSQL database using Ansible Vault](https://developers.redhat.com/articles/2023/07/11/how-deploy-mssql-database-using-ansible-vault)

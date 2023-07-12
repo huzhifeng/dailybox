@@ -1,3 +1,8 @@
+## 20230713
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in June 2023](https://reproducible-builds.org/reports/2023-06/)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: 2023 Mid Year Review](https://www.mattb.nz/w/2023/07/13/2023-mid-year-review/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+
 ## 20230712
 - [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Coping with non-free Debian](https://blog.josefsson.org/2023/07/11/coping-with-non-free-debian/)
 - [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)

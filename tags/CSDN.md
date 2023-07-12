@@ -1,3 +1,9 @@
+## 20230713
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [Apple Store 上线微信小程序；谷歌自研芯片秘辛首次曝光；黑客要价 10 万美元出售雷蛇源码等数据 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131674286)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Docker部署Mysql数据库详解](https://blog.csdn.net/qq_43649937/article/details/131645945)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/2302_76827504/article/details/131642531)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/xv7676/article/details/131646931)
+
 ## 20230712
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信新增文章朗读功能；超越 ChatGPT 记录，Threads 上线 5 天用户破亿；在删除数据前如何通知客户|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131652970)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [用 Nginx 禁止国外 IP 访问我的网站...](https://blog.csdn.net/agonie201218/article/details/131640402)
