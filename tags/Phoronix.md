@@ -1,3 +1,8 @@
+## 20230713
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Features From USB4 v2 To More WiFi 7, Unaccepted Memory, Scope-Based Resource Management](https://www.phoronix.com/review/linux-65-features)
+- [Phoronix](https://www.phoronix.com/) | [AMD Updates FreeSync Panel Replay Support For Linux](https://www.phoronix.com/news/AMD-FreeSync-Panel-Replay-v2)
+- [Phoronix](https://www.phoronix.com/) | [AMD FidelityFX SDK 1.0 Published On GPUOpen](https://www.phoronix.com/news/AMD-FidelityFX-SDK-1.0)
+
 ## 20230712
 - [Phoronix](https://www.phoronix.com/) | [Thunderbird 115 Now Available & It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Aiming To Ship A GIMP 3.0 Snapshot](https://www.phoronix.com/news/GIMP-3.0-Snapshot-Ubuntu-23.10)

@@ -1,3 +1,8 @@
+## 20230713
+- [Slashdot](https://linux.slashdot.org/) | [Oracle Takes On Red Hat In Linux Code Fight](https://developers.slashdot.org/story/23/07/11/2241224/oracle-takes-on-red-hat-in-linux-code-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [SUSE Will Fork Red Hat Enterprise Linux](https://linux.slashdot.org/story/23/07/11/2252212/suse-will-fork-red-hat-enterprise-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Oracle Takes On Red Hat In Linux Code Fight](https://developers.slashdot.org/story/23/07/11/2241224/oracle-takes-on-red-hat-in-linux-code-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230711
 - [Slashdot](https://developers.slashdot.org/) | [Why Are There So Many Programming Languages?](https://developers.slashdot.org/story/23/07/09/1922207/why-are-there-so-many-programming-languages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

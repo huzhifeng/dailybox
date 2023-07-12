@@ -1,3 +1,8 @@
+## 20230713
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+
 ## 20230712
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net)

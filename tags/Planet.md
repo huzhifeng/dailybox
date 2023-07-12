@@ -1,3 +1,12 @@
+## 20230713
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars V: Oracle Linux Origins](https://dissociatedpress.net/2023/07/12/red-hat-and-the-clone-wars-v-oracle-linux-origins/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in June 2023](https://reproducible-builds.org/reports/2023-06/)
+- [Planet Debian](https://planet.debian.org/) | [Matt Brown: 2023 Mid Year Review](https://www.mattb.nz/w/2023/07/13/2023-mid-year-review/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms)
+
 ## 20230712
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars IV: Knives Out](https://dissociatedpress.net/2023/07/11/red-hat-and-the-clone-wars-iv-knives-out/)

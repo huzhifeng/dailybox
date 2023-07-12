@@ -1,3 +1,8 @@
+## 20230713
+- [Product Hunt](https://www.producthunt.com) | [Afforai](https://www.producthunt.com/posts/afforai)
+- [Product Hunt](https://www.producthunt.com) | [Bear 2](https://www.producthunt.com/posts/bear-2-3)
+- [Product Hunt](https://www.producthunt.com) | [Spoke.ai](https://www.producthunt.com/posts/spoke-ai)
+
 ## 20230712
 - [Product Hunt](https://www.producthunt.com) | [Swimm AI (Beta)](https://www.producthunt.com/posts/swimm-ai-beta)
 - [Product Hunt](https://www.producthunt.com) | [Alltum](https://www.producthunt.com/posts/alltum)

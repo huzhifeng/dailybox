@@ -1,3 +1,8 @@
+## 20230713
+- [V2EX](https://www.v2ex.com/) | [我用 Laf 给女博士写了个 ChatGPT，如今她跟我已经领完证了](https://www.v2ex.com/t/956180)
+- [V2EX](https://www.v2ex.com/) | [一家人三套房，贷两套，房本位思想为何根生蒂固？](https://www.v2ex.com/t/956122)
+- [V2EX](https://www.v2ex.com/) | [如果你身边的好朋友对你说“我好想学编程”，你会怎么回答？](https://www.v2ex.com/t/956092)
+
 ## 20230712
 - [V2EX](https://www.v2ex.com/) | [吐槽:太难了,在上海看病太难了,建议能不生还是不要生了](https://www.v2ex.com/t/955935)
 - [V2EX](https://www.v2ex.com/) | [2023 了，摩托车有望解禁吗？或者解禁电摩？](https://www.v2ex.com/t/955813)

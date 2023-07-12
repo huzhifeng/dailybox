@@ -1,3 +1,6 @@
+## 20230713
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars V: Oracle Linux Origins](https://dissociatedpress.net/2023/07/12/red-hat-and-the-clone-wars-v-oracle-linux-origins/)
+
 ## 20230712
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars IV: Knives Out](https://dissociatedpress.net/2023/07/11/red-hat-and-the-clone-wars-iv-knives-out/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Composefs state of the union](https://blogs.gnome.org/alexl/2023/07/11/composefs-state-of-the-union/)

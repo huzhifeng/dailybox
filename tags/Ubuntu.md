@@ -1,3 +1,8 @@
+## 20230713
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms)
+
 ## 20230712
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu Weekly Newsletter Issue 795](https://fridge.ubuntu.com/2023/07/11/ubuntu-weekly-newsletter-issue-795/)
 

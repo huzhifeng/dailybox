@@ -1,3 +1,8 @@
+## 20230713
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance via workflow and Ansible](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-workflow-and-ansible)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance using Ansible Automation](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to create an instance on GCP using the Ansible CLI](https://developers.redhat.com/articles/2023/07/12/how-create-instance-gcp-using-ansible-cli)
+
 ## 20230712
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a MSSQL database using Ansible Vault](https://developers.redhat.com/articles/2023/07/11/how-deploy-mssql-database-using-ansible-vault)
 
