@@ -1,3 +1,8 @@
+## 20230714
+- [Lobsters](https://lobste.rs/) | [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
+- [Lobsters](https://lobste.rs/) | [Announcing Rust 1.71.0](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0)
+- [Lobsters](https://lobste.rs/) | [How Hype Will Turn Your Security Key Into Junk](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into)
+
 ## 20230713
 - [Lobsters](https://lobste.rs/) | [dt: duck tape for your unix pipes](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes)
 - [Lobsters](https://lobste.rs/) | [ChatGPT visits the Emacs doctor](https://lobste.rs/s/gjlsdg/chatgpt_visits_emacs_doctor)

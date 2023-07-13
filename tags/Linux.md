@@ -1,3 +1,17 @@
+## 20230714
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1061 华为有望克服美国禁令重返 5G 手机市场](https://linux.cn/article-15997-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A weekend for developers](https://www.collabora.com/news-and-blog/news-and-events/a-weekend-for-developers.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s path to success with OpenShift and containers](https://developers.redhat.com/articles/2023/07/13/developers-path-success-openshift-and-containers)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7040 Series Shows Great AVX-512 Performance For Laptops / Mobile / Edge](https://www.phoronix.com/review/amd-ryzen7040-avx512)
+- [Phoronix](https://www.phoronix.com/) | [Intel Sends Out Initial Compiler Patches For Lunar Lake & Arrow Lake](https://www.phoronix.com/news/Intel-GCC-Lunar-Lake-Arrow-Lake)
+- [Phoronix](https://www.phoronix.com/) | [Open-Source Graphics Driver Updates Begin Queuing For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Initial-DRM-Misc-Next)
+- [9to5Linux](https://9to5linux.com/) | [Star Labs Unveils the Byte Mk II Mini Linux PC, Drops AMD for Intel CPU](https://9to5linux.com/star-labs-unveils-the-byte-mk-ii-mini-linux-pc-drops-amd-for-intel-cpu)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Take the Fedora Annual Contributor Survey 2023!](https://communityblog.fedoraproject.org/take-the-fedora-annual-contributor-survey-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: دستور ls – لیست کردن فایل ها در لینوکس](https://fedorafans.com/command-ls-in-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josef Strzibny: Business Class: A brand new Ruby on Rails SaaS template on the block](https://nts.strzibny.name/business-class-brand-new-rails-saas-template/)
+- [Planet Debian](https://planet.debian.org/) | [Emmanuel Kasper: Debian 11 to Debian 12 (Bookworm) Upgrade Report](https://00formicapunk00.wordpress.com/2023/07/13/debian-11-to-debian-12-bookworm-upgrade-report/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Spent 2 hours migrating my chrome extension to manifest v3.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jul-13.html.en#2023-Jul-13-17:54:23)
+
 ## 20230713
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1060 Linux 桌面份额突破 3%](https://linux.cn/article-15992-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance via workflow and Ansible](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-workflow-and-ansible)

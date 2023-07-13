@@ -1,3 +1,8 @@
+## 20230714
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7040 Series Shows Great AVX-512 Performance For Laptops / Mobile / Edge](https://www.phoronix.com/review/amd-ryzen7040-avx512)
+- [Phoronix](https://www.phoronix.com/) | [Intel Sends Out Initial Compiler Patches For Lunar Lake & Arrow Lake](https://www.phoronix.com/news/Intel-GCC-Lunar-Lake-Arrow-Lake)
+- [Phoronix](https://www.phoronix.com/) | [Open-Source Graphics Driver Updates Begin Queuing For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Initial-DRM-Misc-Next)
+
 ## 20230713
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Features From USB4 v2 To More WiFi 7, Unaccepted Memory, Scope-Based Resource Management](https://www.phoronix.com/review/linux-65-features)
 - [Phoronix](https://www.phoronix.com/) | [AMD Updates FreeSync Panel Replay Support For Linux](https://www.phoronix.com/news/AMD-FreeSync-Panel-Replay-v2)

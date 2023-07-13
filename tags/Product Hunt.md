@@ -1,3 +1,8 @@
+## 20230714
+- [Product Hunt](https://www.producthunt.com) | [Threads Design Templates](https://www.producthunt.com/posts/threads-design-templates)
+- [Product Hunt](https://www.producthunt.com) | [Composable Studio](https://www.producthunt.com/posts/composable-studio)
+- [Product Hunt](https://www.producthunt.com) | [Codejet](https://www.producthunt.com/posts/codejet-2)
+
 ## 20230713
 - [Product Hunt](https://www.producthunt.com) | [Afforai](https://www.producthunt.com/posts/afforai)
 - [Product Hunt](https://www.producthunt.com) | [Bear 2](https://www.producthunt.com/posts/bear-2-3)

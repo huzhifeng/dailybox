@@ -1,3 +1,7 @@
+## 20230714
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.71.0](https://diff.blog/post/announcing-rust-1710-143781/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 503](https://diff.blog/post/this-week-in-rust-503-143739/)
+
 ## 20230712
 - [diff.blog](https://diff.blog/) | [Storing Data in Control Flow](https://diff.blog/post/storing-data-in-control-flow-143595/)
 

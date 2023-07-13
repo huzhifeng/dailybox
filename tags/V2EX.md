@@ -1,3 +1,8 @@
+## 20230714
+- [V2EX](https://www.v2ex.com/) | [想到一种简单的规避敏感词的方法](https://www.v2ex.com/t/956482)
+- [V2EX](https://www.v2ex.com/) | [想卖了老家的房子变现，有点纠结。](https://www.v2ex.com/t/956428)
+- [V2EX](https://www.v2ex.com/) | [为什么很多网站前端，不喜欢加 target=_blank 啊？有啥讲究么？](https://www.v2ex.com/t/956422)
+
 ## 20230713
 - [V2EX](https://www.v2ex.com/) | [我用 Laf 给女博士写了个 ChatGPT，如今她跟我已经领完证了](https://www.v2ex.com/t/956180)
 - [V2EX](https://www.v2ex.com/) | [一家人三套房，贷两套，房本位思想为何根生蒂固？](https://www.v2ex.com/t/956122)

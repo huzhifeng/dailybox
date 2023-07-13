@@ -1,3 +1,6 @@
+## 20230714
+- [TED Talks Daily](https://www.ted.com/talks) | [Detroit's climate crisis -- and how to build a resilient future everywhere | Anika Goss](https://www.ted.com/talks/anika_goss_detroit_s_climate_crisis_and_how_to_build_a_resilient_future_everywhere?rss)
+
 ## 20230713
 - [TED Talks Daily](https://www.ted.com/talks) | [The renewable energy revolution happening in Ukraine | Maxim Timchenko](https://www.ted.com/talks/maxim_timchenko_the_renewable_energy_revolution_happening_in_ukraine?rss)
 

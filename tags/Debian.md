@@ -1,3 +1,7 @@
+## 20230714
+- [Planet Debian](https://planet.debian.org/) | [Emmanuel Kasper: Debian 11 to Debian 12 (Bookworm) Upgrade Report](https://00formicapunk00.wordpress.com/2023/07/13/debian-11-to-debian-12-bookworm-upgrade-report/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Spent 2 hours migrating my chrome extension to manifest v3.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jul-13.html.en#2023-Jul-13-17:54:23)
+
 ## 20230713
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in June 2023](https://reproducible-builds.org/reports/2023-06/)
 - [Planet Debian](https://planet.debian.org/) | [Matt Brown: 2023 Mid Year Review](https://www.mattb.nz/w/2023/07/13/2023-mid-year-review/)

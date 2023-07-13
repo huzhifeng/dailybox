@@ -1,3 +1,8 @@
+## 20230714
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [usememos/memos](https://github.com/usememos/memos)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Kong/insomnia](https://github.com/Kong/insomnia)
+
 ## 20230713
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
