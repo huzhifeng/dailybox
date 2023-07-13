@@ -1,3 +1,6 @@
+## 20230714
+- [9to5Linux](https://9to5linux.com/) | [Star Labs Unveils the Byte Mk II Mini Linux PC, Drops AMD for Intel CPU](https://9to5linux.com/star-labs-unveils-the-byte-mk-ii-mini-linux-pc-drops-amd-for-intel-cpu)
+
 ## 20230712
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.3 Reaches End of Life, Users Urged to Upgrade to Linux 6.4](https://9to5linux.com/linux-kernel-6-3-reaches-end-of-life-users-urged-to-upgrade-to-linux-6-4)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 115 Released with Supernova UI, OpenPGP Improvements](https://9to5linux.com/mozilla-thunderbird-115-released-with-supernova-ui-openpgp-improvements)

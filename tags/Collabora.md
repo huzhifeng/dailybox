@@ -1,3 +1,6 @@
+## 20230714
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A weekend for developers](https://www.collabora.com/news-and-blog/news-and-events/a-weekend-for-developers.html)
+
 ## 20230707
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 

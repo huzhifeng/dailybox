@@ -1,3 +1,8 @@
+## 20230714
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Take the Fedora Annual Contributor Survey 2023!](https://communityblog.fedoraproject.org/take-the-fedora-annual-contributor-survey-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: دستور ls – لیست کردن فایل ها در لینوکس](https://fedorafans.com/command-ls-in-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josef Strzibny: Business Class: A brand new Ruby on Rails SaaS template on the block](https://nts.strzibny.name/business-class-brand-new-rails-saas-template/)
+
 ## 20230713
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars V: Oracle Linux Origins](https://dissociatedpress.net/2023/07/12/red-hat-and-the-clone-wars-v-oracle-linux-origins/)
 

@@ -1,3 +1,6 @@
+## 20230714
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.28: China's Linux OS, Linux Exit Codes, Btrfs Origins and More](https://itsfoss.com/newsletter/foss-weekly-23-28/)
+
 ## 20230712
 - [It's FOSS](https://itsfoss.com/) | [Using cp Command in Linux](https://itsfoss.com/cp-command/)
 

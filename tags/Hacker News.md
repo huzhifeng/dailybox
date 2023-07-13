@@ -1,3 +1,6 @@
+## 20230714
+- [Hacker News](https://news.ycombinator.com/front) | [Founder of crypto lender Celsius Network arrested, charged with fraud](https://news.ycombinator.com/item?id=36710558)
+
 ## 20230712
 - [Hacker News](https://news.ycombinator.com/front) | [Displayport: A Better Video Interface](https://news.ycombinator.com/item?id=36681814)
 - [Hacker News](https://news.ycombinator.com/front) | [Claude 2](https://news.ycombinator.com/item?id=36680755)

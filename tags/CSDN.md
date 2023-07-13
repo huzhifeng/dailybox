@@ -1,3 +1,9 @@
+## 20230714
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信称不会推出「已读」功能；马斯克宣布成立 AI 公司 xAI；GPT-4 架构曝光，有 1.8 万亿参数|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131695256)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【告别传统】人工智能时代下，学习网安的成本有多低？](https://blog.csdn.net/2301_77485708/article/details/131628189)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [连接区块链节点的 JavaScript 库 web3.js](https://blog.csdn.net/qq_28314431/article/details/131684312)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【系统架构】分布式系统架构设计](https://blog.csdn.net/weixin_36755535/article/details/131522817)
+
 ## 20230713
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [Apple Store 上线微信小程序；谷歌自研芯片秘辛首次曝光；黑客要价 10 万美元出售雷蛇源码等数据 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131674286)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Docker部署Mysql数据库详解](https://blog.csdn.net/qq_43649937/article/details/131645945)

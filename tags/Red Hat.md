@@ -1,3 +1,6 @@
+## 20230714
+- [Red Hat Developer](https://developers.redhat.com/) | [A developer’s path to success with OpenShift and containers](https://developers.redhat.com/articles/2023/07/13/developers-path-success-openshift-and-containers)
+
 ## 20230713
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance via workflow and Ansible](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-workflow-and-ansible)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to create a GCP instance using Ansible Automation](https://developers.redhat.com/articles/2023/07/12/how-create-gcp-instance-using-ansible-automation)

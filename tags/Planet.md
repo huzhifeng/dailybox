@@ -1,3 +1,10 @@
+## 20230714
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Take the Fedora Annual Contributor Survey 2023!](https://communityblog.fedoraproject.org/take-the-fedora-annual-contributor-survey-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: دستور ls – لیست کردن فایل ها در لینوکس](https://fedorafans.com/command-ls-in-linux/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josef Strzibny: Business Class: A brand new Ruby on Rails SaaS template on the block](https://nts.strzibny.name/business-class-brand-new-rails-saas-template/)
+- [Planet Debian](https://planet.debian.org/) | [Emmanuel Kasper: Debian 11 to Debian 12 (Bookworm) Upgrade Report](https://00formicapunk00.wordpress.com/2023/07/13/debian-11-to-debian-12-bookworm-upgrade-report/)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Spent 2 hours migrating my chrome extension to manifest v3.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jul-13.html.en#2023-Jul-13-17:54:23)
+
 ## 20230713
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars V: Oracle Linux Origins](https://dissociatedpress.net/2023/07/12/red-hat-and-the-clone-wars-v-oracle-linux-origins/)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in June 2023](https://reproducible-builds.org/reports/2023-06/)
