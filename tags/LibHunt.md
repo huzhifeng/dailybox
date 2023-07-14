@@ -1,3 +1,6 @@
+## 20230715
+- [LibHunt](https://www.libhunt.com/) | [obs-studio](https://www.libhunt.com/r/obs-studio)
+
 ## 20230713
 - [LibHunt](https://www.libhunt.com/) | [Onion](https://www.libhunt.com/r/OnionUI/Onion)
 

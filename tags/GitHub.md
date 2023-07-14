@@ -1,3 +1,8 @@
+## 20230715
+- [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started)
+
 ## 20230714
 - [GitHub中文社区](https://www.githubs.cn/trending) | [StanGirard/quivr](https://github.com/StanGirard/quivr)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [usememos/memos](https://github.com/usememos/memos)

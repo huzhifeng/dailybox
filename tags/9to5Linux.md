@@ -1,3 +1,6 @@
+## 20230715
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 &#8220;Victoria&#8221; Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/linux-mint-21-2-victoria-is-now-available-for-download-heres-whats-new)
+
 ## 20230714
 - [9to5Linux](https://9to5linux.com/) | [Star Labs Unveils the Byte Mk II Mini Linux PC, Drops AMD for Intel CPU](https://9to5linux.com/star-labs-unveils-the-byte-mk-ii-mini-linux-pc-drops-amd-for-intel-cpu)
 

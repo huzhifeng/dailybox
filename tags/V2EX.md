@@ -1,3 +1,8 @@
+## 20230715
+- [V2EX](https://www.v2ex.com/) | [[没想到轮到我了] 京东购买苹果电脑，发错颜色拒不承认](https://www.v2ex.com/t/956728)
+- [V2EX](https://www.v2ex.com/) | [618 没赶上，现在想装机了，伙伴们给点建议吧](https://www.v2ex.com/t/956707)
+- [V2EX](https://www.v2ex.com/) | [你是否同意“放下助人情节，尊重他人命运”？](https://www.v2ex.com/t/956683)
+
 ## 20230714
 - [V2EX](https://www.v2ex.com/) | [想到一种简单的规避敏感词的方法](https://www.v2ex.com/t/956482)
 - [V2EX](https://www.v2ex.com/) | [想卖了老家的房子变现，有点纠结。](https://www.v2ex.com/t/956428)

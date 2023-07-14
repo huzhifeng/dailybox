@@ -1,3 +1,6 @@
+## 20230715
+- [It's FOSS](https://itsfoss.com/) | [How to Access the GRUB Menu in Virtual Machine](https://itsfoss.com/access-grub-virtual-machine/)
+
 ## 20230714
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.28: China's Linux OS, Linux Exit Codes, Btrfs Origins and More](https://itsfoss.com/newsletter/foss-weekly-23-28/)
 

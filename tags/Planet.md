@@ -1,3 +1,11 @@
+## 20230715
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): tinygrad + rusticl + aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 28 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-28-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux editions part 4: Alt Downloads](https://fedoramagazine.org/fedora-linux-editions-part-4-alt-downloads/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: tinygrad + rusticl + aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 244 released](https://diffoscope.org/news/diffoscope-244-released/)
+
 ## 20230714
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Take the Fedora Annual Contributor Survey 2023!](https://communityblog.fedoraproject.org/take-the-fedora-annual-contributor-survey-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: دستور ls – لیست کردن فایل ها در لینوکس](https://fedorafans.com/command-ls-in-linux/)
