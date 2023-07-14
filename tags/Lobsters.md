@@ -1,3 +1,8 @@
+## 20230715
+- [Lobsters](https://lobste.rs/) | [keyboards and web apps, my post/rant for the year](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year)
+- [Lobsters](https://lobste.rs/) | [Podman Desktop 1.2](https://lobste.rs/s/ij7aj4/podman_desktop_1_2)
+- [Lobsters](https://lobste.rs/) | [{n} times faster than C, where n = 128](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128)
+
 ## 20230714
 - [Lobsters](https://lobste.rs/) | [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
 - [Lobsters](https://lobste.rs/) | [Announcing Rust 1.71.0](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0)

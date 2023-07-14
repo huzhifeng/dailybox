@@ -1,3 +1,9 @@
+## 20230715
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为申请注册盘古大模型商标；英伟达 A800 一周涨价超 30%；Apache Tomcat 10.1.11 发布 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/131716620)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker] Docker镜像管理和操作实践(二) 文末送书](https://blog.csdn.net/weixin_54174102/article/details/131713739)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Elasticsearch原理剖析](https://blog.csdn.net/weixin_43114209/article/details/131677388)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【大虾送书第二期】《Python机器学习：基于PyTorch和Scikit-Learn 》](https://blog.csdn.net/qq_61116007/article/details/131715371)
+
 ## 20230714
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信称不会推出「已读」功能；马斯克宣布成立 AI 公司 xAI；GPT-4 架构曝光，有 1.8 万亿参数|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131695256)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【告别传统】人工智能时代下，学习网安的成本有多低？](https://blog.csdn.net/2301_77485708/article/details/131628189)

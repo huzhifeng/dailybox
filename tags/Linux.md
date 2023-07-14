@@ -1,3 +1,16 @@
+## 20230715
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1062 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性](https://linux.cn/article-16000-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [uutils 0.0.20 Improves GNU Coreutils Compatibility For This Rust-Written Replacement](https://www.phoronix.com/news/uutils-0.0.20-Rust-Coreutils)
+- [Phoronix](https://www.phoronix.com/) | [Imagination Tech Rolls Out Latest PowerVR Rogue DRM Kernel Driver Patches](https://www.phoronix.com/news/Imagination-PowerVR-DRM-v4)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Will Make It Easy To Disable IO_uring System-Wide](https://www.phoronix.com/news/Linux-6.6-sysctl-IO_uring)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 &#8220;Victoria&#8221; Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/linux-mint-21-2-victoria-is-now-available-for-download-heres-whats-new)
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): tinygrad + rusticl + aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 28 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-28-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux editions part 4: Alt Downloads](https://fedoramagazine.org/fedora-linux-editions-part-4-alt-downloads/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: tinygrad + rusticl + aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 244 released](https://diffoscope.org/news/diffoscope-244-released/)
+
 ## 20230714
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1061 华为有望克服美国禁令重返 5G 手机市场](https://linux.cn/article-15997-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A weekend for developers](https://www.collabora.com/news-and-blog/news-and-events/a-weekend-for-developers.html)

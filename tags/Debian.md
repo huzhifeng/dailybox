@@ -1,3 +1,7 @@
+## 20230715
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 244 released](https://diffoscope.org/news/diffoscope-244-released/)
+
 ## 20230714
 - [Planet Debian](https://planet.debian.org/) | [Emmanuel Kasper: Debian 11 to Debian 12 (Bookworm) Upgrade Report](https://00formicapunk00.wordpress.com/2023/07/13/debian-11-to-debian-12-bookworm-upgrade-report/)
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Spent 2 hours migrating my chrome extension to manifest v3.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Jul-13.html.en#2023-Jul-13-17:54:23)

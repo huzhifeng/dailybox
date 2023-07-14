@@ -1,3 +1,6 @@
+## 20230715
+- [TED Talks Daily](https://www.ted.com/talks) | [Why are we making pizza boxes out of endangered trees? | Nicole Rycroft](https://www.ted.com/talks/nicole_rycroft_why_are_we_making_pizza_boxes_out_of_endangered_trees?rss)
+
 ## 20230714
 - [TED Talks Daily](https://www.ted.com/talks) | [Detroit's climate crisis -- and how to build a resilient future everywhere | Anika Goss](https://www.ted.com/talks/anika_goss_detroit_s_climate_crisis_and_how_to_build_a_resilient_future_everywhere?rss)
 

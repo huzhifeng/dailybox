@@ -1,3 +1,8 @@
+## 20230715
+- [Phoronix](https://www.phoronix.com/) | [uutils 0.0.20 Improves GNU Coreutils Compatibility For This Rust-Written Replacement](https://www.phoronix.com/news/uutils-0.0.20-Rust-Coreutils)
+- [Phoronix](https://www.phoronix.com/) | [Imagination Tech Rolls Out Latest PowerVR Rogue DRM Kernel Driver Patches](https://www.phoronix.com/news/Imagination-PowerVR-DRM-v4)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Will Make It Easy To Disable IO_uring System-Wide](https://www.phoronix.com/news/Linux-6.6-sysctl-IO_uring)
+
 ## 20230714
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7040 Series Shows Great AVX-512 Performance For Laptops / Mobile / Edge](https://www.phoronix.com/review/amd-ryzen7040-avx512)
 - [Phoronix](https://www.phoronix.com/) | [Intel Sends Out Initial Compiler Patches For Lunar Lake & Arrow Lake](https://www.phoronix.com/news/Intel-GCC-Lunar-Lake-Arrow-Lake)
