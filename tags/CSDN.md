@@ -1,3 +1,8 @@
+## 20230716
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【大虾送书第二期】《Python机器学习：基于PyTorch和Scikit-Learn 》](https://blog.csdn.net/qq_61116007/article/details/131715371)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】了解和使用Docker](https://blog.csdn.net/Qingai521/article/details/131725290)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/Forget_liu/article/details/131701722)
+
 ## 20230715
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为申请注册盘古大模型商标；英伟达 A800 一周涨价超 30%；Apache Tomcat 10.1.11 发布 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/131716620)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker] Docker镜像管理和操作实践(二) 文末送书](https://blog.csdn.net/weixin_54174102/article/details/131713739)

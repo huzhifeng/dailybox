@@ -1,3 +1,6 @@
+## 20230716
+- [diff.blog](https://diff.blog/) | [Early interviews for AI companies - apply by Tuesday July 18, 2023](https://diff.blog/post/early-interviews-for-ai-companies-apply-by-tuesday-july-18-2023-143868/)
+
 ## 20230714
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.71.0](https://diff.blog/post/announcing-rust-1710-143781/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 503](https://diff.blog/post/this-week-in-rust-503-143739/)

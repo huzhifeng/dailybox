@@ -1,3 +1,6 @@
+## 20230716
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, June 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-06/)
+
 ## 20230715
 - [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 244 released](https://diffoscope.org/news/diffoscope-244-released/)

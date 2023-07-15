@@ -1,3 +1,8 @@
+## 20230716
+- [Phoronix](https://www.phoronix.com/) | [Cluster Scheduling For Intel Hybrid CPUs Looks Like It Will Be Ready For Linux 6.6](https://www.phoronix.com/news/Cluster-Scheduling-Hybrid-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Btrfs Deprecating Its Integrity Checker Tool](https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check)
+- [Phoronix](https://www.phoronix.com/) | [Linux kCFI/FineIBT Weaknesses Addressed By Rewriting Some Assembly In C](https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses)
+
 ## 20230715
 - [Phoronix](https://www.phoronix.com/) | [uutils 0.0.20 Improves GNU Coreutils Compatibility For This Rust-Written Replacement](https://www.phoronix.com/news/uutils-0.0.20-Rust-Coreutils)
 - [Phoronix](https://www.phoronix.com/) | [Imagination Tech Rolls Out Latest PowerVR Rogue DRM Kernel Driver Patches](https://www.phoronix.com/news/Imagination-PowerVR-DRM-v4)

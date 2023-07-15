@@ -1,3 +1,8 @@
+## 20230716
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [system76/virgo](https://github.com/system76/virgo)
+
 ## 20230715
 - [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
