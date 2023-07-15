@@ -1,3 +1,7 @@
+## 20230716
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat's Decision Prompts Outrage and Sympathy, Called 'Necessary' and 'Embarrassing'](https://linux.slashdot.org/story/23/07/15/0138208/red-hats-decision-prompts-outrage-and-sympathy-called-necessary-and-embarrassing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Should High Schools Require a CS Course Before Students Graduate?](https://news.slashdot.org/story/23/07/15/1551249/should-high-schools-require-a-cs-course-before-students-graduate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230713
 - [Slashdot](https://linux.slashdot.org/) | [Oracle Takes On Red Hat In Linux Code Fight](https://developers.slashdot.org/story/23/07/11/2241224/oracle-takes-on-red-hat-in-linux-code-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [SUSE Will Fork Red Hat Enterprise Linux](https://linux.slashdot.org/story/23/07/11/2252212/suse-will-fork-red-hat-enterprise-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)

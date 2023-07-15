@@ -1,3 +1,6 @@
+## 20230716
+- [Hacker News](https://news.ycombinator.com/front) | [Signal president says company will not comply with U.K. ‘mass surveillance’ law](https://news.ycombinator.com/item?id=36737733)
+
 ## 20230714
 - [Hacker News](https://news.ycombinator.com/front) | [Founder of crypto lender Celsius Network arrested, charged with fraud](https://news.ycombinator.com/item?id=36710558)
 

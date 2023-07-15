@@ -1,3 +1,8 @@
+## 20230716
+- [Lobsters](https://lobste.rs/) | [Goodbye Debian GNU/kFreeBSD](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd)
+- [Lobsters](https://lobste.rs/) | [The path to implementing a programming language](https://lobste.rs/s/nv6o5y/path_implementing_programming_language)
+- [Lobsters](https://lobste.rs/) | [A Month on Chimera Linux](https://lobste.rs/s/uxi00j/month_on_chimera_linux)
+
 ## 20230715
 - [Lobsters](https://lobste.rs/) | [keyboards and web apps, my post/rant for the year](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year)
 - [Lobsters](https://lobste.rs/) | [Podman Desktop 1.2](https://lobste.rs/s/ij7aj4/podman_desktop_1_2)

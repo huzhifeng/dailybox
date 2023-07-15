@@ -1,3 +1,6 @@
+## 20230716
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, June 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-06/)
+
 ## 20230715
 - [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): tinygrad + rusticl + aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 28 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-28-2023/)

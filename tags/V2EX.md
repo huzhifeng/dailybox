@@ -1,3 +1,8 @@
+## 20230716
+- [V2EX](https://www.v2ex.com/) | [看到一个帖子，有人说+86 注册电报一查一个准，我来说说吧。](https://www.v2ex.com/t/957018)
+- [V2EX](https://www.v2ex.com/) | [大伙针对 2019 款 MBP 有啥提升流畅度的操作吗](https://www.v2ex.com/t/956994)
+- [V2EX](https://www.v2ex.com/) | [你觉得和孩子“讲道理”有用吗？谈谈我的观点：“不要和孩子讲道理！”](https://www.v2ex.com/t/956990)
+
 ## 20230715
 - [V2EX](https://www.v2ex.com/) | [[没想到轮到我了] 京东购买苹果电脑，发错颜色拒不承认](https://www.v2ex.com/t/956728)
 - [V2EX](https://www.v2ex.com/) | [618 没赶上，现在想装机了，伙伴们给点建议吧](https://www.v2ex.com/t/956707)

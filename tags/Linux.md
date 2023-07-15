@@ -1,3 +1,11 @@
+## 20230716
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1063 互联网档案馆要求 GitHub 下架 DRM 去除工具](https://linux.cn/article-16003-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Cluster Scheduling For Intel Hybrid CPUs Looks Like It Will Be Ready For Linux 6.6](https://www.phoronix.com/news/Cluster-Scheduling-Hybrid-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Btrfs Deprecating Its Integrity Checker Tool](https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check)
+- [Phoronix](https://www.phoronix.com/) | [Linux kCFI/FineIBT Weaknesses Addressed By Rewriting Some Assembly In C](https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, June 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-06/)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat's Decision Prompts Outrage and Sympathy, Called 'Necessary' and 'Embarrassing'](https://linux.slashdot.org/story/23/07/15/0138208/red-hats-decision-prompts-outrage-and-sympathy-called-necessary-and-embarrassing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230715
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1062 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性](https://linux.cn/article-16000-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [uutils 0.0.20 Improves GNU Coreutils Compatibility For This Rust-Written Replacement](https://www.phoronix.com/news/uutils-0.0.20-Rust-Coreutils)

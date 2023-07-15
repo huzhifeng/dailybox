@@ -1,3 +1,8 @@
+## 20230716
+- [Product Hunt](https://www.producthunt.com) | [WinDiary](https://www.producthunt.com/posts/windiary)
+- [Product Hunt](https://www.producthunt.com) | [Notion Meal Planner](https://www.producthunt.com/posts/notion-meal-planner-4)
+- [Product Hunt](https://www.producthunt.com) | [MRRArt Pro](https://www.producthunt.com/posts/mrrart-pro)
+
 ## 20230715
 - [Product Hunt](https://www.producthunt.com) | [Linklab](https://www.producthunt.com/posts/linklab-2)
 - [Product Hunt](https://www.producthunt.com) | [Drope.me](https://www.producthunt.com/posts/drope-me)
