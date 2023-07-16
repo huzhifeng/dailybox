@@ -1,3 +1,8 @@
+## 20230717
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app)
+
 ## 20230716
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)

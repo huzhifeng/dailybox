@@ -1,3 +1,8 @@
+## 20230717
+- [V2EX](https://www.v2ex.com/) | [手机是否存在全天候监听？在这件事发生之前，我是存疑的，但是现在我信了。](https://www.v2ex.com/t/957177)
+- [V2EX](https://www.v2ex.com/) | [求推荐一些 Windows 上的优质软件, 什么方面的都可以](https://www.v2ex.com/t/957140)
+- [V2EX](https://www.v2ex.com/) | [[实在是高] redha 直接消灭了免费的二进制兼容的 rhel 发行版](https://www.v2ex.com/t/957139)
+
 ## 20230716
 - [V2EX](https://www.v2ex.com/) | [看到一个帖子，有人说+86 注册电报一查一个准，我来说说吧。](https://www.v2ex.com/t/957018)
 - [V2EX](https://www.v2ex.com/) | [大伙针对 2019 款 MBP 有啥提升流畅度的操作吗](https://www.v2ex.com/t/956994)
