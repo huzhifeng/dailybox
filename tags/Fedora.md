@@ -1,3 +1,7 @@
+## 20230717
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: AlmaLinux makes its choice: The friendly fork](https://dissociatedpress.net/2023/07/15/almalinux-makes-its-choice-the-friendly-fork/)
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Opt-in Telemetry and Asking Users for Feedback May Not Work in Practice](https://theevilskeleton.gitlab.io/2023/07/16/opt-in-telemetry-and-asking-users-for-feedback-may-not-work-in-practice.html)
+
 ## 20230715
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 28 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-28-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux editions part 4: Alt Downloads](https://fedoramagazine.org/fedora-linux-editions-part-4-alt-downloads/)

@@ -1,3 +1,8 @@
+## 20230717
+- [Lobsters](https://lobste.rs/) | [How I run my servers](https://lobste.rs/s/mzlyyf/how_i_run_my_servers)
+- [Lobsters](https://lobste.rs/) | [Unauthenticated RCE on a RIGOL oscilloscope](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol)
+- [Lobsters](https://lobste.rs/) | [I don't know how I feel about email](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email)
+
 ## 20230716
 - [Lobsters](https://lobste.rs/) | [Goodbye Debian GNU/kFreeBSD](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd)
 - [Lobsters](https://lobste.rs/) | [The path to implementing a programming language](https://lobste.rs/s/nv6o5y/path_implementing_programming_language)

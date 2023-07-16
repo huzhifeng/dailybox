@@ -1,3 +1,6 @@
+## 20230717
+- [Hacker News](https://news.ycombinator.com/front) | [Who employs your doctor? Increasingly, a private equity firm](https://news.ycombinator.com/item?id=36747572)
+
 ## 20230716
 - [Hacker News](https://news.ycombinator.com/front) | [Signal president says company will not comply with U.K. ‘mass surveillance’ law](https://news.ycombinator.com/item?id=36737733)
 

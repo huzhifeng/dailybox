@@ -1,3 +1,8 @@
+## 20230717
+- [diff.blog](https://diff.blog/) | [I don't know how I feel about email](https://diff.blog/post/i-dont-know-how-i-feel-about-email-143911/)
+- [diff.blog](https://diff.blog/) | [Undocumented 8086 instructions, explained by the microcode](https://diff.blog/post/undocumented-8086-instructions-explained-by-the-microcode-143930/)
+- [diff.blog](https://diff.blog/) | [The best RSS reader for Linux](https://diff.blog/post/the-best-rss-reader-for-linux-143906/)
+
 ## 20230716
 - [diff.blog](https://diff.blog/) | [Early interviews for AI companies - apply by Tuesday July 18, 2023](https://diff.blog/post/early-interviews-for-ai-companies-apply-by-tuesday-july-18-2023-143868/)
 

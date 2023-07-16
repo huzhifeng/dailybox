@@ -1,3 +1,11 @@
+## 20230717
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1064 CentOS 项目发出一篇奇怪的博文](https://linux.cn/article-16005-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 21.2 Released With Cinnamon Enhancements, Other Desktop Polishing](https://www.phoronix.com/news/Linux-Mint-21.2)
+- [Phoronix](https://www.phoronix.com/) | [Intel Raptor Lake HX, System76 Adder WS 3 Added To Coreboot](https://www.phoronix.com/news/Intel-RPL-HX-Adder-WS3-Coreboot)
+- [Phoronix](https://www.phoronix.com/) | [AMD Dynamic Boost Control Feature Set For Introduction In Linux 6.6](https://www.phoronix.com/news/AMD-Dynamic-Boost-Control-66)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: AlmaLinux makes its choice: The friendly fork](https://dissociatedpress.net/2023/07/15/almalinux-makes-its-choice-the-friendly-fork/)
+- [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Opt-in Telemetry and Asking Users for Feedback May Not Work in Practice](https://theevilskeleton.gitlab.io/2023/07/16/opt-in-telemetry-and-asking-users-for-feedback-may-not-work-in-practice.html)
+
 ## 20230716
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1063 互联网档案馆要求 GitHub 下架 DRM 去除工具](https://linux.cn/article-16003-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Cluster Scheduling For Intel Hybrid CPUs Looks Like It Will Be Ready For Linux 6.6](https://www.phoronix.com/news/Cluster-Scheduling-Hybrid-6.6)

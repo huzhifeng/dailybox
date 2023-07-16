@@ -1,3 +1,8 @@
+## 20230717
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 21.2 Released With Cinnamon Enhancements, Other Desktop Polishing](https://www.phoronix.com/news/Linux-Mint-21.2)
+- [Phoronix](https://www.phoronix.com/) | [Intel Raptor Lake HX, System76 Adder WS 3 Added To Coreboot](https://www.phoronix.com/news/Intel-RPL-HX-Adder-WS3-Coreboot)
+- [Phoronix](https://www.phoronix.com/) | [AMD Dynamic Boost Control Feature Set For Introduction In Linux 6.6](https://www.phoronix.com/news/AMD-Dynamic-Boost-Control-66)
+
 ## 20230716
 - [Phoronix](https://www.phoronix.com/) | [Cluster Scheduling For Intel Hybrid CPUs Looks Like It Will Be Ready For Linux 6.6](https://www.phoronix.com/news/Cluster-Scheduling-Hybrid-6.6)
 - [Phoronix](https://www.phoronix.com/) | [Btrfs Deprecating Its Integrity Checker Tool](https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check)
