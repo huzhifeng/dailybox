@@ -1,3 +1,6 @@
+## 20230718
+- [diff.blog](https://diff.blog/) | [Coroutines for Go](https://diff.blog/post/coroutines-for-go-144016/)
+
 ## 20230717
 - [diff.blog](https://diff.blog/) | [I don't know how I feel about email](https://diff.blog/post/i-dont-know-how-i-feel-about-email-143911/)
 - [diff.blog](https://diff.blog/) | [Undocumented 8086 instructions, explained by the microcode](https://diff.blog/post/undocumented-8086-instructions-explained-by-the-microcode-143930/)

@@ -1,3 +1,9 @@
+## 20230718
+- [GitHub中文社区](https://www.githubs.cn/trending) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bazingagin/npc_gzip](https://github.com/bazingagin/npc_gzip)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
+
 ## 20230717
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)

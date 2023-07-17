@@ -1,3 +1,8 @@
+## 20230718
+- [Lobsters](https://lobste.rs/) | [Store age identities inside the TPM: age-plugin-tpm](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age)
+- [Lobsters](https://lobste.rs/) | [Using XPath in 2023](https://lobste.rs/s/tiigtm/using_xpath_2023)
+- [Lobsters](https://lobste.rs/) | [Forth: The programming language that writes itself](https://lobste.rs/s/xgq91o/forth_programming_language_writes)
+
 ## 20230717
 - [Lobsters](https://lobste.rs/) | [How I run my servers](https://lobste.rs/s/mzlyyf/how_i_run_my_servers)
 - [Lobsters](https://lobste.rs/) | [Unauthenticated RCE on a RIGOL oscilloscope](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol)

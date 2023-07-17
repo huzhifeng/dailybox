@@ -1,3 +1,7 @@
+## 20230718
+- [Slashdot](https://linux.slashdot.org/) | [Is Wayland Becoming the Favored Way to Get a GUI on Linux?](https://linux.slashdot.org/story/23/07/17/0159246/is-wayland-becoming-the-favored-way-to-get-a-gui-on-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Wix's New Tool Can Create Entire Websites from Prompts](https://developers.slashdot.org/story/23/07/17/1911214/wixs-new-tool-can-create-entire-websites-from-prompts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230716
 - [Slashdot](https://linux.slashdot.org/) | [Red Hat's Decision Prompts Outrage and Sympathy, Called 'Necessary' and 'Embarrassing'](https://linux.slashdot.org/story/23/07/15/0138208/red-hats-decision-prompts-outrage-and-sympathy-called-necessary-and-embarrassing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Should High Schools Require a CS Course Before Students Graduate?](https://news.slashdot.org/story/23/07/15/1551249/should-high-schools-require-a-cs-course-before-students-graduate?utm_source=rss1.0mainlinkanon&utm_medium=feed)

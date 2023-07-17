@@ -1,3 +1,8 @@
+## 20230718
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade Linux Mint 21.1 to Linux Mint 21.2, Here’s How](https://9to5linux.com/you-can-now-upgrade-linux-mint-21-1-to-linux-mint-21-2-heres-how)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2023.07 Rolling Brings Debian 13 Trixie&#8217;s Packages, Secure Boot, and More](https://9to5linux.com/sparkylinux-2023-07-rolling-brings-debian-13-trixies-packages-secure-boot-and-more)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 16th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-16th-2023)
+
 ## 20230715
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 &#8220;Victoria&#8221; Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/linux-mint-21-2-victoria-is-now-available-for-download-heres-whats-new)
 

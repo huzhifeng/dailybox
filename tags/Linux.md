@@ -1,3 +1,19 @@
+## 20230718
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1065 开源硬件公司正在向封闭转变](https://linux.cn/article-16008-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues](https://www.phoronix.com/news/GNU-Shepherd-0.10.2)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Enjoy Nice ~10% Speedup With Recent Open-Source Linux Driver](https://www.phoronix.com/review/intel-arc-10p-faster)
+- [Phoronix](https://www.phoronix.com/) | [More MIDI 2.0 Code Being Worked On For The Linux Kernel](https://www.phoronix.com/news/Linux-USB-Gadget-MIDI-2.0)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade Linux Mint 21.1 to Linux Mint 21.2, Here’s How](https://9to5linux.com/you-can-now-upgrade-linux-mint-21-1-to-linux-mint-21-2-heres-how)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2023.07 Rolling Brings Debian 13 Trixie&#8217;s Packages, Secure Boot, and More](https://9to5linux.com/sparkylinux-2023-07-rolling-brings-debian-13-trixies-packages-secure-boot-and-more)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 16th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-16th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Packit – how to trigger jobs manually](https://fedoramagazine.org/packit-how-to-trigger-jobs-manually/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 384 – What’s next for open source?](https://opensourcesecurity.io/2023/07/16/episode-384-whats-next-for-open-source/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josef Strzibny: Running SASS and Tailwind side by side in Rails](https://nts.strzibny.name/running-sass-and-tailwind-side-by-side-rails/)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in June 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-june-2023.html)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: WordPress Cookies, Debdelta, RISC, Manipur, Libraries in Kerala.](https://flossexperiences.wordpress.com/2023/07/17/wordpress-cookies-debdelta-risc-manipur-libraries-in-kerala/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Unkindest Tide](https://www.eyrie.org/~eagle/reviews/books/0-7564-1255-2.html)
+- [Slashdot](https://linux.slashdot.org/) | [Is Wayland Becoming the Favored Way to Get a GUI on Linux?](https://linux.slashdot.org/story/23/07/17/0159246/is-wayland-becoming-the-favored-way-to-get-a-gui-on-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230717
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1064 CentOS 项目发出一篇奇怪的博文](https://linux.cn/article-16005-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint 21.2 Released With Cinnamon Enhancements, Other Desktop Polishing](https://www.phoronix.com/news/Linux-Mint-21.2)

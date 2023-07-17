@@ -1,3 +1,8 @@
+## 20230718
+- [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues](https://www.phoronix.com/news/GNU-Shepherd-0.10.2)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Enjoy Nice ~10% Speedup With Recent Open-Source Linux Driver](https://www.phoronix.com/review/intel-arc-10p-faster)
+- [Phoronix](https://www.phoronix.com/) | [More MIDI 2.0 Code Being Worked On For The Linux Kernel](https://www.phoronix.com/news/Linux-USB-Gadget-MIDI-2.0)
+
 ## 20230717
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint 21.2 Released With Cinnamon Enhancements, Other Desktop Polishing](https://www.phoronix.com/news/Linux-Mint-21.2)
 - [Phoronix](https://www.phoronix.com/) | [Intel Raptor Lake HX, System76 Adder WS 3 Added To Coreboot](https://www.phoronix.com/news/Intel-RPL-HX-Adder-WS3-Coreboot)
