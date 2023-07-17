@@ -1,3 +1,7 @@
+## 20230718
+- [Hacker News](https://news.ycombinator.com/front) | [Bad numbers in the “gzip beats BERT” paper?](https://news.ycombinator.com/item?id=36758433)
+- [Hacker News](https://news.ycombinator.com/front) | [A Firefox-only minimap (2021)](https://news.ycombinator.com/item?id=36757542)
+
 ## 20230717
 - [Hacker News](https://news.ycombinator.com/front) | [Who employs your doctor? Increasingly, a private equity firm](https://news.ycombinator.com/item?id=36747572)
 

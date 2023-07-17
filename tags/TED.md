@@ -1,3 +1,6 @@
+## 20230718
+- [TED Talks Daily](https://www.ted.com/talks) | [Could an orca give a TED Talk? | Karen Bakker](https://www.ted.com/talks/karen_bakker_could_an_orca_give_a_ted_talk?rss)
+
 ## 20230715
 - [TED Talks Daily](https://www.ted.com/talks) | [Why are we making pizza boxes out of endangered trees? | Nicole Rycroft](https://www.ted.com/talks/nicole_rycroft_why_are_we_making_pizza_boxes_out_of_endangered_trees?rss)
 

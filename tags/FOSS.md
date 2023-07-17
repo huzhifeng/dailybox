@@ -1,3 +1,6 @@
+## 20230718
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #6: Handling String Operations](https://itsfoss.com/bash-strings/)
+
 ## 20230715
 - [It's FOSS](https://itsfoss.com/) | [How to Access the GRUB Menu in Virtual Machine](https://itsfoss.com/access-grub-virtual-machine/)
 

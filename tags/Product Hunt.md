@@ -1,3 +1,8 @@
+## 20230718
+- [Product Hunt](https://www.producthunt.com) | [Chestr Wishlist 1.0 Web + iOS App](https://www.producthunt.com/posts/chestr-wishlist-1-0-web-ios-app)
+- [Product Hunt](https://www.producthunt.com) | [Cedalio](https://www.producthunt.com/posts/cedalio)
+- [Product Hunt](https://www.producthunt.com) | [dstack](https://www.producthunt.com/posts/dstack)
+
 ## 20230717
 - [Product Hunt](https://www.producthunt.com) | [Fabrie Imagine](https://www.producthunt.com/posts/fabrie-imagine)
 - [Product Hunt](https://www.producthunt.com) | [Swaap v2](https://www.producthunt.com/posts/swaap-v2)

@@ -1,3 +1,8 @@
+## 20230718
+- [LibHunt](https://www.libhunt.com/) | [companion-app](https://www.libhunt.com/r/companion-app)
+- [LibHunt](https://www.libhunt.com/) | [go-unsplash](https://www.libhunt.com/r/go-unsplash)
+- [LibHunt](https://www.libhunt.com/) | [The-Simpsons-Hit-and-Run](https://www.libhunt.com/r/The-Simpsons-Hit-and-Run)
+
 ## 20230717
 - [LibHunt](https://www.libhunt.com/) | [voyager](https://www.libhunt.com/r/aeharding/voyager)
 - [LibHunt](https://www.libhunt.com/) | [vanmoof-encryption-key-exporter](https://www.libhunt.com/r/vanmoof-encryption-key-exporter)

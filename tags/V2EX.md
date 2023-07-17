@@ -1,3 +1,8 @@
+## 20230718
+- [V2EX](https://www.v2ex.com/) | [关于相亲软件再后续](https://www.v2ex.com/t/957356)
+- [V2EX](https://www.v2ex.com/) | [如果我选专业的时候知道张雪峰，我也许就不会在志愿栏填一个化工。](https://www.v2ex.com/t/957346)
+- [V2EX](https://www.v2ex.com/) | [我成功给老板画上了大饼！](https://www.v2ex.com/t/957317)
+
 ## 20230717
 - [V2EX](https://www.v2ex.com/) | [手机是否存在全天候监听？在这件事发生之前，我是存疑的，但是现在我信了。](https://www.v2ex.com/t/957177)
 - [V2EX](https://www.v2ex.com/) | [求推荐一些 Windows 上的优质软件, 什么方面的都可以](https://www.v2ex.com/t/957140)

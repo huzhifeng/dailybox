@@ -1,3 +1,8 @@
+## 20230718
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in June 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-june-2023.html)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: WordPress Cookies, Debdelta, RISC, Manipur, Libraries in Kerala.](https://flossexperiences.wordpress.com/2023/07/17/wordpress-cookies-debdelta-risc-manipur-libraries-in-kerala/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Unkindest Tide](https://www.eyrie.org/~eagle/reviews/books/0-7564-1255-2.html)
+
 ## 20230716
 - [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, June 2023 (by Roberto C. Sánchez)](https://www.freexian.com/blog/debian-lts-report-2023-06/)
 

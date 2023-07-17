@@ -1,3 +1,11 @@
+## 20230718
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Packit – how to trigger jobs manually](https://fedoramagazine.org/packit-how-to-trigger-jobs-manually/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 384 – What’s next for open source?](https://opensourcesecurity.io/2023/07/16/episode-384-whats-next-for-open-source/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josef Strzibny: Running SASS and Tailwind side by side in Rails](https://nts.strzibny.name/running-sass-and-tailwind-side-by-side-rails/)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in June 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-june-2023.html)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: WordPress Cookies, Debdelta, RISC, Manipur, Libraries in Kerala.](https://flossexperiences.wordpress.com/2023/07/17/wordpress-cookies-debdelta-risc-manipur-libraries-in-kerala/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Unkindest Tide](https://www.eyrie.org/~eagle/reviews/books/0-7564-1255-2.html)
+
 ## 20230717
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: AlmaLinux makes its choice: The friendly fork](https://dissociatedpress.net/2023/07/15/almalinux-makes-its-choice-the-friendly-fork/)
 - [Planet Fedora](http://fedoraplanet.org/) | [TheEvilSkeleton: Opt-in Telemetry and Asking Users for Feedback May Not Work in Practice](https://theevilskeleton.gitlab.io/2023/07/16/opt-in-telemetry-and-asking-users-for-feedback-may-not-work-in-practice.html)
