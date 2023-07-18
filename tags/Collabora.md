@@ -1,3 +1,6 @@
+## 20230719
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Radxa's Rock 5A one step closer to U-boot mainline](https://www.collabora.com/news-and-blog/blog/2023/07/18/radxa-rock5a-one-step-closer-to-u-boot-mainline/)
+
 ## 20230714
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A weekend for developers](https://www.collabora.com/news-and-blog/news-and-events/a-weekend-for-developers.html)
 

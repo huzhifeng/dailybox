@@ -1,3 +1,8 @@
+## 20230719
+- [GitHub中文社区](https://www.githubs.cn/trending) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [orioledb/orioledb](https://github.com/orioledb/orioledb)
+
 ## 20230718
 - [GitHub中文社区](https://www.githubs.cn/trending) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bazingagin/npc_gzip](https://github.com/bazingagin/npc_gzip)

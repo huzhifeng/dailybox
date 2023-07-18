@@ -1,3 +1,8 @@
+## 20230719
+- [LibHunt](https://www.libhunt.com/) | [duckduckgo-locales](https://www.libhunt.com/r/duckduckgo-locales)
+- [LibHunt](https://www.libhunt.com/) | [wordpress-playground](https://www.libhunt.com/r/wordpress-playground)
+- [LibHunt](https://www.libhunt.com/) | [wasp](https://www.libhunt.com/r/wasp)
+
 ## 20230718
 - [LibHunt](https://www.libhunt.com/) | [companion-app](https://www.libhunt.com/r/companion-app)
 - [LibHunt](https://www.libhunt.com/) | [go-unsplash](https://www.libhunt.com/r/go-unsplash)

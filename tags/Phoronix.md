@@ -1,3 +1,8 @@
+## 20230719
+- [Phoronix](https://www.phoronix.com/) | [Intel Rolls Out thunderbolt-utils To Manage USB4/Thunderbolt Devices On Linux](https://www.phoronix.com/news/Intel-Linux-thunderbolt-utils)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu's Mir 2.14 Released With Wayland Drag & Drop, Screen Locker Support](https://www.phoronix.com/news/Ubuntu-Mir-2.14)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 535.86.05 Linux Driver Fixes Excessive Memory Use, Kernel Panic On Full vRAM](https://www.phoronix.com/news/NVIDIA-535.86.05-Linux)
+
 ## 20230718
 - [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues](https://www.phoronix.com/news/GNU-Shepherd-0.10.2)
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics Enjoy Nice ~10% Speedup With Recent Open-Source Linux Driver](https://www.phoronix.com/review/intel-arc-10p-faster)

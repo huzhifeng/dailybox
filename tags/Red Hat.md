@@ -1,3 +1,7 @@
+## 20230719
+- [Red Hat Developer](https://developers.redhat.com/) | [An introduction to Red Hat Trusted Application Pipeline](https://developers.redhat.com/articles/2023/07/18/introduction-red-hat-trusted-application-pipeline)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to run a custom server task in Red Hat Data Grid](https://developers.redhat.com/articles/2023/07/18/how-run-custom-server-task-red-hat-data-grid)
+
 ## 20230714
 - [Red Hat Developer](https://developers.redhat.com/) | [A developer’s path to success with OpenShift and containers](https://developers.redhat.com/articles/2023/07/13/developers-path-success-openshift-and-containers)
 
