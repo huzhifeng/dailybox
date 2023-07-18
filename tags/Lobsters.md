@@ -1,3 +1,8 @@
+## 20230719
+- [Lobsters](https://lobste.rs/) | [Firefox has surpassed Chrome on Speedometer](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on)
+- [Lobsters](https://lobste.rs/) | [strlcpy and strlcat added to glibc](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc)
+- [Lobsters](https://lobste.rs/) | [Announcing Stalwart Mail Server](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server)
+
 ## 20230718
 - [Lobsters](https://lobste.rs/) | [Store age identities inside the TPM: age-plugin-tpm](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age)
 - [Lobsters](https://lobste.rs/) | [Using XPath in 2023](https://lobste.rs/s/tiigtm/using_xpath_2023)

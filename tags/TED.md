@@ -1,3 +1,6 @@
+## 20230719
+- [TED Talks Daily](https://www.ted.com/talks) | [Is remote work better than being in the office? It's complicated | Mark Mortensen](https://www.ted.com/talks/mark_mortensen_is_remote_work_better_than_being_in_the_office_it_s_complicated?rss)
+
 ## 20230718
 - [TED Talks Daily](https://www.ted.com/talks) | [Could an orca give a TED Talk? | Karen Bakker](https://www.ted.com/talks/karen_bakker_could_an_orca_give_a_ted_talk?rss)
 

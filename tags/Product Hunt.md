@@ -1,3 +1,8 @@
+## 20230719
+- [Product Hunt](https://www.producthunt.com) | [Memberstack 2.0](https://www.producthunt.com/posts/memberstack-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Wonderslide](https://www.producthunt.com/posts/wonderslide)
+- [Product Hunt](https://www.producthunt.com) | [Email AI by Snov.io](https://www.producthunt.com/posts/email-ai-by-snov-io)
+
 ## 20230718
 - [Product Hunt](https://www.producthunt.com) | [Chestr Wishlist 1.0 Web + iOS App](https://www.producthunt.com/posts/chestr-wishlist-1-0-web-ios-app)
 - [Product Hunt](https://www.producthunt.com) | [Cedalio](https://www.producthunt.com/posts/cedalio)

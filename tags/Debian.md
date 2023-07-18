@@ -1,3 +1,8 @@
+## 20230719
+- [Planet Debian](https://planet.debian.org/) | [Sergio Talens-Oliag: Testing cilium with k3d and kind](https://blogops.mixinet.net/posts/testing_cilium_with_k3d_and_kind/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Bea's 3D printer](https://jmtd.net/log/bea_printer/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: A declarative approach to Linux networking with Netplan](https://blog.slyon.de/2023/07/18/a-declarative-approach-to-linux-networking-with-netplan/)
+
 ## 20230718
 - [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in June 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-june-2023.html)
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: WordPress Cookies, Debdelta, RISC, Manipur, Libraries in Kerala.](https://flossexperiences.wordpress.com/2023/07/17/wordpress-cookies-debdelta-risc-manipur-libraries-in-kerala/)

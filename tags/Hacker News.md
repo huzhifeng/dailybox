@@ -1,3 +1,8 @@
+## 20230719
+- [Hacker News](https://news.ycombinator.com/front) | [Llama 2](https://news.ycombinator.com/item?id=36774627)
+- [Hacker News](https://news.ycombinator.com/front) | [A Grub theme in the style of Minecraft](https://news.ycombinator.com/item?id=36771980)
+- [Hacker News](https://news.ycombinator.com/front) | [Firefox has surpassed Chrome on Speedometer](https://news.ycombinator.com/item?id=36770883)
+
 ## 20230718
 - [Hacker News](https://news.ycombinator.com/front) | [Bad numbers in the “gzip beats BERT” paper?](https://news.ycombinator.com/item?id=36758433)
 - [Hacker News](https://news.ycombinator.com/front) | [A Firefox-only minimap (2021)](https://news.ycombinator.com/item?id=36757542)

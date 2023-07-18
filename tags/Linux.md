@@ -1,3 +1,20 @@
+## 20230719
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1066 Wayland 正在成为 Linux 图形用户界面的首选方式](https://linux.cn/article-16011-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Radxa's Rock 5A one step closer to U-boot mainline](https://www.collabora.com/news-and-blog/blog/2023/07/18/radxa-rock5a-one-step-closer-to-u-boot-mainline/)
+- [Red Hat Developer](https://developers.redhat.com/) | [An introduction to Red Hat Trusted Application Pipeline](https://developers.redhat.com/articles/2023/07/18/introduction-red-hat-trusted-application-pipeline)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to run a custom server task in Red Hat Data Grid](https://developers.redhat.com/articles/2023/07/18/how-run-custom-server-task-red-hat-data-grid)
+- [Phoronix](https://www.phoronix.com/) | [Intel Rolls Out thunderbolt-utils To Manage USB4/Thunderbolt Devices On Linux](https://www.phoronix.com/news/Intel-Linux-thunderbolt-utils)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu's Mir 2.14 Released With Wayland Drag & Drop, Screen Locker Support](https://www.phoronix.com/news/Ubuntu-Mir-2.14)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 535.86.05 Linux Driver Fixes Excessive Memory Use, Kernel Panic On Full vRAM](https://www.phoronix.com/news/NVIDIA-535.86.05-Linux)
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.10 Released with Initial Support for Linux Kernels 6.4 and 6.5](https://9to5linux.com/virtualbox-7-0-10-released-with-initial-support-for-linux-kernels-6-4-and-6-5)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.86.05 Linux Graphics Driver Improves Wayland Support, Fixes Bugs](https://9to5linux.com/nvidia-535-86-05-linux-graphics-driver-improves-wayland-support-fixes-bugs)
+- [OMG! Linux](https://www.omglinux.com/) | [GTK4 Terminal App ‘Black Box’ Gets a Big Ol’ Update](https://www.omglinux.com/gtk4-terminal-app-black-box-gets-a-big-ol-update/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why contribute to syslog-ng upstream?](https://peter.czanik.hu/other/syslog-ng-why-contribute-to-syslog-ng-upstream/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: OffSec has chosen Kiwi TCMS](https://kiwitcms.org/blog/malcolm-shore/2023/07/18/offsec-has-chosen-kiwi-tcms/)
+- [Planet Debian](https://planet.debian.org/) | [Sergio Talens-Oliag: Testing cilium with k3d and kind](https://blogops.mixinet.net/posts/testing_cilium_with_k3d_and_kind/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Bea's 3D printer](https://jmtd.net/log/bea_printer/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: A declarative approach to Linux networking with Netplan](https://blog.slyon.de/2023/07/18/a-declarative-approach-to-linux-networking-with-netplan/)
+
 ## 20230718
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1065 开源硬件公司正在向封闭转变](https://linux.cn/article-16008-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues](https://www.phoronix.com/news/GNU-Shepherd-0.10.2)

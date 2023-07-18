@@ -1,3 +1,10 @@
+## 20230719
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why contribute to syslog-ng upstream?](https://peter.czanik.hu/other/syslog-ng-why-contribute-to-syslog-ng-upstream/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: OffSec has chosen Kiwi TCMS](https://kiwitcms.org/blog/malcolm-shore/2023/07/18/offsec-has-chosen-kiwi-tcms/)
+- [Planet Debian](https://planet.debian.org/) | [Sergio Talens-Oliag: Testing cilium with k3d and kind](https://blogops.mixinet.net/posts/testing_cilium_with_k3d_and_kind/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Bea's 3D printer](https://jmtd.net/log/bea_printer/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: A declarative approach to Linux networking with Netplan](https://blog.slyon.de/2023/07/18/a-declarative-approach-to-linux-networking-with-netplan/)
+
 ## 20230718
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Packit – how to trigger jobs manually](https://fedoramagazine.org/packit-how-to-trigger-jobs-manually/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 384 – What’s next for open source?](https://opensourcesecurity.io/2023/07/16/episode-384-whats-next-for-open-source/)

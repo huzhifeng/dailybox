@@ -1,3 +1,7 @@
+## 20230719
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.10 Released with Initial Support for Linux Kernels 6.4 and 6.5](https://9to5linux.com/virtualbox-7-0-10-released-with-initial-support-for-linux-kernels-6-4-and-6-5)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.86.05 Linux Graphics Driver Improves Wayland Support, Fixes Bugs](https://9to5linux.com/nvidia-535-86-05-linux-graphics-driver-improves-wayland-support-fixes-bugs)
+
 ## 20230718
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade Linux Mint 21.1 to Linux Mint 21.2, Here’s How](https://9to5linux.com/you-can-now-upgrade-linux-mint-21-1-to-linux-mint-21-2-heres-how)
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2023.07 Rolling Brings Debian 13 Trixie&#8217;s Packages, Secure Boot, and More](https://9to5linux.com/sparkylinux-2023-07-rolling-brings-debian-13-trixies-packages-secure-boot-and-more)

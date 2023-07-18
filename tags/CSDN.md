@@ -1,3 +1,9 @@
+## 20230719
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信：有零钱的微信号不会被系统注销；拼多多旗下 Temu 在美起诉 Shein；Rust 1.71.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131780287)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Pytorch自动求导机制详解](https://blog.csdn.net/qq_43649937/article/details/131783905)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [7.5 SpringBoot 拦截器Interceptor实战 统一角色权限校验](https://blog.csdn.net/scm_2008/article/details/131711216)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Machine Learning 系列】一文带你详解什么是无监督学习(Unsupervised Learning)](https://blog.csdn.net/m0_63947499/article/details/131529324)
+
 ## 20230718
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回复微信好友上限约为 1 万个；曝苹果正开发 iPad Air 6：搭载 M2 自研芯片；百度开源 BifroMQ|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131759469)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Rust 数据类型 之 结构体（Struct）](https://blog.csdn.net/boysoft2002/article/details/131746997)

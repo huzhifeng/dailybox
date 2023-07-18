@@ -1,3 +1,6 @@
+## 20230719
+- [OMG! Linux](https://www.omglinux.com/) | [GTK4 Terminal App ‘Black Box’ Gets a Big Ol’ Update](https://www.omglinux.com/gtk4-terminal-app-black-box-gets-a-big-ol-update/)
+
 ## 20230712
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Web Canary Builds Fly Once Again](https://www.omglinux.com/gnome-web-canary-builds-return/)
 
