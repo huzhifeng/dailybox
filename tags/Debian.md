@@ -1,3 +1,7 @@
+## 20230720
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: RISC, Chips Act, Burning of Books, Manipur](https://flossexperiences.wordpress.com/2023/07/19/risc-chips-act-burning-of-books/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
+
 ## 20230719
 - [Planet Debian](https://planet.debian.org/) | [Sergio Talens-Oliag: Testing cilium with k3d and kind](https://blogops.mixinet.net/posts/testing_cilium_with_k3d_and_kind/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Bea's 3D printer](https://jmtd.net/log/bea_printer/)

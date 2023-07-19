@@ -1,3 +1,8 @@
+## 20230720
+- [V2EX](https://www.v2ex.com/) | [大家怎么看待"我没干什么见不得人的，所以我不在意个人隐私数据泄露"这种观点？](https://www.v2ex.com/t/958060)
+- [V2EX](https://www.v2ex.com/) | [征询象棋 app 名字](https://www.v2ex.com/t/957995)
+- [V2EX](https://www.v2ex.com/) | [小公司（非 IT 行业），应该招一个什么样的 IT 工程师？](https://www.v2ex.com/t/957969)
+
 ## 20230719
 - [V2EX](https://www.v2ex.com/) | [兄弟们，骑车一定要注意安全。最近整了个新车，由于第一次使用油压碟刹，还没习惯。过马路井盖轻轻一捏就抱死了，然后就失控了，大脑一片空白。摔了个狗吃屎 ～ ...](https://www.v2ex.com/t/957704)
 - [V2EX](https://www.v2ex.com/) | [滴滴司机拿走乘客遗落的手机，乘客竟然没办法](https://www.v2ex.com/t/957673)

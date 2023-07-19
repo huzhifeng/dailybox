@@ -1,3 +1,7 @@
+## 20230720
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Sipeed Lichee Pi 4A](https://rwmj.wordpress.com/2023/07/19/sipeed-lichee-pi-4a/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to Install and Update Fedora Linux on Android using Termux](https://fedoramagazine.org/how-to-install-and-update-fedora-linux-on-android-using-termux/)
+
 ## 20230719
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why contribute to syslog-ng upstream?](https://peter.czanik.hu/other/syslog-ng-why-contribute-to-syslog-ng-upstream/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: OffSec has chosen Kiwi TCMS](https://kiwitcms.org/blog/malcolm-shore/2023/07/18/offsec-has-chosen-kiwi-tcms/)
