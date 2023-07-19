@@ -1,3 +1,8 @@
+## 20230720
+- [Phoronix](https://www.phoronix.com/) | [XWayland 23.2 RC1 Brings Tearing Control, Resizable Rootful, Emulated Input](https://www.phoronix.com/news/XWayland-23.2-RC1)
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9754 Benchmarks For The 128-Core Bergamo](https://www.phoronix.com/review/amd-epyc-9754-bergamo)
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9684X Genoa-X Provides Incredible HPC Performance](https://www.phoronix.com/review/amd-epyc-9684x-benchmarks)
+
 ## 20230719
 - [Phoronix](https://www.phoronix.com/) | [Intel Rolls Out thunderbolt-utils To Manage USB4/Thunderbolt Devices On Linux](https://www.phoronix.com/news/Intel-Linux-thunderbolt-utils)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu's Mir 2.14 Released With Wayland Drag & Drop, Screen Locker Support](https://www.phoronix.com/news/Ubuntu-Mir-2.14)

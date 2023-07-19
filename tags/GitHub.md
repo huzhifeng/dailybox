@@ -1,3 +1,8 @@
+## 20230720
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 ## 20230719
 - [GitHub中文社区](https://www.githubs.cn/trending) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)

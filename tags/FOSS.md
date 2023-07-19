@@ -1,3 +1,6 @@
+## 20230720
+- [It's FOSS](https://itsfoss.com/) | [The systemd Controversy: A Beginner's Guide to Understanding the Debate](https://itsfoss.com/systemd-init/)
+
 ## 20230718
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #6: Handling String Operations](https://itsfoss.com/bash-strings/)
 

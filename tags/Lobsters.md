@@ -1,3 +1,8 @@
+## 20230720
+- [Lobsters](https://lobste.rs/) | [bfs 3.0: the fastest find yet](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet)
+- [Lobsters](https://lobste.rs/) | [The Death of Infosec Twitter](https://lobste.rs/s/f7esjj/death_infosec_twitter)
+- [Lobsters](https://lobste.rs/) | [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified)
+
 ## 20230719
 - [Lobsters](https://lobste.rs/) | [Firefox has surpassed Chrome on Speedometer](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on)
 - [Lobsters](https://lobste.rs/) | [strlcpy and strlcat added to glibc](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc)

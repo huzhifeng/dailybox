@@ -1,3 +1,16 @@
+## 20230720
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1067 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式](https://linux.cn/article-16014-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in the Red Hat UBI OpenJDK containers](https://developers.redhat.com/articles/2023/07/19/whats-new-red-hat-ubi-openjdk-containers)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to retrieve packet drop reasons in the Linux kernel](https://developers.redhat.com/articles/2023/07/19/how-retrieve-packet-drop-reasons-linux-kernel)
+- [Phoronix](https://www.phoronix.com/) | [XWayland 23.2 RC1 Brings Tearing Control, Resizable Rootful, Emulated Input](https://www.phoronix.com/news/XWayland-23.2-RC1)
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9754 Benchmarks For The 128-Core Bergamo](https://www.phoronix.com/review/amd-epyc-9754-bergamo)
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9684X Genoa-X Provides Incredible HPC Performance](https://www.phoronix.com/review/amd-epyc-9684x-benchmarks)
+- [OMG! Linux](https://www.omglinux.com/) | [Tuba 0.4 Out with UI Changes, Support for More Fediverse Features](https://www.omglinux.com/tuba-0-4-is-out-with-ui-tweaks-support-for-more-fediverse-features/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Sipeed Lichee Pi 4A](https://rwmj.wordpress.com/2023/07/19/sipeed-lichee-pi-4a/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to Install and Update Fedora Linux on Android using Termux](https://fedoramagazine.org/how-to-install-and-update-fedora-linux-on-android-using-termux/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: RISC, Chips Act, Burning of Books, Manipur](https://flossexperiences.wordpress.com/2023/07/19/risc-chips-act-burning-of-books/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
+
 ## 20230719
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1066 Wayland 正在成为 Linux 图形用户界面的首选方式](https://linux.cn/article-16011-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Radxa's Rock 5A one step closer to U-boot mainline](https://www.collabora.com/news-and-blog/blog/2023/07/18/radxa-rock5a-one-step-closer-to-u-boot-mainline/)

@@ -1,3 +1,6 @@
+## 20230720
+- [TED Talks Daily](https://www.ted.com/talks) | [The growing megafire crisis -- and how to contain it | George T. Whitesides](https://www.ted.com/talks/george_t_whitesides_the_growing_megafire_crisis_and_how_to_contain_it?rss)
+
 ## 20230719
 - [TED Talks Daily](https://www.ted.com/talks) | [Is remote work better than being in the office? It's complicated | Mark Mortensen](https://www.ted.com/talks/mark_mortensen_is_remote_work_better_than_being_in_the_office_it_s_complicated?rss)
 

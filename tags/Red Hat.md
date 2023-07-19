@@ -1,3 +1,7 @@
+## 20230720
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in the Red Hat UBI OpenJDK containers](https://developers.redhat.com/articles/2023/07/19/whats-new-red-hat-ubi-openjdk-containers)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to retrieve packet drop reasons in the Linux kernel](https://developers.redhat.com/articles/2023/07/19/how-retrieve-packet-drop-reasons-linux-kernel)
+
 ## 20230719
 - [Red Hat Developer](https://developers.redhat.com/) | [An introduction to Red Hat Trusted Application Pipeline](https://developers.redhat.com/articles/2023/07/18/introduction-red-hat-trusted-application-pipeline)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to run a custom server task in Red Hat Data Grid](https://developers.redhat.com/articles/2023/07/18/how-run-custom-server-task-red-hat-data-grid)

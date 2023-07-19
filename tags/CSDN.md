@@ -1,3 +1,9 @@
+## 20230720
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微软Office AI工具定价每人每月30美元；Meta开源免费可商用大语言模型Llama 2；美团申请美团光年商标|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131801253)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【AI赋能】人工智能在自动驾驶时代的应用](https://blog.csdn.net/2301_77485708/article/details/131758143)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [基于Vue + 数据组装 + axios请求接口 实现图书信息提交功能实战](https://blog.csdn.net/xingyu_qie/article/details/131796859)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python案例｜使用卷积网络对星系图片进行分类](https://blog.csdn.net/qq_41640218/article/details/131800594)
+
 ## 20230719
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信：有零钱的微信号不会被系统注销；拼多多旗下 Temu 在美起诉 Shein；Rust 1.71.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131780287)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Pytorch自动求导机制详解](https://blog.csdn.net/qq_43649937/article/details/131783905)

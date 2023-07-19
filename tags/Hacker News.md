@@ -1,3 +1,8 @@
+## 20230720
+- [Hacker News](https://news.ycombinator.com/front) | [Stanford president resigns over manipulated research, will retract 3 papers](https://news.ycombinator.com/item?id=36790301)
+- [Hacker News](https://news.ycombinator.com/front) | [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://news.ycombinator.com/item?id=36788274)
+- [Hacker News](https://news.ycombinator.com/front) | [Advanced Python Mastery](https://news.ycombinator.com/item?id=36785005)
+
 ## 20230719
 - [Hacker News](https://news.ycombinator.com/front) | [Llama 2](https://news.ycombinator.com/item?id=36774627)
 - [Hacker News](https://news.ycombinator.com/front) | [A Grub theme in the style of Minecraft](https://news.ycombinator.com/item?id=36771980)

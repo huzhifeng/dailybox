@@ -1,3 +1,8 @@
+## 20230720
+- [Product Hunt](https://www.producthunt.com) | [Superhuman AI](https://www.producthunt.com/posts/superhuman-ai)
+- [Product Hunt](https://www.producthunt.com) | [SEOBox.ai](https://www.producthunt.com/posts/seobox-ai)
+- [Product Hunt](https://www.producthunt.com) | [Texts From My Ex](https://www.producthunt.com/posts/texts-from-my-ex)
+
 ## 20230719
 - [Product Hunt](https://www.producthunt.com) | [Memberstack 2.0](https://www.producthunt.com/posts/memberstack-2-0)
 - [Product Hunt](https://www.producthunt.com) | [Wonderslide](https://www.producthunt.com/posts/wonderslide)
