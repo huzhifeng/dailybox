@@ -1,3 +1,6 @@
+## 20230721
+- [TED Talks Daily](https://www.ted.com/talks) | [How to be a leader for climate justice | David Lammy and Justin J. Pearson](https://www.ted.com/talks/david_lammy_and_justin_j_pearson_how_to_be_a_leader_for_climate_justice?rss)
+
 ## 20230720
 - [TED Talks Daily](https://www.ted.com/talks) | [The growing megafire crisis -- and how to contain it | George T. Whitesides](https://www.ted.com/talks/george_t_whitesides_the_growing_megafire_crisis_and_how_to_contain_it?rss)
 

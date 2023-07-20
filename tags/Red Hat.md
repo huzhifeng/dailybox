@@ -1,3 +1,8 @@
+## 20230721
+- [Red Hat Developer](https://developers.redhat.com/) | [New Delve features in RHEL 9.2](https://developers.redhat.com/articles/2023/07/20/new-delve-features-rhel-92)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to balance per-CPU upcall dispatch mode in Open vSwitch](https://developers.redhat.com/articles/2023/07/20/how-balance-cpu-upcall-dispatch-mode-open-vswitch)
+
 ## 20230720
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in the Red Hat UBI OpenJDK containers](https://developers.redhat.com/articles/2023/07/19/whats-new-red-hat-ubi-openjdk-containers)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to retrieve packet drop reasons in the Linux kernel](https://developers.redhat.com/articles/2023/07/19/how-retrieve-packet-drop-reasons-linux-kernel)

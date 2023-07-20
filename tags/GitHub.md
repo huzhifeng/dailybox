@@ -1,3 +1,8 @@
+## 20230721
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+
 ## 20230720
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)

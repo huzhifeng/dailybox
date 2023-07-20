@@ -1,3 +1,8 @@
+## 20230721
+- [diff.blog](https://diff.blog/) | [Custom instructions for ChatGPT](https://diff.blog/post/custom-instructions-for-chatgpt-144218/)
+- [diff.blog](https://diff.blog/) | [The past is not true](https://diff.blog/post/the-past-is-not-true-144165/)
+- [diff.blog](https://diff.blog/) | [The past is not true](https://diff.blog/post/the-past-is-not-true-144164/)
+
 ## 20230718
 - [diff.blog](https://diff.blog/) | [Coroutines for Go](https://diff.blog/post/coroutines-for-go-144016/)
 

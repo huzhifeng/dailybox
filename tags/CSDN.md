@@ -1,3 +1,9 @@
+## 20230721
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度文心大模型 3.5 斩获7个满分、三个第一；苹果正在测试 AppleGPT 产品；谷歌给员工断网，降低网络攻击风险|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131822991)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI时代带来的图片造假危机，该如何解决](https://blog.csdn.net/momoda118/article/details/131786270)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【英杰送书第三期】Spring 解决依赖版本不一致报错 | 文末送书](https://blog.csdn.net/m0_73367097/article/details/131685815)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [WAIC2023：图像内容安全黑科技助力可信AI发展](https://blog.csdn.net/FRIGIDWINTER/article/details/131676364)
+
 ## 20230720
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微软Office AI工具定价每人每月30美元；Meta开源免费可商用大语言模型Llama 2；美团申请美团光年商标|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131801253)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【AI赋能】人工智能在自动驾驶时代的应用](https://blog.csdn.net/2301_77485708/article/details/131758143)

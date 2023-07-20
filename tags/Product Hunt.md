@@ -1,3 +1,8 @@
+## 20230721
+- [Product Hunt](https://www.producthunt.com) | [ElevateHQ](https://www.producthunt.com/posts/elevatehq)
+- [Product Hunt](https://www.producthunt.com) | [LangSmith](https://www.producthunt.com/posts/langsmith)
+- [Product Hunt](https://www.producthunt.com) | [Swiftbrief](https://www.producthunt.com/posts/swiftbrief)
+
 ## 20230720
 - [Product Hunt](https://www.producthunt.com) | [Superhuman AI](https://www.producthunt.com/posts/superhuman-ai)
 - [Product Hunt](https://www.producthunt.com) | [SEOBox.ai](https://www.producthunt.com/posts/seobox-ai)

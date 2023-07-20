@@ -1,3 +1,8 @@
+## 20230721
+- [Hacker News](https://news.ycombinator.com/front) | [FedNow Is Live](https://news.ycombinator.com/item?id=36801491)
+- [Hacker News](https://news.ycombinator.com/front) | [Accidentally Load Bearing](https://news.ycombinator.com/item?id=36800151)
+- [Hacker News](https://news.ycombinator.com/front) | [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://news.ycombinator.com/item?id=36799776)
+
 ## 20230720
 - [Hacker News](https://news.ycombinator.com/front) | [Stanford president resigns over manipulated research, will retract 3 papers](https://news.ycombinator.com/item?id=36790301)
 - [Hacker News](https://news.ycombinator.com/front) | [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://news.ycombinator.com/item?id=36788274)
