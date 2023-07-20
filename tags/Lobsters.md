@@ -1,3 +1,8 @@
+## 20230721
+- [Lobsters](https://lobste.rs/) | [What I Learned Building a CLI App in Rust](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust)
+- [Lobsters](https://lobste.rs/) | [What Happened to Dolphin on Steam?](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam)
+- [Lobsters](https://lobste.rs/) | [azorius 0.1](https://lobste.rs/s/wupk7c/azorius_0_1)
+
 ## 20230720
 - [Lobsters](https://lobste.rs/) | [bfs 3.0: the fastest find yet](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet)
 - [Lobsters](https://lobste.rs/) | [The Death of Infosec Twitter](https://lobste.rs/s/f7esjj/death_infosec_twitter)

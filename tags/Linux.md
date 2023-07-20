@@ -1,3 +1,18 @@
+## 20230721
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1068 现存最古老的发行版 Slackware 已经 30 岁了](https://linux.cn/article-16018-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [New Delve features in RHEL 9.2](https://developers.redhat.com/articles/2023/07/20/new-delve-features-rhel-92)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to balance per-CPU upcall dispatch mode in Open vSwitch](https://developers.redhat.com/articles/2023/07/20/how-balance-cpu-upcall-dispatch-mode-open-vswitch)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Deal With Unresponsive Intel QAT Devices](https://www.phoronix.com/news/Intel-QAT-Heartbeat-Linux)
+- [Phoronix](https://www.phoronix.com/) | [SMT Proves Worthwhile Option For 128-Core AMD EPYC "Bergamo" CPUs](https://www.phoronix.com/review/amd-epyc-9754-smt)
+- [Phoronix](https://www.phoronix.com/) | [Arm Talks Up Their Open-Source Contributions, Adding Support For Panfrost](https://www.phoronix.com/news/Arm-Talks-Up-Open-Source)
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 11 Open-Source IDE Adds Integrated Terminal, GitHub Copilot Support](https://9to5linux.com/qt-creator-11-open-source-ide-adds-integrated-terminal-github-copilot-support)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.5 Open-Source Office Suite Released with 70 Bug Fixes](https://9to5linux.com/libreoffice-7-5-5-open-source-office-suite-released-with-70-bug-fixes)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: LicheePi 4A cpuinfo etc](https://rwmj.wordpress.com/2023/07/20/licheepi-4a-cpuinfo-etc/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: become ungoogleable](http://joeyh.name/blog/entry/become_ungoogleable/)
+
 ## 20230720
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1067 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式](https://linux.cn/article-16014-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in the Red Hat UBI OpenJDK containers](https://developers.redhat.com/articles/2023/07/19/whats-new-red-hat-ubi-openjdk-containers)

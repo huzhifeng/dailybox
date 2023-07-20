@@ -1,3 +1,8 @@
+## 20230721
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: LicheePi 4A cpuinfo etc](https://rwmj.wordpress.com/2023/07/20/licheepi-4a-cpuinfo-etc/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: become ungoogleable](http://joeyh.name/blog/entry/become_ungoogleable/)
+
 ## 20230720
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Sipeed Lichee Pi 4A](https://rwmj.wordpress.com/2023/07/19/sipeed-lichee-pi-4a/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to Install and Update Fedora Linux on Android using Termux](https://fedoramagazine.org/how-to-install-and-update-fedora-linux-on-android-using-termux/)

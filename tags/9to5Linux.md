@@ -1,3 +1,7 @@
+## 20230721
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 11 Open-Source IDE Adds Integrated Terminal, GitHub Copilot Support](https://9to5linux.com/qt-creator-11-open-source-ide-adds-integrated-terminal-github-copilot-support)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.5 Open-Source Office Suite Released with 70 Bug Fixes](https://9to5linux.com/libreoffice-7-5-5-open-source-office-suite-released-with-70-bug-fixes)
+
 ## 20230719
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.10 Released with Initial Support for Linux Kernels 6.4 and 6.5](https://9to5linux.com/virtualbox-7-0-10-released-with-initial-support-for-linux-kernels-6-4-and-6-5)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.86.05 Linux Graphics Driver Improves Wayland Support, Fixes Bugs](https://9to5linux.com/nvidia-535-86-05-linux-graphics-driver-improves-wayland-support-fixes-bugs)

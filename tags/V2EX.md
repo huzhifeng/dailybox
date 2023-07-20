@@ -1,3 +1,8 @@
+## 20230721
+- [V2EX](https://www.v2ex.com/) | [发几个大家大概率用错的成语😄](https://www.v2ex.com/t/958300)
+- [V2EX](https://www.v2ex.com/) | [我最近越来越发现一个问题，礼义廉耻是约束穷人思想的！](https://www.v2ex.com/t/958251)
+- [V2EX](https://www.v2ex.com/) | [学校录取了，但是都劝退](https://www.v2ex.com/t/958242)
+
 ## 20230720
 - [V2EX](https://www.v2ex.com/) | [大家怎么看待"我没干什么见不得人的，所以我不在意个人隐私数据泄露"这种观点？](https://www.v2ex.com/t/958060)
 - [V2EX](https://www.v2ex.com/) | [征询象棋 app 名字](https://www.v2ex.com/t/957995)

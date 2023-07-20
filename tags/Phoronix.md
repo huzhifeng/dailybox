@@ -1,3 +1,8 @@
+## 20230721
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Deal With Unresponsive Intel QAT Devices](https://www.phoronix.com/news/Intel-QAT-Heartbeat-Linux)
+- [Phoronix](https://www.phoronix.com/) | [SMT Proves Worthwhile Option For 128-Core AMD EPYC "Bergamo" CPUs](https://www.phoronix.com/review/amd-epyc-9754-smt)
+- [Phoronix](https://www.phoronix.com/) | [Arm Talks Up Their Open-Source Contributions, Adding Support For Panfrost](https://www.phoronix.com/news/Arm-Talks-Up-Open-Source)
+
 ## 20230720
 - [Phoronix](https://www.phoronix.com/) | [XWayland 23.2 RC1 Brings Tearing Control, Resizable Rootful, Emulated Input](https://www.phoronix.com/news/XWayland-23.2-RC1)
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9754 Benchmarks For The 128-Core Bergamo](https://www.phoronix.com/review/amd-epyc-9754-bergamo)

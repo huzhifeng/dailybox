@@ -1,3 +1,7 @@
+## 20230721
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: become ungoogleable](http://joeyh.name/blog/entry/become_ungoogleable/)
+
 ## 20230720
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: RISC, Chips Act, Burning of Books, Manipur](https://flossexperiences.wordpress.com/2023/07/19/risc-chips-act-burning-of-books/)
 - [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)

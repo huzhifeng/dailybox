@@ -1,3 +1,6 @@
+## 20230721
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: LicheePi 4A cpuinfo etc](https://rwmj.wordpress.com/2023/07/20/licheepi-4a-cpuinfo-etc/)
+
 ## 20230720
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: Sipeed Lichee Pi 4A](https://rwmj.wordpress.com/2023/07/19/sipeed-lichee-pi-4a/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: How to Install and Update Fedora Linux on Android using Termux](https://fedoramagazine.org/how-to-install-and-update-fedora-linux-on-android-using-termux/)
