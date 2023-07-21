@@ -1,3 +1,8 @@
+## 20230722
+- [V2EX](https://www.v2ex.com/) | [后端同学一般用啥写前端呢？](https://www.v2ex.com/t/958660)
+- [V2EX](https://www.v2ex.com/) | [无意间看到小红书上负债帖子，细思极恐](https://www.v2ex.com/t/958658)
+- [V2EX](https://www.v2ex.com/) | [年近 30，回去十八线小县城考教编（国编和特岗）是一个好的选择吗？](https://www.v2ex.com/t/958552)
+
 ## 20230721
 - [V2EX](https://www.v2ex.com/) | [发几个大家大概率用错的成语😄](https://www.v2ex.com/t/958300)
 - [V2EX](https://www.v2ex.com/) | [我最近越来越发现一个问题，礼义廉耻是约束穷人思想的！](https://www.v2ex.com/t/958251)

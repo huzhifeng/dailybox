@@ -1,3 +1,8 @@
+## 20230722
+- [Phoronix](https://www.phoronix.com/) | [Proton 8.0-3 Released With More Windows Games Running On Linux, Fixes](https://www.phoronix.com/news/Proton-8.0-3-Released)
+- [Phoronix](https://www.phoronix.com/) | [GPU VA Manager To Land In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-GPU-VA-Manager)
+- [Phoronix](https://www.phoronix.com/) | [Apple M2 On Linux Performance Against AMD Zen 4 Mobile SoCs](https://www.phoronix.com/review/apple-m2-zen4-mobile)
+
 ## 20230721
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Deal With Unresponsive Intel QAT Devices](https://www.phoronix.com/news/Intel-QAT-Heartbeat-Linux)
 - [Phoronix](https://www.phoronix.com/) | [SMT Proves Worthwhile Option For 128-Core AMD EPYC "Bergamo" CPUs](https://www.phoronix.com/review/amd-epyc-9754-smt)

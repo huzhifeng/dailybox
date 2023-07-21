@@ -1,3 +1,7 @@
+## 20230722
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Firefox 116 Will Add HW Accelerated Video Playback for Raspberry Pi 4](https://9to5linux.com/looks-like-firefox-116-will-add-hw-accelerated-video-playback-for-raspberry-pi-4)
+- [9to5Linux](https://9to5linux.com/) | [Proton 8.0-3 Is Out with Support for Propnight, Tom Clancy&#8217;s Ghost Recon Breakpoint](https://9to5linux.com/proton-8-0-3-is-out-with-support-for-propnight-tom-clancys-ghost-recon-breakpoint)
+
 ## 20230721
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 11 Open-Source IDE Adds Integrated Terminal, GitHub Copilot Support](https://9to5linux.com/qt-creator-11-open-source-ide-adds-integrated-terminal-github-copilot-support)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.5 Open-Source Office Suite Released with 70 Bug Fixes](https://9to5linux.com/libreoffice-7-5-5-open-source-office-suite-released-with-70-bug-fixes)

@@ -1,3 +1,6 @@
+## 20230722
+- [Hacker News](https://news.ycombinator.com/front) | [I have written a JVM in Rust](https://news.ycombinator.com/item?id=36811554)
+
 ## 20230721
 - [Hacker News](https://news.ycombinator.com/front) | [FedNow Is Live](https://news.ycombinator.com/item?id=36801491)
 - [Hacker News](https://news.ycombinator.com/front) | [Accidentally Load Bearing](https://news.ycombinator.com/item?id=36800151)

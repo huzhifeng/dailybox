@@ -1,3 +1,6 @@
+## 20230722
+- [diff.blog](https://diff.blog/) | [Moving AI governance forward](https://diff.blog/post/moving-ai-governance-forward-144254/)
+
 ## 20230721
 - [diff.blog](https://diff.blog/) | [Custom instructions for ChatGPT](https://diff.blog/post/custom-instructions-for-chatgpt-144218/)
 - [diff.blog](https://diff.blog/) | [The past is not true](https://diff.blog/post/the-past-is-not-true-144165/)

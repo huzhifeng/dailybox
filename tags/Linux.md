@@ -1,3 +1,15 @@
+## 20230722
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1069 IMAX 电影播放仍然需要一台 21 年前的掌上电脑](https://linux.cn/article-16021-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Proton 8.0-3 Released With More Windows Games Running On Linux, Fixes](https://www.phoronix.com/news/Proton-8.0-3-Released)
+- [Phoronix](https://www.phoronix.com/) | [GPU VA Manager To Land In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-GPU-VA-Manager)
+- [Phoronix](https://www.phoronix.com/) | [Apple M2 On Linux Performance Against AMD Zen 4 Mobile SoCs](https://www.phoronix.com/review/apple-m2-zen4-mobile)
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Firefox 116 Will Add HW Accelerated Video Playback for Raspberry Pi 4](https://9to5linux.com/looks-like-firefox-116-will-add-hw-accelerated-video-playback-for-raspberry-pi-4)
+- [9to5Linux](https://9to5linux.com/) | [Proton 8.0-3 Is Out with Support for Propnight, Tom Clancy&#8217;s Ghost Recon Breakpoint](https://9to5linux.com/proton-8-0-3-is-out-with-support-for-propnight-tom-clancys-ghost-recon-breakpoint)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Compute Express Link (CXL) MC CFP](https://lpc.events/blog/current/index.php/2023/07/21/compute-express-link-cxl-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 29 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-29-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.22RC1 and 8.2.9RC1](https://blog.remirepo.net/post/2023/07/21/PHP-version-8.1.22RC1-and-8.2.9RC1)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 245 released](https://diffoscope.org/news/diffoscope-245-released/)
+
 ## 20230721
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1068 现存最古老的发行版 Slackware 已经 30 岁了](https://linux.cn/article-16018-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
