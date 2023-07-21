@@ -1,3 +1,9 @@
+## 20230722
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Compute Express Link (CXL) MC CFP](https://lpc.events/blog/current/index.php/2023/07/21/compute-express-link-cxl-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 29 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-29-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.22RC1 and 8.2.9RC1](https://blog.remirepo.net/post/2023/07/21/PHP-version-8.1.22RC1-and-8.2.9RC1)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 245 released](https://diffoscope.org/news/diffoscope-245-released/)
+
 ## 20230721
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard W.M. Jones: LicheePi 4A cpuinfo etc](https://rwmj.wordpress.com/2023/07/20/licheepi-4a-cpuinfo-etc/)
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)

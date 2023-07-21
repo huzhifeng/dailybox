@@ -1,3 +1,6 @@
+## 20230722
+- [It's FOSS](https://itsfoss.com/) | [Install and Use Additional Gedit Color Themes](https://itsfoss.com/gedit-themes/)
+
 ## 20230721
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.29: Linux Mint 21.2 Released, Systemd vs Init, Terminal vs Nautilus and More](https://itsfoss.com/newsletter/foss-weekly-23-29/)
 - [It's FOSS](https://itsfoss.com/) | [Mix and Match Terminal With Nautilus File Manager in Linux](https://itsfoss.com/terminal-nautilus-combination/)

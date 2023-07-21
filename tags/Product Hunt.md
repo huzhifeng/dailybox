@@ -1,3 +1,7 @@
+## 20230722
+- [Product Hunt](https://www.producthunt.com) | [cmdk](https://www.producthunt.com/posts/cmdk)
+- [Product Hunt](https://www.producthunt.com) | [Decipad Public Beta](https://www.producthunt.com/posts/decipad-public-beta)
+
 ## 20230721
 - [Product Hunt](https://www.producthunt.com) | [ElevateHQ](https://www.producthunt.com/posts/elevatehq)
 - [Product Hunt](https://www.producthunt.com) | [LangSmith](https://www.producthunt.com/posts/langsmith)

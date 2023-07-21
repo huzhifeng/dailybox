@@ -1,3 +1,6 @@
+## 20230722
+- [TED Talks Daily](https://www.ted.com/talks) | [The tree-growing movement restoring Africa's vital landscapes | Wanjira Mathai](https://www.ted.com/talks/wanjira_mathai_the_tree_growing_movement_restoring_africa_s_vital_landscapes?rss)
+
 ## 20230721
 - [TED Talks Daily](https://www.ted.com/talks) | [How to be a leader for climate justice | David Lammy and Justin J. Pearson](https://www.ted.com/talks/david_lammy_and_justin_j_pearson_how_to_be_a_leader_for_climate_justice?rss)
 

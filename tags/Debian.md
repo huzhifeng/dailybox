@@ -1,3 +1,6 @@
+## 20230722
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 245 released](https://diffoscope.org/news/diffoscope-245-released/)
+
 ## 20230721
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
 - [Planet Debian](https://planet.debian.org/) | [Joey Hess: become ungoogleable](http://joeyh.name/blog/entry/become_ungoogleable/)

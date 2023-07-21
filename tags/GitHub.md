@@ -1,3 +1,8 @@
+## 20230722
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/llama](https://github.com/facebookresearch/llama)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)
+
 ## 20230721
 - [GitHub中文社区](https://www.githubs.cn/trending) | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)

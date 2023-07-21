@@ -1,3 +1,9 @@
+## 20230722
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [iPhone 15 或推迟上市；谷歌软件工程师基本年薪达 71.8 万美元；Godot 4.1.1 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131845214)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微服务|SpringBoot 3.0】 新特性——内置声明式HTTP客户端](https://blog.csdn.net/m0_63947499/article/details/131812612)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [C国演义 [第十二章]](https://blog.csdn.net/qq_67549203/article/details/131754970)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Azure】发掘 Azure 用于治理和合规性工具：探索 Azure 蓝图、策略、资源锁和信任门户 | 文末送书](https://blog.csdn.net/dietime1943/article/details/131842152)
+
 ## 20230721
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [百度文心大模型 3.5 斩获7个满分、三个第一；苹果正在测试 AppleGPT 产品；谷歌给员工断网，降低网络攻击风险|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131822991)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI时代带来的图片造假危机，该如何解决](https://blog.csdn.net/momoda118/article/details/131786270)
