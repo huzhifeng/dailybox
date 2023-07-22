@@ -1,3 +1,8 @@
+## 20230723
+- [Product Hunt](https://www.producthunt.com) | [Chat with PDF](https://www.producthunt.com/posts/chat-with-pdf)
+- [Product Hunt](https://www.producthunt.com) | [Avocado Growth : IT mentor](https://www.producthunt.com/posts/avocado-growth-it-mentor)
+- [Product Hunt](https://www.producthunt.com) | [Folderr](https://www.producthunt.com/posts/folderr)
+
 ## 20230722
 - [Product Hunt](https://www.producthunt.com) | [cmdk](https://www.producthunt.com/posts/cmdk)
 - [Product Hunt](https://www.producthunt.com) | [Decipad Public Beta](https://www.producthunt.com/posts/decipad-public-beta)

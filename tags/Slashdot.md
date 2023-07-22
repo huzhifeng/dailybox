@@ -1,3 +1,7 @@
+## 20230723
+- [Slashdot](https://linux.slashdot.org/) | [Slackware Linux Distribution Turns 30 Years Old](https://linux.slashdot.org/story/23/07/21/2138223/slackware-linux-distribution-turns-30-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Is C++ Gaining in Popularity?](https://developers.slashdot.org/story/23/07/22/0254258/is-c-gaining-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230720
 - [Slashdot](https://developers.slashdot.org/) | [Most Outsourced Coders In India Will Be Gone In 2 Years Due To AI, Stability AI Boss Predicts](https://developers.slashdot.org/story/23/07/18/217222/most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

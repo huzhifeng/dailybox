@@ -1,3 +1,8 @@
+## 20230723
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.1 Released With Many Bug Fixes](https://www.phoronix.com/news/Debian-12.1-Released)
+- [Phoronix](https://www.phoronix.com/) | [LLVMpipe Now Exposes Shared Virtual Memory Support](https://www.phoronix.com/news/LLVMpipe-SVM-Enabled)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Looking To Better Alert Server Administrators Around Firmware Updates](https://www.phoronix.com/news/Fedora-Server-Alert-FW-Updates)
+
 ## 20230722
 - [Phoronix](https://www.phoronix.com/) | [Proton 8.0-3 Released With More Windows Games Running On Linux, Fixes](https://www.phoronix.com/news/Proton-8.0-3-Released)
 - [Phoronix](https://www.phoronix.com/) | [GPU VA Manager To Land In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-GPU-VA-Manager)
