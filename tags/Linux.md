@@ -1,3 +1,17 @@
+## 20230723
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1070 社区批评 Meta 滥用“开源”来称呼其新大语言模型](https://linux.cn/article-16024-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.1 Released With Many Bug Fixes](https://www.phoronix.com/news/Debian-12.1-Released)
+- [Phoronix](https://www.phoronix.com/) | [LLVMpipe Now Exposes Shared Virtual Memory Support](https://www.phoronix.com/news/LLVMpipe-SVM-Enabled)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Looking To Better Alert Server Administrators Around Firmware Updates](https://www.phoronix.com/news/Fedora-Server-Alert-FW-Updates)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.1 “Bookworm” Released with 89 Bug Fixes and 26 Security Updates](https://9to5linux.com/debian-12-1-bookworm-released-with-89-bug-fixes-and-26-security-updates)
+- [Planet Fedora](http://fedoraplanet.org/) | [Pablo Iranzo Gómez: Upgrade Debian from buster to bullseye](https://iranzo.io/tips/raspbian-upgrade/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1804 UTC - All signed, all pushed, all done.](http://flosslinuxblog.blogspot.com/2023/07/20230722-1804-utc-all-signed-all-pushed.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1436 - Happily chunking through release tests](http://flosslinuxblog.blogspot.com/2023/07/20230722-1436-happily-chunking-through.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 - Releasing Debian testing for Debian Bookworm point release 12.1](http://flosslinuxblog.blogspot.com/2023/07/20230722-releasing-debian-testing-for.html)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#105 Legendary Saturday Edition](https://thisweek.gnome.org/posts/2023/07/twig-105/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 features](https://pointieststick.com/2023/07/21/this-week-in-kde-plasma-6-features/)
+- [Slashdot](https://linux.slashdot.org/) | [Slackware Linux Distribution Turns 30 Years Old](https://linux.slashdot.org/story/23/07/21/2138223/slackware-linux-distribution-turns-30-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230722
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1069 IMAX 电影播放仍然需要一台 21 年前的掌上电脑](https://linux.cn/article-16021-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Proton 8.0-3 Released With More Windows Games Running On Linux, Fixes](https://www.phoronix.com/news/Proton-8.0-3-Released)

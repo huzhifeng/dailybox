@@ -1,3 +1,9 @@
+## 20230723
+- [Planet Fedora](http://fedoraplanet.org/) | [Pablo Iranzo Gómez: Upgrade Debian from buster to bullseye](https://iranzo.io/tips/raspbian-upgrade/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1804 UTC - All signed, all pushed, all done.](http://flosslinuxblog.blogspot.com/2023/07/20230722-1804-utc-all-signed-all-pushed.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1436 - Happily chunking through release tests](http://flosslinuxblog.blogspot.com/2023/07/20230722-1436-happily-chunking-through.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 - Releasing Debian testing for Debian Bookworm point release 12.1](http://flosslinuxblog.blogspot.com/2023/07/20230722-releasing-debian-testing-for.html)
+
 ## 20230722
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Compute Express Link (CXL) MC CFP](https://lpc.events/blog/current/index.php/2023/07/21/compute-express-link-cxl-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 29 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-29-2023/)

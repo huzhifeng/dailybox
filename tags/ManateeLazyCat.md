@@ -1,3 +1,6 @@
+## 20230723
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《松弛感》](https://manateelazycat.github.io/2023/07/22/reading-relaxation/)
+
 ## 20230709
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Ubuntu 手动编译 PyQt6 支持私有解码器](https://manateelazycat.github.io/2023/07/08/eaf-browser-ubuntu/)
 

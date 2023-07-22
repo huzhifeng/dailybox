@@ -1,3 +1,8 @@
+## 20230723
+- [GitHub中文社区](https://www.githubs.cn/trending) | [jmorganca/ollama](https://github.com/jmorganca/ollama)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [twentyhq/twenty](https://github.com/twentyhq/twenty)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
+
 ## 20230722
 - [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)

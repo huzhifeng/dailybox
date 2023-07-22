@@ -1,3 +1,6 @@
+## 20230723
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 features](https://pointieststick.com/2023/07/21/this-week-in-kde-plasma-6-features/)
+
 ## 20230709
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Akademy approaches](https://pointieststick.com/2023/07/07/this-week-in-kde-akademy-approaches/)
 

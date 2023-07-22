@@ -1,3 +1,6 @@
+## 20230723
+- [Planet Fedora](http://fedoraplanet.org/) | [Pablo Iranzo Gómez: Upgrade Debian from buster to bullseye](https://iranzo.io/tips/raspbian-upgrade/)
+
 ## 20230722
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly Update – Week 29 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-29-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.22RC1 and 8.2.9RC1](https://blog.remirepo.net/post/2023/07/21/PHP-version-8.1.22RC1-and-8.2.9RC1)

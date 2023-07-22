@@ -1,3 +1,6 @@
+## 20230723
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.1 “Bookworm” Released with 89 Bug Fixes and 26 Security Updates](https://9to5linux.com/debian-12-1-bookworm-released-with-89-bug-fixes-and-26-security-updates)
+
 ## 20230722
 - [9to5Linux](https://9to5linux.com/) | [Looks Like Firefox 116 Will Add HW Accelerated Video Playback for Raspberry Pi 4](https://9to5linux.com/looks-like-firefox-116-will-add-hw-accelerated-video-playback-for-raspberry-pi-4)
 - [9to5Linux](https://9to5linux.com/) | [Proton 8.0-3 Is Out with Support for Propnight, Tom Clancy&#8217;s Ghost Recon Breakpoint](https://9to5linux.com/proton-8-0-3-is-out-with-support-for-propnight-tom-clancys-ghost-recon-breakpoint)
