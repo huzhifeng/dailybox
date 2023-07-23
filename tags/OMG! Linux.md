@@ -1,3 +1,7 @@
+## 20230724
+- [OMG! Linux](https://www.omglinux.com/) | [Firefox 116 Enables Video Hardware Acceleration on Raspberry Pi 4](https://www.omglinux.com/firefox-hardware-acceleration-raspberry-pi/)
+- [OMG! Linux](https://www.omglinux.com/) | [Debian 12.1 Released with Package Updates, Security Fixes](https://www.omglinux.com/debian-12-1-released-with-package-updates-security-fixes/)
+
 ## 20230720
 - [OMG! Linux](https://www.omglinux.com/) | [Tuba 0.4 Out with UI Changes, Support for More Fediverse Features](https://www.omglinux.com/tuba-0-4-is-out-with-ui-tweaks-support-for-more-fediverse-features/)
 

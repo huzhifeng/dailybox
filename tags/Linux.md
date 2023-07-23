@@ -1,3 +1,18 @@
+## 20230724
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1071 研究发现更大的上下文对大语言模型来说意义不大](https://linux.cn/article-16027-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [OpenBSD Finally Lands Support For Updating AMD CPU Microcode](https://www.phoronix.com/news/OpenBSD-AMD-CPU-ucode)
+- [Phoronix](https://www.phoronix.com/) | [MPV Player 0.36 Released With Wayland Fractional Scaling, Vulkan Video Decode](https://www.phoronix.com/news/MPV-0.36-Released)
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Is Now An Official Debian Architecture](https://www.phoronix.com/news/Debian-Official-RISC-V)
+- [9to5Linux](https://9to5linux.com/) | [Shotwell 0.32.2 Image Viewer Adds Support for HEIF Files with .HIF Extension](https://9to5linux.com/shotwell-0-32-2-image-viewer-adds-support-for-heif-files-with-hif-extension)
+- [OMG! Linux](https://www.omglinux.com/) | [Firefox 116 Enables Video Hardware Acceleration on Raspberry Pi 4](https://www.omglinux.com/firefox-hardware-acceleration-raspberry-pi/)
+- [OMG! Linux](https://www.omglinux.com/) | [Debian 12.1 Released with Package Updates, Security Fixes](https://www.omglinux.com/debian-12-1-released-with-package-updates-security-fixes/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: All microconferences are now accepting topics!](https://lpc.events/blog/current/index.php/2023/07/23/all-microconferences-are-now-accepting-topics/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars VI: Obfuscating Kernel Code for Fun and Profit](https://dissociatedpress.net/2023/07/23/red-hat-and-the-clone-wars-vi-obfuscating-kernel-code-for-fun-and-profit/)
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Debconf Videoteam sprint in Paris, France, 2023-07-20 - 2023-07-23](https://grep.be/blog//en/computer/debian/DebConf_Videoteam_Sprint_in_Paris/)
+- [This week in KDE](https://pointieststick.com/) | [Akademy 2023](https://pointieststick.com/2023/07/23/akademy-2023/)
+- [Slashdot](https://linux.slashdot.org/) | [RHEL Response Discussed by SFC Conference's Panel - Including a New Enterprise Linux Standard](https://linux.slashdot.org/story/23/07/23/0517219/rhel-response-discussed-by-sfc-conferences-panel---including-a-new-enterprise-linux-standard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230723
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1070 社区批评 Meta 滥用“开源”来称呼其新大语言模型](https://linux.cn/article-16024-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.1 Released With Many Bug Fixes](https://www.phoronix.com/news/Debian-12.1-Released)

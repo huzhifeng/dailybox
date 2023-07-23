@@ -1,3 +1,8 @@
+## 20230724
+- [Slashdot](https://linux.slashdot.org/) | [RHEL Response Discussed by SFC Conference's Panel - Including a New Enterprise Linux Standard](https://linux.slashdot.org/story/23/07/23/0517219/rhel-response-discussed-by-sfc-conferences-panel---including-a-new-enterprise-linux-standard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Ask Slashdot: What Happens After Every Programmer is Using AI?](https://developers.slashdot.org/story/23/07/23/0037247/ask-slashdot-what-happens-after-every-programmer-is-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [RHEL Response Discussed by SFC Conference's Panel - Including a New Enterprise Linux Standard](https://linux.slashdot.org/story/23/07/23/0517219/rhel-response-discussed-by-sfc-conferences-panel---including-a-new-enterprise-linux-standard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230723
 - [Slashdot](https://linux.slashdot.org/) | [Slackware Linux Distribution Turns 30 Years Old](https://linux.slashdot.org/story/23/07/21/2138223/slackware-linux-distribution-turns-30-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Is C++ Gaining in Popularity?](https://developers.slashdot.org/story/23/07/22/0254258/is-c-gaining-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)

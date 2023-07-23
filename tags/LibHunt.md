@@ -1,3 +1,6 @@
+## 20230724
+- [LibHunt](https://www.libhunt.com/) | [templateManager](https://www.libhunt.com/r/templateManager)
+
 ## 20230723
 - [LibHunt](https://www.libhunt.com/) | [Postwoman](https://www.libhunt.com/r/hoppscotch)
 - [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)

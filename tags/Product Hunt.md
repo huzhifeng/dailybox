@@ -1,3 +1,8 @@
+## 20230724
+- [Product Hunt](https://www.producthunt.com) | [Yoit](https://www.producthunt.com/posts/yoit)
+- [Product Hunt](https://www.producthunt.com) | [gniP](https://www.producthunt.com/posts/gnip)
+- [Product Hunt](https://www.producthunt.com) | [Domaintree](https://www.producthunt.com/posts/domaintree)
+
 ## 20230723
 - [Product Hunt](https://www.producthunt.com) | [Chat with PDF](https://www.producthunt.com/posts/chat-with-pdf)
 - [Product Hunt](https://www.producthunt.com) | [Avocado Growth : IT mentor](https://www.producthunt.com/posts/avocado-growth-it-mentor)

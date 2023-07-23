@@ -1,3 +1,8 @@
+## 20230724
+- [Phoronix](https://www.phoronix.com/) | [OpenBSD Finally Lands Support For Updating AMD CPU Microcode](https://www.phoronix.com/news/OpenBSD-AMD-CPU-ucode)
+- [Phoronix](https://www.phoronix.com/) | [MPV Player 0.36 Released With Wayland Fractional Scaling, Vulkan Video Decode](https://www.phoronix.com/news/MPV-0.36-Released)
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Is Now An Official Debian Architecture](https://www.phoronix.com/news/Debian-Official-RISC-V)
+
 ## 20230723
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.1 Released With Many Bug Fixes](https://www.phoronix.com/news/Debian-12.1-Released)
 - [Phoronix](https://www.phoronix.com/) | [LLVMpipe Now Exposes Shared Virtual Memory Support](https://www.phoronix.com/news/LLVMpipe-SVM-Enabled)

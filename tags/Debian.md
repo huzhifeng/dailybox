@@ -1,3 +1,7 @@
+## 20230724
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Debconf Videoteam sprint in Paris, France, 2023-07-20 - 2023-07-23](https://grep.be/blog//en/computer/debian/DebConf_Videoteam_Sprint_in_Paris/)
+
 ## 20230723
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1804 UTC - All signed, all pushed, all done.](http://flosslinuxblog.blogspot.com/2023/07/20230722-1804-utc-all-signed-all-pushed.html)
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1436 - Happily chunking through release tests](http://flosslinuxblog.blogspot.com/2023/07/20230722-1436-happily-chunking-through.html)

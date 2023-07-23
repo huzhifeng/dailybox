@@ -1,3 +1,8 @@
+## 20230724
+- [Lobsters](https://lobste.rs/) | [OpenMW 0.48.0 Released](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released)
+- [Lobsters](https://lobste.rs/) | [Allergic to Waiting](https://lobste.rs/s/yrc59x/allergic_waiting)
+- [Lobsters](https://lobste.rs/) | [Hacking Little Computer People on the Amiga](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga)
+
 ## 20230723
 - [Lobsters](https://lobste.rs/) | [Why even let users set their own passwords?](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords)
 - [Lobsters](https://lobste.rs/) | [Linear-time parser combinators](https://lobste.rs/s/sts3wo/linear_time_parser_combinators)

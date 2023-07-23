@@ -1,3 +1,9 @@
+## 20230724
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: All microconferences are now accepting topics!](https://lpc.events/blog/current/index.php/2023/07/23/all-microconferences-are-now-accepting-topics/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars VI: Obfuscating Kernel Code for Fun and Profit](https://dissociatedpress.net/2023/07/23/red-hat-and-the-clone-wars-vi-obfuscating-kernel-code-for-fun-and-profit/)
+- [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Debconf Videoteam sprint in Paris, France, 2023-07-20 - 2023-07-23](https://grep.be/blog//en/computer/debian/DebConf_Videoteam_Sprint_in_Paris/)
+
 ## 20230723
 - [Planet Fedora](http://fedoraplanet.org/) | [Pablo Iranzo Gómez: Upgrade Debian from buster to bullseye](https://iranzo.io/tips/raspbian-upgrade/)
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230722 1804 UTC - All signed, all pushed, all done.](http://flosslinuxblog.blogspot.com/2023/07/20230722-1804-utc-all-signed-all-pushed.html)

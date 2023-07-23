@@ -1,3 +1,9 @@
+## 20230724
+- [GitHub中文社区](https://www.githubs.cn/trending) | [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [StudioCherno/Walnut](https://github.com/StudioCherno/Walnut)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
+
 ## 20230723
 - [GitHub中文社区](https://www.githubs.cn/trending) | [jmorganca/ollama](https://github.com/jmorganca/ollama)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [twentyhq/twenty](https://github.com/twentyhq/twenty)
