@@ -1,3 +1,6 @@
+## 20230724
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars VI: Obfuscating Kernel Code for Fun and Profit](https://dissociatedpress.net/2023/07/23/red-hat-and-the-clone-wars-vi-obfuscating-kernel-code-for-fun-and-profit/)
+
 ## 20230723
 - [Planet Fedora](http://fedoraplanet.org/) | [Pablo Iranzo Gómez: Upgrade Debian from buster to bullseye](https://iranzo.io/tips/raspbian-upgrade/)
 

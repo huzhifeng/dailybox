@@ -1,3 +1,6 @@
+## 20230724
+- [9to5Linux](https://9to5linux.com/) | [Shotwell 0.32.2 Image Viewer Adds Support for HEIF Files with .HIF Extension](https://9to5linux.com/shotwell-0-32-2-image-viewer-adds-support-for-heif-files-with-hif-extension)
+
 ## 20230723
 - [9to5Linux](https://9to5linux.com/) | [Debian 12.1 “Bookworm” Released with 89 Bug Fixes and 26 Security Updates](https://9to5linux.com/debian-12-1-bookworm-released-with-89-bug-fixes-and-26-security-updates)
 

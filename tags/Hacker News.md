@@ -1,3 +1,6 @@
+## 20230724
+- [Hacker News](https://news.ycombinator.com/front) | [Man found guilty of child porn because he ran a Tor exit node](https://news.ycombinator.com/item?id=36837273)
+
 ## 20230723
 - [Hacker News](https://news.ycombinator.com/front) | [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://news.ycombinator.com/item?id=36827438)
 - [Hacker News](https://news.ycombinator.com/front) | [Plane – Open-source Jira alternative](https://news.ycombinator.com/item?id=36824450)
