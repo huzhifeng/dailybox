@@ -1,3 +1,8 @@
+## 20230725
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
+
 ## 20230724
 - [GitHub中文社区](https://www.githubs.cn/trending) | [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)

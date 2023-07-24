@@ -1,3 +1,8 @@
+## 20230725
+- [Product Hunt](https://www.producthunt.com) | [MindStudio](https://www.producthunt.com/posts/mindstudio)
+- [Product Hunt](https://www.producthunt.com) | [voice-swap.ai](https://www.producthunt.com/posts/voice-swap-ai)
+- [Product Hunt](https://www.producthunt.com) | [dotBRAND](https://www.producthunt.com/posts/dotbrand)
+
 ## 20230724
 - [Product Hunt](https://www.producthunt.com) | [Yoit](https://www.producthunt.com/posts/yoit)
 - [Product Hunt](https://www.producthunt.com) | [gniP](https://www.producthunt.com/posts/gnip)

@@ -1,3 +1,8 @@
+## 20230725
+- [Phoronix](https://www.phoronix.com/) | [Intel AVX10: Taking AVX-512 With More Features & Supporting It Across P/E Cores](https://www.phoronix.com/news/Intel-AVX10)
+- [Phoronix](https://www.phoronix.com/) | [Intel Details APX - Advanced Performance Extensions](https://www.phoronix.com/news/Intel-APX)
+- [Phoronix](https://www.phoronix.com/) | [The Performance Impact Of Genoa-X's 3D V-Cache With The AMD EPYC 9684X](https://www.phoronix.com/review/epyc-9684x-3d-vcache)
+
 ## 20230724
 - [Phoronix](https://www.phoronix.com/) | [OpenBSD Finally Lands Support For Updating AMD CPU Microcode](https://www.phoronix.com/news/OpenBSD-AMD-CPU-ucode)
 - [Phoronix](https://www.phoronix.com/) | [MPV Player 0.36 Released With Wayland Fractional Scaling, Vulkan Video Decode](https://www.phoronix.com/news/MPV-0.36-Released)

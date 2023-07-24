@@ -1,3 +1,8 @@
+## 20230725
+- [Hacker News](https://news.ycombinator.com/front) | [Have attention spans been declining?](https://news.ycombinator.com/item?id=36851644)
+- [Hacker News](https://news.ycombinator.com/front) | [Attention Is Off By One](https://news.ycombinator.com/item?id=36851494)
+- [Hacker News](https://news.ycombinator.com/front) | [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://news.ycombinator.com/item?id=36850111)
+
 ## 20230724
 - [Hacker News](https://news.ycombinator.com/front) | [Man found guilty of child porn because he ran a Tor exit node](https://news.ycombinator.com/item?id=36837273)
 

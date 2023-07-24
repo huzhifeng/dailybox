@@ -1,3 +1,6 @@
+## 20230725
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #7: If Else Statement](https://itsfoss.com/bash-if-else/)
+
 ## 20230722
 - [It's FOSS](https://itsfoss.com/) | [Install and Use Additional Gedit Color Themes](https://itsfoss.com/gedit-themes/)
 

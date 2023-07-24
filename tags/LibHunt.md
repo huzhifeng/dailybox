@@ -1,3 +1,8 @@
+## 20230725
+- [LibHunt](https://www.libhunt.com/) | [aws-terrajet](https://www.libhunt.com/r/aws-terrajet)
+- [LibHunt](https://www.libhunt.com/) | [PassDetective](https://www.libhunt.com/r/PassDetective)
+- [LibHunt](https://www.libhunt.com/) | [LLMDrift](https://www.libhunt.com/r/LLMDrift)
+
 ## 20230724
 - [LibHunt](https://www.libhunt.com/) | [templateManager](https://www.libhunt.com/r/templateManager)
 
