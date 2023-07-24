@@ -1,3 +1,16 @@
+## 20230725
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1072 特斯拉将向其他汽车制造商授权全自动驾驶套件](https://linux.cn/article-16029-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Weakness risk-patterns: A Red Hat way to identify poor software practices in the secure development lifecycle](https://www.redhat.com/en/blog/weakness-risk-patterns)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat’s CWE journey](https://www.redhat.com/en/blog/red-hat-cwe-journey)
+- [Red Hat Developer](https://developers.redhat.com/) | [Troubleshooting Open vSwitch: Is the kernel to blame?](https://developers.redhat.com/articles/2023/07/24/troubleshooting-open-vswitch-kernel-blame)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to integrate Spring Boot 3, Spring Security, and Keycloak](https://developers.redhat.com/articles/2023/07/24/how-integrate-spring-boot-3-spring-security-and-keycloak)
+- [Phoronix](https://www.phoronix.com/) | [Intel AVX10: Taking AVX-512 With More Features & Supporting It Across P/E Cores](https://www.phoronix.com/news/Intel-AVX10)
+- [Phoronix](https://www.phoronix.com/) | [Intel Details APX - Advanced Performance Extensions](https://www.phoronix.com/news/Intel-APX)
+- [Phoronix](https://www.phoronix.com/) | [The Performance Impact Of Genoa-X's 3D V-Cache With The AMD EPYC 9684X](https://www.phoronix.com/review/epyc-9684x-3d-vcache)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 23rd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-23rd-2023)
+- [9to5Linux](https://9to5linux.com/) | [Debian GNU/Linux Is Now Officially Supported on the RISC-V Architecture](https://9to5linux.com/debian-gnu-linux-is-now-officially-supported-on-the-risc-v-architecture)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 385 – Is open source an insider threat?](https://opensourcesecurity.io/2023/07/23/episode-385-is-open-source-an-insider-threat/)
+
 ## 20230724
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1071 研究发现更大的上下文对大语言模型来说意义不大](https://linux.cn/article-16027-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [OpenBSD Finally Lands Support For Updating AMD CPU Microcode](https://www.phoronix.com/news/OpenBSD-AMD-CPU-ucode)

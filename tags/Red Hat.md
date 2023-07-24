@@ -1,3 +1,9 @@
+## 20230725
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Weakness risk-patterns: A Red Hat way to identify poor software practices in the secure development lifecycle](https://www.redhat.com/en/blog/weakness-risk-patterns)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat’s CWE journey](https://www.redhat.com/en/blog/red-hat-cwe-journey)
+- [Red Hat Developer](https://developers.redhat.com/) | [Troubleshooting Open vSwitch: Is the kernel to blame?](https://developers.redhat.com/articles/2023/07/24/troubleshooting-open-vswitch-kernel-blame)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to integrate Spring Boot 3, Spring Security, and Keycloak](https://developers.redhat.com/articles/2023/07/24/how-integrate-spring-boot-3-spring-security-and-keycloak)
+
 ## 20230721
 - [Red Hat Developer](https://developers.redhat.com/) | [New Delve features in RHEL 9.2](https://developers.redhat.com/articles/2023/07/20/new-delve-features-rhel-92)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform)

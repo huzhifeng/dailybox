@@ -1,3 +1,6 @@
+## 20230725
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 385 – Is open source an insider threat?](https://opensourcesecurity.io/2023/07/23/episode-385-is-open-source-an-insider-threat/)
+
 ## 20230724
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Red Hat and the Clone Wars VI: Obfuscating Kernel Code for Fun and Profit](https://dissociatedpress.net/2023/07/23/red-hat-and-the-clone-wars-vi-obfuscating-kernel-code-for-fun-and-profit/)
 

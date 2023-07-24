@@ -1,3 +1,8 @@
+## 20230725
+- [Lobsters](https://lobste.rs/) | [Seriously, you should be having fun writing software at work](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun)
+- [Lobsters](https://lobste.rs/) | [Package manager for SQLite](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite)
+- [Lobsters](https://lobste.rs/) | [Go iterator experiment](https://lobste.rs/s/ndlkuu/go_iterator_experiment)
+
 ## 20230724
 - [Lobsters](https://lobste.rs/) | [OpenMW 0.48.0 Released](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released)
 - [Lobsters](https://lobste.rs/) | [Allergic to Waiting](https://lobste.rs/s/yrc59x/allergic_waiting)

@@ -1,3 +1,7 @@
+## 20230725
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 23rd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-23rd-2023)
+- [9to5Linux](https://9to5linux.com/) | [Debian GNU/Linux Is Now Officially Supported on the RISC-V Architecture](https://9to5linux.com/debian-gnu-linux-is-now-officially-supported-on-the-risc-v-architecture)
+
 ## 20230724
 - [9to5Linux](https://9to5linux.com/) | [Shotwell 0.32.2 Image Viewer Adds Support for HEIF Files with .HIF Extension](https://9to5linux.com/shotwell-0-32-2-image-viewer-adds-support-for-heif-files-with-hif-extension)
 
