@@ -1,3 +1,8 @@
+## 20230726
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics No Longer Unusable For Blender Developers: 251 To 9 Seconds Speed-Up](https://www.phoronix.com/news/AMD-Mesa-Faster-Blender-Shader)
+- [Phoronix](https://www.phoronix.com/) | [Intel Scores Another Nice Arc Graphics Boost On Linux For Summer 2023](https://www.phoronix.com/review/intel-anv-mod-boost)
+- [Phoronix](https://www.phoronix.com/) | [Per-Policy CPU Performance Boosting Proposed For Linux](https://www.phoronix.com/news/Linux-Per-Policy-CPU-Perf-Boost)
+
 ## 20230725
 - [Phoronix](https://www.phoronix.com/) | [Intel AVX10: Taking AVX-512 With More Features & Supporting It Across P/E Cores](https://www.phoronix.com/news/Intel-AVX10)
 - [Phoronix](https://www.phoronix.com/) | [Intel Details APX - Advanced Performance Extensions](https://www.phoronix.com/news/Intel-APX)

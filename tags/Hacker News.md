@@ -1,3 +1,8 @@
+## 20230726
+- [Hacker News](https://news.ycombinator.com/front) | [The first room-temperature ambient-pressure superconductor?](https://news.ycombinator.com/item?id=36864624)
+- [Hacker News](https://news.ycombinator.com/front) | [A forthcoming collapse of the Atlantic meridional overturning circulation](https://news.ycombinator.com/item?id=36864319)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenAI shuts down its AI Classifier due to poor accuracy](https://news.ycombinator.com/item?id=36862850)
+
 ## 20230725
 - [Hacker News](https://news.ycombinator.com/front) | [Have attention spans been declining?](https://news.ycombinator.com/item?id=36851644)
 - [Hacker News](https://news.ycombinator.com/front) | [Attention Is Off By One](https://news.ycombinator.com/item?id=36851494)

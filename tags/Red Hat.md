@@ -1,3 +1,6 @@
+## 20230726
+- [Red Hat Developer](https://developers.redhat.com/) | [End-to-end testing with self-hosted runners in GitHub Actions](https://developers.redhat.com/articles/2023/07/25/end-end-testing-self-hosted-runners-github-actions)
+
 ## 20230725
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Weakness risk-patterns: A Red Hat way to identify poor software practices in the secure development lifecycle](https://www.redhat.com/en/blog/weakness-risk-patterns)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat’s CWE journey](https://www.redhat.com/en/blog/red-hat-cwe-journey)
