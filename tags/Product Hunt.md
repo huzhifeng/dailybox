@@ -1,3 +1,8 @@
+## 20230726
+- [Product Hunt](https://www.producthunt.com) | [Lindo AI](https://www.producthunt.com/posts/lindo-ai)
+- [Product Hunt](https://www.producthunt.com) | [InspireMe](https://www.producthunt.com/posts/inspireme-2)
+- [Product Hunt](https://www.producthunt.com) | [TalkWeb](https://www.producthunt.com/posts/talkweb)
+
 ## 20230725
 - [Product Hunt](https://www.producthunt.com) | [MindStudio](https://www.producthunt.com/posts/mindstudio)
 - [Product Hunt](https://www.producthunt.com) | [voice-swap.ai](https://www.producthunt.com/posts/voice-swap-ai)

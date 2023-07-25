@@ -1,3 +1,6 @@
+## 20230726
+- [TED Talks Daily](https://www.ted.com/talks) | [Why change is so scary -- and how to unlock its potential | Maya Shankar](https://www.ted.com/talks/maya_shankar_why_change_is_so_scary_and_how_to_unlock_its_potential?rss)
+
 ## 20230722
 - [TED Talks Daily](https://www.ted.com/talks) | [The tree-growing movement restoring Africa's vital landscapes | Wanjira Mathai](https://www.ted.com/talks/wanjira_mathai_the_tree_growing_movement_restoring_africa_s_vital_landscapes?rss)
 

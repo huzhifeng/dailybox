@@ -1,3 +1,6 @@
+## 20230726
+- [OMG! Linux](https://www.omglinux.com/) | [Manage Galaxy Buds on Linux with this Open Source App](https://www.omglinux.com/manage-galaxy-buds-on-linux-with-this-open-source-app/)
+
 ## 20230724
 - [OMG! Linux](https://www.omglinux.com/) | [Firefox 116 Enables Video Hardware Acceleration on Raspberry Pi 4](https://www.omglinux.com/firefox-hardware-acceleration-raspberry-pi/)
 - [OMG! Linux](https://www.omglinux.com/) | [Debian 12.1 Released with Package Updates, Security Fixes](https://www.omglinux.com/debian-12-1-released-with-package-updates-security-fixes/)

@@ -1,3 +1,7 @@
+## 20230726
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Akademy 2023, Sunburns, and KDE Snaps](https://www.scarlettgatelymoore.dev/kde-akademy-2023-sunburns-and-kde-snaps/)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI and Sexuality](https://hartmans.dreamwidth.org/100499.html)
+
 ## 20230724
 - [Planet Debian](https://planet.debian.org/) | [Aurelien Jarno: Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
 - [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: Debconf Videoteam sprint in Paris, France, 2023-07-20 - 2023-07-23](https://grep.be/blog//en/computer/debian/DebConf_Videoteam_Sprint_in_Paris/)

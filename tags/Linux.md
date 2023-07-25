@@ -1,3 +1,13 @@
+## 20230726
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1073 谷歌的《网络环境完整性 API》提案遭到抨击](https://linux.cn/article-16032-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [End-to-end testing with self-hosted runners in GitHub Actions](https://developers.redhat.com/articles/2023/07/25/end-end-testing-self-hosted-runners-github-actions)
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics No Longer Unusable For Blender Developers: 251 To 9 Seconds Speed-Up](https://www.phoronix.com/news/AMD-Mesa-Faster-Blender-Shader)
+- [Phoronix](https://www.phoronix.com/) | [Intel Scores Another Nice Arc Graphics Boost On Linux For Summer 2023](https://www.phoronix.com/review/intel-anv-mod-boost)
+- [Phoronix](https://www.phoronix.com/) | [Per-Policy CPU Performance Boosting Proposed For Linux](https://www.phoronix.com/news/Linux-Per-Policy-CPU-Perf-Boost)
+- [OMG! Linux](https://www.omglinux.com/) | [Manage Galaxy Buds on Linux with this Open Source App](https://www.omglinux.com/manage-galaxy-buds-on-linux-with-this-open-source-app/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Akademy 2023, Sunburns, and KDE Snaps](https://www.scarlettgatelymoore.dev/kde-akademy-2023-sunburns-and-kde-snaps/)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI and Sexuality](https://hartmans.dreamwidth.org/100499.html)
+
 ## 20230725
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1072 特斯拉将向其他汽车制造商授权全自动驾驶套件](https://linux.cn/article-16029-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Weakness risk-patterns: A Red Hat way to identify poor software practices in the secure development lifecycle](https://www.redhat.com/en/blog/weakness-risk-patterns)

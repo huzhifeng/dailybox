@@ -1,3 +1,8 @@
+## 20230726
+- [diff.blog](https://diff.blog/) | [Before you try to do something, make sure you can do nothing](https://diff.blog/post/before-you-try-to-do-something-make-sure-you-can-do-nothing-144876/)
+- [diff.blog](https://diff.blog/) | [Common pitfalls in Go benchmarking](https://diff.blog/post/common-pitfalls-in-go-benchmarking-144797/)
+- [diff.blog](https://diff.blog/) | [Alpine Linux does not make the news](https://diff.blog/post/alpine-linux-does-not-make-the-news-144887/)
+
 ## 20230722
 - [diff.blog](https://diff.blog/) | [Moving AI governance forward](https://diff.blog/post/moving-ai-governance-forward-144254/)
 

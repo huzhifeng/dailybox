@@ -1,3 +1,9 @@
+## 20230726
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为鸿蒙HarmonyOS 4定档8月；ChatGPT之父的加密货币正式上线；微软必应聊天将推出重新生成答案功能|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131910400)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT：人工智能语言模型的革命性进步](https://blog.csdn.net/qq_44866828/article/details/131881074)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Solr原理剖析](https://blog.csdn.net/weixin_43114209/article/details/131893893)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [C国演义 [第十一章]](https://blog.csdn.net/qq_67549203/article/details/131745006)
+
 ## 20230725
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [​阿里最新年报：万霖、蒋凡成合伙人；Twitter 网址迁移至 X.com；Cython 3.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131889280)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】Docker网络与存储(三)](https://blog.csdn.net/weixin_54174102/article/details/131860060)

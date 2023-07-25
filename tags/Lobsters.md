@@ -1,3 +1,8 @@
+## 20230726
+- [Lobsters](https://lobste.rs/) | [The magic of no maintenance](https://lobste.rs/s/vgyvrh/magic_no_maintenance)
+- [Lobsters](https://lobste.rs/) | [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti)
+- [Lobsters](https://lobste.rs/) | [Sweary Lightweight Agile Planning](https://lobste.rs/s/4tvui8/sweary_lightweight_agile_planning)
+
 ## 20230725
 - [Lobsters](https://lobste.rs/) | [Seriously, you should be having fun writing software at work](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun)
 - [Lobsters](https://lobste.rs/) | [Package manager for SQLite](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite)

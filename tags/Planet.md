@@ -1,3 +1,7 @@
+## 20230726
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Akademy 2023, Sunburns, and KDE Snaps](https://www.scarlettgatelymoore.dev/kde-akademy-2023-sunburns-and-kde-snaps/)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI and Sexuality](https://hartmans.dreamwidth.org/100499.html)
+
 ## 20230725
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 385 – Is open source an insider threat?](https://opensourcesecurity.io/2023/07/23/episode-385-is-open-source-an-insider-threat/)
 
