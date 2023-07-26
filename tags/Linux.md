@@ -1,3 +1,18 @@
+## 20230727
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1074 甲骨文的新 Java 许可条款将增加 2-5 倍费用](https://linux.cn/article-16036-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [The next step for NVK: Merging into Mesa!](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Checking usage of realloc with Valgrind](https://developers.redhat.com/articles/2023/07/26/checking-usage-realloc-valgrind)
+- [Red Hat Developer](https://developers.redhat.com/) | [Manage Kafka clusters with AKHQ and AMQ streams](https://developers.redhat.com/articles/2023/07/26/manage-kafka-clusters-akhq-and-amq-streams)
+- [Phoronix](https://www.phoronix.com/) | [The AVX-512 Performance Advantage With AMD EPYC Bergamo](https://www.phoronix.com/review/epyc-bergamo-avx512)
+- [Phoronix](https://www.phoronix.com/) | [Mold 2.0 High Speed Linker Released: Moves From AGPL To MIT License](https://www.phoronix.com/news/Mold-2.0-Linker)
+- [Phoronix](https://www.phoronix.com/) | [NVK Merge Request Opened For Landing Open-Source NVIDIA Vulkan Driver In Mesa](https://www.phoronix.com/news/NVK-Merge-Request-Mesa)
+- [9to5Linux](https://9to5linux.com/) | [Canonical Announces Real-Time Ubuntu Optimized for Intel Core CPUs](https://9to5linux.com/canonical-announces-real-time-ubuntu-optimized-for-intel-core-cpus)
+- [9to5Linux](https://9to5linux.com/) | [GUADEC 2023 Conference Kicks Off in Riga for the GNOME 45 Desktop Environment](https://9to5linux.com/guadec-2023-conference-kicks-off-in-riga-for-the-gnome-45-desktop-environment)
+- [OMG! Linux](https://www.omglinux.com/) | [Your First Look at GNOME 45’s Default Wallpaper](https://www.omglinux.com/gnome-45-wallpaper/)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: My new friend Ted](https://veronneau.org/my-new-friend-ted.html)
+- [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Mysterious DNS issues](http://www.enricozini.org/blog/2023/debian/mysterious-dns-issues)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Manipur Violence, Drugs, Binging on Northshore, Alaska Daily, Doogie Kamealoha and EU Digital Resilence Act.](https://flossexperiences.wordpress.com/2023/07/26/manipur-violence-drugs-binging-on-northshore-alaska-daily-doogie-kamealoha-and-eu-digital-resilence-act/)
+
 ## 20230726
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1073 谷歌的《网络环境完整性 API》提案遭到抨击](https://linux.cn/article-16032-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [End-to-end testing with self-hosted runners in GitHub Actions](https://developers.redhat.com/articles/2023/07/25/end-end-testing-self-hosted-runners-github-actions)

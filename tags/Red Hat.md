@@ -1,3 +1,7 @@
+## 20230727
+- [Red Hat Developer](https://developers.redhat.com/) | [Checking usage of realloc with Valgrind](https://developers.redhat.com/articles/2023/07/26/checking-usage-realloc-valgrind)
+- [Red Hat Developer](https://developers.redhat.com/) | [Manage Kafka clusters with AKHQ and AMQ streams](https://developers.redhat.com/articles/2023/07/26/manage-kafka-clusters-akhq-and-amq-streams)
+
 ## 20230726
 - [Red Hat Developer](https://developers.redhat.com/) | [End-to-end testing with self-hosted runners in GitHub Actions](https://developers.redhat.com/articles/2023/07/25/end-end-testing-self-hosted-runners-github-actions)
 

@@ -1,3 +1,6 @@
+## 20230727
+- [Collabora](https://www.collabora.com/news-and-blog/) | [The next step for NVK: Merging into Mesa!](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
+
 ## 20230721
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
 

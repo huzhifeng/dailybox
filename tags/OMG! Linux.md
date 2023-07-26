@@ -1,3 +1,6 @@
+## 20230727
+- [OMG! Linux](https://www.omglinux.com/) | [Your First Look at GNOME 45’s Default Wallpaper](https://www.omglinux.com/gnome-45-wallpaper/)
+
 ## 20230726
 - [OMG! Linux](https://www.omglinux.com/) | [Manage Galaxy Buds on Linux with this Open Source App](https://www.omglinux.com/manage-galaxy-buds-on-linux-with-this-open-source-app/)
 

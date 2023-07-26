@@ -1,3 +1,8 @@
+## 20230727
+- [V2EX](https://www.v2ex.com/) | [2023 年了，你还在学 Nginx 吗](https://www.v2ex.com/t/959994)
+- [V2EX](https://www.v2ex.com/) | [特斯拉为啥卖的这么好？](https://www.v2ex.com/t/959951)
+- [V2EX](https://www.v2ex.com/) | [一个人做低代码平台，还有机会吗？](https://www.v2ex.com/t/959868)
+
 ## 20230726
 - [V2EX](https://www.v2ex.com/) | [安全 QA 说只允许 POST/GET 请求，其它的都不安全？](https://www.v2ex.com/t/959602)
 - [V2EX](https://www.v2ex.com/) | [迫于贫穷想创业，大帮忙看我一下我这门生意](https://www.v2ex.com/t/959572)

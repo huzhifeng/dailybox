@@ -1,3 +1,6 @@
+## 20230727
+- [TED Talks Daily](https://www.ted.com/talks) | [How to make sure materials get reused — again and again | Garry Cooper](https://www.ted.com/talks/garry_cooper_how_to_make_sure_materials_get_reused_again_and_again?rss)
+
 ## 20230726
 - [TED Talks Daily](https://www.ted.com/talks) | [Why change is so scary -- and how to unlock its potential | Maya Shankar](https://www.ted.com/talks/maya_shankar_why_change_is_so_scary_and_how_to_unlock_its_potential?rss)
 
