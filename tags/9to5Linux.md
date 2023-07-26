@@ -1,3 +1,7 @@
+## 20230727
+- [9to5Linux](https://9to5linux.com/) | [Canonical Announces Real-Time Ubuntu Optimized for Intel Core CPUs](https://9to5linux.com/canonical-announces-real-time-ubuntu-optimized-for-intel-core-cpus)
+- [9to5Linux](https://9to5linux.com/) | [GUADEC 2023 Conference Kicks Off in Riga for the GNOME 45 Desktop Environment](https://9to5linux.com/guadec-2023-conference-kicks-off-in-riga-for-the-gnome-45-desktop-environment)
+
 ## 20230725
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 23rd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-23rd-2023)
 - [9to5Linux](https://9to5linux.com/) | [Debian GNU/Linux Is Now Officially Supported on the RISC-V Architecture](https://9to5linux.com/debian-gnu-linux-is-now-officially-supported-on-the-risc-v-architecture)

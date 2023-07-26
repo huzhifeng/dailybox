@@ -1,3 +1,9 @@
+## 20230727
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [Android版ChatGPT正式上线；苹果遭千名开发者索赔10亿美元；阿里加码AR，八天连投两家公司 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/131931906)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [分享200+个关于AI的网站](https://blog.csdn.net/qq_44273429/article/details/131926091)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Solr原理剖析](https://blog.csdn.net/weixin_43114209/article/details/131893893)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python案例｜使用Scikit-learn进行房屋租金回归分析](https://blog.csdn.net/qq_41640218/article/details/131930527)
+
 ## 20230726
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为鸿蒙HarmonyOS 4定档8月；ChatGPT之父的加密货币正式上线；微软必应聊天将推出重新生成答案功能|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131910400)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT：人工智能语言模型的革命性进步](https://blog.csdn.net/qq_44866828/article/details/131881074)

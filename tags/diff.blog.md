@@ -1,3 +1,7 @@
+## 20230727
+- [diff.blog](https://diff.blog/) | [New – Amazon EC2 P5 Instances Powered by NVIDIA H100 Tensor Core GPUs for Accelerating Generative AI and HPC Applications](https://diff.blog/post/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications-144990/)
+- [diff.blog](https://diff.blog/) | [Prefetch: The Little Snitch That Tells on You](https://diff.blog/post/prefetch-the-little-snitch-that-tells-on-you-144929/)
+
 ## 20230726
 - [diff.blog](https://diff.blog/) | [Before you try to do something, make sure you can do nothing](https://diff.blog/post/before-you-try-to-do-something-make-sure-you-can-do-nothing-144876/)
 - [diff.blog](https://diff.blog/) | [Common pitfalls in Go benchmarking](https://diff.blog/post/common-pitfalls-in-go-benchmarking-144797/)

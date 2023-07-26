@@ -1,3 +1,8 @@
+## 20230727
+- [Phoronix](https://www.phoronix.com/) | [The AVX-512 Performance Advantage With AMD EPYC Bergamo](https://www.phoronix.com/review/epyc-bergamo-avx512)
+- [Phoronix](https://www.phoronix.com/) | [Mold 2.0 High Speed Linker Released: Moves From AGPL To MIT License](https://www.phoronix.com/news/Mold-2.0-Linker)
+- [Phoronix](https://www.phoronix.com/) | [NVK Merge Request Opened For Landing Open-Source NVIDIA Vulkan Driver In Mesa](https://www.phoronix.com/news/NVK-Merge-Request-Mesa)
+
 ## 20230726
 - [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics No Longer Unusable For Blender Developers: 251 To 9 Seconds Speed-Up](https://www.phoronix.com/news/AMD-Mesa-Faster-Blender-Shader)
 - [Phoronix](https://www.phoronix.com/) | [Intel Scores Another Nice Arc Graphics Boost On Linux For Summer 2023](https://www.phoronix.com/review/intel-anv-mod-boost)

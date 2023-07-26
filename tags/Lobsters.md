@@ -1,3 +1,8 @@
+## 20230727
+- [Lobsters](https://lobste.rs/) | [mold 2.0.0](https://lobste.rs/s/q6wjmt/mold_2_0_0)
+- [Lobsters](https://lobste.rs/) | [Copy Hunting](https://lobste.rs/s/xkpgwp/copy_hunting)
+- [Lobsters](https://lobste.rs/) | [Rethinking Window Management in GNOME](https://lobste.rs/s/k539rl/rethinking_window_management_gnome)
+
 ## 20230726
 - [Lobsters](https://lobste.rs/) | [The magic of no maintenance](https://lobste.rs/s/vgyvrh/magic_no_maintenance)
 - [Lobsters](https://lobste.rs/) | [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti)

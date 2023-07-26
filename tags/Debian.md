@@ -1,3 +1,8 @@
+## 20230727
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: My new friend Ted](https://veronneau.org/my-new-friend-ted.html)
+- [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Mysterious DNS issues](http://www.enricozini.org/blog/2023/debian/mysterious-dns-issues)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Manipur Violence, Drugs, Binging on Northshore, Alaska Daily, Doogie Kamealoha and EU Digital Resilence Act.](https://flossexperiences.wordpress.com/2023/07/26/manipur-violence-drugs-binging-on-northshore-alaska-daily-doogie-kamealoha-and-eu-digital-resilence-act/)
+
 ## 20230726
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Akademy 2023, Sunburns, and KDE Snaps](https://www.scarlettgatelymoore.dev/kde-akademy-2023-sunburns-and-kde-snaps/)
 - [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI and Sexuality](https://hartmans.dreamwidth.org/100499.html)

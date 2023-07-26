@@ -1,3 +1,8 @@
+## 20230727
+- [GitHub中文社区](https://www.githubs.cn/trending) | [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [google/security-research](https://github.com/google/security-research)
+
 ## 20230726
 - [GitHub中文社区](https://www.githubs.cn/trending) | [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui)

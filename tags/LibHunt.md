@@ -1,3 +1,8 @@
+## 20230727
+- [LibHunt](https://www.libhunt.com/) | [emoji-puzzles](https://www.libhunt.com/r/emoji-puzzles)
+- [LibHunt](https://www.libhunt.com/) | [primo](https://www.libhunt.com/r/primo)
+- [LibHunt](https://www.libhunt.com/) | [sweep](https://www.libhunt.com/r/sweep)
+
 ## 20230725
 - [LibHunt](https://www.libhunt.com/) | [aws-terrajet](https://www.libhunt.com/r/aws-terrajet)
 - [LibHunt](https://www.libhunt.com/) | [PassDetective](https://www.libhunt.com/r/PassDetective)

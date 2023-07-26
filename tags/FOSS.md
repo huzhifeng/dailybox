@@ -1,3 +1,6 @@
+## 20230727
+- [It's FOSS](https://itsfoss.com/) | [Install and Use Ventoy on Linux [Step-by-Step Guide]](https://itsfoss.com/use-ventoy/)
+
 ## 20230725
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #7: If Else Statement](https://itsfoss.com/bash-if-else/)
 

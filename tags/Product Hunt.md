@@ -1,3 +1,8 @@
+## 20230727
+- [Product Hunt](https://www.producthunt.com) | [Rewind for iPhone](https://www.producthunt.com/posts/rewind-for-iphone)
+- [Product Hunt](https://www.producthunt.com) | [ProApp: Learn Design the AI Way](https://www.producthunt.com/posts/proapp-learn-design-the-ai-way)
+- [Product Hunt](https://www.producthunt.com) | [Quido](https://www.producthunt.com/posts/quido)
+
 ## 20230726
 - [Product Hunt](https://www.producthunt.com) | [Lindo AI](https://www.producthunt.com/posts/lindo-ai)
 - [Product Hunt](https://www.producthunt.com) | [InspireMe](https://www.producthunt.com/posts/inspireme-2)

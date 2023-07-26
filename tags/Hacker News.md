@@ -1,3 +1,8 @@
+## 20230727
+- [Hacker News](https://news.ycombinator.com/front) | [Sinead O’Connor has died](https://news.ycombinator.com/item?id=36881814)
+- [Hacker News](https://news.ycombinator.com/front) | [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://news.ycombinator.com/item?id=36881808)
+- [Hacker News](https://news.ycombinator.com/front) | [Mold 2.0](https://news.ycombinator.com/item?id=36876783)
+
 ## 20230726
 - [Hacker News](https://news.ycombinator.com/front) | [The first room-temperature ambient-pressure superconductor?](https://news.ycombinator.com/item?id=36864624)
 - [Hacker News](https://news.ycombinator.com/front) | [A forthcoming collapse of the Atlantic meridional overturning circulation](https://news.ycombinator.com/item?id=36864319)
