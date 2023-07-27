@@ -1,3 +1,8 @@
+## 20230728
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
+
 ## 20230727
 - [GitHub中文社区](https://www.githubs.cn/trending) | [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)

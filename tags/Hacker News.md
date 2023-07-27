@@ -1,3 +1,8 @@
+## 20230728
+- [Hacker News](https://news.ycombinator.com/front) | [BlazingMQ: High-performance open source message queuing system](https://news.ycombinator.com/item?id=36896034)
+- [Hacker News](https://news.ycombinator.com/front) | [Wavy walls use fewer bricks than a straight wall (2020)](https://news.ycombinator.com/item?id=36892970)
+- [Hacker News](https://news.ycombinator.com/front) | [Tarsnap outage postmortem](https://news.ycombinator.com/item?id=36888954)
+
 ## 20230727
 - [Hacker News](https://news.ycombinator.com/front) | [Sinead O’Connor has died](https://news.ycombinator.com/item?id=36881814)
 - [Hacker News](https://news.ycombinator.com/front) | [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://news.ycombinator.com/item?id=36881808)

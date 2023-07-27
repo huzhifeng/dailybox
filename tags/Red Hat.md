@@ -1,3 +1,7 @@
+## 20230728
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Testing](https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
+
 ## 20230727
 - [Red Hat Developer](https://developers.redhat.com/) | [Checking usage of realloc with Valgrind](https://developers.redhat.com/articles/2023/07/26/checking-usage-realloc-valgrind)
 - [Red Hat Developer](https://developers.redhat.com/) | [Manage Kafka clusters with AKHQ and AMQ streams](https://developers.redhat.com/articles/2023/07/26/manage-kafka-clusters-akhq-and-amq-streams)

@@ -1,3 +1,8 @@
+## 20230728
+- [Lobsters](https://lobste.rs/) | [Is this an emoji?](https://lobste.rs/s/vdj66z/is_this_emoji)
+- [Lobsters](https://lobste.rs/) | [Numbr – notepad + calculator/ currencies](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies)
+- [Lobsters](https://lobste.rs/) | [Tarsnap outage post-mortem](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem)
+
 ## 20230727
 - [Lobsters](https://lobste.rs/) | [mold 2.0.0](https://lobste.rs/s/q6wjmt/mold_2_0_0)
 - [Lobsters](https://lobste.rs/) | [Copy Hunting](https://lobste.rs/s/xkpgwp/copy_hunting)

@@ -1,3 +1,9 @@
+## 20230728
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信可以批量删除好友；谷歌、微软等达成合作，致力于负责任地开发人工智能；​苹果我的照片流服务关闭|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131952794)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [分享200+个关于AI的网站](https://blog.csdn.net/qq_44273429/article/details/131926091)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Machine Learning 系列】一文详解有监督学习(Supervised Learning)](https://blog.csdn.net/m0_63947499/article/details/131528804)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微服务】springboot 多模块打包使用详解](https://blog.csdn.net/zhangcongyi420/article/details/131863753)
+
 ## 20230727
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [Android版ChatGPT正式上线；苹果遭千名开发者索赔10亿美元；阿里加码AR，八天连投两家公司 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/131931906)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [分享200+个关于AI的网站](https://blog.csdn.net/qq_44273429/article/details/131926091)

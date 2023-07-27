@@ -1,3 +1,6 @@
+## 20230728
+- [diff.blog](https://diff.blog/) | [This Week in Rust 505](https://diff.blog/post/this-week-in-rust-505-145002/)
+
 ## 20230727
 - [diff.blog](https://diff.blog/) | [New – Amazon EC2 P5 Instances Powered by NVIDIA H100 Tensor Core GPUs for Accelerating Generative AI and HPC Applications](https://diff.blog/post/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications-144990/)
 - [diff.blog](https://diff.blog/) | [Prefetch: The Little Snitch That Tells on You](https://diff.blog/post/prefetch-the-little-snitch-that-tells-on-you-144929/)

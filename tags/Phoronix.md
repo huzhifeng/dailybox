@@ -1,3 +1,8 @@
+## 20230728
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases HIP SDK For Windows](https://www.phoronix.com/news/AMD-HIP-SDK-Windows)
+- [Phoronix](https://www.phoronix.com/) | [DNF5 Isn't Ready For Fedora 39 - Now Delayed To Fedora 41](https://www.phoronix.com/news/No-DNF5-Fedora-39)
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Working On Support For LinuxBoot, Going From 256 To 1024 CPU Core Limit](https://www.phoronix.com/news/FreeBSD-Q2-2023-Improvements)
+
 ## 20230727
 - [Phoronix](https://www.phoronix.com/) | [The AVX-512 Performance Advantage With AMD EPYC Bergamo](https://www.phoronix.com/review/epyc-bergamo-avx512)
 - [Phoronix](https://www.phoronix.com/) | [Mold 2.0 High Speed Linker Released: Moves From AGPL To MIT License](https://www.phoronix.com/news/Mold-2.0-Linker)

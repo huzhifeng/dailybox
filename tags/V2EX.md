@@ -1,3 +1,8 @@
+## 20230728
+- [V2EX](https://www.v2ex.com/) | [网站上线后访问的人很少怎么破？](https://www.v2ex.com/t/960244)
+- [V2EX](https://www.v2ex.com/) | [钓鱼网站，又复活了](https://www.v2ex.com/t/960178)
+- [V2EX](https://www.v2ex.com/) | [iPad 使用场景有哪些](https://www.v2ex.com/t/960100)
+
 ## 20230727
 - [V2EX](https://www.v2ex.com/) | [2023 年了，你还在学 Nginx 吗](https://www.v2ex.com/t/959994)
 - [V2EX](https://www.v2ex.com/) | [特斯拉为啥卖的这么好？](https://www.v2ex.com/t/959951)
