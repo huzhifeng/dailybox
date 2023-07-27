@@ -1,3 +1,6 @@
+## 20230728
+- [This week in KDE](https://pointieststick.com/) | [What we plan to remove in Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
+
 ## 20230724
 - [This week in KDE](https://pointieststick.com/) | [Akademy 2023](https://pointieststick.com/2023/07/23/akademy-2023/)
 

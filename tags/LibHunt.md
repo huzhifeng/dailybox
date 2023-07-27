@@ -1,3 +1,8 @@
+## 20230728
+- [LibHunt](https://www.libhunt.com/) | [blazingmq](https://www.libhunt.com/r/blazingmq)
+- [LibHunt](https://www.libhunt.com/) | [continue](https://www.libhunt.com/r/continue)
+- [LibHunt](https://www.libhunt.com/) | [pocket](https://www.libhunt.com/r/seekbytes/pocket)
+
 ## 20230727
 - [LibHunt](https://www.libhunt.com/) | [emoji-puzzles](https://www.libhunt.com/r/emoji-puzzles)
 - [LibHunt](https://www.libhunt.com/) | [primo](https://www.libhunt.com/r/primo)

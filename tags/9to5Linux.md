@@ -1,3 +1,6 @@
+## 20230728
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 16.3 Released with New Upgrade Utility, Zorin Connect Improvements](https://9to5linux.com/zorin-os-16-3-released-with-new-upgrade-utility-zorin-connect-improvements)
+
 ## 20230727
 - [9to5Linux](https://9to5linux.com/) | [Canonical Announces Real-Time Ubuntu Optimized for Intel Core CPUs](https://9to5linux.com/canonical-announces-real-time-ubuntu-optimized-for-intel-core-cpus)
 - [9to5Linux](https://9to5linux.com/) | [GUADEC 2023 Conference Kicks Off in Riga for the GNOME 45 Desktop Environment](https://9to5linux.com/guadec-2023-conference-kicks-off-in-riga-for-the-gnome-45-desktop-environment)

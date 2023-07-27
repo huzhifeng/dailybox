@@ -1,3 +1,15 @@
+## 20230728
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1075 Twitter 抢夺了已注册 16 年的 @X 账号](https://linux.cn/article-16039-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [EOSS - Recorded presentations (videos) now available](https://www.collabora.com/news-and-blog/news-and-events/embedded-open-source-summit-recorded-presentations-videos-now-available.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Testing](https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases HIP SDK For Windows](https://www.phoronix.com/news/AMD-HIP-SDK-Windows)
+- [Phoronix](https://www.phoronix.com/) | [DNF5 Isn't Ready For Fedora 39 - Now Delayed To Fedora 41](https://www.phoronix.com/news/No-DNF5-Fedora-39)
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Working On Support For LinuxBoot, Going From 256 To 1024 CPU Core Limit](https://www.phoronix.com/news/FreeBSD-Q2-2023-Improvements)
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 16.3 Released with New Upgrade Utility, Zorin Connect Improvements](https://9to5linux.com/zorin-os-16-3-released-with-new-upgrade-utility-zorin-connect-improvements)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Android MC CFP](https://lpc.events/blog/current/index.php/2023/07/27/android-mc-cfp/)
+- [This week in KDE](https://pointieststick.com/) | [What we plan to remove in Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
+
 ## 20230727
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1074 甲骨文的新 Java 许可条款将增加 2-5 倍费用](https://linux.cn/article-16036-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [The next step for NVK: Merging into Mesa!](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)

@@ -1,3 +1,6 @@
+## 20230728
+- [Collabora](https://www.collabora.com/news-and-blog/) | [EOSS - Recorded presentations (videos) now available](https://www.collabora.com/news-and-blog/news-and-events/embedded-open-source-summit-recorded-presentations-videos-now-available.html)
+
 ## 20230727
 - [Collabora](https://www.collabora.com/news-and-blog/) | [The next step for NVK: Merging into Mesa!](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
 

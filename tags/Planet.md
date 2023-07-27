@@ -1,3 +1,6 @@
+## 20230728
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Android MC CFP](https://lpc.events/blog/current/index.php/2023/07/27/android-mc-cfp/)
+
 ## 20230727
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: My new friend Ted](https://veronneau.org/my-new-friend-ted.html)
 - [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Mysterious DNS issues](http://www.enricozini.org/blog/2023/debian/mysterious-dns-issues)

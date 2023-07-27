@@ -1,3 +1,8 @@
+## 20230728
+- [Product Hunt](https://www.producthunt.com) | [Glu AI](https://www.producthunt.com/posts/glu-ai)
+- [Product Hunt](https://www.producthunt.com) | [Sandworm Cloud Edition](https://www.producthunt.com/posts/sandworm-cloud-edition)
+- [Product Hunt](https://www.producthunt.com) | [ApyHub: The API Ecosystem](https://www.producthunt.com/posts/apyhub-the-api-ecosystem)
+
 ## 20230727
 - [Product Hunt](https://www.producthunt.com) | [Rewind for iPhone](https://www.producthunt.com/posts/rewind-for-iphone)
 - [Product Hunt](https://www.producthunt.com) | [ProApp: Learn Design the AI Way](https://www.producthunt.com/posts/proapp-learn-design-the-ai-way)
