@@ -1,3 +1,7 @@
+## 20230729
+- [LibHunt](https://www.libhunt.com/) | [prism](https://www.libhunt.com/r/runprism/prism)
+- [LibHunt](https://www.libhunt.com/) | [BrowserBoxPro](https://www.libhunt.com/r/BrowserBoxPro)
+
 ## 20230728
 - [LibHunt](https://www.libhunt.com/) | [blazingmq](https://www.libhunt.com/r/blazingmq)
 - [LibHunt](https://www.libhunt.com/) | [continue](https://www.libhunt.com/r/continue)

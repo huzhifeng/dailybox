@@ -1,3 +1,8 @@
+## 20230729
+- [diff.blog](https://diff.blog/) | [Why is DNS still hard to learn?](https://diff.blog/post/why-is-dns-still-hard-to-learn-145108/)
+- [diff.blog](https://diff.blog/) | [New – AWS Public IPv4 Address Charge + Public IP Insights](https://diff.blog/post/new-aws-public-ipv4-address-charge-public-ip-insights-145116/)
+- [diff.blog](https://diff.blog/) | [RT-2: New model translates vision and language into action](https://diff.blog/post/rt-2-new-model-translates-vision-and-language-into-action-145089/)
+
 ## 20230728
 - [diff.blog](https://diff.blog/) | [This Week in Rust 505](https://diff.blog/post/this-week-in-rust-505-145002/)
 

@@ -1,3 +1,7 @@
+## 20230729
+- [TED Talks Daily](https://www.ted.com/talks) | [Blindness isn't a tragic binary -- it's a rich spectrum | Andrew Leland](https://www.ted.com/talks/andrew_leland_blindness_isn_t_a_tragic_binary_it_s_a_rich_spectrum?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [A case for color blindness | Coleman Hughes](https://www.ted.com/talks/coleman_hughes_a_case_for_color_blindness?rss)
+
 ## 20230728
 - [TED Talks Daily](https://www.ted.com/talks) | [Can global food companies make the shift to regenerative agriculture? | Steve Presley](https://www.ted.com/talks/steve_presley_can_global_food_companies_make_the_shift_to_regenerative_agriculture?rss)
 

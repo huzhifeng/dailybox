@@ -1,3 +1,8 @@
+## 20230729
+- [Lobsters](https://lobste.rs/) | [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
+- [Lobsters](https://lobste.rs/) | [missing.css](https://lobste.rs/s/3eo38a/missing_css)
+- [Lobsters](https://lobste.rs/) | [Meet Val: A New Language Alternative to C++, Rust](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust)
+
 ## 20230728
 - [Lobsters](https://lobste.rs/) | [Is this an emoji?](https://lobste.rs/s/vdj66z/is_this_emoji)
 - [Lobsters](https://lobste.rs/) | [Numbr – notepad + calculator/ currencies](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies)

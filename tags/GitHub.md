@@ -1,3 +1,8 @@
+## 20230729
+- [GitHub中文社区](https://www.githubs.cn/trending) | [biobootloader/mentat](https://github.com/biobootloader/mentat)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [rui314/mold](https://github.com/rui314/mold)
+
 ## 20230728
 - [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui)

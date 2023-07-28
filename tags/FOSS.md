@@ -1,3 +1,6 @@
+## 20230729
+- [It's FOSS](https://itsfoss.com/) | [Colors in ls Command Output: What do They Mean?](https://itsfoss.com/ls-color-output/)
+
 ## 20230728
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.30: Xero Linux, GyroFlow Video Editor, RPM on Ubuntu, Ventoy Guide and More](https://itsfoss.com/newsletter/foss-weekly-23-30/)
 - [It's FOSS](https://itsfoss.com/) | [What is Compiz in Linux?](https://itsfoss.com/compiz/)
