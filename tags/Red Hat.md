@@ -1,3 +1,7 @@
+## 20230729
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [DevNation Day: Modern App Dev videos are now available](https://developers.redhat.com/articles/2023/07/28/devnation-day-modern-app-dev-videos-are-now-available)
+
 ## 20230728
 - [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Testing](https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)

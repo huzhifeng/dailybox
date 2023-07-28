@@ -1,3 +1,7 @@
+## 20230729
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro 4MLinux 43.0 Released with Linux 6.1 LTS, Thunderbird 115](https://9to5linux.com/independent-distro-4mlinux-43-0-released-with-linux-6-1-lts-thunderbird-115)
+- [9to5Linux](https://9to5linux.com/) | [GNOME Devs Are Working on a New Window Management System](https://9to5linux.com/gnome-devs-are-working-on-a-new-window-management-system)
+
 ## 20230728
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 16.3 Released with New Upgrade Utility, Zorin Connect Improvements](https://9to5linux.com/zorin-os-16-3-released-with-new-upgrade-utility-zorin-connect-improvements)
 

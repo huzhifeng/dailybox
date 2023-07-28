@@ -1,3 +1,6 @@
+## 20230729
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 246 released](https://diffoscope.org/news/diffoscope-246-released/)
+
 ## 20230727
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: My new friend Ted](https://veronneau.org/my-new-friend-ted.html)
 - [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Mysterious DNS issues](http://www.enricozini.org/blog/2023/debian/mysterious-dns-issues)

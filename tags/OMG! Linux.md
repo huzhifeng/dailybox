@@ -1,3 +1,6 @@
+## 20230729
+- [OMG! Linux](https://www.omglinux.com/) | [Thunderbird 115 is Now Available on Flathub](https://www.omglinux.com/thunderbird-115-is-now-available-on-flathub/)
+
 ## 20230727
 - [OMG! Linux](https://www.omglinux.com/) | [Your First Look at GNOME 45’s Default Wallpaper](https://www.omglinux.com/gnome-45-wallpaper/)
 

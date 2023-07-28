@@ -1,3 +1,8 @@
+## 20230729
+- [Product Hunt](https://www.producthunt.com) | [CryptoDo](https://www.producthunt.com/posts/cryptodo)
+- [Product Hunt](https://www.producthunt.com) | [Pixelied SVG Editor](https://www.producthunt.com/posts/pixelied-svg-editor)
+- [Product Hunt](https://www.producthunt.com) | [Bleakers 2.0](https://www.producthunt.com/posts/bleakers-2-0)
+
 ## 20230728
 - [Product Hunt](https://www.producthunt.com) | [Glu AI](https://www.producthunt.com/posts/glu-ai)
 - [Product Hunt](https://www.producthunt.com) | [Sandworm Cloud Edition](https://www.producthunt.com/posts/sandworm-cloud-edition)

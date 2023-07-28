@@ -1,3 +1,9 @@
+## 20230729
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [网传小红书研发因客户端崩溃被辞退；DeepMind 实现 AI 可控核聚变新突破；扎克伯格承认 Threads 有炒作|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131973367)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [分享200+个关于AI的网站](https://blog.csdn.net/qq_44273429/article/details/131926091)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [SpringBoot Redis 多数据源集成支持哨兵模式和Cluster集群模式](https://blog.csdn.net/wangshuai6707/article/details/131924586)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【低代码】对低代码未来发展方向的思考](https://blog.csdn.net/weixin_36755535/article/details/131946485)
+
 ## 20230728
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信可以批量删除好友；谷歌、微软等达成合作，致力于负责任地开发人工智能；​苹果我的照片流服务关闭|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131952794)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [分享200+个关于AI的网站](https://blog.csdn.net/qq_44273429/article/details/131926091)

@@ -1,3 +1,16 @@
+## 20230729
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1076 Vivaldi 反对谷歌的 WEI 规范提议](https://linux.cn/article-16042-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [DevNation Day: Modern App Dev videos are now available](https://developers.redhat.com/articles/2023/07/28/devnation-day-modern-app-dev-videos-are-now-available)
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.260 Released With AMDX_shader_enqueue, KHR_maintenance5](https://www.phoronix.com/news/Vulkan-1.3.260)
+- [Phoronix](https://www.phoronix.com/) | [Running The AMD EPYC 9754 "Bergamo" CPUs With A 320W cTDP To Enhance Power Efficiency](https://www.phoronix.com/review/epyc-9754-320w)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc3 Released With Linux 6.4 Support](https://www.phoronix.com/news/OpenZFS-2.2-rc3)
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro 4MLinux 43.0 Released with Linux 6.1 LTS, Thunderbird 115](https://9to5linux.com/independent-distro-4mlinux-43-0-released-with-linux-6-1-lts-thunderbird-115)
+- [9to5Linux](https://9to5linux.com/) | [GNOME Devs Are Working on a New Window Management System](https://9to5linux.com/gnome-devs-are-working-on-a-new-window-management-system)
+- [OMG! Linux](https://www.omglinux.com/) | [Thunderbird 115 is Now Available on Flathub](https://www.omglinux.com/thunderbird-115-is-now-available-on-flathub/)
+- [Planet Kernel](https://planet.kernel.org/) | [Daniel Vetter: EOSS Prague: Kernel Locking Engineering](http://blog.ffwll.ch/2023/07/eoss-prague-locking-engineering.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 246 released](https://diffoscope.org/news/diffoscope-246-released/)
+
 ## 20230728
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1075 Twitter 抢夺了已注册 16 年的 @X 账号](https://linux.cn/article-16039-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [EOSS - Recorded presentations (videos) now available](https://www.collabora.com/news-and-blog/news-and-events/embedded-open-source-summit-recorded-presentations-videos-now-available.html)

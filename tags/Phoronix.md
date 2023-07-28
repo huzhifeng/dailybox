@@ -1,3 +1,8 @@
+## 20230729
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.260 Released With AMDX_shader_enqueue, KHR_maintenance5](https://www.phoronix.com/news/Vulkan-1.3.260)
+- [Phoronix](https://www.phoronix.com/) | [Running The AMD EPYC 9754 "Bergamo" CPUs With A 320W cTDP To Enhance Power Efficiency](https://www.phoronix.com/review/epyc-9754-320w)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc3 Released With Linux 6.4 Support](https://www.phoronix.com/news/OpenZFS-2.2-rc3)
+
 ## 20230728
 - [Phoronix](https://www.phoronix.com/) | [AMD Releases HIP SDK For Windows](https://www.phoronix.com/news/AMD-HIP-SDK-Windows)
 - [Phoronix](https://www.phoronix.com/) | [DNF5 Isn't Ready For Fedora 39 - Now Delayed To Fedora 41](https://www.phoronix.com/news/No-DNF5-Fedora-39)

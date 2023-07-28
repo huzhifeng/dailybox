@@ -1,3 +1,8 @@
+## 20230729
+- [Hacker News](https://news.ycombinator.com/front) | [Play deprivation is a major cause of the teen mental health crisis](https://news.ycombinator.com/item?id=36910256)
+- [Hacker News](https://news.ycombinator.com/front) | [Cap'n Proto 1.0](https://news.ycombinator.com/item?id=36908309)
+- [Hacker News](https://news.ycombinator.com/front) | [California moves to silence Stanford researchers who got data to study education](https://news.ycombinator.com/item?id=36908136)
+
 ## 20230728
 - [Hacker News](https://news.ycombinator.com/front) | [BlazingMQ: High-performance open source message queuing system](https://news.ycombinator.com/item?id=36896034)
 - [Hacker News](https://news.ycombinator.com/front) | [Wavy walls use fewer bricks than a straight wall (2020)](https://news.ycombinator.com/item?id=36892970)
