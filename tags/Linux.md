@@ -1,3 +1,14 @@
+## 20230730
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1077 科学海盗湾 Sci-Hub 创始人获 EFF 年度大奖](https://linux.cn/article-16045-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [LPython Is The Latest Python Implementation Aiming To Be Very Fast, Multiple Backends](https://www.phoronix.com/news/LPython)
+- [Phoronix](https://www.phoronix.com/) | [Intel Linux Driver Lands Workaround To Sharply Speedup Cyberpunk 2077 Shader Compilation](https://www.phoronix.com/news/Intel-ANV-Faster-CP2077-Shader)
+- [Phoronix](https://www.phoronix.com/) | [GnuCOBOL 3.2 Released After 2+ Years In Development](https://www.phoronix.com/news/GnuCOBOL-3.2)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-2 Rolls Out with Support for Fairphone 3, F(x)tec Pro1 X](https://9to5linux.com/ubuntu-touch-ota-2-is-rolling-out-now-with-support-for-fairphone-3-fxtec-pro1-x)
+- [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Manipur, Data Leakage, Aadhar, and IRCv3](https://flossexperiences.wordpress.com/2023/07/29/manipur-data-leakage-aadhar-and-ircv3/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Sounds like Plasma 6](https://pointieststick.com/2023/07/28/this-week-in-kde-sounds-like-plasma-6/)
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Discovers Working with Red Hat (and CentOS Stream) Isn't Easy](https://linux.slashdot.org/story/23/07/29/0214234/almalinux-discovers-working-with-red-hat-and-centos-stream-isnt-easy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230729
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1076 Vivaldi 反对谷歌的 WEI 规范提议](https://linux.cn/article-16042-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)

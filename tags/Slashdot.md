@@ -1,3 +1,7 @@
+## 20230730
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Discovers Working with Red Hat (and CentOS Stream) Isn't Easy](https://linux.slashdot.org/story/23/07/29/0214234/almalinux-discovers-working-with-red-hat-and-centos-stream-isnt-easy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Python's Steering Council Plans to Make Its 'Global Interpreter Lock' Optional](https://developers.slashdot.org/story/23/07/29/037250/pythons-steering-council-plans-to-make-its-global-interpreter-lock-optional?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230724
 - [Slashdot](https://linux.slashdot.org/) | [RHEL Response Discussed by SFC Conference's Panel - Including a New Enterprise Linux Standard](https://linux.slashdot.org/story/23/07/23/0517219/rhel-response-discussed-by-sfc-conferences-panel---including-a-new-enterprise-linux-standard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Ask Slashdot: What Happens After Every Programmer is Using AI?](https://developers.slashdot.org/story/23/07/23/0037247/ask-slashdot-what-happens-after-every-programmer-is-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)

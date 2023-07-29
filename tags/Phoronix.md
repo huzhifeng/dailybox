@@ -1,3 +1,8 @@
+## 20230730
+- [Phoronix](https://www.phoronix.com/) | [LPython Is The Latest Python Implementation Aiming To Be Very Fast, Multiple Backends](https://www.phoronix.com/news/LPython)
+- [Phoronix](https://www.phoronix.com/) | [Intel Linux Driver Lands Workaround To Sharply Speedup Cyberpunk 2077 Shader Compilation](https://www.phoronix.com/news/Intel-ANV-Faster-CP2077-Shader)
+- [Phoronix](https://www.phoronix.com/) | [GnuCOBOL 3.2 Released After 2+ Years In Development](https://www.phoronix.com/news/GnuCOBOL-3.2)
+
 ## 20230729
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.260 Released With AMDX_shader_enqueue, KHR_maintenance5](https://www.phoronix.com/news/Vulkan-1.3.260)
 - [Phoronix](https://www.phoronix.com/) | [Running The AMD EPYC 9754 "Bergamo" CPUs With A 320W cTDP To Enhance Power Efficiency](https://www.phoronix.com/review/epyc-9754-320w)

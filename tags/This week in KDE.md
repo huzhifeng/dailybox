@@ -1,3 +1,6 @@
+## 20230730
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Sounds like Plasma 6](https://pointieststick.com/2023/07/28/this-week-in-kde-sounds-like-plasma-6/)
+
 ## 20230728
 - [This week in KDE](https://pointieststick.com/) | [What we plan to remove in Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
 

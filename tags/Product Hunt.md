@@ -1,3 +1,7 @@
+## 20230730
+- [Product Hunt](https://www.producthunt.com) | [Life OS Dashboard](https://www.producthunt.com/posts/life-os-dashboard-3)
+- [Product Hunt](https://www.producthunt.com) | [Ever Efficient AI](https://www.producthunt.com/posts/ever-efficient-ai)
+
 ## 20230729
 - [Product Hunt](https://www.producthunt.com) | [CryptoDo](https://www.producthunt.com/posts/cryptodo)
 - [Product Hunt](https://www.producthunt.com) | [Pixelied SVG Editor](https://www.producthunt.com/posts/pixelied-svg-editor)

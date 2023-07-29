@@ -1,3 +1,6 @@
+## 20230730
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Manipur, Data Leakage, Aadhar, and IRCv3](https://flossexperiences.wordpress.com/2023/07/29/manipur-data-leakage-aadhar-and-ircv3/)
+
 ## 20230729
 - [Planet Kernel](https://planet.kernel.org/) | [Daniel Vetter: EOSS Prague: Kernel Locking Engineering](http://blog.ffwll.ch/2023/07/eoss-prague-locking-engineering.html)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 246 released](https://diffoscope.org/news/diffoscope-246-released/)
