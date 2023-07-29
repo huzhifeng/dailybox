@@ -1,3 +1,8 @@
+## 20230730
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
 ## 20230729
 - [GitHub中文社区](https://www.githubs.cn/trending) | [biobootloader/mentat](https://github.com/biobootloader/mentat)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)

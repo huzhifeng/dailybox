@@ -1,3 +1,8 @@
+## 20230730
+- [Lobsters](https://lobste.rs/) | [AWS will begin charging for public IPv4 addresses](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4)
+- [Lobsters](https://lobste.rs/) | [Cap'n Proto 1.0](https://lobste.rs/s/5armfy/cap_n_proto_1_0)
+- [Lobsters](https://lobste.rs/) | [Why the “Null” Lifetime Does Not Exist](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist)
+
 ## 20230729
 - [Lobsters](https://lobste.rs/) | [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 - [Lobsters](https://lobste.rs/) | [missing.css](https://lobste.rs/s/3eo38a/missing_css)

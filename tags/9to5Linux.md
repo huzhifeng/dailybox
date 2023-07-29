@@ -1,3 +1,7 @@
+## 20230730
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-2 Rolls Out with Support for Fairphone 3, F(x)tec Pro1 X](https://9to5linux.com/ubuntu-touch-ota-2-is-rolling-out-now-with-support-for-fairphone-3-fxtec-pro1-x)
+- [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)
+
 ## 20230729
 - [9to5Linux](https://9to5linux.com/) | [Independent Distro 4MLinux 43.0 Released with Linux 6.1 LTS, Thunderbird 115](https://9to5linux.com/independent-distro-4mlinux-43-0-released-with-linux-6-1-lts-thunderbird-115)
 - [9to5Linux](https://9to5linux.com/) | [GNOME Devs Are Working on a New Window Management System](https://9to5linux.com/gnome-devs-are-working-on-a-new-window-management-system)

@@ -1,3 +1,7 @@
+## 20230730
+- [It's FOSS](https://itsfoss.com/) | [Getting Started With Linux Terminal](https://itsfoss.com/linux-terminal-basics/)
+- [It's FOSS](https://itsfoss.com/) | [Understanding Ubuntu’s Repository System](https://itsfoss.com/ubuntu-repository-mechanism/)
+
 ## 20230729
 - [It's FOSS](https://itsfoss.com/) | [Colors in ls Command Output: What do They Mean?](https://itsfoss.com/ls-color-output/)
 
