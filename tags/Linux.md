@@ -1,3 +1,14 @@
+## 20230731
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1078 FSF 指谷歌在 WEI 上的做法是“邪恶先锋”](https://linux.cn/article-16048-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence](https://www.phoronix.com/news/Linux-6.5-rc4)
+- [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.41 Released With Intel FRED / LKGS / AMX-COMPLEX Support](https://www.phoronix.com/news/GNU-Binutils-2.41)
+- [Phoronix](https://www.phoronix.com/) | [Emacs 29.1 Released - No Longer Chokes On Very Long Lines](https://www.phoronix.com/news/GNU-Emacs-29.1)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Devs May Replace ‘Activities’ Label with this Indicator](https://www.omglinux.com/gnome-test-activities-button-replacement/)
+- [OMG! Linux](https://www.omglinux.com/) | [Thunderbird User Who Loves GNOME? Check Out This Theme](https://www.omglinux.com/thunderbird-gnome-theme/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Rust MC CFP](https://lpc.events/blog/current/index.php/2023/07/30/rust-mc-cfp/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: My Predictions for the Ukraine War](https://etbe.coker.com.au/2023/07/31/predictions-ukraine-war/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links July 2023](https://etbe.coker.com.au/2023/07/30/links-july-2023/)
+
 ## 20230730
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1077 科学海盗湾 Sci-Hub 创始人获 EFF 年度大奖](https://linux.cn/article-16045-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [LPython Is The Latest Python Implementation Aiming To Be Very Fast, Multiple Backends](https://www.phoronix.com/news/LPython)

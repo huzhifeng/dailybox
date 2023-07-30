@@ -1,3 +1,7 @@
+## 20230731
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Devs May Replace ‘Activities’ Label with this Indicator](https://www.omglinux.com/gnome-test-activities-button-replacement/)
+- [OMG! Linux](https://www.omglinux.com/) | [Thunderbird User Who Loves GNOME? Check Out This Theme](https://www.omglinux.com/thunderbird-gnome-theme/)
+
 ## 20230729
 - [OMG! Linux](https://www.omglinux.com/) | [Thunderbird 115 is Now Available on Flathub](https://www.omglinux.com/thunderbird-115-is-now-available-on-flathub/)
 

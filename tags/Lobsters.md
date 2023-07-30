@@ -1,3 +1,8 @@
+## 20230731
+- [Lobsters](https://lobste.rs/) | [The proposal to enhance Go's HTTP router](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router)
+- [Lobsters](https://lobste.rs/) | [Emacs 29.1 Released](https://lobste.rs/s/cngtjf/emacs_29_1_released)
+- [Lobsters](https://lobste.rs/) | [The shell and its crappy handling of whitespace](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace)
+
 ## 20230730
 - [Lobsters](https://lobste.rs/) | [AWS will begin charging for public IPv4 addresses](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4)
 - [Lobsters](https://lobste.rs/) | [Cap'n Proto 1.0](https://lobste.rs/s/5armfy/cap_n_proto_1_0)
