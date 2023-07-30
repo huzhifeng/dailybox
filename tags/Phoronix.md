@@ -1,3 +1,8 @@
+## 20230731
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence](https://www.phoronix.com/news/Linux-6.5-rc4)
+- [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.41 Released With Intel FRED / LKGS / AMX-COMPLEX Support](https://www.phoronix.com/news/GNU-Binutils-2.41)
+- [Phoronix](https://www.phoronix.com/) | [Emacs 29.1 Released - No Longer Chokes On Very Long Lines](https://www.phoronix.com/news/GNU-Emacs-29.1)
+
 ## 20230730
 - [Phoronix](https://www.phoronix.com/) | [LPython Is The Latest Python Implementation Aiming To Be Very Fast, Multiple Backends](https://www.phoronix.com/news/LPython)
 - [Phoronix](https://www.phoronix.com/) | [Intel Linux Driver Lands Workaround To Sharply Speedup Cyberpunk 2077 Shader Compilation](https://www.phoronix.com/news/Intel-ANV-Faster-CP2077-Shader)

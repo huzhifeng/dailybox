@@ -1,3 +1,8 @@
+## 20230731
+- [Product Hunt](https://www.producthunt.com) | [Notion Client Portal + Dashboard](https://www.producthunt.com/posts/notion-client-portal-dashboard)
+- [Product Hunt](https://www.producthunt.com) | [dewey. Sidebar for X](https://www.producthunt.com/posts/dewey-sidebar-for-x)
+- [Product Hunt](https://www.producthunt.com) | [Stoic Life Journal 2.0](https://www.producthunt.com/posts/stoic-life-journal-2-0)
+
 ## 20230730
 - [Product Hunt](https://www.producthunt.com) | [Life OS Dashboard](https://www.producthunt.com/posts/life-os-dashboard-3)
 - [Product Hunt](https://www.producthunt.com) | [Ever Efficient AI](https://www.producthunt.com/posts/ever-efficient-ai)

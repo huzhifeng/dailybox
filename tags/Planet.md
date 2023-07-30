@@ -1,3 +1,8 @@
+## 20230731
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Rust MC CFP](https://lpc.events/blog/current/index.php/2023/07/30/rust-mc-cfp/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: My Predictions for the Ukraine War](https://etbe.coker.com.au/2023/07/31/predictions-ukraine-war/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links July 2023](https://etbe.coker.com.au/2023/07/30/links-july-2023/)
+
 ## 20230730
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Manipur, Data Leakage, Aadhar, and IRCv3](https://flossexperiences.wordpress.com/2023/07/29/manipur-data-leakage-aadhar-and-ircv3/)
 
