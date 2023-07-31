@@ -1,3 +1,6 @@
+## 20230801
+- [TED Talks Daily](https://www.ted.com/talks) | [How today's scraps will be tomorrow's sustainable buildings | Vinu Daniel](https://www.ted.com/talks/vinu_daniel_how_today_s_scraps_will_be_tomorrow_s_sustainable_buildings?rss)
+
 ## 20230729
 - [TED Talks Daily](https://www.ted.com/talks) | [Blindness isn't a tragic binary -- it's a rich spectrum | Andrew Leland](https://www.ted.com/talks/andrew_leland_blindness_isn_t_a_tragic_binary_it_s_a_rich_spectrum?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [A case for color blindness | Coleman Hughes](https://www.ted.com/talks/coleman_hughes_a_case_for_color_blindness?rss)

@@ -1,3 +1,7 @@
+## 20230801
+- [Red Hat Developer](https://developers.redhat.com/) | [Frame pointers: Untangling the unwinding](https://developers.redhat.com/articles/2023/07/31/frame-pointers-untangling-unwinding)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to handle transactions in Node.js reference architecture](https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture)
+
 ## 20230729
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)
 - [Red Hat Developer](https://developers.redhat.com/) | [DevNation Day: Modern App Dev videos are now available](https://developers.redhat.com/articles/2023/07/28/devnation-day-modern-app-dev-videos-are-now-available)

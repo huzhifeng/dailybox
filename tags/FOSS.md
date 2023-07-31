@@ -1,3 +1,6 @@
+## 20230801
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #8: For, While and Until Loops](https://itsfoss.com/bash-loops/)
+
 ## 20230730
 - [It's FOSS](https://itsfoss.com/) | [Getting Started With Linux Terminal](https://itsfoss.com/linux-terminal-basics/)
 - [It's FOSS](https://itsfoss.com/) | [Understanding Ubuntu’s Repository System](https://itsfoss.com/ubuntu-repository-mechanism/)

@@ -1,3 +1,17 @@
+## 20230801
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1079 GNOME 正在开发新的马赛克窗口管理系统](https://linux.cn/article-16051-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Booting on Radxa's Rock-5B without any media used](https://www.collabora.com/news-and-blog/blog/2023/07/31/booting-on-radxas-rock-5b-without-any-media-used/)
+- [Red Hat Developer](https://developers.redhat.com/) | [Frame pointers: Untangling the unwinding](https://developers.redhat.com/articles/2023/07/31/frame-pointers-untangling-unwinding)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to handle transactions in Node.js reference architecture](https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture)
+- [Phoronix](https://www.phoronix.com/) | [Mozilla Firefox 116 Now Available - Capable Of Wayland-Only Builds](https://www.phoronix.com/news/Firefox-116-Available)
+- [Phoronix](https://www.phoronix.com/) | [Intel Prepares Linux Driver For Next-Gen VPU With Lunar Lake](https://www.phoronix.com/news/Intel-Lunar-Lake-VPU-IP-4)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.3 Adds EGL Explicit Device Support](https://www.phoronix.com/news/Mesa-23.3-EGL-Explicit-Device)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 116 Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/firefox-116-is-now-available-for-download-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23 “Libretto” Is Out with Linux Kernel 6.4, Based on Debian Bookworm](https://9to5linux.com/mx-linux-23-libretto-is-out-with-linux-kernel-6-4-based-on-debian-bookworm)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 30th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-30th-2023)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Weather Station Data Visualisations Using R and Python](https://veronneau.org/weather-station-data-visualisations-using-r-and-python.html)
+- [Slashdot](https://linux.slashdot.org/) | [The Most Prolific Packager For Alpine Linux Is Stepping Away](https://linux.slashdot.org/story/23/07/31/1543254/the-most-prolific-packager-for-alpine-linux-is-stepping-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230731
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1078 FSF 指谷歌在 WEI 上的做法是“邪恶先锋”](https://linux.cn/article-16048-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence](https://www.phoronix.com/news/Linux-6.5-rc4)

@@ -1,3 +1,6 @@
+## 20230801
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Weather Station Data Visualisations Using R and Python](https://veronneau.org/weather-station-data-visualisations-using-r-and-python.html)
+
 ## 20230731
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: My Predictions for the Ukraine War](https://etbe.coker.com.au/2023/07/31/predictions-ukraine-war/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links July 2023](https://etbe.coker.com.au/2023/07/30/links-july-2023/)

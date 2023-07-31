@@ -1,3 +1,8 @@
+## 20230801
+- [Product Hunt](https://www.producthunt.com) | [Doc Dog](https://www.producthunt.com/posts/doc-dog)
+- [Product Hunt](https://www.producthunt.com) | [LocalCan™](https://www.producthunt.com/posts/localcan)
+- [Product Hunt](https://www.producthunt.com) | [Musicfy](https://www.producthunt.com/posts/musicfy)
+
 ## 20230731
 - [Product Hunt](https://www.producthunt.com) | [Notion Client Portal + Dashboard](https://www.producthunt.com/posts/notion-client-portal-dashboard)
 - [Product Hunt](https://www.producthunt.com) | [dewey. Sidebar for X](https://www.producthunt.com/posts/dewey-sidebar-for-x)

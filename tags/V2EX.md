@@ -1,3 +1,8 @@
+## 20230801
+- [V2EX](https://www.v2ex.com/) | [[抽奖] 踩楼抽奖送 OneKey Mini](https://www.v2ex.com/t/961220)
+- [V2EX](https://www.v2ex.com/) | [10k+ star 的项目也搞假开源](https://www.v2ex.com/t/961178)
+- [V2EX](https://www.v2ex.com/) | [大神们帮看看 20W 有什么合适的轿车推荐呀？比较青睐于轿车，第一辆也倾向于油车](https://www.v2ex.com/t/961158)
+
 ## 20230731
 - [V2EX](https://www.v2ex.com/) | [牙疼有啥特效药推荐没](https://www.v2ex.com/t/961066)
 - [V2EX](https://www.v2ex.com/) | [写一写最近使用爱回收的经历](https://www.v2ex.com/t/960987)

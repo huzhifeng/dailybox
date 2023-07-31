@@ -1,3 +1,8 @@
+## 20230801
+- [Phoronix](https://www.phoronix.com/) | [Mozilla Firefox 116 Now Available - Capable Of Wayland-Only Builds](https://www.phoronix.com/news/Firefox-116-Available)
+- [Phoronix](https://www.phoronix.com/) | [Intel Prepares Linux Driver For Next-Gen VPU With Lunar Lake](https://www.phoronix.com/news/Intel-Lunar-Lake-VPU-IP-4)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.3 Adds EGL Explicit Device Support](https://www.phoronix.com/news/Mesa-23.3-EGL-Explicit-Device)
+
 ## 20230731
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence](https://www.phoronix.com/news/Linux-6.5-rc4)
 - [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.41 Released With Intel FRED / LKGS / AMX-COMPLEX Support](https://www.phoronix.com/news/GNU-Binutils-2.41)

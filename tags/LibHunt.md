@@ -1,3 +1,7 @@
+## 20230801
+- [LibHunt](https://www.libhunt.com/) | [llm-attacks](https://www.libhunt.com/r/llm-attacks)
+- [LibHunt](https://www.libhunt.com/) | [khoj](https://www.libhunt.com/r/khoj)
+
 ## 20230730
 - [LibHunt](https://www.libhunt.com/) | [free-older-books-and-software](https://www.libhunt.com/r/free-older-books-and-software)
 - [LibHunt](https://www.libhunt.com/) | [text-generation-webui](https://www.libhunt.com/r/text-generation-webui)

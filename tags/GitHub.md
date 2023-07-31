@@ -1,3 +1,8 @@
+## 20230801
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [base-org/node](https://github.com/base-org/node)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
 ## 20230731
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)

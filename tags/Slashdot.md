@@ -1,3 +1,8 @@
+## 20230801
+- [Slashdot](https://linux.slashdot.org/) | [The Most Prolific Packager For Alpine Linux Is Stepping Away](https://linux.slashdot.org/story/23/07/31/1543254/the-most-prolific-packager-for-alpine-linux-is-stepping-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [The Most Prolific Packager For Alpine Linux Is Stepping Away](https://linux.slashdot.org/story/23/07/31/1543254/the-most-prolific-packager-for-alpine-linux-is-stepping-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Salesforce Executive Shares 'Four Ways Coders Can Fight the Climate Crisis'](https://developers.slashdot.org/story/23/07/30/219249/salesforce-executive-shares-four-ways-coders-can-fight-the-climate-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230730
 - [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Discovers Working with Red Hat (and CentOS Stream) Isn't Easy](https://linux.slashdot.org/story/23/07/29/0214234/almalinux-discovers-working-with-red-hat-and-centos-stream-isnt-easy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Python's Steering Council Plans to Make Its 'Global Interpreter Lock' Optional](https://developers.slashdot.org/story/23/07/29/037250/pythons-steering-council-plans-to-make-its-global-interpreter-lock-optional?utm_source=rss1.0mainlinkanon&utm_medium=feed)
