@@ -1,3 +1,6 @@
+## 20230801
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Weather Station Data Visualisations Using R and Python](https://veronneau.org/weather-station-data-visualisations-using-r-and-python.html)
+
 ## 20230731
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Rust MC CFP](https://lpc.events/blog/current/index.php/2023/07/30/rust-mc-cfp/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: My Predictions for the Ukraine War](https://etbe.coker.com.au/2023/07/31/predictions-ukraine-war/)

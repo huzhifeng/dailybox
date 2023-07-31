@@ -1,3 +1,7 @@
+## 20230801
+- [diff.blog](https://diff.blog/) | [Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts](https://diff.blog/post/meta-forced-to-reveal-anonymous-facebook-users-identity-over-defamatory-posts-145288/)
+- [diff.blog](https://diff.blog/) | [introducing curl command line variables](https://diff.blog/post/introducing-curl-command-line-variables-145290/)
+
 ## 20230729
 - [diff.blog](https://diff.blog/) | [Why is DNS still hard to learn?](https://diff.blog/post/why-is-dns-still-hard-to-learn-145108/)
 - [diff.blog](https://diff.blog/) | [New – AWS Public IPv4 Address Charge + Public IP Insights](https://diff.blog/post/new-aws-public-ipv4-address-charge-public-ip-insights-145116/)

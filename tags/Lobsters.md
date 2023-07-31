@@ -1,3 +1,8 @@
+## 20230801
+- [Lobsters](https://lobste.rs/) | [GNU/Hurd strikes back](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back)
+- [Lobsters](https://lobste.rs/) | [File distribution over DNS: (ab)using DNS as a CDN](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as)
+- [Lobsters](https://lobste.rs/) | [It's Nix All The Way Down](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down)
+
 ## 20230731
 - [Lobsters](https://lobste.rs/) | [The proposal to enhance Go's HTTP router](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router)
 - [Lobsters](https://lobste.rs/) | [Emacs 29.1 Released](https://lobste.rs/s/cngtjf/emacs_29_1_released)

@@ -1,3 +1,6 @@
+## 20230801
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Booting on Radxa's Rock-5B without any media used](https://www.collabora.com/news-and-blog/blog/2023/07/31/booting-on-radxas-rock-5b-without-any-media-used/)
+
 ## 20230728
 - [Collabora](https://www.collabora.com/news-and-blog/) | [EOSS - Recorded presentations (videos) now available](https://www.collabora.com/news-and-blog/news-and-events/embedded-open-source-summit-recorded-presentations-videos-now-available.html)
 

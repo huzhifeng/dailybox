@@ -1,3 +1,8 @@
+## 20230801
+- [9to5Linux](https://9to5linux.com/) | [Firefox 116 Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/firefox-116-is-now-available-for-download-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23 “Libretto” Is Out with Linux Kernel 6.4, Based on Debian Bookworm](https://9to5linux.com/mx-linux-23-libretto-is-out-with-linux-kernel-6-4-based-on-debian-bookworm)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 30th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-july-30th-2023)
+
 ## 20230730
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-2 Rolls Out with Support for Fairphone 3, F(x)tec Pro1 X](https://9to5linux.com/ubuntu-touch-ota-2-is-rolling-out-now-with-support-for-fairphone-3-fxtec-pro1-x)
 - [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)

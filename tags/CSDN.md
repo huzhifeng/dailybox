@@ -1,3 +1,9 @@
+## 20230801
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为亮出手机“云翻新”技术，免费但有限额；苹果被评为美国最糟糕雇主；GCC 13.2 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132015741)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 Cloud Studio 实战训练营】通过云IDE构建Web3项目](https://blog.csdn.net/weixin_46626339/article/details/131997745)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索Go语言在机器学习领域的应用局限与前景](https://blog.csdn.net/qq_44866828/article/details/132001534)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】Docker的工具实践及root概念和Docker容器安全性设置的详细讲解](https://blog.csdn.net/m0_75058342/article/details/131458300)
+
 ## 20230731
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索Go语言在机器学习领域的应用局限与前景](https://blog.csdn.net/qq_44866828/article/details/132001534)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】Docker安全性与安全实践(五)](https://blog.csdn.net/weixin_54174102/article/details/131977101)
