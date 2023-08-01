@@ -1,3 +1,8 @@
+## 20230802
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Shifting To A "4/2" Week Cycle For Shipping Stable Kernel Updates](https://www.phoronix.com/news/Ubuntu-4-2-Week-Kernel-Cycle)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6's cpupower Utility Enables New AMD P-State Features](https://www.phoronix.com/news/Linux-6.6-cpupower)
+- [Phoronix](https://www.phoronix.com/) | [Linux Display Driver Worked On For A Popular & Low-Cost RISC-V SoC](https://www.phoronix.com/news/StarFive-JH7110-DRM-Driver)
+
 ## 20230801
 - [Phoronix](https://www.phoronix.com/) | [Mozilla Firefox 116 Now Available - Capable Of Wayland-Only Builds](https://www.phoronix.com/news/Firefox-116-Available)
 - [Phoronix](https://www.phoronix.com/) | [Intel Prepares Linux Driver For Next-Gen VPU With Lunar Lake](https://www.phoronix.com/news/Intel-Lunar-Lake-VPU-IP-4)

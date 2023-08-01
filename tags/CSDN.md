@@ -1,3 +1,9 @@
+## 20230802
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [美团百度陆续启动 2024 届校招；“邪恶版 ChatGPT ”降临，为黑客而生；英伟达特供芯片暴涨到 50 万元每片|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132035320)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [SpringBoot-Run启动流程(源码分析)—看不懂来揍我](https://blog.csdn.net/weixin_44430514/article/details/131980724)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Linux取经路】进度条小程序](https://blog.csdn.net/weixin_63115236/article/details/132032030)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索Go语言在机器学习领域的应用局限与前景](https://blog.csdn.net/qq_44866828/article/details/132001534)
+
 ## 20230801
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为亮出手机“云翻新”技术，免费但有限额；苹果被评为美国最糟糕雇主；GCC 13.2 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132015741)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 Cloud Studio 实战训练营】通过云IDE构建Web3项目](https://blog.csdn.net/weixin_46626339/article/details/131997745)

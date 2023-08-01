@@ -1,3 +1,6 @@
+## 20230802
+- [TED Talks Daily](https://www.ted.com/talks) | [The power of an image -- and the mind behind it | Misan Harriman](https://www.ted.com/talks/misan_harriman_the_power_of_an_image_and_the_mind_behind_it?rss)
+
 ## 20230801
 - [TED Talks Daily](https://www.ted.com/talks) | [How today's scraps will be tomorrow's sustainable buildings | Vinu Daniel](https://www.ted.com/talks/vinu_daniel_how_today_s_scraps_will_be_tomorrow_s_sustainable_buildings?rss)
 

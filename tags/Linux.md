@@ -1,3 +1,15 @@
+## 20230802
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy the new Grafana Tempo operator on OpenShift](https://developers.redhat.com/articles/2023/08/01/how-deploy-new-grafana-tempo-operator-openshift)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Shifting To A "4/2" Week Cycle For Shipping Stable Kernel Updates](https://www.phoronix.com/news/Ubuntu-4-2-Week-Kernel-Cycle)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6's cpupower Utility Enables New AMD P-State Features](https://www.phoronix.com/news/Linux-6.6-cpupower)
+- [Phoronix](https://www.phoronix.com/) | [Linux Display Driver Worked On For A Popular & Low-Cost RISC-V SoC](https://www.phoronix.com/news/StarFive-JH7110-DRM-Driver)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Will Introduce a Built-In, Automatic Translation Feature for Sites](https://9to5linux.com/mozilla-firefox-117-will-introduce-a-built-in-automatic-translation-feature-for-sites)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.7 Improves Support for Multi-Channel Audio Setups, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-7-improves-support-for-multi-channel-audio-setups-fixes-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux 2023.08.01 Released with Linux Kernel 6.4 and Archinstall 2.6](https://9to5linux.com/arch-linux-2023-08-01-released-with-linux-kernel-6-4-and-archinstall-2-6)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Brazil at Campus Party Brazil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023-report/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Interzone's new home](https://jmtd.net/log/interzone/294/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Participação do Debian na Campus Party Brasil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023/)
+
 ## 20230801
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1079 GNOME 正在开发新的马赛克窗口管理系统](https://linux.cn/article-16051-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Booting on Radxa's Rock-5B without any media used](https://www.collabora.com/news-and-blog/blog/2023/07/31/booting-on-radxas-rock-5b-without-any-media-used/)

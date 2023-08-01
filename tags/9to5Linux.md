@@ -1,3 +1,8 @@
+## 20230802
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Will Introduce a Built-In, Automatic Translation Feature for Sites](https://9to5linux.com/mozilla-firefox-117-will-introduce-a-built-in-automatic-translation-feature-for-sites)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.7 Improves Support for Multi-Channel Audio Setups, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-7-improves-support-for-multi-channel-audio-setups-fixes-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux 2023.08.01 Released with Linux Kernel 6.4 and Archinstall 2.6](https://9to5linux.com/arch-linux-2023-08-01-released-with-linux-kernel-6-4-and-archinstall-2-6)
+
 ## 20230801
 - [9to5Linux](https://9to5linux.com/) | [Firefox 116 Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/firefox-116-is-now-available-for-download-this-is-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [MX Linux 23 “Libretto” Is Out with Linux Kernel 6.4, Based on Debian Bookworm](https://9to5linux.com/mx-linux-23-libretto-is-out-with-linux-kernel-6-4-based-on-debian-bookworm)

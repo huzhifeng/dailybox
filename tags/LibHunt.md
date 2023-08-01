@@ -1,3 +1,8 @@
+## 20230802
+- [LibHunt](https://www.libhunt.com/) | [llm-app](https://www.libhunt.com/r/llm-app)
+- [LibHunt](https://www.libhunt.com/) | [Cample.js](https://www.libhunt.com/r/Cample.js)
+- [LibHunt](https://www.libhunt.com/) | [jj](https://www.libhunt.com/r/jj)
+
 ## 20230801
 - [LibHunt](https://www.libhunt.com/) | [llm-attacks](https://www.libhunt.com/r/llm-attacks)
 - [LibHunt](https://www.libhunt.com/) | [khoj](https://www.libhunt.com/r/khoj)

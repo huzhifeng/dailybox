@@ -1,3 +1,7 @@
+## 20230802
+- [Hacker News](https://news.ycombinator.com/front) | [A room-temperature superconductor? New developments](https://news.ycombinator.com/item?id=36957678)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
+
 ## 20230801
 - [Hacker News](https://news.ycombinator.com/front) | [Ice core scientists in East Greenland reach bedrock](https://news.ycombinator.com/item?id=36944978)
 - [Hacker News](https://news.ycombinator.com/front) | [NASA mistakenly severs communication to Voyager 2](https://news.ycombinator.com/item?id=36940626)

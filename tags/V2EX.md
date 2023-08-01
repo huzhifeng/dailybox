@@ -1,3 +1,8 @@
+## 20230802
+- [V2EX](https://www.v2ex.com/) | [「夜晚限定抽奖」评论送 B 站年度大会员 X 1](https://www.v2ex.com/t/961623)
+- [V2EX](https://www.v2ex.com/) | [关于 26 岁辞职去读全日制本科这件事](https://www.v2ex.com/t/961586)
+- [V2EX](https://www.v2ex.com/) | [由于公司要求写日报,那么应该如何提醒自己不要忘记写日报](https://www.v2ex.com/t/961556)
+
 ## 20230801
 - [V2EX](https://www.v2ex.com/) | [[抽奖] 踩楼抽奖送 OneKey Mini](https://www.v2ex.com/t/961220)
 - [V2EX](https://www.v2ex.com/) | [10k+ star 的项目也搞假开源](https://www.v2ex.com/t/961178)
