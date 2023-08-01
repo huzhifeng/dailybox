@@ -1,3 +1,8 @@
+## 20230802
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+
 ## 20230801
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [base-org/node](https://github.com/base-org/node)

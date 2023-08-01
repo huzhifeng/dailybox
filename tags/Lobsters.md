@@ -1,3 +1,8 @@
+## 20230802
+- [Lobsters](https://lobste.rs/) | [Nim v2.0 released](https://lobste.rs/s/t7oyxa/nim_v2_0_released)
+- [Lobsters](https://lobste.rs/) | [Configuring a terminal emulator for a light theme](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light)
+- [Lobsters](https://lobste.rs/) | [IronOS: Open Source Soldering Iron firmware](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron)
+
 ## 20230801
 - [Lobsters](https://lobste.rs/) | [GNU/Hurd strikes back](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back)
 - [Lobsters](https://lobste.rs/) | [File distribution over DNS: (ab)using DNS as a CDN](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as)

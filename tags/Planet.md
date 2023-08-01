@@ -1,3 +1,8 @@
+## 20230802
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Brazil at Campus Party Brazil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023-report/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Interzone's new home](https://jmtd.net/log/interzone/294/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Participação do Debian na Campus Party Brasil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023/)
+
 ## 20230801
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Weather Station Data Visualisations Using R and Python](https://veronneau.org/weather-station-data-visualisations-using-r-and-python.html)
 

@@ -1,3 +1,6 @@
+## 20230802
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy the new Grafana Tempo operator on OpenShift](https://developers.redhat.com/articles/2023/08/01/how-deploy-new-grafana-tempo-operator-openshift)
+
 ## 20230801
 - [Red Hat Developer](https://developers.redhat.com/) | [Frame pointers: Untangling the unwinding](https://developers.redhat.com/articles/2023/07/31/frame-pointers-untangling-unwinding)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to handle transactions in Node.js reference architecture](https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture)
