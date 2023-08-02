@@ -1,3 +1,6 @@
+## 20230803
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Kaalkoot](https://flossexperiences.wordpress.com/2023/08/03/kaalkoot/)
+
 ## 20230802
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Brazil at Campus Party Brazil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023-report/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Interzone's new home](https://jmtd.net/log/interzone/294/)

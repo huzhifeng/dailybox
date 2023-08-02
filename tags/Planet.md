@@ -1,3 +1,10 @@
+## 20230803
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Plumbers Refereed Track – Upcoming Deadline – August 6, 2023](https://lpc.events/blog/current/index.php/2023/08/02/linux-plumbers-refereed-track-upcoming-deadline-august-6-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [James Just James: One minute hacks: Saving time inserting images in Libreoffice](https://purpleidea.com/blog/2023/08/02/one-minute-hacks-saving-time-inserting-images-in-libreoffice/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Coming soon: Fedora for Apple Silicon Macs!](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Kaalkoot](https://flossexperiences.wordpress.com/2023/08/03/kaalkoot/)
+
 ## 20230802
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Brazil at Campus Party Brazil 2023](https://debianbrasil.org.br/blog/debian-brasil-campusparty-sp-2023-report/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Interzone's new home](https://jmtd.net/log/interzone/294/)

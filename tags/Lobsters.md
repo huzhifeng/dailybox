@@ -1,3 +1,8 @@
+## 20230803
+- [Lobsters](https://lobste.rs/) | [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro)
+- [Lobsters](https://lobste.rs/) | [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even)
+- [Lobsters](https://lobste.rs/) | [kick.com sucks - a brief security overview](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview)
+
 ## 20230802
 - [Lobsters](https://lobste.rs/) | [Nim v2.0 released](https://lobste.rs/s/t7oyxa/nim_v2_0_released)
 - [Lobsters](https://lobste.rs/) | [Configuring a terminal emulator for a light theme](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light)

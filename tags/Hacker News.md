@@ -1,3 +1,8 @@
+## 20230803
+- [Hacker News](https://news.ycombinator.com/front) | [Cops still take more stuff from people than burglars do](https://news.ycombinator.com/item?id=36975143)
+- [Hacker News](https://news.ycombinator.com/front) | [LK-99: Team of Southeast University observed zero resistance below 110 K](https://news.ycombinator.com/item?id=36974681)
+- [Hacker News](https://news.ycombinator.com/front) | [Run Llama 2 uncensored locally](https://news.ycombinator.com/item?id=36973584)
+
 ## 20230802
 - [Hacker News](https://news.ycombinator.com/front) | [A room-temperature superconductor? New developments](https://news.ycombinator.com/item?id=36957678)
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)

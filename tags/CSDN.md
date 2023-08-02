@@ -1,3 +1,9 @@
+## 20230803
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI提交GPT-5商标申请；韩国室温超导团队称论文存在缺陷，已要求下架；Nim v2.0释出 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132055445)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [OpenCV实战：从图像处理到深度学习的全面指南](https://blog.csdn.net/magicyangjay111/article/details/132044038)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能| 智能物联网 AIoT的魅力交织](https://blog.csdn.net/weixin_54174102/article/details/132034269)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 Cloud studio 实战训练营】云端 IDE 构建移动端H5](https://blog.csdn.net/qq_38951259/article/details/132010941)
+
 ## 20230802
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [美团百度陆续启动 2024 届校招；“邪恶版 ChatGPT ”降临，为黑客而生；英伟达特供芯片暴涨到 50 万元每片|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132035320)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [SpringBoot-Run启动流程(源码分析)—看不懂来揍我](https://blog.csdn.net/weixin_44430514/article/details/131980724)

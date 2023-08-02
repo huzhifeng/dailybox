@@ -1,3 +1,6 @@
+## 20230803
+- [TED Talks Daily](https://www.ted.com/talks) | [Why I built my own time machine | Lucas Rizzotto](https://www.ted.com/talks/lucas_rizzotto_why_i_built_my_own_time_machine?rss)
+
 ## 20230802
 - [TED Talks Daily](https://www.ted.com/talks) | [The power of an image -- and the mind behind it | Misan Harriman](https://www.ted.com/talks/misan_harriman_the_power_of_an_image_and_the_mind_behind_it?rss)
 

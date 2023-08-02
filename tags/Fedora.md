@@ -1,3 +1,8 @@
+## 20230803
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [James Just James: One minute hacks: Saving time inserting images in Libreoffice](https://purpleidea.com/blog/2023/08/02/one-minute-hacks-saving-time-inserting-images-in-libreoffice/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Coming soon: Fedora for Apple Silicon Macs!](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
+
 ## 20230725
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 385 – Is open source an insider threat?](https://opensourcesecurity.io/2023/07/23/episode-385-is-open-source-an-insider-threat/)
 
