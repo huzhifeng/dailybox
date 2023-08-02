@@ -1,3 +1,8 @@
+## 20230803
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3)
+
 ## 20230802
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)

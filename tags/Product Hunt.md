@@ -1,3 +1,8 @@
+## 20230803
+- [Product Hunt](https://www.producthunt.com) | [AI Dezigner](https://www.producthunt.com/posts/ai-dezigner)
+- [Product Hunt](https://www.producthunt.com) | [BrainyPDF](https://www.producthunt.com/posts/brainypdf)
+- [Product Hunt](https://www.producthunt.com) | [Wiser](https://www.producthunt.com/posts/wiser-2)
+
 ## 20230802
 - [Product Hunt](https://www.producthunt.com) | [Relay](https://www.producthunt.com/posts/angellist-relay)
 - [Product Hunt](https://www.producthunt.com) | [Same-Day Startup Funding by Paintbrush](https://www.producthunt.com/posts/same-day-startup-funding-by-paintbrush)

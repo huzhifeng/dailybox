@@ -1,3 +1,6 @@
+## 20230803
+- [diff.blog](https://diff.blog/) | [Inside STL: The vector](https://diff.blog/post/inside-stl-the-vector-145433/)
+
 ## 20230801
 - [diff.blog](https://diff.blog/) | [Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts](https://diff.blog/post/meta-forced-to-reveal-anonymous-facebook-users-identity-over-defamatory-posts-145288/)
 - [diff.blog](https://diff.blog/) | [introducing curl command line variables](https://diff.blog/post/introducing-curl-command-line-variables-145290/)

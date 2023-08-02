@@ -1,3 +1,7 @@
+## 20230803
+- [9to5Linux](https://9to5linux.com/) | [LMDE 6 Codenamed “Faye”, Linux Mint 21.3 Is Planned for Christmas 2023](https://9to5linux.com/lmde-6-codenamed-faye-linux-mint-21-3-is-planned-for-christmas-2023)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Announced as the Flagship Distro for Apple Silicon](https://9to5linux.com/fedora-asahi-remix-announced-as-the-flagship-distro-for-apple-silicon)
+
 ## 20230802
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Will Introduce a Built-In, Automatic Translation Feature for Sites](https://9to5linux.com/mozilla-firefox-117-will-introduce-a-built-in-automatic-translation-feature-for-sites)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.7 Improves Support for Multi-Channel Audio Setups, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-7-improves-support-for-multi-channel-audio-setups-fixes-bugs)

@@ -1,3 +1,19 @@
+## 20230803
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1081 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器](https://linux.cn/article-16057-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Uncover interesting test cases with AI/ML and Bunsen](https://developers.redhat.com/articles/2023/08/02/uncover-interesting-test-cases-aiml-and-bunsen)
+- [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint EDGE ISOs To Help With Running On Newer Hardware](https://www.phoronix.com/news/Linux-Mint-EDGE-6.2)
+- [Phoronix](https://www.phoronix.com/) | [Khronos Releases ANARI 1.0 As Cross-Platform 3D Rendering Engine API](https://www.phoronix.com/news/Khronos-ANARI-1.0)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix Coming For Fedora Linux On Apple Silicon Hardware](https://www.phoronix.com/news/Fedora-Asahi-Remix-Coming)
+- [9to5Linux](https://9to5linux.com/) | [LMDE 6 Codenamed “Faye”, Linux Mint 21.3 Is Planned for Christmas 2023](https://9to5linux.com/lmde-6-codenamed-faye-linux-mint-21-3-is-planned-for-christmas-2023)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Announced as the Flagship Distro for Apple Silicon](https://9to5linux.com/fedora-asahi-remix-announced-as-the-flagship-distro-for-apple-silicon)
+- [OMG! Linux](https://www.omglinux.com/) | [Apple Silicon Linux Support Levels Up with Fedora Asahi Remix](https://www.omglinux.com/fedora-asahi-remix-announcement/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Plumbers Refereed Track – Upcoming Deadline – August 6, 2023](https://lpc.events/blog/current/index.php/2023/08/02/linux-plumbers-refereed-track-upcoming-deadline-august-6-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [James Just James: One minute hacks: Saving time inserting images in Libreoffice](https://purpleidea.com/blog/2023/08/02/one-minute-hacks-saving-time-inserting-images-in-libreoffice/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Coming soon: Fedora for Apple Silicon Macs!](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Kaalkoot](https://flossexperiences.wordpress.com/2023/08/03/kaalkoot/)
+
 ## 20230802
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy the new Grafana Tempo operator on OpenShift](https://developers.redhat.com/articles/2023/08/01/how-deploy-new-grafana-tempo-operator-openshift)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Shifting To A "4/2" Week Cycle For Shipping Stable Kernel Updates](https://www.phoronix.com/news/Ubuntu-4-2-Week-Kernel-Cycle)

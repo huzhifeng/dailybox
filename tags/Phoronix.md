@@ -1,3 +1,8 @@
+## 20230803
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint EDGE ISOs To Help With Running On Newer Hardware](https://www.phoronix.com/news/Linux-Mint-EDGE-6.2)
+- [Phoronix](https://www.phoronix.com/) | [Khronos Releases ANARI 1.0 As Cross-Platform 3D Rendering Engine API](https://www.phoronix.com/news/Khronos-ANARI-1.0)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix Coming For Fedora Linux On Apple Silicon Hardware](https://www.phoronix.com/news/Fedora-Asahi-Remix-Coming)
+
 ## 20230802
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Shifting To A "4/2" Week Cycle For Shipping Stable Kernel Updates](https://www.phoronix.com/news/Ubuntu-4-2-Week-Kernel-Cycle)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6's cpupower Utility Enables New AMD P-State Features](https://www.phoronix.com/news/Linux-6.6-cpupower)

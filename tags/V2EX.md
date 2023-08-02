@@ -1,3 +1,8 @@
+## 20230803
+- [V2EX](https://www.v2ex.com/) | [楼主有一个出国的机会](https://www.v2ex.com/t/961881)
+- [V2EX](https://www.v2ex.com/) | [关于 33 岁辞职去读全日制本科这件事](https://www.v2ex.com/t/961810)
+- [V2EX](https://www.v2ex.com/) | [v 友们，这种情况我该怎么办？](https://www.v2ex.com/t/961773)
+
 ## 20230802
 - [V2EX](https://www.v2ex.com/) | [「夜晚限定抽奖」评论送 B 站年度大会员 X 1](https://www.v2ex.com/t/961623)
 - [V2EX](https://www.v2ex.com/) | [关于 26 岁辞职去读全日制本科这件事](https://www.v2ex.com/t/961586)

@@ -1,3 +1,6 @@
+## 20230803
+- [OMG! Linux](https://www.omglinux.com/) | [Apple Silicon Linux Support Levels Up with Fedora Asahi Remix](https://www.omglinux.com/fedora-asahi-remix-announcement/)
+
 ## 20230731
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Devs May Replace ‘Activities’ Label with this Indicator](https://www.omglinux.com/gnome-test-activities-button-replacement/)
 - [OMG! Linux](https://www.omglinux.com/) | [Thunderbird User Who Loves GNOME? Check Out This Theme](https://www.omglinux.com/thunderbird-gnome-theme/)

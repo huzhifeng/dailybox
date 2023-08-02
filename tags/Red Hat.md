@@ -1,3 +1,7 @@
+## 20230803
+- [Red Hat Developer](https://developers.redhat.com/) | [Uncover interesting test cases with AI/ML and Bunsen](https://developers.redhat.com/articles/2023/08/02/uncover-interesting-test-cases-aiml-and-bunsen)
+- [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+
 ## 20230802
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy the new Grafana Tempo operator on OpenShift](https://developers.redhat.com/articles/2023/08/01/how-deploy-new-grafana-tempo-operator-openshift)
 

@@ -1,3 +1,7 @@
+## 20230803
+- [LibHunt](https://www.libhunt.com/) | [ffmprovisr](https://www.libhunt.com/r/ffmprovisr)
+- [LibHunt](https://www.libhunt.com/) | [kube-or-fake](https://www.libhunt.com/r/kube-or-fake)
+
 ## 20230802
 - [LibHunt](https://www.libhunt.com/) | [llm-app](https://www.libhunt.com/r/llm-app)
 - [LibHunt](https://www.libhunt.com/) | [Cample.js](https://www.libhunt.com/r/Cample.js)
