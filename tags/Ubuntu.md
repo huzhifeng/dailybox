@@ -1,3 +1,7 @@
+## 20230804
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E258 Acrónimos Fora De Fase](https://podcastubuntuportugal.org/e258/)
+
 ## 20230713
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Jonathan Carter: Debian 12](https://jonathancarter.org/2023/07/12/debian-12/)

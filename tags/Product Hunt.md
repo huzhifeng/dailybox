@@ -1,3 +1,8 @@
+## 20230804
+- [Product Hunt](https://www.producthunt.com) | [HeyPhoto](https://www.producthunt.com/posts/heyphoto)
+- [Product Hunt](https://www.producthunt.com) | [Holoframe](https://www.producthunt.com/posts/holoframe)
+- [Product Hunt](https://www.producthunt.com) | [Figr 2.0](https://www.producthunt.com/posts/figr-2-0)
+
 ## 20230803
 - [Product Hunt](https://www.producthunt.com) | [AI Dezigner](https://www.producthunt.com/posts/ai-dezigner)
 - [Product Hunt](https://www.producthunt.com) | [BrainyPDF](https://www.producthunt.com/posts/brainypdf)

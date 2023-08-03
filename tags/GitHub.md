@@ -1,3 +1,9 @@
+## 20230804
+- [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B)
+
 ## 20230803
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)

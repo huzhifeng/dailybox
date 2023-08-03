@@ -1,3 +1,9 @@
+## 20230804
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in July 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-july-2023.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E258 Acrónimos Fora De Fase](https://podcastubuntuportugal.org/e258/)
+
 ## 20230803
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Plumbers Refereed Track – Upcoming Deadline – August 6, 2023](https://lpc.events/blog/current/index.php/2023/08/02/linux-plumbers-refereed-track-upcoming-deadline-august-6-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)

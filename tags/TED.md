@@ -1,3 +1,6 @@
+## 20230804
+- [TED Talks Daily](https://www.ted.com/talks) | [Climate action is on the cusp of exponential growth | Simon Stiell](https://www.ted.com/talks/simon_stiell_climate_action_is_on_the_cusp_of_exponential_growth?rss)
+
 ## 20230803
 - [TED Talks Daily](https://www.ted.com/talks) | [Why I built my own time machine | Lucas Rizzotto](https://www.ted.com/talks/lucas_rizzotto_why_i_built_my_own_time_machine?rss)
 

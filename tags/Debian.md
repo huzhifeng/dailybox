@@ -1,3 +1,6 @@
+## 20230804
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in July 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-july-2023.html)
+
 ## 20230803
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Kaalkoot](https://flossexperiences.wordpress.com/2023/08/03/kaalkoot/)
 

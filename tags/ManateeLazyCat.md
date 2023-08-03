@@ -1,3 +1,7 @@
+## 20230804
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [按 Shift 键快速切换 Emacs 输入法](https://manateelazycat.github.io/2023/08/03/key-echo/)
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [大兴安岭环线](https://manateelazycat.github.io/2023/08/03/tourism-daxinganling/)
+
 ## 20230723
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [读《松弛感》](https://manateelazycat.github.io/2023/07/22/reading-relaxation/)
 

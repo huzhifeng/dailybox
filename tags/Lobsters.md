@@ -1,3 +1,8 @@
+## 20230804
+- [Lobsters](https://lobste.rs/) | [Elixir For Cynical Curmudgeons](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons)
+- [Lobsters](https://lobste.rs/) | [We need to tell people ChatGPT will lie to them, not debate linguistics](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them)
+- [Lobsters](https://lobste.rs/) | [A Blog Post With Every HTML Element](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element)
+
 ## 20230803
 - [Lobsters](https://lobste.rs/) | [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro)
 - [Lobsters](https://lobste.rs/) | [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even)

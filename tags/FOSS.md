@@ -1,3 +1,6 @@
+## 20230804
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.31: EasyOS Distro, New GNOME Features, Compiz and More](https://itsfoss.com/newsletter/foss-weekly-23-31/)
+
 ## 20230801
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #8: For, While and Until Loops](https://itsfoss.com/bash-loops/)
 
