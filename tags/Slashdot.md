@@ -1,3 +1,7 @@
+## 20230804
+- [Slashdot](https://linux.slashdot.org/) | [Steam On Linux Spikes To Nearly 2% In July, Larger Marketshare Than Apple macOS](https://linux.slashdot.org/story/23/08/02/2223218/steam-on-linux-spikes-to-nearly-2-in-july-larger-marketshare-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [ChromeOS Is Splitting the Browser From the OS, Getting More Like Linux](https://linux.slashdot.org/story/23/08/02/2220201/chromeos-is-splitting-the-browser-from-the-os-getting-more-like-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230801
 - [Slashdot](https://linux.slashdot.org/) | [The Most Prolific Packager For Alpine Linux Is Stepping Away](https://linux.slashdot.org/story/23/07/31/1543254/the-most-prolific-packager-for-alpine-linux-is-stepping-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [The Most Prolific Packager For Alpine Linux Is Stepping Away](https://linux.slashdot.org/story/23/07/31/1543254/the-most-prolific-packager-for-alpine-linux-is-stepping-away?utm_source=rss1.0mainlinkanon&utm_medium=feed)

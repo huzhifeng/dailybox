@@ -1,3 +1,8 @@
+## 20230804
+- [V2EX](https://www.v2ex.com/) | [男朋友说想试试其他女生是玩笑话还是玩笑口吻说的真心话？](https://www.v2ex.com/t/962034)
+- [V2EX](https://www.v2ex.com/) | [自荐独立开发的家庭记账 App，免费送会员中...](https://www.v2ex.com/t/962025)
+- [V2EX](https://www.v2ex.com/) | [想问下：现在的国漫创作都在什么水平？你们都喜欢什么国漫呢](https://www.v2ex.com/t/962017)
+
 ## 20230803
 - [V2EX](https://www.v2ex.com/) | [楼主有一个出国的机会](https://www.v2ex.com/t/961881)
 - [V2EX](https://www.v2ex.com/) | [关于 33 岁辞职去读全日制本科这件事](https://www.v2ex.com/t/961810)

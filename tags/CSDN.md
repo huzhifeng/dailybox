@@ -1,3 +1,9 @@
+## 20230804
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [香港高校陆续拥抱 ChatGPT；iPhone 14 被用户吐槽电池老化；Firefox 116 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132076607)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Azure上云项目实战】 合规性的身份验证与访问控制：在 Azure 中实现符合 PCI DSS 要求的架构设计](https://blog.csdn.net/dietime1943/article/details/132068024)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [SpringBoot-AOP深入浅出通俗易懂—看不懂你捶鹅](https://blog.csdn.net/weixin_44430514/article/details/132044557)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能| 智能物联网 AIoT的魅力交织](https://blog.csdn.net/weixin_54174102/article/details/132034269)
+
 ## 20230803
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI提交GPT-5商标申请；韩国室温超导团队称论文存在缺陷，已要求下架；Nim v2.0释出 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132055445)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [OpenCV实战：从图像处理到深度学习的全面指南](https://blog.csdn.net/magicyangjay111/article/details/132044038)

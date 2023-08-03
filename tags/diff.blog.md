@@ -1,3 +1,8 @@
+## 20230804
+- [diff.blog](https://diff.blog/) | [pgvector: Fewer dimensions are better](https://diff.blog/post/pgvector-fewer-dimensions-are-better-145503/)
+- [diff.blog](https://diff.blog/) | [Security advisory for Cargo (CVE-2023-38497)](https://diff.blog/post/security-advisory-for-cargo-cve-2023-38497-145500/)
+- [diff.blog](https://diff.blog/) | [Prime Day 2023 Powered by AWS – All the Numbers](https://diff.blog/post/prime-day-2023-powered-by-aws-all-the-numbers-145492/)
+
 ## 20230803
 - [diff.blog](https://diff.blog/) | [Inside STL: The vector](https://diff.blog/post/inside-stl-the-vector-145433/)
 

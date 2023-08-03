@@ -1,3 +1,6 @@
+## 20230804
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.2 from Ubuntu 23.04](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-2-from-ubuntu-23-04)
+
 ## 20230803
 - [9to5Linux](https://9to5linux.com/) | [LMDE 6 Codenamed “Faye”, Linux Mint 21.3 Is Planned for Christmas 2023](https://9to5linux.com/lmde-6-codenamed-faye-linux-mint-21-3-is-planned-for-christmas-2023)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Announced as the Flagship Distro for Apple Silicon](https://9to5linux.com/fedora-asahi-remix-announced-as-the-flagship-distro-for-apple-silicon)

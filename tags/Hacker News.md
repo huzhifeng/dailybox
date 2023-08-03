@@ -1,3 +1,8 @@
+## 20230804
+- [Hacker News](https://news.ycombinator.com/front) | [Hackers manage to unlock Tesla software-locked features](https://news.ycombinator.com/item?id=36988262)
+- [Hacker News](https://news.ycombinator.com/front) | [Elixir for cynical curmudgeons](https://news.ycombinator.com/item?id=36986769)
+- [Hacker News](https://news.ycombinator.com/front) | [Netscape Meteors](https://news.ycombinator.com/item?id=36982856)
+
 ## 20230803
 - [Hacker News](https://news.ycombinator.com/front) | [Cops still take more stuff from people than burglars do](https://news.ycombinator.com/item?id=36975143)
 - [Hacker News](https://news.ycombinator.com/front) | [LK-99: Team of Southeast University observed zero resistance below 110 K](https://news.ycombinator.com/item?id=36974681)

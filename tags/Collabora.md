@@ -1,3 +1,6 @@
+## 20230804
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Triple Threat: The Power of Transcription, Summary, and Translation](https://www.collabora.com/news-and-blog/blog/2023/08/03/triple-threat-the-power-of-transcription,-summary,-and-translation/)
+
 ## 20230801
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Booting on Radxa's Rock-5B without any media used](https://www.collabora.com/news-and-blog/blog/2023/07/31/booting-on-radxas-rock-5b-without-any-media-used/)
 

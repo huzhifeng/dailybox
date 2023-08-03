@@ -1,3 +1,6 @@
+## 20230804
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+
 ## 20230803
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [James Just James: One minute hacks: Saving time inserting images in Libreoffice](https://purpleidea.com/blog/2023/08/02/one-minute-hacks-saving-time-inserting-images-in-libreoffice/)

@@ -1,3 +1,8 @@
+## 20230804
+- [Phoronix](https://www.phoronix.com/) | [Fake Sparse Support Merged For Intel's Vulkan Linux Driver To Make More Games Playable](https://www.phoronix.com/news/Intel-Fake-Sparse-Merged)
+- [Phoronix](https://www.phoronix.com/) | [With Linux 6.6, Intel Restoring Panel Self Refresh For Aging Haswell/Broadwell Laptops](https://www.phoronix.com/news/Intel-PSR-HSW-BDW-2023)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Updated To Fix Latest Suspend/Resume Issues For Some AMD Laptops](https://www.phoronix.com/news/AMD-Linux-Fix-SR-Wakeups)
+
 ## 20230803
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint EDGE ISOs To Help With Running On Newer Hardware](https://www.phoronix.com/news/Linux-Mint-EDGE-6.2)
 - [Phoronix](https://www.phoronix.com/) | [Khronos Releases ANARI 1.0 As Cross-Platform 3D Rendering Engine API](https://www.phoronix.com/news/Khronos-ANARI-1.0)

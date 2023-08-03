@@ -1,3 +1,20 @@
+## 20230804
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1082 ChromeOS 将分离浏览器和操作系统](https://linux.cn/article-16060-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Triple Threat: The Power of Transcription, Summary, and Translation](https://www.collabora.com/news-and-blog/blog/2023/08/03/triple-threat-the-power-of-transcription,-summary,-and-translation/)
+- [Red Hat Developer](https://developers.redhat.com/) | [VMware Antrea is now Generally Available on OpenShift](https://developers.redhat.com/articles/2023/08/03/vmware-antrea-now-generally-available-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [3 reasons to drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
+- [Phoronix](https://www.phoronix.com/) | [Fake Sparse Support Merged For Intel's Vulkan Linux Driver To Make More Games Playable](https://www.phoronix.com/news/Intel-Fake-Sparse-Merged)
+- [Phoronix](https://www.phoronix.com/) | [With Linux 6.6, Intel Restoring Panel Self Refresh For Aging Haswell/Broadwell Laptops](https://www.phoronix.com/news/Intel-PSR-HSW-BDW-2023)
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Updated To Fix Latest Suspend/Resume Issues For Some AMD Laptops](https://www.phoronix.com/news/AMD-Linux-Fix-SR-Wakeups)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.2 from Ubuntu 23.04](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-2-from-ubuntu-23-04)
+- [OMG! Linux](https://www.omglinux.com/) | [Flatsweep Cleans Leftover Data from Uninstalled Flatpaks](https://www.omglinux.com/flatsweep-flatpak-cleaner-app/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
+- [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in July 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-july-2023.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E258 Acrónimos Fora De Fase](https://podcastubuntuportugal.org/e258/)
+- [Slashdot](https://linux.slashdot.org/) | [Steam On Linux Spikes To Nearly 2% In July, Larger Marketshare Than Apple macOS](https://linux.slashdot.org/story/23/08/02/2223218/steam-on-linux-spikes-to-nearly-2-in-july-larger-marketshare-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [ChromeOS Is Splitting the Browser From the OS, Getting More Like Linux](https://linux.slashdot.org/story/23/08/02/2220201/chromeos-is-splitting-the-browser-from-the-os-getting-more-like-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230803
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1081 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器](https://linux.cn/article-16057-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Uncover interesting test cases with AI/ML and Bunsen](https://developers.redhat.com/articles/2023/08/02/uncover-interesting-test-cases-aiml-and-bunsen)

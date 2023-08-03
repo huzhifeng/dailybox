@@ -1,3 +1,7 @@
+## 20230804
+- [Red Hat Developer](https://developers.redhat.com/) | [VMware Antrea is now Generally Available on OpenShift](https://developers.redhat.com/articles/2023/08/03/vmware-antrea-now-generally-available-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [3 reasons to drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
+
 ## 20230803
 - [Red Hat Developer](https://developers.redhat.com/) | [Uncover interesting test cases with AI/ML and Bunsen](https://developers.redhat.com/articles/2023/08/02/uncover-interesting-test-cases-aiml-and-bunsen)
 - [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
