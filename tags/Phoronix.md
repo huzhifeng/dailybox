@@ -1,3 +1,8 @@
+## 20230805
+- [Phoronix](https://www.phoronix.com/) | [Azure Provides Excellent HPC Cloud Performance With HBv4 Series Powered By AMD EPYC Genoa-X](https://www.phoronix.com/review/azure-hbv4-genoax)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arrow Lake & Lunar Lake Sound Support Ongoing With Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Intel-ARL-LNL-Sound)
+- [Phoronix](https://www.phoronix.com/) | [ClamAV 1.2 Adding Support For UDF Partitions, New systemd Timer](https://www.phoronix.com/news/ClamAV-1.2-RC)
+
 ## 20230804
 - [Phoronix](https://www.phoronix.com/) | [Fake Sparse Support Merged For Intel's Vulkan Linux Driver To Make More Games Playable](https://www.phoronix.com/news/Intel-Fake-Sparse-Merged)
 - [Phoronix](https://www.phoronix.com/) | [With Linux 6.6, Intel Restoring Panel Self Refresh For Aging Haswell/Broadwell Laptops](https://www.phoronix.com/news/Intel-PSR-HSW-BDW-2023)

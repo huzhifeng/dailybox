@@ -1,3 +1,8 @@
+## 20230805
+- [Lobsters](https://lobste.rs/) | [IPv6 Is A Disaster (but we can fix it)](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it)
+- [Lobsters](https://lobste.rs/) | [Zig 0.11 released](https://lobste.rs/s/n8gc2t/zig_0_11_released)
+- [Lobsters](https://lobste.rs/) | [The Physics of Readability](https://lobste.rs/s/nvboju/physics_readability)
+
 ## 20230804
 - [Lobsters](https://lobste.rs/) | [Elixir For Cynical Curmudgeons](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons)
 - [Lobsters](https://lobste.rs/) | [We need to tell people ChatGPT will lie to them, not debate linguistics](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them)

@@ -1,3 +1,8 @@
+## 20230805
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: License Raj 2.0, 2023](https://flossexperiences.wordpress.com/2023/08/05/license-raj-2-0-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Birth Control, Consent, Rape & Violence.](https://flossexperiences.wordpress.com/2023/08/05/birth-control-consent-rape-violence/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in July 2023](https://reproducible-builds.org/reports/2023-07/)
+
 ## 20230804
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
 - [Planet Debian](https://planet.debian.org/) | [Ben Hutchings: FOSS activity in July 2023](https://www.decadent.org.uk/ben/blog/foss-activity-in-july-2023.html)

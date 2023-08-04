@@ -1,3 +1,8 @@
+## 20230805
+- [V2EX](https://www.v2ex.com/) | [半夜惊恐发作](https://www.v2ex.com/t/962390)
+- [V2EX](https://www.v2ex.com/) | [成品 nas 还是 diy](https://www.v2ex.com/t/962383)
+- [V2EX](https://www.v2ex.com/) | [决赛圈： Model Y vs 小鹏 G6](https://www.v2ex.com/t/962370)
+
 ## 20230804
 - [V2EX](https://www.v2ex.com/) | [男朋友说想试试其他女生是玩笑话还是玩笑口吻说的真心话？](https://www.v2ex.com/t/962034)
 - [V2EX](https://www.v2ex.com/) | [自荐独立开发的家庭记账 App，免费送会员中...](https://www.v2ex.com/t/962025)

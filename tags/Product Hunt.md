@@ -1,3 +1,8 @@
+## 20230805
+- [Product Hunt](https://www.producthunt.com) | [Depths](https://www.producthunt.com/posts/depths-2)
+- [Product Hunt](https://www.producthunt.com) | [Everyday on Autopilot](https://www.producthunt.com/posts/everyday-on-autopilot)
+- [Product Hunt](https://www.producthunt.com) | [AI Titans - The Quiz](https://www.producthunt.com/posts/ai-titans-the-quiz)
+
 ## 20230804
 - [Product Hunt](https://www.producthunt.com) | [HeyPhoto](https://www.producthunt.com/posts/heyphoto)
 - [Product Hunt](https://www.producthunt.com) | [Holoframe](https://www.producthunt.com/posts/holoframe)

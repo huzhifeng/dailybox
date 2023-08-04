@@ -1,3 +1,7 @@
+## 20230805
+- [diff.blog](https://diff.blog/) | [(next Rich)](https://diff.blog/post/next-rich-145608/)
+- [diff.blog](https://diff.blog/) | [Behind "Hello World" on Linux](https://diff.blog/post/behind-hello-world-on-linux-145616/)
+
 ## 20230804
 - [diff.blog](https://diff.blog/) | [pgvector: Fewer dimensions are better](https://diff.blog/post/pgvector-fewer-dimensions-are-better-145503/)
 - [diff.blog](https://diff.blog/) | [Security advisory for Cargo (CVE-2023-38497)](https://diff.blog/post/security-advisory-for-cargo-cve-2023-38497-145500/)

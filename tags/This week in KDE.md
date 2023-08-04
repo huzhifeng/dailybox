@@ -1,3 +1,6 @@
+## 20230805
+- [This week in KDE](https://pointieststick.com/) | [August Plasma 6 progress update](https://pointieststick.com/2023/08/03/august-plasma-6-progress-update/)
+
 ## 20230730
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Sounds like Plasma 6](https://pointieststick.com/2023/07/28/this-week-in-kde-sounds-like-plasma-6/)
 

@@ -1,3 +1,8 @@
+## 20230805
+- [Hacker News](https://news.ycombinator.com/front) | [Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://news.ycombinator.com/item?id=37001369)
+- [Hacker News](https://news.ycombinator.com/front) | [(next Rich)](https://news.ycombinator.com/item?id=37000562)
+- [Hacker News](https://news.ycombinator.com/front) | [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://news.ycombinator.com/item?id=36994214)
+
 ## 20230804
 - [Hacker News](https://news.ycombinator.com/front) | [Hackers manage to unlock Tesla software-locked features](https://news.ycombinator.com/item?id=36988262)
 - [Hacker News](https://news.ycombinator.com/front) | [Elixir for cynical curmudgeons](https://news.ycombinator.com/item?id=36986769)
