@@ -1,3 +1,8 @@
+## 20230805
+- [LibHunt](https://www.libhunt.com/) | [calculator](https://www.libhunt.com/r/calculator)
+- [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
+- [LibHunt](https://www.libhunt.com/) | [Savant](https://www.libhunt.com/r/Savant)
+
 ## 20230804
 - [LibHunt](https://www.libhunt.com/) | [imessage-exporter](https://www.libhunt.com/r/imessage-exporter)
 

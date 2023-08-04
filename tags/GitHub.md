@@ -1,3 +1,8 @@
+## 20230805
+- [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [jmorganca/ollama](https://github.com/jmorganca/ollama)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
 ## 20230804
 - [GitHub中文社区](https://www.githubs.cn/trending) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)

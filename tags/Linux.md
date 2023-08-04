@@ -1,3 +1,14 @@
+## 20230805
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1083 MacBook 上的 Asahi Linux 将基于 Fedora Linux](https://linux.cn/article-16063-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Azure Provides Excellent HPC Cloud Performance With HBv4 Series Powered By AMD EPYC Genoa-X](https://www.phoronix.com/review/azure-hbv4-genoax)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arrow Lake & Lunar Lake Sound Support Ongoing With Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Intel-ARL-LNL-Sound)
+- [Phoronix](https://www.phoronix.com/) | [ClamAV 1.2 Adding Support For UDF Partitions, New systemd Timer](https://www.phoronix.com/news/ClamAV-1.2-RC)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: License Raj 2.0, 2023](https://flossexperiences.wordpress.com/2023/08/05/license-raj-2-0-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Birth Control, Consent, Rape & Violence.](https://flossexperiences.wordpress.com/2023/08/05/birth-control-consent-rape-violence/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in July 2023](https://reproducible-builds.org/reports/2023-07/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#107 Reduced Overheads](https://thisweek.gnome.org/posts/2023/08/twig-107/)
+- [This week in KDE](https://pointieststick.com/) | [August Plasma 6 progress update](https://pointieststick.com/2023/08/03/august-plasma-6-progress-update/)
+
 ## 20230804
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1082 ChromeOS 将分离浏览器和操作系统](https://linux.cn/article-16060-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Triple Threat: The Power of Transcription, Summary, and Translation](https://www.collabora.com/news-and-blog/blog/2023/08/03/triple-threat-the-power-of-transcription,-summary,-and-translation/)

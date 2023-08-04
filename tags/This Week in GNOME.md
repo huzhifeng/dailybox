@@ -1,3 +1,6 @@
+## 20230805
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#107 Reduced Overheads](https://thisweek.gnome.org/posts/2023/08/twig-107/)
+
 ## 20230723
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#105 Legendary Saturday Edition](https://thisweek.gnome.org/posts/2023/07/twig-105/)
 

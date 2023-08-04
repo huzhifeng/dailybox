@@ -1,3 +1,6 @@
+## 20230805
+- [TED Talks Daily](https://www.ted.com/talks) | [The magic of a creative career | Michael Sheen](https://www.ted.com/talks/michael_sheen_the_magic_of_a_creative_career?rss)
+
 ## 20230804
 - [TED Talks Daily](https://www.ted.com/talks) | [Climate action is on the cusp of exponential growth | Simon Stiell](https://www.ted.com/talks/simon_stiell_climate_action_is_on_the_cusp_of_exponential_growth?rss)
 

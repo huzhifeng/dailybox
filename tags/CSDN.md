@@ -1,3 +1,9 @@
+## 20230805
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里云开源通义千问70亿参数模型，免费可商用；韩国学会称LK-99不是常温超导体；Meta开源文本音乐生成AI工具|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132097169)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走进人工智能|自动驾驶 开启智能出行新时代](https://blog.csdn.net/Qingai521/article/details/132062233)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [一张思维导图带你学会SpringBoot、Vue前后端分离项目线上部署](https://blog.csdn.net/2302_79094329/article/details/132021950)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker晋升记】No.1--- Docker工具核心组件构成（镜像、容器、仓库）及性能属性](https://blog.csdn.net/ljq_up/article/details/132082180)
+
 ## 20230804
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [香港高校陆续拥抱 ChatGPT；iPhone 14 被用户吐槽电池老化；Firefox 116 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132076607)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Azure上云项目实战】 合规性的身份验证与访问控制：在 Azure 中实现符合 PCI DSS 要求的架构设计](https://blog.csdn.net/dietime1943/article/details/132068024)
