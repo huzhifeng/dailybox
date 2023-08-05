@@ -1,3 +1,6 @@
+## 20230806
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Immutable Distro Nitrux 2.9.1 Is Out Powered by Linux Kernel 6.4](https://9to5linux.com/systemd-free-immutable-distro-nitrux-2-9-1-is-out-powered-by-linux-kernel-6-4)
+
 ## 20230804
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.2 from Ubuntu 23.04](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-2-from-ubuntu-23-04)
 

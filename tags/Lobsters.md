@@ -1,3 +1,8 @@
+## 20230806
+- [Lobsters](https://lobste.rs/) | [Message from the family of Bram Moolenaar (he passed away)](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he)
+- [Lobsters](https://lobste.rs/) | [Clojure's deadly sin](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin)
+- [Lobsters](https://lobste.rs/) | [Eventual Business Consistency](https://lobste.rs/s/miq7mj/eventual_business_consistency)
+
 ## 20230805
 - [Lobsters](https://lobste.rs/) | [IPv6 Is A Disaster (but we can fix it)](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it)
 - [Lobsters](https://lobste.rs/) | [Zig 0.11 released](https://lobste.rs/s/n8gc2t/zig_0_11_released)

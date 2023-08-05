@@ -1,3 +1,6 @@
+## 20230806
+- [Hacker News](https://news.ycombinator.com/front) | [Bram Moolenaar has died](https://news.ycombinator.com/item?id=37011324)
+
 ## 20230805
 - [Hacker News](https://news.ycombinator.com/front) | [Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://news.ycombinator.com/item?id=37001369)
 - [Hacker News](https://news.ycombinator.com/front) | [(next Rich)](https://news.ycombinator.com/item?id=37000562)

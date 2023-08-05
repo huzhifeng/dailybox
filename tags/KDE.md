@@ -1,3 +1,6 @@
+## 20230806
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: porting, Dolphin, and KWin](https://pointieststick.com/2023/08/04/this-week-in-kde-porting-dolphin-and-kwin/)
+
 ## 20230805
 - [This week in KDE](https://pointieststick.com/) | [August Plasma 6 progress update](https://pointieststick.com/2023/08/03/august-plasma-6-progress-update/)
 

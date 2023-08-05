@@ -1,3 +1,8 @@
+## 20230806
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
+
 ## 20230805
 - [GitHub中文社区](https://www.githubs.cn/trending) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [jmorganca/ollama](https://github.com/jmorganca/ollama)

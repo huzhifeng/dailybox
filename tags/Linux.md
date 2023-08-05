@@ -1,3 +1,15 @@
+## 20230806
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1084 特斯拉的软件付费功能被破解](https://linux.cn/article-16066-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Intel's ConnMan 1.42 Released With Fixes, New Time Zone Options](https://www.phoronix.com/news/ConnMan-1.42)
+- [Phoronix](https://www.phoronix.com/) | [Coreboot Lands Support For The HP EliteBook 820 G2](https://www.phoronix.com/news/Coreboot-HP-Elitebook-820-G2)
+- [Phoronix](https://www.phoronix.com/) | [More KDE Plasma Wayland Fixes Land, Continued Improvements For Plasma 6](https://www.phoronix.com/news/KDE-Wayland-Fixes-August)
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Immutable Distro Nitrux 2.9.1 Is Out Powered by Linux Kernel 6.4](https://9to5linux.com/systemd-free-immutable-distro-nitrux-2-9-1-is-out-powered-by-linux-kernel-6-4)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Build Systems MC CFP](https://lpc.events/blog/current/index.php/2023/08/05/build-systems-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: :w gnu_bram_moolenaar.md](https://dissociatedpress.net/2023/08/05/w-gnu_bram_moolenaar-md/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Investimento em marcados globais via Interactive Brokers](https://avi.alkalay.net/2023/08/interactive-brokers.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: RIP Bram Moolenaar](http://blog.sesse.net/blog/tech/2023-08-05-17-36_rip_bram_moolenaar.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: porting, Dolphin, and KWin](https://pointieststick.com/2023/08/04/this-week-in-kde-porting-dolphin-and-kwin/)
+
 ## 20230805
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1083 MacBook 上的 Asahi Linux 将基于 Fedora Linux](https://linux.cn/article-16063-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Azure Provides Excellent HPC Cloud Performance With HBv4 Series Powered By AMD EPYC Genoa-X](https://www.phoronix.com/review/azure-hbv4-genoax)
