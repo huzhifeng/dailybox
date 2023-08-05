@@ -1,3 +1,6 @@
+## 20230806
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [Python 和 Elisp 协同编程框架](https://manateelazycat.github.io/2023/08/05/python-bridge/)
+
 ## 20230804
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [按 Shift 键快速切换 Emacs 输入法](https://manateelazycat.github.io/2023/08/03/key-echo/)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [大兴安岭环线](https://manateelazycat.github.io/2023/08/03/tourism-daxinganling/)

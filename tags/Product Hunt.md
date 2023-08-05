@@ -1,3 +1,8 @@
+## 20230806
+- [Product Hunt](https://www.producthunt.com) | [Cloneify](https://www.producthunt.com/posts/cloneify)
+- [Product Hunt](https://www.producthunt.com) | [Canva Mockup Templates - Notion Creators](https://www.producthunt.com/posts/canva-mockup-templates-notion-creators)
+- [Product Hunt](https://www.producthunt.com) | [LifeOS | The Ultimate Life Planner](https://www.producthunt.com/posts/lifeos-the-ultimate-life-planner)
+
 ## 20230805
 - [Product Hunt](https://www.producthunt.com) | [Depths](https://www.producthunt.com/posts/depths-2)
 - [Product Hunt](https://www.producthunt.com) | [Everyday on Autopilot](https://www.producthunt.com/posts/everyday-on-autopilot)

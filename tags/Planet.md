@@ -1,3 +1,9 @@
+## 20230806
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Build Systems MC CFP](https://lpc.events/blog/current/index.php/2023/08/05/build-systems-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: :w gnu_bram_moolenaar.md](https://dissociatedpress.net/2023/08/05/w-gnu_bram_moolenaar-md/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Investimento em marcados globais via Interactive Brokers](https://avi.alkalay.net/2023/08/interactive-brokers.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: RIP Bram Moolenaar](http://blog.sesse.net/blog/tech/2023-08-05-17-36_rip_bram_moolenaar.html)
+
 ## 20230805
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: License Raj 2.0, 2023](https://flossexperiences.wordpress.com/2023/08/05/license-raj-2-0-2023/)
 - [Planet Debian](https://planet.debian.org/) | [Shirish Agarwal: Birth Control, Consent, Rape & Violence.](https://flossexperiences.wordpress.com/2023/08/05/birth-control-consent-rape-violence/)

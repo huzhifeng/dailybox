@@ -1,3 +1,8 @@
+## 20230806
+- [Phoronix](https://www.phoronix.com/) | [Intel's ConnMan 1.42 Released With Fixes, New Time Zone Options](https://www.phoronix.com/news/ConnMan-1.42)
+- [Phoronix](https://www.phoronix.com/) | [Coreboot Lands Support For The HP EliteBook 820 G2](https://www.phoronix.com/news/Coreboot-HP-Elitebook-820-G2)
+- [Phoronix](https://www.phoronix.com/) | [More KDE Plasma Wayland Fixes Land, Continued Improvements For Plasma 6](https://www.phoronix.com/news/KDE-Wayland-Fixes-August)
+
 ## 20230805
 - [Phoronix](https://www.phoronix.com/) | [Azure Provides Excellent HPC Cloud Performance With HBv4 Series Powered By AMD EPYC Genoa-X](https://www.phoronix.com/review/azure-hbv4-genoax)
 - [Phoronix](https://www.phoronix.com/) | [Intel Arrow Lake & Lunar Lake Sound Support Ongoing With Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Intel-ARL-LNL-Sound)

@@ -1,3 +1,7 @@
+## 20230806
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: :w gnu_bram_moolenaar.md](https://dissociatedpress.net/2023/08/05/w-gnu_bram_moolenaar-md/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Investimento em marcados globais via Interactive Brokers](https://avi.alkalay.net/2023/08/interactive-brokers.html)
+
 ## 20230804
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Bodhi Upgrade](https://status.fedoraproject.org/2023-08-03-bodhioutage.html)
 

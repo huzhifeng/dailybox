@@ -1,3 +1,8 @@
+## 20230806
+- [V2EX](https://www.v2ex.com/) | [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692)
+- [V2EX](https://www.v2ex.com/) | [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643)
+- [V2EX](https://www.v2ex.com/) | [终于上岸了](https://www.v2ex.com/t/962626)
+
 ## 20230805
 - [V2EX](https://www.v2ex.com/) | [半夜惊恐发作](https://www.v2ex.com/t/962390)
 - [V2EX](https://www.v2ex.com/) | [成品 nas 还是 diy](https://www.v2ex.com/t/962383)

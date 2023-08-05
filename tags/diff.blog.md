@@ -1,3 +1,8 @@
+## 20230806
+- [diff.blog](https://diff.blog/) | [A close look at the 8086 processor's bus hold circuitry](https://diff.blog/post/a-close-look-at-the-8086-processors-bus-hold-circuitry-145683/)
+- [diff.blog](https://diff.blog/) | [Why we'll stay remote](https://diff.blog/post/why-well-stay-remote-145686/)
+- [diff.blog](https://diff.blog/) | [Representing Heterogeneous Data](https://diff.blog/post/representing-heterogeneous-data-145631/)
+
 ## 20230805
 - [diff.blog](https://diff.blog/) | [(next Rich)](https://diff.blog/post/next-rich-145608/)
 - [diff.blog](https://diff.blog/) | [Behind "Hello World" on Linux](https://diff.blog/post/behind-hello-world-on-linux-145616/)
