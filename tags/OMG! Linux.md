@@ -1,3 +1,6 @@
+## 20230807
+- [OMG! Linux](https://www.omglinux.com/) | [Mini Text is a Floating Scratch Pad for Linux](https://www.omglinux.com/mini-text-gtk-app/)
+
 ## 20230804
 - [OMG! Linux](https://www.omglinux.com/) | [Flatsweep Cleans Leftover Data from Uninstalled Flatpaks](https://www.omglinux.com/flatsweep-flatpak-cleaner-app/)
 

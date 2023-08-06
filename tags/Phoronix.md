@@ -1,3 +1,8 @@
+## 20230807
+- [Phoronix](https://www.phoronix.com/) | [Python 3.12 RC1 Available For Testing - Better Performance, Linux Perf Integration](https://www.phoronix.com/news/Python-3.12-RC1)
+- [Phoronix](https://www.phoronix.com/) | [FEX-Emu 2308 Continues Striving To Be "The Greatest x86/x86-64 Emulator On Linux"](https://www.phoronix.com/news/FEX-Emu-2308)
+- [Phoronix](https://www.phoronix.com/) | [LoongArch Implementing More Kernel Features For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-More-LoongArch)
+
 ## 20230806
 - [Phoronix](https://www.phoronix.com/) | [Intel's ConnMan 1.42 Released With Fixes, New Time Zone Options](https://www.phoronix.com/news/ConnMan-1.42)
 - [Phoronix](https://www.phoronix.com/) | [Coreboot Lands Support For The HP EliteBook 820 G2](https://www.phoronix.com/news/Coreboot-HP-Elitebook-820-G2)

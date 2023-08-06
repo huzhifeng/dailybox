@@ -1,3 +1,12 @@
+## 20230807
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1085 Vim 创建者 Bram Moolenaar 去世](https://linux.cn/article-16069-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Python 3.12 RC1 Available For Testing - Better Performance, Linux Perf Integration](https://www.phoronix.com/news/Python-3.12-RC1)
+- [Phoronix](https://www.phoronix.com/) | [FEX-Emu 2308 Continues Striving To Be "The Greatest x86/x86-64 Emulator On Linux"](https://www.phoronix.com/news/FEX-Emu-2308)
+- [Phoronix](https://www.phoronix.com/) | [LoongArch Implementing More Kernel Features For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-More-LoongArch)
+- [OMG! Linux](https://www.omglinux.com/) | [Mini Text is a Floating Scratch Pad for Linux](https://www.omglinux.com/mini-text-gtk-app/)
+- [This week in KDE](https://pointieststick.com/) | [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
+- [Slashdot](https://linux.slashdot.org/) | [Jon 'maddog' Hall Defends Red Hat's Re-Licensing of RHEL](https://linux.slashdot.org/story/23/08/05/2343224/jon-maddog-hall-defends-red-hats-re-licensing-of-rhel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230806
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1084 特斯拉的软件付费功能被破解](https://linux.cn/article-16066-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Intel's ConnMan 1.42 Released With Fixes, New Time Zone Options](https://www.phoronix.com/news/ConnMan-1.42)

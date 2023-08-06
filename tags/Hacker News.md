@@ -1,3 +1,8 @@
+## 20230807
+- [Hacker News](https://news.ycombinator.com/front) | [I went to 50 different dentists: almost all gave a different diagnosis (2022)](https://news.ycombinator.com/item?id=37022911)
+- [Hacker News](https://news.ycombinator.com/front) | [Replace peer review with “peer replication” (2021)](https://news.ycombinator.com/item?id=37021264)
+- [Hacker News](https://news.ycombinator.com/front) | [Zoom terms now allow training AI on user content with no opt out](https://news.ycombinator.com/item?id=37021160)
+
 ## 20230806
 - [Hacker News](https://news.ycombinator.com/front) | [Bram Moolenaar has died](https://news.ycombinator.com/item?id=37011324)
 
