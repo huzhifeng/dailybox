@@ -1,3 +1,7 @@
+## 20230807
+- [LibHunt](https://www.libhunt.com/) | [libpg_query](https://www.libhunt.com/r/libpg_query)
+- [LibHunt](https://www.libhunt.com/) | [PHPT](https://www.libhunt.com/r/php-src)
+
 ## 20230805
 - [LibHunt](https://www.libhunt.com/) | [calculator](https://www.libhunt.com/r/calculator)
 - [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)

@@ -1,3 +1,8 @@
+## 20230807
+- [V2EX](https://www.v2ex.com/) | [iOS 系统在大陆不支持地震等紧急预灾的信息是被中国卡了脖子吗?](https://www.v2ex.com/t/962874)
+- [V2EX](https://www.v2ex.com/) | [有没有 V 友在高中是学神的？想请教下你们到底咋学习的？](https://www.v2ex.com/t/962830)
+- [V2EX](https://www.v2ex.com/) | [各位 13 系的机主，请报数你们的电池指数....](https://www.v2ex.com/t/962829)
+
 ## 20230806
 - [V2EX](https://www.v2ex.com/) | [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692)
 - [V2EX](https://www.v2ex.com/) | [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643)

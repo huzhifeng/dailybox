@@ -1,3 +1,6 @@
+## 20230807
+- [It's FOSS](https://itsfoss.com/) | [Mastering Nautilus File Search in Linux Desktop](https://itsfoss.com/nautilus-file-search/)
+
 ## 20230804
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.31: EasyOS Distro, New GNOME Features, Compiz and More](https://itsfoss.com/newsletter/foss-weekly-23-31/)
 

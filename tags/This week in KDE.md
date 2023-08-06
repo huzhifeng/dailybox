@@ -1,3 +1,6 @@
+## 20230807
+- [This week in KDE](https://pointieststick.com/) | [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
+
 ## 20230806
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: porting, Dolphin, and KWin](https://pointieststick.com/2023/08/04/this-week-in-kde-porting-dolphin-and-kwin/)
 

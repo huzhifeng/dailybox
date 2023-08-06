@@ -1,3 +1,6 @@
+## 20230807
+- [Slashdot](https://linux.slashdot.org/) | [Jon 'maddog' Hall Defends Red Hat's Re-Licensing of RHEL](https://linux.slashdot.org/story/23/08/05/2343224/jon-maddog-hall-defends-red-hats-re-licensing-of-rhel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230804
 - [Slashdot](https://linux.slashdot.org/) | [Steam On Linux Spikes To Nearly 2% In July, Larger Marketshare Than Apple macOS](https://linux.slashdot.org/story/23/08/02/2223218/steam-on-linux-spikes-to-nearly-2-in-july-larger-marketshare-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [ChromeOS Is Splitting the Browser From the OS, Getting More Like Linux](https://linux.slashdot.org/story/23/08/02/2220201/chromeos-is-splitting-the-browser-from-the-os-getting-more-like-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,8 @@
+## 20230807
+- [Lobsters](https://lobste.rs/) | [Compiler Development: Rust or OCaml?](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml)
+- [Lobsters](https://lobste.rs/) | [Name before type: why 'age int' is better than 'int age'](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than)
+- [Lobsters](https://lobste.rs/) | [Four levels of time handling in a database](https://lobste.rs/s/iku0es/four_levels_time_handling_database)
+
 ## 20230806
 - [Lobsters](https://lobste.rs/) | [Message from the family of Bram Moolenaar (he passed away)](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he)
 - [Lobsters](https://lobste.rs/) | [Clojure's deadly sin](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin)

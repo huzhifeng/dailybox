@@ -1,3 +1,7 @@
+## 20230807
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《任天堂的哲学》](https://manateelazycat.github.io/2023/08/06/reading-nintendo/)
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [大兴安岭环线](https://manateelazycat.github.io/2023/08/06/tourism-daxinganling/)
+
 ## 20230806
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Python 和 Elisp 协同编程框架](https://manateelazycat.github.io/2023/08/05/python-bridge/)
 

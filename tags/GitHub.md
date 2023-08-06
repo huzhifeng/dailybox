@@ -1,3 +1,8 @@
+## 20230807
+- [GitHub中文社区](https://www.githubs.cn/trending) | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [nextui-org/nextui](https://github.com/nextui-org/nextui)
+
 ## 20230806
 - [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B)
