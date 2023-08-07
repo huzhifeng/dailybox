@@ -1,3 +1,6 @@
+## 20230808
+- [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #9: Functions in Bash](https://itsfoss.com/bash-function/)
+
 ## 20230807
 - [It's FOSS](https://itsfoss.com/) | [Mastering Nautilus File Search in Linux Desktop](https://itsfoss.com/nautilus-file-search/)
 

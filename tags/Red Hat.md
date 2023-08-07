@@ -1,3 +1,7 @@
+## 20230808
+- [Red Hat Developer](https://developers.redhat.com/) | [How to fully utilize OpenShift for DevOps](https://developers.redhat.com/articles/2023/08/07/how-fully-utilize-openshift-devops)
+- [Red Hat Developer](https://developers.redhat.com/) | [Back up Kubernetes persistent volumes using OADP](https://developers.redhat.com/articles/2023/08/07/back-kubernetes-persistent-volumes-using-oadp)
+
 ## 20230804
 - [Red Hat Developer](https://developers.redhat.com/) | [VMware Antrea is now Generally Available on OpenShift](https://developers.redhat.com/articles/2023/08/03/vmware-antrea-now-generally-available-openshift)
 - [Red Hat Developer](https://developers.redhat.com/) | [3 reasons to drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)

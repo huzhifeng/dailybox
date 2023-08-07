@@ -1,3 +1,8 @@
+## 20230808
+- [Planet Fedora](http://fedoraplanet.org/) | [Jon Chiappetta: Keyboard Gear Update – The Five Tactiles](https://fossjon.wordpress.com/2023/08/07/keyboard-gear-update-the-five-tactiles/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Mark J. Wielaard: Sourceware 25 Roadmap](https://gnu.wildebeest.org/blog/mjw/2023/08/07/sourceware-25-roadmap/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Video content creation with Kdenlive](https://fedoramagazine.org/video-content-creation-with-kdenlive/)
+
 ## 20230806
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: :w gnu_bram_moolenaar.md](https://dissociatedpress.net/2023/08/05/w-gnu_bram_moolenaar-md/)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Investimento em marcados globais via Interactive Brokers](https://avi.alkalay.net/2023/08/interactive-brokers.html)

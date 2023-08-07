@@ -1,3 +1,8 @@
+## 20230808
+- [GitHub中文社区](https://www.githubs.cn/trending) | [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [GitHub中文社区](https://www.githubs.cn/trending) | [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B)
+
 ## 20230807
 - [GitHub中文社区](https://www.githubs.cn/trending) | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt)

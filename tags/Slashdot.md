@@ -1,3 +1,6 @@
+## 20230808
+- [Slashdot](https://developers.slashdot.org/) | [Should a Variable's Type Come After Its Name?](https://developers.slashdot.org/story/23/08/07/0136228/should-a-variables-type-come-after-its-name?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230807
 - [Slashdot](https://linux.slashdot.org/) | [Jon 'maddog' Hall Defends Red Hat's Re-Licensing of RHEL](https://linux.slashdot.org/story/23/08/05/2343224/jon-maddog-hall-defends-red-hats-re-licensing-of-rhel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

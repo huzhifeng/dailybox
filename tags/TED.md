@@ -1,3 +1,6 @@
+## 20230808
+- [TED Talks Daily](https://www.ted.com/talks) | [What the fossil fuel industry doesn't want you to know | Al Gore](https://www.ted.com/talks/al_gore_what_the_fossil_fuel_industry_doesn_t_want_you_to_know?rss)
+
 ## 20230805
 - [TED Talks Daily](https://www.ted.com/talks) | [The magic of a creative career | Michael Sheen](https://www.ted.com/talks/michael_sheen_the_magic_of_a_creative_career?rss)
 

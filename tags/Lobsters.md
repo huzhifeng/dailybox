@@ -1,3 +1,8 @@
+## 20230808
+- [Lobsters](https://lobste.rs/) | [Getting my library cards onto my phone the hard way](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone)
+- [Lobsters](https://lobste.rs/) | [A few weird ways of displaying git hashes](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes)
+- [Lobsters](https://lobste.rs/) | [Why Pascal is Not My Favorite Programming Language (1981)](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming)
+
 ## 20230807
 - [Lobsters](https://lobste.rs/) | [Compiler Development: Rust or OCaml?](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml)
 - [Lobsters](https://lobste.rs/) | [Name before type: why 'age int' is better than 'int age'](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than)

@@ -1,3 +1,8 @@
+## 20230808
+- [LibHunt](https://www.libhunt.com/) | [omapsapp](https://www.libhunt.com/r/omapsapp)
+- [LibHunt](https://www.libhunt.com/) | [WASI](https://www.libhunt.com/r/WASI)
+- [LibHunt](https://www.libhunt.com/) | [kryptokrona-kotlin-sdk](https://www.libhunt.com/r/kryptokrona-kotlin-sdk)
+
 ## 20230807
 - [LibHunt](https://www.libhunt.com/) | [libpg_query](https://www.libhunt.com/r/libpg_query)
 - [LibHunt](https://www.libhunt.com/) | [PHPT](https://www.libhunt.com/r/php-src)

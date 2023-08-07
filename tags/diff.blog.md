@@ -1,3 +1,8 @@
+## 20230808
+- [diff.blog](https://diff.blog/) | [Some tactics for writing in public](https://diff.blog/post/some-tactics-for-writing-in-public-145774/)
+- [diff.blog](https://diff.blog/) | [2022 Annual Rust Survey Results](https://diff.blog/post/2022-annual-rust-survey-results-145777/)
+- [diff.blog](https://diff.blog/) | [Hugging Face is now supported in Supabase](https://diff.blog/post/hugging-face-is-now-supported-in-supabase-145785/)
+
 ## 20230806
 - [diff.blog](https://diff.blog/) | [A close look at the 8086 processor's bus hold circuitry](https://diff.blog/post/a-close-look-at-the-8086-processors-bus-hold-circuitry-145683/)
 - [diff.blog](https://diff.blog/) | [Why we'll stay remote](https://diff.blog/post/why-well-stay-remote-145686/)

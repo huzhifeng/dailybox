@@ -1,3 +1,6 @@
+## 20230808
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in July 2023](http://blog.alteholz.eu/2023/08/my-debian-activities-in-july-2023/)
+
 ## 20230806
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: RIP Bram Moolenaar](http://blog.sesse.net/blog/tech/2023-08-05-17-36_rip_bram_moolenaar.html)
 

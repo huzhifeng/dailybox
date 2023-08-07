@@ -1,3 +1,9 @@
+## 20230808
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果回应地震预警功能；马斯克：“马扎之战”将在X上直播；22% 员工称在工作中经常使用 AI|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132140072)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 计算机视觉 让计算机打开新灵之窗](https://blog.csdn.net/Qingai521/article/details/132139115)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [低代码已经发展到什么水平了](https://blog.csdn.net/weixin_47343544/article/details/132135343)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [编织人工智能：机器学习发展历史与关键技术全解析](https://blog.csdn.net/magicyangjay111/article/details/132093948)
+
 ## 20230807
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Go语言在人工智能时代的崭露头角：为何越来越多公司选择使用Go语言？](https://blog.csdn.net/qq_44866828/article/details/132114555)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker】Docker容器数据卷、容器卷之间的继承和DockerFIle的详细讲解](https://blog.csdn.net/H1727548/article/details/132119060)

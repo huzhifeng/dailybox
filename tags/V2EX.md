@@ -1,3 +1,8 @@
+## 20230808
+- [V2EX](https://www.v2ex.com/) | [8 个月孕妇被交警强行拦车致其受伤](https://www.v2ex.com/t/963109)
+- [V2EX](https://www.v2ex.com/) | [你们外卖一顿 平均多少呀](https://www.v2ex.com/t/963090)
+- [V2EX](https://www.v2ex.com/) | [假如有一个机会，可以以工资等比例下降为条件，换取四天工作制，你会愿意吗？](https://www.v2ex.com/t/962978)
+
 ## 20230807
 - [V2EX](https://www.v2ex.com/) | [iOS 系统在大陆不支持地震等紧急预灾的信息是被中国卡了脖子吗?](https://www.v2ex.com/t/962874)
 - [V2EX](https://www.v2ex.com/) | [有没有 V 友在高中是学神的？想请教下你们到底咋学习的？](https://www.v2ex.com/t/962830)

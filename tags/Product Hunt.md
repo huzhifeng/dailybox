@@ -1,3 +1,8 @@
+## 20230808
+- [Product Hunt](https://www.producthunt.com) | [TotalWebTool](https://www.producthunt.com/posts/totalwebtool)
+- [Product Hunt](https://www.producthunt.com) | [Relume AI Site Builder](https://www.producthunt.com/posts/relume-ai-site-builder)
+- [Product Hunt](https://www.producthunt.com) | [Product Hunt Launch Checklist](https://www.producthunt.com/posts/product-hunt-launch-checklist-b4345757-a014-45b0-aee4-088ebd72f5f7)
+
 ## 20230807
 - [Product Hunt](https://www.producthunt.com) | [Midjourney Prime & Style](https://www.producthunt.com/posts/midjourney-prime-style)
 - [Product Hunt](https://www.producthunt.com) | [Twon](https://www.producthunt.com/posts/twon)
