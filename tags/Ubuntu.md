@@ -1,3 +1,6 @@
+## 20230808
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs)
+
 ## 20230804
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E258 Acrónimos Fora De Fase](https://podcastubuntuportugal.org/e258/)

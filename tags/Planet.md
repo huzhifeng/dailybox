@@ -1,3 +1,10 @@
+## 20230808
+- [Planet Fedora](http://fedoraplanet.org/) | [Jon Chiappetta: Keyboard Gear Update – The Five Tactiles](https://fossjon.wordpress.com/2023/08/07/keyboard-gear-update-the-five-tactiles/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Mark J. Wielaard: Sourceware 25 Roadmap](https://gnu.wildebeest.org/blog/mjw/2023/08/07/sourceware-25-roadmap/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Video content creation with Kdenlive](https://fedoramagazine.org/video-content-creation-with-kdenlive/)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in July 2023](http://blog.alteholz.eu/2023/08/my-debian-activities-in-july-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs)
+
 ## 20230806
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Build Systems MC CFP](https://lpc.events/blog/current/index.php/2023/08/05/build-systems-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: :w gnu_bram_moolenaar.md](https://dissociatedpress.net/2023/08/05/w-gnu_bram_moolenaar-md/)

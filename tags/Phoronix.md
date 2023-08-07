@@ -1,3 +1,8 @@
+## 20230808
+- [Phoronix](https://www.phoronix.com/) | [Linux Decides To Disable RNG On All AMD fTPMs](https://www.phoronix.com/news/Linux-Disables-RNG-AMD-fTPMs)
+- [Phoronix](https://www.phoronix.com/) | [How The Radeon Professional Graphics Performance Changed Over 13 Years](https://www.phoronix.com/review/radeon-pro-13)
+- [Phoronix](https://www.phoronix.com/) | [Linux Containers Forks LXD Project As "Incus"](https://www.phoronix.com/news/Linux-Containers-LXD-Incus)
+
 ## 20230807
 - [Phoronix](https://www.phoronix.com/) | [Python 3.12 RC1 Available For Testing - Better Performance, Linux Perf Integration](https://www.phoronix.com/news/Python-3.12-RC1)
 - [Phoronix](https://www.phoronix.com/) | [FEX-Emu 2308 Continues Striving To Be "The Greatest x86/x86-64 Emulator On Linux"](https://www.phoronix.com/news/FEX-Emu-2308)

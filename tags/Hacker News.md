@@ -1,3 +1,6 @@
+## 20230808
+- [Hacker News](https://news.ycombinator.com/front) | [Some tactics for writing in public](https://news.ycombinator.com/item?id=37033403)
+
 ## 20230807
 - [Hacker News](https://news.ycombinator.com/front) | [I went to 50 different dentists: almost all gave a different diagnosis (2022)](https://news.ycombinator.com/item?id=37022911)
 - [Hacker News](https://news.ycombinator.com/front) | [Replace peer review with “peer replication” (2021)](https://news.ycombinator.com/item?id=37021264)

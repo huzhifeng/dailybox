@@ -1,3 +1,6 @@
+## 20230808
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 6th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-6th-2023)
+
 ## 20230806
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Immutable Distro Nitrux 2.9.1 Is Out Powered by Linux Kernel 6.4](https://9to5linux.com/systemd-free-immutable-distro-nitrux-2-9-1-is-out-powered-by-linux-kernel-6-4)
 
