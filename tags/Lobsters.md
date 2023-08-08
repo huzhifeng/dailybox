@@ -1,3 +1,8 @@
+## 20230809
+- [Lobsters](https://lobste.rs/) | [Typograms](https://lobste.rs/s/t2twv6/typograms)
+- [Lobsters](https://lobste.rs/) | [Downfall Attacks](https://lobste.rs/s/lw728b/downfall_attacks)
+- [Lobsters](https://lobste.rs/) | [I disconnected our smart oven, and maybe you should as well](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you)
+
 ## 20230808
 - [Lobsters](https://lobste.rs/) | [Getting my library cards onto my phone the hard way](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone)
 - [Lobsters](https://lobste.rs/) | [A few weird ways of displaying git hashes](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes)

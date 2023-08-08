@@ -1,3 +1,6 @@
+## 20230809
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
+
 ## 20230808
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in July 2023](http://blog.alteholz.eu/2023/08/my-debian-activities-in-july-2023/)
 

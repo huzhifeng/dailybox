@@ -1,3 +1,6 @@
+## 20230809
+- [It's FOSS](https://itsfoss.com/) | [Easily Take Full Webpage Screenshots in Firefox and Chrome](https://itsfoss.com/firefox-screenshot/)
+
 ## 20230808
 - [It's FOSS](https://itsfoss.com/) | [Bash Basics Series #9: Functions in Bash](https://itsfoss.com/bash-function/)
 

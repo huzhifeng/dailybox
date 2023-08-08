@@ -1,3 +1,8 @@
+## 20230809
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.98 Linux Graphics Driver Released with Wayland and Vulkan Fixes](https://9to5linux.com/nvidia-535-98-linux-graphics-driver-released)
+- [9to5Linux](https://9to5linux.com/) | [First Look at Rhino Linux, a Rolling-Release Distro Based on Ubuntu and Xfce](https://9to5linux.com/first-look-at-rhino-linux-a-rolling-release-distro-based-on-ubuntu-and-xfce)
+- [9to5Linux](https://9to5linux.com/) | [GNOME.Asia 2023 Will Take Place in Kathmandu for the GNOME 46 Desktop](https://9to5linux.com/gnome-asia-2023-will-take-place-in-kathmandu-for-the-gnome-46-desktop)
+
 ## 20230808
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 6th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-6th-2023)
 

@@ -1,3 +1,8 @@
+## 20230809
+- [diff.blog](https://diff.blog/) | [Introducing Project IDX, An Experiment to Improve Full-stack, Multiplatform App Development](https://diff.blog/post/introducing-project-idx-an-experiment-to-improve-full-stack-multiplatform-app-development-145844/)
+- [diff.blog](https://diff.blog/) | [Go 1.21 is released!](https://diff.blog/post/go-121-is-released-145843/)
+- [diff.blog](https://diff.blog/) | [Supabase Local Dev: migrations, branching, and observability](https://diff.blog/post/supabase-local-dev-migrations-branching-and-observability-145831/)
+
 ## 20230808
 - [diff.blog](https://diff.blog/) | [Some tactics for writing in public](https://diff.blog/post/some-tactics-for-writing-in-public-145774/)
 - [diff.blog](https://diff.blog/) | [2022 Annual Rust Survey Results](https://diff.blog/post/2022-annual-rust-survey-results-145777/)

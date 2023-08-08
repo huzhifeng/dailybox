@@ -1,3 +1,6 @@
+## 20230809
+- [TED Talks Daily](https://www.ted.com/talks) | [In the age of AI art, what can originality look like? | Eileen Isagon Skyers](https://www.ted.com/talks/eileen_isagon_skyers_in_the_age_of_ai_art_what_can_originality_look_like?rss)
+
 ## 20230808
 - [TED Talks Daily](https://www.ted.com/talks) | [What the fossil fuel industry doesn't want you to know | Al Gore](https://www.ted.com/talks/al_gore_what_the_fossil_fuel_industry_doesn_t_want_you_to_know?rss)
 

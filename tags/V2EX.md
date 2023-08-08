@@ -1,3 +1,8 @@
+## 20230809
+- [V2EX](https://www.v2ex.com/) | [你身边有没有那种 “没有兴趣爱好的人” ？](https://www.v2ex.com/t/963384)
+- [V2EX](https://www.v2ex.com/) | [逐渐失控的小费](https://www.v2ex.com/t/963313)
+- [V2EX](https://www.v2ex.com/) | [V 友们怎么管理自己的密码？](https://www.v2ex.com/t/963304)
+
 ## 20230808
 - [V2EX](https://www.v2ex.com/) | [8 个月孕妇被交警强行拦车致其受伤](https://www.v2ex.com/t/963109)
 - [V2EX](https://www.v2ex.com/) | [你们外卖一顿 平均多少呀](https://www.v2ex.com/t/963090)
