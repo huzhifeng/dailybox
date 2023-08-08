@@ -1,3 +1,19 @@
+## 20230809
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1087 谷歌可能重新考虑在 Chrome 中支持 JPEG-XL](https://linux.cn/article-16075-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Implementing clean architecture solutions: A practical example](https://developers.redhat.com/articles/2023/08/08/implementing-clean-architecture-solutions-practical-example)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to monitor workloads using OpenShift monitoring stack](https://developers.redhat.com/articles/2023/08/08/how-monitor-workloads-using-openshift-monitoring-stack)
+- [Phoronix](https://www.phoronix.com/) | [Six New Stable Linux Kernel Updates For Intel DOWNFALL & AMD INCEPTION](https://www.phoronix.com/news/New-Linux-Stable-Downfall)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 535.98 Linux Driver Released With Several Fixes](https://www.phoronix.com/news/NVIDIA-535.98-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Intel 20230808 Microcode Published For DOWNFALL, Other Security & Functional Issues](https://www.phoronix.com/news/Intel-20230808-Microcode)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.98 Linux Graphics Driver Released with Wayland and Vulkan Fixes](https://9to5linux.com/nvidia-535-98-linux-graphics-driver-released)
+- [9to5Linux](https://9to5linux.com/) | [First Look at Rhino Linux, a Rolling-Release Distro Based on Ubuntu and Xfce](https://9to5linux.com/first-look-at-rhino-linux-a-rolling-release-distro-based-on-ubuntu-and-xfce)
+- [9to5Linux](https://9to5linux.com/) | [GNOME.Asia 2023 Will Take Place in Kathmandu for the GNOME 46 Desktop](https://9to5linux.com/gnome-asia-2023-will-take-place-in-kathmandu-for-the-gnome-46-desktop)
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Matrix to libera.chat (IRC) bridge unavailable](https://communityblog.fedoraproject.org/matrix-to-libera-chat-irc-bridge-unavailable/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Madeline Peck: EDA and the Three Dwarves](https://www.madelinepeck.com/blog/2022/5/9/eda-and-the-three-dwarves)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: July 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-july-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
+
 ## 20230808
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1086 谷歌将向 Linux 贡献 BBRv3 TCP 拥塞控制算法](https://linux.cn/article-16072-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to fully utilize OpenShift for DevOps](https://developers.redhat.com/articles/2023/08/07/how-fully-utilize-openshift-devops)

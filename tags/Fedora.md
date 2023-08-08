@@ -1,3 +1,8 @@
+## 20230809
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Matrix to libera.chat (IRC) bridge unavailable](https://communityblog.fedoraproject.org/matrix-to-libera-chat-irc-bridge-unavailable/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Madeline Peck: EDA and the Three Dwarves](https://www.madelinepeck.com/blog/2022/5/9/eda-and-the-three-dwarves)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: July 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-july-2023/)
+
 ## 20230808
 - [Planet Fedora](http://fedoraplanet.org/) | [Jon Chiappetta: Keyboard Gear Update – The Five Tactiles](https://fossjon.wordpress.com/2023/08/07/keyboard-gear-update-the-five-tactiles/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Mark J. Wielaard: Sourceware 25 Roadmap](https://gnu.wildebeest.org/blog/mjw/2023/08/07/sourceware-25-roadmap/)

@@ -1,3 +1,8 @@
+## 20230809
+- [Phoronix](https://www.phoronix.com/) | [Six New Stable Linux Kernel Updates For Intel DOWNFALL & AMD INCEPTION](https://www.phoronix.com/news/New-Linux-Stable-Downfall)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 535.98 Linux Driver Released With Several Fixes](https://www.phoronix.com/news/NVIDIA-535.98-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Intel 20230808 Microcode Published For DOWNFALL, Other Security & Functional Issues](https://www.phoronix.com/news/Intel-20230808-Microcode)
+
 ## 20230808
 - [Phoronix](https://www.phoronix.com/) | [Linux Decides To Disable RNG On All AMD fTPMs](https://www.phoronix.com/news/Linux-Disables-RNG-AMD-fTPMs)
 - [Phoronix](https://www.phoronix.com/) | [How The Radeon Professional Graphics Performance Changed Over 13 Years](https://www.phoronix.com/review/radeon-pro-13)

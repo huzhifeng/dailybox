@@ -1,3 +1,9 @@
+## 20230809
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果已在测试 M3 Max 芯片；OpenAI 推出 GPTBot；MX Linux 23 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132159857)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 计算机视觉 让计算机打开新灵之窗](https://blog.csdn.net/Qingai521/article/details/132139115)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringCloud】深入探究Eureka：构建微服务架构中的高效服务发现系统](https://blog.csdn.net/qq_54796785/article/details/132136143)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [同个局域网内SSH远程Ubuntu系统](https://blog.csdn.net/weixin_72651014/article/details/132163185)
+
 ## 20230808
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果回应地震预警功能；马斯克：“马扎之战”将在X上直播；22% 员工称在工作中经常使用 AI|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132140072)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 计算机视觉 让计算机打开新灵之窗](https://blog.csdn.net/Qingai521/article/details/132139115)

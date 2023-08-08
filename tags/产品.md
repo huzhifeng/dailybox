@@ -1,3 +1,8 @@
+## 20230809
+- [Product Hunt](https://www.producthunt.com) | [Heptabase](https://www.producthunt.com/posts/heptabase)
+- [Product Hunt](https://www.producthunt.com) | [365 Design Tips](https://www.producthunt.com/posts/365-design-tips)
+- [Product Hunt](https://www.producthunt.com) | [ADXL](https://www.producthunt.com/posts/adxl-2)
+
 ## 20230808
 - [Product Hunt](https://www.producthunt.com) | [TotalWebTool](https://www.producthunt.com/posts/totalwebtool)
 - [Product Hunt](https://www.producthunt.com) | [Relume AI Site Builder](https://www.producthunt.com/posts/relume-ai-site-builder)

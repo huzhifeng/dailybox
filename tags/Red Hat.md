@@ -1,3 +1,7 @@
+## 20230809
+- [Red Hat Developer](https://developers.redhat.com/) | [Implementing clean architecture solutions: A practical example](https://developers.redhat.com/articles/2023/08/08/implementing-clean-architecture-solutions-practical-example)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to monitor workloads using OpenShift monitoring stack](https://developers.redhat.com/articles/2023/08/08/how-monitor-workloads-using-openshift-monitoring-stack)
+
 ## 20230808
 - [Red Hat Developer](https://developers.redhat.com/) | [How to fully utilize OpenShift for DevOps](https://developers.redhat.com/articles/2023/08/07/how-fully-utilize-openshift-devops)
 - [Red Hat Developer](https://developers.redhat.com/) | [Back up Kubernetes persistent volumes using OADP](https://developers.redhat.com/articles/2023/08/07/back-kubernetes-persistent-volumes-using-oadp)

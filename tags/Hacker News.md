@@ -1,3 +1,8 @@
+## 20230809
+- [Hacker News](https://news.ycombinator.com/front) | [Downfall Attacks](https://news.ycombinator.com/item?id=37052586)
+- [Hacker News](https://news.ycombinator.com/front) | [Uninstall the NightOwl app](https://news.ycombinator.com/item?id=37052508)
+- [Hacker News](https://news.ycombinator.com/front) | [Blocked by Cloudflare](https://news.ycombinator.com/item?id=37049016)
+
 ## 20230808
 - [Hacker News](https://news.ycombinator.com/front) | [Some tactics for writing in public](https://news.ycombinator.com/item?id=37033403)
 
