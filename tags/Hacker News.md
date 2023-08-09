@@ -1,3 +1,8 @@
+## 20230810
+- [Hacker News](https://news.ycombinator.com/front) | [Temptations of an open-source Chrome extension developer](https://news.ycombinator.com/item?id=37066680)
+- [Hacker News](https://news.ycombinator.com/front) | [I'm 17 and wrote this guide on how CPUs run programs](https://news.ycombinator.com/item?id=37062422)
+- [Hacker News](https://news.ycombinator.com/front) | [Infrastructure audit completed by Radically Open Security](https://news.ycombinator.com/item?id=37060654)
+
 ## 20230809
 - [Hacker News](https://news.ycombinator.com/front) | [Downfall Attacks](https://news.ycombinator.com/item?id=37052586)
 - [Hacker News](https://news.ycombinator.com/front) | [Uninstall the NightOwl app](https://news.ycombinator.com/item?id=37052508)

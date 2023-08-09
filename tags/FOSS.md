@@ -1,3 +1,6 @@
+## 20230810
+- [It's FOSS](https://itsfoss.com/) | [How to Annotate PDFs in Linux [Beginner's Guide]](https://itsfoss.com/annotate-pdf-linux/)
+
 ## 20230809
 - [It's FOSS](https://itsfoss.com/) | [Easily Take Full Webpage Screenshots in Firefox and Chrome](https://itsfoss.com/firefox-screenshot/)
 

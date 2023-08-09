@@ -1,3 +1,7 @@
+## 20230810
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Anúncio do Drex](https://avi.alkalay.net/2023/08/drex.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for August](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-august/)
+
 ## 20230809
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Matrix to libera.chat (IRC) bridge unavailable](https://communityblog.fedoraproject.org/matrix-to-libera-chat-irc-bridge-unavailable/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Madeline Peck: EDA and the Three Dwarves](https://www.madelinepeck.com/blog/2022/5/9/eda-and-the-three-dwarves)

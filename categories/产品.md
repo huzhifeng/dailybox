@@ -1,3 +1,8 @@
+## 20230810
+- [Product Hunt](https://www.producthunt.com) | [Raizer](https://www.producthunt.com/posts/raizer-1)
+- [Product Hunt](https://www.producthunt.com) | [Spinach.io](https://www.producthunt.com/posts/spinach-io-2)
+- [Product Hunt](https://www.producthunt.com) | [Neverinstall AI & CloudLink](https://www.producthunt.com/posts/neverinstall-ai-cloudlink)
+
 ## 20230809
 - [Product Hunt](https://www.producthunt.com) | [Heptabase](https://www.producthunt.com/posts/heptabase)
 - [Product Hunt](https://www.producthunt.com) | [365 Design Tips](https://www.producthunt.com/posts/365-design-tips)

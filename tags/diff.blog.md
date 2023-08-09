@@ -1,3 +1,7 @@
+## 20230810
+- [diff.blog](https://diff.blog/) | [When Did Postgres Become Cool?](https://diff.blog/post/when-did-postgres-become-cool-145908/)
+- [diff.blog](https://diff.blog/) | [Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers](https://diff.blog/post/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-145904/)
+
 ## 20230809
 - [diff.blog](https://diff.blog/) | [Introducing Project IDX, An Experiment to Improve Full-stack, Multiplatform App Development](https://diff.blog/post/introducing-project-idx-an-experiment-to-improve-full-stack-multiplatform-app-development-145844/)
 - [diff.blog](https://diff.blog/) | [Go 1.21 is released!](https://diff.blog/post/go-121-is-released-145843/)

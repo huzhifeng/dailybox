@@ -1,3 +1,6 @@
+## 20230810
+- [Red Hat Developer](https://developers.redhat.com/) | [The process of migrating Java applications](https://developers.redhat.com/articles/2023/08/09/process-migrating-java-applications)
+
 ## 20230809
 - [Red Hat Developer](https://developers.redhat.com/) | [Implementing clean architecture solutions: A practical example](https://developers.redhat.com/articles/2023/08/08/implementing-clean-architecture-solutions-practical-example)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to monitor workloads using OpenShift monitoring stack](https://developers.redhat.com/articles/2023/08/08/how-monitor-workloads-using-openshift-monitoring-stack)

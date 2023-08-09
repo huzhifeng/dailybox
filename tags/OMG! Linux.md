@@ -1,3 +1,6 @@
+## 20230810
+- [OMG! Linux](https://www.omglinux.com/) | [Xournal++ 1.2.0 Released with Improved PDF Annotating Tools](https://www.omglinux.com/xournal-plus-plus-handwritten-notes-update/)
+
 ## 20230807
 - [OMG! Linux](https://www.omglinux.com/) | [Mini Text is a Floating Scratch Pad for Linux](https://www.omglinux.com/mini-text-gtk-app/)
 

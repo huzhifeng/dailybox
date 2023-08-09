@@ -1,3 +1,6 @@
+## 20230810
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug - It really ties the Rust room together](https://www.collabora.com/news-and-blog/blog/2023/08/09/persian-rug-it-really-ties-the-rust-room-together/)
+
 ## 20230804
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Triple Threat: The Power of Transcription, Summary, and Translation](https://www.collabora.com/news-and-blog/blog/2023/08/03/triple-threat-the-power-of-transcription,-summary,-and-translation/)
 
