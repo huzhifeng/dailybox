@@ -1,3 +1,10 @@
+## 20230810
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Live Patching MC CFP](https://lpc.events/blog/current/index.php/2023/08/09/live-patching-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Anúncio do Drex](https://avi.alkalay.net/2023/08/drex.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for August](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-august/)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: OpenPGP key transition](https://anarc.at/blog/2023-08-09-openpgp-key-transition/)
+- [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: How to setup DMARC policy for subdomain on debian.net](https://kenhys.hatenablog.jp/entry/2023/08/09/191841)
+
 ## 20230809
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Matrix to libera.chat (IRC) bridge unavailable](https://communityblog.fedoraproject.org/matrix-to-libera-chat-irc-bridge-unavailable/)

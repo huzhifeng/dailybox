@@ -1,3 +1,6 @@
+## 20230810
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.44 Is Out with a New &#8220;link&#8221; Setting and New Bond Options](https://9to5linux.com/networkmanager-1-44-is-out-with-a-new-link-setting-and-new-bond-options)
+
 ## 20230809
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 535.98 Linux Graphics Driver Released with Wayland and Vulkan Fixes](https://9to5linux.com/nvidia-535-98-linux-graphics-driver-released)
 - [9to5Linux](https://9to5linux.com/) | [First Look at Rhino Linux, a Rolling-Release Distro Based on Ubuntu and Xfce](https://9to5linux.com/first-look-at-rhino-linux-a-rolling-release-distro-based-on-ubuntu-and-xfce)

@@ -1,3 +1,18 @@
+## 20230810
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1088 一半以上的 Arm 服务器部署在亚马逊](https://linux.cn/article-16078-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug - It really ties the Rust room together](https://www.collabora.com/news-and-blog/blog/2023/08/09/persian-rug-it-really-ties-the-rust-room-together/)
+- [Red Hat Developer](https://developers.redhat.com/) | [The process of migrating Java applications](https://developers.redhat.com/articles/2023/08/09/process-migrating-java-applications)
+- [Phoronix](https://www.phoronix.com/) | [Intel Begins Drafting AVX10 Plans For The LLVM/Clang Compiler](https://www.phoronix.com/news/Intel-Plans-AVX10-LLVM)
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix For AMD Zen 1 Bug That Could Leak Data After A Division By Zero](https://www.phoronix.com/news/AMD-Zen1-Divide-By-Zero-Bug)
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The Intel Downfall Mitigation Performance Impact](https://www.phoronix.com/review/intel-downfall-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.44 Is Out with a New &#8220;link&#8221; Setting and New Bond Options](https://9to5linux.com/networkmanager-1-44-is-out-with-a-new-link-setting-and-new-bond-options)
+- [OMG! Linux](https://www.omglinux.com/) | [Xournal++ 1.2.0 Released with Improved PDF Annotating Tools](https://www.omglinux.com/xournal-plus-plus-handwritten-notes-update/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Live Patching MC CFP](https://lpc.events/blog/current/index.php/2023/08/09/live-patching-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Anúncio do Drex](https://avi.alkalay.net/2023/08/drex.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for August](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-august/)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: OpenPGP key transition](https://anarc.at/blog/2023-08-09-openpgp-key-transition/)
+- [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: How to setup DMARC policy for subdomain on debian.net](https://kenhys.hatenablog.jp/entry/2023/08/09/191841)
+
 ## 20230809
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1087 谷歌可能重新考虑在 Chrome 中支持 JPEG-XL](https://linux.cn/article-16075-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Implementing clean architecture solutions: A practical example](https://developers.redhat.com/articles/2023/08/08/implementing-clean-architecture-solutions-practical-example)

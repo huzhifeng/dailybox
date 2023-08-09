@@ -1,3 +1,6 @@
+## 20230810
+- [TED Talks Daily](https://www.ted.com/talks) | [How targeted ads might just save your life | Sandersan Onie](https://www.ted.com/talks/sandersan_onie_how_targeted_ads_might_just_save_your_life?rss)
+
 ## 20230809
 - [TED Talks Daily](https://www.ted.com/talks) | [In the age of AI art, what can originality look like? | Eileen Isagon Skyers](https://www.ted.com/talks/eileen_isagon_skyers_in_the_age_of_ai_art_what_can_originality_look_like?rss)
 

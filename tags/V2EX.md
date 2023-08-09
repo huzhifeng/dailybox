@@ -1,3 +1,8 @@
+## 20230810
+- [V2EX](https://www.v2ex.com/) | [关于 App 备案的猜想](https://www.v2ex.com/t/963800)
+- [V2EX](https://www.v2ex.com/) | [工信部史上最严限制《通知》？](https://www.v2ex.com/t/963769)
+- [V2EX](https://www.v2ex.com/) | [你买车最看重什么？](https://www.v2ex.com/t/963755)
+
 ## 20230809
 - [V2EX](https://www.v2ex.com/) | [你身边有没有那种 “没有兴趣爱好的人” ？](https://www.v2ex.com/t/963384)
 - [V2EX](https://www.v2ex.com/) | [逐渐失控的小费](https://www.v2ex.com/t/963313)

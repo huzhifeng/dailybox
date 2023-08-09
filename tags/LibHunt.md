@@ -1,3 +1,8 @@
+## 20230810
+- [LibHunt](https://www.libhunt.com/) | [pgvecto.rs](https://www.libhunt.com/r/pgvecto.rs)
+- [LibHunt](https://www.libhunt.com/) | [Jailer](https://www.libhunt.com/r/Jailer)
+- [LibHunt](https://www.libhunt.com/) | [noclip.website](https://www.libhunt.com/r/noclip.website)
+
 ## 20230809
 - [LibHunt](https://www.libhunt.com/) | [admiral](https://www.libhunt.com/r/admiral)
 - [LibHunt](https://www.libhunt.com/) | [podman](https://www.libhunt.com/r/podman)

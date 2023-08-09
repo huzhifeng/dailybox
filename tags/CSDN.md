@@ -1,3 +1,9 @@
+## 20230810
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋甩出最强生成式 AI 处理器；ChatGPT 回答编程问题错误率超过 50%；Go 1.21 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132181294)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringCloud】深入探究Eureka：构建微服务架构中的高效服务发现系统](https://blog.csdn.net/qq_54796785/article/details/132136143)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 计算机视觉 让计算机打开新灵之窗](https://blog.csdn.net/Qingai521/article/details/132139115)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉实战--直方图均衡化和自适应直方图均衡化](https://blog.csdn.net/weixin_51390582/article/details/131929294)
+
 ## 20230809
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果已在测试 M3 Max 芯片；OpenAI 推出 GPTBot；MX Linux 23 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132159857)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 计算机视觉 让计算机打开新灵之窗](https://blog.csdn.net/Qingai521/article/details/132139115)

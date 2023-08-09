@@ -1,3 +1,8 @@
+## 20230810
+- [Phoronix](https://www.phoronix.com/) | [Intel Begins Drafting AVX10 Plans For The LLVM/Clang Compiler](https://www.phoronix.com/news/Intel-Plans-AVX10-LLVM)
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix For AMD Zen 1 Bug That Could Leak Data After A Division By Zero](https://www.phoronix.com/news/AMD-Zen1-Divide-By-Zero-Bug)
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The Intel Downfall Mitigation Performance Impact](https://www.phoronix.com/review/intel-downfall-benchmarks)
+
 ## 20230809
 - [Phoronix](https://www.phoronix.com/) | [Six New Stable Linux Kernel Updates For Intel DOWNFALL & AMD INCEPTION](https://www.phoronix.com/news/New-Linux-Stable-Downfall)
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 535.98 Linux Driver Released With Several Fixes](https://www.phoronix.com/news/NVIDIA-535.98-Linux)

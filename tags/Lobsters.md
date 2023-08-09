@@ -1,3 +1,8 @@
+## 20230810
+- [Lobsters](https://lobste.rs/) | [Because I can't ever remember SDL](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl)
+- [Lobsters](https://lobste.rs/) | [Sorting Lines in Emacs](https://lobste.rs/s/tkw2gt/sorting_lines_emacs)
+- [Lobsters](https://lobste.rs/) | [Writing a package manager](https://lobste.rs/s/aucxem/writing_package_manager)
+
 ## 20230809
 - [Lobsters](https://lobste.rs/) | [Typograms](https://lobste.rs/s/t2twv6/typograms)
 - [Lobsters](https://lobste.rs/) | [Downfall Attacks](https://lobste.rs/s/lw728b/downfall_attacks)

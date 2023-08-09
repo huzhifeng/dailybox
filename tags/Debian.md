@@ -1,3 +1,7 @@
+## 20230810
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: OpenPGP key transition](https://anarc.at/blog/2023-08-09-openpgp-key-transition/)
+- [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: How to setup DMARC policy for subdomain on debian.net](https://kenhys.hatenablog.jp/entry/2023/08/09/191841)
+
 ## 20230809
 - [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 
