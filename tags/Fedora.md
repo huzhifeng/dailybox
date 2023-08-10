@@ -1,3 +1,6 @@
+## 20230811
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Job Posting: Fedora Operations Architect](https://communityblog.fedoraproject.org/job-posting-fedora-operations-architect/)
+
 ## 20230810
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Anúncio do Drex](https://avi.alkalay.net/2023/08/drex.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for August](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-august/)

@@ -1,3 +1,9 @@
+## 20230811
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Job Posting: Fedora Operations Architect](https://communityblog.fedoraproject.org/job-posting-fedora-operations-architect/)
+- [Planet Debian](https://planet.debian.org/) | [Sandro Tosi: Mastodon hook for dput-ng](http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Invidious add-on for Kodi 20](https://people.skolelinux.org/pere/blog/Invidious_add_on_for_Kodi_20.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [2023 IBM TechXchange EMEA Client Workshop for Linux on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/08/2023-ibm-techxchange-emea-client.html)
+
 ## 20230810
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Live Patching MC CFP](https://lpc.events/blog/current/index.php/2023/08/09/live-patching-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Anúncio do Drex](https://avi.alkalay.net/2023/08/drex.html)

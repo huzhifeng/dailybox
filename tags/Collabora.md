@@ -1,3 +1,6 @@
+## 20230811
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Pushing testing laboratory performance limits by benchmarking LAVA - Part 1](https://www.collabora.com/news-and-blog/blog/2023/08/10/pushing-testing-laboratory-performance-limits-by-benchmarking-lava-part-1/)
+
 ## 20230810
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug - It really ties the Rust room together](https://www.collabora.com/news-and-blog/blog/2023/08/09/persian-rug-it-really-ties-the-rust-room-together/)
 

@@ -1,3 +1,7 @@
+## 20230811
+- [Planet Debian](https://planet.debian.org/) | [Sandro Tosi: Mastodon hook for dput-ng](http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Invidious add-on for Kodi 20](https://people.skolelinux.org/pere/blog/Invidious_add_on_for_Kodi_20.html)
+
 ## 20230810
 - [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: OpenPGP key transition](https://anarc.at/blog/2023-08-09-openpgp-key-transition/)
 - [Planet Debian](https://planet.debian.org/) | [Kentaro Hayashi: How to setup DMARC policy for subdomain on debian.net](https://kenhys.hatenablog.jp/entry/2023/08/09/191841)

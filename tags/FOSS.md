@@ -1,3 +1,6 @@
+## 20230811
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.32: PDF Editing, File Search Mastery, Rhino Linux and More](https://itsfoss.com/newsletter/foss-weekly-23-32/)
+
 ## 20230810
 - [It's FOSS](https://itsfoss.com/) | [How to Annotate PDFs in Linux [Beginner's Guide]](https://itsfoss.com/annotate-pdf-linux/)
 

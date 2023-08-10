@@ -1,3 +1,8 @@
+## 20230811
+- [V2EX](https://www.v2ex.com/) | [为什么打工永远赚不到大钱？](https://www.v2ex.com/t/964049)
+- [V2EX](https://www.v2ex.com/) | [关于 APP 备案，大家可以去国务院举报](https://www.v2ex.com/t/964007)
+- [V2EX](https://www.v2ex.com/) | [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995)
+
 ## 20230810
 - [V2EX](https://www.v2ex.com/) | [关于 App 备案的猜想](https://www.v2ex.com/t/963800)
 - [V2EX](https://www.v2ex.com/) | [工信部史上最严限制《通知》？](https://www.v2ex.com/t/963769)

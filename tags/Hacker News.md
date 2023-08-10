@@ -1,3 +1,8 @@
+## 20230811
+- [Hacker News](https://news.ycombinator.com/front) | [Vim Boss](https://news.ycombinator.com/item?id=37078719)
+- [Hacker News](https://news.ycombinator.com/front) | [MS Teams channels cannot contain MS-DOS device names](https://news.ycombinator.com/item?id=37076523)
+- [Hacker News](https://news.ycombinator.com/front) | [Do Machine Learning Models Memorize or Generalize?](https://news.ycombinator.com/item?id=37076210)
+
 ## 20230810
 - [Hacker News](https://news.ycombinator.com/front) | [Temptations of an open-source Chrome extension developer](https://news.ycombinator.com/item?id=37066680)
 - [Hacker News](https://news.ycombinator.com/front) | [I'm 17 and wrote this guide on how CPUs run programs](https://news.ycombinator.com/item?id=37062422)

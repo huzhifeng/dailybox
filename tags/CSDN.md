@@ -1,3 +1,9 @@
+## 20230811
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信小程序必须备案才能上架；iPhone 15 系列将采用 USB-C 端口；TypeScript 5.2 RC 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132202402)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [新型网络安全：从过程到明确结果](https://blog.csdn.net/ptsecurity/article/details/132194022)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [使用反汇编工具IDA查看发生异常的汇编代码的上下文去辅助分析C++软件异常](https://blog.csdn.net/chenlycly/article/details/132158574)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [如何维护自己的电脑](https://blog.csdn.net/u014388408/article/details/132200133)
+
 ## 20230810
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋甩出最强生成式 AI 处理器；ChatGPT 回答编程问题错误率超过 50%；Go 1.21 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132181294)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringCloud】深入探究Eureka：构建微服务架构中的高效服务发现系统](https://blog.csdn.net/qq_54796785/article/details/132136143)

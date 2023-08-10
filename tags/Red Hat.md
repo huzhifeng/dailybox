@@ -1,3 +1,6 @@
+## 20230811
+- [Red Hat Developer](https://developers.redhat.com/) | [The benefits of deploying Ansible Automation Platform on AWS](https://developers.redhat.com/articles/2023/08/10/benefits-deploying-ansible-automation-platform-aws)
+
 ## 20230810
 - [Red Hat Developer](https://developers.redhat.com/) | [The process of migrating Java applications](https://developers.redhat.com/articles/2023/08/09/process-migrating-java-applications)
 
