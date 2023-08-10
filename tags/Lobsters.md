@@ -1,3 +1,8 @@
+## 20230811
+- [Lobsters](https://lobste.rs/) | [Apple doesn't want you developing hobby apps](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby)
+- [Lobsters](https://lobste.rs/) | [The future of the Vim project](https://lobste.rs/s/glzypj/future_vim_project)
+- [Lobsters](https://lobste.rs/) | [Types and the Zig Programming Language](https://lobste.rs/s/seenwo/types_zig_programming_language)
+
 ## 20230810
 - [Lobsters](https://lobste.rs/) | [Because I can't ever remember SDL](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl)
 - [Lobsters](https://lobste.rs/) | [Sorting Lines in Emacs](https://lobste.rs/s/tkw2gt/sorting_lines_emacs)

@@ -1,3 +1,17 @@
+## 20230811
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1089 ChatGPT 的数学成绩更差了](https://linux.cn/article-16081-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Pushing testing laboratory performance limits by benchmarking LAVA - Part 1](https://www.collabora.com/news-and-blog/blog/2023/08/10/pushing-testing-laboratory-performance-limits-by-benchmarking-lava-part-1/)
+- [Red Hat Developer](https://developers.redhat.com/) | [The benefits of deploying Ansible Automation Platform on AWS](https://developers.redhat.com/articles/2023/08/10/benefits-deploying-ansible-automation-platform-aws)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 22.04.3 LTS Released With Linux 6.2 + Mesa 23.0 HWE Stack](https://www.phoronix.com/news/Ubuntu-23.04.3-LTS)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft's CBL-Mariner 2.0 Linux Distro Adds DNF5, Zstd-Compressed RPMs](https://www.phoronix.com/news/CBL-Mariner-2.0.20230805)
+- [Phoronix](https://www.phoronix.com/) | [Intel Joins The PyTorch Foundation](https://www.phoronix.com/news/Intel-Joins-PyTorch-Foundation)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04.3 LTS Released with Linux 6.2 Kernel and Mesa 23.0 Graphics Stacks](https://9to5linux.com/ubuntu-22-04-3-lts-released-with-linux-6-2-kernel-and-mesa-23-0-graphics-stacks)
+- [OMG! Linux](https://www.omglinux.com/) | [Pine64’s RISC-V Tablet Gets KDE-Powered Desktop Image](https://www.omglinux.com/pinetab-v-tablet-plasma-desktop-distro/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Job Posting: Fedora Operations Architect](https://communityblog.fedoraproject.org/job-posting-fedora-operations-architect/)
+- [Planet Debian](https://planet.debian.org/) | [Sandro Tosi: Mastodon hook for dput-ng](http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Invidious add-on for Kodi 20](https://people.skolelinux.org/pere/blog/Invidious_add_on_for_Kodi_20.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [2023 IBM TechXchange EMEA Client Workshop for Linux on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/08/2023-ibm-techxchange-emea-client.html)
+
 ## 20230810
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1088 一半以上的 Arm 服务器部署在亚马逊](https://linux.cn/article-16078-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug - It really ties the Rust room together](https://www.collabora.com/news-and-blog/blog/2023/08/09/persian-rug-it-really-ties-the-rust-room-together/)

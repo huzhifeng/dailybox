@@ -1,3 +1,8 @@
+## 20230811
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 22.04.3 LTS Released With Linux 6.2 + Mesa 23.0 HWE Stack](https://www.phoronix.com/news/Ubuntu-23.04.3-LTS)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft's CBL-Mariner 2.0 Linux Distro Adds DNF5, Zstd-Compressed RPMs](https://www.phoronix.com/news/CBL-Mariner-2.0.20230805)
+- [Phoronix](https://www.phoronix.com/) | [Intel Joins The PyTorch Foundation](https://www.phoronix.com/news/Intel-Joins-PyTorch-Foundation)
+
 ## 20230810
 - [Phoronix](https://www.phoronix.com/) | [Intel Begins Drafting AVX10 Plans For The LLVM/Clang Compiler](https://www.phoronix.com/news/Intel-Plans-AVX10-LLVM)
 - [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix For AMD Zen 1 Bug That Could Leak Data After A Division By Zero](https://www.phoronix.com/news/AMD-Zen1-Divide-By-Zero-Bug)

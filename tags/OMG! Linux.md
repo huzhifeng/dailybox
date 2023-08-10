@@ -1,3 +1,6 @@
+## 20230811
+- [OMG! Linux](https://www.omglinux.com/) | [Pine64’s RISC-V Tablet Gets KDE-Powered Desktop Image](https://www.omglinux.com/pinetab-v-tablet-plasma-desktop-distro/)
+
 ## 20230810
 - [OMG! Linux](https://www.omglinux.com/) | [Xournal++ 1.2.0 Released with Improved PDF Annotating Tools](https://www.omglinux.com/xournal-plus-plus-handwritten-notes-update/)
 

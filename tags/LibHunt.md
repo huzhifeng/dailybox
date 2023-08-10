@@ -1,3 +1,7 @@
+## 20230811
+- [LibHunt](https://www.libhunt.com/) | [gpt-unicorn](https://www.libhunt.com/r/gpt-unicorn)
+- [LibHunt](https://www.libhunt.com/) | [declarai](https://www.libhunt.com/r/declarai)
+
 ## 20230810
 - [LibHunt](https://www.libhunt.com/) | [pgvecto.rs](https://www.libhunt.com/r/pgvecto.rs)
 - [LibHunt](https://www.libhunt.com/) | [Jailer](https://www.libhunt.com/r/Jailer)

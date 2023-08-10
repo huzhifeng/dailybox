@@ -1,3 +1,8 @@
+## 20230811
+- [Product Hunt](https://www.producthunt.com) | [Omnivore](https://www.producthunt.com/posts/omnivore)
+- [Product Hunt](https://www.producthunt.com) | [Shimmer Web App](https://www.producthunt.com/posts/shimmer-web-app)
+- [Product Hunt](https://www.producthunt.com) | [Proactio](https://www.producthunt.com/posts/proactio)
+
 ## 20230810
 - [Product Hunt](https://www.producthunt.com) | [Raizer](https://www.producthunt.com/posts/raizer-1)
 - [Product Hunt](https://www.producthunt.com) | [Spinach.io](https://www.producthunt.com/posts/spinach-io-2)
