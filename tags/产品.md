@@ -1,3 +1,8 @@
+## 20230812
+- [Product Hunt](https://www.producthunt.com) | [Retime](https://www.producthunt.com/posts/retime)
+- [Product Hunt](https://www.producthunt.com) | [Compliance Effort Calculator](https://www.producthunt.com/posts/compliance-effort-calculator)
+- [Product Hunt](https://www.producthunt.com) | [ShopFunnels](https://www.producthunt.com/posts/shopfunnels)
+
 ## 20230811
 - [Product Hunt](https://www.producthunt.com) | [Omnivore](https://www.producthunt.com/posts/omnivore)
 - [Product Hunt](https://www.producthunt.com) | [Shimmer Web App](https://www.producthunt.com/posts/shimmer-web-app)

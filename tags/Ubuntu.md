@@ -1,3 +1,6 @@
+## 20230812
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu 22.04.3 LTS released](https://fridge.ubuntu.com/2023/08/11/ubuntu-22-04-3-lts-released/)
+
 ## 20230808
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs)
 

@@ -1,3 +1,12 @@
+## 20230812
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 32 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-32-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute during the DNF5, GNOME 45, and i18n test days](https://fedoramagazine.org/contribute-at-the-dnf-5-gnome-45-and-i18n-test-days/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Private posts](https://diziet.dreamwidth.org/15789.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Post Akademy Snap Wrap Up and Future](https://www.scarlettgatelymoore.dev/kde-post-akademy-snap-wrap-up-and-future/)
+- [Planet Debian](https://planet.debian.org/) | [Birger Schacht: Another round of rust](https://bisco.org/notes/another-round-of-rust/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu 22.04.3 LTS released](https://fridge.ubuntu.com/2023/08/11/ubuntu-22-04-3-lts-released/)
+
 ## 20230811
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Job Posting: Fedora Operations Architect](https://communityblog.fedoraproject.org/job-posting-fedora-operations-architect/)
 - [Planet Debian](https://planet.debian.org/) | [Sandro Tosi: Mastodon hook for dput-ng](http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html)

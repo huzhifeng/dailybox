@@ -1,3 +1,6 @@
+## 20230812
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#108 Sandboxed Images](https://thisweek.gnome.org/posts/2023/08/twig-108/)
+
 ## 20230805
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#107 Reduced Overheads](https://thisweek.gnome.org/posts/2023/08/twig-107/)
 

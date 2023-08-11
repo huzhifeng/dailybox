@@ -1,3 +1,6 @@
+## 20230812
+- [It's FOSS](https://itsfoss.com/) | [Use Split Screen in Ubuntu to View Multiple Application Windows at Once](https://itsfoss.com/ubuntu-split-screen/)
+
 ## 20230811
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.32: PDF Editing, File Search Mastery, Rhino Linux and More](https://itsfoss.com/newsletter/foss-weekly-23-32/)
 

@@ -1,3 +1,6 @@
+## 20230812
+- [diff.blog](https://diff.blog/) | [Supavisor: Scaling Postgres to 1 Million Connections](https://diff.blog/post/supavisor-scaling-postgres-to-1-million-connections-146007/)
+
 ## 20230810
 - [diff.blog](https://diff.blog/) | [When Did Postgres Become Cool?](https://diff.blog/post/when-did-postgres-become-cool-145908/)
 - [diff.blog](https://diff.blog/) | [Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers](https://diff.blog/post/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-145904/)

@@ -1,3 +1,9 @@
+## 20230812
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军2023年度演讲定档，还有折叠屏新机 、平板发布；OpenAI在中国申请注册“GPT-5”商标；Vim 项目的未来|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132224460)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Spring Boot】详解restful api](https://blog.csdn.net/Joker_ZJN/article/details/132207318)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [如何维护自己的电脑](https://blog.csdn.net/u014388408/article/details/132200133)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 Cloud Studio 实战训练营】提升开发效率与协作：探索腾讯云 Cloud Studio 的强大功能与优势](https://blog.csdn.net/dietime1943/article/details/132178622)
+
 ## 20230811
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信小程序必须备案才能上架；iPhone 15 系列将采用 USB-C 端口；TypeScript 5.2 RC 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132202402)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [新型网络安全：从过程到明确结果](https://blog.csdn.net/ptsecurity/article/details/132194022)
