@@ -1,3 +1,8 @@
+## 20230812
+- [Lobsters](https://lobste.rs/) | [Prepare your Firefox desktop extension for the upcoming Android release](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension)
+- [Lobsters](https://lobste.rs/) | [The complex simplicity of my static websites](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites)
+- [Lobsters](https://lobste.rs/) | [Tailwind, and the death of web craftsmanship](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship)
+
 ## 20230811
 - [Lobsters](https://lobste.rs/) | [Apple doesn't want you developing hobby apps](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby)
 - [Lobsters](https://lobste.rs/) | [The future of the Vim project](https://lobste.rs/s/glzypj/future_vim_project)

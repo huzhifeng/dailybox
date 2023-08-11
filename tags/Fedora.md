@@ -1,3 +1,8 @@
+## 20230812
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 32 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-32-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute during the DNF5, GNOME 45, and i18n test days](https://fedoramagazine.org/contribute-at-the-dnf-5-gnome-45-and-i18n-test-days/)
+
 ## 20230811
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Job Posting: Fedora Operations Architect](https://communityblog.fedoraproject.org/job-posting-fedora-operations-architect/)
 

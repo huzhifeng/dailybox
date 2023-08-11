@@ -1,3 +1,8 @@
+## 20230812
+- [V2EX](https://www.v2ex.com/) | [小米刷了欧版的 MIUI，世界并没有清静](https://www.v2ex.com/t/964390)
+- [V2EX](https://www.v2ex.com/) | [北京的孩子考大学的比例的确是高](https://www.v2ex.com/t/964356)
+- [V2EX](https://www.v2ex.com/) | [iphone8 的钉子户怎么这么多](https://www.v2ex.com/t/964355)
+
 ## 20230811
 - [V2EX](https://www.v2ex.com/) | [为什么打工永远赚不到大钱？](https://www.v2ex.com/t/964049)
 - [V2EX](https://www.v2ex.com/) | [关于 APP 备案，大家可以去国务院举报](https://www.v2ex.com/t/964007)

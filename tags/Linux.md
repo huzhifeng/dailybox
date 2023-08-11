@@ -1,3 +1,18 @@
+## 20230812
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1090 甲骨文、SUSE 等“抱团”制作兼容版企业 Linux](https://linux.cn/article-16084-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The "NVK" Open-Source NVIDIA Vulkan Driver](https://www.phoronix.com/review/nvk-vulkan-performance)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4.10 & LTS Kernels Updated With AMD Zen 1 Divide By Zero Bug-Fix](https://www.phoronix.com/news/Linux-6.4.10-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Finish Gutting Wireless USB & UWB](https://www.phoronix.com/news/Linux-6.6-Finish-Gutting-WUSB)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 32 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-32-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute during the DNF5, GNOME 45, and i18n test days](https://fedoramagazine.org/contribute-at-the-dnf-5-gnome-45-and-i18n-test-days/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Private posts](https://diziet.dreamwidth.org/15789.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Post Akademy Snap Wrap Up and Future](https://www.scarlettgatelymoore.dev/kde-post-akademy-snap-wrap-up-and-future/)
+- [Planet Debian](https://planet.debian.org/) | [Birger Schacht: Another round of rust](https://bisco.org/notes/another-round-of-rust/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu 22.04.3 LTS released](https://fridge.ubuntu.com/2023/08/11/ubuntu-22-04-3-lts-released/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#108 Sandboxed Images](https://thisweek.gnome.org/posts/2023/08/twig-108/)
+
 ## 20230811
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1089 ChatGPT 的数学成绩更差了](https://linux.cn/article-16081-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Pushing testing laboratory performance limits by benchmarking LAVA - Part 1](https://www.collabora.com/news-and-blog/blog/2023/08/10/pushing-testing-laboratory-performance-limits-by-benchmarking-lava-part-1/)

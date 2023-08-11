@@ -1,3 +1,7 @@
+## 20230812
+- [LibHunt](https://www.libhunt.com/) | [terraform](https://www.libhunt.com/r/terraform)
+- [LibHunt](https://www.libhunt.com/) | [AR-Touch](https://www.libhunt.com/r/AR-Touch)
+
 ## 20230811
 - [LibHunt](https://www.libhunt.com/) | [gpt-unicorn](https://www.libhunt.com/r/gpt-unicorn)
 - [LibHunt](https://www.libhunt.com/) | [declarai](https://www.libhunt.com/r/declarai)

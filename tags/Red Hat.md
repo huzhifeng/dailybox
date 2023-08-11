@@ -1,3 +1,6 @@
+## 20230812
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)
+
 ## 20230811
 - [Red Hat Developer](https://developers.redhat.com/) | [The benefits of deploying Ansible Automation Platform on AWS](https://developers.redhat.com/articles/2023/08/10/benefits-deploying-ansible-automation-platform-aws)
 

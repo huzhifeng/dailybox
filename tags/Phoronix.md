@@ -1,3 +1,8 @@
+## 20230812
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The "NVK" Open-Source NVIDIA Vulkan Driver](https://www.phoronix.com/review/nvk-vulkan-performance)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.4.10 & LTS Kernels Updated With AMD Zen 1 Divide By Zero Bug-Fix](https://www.phoronix.com/news/Linux-6.4.10-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Finish Gutting Wireless USB & UWB](https://www.phoronix.com/news/Linux-6.6-Finish-Gutting-WUSB)
+
 ## 20230811
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 22.04.3 LTS Released With Linux 6.2 + Mesa 23.0 HWE Stack](https://www.phoronix.com/news/Ubuntu-23.04.3-LTS)
 - [Phoronix](https://www.phoronix.com/) | [Microsoft's CBL-Mariner 2.0 Linux Distro Adds DNF5, Zstd-Compressed RPMs](https://www.phoronix.com/news/CBL-Mariner-2.0.20230805)

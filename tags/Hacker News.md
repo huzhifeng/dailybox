@@ -1,3 +1,6 @@
+## 20230812
+- [Hacker News](https://news.ycombinator.com/front) | [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://news.ycombinator.com/item?id=37089545)
+
 ## 20230811
 - [Hacker News](https://news.ycombinator.com/front) | [Vim Boss](https://news.ycombinator.com/item?id=37078719)
 - [Hacker News](https://news.ycombinator.com/front) | [MS Teams channels cannot contain MS-DOS device names](https://news.ycombinator.com/item?id=37076523)

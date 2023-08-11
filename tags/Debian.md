@@ -1,3 +1,8 @@
+## 20230812
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Private posts](https://diziet.dreamwidth.org/15789.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Post Akademy Snap Wrap Up and Future](https://www.scarlettgatelymoore.dev/kde-post-akademy-snap-wrap-up-and-future/)
+- [Planet Debian](https://planet.debian.org/) | [Birger Schacht: Another round of rust](https://bisco.org/notes/another-round-of-rust/)
+
 ## 20230811
 - [Planet Debian](https://planet.debian.org/) | [Sandro Tosi: Mastodon hook for dput-ng](http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html)
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Invidious add-on for Kodi 20](https://people.skolelinux.org/pere/blog/Invidious_add_on_for_Kodi_20.html)
