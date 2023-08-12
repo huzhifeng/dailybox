@@ -1,3 +1,8 @@
+## 20230813
+- [Product Hunt](https://www.producthunt.com) | [Ph.D. Compass](https://www.producthunt.com/posts/ph-d-compass)
+- [Product Hunt](https://www.producthunt.com) | [BuhoCleaner 1.9.6](https://www.producthunt.com/posts/buhocleaner-1-9-6)
+- [Product Hunt](https://www.producthunt.com) | [Tappity STEM School](https://www.producthunt.com/posts/tappity-stem-school)
+
 ## 20230812
 - [Product Hunt](https://www.producthunt.com) | [Retime](https://www.producthunt.com/posts/retime)
 - [Product Hunt](https://www.producthunt.com) | [Compliance Effort Calculator](https://www.producthunt.com/posts/compliance-effort-calculator)

@@ -1,3 +1,8 @@
+## 20230813
+- [V2EX](https://www.v2ex.com/) | [微信发信息：在吗？？ 这些人是不是有病？](https://www.v2ex.com/t/964776)
+- [V2EX](https://www.v2ex.com/) | [讨论下如何保护手中的钱且不受放水影响吧？](https://www.v2ex.com/t/964769)
+- [V2EX](https://www.v2ex.com/) | [关于 APP 备案，对普通人其实根本没有影响](https://www.v2ex.com/t/964721)
+
 ## 20230812
 - [V2EX](https://www.v2ex.com/) | [小米刷了欧版的 MIUI，世界并没有清静](https://www.v2ex.com/t/964390)
 - [V2EX](https://www.v2ex.com/) | [北京的孩子考大学的比例的确是高](https://www.v2ex.com/t/964356)

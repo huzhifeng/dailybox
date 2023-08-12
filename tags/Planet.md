@@ -1,3 +1,6 @@
+## 20230813
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+
 ## 20230812
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 32 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-32-2023/)

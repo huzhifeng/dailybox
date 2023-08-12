@@ -1,3 +1,6 @@
+## 20230813
+- [Hacker News](https://news.ycombinator.com/front) | [How a startup loses its spark](https://news.ycombinator.com/item?id=37098483)
+
 ## 20230812
 - [Hacker News](https://news.ycombinator.com/front) | [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://news.ycombinator.com/item?id=37089545)
 

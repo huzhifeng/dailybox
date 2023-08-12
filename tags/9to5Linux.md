@@ -1,3 +1,6 @@
+## 20230813
+- [9to5Linux](https://9to5linux.com/) | [Debian Systems Now Patched Against &#8220;Downfall&#8221; and &#8220;INCEPTION&#8221; CPU Flaws](https://9to5linux.com/debian-systems-now-patched-against-downfall-and-inception-cpu-flaws)
+
 ## 20230811
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04.3 LTS Released with Linux 6.2 Kernel and Mesa 23.0 Graphics Stacks](https://9to5linux.com/ubuntu-22-04-3-lts-released-with-linux-6-2-kernel-and-mesa-23-0-graphics-stacks)
 

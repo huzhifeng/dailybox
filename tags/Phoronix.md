@@ -1,3 +1,8 @@
+## 20230813
+- [Phoronix](https://www.phoronix.com/) | [AMD FreeSync Panel Replay Ready For Linux 6.6, Next-Gen GPU Enablement Started](https://www.phoronix.com/news/AMD-FSPR-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Updated To Add Zenbleed Fix For Valve's Steam Deck](https://www.phoronix.com/news/Linux-Zenbleed-Steam-Deck)
+- [Phoronix](https://www.phoronix.com/) | [Intel Wiring Up DisplayPort Alt Mode 2.1 Support For Linux](https://www.phoronix.com/news/Intel-Linux-DP-Alt-Mode-2.1)
+
 ## 20230812
 - [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The "NVK" Open-Source NVIDIA Vulkan Driver](https://www.phoronix.com/review/nvk-vulkan-performance)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.4.10 & LTS Kernels Updated With AMD Zen 1 Divide By Zero Bug-Fix](https://www.phoronix.com/news/Linux-6.4.10-Released)
