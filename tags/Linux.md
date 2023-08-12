@@ -1,3 +1,12 @@
+## 20230813
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1091 Chrome 将支持抗量子计算机攻击加密](https://linux.cn/article-16087-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD FreeSync Panel Replay Ready For Linux 6.6, Next-Gen GPU Enablement Started](https://www.phoronix.com/news/AMD-FSPR-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Updated To Add Zenbleed Fix For Valve's Steam Deck](https://www.phoronix.com/news/Linux-Zenbleed-Steam-Deck)
+- [Phoronix](https://www.phoronix.com/) | [Intel Wiring Up DisplayPort Alt Mode 2.1 Support For Linux](https://www.phoronix.com/news/Intel-Linux-DP-Alt-Mode-2.1)
+- [9to5Linux](https://9to5linux.com/) | [Debian Systems Now Patched Against &#8220;Downfall&#8221; and &#8220;INCEPTION&#8221; CPU Flaws](https://9to5linux.com/debian-systems-now-patched-against-downfall-and-inception-cpu-flaws)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 development continues](https://pointieststick.com/2023/08/11/this-week-in-kde-plasma-6-development-continues-2/)
+
 ## 20230812
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1090 甲骨文、SUSE 等“抱团”制作兼容版企业 Linux](https://linux.cn/article-16084-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)

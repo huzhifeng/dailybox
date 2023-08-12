@@ -1,3 +1,6 @@
+## 20230813
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [holo-layer 一种全新的 Emacs 增强图层插件](https://manateelazycat.github.io/2023/08/12/holo-layer/)
+
 ## 20230811
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [自由泳技巧](https://manateelazycat.github.io/2023/08/10/freestyle/)
 

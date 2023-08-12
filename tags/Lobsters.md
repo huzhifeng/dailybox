@@ -1,3 +1,8 @@
+## 20230813
+- [Lobsters](https://lobste.rs/) | [Scaling Postgres to 1 Million Connections](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections)
+- [Lobsters](https://lobste.rs/) | [Rewriting wipEout](https://lobste.rs/s/21hbtl/rewriting_wipeout)
+- [Lobsters](https://lobste.rs/) | [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://lobste.rs/s/fdtqjx/clos_integrating_object_oriented)
+
 ## 20230812
 - [Lobsters](https://lobste.rs/) | [Prepare your Firefox desktop extension for the upcoming Android release](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension)
 - [Lobsters](https://lobste.rs/) | [The complex simplicity of my static websites](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites)

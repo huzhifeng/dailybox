@@ -1,3 +1,8 @@
+## 20230813
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT将会成为强者的外挂？—— 提高学习能力](https://blog.csdn.net/Justw320/article/details/132180549)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [如何维护自己的电脑](https://blog.csdn.net/u014388408/article/details/132200133)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 智能推荐系统 未来没有人比计算机更懂你](https://blog.csdn.net/Qingai521/article/details/132219217)
+
 ## 20230812
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军2023年度演讲定档，还有折叠屏新机 、平板发布；OpenAI在中国申请注册“GPT-5”商标；Vim 项目的未来|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132224460)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Spring Boot】详解restful api](https://blog.csdn.net/Joker_ZJN/article/details/132207318)

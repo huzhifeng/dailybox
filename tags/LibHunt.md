@@ -1,3 +1,8 @@
+## 20230813
+- [LibHunt](https://www.libhunt.com/) | [txtai](https://www.libhunt.com/r/txtai)
+- [LibHunt](https://www.libhunt.com/) | [go](https://www.libhunt.com/r/go)
+- [LibHunt](https://www.libhunt.com/) | [midica](https://www.libhunt.com/r/midica)
+
 ## 20230812
 - [LibHunt](https://www.libhunt.com/) | [terraform](https://www.libhunt.com/r/terraform)
 - [LibHunt](https://www.libhunt.com/) | [AR-Touch](https://www.libhunt.com/r/AR-Touch)

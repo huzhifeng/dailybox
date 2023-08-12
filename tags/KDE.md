@@ -1,3 +1,6 @@
+## 20230813
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 development continues](https://pointieststick.com/2023/08/11/this-week-in-kde-plasma-6-development-continues-2/)
+
 ## 20230807
 - [This week in KDE](https://pointieststick.com/) | [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
 
