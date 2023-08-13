@@ -1,3 +1,6 @@
+## 20230814
+- [Slashdot](https://linux.slashdot.org/) | [Should There Be an 'Official' Version of Linux?](https://linux.slashdot.org/story/23/08/12/1835204/should-there-be-an-official-version-of-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230808
 - [Slashdot](https://developers.slashdot.org/) | [Should a Variable's Type Come After Its Name?](https://developers.slashdot.org/story/23/08/07/0136228/should-a-variables-type-come-after-its-name?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

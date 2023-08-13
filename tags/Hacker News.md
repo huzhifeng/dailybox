@@ -1,3 +1,6 @@
+## 20230814
+- [Hacker News](https://news.ycombinator.com/front) | [PDF Tool – Modify PDFs in the browser without uploading](https://news.ycombinator.com/item?id=37110628)
+
 ## 20230813
 - [Hacker News](https://news.ycombinator.com/front) | [How a startup loses its spark](https://news.ycombinator.com/item?id=37098483)
 

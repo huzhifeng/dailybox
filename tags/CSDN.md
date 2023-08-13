@@ -1,3 +1,8 @@
+## 20230814
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近ChatGPT与类似产品：原理解析与比较](https://blog.csdn.net/weixin_42794881/article/details/132257177)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【python】爬取豆瓣电影Top250（附源码）](https://blog.csdn.net/m0_73367097/article/details/132108598)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [人工智能原理概述 - ChatGPT 背后的故事](https://blog.csdn.net/u012558210/article/details/132244109)
+
 ## 20230813
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT将会成为强者的外挂？—— 提高学习能力](https://blog.csdn.net/Justw320/article/details/132180549)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [如何维护自己的电脑](https://blog.csdn.net/u014388408/article/details/132200133)

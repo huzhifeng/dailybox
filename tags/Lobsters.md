@@ -1,3 +1,8 @@
+## 20230814
+- [Lobsters](https://lobste.rs/) | [Fantastic Learning Resources](https://lobste.rs/s/sra8zc/fantastic_learning_resources)
+- [Lobsters](https://lobste.rs/) | [The world in which IPv6 was a good design (2017)](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017)
+- [Lobsters](https://lobste.rs/) | [Rust Server Components](https://lobste.rs/s/kilt3o/rust_server_components)
+
 ## 20230813
 - [Lobsters](https://lobste.rs/) | [Scaling Postgres to 1 Million Connections](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections)
 - [Lobsters](https://lobste.rs/) | [Rewriting wipEout](https://lobste.rs/s/21hbtl/rewriting_wipeout)

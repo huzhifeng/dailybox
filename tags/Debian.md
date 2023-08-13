@@ -1,3 +1,7 @@
+## 20230814
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Terrain base for 3D castle](https://jmtd.net/log/zarchscape/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/13#041_r2u_and_codespaces)
+
 ## 20230812
 - [Planet Debian](https://planet.debian.org/) | [Ian Jackson: Private posts](https://diziet.dreamwidth.org/15789.html)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Post Akademy Snap Wrap Up and Future](https://www.scarlettgatelymoore.dev/kde-post-akademy-snap-wrap-up-and-future/)

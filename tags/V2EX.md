@@ -1,3 +1,8 @@
+## 20230814
+- [V2EX](https://www.v2ex.com/) | [个人觉得 JB 家的新 UI 是真的难看](https://www.v2ex.com/t/964929)
+- [V2EX](https://www.v2ex.com/) | [前端同事上班频繁玩手机。](https://www.v2ex.com/t/964872)
+- [V2EX](https://www.v2ex.com/) | [AMD R77840HS 安装 Manjaro 操作系统的问题大吗](https://www.v2ex.com/t/964862)
+
 ## 20230813
 - [V2EX](https://www.v2ex.com/) | [微信发信息：在吗？？ 这些人是不是有病？](https://www.v2ex.com/t/964776)
 - [V2EX](https://www.v2ex.com/) | [讨论下如何保护手中的钱且不受放水影响吧？](https://www.v2ex.com/t/964769)

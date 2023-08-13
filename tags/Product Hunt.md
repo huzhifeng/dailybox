@@ -1,3 +1,8 @@
+## 20230814
+- [Product Hunt](https://www.producthunt.com) | [MindPal](https://www.producthunt.com/posts/mindpal-2)
+- [Product Hunt](https://www.producthunt.com) | [MeMemes](https://www.producthunt.com/posts/mememes)
+- [Product Hunt](https://www.producthunt.com) | [WorkbookPDF](https://www.producthunt.com/posts/workbookpdf)
+
 ## 20230813
 - [Product Hunt](https://www.producthunt.com) | [Ph.D. Compass](https://www.producthunt.com/posts/ph-d-compass)
 - [Product Hunt](https://www.producthunt.com) | [BuhoCleaner 1.9.6](https://www.producthunt.com/posts/buhocleaner-1-9-6)

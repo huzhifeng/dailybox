@@ -1,3 +1,6 @@
+## 20230814
+- [OMG! Linux](https://www.omglinux.com/) | [See System Info on Linux with New App ‘Inspector’](https://www.omglinux.com/see-system-info-linux-inspector-app/)
+
 ## 20230811
 - [OMG! Linux](https://www.omglinux.com/) | [Pine64’s RISC-V Tablet Gets KDE-Powered Desktop Image](https://www.omglinux.com/pinetab-v-tablet-plasma-desktop-distro/)
 
