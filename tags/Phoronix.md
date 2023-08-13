@@ -1,3 +1,8 @@
+## 20230814
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc6 Released With Latest CPU Security Mitigations & Bug Fixes](https://www.phoronix.com/news/Linux-6.5-rc6)
+- [Phoronix](https://www.phoronix.com/) | [Casefolding For Bcachefs File-System Posted](https://www.phoronix.com/news/Bcachefs-Case-Folding-Patches)
+- [Phoronix](https://www.phoronix.com/) | [RADV Ray-Tracing To Become Much Faster With New Driver Code](https://www.phoronix.com/news/RADV-Batch-Accel-RT)
+
 ## 20230813
 - [Phoronix](https://www.phoronix.com/) | [AMD FreeSync Panel Replay Ready For Linux 6.6, Next-Gen GPU Enablement Started](https://www.phoronix.com/news/AMD-FSPR-Linux-6.6)
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Updated To Add Zenbleed Fix For Valve's Steam Deck](https://www.phoronix.com/news/Linux-Zenbleed-Steam-Deck)

@@ -1,3 +1,10 @@
+## 20230814
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Industrializing Machine Learning](https://avi.alkalay.net/2023/08/industrializing-machine-learning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jean-Baptiste Holcroft: Mesurer l’état de santé des communautés linguistiques](https://jibecfed.fedorapeople.org/blog-hugo/fr/2023/08/mesurer-l%C3%A9tat-de-sant%C3%A9-des-communaut%C3%A9s-linguistiques/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Terrain base for 3D castle](https://jmtd.net/log/zarchscape/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/13#041_r2u_and_codespaces)
+
 ## 20230813
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
 

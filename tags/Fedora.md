@@ -1,3 +1,8 @@
+## 20230814
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Industrializing Machine Learning](https://avi.alkalay.net/2023/08/industrializing-machine-learning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jean-Baptiste Holcroft: Mesurer l’état de santé des communautés linguistiques](https://jibecfed.fedorapeople.org/blog-hugo/fr/2023/08/mesurer-l%C3%A9tat-de-sant%C3%A9-des-communaut%C3%A9s-linguistiques/)
+
 ## 20230813
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
 

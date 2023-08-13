@@ -1,3 +1,18 @@
+## 20230814
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1092 时隔 15 年，几名学生再次黑进波士顿地铁](https://linux.cn/article-16090-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc6 Released With Latest CPU Security Mitigations & Bug Fixes](https://www.phoronix.com/news/Linux-6.5-rc6)
+- [Phoronix](https://www.phoronix.com/) | [Casefolding For Bcachefs File-System Posted](https://www.phoronix.com/news/Bcachefs-Case-Folding-Patches)
+- [Phoronix](https://www.phoronix.com/) | [RADV Ray-Tracing To Become Much Faster With New Driver Code](https://www.phoronix.com/news/RADV-Batch-Accel-RT)
+- [OMG! Linux](https://www.omglinux.com/) | [See System Info on Linux with New App ‘Inspector’](https://www.omglinux.com/see-system-info-linux-inspector-app/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Industrializing Machine Learning](https://avi.alkalay.net/2023/08/industrializing-machine-learning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jean-Baptiste Holcroft: Mesurer l’état de santé des communautés linguistiques](https://jibecfed.fedorapeople.org/blog-hugo/fr/2023/08/mesurer-l%C3%A9tat-de-sant%C3%A9-des-communaut%C3%A9s-linguistiques/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Terrain base for 3D castle](https://jmtd.net/log/zarchscape/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/13#041_r2u_and_codespaces)
+- [This week in KDE](https://pointieststick.com/) | [Bug tracking vs user support](https://pointieststick.com/2023/08/13/bug-tracking-vs-user-support/)
+- [This week in KDE](https://pointieststick.com/) | [How all this icon stuff is going to work in Plasma 6](https://pointieststick.com/2023/08/12/how-all-this-icon-stuff-is-going-to-work-in-plasma-6/)
+- [Slashdot](https://linux.slashdot.org/) | [Should There Be an 'Official' Version of Linux?](https://linux.slashdot.org/story/23/08/12/1835204/should-there-be-an-official-version-of-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230813
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1091 Chrome 将支持抗量子计算机攻击加密](https://linux.cn/article-16087-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD FreeSync Panel Replay Ready For Linux 6.6, Next-Gen GPU Enablement Started](https://www.phoronix.com/news/AMD-FSPR-Linux-6.6)

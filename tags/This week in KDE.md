@@ -1,3 +1,7 @@
+## 20230814
+- [This week in KDE](https://pointieststick.com/) | [Bug tracking vs user support](https://pointieststick.com/2023/08/13/bug-tracking-vs-user-support/)
+- [This week in KDE](https://pointieststick.com/) | [How all this icon stuff is going to work in Plasma 6](https://pointieststick.com/2023/08/12/how-all-this-icon-stuff-is-going-to-work-in-plasma-6/)
+
 ## 20230813
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 development continues](https://pointieststick.com/2023/08/11/this-week-in-kde-plasma-6-development-continues-2/)
 
