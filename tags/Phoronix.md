@@ -1,3 +1,8 @@
+## 20230815
+- [Phoronix](https://www.phoronix.com/) | [Intel Making Improvements For CPU Microcode Updating Under Linux](https://www.phoronix.com/news/Intel-Better-ucode-Loading)
+- [Phoronix](https://www.phoronix.com/) | [Go 2 For "Breaking With The Past" Will Never Come](https://www.phoronix.com/news/Go-Language-Roadmap-No-2)
+- [Phoronix](https://www.phoronix.com/) | [IO_uring Adding Support For Vectored FUTEX Waits In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-IO_uring-FUTEX)
+
 ## 20230814
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc6 Released With Latest CPU Security Mitigations & Bug Fixes](https://www.phoronix.com/news/Linux-6.5-rc6)
 - [Phoronix](https://www.phoronix.com/) | [Casefolding For Bcachefs File-System Posted](https://www.phoronix.com/news/Bcachefs-Case-Folding-Patches)

@@ -1,3 +1,6 @@
+## 20230815
+- [TED Talks Daily](https://www.ted.com/talks) | [Is the US headed towards another civil war? | Barbara F. Walter](https://www.ted.com/talks/barbara_f_walter_is_the_us_headed_towards_another_civil_war?rss)
+
 ## 20230810
 - [TED Talks Daily](https://www.ted.com/talks) | [How targeted ads might just save your life | Sandersan Onie](https://www.ted.com/talks/sandersan_onie_how_targeted_ads_might_just_save_your_life?rss)
 

@@ -1,3 +1,6 @@
+## 20230815
+- [DistroWatch Weekly](https://distrowatch.com/weekly.php) | [DistroWatch Weekly, Issue 1032](https://distrowatch.com/weekly.php?issue=20230814)
+
 ## 20230808
 - [DistroWatch Weekly](https://distrowatch.com/weekly.php) | [DistroWatch Weekly, Issue 1031](https://distrowatch.com/weekly.php?issue=20230807)
 

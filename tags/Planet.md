@@ -1,3 +1,10 @@
+## 20230815
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bastien Nocera: New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: listadmin3: An imperfect replacement for listadmin on Mailman 3](https://www.earth.li/~noodles/blog/2023/08/announcing-listadmin3.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Encoding “The Legend of Sisyphus”](http://blog.sesse.net/blog/tech/2023-08-14-18-19_encoding_the_legend_of_sisyphus.html)
+
 ## 20230814
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Industrializing Machine Learning](https://avi.alkalay.net/2023/08/industrializing-machine-learning.html)

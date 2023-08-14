@@ -1,3 +1,8 @@
+## 20230815
+- [diff.blog](https://diff.blog/) | [Backward Compatibility, Go 1.21, and Go 2](https://diff.blog/post/backward-compatibility-go-121-and-go-2-152474/)
+- [diff.blog](https://diff.blog/) | [The data of 760,000 Discord.io users was put up for sale on the darknet](https://diff.blog/post/the-data-of-760000-discordio-users-was-put-up-for-sale-on-the-darknet-152466/)
+- [diff.blog](https://diff.blog/) | [Forward Compatibility and Toolchain Management in Go 1.21](https://diff.blog/post/forward-compatibility-and-toolchain-management-in-go-121-152471/)
+
 ## 20230812
 - [diff.blog](https://diff.blog/) | [Supavisor: Scaling Postgres to 1 Million Connections](https://diff.blog/post/supavisor-scaling-postgres-to-1-million-connections-146007/)
 

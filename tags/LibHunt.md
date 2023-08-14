@@ -1,3 +1,6 @@
+## 20230815
+- [LibHunt](https://www.libhunt.com/) | [litellm](https://www.libhunt.com/r/litellm)
+
 ## 20230813
 - [LibHunt](https://www.libhunt.com/) | [txtai](https://www.libhunt.com/r/txtai)
 - [LibHunt](https://www.libhunt.com/) | [go](https://www.libhunt.com/r/go)

@@ -1,3 +1,6 @@
+## 20230815
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from Azure Marketplace](https://developers.redhat.com/articles/2023/08/14/how-use-ansible-automation-platform-azure-marketplace)
+
 ## 20230812
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)
 

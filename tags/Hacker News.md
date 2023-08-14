@@ -1,3 +1,7 @@
+## 20230815
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://news.ycombinator.com/item?id=37119942)
+- [Hacker News](https://news.ycombinator.com/front) | [Writing about what you learn pushes you to understand topics better](https://news.ycombinator.com/item?id=37118883)
+
 ## 20230814
 - [Hacker News](https://news.ycombinator.com/front) | [PDF Tool – Modify PDFs in the browser without uploading](https://news.ycombinator.com/item?id=37110628)
 
