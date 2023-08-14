@@ -1,3 +1,8 @@
+## 20230815
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bastien Nocera: New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
+
 ## 20230814
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Industrializing Machine Learning](https://avi.alkalay.net/2023/08/industrializing-machine-learning.html)

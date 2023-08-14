@@ -1,3 +1,8 @@
+## 20230815
+- [Lobsters](https://lobste.rs/) | [How should I read type system notation?](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation)
+- [Lobsters](https://lobste.rs/) | [Don't be clever](https://lobste.rs/s/vmpcji/don_t_be_clever)
+- [Lobsters](https://lobste.rs/) | [Backward Compatibility, Go 1.21, and Go 2](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2)
+
 ## 20230814
 - [Lobsters](https://lobste.rs/) | [Fantastic Learning Resources](https://lobste.rs/s/sra8zc/fantastic_learning_resources)
 - [Lobsters](https://lobste.rs/) | [The world in which IPv6 was a good design (2017)](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017)

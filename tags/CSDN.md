@@ -1,3 +1,9 @@
+## 20230815
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [扎克伯格公开怒斥马斯克炒作：我不想陪他玩了；OpenAI 可能在 2024 年破产；英伟达发布 CALMAI 模型|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132269412)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [人工智能原理概述 - ChatGPT 背后的故事](https://blog.csdn.net/u012558210/article/details/132244109)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近ChatGPT与类似产品：原理解析与比较](https://blog.csdn.net/weixin_42794881/article/details/132257177)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker精进篇] Docker部署和实践 (二)](https://blog.csdn.net/weixin_54174102/article/details/132274298)
+
 ## 20230814
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近ChatGPT与类似产品：原理解析与比较](https://blog.csdn.net/weixin_42794881/article/details/132257177)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【python】爬取豆瓣电影Top250（附源码）](https://blog.csdn.net/m0_73367097/article/details/132108598)

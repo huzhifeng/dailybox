@@ -1,3 +1,16 @@
+## 20230815
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1093 Firefox 在意 Linux 桌面用户吗？](https://linux.cn/article-16093-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from Azure Marketplace](https://developers.redhat.com/articles/2023/08/14/how-use-ansible-automation-platform-azure-marketplace)
+- [Phoronix](https://www.phoronix.com/) | [Intel Making Improvements For CPU Microcode Updating Under Linux](https://www.phoronix.com/news/Intel-Better-ucode-Loading)
+- [Phoronix](https://www.phoronix.com/) | [Go 2 For "Breaking With The Past" Will Never Come](https://www.phoronix.com/news/Go-Language-Roadmap-No-2)
+- [Phoronix](https://www.phoronix.com/) | [IO_uring Adding Support For Vectored FUTEX Waits In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-IO_uring-FUTEX)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 13th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-13th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bastien Nocera: New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: listadmin3: An imperfect replacement for listadmin on Mailman 3](https://www.earth.li/~noodles/blog/2023/08/announcing-listadmin3.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Encoding “The Legend of Sisyphus”](http://blog.sesse.net/blog/tech/2023-08-14-18-19_encoding_the_legend_of_sisyphus.html)
+
 ## 20230814
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1092 时隔 15 年，几名学生再次黑进波士顿地铁](https://linux.cn/article-16090-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5-rc6 Released With Latest CPU Security Mitigations & Bug Fixes](https://www.phoronix.com/news/Linux-6.5-rc6)

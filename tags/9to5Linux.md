@@ -1,3 +1,6 @@
+## 20230815
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 13th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-13th-2023)
+
 ## 20230813
 - [9to5Linux](https://9to5linux.com/) | [Debian Systems Now Patched Against &#8220;Downfall&#8221; and &#8220;INCEPTION&#8221; CPU Flaws](https://9to5linux.com/debian-systems-now-patched-against-downfall-and-inception-cpu-flaws)
 

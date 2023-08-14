@@ -1,3 +1,6 @@
+## 20230815
+- [It's FOSS](https://itsfoss.com/) | [Create Table of Contents, Figures and Index of Tables in LibreOffice](https://itsfoss.com/libreoffice-table-of-contents/)
+
 ## 20230812
 - [It's FOSS](https://itsfoss.com/) | [Use Split Screen in Ubuntu to View Multiple Application Windows at Once](https://itsfoss.com/ubuntu-split-screen/)
 
