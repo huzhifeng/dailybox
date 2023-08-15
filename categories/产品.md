@@ -1,3 +1,8 @@
+## 20230816
+- [Product Hunt](https://www.producthunt.com) | [Clearmind](https://www.producthunt.com/posts/clearmind-3)
+- [Product Hunt](https://www.producthunt.com) | [Clay 2.0](https://www.producthunt.com/posts/clay-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Offsite](https://www.producthunt.com/posts/offsite)
+
 ## 20230815
 - [Product Hunt](https://www.producthunt.com) | [Chatwith](https://www.producthunt.com/posts/chatwith)
 - [Product Hunt](https://www.producthunt.com) | [Transhumans](https://www.producthunt.com/posts/transhumans)

@@ -1,3 +1,19 @@
+## 20230816
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1094 “Go 2 永远不会出现”](https://linux.cn/article-16096-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Cryostat agent to profile Java workloads](https://developers.redhat.com/articles/2023/08/15/how-use-cryostat-agent-profile-java-workloads)
+- [Red Hat Developer](https://developers.redhat.com/) | [Set up a continuous integration pipeline with Ansible Automation Platform & GitLab](https://developers.redhat.com/articles/2023/08/15/continuous-integration-pipeline-ansible-gitlab)
+- [Phoronix](https://www.phoronix.com/) | [Chrome 116 Released With Document Picture-In-Picture API](https://www.phoronix.com/news/Chrome-116-Released)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarking The Performance Impact To AMD Inception Mitigations](https://www.phoronix.com/review/amd-inception-benchmarks)
+- [Phoronix](https://www.phoronix.com/) | [Devuan 5.0 Released For Debian 12 Without systemd](https://www.phoronix.com/news/Devuan-5.0-Released)
+- [9to5Linux](https://9to5linux.com/) | [Devuan GNU+Linux 5 Is Here for Software Freedom Lovers Based on Debian 12](https://9to5linux.com/devuan-gnulinux-5-is-here-for-software-freedom-lovers-based-on-debian-12)
+- [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 23.08 Released with Linux Kernel 6.4, Mesa 23.2, and More](https://9to5linux.com/openmandriva-lx-23-08-released-with-linux-kernel-6-4-mesa-23-2-and-more)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kamil Páral: Bisecting Fedora kernel](https://kparal.wordpress.com/2023/08/15/bisecting-fedora-kernel/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/15#041_r2u_and_codespaces)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: DKIM: rotate and publish your keys](https://diziet.dreamwidth.org/16025.html)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, July 2023 (by Santiago Ruano Rincón)](https://www.freexian.com/blog/debian-lts-report-2023-07/)
+
 ## 20230815
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1093 Firefox 在意 Linux 桌面用户吗？](https://linux.cn/article-16093-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from Azure Marketplace](https://developers.redhat.com/articles/2023/08/14/how-use-ansible-automation-platform-azure-marketplace)

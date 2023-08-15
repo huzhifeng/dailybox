@@ -1,3 +1,11 @@
+## 20230816
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kamil Páral: Bisecting Fedora kernel](https://kparal.wordpress.com/2023/08/15/bisecting-fedora-kernel/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/15#041_r2u_and_codespaces)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: DKIM: rotate and publish your keys](https://diziet.dreamwidth.org/16025.html)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, July 2023 (by Santiago Ruano Rincón)](https://www.freexian.com/blog/debian-lts-report-2023-07/)
+
 ## 20230815
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
