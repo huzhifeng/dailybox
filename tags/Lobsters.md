@@ -1,3 +1,8 @@
+## 20230816
+- [Lobsters](https://lobste.rs/) | [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at)
+- [Lobsters](https://lobste.rs/) | [Transpiler, a meaningless word](https://lobste.rs/s/id9jet/transpiler_meaningless_word)
+- [Lobsters](https://lobste.rs/) | [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for)
+
 ## 20230815
 - [Lobsters](https://lobste.rs/) | [How should I read type system notation?](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation)
 - [Lobsters](https://lobste.rs/) | [Don't be clever](https://lobste.rs/s/vmpcji/don_t_be_clever)

@@ -1,3 +1,8 @@
+## 20230816
+- [V2EX](https://www.v2ex.com/) | [[抽奖] [优惠] 评论送六台 HomeKit +CozyLife 双平台 五路球泡灯，包邮 25](https://www.v2ex.com/t/965474)
+- [V2EX](https://www.v2ex.com/) | [吾有一计，不知当讲否](https://www.v2ex.com/t/965456)
+- [V2EX](https://www.v2ex.com/) | [以前的 mac 质量更好,大家怎么看](https://www.v2ex.com/t/965348)
+
 ## 20230815
 - [V2EX](https://www.v2ex.com/) | [[ Private Beta 邀请 ] Podwise, 一款面向 Podcast 听众的学习软件](https://www.v2ex.com/t/965212)
 - [V2EX](https://www.v2ex.com/) | [深圳的医疗，大病不要看，小病不用看](https://www.v2ex.com/t/965084)

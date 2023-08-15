@@ -1,3 +1,8 @@
+## 20230816
+- [LibHunt](https://www.libhunt.com/) | [astro](https://www.libhunt.com/r/astro)
+- [LibHunt](https://www.libhunt.com/) | [quake2-rerelease-dll](https://www.libhunt.com/r/quake2-rerelease-dll)
+- [LibHunt](https://www.libhunt.com/) | [GPT-Synthesizer](https://www.libhunt.com/r/GPT-Synthesizer)
+
 ## 20230815
 - [LibHunt](https://www.libhunt.com/) | [litellm](https://www.libhunt.com/r/litellm)
 

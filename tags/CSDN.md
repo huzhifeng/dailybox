@@ -1,3 +1,9 @@
+## 20230816
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里明确钉钉独立发展；中国首次超过美国成 iPhone 最大市场；Electron 25.5.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132291230)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近ChatGPT与类似产品：原理解析与比较](https://blog.csdn.net/weixin_42794881/article/details/132257177)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker精进篇] Docker部署和实践 (二)](https://blog.csdn.net/weixin_54174102/article/details/132274298)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [安全远控如何设置？揭秘ToDesk、TeamViewer 、向日葵安全远程防御大招](https://blog.csdn.net/weixin_53072519/article/details/132279659)
+
 ## 20230815
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [扎克伯格公开怒斥马斯克炒作：我不想陪他玩了；OpenAI 可能在 2024 年破产；英伟达发布 CALMAI 模型|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132269412)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [人工智能原理概述 - ChatGPT 背后的故事](https://blog.csdn.net/u012558210/article/details/132244109)

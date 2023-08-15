@@ -1,3 +1,8 @@
+## 20230816
+- [Hacker News](https://news.ycombinator.com/front) | [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://news.ycombinator.com/item?id=37137110)
+- [Hacker News](https://news.ycombinator.com/front) | [Firefox finally outperforming Google Chrome in SunSpider](https://news.ycombinator.com/item?id=37134092)
+- [Hacker News](https://news.ycombinator.com/front) | [The OpenTF Manifesto](https://news.ycombinator.com/item?id=37133054)
+
 ## 20230815
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://news.ycombinator.com/item?id=37119942)
 - [Hacker News](https://news.ycombinator.com/front) | [Writing about what you learn pushes you to understand topics better](https://news.ycombinator.com/item?id=37118883)

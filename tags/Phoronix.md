@@ -1,3 +1,8 @@
+## 20230816
+- [Phoronix](https://www.phoronix.com/) | [Chrome 116 Released With Document Picture-In-Picture API](https://www.phoronix.com/news/Chrome-116-Released)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarking The Performance Impact To AMD Inception Mitigations](https://www.phoronix.com/review/amd-inception-benchmarks)
+- [Phoronix](https://www.phoronix.com/) | [Devuan 5.0 Released For Debian 12 Without systemd](https://www.phoronix.com/news/Devuan-5.0-Released)
+
 ## 20230815
 - [Phoronix](https://www.phoronix.com/) | [Intel Making Improvements For CPU Microcode Updating Under Linux](https://www.phoronix.com/news/Intel-Better-ucode-Loading)
 - [Phoronix](https://www.phoronix.com/) | [Go 2 For "Breaking With The Past" Will Never Come](https://www.phoronix.com/news/Go-Language-Roadmap-No-2)

@@ -1,3 +1,7 @@
+## 20230816
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Cryostat agent to profile Java workloads](https://developers.redhat.com/articles/2023/08/15/how-use-cryostat-agent-profile-java-workloads)
+- [Red Hat Developer](https://developers.redhat.com/) | [Set up a continuous integration pipeline with Ansible Automation Platform & GitLab](https://developers.redhat.com/articles/2023/08/15/continuous-integration-pipeline-ansible-gitlab)
+
 ## 20230815
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from Azure Marketplace](https://developers.redhat.com/articles/2023/08/14/how-use-ansible-automation-platform-azure-marketplace)
 

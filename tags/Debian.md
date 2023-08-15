@@ -1,3 +1,8 @@
+## 20230816
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/15#041_r2u_and_codespaces)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: DKIM: rotate and publish your keys](https://diziet.dreamwidth.org/16025.html)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Monthly report about Debian Long Term Support, July 2023 (by Santiago Ruano Rincón)](https://www.freexian.com/blog/debian-lts-report-2023-07/)
+
 ## 20230815
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: listadmin3: An imperfect replacement for listadmin on Mailman 3](https://www.earth.li/~noodles/blog/2023/08/announcing-listadmin3.html)
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Encoding “The Legend of Sisyphus”](http://blog.sesse.net/blog/tech/2023-08-14-18-19_encoding_the_legend_of_sisyphus.html)

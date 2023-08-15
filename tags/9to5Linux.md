@@ -1,3 +1,7 @@
+## 20230816
+- [9to5Linux](https://9to5linux.com/) | [Devuan GNU+Linux 5 Is Here for Software Freedom Lovers Based on Debian 12](https://9to5linux.com/devuan-gnulinux-5-is-here-for-software-freedom-lovers-based-on-debian-12)
+- [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 23.08 Released with Linux Kernel 6.4, Mesa 23.2, and More](https://9to5linux.com/openmandriva-lx-23-08-released-with-linux-kernel-6-4-mesa-23-2-and-more)
+
 ## 20230815
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 13th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-13th-2023)
 

@@ -1,3 +1,6 @@
+## 20230816
+- [TED Talks Daily](https://www.ted.com/talks) | [A mysterious design that appears across millennia | Terry Moore](https://www.ted.com/talks/terry_moore_a_mysterious_design_that_appears_across_millennia?rss)
+
 ## 20230815
 - [TED Talks Daily](https://www.ted.com/talks) | [Is the US headed towards another civil war? | Barbara F. Walter](https://www.ted.com/talks/barbara_f_walter_is_the_us_headed_towards_another_civil_war?rss)
 
