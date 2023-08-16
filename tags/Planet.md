@@ -1,3 +1,11 @@
+## 20230817
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: The University of Utah uses Kiwi TCMS](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/16/the-university-of-utah-uses-kiwi-tcms/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: A First Exercise with AI Training](https://hartmans.dreamwidth.org/100949.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Enforcing wrap-and-sort -satb](https://blog.josefsson.org/2023/08/16/enforcing-wrap-and-sort-satb/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Debian Celebrates 30 years!](https://bits.debian.org/2023/08/debian-turns-30.html)
+
 ## 20230816
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)

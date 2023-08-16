@@ -1,3 +1,7 @@
+## 20230817
+- [Red Hat Developer](https://developers.redhat.com/) | [Streamlining API management with the power of GitOps](https://developers.redhat.com/articles/2023/08/16/streamlining-api-management-power-gitops)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to implement Kubernetes operators with Java Operator SDK](https://developers.redhat.com/articles/2023/08/16/how-implement-kubernetes-operators-java-operator-sdk)
+
 ## 20230816
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Cryostat agent to profile Java workloads](https://developers.redhat.com/articles/2023/08/15/how-use-cryostat-agent-profile-java-workloads)
 - [Red Hat Developer](https://developers.redhat.com/) | [Set up a continuous integration pipeline with Ansible Automation Platform & GitLab](https://developers.redhat.com/articles/2023/08/15/continuous-integration-pipeline-ansible-gitlab)

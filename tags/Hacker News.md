@@ -1,3 +1,7 @@
+## 20230817
+- [Hacker News](https://news.ycombinator.com/front) | [LK-99 isn’t a superconductor](https://news.ycombinator.com/item?id=37149349)
+- [Hacker News](https://news.ycombinator.com/front) | [Htmx is part of the GitHub Accelerator](https://news.ycombinator.com/item?id=37144985)
+
 ## 20230816
 - [Hacker News](https://news.ycombinator.com/front) | [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://news.ycombinator.com/item?id=37137110)
 - [Hacker News](https://news.ycombinator.com/front) | [Firefox finally outperforming Google Chrome in SunSpider](https://news.ycombinator.com/item?id=37134092)
