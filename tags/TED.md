@@ -1,3 +1,6 @@
+## 20230817
+- [TED Talks Daily](https://www.ted.com/talks) | [Why real change is about more than just going viral | Taylor Cassidy](https://www.ted.com/talks/taylor_cassidy_why_real_change_is_about_more_than_just_going_viral?rss)
+
 ## 20230816
 - [TED Talks Daily](https://www.ted.com/talks) | [A mysterious design that appears across millennia | Terry Moore](https://www.ted.com/talks/terry_moore_a_mysterious_design_that_appears_across_millennia?rss)
 

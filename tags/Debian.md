@@ -1,3 +1,8 @@
+## 20230817
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: A First Exercise with AI Training](https://hartmans.dreamwidth.org/100949.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Enforcing wrap-and-sort -satb](https://blog.josefsson.org/2023/08/16/enforcing-wrap-and-sort-satb/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Debian Celebrates 30 years!](https://bits.debian.org/2023/08/debian-turns-30.html)
+
 ## 20230816
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #41: Using r2u in Codespaces](http://dirk.eddelbuettel.com/blog/2023/08/15#041_r2u_and_codespaces)
 - [Planet Debian](https://planet.debian.org/) | [Ian Jackson: DKIM: rotate and publish your keys](https://diziet.dreamwidth.org/16025.html)

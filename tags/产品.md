@@ -1,3 +1,8 @@
+## 20230817
+- [Product Hunt](https://www.producthunt.com) | [LeadrPro](https://www.producthunt.com/posts/leadrpro-2)
+- [Product Hunt](https://www.producthunt.com) | [Blend Icons](https://www.producthunt.com/posts/blend-icons)
+- [Product Hunt](https://www.producthunt.com) | [Narrator](https://www.producthunt.com/posts/narrator-3)
+
 ## 20230816
 - [Product Hunt](https://www.producthunt.com) | [Clearmind](https://www.producthunt.com/posts/clearmind-3)
 - [Product Hunt](https://www.producthunt.com) | [Clay 2.0](https://www.producthunt.com/posts/clay-2-0)

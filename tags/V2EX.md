@@ -1,3 +1,8 @@
+## 20230817
+- [V2EX](https://www.v2ex.com/) | [你们城市坐地铁会被人工安检和测水吗](https://www.v2ex.com/t/965751)
+- [V2EX](https://www.v2ex.com/) | [极氪 001、modelY、蔚来 ET5T 三选一求意见](https://www.v2ex.com/t/965717)
+- [V2EX](https://www.v2ex.com/) | [关于青年失业率，我说下我能看到的身边人](https://www.v2ex.com/t/965688)
+
 ## 20230816
 - [V2EX](https://www.v2ex.com/) | [[抽奖] [优惠] 评论送六台 HomeKit +CozyLife 双平台 五路球泡灯，包邮 25](https://www.v2ex.com/t/965474)
 - [V2EX](https://www.v2ex.com/) | [吾有一计，不知当讲否](https://www.v2ex.com/t/965456)

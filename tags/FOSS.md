@@ -1,3 +1,6 @@
+## 20230817
+- [It's FOSS](https://itsfoss.com/) | [7 Tips and Tweaks to Get More Out of Thunar File Manager of Xfce](https://itsfoss.com/thunar-tweaks/)
+
 ## 20230815
 - [It's FOSS](https://itsfoss.com/) | [Create Table of Contents, Figures and Index of Tables in LibreOffice](https://itsfoss.com/libreoffice-table-of-contents/)
 

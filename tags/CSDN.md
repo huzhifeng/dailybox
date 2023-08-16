@@ -1,3 +1,9 @@
+## 20230817
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [天才少年稚晖君离职华为首秀，官宣智元人形机器人；特斯拉自动驾驶着手落地中国市场；微软高管称程序员等岗位十年内被AI淘汰|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132312137)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker精进篇] Docker部署和实践 (二)](https://blog.csdn.net/weixin_54174102/article/details/132274298)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [「快学Docker」开启容器化时代的利器](https://blog.csdn.net/wml_JavaKill/article/details/132146309)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [安全远控如何设置？揭秘ToDesk、TeamViewer 、向日葵安全远程防御大招](https://blog.csdn.net/weixin_53072519/article/details/132279659)
+
 ## 20230816
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里明确钉钉独立发展；中国首次超过美国成 iPhone 最大市场；Electron 25.5.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132291230)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [走近ChatGPT与类似产品：原理解析与比较](https://blog.csdn.net/weixin_42794881/article/details/132257177)

@@ -1,3 +1,8 @@
+## 20230817
+- [Lobsters](https://lobste.rs/) | [Debian Celebrates 30 years](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years)
+- [Lobsters](https://lobste.rs/) | [Expr v1.14 release: Go expression language](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language)
+- [Lobsters](https://lobste.rs/) | [slogtest](https://lobste.rs/s/oy3k81/slogtest)
+
 ## 20230816
 - [Lobsters](https://lobste.rs/) | [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at)
 - [Lobsters](https://lobste.rs/) | [Transpiler, a meaningless word](https://lobste.rs/s/id9jet/transpiler_meaningless_word)

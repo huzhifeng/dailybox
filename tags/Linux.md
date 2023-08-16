@@ -1,3 +1,18 @@
+## 20230817
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1095 Firefox 庆祝在过时的 JavaScript 基准中超越 Chrome](https://linux.cn/article-16100-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Streamlining API management with the power of GitOps](https://developers.redhat.com/articles/2023/08/16/streamlining-api-management-power-gitops)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to implement Kubernetes operators with Java Operator SDK](https://developers.redhat.com/articles/2023/08/16/how-implement-kubernetes-operators-java-operator-sdk)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.6 Released With Many Graphics Driver Fixes](https://www.phoronix.com/news/Mesa-23.1.6-Released)
+- [Phoronix](https://www.phoronix.com/) | [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks](https://www.phoronix.com/review/visionfive2-riscv-benchmarks)
+- [Phoronix](https://www.phoronix.com/) | [CrossOver 23 Enables EA App On Linux, Many Fixes](https://www.phoronix.com/news/CrossOver-23-Released)
+- [9to5Linux](https://9to5linux.com/) | [Debian Turns 30 Years Old, Happy Birthday!](https://9to5linux.com/debian-turns-30-years-old-happy-birthday)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: The University of Utah uses Kiwi TCMS](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/16/the-university-of-utah-uses-kiwi-tcms/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr outage - updating servers](https://status.fedoraproject.org/2023-08-17-copr-update.html)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: A First Exercise with AI Training](https://hartmans.dreamwidth.org/100949.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Enforcing wrap-and-sort -satb](https://blog.josefsson.org/2023/08/16/enforcing-wrap-and-sort-satb/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: Debian Celebrates 30 years!](https://bits.debian.org/2023/08/debian-turns-30.html)
+
 ## 20230816
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1094 “Go 2 永远不会出现”](https://linux.cn/article-16096-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Cryostat agent to profile Java workloads](https://developers.redhat.com/articles/2023/08/15/how-use-cryostat-agent-profile-java-workloads)

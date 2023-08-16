@@ -1,3 +1,8 @@
+## 20230817
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.6 Released With Many Graphics Driver Fixes](https://www.phoronix.com/news/Mesa-23.1.6-Released)
+- [Phoronix](https://www.phoronix.com/) | [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks](https://www.phoronix.com/review/visionfive2-riscv-benchmarks)
+- [Phoronix](https://www.phoronix.com/) | [CrossOver 23 Enables EA App On Linux, Many Fixes](https://www.phoronix.com/news/CrossOver-23-Released)
+
 ## 20230816
 - [Phoronix](https://www.phoronix.com/) | [Chrome 116 Released With Document Picture-In-Picture API](https://www.phoronix.com/news/Chrome-116-Released)
 - [Phoronix](https://www.phoronix.com/) | [Benchmarking The Performance Impact To AMD Inception Mitigations](https://www.phoronix.com/review/amd-inception-benchmarks)
