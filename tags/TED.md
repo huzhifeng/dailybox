@@ -1,3 +1,6 @@
+## 20230818
+- [TED Talks Daily](https://www.ted.com/talks) | [The climate crisis is expensive -- here's who should pay for it | Avinash Persaud](https://www.ted.com/talks/avinash_persaud_the_climate_crisis_is_expensive_here_s_who_should_pay_for_it?rss)
+
 ## 20230817
 - [TED Talks Daily](https://www.ted.com/talks) | [Why real change is about more than just going viral | Taylor Cassidy](https://www.ted.com/talks/taylor_cassidy_why_real_change_is_about_more_than_just_going_viral?rss)
 

@@ -1,3 +1,6 @@
+## 20230818
+- [OMG! Linux](https://www.omglinux.com/) | [Auto Mute Spotify Ads with this GNOME Extension](https://www.omglinux.com/mute-spotify-ads-gnome-extension/)
+
 ## 20230814
 - [OMG! Linux](https://www.omglinux.com/) | [See System Info on Linux with New App ‘Inspector’](https://www.omglinux.com/see-system-info-linux-inspector-app/)
 

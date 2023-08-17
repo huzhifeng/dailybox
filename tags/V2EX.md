@@ -1,3 +1,8 @@
+## 20230818
+- [V2EX](https://www.v2ex.com/) | [30 岁前我失业了。](https://www.v2ex.com/t/966116)
+- [V2EX](https://www.v2ex.com/) | [庆祝明天周五，抽个奖吧。奖品是三个 50 里拉的 App Store 礼品卡🎉](https://www.v2ex.com/t/966094)
+- [V2EX](https://www.v2ex.com/) | [给个建议吧](https://www.v2ex.com/t/966058)
+
 ## 20230817
 - [V2EX](https://www.v2ex.com/) | [你们城市坐地铁会被人工安检和测水吗](https://www.v2ex.com/t/965751)
 - [V2EX](https://www.v2ex.com/) | [极氪 001、modelY、蔚来 ET5T 三选一求意见](https://www.v2ex.com/t/965717)

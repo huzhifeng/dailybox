@@ -1,3 +1,18 @@
+## 20230818
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1096 Debian Linux 庆祝 30 周年](https://linux.cn/article-16103-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a Flask application in Python with Gunicorn](https://developers.redhat.com/articles/2023/08/17/how-deploy-flask-application-python-gunicorn)
+- [Red Hat Developer](https://developers.redhat.com/) | [How Testing Farm makes testing your upstream project easier](https://developers.redhat.com/articles/2023/08/17/how-testing-farm-makes-testing-your-upstream-project-easier)
+- [Phoronix](https://www.phoronix.com/) | [SUSE To Be Taken Private By Its Largest Shareholder](https://www.phoronix.com/news/SUSE-Going-Private)
+- [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Initial Linux Graphics Driver Patches For "GFX 11.5"](https://www.phoronix.com/news/AMD-GFX-11.5-Linux-Patches)
+- [Phoronix](https://www.phoronix.com/) | [AMD Isn't Done Yet Optimizing The Mesa RadeonSI Driver For Workstation OpenGL](https://www.phoronix.com/news/RadeonSI-More-SPEC-GL-2023)
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.0 Promises Intel QSV Support on Linux, HDR Playback for DeckLink](https://9to5linux.com/obs-studio-30-0-promises-intel-qsv-support-on-linux-hdr-playback-for-decklink)
+- [OMG! Linux](https://www.omglinux.com/) | [Auto Mute Spotify Ads with this GNOME Extension](https://www.omglinux.com/mute-spotify-ads-gnome-extension/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Tracing MC CFP](https://lpc.events/blog/current/index.php/2023/08/17/tracing-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Michael Catanzaro: GNOME 45 Core Apps Update](https://blogs.gnome.org/mcatanzaro/2023/08/17/gnome-45-core-apps-update/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23RC1 and 8.2.10RC1](https://blog.remirepo.net/post/2023/08/17/PHP-version-8.1.23RC1-and-8.2.10RC1)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.30, 8.1.22 and 8.2.9](https://blog.remirepo.net/post/2023/08/06/PHP-version-8.0.30-8.1.22-and-8.2.9)
+- [Slashdot](https://linux.slashdot.org/) | [Debian Turns 30](https://linux.slashdot.org/story/23/08/17/136231/debian-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230817
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1095 Firefox 庆祝在过时的 JavaScript 基准中超越 Chrome](https://linux.cn/article-16100-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Streamlining API management with the power of GitOps](https://developers.redhat.com/articles/2023/08/16/streamlining-api-management-power-gitops)

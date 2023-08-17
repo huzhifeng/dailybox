@@ -1,3 +1,8 @@
+## 20230818
+- [Lobsters](https://lobste.rs/) | [My resignation letter as R7RS-large chair](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair)
+- [Lobsters](https://lobste.rs/) | [Dear Sir, You have built a compiler (2022)](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022)
+- [Lobsters](https://lobste.rs/) | [A talk about Dhall](https://lobste.rs/s/fwpaco/talk_about_dhall)
+
 ## 20230817
 - [Lobsters](https://lobste.rs/) | [Debian Celebrates 30 years](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years)
 - [Lobsters](https://lobste.rs/) | [Expr v1.14 release: Go expression language](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language)

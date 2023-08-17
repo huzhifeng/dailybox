@@ -1,3 +1,6 @@
+## 20230818
+- [diff.blog](https://diff.blog/) | [This Week in Rust 508](https://diff.blog/post/this-week-in-rust-508-152678/)
+
 ## 20230815
 - [diff.blog](https://diff.blog/) | [Backward Compatibility, Go 1.21, and Go 2](https://diff.blog/post/backward-compatibility-go-121-and-go-2-152474/)
 - [diff.blog](https://diff.blog/) | [The data of 760,000 Discord.io users was put up for sale on the darknet](https://diff.blog/post/the-data-of-760000-discordio-users-was-put-up-for-sale-on-the-darknet-152466/)

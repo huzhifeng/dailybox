@@ -1,3 +1,7 @@
+## 20230818
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a Flask application in Python with Gunicorn](https://developers.redhat.com/articles/2023/08/17/how-deploy-flask-application-python-gunicorn)
+- [Red Hat Developer](https://developers.redhat.com/) | [How Testing Farm makes testing your upstream project easier](https://developers.redhat.com/articles/2023/08/17/how-testing-farm-makes-testing-your-upstream-project-easier)
+
 ## 20230817
 - [Red Hat Developer](https://developers.redhat.com/) | [Streamlining API management with the power of GitOps](https://developers.redhat.com/articles/2023/08/16/streamlining-api-management-power-gitops)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to implement Kubernetes operators with Java Operator SDK](https://developers.redhat.com/articles/2023/08/16/how-implement-kubernetes-operators-java-operator-sdk)

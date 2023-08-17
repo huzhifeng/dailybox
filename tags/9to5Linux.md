@@ -1,3 +1,6 @@
+## 20230818
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.0 Promises Intel QSV Support on Linux, HDR Playback for DeckLink](https://9to5linux.com/obs-studio-30-0-promises-intel-qsv-support-on-linux-hdr-playback-for-decklink)
+
 ## 20230817
 - [9to5Linux](https://9to5linux.com/) | [Debian Turns 30 Years Old, Happy Birthday!](https://9to5linux.com/debian-turns-30-years-old-happy-birthday)
 
