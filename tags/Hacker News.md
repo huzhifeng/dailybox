@@ -1,3 +1,6 @@
+## 20230818
+- [Hacker News](https://news.ycombinator.com/front) | [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://news.ycombinator.com/item?id=37160783)
+
 ## 20230817
 - [Hacker News](https://news.ycombinator.com/front) | [LK-99 isn’t a superconductor](https://news.ycombinator.com/item?id=37149349)
 - [Hacker News](https://news.ycombinator.com/front) | [Htmx is part of the GitHub Accelerator](https://news.ycombinator.com/item?id=37144985)

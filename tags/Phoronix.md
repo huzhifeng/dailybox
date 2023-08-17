@@ -1,3 +1,8 @@
+## 20230818
+- [Phoronix](https://www.phoronix.com/) | [SUSE To Be Taken Private By Its Largest Shareholder](https://www.phoronix.com/news/SUSE-Going-Private)
+- [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Initial Linux Graphics Driver Patches For "GFX 11.5"](https://www.phoronix.com/news/AMD-GFX-11.5-Linux-Patches)
+- [Phoronix](https://www.phoronix.com/) | [AMD Isn't Done Yet Optimizing The Mesa RadeonSI Driver For Workstation OpenGL](https://www.phoronix.com/news/RadeonSI-More-SPEC-GL-2023)
+
 ## 20230817
 - [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.6 Released With Many Graphics Driver Fixes](https://www.phoronix.com/news/Mesa-23.1.6-Released)
 - [Phoronix](https://www.phoronix.com/) | [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks](https://www.phoronix.com/review/visionfive2-riscv-benchmarks)

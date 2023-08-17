@@ -1,3 +1,8 @@
+## 20230818
+- [Product Hunt](https://www.producthunt.com) | [EchoHQ](https://www.producthunt.com/posts/echohq)
+- [Product Hunt](https://www.producthunt.com) | [Booker by Paved](https://www.producthunt.com/posts/booker-by-paved)
+- [Product Hunt](https://www.producthunt.com) | [Founder Secrets](https://www.producthunt.com/posts/founder-secrets)
+
 ## 20230817
 - [Product Hunt](https://www.producthunt.com) | [LeadrPro](https://www.producthunt.com/posts/leadrpro-2)
 - [Product Hunt](https://www.producthunt.com) | [Blend Icons](https://www.producthunt.com/posts/blend-icons)

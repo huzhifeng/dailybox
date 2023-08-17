@@ -1,3 +1,6 @@
+## 20230818
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.33: Free CPU Book, Thunar Tweaks, LibreOffice Tips and More](https://itsfoss.com/newsletter/foss-weekly-23-33/)
+
 ## 20230817
 - [It's FOSS](https://itsfoss.com/) | [7 Tips and Tweaks to Get More Out of Thunar File Manager of Xfce](https://itsfoss.com/thunar-tweaks/)
 

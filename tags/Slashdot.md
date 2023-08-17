@@ -1,3 +1,6 @@
+## 20230818
+- [Slashdot](https://linux.slashdot.org/) | [Debian Turns 30](https://linux.slashdot.org/story/23/08/17/136231/debian-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230815
 - [Slashdot](https://developers.slashdot.org/) | [Stack Overflow 'Evolves', Previewing AI-Powered Answers and Chat Followups](https://developers.slashdot.org/story/23/08/14/0023242/stack-overflow-evolves-previewing-ai-powered-answers-and-chat-followups?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

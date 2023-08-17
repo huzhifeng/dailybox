@@ -1,3 +1,9 @@
+## 20230818
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Tracing MC CFP](https://lpc.events/blog/current/index.php/2023/08/17/tracing-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Michael Catanzaro: GNOME 45 Core Apps Update](https://blogs.gnome.org/mcatanzaro/2023/08/17/gnome-45-core-apps-update/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23RC1 and 8.2.10RC1](https://blog.remirepo.net/post/2023/08/17/PHP-version-8.1.23RC1-and-8.2.10RC1)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.0.30, 8.1.22 and 8.2.9](https://blog.remirepo.net/post/2023/08/06/PHP-version-8.0.30-8.1.22-and-8.2.9)
+
 ## 20230817
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server updates/reboots](https://status.fedoraproject.org/2023-08-16-mass-updates.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: The University of Utah uses Kiwi TCMS](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/16/the-university-of-utah-uses-kiwi-tcms/)

@@ -1,3 +1,9 @@
+## 20230818
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [钉钉个人版开放内测：没有打卡已读功能；印度用本土操作系统”玛雅“取代Windows；Kubernetes 1.28发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132334053)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉目标检测性能指标](https://blog.csdn.net/qq_43649937/article/details/132328656)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/youshowkm/article/details/132307212)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉五大核心研究任务全解：分类识别、检测分割、人体分析、三维视觉、视频分析](https://blog.csdn.net/magicyangjay111/article/details/132321843)
+
 ## 20230817
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [天才少年稚晖君离职华为首秀，官宣智元人形机器人；特斯拉自动驾驶着手落地中国市场；微软高管称程序员等岗位十年内被AI淘汰|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132312137)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [[Docker精进篇] Docker部署和实践 (二)](https://blog.csdn.net/weixin_54174102/article/details/132274298)
