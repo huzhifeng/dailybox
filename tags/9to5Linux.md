@@ -1,3 +1,8 @@
+## 20230819
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Beta Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-beta-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.109 Improves Detection of GPUs on Dual-GPU Systems](https://9to5linux.com/kde-frameworks-5-109-improves-detection-of-gpus-on-dual-gpu-systems)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.4 Is Out to Improve Epiphany, GNOME Software, and More](https://9to5linux.com/gnome-44-4-is-out-to-improve-epiphany-gnome-software-and-more)
+
 ## 20230818
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.0 Promises Intel QSV Support on Linux, HDR Playback for DeckLink](https://9to5linux.com/obs-studio-30-0-promises-intel-qsv-support-on-linux-hdr-playback-for-decklink)
 

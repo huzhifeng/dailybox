@@ -1,3 +1,6 @@
+## 20230819
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#109 Managing Repositories](https://thisweek.gnome.org/posts/2023/08/twig-109/)
+
 ## 20230812
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#108 Sandboxed Images](https://thisweek.gnome.org/posts/2023/08/twig-108/)
 

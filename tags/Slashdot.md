@@ -1,3 +1,6 @@
+## 20230819
+- [Slashdot](https://linux.slashdot.org/) | [SUSE To Flip Back Into Private Ownership](https://linux.slashdot.org/story/23/08/18/096242/suse-to-flip-back-into-private-ownership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230818
 - [Slashdot](https://linux.slashdot.org/) | [Debian Turns 30](https://linux.slashdot.org/story/23/08/17/136231/debian-turns-30?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

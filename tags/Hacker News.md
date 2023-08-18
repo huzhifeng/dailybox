@@ -1,3 +1,7 @@
+## 20230819
+- [Hacker News](https://news.ycombinator.com/front) | [Ask vs. Guess Culture](https://news.ycombinator.com/item?id=37176703)
+- [Hacker News](https://news.ycombinator.com/front) | [Short session expiration does not help security](https://news.ycombinator.com/item?id=37173339)
+
 ## 20230818
 - [Hacker News](https://news.ycombinator.com/front) | [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://news.ycombinator.com/item?id=37160783)
 

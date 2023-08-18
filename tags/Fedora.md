@@ -1,3 +1,6 @@
+## 20230819
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: TransFLAC: Convert FLAC to lossy formats](https://fedoramagazine.org/transflac-convert-flac-to-lossy-formats/)
+
 ## 20230818
 - [Planet Fedora](http://fedoraplanet.org/) | [Michael Catanzaro: GNOME 45 Core Apps Update](https://blogs.gnome.org/mcatanzaro/2023/08/17/gnome-45-core-apps-update/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23RC1 and 8.2.10RC1](https://blog.remirepo.net/post/2023/08/17/PHP-version-8.1.23RC1-and-8.2.10RC1)

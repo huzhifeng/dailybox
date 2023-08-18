@@ -1,3 +1,8 @@
+## 20230819
+- [Lobsters](https://lobste.rs/) | [WTF is going on with R7RS Large?](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large)
+- [Lobsters](https://lobste.rs/) | [Terraform is dead; Long live Pulumi?](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi)
+- [Lobsters](https://lobste.rs/) | [Fixing the TPM: Hardware Security Modules Done Right](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules)
+
 ## 20230818
 - [Lobsters](https://lobste.rs/) | [My resignation letter as R7RS-large chair](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair)
 - [Lobsters](https://lobste.rs/) | [Dear Sir, You have built a compiler (2022)](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022)
