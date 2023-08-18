@@ -1,3 +1,6 @@
+## 20230819
+- [diff.blog](https://diff.blog/) | [C and C++ Prioritize Performance over Correctness](https://diff.blog/post/c-and-c-prioritize-performance-over-correctness-152813/)
+
 ## 20230818
 - [diff.blog](https://diff.blog/) | [This Week in Rust 508](https://diff.blog/post/this-week-in-rust-508-152678/)
 

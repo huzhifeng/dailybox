@@ -1,3 +1,9 @@
+## 20230819
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [​字节首个大模型独立App亮相；Nature发文：LK99不是室温超导体；Debian诞生30周年 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132355332)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Apollo】赋能移动性：阿波罗自动驾驶系统的影响](https://blog.csdn.net/m0_75058342/article/details/132176365)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [《cpolar内网穿透》外网SSH远程连接linux（CentOS）服务器](https://blog.csdn.net/qq_61116007/article/details/132340722)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python爱心光波](https://blog.csdn.net/m0_68111267/article/details/132311588)
+
 ## 20230818
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [钉钉个人版开放内测：没有打卡已读功能；印度用本土操作系统”玛雅“取代Windows；Kubernetes 1.28发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132334053)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机视觉目标检测性能指标](https://blog.csdn.net/qq_43649937/article/details/132328656)

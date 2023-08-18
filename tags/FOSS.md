@@ -1,3 +1,6 @@
+## 20230819
+- [It's FOSS](https://itsfoss.com/) | [What is a Virtual Machine?](https://itsfoss.com/virtual-machine/)
+
 ## 20230818
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.33: Free CPU Book, Thunar Tweaks, LibreOffice Tips and More](https://itsfoss.com/newsletter/foss-weekly-23-33/)
 

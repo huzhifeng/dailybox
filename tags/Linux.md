@@ -1,3 +1,19 @@
+## 20230819
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1097 SUSE 将退市，被其最大股东私有化](https://linux.cn/article-16106-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Why choose Red Hat OpenShift Service on AWS?](https://www.redhat.com/en/blog/why-choose-red-hat-openshift-service-aws)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 18, 2023](https://www.redhat.com/en/blog/friday-five-august-18-2023-red-hat)
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.14 Released Following Summer Holiday](https://www.phoronix.com/news/Wine-8.14-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Support Rumble / Force Feedback On Google Stadia Controllers](https://www.phoronix.com/news/Linux-6.6-Stadia-Controller-FF)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 7840U Windows 11 vs. Linux CPU Performance](https://www.phoronix.com/review/amd-7840u-windows-linux)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Beta Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-beta-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.109 Improves Detection of GPUs on Dual-GPU Systems](https://9to5linux.com/kde-frameworks-5-109-improves-detection-of-gpus-on-dual-gpu-systems)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.4 Is Out to Improve Epiphany, GNOME Software, and More](https://9to5linux.com/gnome-44-4-is-out-to-improve-epiphany-gnome-software-and-more)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: TransFLAC: Convert FLAC to lossy formats](https://fedoramagazine.org/transflac-convert-flac-to-lossy-formats/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A day in the life of the KDE snapcrafter!](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-of-the-kde-snapcrafter/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #43: r2u Faster Than the Alternatives](http://dirk.eddelbuettel.com/blog/2023/08/17#043_r2u_faster_than_alternatives)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#109 Managing Repositories](https://thisweek.gnome.org/posts/2023/08/twig-109/)
+- [Slashdot](https://linux.slashdot.org/) | [SUSE To Flip Back Into Private Ownership](https://linux.slashdot.org/story/23/08/18/096242/suse-to-flip-back-into-private-ownership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230818
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1096 Debian Linux 庆祝 30 周年](https://linux.cn/article-16103-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a Flask application in Python with Gunicorn](https://developers.redhat.com/articles/2023/08/17/how-deploy-flask-application-python-gunicorn)

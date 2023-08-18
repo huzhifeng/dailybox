@@ -1,3 +1,8 @@
+## 20230819
+- [Product Hunt](https://www.producthunt.com) | [PoweredbyAI](https://www.producthunt.com/posts/poweredbyai)
+- [Product Hunt](https://www.producthunt.com) | [Interview Hero](https://www.producthunt.com/posts/interview-hero)
+- [Product Hunt](https://www.producthunt.com) | [YC Library](https://www.producthunt.com/posts/yc-library)
+
 ## 20230818
 - [Product Hunt](https://www.producthunt.com) | [EchoHQ](https://www.producthunt.com/posts/echohq)
 - [Product Hunt](https://www.producthunt.com) | [Booker by Paved](https://www.producthunt.com/posts/booker-by-paved)

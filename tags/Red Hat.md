@@ -1,3 +1,7 @@
+## 20230819
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Why choose Red Hat OpenShift Service on AWS?](https://www.redhat.com/en/blog/why-choose-red-hat-openshift-service-aws)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 18, 2023](https://www.redhat.com/en/blog/friday-five-august-18-2023-red-hat)
+
 ## 20230818
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy a Flask application in Python with Gunicorn](https://developers.redhat.com/articles/2023/08/17/how-deploy-flask-application-python-gunicorn)
 - [Red Hat Developer](https://developers.redhat.com/) | [How Testing Farm makes testing your upstream project easier](https://developers.redhat.com/articles/2023/08/17/how-testing-farm-makes-testing-your-upstream-project-easier)

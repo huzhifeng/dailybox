@@ -1,3 +1,8 @@
+## 20230819
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: TransFLAC: Convert FLAC to lossy formats](https://fedoramagazine.org/transflac-convert-flac-to-lossy-formats/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A day in the life of the KDE snapcrafter!](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-of-the-kde-snapcrafter/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: #43: r2u Faster Than the Alternatives](http://dirk.eddelbuettel.com/blog/2023/08/17#043_r2u_faster_than_alternatives)
+
 ## 20230818
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Tracing MC CFP](https://lpc.events/blog/current/index.php/2023/08/17/tracing-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Michael Catanzaro: GNOME 45 Core Apps Update](https://blogs.gnome.org/mcatanzaro/2023/08/17/gnome-45-core-apps-update/)

@@ -1,3 +1,8 @@
+## 20230819
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.14 Released Following Summer Holiday](https://www.phoronix.com/news/Wine-8.14-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Support Rumble / Force Feedback On Google Stadia Controllers](https://www.phoronix.com/news/Linux-6.6-Stadia-Controller-FF)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 7840U Windows 11 vs. Linux CPU Performance](https://www.phoronix.com/review/amd-7840u-windows-linux)
+
 ## 20230818
 - [Phoronix](https://www.phoronix.com/) | [SUSE To Be Taken Private By Its Largest Shareholder](https://www.phoronix.com/news/SUSE-Going-Private)
 - [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Initial Linux Graphics Driver Patches For "GFX 11.5"](https://www.phoronix.com/news/AMD-GFX-11.5-Linux-Patches)

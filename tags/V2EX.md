@@ -1,3 +1,8 @@
+## 20230819
+- [V2EX](https://www.v2ex.com/) | [一堆拿技术当赚钱工具的人，在教一个热爱技术的人 为人处世，真的蛮可悲的](https://www.v2ex.com/t/966452)
+- [V2EX](https://www.v2ex.com/) | [墙内玩推特不要注入感情，因为你不知道什么时候就被封了，因为那里也没有言论自由。](https://www.v2ex.com/t/966401)
+- [V2EX](https://www.v2ex.com/) | [看了隔壁搞技术的老哥，我开始反思，自己也是老实人，经常被说不会来事儿/情商低，怎么提高情商/为人处事呢？各位畅所欲言分享一下经验吧，书也行](https://www.v2ex.com/t/966357)
+
 ## 20230818
 - [V2EX](https://www.v2ex.com/) | [30 岁前我失业了。](https://www.v2ex.com/t/966116)
 - [V2EX](https://www.v2ex.com/) | [庆祝明天周五，抽个奖吧。奖品是三个 50 里拉的 App Store 礼品卡🎉](https://www.v2ex.com/t/966094)
