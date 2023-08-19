@@ -1,3 +1,8 @@
+## 20230820
+- [Phoronix](https://www.phoronix.com/) | [Box64 0.2.4 Released - Some x86-64 Games Now Playable On RISC-V](https://www.phoronix.com/news/Box64-0.2.4)
+- [Phoronix](https://www.phoronix.com/) | [Intel ISPC 1.21 Released With Meteor Lake Xe-LPG Support](https://www.phoronix.com/news/Intel-ISPC-1.21)
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 14 Alpha 2 Available For Testing - The Last Series For 32-bit Platforms](https://www.phoronix.com/news/FreeBSD-14-Alpha-2)
+
 ## 20230819
 - [Phoronix](https://www.phoronix.com/) | [Wine 8.14 Released Following Summer Holiday](https://www.phoronix.com/news/Wine-8.14-Released)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Support Rumble / Force Feedback On Google Stadia Controllers](https://www.phoronix.com/news/Linux-6.6-Stadia-Controller-FF)

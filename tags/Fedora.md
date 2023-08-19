@@ -1,3 +1,6 @@
+## 20230820
+- [Planet Fedora](http://fedoraplanet.org/) | [Casper: XMPP onion](https://casperlefantom.net/post/2023/08/19/xmpp-onion/)
+
 ## 20230819
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: TransFLAC: Convert FLAC to lossy formats](https://fedoramagazine.org/transflac-convert-flac-to-lossy-formats/)
 

@@ -1,3 +1,6 @@
+## 20230820
+- [Planet Fedora](http://fedoraplanet.org/) | [Casper: XMPP onion](https://casperlefantom.net/post/2023/08/19/xmpp-onion/)
+
 ## 20230819
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: TransFLAC: Convert FLAC to lossy formats](https://fedoramagazine.org/transflac-convert-flac-to-lossy-formats/)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A day in the life of the KDE snapcrafter!](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-of-the-kde-snapcrafter/)

@@ -1,3 +1,6 @@
+## 20230820
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
+
 ## 20230814
 - [This week in KDE](https://pointieststick.com/) | [Bug tracking vs user support](https://pointieststick.com/2023/08/13/bug-tracking-vs-user-support/)
 - [This week in KDE](https://pointieststick.com/) | [How all this icon stuff is going to work in Plasma 6](https://pointieststick.com/2023/08/12/how-all-this-icon-stuff-is-going-to-work-in-plasma-6/)

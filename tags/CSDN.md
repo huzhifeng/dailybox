@@ -1,3 +1,8 @@
+## 20230820
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Apollo】赋能移动性：阿波罗自动驾驶系统的影响](https://blog.csdn.net/m0_75058342/article/details/132176365)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微信小程序开发】一文带你详解小程序组件和 API 的使用](https://blog.csdn.net/m0_63947499/article/details/131569446)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【IT资讯速递】清华大学推出 D-Bot，用 AI 大模型协助管理数据库；ChatGPT 与 Stack Overflow 的对决；免费在线AI工具LeiaPix:一键将图片转3D动画](https://blog.csdn.net/qq_40332045/article/details/132332440)
+
 ## 20230819
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [​字节首个大模型独立App亮相；Nature发文：LK99不是室温超导体；Debian诞生30周年 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132355332)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Apollo】赋能移动性：阿波罗自动驾驶系统的影响](https://blog.csdn.net/m0_75058342/article/details/132176365)

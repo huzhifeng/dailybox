@@ -1,3 +1,8 @@
+## 20230820
+- [Product Hunt](https://www.producthunt.com) | [Chapple](https://www.producthunt.com/posts/chapple)
+- [Product Hunt](https://www.producthunt.com) | [Vidya AI](https://www.producthunt.com/posts/vidya-ai)
+- [Product Hunt](https://www.producthunt.com) | [B2B Rocket](https://www.producthunt.com/posts/b2b-rocket)
+
 ## 20230819
 - [Product Hunt](https://www.producthunt.com) | [PoweredbyAI](https://www.producthunt.com/posts/poweredbyai)
 - [Product Hunt](https://www.producthunt.com) | [Interview Hero](https://www.producthunt.com/posts/interview-hero)
