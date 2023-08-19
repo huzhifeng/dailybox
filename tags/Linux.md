@@ -1,3 +1,11 @@
+## 20230820
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1098 DARPA 正在研究一种修复遗留二进制可执行文件的方法](https://linux.cn/article-16109-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Box64 0.2.4 Released - Some x86-64 Games Now Playable On RISC-V](https://www.phoronix.com/news/Box64-0.2.4)
+- [Phoronix](https://www.phoronix.com/) | [Intel ISPC 1.21 Released With Meteor Lake Xe-LPG Support](https://www.phoronix.com/news/Intel-ISPC-1.21)
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 14 Alpha 2 Available For Testing - The Last Series For 32-bit Platforms](https://www.phoronix.com/news/FreeBSD-14-Alpha-2)
+- [Planet Fedora](http://fedoraplanet.org/) | [Casper: XMPP onion](https://casperlefantom.net/post/2023/08/19/xmpp-onion/)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
+
 ## 20230819
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1097 SUSE 将退市，被其最大股东私有化](https://linux.cn/article-16106-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Why choose Red Hat OpenShift Service on AWS?](https://www.redhat.com/en/blog/why-choose-red-hat-openshift-service-aws)

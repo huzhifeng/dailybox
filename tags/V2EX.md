@@ -1,3 +1,8 @@
+## 20230820
+- [V2EX](https://www.v2ex.com/) | [做独立开发是不是很无聊](https://www.v2ex.com/t/966663)
+- [V2EX](https://www.v2ex.com/) | [[我还有救吗] 20 岁早早入行， 30 岁还没当过 leader，润出来发现自己是那只最弱的鸡](https://www.v2ex.com/t/966655)
+- [V2EX](https://www.v2ex.com/) | [第三波疫情来势汹汹，昨天一天公司阳了有十来个，你们那里都还好吗？](https://www.v2ex.com/t/966630)
+
 ## 20230819
 - [V2EX](https://www.v2ex.com/) | [一堆拿技术当赚钱工具的人，在教一个热爱技术的人 为人处世，真的蛮可悲的](https://www.v2ex.com/t/966452)
 - [V2EX](https://www.v2ex.com/) | [墙内玩推特不要注入感情，因为你不知道什么时候就被封了，因为那里也没有言论自由。](https://www.v2ex.com/t/966401)

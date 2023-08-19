@@ -1,3 +1,8 @@
+## 20230820
+- [Lobsters](https://lobste.rs/) | [Serde has started shipping precompiled binaries with no way to opt out](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled)
+- [Lobsters](https://lobste.rs/) | [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview)
+- [Lobsters](https://lobste.rs/) | [hahaha we live in hell](https://lobste.rs/s/rcc3oc/hahaha_we_live_hell)
+
 ## 20230819
 - [Lobsters](https://lobste.rs/) | [WTF is going on with R7RS Large?](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large)
 - [Lobsters](https://lobste.rs/) | [Terraform is dead; Long live Pulumi?](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi)

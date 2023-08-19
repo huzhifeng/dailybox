@@ -1,3 +1,7 @@
+## 20230820
+- [It's FOSS](https://itsfoss.com/) | [Introduction to Bash Scripting](https://itsfoss.com/bash-scripting-tutorial/)
+- [It's FOSS](https://itsfoss.com/) | [How to Rotate a Video With VLC Media Player](https://itsfoss.com/rotate-video-vlc/)
+
 ## 20230819
 - [It's FOSS](https://itsfoss.com/) | [What is a Virtual Machine?](https://itsfoss.com/virtual-machine/)
 

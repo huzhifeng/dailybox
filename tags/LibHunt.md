@@ -1,3 +1,8 @@
+## 20230820
+- [LibHunt](https://www.libhunt.com/) | [serde](https://www.libhunt.com/r/serde)
+- [LibHunt](https://www.libhunt.com/) | [moonbit-docs](https://www.libhunt.com/r/moonbit-docs)
+- [LibHunt](https://www.libhunt.com/) | [micro-gl](https://www.libhunt.com/r/micro-gl)
+
 ## 20230819
 - [LibHunt](https://www.libhunt.com/) | [micro-editor](https://www.libhunt.com/r/micro)
 - [LibHunt](https://www.libhunt.com/) | [little-rat](https://www.libhunt.com/r/little-rat)

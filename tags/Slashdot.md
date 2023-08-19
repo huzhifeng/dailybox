@@ -1,3 +1,6 @@
+## 20230820
+- [Slashdot](https://developers.slashdot.org/) | [Why DARPA Hopes To 'Distill' Old Binaries Into Readable Code](https://developers.slashdot.org/story/23/08/19/0150232/why-darpa-hopes-to-distill-old-binaries-into-readable-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230819
 - [Slashdot](https://linux.slashdot.org/) | [SUSE To Flip Back Into Private Ownership](https://linux.slashdot.org/story/23/08/18/096242/suse-to-flip-back-into-private-ownership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
