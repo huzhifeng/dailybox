@@ -1,3 +1,8 @@
+## 20230821
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [redis实战-缓存数据&解决缓存与数据库数据一致性](https://blog.csdn.net/weixin_64133130/article/details/132378548)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [12. Docker可视化工具](https://blog.csdn.net/p793049488/article/details/132389057)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [国产化系统中遇到的视频花屏、卡顿以及延迟问题的记录与总结](https://blog.csdn.net/chenlycly/article/details/132368200)
+
 ## 20230820
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Apollo】赋能移动性：阿波罗自动驾驶系统的影响](https://blog.csdn.net/m0_75058342/article/details/132176365)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微信小程序开发】一文带你详解小程序组件和 API 的使用](https://blog.csdn.net/m0_63947499/article/details/131569446)

@@ -1,3 +1,8 @@
+## 20230821
+- [V2EX](https://www.v2ex.com/) | [抢首发 iPhone15 除了黄牛还有什么办法？](https://www.v2ex.com/t/966825)
+- [V2EX](https://www.v2ex.com/) | [🎁 限免：新作品 DockX 正式发布啦！这次真的是效“效率工具” 🤡](https://www.v2ex.com/t/966823)
+- [V2EX](https://www.v2ex.com/) | [请教个问题：前端请求加密，通过查看源码还是可以破解，那么加密的意义是什么？](https://www.v2ex.com/t/966803)
+
 ## 20230820
 - [V2EX](https://www.v2ex.com/) | [做独立开发是不是很无聊](https://www.v2ex.com/t/966663)
 - [V2EX](https://www.v2ex.com/) | [[我还有救吗] 20 岁早早入行， 30 岁还没当过 leader，润出来发现自己是那只最弱的鸡](https://www.v2ex.com/t/966655)

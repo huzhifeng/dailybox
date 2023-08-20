@@ -1,3 +1,6 @@
+## 20230821
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Leader Says Red Hat's Code Crackdown Isn't a Threat](https://linux.slashdot.org/story/23/08/20/0247259/almalinux-leader-says-red-hats-code-crackdown-isnt-a-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230820
 - [Slashdot](https://developers.slashdot.org/) | [Why DARPA Hopes To 'Distill' Old Binaries Into Readable Code](https://developers.slashdot.org/story/23/08/19/0150232/why-darpa-hopes-to-distill-old-binaries-into-readable-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

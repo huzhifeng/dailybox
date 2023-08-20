@@ -1,3 +1,8 @@
+## 20230821
+- [Hacker News](https://news.ycombinator.com/front) | [Kris Nóva has died](https://news.ycombinator.com/item?id=37199495)
+- [Hacker News](https://news.ycombinator.com/front) | [Shouldn't distant objects appear magnified?](https://news.ycombinator.com/item?id=37198954)
+- [Hacker News](https://news.ycombinator.com/front) | [John Warnock has died](https://news.ycombinator.com/item?id=37197243)
+
 ## 20230819
 - [Hacker News](https://news.ycombinator.com/front) | [Ask vs. Guess Culture](https://news.ycombinator.com/item?id=37176703)
 - [Hacker News](https://news.ycombinator.com/front) | [Short session expiration does not help security](https://news.ycombinator.com/item?id=37173339)

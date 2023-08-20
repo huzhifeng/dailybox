@@ -1,3 +1,8 @@
+## 20230821
+- [Product Hunt](https://www.producthunt.com) | [TextCraft AI](https://www.producthunt.com/posts/textcraft-ai)
+- [Product Hunt](https://www.producthunt.com) | [Sibyl AI](https://www.producthunt.com/posts/sibyl-ai)
+- [Product Hunt](https://www.producthunt.com) | [AffordHunt](https://www.producthunt.com/posts/affordhunt)
+
 ## 20230820
 - [Product Hunt](https://www.producthunt.com) | [Chapple](https://www.producthunt.com/posts/chapple)
 - [Product Hunt](https://www.producthunt.com) | [Vidya AI](https://www.producthunt.com/posts/vidya-ai)

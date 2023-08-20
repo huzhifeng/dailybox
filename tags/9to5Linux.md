@@ -1,3 +1,6 @@
+## 20230821
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.8 Desktop Released with New Trash Applet, Budgie Menu Improvements](https://9to5linux.com/budgie-10-8-desktop-released-with-new-trash-applet-budgie-menu-improvements)
+
 ## 20230819
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45 Beta Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-45-beta-released-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.109 Improves Detection of GPUs on Dual-GPU Systems](https://9to5linux.com/kde-frameworks-5-109-improves-detection-of-gpus-on-dual-gpu-systems)

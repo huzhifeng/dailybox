@@ -1,3 +1,8 @@
+## 20230821
+- [Lobsters](https://lobste.rs/) | [An announcement regarding Kris Nóva](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova)
+- [Lobsters](https://lobste.rs/) | [Software Component Names Should Be Whimsical And Cryptic](https://lobste.rs/s/nqk2pm/software_component_names_should_be)
+- [Lobsters](https://lobste.rs/) | [The Ares Operating System](https://lobste.rs/s/qikg6x/ares_operating_system)
+
 ## 20230820
 - [Lobsters](https://lobste.rs/) | [Serde has started shipping precompiled binaries with no way to opt out](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled)
 - [Lobsters](https://lobste.rs/) | [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview)
