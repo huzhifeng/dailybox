@@ -1,3 +1,6 @@
+## 20230821
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby: Change](https://zach.oglesby.co/2023/08/20/change.html)
+
 ## 20230820
 - [Planet Fedora](http://fedoraplanet.org/) | [Casper: XMPP onion](https://casperlefantom.net/post/2023/08/19/xmpp-onion/)
 

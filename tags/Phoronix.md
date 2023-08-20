@@ -1,3 +1,8 @@
+## 20230821
+- [Phoronix](https://www.phoronix.com/) | [Mesa Adds GPUVis Integration - GPU Trace Visualizer](https://www.phoronix.com/news/Mesa-GPUVis-Integration)
+- [Phoronix](https://www.phoronix.com/) | [Budgie 10.8 Linux Desktop Released](https://www.phoronix.com/news/Budgie-10.8)
+- [Phoronix](https://www.phoronix.com/) | [Linux DRM Firmware Repo Established For Queuing New GPU Firmware](https://www.phoronix.com/news/Linux-DRM-Firmware-Repository)
+
 ## 20230820
 - [Phoronix](https://www.phoronix.com/) | [Box64 0.2.4 Released - Some x86-64 Games Now Playable On RISC-V](https://www.phoronix.com/news/Box64-0.2.4)
 - [Phoronix](https://www.phoronix.com/) | [Intel ISPC 1.21 Released With Meteor Lake Xe-LPG Support](https://www.phoronix.com/news/Intel-ISPC-1.21)

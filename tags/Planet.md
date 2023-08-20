@@ -1,3 +1,7 @@
+## 20230821
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby: Change](https://zach.oglesby.co/2023/08/20/change.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: GPT Systems and Relationships](https://etbe.coker.com.au/2023/08/20/gpt-systems-relationships/)
+
 ## 20230820
 - [Planet Fedora](http://fedoraplanet.org/) | [Casper: XMPP onion](https://casperlefantom.net/post/2023/08/19/xmpp-onion/)
 

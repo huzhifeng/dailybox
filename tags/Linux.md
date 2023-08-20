@@ -1,3 +1,13 @@
+## 20230821
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1099 开发中的 KDE Plasma 6 默认双击打开文件和文件夹](https://linux.cn/article-16112-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Mesa Adds GPUVis Integration - GPU Trace Visualizer](https://www.phoronix.com/news/Mesa-GPUVis-Integration)
+- [Phoronix](https://www.phoronix.com/) | [Budgie 10.8 Linux Desktop Released](https://www.phoronix.com/news/Budgie-10.8)
+- [Phoronix](https://www.phoronix.com/) | [Linux DRM Firmware Repo Established For Queuing New GPU Firmware](https://www.phoronix.com/news/Linux-DRM-Firmware-Repository)
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.8 Desktop Released with New Trash Applet, Budgie Menu Improvements](https://9to5linux.com/budgie-10-8-desktop-released-with-new-trash-applet-budgie-menu-improvements)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby: Change](https://zach.oglesby.co/2023/08/20/change.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: GPT Systems and Relationships](https://etbe.coker.com.au/2023/08/20/gpt-systems-relationships/)
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Leader Says Red Hat's Code Crackdown Isn't a Threat](https://linux.slashdot.org/story/23/08/20/0247259/almalinux-leader-says-red-hats-code-crackdown-isnt-a-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230820
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1098 DARPA 正在研究一种修复遗留二进制可执行文件的方法](https://linux.cn/article-16109-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Box64 0.2.4 Released - Some x86-64 Games Now Playable On RISC-V](https://www.phoronix.com/news/Box64-0.2.4)

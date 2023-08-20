@@ -1,3 +1,8 @@
+## 20230821
+- [LibHunt](https://www.libhunt.com/) | [llama-gpt](https://www.libhunt.com/r/llama-gpt)
+- [LibHunt](https://www.libhunt.com/) | [servicer](https://www.libhunt.com/r/servicer)
+- [LibHunt](https://www.libhunt.com/) | [story-programming-language](https://www.libhunt.com/r/story-programming-language)
+
 ## 20230820
 - [LibHunt](https://www.libhunt.com/) | [serde](https://www.libhunt.com/r/serde)
 - [LibHunt](https://www.libhunt.com/) | [moonbit-docs](https://www.libhunt.com/r/moonbit-docs)
