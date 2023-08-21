@@ -1,3 +1,6 @@
+## 20230822
+- [It's FOSS](https://itsfoss.com/) | [How to Use Subtitles with VLC](https://itsfoss.com/vlc-use-subtitles/)
+
 ## 20230820
 - [It's FOSS](https://itsfoss.com/) | [Introduction to Bash Scripting](https://itsfoss.com/bash-scripting-tutorial/)
 - [It's FOSS](https://itsfoss.com/) | [How to Rotate a Video With VLC Media Player](https://itsfoss.com/rotate-video-vlc/)

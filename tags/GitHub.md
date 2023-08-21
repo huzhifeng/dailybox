@@ -1,3 +1,6 @@
+## 20230822
+- [GitHub Advanced Search](https://github.com/search/advanced) | [TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)
+
 ## 20230808
 - [GitHub中文社区](https://www.githubs.cn/trending) | [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 - [GitHub中文社区](https://www.githubs.cn/trending) | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)

@@ -1,3 +1,7 @@
+## 20230822
+- [LibHunt](https://www.libhunt.com/) | [textual](https://www.libhunt.com/r/textual)
+- [LibHunt](https://www.libhunt.com/) | [stable-diffusion.cpp](https://www.libhunt.com/r/stable-diffusion.cpp)
+
 ## 20230821
 - [LibHunt](https://www.libhunt.com/) | [llama-gpt](https://www.libhunt.com/r/llama-gpt)
 - [LibHunt](https://www.libhunt.com/) | [servicer](https://www.libhunt.com/r/servicer)

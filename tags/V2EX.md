@@ -1,3 +1,8 @@
+## 20230822
+- [V2EX](https://www.v2ex.com/) | [30 岁的银行社招，选择迷茫，陷入死胡同请求各位过来人的建议。](https://www.v2ex.com/t/967167)
+- [V2EX](https://www.v2ex.com/) | [有炒港股的小伙伴吗，这两天每天亏 5k+，压力山大](https://www.v2ex.com/t/967091)
+- [V2EX](https://www.v2ex.com/) | [GPT 老哥的三集连续剧看得有点头晕](https://www.v2ex.com/t/967057)
+
 ## 20230821
 - [V2EX](https://www.v2ex.com/) | [抢首发 iPhone15 除了黄牛还有什么办法？](https://www.v2ex.com/t/966825)
 - [V2EX](https://www.v2ex.com/) | [🎁 限免：新作品 DockX 正式发布啦！这次真的是效“效率工具” 🤡](https://www.v2ex.com/t/966823)

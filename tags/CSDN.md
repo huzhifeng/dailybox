@@ -1,3 +1,9 @@
+## 20230822
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [iPhone 15系列USB-C数据线曝光；Flutter 3.13发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132401844)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [七夕特辑（一）浪漫表白方式 用神经网络生成一首情诗](https://blog.csdn.net/superdangbo/article/details/132394816)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [redis实战-缓存数据&解决缓存与数据库数据一致性](https://blog.csdn.net/weixin_64133130/article/details/132378548)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索人工智能 | 模型训练 使用算法和数据对机器学习模型进行参数调整和优化](https://blog.csdn.net/Qingai521/article/details/132410748)
+
 ## 20230821
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [redis实战-缓存数据&解决缓存与数据库数据一致性](https://blog.csdn.net/weixin_64133130/article/details/132378548)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [12. Docker可视化工具](https://blog.csdn.net/p793049488/article/details/132389057)

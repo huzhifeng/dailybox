@@ -1,3 +1,8 @@
+## 20230822
+- [Lobsters](https://lobste.rs/) | [blog-cells: Interactive code cells for static sites](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for)
+- [Lobsters](https://lobste.rs/) | [Walk: Terminal file manager](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager)
+- [Lobsters](https://lobste.rs/) | [The ideal viewport doesn’t exist](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist)
+
 ## 20230821
 - [Lobsters](https://lobste.rs/) | [An announcement regarding Kris Nóva](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova)
 - [Lobsters](https://lobste.rs/) | [Software Component Names Should Be Whimsical And Cryptic](https://lobste.rs/s/nqk2pm/software_component_names_should_be)

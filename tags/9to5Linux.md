@@ -1,3 +1,8 @@
+## 20230822
+- [9to5Linux](https://9to5linux.com/) | [Bodhi Linux 7.0 Released with Linux Kernel 6.4, Based on Ubuntu 22.04 LTS](https://9to5linux.com/bodhi-linux-7-0-released-with-linux-kernel-6-4-based-on-ubuntu-22-04-lts)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-7-6-open-source-office-suite-officially-released-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 20th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-20th-2023)
+
 ## 20230821
 - [9to5Linux](https://9to5linux.com/) | [Budgie 10.8 Desktop Released with New Trash Applet, Budgie Menu Improvements](https://9to5linux.com/budgie-10-8-desktop-released-with-new-trash-applet-budgie-menu-improvements)
 

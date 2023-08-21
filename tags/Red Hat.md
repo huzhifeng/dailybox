@@ -1,3 +1,6 @@
+## 20230822
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from GCP Marketplace](https://developers.redhat.com/articles/2023/08/21/how-use-ansible-automation-platform-gcp-marketplace)
+
 ## 20230819
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Why choose Red Hat OpenShift Service on AWS?](https://www.redhat.com/en/blog/why-choose-red-hat-openshift-service-aws)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — August 18, 2023](https://www.redhat.com/en/blog/friday-five-august-18-2023-red-hat)
