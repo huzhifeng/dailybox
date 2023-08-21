@@ -1,3 +1,8 @@
+## 20230822
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA BIOS Signature Lock Broken - What Caused Open-Source Pains For Years](https://www.phoronix.com/news/NVIDIA-Lock-Broken)
+- [Phoronix](https://www.phoronix.com/) | [Git 2.42 Released With Less Warnings For SHA-256 Usage](https://www.phoronix.com/news/Git-2.42-Released)
+- [Phoronix](https://www.phoronix.com/) | [Several HID Driver Improvements Ready For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-HID-Work)
+
 ## 20230821
 - [Phoronix](https://www.phoronix.com/) | [Mesa Adds GPUVis Integration - GPU Trace Visualizer](https://www.phoronix.com/news/Mesa-GPUVis-Integration)
 - [Phoronix](https://www.phoronix.com/) | [Budgie 10.8 Linux Desktop Released](https://www.phoronix.com/news/Budgie-10.8)

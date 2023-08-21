@@ -1,3 +1,21 @@
+## 20230822
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1100 AlmaLinux 称红帽封闭 RHEL 源代码对他们是因祸得福](https://linux.cn/article-16115-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Bridging IIO and Input in Linux](https://www.collabora.com/news-and-blog/blog/2023/08/21/bridging-iio-and-input-in-linux/)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from GCP Marketplace](https://developers.redhat.com/articles/2023/08/21/how-use-ansible-automation-platform-gcp-marketplace)
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA BIOS Signature Lock Broken - What Caused Open-Source Pains For Years](https://www.phoronix.com/news/NVIDIA-Lock-Broken)
+- [Phoronix](https://www.phoronix.com/) | [Git 2.42 Released With Less Warnings For SHA-256 Usage](https://www.phoronix.com/news/Git-2.42-Released)
+- [Phoronix](https://www.phoronix.com/) | [Several HID Driver Improvements Ready For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-HID-Work)
+- [9to5Linux](https://9to5linux.com/) | [Bodhi Linux 7.0 Released with Linux Kernel 6.4, Based on Ubuntu 22.04 LTS](https://9to5linux.com/bodhi-linux-7-0-released-with-linux-kernel-6-4-based-on-ubuntu-22-04-lts)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-7-6-open-source-office-suite-officially-released-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 20th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-20th-2023)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: VFIO/IOMMU/PCI MC CFP](https://lpc.events/blog/current/index.php/2023/08/21/vfio-iommu-pci-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 black image issue](https://hansdegoede.livejournal.com/27479.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 33 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-33-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 389 – What would HashiCorp do?](https://opensourcesecurity.io/2023/08/20/episode-389-what-would-hashicorp-do/)
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: FreshRSS](https://jmtd.net/log/freshrss/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Some Desperate Glory](https://www.eyrie.org/~eagle/reviews/books/1-250-83499-6.html)
+
 ## 20230821
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1099 开发中的 KDE Plasma 6 默认双击打开文件和文件夹](https://linux.cn/article-16112-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Mesa Adds GPUVis Integration - GPU Trace Visualizer](https://www.phoronix.com/news/Mesa-GPUVis-Integration)

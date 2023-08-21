@@ -1,3 +1,8 @@
+## 20230822
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 black image issue](https://hansdegoede.livejournal.com/27479.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 33 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-33-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 389 – What would HashiCorp do?](https://opensourcesecurity.io/2023/08/20/episode-389-what-would-hashicorp-do/)
+
 ## 20230821
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby: Change](https://zach.oglesby.co/2023/08/20/change.html)
 

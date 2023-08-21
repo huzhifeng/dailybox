@@ -1,3 +1,6 @@
+## 20230822
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Bridging IIO and Input in Linux](https://www.collabora.com/news-and-blog/blog/2023/08/21/bridging-iio-and-input-in-linux/)
+
 ## 20230811
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Pushing testing laboratory performance limits by benchmarking LAVA - Part 1](https://www.collabora.com/news-and-blog/blog/2023/08/10/pushing-testing-laboratory-performance-limits-by-benchmarking-lava-part-1/)
 

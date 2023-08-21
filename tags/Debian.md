@@ -1,3 +1,8 @@
+## 20230822
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: FreshRSS](https://jmtd.net/log/freshrss/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Some Desperate Glory](https://www.eyrie.org/~eagle/reviews/books/1-250-83499-6.html)
+
 ## 20230821
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: GPT Systems and Relationships](https://etbe.coker.com.au/2023/08/20/gpt-systems-relationships/)
 

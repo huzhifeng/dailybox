@@ -1,3 +1,12 @@
+## 20230822
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: VFIO/IOMMU/PCI MC CFP](https://lpc.events/blog/current/index.php/2023/08/21/vfio-iommu-pci-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 black image issue](https://hansdegoede.livejournal.com/27479.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 33 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-33-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 389 – What would HashiCorp do?](https://opensourcesecurity.io/2023/08/20/episode-389-what-would-hashicorp-do/)
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: FreshRSS](https://jmtd.net/log/freshrss/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Some Desperate Glory](https://www.eyrie.org/~eagle/reviews/books/1-250-83499-6.html)
+
 ## 20230821
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby: Change](https://zach.oglesby.co/2023/08/20/change.html)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: GPT Systems and Relationships](https://etbe.coker.com.au/2023/08/20/gpt-systems-relationships/)

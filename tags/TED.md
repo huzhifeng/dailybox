@@ -1,3 +1,6 @@
+## 20230822
+- [TED Talks Daily](https://www.ted.com/talks) | [How to meet your child's difficult behavior with compassion | Yvonne Newbold](https://www.ted.com/talks/yvonne_newbold_how_to_meet_your_child_s_difficult_behavior_with_compassion?rss)
+
 ## 20230818
 - [TED Talks Daily](https://www.ted.com/talks) | [The climate crisis is expensive -- here's who should pay for it | Avinash Persaud](https://www.ted.com/talks/avinash_persaud_the_climate_crisis_is_expensive_here_s_who_should_pay_for_it?rss)
 
