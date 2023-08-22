@@ -1,3 +1,6 @@
+## 20230823
+- [Slashdot](https://developers.slashdot.org/) | [Microsoft Announces Python In Excel](https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230821
 - [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Leader Says Red Hat's Code Crackdown Isn't a Threat](https://linux.slashdot.org/story/23/08/20/0247259/almalinux-leader-says-red-hats-code-crackdown-isnt-a-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

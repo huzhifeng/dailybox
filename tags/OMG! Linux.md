@@ -1,3 +1,6 @@
+## 20230823
+- [OMG! Linux](https://www.omglinux.com/) | [Mission Center Updated, Now Lets You ‘Force Stop’ Apps](https://www.omglinux.com/mission-center-0-3-released/)
+
 ## 20230818
 - [OMG! Linux](https://www.omglinux.com/) | [Auto Mute Spotify Ads with this GNOME Extension](https://www.omglinux.com/mute-spotify-ads-gnome-extension/)
 

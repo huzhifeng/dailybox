@@ -1,3 +1,9 @@
+## 20230823
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果拒绝接口和安卓互通，违法也不在乎；马斯克承认公司可能失败；Debian支持龙芯LoongArch架构|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132421335)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [七夕特辑（一）浪漫表白方式 用神经网络生成一首情诗](https://blog.csdn.net/superdangbo/article/details/132394816)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [无需公网IP——搭建web站点](https://blog.csdn.net/m0_72165281/article/details/132408509)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/magicyangjay111/article/details/132421817)
+
 ## 20230822
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [iPhone 15系列USB-C数据线曝光；Flutter 3.13发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132401844)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [七夕特辑（一）浪漫表白方式 用神经网络生成一首情诗](https://blog.csdn.net/superdangbo/article/details/132394816)

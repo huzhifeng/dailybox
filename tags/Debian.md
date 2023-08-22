@@ -1,3 +1,6 @@
+## 20230823
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A Day in the Life the KDE Snapcrafter Part 2](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-the-kde-snapcrafter-part-2/)
+
 ## 20230822
 - [Planet Debian](https://planet.debian.org/) | [Melissa Wen: AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: FreshRSS](https://jmtd.net/log/freshrss/)

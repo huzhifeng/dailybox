@@ -1,3 +1,7 @@
+## 20230823
+- [LibHunt](https://www.libhunt.com/) | [socketioxide](https://www.libhunt.com/r/socketioxide)
+- [LibHunt](https://www.libhunt.com/) | [nitro-gl](https://www.libhunt.com/r/nitro-gl)
+
 ## 20230822
 - [LibHunt](https://www.libhunt.com/) | [textual](https://www.libhunt.com/r/textual)
 - [LibHunt](https://www.libhunt.com/) | [stable-diffusion.cpp](https://www.libhunt.com/r/stable-diffusion.cpp)

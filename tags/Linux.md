@@ -1,3 +1,15 @@
+## 20230823
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1101 韩国 SK 电信称 5G 未能兑现承诺](https://linux.cn/article-16118-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Migration toolkit for applications 6.2: Agile Java modernization](https://developers.redhat.com/articles/2023/08/22/migration-toolkit-applications-62-agile-java-modernization)
+- [Red Hat Developer](https://developers.redhat.com/) | [Enhance Ansible development experience with Lightspeed](https://developers.redhat.com/articles/2023/08/22/enhance-ansible-development-experience-lightspeed)
+- [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Apple M1/M2 Gallium3D Driver Now OpenGL ES 3.1 Conformant](https://www.phoronix.com/news/Asahi-Linux-GLES-3.1-AGX-M1-M2)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarking Mercury As The "Fastest Firefox Fork" With AVX, AES, LTO + PGO](https://www.phoronix.com/review/mercury-firefox-perf)
+- [Phoronix](https://www.phoronix.com/) | [Linux Microcode Loading For x86 32-bit CPUs Being Cleaned Up & Corrected](https://www.phoronix.com/news/Linux-x86-32-bit-Microcode-Woes)
+- [OMG! Linux](https://www.omglinux.com/) | [Mission Center Updated, Now Lets You ‘Force Stop’ Apps](https://www.omglinux.com/mission-center-0-3-released/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: Qt theming in Fedora Workstation](https://jgrulich.cz/2023/08/22/qt-theming-in-fedora-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=qt-theming-in-fedora-workstation)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/08/21/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A Day in the Life the KDE Snapcrafter Part 2](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-the-kde-snapcrafter-part-2/)
+
 ## 20230822
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1100 AlmaLinux 称红帽封闭 RHEL 源代码对他们是因祸得福](https://linux.cn/article-16115-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Bridging IIO and Input in Linux](https://www.collabora.com/news-and-blog/blog/2023/08/21/bridging-iio-and-input-in-linux/)
