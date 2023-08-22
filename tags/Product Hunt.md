@@ -1,3 +1,8 @@
+## 20230823
+- [Product Hunt](https://www.producthunt.com) | [Ollama](https://www.producthunt.com/posts/ollama)
+- [Product Hunt](https://www.producthunt.com) | [Unicorn UI](https://www.producthunt.com/posts/unicorn-ui)
+- [Product Hunt](https://www.producthunt.com) | [Kraftful](https://www.producthunt.com/posts/kraftful-3)
+
 ## 20230822
 - [Product Hunt](https://www.producthunt.com) | [starryai 2.0](https://www.producthunt.com/posts/starryai-2-0)
 - [Product Hunt](https://www.producthunt.com) | [Alloy Unified API](https://www.producthunt.com/posts/alloy-unified-api)

@@ -1,3 +1,7 @@
+## 20230823
+- [Red Hat Developer](https://developers.redhat.com/) | [Migration toolkit for applications 6.2: Agile Java modernization](https://developers.redhat.com/articles/2023/08/22/migration-toolkit-applications-62-agile-java-modernization)
+- [Red Hat Developer](https://developers.redhat.com/) | [Enhance Ansible development experience with Lightspeed](https://developers.redhat.com/articles/2023/08/22/enhance-ansible-development-experience-lightspeed)
+
 ## 20230822
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Ansible Automation Platform from GCP Marketplace](https://developers.redhat.com/articles/2023/08/21/how-use-ansible-automation-platform-gcp-marketplace)
 

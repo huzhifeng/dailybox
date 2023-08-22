@@ -1,3 +1,8 @@
+## 20230823
+- [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: Qt theming in Fedora Workstation](https://jgrulich.cz/2023/08/22/qt-theming-in-fedora-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=qt-theming-in-fedora-workstation)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/08/21/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A Day in the Life the KDE Snapcrafter Part 2](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-the-kde-snapcrafter-part-2/)
+
 ## 20230822
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: VFIO/IOMMU/PCI MC CFP](https://lpc.events/blog/current/index.php/2023/08/21/vfio-iommu-pci-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 black image issue](https://hansdegoede.livejournal.com/27479.html)

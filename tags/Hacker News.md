@@ -1,3 +1,8 @@
+## 20230823
+- [Hacker News](https://news.ycombinator.com/front) | [The first conformant M1 GPU driver](https://news.ycombinator.com/item?id=37224042)
+- [Hacker News](https://news.ycombinator.com/front) | [Hackers can use credit bureaus to dox nearly anyone in America](https://news.ycombinator.com/item?id=37222672)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft is bringing Python to Excel](https://news.ycombinator.com/item?id=37222191)
+
 ## 20230821
 - [Hacker News](https://news.ycombinator.com/front) | [Kris Nóva has died](https://news.ycombinator.com/item?id=37199495)
 - [Hacker News](https://news.ycombinator.com/front) | [Shouldn't distant objects appear magnified?](https://news.ycombinator.com/item?id=37198954)

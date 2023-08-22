@@ -1,3 +1,8 @@
+## 20230823
+- [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Apple M1/M2 Gallium3D Driver Now OpenGL ES 3.1 Conformant](https://www.phoronix.com/news/Asahi-Linux-GLES-3.1-AGX-M1-M2)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarking Mercury As The "Fastest Firefox Fork" With AVX, AES, LTO + PGO](https://www.phoronix.com/review/mercury-firefox-perf)
+- [Phoronix](https://www.phoronix.com/) | [Linux Microcode Loading For x86 32-bit CPUs Being Cleaned Up & Corrected](https://www.phoronix.com/news/Linux-x86-32-bit-Microcode-Woes)
+
 ## 20230822
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA BIOS Signature Lock Broken - What Caused Open-Source Pains For Years](https://www.phoronix.com/news/NVIDIA-Lock-Broken)
 - [Phoronix](https://www.phoronix.com/) | [Git 2.42 Released With Less Warnings For SHA-256 Usage](https://www.phoronix.com/news/Git-2.42-Released)

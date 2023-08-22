@@ -1,3 +1,6 @@
+## 20230823
+- [diff.blog](https://diff.blog/) | [Structured Logging with slog](https://diff.blog/post/structured-logging-with-slog-153089/)
+
 ## 20230819
 - [diff.blog](https://diff.blog/) | [C and C++ Prioritize Performance over Correctness](https://diff.blog/post/c-and-c-prioritize-performance-over-correctness-152813/)
 

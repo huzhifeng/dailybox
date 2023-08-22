@@ -1,3 +1,6 @@
+## 20230823
+- [It's FOSS](https://itsfoss.com/) | [Remove Home Folder Icon from Ubuntu Desktop](https://itsfoss.com/ubuntu-remove-home-icon/)
+
 ## 20230822
 - [It's FOSS](https://itsfoss.com/) | [How to Use Subtitles with VLC](https://itsfoss.com/vlc-use-subtitles/)
 

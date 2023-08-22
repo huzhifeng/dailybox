@@ -1,3 +1,7 @@
+## 20230823
+- [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: Qt theming in Fedora Workstation](https://jgrulich.cz/2023/08/22/qt-theming-in-fedora-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=qt-theming-in-fedora-workstation)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/08/21/finished-reading-the.html)
+
 ## 20230822
 - [Planet Fedora](http://fedoraplanet.org/) | [Hans de Goede: Fedora IPU6 black image issue](https://hansdegoede.livejournal.com/27479.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 33 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-33-2023/)

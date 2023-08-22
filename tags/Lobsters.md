@@ -1,3 +1,8 @@
+## 20230823
+- [Lobsters](https://lobste.rs/) | [The first conformant M1 GPU driver](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver)
+- [Lobsters](https://lobste.rs/) | [RFC 6920: Naming Things with Hashes](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes)
+- [Lobsters](https://lobste.rs/) | [Introducing FlakeHub](https://lobste.rs/s/rxp5oo/introducing_flakehub)
+
 ## 20230822
 - [Lobsters](https://lobste.rs/) | [blog-cells: Interactive code cells for static sites](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for)
 - [Lobsters](https://lobste.rs/) | [Walk: Terminal file manager](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager)
