@@ -1,3 +1,6 @@
+## 20230824
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to All Systems Go!](https://www.collabora.com/news-and-blog/news-and-events/ready-to-all-systems-go.html)
+
 ## 20230822
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Bridging IIO and Input in Linux](https://www.collabora.com/news-and-blog/blog/2023/08/21/bridging-iio-and-input-in-linux/)
 

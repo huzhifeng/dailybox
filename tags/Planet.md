@@ -1,3 +1,10 @@
+## 20230824
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: IoT MC CFP](https://lpc.events/blog/current/index.php/2023/08/23/iot-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: Small Caps in Impress](http://caolanm.blogspot.com/2023/08/small-caps-in-impress.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Systemd-journald vs. syslog-ng](https://peter.czanik.hu/other/syslog-ng-vs-systemd-journald/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: Call for Mentors and projects for Outreachy December ’23 – March ’24 cohort](https://feborg.es/call-for-mentors-and-projects-for-outreachy-december-23-march-24-cohort/)
+- [Planet Debian](https://planet.debian.org/) | [Jo Shields: Retirement](https://apebox.org/wordpress/linux/1323)
+
 ## 20230823
 - [Planet Fedora](http://fedoraplanet.org/) | [Jan Grulich: Qt theming in Fedora Workstation](https://jgrulich.cz/2023/08/22/qt-theming-in-fedora-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=qt-theming-in-fedora-workstation)
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/08/21/finished-reading-the.html)

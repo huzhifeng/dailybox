@@ -1,3 +1,6 @@
+## 20230824
+- [diff.blog](https://diff.blog/) | [My favorite prime number generator](https://diff.blog/post/my-favorite-prime-number-generator-153123/)
+
 ## 20230823
 - [diff.blog](https://diff.blog/) | [Structured Logging with slog](https://diff.blog/post/structured-logging-with-slog-153089/)
 

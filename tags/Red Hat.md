@@ -1,3 +1,6 @@
+## 20230824
+- [Red Hat Developer](https://developers.redhat.com/) | [How to migrate a complex JBoss EAP application to OpenShift](https://developers.redhat.com/articles/2023/08/23/how-migrate-complex-jboss-eap-application-openshift)
+
 ## 20230823
 - [Red Hat Developer](https://developers.redhat.com/) | [Migration toolkit for applications 6.2: Agile Java modernization](https://developers.redhat.com/articles/2023/08/22/migration-toolkit-applications-62-agile-java-modernization)
 - [Red Hat Developer](https://developers.redhat.com/) | [Enhance Ansible development experience with Lightspeed](https://developers.redhat.com/articles/2023/08/22/enhance-ansible-development-experience-lightspeed)

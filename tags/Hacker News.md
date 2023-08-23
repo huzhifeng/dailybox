@@ -1,3 +1,7 @@
+## 20230824
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Where to find open-source house plans?](https://news.ycombinator.com/item?id=37234111)
+- [Hacker News](https://news.ycombinator.com/front) | [Chandrayaan-3 Soft-landing [video]](https://news.ycombinator.com/item?id=37233936)
+
 ## 20230823
 - [Hacker News](https://news.ycombinator.com/front) | [The first conformant M1 GPU driver](https://news.ycombinator.com/item?id=37224042)
 - [Hacker News](https://news.ycombinator.com/front) | [Hackers can use credit bureaus to dox nearly anyone in America](https://news.ycombinator.com/item?id=37222672)

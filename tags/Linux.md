@@ -1,3 +1,16 @@
+## 20230824
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1102 英伟达显卡 BIOS 签名锁被破解](https://linux.cn/article-16121-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to All Systems Go!](https://www.collabora.com/news-and-blog/news-and-events/ready-to-all-systems-go.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to migrate a complex JBoss EAP application to OpenShift](https://developers.redhat.com/articles/2023/08/23/how-migrate-complex-jboss-eap-application-openshift)
+- [Phoronix](https://www.phoronix.com/) | [Intel Brings Up Lunar Lake Display Support For Linux](https://www.phoronix.com/news/Intel-Lunar-Lake-Display-Linux)
+- [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Patches Enabling New "DCN 3.5" GPU Display Block](https://www.phoronix.com/news/AMD-DCN-3.5-Display-Enablement)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 39 Planning To Drop Custom Qt Theming](https://www.phoronix.com/news/Fedora-Dropping-Custom-Qt-Theme)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: IoT MC CFP](https://lpc.events/blog/current/index.php/2023/08/23/iot-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: Small Caps in Impress](http://caolanm.blogspot.com/2023/08/small-caps-in-impress.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Systemd-journald vs. syslog-ng](https://peter.czanik.hu/other/syslog-ng-vs-systemd-journald/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: Call for Mentors and projects for Outreachy December ’23 – March ’24 cohort](https://feborg.es/call-for-mentors-and-projects-for-outreachy-december-23-march-24-cohort/)
+- [Planet Debian](https://planet.debian.org/) | [Jo Shields: Retirement](https://apebox.org/wordpress/linux/1323)
+
 ## 20230823
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1101 韩国 SK 电信称 5G 未能兑现承诺](https://linux.cn/article-16118-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Migration toolkit for applications 6.2: Agile Java modernization](https://developers.redhat.com/articles/2023/08/22/migration-toolkit-applications-62-agile-java-modernization)

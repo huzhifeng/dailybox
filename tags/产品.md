@@ -1,3 +1,8 @@
+## 20230824
+- [Product Hunt](https://www.producthunt.com) | [Univw.AI](https://www.producthunt.com/posts/univw-ai)
+- [Product Hunt](https://www.producthunt.com) | [Bloc](https://www.producthunt.com/posts/bloc-3)
+- [Product Hunt](https://www.producthunt.com) | [CompanyGPT](https://www.producthunt.com/posts/companygpt)
+
 ## 20230823
 - [Product Hunt](https://www.producthunt.com) | [Ollama](https://www.producthunt.com/posts/ollama)
 - [Product Hunt](https://www.producthunt.com) | [Unicorn UI](https://www.producthunt.com/posts/unicorn-ui)

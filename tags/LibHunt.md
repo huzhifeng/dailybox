@@ -1,3 +1,7 @@
+## 20230824
+- [LibHunt](https://www.libhunt.com/) | [zfs](https://www.libhunt.com/r/zfs)
+- [LibHunt](https://www.libhunt.com/) | [StableVideo](https://www.libhunt.com/r/StableVideo)
+
 ## 20230823
 - [LibHunt](https://www.libhunt.com/) | [socketioxide](https://www.libhunt.com/r/socketioxide)
 - [LibHunt](https://www.libhunt.com/) | [nitro-gl](https://www.libhunt.com/r/nitro-gl)

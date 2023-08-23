@@ -1,3 +1,8 @@
+## 20230824
+- [Lobsters](https://lobste.rs/) | [PSA: Add dir="auto" to your inputs and textareas](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas)
+- [Lobsters](https://lobste.rs/) | [HashiCorp, Terraform, and OpenTF](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf)
+- [Lobsters](https://lobste.rs/) | [Adding Wi-Fi to the Macintosh Portable](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable)
+
 ## 20230823
 - [Lobsters](https://lobste.rs/) | [The first conformant M1 GPU driver](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver)
 - [Lobsters](https://lobste.rs/) | [RFC 6920: Naming Things with Hashes](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes)
