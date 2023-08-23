@@ -1,3 +1,8 @@
+## 20230824
+- [V2EX](https://www.v2ex.com/) | [为啥特斯拉都降价到 20W 左右了，还这么多高价买国产电车？](https://www.v2ex.com/t/967704)
+- [V2EX](https://www.v2ex.com/) | [公司第四轮裁员，终于动了我的团队，哎](https://www.v2ex.com/t/967605)
+- [V2EX](https://www.v2ex.com/) | [这真的是读书改变命运](https://www.v2ex.com/t/967546)
+
 ## 20230823
 - [V2EX](https://www.v2ex.com/) | [有哪些国产 App 你觉得做的非常好，且值得推荐](https://www.v2ex.com/t/967401)
 - [V2EX](https://www.v2ex.com/) | [今天晚上表白，但是好迷茫。](https://www.v2ex.com/t/967329)

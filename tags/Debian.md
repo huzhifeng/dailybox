@@ -1,3 +1,6 @@
+## 20230824
+- [Planet Debian](https://planet.debian.org/) | [Jo Shields: Retirement](https://apebox.org/wordpress/linux/1323)
+
 ## 20230823
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: A Day in the Life the KDE Snapcrafter Part 2](https://www.scarlettgatelymoore.dev/kde-a-day-in-the-life-the-kde-snapcrafter-part-2/)
 

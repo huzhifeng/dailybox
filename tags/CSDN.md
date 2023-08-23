@@ -1,3 +1,9 @@
+## 20230824
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为辟谣网传3.2万名科学家正式移籍；苹果回应iPhone14电池老化快：属正常现象；Excel集成Python|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132445977)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/magicyangjay111/article/details/132421817)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [API 接口选择那个？RESTful、GraphQL、gRPC、WebSocket、Webhook](https://blog.csdn.net/u012558210/article/details/132420532)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Redis原理剖析](https://blog.csdn.net/weixin_43114209/article/details/132401778)
+
 ## 20230823
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果拒绝接口和安卓互通，违法也不在乎；马斯克承认公司可能失败；Debian支持龙芯LoongArch架构|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132421335)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [七夕特辑（一）浪漫表白方式 用神经网络生成一首情诗](https://blog.csdn.net/superdangbo/article/details/132394816)

@@ -1,3 +1,8 @@
+## 20230824
+- [Phoronix](https://www.phoronix.com/) | [Intel Brings Up Lunar Lake Display Support For Linux](https://www.phoronix.com/news/Intel-Lunar-Lake-Display-Linux)
+- [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Patches Enabling New "DCN 3.5" GPU Display Block](https://www.phoronix.com/news/AMD-DCN-3.5-Display-Enablement)
+- [Phoronix](https://www.phoronix.com/) | [Fedora Workstation 39 Planning To Drop Custom Qt Theming](https://www.phoronix.com/news/Fedora-Dropping-Custom-Qt-Theme)
+
 ## 20230823
 - [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Apple M1/M2 Gallium3D Driver Now OpenGL ES 3.1 Conformant](https://www.phoronix.com/news/Asahi-Linux-GLES-3.1-AGX-M1-M2)
 - [Phoronix](https://www.phoronix.com/) | [Benchmarking Mercury As The "Fastest Firefox Fork" With AVX, AES, LTO + PGO](https://www.phoronix.com/review/mercury-firefox-perf)
