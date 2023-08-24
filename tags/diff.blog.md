@@ -1,3 +1,8 @@
+## 20230825
+- [diff.blog](https://diff.blog/) | [Code Llama: Meta’s state-of-the-art LLM for coding](https://diff.blog/post/code-llama-metas-state-of-the-art-llm-for-coding-153219/)
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.72.0](https://diff.blog/post/announcing-rust-1720-153215/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 509](https://diff.blog/post/this-week-in-rust-509-153187/)
+
 ## 20230824
 - [diff.blog](https://diff.blog/) | [My favorite prime number generator](https://diff.blog/post/my-favorite-prime-number-generator-153123/)
 

@@ -1,3 +1,7 @@
+## 20230825
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan v0.107 is now available](https://blog.slyon.de/2023/08/24/netplan-v0-107-is-now-available/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 years at IF Sul de Minas, Pouso Alegre - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-ifsuldeminas-report/)
+
 ## 20230824
 - [Planet Debian](https://planet.debian.org/) | [Jo Shields: Retirement](https://apebox.org/wordpress/linux/1323)
 

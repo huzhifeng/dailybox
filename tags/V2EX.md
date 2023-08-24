@@ -1,3 +1,8 @@
+## 20230825
+- [V2EX](https://www.v2ex.com/) | [🎉全新升级 Xterminal 内测啦！轻松管理服务器，效率拉满！](https://www.v2ex.com/t/967928)
+- [V2EX](https://www.v2ex.com/) | [吐槽公司产品，感觉产品就很离谱，你们公司的产品也是这样的吗？](https://www.v2ex.com/t/967873)
+- [V2EX](https://www.v2ex.com/) | [[抽奖+优惠]女朋友做了一款超好用的固体洗发水。](https://www.v2ex.com/t/967824)
+
 ## 20230824
 - [V2EX](https://www.v2ex.com/) | [为啥特斯拉都降价到 20W 左右了，还这么多高价买国产电车？](https://www.v2ex.com/t/967704)
 - [V2EX](https://www.v2ex.com/) | [公司第四轮裁员，终于动了我的团队，哎](https://www.v2ex.com/t/967605)

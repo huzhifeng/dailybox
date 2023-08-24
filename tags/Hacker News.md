@@ -1,3 +1,7 @@
+## 20230825
+- [Hacker News](https://news.ycombinator.com/front) | [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://news.ycombinator.com/item?id=37248895)
+- [Hacker News](https://news.ycombinator.com/front) | [Code Llama, a state-of-the-art large language model for coding](https://news.ycombinator.com/item?id=37248494)
+
 ## 20230824
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Where to find open-source house plans?](https://news.ycombinator.com/item?id=37234111)
 - [Hacker News](https://news.ycombinator.com/front) | [Chandrayaan-3 Soft-landing [video]](https://news.ycombinator.com/item?id=37233936)

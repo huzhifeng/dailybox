@@ -1,3 +1,18 @@
+## 20230825
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1103 谷歌工程师日常：一日一小时工作制](https://linux.cn/article-16124-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
+- [Red Hat Developer](https://developers.redhat.com/) | [Integrate OpenShift Service Mesh with cert-manager and Vault](https://developers.redhat.com/articles/2023/08/24/integrate-openshift-service-mesh-cert-manager-and-vault)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to leverage AI to generate Apache Camel routes](https://developers.redhat.com/articles/2023/08/24/how-leverage-ai-generate-apache-camel-routes)
+- [Phoronix](https://www.phoronix.com/) | [Ryzen 9 7950X Performance With The New AMD P-State Default Of Linux 6.5](https://www.phoronix.com/review/linux65-ryzen-7950x)
+- [Phoronix](https://www.phoronix.com/) | [SQLite 3.43 Released With Up To 2x Performance For JSON Processing](https://www.phoronix.com/news/SQLite-3.43-Released)
+- [Phoronix](https://www.phoronix.com/) | [OpenMandriva ROME 23.08 Brings KDE Plasma 6 TP Option, Continues With AMD Zen Spin](https://www.phoronix.com/news/OpenMandriva-ROME-23.08)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08 Released with Lots of Goodies for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-released-with-lots-of-goodies-for-your-favorite-kde-apps)
+- [OMG! Linux](https://www.omglinux.com/) | [Linux Mastodon App Tokodon Gets UI Refresh & New Features](https://www.omglinux.com/tokodon-mastodon-app-23-08-0/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Catch me at Ohio LinuxFest (OLF)](https://dissociatedpress.net/2023/08/24/catch-me-at-ohio-linuxfest-olf/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan v0.107 is now available](https://blog.slyon.de/2023/08/24/netplan-v0-107-is-now-available/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 years at IF Sul de Minas, Pouso Alegre - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-ifsuldeminas-report/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E261 Dia De Camões E Das Comunidades De Domótica](https://podcastubuntuportugal.org/e261/)
+
 ## 20230824
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1102 英伟达显卡 BIOS 签名锁被破解](https://linux.cn/article-16121-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to All Systems Go!](https://www.collabora.com/news-and-blog/news-and-events/ready-to-all-systems-go.html)

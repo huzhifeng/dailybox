@@ -1,3 +1,8 @@
+## 20230825
+- [LibHunt](https://www.libhunt.com/) | [frank_jwt](https://www.libhunt.com/r/frank_jwt)
+- [LibHunt](https://www.libhunt.com/) | [seamless_communication](https://www.libhunt.com/r/seamless_communication)
+- [LibHunt](https://www.libhunt.com/) | [CustomDiscordRPC](https://www.libhunt.com/r/CustomDiscordRPC)
+
 ## 20230824
 - [LibHunt](https://www.libhunt.com/) | [zfs](https://www.libhunt.com/r/zfs)
 - [LibHunt](https://www.libhunt.com/) | [StableVideo](https://www.libhunt.com/r/StableVideo)

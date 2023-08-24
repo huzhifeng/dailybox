@@ -1,3 +1,6 @@
+## 20230825
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E261 Dia De Camões E Das Comunidades De Domótica](https://podcastubuntuportugal.org/e261/)
+
 ## 20230812
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [The Fridge: Ubuntu 22.04.3 LTS released](https://fridge.ubuntu.com/2023/08/11/ubuntu-22-04-3-lts-released/)
 

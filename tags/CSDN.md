@@ -1,3 +1,8 @@
+## 20230825
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [普通程序员如何实现在公网环境下也可以访问私有仓库Gitlab](https://blog.csdn.net/qq_57761637/article/details/132449278)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [怎么维护自己的电脑](https://blog.csdn.net/qq_28314431/article/details/132450281)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【腾讯云 TDSQL-C Serverless 产品测评】- 云原生时代的TDSQL-C MySQL数据库技术实践](https://blog.csdn.net/2301_77888392/article/details/132448663)
+
 ## 20230824
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为辟谣网传3.2万名科学家正式移籍；苹果回应iPhone14电池老化快：属正常现象；Excel集成Python|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132445977)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/magicyangjay111/article/details/132421817)
