@@ -1,3 +1,6 @@
+## 20230825
+- [TED Talks Daily](https://www.ted.com/talks) | [How AI art could enhance humanity's collective memory | Refik Anadol](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory?rss)
+
 ## 20230824
 - [TED Talks Daily](https://www.ted.com/talks) | [What's it like to be a giant sequoia tree? | Ersin Han Ersin](https://www.ted.com/talks/ersin_han_ersin_what_s_it_like_to_be_a_giant_sequoia_tree?rss)
 

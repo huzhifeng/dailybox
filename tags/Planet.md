@@ -1,3 +1,9 @@
+## 20230825
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Catch me at Ohio LinuxFest (OLF)](https://dissociatedpress.net/2023/08/24/catch-me-at-ohio-linuxfest-olf/)
+- [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan v0.107 is now available](https://blog.slyon.de/2023/08/24/netplan-v0-107-is-now-available/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 years at IF Sul de Minas, Pouso Alegre - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-ifsuldeminas-report/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E261 Dia De Camões E Das Comunidades De Domótica](https://podcastubuntuportugal.org/e261/)
+
 ## 20230824
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: IoT MC CFP](https://lpc.events/blog/current/index.php/2023/08/23/iot-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: Small Caps in Impress](http://caolanm.blogspot.com/2023/08/small-caps-in-impress.html)

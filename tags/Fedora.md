@@ -1,3 +1,6 @@
+## 20230825
+- [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Catch me at Ohio LinuxFest (OLF)](https://dissociatedpress.net/2023/08/24/catch-me-at-ohio-linuxfest-olf/)
+
 ## 20230824
 - [Planet Fedora](http://fedoraplanet.org/) | [Caolán McNamara: Small Caps in Impress](http://caolanm.blogspot.com/2023/08/small-caps-in-impress.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Systemd-journald vs. syslog-ng](https://peter.czanik.hu/other/syslog-ng-vs-systemd-journald/)

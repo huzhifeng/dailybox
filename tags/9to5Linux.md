@@ -1,3 +1,6 @@
+## 20230825
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08 Released with Lots of Goodies for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-released-with-lots-of-goodies-for-your-favorite-kde-apps)
+
 ## 20230822
 - [9to5Linux](https://9to5linux.com/) | [Bodhi Linux 7.0 Released with Linux Kernel 6.4, Based on Ubuntu 22.04 LTS](https://9to5linux.com/bodhi-linux-7-0-released-with-linux-kernel-6-4-based-on-ubuntu-22-04-lts)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-7-6-open-source-office-suite-officially-released-this-is-whats-new)

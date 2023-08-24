@@ -1,3 +1,6 @@
+## 20230825
+- [Slashdot](https://developers.slashdot.org/) | [Meta Releases Code Llama, a Code-Generating AI Model](https://developers.slashdot.org/story/23/08/24/1522219/meta-releases-code-llama-a-code-generating-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230824
 - [Slashdot](https://developers.slashdot.org/) | [Bitcoin Developers Push Back Against Craig Wright's Claim to Billions of Dollars in Bitcoin](https://yro.slashdot.org/story/23/08/22/2247223/bitcoin-developers-push-back-against-craig-wrights-claim-to-billions-of-dollars-in-bitcoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

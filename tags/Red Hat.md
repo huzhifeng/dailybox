@@ -1,3 +1,8 @@
+## 20230825
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
+- [Red Hat Developer](https://developers.redhat.com/) | [Integrate OpenShift Service Mesh with cert-manager and Vault](https://developers.redhat.com/articles/2023/08/24/integrate-openshift-service-mesh-cert-manager-and-vault)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to leverage AI to generate Apache Camel routes](https://developers.redhat.com/articles/2023/08/24/how-leverage-ai-generate-apache-camel-routes)
+
 ## 20230824
 - [Red Hat Developer](https://developers.redhat.com/) | [How to migrate a complex JBoss EAP application to OpenShift](https://developers.redhat.com/articles/2023/08/23/how-migrate-complex-jboss-eap-application-openshift)
 

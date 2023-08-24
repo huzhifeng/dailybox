@@ -1,3 +1,8 @@
+## 20230825
+- [Phoronix](https://www.phoronix.com/) | [Ryzen 9 7950X Performance With The New AMD P-State Default Of Linux 6.5](https://www.phoronix.com/review/linux65-ryzen-7950x)
+- [Phoronix](https://www.phoronix.com/) | [SQLite 3.43 Released With Up To 2x Performance For JSON Processing](https://www.phoronix.com/news/SQLite-3.43-Released)
+- [Phoronix](https://www.phoronix.com/) | [OpenMandriva ROME 23.08 Brings KDE Plasma 6 TP Option, Continues With AMD Zen Spin](https://www.phoronix.com/news/OpenMandriva-ROME-23.08)
+
 ## 20230824
 - [Phoronix](https://www.phoronix.com/) | [Intel Brings Up Lunar Lake Display Support For Linux](https://www.phoronix.com/news/Intel-Lunar-Lake-Display-Linux)
 - [Phoronix](https://www.phoronix.com/) | [AMD Sends Out Patches Enabling New "DCN 3.5" GPU Display Block](https://www.phoronix.com/news/AMD-DCN-3.5-Display-Enablement)

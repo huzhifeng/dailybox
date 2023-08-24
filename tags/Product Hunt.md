@@ -1,3 +1,8 @@
+## 20230825
+- [Product Hunt](https://www.producthunt.com) | [Fabric browser extension](https://www.producthunt.com/posts/fabric-browser-extension)
+- [Product Hunt](https://www.producthunt.com) | [Watto AI](https://www.producthunt.com/posts/watto-ai)
+- [Product Hunt](https://www.producthunt.com) | [Mine My Reviews](https://www.producthunt.com/posts/mine-my-reviews)
+
 ## 20230824
 - [Product Hunt](https://www.producthunt.com) | [Univw.AI](https://www.producthunt.com/posts/univw-ai)
 - [Product Hunt](https://www.producthunt.com) | [Bloc](https://www.producthunt.com/posts/bloc-3)

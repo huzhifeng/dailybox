@@ -1,3 +1,6 @@
+## 20230825
+- [OMG! Linux](https://www.omglinux.com/) | [Linux Mastodon App Tokodon Gets UI Refresh & New Features](https://www.omglinux.com/tokodon-mastodon-app-23-08-0/)
+
 ## 20230823
 - [OMG! Linux](https://www.omglinux.com/) | [Mission Center Updated, Now Lets You ‘Force Stop’ Apps](https://www.omglinux.com/mission-center-0-3-released/)
 

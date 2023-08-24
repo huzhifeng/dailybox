@@ -1,3 +1,8 @@
+## 20230825
+- [Lobsters](https://lobste.rs/) | [Factor 0.99 now available](https://lobste.rs/s/zcj8vy/factor_0_99_now_available)
+- [Lobsters](https://lobste.rs/) | [Leaving Haskell behind](https://lobste.rs/s/gkxg9p/leaving_haskell_behind)
+- [Lobsters](https://lobste.rs/) | [Celebrating Daemontools](https://lobste.rs/s/sbkuqa/celebrating_daemontools)
+
 ## 20230824
 - [Lobsters](https://lobste.rs/) | [PSA: Add dir="auto" to your inputs and textareas](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas)
 - [Lobsters](https://lobste.rs/) | [HashiCorp, Terraform, and OpenTF](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf)

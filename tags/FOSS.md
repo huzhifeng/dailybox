@@ -1,3 +1,6 @@
+## 20230825
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.34: Ubuntu 23.10 Features, Bodhi Linux 7, Useful Shortcuts and More](https://itsfoss.com/newsletter/foss-weekly-23-34/)
+
 ## 20230823
 - [It's FOSS](https://itsfoss.com/) | [Remove Home Folder Icon from Ubuntu Desktop](https://itsfoss.com/ubuntu-remove-home-icon/)
 
