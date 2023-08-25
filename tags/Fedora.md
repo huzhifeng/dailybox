@@ -1,3 +1,8 @@
+## 20230826
+- [Planet Fedora](http://fedoraplanet.org/) | [Debarshi Ray: Fedora meets RHEL: upgrading UBI to RHEL](https://debarshiray.wordpress.com/2023/08/25/fedora-meets-rhel-upgrading-ubi-to-rhel/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Docs workshop: Virtually writing together](https://fedoramagazine.org/docs-workshop-virtually-writing-together/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 34 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-34-2023/)
+
 ## 20230825
 - [Planet Fedora](http://fedoraplanet.org/) | [Joe Brockmeier: Catch me at Ohio LinuxFest (OLF)](https://dissociatedpress.net/2023/08/24/catch-me-at-ohio-linuxfest-olf/)
 

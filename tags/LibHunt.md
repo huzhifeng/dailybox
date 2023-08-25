@@ -1,3 +1,8 @@
+## 20230826
+- [LibHunt](https://www.libhunt.com/) | [pytudes](https://www.libhunt.com/r/pytudes)
+- [LibHunt](https://www.libhunt.com/) | [refact](https://www.libhunt.com/r/refact)
+- [LibHunt](https://www.libhunt.com/) | [AdNauseam](https://www.libhunt.com/r/AdNauseam)
+
 ## 20230825
 - [LibHunt](https://www.libhunt.com/) | [frank_jwt](https://www.libhunt.com/r/frank_jwt)
 - [LibHunt](https://www.libhunt.com/) | [seamless_communication](https://www.libhunt.com/r/seamless_communication)

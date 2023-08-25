@@ -1,3 +1,8 @@
+## 20230826
+- [Phoronix](https://www.phoronix.com/) | [AMD Announces The Radeon RX 7700 XT & RX 7800 XT Graphics Cards](https://www.phoronix.com/review/amd-rx-7700xt-7800xt)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Desktop "Charting A Course For The Future" With Ubuntu 24.04 LTS Next Year](https://www.phoronix.com/news/Ubuntu-Desktop-2023-Future)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Delays Transition To Snap'ed CUPS Print Server](https://www.phoronix.com/news/Ubuntu-Delays-Snap-CUPS)
+
 ## 20230825
 - [Phoronix](https://www.phoronix.com/) | [Ryzen 9 7950X Performance With The New AMD P-State Default Of Linux 6.5](https://www.phoronix.com/review/linux65-ryzen-7950x)
 - [Phoronix](https://www.phoronix.com/) | [SQLite 3.43 Released With Up To 2x Performance For JSON Processing](https://www.phoronix.com/news/SQLite-3.43-Released)

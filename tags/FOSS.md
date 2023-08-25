@@ -1,3 +1,6 @@
+## 20230826
+- [It's FOSS](https://itsfoss.com/) | [How to Turn Off KDE Wallet?](https://itsfoss.com/disable-kde-wallet/)
+
 ## 20230825
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.34: Ubuntu 23.10 Features, Bodhi Linux 7, Useful Shortcuts and More](https://itsfoss.com/newsletter/foss-weekly-23-34/)
 

@@ -1,3 +1,9 @@
+## 20230826
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车工厂急招百余工人，待遇18薪；iPhone 15 USB-C接口确认限速；LibreOffice 7.6发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132489251)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [怎么维护自己的电脑](https://blog.csdn.net/qq_28314431/article/details/132450281)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解密长短时记忆网络（LSTM）：从理论到PyTorch实战演示](https://blog.csdn.net/magicyangjay111/article/details/132480035)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【VsCode】SSH远程连接Linux服务器开发，搭配cpolar内网穿透实现公网访问(1)](https://blog.csdn.net/YYDsis/article/details/132485528)
+
 ## 20230825
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [普通程序员如何实现在公网环境下也可以访问私有仓库Gitlab](https://blog.csdn.net/qq_57761637/article/details/132449278)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [怎么维护自己的电脑](https://blog.csdn.net/qq_28314431/article/details/132450281)

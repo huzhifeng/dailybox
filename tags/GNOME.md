@@ -1,3 +1,6 @@
+## 20230826
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#110 Nailing Down Perfomance Issues](https://thisweek.gnome.org/posts/2023/08/twig-110/)
+
 ## 20230819
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#109 Managing Repositories](https://thisweek.gnome.org/posts/2023/08/twig-109/)
 

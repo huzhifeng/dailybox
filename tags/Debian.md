@@ -1,3 +1,8 @@
+## 20230826
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Snaps Weekly report, Debian recommenced!](https://www.scarlettgatelymoore.dev/kde-snaps-weekly-report-debian-recommenced/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos online no Brasil](https://debianbrasil.org.br/blog/debianday-30-anos-online-relato/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
+
 ## 20230825
 - [Planet Debian](https://planet.debian.org/) | [Lukas Märdian: Netplan v0.107 is now available](https://blog.slyon.de/2023/08/24/netplan-v0-107-is-now-available/)
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 years at IF Sul de Minas, Pouso Alegre - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-ifsuldeminas-report/)

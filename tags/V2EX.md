@@ -1,3 +1,8 @@
+## 20230826
+- [V2EX](https://www.v2ex.com/) | [V 友们，侄女考上 985 了， 2023 求推荐续航好的 WIN 电脑。](https://www.v2ex.com/t/968264)
+- [V2EX](https://www.v2ex.com/) | [学到什么样的水平，可以 run 出国工作。不考虑英语水平的话](https://www.v2ex.com/t/968251)
+- [V2EX](https://www.v2ex.com/) | [新来不到一个月的同事](https://www.v2ex.com/t/968226)
+
 ## 20230825
 - [V2EX](https://www.v2ex.com/) | [🎉全新升级 Xterminal 内测啦！轻松管理服务器，效率拉满！](https://www.v2ex.com/t/967928)
 - [V2EX](https://www.v2ex.com/) | [吐槽公司产品，感觉产品就很离谱，你们公司的产品也是这样的吗？](https://www.v2ex.com/t/967873)
