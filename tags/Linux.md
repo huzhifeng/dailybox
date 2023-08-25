@@ -1,3 +1,17 @@
+## 20230826
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1104 Firefox 实现 Chrome 扩展的无缝接入](https://linux.cn/article-16126-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Announces The Radeon RX 7700 XT & RX 7800 XT Graphics Cards](https://www.phoronix.com/review/amd-rx-7700xt-7800xt)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Desktop "Charting A Course For The Future" With Ubuntu 24.04 LTS Next Year](https://www.phoronix.com/news/Ubuntu-Desktop-2023-Future)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Delays Transition To Snap'ed CUPS Print Server](https://www.phoronix.com/news/Ubuntu-Delays-Snap-CUPS)
+- [9to5Linux](https://9to5linux.com/) | [Happy 32nd Birthday, Linux!](https://9to5linux.com/happy-32nd-birthday-linux)
+- [Planet Fedora](http://fedoraplanet.org/) | [Debarshi Ray: Fedora meets RHEL: upgrading UBI to RHEL](https://debarshiray.wordpress.com/2023/08/25/fedora-meets-rhel-upgrading-ubi-to-rhel/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Docs workshop: Virtually writing together](https://fedoramagazine.org/docs-workshop-virtually-writing-together/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 34 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-34-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Snaps Weekly report, Debian recommenced!](https://www.scarlettgatelymoore.dev/kde-snaps-weekly-report-debian-recommenced/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos online no Brasil](https://debianbrasil.org.br/blog/debianday-30-anos-online-relato/)
+- [Planet Debian](https://planet.debian.org/) | [Ian Jackson: I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#110 Nailing Down Perfomance Issues](https://thisweek.gnome.org/posts/2023/08/twig-110/)
+
 ## 20230825
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1103 谷歌工程师日常：一日一小时工作制](https://linux.cn/article-16124-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)

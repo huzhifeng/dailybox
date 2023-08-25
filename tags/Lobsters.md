@@ -1,3 +1,8 @@
+## 20230826
+- [Lobsters](https://lobste.rs/) | [Why htmx Does Not Have a Build Step](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step)
+- [Lobsters](https://lobste.rs/) | [Implementing interactive languages](https://lobste.rs/s/8gxlj9/implementing_interactive_languages)
+- [Lobsters](https://lobste.rs/) | [My Thoughts on OCaml vs Haskell/Rust in 2023](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023)
+
 ## 20230825
 - [Lobsters](https://lobste.rs/) | [Factor 0.99 now available](https://lobste.rs/s/zcj8vy/factor_0_99_now_available)
 - [Lobsters](https://lobste.rs/) | [Leaving Haskell behind](https://lobste.rs/s/gkxg9p/leaving_haskell_behind)

@@ -1,3 +1,7 @@
+## 20230826
+- [Hacker News](https://news.ycombinator.com/front) | [OpenTF Announces Fork of Terraform](https://news.ycombinator.com/item?id=37262440)
+- [Hacker News](https://news.ycombinator.com/front) | [Factorio: Space Age](https://news.ycombinator.com/item?id=37260637)
+
 ## 20230825
 - [Hacker News](https://news.ycombinator.com/front) | [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://news.ycombinator.com/item?id=37248895)
 - [Hacker News](https://news.ycombinator.com/front) | [Code Llama, a state-of-the-art large language model for coding](https://news.ycombinator.com/item?id=37248494)

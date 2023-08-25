@@ -1,3 +1,6 @@
+## 20230826
+- [TED Talks Daily](https://www.ted.com/talks) | [The "adjacent possible" -- and how it explains human innovation | Stuart Kauffman](https://www.ted.com/talks/stuart_kauffman_the_adjacent_possible_and_how_it_explains_human_innovation?rss)
+
 ## 20230825
 - [TED Talks Daily](https://www.ted.com/talks) | [How AI art could enhance humanity's collective memory | Refik Anadol](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory?rss)
 

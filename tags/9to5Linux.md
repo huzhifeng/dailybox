@@ -1,3 +1,6 @@
+## 20230826
+- [9to5Linux](https://9to5linux.com/) | [Happy 32nd Birthday, Linux!](https://9to5linux.com/happy-32nd-birthday-linux)
+
 ## 20230825
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08 Released with Lots of Goodies for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-released-with-lots-of-goodies-for-your-favorite-kde-apps)
 

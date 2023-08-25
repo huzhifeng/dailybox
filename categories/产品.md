@@ -1,3 +1,8 @@
+## 20230826
+- [Product Hunt](https://www.producthunt.com) | [Digital Products by Graphy](https://www.producthunt.com/posts/digital-products-by-graphy)
+- [Product Hunt](https://www.producthunt.com) | [Build with Theta](https://www.producthunt.com/posts/build-with-theta)
+- [Product Hunt](https://www.producthunt.com) | [Spur.fit](https://www.producthunt.com/posts/spur-fit)
+
 ## 20230825
 - [Product Hunt](https://www.producthunt.com) | [Fabric browser extension](https://www.producthunt.com/posts/fabric-browser-extension)
 - [Product Hunt](https://www.producthunt.com) | [Watto AI](https://www.producthunt.com/posts/watto-ai)
