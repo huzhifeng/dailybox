@@ -1,3 +1,7 @@
+## 20230827
+- [Slashdot](https://developers.slashdot.org/) | [Is 'CS In Every School' the 2024 Presidential Campaign's 'Chicken In Every Pot'?](https://developers.slashdot.org/story/23/08/26/1745239/is-cs-in-every-school-the-2024-presidential-campaigns-chicken-in-every-pot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230826
 - [Slashdot](https://developers.slashdot.org/) | [Scientists Strengthen Concrete By 30 Percent With Used Coffee Grounds](https://science.slashdot.org/story/23/08/24/2358232/scientists-strengthen-concrete-by-30-percent-with-used-coffee-grounds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Apple's Vision Pro Labs Are Drawing Audible Gasps From Developers, Says Company](https://apple.slashdot.org/story/23/08/24/2154203/apples-vision-pro-labs-are-drawing-audible-gasps-from-developers-says-company?utm_source=rss1.0mainlinkanon&utm_medium=feed)

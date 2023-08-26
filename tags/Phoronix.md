@@ -1,3 +1,8 @@
+## 20230827
+- [Phoronix](https://www.phoronix.com/) | [Canonical Releases LXD 5.17 With OpenZFS 2.2 Delegation Support](https://www.phoronix.com/news/LXD-5.17-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Ready To Ship With Initial USB4 v2, More WiFi 7, AMD P-State EPP Default & More](https://www.phoronix.com/news/Linux-6.5-Features)
+- [Phoronix](https://www.phoronix.com/) | [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
+
 ## 20230826
 - [Phoronix](https://www.phoronix.com/) | [AMD Announces The Radeon RX 7700 XT & RX 7800 XT Graphics Cards](https://www.phoronix.com/review/amd-rx-7700xt-7800xt)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Desktop "Charting A Course For The Future" With Ubuntu 24.04 LTS Next Year](https://www.phoronix.com/news/Ubuntu-Desktop-2023-Future)

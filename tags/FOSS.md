@@ -1,3 +1,6 @@
+## 20230827
+- [It's FOSS](https://itsfoss.com/) | [7 Things You Never Knew You Could Do in GNOME's Activity Search](https://itsfoss.com/gnome-search/)
+
 ## 20230826
 - [It's FOSS](https://itsfoss.com/) | [How to Turn Off KDE Wallet?](https://itsfoss.com/disable-kde-wallet/)
 

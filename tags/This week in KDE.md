@@ -1,3 +1,6 @@
+## 20230827
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: tap-to-click by default](https://pointieststick.com/2023/08/25/this-week-in-kde-tap-to-click-by-default/)
+
 ## 20230820
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 

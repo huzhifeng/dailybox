@@ -1,3 +1,8 @@
+## 20230827
+- [Lobsters](https://lobste.rs/) | [Ichido: an independent search engine inspired by 90s-2000s search](https://lobste.rs/s/svdv5a/ichido_independent_search_engine)
+- [Lobsters](https://lobste.rs/) | [E-ink is so Retropunk](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk)
+- [Lobsters](https://lobste.rs/) | [Rust Cryptography Should be Written in Rust](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust)
+
 ## 20230826
 - [Lobsters](https://lobste.rs/) | [Why htmx Does Not Have a Build Step](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step)
 - [Lobsters](https://lobste.rs/) | [Implementing interactive languages](https://lobste.rs/s/8gxlj9/implementing_interactive_languages)

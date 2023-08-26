@@ -1,3 +1,7 @@
+## 20230827
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - BBQ still in full swing](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 OMGWTFBBQ - Cambridge is waking up](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-cambridge-is-waking.html)
+
 ## 20230826
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE Snaps Weekly report, Debian recommenced!](https://www.scarlettgatelymoore.dev/kde-snaps-weekly-report-debian-recommenced/)
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos online no Brasil](https://debianbrasil.org.br/blog/debianday-30-anos-online-relato/)

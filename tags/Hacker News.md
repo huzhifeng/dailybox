@@ -1,3 +1,6 @@
+## 20230827
+- [Hacker News](https://news.ycombinator.com/front) | [E-ink is so Retropunk](https://news.ycombinator.com/item?id=37272652)
+
 ## 20230826
 - [Hacker News](https://news.ycombinator.com/front) | [OpenTF Announces Fork of Terraform](https://news.ycombinator.com/item?id=37262440)
 - [Hacker News](https://news.ycombinator.com/front) | [Factorio: Space Age](https://news.ycombinator.com/item?id=37260637)

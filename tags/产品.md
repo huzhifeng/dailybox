@@ -1,3 +1,8 @@
+## 20230827
+- [Product Hunt](https://www.producthunt.com) | [Candy Leaves Notion Finance Tracker](https://www.producthunt.com/posts/candy-leaves-notion-finance-tracker)
+- [Product Hunt](https://www.producthunt.com) | [CompeteOS](https://www.producthunt.com/posts/competeos)
+- [Product Hunt](https://www.producthunt.com) | [X creator hub](https://www.producthunt.com/posts/x-creator-hub)
+
 ## 20230826
 - [Product Hunt](https://www.producthunt.com) | [Digital Products by Graphy](https://www.producthunt.com/posts/digital-products-by-graphy)
 - [Product Hunt](https://www.producthunt.com) | [Build with Theta](https://www.producthunt.com/posts/build-with-theta)
