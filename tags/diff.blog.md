@@ -1,3 +1,6 @@
+## 20230827
+- [diff.blog](https://diff.blog/) | [This isn't the way to speed up Rust compile times](https://diff.blog/post/this-isnt-the-way-to-speed-up-rust-compile-times-153319/)
+
 ## 20230825
 - [diff.blog](https://diff.blog/) | [Code Llama: Meta’s state-of-the-art LLM for coding](https://diff.blog/post/code-llama-metas-state-of-the-art-llm-for-coding-153219/)
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.72.0](https://diff.blog/post/announcing-rust-1720-153215/)

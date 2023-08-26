@@ -1,3 +1,7 @@
+## 20230827
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - BBQ still in full swing](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 OMGWTFBBQ - Cambridge is waking up](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-cambridge-is-waking.html)
+
 ## 20230826
 - [Planet Fedora](http://fedoraplanet.org/) | [Debarshi Ray: Fedora meets RHEL: upgrading UBI to RHEL](https://debarshiray.wordpress.com/2023/08/25/fedora-meets-rhel-upgrading-ubi-to-rhel/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Docs workshop: Virtually writing together](https://fedoramagazine.org/docs-workshop-virtually-writing-together/)

@@ -1,3 +1,12 @@
+## 20230827
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1105 Ubuntu 桌面用户已超 600 万](https://linux.cn/article-16131-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Canonical Releases LXD 5.17 With OpenZFS 2.2 Delegation Support](https://www.phoronix.com/news/LXD-5.17-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Ready To Ship With Initial USB4 v2, More WiFi 7, AMD P-State EPP Default & More](https://www.phoronix.com/news/Linux-6.5-Features)
+- [Phoronix](https://www.phoronix.com/) | [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - BBQ still in full swing](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 OMGWTFBBQ - Cambridge is waking up](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-cambridge-is-waking.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: tap-to-click by default](https://pointieststick.com/2023/08/25/this-week-in-kde-tap-to-click-by-default/)
+
 ## 20230826
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1104 Firefox 实现 Chrome 扩展的无缝接入](https://linux.cn/article-16126-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Announces The Radeon RX 7700 XT & RX 7800 XT Graphics Cards](https://www.phoronix.com/review/amd-rx-7700xt-7800xt)
