@@ -1,3 +1,6 @@
+## 20230828
+- [Hacker News](https://news.ycombinator.com/front) | [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://news.ycombinator.com/item?id=37279109)
+
 ## 20230827
 - [Hacker News](https://news.ycombinator.com/front) | [E-ink is so Retropunk](https://news.ycombinator.com/item?id=37272652)
 

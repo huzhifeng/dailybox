@@ -1,3 +1,8 @@
+## 20230828
+- [Slashdot](https://linux.slashdot.org/) | [Can You Run Linux On a Commodore 64?](https://linux.slashdot.org/story/23/08/27/1532207/can-you-run-linux-on-a-commodore-64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Creators of Python, Java, TypeScript, and SmallTalk Will Make a Joint Apperance for Charity](https://developers.slashdot.org/story/23/08/27/1737256/creators-of-python-java-typescript-and-smalltalk-will-make-a-joint-apperance-for-charity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Amazon's Honeycode No-Code App Builder Is No-More](https://developers.slashdot.org/story/23/08/26/1825205/amazons-honeycode-no-code-app-builder-is-no-more?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230827
 - [Slashdot](https://developers.slashdot.org/) | [Is 'CS In Every School' the 2024 Presidential Campaign's 'Chicken In Every Pot'?](https://developers.slashdot.org/story/23/08/26/1745239/is-cs-in-every-school-the-2024-presidential-campaigns-chicken-in-every-pot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice?utm_source=rss1.0mainlinkanon&utm_medium=feed)

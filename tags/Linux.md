@@ -1,3 +1,16 @@
+## 20230828
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1106 Amazon Linux 2023 仍然没有交付虚拟机镜像](https://linux.cn/article-16134-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Publishes Guide For Steam Play Games On Their AArch64 Server CPUs](https://www.phoronix.com/news/Ampere-Computing-Steam-Play)
+- [Phoronix](https://www.phoronix.com/) | [fchmodat2 System Call Submitted For Linux 6.6](https://www.phoronix.com/news/fchmodat2-For-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Flatpak Lands Support For Wayland Security Context](https://www.phoronix.com/news/Flatpak-Wayland-Security-Ctx)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45&#8217;s Nautilus File Manager Gets a Modern Full-Height Sidebar Layout](https://9to5linux.com/gnome-45s-nautilus-file-manager-gets-a-modern-full-height-sidebar-layout)
+- [9to5Linux](https://9to5linux.com/) | [Mageia 9 Officially Released with Linux 6.4, Smaller Disk Footprint, and More](https://9to5linux.com/mageia-9-officially-released-with-linux-6-4-smaller-disk-footprint-and-more)
+- [OMG! Linux](https://www.omglinux.com/) | [Nautilus Debuts Split-Pane Look in GNOME 45](https://www.omglinux.com/nautilus-split-pane-gnome-45/)
+- [OMG! Linux](https://www.omglinux.com/) | [KDE Video App Haruna Adds Some Neat New Features](https://www.omglinux.com/haruna-kde-video-app-updated-with-neat-new-features/)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Handling Inbox spam](https://avi.alkalay.net/2023/08/handling-inbox-spam.html)
+- [Planet Debian](https://planet.debian.org/) | [Steve McIntyre: We're back!](https://blog.einval.com/2023/08/27#2023party)
+- [Slashdot](https://linux.slashdot.org/) | [Can You Run Linux On a Commodore 64?](https://linux.slashdot.org/story/23/08/27/1532207/can-you-run-linux-on-a-commodore-64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230827
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1105 Ubuntu 桌面用户已超 600 万](https://linux.cn/article-16131-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Canonical Releases LXD 5.17 With OpenZFS 2.2 Delegation Support](https://www.phoronix.com/news/LXD-5.17-Released)

@@ -1,3 +1,6 @@
+## 20230828
+- [Planet Debian](https://planet.debian.org/) | [Steve McIntyre: We're back!](https://blog.einval.com/2023/08/27#2023party)
+
 ## 20230827
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - BBQ still in full swing](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq.html)
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 OMGWTFBBQ - Cambridge is waking up](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-cambridge-is-waking.html)

@@ -1,3 +1,7 @@
+## 20230828
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45&#8217;s Nautilus File Manager Gets a Modern Full-Height Sidebar Layout](https://9to5linux.com/gnome-45s-nautilus-file-manager-gets-a-modern-full-height-sidebar-layout)
+- [9to5Linux](https://9to5linux.com/) | [Mageia 9 Officially Released with Linux 6.4, Smaller Disk Footprint, and More](https://9to5linux.com/mageia-9-officially-released-with-linux-6-4-smaller-disk-footprint-and-more)
+
 ## 20230826
 - [9to5Linux](https://9to5linux.com/) | [Happy 32nd Birthday, Linux!](https://9to5linux.com/happy-32nd-birthday-linux)
 

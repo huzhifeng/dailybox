@@ -1,3 +1,8 @@
+## 20230828
+- [V2EX](https://www.v2ex.com/) | [IPV6 好啊， IPV6 好， IPV6 郭嘉网民地位高](https://www.v2ex.com/t/968683)
+- [V2EX](https://www.v2ex.com/) | [31 了， 965offer 底薪比原公司高三分之一，另一家 996offer 开的比原公司高大概一倍，选哪个？](https://www.v2ex.com/t/968646)
+- [V2EX](https://www.v2ex.com/) | [来拼车 Apple 开发者账户，实现在 macOS 上安装任意 iOSApp](https://www.v2ex.com/t/968643)
+
 ## 20230827
 - [V2EX](https://www.v2ex.com/) | [请教各位老哥，两地相距 350 米，如何共用宽带上网？](https://www.v2ex.com/t/968482)
 - [V2EX](https://www.v2ex.com/) | [折腾多年的网络体会](https://www.v2ex.com/t/968451)

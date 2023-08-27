@@ -1,3 +1,7 @@
+## 20230828
+- [OMG! Linux](https://www.omglinux.com/) | [Nautilus Debuts Split-Pane Look in GNOME 45](https://www.omglinux.com/nautilus-split-pane-gnome-45/)
+- [OMG! Linux](https://www.omglinux.com/) | [KDE Video App Haruna Adds Some Neat New Features](https://www.omglinux.com/haruna-kde-video-app-updated-with-neat-new-features/)
+
 ## 20230825
 - [OMG! Linux](https://www.omglinux.com/) | [Linux Mastodon App Tokodon Gets UI Refresh & New Features](https://www.omglinux.com/tokodon-mastodon-app-23-08-0/)
 
