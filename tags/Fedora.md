@@ -1,3 +1,6 @@
+## 20230828
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Handling Inbox spam](https://avi.alkalay.net/2023/08/handling-inbox-spam.html)
+
 ## 20230826
 - [Planet Fedora](http://fedoraplanet.org/) | [Debarshi Ray: Fedora meets RHEL: upgrading UBI to RHEL](https://debarshiray.wordpress.com/2023/08/25/fedora-meets-rhel-upgrading-ubi-to-rhel/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Docs workshop: Virtually writing together](https://fedoramagazine.org/docs-workshop-virtually-writing-together/)

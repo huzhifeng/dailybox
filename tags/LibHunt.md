@@ -1,3 +1,8 @@
+## 20230828
+- [LibHunt](https://www.libhunt.com/) | [anything-llm](https://www.libhunt.com/r/anything-llm)
+- [LibHunt](https://www.libhunt.com/) | [cody](https://www.libhunt.com/r/sourcegraph/cody)
+- [LibHunt](https://www.libhunt.com/) | [Hugo](https://www.libhunt.com/r/hugo)
+
 ## 20230827
 - [LibHunt](https://www.libhunt.com/) | [graphweaver](https://www.libhunt.com/r/graphweaver)
 

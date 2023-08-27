@@ -1,3 +1,8 @@
+## 20230828
+- [Product Hunt](https://www.producthunt.com) | [Transcript LOL](https://www.producthunt.com/posts/transcript-lol)
+- [Product Hunt](https://www.producthunt.com) | [Feedful](https://www.producthunt.com/posts/feedful)
+- [Product Hunt](https://www.producthunt.com) | [iStory Studio](https://www.producthunt.com/posts/istory-studio)
+
 ## 20230827
 - [Product Hunt](https://www.producthunt.com) | [Candy Leaves Notion Finance Tracker](https://www.producthunt.com/posts/candy-leaves-notion-finance-tracker)
 - [Product Hunt](https://www.producthunt.com) | [CompeteOS](https://www.producthunt.com/posts/competeos)

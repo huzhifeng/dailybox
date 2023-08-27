@@ -1,3 +1,8 @@
+## 20230828
+- [Lobsters](https://lobste.rs/) | [Support for ActivityPub on GitLab](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab)
+- [Lobsters](https://lobste.rs/) | [It's All Just Debian](https://lobste.rs/s/4kmbw7/it_s_all_just_debian)
+- [Lobsters](https://lobste.rs/) | [That Old NetBSD Server, Running Since 2010](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010)
+
 ## 20230827
 - [Lobsters](https://lobste.rs/) | [Ichido: an independent search engine inspired by 90s-2000s search](https://lobste.rs/s/svdv5a/ichido_independent_search_engine)
 - [Lobsters](https://lobste.rs/) | [E-ink is so Retropunk](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk)

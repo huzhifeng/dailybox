@@ -1,3 +1,8 @@
+## 20230828
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Publishes Guide For Steam Play Games On Their AArch64 Server CPUs](https://www.phoronix.com/news/Ampere-Computing-Steam-Play)
+- [Phoronix](https://www.phoronix.com/) | [fchmodat2 System Call Submitted For Linux 6.6](https://www.phoronix.com/news/fchmodat2-For-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Flatpak Lands Support For Wayland Security Context](https://www.phoronix.com/news/Flatpak-Wayland-Security-Ctx)
+
 ## 20230827
 - [Phoronix](https://www.phoronix.com/) | [Canonical Releases LXD 5.17 With OpenZFS 2.2 Delegation Support](https://www.phoronix.com/news/LXD-5.17-Released)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Ready To Ship With Initial USB4 v2, More WiFi 7, AMD P-State EPP Default & More](https://www.phoronix.com/news/Linux-6.5-Features)
