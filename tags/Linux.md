@@ -1,3 +1,19 @@
+## 20230829
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1107 埃隆·马斯克的 Twitter/X 关注者水分严重](https://linux.cn/article-16137-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How Ansible lint improves playbook debugging](https://developers.redhat.com/articles/2023/08/28/how-ansible-lint-improves-playbook-debugging)
+- [Phoronix](https://www.phoronix.com/) | [Intel Talks Up 2024 Xeon Sierra Forest & Granite Rapids At Hot Chips](https://www.phoronix.com/review/intel-hotchips-2023)
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 / Family 1Ah Temperature Support & EDAC Submitted For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-AMD-Zen-5-EDAC-HWMON)
+- [Phoronix](https://www.phoronix.com/) | [Firefox 117 Available With Local Automated Translation Support](https://www.phoronix.com/news/Firefox-117-Released)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-117-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.5 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-5-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 27th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-27th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: A Maldição do Investidor](https://avi.alkalay.net/2023/08/maldicao-investidor.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: An update on GNOME Settings](https://feborg.es/gnome-settings-update-2023-2/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 390 – Rust shipping binaries doesn’t matter](https://opensourcesecurity.io/2023/08/27/episode-390-rust-shipping-binaries-doesnt-matter/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: OMGWTFBBQ 2023](https://www.earth.li/~noodles/blog/2023/08/omgwtfbbq.html)
+- [Slashdot](https://linux.slashdot.org/) | [Nautilus File Manager Gets New Features in Upcoming GNOME 45](https://linux.slashdot.org/story/23/08/27/2329227/nautilus-file-manager-gets-new-features-in-upcoming-gnome-45?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230828
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1106 Amazon Linux 2023 仍然没有交付虚拟机镜像](https://linux.cn/article-16134-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing Publishes Guide For Steam Play Games On Their AArch64 Server CPUs](https://www.phoronix.com/news/Ampere-Computing-Steam-Play)

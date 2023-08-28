@@ -1,3 +1,6 @@
+## 20230829
+- [It's FOSS](https://itsfoss.com/) | [Using Your Phone as Camera and Mic in Ubuntu Linux](https://itsfoss.com/ubuntu-phone-camera-mic/)
+
 ## 20230827
 - [It's FOSS](https://itsfoss.com/) | [7 Things You Never Knew You Could Do in GNOME's Activity Search](https://itsfoss.com/gnome-search/)
 

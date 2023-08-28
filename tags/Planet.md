@@ -1,3 +1,10 @@
+## 20230829
+- [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: A Maldição do Investidor](https://avi.alkalay.net/2023/08/maldicao-investidor.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: An update on GNOME Settings](https://feborg.es/gnome-settings-update-2023-2/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 390 – Rust shipping binaries doesn’t matter](https://opensourcesecurity.io/2023/08/27/episode-390-rust-shipping-binaries-doesnt-matter/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: OMGWTFBBQ 2023](https://www.earth.li/~noodles/blog/2023/08/omgwtfbbq.html)
+
 ## 20230828
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: Handling Inbox spam](https://avi.alkalay.net/2023/08/handling-inbox-spam.html)
 - [Planet Debian](https://planet.debian.org/) | [Steve McIntyre: We're back!](https://blog.einval.com/2023/08/27#2023party)

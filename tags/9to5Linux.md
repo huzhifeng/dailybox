@@ -1,3 +1,8 @@
+## 20230829
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-117-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.5 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-5-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 27th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-august-27th-2023)
+
 ## 20230828
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45&#8217;s Nautilus File Manager Gets a Modern Full-Height Sidebar Layout](https://9to5linux.com/gnome-45s-nautilus-file-manager-gets-a-modern-full-height-sidebar-layout)
 - [9to5Linux](https://9to5linux.com/) | [Mageia 9 Officially Released with Linux 6.4, Smaller Disk Footprint, and More](https://9to5linux.com/mageia-9-officially-released-with-linux-6-4-smaller-disk-footprint-and-more)

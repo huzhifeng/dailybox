@@ -1,3 +1,7 @@
+## 20230829
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: OMGWTFBBQ 2023](https://www.earth.li/~noodles/blog/2023/08/omgwtfbbq.html)
+
 ## 20230828
 - [Planet Debian](https://planet.debian.org/) | [Steve McIntyre: We're back!](https://blog.einval.com/2023/08/27#2023party)
 
