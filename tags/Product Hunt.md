@@ -1,3 +1,8 @@
+## 20230829
+- [Product Hunt](https://www.producthunt.com) | [Solid Apps](https://www.producthunt.com/posts/solid-apps)
+- [Product Hunt](https://www.producthunt.com) | [AutoApplyAI, by Wonsulting](https://www.producthunt.com/posts/autoapplyai-by-wonsulting)
+- [Product Hunt](https://www.producthunt.com) | [AI Founder by Kickstart Side Hustle](https://www.producthunt.com/posts/ai-founder-by-kickstart-side-hustle)
+
 ## 20230828
 - [Product Hunt](https://www.producthunt.com) | [Transcript LOL](https://www.producthunt.com/posts/transcript-lol)
 - [Product Hunt](https://www.producthunt.com) | [Feedful](https://www.producthunt.com/posts/feedful)

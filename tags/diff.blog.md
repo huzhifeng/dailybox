@@ -1,3 +1,6 @@
+## 20230829
+- [diff.blog](https://diff.blog/) | [Perfectly Reproducible, Verified Go Toolchains](https://diff.blog/post/perfectly-reproducible-verified-go-toolchains-153530/)
+
 ## 20230827
 - [diff.blog](https://diff.blog/) | [This isn't the way to speed up Rust compile times](https://diff.blog/post/this-isnt-the-way-to-speed-up-rust-compile-times-153319/)
 

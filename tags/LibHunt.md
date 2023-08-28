@@ -1,3 +1,8 @@
+## 20230829
+- [LibHunt](https://www.libhunt.com/) | [Cataclysm-BN](https://www.libhunt.com/r/Cataclysm-BN)
+- [LibHunt](https://www.libhunt.com/) | [manifesto](https://www.libhunt.com/r/manifesto)
+- [LibHunt](https://www.libhunt.com/) | [codellama](https://www.libhunt.com/r/codellama)
+
 ## 20230828
 - [LibHunt](https://www.libhunt.com/) | [anything-llm](https://www.libhunt.com/r/anything-llm)
 - [LibHunt](https://www.libhunt.com/) | [cody](https://www.libhunt.com/r/sourcegraph/cody)

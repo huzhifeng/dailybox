@@ -1,3 +1,8 @@
+## 20230829
+- [Lobsters](https://lobste.rs/) | [Serde is no longer shipping precompiled blobs](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled)
+- [Lobsters](https://lobste.rs/) | [Nix revisited](https://lobste.rs/s/uumm5j/nix_revisited)
+- [Lobsters](https://lobste.rs/) | [A Pigeon is still faster than the Internet](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet)
+
 ## 20230828
 - [Lobsters](https://lobste.rs/) | [Support for ActivityPub on GitLab](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab)
 - [Lobsters](https://lobste.rs/) | [It's All Just Debian](https://lobste.rs/s/4kmbw7/it_s_all_just_debian)

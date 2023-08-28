@@ -1,3 +1,8 @@
+## 20230829
+- [Phoronix](https://www.phoronix.com/) | [Intel Talks Up 2024 Xeon Sierra Forest & Granite Rapids At Hot Chips](https://www.phoronix.com/review/intel-hotchips-2023)
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 / Family 1Ah Temperature Support & EDAC Submitted For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-AMD-Zen-5-EDAC-HWMON)
+- [Phoronix](https://www.phoronix.com/) | [Firefox 117 Available With Local Automated Translation Support](https://www.phoronix.com/news/Firefox-117-Released)
+
 ## 20230828
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing Publishes Guide For Steam Play Games On Their AArch64 Server CPUs](https://www.phoronix.com/news/Ampere-Computing-Steam-Play)
 - [Phoronix](https://www.phoronix.com/) | [fchmodat2 System Call Submitted For Linux 6.6](https://www.phoronix.com/news/fchmodat2-For-Linux-6.6)

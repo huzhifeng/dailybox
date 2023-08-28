@@ -1,3 +1,8 @@
+## 20230829
+- [Hacker News](https://news.ycombinator.com/front) | [When your classmates threaten you with felony charges](https://news.ycombinator.com/item?id=37297823)
+- [Hacker News](https://news.ycombinator.com/front) | [ChatGPT Enterprise](https://news.ycombinator.com/item?id=37297304)
+- [Hacker News](https://news.ycombinator.com/front) | [CLI text processing with GNU awk](https://news.ycombinator.com/item?id=37290356)
+
 ## 20230828
 - [Hacker News](https://news.ycombinator.com/front) | [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://news.ycombinator.com/item?id=37279109)
 

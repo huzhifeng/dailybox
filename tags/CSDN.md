@@ -1,3 +1,9 @@
+## 20230829
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [科大讯飞董事长刘庆峰：华为GPU已可对标英伟达A100；Windows 11 文件资源管理器支持 RAR 等格式|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132532618)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [《机器学习核心技术》分类算法 - 决策树](https://blog.csdn.net/wangyuxiang946/article/details/132000432)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Docker 】Docker 客户端，容器使用，启动容器，启动已停止运行的容器，停止一个容器，进入容器](https://blog.csdn.net/2201_75366661/article/details/132383437)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [如何在树莓派上使用Nginx搭建本地站点并通过内网穿透实现远程访问](https://blog.csdn.net/weixin_67596609/article/details/132537932)
+
 ## 20230826
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车工厂急招百余工人，待遇18薪；iPhone 15 USB-C接口确认限速；LibreOffice 7.6发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132489251)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [怎么维护自己的电脑](https://blog.csdn.net/qq_28314431/article/details/132450281)

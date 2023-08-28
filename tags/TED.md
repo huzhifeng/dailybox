@@ -1,3 +1,6 @@
+## 20230829
+- [TED Talks Daily](https://www.ted.com/talks) | [The dream of digital ownership, powered by the metaverse | Yat Siu](https://www.ted.com/talks/yat_siu_the_dream_of_digital_ownership_powered_by_the_metaverse?rss)
+
 ## 20230826
 - [TED Talks Daily](https://www.ted.com/talks) | [The "adjacent possible" -- and how it explains human innovation | Stuart Kauffman](https://www.ted.com/talks/stuart_kauffman_the_adjacent_possible_and_how_it_explains_human_innovation?rss)
 

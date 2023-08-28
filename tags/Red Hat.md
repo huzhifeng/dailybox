@@ -1,3 +1,6 @@
+## 20230829
+- [Red Hat Developer](https://developers.redhat.com/) | [How Ansible lint improves playbook debugging](https://developers.redhat.com/articles/2023/08/28/how-ansible-lint-improves-playbook-debugging)
+
 ## 20230825
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
 - [Red Hat Developer](https://developers.redhat.com/) | [Integrate OpenShift Service Mesh with cert-manager and Vault](https://developers.redhat.com/articles/2023/08/24/integrate-openshift-service-mesh-cert-manager-and-vault)
