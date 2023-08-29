@@ -1,3 +1,8 @@
+## 20230830
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Better Protect Against The Illicit Behavior Of NVIDIA's Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
+- [Phoronix](https://www.phoronix.com/) | [XDG-Desktop-Portal 1.17.1 Released With Accent Color Support](https://www.phoronix.com/news/XDG-Desktop-Portal-1.17.1)
+- [Phoronix](https://www.phoronix.com/) | [GNU Coreutils 9.4 Adds Experimental "--enable-systemd" Option, Faster Split](https://www.phoronix.com/news/GNU-Coreutils-9.4)
+
 ## 20230829
 - [Phoronix](https://www.phoronix.com/) | [Intel Talks Up 2024 Xeon Sierra Forest & Granite Rapids At Hot Chips](https://www.phoronix.com/review/intel-hotchips-2023)
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 / Family 1Ah Temperature Support & EDAC Submitted For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-AMD-Zen-5-EDAC-HWMON)

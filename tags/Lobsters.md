@@ -1,3 +1,8 @@
+## 20230830
+- [Lobsters](https://lobste.rs/) | [Semantic Markup for Callouts](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts)
+- [Lobsters](https://lobste.rs/) | [The First Stable Release of a Memory Safe sudo Implementation](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo)
+- [Lobsters](https://lobste.rs/) | [From Serverless to Elixir](https://lobste.rs/s/mvt4ld/from_serverless_elixir)
+
 ## 20230829
 - [Lobsters](https://lobste.rs/) | [Serde is no longer shipping precompiled blobs](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled)
 - [Lobsters](https://lobste.rs/) | [Nix revisited](https://lobste.rs/s/uumm5j/nix_revisited)

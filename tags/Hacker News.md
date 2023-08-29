@@ -1,3 +1,6 @@
+## 20230830
+- [Hacker News](https://news.ycombinator.com/front) | [Keystroke timing obfuscation added to ssh(1)](https://news.ycombinator.com/item?id=37307708)
+
 ## 20230829
 - [Hacker News](https://news.ycombinator.com/front) | [When your classmates threaten you with felony charges](https://news.ycombinator.com/item?id=37297823)
 - [Hacker News](https://news.ycombinator.com/front) | [ChatGPT Enterprise](https://news.ycombinator.com/item?id=37297304)

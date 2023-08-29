@@ -1,3 +1,8 @@
+## 20230830
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230828 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Erich Schubert: AI Have a Dream](https://www.vitavonni.de/blog/202308/2023082901-ai-have-a-dream.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Gazelle Twin](https://jmtd.net/log/gazelle_twin/)
+
 ## 20230829
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230826 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: OMGWTFBBQ 2023](https://www.earth.li/~noodles/blog/2023/08/omgwtfbbq.html)

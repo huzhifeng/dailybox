@@ -1,3 +1,13 @@
+## 20230830
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Confidential Computing MC CFP](https://lpc.events/blog/current/index.php/2023/08/29/confidential-computing-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Developing a syslog-ng configuration](https://peter.czanik.hu/other/syslog-ng-developing-syslog-ng-configuration/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: F38 Kernel Test Day Participant !](https://badges.fedoraproject.org/badge/f38-kernel-test-day-participant)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230828 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Erich Schubert: AI Have a Dream](https://www.vitavonni.de/blog/202308/2023082901-ai-have-a-dream.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Gazelle Twin](https://jmtd.net/log/gazelle_twin/)
+
 ## 20230829
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: A Maldição do Investidor](https://avi.alkalay.net/2023/08/maldicao-investidor.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: An update on GNOME Settings](https://feborg.es/gnome-settings-update-2023-2/)
