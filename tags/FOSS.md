@@ -1,3 +1,6 @@
+## 20230830
+- [It's FOSS](https://itsfoss.com/) | [Create Live Linux Mint USB](https://itsfoss.com/linux-mint-live-usb/)
+
 ## 20230829
 - [It's FOSS](https://itsfoss.com/) | [Using Your Phone as Camera and Mic in Ubuntu Linux](https://itsfoss.com/ubuntu-phone-camera-mic/)
 

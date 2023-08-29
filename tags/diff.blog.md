@@ -1,3 +1,8 @@
+## 20230830
+- [diff.blog](https://diff.blog/) | [Grave flaws in BGP Error handling](https://diff.blog/post/grave-flaws-in-bgp-error-handling-153568/)
+- [diff.blog](https://diff.blog/) | [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://diff.blog/post/the-popularity-of-dos4gw-made-windows-95-game-compatibility-a-little-easier-but-with-higher-stakes-153575/)
+- [diff.blog](https://diff.blog/) | [AI crap](https://diff.blog/post/ai-crap-153560/)
+
 ## 20230829
 - [diff.blog](https://diff.blog/) | [Perfectly Reproducible, Verified Go Toolchains](https://diff.blog/post/perfectly-reproducible-verified-go-toolchains-153530/)
 

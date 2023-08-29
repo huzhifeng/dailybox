@@ -1,3 +1,8 @@
+## 20230830
+- [Product Hunt](https://www.producthunt.com) | [Muse AI (Beta)](https://www.producthunt.com/posts/muse-ai-beta)
+- [Product Hunt](https://www.producthunt.com) | [Webstudio meets Radix UI](https://www.producthunt.com/posts/webstudio-meets-radix-ui)
+- [Product Hunt](https://www.producthunt.com) | [SearchEye](https://www.producthunt.com/posts/searcheye)
+
 ## 20230829
 - [Product Hunt](https://www.producthunt.com) | [Solid Apps](https://www.producthunt.com/posts/solid-apps)
 - [Product Hunt](https://www.producthunt.com) | [AutoApplyAI, by Wonsulting](https://www.producthunt.com/posts/autoapplyai-by-wonsulting)

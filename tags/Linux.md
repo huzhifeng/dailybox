@@ -1,3 +1,20 @@
+## 20230830
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1108 WordPress 公司提供百年域名注册选项](https://linux.cn/article-16139-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How LightBits and OpenShift boost MongoDB performance in AWS](https://developers.redhat.com/articles/2023/08/29/lightbits-openshift-boost-mongodb-performance-aws)
+- [Red Hat Developer](https://developers.redhat.com/) | [Conquer CORS errors in OpenShift web applications](https://developers.redhat.com/articles/2023/08/29/avoid-cors-errors-openshift-web-applications)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Better Protect Against The Illicit Behavior Of NVIDIA's Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
+- [Phoronix](https://www.phoronix.com/) | [XDG-Desktop-Portal 1.17.1 Released With Accent Color Support](https://www.phoronix.com/news/XDG-Desktop-Portal-1.17.1)
+- [Phoronix](https://www.phoronix.com/) | [GNU Coreutils 9.4 Adds Experimental "--enable-systemd" Option, Faster Split](https://www.phoronix.com/news/GNU-Coreutils-9.4)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 118 Enters Beta Testing with the Built-In Translation Feature for Websites](https://9to5linux.com/firefox-118-enters-beta-testing-with-the-built-in-translation-feature-for-websites)
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Confidential Computing MC CFP](https://lpc.events/blog/current/index.php/2023/08/29/confidential-computing-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Developing a syslog-ng configuration](https://peter.czanik.hu/other/syslog-ng-developing-syslog-ng-configuration/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: F38 Kernel Test Day Participant !](https://badges.fedoraproject.org/badge/f38-kernel-test-day-participant)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230828 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
+- [Planet Debian](https://planet.debian.org/) | [Erich Schubert: AI Have a Dream](https://www.vitavonni.de/blog/202308/2023082901-ai-have-a-dream.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Gazelle Twin](https://jmtd.net/log/gazelle_twin/)
+
 ## 20230829
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1107 埃隆·马斯克的 Twitter/X 关注者水分严重](https://linux.cn/article-16137-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How Ansible lint improves playbook debugging](https://developers.redhat.com/articles/2023/08/28/how-ansible-lint-improves-playbook-debugging)

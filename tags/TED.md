@@ -1,3 +1,7 @@
+## 20230830
+- [TED Talks Daily](https://www.ted.com/talks) | [Why rivals are working together to transform shipping | Bo Cerup-Simonsen](https://www.ted.com/talks/bo_cerup_simonsen_why_rivals_are_working_together_to_transform_shipping?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [The first-ever cargo ship powered by green fuel | Morten Bo Christiansen](https://www.ted.com/talks/morten_bo_christiansen_the_first_ever_cargo_ship_powered_by_green_fuel?rss)
+
 ## 20230829
 - [TED Talks Daily](https://www.ted.com/talks) | [The dream of digital ownership, powered by the metaverse | Yat Siu](https://www.ted.com/talks/yat_siu_the_dream_of_digital_ownership_powered_by_the_metaverse?rss)
 

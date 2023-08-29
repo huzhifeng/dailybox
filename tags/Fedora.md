@@ -1,3 +1,8 @@
+## 20230830
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Developing a syslog-ng configuration](https://peter.czanik.hu/other/syslog-ng-developing-syslog-ng-configuration/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: F38 Kernel Test Day Participant !](https://badges.fedoraproject.org/badge/f38-kernel-test-day-participant)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+
 ## 20230829
 - [Planet Fedora](http://fedoraplanet.org/) | [! Avi Alkalay ¡: A Maldição do Investidor](https://avi.alkalay.net/2023/08/maldicao-investidor.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Felipe Borges: An update on GNOME Settings](https://feborg.es/gnome-settings-update-2023-2/)

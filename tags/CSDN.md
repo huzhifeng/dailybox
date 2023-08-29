@@ -1,3 +1,9 @@
+## 20230830
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [商汤科技回应裁员赔偿 N+2；OpenAI 推出 ChatGPT 企业版；Linux 6.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132554931)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【程序猿书籍大放送：第二期】《强化学习：原理与Python实战》](https://blog.csdn.net/qq_40332045/article/details/132553232)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ResNet详解：网络结构解读与PyTorch实现教程](https://blog.csdn.net/magicyangjay111/article/details/132553872)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [详解 SpringMVC 的 @RequestMapping 注解](https://blog.csdn.net/m0_60915009/article/details/132522429)
+
 ## 20230829
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [科大讯飞董事长刘庆峰：华为GPU已可对标英伟达A100；Windows 11 文件资源管理器支持 RAR 等格式|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132532618)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [《机器学习核心技术》分类算法 - 决策树](https://blog.csdn.net/wangyuxiang946/article/details/132000432)

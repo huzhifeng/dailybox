@@ -1,3 +1,7 @@
+## 20230830
+- [Red Hat Developer](https://developers.redhat.com/) | [How LightBits and OpenShift boost MongoDB performance in AWS](https://developers.redhat.com/articles/2023/08/29/lightbits-openshift-boost-mongodb-performance-aws)
+- [Red Hat Developer](https://developers.redhat.com/) | [Conquer CORS errors in OpenShift web applications](https://developers.redhat.com/articles/2023/08/29/avoid-cors-errors-openshift-web-applications)
+
 ## 20230829
 - [Red Hat Developer](https://developers.redhat.com/) | [How Ansible lint improves playbook debugging](https://developers.redhat.com/articles/2023/08/28/how-ansible-lint-improves-playbook-debugging)
 

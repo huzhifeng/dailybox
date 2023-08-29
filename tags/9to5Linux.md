@@ -1,3 +1,6 @@
+## 20230830
+- [9to5Linux](https://9to5linux.com/) | [Firefox 118 Enters Beta Testing with the Built-In Translation Feature for Websites](https://9to5linux.com/firefox-118-enters-beta-testing-with-the-built-in-translation-feature-for-websites)
+
 ## 20230829
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 117 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-117-is-now-available-for-download-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.5 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-5-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
