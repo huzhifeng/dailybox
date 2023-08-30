@@ -1,3 +1,8 @@
+## 20230831
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Building a Kernel RPM with the Builtin Makefile target](http://adam.younglogic.com/2023/08/kernel-rpm-makefile/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Building a mirror of various Red Hat oriented "stuff"](http://flosslinuxblog.blogspot.com/2023/08/building-mirror-of-various-red-hat.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.3.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/08/29#rcpparmadillo_0.12.6.3.0)
+
 ## 20230830
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Confidential Computing MC CFP](https://lpc.events/blog/current/index.php/2023/08/29/confidential-computing-mc-cfp/)

@@ -1,3 +1,8 @@
+## 20230831
+- [Phoronix](https://www.phoronix.com/) | [Google Preparing To Rollout Stable Chrome Releases Even Faster](https://www.phoronix.com/news/Google-Chrome-Faster-Releases)
+- [Phoronix](https://www.phoronix.com/) | [JetBrains Enabling Wayland Support For IntelliJ-Based IDEs](https://www.phoronix.com/news/IntelliJ-Wayland-Support)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Adds Support For Intel Agilex 5 FPGAs, Qualcomm Snapdragon 4 Gen 2](https://www.phoronix.com/news/Linux-6.6-Arm-Changes)
+
 ## 20230830
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 To Better Protect Against The Illicit Behavior Of NVIDIA's Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
 - [Phoronix](https://www.phoronix.com/) | [XDG-Desktop-Portal 1.17.1 Released With Accent Color Support](https://www.phoronix.com/news/XDG-Desktop-Portal-1.17.1)

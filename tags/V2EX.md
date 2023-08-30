@@ -1,3 +1,8 @@
+## 20230831
+- [V2EX](https://www.v2ex.com/) | [内网穿透被网警打电话了](https://www.v2ex.com/t/969512)
+- [V2EX](https://www.v2ex.com/) | [花了小半年开发了一个 AI 套壳 APP，然而大势已过，直接开源了](https://www.v2ex.com/t/969458)
+- [V2EX](https://www.v2ex.com/) | [Copilot 学生包好像 GG 了，有免费的平替吗？](https://www.v2ex.com/t/969415)
+
 ## 20230828
 - [V2EX](https://www.v2ex.com/) | [IPV6 好啊， IPV6 好， IPV6 郭嘉网民地位高](https://www.v2ex.com/t/968683)
 - [V2EX](https://www.v2ex.com/) | [31 了， 965offer 底薪比原公司高三分之一，另一家 996offer 开的比原公司高大概一倍，选哪个？](https://www.v2ex.com/t/968646)

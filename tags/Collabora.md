@@ -1,3 +1,6 @@
+## 20230831
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Linux kernel 6.5: USB4v2 and Wifi7 have arrived](https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-65-usb4v2-and-wifi7-have-arrived.html)
+
 ## 20230824
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Ready to All Systems Go!](https://www.collabora.com/news-and-blog/news-and-events/ready-to-all-systems-go.html)
 
