@@ -1,3 +1,17 @@
+## 20230831
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1109 谷歌推出用 AI 给 AIGC 图像加水印的工具](https://linux.cn/article-16142-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Linux kernel 6.5: USB4v2 and Wifi7 have arrived](https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-65-usb4v2-and-wifi7-have-arrived.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Presenting a new Istio operator on OpenShift](https://developers.redhat.com/articles/2023/08/30/istio-sail-operator-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Go for C++ developers: A beginner's guide](https://developers.redhat.com/articles/2023/08/30/go-c-developers-beginners-guide)
+- [Phoronix](https://www.phoronix.com/) | [Google Preparing To Rollout Stable Chrome Releases Even Faster](https://www.phoronix.com/news/Google-Chrome-Faster-Releases)
+- [Phoronix](https://www.phoronix.com/) | [JetBrains Enabling Wayland Support For IntelliJ-Based IDEs](https://www.phoronix.com/news/IntelliJ-Wayland-Support)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Adds Support For Intel Agilex 5 FPGAs, Qualcomm Snapdragon 4 Gen 2](https://www.phoronix.com/news/Linux-6.6-Arm-Changes)
+- [9to5Linux](https://9to5linux.com/) | [How to Enable AVIF Thumbnails in Nautilus and Support for Other GTK Apps](https://9to5linux.com/how-to-enable-avif-thumbnails-in-nautilus-and-support-for-other-gtk-apps)
+- [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 5 Is Here Based on Debian GNU/Linux 12.1](https://9to5linux.com/emmabuntus-debian-edition-5-is-here-based-on-debian-gnu-linux-12-1)
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Building a Kernel RPM with the Builtin Makefile target](http://adam.younglogic.com/2023/08/kernel-rpm-makefile/)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Building a mirror of various Red Hat oriented "stuff"](http://flosslinuxblog.blogspot.com/2023/08/building-mirror-of-various-red-hat.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.3.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/08/29#rcpparmadillo_0.12.6.3.0)
+
 ## 20230830
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1108 WordPress 公司提供百年域名注册选项](https://linux.cn/article-16139-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How LightBits and OpenShift boost MongoDB performance in AWS](https://developers.redhat.com/articles/2023/08/29/lightbits-openshift-boost-mongodb-performance-aws)

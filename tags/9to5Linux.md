@@ -1,3 +1,7 @@
+## 20230831
+- [9to5Linux](https://9to5linux.com/) | [How to Enable AVIF Thumbnails in Nautilus and Support for Other GTK Apps](https://9to5linux.com/how-to-enable-avif-thumbnails-in-nautilus-and-support-for-other-gtk-apps)
+- [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 5 Is Here Based on Debian GNU/Linux 12.1](https://9to5linux.com/emmabuntus-debian-edition-5-is-here-based-on-debian-gnu-linux-12-1)
+
 ## 20230830
 - [9to5Linux](https://9to5linux.com/) | [Firefox 118 Enters Beta Testing with the Built-In Translation Feature for Websites](https://9to5linux.com/firefox-118-enters-beta-testing-with-the-built-in-translation-feature-for-websites)
 

@@ -1,3 +1,9 @@
+## 20230831
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为 Mate 60 Pro 未发先售 6999 元；iPhone 15 也要来了；Rust 1.72.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132576338)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qq_42784210/article/details/132548923)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【网络】多路转接——五种IO模型 | select](https://blog.csdn.net/weixin_63726869/article/details/132539856)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【深度学习】实验04 交叉验证](https://blog.csdn.net/m0_68111267/article/details/132182238)
+
 ## 20230830
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [商汤科技回应裁员赔偿 N+2；OpenAI 推出 ChatGPT 企业版；Linux 6.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132554931)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【程序猿书籍大放送：第二期】《强化学习：原理与Python实战》](https://blog.csdn.net/qq_40332045/article/details/132553232)

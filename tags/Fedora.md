@@ -1,3 +1,6 @@
+## 20230831
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Building a Kernel RPM with the Builtin Makefile target](http://adam.younglogic.com/2023/08/kernel-rpm-makefile/)
+
 ## 20230830
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Developing a syslog-ng configuration](https://peter.czanik.hu/other/syslog-ng-developing-syslog-ng-configuration/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Badges: New badge: F38 Kernel Test Day Participant !](https://badges.fedoraproject.org/badge/f38-kernel-test-day-participant)

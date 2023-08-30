@@ -1,3 +1,7 @@
+## 20230831
+- [Hacker News](https://news.ycombinator.com/front) | [My Caste](https://news.ycombinator.com/item?id=37323760)
+- [Hacker News](https://news.ycombinator.com/front) | [Making life (even) harder for proprietary modules](https://news.ycombinator.com/item?id=37319537)
+
 ## 20230830
 - [Hacker News](https://news.ycombinator.com/front) | [Keystroke timing obfuscation added to ssh(1)](https://news.ycombinator.com/item?id=37307708)
 

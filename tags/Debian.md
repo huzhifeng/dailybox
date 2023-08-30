@@ -1,3 +1,7 @@
+## 20230831
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Building a mirror of various Red Hat oriented "stuff"](http://flosslinuxblog.blogspot.com/2023/08/building-mirror-of-various-red-hat.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.3.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/08/29#rcpparmadillo_0.12.6.3.0)
+
 ## 20230830
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: 20230828 - OMGWTFBBQ - Breakfast is happening more or less](http://flosslinuxblog.blogspot.com/2023/08/20230826-omgwtfbbq-breakfast-is.html)
 - [Planet Debian](https://planet.debian.org/) | [Erich Schubert: AI Have a Dream](https://www.vitavonni.de/blog/202308/2023082901-ai-have-a-dream.html)

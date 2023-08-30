@@ -1,3 +1,8 @@
+## 20230831
+- [Lobsters](https://lobste.rs/) | [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted)
+- [Lobsters](https://lobste.rs/) | [How to pass a coding interview with me](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me)
+- [Lobsters](https://lobste.rs/) | [Running NixOS from any Linux Distro in systemd-nspawn Containers](https://lobste.rs/s/o2o2cg/running_nixos_from_any_linux_distro)
+
 ## 20230830
 - [Lobsters](https://lobste.rs/) | [Semantic Markup for Callouts](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts)
 - [Lobsters](https://lobste.rs/) | [The First Stable Release of a Memory Safe sudo Implementation](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo)

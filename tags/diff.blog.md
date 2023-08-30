@@ -1,3 +1,6 @@
+## 20230831
+- [diff.blog](https://diff.blog/) | [Supporting the Open Source AI Community](https://diff.blog/post/supporting-the-open-source-ai-community-153664/)
+
 ## 20230830
 - [diff.blog](https://diff.blog/) | [Grave flaws in BGP Error handling](https://diff.blog/post/grave-flaws-in-bgp-error-handling-153568/)
 - [diff.blog](https://diff.blog/) | [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://diff.blog/post/the-popularity-of-dos4gw-made-windows-95-game-compatibility-a-little-easier-but-with-higher-stakes-153575/)

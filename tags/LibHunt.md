@@ -1,3 +1,8 @@
+## 20230831
+- [LibHunt](https://www.libhunt.com/) | [LocalAI](https://www.libhunt.com/r/LocalAI)
+- [LibHunt](https://www.libhunt.com/) | [jacobin-swift](https://www.libhunt.com/r/jacobin-swift)
+- [LibHunt](https://www.libhunt.com/) | [n8n](https://www.libhunt.com/r/n8n)
+
 ## 20230830
 - [LibHunt](https://www.libhunt.com/) | [Stringzilla](https://www.libhunt.com/r/Stringzilla)
 

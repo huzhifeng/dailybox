@@ -1,3 +1,7 @@
+## 20230831
+- [Red Hat Developer](https://developers.redhat.com/) | [Presenting a new Istio operator on OpenShift](https://developers.redhat.com/articles/2023/08/30/istio-sail-operator-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Go for C++ developers: A beginner's guide](https://developers.redhat.com/articles/2023/08/30/go-c-developers-beginners-guide)
+
 ## 20230830
 - [Red Hat Developer](https://developers.redhat.com/) | [How LightBits and OpenShift boost MongoDB performance in AWS](https://developers.redhat.com/articles/2023/08/29/lightbits-openshift-boost-mongodb-performance-aws)
 - [Red Hat Developer](https://developers.redhat.com/) | [Conquer CORS errors in OpenShift web applications](https://developers.redhat.com/articles/2023/08/29/avoid-cors-errors-openshift-web-applications)
