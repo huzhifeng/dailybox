@@ -1,3 +1,7 @@
+## 20230901
+- [diff.blog](https://diff.blog/) | [Making PostgreSQL Backups 100x Faster via EBS Snapshots and pgBackRest](https://diff.blog/post/making-postgresql-backups-100x-faster-via-ebs-snapshots-and-pgbackrest-153728/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 510](https://diff.blog/post/this-week-in-rust-510-153696/)
+
 ## 20230831
 - [diff.blog](https://diff.blog/) | [Supporting the Open Source AI Community](https://diff.blog/post/supporting-the-open-source-ai-community-153664/)
 

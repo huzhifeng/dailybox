@@ -1,3 +1,6 @@
+## 20230901
+- [Red Hat Developer](https://developers.redhat.com/) | [How we ensure statically linked applications stay that way](https://developers.redhat.com/articles/2023/08/31/how-we-ensure-statically-linked-applications-stay-way)
+
 ## 20230831
 - [Red Hat Developer](https://developers.redhat.com/) | [Presenting a new Istio operator on OpenShift](https://developers.redhat.com/articles/2023/08/30/istio-sail-operator-openshift)
 - [Red Hat Developer](https://developers.redhat.com/) | [Go for C++ developers: A beginner's guide](https://developers.redhat.com/articles/2023/08/30/go-c-developers-beginners-guide)

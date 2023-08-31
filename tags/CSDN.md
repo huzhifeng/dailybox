@@ -1,3 +1,9 @@
+## 20230901
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度、字节等8家公司大模型产品正式上线；OpenAI预计未来一年收入将超10亿美元；SQLite 3.43.0发布| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132596360)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [DP读书：鲲鹏处理器 架构与编程（十四）ACPI与软件架构具体调优](https://blog.csdn.net/m0_74037814/article/details/132564623)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring Cloud Nacos 和 Eureka区别，包含实战代码](https://blog.csdn.net/superdangbo/article/details/132554285)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [OpenCV实战（30）——OpenCV与机器学习的碰撞](https://blog.csdn.net/LOVEmy134611/article/details/132594464)
+
 ## 20230831
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为 Mate 60 Pro 未发先售 6999 元；iPhone 15 也要来了；Rust 1.72.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132576338)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qq_42784210/article/details/132548923)

@@ -1,3 +1,8 @@
+## 20230901
+- [LibHunt](https://www.libhunt.com/) | [alfred](https://www.libhunt.com/r/Alfredredbird/alfred)
+- [LibHunt](https://www.libhunt.com/) | [llama2.c](https://www.libhunt.com/r/trholding/llama2.c)
+- [LibHunt](https://www.libhunt.com/) | [eslint-plugin-project-structure](https://www.libhunt.com/r/eslint-plugin-project-structure)
+
 ## 20230831
 - [LibHunt](https://www.libhunt.com/) | [LocalAI](https://www.libhunt.com/r/LocalAI)
 - [LibHunt](https://www.libhunt.com/) | [jacobin-swift](https://www.libhunt.com/r/jacobin-swift)

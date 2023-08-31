@@ -1,3 +1,6 @@
+## 20230901
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023)
+
 ## 20230825
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E261 Dia De Camões E Das Comunidades De Domótica](https://podcastubuntuportugal.org/e261/)
 

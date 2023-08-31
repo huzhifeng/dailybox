@@ -1,3 +1,16 @@
+## 20230901
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1110 SELinux 移除了 NSA 的名字](https://linux.cn/article-16145-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How we ensure statically linked applications stay that way](https://developers.redhat.com/articles/2023/08/31/how-we-ensure-statically-linked-applications-stay-way)
+- [Phoronix](https://www.phoronix.com/) | [Intel Shadow Stack Finally Merged For Linux 6.6](https://www.phoronix.com/news/Intel-Shadow-Stack-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Intel GDS/Downfall Linux Mitigation Updated To Confirm All Skylake CPUs Are Affected](https://www.phoronix.com/news/Intel-Downfall-All-Skylake)
+- [Phoronix](https://www.phoronix.com/) | [NFSD With Linux 6.6 Brings A Thrilling New Feature](https://www.phoronix.com/news/Linux-6.6-NFSD)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Power Management and Thermal Control MC CFP](https://lpc.events/blog/current/index.php/2023/08/31/power-management-and-thermal-control-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP on the road to the 8.3.0 release](https://blog.remirepo.net/post/2023/08/31/PHP-on-the-road-to-the-8.3.0-release)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.6.1](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/31/kiwi-tcms-1261/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Red Hat Certified Specialist in Managing Automation with Ansible Automation Platform](https://fale.io/blog/2023/08/31/red-hat-certified-specialist-in-managing-automation-with-ansible-automation-platform)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links August 2023](https://etbe.coker.com.au/2023/08/31/links-august-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023)
+
 ## 20230831
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1109 谷歌推出用 AI 给 AIGC 图像加水印的工具](https://linux.cn/article-16142-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Linux kernel 6.5: USB4v2 and Wifi7 have arrived](https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-65-usb4v2-and-wifi7-have-arrived.html)

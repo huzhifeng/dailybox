@@ -1,3 +1,6 @@
+## 20230901
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.35: Linux Kernel 6.5, GNOME Search, Productivity Tips and More](https://itsfoss.com/newsletter/foss-weekly-23-35/)
+
 ## 20230831
 - [It's FOSS](https://itsfoss.com/) | [Supercharge Grammar Checking in LibreOffice With LanguageTool](https://itsfoss.com/libreoffice-languagetool/)
 
