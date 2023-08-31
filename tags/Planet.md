@@ -1,3 +1,11 @@
+## 20230901
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Power Management and Thermal Control MC CFP](https://lpc.events/blog/current/index.php/2023/08/31/power-management-and-thermal-control-mc-cfp/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP on the road to the 8.3.0 release](https://blog.remirepo.net/post/2023/08/31/PHP-on-the-road-to-the-8.3.0-release)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.6.1](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/31/kiwi-tcms-1261/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Red Hat Certified Specialist in Managing Automation with Ansible Automation Platform](https://fale.io/blog/2023/08/31/red-hat-certified-specialist-in-managing-automation-with-ansible-automation-platform)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links August 2023](https://etbe.coker.com.au/2023/08/31/links-august-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023)
+
 ## 20230831
 - [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Building a Kernel RPM with the Builtin Makefile target](http://adam.younglogic.com/2023/08/kernel-rpm-makefile/)
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Building a mirror of various Red Hat oriented "stuff"](http://flosslinuxblog.blogspot.com/2023/08/building-mirror-of-various-red-hat.html)

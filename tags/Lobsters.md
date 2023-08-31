@@ -1,3 +1,8 @@
+## 20230901
+- [Lobsters](https://lobste.rs/) | [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
+- [Lobsters](https://lobste.rs/) | [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
+- [Lobsters](https://lobste.rs/) | [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly)
+
 ## 20230831
 - [Lobsters](https://lobste.rs/) | [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted)
 - [Lobsters](https://lobste.rs/) | [How to pass a coding interview with me](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me)

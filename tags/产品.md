@@ -1,3 +1,8 @@
+## 20230901
+- [Product Hunt](https://www.producthunt.com) | [BlogSEO AI for Shopify](https://www.producthunt.com/posts/blogseo-ai-for-shopify)
+- [Product Hunt](https://www.producthunt.com) | [ShipFast](https://www.producthunt.com/posts/shipfast-2)
+- [Product Hunt](https://www.producthunt.com) | [ioni](https://www.producthunt.com/posts/ioni)
+
 ## 20230831
 - [Product Hunt](https://www.producthunt.com) | [Recipe-p](https://www.producthunt.com/posts/recipe-p)
 - [Product Hunt](https://www.producthunt.com) | [Ideaverse for Obsidian](https://www.producthunt.com/posts/ideaverse-for-obsidian)

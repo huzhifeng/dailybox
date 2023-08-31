@@ -1,3 +1,8 @@
+## 20230901
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP on the road to the 8.3.0 release](https://blog.remirepo.net/post/2023/08/31/PHP-on-the-road-to-the-8.3.0-release)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.6.1](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/31/kiwi-tcms-1261/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Red Hat Certified Specialist in Managing Automation with Ansible Automation Platform](https://fale.io/blog/2023/08/31/red-hat-certified-specialist-in-managing-automation-with-ansible-automation-platform)
+
 ## 20230831
 - [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Building a Kernel RPM with the Builtin Makefile target](http://adam.younglogic.com/2023/08/kernel-rpm-makefile/)
 

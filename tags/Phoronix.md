@@ -1,3 +1,8 @@
+## 20230901
+- [Phoronix](https://www.phoronix.com/) | [Intel Shadow Stack Finally Merged For Linux 6.6](https://www.phoronix.com/news/Intel-Shadow-Stack-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Intel GDS/Downfall Linux Mitigation Updated To Confirm All Skylake CPUs Are Affected](https://www.phoronix.com/news/Intel-Downfall-All-Skylake)
+- [Phoronix](https://www.phoronix.com/) | [NFSD With Linux 6.6 Brings A Thrilling New Feature](https://www.phoronix.com/news/Linux-6.6-NFSD)
+
 ## 20230831
 - [Phoronix](https://www.phoronix.com/) | [Google Preparing To Rollout Stable Chrome Releases Even Faster](https://www.phoronix.com/news/Google-Chrome-Faster-Releases)
 - [Phoronix](https://www.phoronix.com/) | [JetBrains Enabling Wayland Support For IntelliJ-Based IDEs](https://www.phoronix.com/news/IntelliJ-Wayland-Support)

@@ -1,3 +1,8 @@
+## 20230901
+- [V2EX](https://www.v2ex.com/) | [找不到工作，觉得自己真是个废物，面试题背了又忘，在家里浑浑噩噩什么都不想干](https://www.v2ex.com/t/969800)
+- [V2EX](https://www.v2ex.com/) | [自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 v 站福利回帖抽奖🥝！](https://www.v2ex.com/t/969788)
+- [V2EX](https://www.v2ex.com/) | [生物存在的意义是什么？（午休时的奇思妙想）](https://www.v2ex.com/t/969777)
+
 ## 20230831
 - [V2EX](https://www.v2ex.com/) | [内网穿透被网警打电话了](https://www.v2ex.com/t/969512)
 - [V2EX](https://www.v2ex.com/) | [花了小半年开发了一个 AI 套壳 APP，然而大势已过，直接开源了](https://www.v2ex.com/t/969458)
