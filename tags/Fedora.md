@@ -1,3 +1,8 @@
+## 20230902
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for September](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-september/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23 and 8.2.10](https://blog.remirepo.net/post/2023/09/01/PHP-version-8.1.23-and-8.2.10)
+
 ## 20230901
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP on the road to the 8.3.0 release](https://blog.remirepo.net/post/2023/08/31/PHP-on-the-road-to-the-8.3.0-release)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 12.6.1](https://kiwitcms.org/blog/kiwi-tcms-team/2023/08/31/kiwi-tcms-1261/)

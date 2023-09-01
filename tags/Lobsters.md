@@ -1,3 +1,8 @@
+## 20230902
+- [Lobsters](https://lobste.rs/) | [The technical merits of Wayland are mostly irrelevant](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly)
+- [Lobsters](https://lobste.rs/) | [filepath.Clean: terms and conditions apply](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply)
+- [Lobsters](https://lobste.rs/) | [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice)
+
 ## 20230901
 - [Lobsters](https://lobste.rs/) | [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 - [Lobsters](https://lobste.rs/) | [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)

@@ -1,3 +1,6 @@
+## 20230902
+- [Slashdot](https://developers.slashdot.org/) | [Saints Row Developer Volition Has Been Shut Down](https://games.slashdot.org/story/23/08/31/2227216/saints-row-developer-volition-has-been-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230829
 - [Slashdot](https://linux.slashdot.org/) | [Nautilus File Manager Gets New Features in Upcoming GNOME 45](https://linux.slashdot.org/story/23/08/27/2329227/nautilus-file-manager-gets-new-features-in-upcoming-gnome-45?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [More Developers Are Using the Rust Programming Language, Survey Finds](https://developers.slashdot.org/story/23/08/28/0319248/more-developers-are-using-the-rust-programming-language-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)

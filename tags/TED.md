@@ -1,3 +1,6 @@
+## 20230902
+- [TED Talks Daily](https://www.ted.com/talks) | [How "digital twins" could help us predict the future | Karen Willcox](https://www.ted.com/talks/karen_willcox_how_digital_twins_could_help_us_predict_the_future?rss)
+
 ## 20230901
 - [TED Talks Daily](https://www.ted.com/talks) | [The AI-powered tools supercharging your imagination | Bilawal Sidhu](https://www.ted.com/talks/bilawal_sidhu_the_ai_powered_tools_supercharging_your_imagination?rss)
 

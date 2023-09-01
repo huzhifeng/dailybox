@@ -1,3 +1,6 @@
+## 20230902
+- [Product Hunt](https://www.producthunt.com) | [AdmitGPT](https://www.producthunt.com/posts/admitgpt)
+
 ## 20230901
 - [Product Hunt](https://www.producthunt.com) | [BlogSEO AI for Shopify](https://www.producthunt.com/posts/blogseo-ai-for-shopify)
 - [Product Hunt](https://www.producthunt.com) | [ShipFast](https://www.producthunt.com/posts/shipfast-2)

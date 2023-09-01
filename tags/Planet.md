@@ -1,3 +1,12 @@
+## 20230902
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for September](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-september/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23 and 8.2.10](https://blog.remirepo.net/post/2023/09/01/PHP-version-8.1.23-and-8.2.10)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Trisquel on ppc64el: Talos II](https://blog.josefsson.org/2023/09/01/trisquel-on-ppc64el-talos-ii/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Weekly report and News, 23.08.0 Snaps call for testing!](https://www.scarlettgatelymoore.dev/kde-weekly-report-and-news-23-08-0-snaps-call-for-testing/)
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities August 2023](http://bonedaddy.net/pabs3/log/2023/09/01/floss-activities/)
+
 ## 20230901
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Power Management and Thermal Control MC CFP](https://lpc.events/blog/current/index.php/2023/08/31/power-management-and-thermal-control-mc-cfp/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP on the road to the 8.3.0 release](https://blog.remirepo.net/post/2023/08/31/PHP-on-the-road-to-the-8.3.0-release)

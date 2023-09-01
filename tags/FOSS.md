@@ -1,3 +1,6 @@
+## 20230902
+- [It's FOSS](https://itsfoss.com/) | [How to Check VLC Log Files](https://itsfoss.com/vlc-check-log/)
+
 ## 20230901
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.35: Linux Kernel 6.5, GNOME Search, Productivity Tips and More](https://itsfoss.com/newsletter/foss-weekly-23-35/)
 
