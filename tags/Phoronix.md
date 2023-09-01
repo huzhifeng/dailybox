@@ -1,3 +1,8 @@
+## 20230902
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.15 Released With Few Changes, 19 Bugs Fixed](https://www.phoronix.com/news/Wine-8.15-Released)
+- [Phoronix](https://www.phoronix.com/) | [New RISC-V Kernel Features Ready For Linux 6.6](https://www.phoronix.com/news/RISC-V-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [AMD Patches To Generate DeviceTree Nodes For PCI Devices Merged In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-DeviceTree)
+
 ## 20230901
 - [Phoronix](https://www.phoronix.com/) | [Intel Shadow Stack Finally Merged For Linux 6.6](https://www.phoronix.com/news/Intel-Shadow-Stack-Linux-6.6)
 - [Phoronix](https://www.phoronix.com/) | [Intel GDS/Downfall Linux Mitigation Updated To Confirm All Skylake CPUs Are Affected](https://www.phoronix.com/news/Intel-Downfall-All-Skylake)

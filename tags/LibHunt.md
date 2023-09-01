@@ -1,3 +1,7 @@
+## 20230902
+- [LibHunt](https://www.libhunt.com/) | [LLMStack](https://www.libhunt.com/r/LLMStack)
+- [LibHunt](https://www.libhunt.com/) | [netbird](https://www.libhunt.com/r/netbird)
+
 ## 20230901
 - [LibHunt](https://www.libhunt.com/) | [alfred](https://www.libhunt.com/r/Alfredredbird/alfred)
 - [LibHunt](https://www.libhunt.com/) | [llama2.c](https://www.libhunt.com/r/trholding/llama2.c)

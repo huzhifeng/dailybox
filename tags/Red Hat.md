@@ -1,3 +1,8 @@
+## 20230902
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate message queue deployment on JBoss EAP](https://developers.redhat.com/articles/2023/09/01/automate-message-queue-deployment-jboss-eap)
+
 ## 20230901
 - [Red Hat Developer](https://developers.redhat.com/) | [How we ensure statically linked applications stay that way](https://developers.redhat.com/articles/2023/08/31/how-we-ensure-statically-linked-applications-stay-way)
 

@@ -1,3 +1,20 @@
+## 20230902
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1111 攻击者用廉价无线电设备停止了几十列波兰列车](https://linux.cn/article-16149-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate message queue deployment on JBoss EAP](https://developers.redhat.com/articles/2023/09/01/automate-message-queue-deployment-jboss-eap)
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.15 Released With Few Changes, 19 Bugs Fixed](https://www.phoronix.com/news/Wine-8.15-Released)
+- [Phoronix](https://www.phoronix.com/) | [New RISC-V Kernel Features Ready For Linux 6.6](https://www.phoronix.com/news/RISC-V-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [AMD Patches To Generate DeviceTree Nodes For PCI Devices Merged In Linux 6.6](https://www.phoronix.com/news/Linux-6.6-DeviceTree)
+- [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for September](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-september/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.23 and 8.2.10](https://blog.remirepo.net/post/2023/09/01/PHP-version-8.1.23-and-8.2.10)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Trisquel on ppc64el: Talos II](https://blog.josefsson.org/2023/09/01/trisquel-on-ppc64el-talos-ii/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Weekly report and News, 23.08.0 Snaps call for testing!](https://www.scarlettgatelymoore.dev/kde-weekly-report-and-news-23-08-0-snaps-call-for-testing/)
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities August 2023](http://bonedaddy.net/pabs3/log/2023/09/01/floss-activities/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#111 Number One](https://thisweek.gnome.org/posts/2023/09/twig-111/)
+
 ## 20230901
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1110 SELinux 移除了 NSA 的名字](https://linux.cn/article-16145-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How we ensure statically linked applications stay that way](https://developers.redhat.com/articles/2023/08/31/how-we-ensure-statically-linked-applications-stay-way)

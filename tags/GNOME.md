@@ -1,3 +1,6 @@
+## 20230902
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#111 Number One](https://thisweek.gnome.org/posts/2023/09/twig-111/)
+
 ## 20230826
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#110 Nailing Down Perfomance Issues](https://thisweek.gnome.org/posts/2023/08/twig-110/)
 

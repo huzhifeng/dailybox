@@ -1,3 +1,8 @@
+## 20230902
+- [V2EX](https://www.v2ex.com/) | [你们手机相册会保存大量照片/视频吗?](https://www.v2ex.com/t/970059)
+- [V2EX](https://www.v2ex.com/) | [开车时间不久的司机如何高效的有遇见性的看地图导航](https://www.v2ex.com/t/969983)
+- [V2EX](https://www.v2ex.com/) | [大家买完手机后会第一时间贴膜、戴壳子吗](https://www.v2ex.com/t/969972)
+
 ## 20230901
 - [V2EX](https://www.v2ex.com/) | [找不到工作，觉得自己真是个废物，面试题背了又忘，在家里浑浑噩噩什么都不想干](https://www.v2ex.com/t/969800)
 - [V2EX](https://www.v2ex.com/) | [自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 v 站福利回帖抽奖🥝！](https://www.v2ex.com/t/969788)
