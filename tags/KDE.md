@@ -1,3 +1,6 @@
+## 20230903
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Custom ordering for KRunner search results](https://pointieststick.com/2023/09/01/this-week-in-kde-custom-ordering-for-krunner-search-results/)
+
 ## 20230827
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: tap-to-click by default](https://pointieststick.com/2023/08/25/this-week-in-kde-tap-to-click-by-default/)
 
