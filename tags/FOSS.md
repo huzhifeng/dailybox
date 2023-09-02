@@ -1,3 +1,6 @@
+## 20230903
+- [It's FOSS](https://itsfoss.com/) | [Making your Windows System Ready for Virtual Machines](https://itsfoss.com/windows-enable-virtualization/)
+
 ## 20230902
 - [It's FOSS](https://itsfoss.com/) | [How to Check VLC Log Files](https://itsfoss.com/vlc-check-log/)
 

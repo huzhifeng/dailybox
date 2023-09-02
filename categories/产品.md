@@ -1,3 +1,7 @@
+## 20230903
+- [Product Hunt](https://www.producthunt.com) | [MindPal Creator](https://www.producthunt.com/posts/mindpal-creator)
+- [Product Hunt](https://www.producthunt.com) | [Patterns](https://www.producthunt.com/posts/patterns-5)
+
 ## 20230902
 - [Product Hunt](https://www.producthunt.com) | [AdmitGPT](https://www.producthunt.com/posts/admitgpt)
 

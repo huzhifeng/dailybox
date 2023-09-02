@@ -1,3 +1,7 @@
+## 20230903
+- [Hacker News](https://news.ycombinator.com/front) | [The worst programmer I know](https://news.ycombinator.com/item?id=37361947)
+- [Hacker News](https://news.ycombinator.com/front) | [The Mystery of the Bloomfield Bridge](https://news.ycombinator.com/item?id=37359193)
+
 ## 20230902
 - [Hacker News](https://news.ycombinator.com/front) | [Organic Maps](https://news.ycombinator.com/item?id=37347447)
 

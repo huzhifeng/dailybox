@@ -1,3 +1,8 @@
+## 20230903
+- [Phoronix](https://www.phoronix.com/) | [Debian Dropping Its 32-bit MIPS Little Endian "mipsel" Port](https://www.phoronix.com/news/Debian-Dropping-MIPSEL)
+- [Phoronix](https://www.phoronix.com/) | [EROFS Lands DEFLATE Compression, F2FS Improves Zoned Devices In Linux 6.6](https://www.phoronix.com/news/EROFS-F2FS-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [David Airlie Shares His Thoughts On Current Challenges With Linux GPU Compute Stacks](https://www.phoronix.com/news/David-Airlie-oneAPI-Meetup)
+
 ## 20230902
 - [Phoronix](https://www.phoronix.com/) | [Wine 8.15 Released With Few Changes, 19 Bugs Fixed](https://www.phoronix.com/news/Wine-8.15-Released)
 - [Phoronix](https://www.phoronix.com/) | [New RISC-V Kernel Features Ready For Linux 6.6](https://www.phoronix.com/news/RISC-V-Linux-6.6)

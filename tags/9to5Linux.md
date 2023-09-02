@@ -1,3 +1,7 @@
+## 20230903
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.0 Arrives with Improvements to Boot, Installation, and Upgrade](https://9to5linux.com/nitrux-3-0-arrives-with-improvements-to-boot-installation-and-upgrade)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.5 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-5-on-ubuntu-heres-how)
+
 ## 20230831
 - [9to5Linux](https://9to5linux.com/) | [How to Enable AVIF Thumbnails in Nautilus and Support for Other GTK Apps](https://9to5linux.com/how-to-enable-avif-thumbnails-in-nautilus-and-support-for-other-gtk-apps)
 - [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 5 Is Here Based on Debian GNU/Linux 12.1](https://9to5linux.com/emmabuntus-debian-edition-5-is-here-based-on-debian-gnu-linux-12-1)

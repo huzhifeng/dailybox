@@ -1,3 +1,8 @@
+## 20230903
+- [Lobsters](https://lobste.rs/) | [The Worst Programmer](https://lobste.rs/s/rbuvrc/worst_programmer)
+- [Lobsters](https://lobste.rs/) | [How I joined the bug 323 community](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community)
+- [Lobsters](https://lobste.rs/) | [They Made A Golf MMO With Sonic In it](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it)
+
 ## 20230902
 - [Lobsters](https://lobste.rs/) | [The technical merits of Wayland are mostly irrelevant](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly)
 - [Lobsters](https://lobste.rs/) | [filepath.Clean: terms and conditions apply](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply)

@@ -1,3 +1,12 @@
+## 20230903
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1112 1/7 的 Linux 内核代码是 AMD GPU 驱动代码](https://linux.cn/article-16152-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Debian Dropping Its 32-bit MIPS Little Endian "mipsel" Port](https://www.phoronix.com/news/Debian-Dropping-MIPSEL)
+- [Phoronix](https://www.phoronix.com/) | [EROFS Lands DEFLATE Compression, F2FS Improves Zoned Devices In Linux 6.6](https://www.phoronix.com/news/EROFS-F2FS-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [David Airlie Shares His Thoughts On Current Challenges With Linux GPU Compute Stacks](https://www.phoronix.com/news/David-Airlie-oneAPI-Meetup)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.0 Arrives with Improvements to Boot, Installation, and Upgrade](https://9to5linux.com/nitrux-3-0-arrives-with-improvements-to-boot-installation-and-upgrade)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.5 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-5-on-ubuntu-heres-how)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Custom ordering for KRunner search results](https://pointieststick.com/2023/09/01/this-week-in-kde-custom-ordering-for-krunner-search-results/)
+
 ## 20230902
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1111 攻击者用廉价无线电设备停止了几十列波兰列车](https://linux.cn/article-16149-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
