@@ -1,3 +1,8 @@
+## 20230904
+- [Product Hunt](https://www.producthunt.com) | [AI Easy Bookmarks](https://www.producthunt.com/posts/ai-easy-bookmarks)
+- [Product Hunt](https://www.producthunt.com) | [Dr. Lambda](https://www.producthunt.com/posts/dr-lambda)
+- [Product Hunt](https://www.producthunt.com) | [Aloha Daily Planner](https://www.producthunt.com/posts/aloha-daily-planner)
+
 ## 20230903
 - [Product Hunt](https://www.producthunt.com) | [MindPal Creator](https://www.producthunt.com/posts/mindpal-creator)
 - [Product Hunt](https://www.producthunt.com) | [Patterns](https://www.producthunt.com/posts/patterns-5)

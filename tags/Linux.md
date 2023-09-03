@@ -1,3 +1,13 @@
+## 20230904
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1113 已停止支持的 OS/2 Warp 的继任者 ArcaOS 发布新版本](https://linux.cn/article-16156-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [EXT4 Lands  A Nice Performance Improvement For Appending To Delalloc Files](https://www.phoronix.com/news/Linux-6.6-EXT4)
+- [Phoronix](https://www.phoronix.com/) | [Stadia Controller Rumbles & New Gaming Peripherals Supported By Linux 6.6](https://www.phoronix.com/news/Linux-6.6-HID)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Unconditionally Enables x86 CPU Microcode Loading Support](https://www.phoronix.com/news/Linux-6.6-x86-microcode)
+- [9to5Linux](https://9to5linux.com/) | [Armbian 23.08 Brings Support for Lenovo X13s, Official Distro Upgrades](https://9to5linux.com/armbian-23-08-brings-support-for-lenovo-x13s-official-distro-upgrades)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration Currently Sold Out, We’re Trying to Add More Places](https://lpc.events/blog/current/index.php/2023/09/03/registration-currently-sold-out-were-trying-to-add-more-places-2/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Containers and Checkpoint/Restore MC CFP](https://lpc.events/blog/current/index.php/2023/09/03/containers-and-checkpoint-restore-mc-cfp/)
+- [Slashdot](https://linux.slashdot.org/) | [Linux's Marketshare on Steam Still Higher Than Apple macOS](https://linux.slashdot.org/story/23/09/03/001201/linuxs-marketshare-on-steam-still-higher-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230903
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1112 1/7 的 Linux 内核代码是 AMD GPU 驱动代码](https://linux.cn/article-16152-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Debian Dropping Its 32-bit MIPS Little Endian "mipsel" Port](https://www.phoronix.com/news/Debian-Dropping-MIPSEL)

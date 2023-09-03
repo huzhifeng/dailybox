@@ -1,3 +1,7 @@
+## 20230904
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Registration Currently Sold Out, We’re Trying to Add More Places](https://lpc.events/blog/current/index.php/2023/09/03/registration-currently-sold-out-were-trying-to-add-more-places-2/)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Containers and Checkpoint/Restore MC CFP](https://lpc.events/blog/current/index.php/2023/09/03/containers-and-checkpoint-restore-mc-cfp/)
+
 ## 20230902
 - [Planet Kernel](https://planet.kernel.org/) | [Dave Airlie (blogspot): Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)

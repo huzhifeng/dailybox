@@ -1,3 +1,8 @@
+## 20230904
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解读《生成式人工智能服务管理暂行办法》](https://blog.csdn.net/apr15/article/details/132638672)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [[C/C++]天天酷跑超详细教程-中篇](https://blog.csdn.net/weixin_73865721/article/details/132632295)
+
 ## 20230903
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [详解 SpringMVC 中获取请求参数](https://blog.csdn.net/m0_60915009/article/details/132595088)

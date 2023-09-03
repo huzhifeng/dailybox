@@ -1,3 +1,6 @@
+## 20230904
+- [9to5Linux](https://9to5linux.com/) | [Armbian 23.08 Brings Support for Lenovo X13s, Official Distro Upgrades](https://9to5linux.com/armbian-23-08-brings-support-for-lenovo-x13s-official-distro-upgrades)
+
 ## 20230903
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.0 Arrives with Improvements to Boot, Installation, and Upgrade](https://9to5linux.com/nitrux-3-0-arrives-with-improvements-to-boot-installation-and-upgrade)
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.5 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-5-on-ubuntu-heres-how)

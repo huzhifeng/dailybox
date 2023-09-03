@@ -1,3 +1,7 @@
+## 20230904
+- [Slashdot](https://linux.slashdot.org/) | [Linux's Marketshare on Steam Still Higher Than Apple macOS](https://linux.slashdot.org/story/23/09/03/001201/linuxs-marketshare-on-steam-still-higher-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Are Scrums a Cancer?](https://developers.slashdot.org/story/23/09/02/1753239/are-scrums-a-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230902
 - [Slashdot](https://developers.slashdot.org/) | [Saints Row Developer Volition Has Been Shut Down](https://games.slashdot.org/story/23/08/31/2227216/saints-row-developer-volition-has-been-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
