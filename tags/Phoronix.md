@@ -1,3 +1,8 @@
+## 20230904
+- [Phoronix](https://www.phoronix.com/) | [EXT4 Lands  A Nice Performance Improvement For Appending To Delalloc Files](https://www.phoronix.com/news/Linux-6.6-EXT4)
+- [Phoronix](https://www.phoronix.com/) | [Stadia Controller Rumbles & New Gaming Peripherals Supported By Linux 6.6](https://www.phoronix.com/news/Linux-6.6-HID)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Unconditionally Enables x86 CPU Microcode Loading Support](https://www.phoronix.com/news/Linux-6.6-x86-microcode)
+
 ## 20230903
 - [Phoronix](https://www.phoronix.com/) | [Debian Dropping Its 32-bit MIPS Little Endian "mipsel" Port](https://www.phoronix.com/news/Debian-Dropping-MIPSEL)
 - [Phoronix](https://www.phoronix.com/) | [EROFS Lands DEFLATE Compression, F2FS Improves Zoned Devices In Linux 6.6](https://www.phoronix.com/news/EROFS-F2FS-Linux-6.6)

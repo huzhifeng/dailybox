@@ -1,3 +1,8 @@
+## 20230904
+- [Lobsters](https://lobste.rs/) | [Review: Glove80 Ergonomic Keyboard](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard)
+- [Lobsters](https://lobste.rs/) | [Apple already shipped attestation on the web, and we barely noticed](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web)
+- [Lobsters](https://lobste.rs/) | [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
+
 ## 20230903
 - [Lobsters](https://lobste.rs/) | [The Worst Programmer](https://lobste.rs/s/rbuvrc/worst_programmer)
 - [Lobsters](https://lobste.rs/) | [How I joined the bug 323 community](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community)

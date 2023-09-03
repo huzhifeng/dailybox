@@ -1,3 +1,8 @@
+## 20230904
+- [V2EX](https://www.v2ex.com/) | [提升从英国访问国内家中 NAS 速度](https://www.v2ex.com/t/970555)
+- [V2EX](https://www.v2ex.com/) | [看完《奥本海默》怀疑自己了](https://www.v2ex.com/t/970545)
+- [V2EX](https://www.v2ex.com/) | [好奇在外企或者润出去的大佬们，对于初中英语学习的困惑，长大后/现在已经解决了吗？](https://www.v2ex.com/t/970536)
+
 ## 20230903
 - [V2EX](https://www.v2ex.com/) | [GKD - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP](https://www.v2ex.com/t/970406)
 - [V2EX](https://www.v2ex.com/) | [在河南郑州除了 vpn 还有访问自建 http/https 服务的途径吗，杀疯了](https://www.v2ex.com/t/970368)
