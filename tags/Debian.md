@@ -1,3 +1,6 @@
+## 20230906
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Before We Go Live](https://www.eyrie.org/~eagle/reviews/books/1-7392859-1-3.html)
+
 ## 20230902
 - [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Trisquel on ppc64el: Talos II](https://blog.josefsson.org/2023/09/01/trisquel-on-ppc64el-talos-ii/)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Weekly report and News, 23.08.0 Snaps call for testing!](https://www.scarlettgatelymoore.dev/kde-weekly-report-and-news-23-08-0-snaps-call-for-testing/)

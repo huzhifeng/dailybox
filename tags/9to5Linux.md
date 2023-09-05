@@ -1,3 +1,7 @@
+## 20230906
+- [9to5Linux](https://9to5linux.com/) | [Tails 5.17 Anonymous Linux OS Renames Tails Installer to Tails Cloner](https://9to5linux.com/tails-5-17-anonymous-linux-os-renames-tails-installer-to-tails-cloner)
+- [9to5Linux](https://9to5linux.com/) | [Manjaro 23 Released with Linux 6.5, KDE Plasma 5.27 LTS, GNOME 44.4, and Xfce 4.18](https://9to5linux.com/manjaro-23-released-with-linux-6-5-kde-plasma-5-27-lts-gnome-44-4-and-xfce-4-18)
+
 ## 20230905
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux KDE Spin Is Switching to the Calamares Graphical Installer](https://9to5linux.com/fedora-linux-kde-spin-is-switching-to-the-calamares-graphical-installer)
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.3 Improves Performance in Tomb Raider Anniversary and Fixes Many Bugs](https://9to5linux.com/dxvk-2-3-improves-performance-in-tomb-raider-anniversary-and-fixes-many-bugs)

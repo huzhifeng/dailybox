@@ -1,3 +1,6 @@
+## 20230906
+- [TED Talks Daily](https://www.ted.com/talks) | [How to hack your brain when you're in pain | Amy Baxter](https://www.ted.com/talks/amy_baxter_how_to_hack_your_brain_when_you_re_in_pain?rss)
+
 ## 20230902
 - [TED Talks Daily](https://www.ted.com/talks) | [How "digital twins" could help us predict the future | Karen Willcox](https://www.ted.com/talks/karen_willcox_how_digital_twins_could_help_us_predict_the_future?rss)
 

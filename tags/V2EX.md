@@ -1,3 +1,8 @@
+## 20230906
+- [V2EX](https://www.v2ex.com/) | [瑞幸+茅台的爆火，我感受到的是公司对开发人员的冷落](https://www.v2ex.com/t/971133)
+- [V2EX](https://www.v2ex.com/) | [🎉🎉🎉[Xterminal] 新版本发布一周多已获 1W+用户，又又有更新新功能啦！🎉🎉🎉](https://www.v2ex.com/t/971121)
+- [V2EX](https://www.v2ex.com/) | [自家突尼斯石榴（云南大理）又熟了，抽奖整箱送😋👌🧺，累计已送出了十几箱了，冲啊](https://www.v2ex.com/t/971094)
+
 ## 20230905
 - [V2EX](https://www.v2ex.com/) | [本人是 iOS 开发，准备自己创业开发 APP，要自学一门后端语言， Java 、 PHP 、Go、 Python 、Node.js,请各位大佬推荐一下学习哪个，主要应用场景是给 iOS 客户...](https://www.v2ex.com/t/970816)
 - [V2EX](https://www.v2ex.com/) | [吐槽一下 少数派 ~](https://www.v2ex.com/t/970812)

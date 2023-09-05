@@ -1,3 +1,9 @@
+## 20230906
+- [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Call for volunteers: help to test us the release syncing using staging instance](https://packit.dev/posts/verify-sync-release-volunteers)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: August 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-august-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Before We Go Live](https://www.eyrie.org/~eagle/reviews/books/1-7392859-1-3.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Empowering government innovation: a secure path to open source excellence](https://ubuntu.com//blog/empowering-government-innovation-a-secure-path-to-open-source-excellence)
+
 ## 20230905
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 35 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-35-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora libostree Post-Installation Setup, Modifications, and Tips and Tricks](https://fedoramagazine.org/fedora-libostree-post-installation-setup-modifications-and-tips-and-tricks/)

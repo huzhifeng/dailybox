@@ -1,3 +1,6 @@
+## 20230906
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Empowering government innovation: a secure path to open source excellence](https://ubuntu.com//blog/empowering-government-innovation-a-secure-path-to-open-source-excellence)
+
 ## 20230901
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023)
 

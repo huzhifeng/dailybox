@@ -1,3 +1,9 @@
+## 20230906
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [任正非：华为“储备人才不储备美元”；​iPhone 15 全系用 USB-C 接口；深度 deepin-IDE 亮相 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/132685340)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qwe546912/article/details/132639931)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [安卓Termux搭建web服务器【公网远程手机Android服务器】](https://blog.csdn.net/m0_64361522/article/details/132669425)
+
 ## 20230905
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信文件 3 小时内可撤回；GPT-5 正在秘密训练中；ReiserFS 被弃用 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132662617)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)

@@ -1,3 +1,6 @@
+## 20230906
+- [diff.blog](https://diff.blog/) | [Bogus CVE follow-ups](https://diff.blog/post/bogus-cve-follow-ups-154324/)
+
 ## 20230905
 - [diff.blog](https://diff.blog/) | [The curl-wget Venn diagram](https://diff.blog/post/the-curl-wget-venn-diagram-154131/)
 

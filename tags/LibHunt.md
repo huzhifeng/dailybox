@@ -1,3 +1,8 @@
+## 20230906
+- [LibHunt](https://www.libhunt.com/) | [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://www.libhunt.com/r/Get-Things-Done-with-Prompt-Engineering-and-LangChain)
+- [LibHunt](https://www.libhunt.com/) | [Deep-Learning-For-Hackers](https://www.libhunt.com/r/Deep-Learning-For-Hackers)
+- [LibHunt](https://www.libhunt.com/) | [opentf](https://www.libhunt.com/r/opentf)
+
 ## 20230904
 - [LibHunt](https://www.libhunt.com/) | [Express](https://www.libhunt.com/r/express)
 

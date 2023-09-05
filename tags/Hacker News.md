@@ -1,3 +1,7 @@
+## 20230906
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenTF repository is now public](https://news.ycombinator.com/item?id=37392581)
+
 ## 20230903
 - [Hacker News](https://news.ycombinator.com/front) | [The worst programmer I know](https://news.ycombinator.com/item?id=37361947)
 - [Hacker News](https://news.ycombinator.com/front) | [The Mystery of the Bloomfield Bridge](https://news.ycombinator.com/item?id=37359193)

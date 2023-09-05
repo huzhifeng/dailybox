@@ -1,3 +1,6 @@
+## 20230906
+- [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Python containers](https://developers.redhat.com/articles/2023/09/05/beginners-guide-python-containers)
+
 ## 20230902
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)

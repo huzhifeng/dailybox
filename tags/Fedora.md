@@ -1,3 +1,7 @@
+## 20230906
+- [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Call for volunteers: help to test us the release syncing using staging instance](https://packit.dev/posts/verify-sync-release-volunteers)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: August 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-august-2023/)
+
 ## 20230905
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 35 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-35-2023/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora libostree Post-Installation Setup, Modifications, and Tips and Tricks](https://fedoramagazine.org/fedora-libostree-post-installation-setup-modifications-and-tips-and-tricks/)

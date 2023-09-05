@@ -1,3 +1,6 @@
+## 20230906
+- [GitHub Advanced Search](https://github.com/search/advanced) | [run-llama/sec-insights](https://github.com/run-llama/sec-insights)
+
 ## 20230905
 - [GitHub Advanced Search](https://github.com/search/advanced) | [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot)
 
