@@ -1,3 +1,8 @@
+## 20230905
+- [Phoronix](https://www.phoronix.com/) | [Linux Fix Incoming For Intel Fallout After The Kernel Disabled Buggy AMD fTPM RNG](https://www.phoronix.com/news/AMD-fTPM-RNG-Intel-Fix-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Adds AMD SEV-SNP & Intel TDX Guest Support To Hyper-V With Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Hyper-V-SEV-TDX)
+- [Phoronix](https://www.phoronix.com/) | [DXVK 2.3 Brings Presentation Improvements, More Game Fixes, "hideNvidiaGpu" Option](https://www.phoronix.com/news/DXVK-2.3-Released)
+
 ## 20230904
 - [Phoronix](https://www.phoronix.com/) | [EXT4 Lands  A Nice Performance Improvement For Appending To Delalloc Files](https://www.phoronix.com/news/Linux-6.6-EXT4)
 - [Phoronix](https://www.phoronix.com/) | [Stadia Controller Rumbles & New Gaming Peripherals Supported By Linux 6.6](https://www.phoronix.com/news/Linux-6.6-HID)

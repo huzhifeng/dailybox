@@ -1,3 +1,8 @@
+## 20230905
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux KDE Spin Is Switching to the Calamares Graphical Installer](https://9to5linux.com/fedora-linux-kde-spin-is-switching-to-the-calamares-graphical-installer)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.3 Improves Performance in Tomb Raider Anniversary and Fixes Many Bugs](https://9to5linux.com/dxvk-2-3-improves-performance-in-tomb-raider-anniversary-and-fixes-many-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Linux Lite 6.6 Arrives with Support for 22 New Languages, New AI Helper Tool](https://9to5linux.com/linux-lite-6-6-arrives-with-support-for-22-new-languages-new-ai-helper-tool)
+
 ## 20230904
 - [9to5Linux](https://9to5linux.com/) | [Armbian 23.08 Brings Support for Lenovo X13s, Official Distro Upgrades](https://9to5linux.com/armbian-23-08-brings-support-for-lenovo-x13s-official-distro-upgrades)
 

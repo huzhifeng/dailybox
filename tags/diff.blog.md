@@ -1,3 +1,6 @@
+## 20230905
+- [diff.blog](https://diff.blog/) | [The curl-wget Venn diagram](https://diff.blog/post/the-curl-wget-venn-diagram-154131/)
+
 ## 20230902
 - [diff.blog](https://diff.blog/) | [X/Twitter has updated its Terms of Service to let it use Posts for AI training](https://diff.blog/post/xtwitter-has-updated-its-terms-of-service-to-let-it-use-posts-for-ai-training-153799/)
 

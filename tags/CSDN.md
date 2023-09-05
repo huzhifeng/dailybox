@@ -1,3 +1,9 @@
+## 20230905
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信文件 3 小时内可撤回；GPT-5 正在秘密训练中；ReiserFS 被弃用 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/132662617)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring MVC：域对象共享数据](https://blog.csdn.net/qq_56886142/article/details/131862610)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解读《生成式人工智能服务管理暂行办法》](https://blog.csdn.net/apr15/article/details/132638672)
+
 ## 20230904
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s网络插件—Cilium](https://blog.csdn.net/weixin_36755535/article/details/132637357)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [解读《生成式人工智能服务管理暂行办法》](https://blog.csdn.net/apr15/article/details/132638672)

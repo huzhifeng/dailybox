@@ -1,3 +1,8 @@
+## 20230905
+- [V2EX](https://www.v2ex.com/) | [本人是 iOS 开发，准备自己创业开发 APP，要自学一门后端语言， Java 、 PHP 、Go、 Python 、Node.js,请各位大佬推荐一下学习哪个，主要应用场景是给 iOS 客户...](https://www.v2ex.com/t/970816)
+- [V2EX](https://www.v2ex.com/) | [吐槽一下 少数派 ~](https://www.v2ex.com/t/970812)
+- [V2EX](https://www.v2ex.com/) | [国庆开长途回老家，有啥合适的车险么？](https://www.v2ex.com/t/970791)
+
 ## 20230904
 - [V2EX](https://www.v2ex.com/) | [提升从英国访问国内家中 NAS 速度](https://www.v2ex.com/t/970555)
 - [V2EX](https://www.v2ex.com/) | [看完《奥本海默》怀疑自己了](https://www.v2ex.com/t/970545)
