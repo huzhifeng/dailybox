@@ -1,3 +1,8 @@
+## 20230906
+- [Lobsters](https://lobste.rs/) | [Why I Two-Space](https://lobste.rs/s/vsifq9/why_i_two_space)
+- [Lobsters](https://lobste.rs/) | [FreeBSD containers on macOS](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos)
+- [Lobsters](https://lobste.rs/) | [Revamping bpftrace’s CI with Nix](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix)
+
 ## 20230905
 - [Lobsters](https://lobste.rs/) | [Writing a C compiler in 500 lines of Python](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python)
 - [Lobsters](https://lobste.rs/) | [GitHub has too many hidden features](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features)

@@ -1,3 +1,6 @@
+## 20230906
+- [It's FOSS](https://itsfoss.com/) | [How to Create Persistent Live USB of Ubuntu](https://itsfoss.com/ubuntu-persistent-live-usb/)
+
 ## 20230905
 - [It's FOSS](https://itsfoss.com/) | [Boot From a USB Drive in VirtualBox in Linux](https://itsfoss.com/virtualbox-boot-from-usb/)
 

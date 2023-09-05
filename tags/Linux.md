@@ -1,3 +1,16 @@
+## 20230906
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1115 苹果和微软称它们算不上“守门人”](https://linux.cn/article-16162-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Python containers](https://developers.redhat.com/articles/2023/09/05/beginners-guide-python-containers)
+- [Phoronix](https://www.phoronix.com/) | [Intel Ready To Declare Meteor Lake Linux Graphics Driver Support Stable](https://www.phoronix.com/news/Intel-MTL-Graphics-Linux-Stable)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Bringing Qt6 Port To "make xconfig" Interface](https://www.phoronix.com/news/Linux-6.6-Kconfig-Updates)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7000 Series Make For Compelling Budget Servers, Leading Performance & Value Over Xeon E](https://www.phoronix.com/review/ryzen-7000-servers)
+- [9to5Linux](https://9to5linux.com/) | [Tails 5.17 Anonymous Linux OS Renames Tails Installer to Tails Cloner](https://9to5linux.com/tails-5-17-anonymous-linux-os-renames-tails-installer-to-tails-cloner)
+- [9to5Linux](https://9to5linux.com/) | [Manjaro 23 Released with Linux 6.5, KDE Plasma 5.27 LTS, GNOME 44.4, and Xfce 4.18](https://9to5linux.com/manjaro-23-released-with-linux-6-5-kde-plasma-5-27-lts-gnome-44-4-and-xfce-4-18)
+- [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Call for volunteers: help to test us the release syncing using staging instance](https://packit.dev/posts/verify-sync-release-volunteers)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: August 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-august-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Before We Go Live](https://www.eyrie.org/~eagle/reviews/books/1-7392859-1-3.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Empowering government innovation: a secure path to open source excellence](https://ubuntu.com//blog/empowering-government-innovation-a-secure-path-to-open-source-excellence)
+
 ## 20230905
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1114 苹果给黑客们提供可破解的 iPhone](https://linux.cn/article-16159-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux Fix Incoming For Intel Fallout After The Kernel Disabled Buggy AMD fTPM RNG](https://www.phoronix.com/news/AMD-fTPM-RNG-Intel-Fix-6.6)
