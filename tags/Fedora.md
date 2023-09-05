@@ -1,3 +1,8 @@
+## 20230905
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 35 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-35-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora libostree Post-Installation Setup, Modifications, and Tips and Tricks](https://fedoramagazine.org/fedora-libostree-post-installation-setup-modifications-and-tips-and-tricks/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 391 – The WordPress 100 year disaster recovery problem](https://opensourcesecurity.io/2023/09/03/episode-391-the-wordpress-100-year-disaster-recovery-problem/)
+
 ## 20230902
 - [Planet Fedora](http://fedoraplanet.org/) | [Dave Airlie: Talk about compute and community and where things are at.](https://airlied.blogspot.com/2023/09/talk-about-compute-and-community-and.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Linux Flatpak cool apps to try for September](https://fedoramagazine.org/fedora-linux-flatpak-cool-apps-to-try-for-september/)

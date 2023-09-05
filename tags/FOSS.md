@@ -1,3 +1,6 @@
+## 20230905
+- [It's FOSS](https://itsfoss.com/) | [Boot From a USB Drive in VirtualBox in Linux](https://itsfoss.com/virtualbox-boot-from-usb/)
+
 ## 20230903
 - [It's FOSS](https://itsfoss.com/) | [Making your Windows System Ready for Virtual Machines](https://itsfoss.com/windows-enable-virtualization/)
 

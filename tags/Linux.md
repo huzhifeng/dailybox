@@ -1,3 +1,15 @@
+## 20230905
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1114 苹果给黑客们提供可破解的 iPhone](https://linux.cn/article-16159-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux Fix Incoming For Intel Fallout After The Kernel Disabled Buggy AMD fTPM RNG](https://www.phoronix.com/news/AMD-fTPM-RNG-Intel-Fix-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Adds AMD SEV-SNP & Intel TDX Guest Support To Hyper-V With Linux 6.6](https://www.phoronix.com/news/Linux-6.6-Hyper-V-SEV-TDX)
+- [Phoronix](https://www.phoronix.com/) | [DXVK 2.3 Brings Presentation Improvements, More Game Fixes, "hideNvidiaGpu" Option](https://www.phoronix.com/news/DXVK-2.3-Released)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux KDE Spin Is Switching to the Calamares Graphical Installer](https://9to5linux.com/fedora-linux-kde-spin-is-switching-to-the-calamares-graphical-installer)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.3 Improves Performance in Tomb Raider Anniversary and Fixes Many Bugs](https://9to5linux.com/dxvk-2-3-improves-performance-in-tomb-raider-anniversary-and-fixes-many-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Linux Lite 6.6 Arrives with Support for 22 New Languages, New AI Helper Tool](https://9to5linux.com/linux-lite-6-6-arrives-with-support-for-22-new-languages-new-ai-helper-tool)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 35 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-35-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora libostree Post-Installation Setup, Modifications, and Tips and Tricks](https://fedoramagazine.org/fedora-libostree-post-installation-setup-modifications-and-tips-and-tricks/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 391 – The WordPress 100 year disaster recovery problem](https://opensourcesecurity.io/2023/09/03/episode-391-the-wordpress-100-year-disaster-recovery-problem/)
+
 ## 20230904
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1113 已停止支持的 OS/2 Warp 的继任者 ArcaOS 发布新版本](https://linux.cn/article-16156-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [EXT4 Lands  A Nice Performance Improvement For Appending To Delalloc Files](https://www.phoronix.com/news/Linux-6.6-EXT4)
