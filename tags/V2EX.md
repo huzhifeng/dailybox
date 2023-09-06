@@ -1,3 +1,8 @@
+## 20230907
+- [V2EX](https://www.v2ex.com/) | [36 了，还要不要折腾深圳的房产？](https://www.v2ex.com/t/971403)
+- [V2EX](https://www.v2ex.com/) | [找到了一个小公司的工作，不发电脑，后续给合伙人的机会，要不要去？](https://www.v2ex.com/t/971375)
+- [V2EX](https://www.v2ex.com/) | [你们都是用什么移动流量套餐？月租多少？](https://www.v2ex.com/t/971356)
+
 ## 20230906
 - [V2EX](https://www.v2ex.com/) | [瑞幸+茅台的爆火，我感受到的是公司对开发人员的冷落](https://www.v2ex.com/t/971133)
 - [V2EX](https://www.v2ex.com/) | [🎉🎉🎉[Xterminal] 新版本发布一周多已获 1W+用户，又又有更新新功能啦！🎉🎉🎉](https://www.v2ex.com/t/971121)

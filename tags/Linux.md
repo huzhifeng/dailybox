@@ -1,3 +1,16 @@
+## 20230907
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1116 Chrome 推出基于浏览器历史记录的定向广告](https://linux.cn/article-16166-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Quarkus extensions give Java dependencies superpowers](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Comments On Bcachefs Prospects For Linux 6.6](https://www.phoronix.com/news/Linus-Comments-Bcachefs-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi's V3D Kernel Driver Prepares For "CPU Jobs" To Assist Vulkan](https://www.phoronix.com/news/Raspberry-Pi-V3D-CPU-Jobs)
+- [Phoronix](https://www.phoronix.com/) | [CephFS Completes Multi-Year Effort Adding FSCRYPT Support](https://www.phoronix.com/news/Linux-6.6-CephFS-FSCRYPT)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Sending logs to OpenObserve using syslog-ng](https://peter.czanik.hu/other/syslog-ng-sending-logs-to-openobserve/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 300](https://cockpit-project.org//blog/cockpit-300.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf 23 Key Signing + setting up a new key](https://www.earth.li/~noodles/blog/2023/09/dc23-ksp-new-key.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: VW Lupo mirror-adjustment knob](https://jmtd.net/log/lupo_knob/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppInt64 0.0.1 on CRAN: New Package!](http://dirk.eddelbuettel.com/blog/2023/09/05#rcppint64_0.0.1)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth)
+
 ## 20230906
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1115 苹果和微软称它们算不上“守门人”](https://linux.cn/article-16162-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Python containers](https://developers.redhat.com/articles/2023/09/05/beginners-guide-python-containers)

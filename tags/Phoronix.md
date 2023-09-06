@@ -1,3 +1,8 @@
+## 20230907
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Comments On Bcachefs Prospects For Linux 6.6](https://www.phoronix.com/news/Linus-Comments-Bcachefs-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi's V3D Kernel Driver Prepares For "CPU Jobs" To Assist Vulkan](https://www.phoronix.com/news/Raspberry-Pi-V3D-CPU-Jobs)
+- [Phoronix](https://www.phoronix.com/) | [CephFS Completes Multi-Year Effort Adding FSCRYPT Support](https://www.phoronix.com/news/Linux-6.6-CephFS-FSCRYPT)
+
 ## 20230906
 - [Phoronix](https://www.phoronix.com/) | [Intel Ready To Declare Meteor Lake Linux Graphics Driver Support Stable](https://www.phoronix.com/news/Intel-MTL-Graphics-Linux-Stable)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Bringing Qt6 Port To "make xconfig" Interface](https://www.phoronix.com/news/Linux-6.6-Kconfig-Updates)

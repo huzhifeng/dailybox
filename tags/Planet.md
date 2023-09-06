@@ -1,3 +1,11 @@
+## 20230907
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Sending logs to OpenObserve using syslog-ng](https://peter.czanik.hu/other/syslog-ng-sending-logs-to-openobserve/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 300](https://cockpit-project.org//blog/cockpit-300.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf 23 Key Signing + setting up a new key](https://www.earth.li/~noodles/blog/2023/09/dc23-ksp-new-key.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: VW Lupo mirror-adjustment knob](https://jmtd.net/log/lupo_knob/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppInt64 0.0.1 on CRAN: New Package!](http://dirk.eddelbuettel.com/blog/2023/09/05#rcppint64_0.0.1)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth)
+
 ## 20230906
 - [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Call for volunteers: help to test us the release syncing using staging instance](https://packit.dev/posts/verify-sync-release-volunteers)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: August 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-august-2023/)

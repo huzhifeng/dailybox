@@ -1,3 +1,6 @@
+## 20230907
+- [TED Talks Daily](https://www.ted.com/talks) | [Why you should stop setting goals (yes, really) | Emmanuel Acho](https://www.ted.com/talks/emmanuel_acho_why_you_should_stop_setting_goals_yes_really?rss)
+
 ## 20230906
 - [TED Talks Daily](https://www.ted.com/talks) | [How to hack your brain when you're in pain | Amy Baxter](https://www.ted.com/talks/amy_baxter_how_to_hack_your_brain_when_you_re_in_pain?rss)
 

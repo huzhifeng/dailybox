@@ -1,3 +1,8 @@
+## 20230907
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf 23 Key Signing + setting up a new key](https://www.earth.li/~noodles/blog/2023/09/dc23-ksp-new-key.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: VW Lupo mirror-adjustment knob](https://jmtd.net/log/lupo_knob/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppInt64 0.0.1 on CRAN: New Package!](http://dirk.eddelbuettel.com/blog/2023/09/05#rcppint64_0.0.1)
+
 ## 20230906
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Before We Go Live](https://www.eyrie.org/~eagle/reviews/books/1-7392859-1-3.html)
 

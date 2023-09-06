@@ -1,3 +1,8 @@
+## 20230907
+- [LibHunt](https://www.libhunt.com/) | [stable-diffusion-webui](https://www.libhunt.com/r/stable-diffusion-webui)
+- [LibHunt](https://www.libhunt.com/) | [src](https://www.libhunt.com/r/src)
+- [LibHunt](https://www.libhunt.com/) | [azure-transcript-search-openai-demo](https://www.libhunt.com/r/azure-transcript-search-openai-demo)
+
 ## 20230906
 - [LibHunt](https://www.libhunt.com/) | [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://www.libhunt.com/r/Get-Things-Done-with-Prompt-Engineering-and-LangChain)
 - [LibHunt](https://www.libhunt.com/) | [Deep-Learning-For-Hackers](https://www.libhunt.com/r/Deep-Learning-For-Hackers)

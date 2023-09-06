@@ -1,3 +1,8 @@
+## 20230907
+- [Lobsters](https://lobste.rs/) | [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product)
+- [Lobsters](https://lobste.rs/) | [Bogus CVE follow-ups](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups)
+- [Lobsters](https://lobste.rs/) | [Now it's PostgreSQL's turn to have a bogus CVE](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve)
+
 ## 20230906
 - [Lobsters](https://lobste.rs/) | [Why I Two-Space](https://lobste.rs/s/vsifq9/why_i_two_space)
 - [Lobsters](https://lobste.rs/) | [FreeBSD containers on macOS](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos)

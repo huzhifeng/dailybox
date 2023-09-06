@@ -1,3 +1,6 @@
+## 20230907
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth)
+
 ## 20230906
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Empowering government innovation: a secure path to open source excellence](https://ubuntu.com//blog/empowering-government-innovation-a-secure-path-to-open-source-excellence)
 
