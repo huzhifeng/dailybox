@@ -1,3 +1,8 @@
+## 20230907
+- [Product Hunt](https://www.producthunt.com) | [BoringCashCow](https://www.producthunt.com/posts/boringcashcow)
+- [Product Hunt](https://www.producthunt.com) | [Supernotes 3](https://www.producthunt.com/posts/supernotes-3)
+- [Product Hunt](https://www.producthunt.com) | [Jupitrr AI Video Maker](https://www.producthunt.com/posts/jupitrr-ai-video-maker)
+
 ## 20230906
 - [Product Hunt](https://www.producthunt.com) | [Plutis](https://www.producthunt.com/posts/plutis)
 - [Product Hunt](https://www.producthunt.com) | [Val Town](https://www.producthunt.com/posts/val-town)

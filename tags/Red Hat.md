@@ -1,3 +1,6 @@
+## 20230907
+- [Red Hat Developer](https://developers.redhat.com/) | [Quarkus extensions give Java dependencies superpowers](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
+
 ## 20230906
 - [Red Hat Developer](https://developers.redhat.com/) | [A beginner's guide to Python containers](https://developers.redhat.com/articles/2023/09/05/beginners-guide-python-containers)
 

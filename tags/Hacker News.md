@@ -1,3 +1,8 @@
+## 20230907
+- [Hacker News](https://news.ycombinator.com/front) | [U.K. abandons, for now, legislation that would have banned end-to-end encryption](https://news.ycombinator.com/item?id=37408196)
+- [Hacker News](https://news.ycombinator.com/front) | [Is this Duplo train track under too much tension?](https://news.ycombinator.com/item?id=37404740)
+- [Hacker News](https://news.ycombinator.com/front) | [Linux network performance parameters](https://news.ycombinator.com/item?id=37403799)
+
 ## 20230906
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenTF repository is now public](https://news.ycombinator.com/item?id=37392581)

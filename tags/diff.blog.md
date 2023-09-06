@@ -1,3 +1,6 @@
+## 20230907
+- [diff.blog](https://diff.blog/) | [Making Sense of React Server Components](https://diff.blog/post/making-sense-of-react-server-components-154410/)
+
 ## 20230906
 - [diff.blog](https://diff.blog/) | [Bogus CVE follow-ups](https://diff.blog/post/bogus-cve-follow-ups-154324/)
 

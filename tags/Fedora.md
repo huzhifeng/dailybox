@@ -1,3 +1,7 @@
+## 20230907
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Sending logs to OpenObserve using syslog-ng](https://peter.czanik.hu/other/syslog-ng-sending-logs-to-openobserve/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 300](https://cockpit-project.org//blog/cockpit-300.html)
+
 ## 20230906
 - [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Call for volunteers: help to test us the release syncing using staging instance](https://packit.dev/posts/verify-sync-release-volunteers)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: August 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-august-2023/)
