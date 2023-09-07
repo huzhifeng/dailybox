@@ -1,3 +1,8 @@
+## 20230908
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Lands Support For The Cirrus Logic CS42L43 Audio Codec](https://www.phoronix.com/news/Linux-6.6-Cirrus-Logic-CS42L43)
+- [Phoronix](https://www.phoronix.com/) | [New ASUS Laptop Features & HP BIOS Settings Driver For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-x86-Platform-Drivers)
+- [Phoronix](https://www.phoronix.com/) | [Radeon Software For Linux 23.20 Brings RX 7700 XT / RX 7800 XT Support](https://www.phoronix.com/news/Radeon-Software-Linux-23.20)
+
 ## 20230907
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Comments On Bcachefs Prospects For Linux 6.6](https://www.phoronix.com/news/Linus-Comments-Bcachefs-6.6)
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi's V3D Kernel Driver Prepares For "CPU Jobs" To Assist Vulkan](https://www.phoronix.com/news/Raspberry-Pi-V3D-CPU-Jobs)

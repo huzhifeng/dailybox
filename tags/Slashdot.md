@@ -1,3 +1,6 @@
+## 20230908
+- [Slashdot](https://developers.slashdot.org/) | [Largest Local Government Body In Europe Goes Under Amid Oracle Disaster](https://developers.slashdot.org/story/23/09/06/2120208/largest-local-government-body-in-europe-goes-under-amid-oracle-disaster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230904
 - [Slashdot](https://linux.slashdot.org/) | [Linux's Marketshare on Steam Still Higher Than Apple macOS](https://linux.slashdot.org/story/23/09/03/001201/linuxs-marketshare-on-steam-still-higher-than-apple-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Are Scrums a Cancer?](https://developers.slashdot.org/story/23/09/02/1753239/are-scrums-a-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)

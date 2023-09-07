@@ -1,3 +1,6 @@
+## 20230908
+- [diff.blog](https://diff.blog/) | [This Week in Rust 511](https://diff.blog/post/this-week-in-rust-511-154436/)
+
 ## 20230907
 - [diff.blog](https://diff.blog/) | [Making Sense of React Server Components](https://diff.blog/post/making-sense-of-react-server-components-154410/)
 

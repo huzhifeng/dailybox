@@ -1,3 +1,8 @@
+## 20230908
+- [V2EX](https://www.v2ex.com/) | [天下乌鸦一般黑，寻求一款能替代 Chrome/Edge 的浏览器](https://www.v2ex.com/t/971770)
+- [V2EX](https://www.v2ex.com/) | [博客园要没啦？](https://www.v2ex.com/t/971719)
+- [V2EX](https://www.v2ex.com/) | [Github 新首页就是一坨屎](https://www.v2ex.com/t/971693)
+
 ## 20230907
 - [V2EX](https://www.v2ex.com/) | [36 了，还要不要折腾深圳的房产？](https://www.v2ex.com/t/971403)
 - [V2EX](https://www.v2ex.com/) | [找到了一个小公司的工作，不发电脑，后续给合伙人的机会，要不要去？](https://www.v2ex.com/t/971375)

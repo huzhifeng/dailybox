@@ -1,3 +1,6 @@
+## 20230908
+- [TED Talks Daily](https://www.ted.com/talks) | [How to take the BS out of business speak | Bob Wiltfong](https://www.ted.com/talks/bob_wiltfong_how_to_take_the_bs_out_of_business_speak_sep_2023?rss)
+
 ## 20230907
 - [TED Talks Daily](https://www.ted.com/talks) | [Why you should stop setting goals (yes, really) | Emmanuel Acho](https://www.ted.com/talks/emmanuel_acho_why_you_should_stop_setting_goals_yes_really?rss)
 

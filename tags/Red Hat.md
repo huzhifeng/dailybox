@@ -1,3 +1,6 @@
+## 20230908
+- [Red Hat Developer](https://developers.redhat.com/) | [Drop git pull for fetch and rebase](https://developers.redhat.com/articles/2023/09/07/drop-git-pull-fetch-and-rebase)
+
 ## 20230907
 - [Red Hat Developer](https://developers.redhat.com/) | [Quarkus extensions give Java dependencies superpowers](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
 
