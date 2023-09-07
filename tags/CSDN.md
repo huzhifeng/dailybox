@@ -1,3 +1,9 @@
+## 20230908
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI将举办首届全球开发者大会；Meta公司因争抢计算资源发生内斗；PHP 8.3 RC1发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132731224)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023高教社杯 国赛数学建模B题思路 - 多波束测线问题](https://blog.csdn.net/dc_sinor/article/details/132743552)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qwe546913/article/details/132673949)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【C++ Core Guidelines解析】C++学习之路的一盏明灯](https://blog.csdn.net/H1727548/article/details/132702462)
+
 ## 20230906
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [任正非：华为“储备人才不储备美元”；​iPhone 15 全系用 USB-C 接口；深度 deepin-IDE 亮相 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/132685340)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qwe546912/article/details/132639931)

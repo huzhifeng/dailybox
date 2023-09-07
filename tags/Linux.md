@@ -1,3 +1,14 @@
+## 20230908
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1117 12 家丰田工厂全部停工的原因是——磁盘满了](https://linux.cn/article-16169-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Drop git pull for fetch and rebase](https://developers.redhat.com/articles/2023/09/07/drop-git-pull-fetch-and-rebase)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Lands Support For The Cirrus Logic CS42L43 Audio Codec](https://www.phoronix.com/news/Linux-6.6-Cirrus-Logic-CS42L43)
+- [Phoronix](https://www.phoronix.com/) | [New ASUS Laptop Features & HP BIOS Settings Driver For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-x86-Platform-Drivers)
+- [Phoronix](https://www.phoronix.com/) | [Radeon Software For Linux 23.20 Brings RX 7700 XT / RX 7800 XT Support](https://www.phoronix.com/news/Radeon-Software-Linux-23.20)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.6 Office Suite Released with More Than 50 Bug Fixes](https://9to5linux.com/libreoffice-7-5-6-office-suite-released-with-more-than-50-bug-fixes)
+- [Planet Fedora](http://fedoraplanet.org/) | [Christiano Anderson: Contributing to Fedora](https://christiano.dev/post/contributing-to-fedora/)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in August 2023](http://blog.alteholz.eu/2023/09/my-debian-activities-in-august-2023/)
+
 ## 20230907
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1116 Chrome 推出基于浏览器历史记录的定向广告](https://linux.cn/article-16166-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Quarkus extensions give Java dependencies superpowers](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)

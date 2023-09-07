@@ -1,3 +1,6 @@
+## 20230908
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
+
 ## 20230831
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Linux kernel 6.5: USB4v2 and Wifi7 have arrived](https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-65-usb4v2-and-wifi7-have-arrived.html)
 

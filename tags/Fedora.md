@@ -1,3 +1,6 @@
+## 20230908
+- [Planet Fedora](http://fedoraplanet.org/) | [Christiano Anderson: Contributing to Fedora](https://christiano.dev/post/contributing-to-fedora/)
+
 ## 20230907
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Sending logs to OpenObserve using syslog-ng](https://peter.czanik.hu/other/syslog-ng-sending-logs-to-openobserve/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 300](https://cockpit-project.org//blog/cockpit-300.html)

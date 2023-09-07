@@ -1,3 +1,8 @@
+## 20230908
+- [Hacker News](https://news.ycombinator.com/front) | [North Korean campaign targeting security researchers](https://news.ycombinator.com/item?id=37420831)
+- [Hacker News](https://news.ycombinator.com/front) | [Kagi Small Web](https://news.ycombinator.com/item?id=37420281)
+- [Hacker News](https://news.ycombinator.com/front) | [Mullvad on Tailscale: Privately browse the web](https://news.ycombinator.com/item?id=37420053)
+
 ## 20230907
 - [Hacker News](https://news.ycombinator.com/front) | [U.K. abandons, for now, legislation that would have banned end-to-end encryption](https://news.ycombinator.com/item?id=37408196)
 - [Hacker News](https://news.ycombinator.com/front) | [Is this Duplo train track under too much tension?](https://news.ycombinator.com/item?id=37404740)

@@ -1,3 +1,6 @@
+## 20230908
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in August 2023](http://blog.alteholz.eu/2023/09/my-debian-activities-in-august-2023/)
+
 ## 20230907
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf 23 Key Signing + setting up a new key](https://www.earth.li/~noodles/blog/2023/09/dc23-ksp-new-key.html)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: VW Lupo mirror-adjustment knob](https://jmtd.net/log/lupo_knob/)

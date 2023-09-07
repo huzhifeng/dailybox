@@ -1,3 +1,8 @@
+## 20230908
+- [Product Hunt](https://www.producthunt.com) | [Boolvideo](https://www.producthunt.com/posts/boolvideo)
+- [Product Hunt](https://www.producthunt.com) | [Anecdote](https://www.producthunt.com/posts/anecdote-2)
+- [Product Hunt](https://www.producthunt.com) | [Frond 2.0](https://www.producthunt.com/posts/frond-2-0)
+
 ## 20230907
 - [Product Hunt](https://www.producthunt.com) | [BoringCashCow](https://www.producthunt.com/posts/boringcashcow)
 - [Product Hunt](https://www.producthunt.com) | [Supernotes 3](https://www.producthunt.com/posts/supernotes-3)

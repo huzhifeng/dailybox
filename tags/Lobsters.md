@@ -1,3 +1,8 @@
+## 20230908
+- [Lobsters](https://lobste.rs/) | [why not matrix?](https://lobste.rs/s/wvi9xw/why_not_matrix)
+- [Lobsters](https://lobste.rs/) | [Semver violations are common, better tooling is the answer](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better)
+- [Lobsters](https://lobste.rs/) | [Kagi Small Web](https://lobste.rs/s/llkcap/kagi_small_web)
+
 ## 20230907
 - [Lobsters](https://lobste.rs/) | [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product)
 - [Lobsters](https://lobste.rs/) | [Bogus CVE follow-ups](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups)

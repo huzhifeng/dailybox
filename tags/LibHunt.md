@@ -1,3 +1,7 @@
+## 20230908
+- [LibHunt](https://www.libhunt.com/) | [SolidGPT](https://www.libhunt.com/r/SolidGPT)
+- [LibHunt](https://www.libhunt.com/) | [turbo](https://www.libhunt.com/r/hotwired/turbo)
+
 ## 20230907
 - [LibHunt](https://www.libhunt.com/) | [stable-diffusion-webui](https://www.libhunt.com/r/stable-diffusion-webui)
 - [LibHunt](https://www.libhunt.com/) | [src](https://www.libhunt.com/r/src)

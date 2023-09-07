@@ -1,3 +1,6 @@
+## 20230908
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.36: De-Googled Fairphone 5, GNOME 45 Features, Pacman Commands and More](https://itsfoss.com/newsletter/foss-weekly-23-36/)
+
 ## 20230906
 - [It's FOSS](https://itsfoss.com/) | [How to Create Persistent Live USB of Ubuntu](https://itsfoss.com/ubuntu-persistent-live-usb/)
 
