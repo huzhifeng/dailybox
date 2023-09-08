@@ -1,3 +1,6 @@
+## 20230909
+- [It's FOSS](https://itsfoss.com/) | [Change Configuration of Existing VirtualBox Virtual Machines](https://itsfoss.com/virtualbox-change-vm-config/)
+
 ## 20230908
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.36: De-Googled Fairphone 5, GNOME 45 Features, Pacman Commands and More](https://itsfoss.com/newsletter/foss-weekly-23-36/)
 

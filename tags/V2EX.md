@@ -1,3 +1,8 @@
+## 20230909
+- [V2EX](https://www.v2ex.com/) | [我来网暴一家杭州公司，杭州的宝宝，和吃瓜的兄弟搬好板凳。](https://www.v2ex.com/t/972102)
+- [V2EX](https://www.v2ex.com/) | [各位 Coder，高刷屏幕对写代码有加成没😁](https://www.v2ex.com/t/972050)
+- [V2EX](https://www.v2ex.com/) | [开发了六年的产品迎来了第一个商业客户](https://www.v2ex.com/t/971996)
+
 ## 20230908
 - [V2EX](https://www.v2ex.com/) | [天下乌鸦一般黑，寻求一款能替代 Chrome/Edge 的浏览器](https://www.v2ex.com/t/971770)
 - [V2EX](https://www.v2ex.com/) | [博客园要没啦？](https://www.v2ex.com/t/971719)

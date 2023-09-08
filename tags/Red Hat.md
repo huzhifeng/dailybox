@@ -1,3 +1,6 @@
+## 20230909
+- [Red Hat Developer](https://developers.redhat.com/) | [How to trigger jobs manually in Packit](https://developers.redhat.com/articles/2023/09/08/how-trigger-jobs-manually-packit)
+
 ## 20230908
 - [Red Hat Developer](https://developers.redhat.com/) | [Drop git pull for fetch and rebase](https://developers.redhat.com/articles/2023/09/07/drop-git-pull-fetch-and-rebase)
 

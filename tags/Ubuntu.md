@@ -1,3 +1,6 @@
+## 20230909
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03)
+
 ## 20230907
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth)
 

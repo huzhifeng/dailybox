@@ -1,3 +1,8 @@
+## 20230909
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally](https://www.phoronix.com/review/ryzen-z1-linux65)
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Preparing Support For ASUS Screenpad On High-End Laptops](https://www.phoronix.com/news/ASUS-Screenpad-Linux-Patches)
+- [Phoronix](https://www.phoronix.com/) | [Expanded Platform Support For AMD Dynamic Boost Control Being Worked On For Linux](https://www.phoronix.com/news/AMD-DBC-Expanded-Platforms)
+
 ## 20230908
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Lands Support For The Cirrus Logic CS42L43 Audio Codec](https://www.phoronix.com/news/Linux-6.6-Cirrus-Logic-CS42L43)
 - [Phoronix](https://www.phoronix.com/) | [New ASUS Laptop Features & HP BIOS Settings Driver For Linux 6.6](https://www.phoronix.com/news/Linux-6.6-x86-Platform-Drivers)
