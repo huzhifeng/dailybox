@@ -1,3 +1,8 @@
+## 20230909
+- [Lobsters](https://lobste.rs/) | [How big is a kilobyte?](https://lobste.rs/s/wywsvx/how_big_is_kilobyte)
+- [Lobsters](https://lobste.rs/) | [Async Rust Is A Bad Language](https://lobste.rs/s/cryfiu/async_rust_is_bad_language)
+- [Lobsters](https://lobste.rs/) | [Response Time Is the System Talking](https://lobste.rs/s/kh2z3w/response_time_is_system_talking)
+
 ## 20230908
 - [Lobsters](https://lobste.rs/) | [why not matrix?](https://lobste.rs/s/wvi9xw/why_not_matrix)
 - [Lobsters](https://lobste.rs/) | [Semver violations are common, better tooling is the answer](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better)

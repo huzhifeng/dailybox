@@ -1,3 +1,8 @@
+## 20230909
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at the Fedora Linux Test Week for Kernel 6.5 and Toolbx Test Day](https://fedoramagazine.org/contribute-at-the-fedora-linux-test-week-for-kernel-6-5-and-toolbx-test-day/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr is slow for ppc64le build tasks](https://status.fedoraproject.org/2023-09-08-copr-ppc64le.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dusty Mabe: Using virtiofs with libvirt/virt-install](https://dustymabe.com/2023/09/08/using-virtiofs-with-libvirt/virt-install/)
+
 ## 20230908
 - [Planet Fedora](http://fedoraplanet.org/) | [Christiano Anderson: Contributing to Fedora](https://christiano.dev/post/contributing-to-fedora/)
 

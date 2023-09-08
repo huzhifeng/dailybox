@@ -1,3 +1,8 @@
+## 20230909
+- [Hacker News](https://news.ycombinator.com/front) | [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://news.ycombinator.com/item?id=37435515)
+- [Hacker News](https://news.ycombinator.com/front) | [Bun v1.0.0](https://news.ycombinator.com/item?id=37434117)
+- [Hacker News](https://news.ycombinator.com/front) | [Touch Pianist](https://news.ycombinator.com/item?id=37431644)
+
 ## 20230908
 - [Hacker News](https://news.ycombinator.com/front) | [North Korean campaign targeting security researchers](https://news.ycombinator.com/item?id=37420831)
 - [Hacker News](https://news.ycombinator.com/front) | [Kagi Small Web](https://news.ycombinator.com/item?id=37420281)

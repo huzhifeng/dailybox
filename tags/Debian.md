@@ -1,3 +1,8 @@
+## 20230909
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in August 2023](https://reproducible-builds.org/reports/2023-08/)
+- [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Regular virus scan](http://www.enricozini.org/blog/2023/debian/regular-virus-scan)
+- [Planet Debian](https://planet.debian.org/) | [Thomas Lange: FAI.me service now support backports for Debian 12 (bookworm)](http://blog.fai-project.org/posts/faime-bpo-3/)
+
 ## 20230908
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in August 2023](http://blog.alteholz.eu/2023/09/my-debian-activities-in-august-2023/)
 

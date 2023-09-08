@@ -1,3 +1,6 @@
+## 20230909
+- [diff.blog](https://diff.blog/) | [X updates its Terms to prohibit crawling/scraping of its data](https://diff.blog/post/x-updates-its-terms-to-prohibit-crawlingscraping-of-its-data-154532/)
+
 ## 20230908
 - [diff.blog](https://diff.blog/) | [This Week in Rust 511](https://diff.blog/post/this-week-in-rust-511-154436/)
 

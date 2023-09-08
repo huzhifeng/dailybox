@@ -1,3 +1,12 @@
+## 20230909
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at the Fedora Linux Test Week for Kernel 6.5 and Toolbx Test Day](https://fedoramagazine.org/contribute-at-the-fedora-linux-test-week-for-kernel-6-5-and-toolbx-test-day/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr is slow for ppc64le build tasks](https://status.fedoraproject.org/2023-09-08-copr-ppc64le.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dusty Mabe: Using virtiofs with libvirt/virt-install](https://dustymabe.com/2023/09/08/using-virtiofs-with-libvirt/virt-install/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in August 2023](https://reproducible-builds.org/reports/2023-08/)
+- [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Regular virus scan](http://www.enricozini.org/blog/2023/debian/regular-virus-scan)
+- [Planet Debian](https://planet.debian.org/) | [Thomas Lange: FAI.me service now support backports for Debian 12 (bookworm)](http://blog.fai-project.org/posts/faime-bpo-3/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03)
+
 ## 20230908
 - [Planet Fedora](http://fedoraplanet.org/) | [Christiano Anderson: Contributing to Fedora](https://christiano.dev/post/contributing-to-fedora/)
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in August 2023](http://blog.alteholz.eu/2023/09/my-debian-activities-in-august-2023/)

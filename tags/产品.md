@@ -1,3 +1,8 @@
+## 20230909
+- [Product Hunt](https://www.producthunt.com) | [myReach](https://www.producthunt.com/posts/myreach)
+- [Product Hunt](https://www.producthunt.com) | [◯˚GitStart](https://www.producthunt.com/posts/gitstart)
+- [Product Hunt](https://www.producthunt.com) | [Heyscribe](https://www.producthunt.com/posts/heyscribe)
+
 ## 20230908
 - [Product Hunt](https://www.producthunt.com) | [Boolvideo](https://www.producthunt.com/posts/boolvideo)
 - [Product Hunt](https://www.producthunt.com) | [Anecdote](https://www.producthunt.com/posts/anecdote-2)

@@ -1,3 +1,18 @@
+## 20230909
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1118 微软称将保护客户免受 AI 版权诉讼](https://linux.cn/article-16172-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to trigger jobs manually in Packit](https://developers.redhat.com/articles/2023/09/08/how-trigger-jobs-manually-packit)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally](https://www.phoronix.com/review/ryzen-z1-linux65)
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Preparing Support For ASUS Screenpad On High-End Laptops](https://www.phoronix.com/news/ASUS-Screenpad-Linux-Patches)
+- [Phoronix](https://www.phoronix.com/) | [Expanded Platform Support For AMD Dynamic Boost Control Being Worked On For Linux](https://www.phoronix.com/news/AMD-DBC-Expanded-Platforms)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at the Fedora Linux Test Week for Kernel 6.5 and Toolbx Test Day](https://fedoramagazine.org/contribute-at-the-fedora-linux-test-week-for-kernel-6-5-and-toolbx-test-day/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Fedora Copr is slow for ppc64le build tasks](https://status.fedoraproject.org/2023-09-08-copr-ppc64le.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Dusty Mabe: Using virtiofs with libvirt/virt-install](https://dustymabe.com/2023/09/08/using-virtiofs-with-libvirt/virt-install/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in August 2023](https://reproducible-builds.org/reports/2023-08/)
+- [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Regular virus scan](http://www.enricozini.org/blog/2023/debian/regular-virus-scan)
+- [Planet Debian](https://planet.debian.org/) | [Thomas Lange: FAI.me service now support backports for Debian 12 (bookworm)](http://blog.fai-project.org/posts/faime-bpo-3/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#112 New Circle Apps](https://thisweek.gnome.org/posts/2023/09/twig-112/)
+
 ## 20230908
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1117 12 家丰田工厂全部停工的原因是——磁盘满了](https://linux.cn/article-16169-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
