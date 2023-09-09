@@ -1,3 +1,6 @@
+## 20230910
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Release Candidate Arrives with Last-Minute Changes](https://9to5linux.com/gnome-45-release-candidate-arrives-with-last-minute-changes)
+
 ## 20230908
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.6 Office Suite Released with More Than 50 Bug Fixes](https://9to5linux.com/libreoffice-7-5-6-office-suite-released-with-more-than-50-bug-fixes)
 

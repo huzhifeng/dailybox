@@ -1,3 +1,8 @@
+## 20230910
+- [Product Hunt](https://www.producthunt.com) | [FreeLogo.dev](https://www.producthunt.com/posts/freelogo-dev)
+- [Product Hunt](https://www.producthunt.com) | [SalesOS with AI Customer Persona](https://www.producthunt.com/posts/salesos-with-ai-customer-persona)
+- [Product Hunt](https://www.producthunt.com) | [Fedica](https://www.producthunt.com/posts/fedica)
+
 ## 20230909
 - [Product Hunt](https://www.producthunt.com) | [myReach](https://www.producthunt.com/posts/myreach)
 - [Product Hunt](https://www.producthunt.com) | [◯˚GitStart](https://www.producthunt.com/posts/gitstart)

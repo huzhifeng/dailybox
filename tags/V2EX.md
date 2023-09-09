@@ -1,3 +1,8 @@
+## 20230910
+- [V2EX](https://www.v2ex.com/) | [就事论事地说，华为的高端机型究竟怎么样？](https://www.v2ex.com/t/972369)
+- [V2EX](https://www.v2ex.com/) | [有多少人完全使用命令行管理 git 得](https://www.v2ex.com/t/972261)
+- [V2EX](https://www.v2ex.com/) | [投了 2 周简历，一个面试都没有，是不是可以考虑转行了？](https://www.v2ex.com/t/972260)
+
 ## 20230909
 - [V2EX](https://www.v2ex.com/) | [我来网暴一家杭州公司，杭州的宝宝，和吃瓜的兄弟搬好板凳。](https://www.v2ex.com/t/972102)
 - [V2EX](https://www.v2ex.com/) | [各位 Coder，高刷屏幕对写代码有加成没😁](https://www.v2ex.com/t/972050)
