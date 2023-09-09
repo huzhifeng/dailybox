@@ -1,3 +1,8 @@
+## 20230910
+- [Lobsters](https://lobste.rs/) | [My mental model of Clojure transducers](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers)
+- [Lobsters](https://lobste.rs/) | [Reflections on LLVM's switch to GitHub pull requests](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull)
+- [Lobsters](https://lobste.rs/) | [Much Ado About Nil Things: More Go Pitfalls](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls)
+
 ## 20230909
 - [Lobsters](https://lobste.rs/) | [How big is a kilobyte?](https://lobste.rs/s/wywsvx/how_big_is_kilobyte)
 - [Lobsters](https://lobste.rs/) | [Async Rust Is A Bad Language](https://lobste.rs/s/cryfiu/async_rust_is_bad_language)

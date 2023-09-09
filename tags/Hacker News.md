@@ -1,3 +1,6 @@
+## 20230910
+- [Hacker News](https://news.ycombinator.com/front) | [Asking 60 LLMs a set of 20 questions](https://news.ycombinator.com/item?id=37445401)
+
 ## 20230909
 - [Hacker News](https://news.ycombinator.com/front) | [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://news.ycombinator.com/item?id=37435515)
 - [Hacker News](https://news.ycombinator.com/front) | [Bun v1.0.0](https://news.ycombinator.com/item?id=37434117)

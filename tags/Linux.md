@@ -1,3 +1,14 @@
+## 20230910
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1119 无人注意，新安装的 Ubuntu 23.04 不支持安装 32 位应用](https://linux.cn/article-16175-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [LoongArch With Linux 6.6 Adds KGDB/KDB, KFence, KASAN, LBT Binary Translation](https://www.phoronix.com/news/Linux-6.6-LoongArch)
+- [Phoronix](https://www.phoronix.com/) | [KSMBD Declared Stable - No Longer "Experimental" - In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [DXVK-NVAPI 0.6.4 Implements HDR Support Via DXVK](https://www.phoronix.com/news/DXVK-NVAPI-0.6.4)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 Release Candidate Arrives with Last-Minute Changes](https://9to5linux.com/gnome-45-release-candidate-arrives-with-last-minute-changes)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppFarmHash 0.0.3 on CRAN: Small Update](http://dirk.eddelbuettel.com/blog/2023/09/09#rcppfarmhash_0.0.3)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [How nostr could enable peer-to-peer apps](https://blog.vmsplice.net/2023/09/how-nostr-could-enable-peer-to-peer-apps.html)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: power management galore](https://pointieststick.com/2023/09/08/this-week-in-kde-power-management-galore/)
+- [Slashdot](https://linux.slashdot.org/) | [Meet the Guy Preserving the New History of PC Games, One Linux Port At a Time](https://games.slashdot.org/story/23/09/08/2141232/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230909
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1118 微软称将保护客户免受 AI 版权诉讼](https://linux.cn/article-16172-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to trigger jobs manually in Packit](https://developers.redhat.com/articles/2023/09/08/how-trigger-jobs-manually-packit)

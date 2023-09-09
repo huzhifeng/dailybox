@@ -1,3 +1,8 @@
+## 20230910
+- [Phoronix](https://www.phoronix.com/) | [LoongArch With Linux 6.6 Adds KGDB/KDB, KFence, KASAN, LBT Binary Translation](https://www.phoronix.com/news/Linux-6.6-LoongArch)
+- [Phoronix](https://www.phoronix.com/) | [KSMBD Declared Stable - No Longer "Experimental" - In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [DXVK-NVAPI 0.6.4 Implements HDR Support Via DXVK](https://www.phoronix.com/news/DXVK-NVAPI-0.6.4)
+
 ## 20230909
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally](https://www.phoronix.com/review/ryzen-z1-linux65)
 - [Phoronix](https://www.phoronix.com/) | [Linux Driver Preparing Support For ASUS Screenpad On High-End Laptops](https://www.phoronix.com/news/ASUS-Screenpad-Linux-Patches)

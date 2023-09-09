@@ -1,3 +1,6 @@
+## 20230910
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppFarmHash 0.0.3 on CRAN: Small Update](http://dirk.eddelbuettel.com/blog/2023/09/09#rcppfarmhash_0.0.3)
+
 ## 20230909
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in August 2023](https://reproducible-builds.org/reports/2023-08/)
 - [Planet Debian](https://planet.debian.org/) | [Enrico Zini: Regular virus scan](http://www.enricozini.org/blog/2023/debian/regular-virus-scan)
