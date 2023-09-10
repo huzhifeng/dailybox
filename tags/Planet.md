@@ -1,3 +1,10 @@
+## 20230911
+- [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Creating “Reverse WSL” For Running Windows Application On Linux Host](https://blog.kagesenshi.org/2023/09/reverse-wsl.html)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 starts today in Kochi On Sun 10 September 2023](https://bits.debian.org/2023/09/debconf23-starts-today.html)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 welcomes its sponsors!](https://bits.debian.org/2023/09/debconf23-welcomes-sponsors.html)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Debian Contributions: /usr-merge updates, Salsa CI progress, DebConf23 lead-up, and more! (by Utkarsh Gupta)](https://www.freexian.com/blog/debian-contributions-08-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: A virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
+
 ## 20230910
 - [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppFarmHash 0.0.3 on CRAN: Small Update](http://dirk.eddelbuettel.com/blog/2023/09/09#rcppfarmhash_0.0.3)
 - [Planet virt-tools](https://planet.virt-tools.org/) | [How nostr could enable peer-to-peer apps](https://blog.vmsplice.net/2023/09/how-nostr-could-enable-peer-to-peer-apps.html)

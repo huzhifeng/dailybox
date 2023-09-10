@@ -1,3 +1,8 @@
+## 20230911
+- [V2EX](https://www.v2ex.com/) | [iPhone 相对 Android 的优势](https://www.v2ex.com/t/972498)
+- [V2EX](https://www.v2ex.com/) | [去的新公司，老板让我自己买电脑去上班。。。。](https://www.v2ex.com/t/972486)
+- [V2EX](https://www.v2ex.com/) | [准备去 KR 旅游，哪里可以买到 5G 的流量卡？](https://www.v2ex.com/t/972470)
+
 ## 20230910
 - [V2EX](https://www.v2ex.com/) | [就事论事地说，华为的高端机型究竟怎么样？](https://www.v2ex.com/t/972369)
 - [V2EX](https://www.v2ex.com/) | [有多少人完全使用命令行管理 git 得](https://www.v2ex.com/t/972261)

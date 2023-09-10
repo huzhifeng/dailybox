@@ -1,3 +1,8 @@
+## 20230911
+- [Phoronix](https://www.phoronix.com/) | [DRM CI Merged Into Linux 6.6 - Linus Torvalds: "Let's See Where It Goes"](https://www.phoronix.com/news/DRM-CI-In-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 WQ Change May Help Out AMD CPUs & Other Systems With Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 SMB Client To Allow Adjusting Cache Time For Directory Contents](https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache)
+
 ## 20230910
 - [Phoronix](https://www.phoronix.com/) | [LoongArch With Linux 6.6 Adds KGDB/KDB, KFence, KASAN, LBT Binary Translation](https://www.phoronix.com/news/Linux-6.6-LoongArch)
 - [Phoronix](https://www.phoronix.com/) | [KSMBD Declared Stable - No Longer "Experimental" - In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)

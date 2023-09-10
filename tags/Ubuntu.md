@@ -1,3 +1,6 @@
+## 20230911
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: A virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
+
 ## 20230909
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03)
 

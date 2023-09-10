@@ -1,3 +1,8 @@
+## 20230911
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【图解RabbitMQ-5】RabbitMQ Web管控台图文介绍](https://blog.csdn.net/2302_79094329/article/details/132730593)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探讨梯度下降：优化机器学习的关键步骤（三）](https://blog.csdn.net/null18/article/details/132777452)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023数学建模国赛BC题所有小问完整解答+数据代码+半成品参考论文](https://blog.csdn.net/2301_77933700/article/details/132755566)
+
 ## 20230909
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [iPhone 信号差或在2025年解决；微软承诺解决 Copilot 版权问题；虚幻引擎 5.3 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132753731)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023高教社杯 国赛数学建模C题思路 - 蔬菜类商品的自动定价与补货决策](https://blog.csdn.net/dc_sinor/article/details/132743643)
