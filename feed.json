@@ -57,6 +57,13 @@
 			"tags": ["拾月", "博客"]
 		},
 		{
+			"channel": "拾月书签",
+			"portal": "https://pocket.skyue.com/",
+			"url": "https://pocket.skyue.com/feed/atom",
+			"category": "博客",
+			"tags": ["拾月", "博客", "拾月书签"]
+		},
+		{
 			"channel": "BMPI",
 			"portal": "https://www.bmpi.dev/",
 			"url": "https://www.bmpi.dev/index.xml",
