@@ -1,3 +1,6 @@
+## 20230911
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [从 Manjaro 切换到 EndeavourOS](https://manateelazycat.github.io/2023/09/10/endeavour-os/)
+
 ## 20230907
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [电动车横向对比](https://manateelazycat.github.io/2023/09/06/electric-car/)
 

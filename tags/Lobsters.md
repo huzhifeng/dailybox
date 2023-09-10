@@ -1,3 +1,8 @@
+## 20230911
+- [Lobsters](https://lobste.rs/) | [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad)
+- [Lobsters](https://lobste.rs/) | [Factorio, Mutation, & Lossiness](https://lobste.rs/s/tuwqjd/factorio_mutation_lossiness)
+- [Lobsters](https://lobste.rs/) | [NixCon 2023 Talks](https://lobste.rs/s/7h9owg/nixcon_2023_talks)
+
 ## 20230910
 - [Lobsters](https://lobste.rs/) | [My mental model of Clojure transducers](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers)
 - [Lobsters](https://lobste.rs/) | [Reflections on LLVM's switch to GitHub pull requests](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull)

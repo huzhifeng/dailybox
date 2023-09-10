@@ -1,3 +1,6 @@
+## 20230911
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.110 Adds Support for the QOI Image Format to All KDE Apps](https://9to5linux.com/kde-frameworks-5-110-adds-support-for-the-qoi-image-format-to-all-kde-apps)
+
 ## 20230910
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45 Release Candidate Arrives with Last-Minute Changes](https://9to5linux.com/gnome-45-release-candidate-arrives-with-last-minute-changes)
 

@@ -1,3 +1,6 @@
+## 20230911
+- [Slashdot](https://developers.slashdot.org/) | [WebAssembly 2023 Survey Finds Enthusiasm - and Some Challenges](https://developers.slashdot.org/story/23/09/10/0653235/webassembly-2023-survey-finds-enthusiasm---and-some-challenges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230910
 - [Slashdot](https://linux.slashdot.org/) | [Meet the Guy Preserving the New History of PC Games, One Linux Port At a Time](https://games.slashdot.org/story/23/09/08/2141232/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

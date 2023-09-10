@@ -1,3 +1,6 @@
+## 20230911
+- [diff.blog](https://diff.blog/) | [What I Have Changed My Mind About in Software Development](https://diff.blog/post/what-i-have-changed-my-mind-about-in-software-development-154676/)
+
 ## 20230909
 - [diff.blog](https://diff.blog/) | [X updates its Terms to prohibit crawling/scraping of its data](https://diff.blog/post/x-updates-its-terms-to-prohibit-crawlingscraping-of-its-data-154532/)
 

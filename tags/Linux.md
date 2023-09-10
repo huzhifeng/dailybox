@@ -1,3 +1,15 @@
+## 20230911
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1120 生成式 AI 对工作岗位的威胁不如其它自动化技术](https://linux.cn/article-16177-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [DRM CI Merged Into Linux 6.6 - Linus Torvalds: "Let's See Where It Goes"](https://www.phoronix.com/news/DRM-CI-In-Linux-6.6)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 WQ Change May Help Out AMD CPUs & Other Systems With Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 SMB Client To Allow Adjusting Cache Time For Directory Contents](https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.110 Adds Support for the QOI Image Format to All KDE Apps](https://9to5linux.com/kde-frameworks-5-110-adds-support-for-the-qoi-image-format-to-all-kde-apps)
+- [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Creating “Reverse WSL” For Running Windows Application On Linux Host](https://blog.kagesenshi.org/2023/09/reverse-wsl.html)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 starts today in Kochi On Sun 10 September 2023](https://bits.debian.org/2023/09/debconf23-starts-today.html)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 welcomes its sponsors!](https://bits.debian.org/2023/09/debconf23-welcomes-sponsors.html)
+- [Planet Debian](https://planet.debian.org/) | [Freexian Collaborators: Debian Contributions: /usr-merge updates, Salsa CI progress, DebConf23 lead-up, and more! (by Utkarsh Gupta)](https://www.freexian.com/blog/debian-contributions-08-2023/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: A virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
+
 ## 20230910
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1119 无人注意，新安装的 Ubuntu 23.04 不支持安装 32 位应用](https://linux.cn/article-16175-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [LoongArch With Linux 6.6 Adds KGDB/KDB, KFence, KASAN, LBT Binary Translation](https://www.phoronix.com/news/Linux-6.6-LoongArch)
