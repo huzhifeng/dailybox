@@ -1,3 +1,19 @@
+## 20230912
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1121 人工智能正在大量“喝水”，你的每个问题都会用掉一瓶水](https://linux.cn/article-16182-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Empowering Open Source at IBC 2023](https://www.collabora.com/news-and-blog/news-and-events/empowering-open-source-at-ibc-2023.html)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Monado SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
+- [Phoronix](https://www.phoronix.com/) | [Intel Fixing Up Sub-NUMA Clustering For Linux So That It Behaves With RDT](https://www.phoronix.com/news/Intel-SNT-RDT-Fixing-Up)
+- [Phoronix](https://www.phoronix.com/) | [Qt 6.6 Wayland Compositor Handoffs Look Promising For More Robust Experience](https://www.phoronix.com/news/Qt-6.6-QtWayland-Handoffs)
+- [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.10 Released With More Performance Improvements, Game/Driver Workarounds](https://www.phoronix.com/news/VKD3D-Proton-2.10)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Debian Edition 6 &#8220;Faye&#8221; Is Now Available for Public Beta Testing](https://9to5linux.com/linux-mint-debian-edition-6-faye-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Aura Linux Laptops Now Come with Wi-Fi 6E, LTE Modem, and TPM 2.0](https://9to5linux.com/tuxedo-aura-linux-laptops-now-come-with-wi-fi-6e-lte-modem-and-tpm-2-0)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-10th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 11 September 1300 UTC](https://neuroblog.fedoraproject.org/2023/09/11/next-open-neurofedora-meeting-11-September-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 392 – Curl and the calamity of CVE](https://opensourcesecurity.io/2023/09/10/episode-392-curl-and-the-calamity-of-cve/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos in Maceió - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-report/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos em Maceió](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-relato/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.4.0 on CRAN: Another Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/09/10#rcpparmadillo_0.12.6.4.0)
+
 ## 20230911
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1120 生成式 AI 对工作岗位的威胁不如其它自动化技术](https://linux.cn/article-16177-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [DRM CI Merged Into Linux 6.6 - Linus Torvalds: "Let's See Where It Goes"](https://www.phoronix.com/news/DRM-CI-In-Linux-6.6)

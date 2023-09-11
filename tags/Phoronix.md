@@ -1,3 +1,8 @@
+## 20230912
+- [Phoronix](https://www.phoronix.com/) | [Intel Fixing Up Sub-NUMA Clustering For Linux So That It Behaves With RDT](https://www.phoronix.com/news/Intel-SNT-RDT-Fixing-Up)
+- [Phoronix](https://www.phoronix.com/) | [Qt 6.6 Wayland Compositor Handoffs Look Promising For More Robust Experience](https://www.phoronix.com/news/Qt-6.6-QtWayland-Handoffs)
+- [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.10 Released With More Performance Improvements, Game/Driver Workarounds](https://www.phoronix.com/news/VKD3D-Proton-2.10)
+
 ## 20230911
 - [Phoronix](https://www.phoronix.com/) | [DRM CI Merged Into Linux 6.6 - Linus Torvalds: "Let's See Where It Goes"](https://www.phoronix.com/news/DRM-CI-In-Linux-6.6)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 WQ Change May Help Out AMD CPUs & Other Systems With Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)

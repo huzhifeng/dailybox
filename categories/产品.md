@@ -1,3 +1,8 @@
+## 20230912
+- [Product Hunt](https://www.producthunt.com) | [Coinfeeds](https://www.producthunt.com/posts/coinfeeds)
+- [Product Hunt](https://www.producthunt.com) | [Rayna UI](https://www.producthunt.com/posts/rayna-ui)
+- [Product Hunt](https://www.producthunt.com) | [Video Translation](https://www.producthunt.com/posts/video-translation)
+
 ## 20230911
 - [Product Hunt](https://www.producthunt.com) | [Cellular](https://www.producthunt.com/posts/cellular)
 - [Product Hunt](https://www.producthunt.com) | [Productive Compass](https://www.producthunt.com/posts/productive-compass)

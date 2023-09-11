@@ -1,3 +1,6 @@
+## 20230912
+- [diff.blog](https://diff.blog/) | [Migrating Arch Linux's packaging infrastructure to GitLab](https://diff.blog/post/migrating-arch-linuxs-packaging-infrastructure-to-gitlab-154743/)
+
 ## 20230911
 - [diff.blog](https://diff.blog/) | [What I Have Changed My Mind About in Software Development](https://diff.blog/post/what-i-have-changed-my-mind-about-in-software-development-154676/)
 

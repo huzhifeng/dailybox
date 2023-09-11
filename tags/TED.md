@@ -1,3 +1,6 @@
+## 20230912
+- [TED Talks Daily](https://www.ted.com/talks) | [Does more freedom at work mean more fulfillment? | Sarah Aviram](https://www.ted.com/talks/sarah_aviram_does_more_freedom_at_work_mean_more_fulfillment_sep_2023?rss)
+
 ## 20230909
 - [TED Talks Daily](https://www.ted.com/talks) | [Our creative relationship with AI is just beginning | K Allado-McDowell](https://www.ted.com/talks/k_allado_mcdowell_our_creative_relationship_with_ai_is_just_beginning?rss)
 

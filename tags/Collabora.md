@@ -1,3 +1,7 @@
+## 20230912
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Empowering Open Source at IBC 2023](https://www.collabora.com/news-and-blog/news-and-events/empowering-open-source-at-ibc-2023.html)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Monado SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
+
 ## 20230908
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 

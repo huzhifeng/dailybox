@@ -1,3 +1,8 @@
+## 20230912
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos in Maceió - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-report/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos em Maceió](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-relato/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.4.0 on CRAN: Another Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/09/10#rcpparmadillo_0.12.6.4.0)
+
 ## 20230911
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 starts today in Kochi On Sun 10 September 2023](https://bits.debian.org/2023/09/debconf23-starts-today.html)
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 welcomes its sponsors!](https://bits.debian.org/2023/09/debconf23-welcomes-sponsors.html)

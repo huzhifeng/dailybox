@@ -1,3 +1,8 @@
+## 20230912
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Debian Edition 6 &#8220;Faye&#8221; Is Now Available for Public Beta Testing](https://9to5linux.com/linux-mint-debian-edition-6-faye-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Aura Linux Laptops Now Come with Wi-Fi 6E, LTE Modem, and TPM 2.0](https://9to5linux.com/tuxedo-aura-linux-laptops-now-come-with-wi-fi-6e-lte-modem-and-tpm-2-0)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-10th-2023)
+
 ## 20230911
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.110 Adds Support for the QOI Image Format to All KDE Apps](https://9to5linux.com/kde-frameworks-5-110-adds-support-for-the-qoi-image-format-to-all-kde-apps)
 

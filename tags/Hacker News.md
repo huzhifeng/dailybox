@@ -1,3 +1,6 @@
+## 20230912
+- [Hacker News](https://news.ycombinator.com/front) | [UK air traffic control meltdown](https://news.ycombinator.com/item?id=37461695)
+
 ## 20230911
 - [Hacker News](https://news.ycombinator.com/front) | [Nginx Unit – Universal web app server](https://news.ycombinator.com/item?id=37453854)
 

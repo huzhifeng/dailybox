@@ -1,3 +1,8 @@
+## 20230912
+- [Lobsters](https://lobste.rs/) | [The power of prolog](https://lobste.rs/s/2jd0t1/power_prolog)
+- [Lobsters](https://lobste.rs/) | [We need deterministic installs, not just immutable OS's](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just)
+- [Lobsters](https://lobste.rs/) | [ZFS for Dummies](https://lobste.rs/s/c5we7j/zfs_for_dummies)
+
 ## 20230911
 - [Lobsters](https://lobste.rs/) | [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad)
 - [Lobsters](https://lobste.rs/) | [Factorio, Mutation, & Lossiness](https://lobste.rs/s/tuwqjd/factorio_mutation_lossiness)
