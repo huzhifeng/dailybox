@@ -1,3 +1,7 @@
+## 20230912
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 11 September 1300 UTC](https://neuroblog.fedoraproject.org/2023/09/11/next-open-neurofedora-meeting-11-September-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 392 – Curl and the calamity of CVE](https://opensourcesecurity.io/2023/09/10/episode-392-curl-and-the-calamity-of-cve/)
+
 ## 20230911
 - [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Creating “Reverse WSL” For Running Windows Application On Linux Host](https://blog.kagesenshi.org/2023/09/reverse-wsl.html)
 

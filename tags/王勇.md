@@ -1,3 +1,6 @@
+## 20230912
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [Fcitx 最佳配置实践 2023-09-11](https://manateelazycat.github.io/2023/09/11/fcitx-best-config/)
+
 ## 20230911
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [从 Manjaro 切换到 EndeavourOS](https://manateelazycat.github.io/2023/09/10/endeavour-os/)
 

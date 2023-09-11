@@ -1,3 +1,10 @@
+## 20230912
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 11 September 1300 UTC](https://neuroblog.fedoraproject.org/2023/09/11/next-open-neurofedora-meeting-11-September-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 392 – Curl and the calamity of CVE](https://opensourcesecurity.io/2023/09/10/episode-392-curl-and-the-calamity-of-cve/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos in Maceió - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-report/)
+- [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos em Maceió](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-relato/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppArmadillo 0.12.6.4.0 on CRAN: Another Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/09/10#rcpparmadillo_0.12.6.4.0)
+
 ## 20230911
 - [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Creating “Reverse WSL” For Running Windows Application On Linux Host](https://blog.kagesenshi.org/2023/09/reverse-wsl.html)
 - [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 starts today in Kochi On Sun 10 September 2023](https://bits.debian.org/2023/09/debconf23-starts-today.html)

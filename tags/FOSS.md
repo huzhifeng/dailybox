@@ -1,3 +1,6 @@
+## 20230912
+- [It's FOSS](https://itsfoss.com/) | [7 Lesser Know but Unique Web Browsers For You to Explore](https://itsfoss.com/unique-web-browsers/)
+
 ## 20230911
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu Trivia Quiz](https://itsfoss.com/quiz/know-ubuntu/)
 

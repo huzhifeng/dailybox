@@ -1,3 +1,8 @@
+## 20230912
+- [V2EX](https://www.v2ex.com/) | [做个调查：大家一天几杯 coffee](https://www.v2ex.com/t/972754)
+- [V2EX](https://www.v2ex.com/) | [你“鸡娃”的时候有没有想过，孩子长大之后会不会恨你？](https://www.v2ex.com/t/972714)
+- [V2EX](https://www.v2ex.com/) | [猫主食罐头半价优惠，免费送 20 罐，欢迎盖楼抽免单](https://www.v2ex.com/t/972711)
+
 ## 20230911
 - [V2EX](https://www.v2ex.com/) | [iPhone 相对 Android 的优势](https://www.v2ex.com/t/972498)
 - [V2EX](https://www.v2ex.com/) | [去的新公司，老板让我自己买电脑去上班。。。。](https://www.v2ex.com/t/972486)

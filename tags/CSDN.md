@@ -1,3 +1,9 @@
+## 20230912
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [张勇卸任，蔡崇信、吴泳铭履新阿里集团董事长、CEO；马斯克称 iPhone 换代毫无新意；PPT 开发者去世|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132800275)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [腾讯云AI绘画：探究AI创意与技术的新边界](https://blog.csdn.net/guorui_java/article/details/132769369)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [简述SprigMvc、SprigMvc快速使用案例（用户登录检测和用户退出）](https://blog.csdn.net/weixin_45686922/article/details/132777326)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [地图结构 | 图解占据栅格地图原理(附Matlab建图实验)](https://blog.csdn.net/FRIGIDWINTER/article/details/132788639)
+
 ## 20230911
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【图解RabbitMQ-5】RabbitMQ Web管控台图文介绍](https://blog.csdn.net/2302_79094329/article/details/132730593)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探讨梯度下降：优化机器学习的关键步骤（三）](https://blog.csdn.net/null18/article/details/132777452)

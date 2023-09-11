@@ -1,3 +1,7 @@
+## 20230912
+- [LibHunt](https://www.libhunt.com/) | [swirl-search](https://www.libhunt.com/r/swirl-search)
+- [LibHunt](https://www.libhunt.com/) | [NGINX Unit](https://www.libhunt.com/r/unit)
+
 ## 20230910
 - [LibHunt](https://www.libhunt.com/) | [ClickHouse](https://www.libhunt.com/r/ClickHouse)
 
