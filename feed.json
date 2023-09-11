@@ -471,6 +471,14 @@
 			"tags": ["Lobsters"]
 		},
 		{
+			"channel": "Lemmy",
+			"portal": "https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay",
+			"url": "https://lemmy.world/feeds/all.xml?sort=TopDay",
+			"_comment": "https://lemm.ee/feeds/all.xml?sort=TopDay",
+			"category": "资讯",
+			"tags": ["Lemmy"]
+		},
+		{
 			"channel": "Slashdot",
 			"portal": "https://linux.slashdot.org/",
 			"url": "https://rss.slashdot.org/Slashdot/slashdotLinux",
