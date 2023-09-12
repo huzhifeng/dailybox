@@ -1,3 +1,8 @@
+## 20230913
+- [Phoronix](https://www.phoronix.com/) | [Coreboot-Based Dasharo Updated For MSI Z690-A With Raptor Lake S, MSI FLASHBIOS](https://www.phoronix.com/news/Dasharo-1.1.2-MSI-Z690-A)
+- [Phoronix](https://www.phoronix.com/) | [AMD AOMP 18.0-0 Compiler Brings Support For HIP Bundles, Zero Copy For MI300A](https://www.phoronix.com/news/AMD-AOMP-18.0-0-Compiler)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Features Include The EEVDF Scheduler, Shadow Stack, Intel IVSC, AMD DBC & More](https://www.phoronix.com/review/linux-66-features)
+
 ## 20230912
 - [Phoronix](https://www.phoronix.com/) | [Intel Fixing Up Sub-NUMA Clustering For Linux So That It Behaves With RDT](https://www.phoronix.com/news/Intel-SNT-RDT-Fixing-Up)
 - [Phoronix](https://www.phoronix.com/) | [Qt 6.6 Wayland Compositor Handoffs Look Promising For More Robust Experience](https://www.phoronix.com/news/Qt-6.6-QtWayland-Handoffs)

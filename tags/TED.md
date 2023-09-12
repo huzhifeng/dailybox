@@ -1,3 +1,7 @@
+## 20230913
+- [TED Talks Daily](https://www.ted.com/talks) | [Birds aren't real? How a conspiracy takes flight | Peter McIndoe](https://www.ted.com/talks/peter_mcindoe_birds_aren_t_real_how_a_conspiracy_takes_flight?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [How to succeed in your new job | Gorick Ng](https://www.ted.com/talks/gorick_ng_how_to_succeed_in_your_new_job?rss)
+
 ## 20230912
 - [TED Talks Daily](https://www.ted.com/talks) | [Does more freedom at work mean more fulfillment? | Sarah Aviram](https://www.ted.com/talks/sarah_aviram_does_more_freedom_at_work_mean_more_fulfillment_sep_2023?rss)
 

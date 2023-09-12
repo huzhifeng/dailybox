@@ -1,3 +1,7 @@
+## 20230913
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: A Maze of Twisty Little Pixels, All Tiny](https://changelog.complete.org/archives/10567-a-maze-of-twisty-little-pixels-all-tiny)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: How I Keep my Life in Git](https://blog.trueelena.org/blog/2023/09/12-how_i_keep_my_life_in_git/index.html)
+
 ## 20230912
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos in Maceió - Brazil](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-report/)
 - [Planet Debian](https://planet.debian.org/) | [Debian Brasil: Debian Day 30 anos em Maceió](https://debianbrasil.org.br/blog/debianday-30-anos-maceio-relato/)

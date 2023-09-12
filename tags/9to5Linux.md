@@ -1,3 +1,7 @@
+## 20230913
+- [9to5Linux](https://9to5linux.com/) | [Purism Launches New Secure Librem 11 Tablet PC Powered by Linux](https://9to5linux.com/purism-launches-new-secure-librem-11-tablet-pc-powered-by-linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.8 Improves Hybrid Sleep and Monitoring of NVIDIA GPUs](https://9to5linux.com/kde-plasma-5-27-8-improves-hybrid-sleep-and-monitoring-of-nvidia-gpus)
+
 ## 20230912
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint Debian Edition 6 &#8220;Faye&#8221; Is Now Available for Public Beta Testing](https://9to5linux.com/linux-mint-debian-edition-6-faye-is-now-available-for-public-beta-testing)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Aura Linux Laptops Now Come with Wi-Fi 6E, LTE Modem, and TPM 2.0](https://9to5linux.com/tuxedo-aura-linux-laptops-now-come-with-wi-fi-6e-lte-modem-and-tpm-2-0)

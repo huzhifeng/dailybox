@@ -1,3 +1,8 @@
+## 20230913
+- [Lobsters](https://lobste.rs/) | [Apple Event for September 12th, 2023](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023)
+- [Lobsters](https://lobste.rs/) | [Hidden features in Firefox (2020)](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020)
+- [Lobsters](https://lobste.rs/) | [Bcachefs Merged Into Linux-Next](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next)
+
 ## 20230912
 - [Lobsters](https://lobste.rs/) | [The power of prolog](https://lobste.rs/s/2jd0t1/power_prolog)
 - [Lobsters](https://lobste.rs/) | [We need deterministic installs, not just immutable OS's](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just)
