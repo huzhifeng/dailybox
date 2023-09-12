@@ -441,6 +441,13 @@
 			"tags": ["优质长文分享会"]
 		},
 		{
+			"channel": "Kagi Small Web",
+			"portal": "https://kagi.com/smallweb",
+			"url": "https://kagi.com/api/v1/smallweb/feed",
+			"category": "漫游",
+			"tags": ["Kaji", "Small Web"]
+		},
+		{
 			"channel": "豆瓣书评",
 			"portal": "https://book.douban.com/review/best/",
 			"url": "https://www.douban.com/feed/review/book",
