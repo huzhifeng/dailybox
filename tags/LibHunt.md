@@ -1,3 +1,8 @@
+## 20230913
+- [LibHunt](https://www.libhunt.com/) | [dspy](https://www.libhunt.com/r/dspy)
+- [LibHunt](https://www.libhunt.com/) | [libwebp](https://www.libhunt.com/r/libwebp)
+- [LibHunt](https://www.libhunt.com/) | [Stable-Diffusion](https://www.libhunt.com/r/FurkanGozukara/Stable-Diffusion)
+
 ## 20230912
 - [LibHunt](https://www.libhunt.com/) | [swirl-search](https://www.libhunt.com/r/swirl-search)
 - [LibHunt](https://www.libhunt.com/) | [NGINX Unit](https://www.libhunt.com/r/unit)

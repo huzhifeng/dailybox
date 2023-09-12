@@ -1,3 +1,6 @@
+## 20230913
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/12/finished-reading-yumi.html)
+
 ## 20230912
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 11 September 1300 UTC](https://neuroblog.fedoraproject.org/2023/09/11/next-open-neurofedora-meeting-11-September-1300-utc.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 392 – Curl and the calamity of CVE](https://opensourcesecurity.io/2023/09/10/episode-392-curl-and-the-calamity-of-cve/)

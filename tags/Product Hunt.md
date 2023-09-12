@@ -1,3 +1,8 @@
+## 20230913
+- [Product Hunt](https://www.producthunt.com) | [YouTab](https://www.producthunt.com/posts/youtab-2)
+- [Product Hunt](https://www.producthunt.com) | [Productroadmap.ai by Ignition](https://www.producthunt.com/posts/productroadmap-ai-by-ignition)
+- [Product Hunt](https://www.producthunt.com) | [Pocket Hansei](https://www.producthunt.com/posts/pocket-hansei)
+
 ## 20230912
 - [Product Hunt](https://www.producthunt.com) | [Coinfeeds](https://www.producthunt.com/posts/coinfeeds)
 - [Product Hunt](https://www.producthunt.com) | [Rayna UI](https://www.producthunt.com/posts/rayna-ui)

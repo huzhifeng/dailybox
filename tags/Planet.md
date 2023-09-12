@@ -1,3 +1,8 @@
+## 20230913
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/12/finished-reading-yumi.html)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: A Maze of Twisty Little Pixels, All Tiny](https://changelog.complete.org/archives/10567-a-maze-of-twisty-little-pixels-all-tiny)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: How I Keep my Life in Git](https://blog.trueelena.org/blog/2023/09/12-how_i_keep_my_life_in_git/index.html)
+
 ## 20230912
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 11 September 1300 UTC](https://neuroblog.fedoraproject.org/2023/09/11/next-open-neurofedora-meeting-11-September-1300-utc.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 392 – Curl and the calamity of CVE](https://opensourcesecurity.io/2023/09/10/episode-392-curl-and-the-calamity-of-cve/)

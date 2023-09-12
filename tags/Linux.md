@@ -1,3 +1,17 @@
+## 20230913
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1122 微软将取消 Windows 中的第三方打印机驱动程序](https://linux.cn/article-16185-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How Red Hat enhances the developer experience](https://developers.redhat.com/articles/2023/09/12/how-red-hat-enhances-developer-experience)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to automate AWS network using Ansible Automation](https://developers.redhat.com/articles/2023/09/12/how-automate-aws-network-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [A Node.js success story at the electrical training ALLIANCE](https://developers.redhat.com/articles/2023/09/12/nodejs-success-story-electrical-training-alliance)
+- [Phoronix](https://www.phoronix.com/) | [Coreboot-Based Dasharo Updated For MSI Z690-A With Raptor Lake S, MSI FLASHBIOS](https://www.phoronix.com/news/Dasharo-1.1.2-MSI-Z690-A)
+- [Phoronix](https://www.phoronix.com/) | [AMD AOMP 18.0-0 Compiler Brings Support For HIP Bundles, Zero Copy For MI300A](https://www.phoronix.com/news/AMD-AOMP-18.0-0-Compiler)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Features Include The EEVDF Scheduler, Shadow Stack, Intel IVSC, AMD DBC & More](https://www.phoronix.com/review/linux-66-features)
+- [9to5Linux](https://9to5linux.com/) | [Purism Launches New Secure Librem 11 Tablet PC Powered by Linux](https://9to5linux.com/purism-launches-new-secure-librem-11-tablet-pc-powered-by-linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.8 Improves Hybrid Sleep and Monitoring of NVIDIA GPUs](https://9to5linux.com/kde-plasma-5-27-8-improves-hybrid-sleep-and-monitoring-of-nvidia-gpus)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/12/finished-reading-yumi.html)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: A Maze of Twisty Little Pixels, All Tiny](https://changelog.complete.org/archives/10567-a-maze-of-twisty-little-pixels-all-tiny)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: How I Keep my Life in Git](https://blog.trueelena.org/blog/2023/09/12-how_i_keep_my_life_in_git/index.html)
+
 ## 20230912
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1121 人工智能正在大量“喝水”，你的每个问题都会用掉一瓶水](https://linux.cn/article-16182-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Empowering Open Source at IBC 2023](https://www.collabora.com/news-and-blog/news-and-events/empowering-open-source-at-ibc-2023.html)

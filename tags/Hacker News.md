@@ -1,3 +1,8 @@
+## 20230913
+- [Hacker News](https://news.ycombinator.com/front) | [iPhone 15 and iPhone 15 Plus](https://news.ycombinator.com/item?id=37485290)
+- [Hacker News](https://news.ycombinator.com/front) | [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
+- [Hacker News](https://news.ycombinator.com/front) | [We built the fastest CI and it failed](https://news.ycombinator.com/item?id=37481513)
+
 ## 20230912
 - [Hacker News](https://news.ycombinator.com/front) | [UK air traffic control meltdown](https://news.ycombinator.com/item?id=37461695)
 

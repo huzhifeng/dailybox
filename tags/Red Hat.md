@@ -1,3 +1,8 @@
+## 20230913
+- [Red Hat Developer](https://developers.redhat.com/) | [How Red Hat enhances the developer experience](https://developers.redhat.com/articles/2023/09/12/how-red-hat-enhances-developer-experience)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to automate AWS network using Ansible Automation](https://developers.redhat.com/articles/2023/09/12/how-automate-aws-network-using-ansible-automation)
+- [Red Hat Developer](https://developers.redhat.com/) | [A Node.js success story at the electrical training ALLIANCE](https://developers.redhat.com/articles/2023/09/12/nodejs-success-story-electrical-training-alliance)
+
 ## 20230909
 - [Red Hat Developer](https://developers.redhat.com/) | [How to trigger jobs manually in Packit](https://developers.redhat.com/articles/2023/09/08/how-trigger-jobs-manually-packit)
 
