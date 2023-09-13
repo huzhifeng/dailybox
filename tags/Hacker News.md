@@ -1,3 +1,7 @@
+## 20230914
+- [Hacker News](https://news.ycombinator.com/front) | [Bug in macOS 14 Sonoma prevents our app from working](https://news.ycombinator.com/item?id=37498979)
+- [Hacker News](https://news.ycombinator.com/front) | [Any sufficiently advanced uninstaller is indistinguishable from malware](https://news.ycombinator.com/item?id=37491862)
+
 ## 20230913
 - [Hacker News](https://news.ycombinator.com/front) | [iPhone 15 and iPhone 15 Plus](https://news.ycombinator.com/item?id=37485290)
 - [Hacker News](https://news.ycombinator.com/front) | [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)

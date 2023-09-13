@@ -1,3 +1,6 @@
+## 20230914
+- [Red Hat Developer](https://developers.redhat.com/) | [Introducing Ansible Molecule with Ansible Automation Platform](https://developers.redhat.com/articles/2023/09/13/introducing-ansible-molecule-ansible-automation-platform)
+
 ## 20230913
 - [Red Hat Developer](https://developers.redhat.com/) | [How Red Hat enhances the developer experience](https://developers.redhat.com/articles/2023/09/12/how-red-hat-enhances-developer-experience)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to automate AWS network using Ansible Automation](https://developers.redhat.com/articles/2023/09/12/how-automate-aws-network-using-ansible-automation)

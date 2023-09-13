@@ -1,3 +1,8 @@
+## 20230914
+- [Lobsters](https://lobste.rs/) | [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust)
+- [Lobsters](https://lobste.rs/) | [Pagefind v1.0.0 — Stable static search at scale](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at)
+- [Lobsters](https://lobste.rs/) | [Ghostty and Some Useful Zig Patterns](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns)
+
 ## 20230913
 - [Lobsters](https://lobste.rs/) | [Apple Event for September 12th, 2023](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023)
 - [Lobsters](https://lobste.rs/) | [Hidden features in Firefox (2020)](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020)
