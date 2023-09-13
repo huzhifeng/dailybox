@@ -1,3 +1,6 @@
+## 20230914
+- [diff.blog](https://diff.blog/) | [WASI support in Go](https://diff.blog/post/wasi-support-in-go-154937/)
+
 ## 20230912
 - [diff.blog](https://diff.blog/) | [Migrating Arch Linux's packaging infrastructure to GitLab](https://diff.blog/post/migrating-arch-linuxs-packaging-infrastructure-to-gitlab-154743/)
 

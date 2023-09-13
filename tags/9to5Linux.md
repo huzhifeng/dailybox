@@ -1,3 +1,7 @@
+## 20230914
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Ubuntu 23.10 Will Bring Back ZFS on Root Installation Option](https://9to5linux.com/looks-like-ubuntu-23-10-will-bring-back-zfs-on-root-installation-option)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.4 Reaches End of Life, Upgrade to Linux Kernel 6.5 Now](https://9to5linux.com/linux-kernel-6-4-reaches-end-of-life-upgrade-to-linux-kernel-6-5-now)
+
 ## 20230913
 - [9to5Linux](https://9to5linux.com/) | [Purism Launches New Secure Librem 11 Tablet PC Powered by Linux](https://9to5linux.com/purism-launches-new-secure-librem-11-tablet-pc-powered-by-linux)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.8 Improves Hybrid Sleep and Monitoring of NVIDIA GPUs](https://9to5linux.com/kde-plasma-5-27-8-improves-hybrid-sleep-and-monitoring-of-nvidia-gpus)

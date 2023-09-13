@@ -1,3 +1,7 @@
+## 20230914
+- [TED Talks Daily](https://www.ted.com/talks) | [Can the US and China take on climate change together? | Changhua Wu](https://www.ted.com/talks/changhua_wu_can_the_us_and_china_take_on_climate_change_together?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [The single most important parenting strategy | Becky Kennedy](https://www.ted.com/talks/becky_kennedy_the_single_most_important_parenting_strategy?rss)
+
 ## 20230913
 - [TED Talks Daily](https://www.ted.com/talks) | [Birds aren't real? How a conspiracy takes flight | Peter McIndoe](https://www.ted.com/talks/peter_mcindoe_birds_aren_t_real_how_a_conspiracy_takes_flight?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [How to succeed in your new job | Gorick Ng](https://www.ted.com/talks/gorick_ng_how_to_succeed_in_your_new_job?rss)

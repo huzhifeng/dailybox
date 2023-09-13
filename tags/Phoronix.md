@@ -1,3 +1,8 @@
+## 20230914
+- [Phoronix](https://www.phoronix.com/) | [A Nasty Performance Regression For Some Intel Systems Wound Up In Linux 6.5 Stable](https://www.phoronix.com/review/linux65-intel-regression)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Restores ZFS File-System Support In Its Installer](https://www.phoronix.com/news/Ubuntu-23.10-ZFS-Install)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 40 Looks To Offer KDE Plasma 6 Desktop, Drop The KDE X11 Session](https://www.phoronix.com/news/Fedora-40-KDE-Plasma-6-Plan)
+
 ## 20230913
 - [Phoronix](https://www.phoronix.com/) | [Coreboot-Based Dasharo Updated For MSI Z690-A With Raptor Lake S, MSI FLASHBIOS](https://www.phoronix.com/news/Dasharo-1.1.2-MSI-Z690-A)
 - [Phoronix](https://www.phoronix.com/) | [AMD AOMP 18.0-0 Compiler Brings Support For HIP Bundles, Zero Copy For MI300A](https://www.phoronix.com/news/AMD-AOMP-18.0-0-Compiler)

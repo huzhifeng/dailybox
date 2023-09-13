@@ -1,3 +1,6 @@
+## 20230914
+- [Collabora](https://www.collabora.com/news-and-blog/) | [WhisperSpeech: Exploring New Horizons in Text-to-Speech Technology](https://www.collabora.com/news-and-blog/blog/2023/09/13/whisperspeech-exploring-new-horizons-in-text-to-speech-technology/)
+
 ## 20230912
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Empowering Open Source at IBC 2023](https://www.collabora.com/news-and-blog/news-and-events/empowering-open-source-at-ibc-2023.html)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Monado SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)

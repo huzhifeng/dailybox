@@ -1,3 +1,8 @@
+## 20230914
+- [Product Hunt](https://www.producthunt.com) | [InterviewSpark](https://www.producthunt.com/posts/interviewspark)
+- [Product Hunt](https://www.producthunt.com) | [Poised](https://www.producthunt.com/posts/poised-2)
+- [Product Hunt](https://www.producthunt.com) | [Solidroad](https://www.producthunt.com/posts/solidroad)
+
 ## 20230913
 - [Product Hunt](https://www.producthunt.com) | [YouTab](https://www.producthunt.com/posts/youtab-2)
 - [Product Hunt](https://www.producthunt.com) | [Productroadmap.ai by Ignition](https://www.producthunt.com/posts/productroadmap-ai-by-ignition)

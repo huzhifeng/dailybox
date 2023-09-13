@@ -1,3 +1,10 @@
+## 20230914
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 36 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-36-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Major Hayden: Mounting the AWS Elastic File Store on Fedora](https://major.io/p/aws-elastic-file-system-fedora/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploy fully configured VMs in minutes on Google Cloud, using gcloud CLI and cloud-init](https://ubuntu.com//blog/deploy-fully-configured-vms-in-minutes-on-google-cloud-using-gcloud-cli-and-cloud-init)
+
 ## 20230913
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/12/finished-reading-yumi.html)
 - [Planet Debian](https://planet.debian.org/) | [John Goerzen: A Maze of Twisty Little Pixels, All Tiny](https://changelog.complete.org/archives/10567-a-maze-of-twisty-little-pixels-all-tiny)

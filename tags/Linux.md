@@ -1,3 +1,18 @@
+## 20230914
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1123 无人察觉：窃取密码的 Linux 木马已偷偷下载 3 年](https://linux.cn/article-16188-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [WhisperSpeech: Exploring New Horizons in Text-to-Speech Technology](https://www.collabora.com/news-and-blog/blog/2023/09/13/whisperspeech-exploring-new-horizons-in-text-to-speech-technology/)
+- [Red Hat Developer](https://developers.redhat.com/) | [Introducing Ansible Molecule with Ansible Automation Platform](https://developers.redhat.com/articles/2023/09/13/introducing-ansible-molecule-ansible-automation-platform)
+- [Phoronix](https://www.phoronix.com/) | [A Nasty Performance Regression For Some Intel Systems Wound Up In Linux 6.5 Stable](https://www.phoronix.com/review/linux65-intel-regression)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Restores ZFS File-System Support In Its Installer](https://www.phoronix.com/news/Ubuntu-23.10-ZFS-Install)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 40 Looks To Offer KDE Plasma 6 Desktop, Drop The KDE X11 Session](https://www.phoronix.com/news/Fedora-40-KDE-Plasma-6-Plan)
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Ubuntu 23.10 Will Bring Back ZFS on Root Installation Option](https://9to5linux.com/looks-like-ubuntu-23-10-will-bring-back-zfs-on-root-installation-option)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.4 Reaches End of Life, Upgrade to Linux Kernel 6.5 Now](https://9to5linux.com/linux-kernel-6-4-reaches-end-of-life-upgrade-to-linux-kernel-6-5-now)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 36 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-36-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Major Hayden: Mounting the AWS Elastic File Store on Fedora](https://major.io/p/aws-elastic-file-system-fedora/)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploy fully configured VMs in minutes on Google Cloud, using gcloud CLI and cloud-init](https://ubuntu.com//blog/deploy-fully-configured-vms-in-minutes-on-google-cloud-using-gcloud-cli-and-cloud-init)
+
 ## 20230913
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1122 微软将取消 Windows 中的第三方打印机驱动程序](https://linux.cn/article-16185-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How Red Hat enhances the developer experience](https://developers.redhat.com/articles/2023/09/12/how-red-hat-enhances-developer-experience)

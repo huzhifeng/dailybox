@@ -1,3 +1,8 @@
+## 20230914
+- [LibHunt](https://www.libhunt.com/) | [PowerPipe](https://www.libhunt.com/r/PowerPipe)
+- [LibHunt](https://www.libhunt.com/) | [textual-web](https://www.libhunt.com/r/textual-web)
+- [LibHunt](https://www.libhunt.com/) | [simonwillisonblog](https://www.libhunt.com/r/simonwillisonblog)
+
 ## 20230913
 - [LibHunt](https://www.libhunt.com/) | [dspy](https://www.libhunt.com/r/dspy)
 - [LibHunt](https://www.libhunt.com/) | [libwebp](https://www.libhunt.com/r/libwebp)
