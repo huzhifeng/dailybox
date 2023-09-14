@@ -441,6 +441,13 @@
 			"tags": ["优质长文分享会"]
 		},
 		{
+			"channel": "Medium Trending",
+			"portal": "https://medium.com/tag/trending",
+			"url": "https://medium.com/feed/tag/trending",
+			"category": "漫游",
+			"tags": ["Medium"]
+		},
+		{
 			"channel": "Kagi Small Web",
 			"portal": "https://kagi.com/smallweb",
 			"url": "https://kagi.com/api/v1/smallweb/feed",
