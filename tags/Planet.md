@@ -1,3 +1,7 @@
+## 20230915
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE neon user edition updates! Debian updates, Snaps on hold.](https://www.scarlettgatelymoore.dev/kde-kde-neon-user-edition-updates-debian-updates-snaps-on-hold/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E264 Tudo a Postos](https://podcastubuntuportugal.org/e264/)
+
 ## 20230914
 - [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 36 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-36-2023/)

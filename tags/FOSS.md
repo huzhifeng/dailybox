@@ -1,3 +1,7 @@
+## 20230915
+- [It's FOSS](https://itsfoss.com/) | [Install VSCodium on Ubuntu](https://itsfoss.com/install-vscodium-ubuntu/)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.37: Unique Browsers, LibreOffice Tricks, Linux Malware and More](https://itsfoss.com/newsletter/foss-weekly-23-37/)
+
 ## 20230913
 - [It's FOSS](https://itsfoss.com/) | [Access USB from Virtual Machine in VirtualBox on Linux](https://itsfoss.com/virtualbox-access-usb/)
 

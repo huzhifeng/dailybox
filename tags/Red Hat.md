@@ -1,3 +1,6 @@
+## 20230915
+- [Red Hat Developer](https://developers.redhat.com/) | [How to configure RHEL as a workstation during installation](https://developers.redhat.com/articles/2023/09/14/how-configure-rhel-workstation-during-installation)
+
 ## 20230914
 - [Red Hat Developer](https://developers.redhat.com/) | [Introducing Ansible Molecule with Ansible Automation Platform](https://developers.redhat.com/articles/2023/09/13/introducing-ansible-molecule-ansible-automation-platform)
 

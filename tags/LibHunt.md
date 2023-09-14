@@ -1,3 +1,7 @@
+## 20230915
+- [LibHunt](https://www.libhunt.com/) | [Godot](https://www.libhunt.com/r/godot)
+- [LibHunt](https://www.libhunt.com/) | [uswds](https://www.libhunt.com/r/uswds)
+
 ## 20230914
 - [LibHunt](https://www.libhunt.com/) | [PowerPipe](https://www.libhunt.com/r/PowerPipe)
 - [LibHunt](https://www.libhunt.com/) | [textual-web](https://www.libhunt.com/r/textual-web)

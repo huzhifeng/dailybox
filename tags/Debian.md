@@ -1,3 +1,6 @@
+## 20230915
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE neon user edition updates! Debian updates, Snaps on hold.](https://www.scarlettgatelymoore.dev/kde-kde-neon-user-edition-updates-debian-updates-snaps-on-hold/)
+
 ## 20230914
 - [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
 

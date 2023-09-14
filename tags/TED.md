@@ -1,3 +1,6 @@
+## 20230915
+- [TED Talks Daily](https://www.ted.com/talks) | [How to solve the world's biggest problems | Natalie Cargill](https://www.ted.com/talks/natalie_cargill_how_to_solve_the_world_s_biggest_problems?rss)
+
 ## 20230914
 - [TED Talks Daily](https://www.ted.com/talks) | [Can the US and China take on climate change together? | Changhua Wu](https://www.ted.com/talks/changhua_wu_can_the_us_and_china_take_on_climate_change_together?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [The single most important parenting strategy | Becky Kennedy](https://www.ted.com/talks/becky_kennedy_the_single_most_important_parenting_strategy?rss)

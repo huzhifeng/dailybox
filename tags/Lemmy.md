@@ -1,3 +1,8 @@
+## 20230915
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Lemmy World is now on Matrix](https://matrix.to/#/#space:lemmy.world)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Creators of Slay the Spire will migrate their next game to a new engine if Unity doesn't completely revert their changes](https://nitter.net/pic/orig/media%2FF576r-iaUAAKb1s.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [I never understood this logic](https://lemmy.sdf.org/pictrs/image/814a1260-65d5-4234-9819-c0ee30cae3a5.png)
+
 ## 20230914
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Defederated from Feddit.nl](https://lemmy.world/post/4985465)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The EU has finally won this one!](https://feddit.de/pictrs/image/01286cd7-fa91-440d-8b1a-9351e26044e4.webp)

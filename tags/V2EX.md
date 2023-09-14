@@ -1,3 +1,8 @@
+## 20230915
+- [V2EX](https://www.v2ex.com/) | [为什么市场上求职的一本二本学生都那么水](https://www.v2ex.com/t/973818)
+- [V2EX](https://www.v2ex.com/) | [iPhone 用户为什么永远觉得安卓会卡](https://www.v2ex.com/t/973730)
+- [V2EX](https://www.v2ex.com/) | [13 是否有必要换 15](https://www.v2ex.com/t/973716)
+
 ## 20230914
 - [V2EX](https://www.v2ex.com/) | [十年 iPhone 用户，因为 14pro 体验槽糕看完发布会准备转安卓试试了，求推荐安卓手机](https://www.v2ex.com/t/973410)
 - [V2EX](https://www.v2ex.com/) | [国庆计划开车 2000 多公里，有什么建议或心得吗？](https://www.v2ex.com/t/973375)
