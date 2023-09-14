@@ -1,3 +1,6 @@
+## 20230915
+- [Slashdot](https://linux.slashdot.org/) | [Password-Stealing Linux Malware Served For 3 Years and No One Noticed](https://yro.slashdot.org/story/23/09/13/2331208/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230912
 - [Slashdot](https://developers.slashdot.org/) | [IEEE Specctrum Announces Top Programming Languages of 2023: Python and SQL](https://developers.slashdot.org/story/23/09/11/023222/ieee-specctrum-announces-top-programming-languages-of-2023-python-and-sql?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,15 @@
+## 20230915
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1124 Unity 新的按安装次数定价激怒了游戏开发社区](https://linux.cn/article-16191-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to configure RHEL as a workstation during installation](https://developers.redhat.com/articles/2023/09/14/how-configure-rhel-workstation-during-installation)
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Released With More Performance Improvements, SIMD For x86 & Arm](https://www.phoronix.com/news/PostgreSQL-16-Released)
+- [Phoronix](https://www.phoronix.com/) | [sdl12-compat 1.2.66 Gets More Games/Software Working On This SDL2 Portability Layer](https://www.phoronix.com/news/sdl12-compat-1.2.66)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Delivers Some Impressive Gains For AMD EPYC 9754 "Bergamo" Server Performance](https://www.phoronix.com/review/linux-66-bergamo)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.1 Is Now Available for Download with More Than 120 Fixes](https://9to5linux.com/libreoffice-7-6-1-is-now-available-for-download-with-more-than-120-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.1 Improves Dolphin, Gwenview, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-08-1-improves-dolphin-gwenview-kdenlive-and-other-kde-apps)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE neon user edition updates! Debian updates, Snaps on hold.](https://www.scarlettgatelymoore.dev/kde-kde-neon-user-edition-updates-debian-updates-snaps-on-hold/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E264 Tudo a Postos](https://podcastubuntuportugal.org/e264/)
+- [Slashdot](https://linux.slashdot.org/) | [Password-Stealing Linux Malware Served For 3 Years and No One Noticed](https://yro.slashdot.org/story/23/09/13/2331208/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230914
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1123 无人察觉：窃取密码的 Linux 木马已偷偷下载 3 年](https://linux.cn/article-16188-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [WhisperSpeech: Exploring New Horizons in Text-to-Speech Technology](https://www.collabora.com/news-and-blog/blog/2023/09/13/whisperspeech-exploring-new-horizons-in-text-to-speech-technology/)

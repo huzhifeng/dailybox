@@ -1,3 +1,8 @@
+## 20230915
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Released With More Performance Improvements, SIMD For x86 & Arm](https://www.phoronix.com/news/PostgreSQL-16-Released)
+- [Phoronix](https://www.phoronix.com/) | [sdl12-compat 1.2.66 Gets More Games/Software Working On This SDL2 Portability Layer](https://www.phoronix.com/news/sdl12-compat-1.2.66)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Delivers Some Impressive Gains For AMD EPYC 9754 "Bergamo" Server Performance](https://www.phoronix.com/review/linux-66-bergamo)
+
 ## 20230914
 - [Phoronix](https://www.phoronix.com/) | [A Nasty Performance Regression For Some Intel Systems Wound Up In Linux 6.5 Stable](https://www.phoronix.com/review/linux65-intel-regression)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Restores ZFS File-System Support In Its Installer](https://www.phoronix.com/news/Ubuntu-23.10-ZFS-Install)

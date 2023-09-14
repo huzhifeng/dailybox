@@ -1,3 +1,8 @@
+## 20230915
+- [Hacker News](https://news.ycombinator.com/front) | [Tails is a portable OS that protects against surveillance and censorship](https://news.ycombinator.com/item?id=37509560)
+- [Hacker News](https://news.ycombinator.com/front) | [The Tyranny of the Marginal User](https://news.ycombinator.com/item?id=37509507)
+- [Hacker News](https://news.ycombinator.com/front) | [How to build a IP geolocation database from scratch?](https://news.ycombinator.com/item?id=37507355)
+
 ## 20230914
 - [Hacker News](https://news.ycombinator.com/front) | [Bug in macOS 14 Sonoma prevents our app from working](https://news.ycombinator.com/item?id=37498979)
 - [Hacker News](https://news.ycombinator.com/front) | [Any sufficiently advanced uninstaller is indistinguishable from malware](https://news.ycombinator.com/item?id=37491862)

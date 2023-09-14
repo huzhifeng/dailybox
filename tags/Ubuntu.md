@@ -1,3 +1,6 @@
+## 20230915
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E264 Tudo a Postos](https://podcastubuntuportugal.org/e264/)
+
 ## 20230914
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploy fully configured VMs in minutes on Google Cloud, using gcloud CLI and cloud-init](https://ubuntu.com//blog/deploy-fully-configured-vms-in-minutes-on-google-cloud-using-gcloud-cli-and-cloud-init)
 

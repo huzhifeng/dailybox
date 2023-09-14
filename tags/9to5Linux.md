@@ -1,3 +1,7 @@
+## 20230915
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.1 Is Now Available for Download with More Than 120 Fixes](https://9to5linux.com/libreoffice-7-6-1-is-now-available-for-download-with-more-than-120-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.1 Improves Dolphin, Gwenview, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-08-1-improves-dolphin-gwenview-kdenlive-and-other-kde-apps)
+
 ## 20230914
 - [9to5Linux](https://9to5linux.com/) | [Looks Like Ubuntu 23.10 Will Bring Back ZFS on Root Installation Option](https://9to5linux.com/looks-like-ubuntu-23-10-will-bring-back-zfs-on-root-installation-option)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.4 Reaches End of Life, Upgrade to Linux Kernel 6.5 Now](https://9to5linux.com/linux-kernel-6-4-reaches-end-of-life-upgrade-to-linux-kernel-6-5-now)

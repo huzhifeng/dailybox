@@ -1,3 +1,7 @@
+## 20230915
+- [diff.blog](https://diff.blog/) | [In a git repository, where do your files live?](https://diff.blog/post/in-a-git-repository-where-do-your-files-live-155033/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 512](https://diff.blog/post/this-week-in-rust-512-154953/)
+
 ## 20230914
 - [diff.blog](https://diff.blog/) | [WASI support in Go](https://diff.blog/post/wasi-support-in-go-154937/)
 

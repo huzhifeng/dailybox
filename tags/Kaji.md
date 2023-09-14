@@ -1,3 +1,8 @@
+## 20230915
+- [Kagi Small Web](https://kagi.com/smallweb) | [Denny Zhou - Teach language models to reason](https://mlfoundations.org/talk/denny/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [“The iOS App Icon Book” in Japanese](https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Announcing Python Software Foundation Fellow Members for Q2 2023! 🎉](https://pyfound.blogspot.com/2023/09/announcing-python-software-foundation.html)
+
 ## 20230914
 - [Kagi Small Web](https://kagi.com/smallweb) | [Denny Zhou - Teach language models to reason](https://mlfoundations.org/talk/denny/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Bun v1.0 がリリース](https://takagi.blog/bun-v1/)
