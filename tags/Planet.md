@@ -1,3 +1,9 @@
+## 20230916
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Quick Fedora shirt update and sale of last stock with the old logo](https://fedoramagazine.org/quick-fedora-shirt-update-and-sale-of-last-stock-with-the-old-logo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: New ARM builder for 2023, 2024... from ETES GmbH](https://blog.remirepo.net/post/2023/09/15/New-2023-ARM-builder)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 37 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-37-2023/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [SBSA Reference Platform update](https://marcin.juszkiewicz.com.pl/2023/09/15/sbsa-reference-platform-update/)
+
 ## 20230915
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE neon user edition updates! Debian updates, Snaps on hold.](https://www.scarlettgatelymoore.dev/kde-kde-neon-user-edition-updates-debian-updates-snaps-on-hold/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E264 Tudo a Postos](https://podcastubuntuportugal.org/e264/)

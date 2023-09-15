@@ -1,3 +1,6 @@
+## 20230916
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#113 Numerous Updates](https://thisweek.gnome.org/posts/2023/09/twig-113/)
+
 ## 20230909
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#112 New Circle Apps](https://thisweek.gnome.org/posts/2023/09/twig-112/)
 

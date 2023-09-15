@@ -1,3 +1,8 @@
+## 20230916
+- [Lobsters](https://lobste.rs/) | [Strange Loop's greatest hits](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits)
+- [Lobsters](https://lobste.rs/) | [Should I Rust or should I go?](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go)
+- [Lobsters](https://lobste.rs/) | [Linear code is more readable](https://lobste.rs/s/udgtcx/linear_code_is_more_readable)
+
 ## 20230914
 - [Lobsters](https://lobste.rs/) | [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust)
 - [Lobsters](https://lobste.rs/) | [Pagefind v1.0.0 — Stable static search at scale](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at)

@@ -1,3 +1,6 @@
+## 20230916
+- [diff.blog](https://diff.blog/) | [Making NixOS modules for fun and (hopefully) profit](https://diff.blog/post/making-nixos-modules-for-fun-and-hopefully-profit-155076/)
+
 ## 20230915
 - [diff.blog](https://diff.blog/) | [In a git repository, where do your files live?](https://diff.blog/post/in-a-git-repository-where-do-your-files-live-155033/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 512](https://diff.blog/post/this-week-in-rust-512-154953/)

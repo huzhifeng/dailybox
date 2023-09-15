@@ -1,3 +1,8 @@
+## 20230916
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Quick Fedora shirt update and sale of last stock with the old logo](https://fedoramagazine.org/quick-fedora-shirt-update-and-sale-of-last-stock-with-the-old-logo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: New ARM builder for 2023, 2024... from ETES GmbH](https://blog.remirepo.net/post/2023/09/15/New-2023-ARM-builder)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 37 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-37-2023/)
+
 ## 20230914
 - [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 36 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-36-2023/)

@@ -1,3 +1,8 @@
+## 20230916
+- [V2EX](https://www.v2ex.com/) | [都在喷苹果，为啥 8 点官网还要卡啊，饥饿营销是吧](https://www.v2ex.com/t/974238)
+- [V2EX](https://www.v2ex.com/) | [联通宽带电话回访服务评价选了个[一般]，然后接连接到三个师傅电话](https://www.v2ex.com/t/974122)
+- [V2EX](https://www.v2ex.com/) | [老板在办公室抽雪茄，办公区弥漫着巨大的烟味，怎么破，提桶是唯一的选择吗？](https://www.v2ex.com/t/974078)
+
 ## 20230915
 - [V2EX](https://www.v2ex.com/) | [为什么市场上求职的一本二本学生都那么水](https://www.v2ex.com/t/973818)
 - [V2EX](https://www.v2ex.com/) | [iPhone 用户为什么永远觉得安卓会卡](https://www.v2ex.com/t/973730)
