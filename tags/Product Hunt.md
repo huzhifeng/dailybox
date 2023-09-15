@@ -1,3 +1,7 @@
+## 20230916
+- [Product Hunt](https://www.producthunt.com) | [Intelligent Payment Routing by Akurateco](https://www.producthunt.com/posts/intelligent-payment-routing-by-akurateco)
+- [Product Hunt](https://www.producthunt.com) | [DevHunt](https://www.producthunt.com/posts/devhunt-2)
+
 ## 20230915
 - [Product Hunt](https://www.producthunt.com) | [Learn.xyz](https://www.producthunt.com/posts/learn-xyz-2)
 - [Product Hunt](https://www.producthunt.com) | [Portfolio Magic by Contra](https://www.producthunt.com/posts/portfolio-magic-by-contra)

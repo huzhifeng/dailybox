@@ -1,3 +1,14 @@
+## 20230916
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1125 GitHub 调整主页信息流惹怒开发人员](https://linux.cn/article-16194-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.16 Restarts Work On Implementing Microsoft's Deprecated DirectMusic API](https://www.phoronix.com/news/Wine-8.16-Released)
+- [Phoronix](https://www.phoronix.com/) | [GCC Preparing To Introduce "-fhardened" Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
+- [Phoronix](https://www.phoronix.com/) | [Servo Browser Engine Enables New Default UI, Improves Crash Error Page, Replaces OpenSSL](https://www.phoronix.com/news/Servo-September-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Quick Fedora shirt update and sale of last stock with the old logo](https://fedoramagazine.org/quick-fedora-shirt-update-and-sale-of-last-stock-with-the-old-logo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: New ARM builder for 2023, 2024... from ETES GmbH](https://blog.remirepo.net/post/2023/09/15/New-2023-ARM-builder)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 37 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-37-2023/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [SBSA Reference Platform update](https://marcin.juszkiewicz.com.pl/2023/09/15/sbsa-reference-platform-update/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#113 Numerous Updates](https://thisweek.gnome.org/posts/2023/09/twig-113/)
+
 ## 20230915
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1124 Unity 新的按安装次数定价激怒了游戏开发社区](https://linux.cn/article-16191-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to configure RHEL as a workstation during installation](https://developers.redhat.com/articles/2023/09/14/how-configure-rhel-workstation-during-installation)

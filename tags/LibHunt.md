@@ -1,3 +1,7 @@
+## 20230916
+- [LibHunt](https://www.libhunt.com/) | [kopia](https://www.libhunt.com/r/kopia)
+- [LibHunt](https://www.libhunt.com/) | [exllamav2](https://www.libhunt.com/r/exllamav2)
+
 ## 20230915
 - [LibHunt](https://www.libhunt.com/) | [Godot](https://www.libhunt.com/r/godot)
 - [LibHunt](https://www.libhunt.com/) | [uswds](https://www.libhunt.com/r/uswds)

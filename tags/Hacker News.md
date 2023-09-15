@@ -1,3 +1,8 @@
+## 20230916
+- [Hacker News](https://news.ycombinator.com/front) | [Why my favourite API is a zipfile on the European Central Bank's website](https://news.ycombinator.com/item?id=37526047)
+- [Hacker News](https://news.ycombinator.com/front) | [Find my cat: open-source Cat Tracker](https://news.ycombinator.com/item?id=37520039)
+- [Hacker News](https://news.ycombinator.com/front) | [Willingham sends Fables into the public domain](https://news.ycombinator.com/item?id=37519418)
+
 ## 20230915
 - [Hacker News](https://news.ycombinator.com/front) | [Tails is a portable OS that protects against surveillance and censorship](https://news.ycombinator.com/item?id=37509560)
 - [Hacker News](https://news.ycombinator.com/front) | [The Tyranny of the Marginal User](https://news.ycombinator.com/item?id=37509507)

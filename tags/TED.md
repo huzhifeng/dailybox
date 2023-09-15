@@ -1,3 +1,6 @@
+## 20230916
+- [TED Talks Daily](https://www.ted.com/talks) | [An extreme weather report from America's weatherman | Al Roker](https://www.ted.com/talks/al_roker_an_extreme_weather_report_from_america_s_weatherman?rss)
+
 ## 20230915
 - [TED Talks Daily](https://www.ted.com/talks) | [How to solve the world's biggest problems | Natalie Cargill](https://www.ted.com/talks/natalie_cargill_how_to_solve_the_world_s_biggest_problems?rss)
 

@@ -1,3 +1,8 @@
+## 20230916
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.16 Restarts Work On Implementing Microsoft's Deprecated DirectMusic API](https://www.phoronix.com/news/Wine-8.16-Released)
+- [Phoronix](https://www.phoronix.com/) | [GCC Preparing To Introduce "-fhardened" Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
+- [Phoronix](https://www.phoronix.com/) | [Servo Browser Engine Enables New Default UI, Improves Crash Error Page, Replaces OpenSSL](https://www.phoronix.com/news/Servo-September-2023)
+
 ## 20230915
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 16 Released With More Performance Improvements, SIMD For x86 & Arm](https://www.phoronix.com/news/PostgreSQL-16-Released)
 - [Phoronix](https://www.phoronix.com/) | [sdl12-compat 1.2.66 Gets More Games/Software Working On This SDL2 Portability Layer](https://www.phoronix.com/news/sdl12-compat-1.2.66)

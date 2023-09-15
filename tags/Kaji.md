@@ -1,3 +1,8 @@
+## 20230916
+- [Kagi Small Web](https://kagi.com/smallweb) | [Outlook: good air quality and localized smoke impacts](https://wasmoke.blogspot.com/2023/09/outlook-good-air-quality-and-localized.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Metapost: Friday COTWy baby](https://joshreads.com/2023/09/metapost-friday-cotwy-baby/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Harringay's Unbuilt Tube Station](https://www.youtube.com/watch?v=84eXb1IpjjU)
+
 ## 20230915
 - [Kagi Small Web](https://kagi.com/smallweb) | [Denny Zhou - Teach language models to reason](https://mlfoundations.org/talk/denny/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [“The iOS App Icon Book” in Japanese](https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/)
