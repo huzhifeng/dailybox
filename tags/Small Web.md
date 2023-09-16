@@ -1,3 +1,8 @@
+## 20230917
+- [Kagi Small Web](https://kagi.com/smallweb) | [Pluralistic: Greenwashing set Canada on fire (16 Sept 2023)](https://pluralistic.net/2023/09/16/murder-offsets/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Adultery Film Tidbits](http://anthonybalducci.blogspot.com/2023/09/adultery-film-tidbits.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Fables goes public domain 👀](https://tracydurnell.com/2023/09/16/fables-goes-public-domain-%f0%9f%91%80/)
+
 ## 20230916
 - [Kagi Small Web](https://kagi.com/smallweb) | [Outlook: good air quality and localized smoke impacts](https://wasmoke.blogspot.com/2023/09/outlook-good-air-quality-and-localized.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Metapost: Friday COTWy baby](https://joshreads.com/2023/09/metapost-friday-cotwy-baby/)

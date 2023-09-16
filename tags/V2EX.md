@@ -1,3 +1,8 @@
+## 20230917
+- [V2EX](https://www.v2ex.com/) | [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448)
+- [V2EX](https://www.v2ex.com/) | [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405)
+- [V2EX](https://www.v2ex.com/) | [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403)
+
 ## 20230916
 - [V2EX](https://www.v2ex.com/) | [都在喷苹果，为啥 8 点官网还要卡啊，饥饿营销是吧](https://www.v2ex.com/t/974238)
 - [V2EX](https://www.v2ex.com/) | [联通宽带电话回访服务评价选了个[一般]，然后接连接到三个师傅电话](https://www.v2ex.com/t/974122)

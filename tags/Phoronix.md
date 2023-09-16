@@ -1,3 +1,8 @@
+## 20230917
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Gaming Performance Largely Unchanged With Linux 6.6 Git](https://www.phoronix.com/news/AMD-Gaming-Linux-6.6-6.5)
+- [Phoronix](https://www.phoronix.com/) | [LWJGL 3.3.3 Released With Updated Bindings, GraalVM Native Image Support](https://www.phoronix.com/news/LWJGL-3.3.3)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Now Powering Ubuntu 23.10](https://www.phoronix.com/news/Ubuntu-23.10-Lands-Linux-6.5)
+
 ## 20230916
 - [Phoronix](https://www.phoronix.com/) | [Wine 8.16 Restarts Work On Implementing Microsoft's Deprecated DirectMusic API](https://www.phoronix.com/news/Wine-8.16-Released)
 - [Phoronix](https://www.phoronix.com/) | [GCC Preparing To Introduce "-fhardened" Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)

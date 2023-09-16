@@ -1,3 +1,6 @@
+## 20230917
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/)
+
 ## 20230910
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: power management galore](https://pointieststick.com/2023/09/08/this-week-in-kde-power-management-galore/)
 

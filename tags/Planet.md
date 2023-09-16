@@ -1,3 +1,8 @@
+## 20230917
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI Safety is in the Context](https://hartmans.dreamwidth.org/101223.html)
+- [Planet KDE](https://planet.kde.org/) | [Weather Benefits](http://www.thelins.se/johan/blog/2023/09/weather-benefits/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/?utm_source=atom_feed)
+
 ## 20230916
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Quick Fedora shirt update and sale of last stock with the old logo](https://fedoramagazine.org/quick-fedora-shirt-update-and-sale-of-last-stock-with-the-old-logo/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: New ARM builder for 2023, 2024... from ETES GmbH](https://blog.remirepo.net/post/2023/09/15/New-2023-ARM-builder)

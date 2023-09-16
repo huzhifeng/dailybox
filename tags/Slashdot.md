@@ -1,3 +1,6 @@
+## 20230917
+- [Slashdot](https://linux.slashdot.org/) | [KSMBD Finally Reaches 'Stable' State in Release Candidate for Linux Kernel 6.6](https://linux.slashdot.org/story/23/09/16/0412208/ksmbd-finally-reaches-stable-state-in-release-candidate-for-linux-kernel-66?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230915
 - [Slashdot](https://linux.slashdot.org/) | [Password-Stealing Linux Malware Served For 3 Years and No One Noticed](https://yro.slashdot.org/story/23/09/13/2331208/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

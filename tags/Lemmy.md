@@ -1,3 +1,8 @@
+## 20230917
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Bridge set up between Matrix and Discord](https://lemmy.world/pictrs/image/437f1944-9cd3-473f-9f50-91a0daa1850d.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Footage shows Boebert and her date fiddling with each other's privates at "Beetlejuice" musical](https://www.salon.com/2023/09/15/footage-shows-boebert-and-her-date-fiddling-with-each-others-privates-at-beetlejuice-musical/)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Rule](https://lemmy.world/pictrs/image/90f2d3e2-f27e-48ea-950e-6f07bfaff670.png)
+
 ## 20230916
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Cheers my dudes](https://lemmy.ml/pictrs/image/1934d248-31e1-40e3-8076-94c5418d29ff.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unity Silently Deletes GitHub Repo that Tracks Terms of Service Changes and Updated Its License - GamerBraves](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)

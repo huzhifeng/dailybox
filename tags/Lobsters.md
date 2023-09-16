@@ -1,3 +1,8 @@
+## 20230917
+- [Lobsters](https://lobste.rs/) | [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu)
+- [Lobsters](https://lobste.rs/) | [Mastodon instance with 6 files](https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files)
+- [Lobsters](https://lobste.rs/) | [Sifting through crates.io for malware with OSSF Package Analysis](https://lobste.rs/s/fafnz8/sifting_through_crates_io_for_malware)
+
 ## 20230916
 - [Lobsters](https://lobste.rs/) | [Strange Loop's greatest hits](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits)
 - [Lobsters](https://lobste.rs/) | [Should I Rust or should I go?](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go)
