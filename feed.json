@@ -320,11 +320,32 @@
 			"tags": ["Planet", "Linux", "Ubuntu"]
 		},
 		{
+			"channel": "Planet Gentoo",
+			"portal": "https://planet.gentoo.org/",
+			"url": "http://planet.gentoo.org/rss20.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "Gentoo"]
+		},
+		{
 			"channel": "Planet virt-tools",
 			"portal": "https://planet.virt-tools.org/",
 			"url": "https://planet.virt-tools.org/atom.xml",
 			"category": "开源",
 			"tags": ["Planet", "Linux", "虚拟化"]
+		},
+		{
+			"channel": "Planet GNOME",
+			"portal": "https://planet.gnome.org/",
+			"url": "https://planet.gnome.org/atom.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "GNOME"]
+		},
+		{
+			"channel": "Planet KDE",
+			"portal": "https://planet.kde.org/",
+			"url": "https://planet.kde.org/atom.xml",
+			"category": "开源",
+			"tags": ["Planet", "Linux", "KDE"]
 		},
 		{
 			"channel": "This Week in GNOME",
