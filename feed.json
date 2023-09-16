@@ -448,6 +448,14 @@
 			"tags": ["Medium"]
 		},
 		{
+			"channel": "Medium Trends",
+			"portal": "https://medium.com/tag/trends",
+			"url": "https://medium.com/feed/tag/trends",
+			"enable": 0,
+			"category": "漫游",
+			"tags": ["Medium"]
+		},
+		{
 			"channel": "Kagi Small Web",
 			"portal": "https://kagi.com/smallweb",
 			"url": "https://kagi.com/api/v1/smallweb/feed",
