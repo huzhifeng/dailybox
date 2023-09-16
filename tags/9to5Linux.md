@@ -1,3 +1,8 @@
+## 20230917
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 to Enable Native Wayland Support by Default on Its Firefox Snap](https://9to5linux.com/ubuntu-23-10-to-enable-native-wayland-support-by-default-on-its-firefox-snap)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-5)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 40 to Offer the KDE Plasma 6 Desktop on Wayland and Drop X11 Session](https://9to5linux.com/fedora-linux-40-to-offer-the-kde-plasma-6-desktop-on-wayland-and-drop-x11-session)
+
 ## 20230915
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.1 Is Now Available for Download with More Than 120 Fixes](https://9to5linux.com/libreoffice-7-6-1-is-now-available-for-download-with-more-than-120-fixes)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.1 Improves Dolphin, Gwenview, Kdenlive, and Other KDE Apps](https://9to5linux.com/kde-gear-23-08-1-improves-dolphin-gwenview-kdenlive-and-other-kde-apps)

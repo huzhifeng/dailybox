@@ -1,3 +1,6 @@
+## 20230917
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI Safety is in the Context](https://hartmans.dreamwidth.org/101223.html)
+
 ## 20230915
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE neon user edition updates! Debian updates, Snaps on hold.](https://www.scarlettgatelymoore.dev/kde-kde-neon-user-edition-updates-debian-updates-snaps-on-hold/)
 

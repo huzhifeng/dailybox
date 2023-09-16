@@ -1,3 +1,8 @@
+## 20230917
+- [Planet KDE](https://planet.kde.org/) | [Weather Benefits](http://www.thelins.se/johan/blog/2023/09/weather-benefits/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/)
+
 ## 20230910
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: power management galore](https://pointieststick.com/2023/09/08/this-week-in-kde-power-management-galore/)
 

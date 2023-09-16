@@ -1,3 +1,7 @@
+## 20230917
+- [Hacker News](https://news.ycombinator.com/front) | [Horcrux: Split your file into encrypted fragments](https://news.ycombinator.com/item?id=37534615)
+- [Hacker News](https://news.ycombinator.com/front) | [Tracking Austrian grocery prices by scraping store sites](https://news.ycombinator.com/item?id=37532973)
+
 ## 20230916
 - [Hacker News](https://news.ycombinator.com/front) | [Why my favourite API is a zipfile on the European Central Bank's website](https://news.ycombinator.com/item?id=37526047)
 - [Hacker News](https://news.ycombinator.com/front) | [Find my cat: open-source Cat Tracker](https://news.ycombinator.com/item?id=37520039)

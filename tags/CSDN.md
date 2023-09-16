@@ -1,3 +1,8 @@
+## 20230917
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [猫头虎博主第四期赠书活动：《精通Go语言：(第2版) 》](https://blog.csdn.net/qq_44866828/article/details/132893198)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [基于腾讯云Lighthouse自建文本和文件翻译服务](https://blog.csdn.net/loveaf/article/details/132905574)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python浪漫星空](https://blog.csdn.net/m0_68111267/article/details/132910075)
+
 ## 20230916
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [网易回应员工因抑郁症轻生；Arm 上市首日股价大涨 25%；.NET 8 性能遥遥领先|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132895150)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023 Google开发者大会：你了解机器学习的新动向吗？](https://blog.csdn.net/FRIGIDWINTER/article/details/132894870)

@@ -1,3 +1,6 @@
+## 20230917
+- [diff.blog](https://diff.blog/) | [static-server: an HTTP server in Go for static content](https://diff.blog/post/static-server-an-http-server-in-go-for-static-content-155196/)
+
 ## 20230916
 - [diff.blog](https://diff.blog/) | [Making NixOS modules for fun and (hopefully) profit](https://diff.blog/post/making-nixos-modules-for-fun-and-hopefully-profit-155076/)
 

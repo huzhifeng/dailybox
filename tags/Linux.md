@@ -1,3 +1,17 @@
+## 20230917
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1126 GCC 准备引入一“键”安全加固选项](https://linux.cn/article-16197-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Gaming Performance Largely Unchanged With Linux 6.6 Git](https://www.phoronix.com/news/AMD-Gaming-Linux-6.6-6.5)
+- [Phoronix](https://www.phoronix.com/) | [LWJGL 3.3.3 Released With Updated Bindings, GraalVM Native Image Support](https://www.phoronix.com/news/LWJGL-3.3.3)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 Now Powering Ubuntu 23.10](https://www.phoronix.com/news/Ubuntu-23.10-Lands-Linux-6.5)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 to Enable Native Wayland Support by Default on Its Firefox Snap](https://9to5linux.com/ubuntu-23-10-to-enable-native-wayland-support-by-default-on-its-firefox-snap)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-5)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 40 to Offer the KDE Plasma 6 Desktop on Wayland and Drop X11 Session](https://9to5linux.com/fedora-linux-40-to-offer-the-kde-plasma-6-desktop-on-wayland-and-drop-x11-session)
+- [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI Safety is in the Context](https://hartmans.dreamwidth.org/101223.html)
+- [Planet KDE](https://planet.kde.org/) | [Weather Benefits](http://www.thelins.se/johan/blog/2023/09/weather-benefits/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/)
+- [Slashdot](https://linux.slashdot.org/) | [KSMBD Finally Reaches 'Stable' State in Release Candidate for Linux Kernel 6.6](https://linux.slashdot.org/story/23/09/16/0412208/ksmbd-finally-reaches-stable-state-in-release-candidate-for-linux-kernel-66?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230916
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1125 GitHub 调整主页信息流惹怒开发人员](https://linux.cn/article-16194-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Wine 8.16 Restarts Work On Implementing Microsoft's Deprecated DirectMusic API](https://www.phoronix.com/news/Wine-8.16-Released)
