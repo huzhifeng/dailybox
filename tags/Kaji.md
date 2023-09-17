@@ -1,3 +1,8 @@
+## 20230918
+- [Kagi Small Web](https://kagi.com/smallweb) | [What happened to Jesus's foreskin?](https://taylor.town/holy-prepuce)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Using Knip to find dead code in a high-traffic git repo](https://madelinemiller.dev/blog/knip-dead-code/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Software Engineers:  Being Mindful of the Label "Atrophy" in This Current Labor Market](https://markcunningham91.blogspot.com/2023/09/software-engineers-being-mindful-of.html)
+
 ## 20230917
 - [Kagi Small Web](https://kagi.com/smallweb) | [Pluralistic: Greenwashing set Canada on fire (16 Sept 2023)](https://pluralistic.net/2023/09/16/murder-offsets/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Adultery Film Tidbits](http://anthonybalducci.blogspot.com/2023/09/adultery-film-tidbits.html)

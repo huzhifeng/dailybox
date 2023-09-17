@@ -1,3 +1,8 @@
+## 20230918
+- [Lobsters](https://lobste.rs/) | [SQL join flavors](https://lobste.rs/s/5jpbgl/sql_join_flavors)
+- [Lobsters](https://lobste.rs/) | [Oils 0.18.0 - Progress on All Fronts](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts)
+- [Lobsters](https://lobste.rs/) | [Ferricy: Building a custom 34-key split keyboard](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split)
+
 ## 20230917
 - [Lobsters](https://lobste.rs/) | [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu)
 - [Lobsters](https://lobste.rs/) | [Mastodon instance with 6 files](https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files)

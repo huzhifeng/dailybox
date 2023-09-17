@@ -1,3 +1,8 @@
+## 20230918
+- [Product Hunt](https://www.producthunt.com) | [AI Easy Content Studio](https://www.producthunt.com/posts/ai-easy-content-studio)
+- [Product Hunt](https://www.producthunt.com) | [Student OS](https://www.producthunt.com/posts/student-os-3)
+- [Product Hunt](https://www.producthunt.com) | [200+ Growth Marketing Resources](https://www.producthunt.com/posts/200-growth-marketing-resources)
+
 ## 20230917
 - [Product Hunt](https://www.producthunt.com) | [Ultimate Getting Things Done System](https://www.producthunt.com/posts/ultimate-getting-things-done-system)
 

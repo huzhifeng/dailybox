@@ -1,3 +1,8 @@
+## 20230918
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Jim "Scumbag" Farley](https://lemmy.ml/pictrs/image/fc15a6dc-b942-4ba7-989b-310c3b3621c5.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Totally make sense](https://lemmy.world/pictrs/image/8c5f2877-781d-4526-ac77-fa125db502f0.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [You did it Mary!](https://lemmy.ml/pictrs/image/c03bb708-a304-4ecc-a8c0-8eb730a87a79.jpeg)
+
 ## 20230917
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Bridge set up between Matrix and Discord](https://lemmy.world/pictrs/image/437f1944-9cd3-473f-9f50-91a0daa1850d.png)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Footage shows Boebert and her date fiddling with each other's privates at "Beetlejuice" musical](https://www.salon.com/2023/09/15/footage-shows-boebert-and-her-date-fiddling-with-each-others-privates-at-beetlejuice-musical/)

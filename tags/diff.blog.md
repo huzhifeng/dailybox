@@ -1,3 +1,7 @@
+## 20230918
+- [diff.blog](https://diff.blog/) | [Changing the rules of Rust](https://diff.blog/post/changing-the-rules-of-rust-155307/)
+- [diff.blog](https://diff.blog/) | [Hyprland is a toxic community](https://diff.blog/post/hyprland-is-a-toxic-community-155303/)
+
 ## 20230917
 - [diff.blog](https://diff.blog/) | [static-server: an HTTP server in Go for static content](https://diff.blog/post/static-server-an-http-server-in-go-for-static-content-155196/)
 
