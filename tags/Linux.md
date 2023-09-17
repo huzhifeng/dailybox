@@ -1,3 +1,11 @@
+## 20230918
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1127 中国超算海洋之光的性能已达 1.5E](https://linux.cn/article-16200-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Go Ad-Free & Single Page Articles With The Phoronix 2023 Oktoberfest Sale](https://www.phoronix.com/news/2023-Oktoberfest-Sale)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Add POWER-Z Driver For Exposing USB Power Measurements](https://www.phoronix.com/news/Linux-POWER-Z-USB-Power-Driver)
+- [Phoronix](https://www.phoronix.com/) | [Linux's SLUB Allocator Preparing To Better Fend Off Cross-Cache Attacks](https://www.phoronix.com/news/Linux-SLUB-Prevent-Cross-Cache)
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos](http://aigarius.com/blog/2023/09/17/debconf23-photos/)
+- [Slashdot](https://linux.slashdot.org/) | [Ask Slashdot: What's the Best Linux Resource for a Retired Windows User?](https://ask.slashdot.org/story/23/09/17/051227/ask-slashdot-whats-the-best-linux-resource-for-a-retired-windows-user?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230917
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1126 GCC 准备引入一“键”安全加固选项](https://linux.cn/article-16197-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMD Linux Gaming Performance Largely Unchanged With Linux 6.6 Git](https://www.phoronix.com/news/AMD-Gaming-Linux-6.6-6.5)

@@ -1,3 +1,6 @@
+## 20230918
+- [Slashdot](https://linux.slashdot.org/) | [Ask Slashdot: What's the Best Linux Resource for a Retired Windows User?](https://ask.slashdot.org/story/23/09/17/051227/ask-slashdot-whats-the-best-linux-resource-for-a-retired-windows-user?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230917
 - [Slashdot](https://linux.slashdot.org/) | [KSMBD Finally Reaches 'Stable' State in Release Candidate for Linux Kernel 6.6](https://linux.slashdot.org/story/23/09/16/0412208/ksmbd-finally-reaches-stable-state-in-release-candidate-for-linux-kernel-66?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

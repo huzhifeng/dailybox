@@ -1,3 +1,8 @@
+## 20230918
+- [V2EX](https://www.v2ex.com/) | [打算找个存储小说内容的方案，问有哪些地方可以免费存储？](https://www.v2ex.com/t/974609)
+- [V2EX](https://www.v2ex.com/) | [求证实，虽然经常被夸大，经过对比测试发现安卓内存确实没有 iPhone 的耐用，这个对比是否科学？](https://www.v2ex.com/t/974608)
+- [V2EX](https://www.v2ex.com/) | [就 web 爬虫来说， scrapy， selenium 之类的爬虫框架和自己用 chrome 扩展做爬虫有啥区别？](https://www.v2ex.com/t/974592)
+
 ## 20230917
 - [V2EX](https://www.v2ex.com/) | [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448)
 - [V2EX](https://www.v2ex.com/) | [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405)

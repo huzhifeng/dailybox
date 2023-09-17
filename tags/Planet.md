@@ -1,3 +1,6 @@
+## 20230918
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos](http://aigarius.com/blog/2023/09/17/debconf23-photos/)
+
 ## 20230917
 - [Planet Debian](https://planet.debian.org/) | [Sam Hartman: AI Safety is in the Context](https://hartmans.dreamwidth.org/101223.html)
 - [Planet KDE](https://planet.kde.org/) | [Weather Benefits](http://www.thelins.se/johan/blog/2023/09/weather-benefits/?utm_source=atom_feed)

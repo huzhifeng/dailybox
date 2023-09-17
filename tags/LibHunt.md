@@ -1,3 +1,8 @@
+## 20230918
+- [LibHunt](https://www.libhunt.com/) | [agents](https://www.libhunt.com/r/aiwaves-cn/agents)
+- [LibHunt](https://www.libhunt.com/) | [yazi](https://www.libhunt.com/r/yazi)
+- [LibHunt](https://www.libhunt.com/) | [lodash](https://www.libhunt.com/r/lodash)
+
 ## 20230916
 - [LibHunt](https://www.libhunt.com/) | [kopia](https://www.libhunt.com/r/kopia)
 - [LibHunt](https://www.libhunt.com/) | [exllamav2](https://www.libhunt.com/r/exllamav2)

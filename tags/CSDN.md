@@ -1,3 +1,8 @@
+## 20230918
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【C++杂货铺】继承由浅入深详细总结](https://blog.csdn.net/weixin_63115236/article/details/132787672)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI绘画的崛起与多平台对比](https://blog.csdn.net/wml_JavaKill/article/details/132897786)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Spring Boot】Spring—加载监听器](https://blog.csdn.net/2202_75623950/article/details/132942968)
+
 ## 20230917
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [猫头虎博主第四期赠书活动：《精通Go语言：(第2版) 》](https://blog.csdn.net/qq_44866828/article/details/132893198)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [基于腾讯云Lighthouse自建文本和文件翻译服务](https://blog.csdn.net/loveaf/article/details/132905574)
