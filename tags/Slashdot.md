@@ -1,3 +1,8 @@
+## 20230919
+- [Slashdot](https://developers.slashdot.org/) | [Unity Overhauls Controversial Price Hike After Game Developers Revolt](https://games.slashdot.org/story/23/09/18/184244/unity-overhauls-controversial-price-hike-after-game-developers-revolt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [JetBrains Previews 'RustRover', a New Dedicated IDE for Rust Developers](https://developers.slashdot.org/story/23/09/18/0126206/jetbrains-previews-rustrover-a-new-dedicated-ide-for-rust-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Maybe ChatGPT Isn't Coming for Your Coding Job](https://developers.slashdot.org/story/23/09/17/2351252/maybe-chatgpt-isnt-coming-for-your-coding-job?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230918
 - [Slashdot](https://linux.slashdot.org/) | [Ask Slashdot: What's the Best Linux Resource for a Retired Windows User?](https://ask.slashdot.org/story/23/09/17/051227/ask-slashdot-whats-the-best-linux-resource-for-a-retired-windows-user?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

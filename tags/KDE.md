@@ -1,3 +1,6 @@
+## 20230919
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.1 released](https://kdenlive.org/en/2023/09/kdenlive-23-08-1-released/?utm_source=atom_feed)
+
 ## 20230917
 - [Planet KDE](https://planet.kde.org/) | [Weather Benefits](http://www.thelins.se/johan/blog/2023/09/weather-benefits/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: more Plasma 6 dev](https://pointieststick.com/2023/09/15/this-week-in-kde-more-plasma-6-dev/?utm_source=atom_feed)

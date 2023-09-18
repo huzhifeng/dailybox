@@ -1,3 +1,18 @@
+## 20230919
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1128 有一个软件用了 32 年版本号才变成 6.6](https://linux.cn/article-16204-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Comparing OpenShift Service Mesh and Service Interconnect](https://developers.redhat.com/articles/2023/09/18/comparing-openshift-service-mesh-and-service-interconnect)
+- [Red Hat Developer](https://developers.redhat.com/) | [A statistics update in Open vSwitch user space datapath](https://developers.redhat.com/articles/2023/09/18/statistics-update-open-vswitch-user-space-datapath)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Releases A Big Update To Windows Subsystem For Linux, New Experimental Options](https://www.phoronix.com/news/WSL-Big-September-Update)
+- [Phoronix](https://www.phoronix.com/) | [Nouveau Patches Posted For Running On NVIDIA GSP-RM Firmware, Initial RTX 40 Ada Support](https://www.phoronix.com/news/Nouveau-Patches-Run-On-GSP-Blob)
+- [Phoronix](https://www.phoronix.com/) | [SteamOS 3.5 Delivering Some Decent Performance Gains For The Steam Deck](https://www.phoronix.com/review/steamos-35-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-17th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at Passkey Auth, Fedora CoreOS and IoT Test Week](https://fedoramagazine.org/contribute-at-passkey-auth-fedora-coreos-and-iot-test-week/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 393 – Can you secure something you don’t own?](https://opensourcesecurity.io/2023/09/17/episode-393-can-you-secure-something-you-dont-own/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 closes in Kochi and DebConf24 announced](https://bits.debian.org/2023/09/debconf23-closes.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Non-e (Note)Book](https://blog.trueelena.org/blog/2023/09/18-non-e-note-book/index.html)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.1 released](https://kdenlive.org/en/2023/09/kdenlive-23-08-1-released/?utm_source=atom_feed)
+
 ## 20230918
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1127 中国超算海洋之光的性能已达 1.5E](https://linux.cn/article-16200-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Go Ad-Free & Single Page Articles With The Phoronix 2023 Oktoberfest Sale](https://www.phoronix.com/news/2023-Oktoberfest-Sale)

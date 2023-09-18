@@ -1,3 +1,8 @@
+## 20230919
+- [Lobsters](https://lobste.rs/) | [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient)
+- [Lobsters](https://lobste.rs/) | [What If OpenDocument Used SQLite](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite)
+- [Lobsters](https://lobste.rs/) | [So let’s talk about this Wayland thing](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing)
+
 ## 20230918
 - [Lobsters](https://lobste.rs/) | [SQL join flavors](https://lobste.rs/s/5jpbgl/sql_join_flavors)
 - [Lobsters](https://lobste.rs/) | [Oils 0.18.0 - Progress on All Fronts](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts)

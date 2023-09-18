@@ -1,3 +1,8 @@
+## 20230919
+- [Kagi Small Web](https://kagi.com/smallweb) | [Two Poem Drafts](https://branemrys.blogspot.com/2023/09/two-poem-drafts.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Is this about the poll or about the people? (model this)](https://marginalrevolution.com/marginalrevolution/2023/09/is-this-about-the-poll-or-about-the-people-model-this.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Five Quick Links for Monday Noonish](https://kottke.org/quick-links)
+
 ## 20230918
 - [Kagi Small Web](https://kagi.com/smallweb) | [What happened to Jesus's foreskin?](https://taylor.town/holy-prepuce)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Using Knip to find dead code in a high-traffic git repo](https://madelinemiller.dev/blog/knip-dead-code/)

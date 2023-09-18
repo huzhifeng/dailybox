@@ -1,3 +1,8 @@
+## 20230919
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Removed Kbin.social communities](https://lemmy.world/post/5289864)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Whoopsy-daisy](https://lemmy.ml/pictrs/image/361cb477-d797-4bc0-8533-09c2d9439527.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Sowing chaos](https://startrek.website/pictrs/image/3739a56c-a82f-4951-b138-404c4328061a.jpeg)
+
 ## 20230918
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Jim "Scumbag" Farley](https://lemmy.ml/pictrs/image/fc15a6dc-b942-4ba7-989b-310c3b3621c5.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Totally make sense](https://lemmy.world/pictrs/image/8c5f2877-781d-4526-ac77-fa125db502f0.jpeg)

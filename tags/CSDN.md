@@ -1,3 +1,9 @@
+## 20230919
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为回应卫星电话造假；iPhone15可使用安卓C口配件，但快充仍最高支持27W；PostgreSQL 16发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132977209)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [国庆中秋特辑（一）浪漫祝福方式 用循环神经网络（RNN）或长短时记忆网络（LSTM）生成祝福诗词](https://blog.csdn.net/superdangbo/article/details/132921765)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Linux 配置 Nginx 服务完整详细版](https://blog.csdn.net/m0_67906358/article/details/132987458)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【C++杂货铺】继承由浅入深详细总结](https://blog.csdn.net/weixin_63115236/article/details/132787672)
+
 ## 20230918
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【C++杂货铺】继承由浅入深详细总结](https://blog.csdn.net/weixin_63115236/article/details/132787672)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI绘画的崛起与多平台对比](https://blog.csdn.net/wml_JavaKill/article/details/132897786)

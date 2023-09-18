@@ -1,3 +1,8 @@
+## 20230919
+- [Product Hunt](https://www.producthunt.com) | [Briefy](https://www.producthunt.com/posts/briefy)
+- [Product Hunt](https://www.producthunt.com) | [Picyard](https://www.producthunt.com/posts/picyard-2)
+- [Product Hunt](https://www.producthunt.com) | [Dotcal Scheduler](https://www.producthunt.com/posts/dotcal-scheduler)
+
 ## 20230918
 - [Product Hunt](https://www.producthunt.com) | [AI Easy Content Studio](https://www.producthunt.com/posts/ai-easy-content-studio)
 - [Product Hunt](https://www.producthunt.com) | [Student OS](https://www.producthunt.com/posts/student-os-3)

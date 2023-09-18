@@ -1,3 +1,6 @@
+## 20230919
+- [TED Talks Daily](https://www.ted.com/talks) | [An economy powered by sun and wind -- it's almost here | Kala Constantino](https://www.ted.com/talks/kala_constantino_an_economy_powered_by_sun_and_wind_it_s_almost_here?rss)
+
 ## 20230916
 - [TED Talks Daily](https://www.ted.com/talks) | [An extreme weather report from America's weatherman | Al Roker](https://www.ted.com/talks/al_roker_an_extreme_weather_report_from_america_s_weatherman?rss)
 

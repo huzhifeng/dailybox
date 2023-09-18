@@ -1,3 +1,11 @@
+## 20230919
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at Passkey Auth, Fedora CoreOS and IoT Test Week](https://fedoramagazine.org/contribute-at-passkey-auth-fedora-coreos-and-iot-test-week/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 393 – Can you secure something you don’t own?](https://opensourcesecurity.io/2023/09/17/episode-393-can-you-secure-something-you-dont-own/)
+- [Planet Debian](https://planet.debian.org/) | [Bits from Debian: DebConf23 closes in Kochi and DebConf24 announced](https://bits.debian.org/2023/09/debconf23-closes.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Non-e (Note)Book](https://blog.trueelena.org/blog/2023/09/18-non-e-note-book/index.html)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.1 released](https://kdenlive.org/en/2023/09/kdenlive-23-08-1-released/?utm_source=atom_feed)
+
 ## 20230918
 - [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos](http://aigarius.com/blog/2023/09/17/debconf23-photos/)
 

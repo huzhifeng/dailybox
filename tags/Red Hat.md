@@ -1,3 +1,7 @@
+## 20230919
+- [Red Hat Developer](https://developers.redhat.com/) | [Comparing OpenShift Service Mesh and Service Interconnect](https://developers.redhat.com/articles/2023/09/18/comparing-openshift-service-mesh-and-service-interconnect)
+- [Red Hat Developer](https://developers.redhat.com/) | [A statistics update in Open vSwitch user space datapath](https://developers.redhat.com/articles/2023/09/18/statistics-update-open-vswitch-user-space-datapath)
+
 ## 20230915
 - [Red Hat Developer](https://developers.redhat.com/) | [How to configure RHEL as a workstation during installation](https://developers.redhat.com/articles/2023/09/14/how-configure-rhel-workstation-during-installation)
 
