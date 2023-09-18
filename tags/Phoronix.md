@@ -1,3 +1,8 @@
+## 20230919
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Releases A Big Update To Windows Subsystem For Linux, New Experimental Options](https://www.phoronix.com/news/WSL-Big-September-Update)
+- [Phoronix](https://www.phoronix.com/) | [Nouveau Patches Posted For Running On NVIDIA GSP-RM Firmware, Initial RTX 40 Ada Support](https://www.phoronix.com/news/Nouveau-Patches-Run-On-GSP-Blob)
+- [Phoronix](https://www.phoronix.com/) | [SteamOS 3.5 Delivering Some Decent Performance Gains For The Steam Deck](https://www.phoronix.com/review/steamos-35-benchmarks)
+
 ## 20230918
 - [Phoronix](https://www.phoronix.com/) | [Go Ad-Free & Single Page Articles With The Phoronix 2023 Oktoberfest Sale](https://www.phoronix.com/news/2023-Oktoberfest-Sale)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Add POWER-Z Driver For Exposing USB Power Measurements](https://www.phoronix.com/news/Linux-POWER-Z-USB-Power-Driver)

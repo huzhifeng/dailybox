@@ -1,3 +1,6 @@
+## 20230919
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-17th-2023)
+
 ## 20230917
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 to Enable Native Wayland Support by Default on Its Firefox Snap](https://9to5linux.com/ubuntu-23-10-to-enable-native-wayland-support-by-default-on-its-firefox-snap)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Is Now Powered by Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-is-now-powered-by-linux-kernel-6-5)

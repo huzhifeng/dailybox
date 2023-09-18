@@ -1,3 +1,8 @@
+## 20230919
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at Passkey Auth, Fedora CoreOS and IoT Test Week](https://fedoramagazine.org/contribute-at-passkey-auth-fedora-coreos-and-iot-test-week/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 393 – Can you secure something you don’t own?](https://opensourcesecurity.io/2023/09/17/episode-393-can-you-secure-something-you-dont-own/)
+
 ## 20230916
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Quick Fedora shirt update and sale of last stock with the old logo](https://fedoramagazine.org/quick-fedora-shirt-update-and-sale-of-last-stock-with-the-old-logo/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: New ARM builder for 2023, 2024... from ETES GmbH](https://blog.remirepo.net/post/2023/09/15/New-2023-ARM-builder)

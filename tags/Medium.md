@@ -1,3 +1,8 @@
+## 20230919
+- [Medium Trending](https://medium.com/tag/trending) | [Aria Electra Baby Alien Fanbus Video — Baby Alien Fan Van Video Takes Social Media by Storm](https://medium.com/@puputpepet754/aria-electra-baby-alien-fanbus-video-baby-alien-fan-van-video-takes-social-media-by-storm-71e2edb0b73f?source=rss------trending-5)
+- [Medium Trending](https://medium.com/tag/trending) | [O PHP está pra morrer desde 1995…](https://gabrielblaporte.medium.com/o-php-est%C3%A1-pra-morrer-desde-1995-25dede765e4b?source=rss------trending-5)
+- [Medium Trending](https://medium.com/tag/trending) | [What are these People thinking?](https://medium.com/@ilyastea59/what-are-these-people-thinking-e5bc86674047?source=rss------trending-5)
+
 ## 20230918
 - [Medium Trending](https://medium.com/tag/trending) | [The heroes of the digital age ; AI in Disaster.](https://medium.com/@olamideshobiye1/the-heroes-of-the-digital-age-ai-in-disaster-bcdbf1e8436c?source=rss------trending-5)
 - [Medium Trending](https://medium.com/tag/trending) | [Trending Tiktok Video’s of Mhiz Gold and her leaked videos.](https://medium.com/@setialara79/trending-tiktok-videos-of-mhiz-gold-and-her-leaked-videos-3f2ddca70eba?source=rss------trending-5)

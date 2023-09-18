@@ -1,3 +1,6 @@
+## 20230919
+- [商业WHY酱](https://msbussinesswhy.fireside.fm/) | [S3E10｜小米搞长期科技投资，认真的吗？](https://msbussinesswhy.fireside.fm/32)
+
 ## 20230908
 - [商业WHY酱](https://msbussinesswhy.fireside.fm/) | [S3E09｜with 瓜子二手车杨浩涌：找到剖开用户心智那把最犀利的刀](https://msbussinesswhy.fireside.fm/31)
 

@@ -1,3 +1,7 @@
+## 20230919
+- [diff.blog](https://diff.blog/) | [Follow up to "Changing the rules of Rust"](https://diff.blog/post/follow-up-to-changing-the-rules-of-rust-155362/)
+- [diff.blog](https://diff.blog/) | [How to create an ergonomic desk setup](https://diff.blog/post/how-to-create-an-ergonomic-desk-setup-155371/)
+
 ## 20230918
 - [diff.blog](https://diff.blog/) | [Changing the rules of Rust](https://diff.blog/post/changing-the-rules-of-rust-155307/)
 - [diff.blog](https://diff.blog/) | [Hyprland is a toxic community](https://diff.blog/post/hyprland-is-a-toxic-community-155303/)

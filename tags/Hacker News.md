@@ -1,3 +1,7 @@
+## 20230919
+- [Hacker News](https://news.ycombinator.com/front) | [Data accidentally exposed by Microsoft AI researchers](https://news.ycombinator.com/item?id=37556605)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenRA – Classic strategy games rebuilt for the modern era](https://news.ycombinator.com/item?id=37553193)
+
 ## 20230917
 - [Hacker News](https://news.ycombinator.com/front) | [Horcrux: Split your file into encrypted fragments](https://news.ycombinator.com/item?id=37534615)
 - [Hacker News](https://news.ycombinator.com/front) | [Tracking Austrian grocery prices by scraping store sites](https://news.ycombinator.com/item?id=37532973)

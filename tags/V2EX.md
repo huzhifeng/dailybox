@@ -1,3 +1,8 @@
+## 20230919
+- [V2EX](https://www.v2ex.com/) | [正在考虑逃离苹果生态](https://www.v2ex.com/t/974836)
+- [V2EX](https://www.v2ex.com/) | [做什么事，会让你废寝忘食？](https://www.v2ex.com/t/974831)
+- [V2EX](https://www.v2ex.com/) | [茅台近期的联动看上去是想打开青少年间的市场。你们会主动喝白酒吗？](https://www.v2ex.com/t/974760)
+
 ## 20230918
 - [V2EX](https://www.v2ex.com/) | [打算找个存储小说内容的方案，问有哪些地方可以免费存储？](https://www.v2ex.com/t/974609)
 - [V2EX](https://www.v2ex.com/) | [求证实，虽然经常被夸大，经过对比测试发现安卓内存确实没有 iPhone 的耐用，这个对比是否科学？](https://www.v2ex.com/t/974608)
