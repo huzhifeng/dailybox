@@ -1,3 +1,8 @@
+## 20230920
+- [Lobsters](https://lobste.rs/) | [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for)
+- [Lobsters](https://lobste.rs/) | [fx – terminal JSON viewer](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer)
+- [Lobsters](https://lobste.rs/) | [Java 21 Is Available Today, And It's Quite The Update](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite)
+
 ## 20230919
 - [Lobsters](https://lobste.rs/) | [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient)
 - [Lobsters](https://lobste.rs/) | [What If OpenDocument Used SQLite](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite)

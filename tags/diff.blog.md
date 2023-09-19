@@ -1,3 +1,8 @@
+## 20230920
+- [diff.blog](https://diff.blog/) | [Fixing For Loops in Go 1.22](https://diff.blog/post/fixing-for-loops-in-go-122-155474/)
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.72.1](https://diff.blog/post/announcing-rust-1721-155450/)
+- [diff.blog](https://diff.blog/) | [Python 3.12.0 release candidate 3 now available](https://diff.blog/post/python-3120-release-candidate-3-now-available-155439/)
+
 ## 20230919
 - [diff.blog](https://diff.blog/) | [Follow up to "Changing the rules of Rust"](https://diff.blog/post/follow-up-to-changing-the-rules-of-rust-155362/)
 - [diff.blog](https://diff.blog/) | [How to create an ergonomic desk setup](https://diff.blog/post/how-to-create-an-ergonomic-desk-setup-155371/)

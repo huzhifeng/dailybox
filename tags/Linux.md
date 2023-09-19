@@ -1,3 +1,20 @@
+## 20230920
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1129 SaaS 公司退云节省了 100 万美元](https://linux.cn/article-16206-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Perfecting Open Source Recipes in Paris](https://www.collabora.com/news-and-blog/news-and-events/perfecting-open-source-recipes-in-paris.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Write operators in Java with JOSDK, Part 4: Upgrading strategies](https://developers.redhat.com/articles/2023/09/19/write-operators-java-josdk-part-4-upgrading-strategies)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Looks To Be Very Lucrative For AMD Server Performance](https://www.phoronix.com/review/linux66-epyc-xeon)
+- [Phoronix](https://www.phoronix.com/) | [Intel Innovation 2023 Kicks Off With Meteor Lake & Emerald Rapids Launch Date: 14 Dec](https://www.phoronix.com/news/Intel-Innovation-2023)
+- [Phoronix](https://www.phoronix.com/) | [Java 21 / JDK 21 Reaches GA With Virtual Threads, Generational ZGC](https://www.phoronix.com/news/Java-21-Released)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Beta Released with GNOME 45 and Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-beta-released-with-gnome-45-linux-kernel-6-5)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Announces Nano Pro Gen12 Mini Linux PC Powered by AMD Ryzen 7000U](https://9to5linux.com/tuxedo-announces-nano-pro-gen12-mini-linux-pc-powered-by-amd-ryzen-7000u)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 39 Beta](https://fedoramagazine.org/announcing-fedora-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Installing minidlna](https://blog.trueelena.org/blog/2023/09/19-installing_minidlna/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Andrea Corbellini: How to run Remark42 on Fly.io](https://andrea.corbellini.name/2023/09/19/running-remark42-on-flyio/)
+- [Planet GNOME](https://planet.gnome.org/) | [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK](https://blog.gtk.org/2023/09/19/paths-in-gtk/)
+- [Planet KDE](https://planet.kde.org/) | [Meetup group related with technology in San Miguel De La Palma: next steps](https://toscalix.com/2023/09/19/meetup-group-related-with-technology-in-san-miguel-de-la-palma-next-steps/?utm_source=atom_feed)
+
 ## 20230919
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1128 有一个软件用了 32 年版本号才变成 6.6](https://linux.cn/article-16204-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Comparing OpenShift Service Mesh and Service Interconnect](https://developers.redhat.com/articles/2023/09/18/comparing-openshift-service-mesh-and-service-interconnect)

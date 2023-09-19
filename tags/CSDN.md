@@ -1,3 +1,9 @@
+## 20230920
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里全球数学竞赛诞生最年轻金奖得主；微软确认首席产品官离职；iOS 17 正式版发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133014003)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【探索AI潜能，连结现代通讯】相隔万里，我们与AI一同赏月。](https://blog.csdn.net/2301_77485708/article/details/132915185)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringBoot】| SpringBoot 集成 Redis](https://blog.csdn.net/m0_61933976/article/details/129385457)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [循环神经网络——下篇【深度学习】【PyTorch】【d2l】](https://blog.csdn.net/weixin_44041700/article/details/132968131)
+
 ## 20230919
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为回应卫星电话造假；iPhone15可使用安卓C口配件，但快充仍最高支持27W；PostgreSQL 16发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132977209)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [国庆中秋特辑（一）浪漫祝福方式 用循环神经网络（RNN）或长短时记忆网络（LSTM）生成祝福诗词](https://blog.csdn.net/superdangbo/article/details/132921765)

@@ -1,3 +1,6 @@
+## 20230920
+- [Hacker News](https://news.ycombinator.com/front) | [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://news.ycombinator.com/item?id=37570407)
+
 ## 20230919
 - [Hacker News](https://news.ycombinator.com/front) | [Data accidentally exposed by Microsoft AI researchers](https://news.ycombinator.com/item?id=37556605)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenRA – Classic strategy games rebuilt for the modern era](https://news.ycombinator.com/item?id=37553193)

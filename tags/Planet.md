@@ -1,3 +1,12 @@
+## 20230920
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 39 Beta](https://fedoramagazine.org/announcing-fedora-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Installing minidlna](https://blog.trueelena.org/blog/2023/09/19-installing_minidlna/index.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Andrea Corbellini: How to run Remark42 on Fly.io](https://andrea.corbellini.name/2023/09/19/running-remark42-on-flyio/)
+- [Planet GNOME](https://planet.gnome.org/) | [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK](https://blog.gtk.org/2023/09/19/paths-in-gtk/)
+- [Planet KDE](https://planet.kde.org/) | [Meetup group related with technology in San Miguel De La Palma: next steps](https://toscalix.com/2023/09/19/meetup-group-related-with-technology-in-san-miguel-de-la-palma-next-steps/?utm_source=atom_feed)
+
 ## 20230919
 - [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at Passkey Auth, Fedora CoreOS and IoT Test Week](https://fedoramagazine.org/contribute-at-passkey-auth-fedora-coreos-and-iot-test-week/)

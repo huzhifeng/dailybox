@@ -1,3 +1,8 @@
+## 20230920
+- [Medium Trending](https://medium.com/tag/trending) | [Avast Mac Security 13.12 Cracked for macOS](https://medium.com/@idmproofficial/avast-mac-security-13-12-cracked-for-macos-9bf1eaeef632?source=rss------trending-5)
+- [Medium Trending](https://medium.com/tag/trending) | [(Watch) Baby Alien Fan Van Got Leaked Video On Twitter](https://medium.com/@asepeamdan/watch-baby-alien-fan-van-got-leaked-video-on-twitter-ac256d7b60c5?source=rss------trending-5)
+- [Medium Trending](https://medium.com/tag/trending) | [RK ONLINE — Netizens were shocked by a viral video of a cat being blended for 66 seconds on social…](https://medium.com/@d1530327/rk-online-netizens-were-shocked-by-a-viral-video-of-a-cat-being-blended-for-66-seconds-on-social-50fff4d7be74?source=rss------trending-5)
+
 ## 20230919
 - [Medium Trending](https://medium.com/tag/trending) | [Aria Electra Baby Alien Fanbus Video — Baby Alien Fan Van Video Takes Social Media by Storm](https://medium.com/@puputpepet754/aria-electra-baby-alien-fanbus-video-baby-alien-fan-van-video-takes-social-media-by-storm-71e2edb0b73f?source=rss------trending-5)
 - [Medium Trending](https://medium.com/tag/trending) | [O PHP está pra morrer desde 1995…](https://gabrielblaporte.medium.com/o-php-est%C3%A1-pra-morrer-desde-1995-25dede765e4b?source=rss------trending-5)

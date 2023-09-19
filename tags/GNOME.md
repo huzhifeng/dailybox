@@ -1,3 +1,7 @@
+## 20230920
+- [Planet GNOME](https://planet.gnome.org/) | [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK](https://blog.gtk.org/2023/09/19/paths-in-gtk/)
+
 ## 20230916
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#113 Numerous Updates](https://thisweek.gnome.org/posts/2023/09/twig-113/)
 

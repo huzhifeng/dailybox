@@ -1,3 +1,6 @@
+## 20230920
+- [TED Talks Daily](https://www.ted.com/talks) | [How to supercharge renewables and energize the world | Rebecca Collyer](https://www.ted.com/talks/rebecca_collyer_how_to_supercharge_renewables_and_energize_the_world?rss)
+
 ## 20230919
 - [TED Talks Daily](https://www.ted.com/talks) | [An economy powered by sun and wind -- it's almost here | Kala Constantino](https://www.ted.com/talks/kala_constantino_an_economy_powered_by_sun_and_wind_it_s_almost_here?rss)
 
