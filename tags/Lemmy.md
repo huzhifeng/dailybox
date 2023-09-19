@@ -1,3 +1,8 @@
+## 20230920
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Wreck the economy because it only works for the billionaire class.](https://i.imgur.com/X9Yq3iP.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Really makes you wonder...](https://i.imgur.com/ilKequX.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [I have no idea what I'm doing](https://lemmy.ca/pictrs/image/8b773fc7-6f4a-4fec-ab21-6468a2b31469.jpeg)
+
 ## 20230919
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Removed Kbin.social communities](https://lemmy.world/post/5289864)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Whoopsy-daisy](https://lemmy.ml/pictrs/image/361cb477-d797-4bc0-8533-09c2d9439527.jpeg)

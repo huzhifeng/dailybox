@@ -1,3 +1,8 @@
+## 20230920
+- [Product Hunt](https://www.producthunt.com) | [Nara](https://www.producthunt.com/posts/nara-2)
+- [Product Hunt](https://www.producthunt.com) | [FusionArt AI](https://www.producthunt.com/posts/fusionart-ai)
+- [Product Hunt](https://www.producthunt.com) | [Virtual Sapiens](https://www.producthunt.com/posts/virtual-sapiens)
+
 ## 20230919
 - [Product Hunt](https://www.producthunt.com) | [Briefy](https://www.producthunt.com/posts/briefy)
 - [Product Hunt](https://www.producthunt.com) | [Picyard](https://www.producthunt.com/posts/picyard-2)

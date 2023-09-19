@@ -1,3 +1,6 @@
+## 20230920
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Perfecting Open Source Recipes in Paris](https://www.collabora.com/news-and-blog/news-and-events/perfecting-open-source-recipes-in-paris.html)
+
 ## 20230914
 - [Collabora](https://www.collabora.com/news-and-blog/) | [WhisperSpeech: Exploring New Horizons in Text-to-Speech Technology](https://www.collabora.com/news-and-blog/blog/2023/09/13/whisperspeech-exploring-new-horizons-in-text-to-speech-technology/)
 

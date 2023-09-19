@@ -1,3 +1,6 @@
+## 20230920
+- [It's FOSS](https://itsfoss.com/) | [Fixing Cannot add PPA: ''This PPA does not support jammy'' Error](https://itsfoss.com/cannot-add-ppa-error/)
+
 ## 20230919
 - [It's FOSS](https://itsfoss.com/) | [Install VirtualBox on Windows [So that You Can Run Linux VM]](https://itsfoss.com/install-virtualbox-windows/)
 

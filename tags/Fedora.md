@@ -1,3 +1,7 @@
+## 20230920
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 39 Beta](https://fedoramagazine.org/announcing-fedora-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
+
 ## 20230919
 - [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute at Passkey Auth, Fedora CoreOS and IoT Test Week](https://fedoramagazine.org/contribute-at-passkey-auth-fedora-coreos-and-iot-test-week/)

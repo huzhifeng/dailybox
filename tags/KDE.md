@@ -1,3 +1,6 @@
+## 20230920
+- [Planet KDE](https://planet.kde.org/) | [Meetup group related with technology in San Miguel De La Palma: next steps](https://toscalix.com/2023/09/19/meetup-group-related-with-technology-in-san-miguel-de-la-palma-next-steps/?utm_source=atom_feed)
+
 ## 20230919
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.1 released](https://kdenlive.org/en/2023/09/kdenlive-23-08-1-released/?utm_source=atom_feed)
 

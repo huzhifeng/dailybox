@@ -1,3 +1,8 @@
+## 20230920
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Looks To Be Very Lucrative For AMD Server Performance](https://www.phoronix.com/review/linux66-epyc-xeon)
+- [Phoronix](https://www.phoronix.com/) | [Intel Innovation 2023 Kicks Off With Meteor Lake & Emerald Rapids Launch Date: 14 Dec](https://www.phoronix.com/news/Intel-Innovation-2023)
+- [Phoronix](https://www.phoronix.com/) | [Java 21 / JDK 21 Reaches GA With Virtual Threads, Generational ZGC](https://www.phoronix.com/news/Java-21-Released)
+
 ## 20230919
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Releases A Big Update To Windows Subsystem For Linux, New Experimental Options](https://www.phoronix.com/news/WSL-Big-September-Update)
 - [Phoronix](https://www.phoronix.com/) | [Nouveau Patches Posted For Running On NVIDIA GSP-RM Firmware, Initial RTX 40 Ada Support](https://www.phoronix.com/news/Nouveau-Patches-Run-On-GSP-Blob)

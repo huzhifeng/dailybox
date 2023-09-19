@@ -1,3 +1,6 @@
+## 20230920
+- [Red Hat Developer](https://developers.redhat.com/) | [Write operators in Java with JOSDK, Part 4: Upgrading strategies](https://developers.redhat.com/articles/2023/09/19/write-operators-java-josdk-part-4-upgrading-strategies)
+
 ## 20230919
 - [Red Hat Developer](https://developers.redhat.com/) | [Comparing OpenShift Service Mesh and Service Interconnect](https://developers.redhat.com/articles/2023/09/18/comparing-openshift-service-mesh-and-service-interconnect)
 - [Red Hat Developer](https://developers.redhat.com/) | [A statistics update in Open vSwitch user space datapath](https://developers.redhat.com/articles/2023/09/18/statistics-update-open-vswitch-user-space-datapath)

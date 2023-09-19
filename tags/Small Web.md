@@ -1,3 +1,8 @@
+## 20230920
+- [Kagi Small Web](https://kagi.com/smallweb) | [New King Louie Bankston: Trinkets](https://gloriousnoise.com/2023/new-king-louie-bankston-trinkets)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [&ldquo;The man who says that he has no illusions has at least that one.&rdquo; ― Joseph Conrad](https://putah-creek.tumblr.com/post/728913521493098496)
+
 ## 20230919
 - [Kagi Small Web](https://kagi.com/smallweb) | [Two Poem Drafts](https://branemrys.blogspot.com/2023/09/two-poem-drafts.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Is this about the poll or about the people? (model this)](https://marginalrevolution.com/marginalrevolution/2023/09/is-this-about-the-poll-or-about-the-people-model-this.html)
