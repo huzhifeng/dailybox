@@ -1,3 +1,8 @@
+## 20230921
+- [Product Hunt](https://www.producthunt.com) | [MUBR](https://www.producthunt.com/posts/mubr)
+- [Product Hunt](https://www.producthunt.com) | [Airplane Autopilot](https://www.producthunt.com/posts/airplane-autopilot)
+- [Product Hunt](https://www.producthunt.com) | [Cardinal](https://www.producthunt.com/posts/cardinal-6)
+
 ## 20230920
 - [Product Hunt](https://www.producthunt.com) | [Nara](https://www.producthunt.com/posts/nara-2)
 - [Product Hunt](https://www.producthunt.com) | [FusionArt AI](https://www.producthunt.com/posts/fusionart-ai)

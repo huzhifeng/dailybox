@@ -1,3 +1,21 @@
+## 20230921
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1130 二季度英伟达 H100 GPU 出货超过 900 吨](https://linux.cn/article-16209-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Which Camel DSL should you use?](https://developers.redhat.com/articles/2023/09/20/which-camel-dsl-should-you-use)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate your AMQ streams platform with Ansible](https://developers.redhat.com/articles/2023/09/20/automate-your-amq-streams-platform-ansible)
+- [Phoronix](https://www.phoronix.com/) | [GNOME 45 Released With New Apps, New Activities Indicator](https://www.phoronix.com/news/GNOME-45-Released)
+- [Phoronix](https://www.phoronix.com/) | [Wine Wayland Driver Updated With Basic Window Management Capabilities](https://www.phoronix.com/news/Wine-Wayland-WM)
+- [Phoronix](https://www.phoronix.com/) | [Intel To Further Collaborate With Red Hat, Canonical & SUSE For Intel-Optimized Linux Distros](https://www.phoronix.com/news/Intel-Optimized-Linux-Distros)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.5 Arrives with Improvements for GNOME Software, Epiphany, and More](https://9to5linux.com/gnome-44-5-arrives-with-improvements-for-gnome-software-epiphany-and-more)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 &#8220;Riga&#8221; Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/gnome-45-riga-desktop-environment-officially-released-this-is-whats-new)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: How to rebase to Fedora Silverblue 39 Beta](https://communityblog.fedoraproject.org/how-to-rebase-to-fedora-silverblue-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: SBOM and vulnerability scanning](https://kushaldas.in/posts/sbom-and-vulnerability-scanning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 301](https://cockpit-project.org//blog/cockpit-301.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Test post](https://jonathancarter.org/2023/09/20/test-post/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppInt64 0.0.3 on CRAN: Now with nanotime Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: Haskell webassembly in the browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
+- [Planet KDE](https://planet.kde.org/) | [GSoC '23: Wrapping Up](https://shivoditg.hashnode.dev/gsoc-23-wrapping-up?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Long-Term Support For Linux Kernel To Be Cut As Maintenance Remains Under Strain](https://linux.slashdot.org/story/23/09/19/2216251/long-term-support-for-linux-kernel-to-be-cut-as-maintenance-remains-under-strain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230920
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1129 SaaS 公司退云节省了 100 万美元](https://linux.cn/article-16206-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Perfecting Open Source Recipes in Paris](https://www.collabora.com/news-and-blog/news-and-events/perfecting-open-source-recipes-in-paris.html)

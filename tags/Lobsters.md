@@ -1,3 +1,8 @@
+## 20230921
+- [Lobsters](https://lobste.rs/) | [XML is better than YAML](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml)
+- [Lobsters](https://lobste.rs/) | [gokrazy is really cool](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool)
+- [Lobsters](https://lobste.rs/) | [OpenTofu](https://lobste.rs/s/z7wuy3/opentofu)
+
 ## 20230920
 - [Lobsters](https://lobste.rs/) | [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for)
 - [Lobsters](https://lobste.rs/) | [fx – terminal JSON viewer](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer)

@@ -1,3 +1,6 @@
+## 20230921
+- [Planet KDE](https://planet.kde.org/) | [GSoC '23: Wrapping Up](https://shivoditg.hashnode.dev/gsoc-23-wrapping-up?utm_source=atom_feed)
+
 ## 20230920
 - [Planet KDE](https://planet.kde.org/) | [Meetup group related with technology in San Miguel De La Palma: next steps](https://toscalix.com/2023/09/19/meetup-group-related-with-technology-in-san-miguel-de-la-palma-next-steps/?utm_source=atom_feed)
 

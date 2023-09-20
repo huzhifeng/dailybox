@@ -1,3 +1,6 @@
+## 20230921
+- [Slashdot](https://linux.slashdot.org/) | [Long-Term Support For Linux Kernel To Be Cut As Maintenance Remains Under Strain](https://linux.slashdot.org/story/23/09/19/2216251/long-term-support-for-linux-kernel-to-be-cut-as-maintenance-remains-under-strain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230919
 - [Slashdot](https://developers.slashdot.org/) | [Unity Overhauls Controversial Price Hike After Game Developers Revolt](https://games.slashdot.org/story/23/09/18/184244/unity-overhauls-controversial-price-hike-after-game-developers-revolt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [JetBrains Previews 'RustRover', a New Dedicated IDE for Rust Developers](https://developers.slashdot.org/story/23/09/18/0126206/jetbrains-previews-rustrover-a-new-dedicated-ide-for-rust-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)

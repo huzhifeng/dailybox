@@ -1,3 +1,7 @@
+## 20230921
+- [Red Hat Developer](https://developers.redhat.com/) | [Which Camel DSL should you use?](https://developers.redhat.com/articles/2023/09/20/which-camel-dsl-should-you-use)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate your AMQ streams platform with Ansible](https://developers.redhat.com/articles/2023/09/20/automate-your-amq-streams-platform-ansible)
+
 ## 20230920
 - [Red Hat Developer](https://developers.redhat.com/) | [Write operators in Java with JOSDK, Part 4: Upgrading strategies](https://developers.redhat.com/articles/2023/09/19/write-operators-java-josdk-part-4-upgrading-strategies)
 

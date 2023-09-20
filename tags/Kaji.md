@@ -1,3 +1,8 @@
+## 20230921
+- [Kagi Small Web](https://kagi.com/smallweb) | [Four Quick Links for Wednesday Noonish](https://kottke.org/quick-links)
+- [Kagi Small Web](https://kagi.com/smallweb) | [[$] Using the limited C API for the Python stdlib?](https://lwn.net/Articles/944764/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [TypeScript: The Movie](https://johnnyreilly.com/typescript-documentary)
+
 ## 20230920
 - [Kagi Small Web](https://kagi.com/smallweb) | [New King Louie Bankston: Trinkets](https://gloriousnoise.com/2023/new-king-louie-bankston-trinkets)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)

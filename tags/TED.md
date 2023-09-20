@@ -1,3 +1,6 @@
+## 20230921
+- [TED Talks Daily](https://www.ted.com/talks) | [Can AI help solve the climate crisis? | Sims Witherspoon](https://www.ted.com/talks/sims_witherspoon_can_ai_help_solve_the_climate_crisis?rss)
+
 ## 20230920
 - [TED Talks Daily](https://www.ted.com/talks) | [How to supercharge renewables and energize the world | Rebecca Collyer](https://www.ted.com/talks/rebecca_collyer_how_to_supercharge_renewables_and_energize_the_world?rss)
 

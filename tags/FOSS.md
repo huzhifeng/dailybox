@@ -1,3 +1,8 @@
+## 20230921
+- [It's FOSS](https://itsfoss.com/) | [Memory Match Linux Distro Logos](https://itsfoss.com/quiz/memory-match-distro-logo/)
+- [It's FOSS](https://itsfoss.com/) | [Match File Managers](https://itsfoss.com/quiz/match-file-managers/)
+- [It's FOSS](https://itsfoss.com/) | [Match the Fun Linux Commands](https://itsfoss.com/quiz/fun-linux-commands/)
+
 ## 20230920
 - [It's FOSS](https://itsfoss.com/) | [Fixing Cannot add PPA: ''This PPA does not support jammy'' Error](https://itsfoss.com/cannot-add-ppa-error/)
 
