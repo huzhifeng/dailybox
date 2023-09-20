@@ -1,3 +1,7 @@
+## 20230921
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.5 Arrives with Improvements for GNOME Software, Epiphany, and More](https://9to5linux.com/gnome-44-5-arrives-with-improvements-for-gnome-software-epiphany-and-more)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45 &#8220;Riga&#8221; Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/gnome-45-riga-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20230920
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Beta Released with GNOME 45 and Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-beta-released-with-gnome-45-linux-kernel-6-5)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Announces Nano Pro Gen12 Mini Linux PC Powered by AMD Ryzen 7000U](https://9to5linux.com/tuxedo-announces-nano-pro-gen12-mini-linux-pc-powered-by-amd-ryzen-7000u)

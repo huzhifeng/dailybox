@@ -1,3 +1,9 @@
+## 20230921
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [任正非最新讲话曝光：苹果是华为的老师；微软 AI 团队意外泄露 38TB 数据；JDK 21 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133065819)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第四章 Spring Cloud Netflix 之 Eureka](https://blog.csdn.net/s445320/article/details/133024912)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [国庆中秋特辑（二）浪漫祝福方式 使用生成对抗网络（GAN）生成具有节日氛围的画作](https://blog.csdn.net/superdangbo/article/details/133049631)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [中秋猜灯谜小游戏](https://blog.csdn.net/weixin_42794881/article/details/133039446)
+
 ## 20230920
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里全球数学竞赛诞生最年轻金奖得主；微软确认首席产品官离职；iOS 17 正式版发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133014003)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【探索AI潜能，连结现代通讯】相隔万里，我们与AI一同赏月。](https://blog.csdn.net/2301_77485708/article/details/132915185)

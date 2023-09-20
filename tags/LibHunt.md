@@ -1,3 +1,7 @@
+## 20230921
+- [LibHunt](https://www.libhunt.com/) | [stride-website](https://www.libhunt.com/r/stride-website)
+- [LibHunt](https://www.libhunt.com/) | [kamal](https://www.libhunt.com/r/kamal)
+
 ## 20230920
 - [LibHunt](https://www.libhunt.com/) | [catala](https://www.libhunt.com/r/catala)
 - [LibHunt](https://www.libhunt.com/) | [gnaro](https://www.libhunt.com/r/gnaro)

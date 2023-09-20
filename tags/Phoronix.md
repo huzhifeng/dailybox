@@ -1,3 +1,8 @@
+## 20230921
+- [Phoronix](https://www.phoronix.com/) | [GNOME 45 Released With New Apps, New Activities Indicator](https://www.phoronix.com/news/GNOME-45-Released)
+- [Phoronix](https://www.phoronix.com/) | [Wine Wayland Driver Updated With Basic Window Management Capabilities](https://www.phoronix.com/news/Wine-Wayland-WM)
+- [Phoronix](https://www.phoronix.com/) | [Intel To Further Collaborate With Red Hat, Canonical & SUSE For Intel-Optimized Linux Distros](https://www.phoronix.com/news/Intel-Optimized-Linux-Distros)
+
 ## 20230920
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6 Looks To Be Very Lucrative For AMD Server Performance](https://www.phoronix.com/review/linux66-epyc-xeon)
 - [Phoronix](https://www.phoronix.com/) | [Intel Innovation 2023 Kicks Off With Meteor Lake & Emerald Rapids Launch Date: 14 Dec](https://www.phoronix.com/news/Intel-Innovation-2023)

@@ -1,3 +1,8 @@
+## 20230921
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: How to rebase to Fedora Silverblue 39 Beta](https://communityblog.fedoraproject.org/how-to-rebase-to-fedora-silverblue-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: SBOM and vulnerability scanning](https://kushaldas.in/posts/sbom-and-vulnerability-scanning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 301](https://cockpit-project.org//blog/cockpit-301.html)
+
 ## 20230920
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 39 Beta](https://fedoramagazine.org/announcing-fedora-39-beta/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)

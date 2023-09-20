@@ -1,3 +1,12 @@
+## 20230921
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: How to rebase to Fedora Silverblue 39 Beta](https://communityblog.fedoraproject.org/how-to-rebase-to-fedora-silverblue-39-beta/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: SBOM and vulnerability scanning](https://kushaldas.in/posts/sbom-and-vulnerability-scanning.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 301](https://cockpit-project.org//blog/cockpit-301.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: Test post](https://jonathancarter.org/2023/09/20/test-post/)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: RcppInt64 0.0.3 on CRAN: Now with nanotime Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: Haskell webassembly in the browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
+- [Planet KDE](https://planet.kde.org/) | [GSoC '23: Wrapping Up](https://shivoditg.hashnode.dev/gsoc-23-wrapping-up?utm_source=atom_feed)
+
 ## 20230920
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 39 Beta](https://fedoramagazine.org/announcing-fedora-39-beta/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Sortie de Fedora Linux 39 Beta](https://blog.fedora-fr.org/renault/post/Sortie-de-Fedora-Linux-39-Beta)

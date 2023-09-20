@@ -1,3 +1,8 @@
+## 20230921
+- [Hacker News](https://news.ycombinator.com/front) | [Car allergic to vanilla ice cream (2000)](https://news.ycombinator.com/item?id=37584399)
+- [Hacker News](https://news.ycombinator.com/front) | [My uBlock Origin filters to remove distractions](https://news.ycombinator.com/item?id=37584134)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://news.ycombinator.com/item?id=37584049)
+
 ## 20230920
 - [Hacker News](https://news.ycombinator.com/front) | [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://news.ycombinator.com/item?id=37570407)
 

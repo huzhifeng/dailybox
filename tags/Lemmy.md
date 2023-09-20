@@ -1,3 +1,8 @@
+## 20230921
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [there is Indeed a problem](https://lemmy.world/pictrs/image/8d388e23-0bdc-43d8-acc7-a9a3643f4092.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hard work](https://lemmy.world/pictrs/image/eea0b6c2-ddef-49d1-b823-a6a17e14c9e6.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Btw, I'm..](https://lemmy.ml/pictrs/image/ac8d77f7-bb83-4f61-8781-b42b2e3204bf.jpeg)
+
 ## 20230920
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Wreck the economy because it only works for the billionaire class.](https://i.imgur.com/X9Yq3iP.png)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Really makes you wonder...](https://i.imgur.com/ilKequX.png)

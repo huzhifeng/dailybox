@@ -1,3 +1,7 @@
+## 20230921
+- [diff.blog](https://diff.blog/) | [gokrazy is really cool](https://diff.blog/post/gokrazy-is-really-cool-155517/)
+- [diff.blog](https://diff.blog/) | [Generic trait methods and new auto traits](https://diff.blog/post/generic-trait-methods-and-new-auto-traits-155536/)
+
 ## 20230920
 - [diff.blog](https://diff.blog/) | [Fixing For Loops in Go 1.22](https://diff.blog/post/fixing-for-loops-in-go-122-155474/)
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.72.1](https://diff.blog/post/announcing-rust-1721-155450/)
