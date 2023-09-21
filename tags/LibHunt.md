@@ -1,3 +1,7 @@
+## 20230922
+- [LibHunt](https://www.libhunt.com/) | [hyperdx](https://www.libhunt.com/r/hyperdx)
+- [LibHunt](https://www.libhunt.com/) | [openvino](https://www.libhunt.com/r/openvino)
+
 ## 20230921
 - [LibHunt](https://www.libhunt.com/) | [stride-website](https://www.libhunt.com/r/stride-website)
 - [LibHunt](https://www.libhunt.com/) | [kamal](https://www.libhunt.com/r/kamal)

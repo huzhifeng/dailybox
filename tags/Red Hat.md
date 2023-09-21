@@ -1,3 +1,8 @@
+## 20230922
+- [Red Hat Developer](https://developers.redhat.com/) | [The Red Hat community commitment to open source](https://developers.redhat.com/articles/2023/09/21/red-hat-community-commitment-open-source)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in JDK 21](https://developers.redhat.com/articles/2023/09/21/whats-new-developers-jdk-21)
+- [Red Hat Developer](https://developers.redhat.com/) | [How SELinux improves Red Hat Enterprise Linux security](https://developers.redhat.com/articles/2023/09/21/how-selinux-improves-red-hat-enterprise-linux-security)
+
 ## 20230921
 - [Red Hat Developer](https://developers.redhat.com/) | [Which Camel DSL should you use?](https://developers.redhat.com/articles/2023/09/20/which-camel-dsl-should-you-use)
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate your AMQ streams platform with Ansible](https://developers.redhat.com/articles/2023/09/20/automate-your-amq-streams-platform-ansible)

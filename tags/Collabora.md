@@ -1,3 +1,6 @@
+## 20230922
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Pressing Play on GStreamer 2023](https://www.collabora.com/news-and-blog/news-and-events/pressing-play-on-gstreamer-2023.html)
+
 ## 20230920
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Perfecting Open Source Recipes in Paris](https://www.collabora.com/news-and-blog/news-and-events/perfecting-open-source-recipes-in-paris.html)
 

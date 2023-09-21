@@ -1,3 +1,7 @@
+## 20230922
+- [Planet GNOME](https://planet.gnome.org/) | [On the Usefulness of SO_PEERPIDFD](https://blog.sebastianwick.net/posts/so-peerpidfd-usefulness/)
+- [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK, part 2](https://blog.gtk.org/2023/09/21/paths-in-gtk-part-2/)
+
 ## 20230920
 - [Planet GNOME](https://planet.gnome.org/) | [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK](https://blog.gtk.org/2023/09/19/paths-in-gtk/)

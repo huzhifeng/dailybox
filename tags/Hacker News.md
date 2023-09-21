@@ -1,3 +1,7 @@
+## 20230922
+- [Hacker News](https://news.ycombinator.com/front) | [Matrix 2.0: The Future of Matrix](https://news.ycombinator.com/item?id=37599510)
+- [Hacker News](https://news.ycombinator.com/front) | [Cisco Acquires Splunk](https://news.ycombinator.com/item?id=37596497)
+
 ## 20230921
 - [Hacker News](https://news.ycombinator.com/front) | [Car allergic to vanilla ice cream (2000)](https://news.ycombinator.com/item?id=37584399)
 - [Hacker News](https://news.ycombinator.com/front) | [My uBlock Origin filters to remove distractions](https://news.ycombinator.com/item?id=37584134)
