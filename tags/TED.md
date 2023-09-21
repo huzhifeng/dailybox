@@ -1,3 +1,7 @@
+## 20230922
+- [TED Talks Daily](https://www.ted.com/talks) | [The simple solution to fast fashion | Josephine Philips](https://www.ted.com/talks/josephine_philips_the_simple_solution_to_fast_fashion?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [The secret to successfully pitching an idea | Mar Hershenson](https://www.ted.com/talks/mar_hershenson_the_secret_to_successfully_pitching_an_idea?rss)
+
 ## 20230921
 - [TED Talks Daily](https://www.ted.com/talks) | [Can AI help solve the climate crisis? | Sims Witherspoon](https://www.ted.com/talks/sims_witherspoon_can_ai_help_solve_the_climate_crisis?rss)
 

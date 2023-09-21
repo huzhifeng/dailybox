@@ -1,3 +1,8 @@
+## 20230922
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Astonishing](https://sh.itjust.works/pictrs/image/236b2674-991f-4ff8-9757-6da395c3f723.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Deregulation will surely help the housing crisis 🤡](https://lemmy.ml/pictrs/image/162fba41-3fcb-47f5-8a61-0d02119be44c.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Stop doing Computer Science](https://feddit.de/pictrs/image/ae889cdb-4914-4dff-a42f-30562045224d.png)
+
 ## 20230921
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [there is Indeed a problem](https://lemmy.world/pictrs/image/8d388e23-0bdc-43d8-acc7-a9a3643f4092.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hard work](https://lemmy.world/pictrs/image/eea0b6c2-ddef-49d1-b823-a6a17e14c9e6.jpeg)

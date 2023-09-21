@@ -1,3 +1,8 @@
+## 20230922
+- [Product Hunt](https://www.producthunt.com) | [Visualizee.ai](https://www.producthunt.com/posts/visualizee-ai)
+- [Product Hunt](https://www.producthunt.com) | [Autodevs by Create](https://www.producthunt.com/posts/autodevs-by-create)
+- [Product Hunt](https://www.producthunt.com) | [Môveo AI](https://www.producthunt.com/posts/moveo-ai)
+
 ## 20230921
 - [Product Hunt](https://www.producthunt.com) | [MUBR](https://www.producthunt.com/posts/mubr)
 - [Product Hunt](https://www.producthunt.com) | [Airplane Autopilot](https://www.producthunt.com/posts/airplane-autopilot)

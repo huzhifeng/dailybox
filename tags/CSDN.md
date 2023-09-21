@@ -1,3 +1,9 @@
+## 20230922
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [孟晚舟：华为致力于打造中国算力底座，支持大模型百花齐放 ；OpenAI 发布 DALL-E 3；传高通中国裁员|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133123865)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第四章 Spring Cloud Netflix 之 Eureka](https://blog.csdn.net/s445320/article/details/133024912)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [国庆中秋特辑（二）浪漫祝福方式 使用生成对抗网络（GAN）生成具有节日氛围的画作](https://blog.csdn.net/superdangbo/article/details/133049631)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Baichuan2源码解析之：Baichuan2-13B-Chat/modelling_baichuan.py](https://blog.csdn.net/sinat_37574187/article/details/133090157)
+
 ## 20230921
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [任正非最新讲话曝光：苹果是华为的老师；微软 AI 团队意外泄露 38TB 数据；JDK 21 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133065819)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第四章 Spring Cloud Netflix 之 Eureka](https://blog.csdn.net/s445320/article/details/133024912)

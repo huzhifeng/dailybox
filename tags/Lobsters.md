@@ -1,3 +1,8 @@
+## 20230922
+- [Lobsters](https://lobste.rs/) | [Most UI Applications are Broken Real-time Applications](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time)
+- [Lobsters](https://lobste.rs/) | [Mastodon 4.2](https://lobste.rs/s/ph57od/mastodon_4_2)
+- [Lobsters](https://lobste.rs/) | [The first arm64 CPU launch](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch)
+
 ## 20230921
 - [Lobsters](https://lobste.rs/) | [XML is better than YAML](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml)
 - [Lobsters](https://lobste.rs/) | [gokrazy is really cool](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool)

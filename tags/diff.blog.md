@@ -1,3 +1,7 @@
+## 20230922
+- [diff.blog](https://diff.blog/) | [Deciding for ourselves: 98% of people want a browser choice screen, Mozilla study finds](https://diff.blog/post/deciding-for-ourselves-98-of-people-want-a-browser-choice-screen-mozilla-study-finds-155588/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 513](https://diff.blog/post/this-week-in-rust-513-155573/)
+
 ## 20230921
 - [diff.blog](https://diff.blog/) | [gokrazy is really cool](https://diff.blog/post/gokrazy-is-really-cool-155517/)
 - [diff.blog](https://diff.blog/) | [Generic trait methods and new auto traits](https://diff.blog/post/generic-trait-methods-and-new-auto-traits-155536/)

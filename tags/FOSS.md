@@ -1,3 +1,8 @@
+## 20230922
+- [It's FOSS](https://itsfoss.com/) | [Jigsaw Puzzle: File Commands](https://itsfoss.com/quiz/jigsaw-file-commands/)
+- [It's FOSS](https://itsfoss.com/) | [Memory Match Linux Distros and Their Package Manager](https://itsfoss.com/quiz/match-distros-package-manager/)
+- [It's FOSS](https://itsfoss.com/) | [Can You Guess the Correctly Spelled Linux Terms?](https://itsfoss.com/quiz/guess-misspelled-linux-terms/)
+
 ## 20230921
 - [It's FOSS](https://itsfoss.com/) | [Memory Match Linux Distro Logos](https://itsfoss.com/quiz/memory-match-distro-logo/)
 - [It's FOSS](https://itsfoss.com/) | [Match File Managers](https://itsfoss.com/quiz/match-file-managers/)

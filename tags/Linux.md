@@ -1,3 +1,18 @@
+## 20230922
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1131 大模型“深吸一口气”后会更聪明](https://linux.cn/article-16213-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Pressing Play on GStreamer 2023](https://www.collabora.com/news-and-blog/news-and-events/pressing-play-on-gstreamer-2023.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [The Red Hat community commitment to open source](https://developers.redhat.com/articles/2023/09/21/red-hat-community-commitment-open-source)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in JDK 21](https://developers.redhat.com/articles/2023/09/21/whats-new-developers-jdk-21)
+- [Red Hat Developer](https://developers.redhat.com/) | [How SELinux improves Red Hat Enterprise Linux security](https://developers.redhat.com/articles/2023/09/21/how-selinux-improves-red-hat-enterprise-linux-security)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 With AMD P-State EPP Default Brings Performance & Power Efficiency Benefits For Ryzen Servers](https://www.phoronix.com/review/linux65-ryzen-servers)
+- [Phoronix](https://www.phoronix.com/) | [PuzzleFS Continues Striving To Be The Best File-System For Containers](https://www.phoronix.com/news/PuzzleFS-Development-Continues)
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU LLVM Backend Begins Seeing Additions For New RDNA3 Refresh Instructions](https://www.phoronix.com/news/GFX1150-SALU-Float)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE at Flock 2023](https://communityblog.fedoraproject.org/cpe-at-flock-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: DebConf23](https://jonathancarter.org/2023/09/21/debconf23/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf23 Writeup](https://www.earth.li/~noodles/blog/2023/09/debconf23-writeup.html)
+- [Planet GNOME](https://planet.gnome.org/) | [On the Usefulness of SO_PEERPIDFD](https://blog.sebastianwick.net/posts/so-peerpidfd-usefulness/)
+- [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK, part 2](https://blog.gtk.org/2023/09/21/paths-in-gtk-part-2/)
+
 ## 20230921
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1130 二季度英伟达 H100 GPU 出货超过 900 吨](https://linux.cn/article-16209-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Which Camel DSL should you use?](https://developers.redhat.com/articles/2023/09/20/which-camel-dsl-should-you-use)

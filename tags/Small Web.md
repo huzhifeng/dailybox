@@ -1,3 +1,8 @@
+## 20230922
+- [Kagi Small Web](https://kagi.com/smallweb) | [Mastering Web Typography (workshop)](https://elliotjaystocks.com/speaking/#ilt-workshop)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Is this service design?](https://cathydutton.co.uk/posts/is-this-service-design/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Test RSS](https://www.sahilparikh.com/posts/2023/testrss/)
+
 ## 20230921
 - [Kagi Small Web](https://kagi.com/smallweb) | [Four Quick Links for Wednesday Noonish](https://kottke.org/quick-links)
 - [Kagi Small Web](https://kagi.com/smallweb) | [[$] Using the limited C API for the Python stdlib?](https://lwn.net/Articles/944764/)

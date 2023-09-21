@@ -1,3 +1,6 @@
+## 20230922
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE at Flock 2023](https://communityblog.fedoraproject.org/cpe-at-flock-2023/)
+
 ## 20230921
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: How to rebase to Fedora Silverblue 39 Beta](https://communityblog.fedoraproject.org/how-to-rebase-to-fedora-silverblue-39-beta/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: SBOM and vulnerability scanning](https://kushaldas.in/posts/sbom-and-vulnerability-scanning.html)

@@ -1,3 +1,8 @@
+## 20230922
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.5 With AMD P-State EPP Default Brings Performance & Power Efficiency Benefits For Ryzen Servers](https://www.phoronix.com/review/linux65-ryzen-servers)
+- [Phoronix](https://www.phoronix.com/) | [PuzzleFS Continues Striving To Be The Best File-System For Containers](https://www.phoronix.com/news/PuzzleFS-Development-Continues)
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU LLVM Backend Begins Seeing Additions For New RDNA3 Refresh Instructions](https://www.phoronix.com/news/GFX1150-SALU-Float)
+
 ## 20230921
 - [Phoronix](https://www.phoronix.com/) | [GNOME 45 Released With New Apps, New Activities Indicator](https://www.phoronix.com/news/GNOME-45-Released)
 - [Phoronix](https://www.phoronix.com/) | [Wine Wayland Driver Updated With Basic Window Management Capabilities](https://www.phoronix.com/news/Wine-Wayland-WM)
