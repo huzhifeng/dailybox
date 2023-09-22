@@ -1,3 +1,6 @@
+## 20230923
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 38 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-38-2023/)
+
 ## 20230922
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE at Flock 2023](https://communityblog.fedoraproject.org/cpe-at-flock-2023/)
 

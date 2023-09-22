@@ -1,3 +1,11 @@
+## 20230923
+- [Kagi Small Web](https://kagi.com/smallweb) | [Mastering Web Typography (workshop)](https://elliotjaystocks.com/speaking/#ilt-workshop)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Smashing Mountains and Striking Oxen](https://samim.io/p/2023-09-22-smashing-mountains-and-striking-oxen)
+- [Kagi Small Web](https://kagi.com/smallweb) | [abadbadbrujah:dovewithscales:slimedivine:
+dovewithscales:
+
+shieka...](https://macleod.tumblr.com/post/729189515951046656)
+
 ## 20230922
 - [Kagi Small Web](https://kagi.com/smallweb) | [Mastering Web Typography (workshop)](https://elliotjaystocks.com/speaking/#ilt-workshop)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Is this service design?](https://cathydutton.co.uk/posts/is-this-service-design/)

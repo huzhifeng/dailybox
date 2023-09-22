@@ -1,3 +1,8 @@
+## 20230923
+- [Lobsters](https://lobste.rs/) | [GitHub Actions could be so much better](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better)
+- [Lobsters](https://lobste.rs/) | [The invisible problem (of text editing on mobile)](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile)
+- [Lobsters](https://lobste.rs/) | [Generations-based map vs sparse map](https://lobste.rs/s/3k7me7/generations_based_map_vs_sparse_map)
+
 ## 20230922
 - [Lobsters](https://lobste.rs/) | [Most UI Applications are Broken Real-time Applications](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time)
 - [Lobsters](https://lobste.rs/) | [Mastodon 4.2](https://lobste.rs/s/ph57od/mastodon_4_2)

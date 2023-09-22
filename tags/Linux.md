@@ -1,3 +1,19 @@
+## 20230923
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1132 OpenAI 宣布 DALL-E 3，让提示工程过时](https://linux.cn/article-16216-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q3.2 Released With Quadbuffer Stereo, Quake 2 RTX Optimizations](https://www.phoronix.com/news/AMDVLK-2023.Q3.2-Released)
+- [Phoronix](https://www.phoronix.com/) | [Valve Is A Wonderful Upstream Contributor To Linux & The Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+- [Phoronix](https://www.phoronix.com/) | [Compute Runtime 23.30.26918.9 Released For Intel's Open-Source GPU Compute Stack](https://www.phoronix.com/news/Intel-CR-23.30.26918.9)
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2023.09 Adds KDE Gear 23.08, Focus To Shift On KDE Plasma 6 ISO](https://9to5linux.com/kaos-linux-2023-09-adds-kde-gear-23-08-focus-to-shift-on-kde-plasma-6-iso)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Beta Released with GNOME 45 and Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-beta-released-with-gnome-45-and-linux-kernel-6-5)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 38 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-38-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Debconf23](https://ravidwivedi.in/posts/debconf23/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/)
+- [Planet GNOME](https://planet.gnome.org/) | [NewsFlash 3.0](https://blogs.gnome.org/jangernert/2023/09/22/newsflash-3-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-38](https://ervin.ipsquad.net/blog/2023/09/22/web-review-week-2023-38/?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+
 ## 20230922
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1131 大模型“深吸一口气”后会更聪明](https://linux.cn/article-16213-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Pressing Play on GStreamer 2023](https://www.collabora.com/news-and-blog/news-and-events/pressing-play-on-gstreamer-2023.html)

@@ -1,3 +1,6 @@
+## 20230923
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [武汉周边遛娃景点](https://manateelazycat.github.io/2023/09/22/wuhan-travel/)
+
 ## 20230912
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Fcitx 最佳配置实践 2023-09-11](https://manateelazycat.github.io/2023/09/11/fcitx-best-config/)
 

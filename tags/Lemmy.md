@@ -1,3 +1,8 @@
+## 20230923
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Lemmy.World Minecraft Server Announcement](https://lemmy.world/post/5521676)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Adjust your priorities](https://lemmy.world/pictrs/image/27ba4cdb-8467-4b92-87a5-23a4044bad7a.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Well trained](https://lemmy.world/pictrs/image/5a9f915f-ca9e-4711-a085-dcac721709c5.jpeg)
+
 ## 20230922
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Astonishing](https://sh.itjust.works/pictrs/image/236b2674-991f-4ff8-9757-6da395c3f723.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Deregulation will surely help the housing crisis 🤡](https://lemmy.ml/pictrs/image/162fba41-3fcb-47f5-8a61-0d02119be44c.jpeg)

@@ -1,3 +1,8 @@
+## 20230923
+- [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q3.2 Released With Quadbuffer Stereo, Quake 2 RTX Optimizations](https://www.phoronix.com/news/AMDVLK-2023.Q3.2-Released)
+- [Phoronix](https://www.phoronix.com/) | [Valve Is A Wonderful Upstream Contributor To Linux & The Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+- [Phoronix](https://www.phoronix.com/) | [Compute Runtime 23.30.26918.9 Released For Intel's Open-Source GPU Compute Stack](https://www.phoronix.com/news/Intel-CR-23.30.26918.9)
+
 ## 20230922
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.5 With AMD P-State EPP Default Brings Performance & Power Efficiency Benefits For Ryzen Servers](https://www.phoronix.com/review/linux65-ryzen-servers)
 - [Phoronix](https://www.phoronix.com/) | [PuzzleFS Continues Striving To Be The Best File-System For Containers](https://www.phoronix.com/news/PuzzleFS-Development-Continues)

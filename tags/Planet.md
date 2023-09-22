@@ -1,3 +1,12 @@
+## 20230923
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 38 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-38-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Debconf23](https://ravidwivedi.in/posts/debconf23/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/)
+- [Planet GNOME](https://planet.gnome.org/) | [NewsFlash 3.0](https://blogs.gnome.org/jangernert/2023/09/22/newsflash-3-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-38](https://ervin.ipsquad.net/blog/2023/09/22/web-review-week-2023-38/?utm_source=atom_feed)
+
 ## 20230922
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE at Flock 2023](https://communityblog.fedoraproject.org/cpe-at-flock-2023/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: DebConf23](https://jonathancarter.org/2023/09/21/debconf23/)

@@ -1,3 +1,8 @@
+## 20230923
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023华为杯E题：出血性脑卒中临床智能诊疗建模（不断更新）](https://blog.csdn.net/weixin_46211269/article/details/133157008)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [有了Spring为什么还需要SpringBoot呢](https://blog.csdn.net/qq_53317005/article/details/132957942)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第五章 Spring Cloud Netflix Eureka集成负载均衡组件Ribbon](https://blog.csdn.net/s445320/article/details/133156575)
+
 ## 20230922
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [孟晚舟：华为致力于打造中国算力底座，支持大模型百花齐放 ；OpenAI 发布 DALL-E 3；传高通中国裁员|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133123865)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第四章 Spring Cloud Netflix 之 Eureka](https://blog.csdn.net/s445320/article/details/133024912)
