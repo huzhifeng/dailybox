@@ -1,3 +1,8 @@
+## 20230923
+- [LibHunt](https://www.libhunt.com/) | [harlequin](https://www.libhunt.com/r/harlequin)
+- [LibHunt](https://www.libhunt.com/) | [gitness](https://www.libhunt.com/r/gitness)
+- [LibHunt](https://www.libhunt.com/) | [electric](https://www.libhunt.com/r/electric-sql/electric)
+
 ## 20230922
 - [LibHunt](https://www.libhunt.com/) | [hyperdx](https://www.libhunt.com/r/hyperdx)
 - [LibHunt](https://www.libhunt.com/) | [openvino](https://www.libhunt.com/r/openvino)

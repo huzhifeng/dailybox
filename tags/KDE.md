@@ -1,3 +1,7 @@
+## 20230923
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-38](https://ervin.ipsquad.net/blog/2023/09/22/web-review-week-2023-38/?utm_source=atom_feed)
+
 ## 20230921
 - [Planet KDE](https://planet.kde.org/) | [GSoC '23: Wrapping Up](https://shivoditg.hashnode.dev/gsoc-23-wrapping-up?utm_source=atom_feed)
 

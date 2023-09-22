@@ -1,3 +1,7 @@
+## 20230923
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2023.09 Adds KDE Gear 23.08, Focus To Shift On KDE Plasma 6 ISO](https://9to5linux.com/kaos-linux-2023-09-adds-kde-gear-23-08-focus-to-shift-on-kde-plasma-6-iso)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Beta Released with GNOME 45 and Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-beta-released-with-gnome-45-and-linux-kernel-6-5)
+
 ## 20230921
 - [9to5Linux](https://9to5linux.com/) | [GNOME 44.5 Arrives with Improvements for GNOME Software, Epiphany, and More](https://9to5linux.com/gnome-44-5-arrives-with-improvements-for-gnome-software-epiphany-and-more)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45 &#8220;Riga&#8221; Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/gnome-45-riga-desktop-environment-officially-released-this-is-whats-new)

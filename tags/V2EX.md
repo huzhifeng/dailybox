@@ -1,3 +1,8 @@
+## 20230923
+- [V2EX](https://www.v2ex.com/) | [[送码 永久会员] 开发了一个 Todo List，看看是不是你想要的吧。](https://www.v2ex.com/t/976150)
+- [V2EX](https://www.v2ex.com/) | [一个外包同事，插入 200 条数据，调用了四万次人员查询接口](https://www.v2ex.com/t/976149)
+- [V2EX](https://www.v2ex.com/) | [纠结买不买电视](https://www.v2ex.com/t/976133)
+
 ## 20230921
 - [V2EX](https://www.v2ex.com/) | [传 iPhone15 可以严格限制充电不超过 80%](https://www.v2ex.com/t/975452)
 - [V2EX](https://www.v2ex.com/) | [来晒晒你的中秋节福利](https://www.v2ex.com/t/975417)

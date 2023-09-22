@@ -1,3 +1,6 @@
+## 20230923
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+
 ## 20230916
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#113 Numerous Updates](https://thisweek.gnome.org/posts/2023/09/twig-113/)
 

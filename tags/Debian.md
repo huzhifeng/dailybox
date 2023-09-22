@@ -1,3 +1,7 @@
+## 20230923
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Debconf23](https://ravidwivedi.in/posts/debconf23/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/)
+
 ## 20230922
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Carter: DebConf23](https://jonathancarter.org/2023/09/21/debconf23/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: DebConf23 Writeup](https://www.earth.li/~noodles/blog/2023/09/debconf23-writeup.html)

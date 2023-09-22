@@ -1,3 +1,6 @@
+## 20230923
+- [TED Talks Daily](https://www.ted.com/talks) | [Are we the last generation -- or the first sustainable one? | Hannah Ritchie](https://www.ted.com/talks/hannah_ritchie_are_we_the_last_generation_or_the_first_sustainable_one?rss)
+
 ## 20230922
 - [TED Talks Daily](https://www.ted.com/talks) | [The simple solution to fast fashion | Josephine Philips](https://www.ted.com/talks/josephine_philips_the_simple_solution_to_fast_fashion?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [The secret to successfully pitching an idea | Mar Hershenson](https://www.ted.com/talks/mar_hershenson_the_secret_to_successfully_pitching_an_idea?rss)

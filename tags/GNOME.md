@@ -1,3 +1,8 @@
+## 20230923
+- [Planet GNOME](https://planet.gnome.org/) | [NewsFlash 3.0](https://blogs.gnome.org/jangernert/2023/09/22/newsflash-3-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
+
 ## 20230922
 - [Planet GNOME](https://planet.gnome.org/) | [On the Usefulness of SO_PEERPIDFD](https://blog.sebastianwick.net/posts/so-peerpidfd-usefulness/)
 - [Planet GNOME](https://planet.gnome.org/) | [Paths in GTK, part 2](https://blog.gtk.org/2023/09/21/paths-in-gtk-part-2/)
