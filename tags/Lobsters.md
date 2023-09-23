@@ -1,3 +1,8 @@
+## 20230924
+- [Lobsters](https://lobste.rs/) | [No Stale Bots](https://lobste.rs/s/bkw5u0/no_stale_bots)
+- [Lobsters](https://lobste.rs/) | [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop)
+- [Lobsters](https://lobste.rs/) | [GitOps Is a Means, Where Is the End?](https://lobste.rs/s/cxrd1l/gitops_is_means_where_is_end)
+
 ## 20230923
 - [Lobsters](https://lobste.rs/) | [GitHub Actions could be so much better](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better)
 - [Lobsters](https://lobste.rs/) | [The invisible problem (of text editing on mobile)](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile)

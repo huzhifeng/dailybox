@@ -1,3 +1,6 @@
+## 20230924
+- [LibHunt](https://www.libhunt.com/) | [BrowserBox](https://www.libhunt.com/r/BrowserBox)
+
 ## 20230923
 - [LibHunt](https://www.libhunt.com/) | [harlequin](https://www.libhunt.com/r/harlequin)
 - [LibHunt](https://www.libhunt.com/) | [gitness](https://www.libhunt.com/r/gitness)

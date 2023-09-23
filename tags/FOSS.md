@@ -1,3 +1,6 @@
+## 20230924
+- [It's FOSS](https://itsfoss.com/) | [arm vs aarch64 vs amd64 vs x86_64 vs x86: What's the Difference?](https://itsfoss.com/arm-aarch64-x86_64/)
+
 ## 20230922
 - [It's FOSS](https://itsfoss.com/) | [Jigsaw Puzzle: File Commands](https://itsfoss.com/quiz/jigsaw-file-commands/)
 - [It's FOSS](https://itsfoss.com/) | [Memory Match Linux Distros and Their Package Manager](https://itsfoss.com/quiz/match-distros-package-manager/)

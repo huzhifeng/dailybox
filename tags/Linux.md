@@ -1,3 +1,17 @@
+## 20230924
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1133 Valve 对开源和 Linux 做出了贡献](https://linux.cn/article-16219-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Blumenkrantz Optimizes Mesa Vulkan Submission Merging - Some Test Cases Improve 1000%+](https://www.phoronix.com/news/Mike-Optimize-Submissions)
+- [Phoronix](https://www.phoronix.com/) | [Cairo 1.18 Released - First Stable Release In Five Years](https://www.phoronix.com/news/Cairo-1.18-Released)
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer Update Allows More Control Over Parallel Downloads, Ly](https://www.phoronix.com/news/Archinstall-2.6.1-Released)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Plumbers Conference General Registration Reopened](https://lpc.events/blog/current/index.php/2023/09/23/linux-plumbers-conference-general-registration-reopened/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Roland Wolters: [Short Tip] Using a Python virtual environment in Nushell](https://liquidat.wordpress.com/2023/09/23/short-tip-using-a-python-virtual-environment-in-nushell/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Allowing keyboard capture for Remmina, Virt Manager and other software in GNOME Wayland](https://blog.kagesenshi.org/2023/09/wayland-keyboard-capture.html)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Wiltshire: Debian Family](https://www.jwiltshire.org.uk/2023/09/23/debian-family/)
+- [Planet GNOME](https://planet.gnome.org/) | [Outreachy Recap 2023 -](https://josecodes.hashnode.dev/outreachy-recap-2023)
+- [Planet KDE](https://planet.kde.org/) | [Nextcloud Conference 2023](https://www.volkerkrause.eu/2023/09/23/nextcloud-conference-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/)
+
 ## 20230923
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1132 OpenAI 宣布 DALL-E 3，让提示工程过时](https://linux.cn/article-16216-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q3.2 Released With Quadbuffer Stereo, Quake 2 RTX Optimizations](https://www.phoronix.com/news/AMDVLK-2023.Q3.2-Released)

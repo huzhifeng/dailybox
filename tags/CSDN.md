@@ -1,3 +1,8 @@
+## 20230924
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qwsdfFDFSAD/article/details/133147383)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/weixin_44157163/article/details/133186750)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【人工智能】企业如何使用 AI与人工智能的定义、研究价值、发展阶段的深刻讨论](https://blog.csdn.net/m0_75058342/article/details/131673195)
+
 ## 20230923
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023华为杯E题：出血性脑卒中临床智能诊疗建模（不断更新）](https://blog.csdn.net/weixin_46211269/article/details/133157008)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [有了Spring为什么还需要SpringBoot呢](https://blog.csdn.net/qq_53317005/article/details/132957942)

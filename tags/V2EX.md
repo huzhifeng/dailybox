@@ -1,3 +1,8 @@
+## 20230924
+- [V2EX](https://www.v2ex.com/) | [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496)
+- [V2EX](https://www.v2ex.com/) | [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473)
+- [V2EX](https://www.v2ex.com/) | [分享 [因为买到“假手机”，起诉后获赔三倍赔偿] 的经历](https://www.v2ex.com/t/976456)
+
 ## 20230923
 - [V2EX](https://www.v2ex.com/) | [[送码 永久会员] 开发了一个 Todo List，看看是不是你想要的吧。](https://www.v2ex.com/t/976150)
 - [V2EX](https://www.v2ex.com/) | [一个外包同事，插入 200 条数据，调用了四万次人员查询接口](https://www.v2ex.com/t/976149)
