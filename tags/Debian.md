@@ -1,3 +1,6 @@
+## 20230924
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Wiltshire: Debian Family](https://www.jwiltshire.org.uk/2023/09/23/debian-family/)
+
 ## 20230923
 - [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Debconf23](https://ravidwivedi.in/posts/debconf23/)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/)

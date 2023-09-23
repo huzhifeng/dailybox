@@ -1,3 +1,8 @@
+## 20230924
+- [Planet KDE](https://planet.kde.org/) | [Nextcloud Conference 2023](https://www.volkerkrause.eu/2023/09/23/nextcloud-conference-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/)
+
 ## 20230923
 - [Planet KDE](https://planet.kde.org/) | [KDE: KDE Neon updates! Qt6 transition moving along.](https://www.scarlettgatelymoore.dev/kde-kde-neon-updates-qt6-transition-moving-along/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-38](https://ervin.ipsquad.net/blog/2023/09/22/web-review-week-2023-38/?utm_source=atom_feed)

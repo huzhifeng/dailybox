@@ -1,3 +1,7 @@
+## 20230924
+- [Planet Fedora](http://fedoraplanet.org/) | [Roland Wolters: [Short Tip] Using a Python virtual environment in Nushell](https://liquidat.wordpress.com/2023/09/23/short-tip-using-a-python-virtual-environment-in-nushell/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Allowing keyboard capture for Remmina, Virt Manager and other software in GNOME Wayland](https://blog.kagesenshi.org/2023/09/wayland-keyboard-capture.html)
+
 ## 20230923
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 38 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-38-2023/)
 

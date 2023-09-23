@@ -1,3 +1,8 @@
+## 20230924
+- [Phoronix](https://www.phoronix.com/) | [Blumenkrantz Optimizes Mesa Vulkan Submission Merging - Some Test Cases Improve 1000%+](https://www.phoronix.com/news/Mike-Optimize-Submissions)
+- [Phoronix](https://www.phoronix.com/) | [Cairo 1.18 Released - First Stable Release In Five Years](https://www.phoronix.com/news/Cairo-1.18-Released)
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer Update Allows More Control Over Parallel Downloads, Ly](https://www.phoronix.com/news/Archinstall-2.6.1-Released)
+
 ## 20230923
 - [Phoronix](https://www.phoronix.com/) | [AMDVLK 2023.Q3.2 Released With Quadbuffer Stereo, Quake 2 RTX Optimizations](https://www.phoronix.com/news/AMDVLK-2023.Q3.2-Released)
 - [Phoronix](https://www.phoronix.com/) | [Valve Is A Wonderful Upstream Contributor To Linux & The Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)

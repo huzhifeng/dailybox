@@ -1,3 +1,6 @@
+## 20230924
+- [Planet GNOME](https://planet.gnome.org/) | [Outreachy Recap 2023 -](https://josecodes.hashnode.dev/outreachy-recap-2023)
+
 ## 20230923
 - [Planet GNOME](https://planet.gnome.org/) | [NewsFlash 3.0](https://blogs.gnome.org/jangernert/2023/09/22/newsflash-3-0/)
 - [Planet GNOME](https://planet.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)

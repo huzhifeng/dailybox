@@ -1,3 +1,6 @@
+## 20230924
+- [Hacker News](https://news.ycombinator.com/front) | [My solopreneur story](https://news.ycombinator.com/item?id=37622702)
+
 ## 20230922
 - [Hacker News](https://news.ycombinator.com/front) | [Matrix 2.0: The Future of Matrix](https://news.ycombinator.com/item?id=37599510)
 - [Hacker News](https://news.ycombinator.com/front) | [Cisco Acquires Splunk](https://news.ycombinator.com/item?id=37596497)

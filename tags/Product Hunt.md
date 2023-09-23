@@ -1,3 +1,8 @@
+## 20230924
+- [Product Hunt](https://www.producthunt.com) | [VOMO](https://www.producthunt.com/posts/vomo)
+- [Product Hunt](https://www.producthunt.com) | [Astro](https://www.producthunt.com/posts/astro-5)
+- [Product Hunt](https://www.producthunt.com) | [Mother-Nature.org](https://www.producthunt.com/posts/mother-nature-org)
+
 ## 20230923
 - [Product Hunt](https://www.producthunt.com) | [Superflows](https://www.producthunt.com/posts/superflows-2)
 - [Product Hunt](https://www.producthunt.com) | [Antimetal 2.0](https://www.producthunt.com/posts/antimetal-2-0)

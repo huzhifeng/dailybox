@@ -1,3 +1,8 @@
+## 20230924
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [CoPy aNd PaStE](https://lemmy.dbzer0.com/pictrs/image/e8a0eee2-fc2f-4f7b-8b84-baee4e5df209.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [My Journey](https://telegra.ph/file/f586b10a8276df6632da3.jpg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [asmr](https://lemmy.world/pictrs/image/cc65407f-bc07-45f7-8ed1-ff5c00918750.jpeg)
+
 ## 20230923
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Lemmy.World Minecraft Server Announcement](https://lemmy.world/post/5521676)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Adjust your priorities](https://lemmy.world/pictrs/image/27ba4cdb-8467-4b92-87a5-23a4044bad7a.jpeg)
