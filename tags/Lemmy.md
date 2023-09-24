@@ -1,3 +1,8 @@
+## 20230925
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [We've clearly created a utopia.](https://startrek.website/pictrs/image/48685931-2c2b-4eeb-bc51-5506af8d0230.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Insanity](https://sh.itjust.works/pictrs/image/546a1671-a897-4ed3-b8da-cabd7c1dda35.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Escalating scandal grips airlines including American and Southwest, as nearly 100 planes find fake parts from company with fake employees that vanished overnight](https://fortune.com/2023/09/22/why-so-many-flights-canceled-delayed-aog-technics-fake-parts-american-airlines/)
+
 ## 20230924
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [CoPy aNd PaStE](https://lemmy.dbzer0.com/pictrs/image/e8a0eee2-fc2f-4f7b-8b84-baee4e5df209.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [My Journey](https://telegra.ph/file/f586b10a8276df6632da3.jpg)

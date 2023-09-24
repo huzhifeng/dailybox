@@ -1,3 +1,11 @@
+## 20230925
+- [Planet Debian](https://planet.debian.org/) | [Thomas Goirand: Searching for a Ryzen 9, 16 cores, small laptop](http://thomas.goirand.fr/blog/?p=405)
+- [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Abraham Raji](https://blog.sahilister.in/2023/09/abraham-raji/)
+- [Planet GNOME](https://planet.gnome.org/) | [Dia with GTK 3](https://www.figuiere.net/hub/wlog/dia-gtk3/)
+- [Planet KDE](https://planet.kde.org/) | [Brussels without fosdem](http://www.thelins.se/johan/blog/2023/09/brussels-without-fosdem/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The Nextcloud Conference was COOL](https://blog.nicco.love/the-nextcloud-conference-was-cool/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Video: We visited Stockholm!](https://akselmo.dev/posts/stockholm-trip/?utm_source=atom_feed)
+
 ## 20230924
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Linux Plumbers Conference General Registration Reopened](https://lpc.events/blog/current/index.php/2023/09/23/linux-plumbers-conference-general-registration-reopened/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Roland Wolters: [Short Tip] Using a Python virtual environment in Nushell](https://liquidat.wordpress.com/2023/09/23/short-tip-using-a-python-virtual-environment-in-nushell/)

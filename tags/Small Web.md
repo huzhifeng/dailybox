@@ -1,3 +1,8 @@
+## 20230925
+- [Kagi Small Web](https://kagi.com/smallweb) | [Old-School CGI Scripts!](https://blog.steve.fi/old_school_cgi_scripts_.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Lucy Trimble (aka Lucy Brenner)](https://thrillingdetective.com/2023/09/24/lucy-trimble/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Windows XP - printui.dll, icon 132](https://56k-modem.online/post/729365663469207552)
+
 ## 20230923
 - [Kagi Small Web](https://kagi.com/smallweb) | [Mastering Web Typography (workshop)](https://elliotjaystocks.com/speaking/#ilt-workshop)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Smashing Mountains and Striking Oxen](https://samim.io/p/2023-09-22-smashing-mountains-and-striking-oxen)

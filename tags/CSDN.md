@@ -1,3 +1,8 @@
+## 20230925
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第五章 Spring Cloud Netflix Eureka集成负载均衡组件Ribbon](https://blog.csdn.net/s445320/article/details/133156575)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023华为杯E题：出血性脑卒中临床智能诊疗建模（已完成）](https://blog.csdn.net/weixin_46211269/article/details/133157008)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [高效管理体验？试试docker registry连接](https://blog.csdn.net/qq_57761637/article/details/133158467)
+
 ## 20230924
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/qwsdfFDFSAD/article/details/133147383)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/weixin_44157163/article/details/133186750)

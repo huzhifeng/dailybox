@@ -1,3 +1,6 @@
+## 20230925
+- [OMG! Linux](https://www.omglinux.com/) | [Linux Mastodon App Tuba Gets New Features, Updates UI](https://www.omglinux.com/tuba-mastodon-app-new-look/)
+
 ## 20230828
 - [OMG! Linux](https://www.omglinux.com/) | [Nautilus Debuts Split-Pane Look in GNOME 45](https://www.omglinux.com/nautilus-split-pane-gnome-45/)
 - [OMG! Linux](https://www.omglinux.com/) | [KDE Video App Haruna Adds Some Neat New Features](https://www.omglinux.com/haruna-kde-video-app-updated-with-neat-new-features/)

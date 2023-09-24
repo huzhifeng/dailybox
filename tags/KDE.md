@@ -1,3 +1,8 @@
+## 20230925
+- [Planet KDE](https://planet.kde.org/) | [Brussels without fosdem](http://www.thelins.se/johan/blog/2023/09/brussels-without-fosdem/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The Nextcloud Conference was COOL](https://blog.nicco.love/the-nextcloud-conference-was-cool/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Video: We visited Stockholm!](https://akselmo.dev/posts/stockholm-trip/?utm_source=atom_feed)
+
 ## 20230924
 - [Planet KDE](https://planet.kde.org/) | [Nextcloud Conference 2023](https://www.volkerkrause.eu/2023/09/23/nextcloud-conference-2023.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/?utm_source=atom_feed)
