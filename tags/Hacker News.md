@@ -1,3 +1,7 @@
+## 20230925
+- [Hacker News](https://news.ycombinator.com/front) | [Gene-Engineered Mouth Bacteria](https://news.ycombinator.com/item?id=37634713)
+- [Hacker News](https://news.ycombinator.com/front) | [Text editing on mobile: the invisible problem](https://news.ycombinator.com/item?id=37630804)
+
 ## 20230924
 - [Hacker News](https://news.ycombinator.com/front) | [My solopreneur story](https://news.ycombinator.com/item?id=37622702)
 

@@ -1,3 +1,6 @@
+## 20230925
+- [Planet GNOME](https://planet.gnome.org/) | [Dia with GTK 3](https://www.figuiere.net/hub/wlog/dia-gtk3/)
+
 ## 20230924
 - [Planet GNOME](https://planet.gnome.org/) | [Outreachy Recap 2023 -](https://josecodes.hashnode.dev/outreachy-recap-2023)
 

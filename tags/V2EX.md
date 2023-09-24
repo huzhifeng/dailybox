@@ -1,3 +1,8 @@
+## 20230925
+- [V2EX](https://www.v2ex.com/) | [能合法上外网的专线是什么样的？](https://www.v2ex.com/t/976763)
+- [V2EX](https://www.v2ex.com/) | [已经确认淘宝正在刻意访问用户全部图库](https://www.v2ex.com/t/976743)
+- [V2EX](https://www.v2ex.com/) | [坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691)
+
 ## 20230924
 - [V2EX](https://www.v2ex.com/) | [[限免] InfyniDock 正式发布，全新 MacOS Dock 替代品，限免安装激活，欢迎使用！](https://www.v2ex.com/t/976496)
 - [V2EX](https://www.v2ex.com/) | [急！ rm -rf /*会删除挂载的其他驱动器内容吗？](https://www.v2ex.com/t/976473)

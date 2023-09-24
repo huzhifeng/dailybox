@@ -1,3 +1,8 @@
+## 20230925
+- [Lobsters](https://lobste.rs/) | [Choose Postgres queue technology](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology)
+- [Lobsters](https://lobste.rs/) | [Why do we need modules at all?](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all)
+- [Lobsters](https://lobste.rs/) | [Contributing to OCaml: Collective maintenance](https://lobste.rs/s/7ooars/contributing_ocaml_collective)
+
 ## 20230924
 - [Lobsters](https://lobste.rs/) | [No Stale Bots](https://lobste.rs/s/bkw5u0/no_stale_bots)
 - [Lobsters](https://lobste.rs/) | [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop)

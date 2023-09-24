@@ -1,3 +1,16 @@
+## 20230925
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1134 英特尔 CTO 建议使用 AI 将 CUDA 代码移植到英特尔芯片](https://linux.cn/article-16222-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Will Allow More Efficient Use With Intel QAT Gen4 Hardware](https://www.phoronix.com/news/Linux-6.7-Intel-QAT-Chained)
+- [Phoronix](https://www.phoronix.com/) | [AMD Prepares PMF Linux Driver For "Smart PC Solutions Builder"](https://www.phoronix.com/news/AMD-PMF-Smart-PC-Solutions)
+- [Phoronix](https://www.phoronix.com/) | [Linux's Multi-Grain Timestamps Short-Lived: Removed From The Kernel After A Few Weeks](https://www.phoronix.com/news/Linux-Revert-MG-Timestamps)
+- [OMG! Linux](https://www.omglinux.com/) | [Linux Mastodon App Tuba Gets New Features, Updates UI](https://www.omglinux.com/tuba-mastodon-app-new-look/)
+- [Planet Debian](https://planet.debian.org/) | [Thomas Goirand: Searching for a Ryzen 9, 16 cores, small laptop](http://thomas.goirand.fr/blog/?p=405)
+- [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Abraham Raji](https://blog.sahilister.in/2023/09/abraham-raji/)
+- [Planet GNOME](https://planet.gnome.org/) | [Dia with GTK 3](https://www.figuiere.net/hub/wlog/dia-gtk3/)
+- [Planet KDE](https://planet.kde.org/) | [Brussels without fosdem](http://www.thelins.se/johan/blog/2023/09/brussels-without-fosdem/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The Nextcloud Conference was COOL](https://blog.nicco.love/the-nextcloud-conference-was-cool/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Video: We visited Stockholm!](https://akselmo.dev/posts/stockholm-trip/?utm_source=atom_feed)
+
 ## 20230924
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1133 Valve 对开源和 Linux 做出了贡献](https://linux.cn/article-16219-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Blumenkrantz Optimizes Mesa Vulkan Submission Merging - Some Test Cases Improve 1000%+](https://www.phoronix.com/news/Mike-Optimize-Submissions)

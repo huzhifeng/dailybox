@@ -1,3 +1,8 @@
+## 20230925
+- [Product Hunt](https://www.producthunt.com) | [Lexington Themes](https://www.producthunt.com/posts/lexington-themes-2)
+- [Product Hunt](https://www.producthunt.com) | [MIMI Maker](https://www.producthunt.com/posts/mimi-maker)
+- [Product Hunt](https://www.producthunt.com) | [PumpGPT](https://www.producthunt.com/posts/pumpgpt)
+
 ## 20230924
 - [Product Hunt](https://www.producthunt.com) | [VOMO](https://www.producthunt.com/posts/vomo)
 - [Product Hunt](https://www.producthunt.com) | [Astro](https://www.producthunt.com/posts/astro-5)

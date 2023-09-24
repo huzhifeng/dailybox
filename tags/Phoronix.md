@@ -1,3 +1,8 @@
+## 20230925
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Will Allow More Efficient Use With Intel QAT Gen4 Hardware](https://www.phoronix.com/news/Linux-6.7-Intel-QAT-Chained)
+- [Phoronix](https://www.phoronix.com/) | [AMD Prepares PMF Linux Driver For "Smart PC Solutions Builder"](https://www.phoronix.com/news/AMD-PMF-Smart-PC-Solutions)
+- [Phoronix](https://www.phoronix.com/) | [Linux's Multi-Grain Timestamps Short-Lived: Removed From The Kernel After A Few Weeks](https://www.phoronix.com/news/Linux-Revert-MG-Timestamps)
+
 ## 20230924
 - [Phoronix](https://www.phoronix.com/) | [Blumenkrantz Optimizes Mesa Vulkan Submission Merging - Some Test Cases Improve 1000%+](https://www.phoronix.com/news/Mike-Optimize-Submissions)
 - [Phoronix](https://www.phoronix.com/) | [Cairo 1.18 Released - First Stable Release In Five Years](https://www.phoronix.com/news/Cairo-1.18-Released)
