@@ -1,3 +1,7 @@
+## 20230926
+- [GitHub Advanced Search](https://github.com/search/advanced) | [GameCrack/Fortnite](https://github.com/GameCrack/Fortnite)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [GameCrack/csgo-skin-changer-2023](https://github.com/GameCrack/csgo-skin-changer-2023)
+
 ## 20230922
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Dicklesworthstone/automatic_log_collector_and_analyzer](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 

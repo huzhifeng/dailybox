@@ -1,3 +1,21 @@
+## 20230926
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1135 Netflix 准备寄出最后的 DVD](https://linux.cn/article-16225-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Integrate your Quarkus application with GPT4All](https://developers.redhat.com/articles/2023/09/25/integrate-your-quarkus-application-gpt4all)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Adding New Feature To Btrfs For The Steam Deck](https://www.phoronix.com/news/Linux-6.7-Btrfs-Same-FSID)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues GCC Compiler Preparations For AVX10 & APX](https://www.phoronix.com/news/Intel-More-GCC-APX-AVX10)
+- [Phoronix](https://www.phoronix.com/) | [The Downfall Mitigation Impact For Xeon E-2300 Series On Linux 6.5](https://www.phoronix.com/review/downfall-xeon-e2300)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 118 Is Now Available for Download with Built-In Translation for Websites](https://9to5linux.com/firefox-118-is-now-available-for-download-with-built-in-translation-for-websites)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 24th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-24th-2023)
+- [OMG! Linux](https://www.omglinux.com/) | [A Linux App to Track Movies & TV Shows You Want to Watch](https://www.omglinux.com/ticketbooth-track-movie-tv-show-watchlist/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Error building Kernel ln: target ‘+/source’: No such file or directory](http://adam.younglogic.com/2023/09/kernel-ln-target-source/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Documentation of Puppet code using sphinx](https://kushaldas.in/posts/documentation-of-puppet-code-using-sphinx.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Share your game achievements with Gamerzilla](https://fedoramagazine.org/share-your-game-achievements-with-gamerzilla/)
+- [Planet Debian](https://planet.debian.org/) | [Michael Prokop: Postfix failing with “no shared cipher”](https://michael-prokop.at/blog/2023/09/25/postfix-failing-with-no-shared-cipher/)
+- [Planet KDE](https://planet.kde.org/) | [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations?pk_campaign=rss-feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [End of my GSoC journey with KDE but not the end of my contributions !](https://aakarshmj-unfiltered.hashnode.dev/end-of-my-gsoc-journey-with-kde-but-not-the-end-of-my-contributions?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Zephyr - My Breeze fork](https://akselmo.dev/posts/zephyr-breeze-fork/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux's Multi-Grain Timestamps Short-Lived: Removed From The Kernel After A Few Weeks](https://linux.slashdot.org/story/23/09/25/009244/linuxs-multi-grain-timestamps-short-lived-removed-from-the-kernel-after-a-few-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230925
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1134 英特尔 CTO 建议使用 AI 将 CUDA 代码移植到英特尔芯片](https://linux.cn/article-16222-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Will Allow More Efficient Use With Intel QAT Gen4 Hardware](https://www.phoronix.com/news/Linux-6.7-Intel-QAT-Chained)

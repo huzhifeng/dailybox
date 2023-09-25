@@ -1,3 +1,6 @@
+## 20230926
+- [Slashdot](https://linux.slashdot.org/) | [Linux's Multi-Grain Timestamps Short-Lived: Removed From The Kernel After A Few Weeks](https://linux.slashdot.org/story/23/09/25/009244/linuxs-multi-grain-timestamps-short-lived-removed-from-the-kernel-after-a-few-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230921
 - [Slashdot](https://linux.slashdot.org/) | [Long-Term Support For Linux Kernel To Be Cut As Maintenance Remains Under Strain](https://linux.slashdot.org/story/23/09/19/2216251/long-term-support-for-linux-kernel-to-be-cut-as-maintenance-remains-under-strain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,6 @@
+## 20230926
+- [It's FOSS](https://itsfoss.com/) | [21 Useful Terminal Shortcuts Pro Linux Users Love to Use](https://itsfoss.com/linux-terminal-shortcuts/)
+
 ## 20230924
 - [It's FOSS](https://itsfoss.com/) | [arm vs aarch64 vs amd64 vs x86_64 vs x86: What's the Difference?](https://itsfoss.com/arm-aarch64-x86_64/)
 

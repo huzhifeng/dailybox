@@ -1,3 +1,8 @@
+## 20230926
+- [Lobsters](https://lobste.rs/) | [Gleam v0.31.0 released](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released)
+- [Lobsters](https://lobste.rs/) | [Lets just try it](https://lobste.rs/s/leyibh/lets_just_try_it)
+- [Lobsters](https://lobste.rs/) | [PostScript’s sudden death in Sonoma](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma)
+
 ## 20230925
 - [Lobsters](https://lobste.rs/) | [Choose Postgres queue technology](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology)
 - [Lobsters](https://lobste.rs/) | [Why do we need modules at all?](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all)

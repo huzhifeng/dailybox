@@ -1,3 +1,8 @@
+## 20230926
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Indistinguishable!](https://i.postimg.cc/TYzHtRZW/centrist.jpg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It could happen here](https://lemmy.ml/pictrs/image/559c5b4b-1ab8-475b-89bc-955882c334ef.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [bowl - they can talk](https://64.media.tumblr.com/e9ab96c8ea90abc03260b19051e02d94/180065e5c5838102-86/s1280x1920/de04c049ac30886c406aa724a0b8ba7c7043c9a0.jpg)
+
 ## 20230925
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [We've clearly created a utopia.](https://startrek.website/pictrs/image/48685931-2c2b-4eeb-bc51-5506af8d0230.png)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Insanity](https://sh.itjust.works/pictrs/image/546a1671-a897-4ed3-b8da-cabd7c1dda35.webp)

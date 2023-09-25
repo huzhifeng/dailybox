@@ -1,3 +1,12 @@
+## 20230926
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Error building Kernel ln: target ‘+/source’: No such file or directory](http://adam.younglogic.com/2023/09/kernel-ln-target-source/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Documentation of Puppet code using sphinx](https://kushaldas.in/posts/documentation-of-puppet-code-using-sphinx.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Share your game achievements with Gamerzilla](https://fedoramagazine.org/share-your-game-achievements-with-gamerzilla/)
+- [Planet Debian](https://planet.debian.org/) | [Michael Prokop: Postfix failing with “no shared cipher”](https://michael-prokop.at/blog/2023/09/25/postfix-failing-with-no-shared-cipher/)
+- [Planet KDE](https://planet.kde.org/) | [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations?pk_campaign=rss-feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [End of my GSoC journey with KDE but not the end of my contributions !](https://aakarshmj-unfiltered.hashnode.dev/end-of-my-gsoc-journey-with-kde-but-not-the-end-of-my-contributions?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Zephyr - My Breeze fork](https://akselmo.dev/posts/zephyr-breeze-fork/?utm_source=atom_feed)
+
 ## 20230925
 - [Planet Debian](https://planet.debian.org/) | [Thomas Goirand: Searching for a Ryzen 9, 16 cores, small laptop](http://thomas.goirand.fr/blog/?p=405)
 - [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Abraham Raji](https://blog.sahilister.in/2023/09/abraham-raji/)

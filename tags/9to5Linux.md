@@ -1,3 +1,7 @@
+## 20230926
+- [9to5Linux](https://9to5linux.com/) | [Firefox 118 Is Now Available for Download with Built-In Translation for Websites](https://9to5linux.com/firefox-118-is-now-available-for-download-with-built-in-translation-for-websites)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 24th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-24th-2023)
+
 ## 20230923
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2023.09 Adds KDE Gear 23.08, Focus To Shift On KDE Plasma 6 ISO](https://9to5linux.com/kaos-linux-2023-09-adds-kde-gear-23-08-focus-to-shift-on-kde-plasma-6-iso)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Beta Released with GNOME 45 and Linux Kernel 6.5](https://9to5linux.com/ubuntu-23-10-beta-released-with-gnome-45-and-linux-kernel-6-5)

@@ -1,3 +1,8 @@
+## 20230926
+- [Product Hunt](https://www.producthunt.com) | [The Passkey Journey](https://www.producthunt.com/posts/the-passkey-journey)
+- [Product Hunt](https://www.producthunt.com) | [AI for Product People, by ProdPad](https://www.producthunt.com/posts/ai-for-product-people-by-prodpad)
+- [Product Hunt](https://www.producthunt.com) | [LogicBalls](https://www.producthunt.com/posts/logicballs)
+
 ## 20230925
 - [Product Hunt](https://www.producthunt.com) | [Lexington Themes](https://www.producthunt.com/posts/lexington-themes-2)
 - [Product Hunt](https://www.producthunt.com) | [MIMI Maker](https://www.producthunt.com/posts/mimi-maker)

@@ -1,3 +1,6 @@
+## 20230926
+- [TED Talks Daily](https://www.ted.com/talks) | [How I found myself -- by impersonating other people | Melissa Villaseñor](https://www.ted.com/talks/melissa_villasenor_how_i_found_myself_by_impersonating_other_people?rss)
+
 ## 20230923
 - [TED Talks Daily](https://www.ted.com/talks) | [Are we the last generation -- or the first sustainable one? | Hannah Ritchie](https://www.ted.com/talks/hannah_ritchie_are_we_the_last_generation_or_the_first_sustainable_one?rss)
 

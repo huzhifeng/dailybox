@@ -1,3 +1,8 @@
+## 20230926
+- [LibHunt](https://www.libhunt.com/) | [SeaGOAT](https://www.libhunt.com/r/SeaGOAT)
+- [LibHunt](https://www.libhunt.com/) | [Bitwarden](https://www.libhunt.com/r/bitwarden/server)
+- [LibHunt](https://www.libhunt.com/) | [e2b](https://www.libhunt.com/r/e2b)
+
 ## 20230924
 - [LibHunt](https://www.libhunt.com/) | [BrowserBox](https://www.libhunt.com/r/BrowserBox)
 

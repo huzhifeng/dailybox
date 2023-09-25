@@ -1,3 +1,6 @@
+## 20230926
+- [Planet Debian](https://planet.debian.org/) | [Michael Prokop: Postfix failing with “no shared cipher”](https://michael-prokop.at/blog/2023/09/25/postfix-failing-with-no-shared-cipher/)
+
 ## 20230925
 - [Planet Debian](https://planet.debian.org/) | [Thomas Goirand: Searching for a Ryzen 9, 16 cores, small laptop](http://thomas.goirand.fr/blog/?p=405)
 - [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Abraham Raji](https://blog.sahilister.in/2023/09/abraham-raji/)

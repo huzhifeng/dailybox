@@ -1,3 +1,8 @@
+## 20230926
+- [Hacker News](https://news.ycombinator.com/front) | [Ian's Shoelace Site](https://news.ycombinator.com/item?id=37646964)
+- [Hacker News](https://news.ycombinator.com/front) | [We are beginning to roll out new voice and image capabilities in ChatGPT](https://news.ycombinator.com/item?id=37642335)
+- [Hacker News](https://news.ycombinator.com/front) | [An analysis of the Google antitrust trial](https://news.ycombinator.com/item?id=37641393)
+
 ## 20230925
 - [Hacker News](https://news.ycombinator.com/front) | [Gene-Engineered Mouth Bacteria](https://news.ycombinator.com/item?id=37634713)
 - [Hacker News](https://news.ycombinator.com/front) | [Text editing on mobile: the invisible problem](https://news.ycombinator.com/item?id=37630804)

@@ -1,3 +1,8 @@
+## 20230926
+- [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Error building Kernel ln: target ‘+/source’: No such file or directory](http://adam.younglogic.com/2023/09/kernel-ln-target-source/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Documentation of Puppet code using sphinx](https://kushaldas.in/posts/documentation-of-puppet-code-using-sphinx.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Share your game achievements with Gamerzilla](https://fedoramagazine.org/share-your-game-achievements-with-gamerzilla/)
+
 ## 20230924
 - [Planet Fedora](http://fedoraplanet.org/) | [Roland Wolters: [Short Tip] Using a Python virtual environment in Nushell](https://liquidat.wordpress.com/2023/09/23/short-tip-using-a-python-virtual-environment-in-nushell/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Izhar Firdaus: Allowing keyboard capture for Remmina, Virt Manager and other software in GNOME Wayland](https://blog.kagesenshi.org/2023/09/wayland-keyboard-capture.html)
