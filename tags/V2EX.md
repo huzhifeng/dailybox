@@ -1,3 +1,8 @@
+## 20230926
+- [V2EX](https://www.v2ex.com/) | [为爱发电写了个 Redis 桌面客户端，连颗星都没](https://www.v2ex.com/t/976991)
+- [V2EX](https://www.v2ex.com/) | [时间过的真快，乔布斯逝世快 12 年了，如果他还在…](https://www.v2ex.com/t/976938)
+- [V2EX](https://www.v2ex.com/) | [日版 iPhone 15pro 钛原色 256G 已上车，现有几点疑问请教！](https://www.v2ex.com/t/976889)
+
 ## 20230925
 - [V2EX](https://www.v2ex.com/) | [能合法上外网的专线是什么样的？](https://www.v2ex.com/t/976763)
 - [V2EX](https://www.v2ex.com/) | [已经确认淘宝正在刻意访问用户全部图库](https://www.v2ex.com/t/976743)

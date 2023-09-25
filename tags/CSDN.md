@@ -1,3 +1,9 @@
+## 20230926
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [GPT 被曝重大缺陷：正确率几乎为 0%；腾讯面向全球发布“青云计划”；Unity 公布修改后的收费方案|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133266605)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据挖掘、数据分析】之用户画像平台构建与业务实践](https://blog.csdn.net/s445320/article/details/133265834)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习中的分类问题：如何选择和理解性能衡量标准](https://blog.csdn.net/null18/article/details/133255168)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT的问世给哪些行业带来了冲击?](https://blog.csdn.net/weixin_42794881/article/details/133267660)
+
 ## 20230925
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [云原生微服务 第五章 Spring Cloud Netflix Eureka集成负载均衡组件Ribbon](https://blog.csdn.net/s445320/article/details/133156575)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023华为杯E题：出血性脑卒中临床智能诊疗建模（已完成）](https://blog.csdn.net/weixin_46211269/article/details/133157008)

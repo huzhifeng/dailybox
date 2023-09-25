@@ -1,3 +1,8 @@
+## 20230926
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Adding New Feature To Btrfs For The Steam Deck](https://www.phoronix.com/news/Linux-6.7-Btrfs-Same-FSID)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues GCC Compiler Preparations For AVX10 & APX](https://www.phoronix.com/news/Intel-More-GCC-APX-AVX10)
+- [Phoronix](https://www.phoronix.com/) | [The Downfall Mitigation Impact For Xeon E-2300 Series On Linux 6.5](https://www.phoronix.com/review/downfall-xeon-e2300)
+
 ## 20230925
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.7 Will Allow More Efficient Use With Intel QAT Gen4 Hardware](https://www.phoronix.com/news/Linux-6.7-Intel-QAT-Chained)
 - [Phoronix](https://www.phoronix.com/) | [AMD Prepares PMF Linux Driver For "Smart PC Solutions Builder"](https://www.phoronix.com/news/AMD-PMF-Smart-PC-Solutions)

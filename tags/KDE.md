@@ -1,3 +1,8 @@
+## 20230926
+- [Planet KDE](https://planet.kde.org/) | [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations?pk_campaign=rss-feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [End of my GSoC journey with KDE but not the end of my contributions !](https://aakarshmj-unfiltered.hashnode.dev/end-of-my-gsoc-journey-with-kde-but-not-the-end-of-my-contributions?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Zephyr - My Breeze fork](https://akselmo.dev/posts/zephyr-breeze-fork/?utm_source=atom_feed)
+
 ## 20230925
 - [Planet KDE](https://planet.kde.org/) | [Brussels without fosdem](http://www.thelins.se/johan/blog/2023/09/brussels-without-fosdem/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [The Nextcloud Conference was COOL](https://blog.nicco.love/the-nextcloud-conference-was-cool/?utm_source=atom_feed)

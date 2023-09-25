@@ -1,3 +1,6 @@
+## 20230926
+- [Red Hat Developer](https://developers.redhat.com/) | [Integrate your Quarkus application with GPT4All](https://developers.redhat.com/articles/2023/09/25/integrate-your-quarkus-application-gpt4all)
+
 ## 20230922
 - [Red Hat Developer](https://developers.redhat.com/) | [The Red Hat community commitment to open source](https://developers.redhat.com/articles/2023/09/21/red-hat-community-commitment-open-source)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in JDK 21](https://developers.redhat.com/articles/2023/09/21/whats-new-developers-jdk-21)

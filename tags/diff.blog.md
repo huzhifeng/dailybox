@@ -1,3 +1,8 @@
+## 20230926
+- [diff.blog](https://diff.blog/) | [ChatGPT can now see, hear, and speak](https://diff.blog/post/chatgpt-can-now-see-hear-and-speak-155861/)
+- [diff.blog](https://diff.blog/) | [Reclaim the internet with Mozilla](https://diff.blog/post/reclaim-the-internet-with-mozilla-155889/)
+- [diff.blog](https://diff.blog/) | [Increasing the minimum supported Apple platform versions](https://diff.blog/post/increasing-the-minimum-supported-apple-platform-versions-155890/)
+
 ## 20230922
 - [diff.blog](https://diff.blog/) | [Deciding for ourselves: 98% of people want a browser choice screen, Mozilla study finds](https://diff.blog/post/deciding-for-ourselves-98-of-people-want-a-browser-choice-screen-mozilla-study-finds-155588/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 513](https://diff.blog/post/this-week-in-rust-513-155573/)
