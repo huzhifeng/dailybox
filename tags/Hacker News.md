@@ -1,3 +1,7 @@
+## 20230927
+- [Hacker News](https://news.ycombinator.com/front) | [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://news.ycombinator.com/item?id=37661446)
+- [Hacker News](https://news.ycombinator.com/front) | [Who lusts for certainty lusts for lies](https://news.ycombinator.com/item?id=37657368)
+
 ## 20230926
 - [Hacker News](https://news.ycombinator.com/front) | [Ian's Shoelace Site](https://news.ycombinator.com/item?id=37646964)
 - [Hacker News](https://news.ycombinator.com/front) | [We are beginning to roll out new voice and image capabilities in ChatGPT](https://news.ycombinator.com/item?id=37642335)

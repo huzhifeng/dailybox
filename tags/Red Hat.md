@@ -1,3 +1,7 @@
+## 20230927
+- [Red Hat Developer](https://developers.redhat.com/) | [What’s new in vSphere on RHEL image builder](https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder)
+- [Red Hat Developer](https://developers.redhat.com/) | [Dynamically scale the Argo CD application controller with OpenShift GitOps 1.10](https://developers.redhat.com/articles/2023/09/26/dynamically-scale-argo-cd-application-controller-openshift-gitops-110)
+
 ## 20230926
 - [Red Hat Developer](https://developers.redhat.com/) | [Integrate your Quarkus application with GPT4All](https://developers.redhat.com/articles/2023/09/25/integrate-your-quarkus-application-gpt4all)
 

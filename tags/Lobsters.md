@@ -1,3 +1,8 @@
+## 20230927
+- [Lobsters](https://lobste.rs/) | [Water surface simulation on the NES](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes)
+- [Lobsters](https://lobste.rs/) | [How (not) to apply for a software job](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job)
+- [Lobsters](https://lobste.rs/) | [Upsert in SQL](https://lobste.rs/s/mfupg5/upsert_sql)
+
 ## 20230926
 - [Lobsters](https://lobste.rs/) | [Gleam v0.31.0 released](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released)
 - [Lobsters](https://lobste.rs/) | [Lets just try it](https://lobste.rs/s/leyibh/lets_just_try_it)

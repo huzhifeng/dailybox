@@ -1,3 +1,8 @@
+## 20230927
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 Desktop Environment Slated for Release on March 20th, 2024](https://9to5linux.com/gnome-46-desktop-environment-slated-for-release-on-march-20th-2024)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.2 and 7.5.7 Released to Address Critical WebP Vulnerability](https://9to5linux.com/libreoffice-7-6-2-and-7-5-7-released-to-address-critical-webp-vulnerability)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 119 Promises to Let You Import Some of Your Chrome Extensions](https://9to5linux.com/firefox-119-promises-to-let-you-import-some-of-your-chrome-extensions)
+
 ## 20230926
 - [9to5Linux](https://9to5linux.com/) | [Firefox 118 Is Now Available for Download with Built-In Translation for Websites](https://9to5linux.com/firefox-118-is-now-available-for-download-with-built-in-translation-for-websites)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 24th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-september-24th-2023)

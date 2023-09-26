@@ -1,3 +1,8 @@
+## 20230927
+- [Planet GNOME](https://planet.gnome.org/) | [Maps and GNOME 45](https://ml4711.blogspot.com/2023/09/maps-and-gnome-45.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [Modular Math CryptoHack Writeup](https://jainl28patel.github.io/posts/Modular_Math_CryptoHack/)
+
 ## 20230925
 - [Planet GNOME](https://planet.gnome.org/) | [Dia with GTK 3](https://www.figuiere.net/hub/wlog/dia-gtk3/)
 

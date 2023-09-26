@@ -1,3 +1,7 @@
+## 20230927
+- [diff.blog](https://diff.blog/) | [Google assigns a CVE for libwebp and gives it a 10.0 score](https://diff.blog/post/google-assigns-a-cve-for-libwebp-and-gives-it-a-100-score-155932/)
+- [diff.blog](https://diff.blog/) | [Why is kernel32.dll running in user mode and not kernel mode, like its name implies?](https://diff.blog/post/why-is-kernel32dll-running-in-user-mode-and-not-kernel-mode-like-its-name-implies-155954/)
+
 ## 20230926
 - [diff.blog](https://diff.blog/) | [ChatGPT can now see, hear, and speak](https://diff.blog/post/chatgpt-can-now-see-hear-and-speak-155861/)
 - [diff.blog](https://diff.blog/) | [Reclaim the internet with Mozilla](https://diff.blog/post/reclaim-the-internet-with-mozilla-155889/)

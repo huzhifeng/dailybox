@@ -1,3 +1,6 @@
+## 20230927
+- [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)
+
 ## 20230926
 - [LibHunt](https://www.libhunt.com/) | [SeaGOAT](https://www.libhunt.com/r/SeaGOAT)
 - [LibHunt](https://www.libhunt.com/) | [Bitwarden](https://www.libhunt.com/r/bitwarden/server)

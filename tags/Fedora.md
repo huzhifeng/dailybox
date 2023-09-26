@@ -1,3 +1,8 @@
+## 20230927
+- [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: #freetober – Join the latest Art Challenge!](https://communityblog.fedoraproject.org/freetober-join-the-latest-art-challenge/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/26/finished-reading-klara.html)
+
 ## 20230926
 - [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Error building Kernel ln: target ‘+/source’: No such file or directory](http://adam.younglogic.com/2023/09/kernel-ln-target-source/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Documentation of Puppet code using sphinx](https://kushaldas.in/posts/documentation-of-puppet-code-using-sphinx.html)
