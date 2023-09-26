@@ -1,3 +1,6 @@
+## 20230927
+- [OMG! Linux](https://www.omglinux.com/) | [Dim Inactive Windows to Help Focus Using a GNOME Extension](https://www.omglinux.com/dim-background-windows-gnome-extension/)
+
 ## 20230926
 - [OMG! Linux](https://www.omglinux.com/) | [A Linux App to Track Movies & TV Shows You Want to Watch](https://www.omglinux.com/ticketbooth-track-movie-tv-show-watchlist/)
 

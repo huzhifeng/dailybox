@@ -1,3 +1,15 @@
+## 20230927
+- [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: #freetober – Join the latest Art Challenge!](https://communityblog.fedoraproject.org/freetober-join-the-latest-art-challenge/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/09/26/finished-reading-klara.html)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-keymap-in-chromebook-running-debian/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing audio and keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-audio-and-keymap-in-chromebook-running-debian/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow)
+- [Planet GNOME](https://planet.gnome.org/) | [Maps and GNOME 45](https://ml4711.blogspot.com/2023/09/maps-and-gnome-45.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [Modular Math CryptoHack Writeup](https://jainl28patel.github.io/posts/Modular_Math_CryptoHack/)
+
 ## 20230926
 - [Planet Fedora](http://fedoraplanet.org/) | [Adam Young: Error building Kernel ln: target ‘+/source’: No such file or directory](http://adam.younglogic.com/2023/09/kernel-ln-target-source/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Kushal Das: Documentation of Puppet code using sphinx](https://kushaldas.in/posts/documentation-of-puppet-code-using-sphinx.html)

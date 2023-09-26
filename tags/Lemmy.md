@@ -1,3 +1,8 @@
+## 20230927
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [yeah, sure thing.](https://feddit.de/pictrs/image/6b4ddb28-82d3-4091-a4b1-e3efe4c4b8b7.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [This is not ok](https://lemmy.ml/pictrs/image/c8ead914-3169-4bb5-993b-44524688339e.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Want some so bad but not willing to trade organs for it](https://startrek.website/pictrs/image/33f6e377-885e-46f8-8399-9bb7e0b64e0f.jpeg)
+
 ## 20230926
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Indistinguishable!](https://i.postimg.cc/TYzHtRZW/centrist.jpg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It could happen here](https://lemmy.ml/pictrs/image/559c5b4b-1ab8-475b-89bc-955882c334ef.jpeg)

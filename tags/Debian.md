@@ -1,3 +1,7 @@
+## 20230927
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-keymap-in-chromebook-running-debian/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing audio and keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-audio-and-keymap-in-chromebook-running-debian/)
+
 ## 20230926
 - [Planet Debian](https://planet.debian.org/) | [Michael Prokop: Postfix failing with “no shared cipher”](https://michael-prokop.at/blog/2023/09/25/postfix-failing-with-no-shared-cipher/)
 

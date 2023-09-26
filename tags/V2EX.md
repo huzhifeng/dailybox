@@ -1,3 +1,8 @@
+## 20230927
+- [V2EX](https://www.v2ex.com/) | [近几年家里的矛盾愈演愈烈，我不知道该如何面对](https://www.v2ex.com/t/977299)
+- [V2EX](https://www.v2ex.com/) | [兄弟们，如何戒糖呀～～](https://www.v2ex.com/t/977179)
+- [V2EX](https://www.v2ex.com/) | [现在有 1000w，你会开一家什么样的公司？](https://www.v2ex.com/t/977170)
+
 ## 20230926
 - [V2EX](https://www.v2ex.com/) | [为爱发电写了个 Redis 桌面客户端，连颗星都没](https://www.v2ex.com/t/976991)
 - [V2EX](https://www.v2ex.com/) | [时间过的真快，乔布斯逝世快 12 年了，如果他还在…](https://www.v2ex.com/t/976938)

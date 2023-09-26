@@ -1,3 +1,6 @@
+## 20230927
+- [GitHub Advanced Search](https://github.com/search/advanced) | [ResoftPro/Photoshop](https://github.com/ResoftPro/Photoshop)
+
 ## 20230926
 - [GitHub Advanced Search](https://github.com/search/advanced) | [GameCrack/Fortnite](https://github.com/GameCrack/Fortnite)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [GameCrack/csgo-skin-changer-2023](https://github.com/GameCrack/csgo-skin-changer-2023)

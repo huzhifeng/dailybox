@@ -1,3 +1,8 @@
+## 20230927
+- [Product Hunt](https://www.producthunt.com) | [LambdaTest Real Device Cloud](https://www.producthunt.com/posts/lambdatest-real-device-cloud)
+- [Product Hunt](https://www.producthunt.com) | [Songhunt](https://www.producthunt.com/posts/songhunt)
+- [Product Hunt](https://www.producthunt.com) | [BuildShip](https://www.producthunt.com/posts/buildship)
+
 ## 20230926
 - [Product Hunt](https://www.producthunt.com) | [The Passkey Journey](https://www.producthunt.com/posts/the-passkey-journey)
 - [Product Hunt](https://www.producthunt.com) | [AI for Product People, by ProdPad](https://www.producthunt.com/posts/ai-for-product-people-by-prodpad)

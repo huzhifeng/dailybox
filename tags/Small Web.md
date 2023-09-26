@@ -1,3 +1,8 @@
+## 20230927
+- [Kagi Small Web](https://kagi.com/smallweb) | [Software is What We Learned Along the Way](https://blog.jim-nielsen.com/2023/software-is-what-we-learned-along-the-way/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Paper notes: Breaking Bad: Quantifying the Addiction of Web Elements to JavaScript](https://dustri.org/b/paper-notes-breaking-bad-quantifying-the-addiction-of-web-elements-to-javascript.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Mared – “Don’t Wanna Know”.](https://myinnermishmash.wordpress.com/2023/09/26/mared-dont-wanna-know/)
+
 ## 20230925
 - [Kagi Small Web](https://kagi.com/smallweb) | [Old-School CGI Scripts!](https://blog.steve.fi/old_school_cgi_scripts_.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Lucy Trimble (aka Lucy Brenner)](https://thrillingdetective.com/2023/09/24/lucy-trimble/)

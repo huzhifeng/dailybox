@@ -1,3 +1,7 @@
+## 20230927
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow)
+
 ## 20230920
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Andrea Corbellini: How to run Remark42 on Fly.io](https://andrea.corbellini.name/2023/09/19/running-remark42-on-flyio/)
 

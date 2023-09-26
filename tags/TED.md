@@ -1,3 +1,7 @@
+## 20230927
+- [TED Talks Daily](https://www.ted.com/talks) | [CRISPR's next advance is bigger than you think | Jennifer Doudna](https://www.ted.com/talks/jennifer_doudna_crispr_s_next_advance_is_bigger_than_you_think?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [4 tips to future-proof your career | Michelle R. Weise](https://www.ted.com/talks/michelle_r_weise_4_tips_to_future_proof_your_career?rss)
+
 ## 20230926
 - [TED Talks Daily](https://www.ted.com/talks) | [How I found myself -- by impersonating other people | Melissa Villaseñor](https://www.ted.com/talks/melissa_villasenor_how_i_found_myself_by_impersonating_other_people?rss)
 
