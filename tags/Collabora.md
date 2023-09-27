@@ -1,3 +1,6 @@
+## 20230928
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug, Part 2 - Other ways to make object soups in Rust](https://www.collabora.com/news-and-blog/blog/2023/09/27/persian-rug-part-2-other-ways-to-make-object-soups-in-rust/)
+
 ## 20230922
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Pressing Play on GStreamer 2023](https://www.collabora.com/news-and-blog/news-and-events/pressing-play-on-gstreamer-2023.html)
 

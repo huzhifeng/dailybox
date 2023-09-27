@@ -1,3 +1,8 @@
+## 20230928
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What new features are available in Red Hat Enterprise Linux 8.9 and 9.3 Beta?](https://www.redhat.com/en/blog/what-new-features-are-available-red-hat-enterprise-linux-89-and-93-beta)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install and use Podman Desktop on Windows](https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows)
+- [Red Hat Developer](https://developers.redhat.com/) | [Parallel programming: When concurrency meets Murphy's law](https://developers.redhat.com/articles/2023/09/27/parallel-programming-when-concurrency-meets-murphys-law)
+
 ## 20230927
 - [Red Hat Developer](https://developers.redhat.com/) | [What’s new in vSphere on RHEL image builder](https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder)
 - [Red Hat Developer](https://developers.redhat.com/) | [Dynamically scale the Argo CD application controller with OpenShift GitOps 1.10](https://developers.redhat.com/articles/2023/09/26/dynamically-scale-argo-cd-application-controller-openshift-gitops-110)

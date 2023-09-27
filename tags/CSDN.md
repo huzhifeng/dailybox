@@ -1,3 +1,9 @@
+## 20230928
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [菜鸟已正式向港交所提交上市申请；消息称 OpenAI 拟出售数亿美元股票；React Native 0.72.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133341037)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据挖掘、数据分析】之用户画像平台构建与业务实践](https://blog.csdn.net/s445320/article/details/133265834)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [快速使用Spring Cache](https://blog.csdn.net/aasd23/article/details/133320336)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ChatGPT的问世给哪些行业带来了冲击?](https://blog.csdn.net/weixin_42794881/article/details/133267660)
+
 ## 20230926
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [GPT 被曝重大缺陷：正确率几乎为 0%；腾讯面向全球发布“青云计划”；Unity 公布修改后的收费方案|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133266605)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据挖掘、数据分析】之用户画像平台构建与业务实践](https://blog.csdn.net/s445320/article/details/133265834)

@@ -1,3 +1,6 @@
+## 20230928
+- [Slashdot](https://developers.slashdot.org/) | [Unity Dev Group Dissolves After 13 Years Over 'Completely Eroded' Company Trust](https://tech.slashdot.org/story/23/09/26/2151223/unity-dev-group-dissolves-after-13-years-over-completely-eroded-company-trust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230926
 - [Slashdot](https://linux.slashdot.org/) | [Linux's Multi-Grain Timestamps Short-Lived: Removed From The Kernel After A Few Weeks](https://linux.slashdot.org/story/23/09/25/009244/linuxs-multi-grain-timestamps-short-lived-removed-from-the-kernel-after-a-few-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

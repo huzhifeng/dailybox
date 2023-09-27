@@ -1,3 +1,8 @@
+## 20230928
+- [Lobsters](https://lobste.rs/) | [Rust Vs Go: A Hands-On Comparison](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison)
+- [Lobsters](https://lobste.rs/) | [The lost language extensions of MetaWare's High C Compiler](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high)
+- [Lobsters](https://lobste.rs/) | [Uiua - a concatenative array programming language](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming)
+
 ## 20230927
 - [Lobsters](https://lobste.rs/) | [Water surface simulation on the NES](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes)
 - [Lobsters](https://lobste.rs/) | [How (not) to apply for a software job](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job)

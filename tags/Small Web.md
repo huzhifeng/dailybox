@@ -1,3 +1,8 @@
+## 20230928
+- [Kagi Small Web](https://kagi.com/smallweb) | [Custom Postgres Ubuntu Style](https://illuminatedcomputing.com/posts/2023/09/custom-postgres-ubuntu-style/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Five things I like/dislike #8](https://pawelgrzybek.com/five-things-i-like-dislike-8/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
+
 ## 20230927
 - [Kagi Small Web](https://kagi.com/smallweb) | [Software is What We Learned Along the Way](https://blog.jim-nielsen.com/2023/software-is-what-we-learned-along-the-way/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Paper notes: Breaking Bad: Quantifying the Addiction of Web Elements to JavaScript](https://dustri.org/b/paper-notes-breaking-bad-quantifying-the-addiction-of-web-elements-to-javascript.html)

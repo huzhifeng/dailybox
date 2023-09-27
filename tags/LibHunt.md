@@ -1,3 +1,8 @@
+## 20230928
+- [LibHunt](https://www.libhunt.com/) | [paisa](https://www.libhunt.com/r/paisa)
+- [LibHunt](https://www.libhunt.com/) | [tg](https://www.libhunt.com/r/tidwall/tg)
+- [LibHunt](https://www.libhunt.com/) | [rapidpages](https://www.libhunt.com/r/rapidpages)
+
 ## 20230927
 - [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)
 

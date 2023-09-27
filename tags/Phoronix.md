@@ -1,3 +1,8 @@
+## 20230928
+- [Phoronix](https://www.phoronix.com/) | [Counter-Strike 2 Now Available With An Initial Linux Build](https://www.phoronix.com/news/Counter-Strike-2-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 23.10 Performance On The Lenovo ThinkPad P14s Gen 4](https://www.phoronix.com/review/thinkpad-p14s-gen4-linux)
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Releases CrossOver 23.5 With A Focus On Boosting macOS Gaming](https://www.phoronix.com/news/CrossOver-23.5-Released)
+
 ## 20230927
 - [Phoronix](https://www.phoronix.com/) | [sdl12-compat 1.2.68 Allows More Games To Run On The Modern Linux Desktop](https://www.phoronix.com/news/sdl12-compat-1.2.68)
 - [Phoronix](https://www.phoronix.com/) | [Lenovo ThinkPad P14s Gen 4 w/ AMD Ryzen 7 PRO 7840U Running Nicely On Linux](https://www.phoronix.com/review/thinkpad-p14s-gen4)
