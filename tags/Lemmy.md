@@ -1,3 +1,8 @@
+## 20230928
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [A moment of appreciation for a man who is undoubtedly the world's most successful promoter of Lemmy and the fediverse](https://lemmy.ml/pictrs/image/5e3254fd-bd5c-487c-9ace-5ba7cc6377ac.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [For my hydro homies](https://startrek.website/pictrs/image/a7c34502-d7d5-42d1-a018-e2114e2fa4fc.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Ball mill them first, for best results](https://slrpnk.net/pictrs/image/ae0577d8-cdf5-45e7-b873-0e3190f6ca47.webp)
+
 ## 20230927
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [yeah, sure thing.](https://feddit.de/pictrs/image/6b4ddb28-82d3-4091-a4b1-e3efe4c4b8b7.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [This is not ok](https://lemmy.ml/pictrs/image/c8ead914-3169-4bb5-993b-44524688339e.jpeg)

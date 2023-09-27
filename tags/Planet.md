@@ -1,3 +1,8 @@
+## 20230928
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: onak 0.6.3 released](https://www.earth.li/~noodles/blog/2023/09/onak-0.6.3.html)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: How big is Debian?](https://anarc.at/blog/2023-09-26-how-big-debian/)
+- [Planet KDE](https://planet.kde.org/) | [Am I using qmllint wrong? Or is it still not there?](https://tsdgeos.blogspot.com/2023/09/am-i-using-qmllint-wrong-or-is-it-still.html?utm_source=atom_feed)
+
 ## 20230927
 - [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: #freetober – Join the latest Art Challenge!](https://communityblog.fedoraproject.org/freetober-join-the-latest-art-challenge/)

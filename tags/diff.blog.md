@@ -1,3 +1,6 @@
+## 20230928
+- [diff.blog](https://diff.blog/) | [Arena allocator tips and tricks](https://diff.blog/post/arena-allocator-tips-and-tricks-155986/)
+
 ## 20230927
 - [diff.blog](https://diff.blog/) | [Google assigns a CVE for libwebp and gives it a 10.0 score](https://diff.blog/post/google-assigns-a-cve-for-libwebp-and-gives-it-a-100-score-155932/)
 - [diff.blog](https://diff.blog/) | [Why is kernel32.dll running in user mode and not kernel mode, like its name implies?](https://diff.blog/post/why-is-kernel32dll-running-in-user-mode-and-not-kernel-mode-like-its-name-implies-155954/)

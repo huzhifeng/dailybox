@@ -1,3 +1,6 @@
+## 20230928
+- [TED Talks Daily](https://www.ted.com/talks) | [Why I gave my teenage daughter a vibrator | Robin Buckley](https://www.ted.com/talks/robin_buckley_why_i_gave_my_teenage_daughter_a_vibrator?rss)
+
 ## 20230927
 - [TED Talks Daily](https://www.ted.com/talks) | [CRISPR's next advance is bigger than you think | Jennifer Doudna](https://www.ted.com/talks/jennifer_doudna_crispr_s_next_advance_is_bigger_than_you_think?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [4 tips to future-proof your career | Michelle R. Weise](https://www.ted.com/talks/michelle_r_weise_4_tips_to_future_proof_your_career?rss)

@@ -1,3 +1,7 @@
+## 20230928
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: onak 0.6.3 released](https://www.earth.li/~noodles/blog/2023/09/onak-0.6.3.html)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: How big is Debian?](https://anarc.at/blog/2023-09-26-how-big-debian/)
+
 ## 20230927
 - [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-keymap-in-chromebook-running-debian/)
 - [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Fixing audio and keymaps in Chromebook Running Debian Bookworm](https://ravidwivedi.in/posts/fixing-audio-and-keymap-in-chromebook-running-debian/)

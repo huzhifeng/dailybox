@@ -1,3 +1,8 @@
+## 20230928
+- [Product Hunt](https://www.producthunt.com) | [AutoCaption](https://www.producthunt.com/posts/autocaption)
+- [Product Hunt](https://www.producthunt.com) | [Frame](https://www.producthunt.com/posts/frame-11)
+- [Product Hunt](https://www.producthunt.com) | [Designment](https://www.producthunt.com/posts/designment)
+
 ## 20230927
 - [Product Hunt](https://www.producthunt.com) | [LambdaTest Real Device Cloud](https://www.producthunt.com/posts/lambdatest-real-device-cloud)
 - [Product Hunt](https://www.producthunt.com) | [Songhunt](https://www.producthunt.com/posts/songhunt)

@@ -1,3 +1,17 @@
+## 20230928
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1137 微软支持开发者用 Rust 开发 Windows 驱动](https://linux.cn/article-16232-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug, Part 2 - Other ways to make object soups in Rust](https://www.collabora.com/news-and-blog/blog/2023/09/27/persian-rug-part-2-other-ways-to-make-object-soups-in-rust/)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What new features are available in Red Hat Enterprise Linux 8.9 and 9.3 Beta?](https://www.redhat.com/en/blog/what-new-features-are-available-red-hat-enterprise-linux-89-and-93-beta)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install and use Podman Desktop on Windows](https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows)
+- [Red Hat Developer](https://developers.redhat.com/) | [Parallel programming: When concurrency meets Murphy's law](https://developers.redhat.com/articles/2023/09/27/parallel-programming-when-concurrency-meets-murphys-law)
+- [Phoronix](https://www.phoronix.com/) | [Counter-Strike 2 Now Available With An Initial Linux Build](https://www.phoronix.com/news/Counter-Strike-2-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 23.10 Performance On The Lenovo ThinkPad P14s Gen 4](https://www.phoronix.com/review/thinkpad-p14s-gen4-linux)
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Releases CrossOver 23.5 With A Focus On Boosting macOS Gaming](https://www.phoronix.com/news/CrossOver-23.5-Released)
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based Porteus Linux 5.01 Released with Linux Kernel 6.5](https://9to5linux.com/slackware-based-porteus-linux-5-01-released-with-linux-kernel-6-5)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: onak 0.6.3 released](https://www.earth.li/~noodles/blog/2023/09/onak-0.6.3.html)
+- [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: How big is Debian?](https://anarc.at/blog/2023-09-26-how-big-debian/)
+- [Planet KDE](https://planet.kde.org/) | [Am I using qmllint wrong? Or is it still not there?](https://tsdgeos.blogspot.com/2023/09/am-i-using-qmllint-wrong-or-is-it-still.html?utm_source=atom_feed)
+
 ## 20230927
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1136 约翰·卡马克认为人工智能部分归功于他的《雷神之锤》](https://linux.cn/article-16229-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [What’s new in vSphere on RHEL image builder](https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder)

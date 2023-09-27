@@ -1,3 +1,7 @@
+## 20230928
+- [Hacker News](https://news.ycombinator.com/front) | [Mistral 7B](https://news.ycombinator.com/item?id=37675496)
+- [Hacker News](https://news.ycombinator.com/front) | [Essence: A desktop OS built from scratch, for control and simplicity](https://news.ycombinator.com/item?id=37671419)
+
 ## 20230927
 - [Hacker News](https://news.ycombinator.com/front) | [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://news.ycombinator.com/item?id=37661446)
 - [Hacker News](https://news.ycombinator.com/front) | [Who lusts for certainty lusts for lies](https://news.ycombinator.com/item?id=37657368)

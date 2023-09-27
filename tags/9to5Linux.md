@@ -1,3 +1,6 @@
+## 20230928
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based Porteus Linux 5.01 Released with Linux Kernel 6.5](https://9to5linux.com/slackware-based-porteus-linux-5-01-released-with-linux-kernel-6-5)
+
 ## 20230927
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 Desktop Environment Slated for Release on March 20th, 2024](https://9to5linux.com/gnome-46-desktop-environment-slated-for-release-on-march-20th-2024)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.2 and 7.5.7 Released to Address Critical WebP Vulnerability](https://9to5linux.com/libreoffice-7-6-2-and-7-5-7-released-to-address-critical-webp-vulnerability)

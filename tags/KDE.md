@@ -1,3 +1,6 @@
+## 20230928
+- [Planet KDE](https://planet.kde.org/) | [Am I using qmllint wrong? Or is it still not there?](https://tsdgeos.blogspot.com/2023/09/am-i-using-qmllint-wrong-or-is-it-still.html?utm_source=atom_feed)
+
 ## 20230926
 - [Planet KDE](https://planet.kde.org/) | [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations?pk_campaign=rss-feed?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [End of my GSoC journey with KDE but not the end of my contributions !](https://aakarshmj-unfiltered.hashnode.dev/end-of-my-gsoc-journey-with-kde-but-not-the-end-of-my-contributions?utm_source=atom_feed)
