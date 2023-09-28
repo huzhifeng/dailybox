@@ -465,6 +465,7 @@
 			"channel": "Medium Trending",
 			"portal": "https://medium.com/tag/trending",
 			"url": "https://medium.com/feed/tag/trending",
+			"enable": 0,
 			"category": "漫游",
 			"tags": ["Medium"]
 		},
