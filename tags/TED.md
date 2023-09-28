@@ -1,3 +1,6 @@
+## 20230929
+- [TED Talks Daily](https://www.ted.com/talks) | [The world's rarest diseases — and how they impact everyone | Anna Greka](https://www.ted.com/talks/anna_greka_the_world_s_rarest_diseases_and_how_they_impact_everyone?rss)
+
 ## 20230928
 - [TED Talks Daily](https://www.ted.com/talks) | [Why I gave my teenage daughter a vibrator | Robin Buckley](https://www.ted.com/talks/robin_buckley_why_i_gave_my_teenage_daughter_a_vibrator?rss)
 

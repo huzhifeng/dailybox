@@ -1,3 +1,6 @@
+## 20230929
+- [Slashdot](https://developers.slashdot.org/) | ['Code.org In Farsi' To Bring Tech-Backed Nonprofit's K-12 CS Curricula To Iran](https://news.slashdot.org/story/23/09/27/2225215/codeorg-in-farsi-to-bring-tech-backed-nonprofits-k-12-cs-curricula-to-iran?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230928
 - [Slashdot](https://developers.slashdot.org/) | [Unity Dev Group Dissolves After 13 Years Over 'Completely Eroded' Company Trust](https://tech.slashdot.org/story/23/09/26/2151223/unity-dev-group-dissolves-after-13-years-over-completely-eroded-company-trust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

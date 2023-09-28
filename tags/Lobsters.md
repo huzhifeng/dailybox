@@ -1,3 +1,8 @@
+## 20230929
+- [Lobsters](https://lobste.rs/) | [Was Javascript really made in 10 days?](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days)
+- [Lobsters](https://lobste.rs/) | [Raspberry Pi 5 announced](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced)
+- [Lobsters](https://lobste.rs/) | [an aborted experiment with server swift](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift)
+
 ## 20230928
 - [Lobsters](https://lobste.rs/) | [Rust Vs Go: A Hands-On Comparison](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison)
 - [Lobsters](https://lobste.rs/) | [The lost language extensions of MetaWare's High C Compiler](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high)

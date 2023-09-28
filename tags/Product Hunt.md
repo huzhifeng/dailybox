@@ -1,3 +1,8 @@
+## 20230929
+- [Product Hunt](https://www.producthunt.com) | [Unrevealed](https://www.producthunt.com/posts/unrevealed)
+- [Product Hunt](https://www.producthunt.com) | [ChatRealtor](https://www.producthunt.com/posts/chatrealtor)
+- [Product Hunt](https://www.producthunt.com) | [MindOne](https://www.producthunt.com/posts/mindone)
+
 ## 20230928
 - [Product Hunt](https://www.producthunt.com) | [AutoCaption](https://www.producthunt.com/posts/autocaption)
 - [Product Hunt](https://www.producthunt.com) | [Frame](https://www.producthunt.com/posts/frame-11)

@@ -1,3 +1,8 @@
+## 20230929
+- [Kagi Small Web](https://kagi.com/smallweb) | [Data Exploration with Data Viz Cheat Sheet](https://john.soban.ski/analytics-cheat-sheet.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Forecast combinations: an over 50-year review](https://robjhyndman.com/publications/combinations/index.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Forecast combinations: an over 50-year review](https://robjhyndman.com/publications/combinations/index.html)
+
 ## 20230928
 - [Kagi Small Web](https://kagi.com/smallweb) | [Custom Postgres Ubuntu Style](https://illuminatedcomputing.com/posts/2023/09/custom-postgres-ubuntu-style/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Five things I like/dislike #8](https://pawelgrzybek.com/five-things-i-like-dislike-8/)

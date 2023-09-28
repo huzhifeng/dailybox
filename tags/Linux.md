@@ -1,3 +1,18 @@
+## 20230929
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1138 俄罗斯零日卖家出价 2000 万美元购买安卓和 iPhone 漏洞](https://linux.cn/article-16239-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate your Git host key verification setup in Jenkins](https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins)
+- [Phoronix](https://www.phoronix.com/) | [Open-Source NVIDIA Vulkan Driver Begins Working On Pipeline Caching](https://www.phoronix.com/news/NVK-Pipeline-Caching-Start)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.1.13 Brings Linux 6.5 Kernel Compatibility](https://www.phoronix.com/news/OpenZFS-2.1.13-Released)
+- [Phoronix](https://www.phoronix.com/) | [System76's COSMIC Desktop Adds New Window-Swapping Mode, Dynamic Settings](https://www.phoronix.com/news/COSMIC-Desktop-September)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 Announced for End of October, Here Are the Specs](https://9to5linux.com/raspberry-pi-5-announced-for-end-of-october-here-are-the-specs)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why is a feature not available in the syslog-ng package?](https://peter.czanik.hu/other/syslog-ng-why-is-a-feature-not-available-in-the-syslog-ng-package/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Kubernetes Support On Fedora Linux 37](https://communityblog.fedoraproject.org/kubernetes-support-on-fedora-linux-37/)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: sd-mux-ctrl in Debian](https://perezmeyer.com.ar/blog/2023/09/28/sd-mux-ctrl_in_debian/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E266 Baderna Na Caserna - Tomo II](https://podcastubuntuportugal.org/e266/)
+- [Planet GNOME](https://planet.gnome.org/) | [Flatseal 2.1.0](https://blogs.gnome.org/tchx84/2023/09/28/flatseal-2-1-0/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 11.0.3 released](https://www.qt.io/blog/qt-creator-11.0.3-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Tamiz, a new and great experience](https://toscalix.com/2023/09/28/tamiz-a-new-and-great-experience/?utm_source=atom_feed)
+
 ## 20230928
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1137 微软支持开发者用 Rust 开发 Windows 驱动](https://linux.cn/article-16232-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug, Part 2 - Other ways to make object soups in Rust](https://www.collabora.com/news-and-blog/blog/2023/09/27/persian-rug-part-2-other-ways-to-make-object-soups-in-rust/)

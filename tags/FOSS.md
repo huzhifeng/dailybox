@@ -1,3 +1,7 @@
+## 20230929
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.39: Linux Shortcuts,  LMDE 6, New Bazzite Distro and New Announcement](https://itsfoss.com/newsletter/foss-weekly-23-39/)
+- [It's FOSS](https://itsfoss.com/) | [4 Incredibly Simple Ways to Customize Budgie Desktop in Linux](https://itsfoss.com/budgie-customization/)
+
 ## 20230926
 - [It's FOSS](https://itsfoss.com/) | [21 Useful Terminal Shortcuts Pro Linux Users Love to Use](https://itsfoss.com/linux-terminal-shortcuts/)
 

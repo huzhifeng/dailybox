@@ -1,3 +1,7 @@
+## 20230929
+- [diff.blog](https://diff.blog/) | [Amazon Bedrock Is Now Generally Available – Build and Scale Generative AI Applications with Foundation Models](https://diff.blog/post/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models-156084/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 514](https://diff.blog/post/this-week-in-rust-514-156053/)
+
 ## 20230928
 - [diff.blog](https://diff.blog/) | [Arena allocator tips and tricks](https://diff.blog/post/arena-allocator-tips-and-tricks-155986/)
 
