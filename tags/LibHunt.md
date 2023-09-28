@@ -1,3 +1,7 @@
+## 20230929
+- [LibHunt](https://www.libhunt.com/) | [openoffice](https://www.libhunt.com/r/openoffice)
+- [LibHunt](https://www.libhunt.com/) | [insomnia](https://www.libhunt.com/r/insomnia)
+
 ## 20230928
 - [LibHunt](https://www.libhunt.com/) | [paisa](https://www.libhunt.com/r/paisa)
 - [LibHunt](https://www.libhunt.com/) | [tg](https://www.libhunt.com/r/tidwall/tg)

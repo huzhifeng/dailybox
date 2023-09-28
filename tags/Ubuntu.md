@@ -1,3 +1,6 @@
+## 20230929
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E266 Baderna Na Caserna - Tomo II](https://podcastubuntuportugal.org/e266/)
+
 ## 20230927
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Alan Pope: CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow)

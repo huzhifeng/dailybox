@@ -1,3 +1,8 @@
+## 20230929
+- [V2EX](https://www.v2ex.com/) | [我不信有人可以破解这个站的前端代码](https://www.v2ex.com/t/978002)
+- [V2EX](https://www.v2ex.com/) | [鸿蒙原生开发现在行情如何？](https://www.v2ex.com/t/977996)
+- [V2EX](https://www.v2ex.com/) | [倒贴钱上班写代码还有前途吗？ 30 多岁了](https://www.v2ex.com/t/977938)
+
 ## 20230928
 - [V2EX](https://www.v2ex.com/) | [为什么现在人不愿意结婚，也不愿意生娃了](https://www.v2ex.com/t/977615)
 - [V2EX](https://www.v2ex.com/) | [车被刮了，民警和交警都霍稀泥没担当，同情弱者](https://www.v2ex.com/t/977543)

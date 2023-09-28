@@ -1,3 +1,7 @@
+## 20230929
+- [Hacker News](https://news.ycombinator.com/front) | [WiFi without internet on a Southwest flight](https://news.ycombinator.com/item?id=37691232)
+- [Hacker News](https://news.ycombinator.com/front) | [Raspberry Pi 5](https://news.ycombinator.com/item?id=37685580)
+
 ## 20230928
 - [Hacker News](https://news.ycombinator.com/front) | [Mistral 7B](https://news.ycombinator.com/item?id=37675496)
 - [Hacker News](https://news.ycombinator.com/front) | [Essence: A desktop OS built from scratch, for control and simplicity](https://news.ycombinator.com/item?id=37671419)

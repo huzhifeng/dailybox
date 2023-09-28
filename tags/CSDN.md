@@ -1,3 +1,8 @@
+## 20230929
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [快速使用Spring Cache](https://blog.csdn.net/aasd23/article/details/133320336)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索古彝文AI识别技术：助力中国传统文化的传承与发扬](https://blog.csdn.net/weixin_36755535/article/details/133355911)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【哈士奇赠书活动 - 40期】- 〖Spring Cloud Alibaba核心技术与实战案例〗](https://blog.csdn.net/weixin_42250835/article/details/133326030)
+
 ## 20230928
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [菜鸟已正式向港交所提交上市申请；消息称 OpenAI 拟出售数亿美元股票；React Native 0.72.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133341037)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【数据挖掘、数据分析】之用户画像平台构建与业务实践](https://blog.csdn.net/s445320/article/details/133265834)

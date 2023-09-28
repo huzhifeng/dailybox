@@ -1,3 +1,7 @@
+## 20230929
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why is a feature not available in the syslog-ng package?](https://peter.czanik.hu/other/syslog-ng-why-is-a-feature-not-available-in-the-syslog-ng-package/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Kubernetes Support On Fedora Linux 37](https://communityblog.fedoraproject.org/kubernetes-support-on-fedora-linux-37/)
+
 ## 20230927
 - [Planet Fedora](http://fedoraplanet.org/) | [Alexander Larsson: Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: #freetober – Join the latest Art Challenge!](https://communityblog.fedoraproject.org/freetober-join-the-latest-art-challenge/)

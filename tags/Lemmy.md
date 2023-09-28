@@ -1,3 +1,8 @@
+## 20230929
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [privatization of water....](https://feddit.de/pictrs/image/d7b7274b-c350-429c-a8a6-61f29134eaae.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit is dead. Long live the Fediverse.](https://lemmy.ml/pictrs/image/d627cadf-f7b0-484c-9f8c-0fc9432ddd96.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [What came first, the programmer or the code?](https://lemmy.world/pictrs/image/a79d754d-0886-4e4d-8e5d-09b2094b2bbb.jpeg)
+
 ## 20230928
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [A moment of appreciation for a man who is undoubtedly the world's most successful promoter of Lemmy and the fediverse](https://lemmy.ml/pictrs/image/5e3254fd-bd5c-487c-9ace-5ba7cc6377ac.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [For my hydro homies](https://startrek.website/pictrs/image/a7c34502-d7d5-42d1-a018-e2114e2fa4fc.jpeg)

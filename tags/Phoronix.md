@@ -1,3 +1,8 @@
+## 20230929
+- [Phoronix](https://www.phoronix.com/) | [Open-Source NVIDIA Vulkan Driver Begins Working On Pipeline Caching](https://www.phoronix.com/news/NVK-Pipeline-Caching-Start)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.1.13 Brings Linux 6.5 Kernel Compatibility](https://www.phoronix.com/news/OpenZFS-2.1.13-Released)
+- [Phoronix](https://www.phoronix.com/) | [System76's COSMIC Desktop Adds New Window-Swapping Mode, Dynamic Settings](https://www.phoronix.com/news/COSMIC-Desktop-September)
+
 ## 20230928
 - [Phoronix](https://www.phoronix.com/) | [Counter-Strike 2 Now Available With An Initial Linux Build](https://www.phoronix.com/news/Counter-Strike-2-Linux)
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 23.10 Performance On The Lenovo ThinkPad P14s Gen 4](https://www.phoronix.com/review/thinkpad-p14s-gen4-linux)

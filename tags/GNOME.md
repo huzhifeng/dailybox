@@ -1,3 +1,6 @@
+## 20230929
+- [Planet GNOME](https://planet.gnome.org/) | [Flatseal 2.1.0](https://blogs.gnome.org/tchx84/2023/09/28/flatseal-2-1-0/)
+
 ## 20230927
 - [Planet GNOME](https://planet.gnome.org/) | [Maps and GNOME 45](https://ml4711.blogspot.com/2023/09/maps-and-gnome-45.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Announcing composefs 1.0](https://blogs.gnome.org/alexl/2023/09/26/announcing-composefs-1-0/)

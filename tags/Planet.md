@@ -1,3 +1,12 @@
+## 20230929
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why is a feature not available in the syslog-ng package?](https://peter.czanik.hu/other/syslog-ng-why-is-a-feature-not-available-in-the-syslog-ng-package/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Kubernetes Support On Fedora Linux 37](https://communityblog.fedoraproject.org/kubernetes-support-on-fedora-linux-37/)
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: sd-mux-ctrl in Debian](https://perezmeyer.com.ar/blog/2023/09/28/sd-mux-ctrl_in_debian/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E266 Baderna Na Caserna - Tomo II](https://podcastubuntuportugal.org/e266/)
+- [Planet GNOME](https://planet.gnome.org/) | [Flatseal 2.1.0](https://blogs.gnome.org/tchx84/2023/09/28/flatseal-2-1-0/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 11.0.3 released](https://www.qt.io/blog/qt-creator-11.0.3-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Tamiz, a new and great experience](https://toscalix.com/2023/09/28/tamiz-a-new-and-great-experience/?utm_source=atom_feed)
+
 ## 20230928
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: onak 0.6.3 released](https://www.earth.li/~noodles/blog/2023/09/onak-0.6.3.html)
 - [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: How big is Debian?](https://anarc.at/blog/2023-09-26-how-big-debian/)

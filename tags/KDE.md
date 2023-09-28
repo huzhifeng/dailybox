@@ -1,3 +1,7 @@
+## 20230929
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 11.0.3 released](https://www.qt.io/blog/qt-creator-11.0.3-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Tamiz, a new and great experience](https://toscalix.com/2023/09/28/tamiz-a-new-and-great-experience/?utm_source=atom_feed)
+
 ## 20230928
 - [Planet KDE](https://planet.kde.org/) | [Am I using qmllint wrong? Or is it still not there?](https://tsdgeos.blogspot.com/2023/09/am-i-using-qmllint-wrong-or-is-it-still.html?utm_source=atom_feed)
 

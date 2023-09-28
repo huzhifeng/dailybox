@@ -1,3 +1,6 @@
+## 20230929
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 Announced for End of October, Here Are the Specs](https://9to5linux.com/raspberry-pi-5-announced-for-end-of-october-here-are-the-specs)
+
 ## 20230928
 - [9to5Linux](https://9to5linux.com/) | [Slackware-Based Porteus Linux 5.01 Released with Linux Kernel 6.5](https://9to5linux.com/slackware-based-porteus-linux-5-01-released-with-linux-kernel-6-5)
 

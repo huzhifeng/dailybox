@@ -1,3 +1,6 @@
+## 20230929
+- [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: sd-mux-ctrl in Debian](https://perezmeyer.com.ar/blog/2023/09/28/sd-mux-ctrl_in_debian/)
+
 ## 20230928
 - [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: onak 0.6.3 released](https://www.earth.li/~noodles/blog/2023/09/onak-0.6.3.html)
 - [Planet Debian](https://planet.debian.org/) | [Antoine Beaupré: How big is Debian?](https://anarc.at/blog/2023-09-26-how-big-debian/)
