@@ -1,3 +1,7 @@
+## 20230930
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute to Fedora 39 Upgrade, Virtualization, and Cloud Test Day](https://fedoramagazine.org/contribute-to-fedora-39-upgrade-virtualization-and-cloud-test-day/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.24 and 8.2.11](https://blog.remirepo.net/post/2023/09/29/PHP-version-8.1.24-and-8.2.11)
+
 ## 20230929
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Why is a feature not available in the syslog-ng package?](https://peter.czanik.hu/other/syslog-ng-why-is-a-feature-not-available-in-the-syslog-ng-package/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Kubernetes Support On Fedora Linux 37](https://communityblog.fedoraproject.org/kubernetes-support-on-fedora-linux-37/)

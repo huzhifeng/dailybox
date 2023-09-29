@@ -1,3 +1,6 @@
+## 20230930
+- [TED Talks Daily](https://www.ted.com/talks) | [This country runs on 98 percent renewable energy | Ramón Méndez Galain](https://www.ted.com/talks/ramon_mendez_galain_this_country_runs_on_98_percent_renewable_energy?rss)
+
 ## 20230929
 - [TED Talks Daily](https://www.ted.com/talks) | [The world's rarest diseases — and how they impact everyone | Anna Greka](https://www.ted.com/talks/anna_greka_the_world_s_rarest_diseases_and_how_they_impact_everyone?rss)
 

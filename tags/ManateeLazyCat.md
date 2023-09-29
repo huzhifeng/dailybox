@@ -1,3 +1,6 @@
+## 20230930
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [也许是 Emacs 下最好的终端模拟器](https://manateelazycat.github.io/2023/09/29/intro-eaf-pyqterminal/)
+
 ## 20230923
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [武汉周边遛娃景点](https://manateelazycat.github.io/2023/09/22/wuhan-travel/)
 

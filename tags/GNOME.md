@@ -1,3 +1,8 @@
+## 20230930
+- [Planet GNOME](https://planet.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
+- [Planet GNOME](https://planet.gnome.org/) | [The journey of an open source contributor](https://belmoussaoui.com/blog/17-the-journey-of-a-contributor/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
+
 ## 20230929
 - [Planet GNOME](https://planet.gnome.org/) | [Flatseal 2.1.0](https://blogs.gnome.org/tchx84/2023/09/28/flatseal-2-1-0/)
 

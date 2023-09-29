@@ -1,3 +1,6 @@
+## 20230930
+- [diff.blog](https://diff.blog/) | [The forbidden topics](https://diff.blog/post/the-forbidden-topics-156154/)
+
 ## 20230929
 - [diff.blog](https://diff.blog/) | [Amazon Bedrock Is Now Generally Available – Build and Scale Generative AI Applications with Foundation Models](https://diff.blog/post/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models-156084/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 514](https://diff.blog/post/this-week-in-rust-514-156053/)

@@ -1,3 +1,8 @@
+## 20230930
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.17 Released With VKD3D 1.9 Upgrade, Initial Window Management For Wayland Driver](https://www.phoronix.com/news/Wine-8.17-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux's modprobe Adds The Ability To Load A Module From Anywhere On The File-System](https://www.phoronix.com/news/Linux-modprobe-anywhere)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Support New Intel DG2-G12 Stepping, More Raptor Lake IDs](https://www.phoronix.com/news/Linux-6.7-drm-intel-ne)
+
 ## 20230929
 - [Phoronix](https://www.phoronix.com/) | [Open-Source NVIDIA Vulkan Driver Begins Working On Pipeline Caching](https://www.phoronix.com/news/NVK-Pipeline-Caching-Start)
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.1.13 Brings Linux 6.5 Kernel Compatibility](https://www.phoronix.com/news/OpenZFS-2.1.13-Released)

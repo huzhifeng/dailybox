@@ -1,3 +1,6 @@
+## 20230930
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/)
+
 ## 20230929
 - [Planet Debian](https://planet.debian.org/) | [Lisandro Damián Nicanor Pérez Meyer: sd-mux-ctrl in Debian](https://perezmeyer.com.ar/blog/2023/09/28/sd-mux-ctrl_in_debian/)
 

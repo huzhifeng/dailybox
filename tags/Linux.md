@@ -1,3 +1,23 @@
+## 20230930
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1139 Linux 基金会是世界上最大的“软件公司”](https://linux.cn/article-16242-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Put your coding skills to work at the CodeShift hackathon](https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon)
+- [Red Hat Developer](https://developers.redhat.com/) | [How we solved a HotSpot performance puzzle](https://developers.redhat.com/articles/2023/09/29/how-we-solved-hotspot-performance-puzzle)
+- [Phoronix](https://www.phoronix.com/) | [Wine 8.17 Released With VKD3D 1.9 Upgrade, Initial Window Management For Wayland Driver](https://www.phoronix.com/news/Wine-8.17-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux's modprobe Adds The Ability To Load A Module From Anywhere On The File-System](https://www.phoronix.com/news/Linux-modprobe-anywhere)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Support New Intel DG2-G12 Stepping, More Raptor Lake IDs](https://www.phoronix.com/news/Linux-6.7-drm-intel-ne)
+- [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME 46 Release Schedule is Now Online](https://www.omglinux.com/gnome-46-release-date/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute to Fedora 39 Upgrade, Virtualization, and Cloud Test Day](https://fedoramagazine.org/contribute-to-fedora-39-upgrade-virtualization-and-cloud-test-day/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.24 and 8.2.11](https://blog.remirepo.net/post/2023/09/29/PHP-version-8.1.24-and-8.2.11)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/)
+- [Planet GNOME](https://planet.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
+- [Planet GNOME](https://planet.gnome.org/) | [The journey of an open source contributor](https://belmoussaoui.com/blog/17-the-journey-of-a-contributor/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Porting Godot](http://www.thelins.se/johan/blog/2023/09/porting-godot/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-39](https://ervin.ipsquad.net/blog/2023/09/29/web-review-week-2023-39/?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
+- [Slashdot](https://linux.slashdot.org/) | [Richard Stallman Says He Has Cancer](https://news.slashdot.org/story/23/09/29/1431234/richard-stallman-says-he-has-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230929
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1138 俄罗斯零日卖家出价 2000 万美元购买安卓和 iPhone 漏洞](https://linux.cn/article-16239-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate your Git host key verification setup in Jenkins](https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins)

@@ -1,3 +1,8 @@
+## 20230930
+- [Lobsters](https://lobste.rs/) | [How SteamOS is contributing to the Linux ecosystem](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux)
+- [Lobsters](https://lobste.rs/) | [Hijacking Bluesky Identities with a Malleable Deputy](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with)
+- [Lobsters](https://lobste.rs/) | [Making a music library without a SPA](https://lobste.rs/s/pjccms/making_music_library_without_spa)
+
 ## 20230929
 - [Lobsters](https://lobste.rs/) | [Was Javascript really made in 10 days?](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days)
 - [Lobsters](https://lobste.rs/) | [Raspberry Pi 5 announced](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced)

@@ -1,3 +1,6 @@
+## 20230930
+- [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)
+
 ## 20230929
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 Announced for End of October, Here Are the Specs](https://9to5linux.com/raspberry-pi-5-announced-for-end-of-october-here-are-the-specs)
 

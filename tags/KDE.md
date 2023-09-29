@@ -1,3 +1,8 @@
+## 20230930
+- [Planet KDE](https://planet.kde.org/) | [KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Porting Godot](http://www.thelins.se/johan/blog/2023/09/porting-godot/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-39](https://ervin.ipsquad.net/blog/2023/09/29/web-review-week-2023-39/?utm_source=atom_feed)
+
 ## 20230929
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 11.0.3 released](https://www.qt.io/blog/qt-creator-11.0.3-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Tamiz, a new and great experience](https://toscalix.com/2023/09/28/tamiz-a-new-and-great-experience/?utm_source=atom_feed)
