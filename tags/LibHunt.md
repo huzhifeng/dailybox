@@ -1,3 +1,6 @@
+## 20230930
+- [LibHunt](https://www.libhunt.com/) | [bruno](https://www.libhunt.com/r/usebruno/bruno)
+
 ## 20230929
 - [LibHunt](https://www.libhunt.com/) | [openoffice](https://www.libhunt.com/r/openoffice)
 - [LibHunt](https://www.libhunt.com/) | [insomnia](https://www.libhunt.com/r/insomnia)

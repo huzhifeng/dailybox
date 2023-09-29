@@ -1,3 +1,8 @@
+## 20230930
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索古彝文AI识别技术：助力中国传统文化的传承与发扬](https://blog.csdn.net/weixin_36755535/article/details/133355911)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [助力古彝文保护，AI文字识别技术推动文化传承](https://blog.csdn.net/zhangxia_/article/details/132913187)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [加速企业AI实施：成功策略和效率方法](https://blog.csdn.net/HHX_01/article/details/133384891)
+
 ## 20230929
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [快速使用Spring Cache](https://blog.csdn.net/aasd23/article/details/133320336)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索古彝文AI识别技术：助力中国传统文化的传承与发扬](https://blog.csdn.net/weixin_36755535/article/details/133355911)

@@ -1,3 +1,6 @@
+## 20230930
+- [Slashdot](https://linux.slashdot.org/) | [Richard Stallman Says He Has Cancer](https://news.slashdot.org/story/23/09/29/1431234/richard-stallman-says-he-has-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230929
 - [Slashdot](https://developers.slashdot.org/) | ['Code.org In Farsi' To Bring Tech-Backed Nonprofit's K-12 CS Curricula To Iran](https://news.slashdot.org/story/23/09/27/2225215/codeorg-in-farsi-to-bring-tech-backed-nonprofits-k-12-cs-curricula-to-iran?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

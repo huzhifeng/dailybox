@@ -1,3 +1,6 @@
+## 20230930
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME 46 Release Schedule is Now Online](https://www.omglinux.com/gnome-46-release-date/)
+
 ## 20230927
 - [OMG! Linux](https://www.omglinux.com/) | [Dim Inactive Windows to Help Focus Using a GNOME Extension](https://www.omglinux.com/dim-background-windows-gnome-extension/)
 

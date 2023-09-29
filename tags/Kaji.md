@@ -1,3 +1,8 @@
+## 20230930
+- [Kagi Small Web](https://kagi.com/smallweb) | [State-of-the-art generalisation research in NLP: a taxonomy and review](https://nsaphra.github.io/publication/hupkes-state-art-2022/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Data Exploration with Data Viz Cheat Sheet](https://john.soban.ski/analytics-cheat-sheet.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Forecast combinations: an over 50-year review](https://robjhyndman.com/publications/combinations/index.html)
+
 ## 20230929
 - [Kagi Small Web](https://kagi.com/smallweb) | [Data Exploration with Data Viz Cheat Sheet](https://john.soban.ski/analytics-cheat-sheet.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Forecast combinations: an over 50-year review](https://robjhyndman.com/publications/combinations/index.html)

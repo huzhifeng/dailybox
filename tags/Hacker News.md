@@ -1,3 +1,7 @@
+## 20230930
+- [Hacker News](https://news.ycombinator.com/front) | [Draggable objects](https://news.ycombinator.com/item?id=37703291)
+- [Hacker News](https://news.ycombinator.com/front) | [Burning money on paid ads for a dev tool – what we've learned](https://news.ycombinator.com/item?id=37700847)
+
 ## 20230929
 - [Hacker News](https://news.ycombinator.com/front) | [WiFi without internet on a Southwest flight](https://news.ycombinator.com/item?id=37691232)
 - [Hacker News](https://news.ycombinator.com/front) | [Raspberry Pi 5](https://news.ycombinator.com/item?id=37685580)

@@ -1,3 +1,7 @@
+## 20230930
+- [Red Hat Developer](https://developers.redhat.com/) | [Put your coding skills to work at the CodeShift hackathon](https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon)
+- [Red Hat Developer](https://developers.redhat.com/) | [How we solved a HotSpot performance puzzle](https://developers.redhat.com/articles/2023/09/29/how-we-solved-hotspot-performance-puzzle)
+
 ## 20230929
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate your Git host key verification setup in Jenkins](https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins)
 

@@ -1,3 +1,8 @@
+## 20230930
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Lemmy World update to Lemmy 0.18.5 [2023-09-30]](https://lemmy.world/post/5977206)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Night owls and early birds](https://lemmy.ml/pictrs/image/bc5cd5eb-3117-45e9-bcf8-79f477e04330.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit abandons user privacy - Ars Technica](https://arstechnica.com/gadgets/2023/09/reddit-blocks-opting-out-of-personalized-ads-starts-paying-users/)
+
 ## 20230929
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [privatization of water....](https://feddit.de/pictrs/image/d7b7274b-c350-429c-a8a6-61f29134eaae.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit is dead. Long live the Fediverse.](https://lemmy.ml/pictrs/image/d627cadf-f7b0-484c-9f8c-0fc9432ddd96.jpeg)

@@ -1,3 +1,8 @@
+## 20230930
+- [V2EX](https://www.v2ex.com/) | [今天中秋节起亲戚家串门被数落了...](https://www.v2ex.com/t/978181)
+- [V2EX](https://www.v2ex.com/) | [亲戚要买笔记本电脑，要求：不玩游戏，不写代码，就是看看电视，使用下 Word 之类的软件，该怎么选？](https://www.v2ex.com/t/978178)
+- [V2EX](https://www.v2ex.com/) | [聊一聊中秋节都吃的什么馅月饼](https://www.v2ex.com/t/978137)
+
 ## 20230929
 - [V2EX](https://www.v2ex.com/) | [我不信有人可以破解这个站的前端代码](https://www.v2ex.com/t/978002)
 - [V2EX](https://www.v2ex.com/) | [鸿蒙原生开发现在行情如何？](https://www.v2ex.com/t/977996)

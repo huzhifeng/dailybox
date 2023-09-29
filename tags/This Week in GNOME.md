@@ -1,3 +1,6 @@
+## 20230930
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
+
 ## 20230923
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#114 Forty-five!](https://thisweek.gnome.org/posts/2023/09/twig-114/)
 
