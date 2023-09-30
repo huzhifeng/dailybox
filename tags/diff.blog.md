@@ -1,3 +1,6 @@
+## 20231001
+- [diff.blog](https://diff.blog/) | [How flip-flops are implemented in the Intel 8086 processor](https://diff.blog/post/how-flip-flops-are-implemented-in-the-intel-8086-processor-156223/)
+
 ## 20230930
 - [diff.blog](https://diff.blog/) | [The forbidden topics](https://diff.blog/post/the-forbidden-topics-156154/)
 

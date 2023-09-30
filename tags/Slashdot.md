@@ -1,3 +1,7 @@
+## 20231001
+- [Slashdot](https://linux.slashdot.org/) | [Canonical's Snap Store Restricts Uploads Following Possible Security Issue](https://linux.slashdot.org/story/23/09/30/0549224/canonicals-snap-store-restricts-uploads-following-possible-security-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Interoperability Is Maturing Fast Thanks To a Games Console](https://linux.slashdot.org/story/23/09/29/2036225/linux-interoperability-is-maturing-fast-thanks-to-a-games-console?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230930
 - [Slashdot](https://linux.slashdot.org/) | [Richard Stallman Says He Has Cancer](https://news.slashdot.org/story/23/09/29/1431234/richard-stallman-says-he-has-cancer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

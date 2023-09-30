@@ -1,3 +1,6 @@
+## 20231001
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/)
+
 ## 20230924
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: an unfrozen panel for NVIDIA Wayland users](https://pointieststick.com/2023/09/22/this-week-in-kde-an-unfrozen-panel-for-nvidia-wayland-users/)
 

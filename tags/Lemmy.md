@@ -1,3 +1,8 @@
+## 20231001
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unremoval of Piracy Communities](https://lemmy.world/post/6018317)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [If only they read](https://lemmy.world/pictrs/image/511df9d2-581c-4c30-b8b6-289498ad037e.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | ["Veryfying Estimates" by Work Chronicles](https://telegra.ph/file/60b9fd77eda627c2c6ea2.jpg)
+
 ## 20230930
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Lemmy World update to Lemmy 0.18.5 [2023-09-30]](https://lemmy.world/post/5977206)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Night owls and early birds](https://lemmy.ml/pictrs/image/bc5cd5eb-3117-45e9-bcf8-79f477e04330.jpeg)

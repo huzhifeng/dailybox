@@ -1,3 +1,9 @@
+## 20231001
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links September 2023](https://etbe.coker.com.au/2023/09/30/links-september-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: auto-cpufreq v2.0](https://foolcontrol.org/?p=4603)
+- [Planet Debian](https://planet.debian.org/) | [François Marier: Things I do after uploading a new package to Debian](https://feeding.cloud.geek.nz/posts/things-i-do-after-uploading-a-new-package-to-debian/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/?utm_source=atom_feed)
+
 ## 20230930
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute to Fedora 39 Upgrade, Virtualization, and Cloud Test Day](https://fedoramagazine.org/contribute-to-fedora-39-upgrade-virtualization-and-cloud-test-day/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.24 and 8.2.11](https://blog.remirepo.net/post/2023/09/29/PHP-version-8.1.24-and-8.2.11)

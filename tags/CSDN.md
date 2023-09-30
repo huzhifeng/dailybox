@@ -1,3 +1,8 @@
+## 20231001
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [传统遗产与技术相遇，古彝文的数字化与保护](https://blog.csdn.net/m0_75058342/article/details/132909526)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/133410602)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索古彝文AI识别技术：助力中国传统文化的传承与发扬](https://blog.csdn.net/weixin_36755535/article/details/133355911)
+
 ## 20230930
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索古彝文AI识别技术：助力中国传统文化的传承与发扬](https://blog.csdn.net/weixin_36755535/article/details/133355911)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [助力古彝文保护，AI文字识别技术推动文化传承](https://blog.csdn.net/zhangxia_/article/details/132913187)

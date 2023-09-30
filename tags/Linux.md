@@ -1,3 +1,16 @@
+## 20231001
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1140 起亚和现代将汽车被盗归咎于 TikTok 和 Instagram](https://linux.cn/article-16243-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Silicon Motion X.Org Driver Sees First Release In Six Years](https://www.phoronix.com/news/xf86-video-siliconmotion-1.7.10)
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi 5, Steam Deck & New AMD CPUs Dominated Q3](https://www.phoronix.com/news/Q3-2023-Highlights)
+- [Phoronix](https://www.phoronix.com/) | [Canonical's Snap Store Hit By Malicious Apps](https://www.phoronix.com/news/Snap-Store-Malicious-Apps)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links September 2023](https://etbe.coker.com.au/2023/09/30/links-september-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: auto-cpufreq v2.0](https://foolcontrol.org/?p=4603)
+- [Planet Debian](https://planet.debian.org/) | [François Marier: Things I do after uploading a new package to Debian](https://feeding.cloud.geek.nz/posts/things-i-do-after-uploading-a-new-package-to-debian/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/)
+- [Slashdot](https://linux.slashdot.org/) | [Canonical's Snap Store Restricts Uploads Following Possible Security Issue](https://linux.slashdot.org/story/23/09/30/0549224/canonicals-snap-store-restricts-uploads-following-possible-security-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Interoperability Is Maturing Fast Thanks To a Games Console](https://linux.slashdot.org/story/23/09/29/2036225/linux-interoperability-is-maturing-fast-thanks-to-a-games-console?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20230930
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1139 Linux 基金会是世界上最大的“软件公司”](https://linux.cn/article-16242-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Put your coding skills to work at the CodeShift hackathon](https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon)

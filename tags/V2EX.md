@@ -1,3 +1,8 @@
+## 20231001
+- [V2EX](https://www.v2ex.com/) | [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301)
+- [V2EX](https://www.v2ex.com/) | [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290)
+- [V2EX](https://www.v2ex.com/) | [磁吸才是苹果充电的正确打开方式啊](https://www.v2ex.com/t/978268)
+
 ## 20230930
 - [V2EX](https://www.v2ex.com/) | [今天中秋节起亲戚家串门被数落了...](https://www.v2ex.com/t/978181)
 - [V2EX](https://www.v2ex.com/) | [亲戚要买笔记本电脑，要求：不玩游戏，不写代码，就是看看电视，使用下 Word 之类的软件，该怎么选？](https://www.v2ex.com/t/978178)

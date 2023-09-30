@@ -1,3 +1,8 @@
+## 20231001
+- [Lobsters](https://lobste.rs/) | [YAML config file? Pain? Try Lua](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua)
+- [Lobsters](https://lobste.rs/) | [Reorient GitHub Pull Requests Around Changesets](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around)
+- [Lobsters](https://lobste.rs/) | [Hardening macOS (updated for macOS Sonoma 14.0)](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma)
+
 ## 20230930
 - [Lobsters](https://lobste.rs/) | [How SteamOS is contributing to the Linux ecosystem](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux)
 - [Lobsters](https://lobste.rs/) | [Hijacking Bluesky Identities with a Malleable Deputy](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with)

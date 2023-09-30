@@ -1,3 +1,7 @@
+## 20231001
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/)
+
 ## 20230930
 - [Planet KDE](https://planet.kde.org/) | [KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Porting Godot](http://www.thelins.se/johan/blog/2023/09/porting-godot/?utm_source=atom_feed)
