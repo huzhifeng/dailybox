@@ -1,3 +1,6 @@
+## 20231001
+- [LibHunt](https://www.libhunt.com/) | [LibrePCB](https://www.libhunt.com/r/LibrePCB)
+
 ## 20230930
 - [LibHunt](https://www.libhunt.com/) | [bruno](https://www.libhunt.com/r/usebruno/bruno)
 

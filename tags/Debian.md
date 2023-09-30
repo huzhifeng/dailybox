@@ -1,3 +1,8 @@
+## 20231001
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links September 2023](https://etbe.coker.com.au/2023/09/30/links-september-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: auto-cpufreq v2.0](https://foolcontrol.org/?p=4603)
+- [Planet Debian](https://planet.debian.org/) | [François Marier: Things I do after uploading a new package to Debian](https://feeding.cloud.geek.nz/posts/things-i-do-after-uploading-a-new-package-to-debian/)
+
 ## 20230930
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Another Busy Week! KDE neon, Debian, Snaps Oh My!](https://www.scarlettgatelymoore.dev/kde-another-busy-week-kde-neon-debian-snaps-oh-my/)
 
