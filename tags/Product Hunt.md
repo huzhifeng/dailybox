@@ -1,3 +1,8 @@
+## 20231002
+- [Product Hunt](https://www.producthunt.com) | [Best Hacktoberfest 2023 Projects](https://www.producthunt.com/posts/best-hacktoberfest-2023-projects)
+- [Product Hunt](https://www.producthunt.com) | [Daily Nugts](https://www.producthunt.com/posts/daily-nugts)
+- [Product Hunt](https://www.producthunt.com) | [Colors AI](https://www.producthunt.com/posts/colors-ai)
+
 ## 20231001
 - [Product Hunt](https://www.producthunt.com) | [Receive SMS Online](https://www.producthunt.com/posts/receive-sms-online)
 

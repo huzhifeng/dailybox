@@ -1,3 +1,6 @@
+## 20231002
+- [Hacker News](https://news.ycombinator.com/front) | [Tire dust makes up the majority of ocean microplastics](https://news.ycombinator.com/item?id=37726539)
+
 ## 20231001
 - [Hacker News](https://news.ycombinator.com/front) | [Flexbox Froggy](https://news.ycombinator.com/item?id=37713530)
 

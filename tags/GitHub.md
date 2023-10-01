@@ -1,3 +1,6 @@
+## 20231002
+- [GitHub Advanced Search](https://github.com/search/advanced) | [laviii123/Btecky](https://github.com/laviii123/Btecky)
+
 ## 20230927
 - [GitHub Advanced Search](https://github.com/search/advanced) | [ResoftPro/Photoshop](https://github.com/ResoftPro/Photoshop)
 
