@@ -1,3 +1,8 @@
+## 20231002
+- [V2EX](https://www.v2ex.com/) | [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493)
+- [V2EX](https://www.v2ex.com/) | [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482)
+- [V2EX](https://www.v2ex.com/) | [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479)
+
 ## 20231001
 - [V2EX](https://www.v2ex.com/) | [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301)
 - [V2EX](https://www.v2ex.com/) | [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290)

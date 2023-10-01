@@ -1,3 +1,8 @@
+## 20231002
+- [Phoronix](https://www.phoronix.com/) | [Linux To Try Again To Disable All RNDIS Protocol Drivers](https://www.phoronix.com/news/Linux-Disable-RNDIS-Drivers)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.3 Restores DCC With Mipmaps Performance Optimization For AMD RDNA3 GPUs](https://www.phoronix.com/news/Mesa-23.3-More-DCC-Perf)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft CBL-Mariner 2.0.20230924 Rebuilds AArch64 Packages Due To That Nasty GCC Bug](https://www.phoronix.com/news/CBL-Mariner-2.0.20230924)
+
 ## 20231001
 - [Phoronix](https://www.phoronix.com/) | [Silicon Motion X.Org Driver Sees First Release In Six Years](https://www.phoronix.com/news/xf86-video-siliconmotion-1.7.10)
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi 5, Steam Deck & New AMD CPUs Dominated Q3](https://www.phoronix.com/news/Q3-2023-Highlights)

@@ -1,3 +1,8 @@
+## 20231002
+- [Kagi Small Web](https://kagi.com/smallweb) | [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Patterns for Consuming REST API's in TypeScript vol.2 - AsyncResult](https://codewithstyle.info/typescript-async-result/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Philip Larkin](http://nigeness.blogspot.com/2023/10/the-philip-larkin.html)
+
 ## 20230930
 - [Kagi Small Web](https://kagi.com/smallweb) | [State-of-the-art generalisation research in NLP: a taxonomy and review](https://nsaphra.github.io/publication/hupkes-state-art-2022/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Data Exploration with Data Viz Cheat Sheet](https://john.soban.ski/analytics-cheat-sheet.html)

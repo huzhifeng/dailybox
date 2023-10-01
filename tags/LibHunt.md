@@ -1,3 +1,8 @@
+## 20231002
+- [LibHunt](https://www.libhunt.com/) | [askai](https://www.libhunt.com/r/yudax42/askai)
+- [LibHunt](https://www.libhunt.com/) | [PcapPlusPlus](https://www.libhunt.com/r/PcapPlusPlus)
+- [LibHunt](https://www.libhunt.com/) | [Next.js](https://www.libhunt.com/r/next.js)
+
 ## 20231001
 - [LibHunt](https://www.libhunt.com/) | [LibrePCB](https://www.libhunt.com/r/LibrePCB)
 

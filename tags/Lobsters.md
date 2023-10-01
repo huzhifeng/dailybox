@@ -1,3 +1,8 @@
+## 20231002
+- [Lobsters](https://lobste.rs/) | [The X220 ThinkPad is the Best Laptop in the World](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world)
+- [Lobsters](https://lobste.rs/) | [The GNU Taler Digital Cash Payment System (2022)](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system)
+- [Lobsters](https://lobste.rs/) | [Choose Boring Technology](https://lobste.rs/s/wsx4vp/choose_boring_technology)
+
 ## 20231001
 - [Lobsters](https://lobste.rs/) | [YAML config file? Pain? Try Lua](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua)
 - [Lobsters](https://lobste.rs/) | [Reorient GitHub Pull Requests Around Changesets](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around)

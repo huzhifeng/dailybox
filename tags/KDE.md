@@ -1,3 +1,6 @@
+## 20231002
+- [Planet KDE](https://planet.kde.org/) | [Learning a language](http://www.thelins.se/johan/blog/2023/10/learning-a-language/?utm_source=atom_feed)
+
 ## 20231001
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/?utm_source=atom_feed)
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: time for the new features](https://pointieststick.com/2023/09/29/this-week-in-kde-time-for-the-new-features/)

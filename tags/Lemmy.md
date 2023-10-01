@@ -1,3 +1,8 @@
+## 20231002
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [A message to new users](https://lemmy.world/post/6086181)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Plane goes brrrr](https://pawb.social/pictrs/image/54694681-27ba-4642-b968-a498dd49b88c.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Music too](https://lemmy.ml/pictrs/image/4adeb560-ebb6-4062-855d-945ce419e9fd.jpeg)
+
 ## 20231001
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unremoval of Piracy Communities](https://lemmy.world/post/6018317)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [If only they read](https://lemmy.world/pictrs/image/511df9d2-581c-4c30-b8b6-289498ad037e.png)

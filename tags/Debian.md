@@ -1,3 +1,7 @@
+## 20231002
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Family member getting sick, and I'm starting to feel bad.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-1.html.en#2023-Oct-1-18:48:12)
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities September 2023](http://bonedaddy.net/pabs3/log/2023/10/01/floss-activities/)
+
 ## 20231001
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links September 2023](https://etbe.coker.com.au/2023/09/30/links-september-2023/)
 - [Planet Debian](https://planet.debian.org/) | [Adnan Hodzic: auto-cpufreq v2.0](https://foolcontrol.org/?p=4603)
