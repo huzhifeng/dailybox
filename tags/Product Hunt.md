@@ -1,3 +1,8 @@
+## 20231003
+- [Product Hunt](https://www.producthunt.com) | [Moments](https://www.producthunt.com/posts/moments-10)
+- [Product Hunt](https://www.producthunt.com) | [VSCO Studio on web](https://www.producthunt.com/posts/vsco-studio-on-web)
+- [Product Hunt](https://www.producthunt.com) | [Agave Health (Android App)](https://www.producthunt.com/posts/agave-health-android-app)
+
 ## 20231002
 - [Product Hunt](https://www.producthunt.com) | [Best Hacktoberfest 2023 Projects](https://www.producthunt.com/posts/best-hacktoberfest-2023-projects)
 - [Product Hunt](https://www.producthunt.com) | [Daily Nugts](https://www.producthunt.com/posts/daily-nugts)

@@ -1,3 +1,8 @@
+## 20231003
+- [Phoronix](https://www.phoronix.com/) | [Tweaking SteamOS For Better Steam Deck Performance](https://www.phoronix.com/review/steam-deck-steamos-tweaks)
+- [Phoronix](https://www.phoronix.com/) | [Linux Will Finally Indicate Via /proc/cpuinfo If AMD SVM Virtualization Is Disabled](https://www.phoronix.com/news/AMD-SVM-Correct-cpuinfo)
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVKL 2.0 With Intel GPU Acceleration Via SYCL](https://www.phoronix.com/news/Intel-OpenVKL-2.0)
+
 ## 20231002
 - [Phoronix](https://www.phoronix.com/) | [Linux To Try Again To Disable All RNDIS Protocol Drivers](https://www.phoronix.com/news/Linux-Disable-RNDIS-Drivers)
 - [Phoronix](https://www.phoronix.com/) | [Mesa 23.3 Restores DCC With Mipmaps Performance Optimization For AMD RDNA3 GPUs](https://www.phoronix.com/news/Mesa-23.3-More-DCC-Perf)

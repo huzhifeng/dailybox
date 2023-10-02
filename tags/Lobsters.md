@@ -1,3 +1,8 @@
+## 20231003
+- [Lobsters](https://lobste.rs/) | [Python 3.12.0 released](https://lobste.rs/s/pznwxq/python_3_12_0_released)
+- [Lobsters](https://lobste.rs/) | [Unicode Overview](https://lobste.rs/s/bkavdb/unicode_overview)
+- [Lobsters](https://lobste.rs/) | [The 300% Production Problem](https://lobste.rs/s/572efc/300_production_problem)
+
 ## 20231002
 - [Lobsters](https://lobste.rs/) | [The X220 ThinkPad is the Best Laptop in the World](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world)
 - [Lobsters](https://lobste.rs/) | [The GNU Taler Digital Cash Payment System (2022)](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system)

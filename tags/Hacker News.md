@@ -1,3 +1,8 @@
+## 20231003
+- [Hacker News](https://news.ycombinator.com/front) | [Nobel Prize in Medicine awarded to Katalin Karikó and Drew Weissman](https://news.ycombinator.com/item?id=37736035)
+- [Hacker News](https://news.ycombinator.com/front) | [What every software developer must know about Unicode in 2023](https://news.ycombinator.com/item?id=37735801)
+- [Hacker News](https://news.ycombinator.com/front) | [Nomnoml](https://news.ycombinator.com/item?id=37734875)
+
 ## 20231002
 - [Hacker News](https://news.ycombinator.com/front) | [Tire dust makes up the majority of ocean microplastics](https://news.ycombinator.com/item?id=37726539)
 

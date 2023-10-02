@@ -1,3 +1,8 @@
+## 20231003
+- [LibHunt](https://www.libhunt.com/) | [OuterFlightTracker](https://www.libhunt.com/r/OuterFlightTracker)
+- [LibHunt](https://www.libhunt.com/) | [minum](https://www.libhunt.com/r/minum)
+- [LibHunt](https://www.libhunt.com/) | [insomnium](https://www.libhunt.com/r/insomnium)
+
 ## 20231002
 - [LibHunt](https://www.libhunt.com/) | [askai](https://www.libhunt.com/r/yudax42/askai)
 - [LibHunt](https://www.libhunt.com/) | [PcapPlusPlus](https://www.libhunt.com/r/PcapPlusPlus)

@@ -1,3 +1,6 @@
+## 20231003
+- [TED Talks Daily](https://www.ted.com/talks) | [The truth about human population decline | Jennifer D. Sciubba](https://www.ted.com/talks/jennifer_d_sciubba_the_truth_about_human_population_decline?rss)
+
 ## 20230930
 - [TED Talks Daily](https://www.ted.com/talks) | [This country runs on 98 percent renewable energy | Ramón Méndez Galain](https://www.ted.com/talks/ramon_mendez_galain_this_country_runs_on_98_percent_renewable_energy?rss)
 

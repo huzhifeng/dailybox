@@ -1,3 +1,6 @@
+## 20231003
+- [It's FOSS](https://itsfoss.com/) | [A Guide to Compiling the Linux Kernel All By Yourself](https://itsfoss.com/compile-linux-kernel/)
+
 ## 20231001
 - [It's FOSS](https://itsfoss.com/) | [17 Dolphin File Manager Tweaks for KDE Users](https://itsfoss.com/dolphin-tweaks/)
 

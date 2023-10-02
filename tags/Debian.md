@@ -1,3 +1,7 @@
+## 20231003
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Promotion](https://jmtd.net/log/promotion/)
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos all](http://aigarius.com/blog/2023/10/02/debconf23-photos/)
+
 ## 20231002
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Family member getting sick, and I'm starting to feel bad.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-1.html.en#2023-Oct-1-18:48:12)
 - [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities September 2023](http://bonedaddy.net/pabs3/log/2023/10/01/floss-activities/)

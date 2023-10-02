@@ -1,3 +1,7 @@
+## 20231003
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 &#8220;EDGE&#8221; ISO Released with Linux Kernel 6.2, Secure Boot Support](https://9to5linux.com/linux-mint-21-2-edge-iso-released-with-linux-kernel-6-2-secure-boot-support)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 1st, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-1st-2023)
+
 ## 20230930
 - [9to5Linux](https://9to5linux.com/) | [Mesa 23.2 Brings OpenGL 3.1 &#038; OpenGL ES 3.0 Support on Asahi, New RADV Features](https://9to5linux.com/mesa-23-2-brings-opengl-3-1-opengl-es-3-0-support-on-asahi-new-radv-features)
 
