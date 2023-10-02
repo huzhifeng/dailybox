@@ -1,3 +1,7 @@
+## 20231003
+- [Planet GNOME](https://planet.gnome.org/) | [scikit-survival 0.22.0 released](https://k-d-w.org/blog/2023/10/scikit-survival-0.22.0-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [Could we make C arrays memory safe? Probably not, but let's try anyway](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
+
 ## 20230930
 - [Planet GNOME](https://planet.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
 - [Planet GNOME](https://planet.gnome.org/) | [The journey of an open source contributor](https://belmoussaoui.com/blog/17-the-journey-of-a-contributor/)

@@ -1,3 +1,6 @@
+## 20231003
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 395 – Uncertainty, trust, and security](https://opensourcesecurity.io/2023/10/01/episode-395-uncertainty-trust-and-security/)
+
 ## 20230930
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Contribute to Fedora 39 Upgrade, Virtualization, and Cloud Test Day](https://fedoramagazine.org/contribute-to-fedora-39-upgrade-virtualization-and-cloud-test-day/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Remi Collet: PHP version 8.1.24 and 8.2.11](https://blog.remirepo.net/post/2023/09/29/PHP-version-8.1.24-and-8.2.11)

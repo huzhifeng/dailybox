@@ -1,3 +1,7 @@
+## 20231003
+- [Red Hat Developer](https://developers.redhat.com/) | [Boost Ansible developer experience with OpenShift Dev Spaces](https://developers.redhat.com/articles/2023/10/02/boost-ansible-developer-experience-openshift-dev-spaces)
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy a highly available JBoss EAP application to Azure App Service](https://developers.redhat.com/articles/2023/10/02/deploy-highly-available-jboss-eap-application-azure-app-service)
+
 ## 20230930
 - [Red Hat Developer](https://developers.redhat.com/) | [Put your coding skills to work at the CodeShift hackathon](https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon)
 - [Red Hat Developer](https://developers.redhat.com/) | [How we solved a HotSpot performance puzzle](https://developers.redhat.com/articles/2023/09/29/how-we-solved-hotspot-performance-puzzle)

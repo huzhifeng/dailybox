@@ -1,3 +1,8 @@
+## 20231003
+- [Kagi Small Web](https://kagi.com/smallweb) | [How I teach Ansible to my colleagues: A hands-on training session.](https://www.zufallsheld.de/2023/10/02/how-i-teach-ansible/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Screen Capture Theatre: "The Chapman Report," or I Kinsey What You Did There](http://www.theincredibleinman.com/2023/10/screen-capture-theatre-chapman-report.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Make Firefox PDF Viewer Default to Page Fit Zoom](https://newscrewdriver.com/2023/10/02/make-firefox-pdf-viewer-default-to-page-fit-zoom/)
+
 ## 20231002
 - [Kagi Small Web](https://kagi.com/smallweb) | [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Patterns for Consuming REST API's in TypeScript vol.2 - AsyncResult](https://codewithstyle.info/typescript-async-result/)

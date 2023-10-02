@@ -1,3 +1,19 @@
+## 20231003
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1142 谷歌高管曾称其搜索广告利润“堪比非法企业”](https://linux.cn/article-16248-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on ChromeOS: part 2](https://www.collabora.com/news-and-blog/blog/2023/10/02/a-roadmap-for-virtio-video-on-chromeos-part-2/)
+- [Red Hat Developer](https://developers.redhat.com/) | [Boost Ansible developer experience with OpenShift Dev Spaces](https://developers.redhat.com/articles/2023/10/02/boost-ansible-developer-experience-openshift-dev-spaces)
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy a highly available JBoss EAP application to Azure App Service](https://developers.redhat.com/articles/2023/10/02/deploy-highly-available-jboss-eap-application-azure-app-service)
+- [Phoronix](https://www.phoronix.com/) | [Tweaking SteamOS For Better Steam Deck Performance](https://www.phoronix.com/review/steam-deck-steamos-tweaks)
+- [Phoronix](https://www.phoronix.com/) | [Linux Will Finally Indicate Via /proc/cpuinfo If AMD SVM Virtualization Is Disabled](https://www.phoronix.com/news/AMD-SVM-Correct-cpuinfo)
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVKL 2.0 With Intel GPU Acceleration Via SYCL](https://www.phoronix.com/news/Intel-OpenVKL-2.0)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.2 &#8220;EDGE&#8221; ISO Released with Linux Kernel 6.2, Secure Boot Support](https://9to5linux.com/linux-mint-21-2-edge-iso-released-with-linux-kernel-6-2-secure-boot-support)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 1st, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-1st-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 395 – Uncertainty, trust, and security](https://opensourcesecurity.io/2023/10/01/episode-395-uncertainty-trust-and-security/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Promotion](https://jmtd.net/log/promotion/)
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos all](http://aigarius.com/blog/2023/10/02/debconf23-photos/)
+- [Planet GNOME](https://planet.gnome.org/) | [scikit-survival 0.22.0 released](https://k-d-w.org/blog/2023/10/scikit-survival-0.22.0-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [Could we make C arrays memory safe? Probably not, but let's try anyway](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
+
 ## 20231002
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1141 GNU 庆祝成立 40 周年，RMS 患癌](https://linux.cn/article-16245-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux To Try Again To Disable All RNDIS Protocol Drivers](https://www.phoronix.com/news/Linux-Disable-RNDIS-Drivers)

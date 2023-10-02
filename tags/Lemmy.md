@@ -1,3 +1,8 @@
+## 20231003
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [There's still room for improvement, but Linux gaming has come a long way in a short time.](https://lemmy.world/pictrs/image/d33cf31b-9acd-4604-b173-4dc5d3a73e42.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Depression Is No More](https://suppo.fi/pictrs/image/3f41ab29-bd70-4e2c-88f8-f8eb9280d164.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Comment Your Code People](https://suppo.fi/pictrs/image/21e69720-81fa-4183-aac0-5fa5c4f23450.jpeg)
+
 ## 20231002
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [A message to new users](https://lemmy.world/post/6086181)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Plane goes brrrr](https://pawb.social/pictrs/image/54694681-27ba-4642-b968-a498dd49b88c.jpeg)

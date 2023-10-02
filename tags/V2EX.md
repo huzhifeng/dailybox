@@ -1,3 +1,8 @@
+## 20231003
+- [V2EX](https://www.v2ex.com/) | [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600)
+- [V2EX](https://www.v2ex.com/) | [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599)
+- [V2EX](https://www.v2ex.com/) | [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574)
+
 ## 20231002
 - [V2EX](https://www.v2ex.com/) | [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493)
 - [V2EX](https://www.v2ex.com/) | [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482)

@@ -1,3 +1,6 @@
+## 20231003
+- [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on ChromeOS: part 2](https://www.collabora.com/news-and-blog/blog/2023/10/02/a-roadmap-for-virtio-video-on-chromeos-part-2/)
+
 ## 20230928
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Persian Rug, Part 2 - Other ways to make object soups in Rust](https://www.collabora.com/news-and-blog/blog/2023/09/27/persian-rug-part-2-other-ways-to-make-object-soups-in-rust/)
 

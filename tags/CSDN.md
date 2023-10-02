@@ -1,3 +1,8 @@
+## 20231003
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [智能文字识别技术——AI赋能古彝文保护](https://blog.csdn.net/m0_63947499/article/details/133418047)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【深入探究人工智能】：历史、应用、技术与未来](https://blog.csdn.net/xz2935117143/article/details/133467589)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [C/C++进程超详细详解【中部分】(系统性学习day07)](https://blog.csdn.net/weixin_58070962/article/details/133465184)
+
 ## 20231002
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/133410602)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [智能文字识别技术——AI赋能古彝文保护](https://blog.csdn.net/m0_63947499/article/details/133418047)
