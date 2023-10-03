@@ -1,3 +1,7 @@
+## 20231004
+- [Planet GNOME](https://planet.gnome.org/) | [What have frame-pointers given us anyway](https://blogs.gnome.org/chergert/2023/10/03/what-have-frame-pointers-given-us-anyway/)
+- [Planet GNOME](https://planet.gnome.org/) | [Discovering SMB shares in GNOME](https://ondrej.holych.net/discovering-smb-shares-in-gnome/)
+
 ## 20231003
 - [Planet GNOME](https://planet.gnome.org/) | [scikit-survival 0.22.0 released](https://k-d-w.org/blog/2023/10/scikit-survival-0.22.0-released/)
 - [Planet GNOME](https://planet.gnome.org/) | [Could we make C arrays memory safe? Probably not, but let's try anyway](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)

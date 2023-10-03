@@ -1,3 +1,8 @@
+## 20231004
+- [Product Hunt](https://www.producthunt.com) | [Arc Max](https://www.producthunt.com/posts/arc-max)
+- [Product Hunt](https://www.producthunt.com) | [SAFEs by Mercury](https://www.producthunt.com/posts/safes-by-mercury)
+- [Product Hunt](https://www.producthunt.com) | [Actor Builder](https://www.producthunt.com/posts/actor-builder)
+
 ## 20231003
 - [Product Hunt](https://www.producthunt.com) | [Moments](https://www.producthunt.com/posts/moments-10)
 - [Product Hunt](https://www.producthunt.com) | [VSCO Studio on web](https://www.producthunt.com/posts/vsco-studio-on-web)

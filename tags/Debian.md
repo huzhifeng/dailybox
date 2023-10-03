@@ -1,3 +1,8 @@
+## 20231004
+- [Planet Debian](https://planet.debian.org/) | [Bastian Blank: Introducing uploads to Debian by git tag](https://bblank.thinkmo.de/introducing-uploads-debian-git.html)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Electronic receipt storage in Japan.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-3.html.en#2023-Oct-3-17:16:54)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Monstrous Regiment](https://www.eyrie.org/~eagle/reviews/books/0-06-230741-X.html)
+
 ## 20231003
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Promotion](https://jmtd.net/log/promotion/)
 - [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Debconf 23 photos all](http://aigarius.com/blog/2023/10/02/debconf23-photos/)

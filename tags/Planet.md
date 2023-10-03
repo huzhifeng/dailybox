@@ -1,3 +1,17 @@
+## 20231004
+- [Planet Fedora](http://fedoraplanet.org/) | [Bodhi: 7.2.2](https://github.com/fedora-infra/bodhi/releases/tag/7.2.2)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: September 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-september-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 39 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-39-2023/)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Blank: Introducing uploads to Debian by git tag](https://bblank.thinkmo.de/introducing-uploads-debian-git.html)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Electronic receipt storage in Japan.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-3.html.en#2023-Oct-3-17:16:54)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Monstrous Regiment](https://www.eyrie.org/~eagle/reviews/books/0-06-230741-X.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Testing *BSD on SBSA Reference Platform](https://marcin.juszkiewicz.com.pl/2023/10/03/testing-bsd-on-sbsa-reference-platform/)
+- [Planet GNOME](https://planet.gnome.org/) | [What have frame-pointers given us anyway](https://blogs.gnome.org/chergert/2023/10/03/what-have-frame-pointers-given-us-anyway/)
+- [Planet GNOME](https://planet.gnome.org/) | [Discovering SMB shares in GNOME](https://ondrej.holych.net/discovering-smb-shares-in-gnome/)
+- [Planet KDE](https://planet.kde.org/) | [Linux Days Voralberg](https://carlschwan.eu/2023/10/03/linux-days-voralberg/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Promo Sprint!](https://blog.nicco.love/kde-promo-sprint/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KStars v3.6.7 is Released](http://knro.blogspot.com/2023/10/kstars-v367-is-released.html?utm_source=atom_feed)
+
 ## 20231003
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 395 – Uncertainty, trust, and security](https://opensourcesecurity.io/2023/10/01/episode-395-uncertainty-trust-and-security/)
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Promotion](https://jmtd.net/log/promotion/)

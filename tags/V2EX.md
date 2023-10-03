@@ -1,3 +1,8 @@
+## 20231004
+- [V2EX](https://www.v2ex.com/) | [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753)
+- [V2EX](https://www.v2ex.com/) | [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748)
+- [V2EX](https://www.v2ex.com/) | [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710)
+
 ## 20231003
 - [V2EX](https://www.v2ex.com/) | [有多少买了 AC+裸奔的？](https://www.v2ex.com/t/978600)
 - [V2EX](https://www.v2ex.com/) | [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599)

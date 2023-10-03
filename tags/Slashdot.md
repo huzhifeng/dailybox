@@ -1,3 +1,6 @@
+## 20231004
+- [Slashdot](https://developers.slashdot.org/) | [UK Passport Images Database Could Be Used To Catch Shoplifters](https://yro.slashdot.org/story/23/10/02/2159234/uk-passport-images-database-could-be-used-to-catch-shoplifters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231002
 - [Slashdot](https://developers.slashdot.org/) | [Can Generative AI Solve Computer Science's Greatest Unsolved Problem?](https://developers.slashdot.org/story/23/10/01/002234/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Here's What's New in Python 3.12](https://developers.slashdot.org/story/23/10/01/0531216/heres-whats-new-in-python-312?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,7 @@
+## 20231004
+- [LibHunt](https://www.libhunt.com/) | [scratch-www](https://www.libhunt.com/r/scratch-www)
+- [LibHunt](https://www.libhunt.com/) | [pgroll](https://www.libhunt.com/r/pgroll)
+
 ## 20231003
 - [LibHunt](https://www.libhunt.com/) | [OuterFlightTracker](https://www.libhunt.com/r/OuterFlightTracker)
 - [LibHunt](https://www.libhunt.com/) | [minum](https://www.libhunt.com/r/minum)

@@ -1,3 +1,6 @@
+## 20231004
+- [Hacker News](https://news.ycombinator.com/front) | [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://news.ycombinator.com/item?id=37752632)
+
 ## 20231003
 - [Hacker News](https://news.ycombinator.com/front) | [Nobel Prize in Medicine awarded to Katalin Karikó and Drew Weissman](https://news.ycombinator.com/item?id=37736035)
 - [Hacker News](https://news.ycombinator.com/front) | [What every software developer must know about Unicode in 2023](https://news.ycombinator.com/item?id=37735801)

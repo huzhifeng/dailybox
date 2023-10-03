@@ -1,3 +1,8 @@
+## 20231004
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unions work. That's why the corporations don't like them.](https://lemmy.world/pictrs/image/079cef90-331e-4a58-b650-f211f8c1337f.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Is this true?](https://i.imgur.com/AAXaNb5.jpg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The unemployment cycle](https://lemmy.world/pictrs/image/94f7ed21-76bf-438c-928d-ef2eba22e328.jpeg)
+
 ## 20231003
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [There's still room for improvement, but Linux gaming has come a long way in a short time.](https://lemmy.world/pictrs/image/d33cf31b-9acd-4604-b173-4dc5d3a73e42.png)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Depression Is No More](https://suppo.fi/pictrs/image/3f41ab29-bd70-4e2c-88f8-f8eb9280d164.jpeg)

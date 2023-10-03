@@ -1,3 +1,8 @@
+## 20231004
+- [Kagi Small Web](https://kagi.com/smallweb) | [Custom Renovate datasource](https://marcusnoble.co.uk/2023-10-04-custom-renovate-datasource)
+- [Kagi Small Web](https://kagi.com/smallweb) | [How to make a PWA out of your Eleventy site](https://offbeatbits.com/how-to-make-a-pwa-out-of-your-eleventy-site/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Students Worry School Surveillance Could Identify Abortion Searches, ACLU Says](https://www.pogowasright.org/students-worry-school-surveillance-could-identify-abortion-searches-aclu-says/)
+
 ## 20231003
 - [Kagi Small Web](https://kagi.com/smallweb) | [How I teach Ansible to my colleagues: A hands-on training session.](https://www.zufallsheld.de/2023/10/02/how-i-teach-ansible/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Screen Capture Theatre: "The Chapman Report," or I Kinsey What You Did There](http://www.theincredibleinman.com/2023/10/screen-capture-theatre-chapman-report.html)

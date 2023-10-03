@@ -1,3 +1,8 @@
+## 20231004
+- [Planet KDE](https://planet.kde.org/) | [Linux Days Voralberg](https://carlschwan.eu/2023/10/03/linux-days-voralberg/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Promo Sprint!](https://blog.nicco.love/kde-promo-sprint/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KStars v3.6.7 is Released](http://knro.blogspot.com/2023/10/kstars-v367-is-released.html?utm_source=atom_feed)
+
 ## 20231002
 - [Planet KDE](https://planet.kde.org/) | [Learning a language](http://www.thelins.se/johan/blog/2023/10/learning-a-language/?utm_source=atom_feed)
 

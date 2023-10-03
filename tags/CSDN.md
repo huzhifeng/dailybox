@@ -1,3 +1,8 @@
+## 20231004
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [SpringBoot注册web组件](https://blog.csdn.net/qq_53317005/article/details/133140357)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2023（2024届）计算机保研经验分享，圆梦山东大学](https://blog.csdn.net/weixin_51390582/article/details/133495392)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [智能文字识别技术——AI赋能古彝文保护](https://blog.csdn.net/m0_63947499/article/details/133418047)
+
 ## 20231003
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [智能文字识别技术——AI赋能古彝文保护](https://blog.csdn.net/m0_63947499/article/details/133418047)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【深入探究人工智能】：历史、应用、技术与未来](https://blog.csdn.net/xz2935117143/article/details/133467589)

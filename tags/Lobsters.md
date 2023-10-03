@@ -1,3 +1,8 @@
+## 20231004
+- [Lobsters](https://lobste.rs/) | [Picat is my favorite new toolbox language](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language)
+- [Lobsters](https://lobste.rs/) | [python 3.12: what didn't make the headlines](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines)
+- [Lobsters](https://lobste.rs/) | [Conventional Comments](https://lobste.rs/s/0p1rra/conventional_comments)
+
 ## 20231003
 - [Lobsters](https://lobste.rs/) | [Python 3.12.0 released](https://lobste.rs/s/pznwxq/python_3_12_0_released)
 - [Lobsters](https://lobste.rs/) | [Unicode Overview](https://lobste.rs/s/bkavdb/unicode_overview)

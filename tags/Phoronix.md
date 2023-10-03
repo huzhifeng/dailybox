@@ -1,3 +1,8 @@
+## 20231004
+- [Phoronix](https://www.phoronix.com/) | [Glibc Dynamic Loader Hit By A Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
+- [Phoronix](https://www.phoronix.com/) | [Intel Comes Up With A Way For Vulkan Sparse Support On Their Existing Linux Driver](https://www.phoronix.com/news/Intel-Vukan-Sparse-TR-TT)
+- [Phoronix](https://www.phoronix.com/) | [X.Org Hit By New Security Vulnerabilities - Two Date Back To 1988 With X11R2](https://www.phoronix.com/news/XOrg-Vulnerabilities-Since-1988)
+
 ## 20231003
 - [Phoronix](https://www.phoronix.com/) | [Tweaking SteamOS For Better Steam Deck Performance](https://www.phoronix.com/review/steam-deck-steamos-tweaks)
 - [Phoronix](https://www.phoronix.com/) | [Linux Will Finally Indicate Via /proc/cpuinfo If AMD SVM Virtualization Is Disabled](https://www.phoronix.com/news/AMD-SVM-Correct-cpuinfo)
