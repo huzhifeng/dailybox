@@ -1,3 +1,6 @@
+## 20231004
+- [diff.blog](https://diff.blog/) | [Say (an encrypted) hello to a more private internet.](https://diff.blog/post/say-an-encrypted-hello-to-a-more-private-internet-157394/)
+
 ## 20231001
 - [diff.blog](https://diff.blog/) | [How flip-flops are implemented in the Intel 8086 processor](https://diff.blog/post/how-flip-flops-are-implemented-in-the-intel-8086-processor-156223/)
 

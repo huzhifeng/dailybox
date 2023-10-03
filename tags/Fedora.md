@@ -1,3 +1,8 @@
+## 20231004
+- [Planet Fedora](http://fedoraplanet.org/) | [Bodhi: 7.2.2](https://github.com/fedora-infra/bodhi/releases/tag/7.2.2)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: September 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-september-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 39 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-39-2023/)
+
 ## 20231003
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 395 – Uncertainty, trust, and security](https://opensourcesecurity.io/2023/10/01/episode-395-uncertainty-trust-and-security/)
 

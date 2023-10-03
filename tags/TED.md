@@ -1,3 +1,7 @@
+## 20231004
+- [TED Talks Daily](https://www.ted.com/talks) | [10 lessons I learned from being a nerd | Jordan Dinwiddie](https://www.ted.com/talks/jordan_dinwiddie_10_lessons_i_learned_from_being_a_nerd?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [How to build a freelance career that works for you | Shahar Erez](https://www.ted.com/talks/shahar_erez_how_to_build_a_freelance_career_that_works_for_you?rss)
+
 ## 20231003
 - [TED Talks Daily](https://www.ted.com/talks) | [The truth about human population decline | Jennifer D. Sciubba](https://www.ted.com/talks/jennifer_d_sciubba_the_truth_about_human_population_decline?rss)
 

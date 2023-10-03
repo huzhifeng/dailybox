@@ -1,3 +1,7 @@
+## 20231004
+- [Red Hat Developer](https://developers.redhat.com/) | [Beyond Loom: Weaving new concurrency patterns](https://developers.redhat.com/articles/2023/10/03/beyond-loom-weaving-new-concurrency-patterns)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to configure OpenShift application monitoring and alerts](https://developers.redhat.com/articles/2023/10/03/how-configure-openshift-application-monitoring-and-alerts)
+
 ## 20231003
 - [Red Hat Developer](https://developers.redhat.com/) | [Boost Ansible developer experience with OpenShift Dev Spaces](https://developers.redhat.com/articles/2023/10/02/boost-ansible-developer-experience-openshift-dev-spaces)
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploy a highly available JBoss EAP application to Azure App Service](https://developers.redhat.com/articles/2023/10/02/deploy-highly-available-jboss-eap-application-azure-app-service)
