@@ -1,3 +1,12 @@
+## 20231005
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Compressing HTTP traffic in syslog-ng](https://peter.czanik.hu/other/syslog-ng-compressing-http-traffic/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Google Professional Cloud Architect](https://fale.io/blog/2023/10/04/google-professional-cloud-architect)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Last Watch](https://www.eyrie.org/~eagle/reviews/books/1-250-23634-7.html)
+- [Planet GNOME](https://planet.gnome.org/) | [My second (full) GUADEC](https://blogs.gnome.org/antoniof/2023/10/04/my-second-full-guadec/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Dev-Vlog 6: Punk Rock and Bug Reports](https://wordsmith.social/felix-ernst/kde-dev-vlog-6-punk-rock-and-bug-reports?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The GCompris Story Part 2 - Maintaining Free Software for Kids](https://tube.kockatoo.org/w/3DKXgo5L7dcU5XKgr5D14t?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick?utm_source=atom_feed)
+
 ## 20231004
 - [Planet Fedora](http://fedoraplanet.org/) | [Bodhi: 7.2.2](https://github.com/fedora-infra/bodhi/releases/tag/7.2.2)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: September 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-september-2023/)

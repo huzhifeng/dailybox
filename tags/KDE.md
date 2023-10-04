@@ -1,3 +1,8 @@
+## 20231005
+- [Planet KDE](https://planet.kde.org/) | [KDE Dev-Vlog 6: Punk Rock and Bug Reports](https://wordsmith.social/felix-ernst/kde-dev-vlog-6-punk-rock-and-bug-reports?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The GCompris Story Part 2 - Maintaining Free Software for Kids](https://tube.kockatoo.org/w/3DKXgo5L7dcU5XKgr5D14t?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick?utm_source=atom_feed)
+
 ## 20231004
 - [Planet KDE](https://planet.kde.org/) | [Linux Days Voralberg](https://carlschwan.eu/2023/10/03/linux-days-voralberg/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE Promo Sprint!](https://blog.nicco.love/kde-promo-sprint/?utm_source=atom_feed)

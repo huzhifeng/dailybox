@@ -1,3 +1,18 @@
+## 20231005
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1144 量子计算机正在重演真空管计算机的历史吗？](https://linux.cn/article-16253-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [About Argo CD ApplicationSet and SCM Provider generator](https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator)
+- [Red Hat Developer](https://developers.redhat.com/) | [5 steps to build a self-healing server with Alertmanager](https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.9 Released To End Out The Series](https://www.phoronix.com/news/Mesa-23.1.9-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Update Intel IBRS Mitigation Handling To Enhance System Performance](https://www.phoronix.com/news/IBRS-Disable-When-Offline-CPU)
+- [Phoronix](https://www.phoronix.com/) | [Redox OS Planning A Server Version, Stable ABI & Better Performance](https://www.phoronix.com/news/Redox-OS-Plans)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Compressing HTTP traffic in syslog-ng](https://peter.czanik.hu/other/syslog-ng-compressing-http-traffic/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Google Professional Cloud Architect](https://fale.io/blog/2023/10/04/google-professional-cloud-architect)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Last Watch](https://www.eyrie.org/~eagle/reviews/books/1-250-23634-7.html)
+- [Planet GNOME](https://planet.gnome.org/) | [My second (full) GUADEC](https://blogs.gnome.org/antoniof/2023/10/04/my-second-full-guadec/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Dev-Vlog 6: Punk Rock and Bug Reports](https://wordsmith.social/felix-ernst/kde-dev-vlog-6-punk-rock-and-bug-reports?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [The GCompris Story Part 2 - Maintaining Free Software for Kids](https://tube.kockatoo.org/w/3DKXgo5L7dcU5XKgr5D14t?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick?utm_source=atom_feed)
+
 ## 20231004
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1143 Linux 再次尝试禁用微软的 RNDIS 驱动](https://linux.cn/article-16251-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Beyond Loom: Weaving new concurrency patterns](https://developers.redhat.com/articles/2023/10/03/beyond-loom-weaving-new-concurrency-patterns)

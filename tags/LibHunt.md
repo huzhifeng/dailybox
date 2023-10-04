@@ -1,3 +1,8 @@
+## 20231005
+- [LibHunt](https://www.libhunt.com/) | [trigger.dev](https://www.libhunt.com/r/trigger.dev)
+- [LibHunt](https://www.libhunt.com/) | [streaming-llm](https://www.libhunt.com/r/streaming-llm)
+- [LibHunt](https://www.libhunt.com/) | [hamlet](https://www.libhunt.com/r/hamlet)
+
 ## 20231004
 - [LibHunt](https://www.libhunt.com/) | [scratch-www](https://www.libhunt.com/r/scratch-www)
 - [LibHunt](https://www.libhunt.com/) | [pgroll](https://www.libhunt.com/r/pgroll)

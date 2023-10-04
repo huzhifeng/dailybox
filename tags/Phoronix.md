@@ -1,3 +1,8 @@
+## 20231005
+- [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.9 Released To End Out The Series](https://www.phoronix.com/news/Mesa-23.1.9-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Update Intel IBRS Mitigation Handling To Enhance System Performance](https://www.phoronix.com/news/IBRS-Disable-When-Offline-CPU)
+- [Phoronix](https://www.phoronix.com/) | [Redox OS Planning A Server Version, Stable ABI & Better Performance](https://www.phoronix.com/news/Redox-OS-Plans)
+
 ## 20231004
 - [Phoronix](https://www.phoronix.com/) | [Glibc Dynamic Loader Hit By A Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 - [Phoronix](https://www.phoronix.com/) | [Intel Comes Up With A Way For Vulkan Sparse Support On Their Existing Linux Driver](https://www.phoronix.com/news/Intel-Vukan-Sparse-TR-TT)

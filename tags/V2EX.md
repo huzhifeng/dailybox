@@ -1,3 +1,8 @@
+## 20231005
+- [V2EX](https://www.v2ex.com/) | [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943)
+- [V2EX](https://www.v2ex.com/) | [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888)
+- [V2EX](https://www.v2ex.com/) | [实在是不知道选哪个了。](https://www.v2ex.com/t/978880)
+
 ## 20231004
 - [V2EX](https://www.v2ex.com/) | [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753)
 - [V2EX](https://www.v2ex.com/) | [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748)

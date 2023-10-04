@@ -1,3 +1,7 @@
+## 20231005
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Compressing HTTP traffic in syslog-ng](https://peter.czanik.hu/other/syslog-ng-compressing-http-traffic/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Google Professional Cloud Architect](https://fale.io/blog/2023/10/04/google-professional-cloud-architect)
+
 ## 20231004
 - [Planet Fedora](http://fedoraplanet.org/) | [Bodhi: 7.2.2](https://github.com/fedora-infra/bodhi/releases/tag/7.2.2)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Community Blog monthly summary: September 2023](https://communityblog.fedoraproject.org/community-blog-monthly-summary-september-2023/)

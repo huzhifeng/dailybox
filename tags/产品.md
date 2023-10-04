@@ -1,3 +1,8 @@
+## 20231005
+- [Product Hunt](https://www.producthunt.com) | [Coda 4.0](https://www.producthunt.com/posts/coda-4-0)
+- [Product Hunt](https://www.producthunt.com) | [Xence](https://www.producthunt.com/posts/xence)
+- [Product Hunt](https://www.producthunt.com) | [Enterpret](https://www.producthunt.com/posts/enterpret)
+
 ## 20231004
 - [Product Hunt](https://www.producthunt.com) | [Arc Max](https://www.producthunt.com/posts/arc-max)
 - [Product Hunt](https://www.producthunt.com) | [SAFEs by Mercury](https://www.producthunt.com/posts/safes-by-mercury)

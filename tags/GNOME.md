@@ -1,3 +1,6 @@
+## 20231005
+- [Planet GNOME](https://planet.gnome.org/) | [My second (full) GUADEC](https://blogs.gnome.org/antoniof/2023/10/04/my-second-full-guadec/)
+
 ## 20231004
 - [Planet GNOME](https://planet.gnome.org/) | [What have frame-pointers given us anyway](https://blogs.gnome.org/chergert/2023/10/03/what-have-frame-pointers-given-us-anyway/)
 - [Planet GNOME](https://planet.gnome.org/) | [Discovering SMB shares in GNOME](https://ondrej.holych.net/discovering-smb-shares-in-gnome/)
