@@ -1,3 +1,8 @@
+## 20231005
+- [Hacker News](https://news.ycombinator.com/front) | [An interactive intro to CRDTs](https://news.ycombinator.com/item?id=37764581)
+- [Hacker News](https://news.ycombinator.com/front) | [The FTC sues to break up Amazon over an economy-wide “hidden tax”](https://news.ycombinator.com/item?id=37763424)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Classic Video Poker](https://news.ycombinator.com/item?id=37763098)
+
 ## 20231004
 - [Hacker News](https://news.ycombinator.com/front) | [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://news.ycombinator.com/item?id=37752632)
 

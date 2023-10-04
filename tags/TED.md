@@ -1,3 +1,6 @@
+## 20231005
+- [TED Talks Daily](https://www.ted.com/talks) | [The Encyclopedia of Invisibility — a home for lost stories | Tavares Strachan](https://www.ted.com/talks/tavares_strachan_the_encyclopedia_of_invisibility_a_home_for_lost_stories?rss)
+
 ## 20231004
 - [TED Talks Daily](https://www.ted.com/talks) | [10 lessons I learned from being a nerd | Jordan Dinwiddie](https://www.ted.com/talks/jordan_dinwiddie_10_lessons_i_learned_from_being_a_nerd?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [How to build a freelance career that works for you | Shahar Erez](https://www.ted.com/talks/shahar_erez_how_to_build_a_freelance_career_that_works_for_you?rss)

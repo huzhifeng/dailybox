@@ -1,3 +1,7 @@
+## 20231005
+- [Red Hat Developer](https://developers.redhat.com/) | [About Argo CD ApplicationSet and SCM Provider generator](https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator)
+- [Red Hat Developer](https://developers.redhat.com/) | [5 steps to build a self-healing server with Alertmanager](https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager)
+
 ## 20231004
 - [Red Hat Developer](https://developers.redhat.com/) | [Beyond Loom: Weaving new concurrency patterns](https://developers.redhat.com/articles/2023/10/03/beyond-loom-weaving-new-concurrency-patterns)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to configure OpenShift application monitoring and alerts](https://developers.redhat.com/articles/2023/10/03/how-configure-openshift-application-monitoring-and-alerts)

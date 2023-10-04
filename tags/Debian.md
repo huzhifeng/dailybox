@@ -1,3 +1,6 @@
+## 20231005
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Last Watch](https://www.eyrie.org/~eagle/reviews/books/1-250-23634-7.html)
+
 ## 20231004
 - [Planet Debian](https://planet.debian.org/) | [Bastian Blank: Introducing uploads to Debian by git tag](https://bblank.thinkmo.de/introducing-uploads-debian-git.html)
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Electronic receipt storage in Japan.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-3.html.en#2023-Oct-3-17:16:54)

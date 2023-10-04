@@ -1,3 +1,7 @@
+## 20231005
+- [It's FOSS](https://itsfoss.com/) | [Install and Use Yay on Arch Linux](https://itsfoss.com/install-yay-arch-linux/)
+- [It's FOSS](https://itsfoss.com/) | [Fixing 'Bash: man command not found' error in Arch Linux](https://itsfoss.com/man-command-not-found/)
+
 ## 20231003
 - [It's FOSS](https://itsfoss.com/) | [A Guide to Compiling the Linux Kernel All By Yourself](https://itsfoss.com/compile-linux-kernel/)
 

@@ -1,3 +1,8 @@
+## 20231005
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [MrJiggleAss@yahoo.com](https://startrek.website/pictrs/image/2114e2ef-32db-4a06-bcb4-b4663b2aab26.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Duolingo too](https://lemmy.world/pictrs/image/5c7165d0-8bfb-42ed-812b-1538d56e98e0.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [A greater sacrifice than you could possibly know](https://startrek.website/pictrs/image/2e941e6c-6f80-4ec1-88f5-9ae582da2da2.jpeg)
+
 ## 20231004
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unions work. That's why the corporations don't like them.](https://lemmy.world/pictrs/image/079cef90-331e-4a58-b650-f211f8c1337f.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Is this true?](https://i.imgur.com/AAXaNb5.jpg)

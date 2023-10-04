@@ -1,3 +1,8 @@
+## 20231005
+- [Lobsters](https://lobste.rs/) | [Open Sourcing Ferrocene](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene)
+- [Lobsters](https://lobste.rs/) | [The inability to count correctly](https://lobste.rs/s/o1zdzf/inability_count_correctly)
+- [Lobsters](https://lobste.rs/) | [Using Farcaster protocol for Carmack-style .plan daily notes](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack)
+
 ## 20231004
 - [Lobsters](https://lobste.rs/) | [Picat is my favorite new toolbox language](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language)
 - [Lobsters](https://lobste.rs/) | [python 3.12: what didn't make the headlines](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines)

@@ -1,3 +1,8 @@
+## 20231005
+- [Kagi Small Web](https://kagi.com/smallweb) | [Animated Generations Meet in the Final VERY SHORT TREK Spot, “Walk, Don’t Run”](https://blog.trekcore.com/2023/10/animated-generations-meet-in-the-final-very-short-trek-spot-walk-dont-run/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Reversing 'France Identité': the new French digital ID.](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [“60 Seconds of WIP” now on Apple and Spotify](https://mwl.io/archives/23142)
+
 ## 20231004
 - [Kagi Small Web](https://kagi.com/smallweb) | [Custom Renovate datasource](https://marcusnoble.co.uk/2023-10-04-custom-renovate-datasource)
 - [Kagi Small Web](https://kagi.com/smallweb) | [How to make a PWA out of your Eleventy site](https://offbeatbits.com/how-to-make-a-pwa-out-of-your-eleventy-site/)
