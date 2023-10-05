@@ -1,3 +1,8 @@
+## 20231006
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微服务】springboot整合neo4j使用详解](https://blog.csdn.net/congge_study/article/details/133250138)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/2301_76869453/article/details/133383349)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【计算机网络】HTTPS协议详解](https://blog.csdn.net/weixin_67596609/article/details/133527430)
+
 ## 20231005
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring MVC：数据绑定](https://blog.csdn.net/qq_56886142/article/details/132094309)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微服务】springboot整合neo4j使用详解](https://blog.csdn.net/congge_study/article/details/133250138)

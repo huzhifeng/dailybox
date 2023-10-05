@@ -1,3 +1,6 @@
+## 20231006
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.73.0](https://diff.blog/post/announcing-rust-1730-157577/)
+
 ## 20231004
 - [diff.blog](https://diff.blog/) | [Say (an encrypted) hello to a more private internet.](https://diff.blog/post/say-an-encrypted-hello-to-a-more-private-internet-157394/)
 

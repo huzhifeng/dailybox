@@ -1,3 +1,11 @@
+## 20231006
+- [Planet Fedora](http://fedoraplanet.org/) | [Truong Anh Tuan: 6 trụ cột của chủ quyền số – tầm quan trọng và thách thức](http://blog.iwayvietnam.com/tuanta/2023/10/6-tru-cot-cua-chu-quyen-so-tam-quan-trong-va-thach-thuc/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Partitioning with Ansible Storage Role: VDO](https://storageapis.wordpress.com/2023/10/05/partitioning-with-ansible-storage-role-vdo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 302](https://cockpit-project.org//blog/cockpit-302.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Nageru 2.3.0 released](http://blog.sesse.net/blog/tech/2023-10-05-09-26_nageru_2_3_0_released.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/?utm_source=atom_feed)
+
 ## 20231005
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Compressing HTTP traffic in syslog-ng](https://peter.czanik.hu/other/syslog-ng-compressing-http-traffic/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Google Professional Cloud Architect](https://fale.io/blog/2023/10/04/google-professional-cloud-architect)

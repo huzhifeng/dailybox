@@ -1,3 +1,8 @@
+## 20231006
+- [V2EX](https://www.v2ex.com/) | [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034)
+- [V2EX](https://www.v2ex.com/) | [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019)
+- [V2EX](https://www.v2ex.com/) | [星际旅行有什么意义？](https://www.v2ex.com/t/979012)
+
 ## 20231005
 - [V2EX](https://www.v2ex.com/) | [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943)
 - [V2EX](https://www.v2ex.com/) | [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888)

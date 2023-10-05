@@ -1,3 +1,7 @@
+## 20231006
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Nageru 2.3.0 released](http://blog.sesse.net/blog/tech/2023-10-05-09-26_nageru_2_3_0_released.html)
+
 ## 20231005
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Last Watch](https://www.eyrie.org/~eagle/reviews/books/1-250-23634-7.html)
 

@@ -1,3 +1,8 @@
+## 20231006
+- [Product Hunt](https://www.producthunt.com) | [GPT Pilot](https://www.producthunt.com/posts/gpt-pilot)
+- [Product Hunt](https://www.producthunt.com) | [We Are Learning](https://www.producthunt.com/posts/we-are-learning)
+- [Product Hunt](https://www.producthunt.com) | [Gist AI](https://www.producthunt.com/posts/gist-ai)
+
 ## 20231005
 - [Product Hunt](https://www.producthunt.com) | [Coda 4.0](https://www.producthunt.com/posts/coda-4-0)
 - [Product Hunt](https://www.producthunt.com) | [Xence](https://www.producthunt.com/posts/xence)

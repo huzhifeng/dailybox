@@ -1,3 +1,7 @@
+## 20231006
+- [It's FOSS](https://itsfoss.com/) | [Install Brave on Arch Linux](https://itsfoss.com/install-brave-arch-linux/)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.40: Linux Mint Edge Release, Bad News on RMS, Compiling Kernel and More](https://itsfoss.com/newsletter/foss-weekly-23-40/)
+
 ## 20231005
 - [It's FOSS](https://itsfoss.com/) | [Install and Use Yay on Arch Linux](https://itsfoss.com/install-yay-arch-linux/)
 - [It's FOSS](https://itsfoss.com/) | [Fixing 'Bash: man command not found' error in Arch Linux](https://itsfoss.com/man-command-not-found/)

@@ -1,3 +1,6 @@
+## 20231006
+- [TED Talks Daily](https://www.ted.com/talks) | [How business can drive solutions to social problems | Carlos Rodríguez-Pastor](https://www.ted.com/talks/carlos_rodriguez_pastor_how_business_can_drive_solutions_to_social_problems?rss)
+
 ## 20231005
 - [TED Talks Daily](https://www.ted.com/talks) | [The Encyclopedia of Invisibility — a home for lost stories | Tavares Strachan](https://www.ted.com/talks/tavares_strachan_the_encyclopedia_of_invisibility_a_home_for_lost_stories?rss)
 

@@ -1,3 +1,19 @@
+## 20231006
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1145 安卓 14 开源项目发布](https://linux.cn/article-16256-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to migrate server configurations to JBoss EAP 7.4](https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74)
+- [Phoronix](https://www.phoronix.com/) | [Ferrocene Safety-Critical Rust Compiler Code Published](https://www.phoronix.com/news/Ferrocene-Rust-Compiler-Code)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 7900X Performance With ECC DDR5 Memory](https://www.phoronix.com/review/amd-ryzen9-ddr5-ecc)
+- [Phoronix](https://www.phoronix.com/) | [Linux Fix Queued For Recent AMD Laptops Failing To Resume From Attached USB Devices](https://www.phoronix.com/news/Linux-Fix-AMD-Laptop-Resume-USB)
+- [9to5Linux](https://9to5linux.com/) | [Krita 5.2 Brings Animation and Text Handling Improvements, Built-In FFmpeg](https://9to5linux.com/krita-5-2-brings-animation-and-text-handling-improvements-built-in-ffmpeg)
+- [9to5Linux](https://9to5linux.com/) | [Slax Linux Gets Enhanced Session Management and Boot Parameter Options](https://9to5linux.com/slax-linux-gets-enhanced-session-management-and-boot-parameter-options)
+- [Planet Fedora](http://fedoraplanet.org/) | [Truong Anh Tuan: 6 trụ cột của chủ quyền số – tầm quan trọng và thách thức](http://blog.iwayvietnam.com/tuanta/2023/10/6-tru-cot-cua-chu-quyen-so-tam-quan-trong-va-thach-thuc/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Partitioning with Ansible Storage Role: VDO](https://storageapis.wordpress.com/2023/10/05/partitioning-with-ansible-storage-role-vdo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 302](https://cockpit-project.org//blog/cockpit-302.html)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Nageru 2.3.0 released](http://blog.sesse.net/blog/tech/2023-10-05-09-26_nageru_2_3_0_released.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Tries To Dump Windows' Notoriously Insecure RNDIS Protocol](https://tech.slashdot.org/story/23/10/04/2119243/linux-tries-to-dump-windows-notoriously-insecure-rndis-protocol?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231005
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1144 量子计算机正在重演真空管计算机的历史吗？](https://linux.cn/article-16253-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [About Argo CD ApplicationSet and SCM Provider generator](https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator)

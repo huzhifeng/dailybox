@@ -1,3 +1,8 @@
+## 20231006
+- [Lobsters](https://lobste.rs/) | [Profiling Python and Ruby using eBPF](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf)
+- [Lobsters](https://lobste.rs/) | [ASCII protocol buffers as config files](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files)
+- [Lobsters](https://lobste.rs/) | [Was async fn a mistake?](https://lobste.rs/s/nzmvso/was_async_fn_mistake)
+
 ## 20231005
 - [Lobsters](https://lobste.rs/) | [Open Sourcing Ferrocene](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene)
 - [Lobsters](https://lobste.rs/) | [The inability to count correctly](https://lobste.rs/s/o1zdzf/inability_count_correctly)

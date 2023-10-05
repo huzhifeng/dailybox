@@ -1,3 +1,8 @@
+## 20231006
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Gotta love international shipping](https://lemmy.world/pictrs/image/0fc65b97-dc41-491c-a48a-d4f712803e9a.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Let 'em COOK!](https://lemmy.world/pictrs/image/acb8d87f-7dcf-467c-8cd6-8a1545e1028e.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Apple considered switching to DuckDuckGo from Google for Safari - Bloomberg News](https://www.reuters.com/technology/apple-considered-switching-duckduckgo-google-safari-bloomberg-news-2023-10-04/)
+
 ## 20231005
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [MrJiggleAss@yahoo.com](https://startrek.website/pictrs/image/2114e2ef-32db-4a06-bcb4-b4663b2aab26.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Duolingo too](https://lemmy.world/pictrs/image/5c7165d0-8bfb-42ed-812b-1538d56e98e0.jpeg)
