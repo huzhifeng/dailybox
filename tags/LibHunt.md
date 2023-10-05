@@ -1,3 +1,8 @@
+## 20231006
+- [LibHunt](https://www.libhunt.com/) | [sort-research-rs](https://www.libhunt.com/r/sort-research-rs)
+- [LibHunt](https://www.libhunt.com/) | [Netdata](https://www.libhunt.com/r/netdata)
+- [LibHunt](https://www.libhunt.com/) | [graph-mining](https://www.libhunt.com/r/graph-mining)
+
 ## 20231005
 - [LibHunt](https://www.libhunt.com/) | [trigger.dev](https://www.libhunt.com/r/trigger.dev)
 - [LibHunt](https://www.libhunt.com/) | [streaming-llm](https://www.libhunt.com/r/streaming-llm)

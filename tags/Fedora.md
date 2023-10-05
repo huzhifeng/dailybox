@@ -1,3 +1,8 @@
+## 20231006
+- [Planet Fedora](http://fedoraplanet.org/) | [Truong Anh Tuan: 6 trụ cột của chủ quyền số – tầm quan trọng và thách thức](http://blog.iwayvietnam.com/tuanta/2023/10/6-tru-cot-cua-chu-quyen-so-tam-quan-trong-va-thach-thuc/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Partitioning with Ansible Storage Role: VDO](https://storageapis.wordpress.com/2023/10/05/partitioning-with-ansible-storage-role-vdo/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Cockpit Project: Cockpit 302](https://cockpit-project.org//blog/cockpit-302.html)
+
 ## 20231005
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Compressing HTTP traffic in syslog-ng](https://peter.czanik.hu/other/syslog-ng-compressing-http-traffic/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fabio Alessandro Locati: Google Professional Cloud Architect](https://fale.io/blog/2023/10/04/google-professional-cloud-architect)

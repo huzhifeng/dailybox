@@ -1,3 +1,7 @@
+## 20231006
+- [Hacker News](https://news.ycombinator.com/front) | [Where does my computer get the time from?](https://news.ycombinator.com/item?id=37778496)
+- [Hacker News](https://news.ycombinator.com/front) | [HTTP/3 adoption is growing rapidly](https://news.ycombinator.com/item?id=37777050)
+
 ## 20231005
 - [Hacker News](https://news.ycombinator.com/front) | [An interactive intro to CRDTs](https://news.ycombinator.com/item?id=37764581)
 - [Hacker News](https://news.ycombinator.com/front) | [The FTC sues to break up Amazon over an economy-wide “hidden tax”](https://news.ycombinator.com/item?id=37763424)

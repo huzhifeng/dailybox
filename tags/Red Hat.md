@@ -1,3 +1,6 @@
+## 20231006
+- [Red Hat Developer](https://developers.redhat.com/) | [How to migrate server configurations to JBoss EAP 7.4](https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74)
+
 ## 20231005
 - [Red Hat Developer](https://developers.redhat.com/) | [About Argo CD ApplicationSet and SCM Provider generator](https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator)
 - [Red Hat Developer](https://developers.redhat.com/) | [5 steps to build a self-healing server with Alertmanager](https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager)

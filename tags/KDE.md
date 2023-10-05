@@ -1,3 +1,6 @@
+## 20231006
+- [Planet KDE](https://planet.kde.org/) | [KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/?utm_source=atom_feed)
+
 ## 20231005
 - [Planet KDE](https://planet.kde.org/) | [KDE Dev-Vlog 6: Punk Rock and Bug Reports](https://wordsmith.social/felix-ernst/kde-dev-vlog-6-punk-rock-and-bug-reports?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [The GCompris Story Part 2 - Maintaining Free Software for Kids](https://tube.kockatoo.org/w/3DKXgo5L7dcU5XKgr5D14t?utm_source=atom_feed)

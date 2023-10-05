@@ -1,3 +1,7 @@
+## 20231006
+- [Slashdot](https://linux.slashdot.org/) | [Linux Tries To Dump Windows' Notoriously Insecure RNDIS Protocol](https://tech.slashdot.org/story/23/10/04/2119243/linux-tries-to-dump-windows-notoriously-insecure-rndis-protocol?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Epic Games To Update Unreal Engine Pricing for Devs Outside Game Industry](https://developers.slashdot.org/story/23/10/05/169224/epic-games-to-update-unreal-engine-pricing-for-devs-outside-game-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231004
 - [Slashdot](https://developers.slashdot.org/) | [UK Passport Images Database Could Be Used To Catch Shoplifters](https://yro.slashdot.org/story/23/10/02/2159234/uk-passport-images-database-could-be-used-to-catch-shoplifters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

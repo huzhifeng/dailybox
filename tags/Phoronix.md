@@ -1,3 +1,8 @@
+## 20231006
+- [Phoronix](https://www.phoronix.com/) | [Ferrocene Safety-Critical Rust Compiler Code Published](https://www.phoronix.com/news/Ferrocene-Rust-Compiler-Code)
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 7900X Performance With ECC DDR5 Memory](https://www.phoronix.com/review/amd-ryzen9-ddr5-ecc)
+- [Phoronix](https://www.phoronix.com/) | [Linux Fix Queued For Recent AMD Laptops Failing To Resume From Attached USB Devices](https://www.phoronix.com/news/Linux-Fix-AMD-Laptop-Resume-USB)
+
 ## 20231005
 - [Phoronix](https://www.phoronix.com/) | [Mesa 23.1.9 Released To End Out The Series](https://www.phoronix.com/news/Mesa-23.1.9-Released)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.7 To Update Intel IBRS Mitigation Handling To Enhance System Performance](https://www.phoronix.com/news/IBRS-Disable-When-Offline-CPU)

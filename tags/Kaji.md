@@ -1,3 +1,8 @@
+## 20231006
+- [Kagi Small Web](https://kagi.com/smallweb) | [Intentionality](https://blog.ohheybrian.com/2023/10/intentionality)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Migration from single content files to Hugo page bundles](https://pawelgrzybek.com/migration-from-single-content-files-to-hugo-page-bundles/)
+
 ## 20231005
 - [Kagi Small Web](https://kagi.com/smallweb) | [Animated Generations Meet in the Final VERY SHORT TREK Spot, “Walk, Don’t Run”](https://blog.trekcore.com/2023/10/animated-generations-meet-in-the-final-very-short-trek-spot-walk-dont-run/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reversing 'France Identité': the new French digital ID.](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)

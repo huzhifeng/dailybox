@@ -1,3 +1,7 @@
+## 20231006
+- [9to5Linux](https://9to5linux.com/) | [Krita 5.2 Brings Animation and Text Handling Improvements, Built-In FFmpeg](https://9to5linux.com/krita-5-2-brings-animation-and-text-handling-improvements-built-in-ffmpeg)
+- [9to5Linux](https://9to5linux.com/) | [Slax Linux Gets Enhanced Session Management and Boot Parameter Options](https://9to5linux.com/slax-linux-gets-enhanced-session-management-and-boot-parameter-options)
+
 ## 20231004
 - [9to5Linux](https://9to5linux.com/) | [elementary OS 7.1 Released with New Privacy Features, Improved AppCenter](https://9to5linux.com/elementary-os-7-1-released-with-new-privacy-features-improved-appcenter)
 
