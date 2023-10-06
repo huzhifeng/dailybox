@@ -1,3 +1,7 @@
+## 20231007
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.6 Linux Firmware Updater Adds Support for AMD dGPUs Navi3x and Later](https://9to5linux.com/fwupd-1-9-6-linux-firmware-updater-adds-support-for-amd-dgpus-navi3x-and-later)
+- [9to5Linux](https://9to5linux.com/) | [Proton 8.0-4 Released with Support for More Windows Games on Linux](https://9to5linux.com/proton-8-0-4-released-with-support-for-more-windows-games-on-linux)
+
 ## 20231006
 - [9to5Linux](https://9to5linux.com/) | [Krita 5.2 Brings Animation and Text Handling Improvements, Built-In FFmpeg](https://9to5linux.com/krita-5-2-brings-animation-and-text-handling-improvements-built-in-ffmpeg)
 - [9to5Linux](https://9to5linux.com/) | [Slax Linux Gets Enhanced Session Management and Boot Parameter Options](https://9to5linux.com/slax-linux-gets-enhanced-session-management-and-boot-parameter-options)

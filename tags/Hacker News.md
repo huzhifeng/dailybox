@@ -1,3 +1,7 @@
+## 20231007
+- [Hacker News](https://news.ycombinator.com/front) | [Making Hard Things Easy](https://news.ycombinator.com/item?id=37791002)
+- [Hacker News](https://news.ycombinator.com/front) | [We’re opening up access to Gov.uk forms](https://news.ycombinator.com/item?id=37789107)
+
 ## 20231006
 - [Hacker News](https://news.ycombinator.com/front) | [Where does my computer get the time from?](https://news.ycombinator.com/item?id=37778496)
 - [Hacker News](https://news.ycombinator.com/front) | [HTTP/3 adoption is growing rapidly](https://news.ycombinator.com/item?id=37777050)

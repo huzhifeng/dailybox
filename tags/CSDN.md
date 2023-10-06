@@ -1,3 +1,8 @@
+## 20231007
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入了解 RabbitMQ：高性能消息中间件](https://blog.csdn.net/qq_54796785/article/details/133578115)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机竞赛 题目：基于LSTM的预测算法 - 股票预测 天气预测 房价预测](https://blog.csdn.net/m0_43533/article/details/133580503)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring Cloud Gateway：打造可扩展的微服务网关](https://blog.csdn.net/qq_43546721/article/details/133579077)
+
 ## 20231006
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【微服务】springboot整合neo4j使用详解](https://blog.csdn.net/congge_study/article/details/133250138)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [网络安全（黑客）自学](https://blog.csdn.net/2301_76869453/article/details/133383349)

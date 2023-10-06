@@ -1,3 +1,8 @@
+## 20231007
+- [Product Hunt](https://www.producthunt.com) | [Codelita](https://www.producthunt.com/posts/codelita)
+- [Product Hunt](https://www.producthunt.com) | [Minimal Theme for LinkedIn](https://www.producthunt.com/posts/minimal-theme-for-linkedin)
+- [Product Hunt](https://www.producthunt.com) | [FlexSave](https://www.producthunt.com/posts/flexsave)
+
 ## 20231006
 - [Product Hunt](https://www.producthunt.com) | [GPT Pilot](https://www.producthunt.com/posts/gpt-pilot)
 - [Product Hunt](https://www.producthunt.com) | [We Are Learning](https://www.producthunt.com/posts/we-are-learning)

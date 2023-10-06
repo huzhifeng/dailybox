@@ -1,3 +1,8 @@
+## 20231007
+- [Planet GNOME](https://planet.gnome.org/) | [2023-10-06 Friday](https://meeksfamily.uk/~michael/blog/2023-10-06.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#116 Fragmented Files](https://thisweek.gnome.org/posts/2023/10/twig-116/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#116 Fragmented Files](https://thisweek.gnome.org/posts/2023/10/twig-116/)
+
 ## 20231005
 - [Planet GNOME](https://planet.gnome.org/) | [My second (full) GUADEC](https://blogs.gnome.org/antoniof/2023/10/04/my-second-full-guadec/)
 

@@ -1,3 +1,6 @@
+## 20231007
+- [TED Talks Daily](https://www.ted.com/talks) | [How to fix fashion and protect the planet | Amy Powney](https://www.ted.com/talks/amy_powney_how_to_fix_fashion_and_protect_the_planet?rss)
+
 ## 20231006
 - [TED Talks Daily](https://www.ted.com/talks) | [How business can drive solutions to social problems | Carlos Rodríguez-Pastor](https://www.ted.com/talks/carlos_rodriguez_pastor_how_business_can_drive_solutions_to_social_problems?rss)
 

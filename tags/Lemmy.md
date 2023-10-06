@@ -1,3 +1,8 @@
+## 20231007
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Anon is disillusioned about Starfield](https://sh.itjust.works/pictrs/image/87cd7e51-d9e6-4cd1-9627-4b7a6e81d7c6.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Who needs stars in a boring dystopia?](https://i.redd.it/49m8mhmiltrb1.jpg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Magical world](https://lemmy.ml/pictrs/image/0312ccc1-3f4f-46a5-935d-aa9273111832.jpeg)
+
 ## 20231006
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Gotta love international shipping](https://lemmy.world/pictrs/image/0fc65b97-dc41-491c-a48a-d4f712803e9a.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Let 'em COOK!](https://lemmy.world/pictrs/image/acb8d87f-7dcf-467c-8cd6-8a1545e1028e.jpeg)
