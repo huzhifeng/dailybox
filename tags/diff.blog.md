@@ -1,3 +1,8 @@
+## 20231007
+- [diff.blog](https://diff.blog/) | [New talk: Making Hard Things Easy](https://diff.blog/post/new-talk-making-hard-things-easy-157621/)
+- [diff.blog](https://diff.blog/) | [Thread-per-core](https://diff.blog/post/thread-per-core-157619/)
+- [diff.blog](https://diff.blog/) | [Clojure Deref (Oct 6, 2023)](https://diff.blog/post/clojure-deref-oct-6-2023-157624/)
+
 ## 20231006
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.73.0](https://diff.blog/post/announcing-rust-1730-157577/)
 

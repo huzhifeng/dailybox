@@ -1,3 +1,8 @@
+## 20231007
+- [Planet Fedora](http://fedoraplanet.org/) | [Daniel Berrange: Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 40 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-40-2023/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: نسخه Linux Fedora 39 Beta منتشر شد](https://fedorafans.com/%d9%86%d8%b3%d8%ae%d9%87-linux-fedora-39-beta-%d9%85%d9%86%d8%aa%d8%b4%d8%b1-%d8%b4%d8%af/)
+
 ## 20231006
 - [Planet Fedora](http://fedoraplanet.org/) | [Truong Anh Tuan: 6 trụ cột của chủ quyền số – tầm quan trọng và thách thức](http://blog.iwayvietnam.com/tuanta/2023/10/6-tru-cot-cua-chu-quyen-so-tam-quan-trong-va-thach-thuc/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Storage APIs: Partitioning with Ansible Storage Role: VDO](https://storageapis.wordpress.com/2023/10/05/partitioning-with-ansible-storage-role-vdo/)

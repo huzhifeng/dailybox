@@ -1,3 +1,7 @@
+## 20231007
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-40](https://ervin.ipsquad.net/blog/2023/10/06/web-review-week-2023-40/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Codevis Weekly Update](https://tcanabrava.github.io/codevis-weekly-update/?utm_source=atom_feed)
+
 ## 20231006
 - [Planet KDE](https://planet.kde.org/) | [KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/?utm_source=atom_feed)
 

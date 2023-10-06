@@ -1,3 +1,8 @@
+## 20231007
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Sick with COVID-19 and flu.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-6.html.en#2023-Oct-6-18:55:13)
+- [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: Custom Debian Installer and Kernel on a USB stick](https://www.linux.it/~ema/posts/custom-debian-installer-usb-stick/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: The Far Reaches](https://www.eyrie.org/~eagle/reviews/books/1-6625-1572-3.html)
+
 ## 20231006
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Why KDE snaps Love KDE neon and the Big Move.](https://www.scarlettgatelymoore.dev/kde-why-kde-snaps-love-kde-neon-and-the-big-move/)
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: Nageru 2.3.0 released](http://blog.sesse.net/blog/tech/2023-10-05-09-26_nageru_2_3_0_released.html)

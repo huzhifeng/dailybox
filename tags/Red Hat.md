@@ -1,3 +1,8 @@
+## 20231007
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — October 6, 2023](https://www.redhat.com/en/blog/friday-five-october-6-2023-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Use fwupd to deploy Linux firmware updates and more](https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more)
+
 ## 20231006
 - [Red Hat Developer](https://developers.redhat.com/) | [How to migrate server configurations to JBoss EAP 7.4](https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74)
 

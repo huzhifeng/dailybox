@@ -1,3 +1,8 @@
+## 20231007
+- [V2EX](https://www.v2ex.com/) | [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226)
+- [V2EX](https://www.v2ex.com/) | [戒色打卡交流群](https://www.v2ex.com/t/979221)
+- [V2EX](https://www.v2ex.com/) | [真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199)
+
 ## 20231006
 - [V2EX](https://www.v2ex.com/) | [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034)
 - [V2EX](https://www.v2ex.com/) | [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019)

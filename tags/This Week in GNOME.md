@@ -1,3 +1,6 @@
+## 20231007
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#116 Fragmented Files](https://thisweek.gnome.org/posts/2023/10/twig-116/)
+
 ## 20230930
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#115 Modern Monitoring](https://thisweek.gnome.org/posts/2023/09/twig-115/)
 

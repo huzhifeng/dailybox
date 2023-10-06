@@ -1,3 +1,8 @@
+## 20231007
+- [Kagi Small Web](https://kagi.com/smallweb) | [great Art Deco hotel in London: Beaumont](http://melbourneblogger.blogspot.com/2023/10/great-art-deco-hotel-in-london-beaumont.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Flowers to the Rescue](http://alifeinphotography.blogspot.com/2023/10/flowers-to-rescue.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Showcase: Tyranids Genestealer from Hive Fleet Hydra (inc. painting guide)](https://taleofpainters.com/2023/10/showcase-tyranids-genestealer-from-hive-fleet-hydra-inc-painting-guide-2/)
+
 ## 20231006
 - [Kagi Small Web](https://kagi.com/smallweb) | [Intentionality](https://blog.ohheybrian.com/2023/10/intentionality)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)

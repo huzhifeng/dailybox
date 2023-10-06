@@ -1,3 +1,8 @@
+## 20231007
+- [Lobsters](https://lobste.rs/) | [Go database driver overhead on insert-heavy workloads](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert)
+- [Lobsters](https://lobste.rs/) | [Making Hard Things Easy](https://lobste.rs/s/6gycoi/making_hard_things_easy)
+- [Lobsters](https://lobste.rs/) | [Why Git is hard](https://lobste.rs/s/aejnbw/why_git_is_hard)
+
 ## 20231006
 - [Lobsters](https://lobste.rs/) | [Profiling Python and Ruby using eBPF](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf)
 - [Lobsters](https://lobste.rs/) | [ASCII protocol buffers as config files](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files)

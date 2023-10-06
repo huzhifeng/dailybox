@@ -1,3 +1,8 @@
+## 20231007
+- [Phoronix](https://www.phoronix.com/) | [OpenJDK Merges Intel's x86-simd-sort For Speeding Up Data Sorting 7~15x](https://www.phoronix.com/news/Intel-x86-simd-sort-3.0)
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.267 Released With Nested Command Buffer Extension](https://www.phoronix.com/news/Vulkan-1.3.267-Released)
+- [Phoronix](https://www.phoronix.com/) | [AMD OpenSIL Will Be Talked About Later This Month At The 2023 OCP Global Summit](https://www.phoronix.com/news/AMD-OpenSIL-Global-OCP-2023)
+
 ## 20231006
 - [Phoronix](https://www.phoronix.com/) | [Ferrocene Safety-Critical Rust Compiler Code Published](https://www.phoronix.com/news/Ferrocene-Rust-Compiler-Code)
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 7900X Performance With ECC DDR5 Memory](https://www.phoronix.com/review/amd-ryzen9-ddr5-ecc)

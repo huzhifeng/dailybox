@@ -1,3 +1,6 @@
+## 20231007
+- [It's FOSS](https://itsfoss.com/) | [How to Preview Markdown in Visual Studio Code](https://itsfoss.com/vs-code-markdown-preview/)
+
 ## 20231006
 - [It's FOSS](https://itsfoss.com/) | [Install Brave on Arch Linux](https://itsfoss.com/install-brave-arch-linux/)
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.40: Linux Mint Edge Release, Bad News on RMS, Compiling Kernel and More](https://itsfoss.com/newsletter/foss-weekly-23-40/)
