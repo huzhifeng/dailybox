@@ -1,3 +1,15 @@
+## 20231008
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1147 OpenAI 正在考虑自己制造 AI 芯片](https://linux.cn/article-16262-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility](https://www.phoronix.com/news/OpenZFS-2.2-rc5-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel oneDNN 3.3 Brings More Performance Optimizations For Sapphire Rapids / AMX](https://www.phoronix.com/news/Intel-oneDNN-3.3)
+- [Phoronix](https://www.phoronix.com/) | [Chrome 119 Beta Released With CSS Relative Color Syntax, WebSQL Disabled](https://www.phoronix.com/news/Chrome-119-Beta)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/07/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Point release weekend for Debian: two releases this weekend: 202311071653](http://flosslinuxblog.blogspot.com/2023/10/point-release-weekend-for-debian-two.html)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Montreal's Debian & Stuff - "September" 2023](https://veronneau.org/montreals-debian-stuff-september-2023.html)
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/07/osm-hack-weekend-karlsruhe-september-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/)
+
 ## 20231007
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1146 decat：跳上键盘的猫咪清除了数据库](https://linux.cn/article-16259-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — October 6, 2023](https://www.redhat.com/en/blog/friday-five-october-6-2023-red-hat)

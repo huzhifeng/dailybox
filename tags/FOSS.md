@@ -1,3 +1,6 @@
+## 20231008
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu vs Kubuntu: Which is the Better Choice for You?](https://itsfoss.com/ubuntu-vs-kubuntu/)
+
 ## 20231007
 - [It's FOSS](https://itsfoss.com/) | [How to Preview Markdown in Visual Studio Code](https://itsfoss.com/vs-code-markdown-preview/)
 

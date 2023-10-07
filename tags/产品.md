@@ -1,3 +1,8 @@
+## 20231008
+- [Product Hunt](https://www.producthunt.com) | [Copy UI](https://www.producthunt.com/posts/copy-ui)
+- [Product Hunt](https://www.producthunt.com) | [Apes and AI (AAA)](https://www.producthunt.com/posts/apes-and-ai-aaa)
+- [Product Hunt](https://www.producthunt.com) | [Astrolabe 1.0](https://www.producthunt.com/posts/astrolabe-1-0)
+
 ## 20231007
 - [Product Hunt](https://www.producthunt.com) | [Codelita](https://www.producthunt.com/posts/codelita)
 - [Product Hunt](https://www.producthunt.com) | [Minimal Theme for LinkedIn](https://www.producthunt.com/posts/minimal-theme-for-linkedin)

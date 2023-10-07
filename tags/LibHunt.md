@@ -1,3 +1,6 @@
+## 20231008
+- [LibHunt](https://www.libhunt.com/) | [libcurl](https://www.libhunt.com/r/curl)
+
 ## 20231006
 - [LibHunt](https://www.libhunt.com/) | [sort-research-rs](https://www.libhunt.com/r/sort-research-rs)
 - [LibHunt](https://www.libhunt.com/) | [Netdata](https://www.libhunt.com/r/netdata)

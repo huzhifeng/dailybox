@@ -1,3 +1,8 @@
+## 20231008
+- [V2EX](https://www.v2ex.com/) | [我的独立开发故事：尝试了各种方法，但还是失败](https://www.v2ex.com/t/979474)
+- [V2EX](https://www.v2ex.com/) | [被偷的自行车找回来了](https://www.v2ex.com/t/979431)
+- [V2EX](https://www.v2ex.com/) | [如果销售热情的向你介绍了东西，最后你决定不买了，会觉得尴尬吗](https://www.v2ex.com/t/979413)
+
 ## 20231007
 - [V2EX](https://www.v2ex.com/) | [Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226)
 - [V2EX](https://www.v2ex.com/) | [戒色打卡交流群](https://www.v2ex.com/t/979221)

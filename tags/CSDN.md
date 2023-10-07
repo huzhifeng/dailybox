@@ -1,3 +1,9 @@
+## 20231008
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车有望推出增程车型；iPhone 15 Pro Max 发热难忍，系统升级后已解决；Android 14正式发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133632619)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—Antrea](https://blog.csdn.net/weixin_36755535/article/details/133632917)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入了解 RabbitMQ：高性能消息中间件](https://blog.csdn.net/qq_54796785/article/details/133578115)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【C++】一文带你走入vector](https://blog.csdn.net/m0_57388581/article/details/133395201)
+
 ## 20231007
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入了解 RabbitMQ：高性能消息中间件](https://blog.csdn.net/qq_54796785/article/details/133578115)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [计算机竞赛 题目：基于LSTM的预测算法 - 股票预测 天气预测 房价预测](https://blog.csdn.net/m0_43533/article/details/133580503)

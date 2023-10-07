@@ -1,3 +1,6 @@
+## 20231008
+- [diff.blog](https://diff.blog/) | [Reverse-engineering the mechanical Bendix Central Air Data Computer](https://diff.blog/post/reverse-engineering-the-mechanical-bendix-central-air-data-computer-157684/)
+
 ## 20231007
 - [diff.blog](https://diff.blog/) | [New talk: Making Hard Things Easy](https://diff.blog/post/new-talk-making-hard-things-easy-157621/)
 - [diff.blog](https://diff.blog/) | [Thread-per-core](https://diff.blog/post/thread-per-core-157619/)

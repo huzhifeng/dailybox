@@ -1,3 +1,8 @@
+## 20231008
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility](https://www.phoronix.com/news/OpenZFS-2.2-rc5-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel oneDNN 3.3 Brings More Performance Optimizations For Sapphire Rapids / AMX](https://www.phoronix.com/news/Intel-oneDNN-3.3)
+- [Phoronix](https://www.phoronix.com/) | [Chrome 119 Beta Released With CSS Relative Color Syntax, WebSQL Disabled](https://www.phoronix.com/news/Chrome-119-Beta)
+
 ## 20231007
 - [Phoronix](https://www.phoronix.com/) | [OpenJDK Merges Intel's x86-simd-sort For Speeding Up Data Sorting 7~15x](https://www.phoronix.com/news/Intel-x86-simd-sort-3.0)
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.267 Released With Nested Command Buffer Extension](https://www.phoronix.com/news/Vulkan-1.3.267-Released)
