@@ -1,3 +1,8 @@
+## 20231008
+- [Lobsters](https://lobste.rs/) | [shell tip: print json with printf](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf)
+- [Lobsters](https://lobste.rs/) | [breakelse: When Compiler Developers Get Bored](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get)
+- [Lobsters](https://lobste.rs/) | [A more mature take on stateless Terraform](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform)
+
 ## 20231007
 - [Lobsters](https://lobste.rs/) | [Go database driver overhead on insert-heavy workloads](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert)
 - [Lobsters](https://lobste.rs/) | [Making Hard Things Easy](https://lobste.rs/s/6gycoi/making_hard_things_easy)

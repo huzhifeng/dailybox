@@ -1,3 +1,7 @@
+## 20231008
+- [Hacker News](https://news.ycombinator.com/front) | [Wired has removed "How Google alters search queries" story](https://news.ycombinator.com/item?id=37802116)
+- [Hacker News](https://news.ycombinator.com/front) | [Paperless-ngx – Open source document management system](https://news.ycombinator.com/item?id=37800951)
+
 ## 20231007
 - [Hacker News](https://news.ycombinator.com/front) | [Making Hard Things Easy](https://news.ycombinator.com/item?id=37791002)
 - [Hacker News](https://news.ycombinator.com/front) | [We’re opening up access to Gov.uk forms](https://news.ycombinator.com/item?id=37789107)

@@ -1,3 +1,8 @@
+## 20231008
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/07/osm-hack-weekend-karlsruhe-september-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/)
+
 ## 20231007
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-40](https://ervin.ipsquad.net/blog/2023/10/06/web-review-week-2023-40/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Codevis Weekly Update](https://tcanabrava.github.io/codevis-weekly-update/?utm_source=atom_feed)

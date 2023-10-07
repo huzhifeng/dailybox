@@ -1,3 +1,8 @@
+## 20231008
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [wasting timeline - Wrong Hands](https://wronghands1.files.wordpress.com/2014/10/wasting-timeline.jpg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [No one is safe.](https://startrek.website/pictrs/image/383305d8-109b-4216-bbf9-d0f89d71318e.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [98 years worth of progress.](https://i.redd.it/68lynasds2rb1.png)
+
 ## 20231007
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Anon is disillusioned about Starfield](https://sh.itjust.works/pictrs/image/87cd7e51-d9e6-4cd1-9627-4b7a6e81d7c6.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Who needs stars in a boring dystopia?](https://i.redd.it/49m8mhmiltrb1.jpg)

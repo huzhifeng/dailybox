@@ -1,3 +1,8 @@
+## 20231008
+- [Kagi Small Web](https://kagi.com/smallweb) | [Parliament, Funkentelechy vs. the Placebo Syndrome](https://www.jarretthousenorth.com/2023/10/07/parliament-funkentelechy-vs-the-placebo-syndrome/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: Public Domain Images Database](https://forum.melonland.net/index.php?topic=2131.msg20487#msg20487)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Haunted House: The Great Chocolate Chip Cookie Escape](https://bluerenga.blog/2023/10/07/haunted-house-the-great-chocolate-chip-cookie-escape/)
+
 ## 20231007
 - [Kagi Small Web](https://kagi.com/smallweb) | [great Art Deco hotel in London: Beaumont](http://melbourneblogger.blogspot.com/2023/10/great-art-deco-hotel-in-london-beaumont.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Flowers to the Rescue](http://alifeinphotography.blogspot.com/2023/10/flowers-to-rescue.html)

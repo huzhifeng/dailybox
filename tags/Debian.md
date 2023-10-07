@@ -1,3 +1,7 @@
+## 20231008
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Point release weekend for Debian: two releases this weekend: 202311071653](http://flosslinuxblog.blogspot.com/2023/10/point-release-weekend-for-debian-two.html)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Montreal's Debian & Stuff - "September" 2023](https://veronneau.org/montreals-debian-stuff-september-2023.html)
+
 ## 20231007
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Sick with COVID-19 and flu.](http://www.netfort.gr.jp/~dancer/diary/daily/2023-Oct-6.html.en#2023-Oct-6-18:55:13)
 - [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: Custom Debian Installer and Kernel on a USB stick](https://www.linux.it/~ema/posts/custom-debian-installer-usb-stick/)

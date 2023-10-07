@@ -1,3 +1,10 @@
+## 20231008
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/07/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Point release weekend for Debian: two releases this weekend: 202311071653](http://flosslinuxblog.blogspot.com/2023/10/point-release-weekend-for-debian-two.html)
+- [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Montreal's Debian & Stuff - "September" 2023](https://veronneau.org/montreals-debian-stuff-september-2023.html)
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/07/osm-hack-weekend-karlsruhe-september-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/?utm_source=atom_feed)
+
 ## 20231007
 - [Planet Fedora](http://fedoraplanet.org/) | [Daniel Berrange: Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: CPE Weekly update – Week 40 2023](https://communityblog.fedoraproject.org/cpe-weekly-update-week-40-2023/)
