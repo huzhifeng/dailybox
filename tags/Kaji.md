@@ -1,3 +1,8 @@
+## 20231009
+- [Kagi Small Web](https://kagi.com/smallweb) | [Please to meet you, hope you guessed my name?](https://blog.steve.fi/please_to_meet_you__hope_you_guessed_my_name_.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [2023 Week Notes - Week 40](https://declanbyrd.co.uk/journal/2023/week40/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [What's new in WorldEdit 7.3?](https://madelinemiller.dev/blog/introducing-worldedit-7-3/)
+
 ## 20231008
 - [Kagi Small Web](https://kagi.com/smallweb) | [Parliament, Funkentelechy vs. the Placebo Syndrome](https://www.jarretthousenorth.com/2023/10/07/parliament-funkentelechy-vs-the-placebo-syndrome/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Re: Public Domain Images Database](https://forum.melonland.net/index.php?topic=2131.msg20487#msg20487)

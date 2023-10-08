@@ -1,3 +1,7 @@
+## 20231009
+- [Planet KDE](https://planet.kde.org/) | [Slimming down KNotifications](https://nicolasfella.de/posts/slimming-down-knotifications/?utm_source=atom_feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Getting a clean config directory, with KConfigXT!](https://redstrate.com/blog/2023/10/getting-a-clean-config-directory-with-kconfigxt/?utm_source=atom_feed)
+
 ## 20231008
 - [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/07/osm-hack-weekend-karlsruhe-september-2023.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/?utm_source=atom_feed)

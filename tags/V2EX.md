@@ -1,3 +1,8 @@
+## 20231009
+- [V2EX](https://www.v2ex.com/) | [给儿征名，选中红包感谢](https://www.v2ex.com/t/979923)
+- [V2EX](https://www.v2ex.com/) | [统计一下， IPHONE15 大家开不开那个 80%电量](https://www.v2ex.com/t/979856)
+- [V2EX](https://www.v2ex.com/) | [奥迪 4s 店给的报价单，董哥来分析一波](https://www.v2ex.com/t/979846)
+
 ## 20231008
 - [V2EX](https://www.v2ex.com/) | [我的独立开发故事：尝试了各种方法，但还是失败](https://www.v2ex.com/t/979474)
 - [V2EX](https://www.v2ex.com/) | [被偷的自行车找回来了](https://www.v2ex.com/t/979431)

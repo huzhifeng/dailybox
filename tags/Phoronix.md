@@ -1,3 +1,8 @@
+## 20231009
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6-rc5 Released: "Things Are Back To Normal"](https://www.phoronix.com/news/Linux-6.6-rc5)
+- [Phoronix](https://www.phoronix.com/) | [PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support](https://www.phoronix.com/news/PreSonus-Studio-One-On-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Incus 0.1 Released As Linux Containers' Fork Of LXD](https://www.phoronix.com/news/Incus-0.1-Released)
+
 ## 20231008
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility](https://www.phoronix.com/news/OpenZFS-2.2-rc5-Released)
 - [Phoronix](https://www.phoronix.com/) | [Intel oneDNN 3.3 Brings More Performance Optimizations For Sapphire Rapids / AMX](https://www.phoronix.com/news/Intel-oneDNN-3.3)

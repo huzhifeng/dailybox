@@ -1,3 +1,8 @@
+## 20231009
+- [Lobsters](https://lobste.rs/) | [Have I Been Squatted? – Check if your domain has been typosquatted](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain)
+- [Lobsters](https://lobste.rs/) | [things i just don't like about git](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git)
+- [Lobsters](https://lobste.rs/) | [The Hidden Performance Cost of NodeJS and GraphQL](https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql)
+
 ## 20231008
 - [Lobsters](https://lobste.rs/) | [shell tip: print json with printf](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf)
 - [Lobsters](https://lobste.rs/) | [breakelse: When Compiler Developers Get Bored](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get)

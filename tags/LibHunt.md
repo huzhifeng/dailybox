@@ -1,3 +1,6 @@
+## 20231009
+- [LibHunt](https://www.libhunt.com/) | [SimSIMD](https://www.libhunt.com/r/SimSIMD)
+
 ## 20231008
 - [LibHunt](https://www.libhunt.com/) | [libcurl](https://www.libhunt.com/r/curl)
 
