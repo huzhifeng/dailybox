@@ -1,3 +1,9 @@
+## 20231009
+- [Planet Debian](https://planet.debian.org/) | [Niels Thykier: A new Debian package helper: debputy](https://nthykier.wordpress.com/2023/10/08/a-new-debian-package-helper-debputy/)
+- [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Lap 24](https://blog.sahilister.in/2023/10/lap-24/)
+- [Planet KDE](https://planet.kde.org/) | [Slimming down KNotifications](https://nicolasfella.de/posts/slimming-down-knotifications/?utm_source=atom_feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Getting a clean config directory, with KConfigXT!](https://redstrate.com/blog/2023/10/getting-a-clean-config-directory-with-kconfigxt/?utm_source=atom_feed)
+
 ## 20231008
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/07/finished-reading-the.html)
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Point release weekend for Debian: two releases this weekend: 202311071653](http://flosslinuxblog.blogspot.com/2023/10/point-release-weekend-for-debian-two.html)

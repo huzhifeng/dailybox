@@ -1,3 +1,8 @@
+## 20231009
+- [Product Hunt](https://www.producthunt.com) | [new.space beta](https://www.producthunt.com/posts/new-space-beta)
+- [Product Hunt](https://www.producthunt.com) | [Kua.ai](https://www.producthunt.com/posts/kua-ai)
+- [Product Hunt](https://www.producthunt.com) | [DimeOS - The Ultimate Finance Tracker](https://www.producthunt.com/posts/dimeos-the-ultimate-finance-tracker)
+
 ## 20231008
 - [Product Hunt](https://www.producthunt.com) | [Copy UI](https://www.producthunt.com/posts/copy-ui)
 - [Product Hunt](https://www.producthunt.com) | [Apes and AI (AAA)](https://www.producthunt.com/posts/apes-and-ai-aaa)

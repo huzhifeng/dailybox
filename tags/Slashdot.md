@@ -1,3 +1,9 @@
+## 20231009
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat, Ubuntu, Debian, and Gentoo Release Patches for 'Looney Tunables' Linux Vulnerability](https://linux.slashdot.org/story/23/10/08/2133244/red-hat-ubuntu-debian-and-gentoo-release-patches-for-looney-tunables-linux-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Greg Kroah-Hartman Chastises Critic, Says Linux Foundation Strongly Supports Kernel Developers](https://linux.slashdot.org/story/23/10/08/0131214/greg-kroah-hartman-chastises-critic-says-linux-foundation-strongly-supports-kernel-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [States Are Calling For More K-12 CS Classes. Now They Need the Teachers.](https://developers.slashdot.org/story/23/10/07/2315204/states-are-calling-for-more-k-12-cs-classes-now-they-need-the-teachers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [7% of Python Developers Are Still Using Python 2, Annual Survey Finds](https://developers.slashdot.org/story/23/10/08/0434222/7-of-python-developers-are-still-using-python-2-annual-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231006
 - [Slashdot](https://linux.slashdot.org/) | [Linux Tries To Dump Windows' Notoriously Insecure RNDIS Protocol](https://tech.slashdot.org/story/23/10/04/2119243/linux-tries-to-dump-windows-notoriously-insecure-rndis-protocol?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Epic Games To Update Unreal Engine Pricing for Devs Outside Game Industry](https://developers.slashdot.org/story/23/10/05/169224/epic-games-to-update-unreal-engine-pricing-for-devs-outside-game-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,9 @@
+## 20231009
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果 App Store 现黄色软件伪装成学习软件；微软或推出自家首款AI芯片；Rails 7.1 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133669815)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—Antrea](https://blog.csdn.net/weixin_36755535/article/details/133632917)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring Boot中实现订单30分钟自动取消的策略](https://blog.csdn.net/qq_43546721/article/details/133622551)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [国庆出游远程实测：ToDesk 、TeamViewer、AnyDesk远程控制软件稳定性](https://blog.csdn.net/m0_75058342/article/details/133673881)
+
 ## 20231008
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车有望推出增程车型；iPhone 15 Pro Max 发热难忍，系统升级后已解决；Android 14正式发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133632619)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—Antrea](https://blog.csdn.net/weixin_36755535/article/details/133632917)

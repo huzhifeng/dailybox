@@ -1,3 +1,8 @@
+## 20231009
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Try not to use slave labor challenge (Impossible!)](https://lemmy.ml/pictrs/image/d9f72707-ce2c-45b6-a5b0-9b09bf75a6d8.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Amazon Anti Union propaganda](https://lemmy.world/pictrs/image/43a85d08-4c68-4c31-9268-a715e74e65a1.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [the internet is worse.](https://lemmy.world/pictrs/image/4e030f1d-29eb-429c-a768-18a85fb8f36e.png)
+
 ## 20231008
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [wasting timeline - Wrong Hands](https://wronghands1.files.wordpress.com/2014/10/wasting-timeline.jpg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [No one is safe.](https://startrek.website/pictrs/image/383305d8-109b-4216-bbf9-d0f89d71318e.jpeg)

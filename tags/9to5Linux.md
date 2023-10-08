@@ -1,3 +1,7 @@
+## 20231009
+- [9to5Linux](https://9to5linux.com/) | [VLC 3.0.19 Improves AV1 HDR Support with Software Decoding, Fixes Linux Issues](https://9to5linux.com/vlc-3-0-19-improves-av1-hdr-support-with-software-decoding-fixes-linux-issues)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates](https://9to5linux.com/debian-12-2-bookworm-released-with-117-bug-fixes-and-52-security-updates)
+
 ## 20231007
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.6 Linux Firmware Updater Adds Support for AMD dGPUs Navi3x and Later](https://9to5linux.com/fwupd-1-9-6-linux-firmware-updater-adds-support-for-amd-dgpus-navi3x-and-later)
 - [9to5Linux](https://9to5linux.com/) | [Proton 8.0-4 Released with Support for More Windows Games on Linux](https://9to5linux.com/proton-8-0-4-released-with-support-for-more-windows-games-on-linux)

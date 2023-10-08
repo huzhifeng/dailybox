@@ -1,3 +1,7 @@
+## 20231009
+- [Planet Debian](https://planet.debian.org/) | [Niels Thykier: A new Debian package helper: debputy](https://nthykier.wordpress.com/2023/10/08/a-new-debian-package-helper-debputy/)
+- [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Lap 24](https://blog.sahilister.in/2023/10/lap-24/)
+
 ## 20231008
 - [Planet Debian](https://planet.debian.org/) | [Andrew Cater: Point release weekend for Debian: two releases this weekend: 202311071653](http://flosslinuxblog.blogspot.com/2023/10/point-release-weekend-for-debian-two.html)
 - [Planet Debian](https://planet.debian.org/) | [Louis-Philippe Véronneau: Montreal's Debian & Stuff - "September" 2023](https://veronneau.org/montreals-debian-stuff-september-2023.html)

@@ -1,3 +1,17 @@
+## 20231009
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1148 美议员建议对 RISC-V 技术实施出口限制](https://linux.cn/article-16265-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.6-rc5 Released: "Things Are Back To Normal"](https://www.phoronix.com/news/Linux-6.6-rc5)
+- [Phoronix](https://www.phoronix.com/) | [PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support](https://www.phoronix.com/news/PreSonus-Studio-One-On-Linux)
+- [Phoronix](https://www.phoronix.com/) | [Incus 0.1 Released As Linux Containers' Fork Of LXD](https://www.phoronix.com/news/Incus-0.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [VLC 3.0.19 Improves AV1 HDR Support with Software Decoding, Fixes Linux Issues](https://9to5linux.com/vlc-3-0-19-improves-av1-hdr-support-with-software-decoding-fixes-linux-issues)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates](https://9to5linux.com/debian-12-2-bookworm-released-with-117-bug-fixes-and-52-security-updates)
+- [Planet Debian](https://planet.debian.org/) | [Niels Thykier: A new Debian package helper: debputy](https://nthykier.wordpress.com/2023/10/08/a-new-debian-package-helper-debputy/)
+- [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Lap 24](https://blog.sahilister.in/2023/10/lap-24/)
+- [Planet KDE](https://planet.kde.org/) | [Slimming down KNotifications](https://nicolasfella.de/posts/slimming-down-knotifications/?utm_source=atom_feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Getting a clean config directory, with KConfigXT!](https://redstrate.com/blog/2023/10/getting-a-clean-config-directory-with-kconfigxt/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat, Ubuntu, Debian, and Gentoo Release Patches for 'Looney Tunables' Linux Vulnerability](https://linux.slashdot.org/story/23/10/08/2133244/red-hat-ubuntu-debian-and-gentoo-release-patches-for-looney-tunables-linux-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Greg Kroah-Hartman Chastises Critic, Says Linux Foundation Strongly Supports Kernel Developers](https://linux.slashdot.org/story/23/10/08/0131214/greg-kroah-hartman-chastises-critic-says-linux-foundation-strongly-supports-kernel-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231008
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1147 OpenAI 正在考虑自己制造 AI 芯片](https://linux.cn/article-16262-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility](https://www.phoronix.com/news/OpenZFS-2.2-rc5-Released)
