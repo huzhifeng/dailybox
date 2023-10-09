@@ -1,3 +1,6 @@
+## 20231010
+- [diff.blog](https://diff.blog/) | [An MIR-based JIT prototype for Ruby](https://diff.blog/post/an-mir-based-jit-prototype-for-ruby-157790/)
+
 ## 20231008
 - [diff.blog](https://diff.blog/) | [Reverse-engineering the mechanical Bendix Central Air Data Computer](https://diff.blog/post/reverse-engineering-the-mechanical-bendix-central-air-data-computer-157684/)
 

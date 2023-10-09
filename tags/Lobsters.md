@@ -1,3 +1,8 @@
+## 20231010
+- [Lobsters](https://lobste.rs/) | [Zimaboard: the closest thing to my dream home server setup](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home)
+- [Lobsters](https://lobste.rs/) | [Organizing system configs with NixOS](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos)
+- [Lobsters](https://lobste.rs/) | [Why is Debian the way it is?](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is)
+
 ## 20231009
 - [Lobsters](https://lobste.rs/) | [Have I Been Squatted? – Check if your domain has been typosquatted](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain)
 - [Lobsters](https://lobste.rs/) | [things i just don't like about git](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git)

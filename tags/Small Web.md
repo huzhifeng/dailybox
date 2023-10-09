@@ -1,3 +1,8 @@
+## 20231010
+- [Kagi Small Web](https://kagi.com/smallweb) | [vehicles to devices](https://blog.ayjay.org/vehicles-to-devices/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Krispy Kreme and Scooby-Doo Halloween Doughnuts](https://grubbits.com/krispy-kreme-and-scooby-doo-halloween-doughnuts/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Review: Exadelic](https://allenc.com/2023/10/review-exadelic/)
+
 ## 20231009
 - [Kagi Small Web](https://kagi.com/smallweb) | [Please to meet you, hope you guessed my name?](https://blog.steve.fi/please_to_meet_you__hope_you_guessed_my_name_.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [2023 Week Notes - Week 40](https://declanbyrd.co.uk/journal/2023/week40/)

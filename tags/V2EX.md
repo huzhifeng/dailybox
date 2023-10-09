@@ -1,3 +1,8 @@
+## 20231010
+- [V2EX](https://www.v2ex.com/) | [股票亏损太多压力大怎么办？](https://www.v2ex.com/t/980243)
+- [V2EX](https://www.v2ex.com/) | [把你们的博客交出来](https://www.v2ex.com/t/980228)
+- [V2EX](https://www.v2ex.com/) | [[布局重构] Xterminal SSH 布局功能全更新，体验吊打旧版 100 倍😁，顺便继续送 [激活码] ！](https://www.v2ex.com/t/980160)
+
 ## 20231009
 - [V2EX](https://www.v2ex.com/) | [给儿征名，选中红包感谢](https://www.v2ex.com/t/979923)
 - [V2EX](https://www.v2ex.com/) | [统计一下， IPHONE15 大家开不开那个 80%电量](https://www.v2ex.com/t/979856)

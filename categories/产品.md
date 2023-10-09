@@ -1,3 +1,8 @@
+## 20231010
+- [Product Hunt](https://www.producthunt.com) | [SmartBrandly](https://www.producthunt.com/posts/smartbrandly)
+- [Product Hunt](https://www.producthunt.com) | [Payload 2.0](https://www.producthunt.com/posts/payload-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Business Ideas Generator](https://www.producthunt.com/posts/business-ideas-generator)
+
 ## 20231009
 - [Product Hunt](https://www.producthunt.com) | [new.space beta](https://www.producthunt.com/posts/new-space-beta)
 - [Product Hunt](https://www.producthunt.com) | [Kua.ai](https://www.producthunt.com/posts/kua-ai)

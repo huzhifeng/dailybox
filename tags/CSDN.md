@@ -1,3 +1,9 @@
+## 20231010
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为辟谣“拒绝富士康代工”传闻；iPhone 15在美市场销量或将陷入停滞；iOS 17被曝 WiFi连接问题|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133694789)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解密人工智能：决策树 | 随机森林 | 朴素贝叶斯](https://blog.csdn.net/weixin_63115236/article/details/133616578)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—Antrea](https://blog.csdn.net/weixin_36755535/article/details/133632917)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI赋能100%提高项目管理效率](https://blog.csdn.net/s445320/article/details/133694478)
+
 ## 20231009
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果 App Store 现黄色软件伪装成学习软件；微软或推出自家首款AI芯片；Rails 7.1 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133669815)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—Antrea](https://blog.csdn.net/weixin_36755535/article/details/133632917)
