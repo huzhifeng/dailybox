@@ -1,3 +1,6 @@
+## 20231010
+- [Planet KDE](https://planet.kde.org/) | [LinuxDay Vorarlberg 2023](https://blog.broulik.de/2023/10/linuxday-vorarlberg-2023/?utm_source=atom_feed)
+
 ## 20231009
 - [Planet KDE](https://planet.kde.org/) | [Slimming down KNotifications](https://nicolasfella.de/posts/slimming-down-knotifications/?utm_source=atom_feed?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Getting a clean config directory, with KConfigXT!](https://redstrate.com/blog/2023/10/getting-a-clean-config-directory-with-kconfigxt/?utm_source=atom_feed)

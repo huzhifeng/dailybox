@@ -1,3 +1,7 @@
+## 20231010
+- [Red Hat Developer](https://developers.redhat.com/) | [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs)
+- [Red Hat Developer](https://developers.redhat.com/) | [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
+
 ## 20231007
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — October 6, 2023](https://www.redhat.com/en/blog/friday-five-october-6-2023-red-hat)
 - [Red Hat Developer](https://developers.redhat.com/) | [Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift)

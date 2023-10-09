@@ -1,3 +1,17 @@
+## 20231010
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1149 谷歌开源了一个键帽形键盘，摇头输入](https://linux.cn/article-16269-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs)
+- [Red Hat Developer](https://developers.redhat.com/) | [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Graphics Driver Patches Enabling SMU 14.0 IP](https://www.phoronix.com/news/AMDGPU-SMU-14.0-Patches)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarks: AMD Ryzen 7000 Series Performance Boosted With Ubuntu 23.10](https://www.phoronix.com/review/ubuntu-2310-desktop)
+- [Phoronix](https://www.phoronix.com/) | [Curl Preps For "Probably The Worst Curl Security Flaw In A Long Time"](https://www.phoronix.com/news/Curl-8.4-Coming)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 8th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-8th-2023)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.0 Open-Source DAW Released with Launchpad Pro Support, Region Grouping](https://9to5linux.com/ardour-8-0-open-source-daw-released-with-launchpad-pro-support-region-grouping)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 09 October 1300 UTC](https://neuroblog.fedoraproject.org/2023/10/09/next-open-neurofedora-meeting-09-October-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 396 – CLAs are bad, Mkay?](https://opensourcesecurity.io/2023/10/08/episode-396-clas-are-bad-mkay/)
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Figuring out finances part 1](http://aigarius.com/blog/2023/10/09/finance-project-start/)
+- [Planet KDE](https://planet.kde.org/) | [LinuxDay Vorarlberg 2023](https://blog.broulik.de/2023/10/linuxday-vorarlberg-2023/?utm_source=atom_feed)
+
 ## 20231009
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1148 美议员建议对 RISC-V 技术实施出口限制](https://linux.cn/article-16265-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6-rc5 Released: "Things Are Back To Normal"](https://www.phoronix.com/news/Linux-6.6-rc5)

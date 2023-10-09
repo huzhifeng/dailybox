@@ -1,3 +1,6 @@
+## 20231010
+- [TED Talks Daily](https://www.ted.com/talks) | [Work has changed. Why haven't resumes? | Nicos Marcou](https://www.ted.com/talks/nicos_marcou_work_has_changed_why_haven_t_resumes?rss)
+
 ## 20231007
 - [TED Talks Daily](https://www.ted.com/talks) | [How to fix fashion and protect the planet | Amy Powney](https://www.ted.com/talks/amy_powney_how_to_fix_fashion_and_protect_the_planet?rss)
 

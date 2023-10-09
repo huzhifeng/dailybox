@@ -1,3 +1,6 @@
+## 20231010
+- [It's FOSS](https://itsfoss.com/) | [Add Minimize and Maximize Buttons in GNOME](https://itsfoss.com/gnome-minimize-button/)
+
 ## 20231008
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu vs Kubuntu: Which is the Better Choice for You?](https://itsfoss.com/ubuntu-vs-kubuntu/)
 

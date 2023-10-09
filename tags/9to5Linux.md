@@ -1,3 +1,7 @@
+## 20231010
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 8th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-8th-2023)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.0 Open-Source DAW Released with Launchpad Pro Support, Region Grouping](https://9to5linux.com/ardour-8-0-open-source-daw-released-with-launchpad-pro-support-region-grouping)
+
 ## 20231009
 - [9to5Linux](https://9to5linux.com/) | [VLC 3.0.19 Improves AV1 HDR Support with Software Decoding, Fixes Linux Issues](https://9to5linux.com/vlc-3-0-19-improves-av1-hdr-support-with-software-decoding-fixes-linux-issues)
 - [9to5Linux](https://9to5linux.com/) | [Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates](https://9to5linux.com/debian-12-2-bookworm-released-with-117-bug-fixes-and-52-security-updates)

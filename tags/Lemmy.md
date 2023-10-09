@@ -1,3 +1,8 @@
+## 20231010
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit be like](https://programming.dev/pictrs/image/a59b68a2-a870-408b-8c15-05e31f8228f7.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Microsoft published a guide on how to install Linux.](https://programming.dev/pictrs/image/4c891719-cf74-430b-9805-6760a6a0134b.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The complete guide to building your personal self hosted server for streaming and ad-blocking powered by Plex, Jellyfin, Adguard Home and Docker.](https://lemmy.dbzer0.com/pictrs/image/648d65c6-110d-4644-ba44-1561ad35e4de.png)
+
 ## 20231009
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Try not to use slave labor challenge (Impossible!)](https://lemmy.ml/pictrs/image/d9f72707-ce2c-45b6-a5b0-9b09bf75a6d8.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Amazon Anti Union propaganda](https://lemmy.world/pictrs/image/43a85d08-4c68-4c31-9268-a715e74e65a1.jpeg)

@@ -1,3 +1,9 @@
+## 20231010
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 09 October 1300 UTC](https://neuroblog.fedoraproject.org/2023/10/09/next-open-neurofedora-meeting-09-October-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 396 – CLAs are bad, Mkay?](https://opensourcesecurity.io/2023/10/08/episode-396-clas-are-bad-mkay/)
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Figuring out finances part 1](http://aigarius.com/blog/2023/10/09/finance-project-start/)
+- [Planet KDE](https://planet.kde.org/) | [LinuxDay Vorarlberg 2023](https://blog.broulik.de/2023/10/linuxday-vorarlberg-2023/?utm_source=atom_feed)
+
 ## 20231009
 - [Planet Debian](https://planet.debian.org/) | [Niels Thykier: A new Debian package helper: debputy](https://nthykier.wordpress.com/2023/10/08/a-new-debian-package-helper-debputy/)
 - [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Lap 24](https://blog.sahilister.in/2023/10/lap-24/)

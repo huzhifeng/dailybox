@@ -1,3 +1,8 @@
+## 20231010
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Graphics Driver Patches Enabling SMU 14.0 IP](https://www.phoronix.com/news/AMDGPU-SMU-14.0-Patches)
+- [Phoronix](https://www.phoronix.com/) | [Benchmarks: AMD Ryzen 7000 Series Performance Boosted With Ubuntu 23.10](https://www.phoronix.com/review/ubuntu-2310-desktop)
+- [Phoronix](https://www.phoronix.com/) | [Curl Preps For "Probably The Worst Curl Security Flaw In A Long Time"](https://www.phoronix.com/news/Curl-8.4-Coming)
+
 ## 20231009
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.6-rc5 Released: "Things Are Back To Normal"](https://www.phoronix.com/news/Linux-6.6-rc5)
 - [Phoronix](https://www.phoronix.com/) | [PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support](https://www.phoronix.com/news/PreSonus-Studio-One-On-Linux)

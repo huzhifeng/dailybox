@@ -1,3 +1,6 @@
+## 20231010
+- [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Figuring out finances part 1](http://aigarius.com/blog/2023/10/09/finance-project-start/)
+
 ## 20231009
 - [Planet Debian](https://planet.debian.org/) | [Niels Thykier: A new Debian package helper: debputy](https://nthykier.wordpress.com/2023/10/08/a-new-debian-package-helper-debputy/)
 - [Planet Debian](https://planet.debian.org/) | [Sahil Dhiman: Lap 24](https://blog.sahilister.in/2023/10/lap-24/)

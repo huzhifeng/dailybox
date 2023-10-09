@@ -1,3 +1,6 @@
+## 20231010
+- [LibHunt](https://www.libhunt.com/) | [nes-elite-beebasm](https://www.libhunt.com/r/nes-elite-beebasm)
+
 ## 20231009
 - [LibHunt](https://www.libhunt.com/) | [SimSIMD](https://www.libhunt.com/r/SimSIMD)
 

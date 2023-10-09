@@ -1,3 +1,7 @@
+## 20231010
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 09 October 1300 UTC](https://neuroblog.fedoraproject.org/2023/10/09/next-open-neurofedora-meeting-09-October-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 396 – CLAs are bad, Mkay?](https://opensourcesecurity.io/2023/10/08/episode-396-clas-are-bad-mkay/)
+
 ## 20231008
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/07/finished-reading-the.html)
 
