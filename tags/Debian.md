@@ -1,3 +1,8 @@
+## 20231011
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Divergence - A case for different upgrade approaches](https://blog.jak-linux.org/2023/10/10/a-case-for-different-upgrades/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Chilling Effect](https://www.eyrie.org/~eagle/reviews/books/0-06-287724-0.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: drat 0.2.4 on CRAN: Improved macOS Support, General Updates](http://dirk.eddelbuettel.com/blog/2023/10/09#drat_0.2.4)
+
 ## 20231010
 - [Planet Debian](https://planet.debian.org/) | [Aigars Mahinovs: Figuring out finances part 1](http://aigarius.com/blog/2023/10/09/finance-project-start/)
 

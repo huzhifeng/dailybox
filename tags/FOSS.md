@@ -1,3 +1,6 @@
+## 20231011
+- [It's FOSS](https://itsfoss.com/) | [How to Add Comments in Bash Scripts](https://itsfoss.com/bash-comments/)
+
 ## 20231010
 - [It's FOSS](https://itsfoss.com/) | [Add Minimize and Maximize Buttons in GNOME](https://itsfoss.com/gnome-minimize-button/)
 

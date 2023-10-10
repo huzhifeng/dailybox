@@ -1,3 +1,9 @@
+## 20231011
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO 称套壳 ChatGPT 者必死；马斯克称中国车企最具竞争力；Rust 1.73.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133738868)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [低代码（Low-Code）是什么？](https://blog.csdn.net/superdangbo/article/details/133681420)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI赋能100%提高项目管理效率](https://blog.csdn.net/s445320/article/details/133694478)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Kafka是什么，以及如何使用SpringBoot对接Kafka](https://blog.csdn.net/u011709538/article/details/133681195)
+
 ## 20231010
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为辟谣“拒绝富士康代工”传闻；iPhone 15在美市场销量或将陷入停滞；iOS 17被曝 WiFi连接问题|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133694789)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [解密人工智能：决策树 | 随机森林 | 朴素贝叶斯](https://blog.csdn.net/weixin_63115236/article/details/133616578)

@@ -1,3 +1,6 @@
+## 20231011
+- [Hacker News](https://news.ycombinator.com/front) | [The largest DDoS attack to date, peaking above 398M rps](https://news.ycombinator.com/item?id=37831062)
+
 ## 20231008
 - [Hacker News](https://news.ycombinator.com/front) | [Wired has removed "How Google alters search queries" story](https://news.ycombinator.com/item?id=37802116)
 - [Hacker News](https://news.ycombinator.com/front) | [Paperless-ngx – Open source document management system](https://news.ycombinator.com/item?id=37800951)

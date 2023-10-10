@@ -1,3 +1,8 @@
+## 20231011
+- [Kagi Small Web](https://kagi.com/smallweb) | [Town Hall #14: Frends](https://taylor.town/town-hall-0014)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Apple should acquire Wolfram Research.](https://taylor.town/wolfrapple)
+- [Kagi Small Web](https://kagi.com/smallweb) | [How I Bought and Estimated the Purity of Sodium Dichloroacetate](https://depth-first.com/articles/2023/10/10/how-i-bought-and-estimated-the-purity-of-sodium-dichloroacatate/)
+
 ## 20231010
 - [Kagi Small Web](https://kagi.com/smallweb) | [vehicles to devices](https://blog.ayjay.org/vehicles-to-devices/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Krispy Kreme and Scooby-Doo Halloween Doughnuts](https://grubbits.com/krispy-kreme-and-scooby-doo-halloween-doughnuts/)

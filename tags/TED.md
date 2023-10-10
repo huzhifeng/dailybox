@@ -1,3 +1,8 @@
+## 20231011
+- [TED Talks Daily](https://www.ted.com/talks) | [The Israel-Hamas war — and what it means for the world | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_israel_hamas_war_and_what_it_means_for_the_world?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [3 practices for a life of wisdom | Krista Tippett](https://www.ted.com/talks/krista_tippett_3_practices_for_a_life_of_wisdom?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [3 ways to better connect with your coworkers | Mark T. Rivera](https://www.ted.com/talks/mark_t_rivera_3_ways_to_better_connect_with_your_coworkers?rss)
+
 ## 20231010
 - [TED Talks Daily](https://www.ted.com/talks) | [Work has changed. Why haven't resumes? | Nicos Marcou](https://www.ted.com/talks/nicos_marcou_work_has_changed_why_haven_t_resumes?rss)
 

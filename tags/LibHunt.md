@@ -1,3 +1,7 @@
+## 20231011
+- [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
+- [LibHunt](https://www.libhunt.com/) | [rich-text-to-image](https://www.libhunt.com/r/rich-text-to-image)
+
 ## 20231010
 - [LibHunt](https://www.libhunt.com/) | [nes-elite-beebasm](https://www.libhunt.com/r/nes-elite-beebasm)
 

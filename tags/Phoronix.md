@@ -1,3 +1,8 @@
+## 20231011
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 8324P / 8324PN Siena 32-Core Siena Linux Server Performance](https://www.phoronix.com/review/epyc-8324p-siena)
+- [Phoronix](https://www.phoronix.com/) | [Intel Formally Announces The Arc Graphics A580](https://www.phoronix.com/news/Intel-Arc-Graphics-A850)
+- [Phoronix](https://www.phoronix.com/) | [AMD Makes A New Open-Source AI Software Acquisition](https://www.phoronix.com/news/AMD-Acquires-Nod-AI)
+
 ## 20231010
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Graphics Driver Patches Enabling SMU 14.0 IP](https://www.phoronix.com/news/AMDGPU-SMU-14.0-Patches)
 - [Phoronix](https://www.phoronix.com/) | [Benchmarks: AMD Ryzen 7000 Series Performance Boosted With Ubuntu 23.10](https://www.phoronix.com/review/ubuntu-2310-desktop)
