@@ -1,3 +1,6 @@
+## 20231011
+- [Planet KDE](https://planet.kde.org/) | [I got laid off from work...](https://akselmo.dev/posts/i-got-laid-off/?utm_source=atom_feed)
+
 ## 20231010
 - [Planet KDE](https://planet.kde.org/) | [LinuxDay Vorarlberg 2023](https://blog.broulik.de/2023/10/linuxday-vorarlberg-2023/?utm_source=atom_feed)
 

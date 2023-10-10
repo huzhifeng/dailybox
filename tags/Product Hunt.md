@@ -1,3 +1,8 @@
+## 20231011
+- [Product Hunt](https://www.producthunt.com) | [Uxcel for Teams](https://www.producthunt.com/posts/uxcel-for-teams)
+- [Product Hunt](https://www.producthunt.com) | [Moonvalley](https://www.producthunt.com/posts/moonvalley)
+- [Product Hunt](https://www.producthunt.com) | [Puzzle 2.0](https://www.producthunt.com/posts/puzzle-2-0)
+
 ## 20231010
 - [Product Hunt](https://www.producthunt.com) | [SmartBrandly](https://www.producthunt.com/posts/smartbrandly)
 - [Product Hunt](https://www.producthunt.com) | [Payload 2.0](https://www.producthunt.com/posts/payload-2-0)

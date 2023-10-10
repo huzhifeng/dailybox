@@ -1,3 +1,7 @@
+## 20231011
+- [Red Hat Developer](https://developers.redhat.com/) | [How custom SELinux policies secure servers and containers](https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to validate GitOps manifests](https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests)
+
 ## 20231010
 - [Red Hat Developer](https://developers.redhat.com/) | [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs)
 - [Red Hat Developer](https://developers.redhat.com/) | [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)

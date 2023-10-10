@@ -1,3 +1,8 @@
+## 20231011
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Goodbye Youtube  and thanks for all the fish](https://infosec.pub/pictrs/image/42d55b04-1afa-4042-a2e2-2904d6ccd102.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [So wholsum 🙏🙏🙏](https://lemmy.world/pictrs/image/591019e1-aef5-4802-9b86-3f303bd018b3.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Child grooming](https://lemmy.world/pictrs/image/c7154304-a223-4f65-9978-2fd470cfb64e.jpeg)
+
 ## 20231010
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit be like](https://programming.dev/pictrs/image/a59b68a2-a870-408b-8c15-05e31f8228f7.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Microsoft published a guide on how to install Linux.](https://programming.dev/pictrs/image/4c891719-cf74-430b-9805-6760a6a0134b.png)

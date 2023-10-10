@@ -1,3 +1,8 @@
+## 20231011
+- [Lobsters](https://lobste.rs/) | [The fraud was in the code](https://lobste.rs/s/jmuflw/fraud_was_code)
+- [Lobsters](https://lobste.rs/) | [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under)
+- [Lobsters](https://lobste.rs/) | [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record)
+
 ## 20231010
 - [Lobsters](https://lobste.rs/) | [Zimaboard: the closest thing to my dream home server setup](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home)
 - [Lobsters](https://lobste.rs/) | [Organizing system configs with NixOS](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos)

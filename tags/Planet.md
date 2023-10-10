@@ -1,3 +1,12 @@
+## 20231011
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: آموزش نصب Spotify در لینوکس فدورا ۳۸](https://fedorafans.com/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%86%d8%b5%d8%a8-spotify-%d8%af%d8%b1-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d9%81%d8%af%d9%88%d8%b1%d8%a7-%db%b3%db%b8/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Experiences using Packit for a Rust executable Project](https://packit.dev/posts/experiences_with_rust)
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Divergence - A case for different upgrade approaches](https://blog.jak-linux.org/2023/10/10/a-case-for-different-upgrades/)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Chilling Effect](https://www.eyrie.org/~eagle/reviews/books/0-06-287724-0.html)
+- [Planet Debian](https://planet.debian.org/) | [Dirk Eddelbuettel: drat 0.2.4 on CRAN: Improved macOS Support, General Updates](http://dirk.eddelbuettel.com/blog/2023/10/09#drat_0.2.4)
+- [Planet GNOME](https://planet.gnome.org/) | [On CVE-2023-43641](https://blogs.gnome.org/carlosg/2023/10/10/on-cve-2023-43641/)
+- [Planet KDE](https://planet.kde.org/) | [I got laid off from work...](https://akselmo.dev/posts/i-got-laid-off/?utm_source=atom_feed)
+
 ## 20231010
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 09 October 1300 UTC](https://neuroblog.fedoraproject.org/2023/10/09/next-open-neurofedora-meeting-09-October-1300-utc.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 396 – CLAs are bad, Mkay?](https://opensourcesecurity.io/2023/10/08/episode-396-clas-are-bad-mkay/)

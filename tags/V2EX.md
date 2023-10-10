@@ -1,3 +1,8 @@
+## 20231011
+- [V2EX](https://www.v2ex.com/) | [Mac 重度使用者，升级系统是不可能升级的](https://www.v2ex.com/t/980635)
+- [V2EX](https://www.v2ex.com/) | [远程工作 200 天了，感觉还是有点迷茫。# iOS 开发](https://www.v2ex.com/t/980628)
+- [V2EX](https://www.v2ex.com/) | [买菜做饭真省钱](https://www.v2ex.com/t/980625)
+
 ## 20231010
 - [V2EX](https://www.v2ex.com/) | [股票亏损太多压力大怎么办？](https://www.v2ex.com/t/980243)
 - [V2EX](https://www.v2ex.com/) | [把你们的博客交出来](https://www.v2ex.com/t/980228)
