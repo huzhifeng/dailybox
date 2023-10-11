@@ -1,3 +1,8 @@
+## 20231012
+- [Kagi Small Web](https://kagi.com/smallweb) | [Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen](https://mlfoundations.org/talk/abbe/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Town Hall #14: Frends](https://taylor.town/town-hall-0014)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Modern communication](http://www.blue-witch.co.uk/2023_10.html#009414)
+
 ## 20231011
 - [Kagi Small Web](https://kagi.com/smallweb) | [Town Hall #14: Frends](https://taylor.town/town-hall-0014)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Apple should acquire Wolfram Research.](https://taylor.town/wolfrapple)

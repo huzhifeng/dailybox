@@ -1,3 +1,7 @@
+## 20231012
+- [Planet GNOME](https://planet.gnome.org/) | [print("Hello Planet GNOME");](https://vala.dev/blog/planet-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [How and Why to Get Verified on Mastodon](https://cassidyjames.com/blog/mastodon-verification/)
+
 ## 20231011
 - [Planet GNOME](https://planet.gnome.org/) | [On CVE-2023-43641](https://blogs.gnome.org/carlosg/2023/10/10/on-cve-2023-43641/)
 

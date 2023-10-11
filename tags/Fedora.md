@@ -1,3 +1,6 @@
+## 20231012
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Project and Slimbook Collaborate to Deliver New Fedora Slimbook Ultrabook](https://fedoramagazine.org/fedora-slimbook-available-now/)
+
 ## 20231011
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: آموزش نصب Spotify در لینوکس فدورا ۳۸](https://fedorafans.com/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%86%d8%b5%d8%a8-spotify-%d8%af%d8%b1-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d9%81%d8%af%d9%88%d8%b1%d8%a7-%db%b3%db%b8/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Experiences using Packit for a Rust executable Project](https://packit.dev/posts/experiences_with_rust)

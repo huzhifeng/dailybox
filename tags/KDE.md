@@ -1,3 +1,6 @@
+## 20231012
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2 released!](https://krita.org/en/item/krita-5-2-released/?utm_source=atom_feed)
+
 ## 20231011
 - [Planet KDE](https://planet.kde.org/) | [I got laid off from work...](https://akselmo.dev/posts/i-got-laid-off/?utm_source=atom_feed)
 

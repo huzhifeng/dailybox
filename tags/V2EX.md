@@ -1,3 +1,8 @@
+## 20231012
+- [V2EX](https://www.v2ex.com/) | [用 Linux 的朋友，有因为用 Linux 而被用 macos 的同事看不起的经历吗？](https://www.v2ex.com/t/981040)
+- [V2EX](https://www.v2ex.com/) | [我这个情况，为什么还有人愿意跟我交往](https://www.v2ex.com/t/980952)
+- [V2EX](https://www.v2ex.com/) | [相亲记录](https://www.v2ex.com/t/980929)
+
 ## 20231011
 - [V2EX](https://www.v2ex.com/) | [Mac 重度使用者，升级系统是不可能升级的](https://www.v2ex.com/t/980635)
 - [V2EX](https://www.v2ex.com/) | [远程工作 200 天了，感觉还是有点迷茫。# iOS 开发](https://www.v2ex.com/t/980628)

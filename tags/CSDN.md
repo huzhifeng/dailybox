@@ -1,3 +1,9 @@
+## 20231012
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [我国研制出首颗支持片上学习忆阻器存算一体芯片；曝微软GitHub Copilot服务亏损惨重|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133760944)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI工程化—— 如何让AI在企业多快好省的落地？](https://blog.csdn.net/m0_75058342/article/details/133681815)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【一修·包邮赠书：第七期】《MLOps工程实践：工具、技术与企业级应用》](https://blog.csdn.net/qq_40332045/article/details/133720973)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring实战 | Spring IOC不能说的秘密？](https://blog.csdn.net/superdangbo/article/details/133775504)
+
 ## 20231011
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO 称套壳 ChatGPT 者必死；马斯克称中国车企最具竞争力；Rust 1.73.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133738868)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [低代码（Low-Code）是什么？](https://blog.csdn.net/superdangbo/article/details/133681420)

@@ -1,3 +1,7 @@
+## 20231012
+- [LibHunt](https://www.libhunt.com/) | [homebrew-core](https://www.libhunt.com/r/homebrew-core)
+- [LibHunt](https://www.libhunt.com/) | [ZeroMQ](https://www.libhunt.com/r/libzmq)
+
 ## 20231011
 - [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
 - [LibHunt](https://www.libhunt.com/) | [rich-text-to-image](https://www.libhunt.com/r/rich-text-to-image)

@@ -1,3 +1,12 @@
+## 20231012
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Project and Slimbook Collaborate to Deliver New Fedora Slimbook Ultrabook](https://fedoramagazine.org/fedora-slimbook-available-now/)
+- [Planet Debian](https://planet.debian.org/) | [Iustin Pop: Not-quite-announcement: this blog is not entirely dead](https://k1024.org/posts/2023/2023-10-11-this-blog-is-not-entirely-dead/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: The PineTime](https://etbe.coker.com.au/2023/10/11/pinetime/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhone Status](https://etbe.coker.com.au/2023/10/11/pinephone-status/)
+- [Planet GNOME](https://planet.gnome.org/) | [print("Hello Planet GNOME");](https://vala.dev/blog/planet-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [How and Why to Get Verified on Mastodon](https://cassidyjames.com/blog/mastodon-verification/)
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2 released!](https://krita.org/en/item/krita-5-2-released/?utm_source=atom_feed)
+
 ## 20231011
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora fans: آموزش نصب Spotify در لینوکس فدورا ۳۸](https://fedorafans.com/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%86%d8%b5%d8%a8-spotify-%d8%af%d8%b1-%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3-%d9%81%d8%af%d9%88%d8%b1%d8%a7-%db%b3%db%b8/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Packit Team: Experiences using Packit for a Rust executable Project](https://packit.dev/posts/experiences_with_rust)

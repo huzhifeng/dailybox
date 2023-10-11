@@ -1,3 +1,22 @@
+## 20231012
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1151 VBScript 将从 Windows 中删除](https://linux.cn/article-16274-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Data Plane Development Kit (DPDK) latency in Red Hat OpenShift - Part I](https://www.redhat.com/en/blog/dpdk-latency-red-hat-openshift-1)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 (Part 1)](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part1)
+- [Phoronix](https://www.phoronix.com/) | [System76 Unveils Latest Improvements To Their Thelio Linux Computers](https://www.phoronix.com/news/System76-Thelio-October-Updates)
+- [Phoronix](https://www.phoronix.com/) | [Intel Enables FCV Optimization For Gen12.5+ Graphics On Linux To Boost Performance](https://www.phoronix.com/news/Intel-Gen12.5-FCV-Enabled)
+- [Phoronix](https://www.phoronix.com/) | [New Intel DG2/Alchemist GPU PCI IDs Posted For Their Linux Driver](https://www.phoronix.com/news/Intel-More-DG2-Linux-October-23)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Slimbook Linux Laptop Launched with 3K Display, NVIDIA RTX 3050 Ti](https://9to5linux.com/fedora-slimbook-linux-laptop-launched-3k-display-nvidia-geforce-rtx-3050-ti)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Based on Debian Bookworm, Supports Raspberry Pi 5](https://9to5linux.com/raspberry-pi-os-is-now-based-on-debian-bookworm-supports-raspberry-pi-5-and-pipewire)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Project and Slimbook Collaborate to Deliver New Fedora Slimbook Ultrabook](https://fedoramagazine.org/fedora-slimbook-available-now/)
+- [Planet Debian](https://planet.debian.org/) | [Iustin Pop: Not-quite-announcement: this blog is not entirely dead](https://k1024.org/posts/2023/2023-10-11-this-blog-is-not-entirely-dead/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: The PineTime](https://etbe.coker.com.au/2023/10/11/pinetime/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhone Status](https://etbe.coker.com.au/2023/10/11/pinephone-status/)
+- [Planet GNOME](https://planet.gnome.org/) | [print("Hello Planet GNOME");](https://vala.dev/blog/planet-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [How and Why to Get Verified on Mastodon](https://cassidyjames.com/blog/mastodon-verification/)
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2 released!](https://krita.org/en/item/krita-5-2-released/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Microsoft Gives Unexpected Tutorial on How To Install Linux](https://linux.slashdot.org/story/23/10/11/1521249/microsoft-gives-unexpected-tutorial-on-how-to-install-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231011
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1150 GNOME 开始正式放弃 X.Org 会话支持](https://linux.cn/article-16272-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How custom SELinux policies secure servers and containers](https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers)

@@ -1,3 +1,7 @@
+## 20231012
+- [9to5Linux](https://9to5linux.com/) | [Fedora Slimbook Linux Laptop Launched with 3K Display, NVIDIA RTX 3050 Ti](https://9to5linux.com/fedora-slimbook-linux-laptop-launched-3k-display-nvidia-geforce-rtx-3050-ti)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Based on Debian Bookworm, Supports Raspberry Pi 5](https://9to5linux.com/raspberry-pi-os-is-now-based-on-debian-bookworm-supports-raspberry-pi-5-and-pipewire)
+
 ## 20231010
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 8th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-8th-2023)
 - [9to5Linux](https://9to5linux.com/) | [Ardour 8.0 Open-Source DAW Released with Launchpad Pro Support, Region Grouping](https://9to5linux.com/ardour-8-0-open-source-daw-released-with-launchpad-pro-support-region-grouping)

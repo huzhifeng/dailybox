@@ -1,3 +1,6 @@
+## 20231012
+- [It's FOSS](https://itsfoss.com/) | [How to Record Your Screen with VLC [For Fun]](https://itsfoss.com/vlc-record-screen/)
+
 ## 20231011
 - [It's FOSS](https://itsfoss.com/) | [How to Add Comments in Bash Scripts](https://itsfoss.com/bash-comments/)
 

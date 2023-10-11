@@ -1,3 +1,8 @@
+## 20231012
+- [Phoronix](https://www.phoronix.com/) | [System76 Unveils Latest Improvements To Their Thelio Linux Computers](https://www.phoronix.com/news/System76-Thelio-October-Updates)
+- [Phoronix](https://www.phoronix.com/) | [Intel Enables FCV Optimization For Gen12.5+ Graphics On Linux To Boost Performance](https://www.phoronix.com/news/Intel-Gen12.5-FCV-Enabled)
+- [Phoronix](https://www.phoronix.com/) | [New Intel DG2/Alchemist GPU PCI IDs Posted For Their Linux Driver](https://www.phoronix.com/news/Intel-More-DG2-Linux-October-23)
+
 ## 20231011
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 8324P / 8324PN Siena 32-Core Siena Linux Server Performance](https://www.phoronix.com/review/epyc-8324p-siena)
 - [Phoronix](https://www.phoronix.com/) | [Intel Formally Announces The Arc Graphics A580](https://www.phoronix.com/news/Intel-Arc-Graphics-A850)

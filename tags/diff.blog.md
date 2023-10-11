@@ -1,3 +1,8 @@
+## 20231012
+- [diff.blog](https://diff.blog/) | [How I made a heap overflow in curl](https://diff.blog/post/how-i-made-a-heap-overflow-in-curl-158111/)
+- [diff.blog](https://diff.blog/) | [Security experts uneasy about European zero-day law](https://diff.blog/post/security-experts-uneasy-about-european-zero-day-law-158121/)
+- [diff.blog](https://diff.blog/) | [Is Postgres Partitioning Really That Hard? An Introduction To Hypertables](https://diff.blog/post/is-postgres-partitioning-really-that-hard-an-introduction-to-hypertables-158090/)
+
 ## 20231010
 - [diff.blog](https://diff.blog/) | [An MIR-based JIT prototype for Ruby](https://diff.blog/post/an-mir-based-jit-prototype-for-ruby-157790/)
 

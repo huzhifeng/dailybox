@@ -1,3 +1,8 @@
+## 20231012
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Data Plane Development Kit (DPDK) latency in Red Hat OpenShift - Part I](https://www.redhat.com/en/blog/dpdk-latency-red-hat-openshift-1)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 (Part 1)](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part1)
+
 ## 20231011
 - [Red Hat Developer](https://developers.redhat.com/) | [How custom SELinux policies secure servers and containers](https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to validate GitOps manifests](https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests)

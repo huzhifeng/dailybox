@@ -1,3 +1,8 @@
+## 20231012
+- [Slashdot](https://linux.slashdot.org/) | [Microsoft Gives Unexpected Tutorial on How To Install Linux](https://linux.slashdot.org/story/23/10/11/1521249/microsoft-gives-unexpected-tutorial-on-how-to-install-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Man Trains Home Cameras To Help Repel Badgers and Foxes](https://developers.slashdot.org/story/23/10/10/2324252/man-trains-home-cameras-to-help-repel-badgers-and-foxes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Microsoft Says VBScript Will Be Ripped From Windows In a Future Release](https://developers.slashdot.org/story/23/10/10/2314203/microsoft-says-vbscript-will-be-ripped-from-windows-in-a-future-release?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231009
 - [Slashdot](https://linux.slashdot.org/) | [Red Hat, Ubuntu, Debian, and Gentoo Release Patches for 'Looney Tunables' Linux Vulnerability](https://linux.slashdot.org/story/23/10/08/2133244/red-hat-ubuntu-debian-and-gentoo-release-patches-for-looney-tunables-linux-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [Greg Kroah-Hartman Chastises Critic, Says Linux Foundation Strongly Supports Kernel Developers](https://linux.slashdot.org/story/23/10/08/0131214/greg-kroah-hartman-chastises-critic-says-linux-foundation-strongly-supports-kernel-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
