@@ -1,3 +1,8 @@
+## 20231012
+- [Planet Debian](https://planet.debian.org/) | [Iustin Pop: Not-quite-announcement: this blog is not entirely dead](https://k1024.org/posts/2023/2023-10-11-this-blog-is-not-entirely-dead/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: The PineTime](https://etbe.coker.com.au/2023/10/11/pinetime/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: PinePhone Status](https://etbe.coker.com.au/2023/10/11/pinephone-status/)
+
 ## 20231011
 - [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Divergence - A case for different upgrade approaches](https://blog.jak-linux.org/2023/10/10/a-case-for-different-upgrades/)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Chilling Effect](https://www.eyrie.org/~eagle/reviews/books/0-06-287724-0.html)

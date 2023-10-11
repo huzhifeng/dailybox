@@ -1,3 +1,6 @@
+## 20231012
+- [Hacker News](https://news.ycombinator.com/front) | [Starlink Direct to Cell](https://news.ycombinator.com/item?id=37848212)
+
 ## 20231011
 - [Hacker News](https://news.ycombinator.com/front) | [The largest DDoS attack to date, peaking above 398M rps](https://news.ycombinator.com/item?id=37831062)
 

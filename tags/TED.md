@@ -1,3 +1,6 @@
+## 20231012
+- [TED Talks Daily](https://www.ted.com/talks) | [The tech we need to fight workplace ageism | Piyachart Phiromswad](https://www.ted.com/talks/piyachart_phiromswad_the_tech_we_need_to_fight_workplace_ageism?rss)
+
 ## 20231011
 - [TED Talks Daily](https://www.ted.com/talks) | [The Israel-Hamas war — and what it means for the world | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_israel_hamas_war_and_what_it_means_for_the_world?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [3 practices for a life of wisdom | Krista Tippett](https://www.ted.com/talks/krista_tippett_3_practices_for_a_life_of_wisdom?rss)

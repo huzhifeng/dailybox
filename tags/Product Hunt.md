@@ -1,3 +1,8 @@
+## 20231012
+- [Product Hunt](https://www.producthunt.com) | [NotionPlates](https://www.producthunt.com/posts/notionplates)
+- [Product Hunt](https://www.producthunt.com) | [OpenSauced](https://www.producthunt.com/posts/opensauced)
+- [Product Hunt](https://www.producthunt.com) | [Adobe Express Connector](https://www.producthunt.com/posts/adobe-express-connector)
+
 ## 20231011
 - [Product Hunt](https://www.producthunt.com) | [Uxcel for Teams](https://www.producthunt.com/posts/uxcel-for-teams)
 - [Product Hunt](https://www.producthunt.com) | [Moonvalley](https://www.producthunt.com/posts/moonvalley)

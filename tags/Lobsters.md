@@ -1,3 +1,8 @@
+## 20231012
+- [Lobsters](https://lobste.rs/) | [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer)
+- [Lobsters](https://lobste.rs/) | [Bad Emacs defaults](https://lobste.rs/s/np90nj/bad_emacs_defaults)
+- [Lobsters](https://lobste.rs/) | [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x)
+
 ## 20231011
 - [Lobsters](https://lobste.rs/) | [The fraud was in the code](https://lobste.rs/s/jmuflw/fraud_was_code)
 - [Lobsters](https://lobste.rs/) | [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under)
