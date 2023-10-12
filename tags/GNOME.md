@@ -1,3 +1,6 @@
+## 20231013
+- [Planet GNOME](https://planet.gnome.org/) | [Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+
 ## 20231012
 - [Planet GNOME](https://planet.gnome.org/) | [print("Hello Planet GNOME");](https://vala.dev/blog/planet-gnome/)
 - [Planet GNOME](https://planet.gnome.org/) | [How and Why to Get Verified on Mastodon](https://cassidyjames.com/blog/mastodon-verification/)

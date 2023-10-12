@@ -1,3 +1,6 @@
+## 20231013
+- [LibHunt](https://www.libhunt.com/) | [sbts-aru](https://www.libhunt.com/r/sbts-aru)
+
 ## 20231012
 - [LibHunt](https://www.libhunt.com/) | [homebrew-core](https://www.libhunt.com/r/homebrew-core)
 - [LibHunt](https://www.libhunt.com/) | [ZeroMQ](https://www.libhunt.com/r/libzmq)

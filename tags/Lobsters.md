@@ -1,3 +1,8 @@
+## 20231013
+- [Lobsters](https://lobste.rs/) | [Using Prolog as the AST](https://lobste.rs/s/rz8thl/using_prolog_as_ast)
+- [Lobsters](https://lobste.rs/) | [Learn to use email with git](https://lobste.rs/s/fubpta/learn_use_email_with_git)
+- [Lobsters](https://lobste.rs/) | [How to download and install Linux](https://lobste.rs/s/soz0c1/how_download_install_linux)
+
 ## 20231012
 - [Lobsters](https://lobste.rs/) | [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer)
 - [Lobsters](https://lobste.rs/) | [Bad Emacs defaults](https://lobste.rs/s/np90nj/bad_emacs_defaults)

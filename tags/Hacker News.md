@@ -1,3 +1,7 @@
+## 20231013
+- [Hacker News](https://news.ycombinator.com/front) | [The Twelve-Factor App (2011)](https://news.ycombinator.com/item?id=37857544)
+- [Hacker News](https://news.ycombinator.com/front) | [Introduction to Modern Statistics](https://news.ycombinator.com/item?id=37854846)
+
 ## 20231012
 - [Hacker News](https://news.ycombinator.com/front) | [Starlink Direct to Cell](https://news.ycombinator.com/item?id=37848212)
 

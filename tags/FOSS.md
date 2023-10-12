@@ -1,3 +1,6 @@
+## 20231013
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.41: Wayland Only GNOME, Ubuntu 23.10, VLC Tip and More](https://itsfoss.com/newsletter/foss-weekly-23-41/)
+
 ## 20231012
 - [It's FOSS](https://itsfoss.com/) | [How to Record Your Screen with VLC [For Fun]](https://itsfoss.com/vlc-record-screen/)
 

@@ -1,3 +1,7 @@
+## 20231013
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2023-10: contribute; parallelize; compatibility;](https://peter.czanik.hu/other/syslog-ng-insider-2023-10-controbute-parallelize-compatibility/)
+
 ## 20231012
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Project and Slimbook Collaborate to Deliver New Fedora Slimbook Ultrabook](https://fedoramagazine.org/fedora-slimbook-available-now/)
 

@@ -1,3 +1,8 @@
+## 20231013
+- [Planet KDE](https://planet.kde.org/) | [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.2](https://kde.org/announcements/gear/23.08.2/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Porting Codevis to KDE](https://tcanabrava.github.io/porting-codevis-to-kde/?utm_source=atom_feed)
+
 ## 20231012
 - [Planet KDE](https://planet.kde.org/) | [Krita 5.2 released!](https://krita.org/en/item/krita-5-2-released/?utm_source=atom_feed)
 
