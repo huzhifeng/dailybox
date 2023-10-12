@@ -1,3 +1,8 @@
+## 20231013
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Installing Debian on the BananaPi M2 Zero](https://www.earth.li/~noodles/blog/2023/10/debian-on-bpi-m2-zero.html)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in September 2023](https://reproducible-builds.org/reports/2023-09/)
+
 ## 20231012
 - [Planet Debian](https://planet.debian.org/) | [Iustin Pop: Not-quite-announcement: this blog is not entirely dead](https://k1024.org/posts/2023/2023-10-11-this-blog-is-not-entirely-dead/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: The PineTime](https://etbe.coker.com.au/2023/10/11/pinetime/)

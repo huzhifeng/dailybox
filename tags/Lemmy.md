@@ -1,3 +1,8 @@
+## 20231013
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Defederation from Lemmygrad.ml](https://lemmy.world/post/6709939)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [me_irl](https://lemmy.ml/pictrs/image/b6923783-9892-448a-be7e-a4c1b5fb02e7.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [When the pizza party is too expensive, you go with the EncourageMint](https://lemmy.ca/pictrs/image/6936d649-6065-4371-bdad-c849389b763e.png)
+
 ## 20231011
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Goodbye Youtube  and thanks for all the fish](https://infosec.pub/pictrs/image/42d55b04-1afa-4042-a2e2-2904d6ccd102.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [So wholsum 🙏🙏🙏](https://lemmy.world/pictrs/image/591019e1-aef5-4802-9b86-3f303bd018b3.jpeg)

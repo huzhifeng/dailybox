@@ -1,3 +1,6 @@
+## 20231013
+- [Collabora](https://www.collabora.com/news-and-blog/) | [X.Org Developer's Conference 2023](https://www.collabora.com/news-and-blog/news-and-events/xorg-developers-conference-2023.html)
+
 ## 20231003
 - [Collabora](https://www.collabora.com/news-and-blog/) | [A roadmap for VirtIO Video on ChromeOS: part 2](https://www.collabora.com/news-and-blog/blog/2023/10/02/a-roadmap-for-virtio-video-on-chromeos-part-2/)
 

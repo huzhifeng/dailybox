@@ -1,3 +1,8 @@
+## 20231013
+- [V2EX](https://www.v2ex.com/) | [[不懂就问] 我有 100 克的大米，如果想煮大米粥，我需要向电饭煲里加多少克的水？](https://www.v2ex.com/t/981333)
+- [V2EX](https://www.v2ex.com/) | [你们用哪家服务作为个人公开邮箱？](https://www.v2ex.com/t/981256)
+- [V2EX](https://www.v2ex.com/) | [微信原生支持鸿蒙](https://www.v2ex.com/t/981233)
+
 ## 20231012
 - [V2EX](https://www.v2ex.com/) | [用 Linux 的朋友，有因为用 Linux 而被用 macos 的同事看不起的经历吗？](https://www.v2ex.com/t/981040)
 - [V2EX](https://www.v2ex.com/) | [我这个情况，为什么还有人愿意跟我交往](https://www.v2ex.com/t/980952)

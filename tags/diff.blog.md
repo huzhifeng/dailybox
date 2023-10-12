@@ -1,3 +1,6 @@
+## 20231013
+- [diff.blog](https://diff.blog/) | [This Week in Rust 516](https://diff.blog/post/this-week-in-rust-516-158165/)
+
 ## 20231012
 - [diff.blog](https://diff.blog/) | [How I made a heap overflow in curl](https://diff.blog/post/how-i-made-a-heap-overflow-in-curl-158111/)
 - [diff.blog](https://diff.blog/) | [Security experts uneasy about European zero-day law](https://diff.blog/post/security-experts-uneasy-about-european-zero-day-law-158121/)

@@ -1,3 +1,8 @@
+## 20231013
+- [Product Hunt](https://www.producthunt.com) | [Mentor.AI](https://www.producthunt.com/posts/mentor-ai)
+- [Product Hunt](https://www.producthunt.com) | [Skylead 3.0](https://www.producthunt.com/posts/skylead-3-0)
+- [Product Hunt](https://www.producthunt.com) | [Nudge 2.0](https://www.producthunt.com/posts/nudge-2-0)
+
 ## 20231012
 - [Product Hunt](https://www.producthunt.com) | [NotionPlates](https://www.producthunt.com/posts/notionplates)
 - [Product Hunt](https://www.producthunt.com) | [OpenSauced](https://www.producthunt.com/posts/opensauced)

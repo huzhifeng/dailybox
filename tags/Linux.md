@@ -1,3 +1,23 @@
+## 20231013
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1152 震惊！微软发布了一份如何安装 Linux 的教程](https://linux.cn/article-16277-1.html?utm_source=rss&utm_medium=rss)
+- [Collabora](https://www.collabora.com/news-and-blog/) | [X.Org Developer's Conference 2023](https://www.collabora.com/news-and-blog/news-and-events/xorg-developers-conference-2023.html)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max Enjoying Some Performance Gains With Linux 6.6](https://www.phoronix.com/review/xeon-max-linux-66)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Now Available With ZFS Desktop Install Option, Linux 6.5 Kernel](https://www.phoronix.com/news/Ubuntu-23.10-Released)
+- [Phoronix](https://www.phoronix.com/) | [Higher Quality AV1 Video Encoding Now Available For Radeon Graphics On Linux](https://www.phoronix.com/news/Mesa-23.3-HQ-AV1-Radeon)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Officially Released with Linux 6.5 and GNOME 45](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-officially-released-with-linux-6-5-and-gnome-45)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-23-10-official-flavors-are-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.2 Released with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-2-released-with-more-fixes-for-your-favorite-kde-apps)
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2023-10: contribute; parallelize; compatibility;](https://peter.czanik.hu/other/syslog-ng-insider-2023-10-controbute-parallelize-compatibility/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Installing Debian on the BananaPi M2 Zero](https://www.earth.li/~noodles/blog/2023/10/debian-on-bpi-m2-zero.html)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in September 2023](https://reproducible-builds.org/reports/2023-09/)
+- [Planet GNOME](https://planet.gnome.org/) | [Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet KDE](https://planet.kde.org/) | [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.2](https://kde.org/announcements/gear/23.08.2/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Porting Codevis to KDE](https://tcanabrava.github.io/porting-codevis-to-kde/?utm_source=atom_feed)
+
 ## 20231012
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1151 VBScript 将从 Windows 中删除](https://linux.cn/article-16274-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)

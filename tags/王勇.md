@@ -1,3 +1,6 @@
+## 20231013
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [lsp-bridge 远程代码补全](https://manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/)
+
 ## 20230930
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [也许是 Emacs 下最好的终端模拟器](https://manateelazycat.github.io/2023/09/29/intro-eaf-pyqterminal/)
 

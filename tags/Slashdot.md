@@ -1,3 +1,6 @@
+## 20231013
+- [Slashdot](https://developers.slashdot.org/) | [FTX Used Python Code To Fake Its Insurance Fund Figure](https://developers.slashdot.org/story/23/10/11/2139242/ftx-used-python-code-to-fake-its-insurance-fund-figure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231012
 - [Slashdot](https://linux.slashdot.org/) | [Microsoft Gives Unexpected Tutorial on How To Install Linux](https://linux.slashdot.org/story/23/10/11/1521249/microsoft-gives-unexpected-tutorial-on-how-to-install-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Man Trains Home Cameras To Help Repel Badgers and Foxes](https://developers.slashdot.org/story/23/10/10/2324252/man-trains-home-cameras-to-help-repel-badgers-and-foxes?utm_source=rss1.0mainlinkanon&utm_medium=feed)

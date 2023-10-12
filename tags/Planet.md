@@ -1,3 +1,15 @@
+## 20231013
+- [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2023-10: contribute; parallelize; compatibility;](https://peter.czanik.hu/other/syslog-ng-insider-2023-10-controbute-parallelize-compatibility/)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan McDowell: Installing Debian on the BananaPi M2 Zero](https://www.earth.li/~noodles/blog/2023/10/debian-on-bpi-m2-zero.html)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in September 2023](https://reproducible-builds.org/reports/2023-09/)
+- [Planet GNOME](https://planet.gnome.org/) | [Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
+- [Planet KDE](https://planet.kde.org/) | [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.2](https://kde.org/announcements/gear/23.08.2/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Porting Codevis to KDE](https://tcanabrava.github.io/porting-codevis-to-kde/?utm_source=atom_feed)
+
 ## 20231012
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Fedora Project and Slimbook Collaborate to Deliver New Fedora Slimbook Ultrabook](https://fedoramagazine.org/fedora-slimbook-available-now/)
 - [Planet Debian](https://planet.debian.org/) | [Iustin Pop: Not-quite-announcement: this blog is not entirely dead](https://k1024.org/posts/2023/2023-10-11-this-blog-is-not-entirely-dead/)

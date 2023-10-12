@@ -1,3 +1,8 @@
+## 20231013
+- [Kagi Small Web](https://kagi.com/smallweb) | [Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen](https://mlfoundations.org/talk/abbe/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Zero motivation](https://refarmer.ca/2023/10/12/zero-motivation/)
+
 ## 20231012
 - [Kagi Small Web](https://kagi.com/smallweb) | [Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen](https://mlfoundations.org/talk/abbe/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Town Hall #14: Frends](https://taylor.town/town-hall-0014)

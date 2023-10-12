@@ -1,3 +1,8 @@
+## 20231013
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max Enjoying Some Performance Gains With Linux 6.6](https://www.phoronix.com/review/xeon-max-linux-66)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Now Available With ZFS Desktop Install Option, Linux 6.5 Kernel](https://www.phoronix.com/news/Ubuntu-23.10-Released)
+- [Phoronix](https://www.phoronix.com/) | [Higher Quality AV1 Video Encoding Now Available For Radeon Graphics On Linux](https://www.phoronix.com/news/Mesa-23.3-HQ-AV1-Radeon)
+
 ## 20231012
 - [Phoronix](https://www.phoronix.com/) | [System76 Unveils Latest Improvements To Their Thelio Linux Computers](https://www.phoronix.com/news/System76-Thelio-October-Updates)
 - [Phoronix](https://www.phoronix.com/) | [Intel Enables FCV Optimization For Gen12.5+ Graphics On Linux To Boost Performance](https://www.phoronix.com/news/Intel-Gen12.5-FCV-Enabled)

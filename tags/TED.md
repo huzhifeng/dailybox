@@ -1,3 +1,6 @@
+## 20231013
+- [TED Talks Daily](https://www.ted.com/talks) | [We actually have a shot at stopping the climate crisis | Asmeret Asefaw Berhe](https://www.ted.com/talks/asmeret_asefaw_berhe_we_actually_have_a_shot_at_stopping_the_climate_crisis?rss)
+
 ## 20231012
 - [TED Talks Daily](https://www.ted.com/talks) | [The tech we need to fight workplace ageism | Piyachart Phiromswad](https://www.ted.com/talks/piyachart_phiromswad_the_tech_we_need_to_fight_workplace_ageism?rss)
 

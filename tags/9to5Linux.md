@@ -1,3 +1,8 @@
+## 20231013
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Officially Released with Linux 6.5 and GNOME 45](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-officially-released-with-linux-6-5-and-gnome-45)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-23-10-official-flavors-are-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.2 Released with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-2-released-with-more-fixes-for-your-favorite-kde-apps)
+
 ## 20231012
 - [9to5Linux](https://9to5linux.com/) | [Fedora Slimbook Linux Laptop Launched with 3K Display, NVIDIA RTX 3050 Ti](https://9to5linux.com/fedora-slimbook-linux-laptop-launched-3k-display-nvidia-geforce-rtx-3050-ti)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Based on Debian Bookworm, Supports Raspberry Pi 5](https://9to5linux.com/raspberry-pi-os-is-now-based-on-debian-bookworm-supports-raspberry-pi-5-and-pipewire)

@@ -1,3 +1,8 @@
+## 20231013
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—kube-router](https://blog.csdn.net/weixin_36755535/article/details/133679208)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI工程化—— 如何让AI在企业多快好省的落地？](https://blog.csdn.net/m0_75058342/article/details/133681815)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Spring实战 | Spring IOC不能说的秘密？](https://blog.csdn.net/superdangbo/article/details/133775504)
+
 ## 20231012
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [我国研制出首颗支持片上学习忆阻器存算一体芯片；曝微软GitHub Copilot服务亏损惨重|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133760944)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI工程化—— 如何让AI在企业多快好省的落地？](https://blog.csdn.net/m0_75058342/article/details/133681815)
