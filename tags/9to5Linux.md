@@ -1,3 +1,6 @@
+## 20231014
+- [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.2 Released with Linux 6.5 Support, Block Cloning, and More](https://9to5linux.com/openzfs-2-2-released-with-linux-6-5-support-block-cloning-and-more)
+
 ## 20231013
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 (Mantic Minotaur) Officially Released with Linux 6.5 and GNOME 45](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-officially-released-with-linux-6-5-and-gnome-45)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-23-10-official-flavors-are-now-available-for-download-heres-whats-new)

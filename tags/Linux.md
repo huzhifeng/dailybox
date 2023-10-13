@@ -1,3 +1,22 @@
+## 20231014
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1153 Ubuntu 桌面 23.10 ISO 因用户恶意翻译而被召回](https://linux.cn/article-16280-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2 Released With Block Cloning, Linux Container Support & Better Performance](https://www.phoronix.com/news/OpenZFS-2.2-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux Looks Toward Dropping Very Old WiFi Drivers](https://www.phoronix.com/news/2023-Linux-Drop-Old-WiFi)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics See Faster Performance On Ubuntu 23.10](https://www.phoronix.com/review/arc-graphics-ubuntu-2310)
+- [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.2 Released with Linux 6.5 Support, Block Cloning, and More](https://9to5linux.com/openzfs-2-2-released-with-linux-6-5-support-block-cloning-and-more)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: LPC 2023 Schedule is now posted!](https://lpc.events/blog/current/index.php/2023/10/13/lpc-2023-schedule-is-now-posted/)
+- [Planet Fedora](http://fedoraplanet.org/) | [David Cantrell: rpminspect-1.12.1 released](https://www.burdell.org/posts/2023/Oct/13/rpminspect-1121-released/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Stephen Gallagher: Sausage Factory: Fedora ELN Rebuild Strategy](https://sgallagh.wordpress.com/2023/10/13/sausage-factory-fedora-eln-rebuild-strategy/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Q3 Firefox Linux update](https://mastransky.wordpress.com/2023/10/13/q3-firefox-linux-update/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 251 released](https://diffoscope.org/news/diffoscope-251-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [F10 for accessibility in KF6!](https://wordsmith.social/felix-ernst/f10-for-accessibility-in-kf6?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu 23.10 Is a Minotaur That Moves Faster and Takes Up Less Space](https://news.slashdot.org/story/23/10/13/1437245/ubuntu-2310-is-a-minotaur-that-moves-faster-and-takes-up-less-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231013
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1152 震惊！微软发布了一份如何安装 Linux 的教程](https://linux.cn/article-16277-1.html?utm_source=rss&utm_medium=rss)
 - [Collabora](https://www.collabora.com/news-and-blog/) | [X.Org Developer's Conference 2023](https://www.collabora.com/news-and-blog/news-and-events/xorg-developers-conference-2023.html)

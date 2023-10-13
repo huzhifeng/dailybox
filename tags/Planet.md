@@ -1,3 +1,15 @@
+## 20231014
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: LPC 2023 Schedule is now posted!](https://lpc.events/blog/current/index.php/2023/10/13/lpc-2023-schedule-is-now-posted/)
+- [Planet Fedora](http://fedoraplanet.org/) | [David Cantrell: rpminspect-1.12.1 released](https://www.burdell.org/posts/2023/Oct/13/rpminspect-1121-released/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Stephen Gallagher: Sausage Factory: Fedora ELN Rebuild Strategy](https://sgallagh.wordpress.com/2023/10/13/sausage-factory-fedora-eln-rebuild-strategy/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Q3 Firefox Linux update](https://mastransky.wordpress.com/2023/10/13/q3-firefox-linux-update/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 251 released](https://diffoscope.org/news/diffoscope-251-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [F10 for accessibility in KF6!](https://wordsmith.social/felix-ernst/f10-for-accessibility-in-kf6?utm_source=atom_feed)
+
 ## 20231013
 - [Planet Kernel](https://planet.kernel.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)

@@ -1,3 +1,8 @@
+## 20231014
+- [Kagi Small Web](https://kagi.com/smallweb) | [Trellis bed progress, and the last potatoes are in](https://refarmer.ca/2023/10/13/trellis-bed-progress-and-the-last-potatoes-are-in/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Folk Art from Mary Shelley](https://putah-creek.tumblr.com/post/731090482921390080)
+- [Kagi Small Web](https://kagi.com/smallweb) | [[Paper] All's Fair In Love And Love: Copy Suppression in GPT-2 Small](https://www.lesswrong.com/posts/ebezsHW6qJwxTFasX/paper-all-s-fair-in-love-and-love-copy-suppression-in-gpt-2)
+
 ## 20231013
 - [Kagi Small Web](https://kagi.com/smallweb) | [Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen](https://mlfoundations.org/talk/abbe/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)

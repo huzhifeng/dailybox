@@ -1,3 +1,6 @@
+## 20231014
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu 23.10 Is a Minotaur That Moves Faster and Takes Up Less Space](https://news.slashdot.org/story/23/10/13/1437245/ubuntu-2310-is-a-minotaur-that-moves-faster-and-takes-up-less-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231013
 - [Slashdot](https://developers.slashdot.org/) | [FTX Used Python Code To Fake Its Insurance Fund Figure](https://developers.slashdot.org/story/23/10/11/2139242/ftx-used-python-code-to-fake-its-insurance-fund-figure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

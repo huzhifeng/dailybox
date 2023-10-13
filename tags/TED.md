@@ -1,3 +1,7 @@
+## 20231014
+- [TED Talks Daily](https://www.ted.com/talks) | [Lessons from my father, Alexey Navalny | Dasha Navalnaya](https://www.ted.com/talks/dasha_navalnaya_lessons_from_my_father_alexey_navalny?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | ["Miles from Any Shoreline" | Sarah Kay](https://www.ted.com/talks/sarah_kay_miles_from_any_shoreline?rss)
+
 ## 20231013
 - [TED Talks Daily](https://www.ted.com/talks) | [We actually have a shot at stopping the climate crisis | Asmeret Asefaw Berhe](https://www.ted.com/talks/asmeret_asefaw_berhe_we_actually_have_a_shot_at_stopping_the_climate_crisis?rss)
 

@@ -1,3 +1,6 @@
+## 20231014
+- [商业WHY酱](https://msbussinesswhy.fireside.fm/) | [S3E11｜with 王怀南：如何用AI大模型获得一个数字祖宗](https://msbussinesswhy.fireside.fm/33)
+
 ## 20230919
 - [商业WHY酱](https://msbussinesswhy.fireside.fm/) | [S3E10｜小米搞长期科技投资，认真的吗？](https://msbussinesswhy.fireside.fm/32)
 
