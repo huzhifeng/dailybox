@@ -1,3 +1,8 @@
+## 20231014
+- [Planet Fedora](http://fedoraplanet.org/) | [David Cantrell: rpminspect-1.12.1 released](https://www.burdell.org/posts/2023/Oct/13/rpminspect-1121-released/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Stephen Gallagher: Sausage Factory: Fedora ELN Rebuild Strategy](https://sgallagh.wordpress.com/2023/10/13/sausage-factory-fedora-eln-rebuild-strategy/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Martin Stransky: Q3 Firefox Linux update](https://mastransky.wordpress.com/2023/10/13/q3-firefox-linux-update/)
+
 ## 20231013
 - [Planet Fedora](http://fedoraplanet.org/) | [Matthew Garrett: Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2023-10: contribute; parallelize; compatibility;](https://peter.czanik.hu/other/syslog-ng-insider-2023-10-controbute-parallelize-compatibility/)

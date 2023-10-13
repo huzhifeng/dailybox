@@ -1,3 +1,8 @@
+## 20231014
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2 Released With Block Cloning, Linux Container Support & Better Performance](https://www.phoronix.com/news/OpenZFS-2.2-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux Looks Toward Dropping Very Old WiFi Drivers](https://www.phoronix.com/news/2023-Linux-Drop-Old-WiFi)
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics See Faster Performance On Ubuntu 23.10](https://www.phoronix.com/review/arc-graphics-ubuntu-2310)
+
 ## 20231013
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max Enjoying Some Performance Gains With Linux 6.6](https://www.phoronix.com/review/xeon-max-linux-66)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Now Available With ZFS Desktop Install Option, Linux 6.5 Kernel](https://www.phoronix.com/news/Ubuntu-23.10-Released)

@@ -1,3 +1,8 @@
+## 20231014
+- [V2EX](https://www.v2ex.com/) | [今天终于发现手腕疼的原因，估计这个习惯大多数人都有](https://www.v2ex.com/t/981769)
+- [V2EX](https://www.v2ex.com/) | [把自己新的个人博客前端写完了](https://www.v2ex.com/t/981655)
+- [V2EX](https://www.v2ex.com/) | [深圳快 35 的程序员，何去何从？](https://www.v2ex.com/t/981617)
+
 ## 20231013
 - [V2EX](https://www.v2ex.com/) | [[不懂就问] 我有 100 克的大米，如果想煮大米粥，我需要向电饭煲里加多少克的水？](https://www.v2ex.com/t/981333)
 - [V2EX](https://www.v2ex.com/) | [你们用哪家服务作为个人公开邮箱？](https://www.v2ex.com/t/981256)

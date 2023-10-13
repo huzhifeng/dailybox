@@ -1,3 +1,8 @@
+## 20231014
+- [Lobsters](https://lobste.rs/) | [Organizing multiple Git identities](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities)
+- [Lobsters](https://lobste.rs/) | [Scrollbars are becoming a problem](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem)
+- [Lobsters](https://lobste.rs/) | [Microsoft consumes Activision; and a plea](https://lobste.rs/s/ihfbuv/microsoft_consumes_activision_plea)
+
 ## 20231013
 - [Lobsters](https://lobste.rs/) | [Using Prolog as the AST](https://lobste.rs/s/rz8thl/using_prolog_as_ast)
 - [Lobsters](https://lobste.rs/) | [Learn to use email with git](https://lobste.rs/s/fubpta/learn_use_email_with_git)

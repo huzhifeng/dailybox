@@ -1,3 +1,8 @@
+## 20231014
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Introducing LW Emoji Contest!](https://lemmy.world/post/6740849)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It's just that easy.](https://lemmy.world/pictrs/image/df54053c-cb71-4d81-85f9-593e5873b40a.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Wet wipe.](https://feddit.uk/pictrs/image/6a77f0d6-7f6c-42d3-9601-0930cf0f118d.jpeg)
+
 ## 20231013
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Defederation from Lemmygrad.ml](https://lemmy.world/post/6709939)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [me_irl](https://lemmy.ml/pictrs/image/b6923783-9892-448a-be7e-a4c1b5fb02e7.jpeg)

@@ -1,3 +1,8 @@
+## 20231014
+- [LibHunt](https://www.libhunt.com/) | [ubuntu-desktop-provision](https://www.libhunt.com/r/ubuntu-desktop-provision)
+- [LibHunt](https://www.libhunt.com/) | [solara](https://www.libhunt.com/r/solara)
+- [LibHunt](https://www.libhunt.com/) | [nebula](https://www.libhunt.com/r/berylliumsec/nebula)
+
 ## 20231013
 - [LibHunt](https://www.libhunt.com/) | [sbts-aru](https://www.libhunt.com/r/sbts-aru)
 

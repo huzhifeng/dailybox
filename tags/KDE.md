@@ -1,3 +1,8 @@
+## 20231014
+- [Planet KDE](https://planet.kde.org/) | [KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [F10 for accessibility in KF6!](https://wordsmith.social/felix-ernst/f10-for-accessibility-in-kf6?utm_source=atom_feed)
+
 ## 20231013
 - [Planet KDE](https://planet.kde.org/) | [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.2](https://kde.org/announcements/gear/23.08.2/?utm_source=atom_feed)

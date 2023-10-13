@@ -1,3 +1,8 @@
+## 20231014
+- [Product Hunt](https://www.producthunt.com) | [Distillery](https://www.producthunt.com/posts/distillery)
+- [Product Hunt](https://www.producthunt.com) | [The LinkedIn Inbound Playbook](https://www.producthunt.com/posts/the-linkedin-inbound-playbook)
+- [Product Hunt](https://www.producthunt.com) | [Rewardable](https://www.producthunt.com/posts/rewardable)
+
 ## 20231013
 - [Product Hunt](https://www.producthunt.com) | [Mentor.AI](https://www.producthunt.com/posts/mentor-ai)
 - [Product Hunt](https://www.producthunt.com) | [Skylead 3.0](https://www.producthunt.com/posts/skylead-3-0)

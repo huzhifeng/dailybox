@@ -1,3 +1,7 @@
+## 20231014
+- [Planet GNOME](https://planet.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+
 ## 20231013
 - [Planet GNOME](https://planet.gnome.org/) | [Defending abuse does not defend free software](https://mjg59.dreamwidth.org/68004.html)
 

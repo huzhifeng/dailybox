@@ -1,3 +1,6 @@
+## 20231014
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
+
 ## 20231007
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#116 Fragmented Files](https://thisweek.gnome.org/posts/2023/10/twig-116/)
 
