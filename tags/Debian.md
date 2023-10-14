@@ -1,3 +1,6 @@
+## 20231015
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Kochi - Wayanad Trip in August-September 2023](https://ravidwivedi.in/posts/kochi-wayanad-trip-aug-sep-2023/)
+
 ## 20231014
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 251 released](https://diffoscope.org/news/diffoscope-251-released/)

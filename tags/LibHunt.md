@@ -1,3 +1,7 @@
+## 20231015
+- [LibHunt](https://www.libhunt.com/) | [postgres](https://www.libhunt.com/r/porsager/postgres)
+- [LibHunt](https://www.libhunt.com/) | [Prisma](https://www.libhunt.com/r/prisma)
+
 ## 20231014
 - [LibHunt](https://www.libhunt.com/) | [ubuntu-desktop-provision](https://www.libhunt.com/r/ubuntu-desktop-provision)
 - [LibHunt](https://www.libhunt.com/) | [solara](https://www.libhunt.com/r/solara)

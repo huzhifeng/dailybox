@@ -1,3 +1,8 @@
+## 20231015
+- [V2EX](https://www.v2ex.com/) | [努力真的可以改变命运吗](https://www.v2ex.com/t/982033)
+- [V2EX](https://www.v2ex.com/) | [国外公司上班要打卡吗？](https://www.v2ex.com/t/981970)
+- [V2EX](https://www.v2ex.com/) | [房子&女友&人&利益](https://www.v2ex.com/t/981950)
+
 ## 20231014
 - [V2EX](https://www.v2ex.com/) | [今天终于发现手腕疼的原因，估计这个习惯大多数人都有](https://www.v2ex.com/t/981769)
 - [V2EX](https://www.v2ex.com/) | [把自己新的个人博客前端写完了](https://www.v2ex.com/t/981655)

@@ -1,3 +1,8 @@
+## 20231015
+- [Product Hunt](https://www.producthunt.com) | [Bababot](https://www.producthunt.com/posts/bababot)
+- [Product Hunt](https://www.producthunt.com) | [Ryan AI](https://www.producthunt.com/posts/ryan-ai)
+- [Product Hunt](https://www.producthunt.com) | [WeAreHiring.AI](https://www.producthunt.com/posts/wearehiring-ai)
+
 ## 20231014
 - [Product Hunt](https://www.producthunt.com) | [Distillery](https://www.producthunt.com/posts/distillery)
 - [Product Hunt](https://www.producthunt.com) | [The LinkedIn Inbound Playbook](https://www.producthunt.com/posts/the-linkedin-inbound-playbook)

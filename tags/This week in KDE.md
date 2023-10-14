@@ -1,3 +1,6 @@
+## 20231015
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/)
+
 ## 20231008
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: re-organized System Settings](https://pointieststick.com/2023/10/06/this-week-in-kde-re-organized-system-settings/)
 

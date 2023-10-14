@@ -1,3 +1,6 @@
+## 20231015
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s October 2023 ISO Release Brings Linux 6.5, Installer Improvements](https://9to5linux.com/arch-linuxs-october-2023-iso-release-brings-linux-6-5-installer-improvements)
+
 ## 20231014
 - [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.2 Released with Linux 6.5 Support, Block Cloning, and More](https://9to5linux.com/openzfs-2-2-released-with-linux-6-5-support-block-cloning-and-more)
 

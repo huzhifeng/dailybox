@@ -1,3 +1,16 @@
+## 20231015
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1154 谷歌正在测试在其主页充满新闻链接](https://linux.cn/article-16283-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Mesa Merges Initial OpenGL/Vulkan Support For Raspberry Pi 5's GPU](https://www.phoronix.com/news/Mesa-RPi-5-VideoCore-7.1.x)
+- [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Lands ASTC LDR Emulation For Latest GPUs](https://www.phoronix.com/news/Intel-ANV-ASTC-LDR-Emulation)
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases ROCm 5.7.1 With rocBLAS-GEMM-Tune & Bug Fixes](https://www.phoronix.com/news/AMD-ROCm-5.7.1)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s October 2023 ISO Release Brings Linux 6.5, Installer Improvements](https://9to5linux.com/arch-linuxs-october-2023-iso-release-brings-linux-6-5-installer-improvements)
+- [Planet Fedora](http://fedoraplanet.org/) | [Tomas Tomecek: How I became obsolete](https://blog.tomecek.net/post/how-i-became-obsolete/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/13/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Kochi - Wayanad Trip in August-September 2023](https://ravidwivedi.in/posts/kochi-wayanad-trip-aug-sep-2023/)
+- [Planet KDE](https://planet.kde.org/) | [KNotifications on Android 13](https://www.volkerkrause.eu/2023/10/14/kde-knotification-android-13.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/)
+
 ## 20231014
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1153 Ubuntu 桌面 23.10 ISO 因用户恶意翻译而被召回](https://linux.cn/article-16280-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2 Released With Block Cloning, Linux Container Support & Better Performance](https://www.phoronix.com/news/OpenZFS-2.2-Released)

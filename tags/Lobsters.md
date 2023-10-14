@@ -1,3 +1,8 @@
+## 20231015
+- [Lobsters](https://lobste.rs/) | [Learn Wayland by writing a GUI from scratch](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch)
+- [Lobsters](https://lobste.rs/) | [Multi-modal prompt injection image attacks against GPT-4V](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image)
+- [Lobsters](https://lobste.rs/) | [We Were Wrong About the GPLs](https://lobste.rs/s/rmhnw9/we_were_wrong_about_gpls)
+
 ## 20231014
 - [Lobsters](https://lobste.rs/) | [Organizing multiple Git identities](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities)
 - [Lobsters](https://lobste.rs/) | [Scrollbars are becoming a problem](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem)

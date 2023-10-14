@@ -1,3 +1,8 @@
+## 20231015
+- [Hacker News](https://news.ycombinator.com/front) | [Anything longer ago than yesterday should just say the actual date](https://news.ycombinator.com/item?id=37880818)
+- [Hacker News](https://news.ycombinator.com/front) | [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://news.ycombinator.com/item?id=37880635)
+- [Hacker News](https://news.ycombinator.com/front) | [ChatGPT’s system prompts](https://news.ycombinator.com/item?id=37879077)
+
 ## 20231013
 - [Hacker News](https://news.ycombinator.com/front) | [The Twelve-Factor App (2011)](https://news.ycombinator.com/item?id=37857544)
 - [Hacker News](https://news.ycombinator.com/front) | [Introduction to Modern Statistics](https://news.ycombinator.com/item?id=37854846)
