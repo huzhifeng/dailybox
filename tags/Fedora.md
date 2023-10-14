@@ -1,3 +1,7 @@
+## 20231015
+- [Planet Fedora](http://fedoraplanet.org/) | [Tomas Tomecek: How I became obsolete](https://blog.tomecek.net/post/how-i-became-obsolete/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/13/finished-reading-the.html)
+
 ## 20231014
 - [Planet Fedora](http://fedoraplanet.org/) | [David Cantrell: rpminspect-1.12.1 released](https://www.burdell.org/posts/2023/Oct/13/rpminspect-1121-released/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Stephen Gallagher: Sausage Factory: Fedora ELN Rebuild Strategy](https://sgallagh.wordpress.com/2023/10/13/sausage-factory-fedora-eln-rebuild-strategy/)

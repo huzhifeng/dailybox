@@ -1,3 +1,8 @@
+## 20231015
+- [Planet KDE](https://planet.kde.org/) | [KNotifications on Android 13](https://www.volkerkrause.eu/2023/10/14/kde-knotification-android-13.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/)
+
 ## 20231014
 - [Planet KDE](https://planet.kde.org/) | [KDE: Snaps move, KDE neon unstable broken OMG! Fixed, and Debian updates](https://www.scarlettgatelymoore.dev/kde-snaps-move-kde-neon-unstable-broken-omg-fixed-and-debian-updates/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/?utm_source=atom_feed)

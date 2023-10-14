@@ -1,3 +1,8 @@
+## 20231015
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Every Day Is Like This](https://suppo.fi/pictrs/image/d89325e2-51a2-47fa-af32-55fea4302f94.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unbelievable](https://suppo.fi/pictrs/image/047a640d-884e-4479-9025-ebb4a0728a6c.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Think deep](https://kerala.party/pictrs/image/509a9e7e-0192-4e3f-911b-e46dab9b76a9.jpeg)
+
 ## 20231014
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Introducing LW Emoji Contest!](https://lemmy.world/post/6740849)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It's just that easy.](https://lemmy.world/pictrs/image/df54053c-cb71-4d81-85f9-593e5873b40a.png)

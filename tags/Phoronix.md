@@ -1,3 +1,8 @@
+## 20231015
+- [Phoronix](https://www.phoronix.com/) | [Mesa Merges Initial OpenGL/Vulkan Support For Raspberry Pi 5's GPU](https://www.phoronix.com/news/Mesa-RPi-5-VideoCore-7.1.x)
+- [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Lands ASTC LDR Emulation For Latest GPUs](https://www.phoronix.com/news/Intel-ANV-ASTC-LDR-Emulation)
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases ROCm 5.7.1 With rocBLAS-GEMM-Tune & Bug Fixes](https://www.phoronix.com/news/AMD-ROCm-5.7.1)
+
 ## 20231014
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS 2.2 Released With Block Cloning, Linux Container Support & Better Performance](https://www.phoronix.com/news/OpenZFS-2.2-Released)
 - [Phoronix](https://www.phoronix.com/) | [Linux Looks Toward Dropping Very Old WiFi Drivers](https://www.phoronix.com/news/2023-Linux-Drop-Old-WiFi)

@@ -1,3 +1,8 @@
+## 20231015
+- [Kagi Small Web](https://kagi.com/smallweb) | [Typography Masterclass (workshop)](https://elliotjaystocks.com/speaking/#smashing-conf-workshop2)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: what social medias do you consider to be "usable"?](https://forum.melonland.net/index.php?topic=1962.msg20720#msg20720)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The moon completely crosses in front of the sun as seen in New...](https://samim.io/p/2023-10-14-the-moon-completely-crosses-in-front-of-the-sun-as-see)
+
 ## 20231014
 - [Kagi Small Web](https://kagi.com/smallweb) | [Trellis bed progress, and the last potatoes are in](https://refarmer.ca/2023/10/13/trellis-bed-progress-and-the-last-potatoes-are-in/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Folk Art from Mary Shelley](https://putah-creek.tumblr.com/post/731090482921390080)

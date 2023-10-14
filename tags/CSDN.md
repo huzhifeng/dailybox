@@ -1,3 +1,8 @@
+## 20231015
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python数据挖掘项目实战——自动售货机销售数据分析](https://blog.csdn.net/Why_does_it_work/article/details/133816648)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [解锁机器学习-梯度下降：从技术到实战的全面指南](https://blog.csdn.net/magicyangjay111/article/details/133819132)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【计算机网络】IP协议详解](https://blog.csdn.net/weixin_67596609/article/details/133633592)
+
 ## 20231013
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【K8S系列】深入解析k8s 网络插件—kube-router](https://blog.csdn.net/weixin_36755535/article/details/133679208)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI工程化—— 如何让AI在企业多快好省的落地？](https://blog.csdn.net/m0_75058342/article/details/133681815)

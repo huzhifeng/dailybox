@@ -1,3 +1,10 @@
+## 20231015
+- [Planet Fedora](http://fedoraplanet.org/) | [Tomas Tomecek: How I became obsolete](https://blog.tomecek.net/post/how-i-became-obsolete/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/13/finished-reading-the.html)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Kochi - Wayanad Trip in August-September 2023](https://ravidwivedi.in/posts/kochi-wayanad-trip-aug-sep-2023/)
+- [Planet KDE](https://planet.kde.org/) | [KNotifications on Android 13](https://www.volkerkrause.eu/2023/10/14/kde-knotification-android-13.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/?utm_source=atom_feed)
+
 ## 20231014
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: LPC 2023 Schedule is now posted!](https://lpc.events/blog/current/index.php/2023/10/13/lpc-2023-schedule-is-now-posted/)
 - [Planet Fedora](http://fedoraplanet.org/) | [David Cantrell: rpminspect-1.12.1 released](https://www.burdell.org/posts/2023/Oct/13/rpminspect-1121-released/)
