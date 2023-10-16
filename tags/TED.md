@@ -1,3 +1,6 @@
+## 20231017
+- [TED Talks Daily](https://www.ted.com/talks) | [What does "wealth" mean to you? | Aisha Nyandoro](https://www.ted.com/talks/aisha_nyandoro_what_does_wealth_mean_to_you?rss)
+
 ## 20231014
 - [TED Talks Daily](https://www.ted.com/talks) | [Lessons from my father, Alexey Navalny | Dasha Navalnaya](https://www.ted.com/talks/dasha_navalnaya_lessons_from_my_father_alexey_navalny?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | ["Miles from Any Shoreline" | Sarah Kay](https://www.ted.com/talks/sarah_kay_miles_from_any_shoreline?rss)

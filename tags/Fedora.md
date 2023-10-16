@@ -1,3 +1,6 @@
+## 20231017
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 397 – The curl and glibc vulnerabilities](https://opensourcesecurity.io/2023/10/15/episode-397-the-curl-and-glibc-vulnerabilities/)
+
 ## 20231015
 - [Planet Fedora](http://fedoraplanet.org/) | [Tomas Tomecek: How I became obsolete](https://blog.tomecek.net/post/how-i-became-obsolete/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2023/10/13/finished-reading-the.html)

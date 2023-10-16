@@ -1,3 +1,8 @@
+## 20231017
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [its the end of the rule as we know it](https://lemmy.blahaj.zone/pictrs/image/9b04c815-3034-4ef0-91c9-8a49277f8ac6.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hidden Beauty - Safely Endangered](https://lemmy.ca/pictrs/image/b2f523c7-10bb-46f2-8eda-24afb923df6a.png)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The old dilemma](https://lemmy.world/pictrs/image/a705034d-e99d-41c0-866b-e35e7f8c9e8d.jpeg)
+
 ## 20231015
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Every Day Is Like This](https://suppo.fi/pictrs/image/d89325e2-51a2-47fa-af32-55fea4302f94.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Unbelievable](https://suppo.fi/pictrs/image/047a640d-884e-4479-9025-ebb4a0728a6c.jpeg)

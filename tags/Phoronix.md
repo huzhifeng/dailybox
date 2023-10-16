@@ -1,3 +1,8 @@
+## 20231017
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Desktop ISOs Re-Released Following Translation Snafu](https://www.phoronix.com/news/Ubuntu-23.10-ISOs-Re-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max / Sapphire Rapids Riding Higher On Ubuntu 23.10](https://www.phoronix.com/review/xeon-max-ubuntu-2310)
+- [Phoronix](https://www.phoronix.com/) | [AMD ROCm + PyTorch Now Supported With The Radeon RX 7900 XTX](https://www.phoronix.com/news/RX-7900-XTX-ROCm-PyTorch)
+
 ## 20231015
 - [Phoronix](https://www.phoronix.com/) | [Mesa Merges Initial OpenGL/Vulkan Support For Raspberry Pi 5's GPU](https://www.phoronix.com/news/Mesa-RPi-5-VideoCore-7.1.x)
 - [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Lands ASTC LDR Emulation For Latest GPUs](https://www.phoronix.com/news/Intel-ANV-ASTC-LDR-Emulation)

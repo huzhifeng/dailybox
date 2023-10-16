@@ -1,3 +1,18 @@
+## 20231017
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1156 只有约 11% 的开源项目得到了积极维护](https://linux.cn/article-16289-1.html?utm_source=rss&utm_medium=rss)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Desktop ISOs Re-Released Following Translation Snafu](https://www.phoronix.com/news/Ubuntu-23.10-ISOs-Re-Released)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max / Sapphire Rapids Riding Higher On Ubuntu 23.10](https://www.phoronix.com/review/xeon-max-ubuntu-2310)
+- [Phoronix](https://www.phoronix.com/) | [AMD ROCm + PyTorch Now Supported With The Radeon RX 7900 XTX](https://www.phoronix.com/news/RX-7900-XTX-ROCm-PyTorch)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 15th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-15th-2023)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 397 – The curl and glibc vulnerabilities](https://opensourcesecurity.io/2023/10/15/episode-397-the-curl-and-glibc-vulnerabilities/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: New toy: ASUS ZenScreen Go MB16AHP](https://grep.be/blog//en/computer/hardware/New_toy:_ASUS_ZenScreen_Go_MB16AHP/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai)
+- [Planet GNOME](https://planet.gnome.org/) | [on safepoints](https://wingolog.org/archives/2023/10/16/on-safepoints)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.2 released](https://kdenlive.org/en/2023/10/kdenlive-23-08-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Use cppcheck to find bugs and improve code quality (not only for Kile)](https://gruenich.blogspot.com/2023/10/use-cppcheck-to-find-bugs-and-improve.html?utm_source=atom_feed)
+
 ## 20231015
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1154 谷歌正在测试在其主页充满新闻链接](https://linux.cn/article-16283-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Mesa Merges Initial OpenGL/Vulkan Support For Raspberry Pi 5's GPU](https://www.phoronix.com/news/Mesa-RPi-5-VideoCore-7.1.x)

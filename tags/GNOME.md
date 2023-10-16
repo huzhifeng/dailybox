@@ -1,3 +1,6 @@
+## 20231017
+- [Planet GNOME](https://planet.gnome.org/) | [on safepoints](https://wingolog.org/archives/2023/10/16/on-safepoints)
+
 ## 20231014
 - [Planet GNOME](https://planet.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#117 Queued Fixes](https://thisweek.gnome.org/posts/2023/10/twig-117/)

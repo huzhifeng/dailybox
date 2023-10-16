@@ -1,3 +1,8 @@
+## 20231017
+- [Product Hunt](https://www.producthunt.com) | [Web3xplorer](https://www.producthunt.com/posts/web3xplorer)
+- [Product Hunt](https://www.producthunt.com) | [Boomerang Meeting Scheduling for Teams](https://www.producthunt.com/posts/boomerang-meeting-scheduling-for-teams)
+- [Product Hunt](https://www.producthunt.com) | [Stand with Israel Widget](https://www.producthunt.com/posts/stand-with-israel-widget)
+
 ## 20231015
 - [Product Hunt](https://www.producthunt.com) | [Bababot](https://www.producthunt.com/posts/bababot)
 - [Product Hunt](https://www.producthunt.com) | [Ryan AI](https://www.producthunt.com/posts/ryan-ai)

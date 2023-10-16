@@ -1,3 +1,6 @@
+## 20231017
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai)
+
 ## 20230929
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Podcast Ubuntu Portugal: E266 Baderna Na Caserna - Tomo II](https://podcastubuntuportugal.org/e266/)
 
