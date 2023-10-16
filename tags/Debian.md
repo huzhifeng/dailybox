@@ -1,3 +1,7 @@
+## 20231017
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: New toy: ASUS ZenScreen Go MB16AHP](https://grep.be/blog//en/computer/hardware/New_toy:_ASUS_ZenScreen_Go_MB16AHP/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/)
+
 ## 20231015
 - [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: Kochi - Wayanad Trip in August-September 2023](https://ravidwivedi.in/posts/kochi-wayanad-trip-aug-sep-2023/)
 

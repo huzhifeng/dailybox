@@ -1,3 +1,8 @@
+## 20231017
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.2 released](https://kdenlive.org/en/2023/10/kdenlive-23-08-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Use cppcheck to find bugs and improve code quality (not only for Kile)](https://gruenich.blogspot.com/2023/10/use-cppcheck-to-find-bugs-and-improve.html?utm_source=atom_feed)
+
 ## 20231015
 - [Planet KDE](https://planet.kde.org/) | [KNotifications on Android 13](https://www.volkerkrause.eu/2023/10/14/kde-knotification-android-13.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/?utm_source=atom_feed)

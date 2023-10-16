@@ -1,3 +1,6 @@
+## 20231017
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 15th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-15th-2023)
+
 ## 20231015
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s October 2023 ISO Release Brings Linux 6.5, Installer Improvements](https://9to5linux.com/arch-linuxs-october-2023-iso-release-brings-linux-6-5-installer-improvements)
 

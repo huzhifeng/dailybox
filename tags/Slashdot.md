@@ -1,3 +1,6 @@
+## 20231017
+- [Slashdot](https://developers.slashdot.org/) | [Stack Overflow Cuts 28% Workforce as the AI Coding Boom Continues](https://developers.slashdot.org/story/23/10/16/1556222/stack-overflow-cuts-28-workforce-as-the-ai-coding-boom-continues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231014
 - [Slashdot](https://linux.slashdot.org/) | [Ubuntu 23.10 Is a Minotaur That Moves Faster and Takes Up Less Space](https://news.slashdot.org/story/23/10/13/1437245/ubuntu-2310-is-a-minotaur-that-moves-faster-and-takes-up-less-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

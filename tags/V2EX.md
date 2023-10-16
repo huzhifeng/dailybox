@@ -1,3 +1,8 @@
+## 20231017
+- [V2EX](https://www.v2ex.com/) | [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
+- [V2EX](https://www.v2ex.com/) | [关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338)
+- [V2EX](https://www.v2ex.com/) | [help，宋 plus 和星越 L 二选一](https://www.v2ex.com/t/982327)
+
 ## 20231015
 - [V2EX](https://www.v2ex.com/) | [努力真的可以改变命运吗](https://www.v2ex.com/t/982033)
 - [V2EX](https://www.v2ex.com/) | [国外公司上班要打卡吗？](https://www.v2ex.com/t/981970)

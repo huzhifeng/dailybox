@@ -1,3 +1,8 @@
+## 20231017
+- [Lobsters](https://lobste.rs/) | [The state of ruby HTTP clients, or why you should use httpx](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use)
+- [Lobsters](https://lobste.rs/) | [Better HTTP server routing in Go 1.22](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22)
+- [Lobsters](https://lobste.rs/) | [Guile Hoot v0.1.0 released](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released)
+
 ## 20231015
 - [Lobsters](https://lobste.rs/) | [Learn Wayland by writing a GUI from scratch](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch)
 - [Lobsters](https://lobste.rs/) | [Multi-modal prompt injection image attacks against GPT-4V](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image)

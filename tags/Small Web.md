@@ -1,3 +1,8 @@
+## 20231017
+- [Kagi Small Web](https://kagi.com/smallweb) | [September 2023 monthly update](https://agateau.com/2023/2023-09-update)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Auto-increment field with Prisma](https://www.cheehow.dev/blog/2023/10/17/autoincrement-field-with-prisma)
+- [Kagi Small Web](https://kagi.com/smallweb) | [DjangoCon US 2023](https://www.paulox.net/2023/10/17/djangocon-us-2023/)
+
 ## 20231015
 - [Kagi Small Web](https://kagi.com/smallweb) | [Typography Masterclass (workshop)](https://elliotjaystocks.com/speaking/#smashing-conf-workshop2)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Re: what social medias do you consider to be "usable"?](https://forum.melonland.net/index.php?topic=1962.msg20720#msg20720)

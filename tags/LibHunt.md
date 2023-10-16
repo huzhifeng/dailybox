@@ -1,3 +1,8 @@
+## 20231017
+- [LibHunt](https://www.libhunt.com/) | [MemGPT](https://www.libhunt.com/r/MemGPT)
+- [LibHunt](https://www.libhunt.com/) | [ChatGPT-AutoExpert](https://www.libhunt.com/r/ChatGPT-AutoExpert)
+- [LibHunt](https://www.libhunt.com/) | [omnivore](https://www.libhunt.com/r/omnivore)
+
 ## 20231015
 - [LibHunt](https://www.libhunt.com/) | [postgres](https://www.libhunt.com/r/porsager/postgres)
 - [LibHunt](https://www.libhunt.com/) | [Prisma](https://www.libhunt.com/r/prisma)

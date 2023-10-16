@@ -1,3 +1,7 @@
+## 20231017
+- [diff.blog](https://diff.blog/) | [Better HTTP server routing in Go 1.22](https://diff.blog/post/better-http-server-routing-in-go-122-158509/)
+- [diff.blog](https://diff.blog/) | [The Techno-Optimist Manifesto](https://diff.blog/post/the-techno-optimist-manifesto-158513/)
+
 ## 20231013
 - [diff.blog](https://diff.blog/) | [This Week in Rust 516](https://diff.blog/post/this-week-in-rust-516-158165/)
 
