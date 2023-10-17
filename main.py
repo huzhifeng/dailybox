@@ -73,7 +73,7 @@ def main():
             updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
-            if updated < yesterday:
+            if updated < yesterday or updated >= today:
                 continue
             if not resp.has_key('entries'):
                 logger.debug('no entries')
@@ -118,7 +118,7 @@ def main():
                             published = published.replace(tzinfo=None)
                     else:
                         continue
-                if published < yesterday:
+                if published < yesterday or published >= today:
                     continue
                 item = {
                     'category': feed['category'],
@@ -211,7 +211,9 @@ def main():
                     if 'node' in entry:
                         entry = entry['node']
 
-                if isinstance(entry[date], int):
+                if date not in entry:
+                    continue
+                elif isinstance(entry[date], int):
                     if '8点1氪' == api['channel']:
                         published = datetime.datetime.fromtimestamp(
                             entry[date] / 1000)
@@ -236,7 +238,7 @@ def main():
                         published = published.replace(tzinfo=None)
                     else:
                         published = dateutil.parser.parse(entry[date])
-                if not published or published < yesterday:
+                if not published or published < yesterday or published >= today:
                     continue
                 if '网易轻松一刻' == api['channel']:
                     if 'source' not in entry or not '轻松一刻' == entry['source']:
