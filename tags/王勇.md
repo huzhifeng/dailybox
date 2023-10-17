@@ -1,3 +1,6 @@
+## 20231016
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [读《无穷的开始》](https://manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/)
+
 ## 20231013
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [lsp-bridge 远程代码补全](https://manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/)
 
