@@ -1,3 +1,8 @@
+## 20231018
+- [Hacker News](https://news.ycombinator.com/front) | [Free IRS-run tax filing pilot to be available in 13 states](https://news.ycombinator.com/item?id=37920633)
+- [Hacker News](https://news.ycombinator.com/front) | [Using Goatse to Stop App Theft](https://news.ycombinator.com/item?id=37917012)
+- [Hacker News](https://news.ycombinator.com/front) | [Frasier Fantasy](https://news.ycombinator.com/item?id=37916855)
+
 ## 20231015
 - [Hacker News](https://news.ycombinator.com/front) | [Anything longer ago than yesterday should just say the actual date](https://news.ycombinator.com/item?id=37880818)
 - [Hacker News](https://news.ycombinator.com/front) | [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://news.ycombinator.com/item?id=37880635)

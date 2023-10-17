@@ -1,3 +1,8 @@
+## 20231018
+- [Product Hunt](https://www.producthunt.com) | [Expresso](https://www.producthunt.com/posts/expresso-4)
+- [Product Hunt](https://www.producthunt.com) | [Appwrite Cloud beta](https://www.producthunt.com/posts/appwrite-cloud-beta)
+- [Product Hunt](https://www.producthunt.com) | [Komiser](https://www.producthunt.com/posts/komiser-2)
+
 ## 20231017
 - [Product Hunt](https://www.producthunt.com) | [Web3xplorer](https://www.producthunt.com/posts/web3xplorer)
 - [Product Hunt](https://www.producthunt.com) | [Boomerang Meeting Scheduling for Teams](https://www.producthunt.com/posts/boomerang-meeting-scheduling-for-teams)
