@@ -1,3 +1,8 @@
+## 20231018
+- [V2EX](https://www.v2ex.com/) | [golang 是单进程的吗?](https://www.v2ex.com/t/982738)
+- [V2EX](https://www.v2ex.com/) | [不善社交的管理方式](https://www.v2ex.com/t/982727)
+- [V2EX](https://www.v2ex.com/) | [买到高位的房子你们怎么心里平衡的？](https://www.v2ex.com/t/982705)
+
 ## 20231017
 - [V2EX](https://www.v2ex.com/) | [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
 - [V2EX](https://www.v2ex.com/) | [关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338)

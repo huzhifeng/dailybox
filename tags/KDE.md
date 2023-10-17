@@ -1,3 +1,6 @@
+## 20231018
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu 23.10 Mantic Minotaur Released](https://kubuntu.org/news/kubuntu-23-10-mantic-minotaur-released/?utm_source=atom_feed)
+
 ## 20231017
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.2 released](https://kdenlive.org/en/2023/10/kdenlive-23-08-2-released/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/?utm_source=atom_feed)

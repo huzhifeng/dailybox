@@ -1,3 +1,6 @@
+## 20231018
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.12 Adds Initial Support for Linux 6.6 and openSUSE 15.5 Kernels](https://9to5linux.com/virtualbox-7-0-12-adds-initial-support-for-linux-6-6-and-opensuse-15-5-kernels)
+
 ## 20231017
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 15th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-15th-2023)
 

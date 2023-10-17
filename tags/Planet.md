@@ -1,3 +1,6 @@
+## 20231018
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu 23.10 Mantic Minotaur Released](https://kubuntu.org/news/kubuntu-23-10-mantic-minotaur-released/?utm_source=atom_feed)
+
 ## 20231017
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 397 – The curl and glibc vulnerabilities](https://opensourcesecurity.io/2023/10/15/episode-397-the-curl-and-glibc-vulnerabilities/)
 - [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: New toy: ASUS ZenScreen Go MB16AHP](https://grep.be/blog//en/computer/hardware/New_toy:_ASUS_ZenScreen_Go_MB16AHP/)

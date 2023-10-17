@@ -1,3 +1,8 @@
+## 20231018
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1157 《我的世界》成为有史以来最畅销的电子游戏](https://linux.cn/article-16293-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.12 Adds Initial Support for Linux 6.6 and openSUSE 15.5 Kernels](https://9to5linux.com/virtualbox-7-0-12-adds-initial-support-for-linux-6-6-and-opensuse-15-5-kernels)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu 23.10 Mantic Minotaur Released](https://kubuntu.org/news/kubuntu-23-10-mantic-minotaur-released/?utm_source=atom_feed)
+
 ## 20231017
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1156 只有约 11% 的开源项目得到了积极维护](https://linux.cn/article-16289-1.html?utm_source=rss&utm_medium=rss)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Desktop ISOs Re-Released Following Translation Snafu](https://www.phoronix.com/news/Ubuntu-23.10-ISOs-Re-Released)
