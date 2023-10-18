@@ -1,3 +1,7 @@
+## 20231019
+- [Hacker News](https://news.ycombinator.com/front) | [What is the Demoscene? An interview](https://news.ycombinator.com/item?id=37927344)
+- [Hacker News](https://news.ycombinator.com/front) | [Commercially available chairs in Star Trek](https://news.ycombinator.com/item?id=37926849)
+
 ## 20231018
 - [Hacker News](https://news.ycombinator.com/front) | [Free IRS-run tax filing pilot to be available in 13 states](https://news.ycombinator.com/item?id=37920633)
 - [Hacker News](https://news.ycombinator.com/front) | [Using Goatse to Stop App Theft](https://news.ycombinator.com/item?id=37917012)

@@ -1,3 +1,8 @@
+## 20231019
+- [V2EX](https://www.v2ex.com/) | [骑电瓶车未戴头盔被摄像头拍到，收到短信了](https://www.v2ex.com/t/983079)
+- [V2EX](https://www.v2ex.com/) | [30w 价位车子，如何选？](https://www.v2ex.com/t/983038)
+- [V2EX](https://www.v2ex.com/) | [休婚假之后，公司准备辞退，该如何办](https://www.v2ex.com/t/982998)
+
 ## 20231018
 - [V2EX](https://www.v2ex.com/) | [golang 是单进程的吗?](https://www.v2ex.com/t/982738)
 - [V2EX](https://www.v2ex.com/) | [不善社交的管理方式](https://www.v2ex.com/t/982727)

@@ -1,3 +1,6 @@
+## 20231019
+- [TED Talks Daily](https://www.ted.com/talks) | [The joy of learning random things on Wikipedia | Annie Rauwerda](https://www.ted.com/talks/annie_rauwerda_the_joy_of_learning_random_things_on_wikipedia?rss)
+
 ## 20231018
 - [TED Talks Daily](https://www.ted.com/talks) | [Unions for climate action! | Payton M. Wilkins](https://www.ted.com/talks/payton_m_wilkins_unions_for_climate_action?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [How rest can make you better at your job | Alex Soojung-Kim Pang](https://www.ted.com/talks/alex_soojung_kim_pang_how_rest_can_make_you_better_at_your_job?rss)
