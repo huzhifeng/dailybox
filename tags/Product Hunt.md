@@ -1,3 +1,8 @@
+## 20231019
+- [Product Hunt](https://www.producthunt.com) | [Wiseone](https://www.producthunt.com/posts/wiseone)
+- [Product Hunt](https://www.producthunt.com) | [AI COACH](https://www.producthunt.com/posts/ai-coach)
+- [Product Hunt](https://www.producthunt.com) | [CookieJar](https://www.producthunt.com/posts/cookiejar)
+
 ## 20231018
 - [Product Hunt](https://www.producthunt.com) | [Expresso](https://www.producthunt.com/posts/expresso-4)
 - [Product Hunt](https://www.producthunt.com) | [Appwrite Cloud beta](https://www.producthunt.com/posts/appwrite-cloud-beta)

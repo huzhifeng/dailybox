@@ -1,3 +1,9 @@
+## 20231019
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1158 马自达封杀了业余爱好者的智能汽车 API 工具](https://linux.cn/article-16296-1.html?utm_source=rss&utm_medium=rss)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Snap transition complete, 23.08.2 released!](https://www.scarlettgatelymoore.dev/kde-snap-transition-complete-23-08-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Plasma 5.27 LTS for Jammy 22.04 LTS available via PPA](https://kubuntu.org/news/plasma-5-27-lts-for-jammy-22-04-lts-available-via-ppa/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Krita in Stores — Update!](https://krita.org/en/item/krita-in-stores-update/?utm_source=atom_feed)
+
 ## 20231018
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1157 《我的世界》成为有史以来最畅销的电子游戏](https://linux.cn/article-16293-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.12 Adds Initial Support for Linux 6.6 and openSUSE 15.5 Kernels](https://9to5linux.com/virtualbox-7-0-12-adds-initial-support-for-linux-6-6-and-opensuse-15-5-kernels)

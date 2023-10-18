@@ -1,3 +1,6 @@
+## 20231019
+- [It's FOSS](https://itsfoss.com/) | [Fun With Cmatrix in Linux](https://itsfoss.com/using-cmatrix/)
+
 ## 20231013
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.41: Wayland Only GNOME, Ubuntu 23.10, VLC Tip and More](https://itsfoss.com/newsletter/foss-weekly-23-41/)
 
