@@ -1,3 +1,8 @@
+## 20231020
+- [V2EX](https://www.v2ex.com/) | [港澳通行证被学校没收怎么办](https://www.v2ex.com/t/983522)
+- [V2EX](https://www.v2ex.com/) | [有没有手出汗的同学，怎么彻底根除的](https://www.v2ex.com/t/983499)
+- [V2EX](https://www.v2ex.com/) | [好奇 V 友们多有人有至少一台 kindle，主要用来阅读什么内容？](https://www.v2ex.com/t/983414)
+
 ## 20231019
 - [V2EX](https://www.v2ex.com/) | [骑电瓶车未戴头盔被摄像头拍到，收到短信了](https://www.v2ex.com/t/983079)
 - [V2EX](https://www.v2ex.com/) | [30w 价位车子，如何选？](https://www.v2ex.com/t/983038)

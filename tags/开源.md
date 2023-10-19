@@ -1,3 +1,6 @@
+## 20231020
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.42: Ubuntu 23.10 Releases, Demystifying Subtitles and More](https://itsfoss.com/newsletter/foss-weekly-23-42/)
+
 ## 20231019
 - [It's FOSS](https://itsfoss.com/) | [Fun With Cmatrix in Linux](https://itsfoss.com/using-cmatrix/)
 

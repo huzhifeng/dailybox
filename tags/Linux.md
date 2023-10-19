@@ -1,3 +1,11 @@
+## 20231020
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1159 IT 管理员最爱用 admin 作为密码](https://linux.cn/article-16301-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Imager Gets New Tabbed OS Customization UI, Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-imager-gets-new-tabbed-os-customization-ui-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.1 Open-Source DAW Improves Launchpad Pro Support, Fixes Bugs](https://9to5linux.com/ardour-8-1-open-source-daw-improves-launchpad-pro-support-fixes-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Geany 2.0 Open-Source IDE Released with UI Improvements, Initial Meson Support](https://9to5linux.com/geany-2-0-open-source-ide-released-with-ui-improvements-initial-meson-support)
+- [Planet GNOME](https://planet.gnome.org/) | [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Stays Red Hat Enterprise Linux Compatible Without Red Hat Code](https://linux.slashdot.org/story/23/10/18/2253222/almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231019
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1158 马自达封杀了业余爱好者的智能汽车 API 工具](https://linux.cn/article-16296-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [KDE: Snap transition complete, 23.08.2 released!](https://www.scarlettgatelymoore.dev/kde-snap-transition-complete-23-08-2-released/?utm_source=atom_feed)

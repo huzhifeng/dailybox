@@ -1,3 +1,6 @@
+## 20231020
+- [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Stays Red Hat Enterprise Linux Compatible Without Red Hat Code](https://linux.slashdot.org/story/23/10/18/2253222/almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231017
 - [Slashdot](https://developers.slashdot.org/) | [Stack Overflow Cuts 28% Workforce as the AI Coding Boom Continues](https://developers.slashdot.org/story/23/10/16/1556222/stack-overflow-cuts-28-workforce-as-the-ai-coding-boom-continues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

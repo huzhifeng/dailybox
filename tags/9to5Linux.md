@@ -1,3 +1,8 @@
+## 20231020
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Imager Gets New Tabbed OS Customization UI, Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-imager-gets-new-tabbed-os-customization-ui-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.1 Open-Source DAW Improves Launchpad Pro Support, Fixes Bugs](https://9to5linux.com/ardour-8-1-open-source-daw-improves-launchpad-pro-support-fixes-bugs)
+- [9to5Linux](https://9to5linux.com/) | [Geany 2.0 Open-Source IDE Released with UI Improvements, Initial Meson Support](https://9to5linux.com/geany-2-0-open-source-ide-released-with-ui-improvements-initial-meson-support)
+
 ## 20231018
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.12 Adds Initial Support for Linux 6.6 and openSUSE 15.5 Kernels](https://9to5linux.com/virtualbox-7-0-12-adds-initial-support-for-linux-6-6-and-opensuse-15-5-kernels)
 

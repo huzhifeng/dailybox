@@ -1,3 +1,8 @@
+## 20231020
+- [diff.blog](https://diff.blog/) | [Just paying Figma $15/month because nothing else fucking works](https://diff.blog/post/just-paying-figma-15month-because-nothing-else-fucking-works-158790/)
+- [diff.blog](https://diff.blog/) | [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://diff.blog/post/dalle-3-is-now-available-in-chatgpt-plus-and-enterprise-158788/)
+- [diff.blog](https://diff.blog/) | [We Have To Talk About Flask](https://diff.blog/post/we-have-to-talk-about-flask-158777/)
+
 ## 20231017
 - [diff.blog](https://diff.blog/) | [Better HTTP server routing in Go 1.22](https://diff.blog/post/better-http-server-routing-in-go-122-158509/)
 - [diff.blog](https://diff.blog/) | [The Techno-Optimist Manifesto](https://diff.blog/post/the-techno-optimist-manifesto-158513/)
