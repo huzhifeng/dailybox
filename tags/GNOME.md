@@ -1,3 +1,6 @@
+## 20231020
+- [Planet GNOME](https://planet.gnome.org/) | [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
+
 ## 20231017
 - [Planet GNOME](https://planet.gnome.org/) | [on safepoints](https://wingolog.org/archives/2023/10/16/on-safepoints)
 

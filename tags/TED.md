@@ -1,3 +1,6 @@
+## 20231020
+- [TED Talks Daily](https://www.ted.com/talks) | [To support people at work, focus on needs — not identity | Gabrielle Novacek](https://www.ted.com/talks/gabrielle_novacek_to_support_people_at_work_focus_on_needs_not_identity?rss)
+
 ## 20231019
 - [TED Talks Daily](https://www.ted.com/talks) | [The joy of learning random things on Wikipedia | Annie Rauwerda](https://www.ted.com/talks/annie_rauwerda_the_joy_of_learning_random_things_on_wikipedia?rss)
 

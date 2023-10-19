@@ -1,3 +1,8 @@
+## 20231020
+- [Product Hunt](https://www.producthunt.com) | [InPrepAI](https://www.producthunt.com/posts/inprepai)
+- [Product Hunt](https://www.producthunt.com) | [Keyword Insights](https://www.producthunt.com/posts/keyword-insights-2)
+- [Product Hunt](https://www.producthunt.com) | [Benjamin](https://www.producthunt.com/posts/benjamin-2)
+
 ## 20231019
 - [Product Hunt](https://www.producthunt.com) | [Wiseone](https://www.producthunt.com/posts/wiseone)
 - [Product Hunt](https://www.producthunt.com) | [AI COACH](https://www.producthunt.com/posts/ai-coach)
