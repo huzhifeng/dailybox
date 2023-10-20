@@ -1,3 +1,6 @@
+## 20231021
+- [TED Talks Daily](https://www.ted.com/talks) | [Let's reframe cancel culture | Sarah Jones](https://www.ted.com/talks/sarah_jones_let_s_reframe_cancel_culture?rss)
+
 ## 20231020
 - [TED Talks Daily](https://www.ted.com/talks) | [To support people at work, focus on needs — not identity | Gabrielle Novacek](https://www.ted.com/talks/gabrielle_novacek_to_support_people_at_work_focus_on_needs_not_identity?rss)
 

@@ -1,3 +1,8 @@
+## 20231021
+- [V2EX](https://www.v2ex.com/) | [现在大家选车都不怎么选油车了吗？看了下汽车板块大部分讨论的都是电车](https://www.v2ex.com/t/983745)
+- [V2EX](https://www.v2ex.com/) | [推荐个男士双肩包吧， ja 人们](https://www.v2ex.com/t/983741)
+- [V2EX](https://www.v2ex.com/) | [硬盘早已打下来了，内存什么时候能有好消息](https://www.v2ex.com/t/983732)
+
 ## 20231020
 - [V2EX](https://www.v2ex.com/) | [港澳通行证被学校没收怎么办](https://www.v2ex.com/t/983522)
 - [V2EX](https://www.v2ex.com/) | [有没有手出汗的同学，怎么彻底根除的](https://www.v2ex.com/t/983499)

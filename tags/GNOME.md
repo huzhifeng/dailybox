@@ -1,3 +1,9 @@
+## 20231021
+- [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool](https://eischmann.wordpress.com/2023/10/20/linux-desktop-migration-tool/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 20/10/2023](https://samthursfield.wordpress.com/2023/10/20/status-update-20-10-2023/)
+- [Planet GNOME](https://planet.gnome.org/) | [#118 Performant Terminals](https://thisweek.gnome.org/posts/2023/10/twig-118/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#118 Performant Terminals](https://thisweek.gnome.org/posts/2023/10/twig-118/)
+
 ## 20231020
 - [Planet GNOME](https://planet.gnome.org/) | [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 

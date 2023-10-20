@@ -1,3 +1,6 @@
+## 20231021
+- [Hacker News](https://news.ycombinator.com/front) | [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://news.ycombinator.com/item?id=37955264)
+
 ## 20231020
 - [Hacker News](https://news.ycombinator.com/front) | [Localsend: Open-Source Airdrop Alternative](https://news.ycombinator.com/item?id=37938183)
 

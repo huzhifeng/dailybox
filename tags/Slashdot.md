@@ -1,3 +1,6 @@
+## 20231021
+- [Slashdot](https://developers.slashdot.org/) | [Code.org Presses Washington To Make Computer Science a High School Graduation Requirement](https://news.slashdot.org/story/23/10/20/0018202/codeorg-presses-washington-to-make-computer-science-a-high-school-graduation-requirement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231020
 - [Slashdot](https://linux.slashdot.org/) | [AlmaLinux Stays Red Hat Enterprise Linux Compatible Without Red Hat Code](https://linux.slashdot.org/story/23/10/18/2253222/almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

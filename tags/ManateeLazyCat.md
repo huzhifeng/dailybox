@@ -1,3 +1,6 @@
+## 20231021
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [基于本地 AI 大模型的 Emacs 翻译插件](https://manateelazycat.github.io/2023/10/20/use-ollama-as-translator/)
+
 ## 20231016
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [读《无穷的开始》](https://manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/)
 
