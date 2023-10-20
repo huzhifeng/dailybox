@@ -1,3 +1,6 @@
+## 20231021
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-42](https://ervin.ipsquad.net/blog/2023/10/20/web-review-week-2023-42/?utm_source=atom_feed)
+
 ## 20231019
 - [Planet KDE](https://planet.kde.org/) | [KDE: Snap transition complete, 23.08.2 released!](https://www.scarlettgatelymoore.dev/kde-snap-transition-complete-23-08-2-released/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Plasma 5.27 LTS for Jammy 22.04 LTS available via PPA](https://kubuntu.org/news/plasma-5-27-lts-for-jammy-22-04-lts-available-via-ppa/?utm_source=atom_feed)

@@ -1,3 +1,7 @@
+## 20231021
+- [diff.blog](https://diff.blog/) | [What's new in C# 12: overview](https://diff.blog/post/whats-new-in-c-12-overview-158853/)
+- [diff.blog](https://diff.blog/) | [Does Go Have Subtyping?](https://diff.blog/post/does-go-have-subtyping-158845/)
+
 ## 20231020
 - [diff.blog](https://diff.blog/) | [Just paying Figma $15/month because nothing else fucking works](https://diff.blog/post/just-paying-figma-15month-because-nothing-else-fucking-works-158790/)
 - [diff.blog](https://diff.blog/) | [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://diff.blog/post/dalle-3-is-now-available-in-chatgpt-plus-and-enterprise-158788/)

@@ -1,3 +1,13 @@
+## 20231021
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1160 内存 RowHammer 保护措施被新的方法击破](https://linux.cn/article-16302-1.html?utm_source=rss&utm_medium=rss)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 23.10](https://kvmonz.blogspot.com/2023/10/new-release-ubuntu-2310.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 23.04](https://kvmonz.blogspot.com/2023/04/new-release-ubuntu-2304.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool](https://eischmann.wordpress.com/2023/10/20/linux-desktop-migration-tool/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 20/10/2023](https://samthursfield.wordpress.com/2023/10/20/status-update-20-10-2023/)
+- [Planet GNOME](https://planet.gnome.org/) | [#118 Performant Terminals](https://thisweek.gnome.org/posts/2023/10/twig-118/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-42](https://ervin.ipsquad.net/blog/2023/10/20/web-review-week-2023-42/?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#118 Performant Terminals](https://thisweek.gnome.org/posts/2023/10/twig-118/)
+
 ## 20231020
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1159 IT 管理员最爱用 admin 作为密码](https://linux.cn/article-16301-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Imager Gets New Tabbed OS Customization UI, Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-imager-gets-new-tabbed-os-customization-ui-raspberry-pi-5-support)
