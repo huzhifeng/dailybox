@@ -1,3 +1,8 @@
+## 20231022
+- [V2EX](https://www.v2ex.com/) | [刚手搓的论坛，欢迎大家来玩~](https://www.v2ex.com/t/984105)
+- [V2EX](https://www.v2ex.com/) | [工作原因，接触了几个 00 左右的小主播，发现她们有一种特有的口音？](https://www.v2ex.com/t/984075)
+- [V2EX](https://www.v2ex.com/) | [请教网站备案及相关事项 ，大佬进来帮指点迷津，谢谢](https://www.v2ex.com/t/984039)
+
 ## 20231021
 - [V2EX](https://www.v2ex.com/) | [现在大家选车都不怎么选油车了吗？看了下汽车板块大部分讨论的都是电车](https://www.v2ex.com/t/983745)
 - [V2EX](https://www.v2ex.com/) | [推荐个男士双肩包吧， ja 人们](https://www.v2ex.com/t/983741)

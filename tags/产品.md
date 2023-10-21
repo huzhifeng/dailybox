@@ -1,3 +1,8 @@
+## 20231022
+- [Product Hunt](https://www.producthunt.com) | [AI Landing Page Audit](https://www.producthunt.com/posts/ai-landing-page-audit)
+- [Product Hunt](https://www.producthunt.com) | [Scriber](https://www.producthunt.com/posts/scriber-2)
+- [Product Hunt](https://www.producthunt.com) | [Serand](https://www.producthunt.com/posts/serand)
+
 ## 20231021
 - [Product Hunt](https://www.producthunt.com) | [Premarket Bell](https://www.producthunt.com/posts/premarket-bell)
 

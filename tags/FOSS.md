@@ -1,3 +1,6 @@
+## 20231022
+- [It's FOSS](https://itsfoss.com/) | [Bitwarden vs. Proton Pass: Comparing Top Open-Source Password Managers](https://itsfoss.com/bitwarden-vs-proton-pass/)
+
 ## 20231020
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.42: Ubuntu 23.10 Releases, Demystifying Subtitles and More](https://itsfoss.com/newsletter/foss-weekly-23-42/)
 

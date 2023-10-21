@@ -1,3 +1,8 @@
+## 20231022
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/21/osm-hack-weekend-berlin-october-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/)
+
 ## 20231021
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-42](https://ervin.ipsquad.net/blog/2023/10/20/web-review-week-2023-42/?utm_source=atom_feed)
 

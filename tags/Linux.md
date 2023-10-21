@@ -1,3 +1,8 @@
+## 20231022
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/21/osm-hack-weekend-berlin-october-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/)
+
 ## 20231021
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1160 内存 RowHammer 保护措施被新的方法击破](https://linux.cn/article-16302-1.html?utm_source=rss&utm_medium=rss)
 - [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 23.10](https://kvmonz.blogspot.com/2023/10/new-release-ubuntu-2310.html)
