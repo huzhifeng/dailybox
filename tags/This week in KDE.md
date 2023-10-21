@@ -1,3 +1,6 @@
+## 20231022
+- [This week in KDE](https://pointieststick.com/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/)
+
 ## 20231015
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: colorblindness correction filters](https://pointieststick.com/2023/10/13/this-week-in-kde-colorblindness-correction-filters/)
 

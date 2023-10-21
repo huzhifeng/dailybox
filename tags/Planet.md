@@ -1,3 +1,7 @@
+## 20231022
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/21/osm-hack-weekend-berlin-october-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/?utm_source=atom_feed)
+
 ## 20231021
 - [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 23.10](https://kvmonz.blogspot.com/2023/10/new-release-ubuntu-2310.html)
 - [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 23.04](https://kvmonz.blogspot.com/2023/04/new-release-ubuntu-2304.html)
