@@ -1,3 +1,7 @@
+## 20231023
+- [Product Hunt](https://www.producthunt.com) | [Hey Framer](https://www.producthunt.com/posts/hey-framer)
+- [Product Hunt](https://www.producthunt.com) | [AI Easy Newsletter Studio](https://www.producthunt.com/posts/ai-easy-newsletter-studio)
+
 ## 20231022
 - [Product Hunt](https://www.producthunt.com) | [AI Landing Page Audit](https://www.producthunt.com/posts/ai-landing-page-audit)
 - [Product Hunt](https://www.producthunt.com) | [Scriber](https://www.producthunt.com/posts/scriber-2)

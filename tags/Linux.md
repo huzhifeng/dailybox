@@ -1,3 +1,6 @@
+## 20231023
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1162 HashiCorp CEO 称硅谷将不会再有开源公司](https://linux.cn/article-16308-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20231022
 - [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/21/osm-hack-weekend-berlin-october-2023.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/?utm_source=atom_feed)

@@ -1,3 +1,8 @@
+## 20231023
+- [V2EX](https://www.v2ex.com/) | [因为给不起彩礼分手了](https://www.v2ex.com/t/984280)
+- [V2EX](https://www.v2ex.com/) | [腾讯骚操作不断，用户换个 iPhone15ProMax 都有错了，得上传手持身份证承认错误保证书承诺不再违规。旧手机坏了苹果售后给了个新手机微信刷脸厚一登录就说有木马...](https://www.v2ex.com/t/984265)
+- [V2EX](https://www.v2ex.com/) | [你的 100 万- 1000 万，是如何赚到的？](https://www.v2ex.com/t/984254)
+
 ## 20231022
 - [V2EX](https://www.v2ex.com/) | [刚手搓的论坛，欢迎大家来玩~](https://www.v2ex.com/t/984105)
 - [V2EX](https://www.v2ex.com/) | [工作原因，接触了几个 00 左右的小主播，发现她们有一种特有的口音？](https://www.v2ex.com/t/984075)

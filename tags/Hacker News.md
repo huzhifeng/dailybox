@@ -1,3 +1,6 @@
+## 20231023
+- [Hacker News](https://news.ycombinator.com/front) | [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://news.ycombinator.com/item?id=37973229)
+
 ## 20231021
 - [Hacker News](https://news.ycombinator.com/front) | [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://news.ycombinator.com/item?id=37955264)
 
