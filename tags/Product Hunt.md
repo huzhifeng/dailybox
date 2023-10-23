@@ -1,3 +1,8 @@
+## 20231024
+- [Product Hunt](https://www.producthunt.com) | [Reforge Artifacts](https://www.producthunt.com/posts/reforge-artifacts)
+- [Product Hunt](https://www.producthunt.com) | [PDFMonkey](https://www.producthunt.com/posts/pdfmonkey)
+- [Product Hunt](https://www.producthunt.com) | [MindGenie](https://www.producthunt.com/posts/mindgenie)
+
 ## 20231023
 - [Product Hunt](https://www.producthunt.com) | [Hey Framer](https://www.producthunt.com/posts/hey-framer)
 - [Product Hunt](https://www.producthunt.com) | [AI Easy Newsletter Studio](https://www.producthunt.com/posts/ai-easy-newsletter-studio)

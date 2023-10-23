@@ -1,3 +1,6 @@
+## 20231024
+- [Hacker News](https://news.ycombinator.com/front) | [Protomaps – A free and open source map of the world](https://news.ycombinator.com/item?id=37982621)
+
 ## 20231023
 - [Hacker News](https://news.ycombinator.com/front) | [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://news.ycombinator.com/item?id=37973229)
 

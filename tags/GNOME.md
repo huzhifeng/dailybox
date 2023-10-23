@@ -1,3 +1,6 @@
+## 20231024
+- [Planet GNOME](https://planet.gnome.org/) | [Project blogs are now welcome on Planet GNOME!](https://feborg.es/project-blogs-now-on-planet-gnome/)
+
 ## 20231021
 - [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool](https://eischmann.wordpress.com/2023/10/20/linux-desktop-migration-tool/)
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 20/10/2023](https://samthursfield.wordpress.com/2023/10/20/status-update-20-10-2023/)

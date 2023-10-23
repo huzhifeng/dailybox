@@ -1,3 +1,6 @@
+## 20231024
+- [Planet KDE](https://planet.kde.org/) | [Tellico 3.5.2 Released](https://tellico-project.org/tellico-3-5-2-released/?utm_source=atom_feed)
+
 ## 20231022
 - [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend September 2023](https://www.volkerkrause.eu/2023/10/21/osm-hack-weekend-berlin-october-2023.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/?utm_source=atom_feed)

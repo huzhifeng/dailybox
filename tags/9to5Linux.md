@@ -1,3 +1,8 @@
+## 20231024
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 119 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-119-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 22nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-22nd-2023)
+- [9to5Linux](https://9to5linux.com/) | [qBittorrent 4.6 Released with Initial I2P Support, Torrent Tags Editing, and More](https://9to5linux.com/qbittorrent-4-6-released-with-initial-i2p-support-torrent-tags-editing-and-more)
+
 ## 20231020
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Imager Gets New Tabbed OS Customization UI, Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-imager-gets-new-tabbed-os-customization-ui-raspberry-pi-5-support)
 - [9to5Linux](https://9to5linux.com/) | [Ardour 8.1 Open-Source DAW Improves Launchpad Pro Support, Fixes Bugs](https://9to5linux.com/ardour-8-1-open-source-daw-improves-launchpad-pro-support-fixes-bugs)
