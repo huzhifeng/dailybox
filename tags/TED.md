@@ -1,3 +1,6 @@
+## 20231024
+- [TED Talks Daily](https://www.ted.com/talks) | [The ordinary people doing extraordinary things in Ukraine | Oleksandra Matviichuk](https://www.ted.com/talks/oleksandra_matviichuk_the_ordinary_people_doing_extraordinary_things_in_ukraine?rss)
+
 ## 20231021
 - [TED Talks Daily](https://www.ted.com/talks) | [Let's reframe cancel culture | Sarah Jones](https://www.ted.com/talks/sarah_jones_let_s_reframe_cancel_culture?rss)
 

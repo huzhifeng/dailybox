@@ -1,3 +1,11 @@
+## 20231024
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1163 美国 NASA 向 1977 年发射的两个旅行者探测器发送补丁](https://linux.cn/article-16311-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 119 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-119-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 22nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-22nd-2023)
+- [9to5Linux](https://9to5linux.com/) | [qBittorrent 4.6 Released with Initial I2P Support, Torrent Tags Editing, and More](https://9to5linux.com/qbittorrent-4-6-released-with-initial-i2p-support-torrent-tags-editing-and-more)
+- [Planet GNOME](https://planet.gnome.org/) | [Project blogs are now welcome on Planet GNOME!](https://feborg.es/project-blogs-now-on-planet-gnome/)
+- [Planet KDE](https://planet.kde.org/) | [Tellico 3.5.2 Released](https://tellico-project.org/tellico-3-5-2-released/?utm_source=atom_feed)
+
 ## 20231023
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1162 HashiCorp CEO 称硅谷将不会再有开源公司](https://linux.cn/article-16308-1.html?utm_source=rss&utm_medium=rss)
 

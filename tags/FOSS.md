@@ -1,3 +1,6 @@
+## 20231024
+- [It's FOSS](https://itsfoss.com/) | [How to Install the Latest LibreOffice on Ubuntu](https://itsfoss.com/install-libreoffice-ubuntu/)
+
 ## 20231022
 - [It's FOSS](https://itsfoss.com/) | [Bitwarden vs. Proton Pass: Comparing Top Open-Source Password Managers](https://itsfoss.com/bitwarden-vs-proton-pass/)
 

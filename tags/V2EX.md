@@ -1,3 +1,8 @@
+## 20231024
+- [V2EX](https://www.v2ex.com/) | [语雀挂了](https://www.v2ex.com/t/984524)
+- [V2EX](https://www.v2ex.com/) | [因为颜值和审美不想谈了](https://www.v2ex.com/t/984472)
+- [V2EX](https://www.v2ex.com/) | [哈哈哈哈哈哈 锅贴店倒闭了](https://www.v2ex.com/t/984465)
+
 ## 20231023
 - [V2EX](https://www.v2ex.com/) | [因为给不起彩礼分手了](https://www.v2ex.com/t/984280)
 - [V2EX](https://www.v2ex.com/) | [腾讯骚操作不断，用户换个 iPhone15ProMax 都有错了，得上传手持身份证承认错误保证书承诺不再违规。旧手机坏了苹果售后给了个新手机微信刷脸厚一登录就说有木马...](https://www.v2ex.com/t/984265)
