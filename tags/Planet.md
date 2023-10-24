@@ -1,3 +1,8 @@
+## 20231025
+- [Planet GNOME](https://planet.gnome.org/) | [Fix Fedora IPU6 not working on Dell laptops with kernel 6.5](https://hansdegoede.livejournal.com/27809.html)
+- [Planet KDE](https://planet.kde.org/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.9, Bugfix Release for October](https://kde.org/announcements/plasma/5/5.27.9/?utm_source=atom_feed)
+
 ## 20231024
 - [Planet GNOME](https://planet.gnome.org/) | [Project blogs are now welcome on Planet GNOME!](https://feborg.es/project-blogs-now-on-planet-gnome/)
 - [Planet KDE](https://planet.kde.org/) | [Tellico 3.5.2 Released](https://tellico-project.org/tellico-3-5-2-released/?utm_source=atom_feed)

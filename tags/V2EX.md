@@ -1,3 +1,8 @@
+## 20231025
+- [V2EX](https://www.v2ex.com/) | [小城市和大城市差距最大的是医疗，这是致命的，直接决定你的寿命](https://www.v2ex.com/t/984900)
+- [V2EX](https://www.v2ex.com/) | [有没有骑摩托的老哥啊 新手求推荐摩托和盔](https://www.v2ex.com/t/984819)
+- [V2EX](https://www.v2ex.com/) | [作为一个随时可能失业的中年技术人员，大家会有卖房回老家躺平的想法吗？](https://www.v2ex.com/t/984812)
+
 ## 20231024
 - [V2EX](https://www.v2ex.com/) | [语雀挂了](https://www.v2ex.com/t/984524)
 - [V2EX](https://www.v2ex.com/) | [因为颜值和审美不想谈了](https://www.v2ex.com/t/984472)

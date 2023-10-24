@@ -1,3 +1,8 @@
+## 20231025
+- [Hacker News](https://news.ycombinator.com/front) | [California suspends GM Cruise's autonomous vehicle deployment](https://news.ycombinator.com/item?id=38002752)
+- [Hacker News](https://news.ycombinator.com/front) | [Halfsies](https://news.ycombinator.com/item?id=38000551)
+- [Hacker News](https://news.ycombinator.com/front) | [Animated AI](https://news.ycombinator.com/item?id=37999035)
+
 ## 20231024
 - [Hacker News](https://news.ycombinator.com/front) | [Protomaps – A free and open source map of the world](https://news.ycombinator.com/item?id=37982621)
 

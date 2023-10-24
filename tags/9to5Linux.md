@@ -1,3 +1,6 @@
+## 20231025
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.9 Improves Plasma Wayland and Flatpak-Based GNOME Apps](https://9to5linux.com/kde-plasma-5-27-9-improves-plasma-wayland-and-flatpak-based-gnome-apps)
+
 ## 20231024
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 119 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-119-is-now-available-for-download-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 22nd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-22nd-2023)

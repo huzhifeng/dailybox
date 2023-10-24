@@ -1,3 +1,6 @@
+## 20231025
+- [This week in KDE](https://pointieststick.com/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/)
+
 ## 20231022
 - [This week in KDE](https://pointieststick.com/) | [No TWiK this week](https://pointieststick.com/2023/10/21/no-twik-this-week/)
 

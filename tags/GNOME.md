@@ -1,3 +1,6 @@
+## 20231025
+- [Planet GNOME](https://planet.gnome.org/) | [Fix Fedora IPU6 not working on Dell laptops with kernel 6.5](https://hansdegoede.livejournal.com/27809.html)
+
 ## 20231024
 - [Planet GNOME](https://planet.gnome.org/) | [Project blogs are now welcome on Planet GNOME!](https://feborg.es/project-blogs-now-on-planet-gnome/)
 

@@ -1,3 +1,8 @@
+## 20231025
+- [Kagi Small Web](https://kagi.com/smallweb) | [An Idea for a Grand Adventure](http://gergo.erdi.hu/blog/2023-10-24-an_idea_for_a_grand_adventure)
+- [Kagi Small Web](https://kagi.com/smallweb) | [An Idea for a Grand Adventure](http://gergo.erdi.hu/blog/2023-10-24-an_idea_for_a_grand_adventure)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Value of a Statistical Life (VSL): Time for an Update?](https://conversableeconomist.com/2023/10/24/value-of-a-statistical-life-vsl-time-for-an-update/)
+
 ## 20231017
 - [Kagi Small Web](https://kagi.com/smallweb) | [September 2023 monthly update](https://agateau.com/2023/2023-09-update)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Auto-increment field with Prisma](https://www.cheehow.dev/blog/2023/10/17/autoincrement-field-with-prisma)

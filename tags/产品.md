@@ -1,3 +1,8 @@
+## 20231025
+- [Product Hunt](https://www.producthunt.com) | [AgencyOS](https://www.producthunt.com/posts/agencyos)
+- [Product Hunt](https://www.producthunt.com) | [Questgen.ai](https://www.producthunt.com/posts/questgen-ai)
+- [Product Hunt](https://www.producthunt.com) | [ChatDox AI 2.0](https://www.producthunt.com/posts/chatdox-ai-2-0)
+
 ## 20231024
 - [Product Hunt](https://www.producthunt.com) | [Reforge Artifacts](https://www.producthunt.com/posts/reforge-artifacts)
 - [Product Hunt](https://www.producthunt.com) | [PDFMonkey](https://www.producthunt.com/posts/pdfmonkey)
