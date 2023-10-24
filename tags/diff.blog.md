@@ -1,3 +1,7 @@
+## 20231025
+- [diff.blog](https://diff.blog/) | [We Just Gave $500,000 to Open Source Maintainers](https://diff.blog/post/we-just-gave-500000-to-open-source-maintainers-159241/)
+- [diff.blog](https://diff.blog/) | [Why We Don’t Generate Elliptic Curves Every Day](https://diff.blog/post/why-we-dont-generate-elliptic-curves-every-day-159224/)
+
 ## 20231021
 - [diff.blog](https://diff.blog/) | [What's new in C# 12: overview](https://diff.blog/post/whats-new-in-c-12-overview-158853/)
 - [diff.blog](https://diff.blog/) | [Does Go Have Subtyping?](https://diff.blog/post/does-go-have-subtyping-158845/)

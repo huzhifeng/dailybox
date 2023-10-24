@@ -1,3 +1,11 @@
+## 20231025
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1164 艺术家使用图像投毒工具反击生成式人工智能](https://linux.cn/article-16314-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.9 Improves Plasma Wayland and Flatpak-Based GNOME Apps](https://9to5linux.com/kde-plasma-5-27-9-improves-plasma-wayland-and-flatpak-based-gnome-apps)
+- [Planet GNOME](https://planet.gnome.org/) | [Fix Fedora IPU6 not working on Dell laptops with kernel 6.5](https://hansdegoede.livejournal.com/27809.html)
+- [Planet KDE](https://planet.kde.org/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.9, Bugfix Release for October](https://kde.org/announcements/plasma/5/5.27.9/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/)
+
 ## 20231024
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1163 美国 NASA 向 1977 年发射的两个旅行者探测器发送补丁](https://linux.cn/article-16311-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 119 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-119-is-now-available-for-download-heres-whats-new)

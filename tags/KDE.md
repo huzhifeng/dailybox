@@ -1,3 +1,8 @@
+## 20231025
+- [Planet KDE](https://planet.kde.org/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.9, Bugfix Release for October](https://kde.org/announcements/plasma/5/5.27.9/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/)
+
 ## 20231024
 - [Planet KDE](https://planet.kde.org/) | [Tellico 3.5.2 Released](https://tellico-project.org/tellico-3-5-2-released/?utm_source=atom_feed)
 

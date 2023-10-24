@@ -1,3 +1,6 @@
+## 20231025
+- [It's FOSS](https://itsfoss.com/) | [Install, Configure and Use Remmina on Ubuntu](https://itsfoss.com/use-remmina/)
+
 ## 20231024
 - [It's FOSS](https://itsfoss.com/) | [How to Install the Latest LibreOffice on Ubuntu](https://itsfoss.com/install-libreoffice-ubuntu/)
 
