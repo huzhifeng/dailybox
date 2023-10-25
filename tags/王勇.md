@@ -1,3 +1,6 @@
+## 20231026
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [Dell G16 在 Linux 下设置键盘灯 （逆向）](https://manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/)
+
 ## 20231021
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [基于本地 AI 大模型的 Emacs 翻译插件](https://manateelazycat.github.io/2023/10/20/use-ollama-as-translator/)
 

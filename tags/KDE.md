@@ -1,3 +1,7 @@
+## 20231026
+- [Planet KDE](https://planet.kde.org/) | [New Video by Ramon Miranda: Pattern Tricks](https://krita.org/en/item/new-video-by-ramon-miranda-pattern-tricks/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Qt for VS Code, the TL;DR version](https://www.kdab.com/qt-for-vs-code-the-tldr-version/?utm_source=atom_feed)
+
 ## 20231025
 - [Planet KDE](https://planet.kde.org/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.9, Bugfix Release for October](https://kde.org/announcements/plasma/5/5.27.9/?utm_source=atom_feed)

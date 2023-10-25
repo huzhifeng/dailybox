@@ -1,3 +1,6 @@
+## 20231026
+- [TED Talks Daily](https://www.ted.com/talks) | [How to make learning as addictive as social media | Luis von Ahn](https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media?rss)
+
 ## 20231025
 - [TED Talks Daily](https://www.ted.com/talks) | [Caregiving is real work — let's treat it that way | Sharmi Surianarain](https://www.ted.com/talks/sharmi_surianarain_caregiving_is_real_work_let_s_treat_it_that_way?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [A cleaner world could start in a rice field | Jim Whitaker and Jessica Whitaker Allen](https://www.ted.com/talks/jim_whitaker_and_jessica_whitaker_allen_a_cleaner_world_could_start_in_a_rice_field?rss)

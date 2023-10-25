@@ -1,3 +1,6 @@
+## 20231026
+- [Planet GNOME](https://planet.gnome.org/) | [Introspection’s edge](https://www.bassi.io/articles/2023/10/25/introspections-edge/)
+
 ## 20231025
 - [Planet GNOME](https://planet.gnome.org/) | [Fix Fedora IPU6 not working on Dell laptops with kernel 6.5](https://hansdegoede.livejournal.com/27809.html)
 

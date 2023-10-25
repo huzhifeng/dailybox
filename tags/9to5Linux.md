@@ -1,3 +1,6 @@
+## 20231026
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Linux Gaming Laptops Powered by AMD Ryzen 7000 Series CPUs Are Back](https://9to5linux.com/tuxedo-linux-gaming-laptops-powered-by-amd-ryzen-7000-series-cpus-are-back)
+
 ## 20231025
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.9 Improves Plasma Wayland and Flatpak-Based GNOME Apps](https://9to5linux.com/kde-plasma-5-27-9-improves-plasma-wayland-and-flatpak-based-gnome-apps)
 

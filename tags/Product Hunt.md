@@ -1,3 +1,8 @@
+## 20231026
+- [Product Hunt](https://www.producthunt.com) | [Tabular](https://www.producthunt.com/posts/tabular-2)
+- [Product Hunt](https://www.producthunt.com) | [Componly](https://www.producthunt.com/posts/componly)
+- [Product Hunt](https://www.producthunt.com) | [Entrepreneurial Wisdom In Memes](https://www.producthunt.com/posts/entrepreneurial-wisdom-in-memes)
+
 ## 20231025
 - [Product Hunt](https://www.producthunt.com) | [AgencyOS](https://www.producthunt.com/posts/agencyos)
 - [Product Hunt](https://www.producthunt.com) | [Questgen.ai](https://www.producthunt.com/posts/questgen-ai)

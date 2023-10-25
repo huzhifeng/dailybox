@@ -1,3 +1,8 @@
+## 20231026
+- [Slashdot](https://developers.slashdot.org/) | [Pope Francis Encourages More Children To Code](https://developers.slashdot.org/story/23/10/25/193203/pope-francis-encourages-more-children-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [SiFive Lays Off Hundreds of RISC-V Developers](https://hardware.slashdot.org/story/23/10/25/0151254/sifive-lays-off-hundreds-of-risc-v-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [ICE Uses Tool To Find 'Derogatory' Speech Online](https://developers.slashdot.org/story/23/10/24/2149259/ice-uses-tool-to-find-derogatory-speech-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231021
 - [Slashdot](https://developers.slashdot.org/) | [Code.org Presses Washington To Make Computer Science a High School Graduation Requirement](https://news.slashdot.org/story/23/10/20/0018202/codeorg-presses-washington-to-make-computer-science-a-high-school-graduation-requirement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

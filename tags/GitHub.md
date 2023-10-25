@@ -1,3 +1,6 @@
+## 20231026
+- [GitHub Advanced Search](https://github.com/search/advanced) | [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)
+
 ## 20231016
 - [GitHub Advanced Search](https://github.com/search/advanced) | [RealKai42/liu-yao-divining](https://github.com/RealKai42/liu-yao-divining)
 
