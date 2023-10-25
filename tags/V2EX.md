@@ -1,3 +1,8 @@
+## 20231026
+- [V2EX](https://www.v2ex.com/) | [大家身边失业的人多吗](https://www.v2ex.com/t/985245)
+- [V2EX](https://www.v2ex.com/) | [语雀当机， Notion 莫名躺枪， Obsidian 成为最大赢家](https://www.v2ex.com/t/985226)
+- [V2EX](https://www.v2ex.com/) | [语雀这路子太野了](https://www.v2ex.com/t/985202)
+
 ## 20231025
 - [V2EX](https://www.v2ex.com/) | [小城市和大城市差距最大的是医疗，这是致命的，直接决定你的寿命](https://www.v2ex.com/t/984900)
 - [V2EX](https://www.v2ex.com/) | [有没有骑摩托的老哥啊 新手求推荐摩托和盔](https://www.v2ex.com/t/984819)

@@ -1,3 +1,10 @@
+## 20231026
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1165 Windows CE 彻底落幕](https://linux.cn/article-16317-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Linux Gaming Laptops Powered by AMD Ryzen 7000 Series CPUs Are Back](https://9to5linux.com/tuxedo-linux-gaming-laptops-powered-by-amd-ryzen-7000-series-cpus-are-back)
+- [Planet GNOME](https://planet.gnome.org/) | [Introspection’s edge](https://www.bassi.io/articles/2023/10/25/introspections-edge/)
+- [Planet KDE](https://planet.kde.org/) | [New Video by Ramon Miranda: Pattern Tricks](https://krita.org/en/item/new-video-by-ramon-miranda-pattern-tricks/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Qt for VS Code, the TL;DR version](https://www.kdab.com/qt-for-vs-code-the-tldr-version/?utm_source=atom_feed)
+
 ## 20231025
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1164 艺术家使用图像投毒工具反击生成式人工智能](https://linux.cn/article-16314-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.9 Improves Plasma Wayland and Flatpak-Based GNOME Apps](https://9to5linux.com/kde-plasma-5-27-9-improves-plasma-wayland-and-flatpak-based-gnome-apps)

@@ -1,3 +1,6 @@
+## 20231026
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://news.ycombinator.com/item?id=38012032)
+
 ## 20231025
 - [Hacker News](https://news.ycombinator.com/front) | [California suspends GM Cruise's autonomous vehicle deployment](https://news.ycombinator.com/item?id=38002752)
 - [Hacker News](https://news.ycombinator.com/front) | [Halfsies](https://news.ycombinator.com/item?id=38000551)
