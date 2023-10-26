@@ -1,3 +1,8 @@
+## 20231027
+- [V2EX](https://www.v2ex.com/) | [不想洗内裤怎么办，觉得好麻烦](https://www.v2ex.com/t/985699)
+- [V2EX](https://www.v2ex.com/) | [经历了有史以来工作中最大的奇耻大辱](https://www.v2ex.com/t/985680)
+- [V2EX](https://www.v2ex.com/) | [小米 14 / 骁龙 8Gen3 发布了](https://www.v2ex.com/t/985613)
+
 ## 20231026
 - [V2EX](https://www.v2ex.com/) | [大家身边失业的人多吗](https://www.v2ex.com/t/985245)
 - [V2EX](https://www.v2ex.com/) | [语雀当机， Notion 莫名躺枪， Obsidian 成为最大赢家](https://www.v2ex.com/t/985226)

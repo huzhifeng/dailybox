@@ -1,3 +1,8 @@
+## 20231027
+- [Product Hunt](https://www.producthunt.com) | [ResolveAI](https://www.producthunt.com/posts/resolveai-2)
+- [Product Hunt](https://www.producthunt.com) | [HelpBar.ai](https://www.producthunt.com/posts/helpbar-ai)
+- [Product Hunt](https://www.producthunt.com) | [Mayfair](https://www.producthunt.com/posts/mayfair-2)
+
 ## 20231026
 - [Product Hunt](https://www.producthunt.com) | [Tabular](https://www.producthunt.com/posts/tabular-2)
 - [Product Hunt](https://www.producthunt.com) | [Componly](https://www.producthunt.com/posts/componly)

@@ -1,3 +1,7 @@
+## 20231027
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.43: New Peppermint Mini Distro, Remmina Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-23-43/)
+- [It's FOSS](https://itsfoss.com/) | [Cut, Copy and Paste in Vim](https://itsfoss.com/vim-cut-copy-paste/)
+
 ## 20231025
 - [It's FOSS](https://itsfoss.com/) | [Install, Configure and Use Remmina on Ubuntu](https://itsfoss.com/use-remmina/)
 

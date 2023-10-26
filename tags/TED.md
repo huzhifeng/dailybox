@@ -1,3 +1,7 @@
+## 20231027
+- [TED Talks Daily](https://www.ted.com/talks) | [A simple way to inspire your team | David Burkus](https://www.ted.com/talks/david_burkus_a_simple_way_to_inspire_your_team?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [How comedy helps us deal with hard truths | Roy Wood Jr.](https://www.ted.com/talks/roy_wood_jr_how_comedy_helps_us_deal_with_hard_truths?rss)
+
 ## 20231026
 - [TED Talks Daily](https://www.ted.com/talks) | [How to make learning as addictive as social media | Luis von Ahn](https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media?rss)
 

@@ -1,3 +1,7 @@
+## 20231027
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 Beta2 released](https://www.qt.io/blog/qt-creator-12-beta2-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Reworking Recent Files search for Plasma 6](https://write.as/alexander-lohnau/reworking-recent-files-search-for-plasma-6?pk_campaign=rss-feed?utm_source=atom_feed)
+
 ## 20231026
 - [Planet KDE](https://planet.kde.org/) | [New Video by Ramon Miranda: Pattern Tricks](https://krita.org/en/item/new-video-by-ramon-miranda-pattern-tricks/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Qt for VS Code, the TL;DR version](https://www.kdab.com/qt-for-vs-code-the-tldr-version/?utm_source=atom_feed)

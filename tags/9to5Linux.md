@@ -1,3 +1,7 @@
+## 20231027
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 to Ship with Cinnamon 6.0 and Experimental Wayland Support](https://9to5linux.com/linux-mint-21-3-to-ship-with-cinnamon-6-0-and-experimental-wayland-support)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.1 Improves Flatpak Permission Checks, Adds Support for More CPUs](https://9to5linux.com/gnome-45-1-improves-flatpak-permission-checks-adds-support-for-more-cpus)
+
 ## 20231026
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Linux Gaming Laptops Powered by AMD Ryzen 7000 Series CPUs Are Back](https://9to5linux.com/tuxedo-linux-gaming-laptops-powered-by-amd-ryzen-7000-series-cpus-are-back)
 
