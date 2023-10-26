@@ -1,3 +1,7 @@
+## 20231027
+- [Hacker News](https://news.ycombinator.com/front) | [The negative impact of mobile-first web design on desktop](https://news.ycombinator.com/item?id=38025767)
+- [Hacker News](https://news.ycombinator.com/front) | [Oxide: The Cloud Computer](https://news.ycombinator.com/item?id=38023891)
+
 ## 20231026
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://news.ycombinator.com/item?id=38012032)
 

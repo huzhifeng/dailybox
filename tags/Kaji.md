@@ -1,3 +1,8 @@
+## 20231027
+- [Kagi Small Web](https://kagi.com/smallweb) | [Relax](https://samim.io/p/2023-10-26-best-practice)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Why can't you multiply vectors? [Dutch Game Day, 2023]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Ancestor Trees](https://haptalaon.dreamwidth.org/149740.html)
+
 ## 20231025
 - [Kagi Small Web](https://kagi.com/smallweb) | [An Idea for a Grand Adventure](http://gergo.erdi.hu/blog/2023-10-24-an_idea_for_a_grand_adventure)
 - [Kagi Small Web](https://kagi.com/smallweb) | [An Idea for a Grand Adventure](http://gergo.erdi.hu/blog/2023-10-24-an_idea_for_a_grand_adventure)

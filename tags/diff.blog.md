@@ -1,3 +1,8 @@
+## 20231027
+- [diff.blog](https://diff.blog/) | [A tale of broken badges and 23,000 features](https://diff.blog/post/a-tale-of-broken-badges-and-23000-features-159372/)
+- [diff.blog](https://diff.blog/) | [Frontier risk and preparedness](https://diff.blog/post/frontier-risk-and-preparedness-159394/)
+- [diff.blog](https://diff.blog/) | [Running the “Reflections on Trusting Trust” Compiler](https://diff.blog/post/running-the-reflections-on-trusting-trust-compiler-159330/)
+
 ## 20231025
 - [diff.blog](https://diff.blog/) | [We Just Gave $500,000 to Open Source Maintainers](https://diff.blog/post/we-just-gave-500000-to-open-source-maintainers-159241/)
 - [diff.blog](https://diff.blog/) | [Why We Don’t Generate Elliptic Curves Every Day](https://diff.blog/post/why-we-dont-generate-elliptic-curves-every-day-159224/)

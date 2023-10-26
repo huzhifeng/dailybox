@@ -1,3 +1,11 @@
+## 20231027
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1167 连谷歌 CEO 都不了解谷歌的隐私控制措施](https://linux.cn/article-16322-1.html?utm_source=rss&utm_medium=rss)
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1166 微软 CEO 称过早放弃了 Windows Phone](https://linux.cn/article-16320-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 to Ship with Cinnamon 6.0 and Experimental Wayland Support](https://9to5linux.com/linux-mint-21-3-to-ship-with-cinnamon-6-0-and-experimental-wayland-support)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.1 Improves Flatpak Permission Checks, Adds Support for More CPUs](https://9to5linux.com/gnome-45-1-improves-flatpak-permission-checks-adds-support-for-more-cpus)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 Beta2 released](https://www.qt.io/blog/qt-creator-12-beta2-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Reworking Recent Files search for Plasma 6](https://write.as/alexander-lohnau/reworking-recent-files-search-for-plasma-6?pk_campaign=rss-feed?utm_source=atom_feed)
+
 ## 20231026
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1165 Windows CE 彻底落幕](https://linux.cn/article-16317-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Linux Gaming Laptops Powered by AMD Ryzen 7000 Series CPUs Are Back](https://9to5linux.com/tuxedo-linux-gaming-laptops-powered-by-amd-ryzen-7000-series-cpus-are-back)
