@@ -1,3 +1,7 @@
+## 20231028
+- [Hacker News](https://news.ycombinator.com/front) | ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://news.ycombinator.com/item?id=38040468)
+- [Hacker News](https://news.ycombinator.com/front) | [Lean4 helped Terence Tao discover a small bug in his recent paper](https://news.ycombinator.com/item?id=38035672)
+
 ## 20231027
 - [Hacker News](https://news.ycombinator.com/front) | [The negative impact of mobile-first web design on desktop](https://news.ycombinator.com/item?id=38025767)
 - [Hacker News](https://news.ycombinator.com/front) | [Oxide: The Cloud Computer](https://news.ycombinator.com/item?id=38023891)

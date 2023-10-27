@@ -1,3 +1,11 @@
+## 20231028
+- [Planet GNOME](https://planet.gnome.org/) | [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
+- [Planet GNOME](https://planet.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDEneon Plasma Release, Unstable BOOM, Snaps, and Debian](https://www.scarlettgatelymoore.dev/kde-kdeneon-plasma-release-unstable-boom-snaps-and-debian/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 KDE Goals: a review and plans moving forward](https://tube.kockatoo.org/w/vvjvWihhFBNFCtWY3hnhjc?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 Measuring energy consumption of software](https://tube.kockatoo.org/w/9HTwqF9tETTRgmSiBgAssw?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
+
 ## 20231027
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1167 连谷歌 CEO 都不了解谷歌的隐私控制措施](https://linux.cn/article-16322-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1166 微软 CEO 称过早放弃了 Windows Phone](https://linux.cn/article-16320-1.html?utm_source=rss&utm_medium=rss)

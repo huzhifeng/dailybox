@@ -1,3 +1,8 @@
+## 20231028
+- [V2EX](https://www.v2ex.com/) | [难道就这样过完一生吗？](https://www.v2ex.com/t/986042)
+- [V2EX](https://www.v2ex.com/) | [我想问下不支持不买电车的那波人是在担心什么？](https://www.v2ex.com/t/985987)
+- [V2EX](https://www.v2ex.com/) | [如果可以不工作，你想做什么？](https://www.v2ex.com/t/985967)
+
 ## 20231027
 - [V2EX](https://www.v2ex.com/) | [不想洗内裤怎么办，觉得好麻烦](https://www.v2ex.com/t/985699)
 - [V2EX](https://www.v2ex.com/) | [经历了有史以来工作中最大的奇耻大辱](https://www.v2ex.com/t/985680)

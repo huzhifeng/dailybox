@@ -1,3 +1,8 @@
+## 20231028
+- [Planet GNOME](https://planet.gnome.org/) | [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
+- [Planet GNOME](https://planet.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
+
 ## 20231026
 - [Planet GNOME](https://planet.gnome.org/) | [Introspection’s edge](https://www.bassi.io/articles/2023/10/25/introspections-edge/)
 

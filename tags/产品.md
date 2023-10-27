@@ -1,3 +1,8 @@
+## 20231028
+- [Product Hunt](https://www.producthunt.com) | [Baseless](https://www.producthunt.com/posts/baseless)
+- [Product Hunt](https://www.producthunt.com) | [MagicPost](https://www.producthunt.com/posts/magicpost)
+- [Product Hunt](https://www.producthunt.com) | [FocusFusion](https://www.producthunt.com/posts/focusfusion)
+
 ## 20231027
 - [Product Hunt](https://www.producthunt.com) | [ResolveAI](https://www.producthunt.com/posts/resolveai-2)
 - [Product Hunt](https://www.producthunt.com) | [HelpBar.ai](https://www.producthunt.com/posts/helpbar-ai)

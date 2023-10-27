@@ -1,3 +1,6 @@
+## 20231028
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
+
 ## 20231021
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#118 Performant Terminals](https://thisweek.gnome.org/posts/2023/10/twig-118/)
 
