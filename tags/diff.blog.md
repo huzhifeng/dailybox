@@ -1,3 +1,6 @@
+## 20231029
+- [diff.blog](https://diff.blog/) | [How I learned to stop worrying and love byte ordering](https://diff.blog/post/how-i-learned-to-stop-worrying-and-love-byte-ordering-159503/)
+
 ## 20231027
 - [diff.blog](https://diff.blog/) | [A tale of broken badges and 23,000 features](https://diff.blog/post/a-tale-of-broken-badges-and-23000-features-159372/)
 - [diff.blog](https://diff.blog/) | [Frontier risk and preparedness](https://diff.blog/post/frontier-risk-and-preparedness-159394/)

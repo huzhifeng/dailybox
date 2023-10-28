@@ -1,3 +1,8 @@
+## 20231029
+- [Product Hunt](https://www.producthunt.com) | [PHP Secure](https://www.producthunt.com/posts/php-secure)
+- [Product Hunt](https://www.producthunt.com) | [1000.tools](https://www.producthunt.com/posts/1000-tools)
+- [Product Hunt](https://www.producthunt.com) | [Chatgot](https://www.producthunt.com/posts/chatgot)
+
 ## 20231028
 - [Product Hunt](https://www.producthunt.com) | [Baseless](https://www.producthunt.com/posts/baseless)
 - [Product Hunt](https://www.producthunt.com) | [MagicPost](https://www.producthunt.com/posts/magicpost)

@@ -1,3 +1,6 @@
+## 20231029
+- [Hacker News](https://news.ycombinator.com/front) | [The fun factor of the video game Uplink](https://news.ycombinator.com/item?id=38047861)
+
 ## 20231028
 - [Hacker News](https://news.ycombinator.com/front) | ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://news.ycombinator.com/item?id=38040468)
 - [Hacker News](https://news.ycombinator.com/front) | [Lean4 helped Terence Tao discover a small bug in his recent paper](https://news.ycombinator.com/item?id=38035672)
