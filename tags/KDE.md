@@ -1,3 +1,9 @@
+## 20231029
+- [Planet KDE](https://planet.kde.org/) | [Long Covid Sucks. No, Really, it Does, and if You haven’t got it by Now, You Probably Will.](https://valdyas.org/fading/politics/long-covid-sucks-no-really-it-does-and-if-you-havent-got-it-by-now-you-probably-will/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [These past 2 weeks in KDE: Wayland color management, the desktop cube returns, and optional shadows in Spectacle](https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [My work in KDE for October 2023](https://redstrate.com/blog/2023/10/my-work-in-kde-for-october-2023/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [These past 2 weeks in KDE: Wayland color management, the desktop cube returns, and optional shadows in Spectacle](https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/)
+
 ## 20231028
 - [Planet KDE](https://planet.kde.org/) | [KDE: KDEneon Plasma Release, Unstable BOOM, Snaps, and Debian](https://www.scarlettgatelymoore.dev/kde-kdeneon-plasma-release-unstable-boom-snaps-and-debian/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Akademy 2023 KDE Goals: a review and plans moving forward](https://tube.kockatoo.org/w/vvjvWihhFBNFCtWY3hnhjc?utm_source=atom_feed)

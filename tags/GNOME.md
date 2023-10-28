@@ -1,3 +1,6 @@
+## 20231029
+- [Planet GNOME](https://planet.gnome.org/) | [FlatSync Status Update](https://blog.timfb.dev/posts/2023/10/28/flatsync-status-update.html)
+
 ## 20231028
 - [Planet GNOME](https://planet.gnome.org/) | [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 - [Planet GNOME](https://planet.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)

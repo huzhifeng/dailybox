@@ -1,3 +1,8 @@
+## 20231029
+- [V2EX](https://www.v2ex.com/) | [老人想把农村的房子卖了 再买市里的房子 靠谱吗](https://www.v2ex.com/t/986266)
+- [V2EX](https://www.v2ex.com/) | [大家是怎么规划父母的医保的？](https://www.v2ex.com/t/986227)
+- [V2EX](https://www.v2ex.com/) | [V 友们，想问一下大家密码都是明文放在电脑上吗？还是用加密文件保存](https://www.v2ex.com/t/986217)
+
 ## 20231028
 - [V2EX](https://www.v2ex.com/) | [难道就这样过完一生吗？](https://www.v2ex.com/t/986042)
 - [V2EX](https://www.v2ex.com/) | [我想问下不支持不买电车的那波人是在担心什么？](https://www.v2ex.com/t/985987)

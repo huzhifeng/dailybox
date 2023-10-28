@@ -1,3 +1,6 @@
+## 20231029
+- [This week in KDE](https://pointieststick.com/) | [These past 2 weeks in KDE: Wayland color management, the desktop cube returns, and optional shadows in Spectacle](https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/)
+
 ## 20231025
 - [This week in KDE](https://pointieststick.com/) | [David Edmundson on Wayland and Quake for blind people](https://pointieststick.com/2023/10/23/david-edmundson-on-wayland-and-quake-for-blind-people/)
 
