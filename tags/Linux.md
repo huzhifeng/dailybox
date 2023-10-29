@@ -1,3 +1,7 @@
+## 20231030
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1169 KDE 桌面立方体效果回归](https://linux.cn/article-16328-1.html?utm_source=rss&utm_medium=rss)
+- [Slashdot](https://linux.slashdot.org/) | [Experimental Project Attempts a Python Virtual Shell for Linux](https://developers.slashdot.org/story/23/10/29/1610218/experimental-project-attempts-a-python-virtual-shell-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231029
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1168 Linux Mint 开始用“罗密欧”为新功能和下一个版本作准备](https://linux.cn/article-16324-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [FlatSync Status Update](https://blog.timfb.dev/posts/2023/10/28/flatsync-status-update.html)

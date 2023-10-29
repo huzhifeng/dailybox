@@ -1,3 +1,7 @@
+## 20231030
+- [Hacker News](https://news.ycombinator.com/front) | [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://news.ycombinator.com/item?id=38057591)
+- [Hacker News](https://news.ycombinator.com/front) | [Giving a Shit as a Service (2022)](https://news.ycombinator.com/item?id=38056637)
+
 ## 20231029
 - [Hacker News](https://news.ycombinator.com/front) | [The fun factor of the video game Uplink](https://news.ycombinator.com/item?id=38047861)
 
