@@ -1,3 +1,8 @@
+## 20231030
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: Share your Work in Progress shots!](https://forum.melonland.net/index.php?topic=2213.msg21309#msg21309)
+- [Kagi Small Web](https://kagi.com/smallweb) | [color inside of the lines](https://putah-creek.tumblr.com/post/732538269019013120)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Revisitation 148: Soul Man.](https://thesolarpool.weebly.com/blog/revisitation-148-soul-man)
+
 ## 20231027
 - [Kagi Small Web](https://kagi.com/smallweb) | [Relax](https://samim.io/p/2023-10-26-best-practice)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Why can't you multiply vectors? [Dutch Game Day, 2023]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)

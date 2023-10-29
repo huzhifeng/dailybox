@@ -1,3 +1,8 @@
+## 20231030
+- [Product Hunt](https://www.producthunt.com) | [GetMax](https://www.producthunt.com/posts/getmax-3)
+- [Product Hunt](https://www.producthunt.com) | [Idea Spark](https://www.producthunt.com/posts/idea-spark-3)
+- [Product Hunt](https://www.producthunt.com) | [150+ Digital Products Ideas](https://www.producthunt.com/posts/150-digital-products-ideas)
+
 ## 20231029
 - [Product Hunt](https://www.producthunt.com) | [PHP Secure](https://www.producthunt.com/posts/php-secure)
 - [Product Hunt](https://www.producthunt.com) | [1000.tools](https://www.producthunt.com/posts/1000-tools)

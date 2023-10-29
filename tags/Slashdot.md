@@ -1,3 +1,7 @@
+## 20231030
+- [Slashdot](https://linux.slashdot.org/) | [Experimental Project Attempts a Python Virtual Shell for Linux](https://developers.slashdot.org/story/23/10/29/1610218/experimental-project-attempts-a-python-virtual-shell-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Experimental Project Attempts a Python Virtual Shell for Linux](https://developers.slashdot.org/story/23/10/29/1610218/experimental-project-attempts-a-python-virtual-shell-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231026
 - [Slashdot](https://developers.slashdot.org/) | [Pope Francis Encourages More Children To Code](https://developers.slashdot.org/story/23/10/25/193203/pope-francis-encourages-more-children-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [SiFive Lays Off Hundreds of RISC-V Developers](https://hardware.slashdot.org/story/23/10/25/0151254/sifive-lays-off-hundreds-of-risc-v-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)

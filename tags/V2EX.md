@@ -1,3 +1,8 @@
+## 20231030
+- [V2EX](https://www.v2ex.com/) | [国产系统都内置了吗，反诈突然打电话来](https://www.v2ex.com/t/986489)
+- [V2EX](https://www.v2ex.com/) | [老婆不让捡垃圾，怎么办？](https://www.v2ex.com/t/986475)
+- [V2EX](https://www.v2ex.com/) | [女生 30 岁，想转前端但非常迷茫，求指导建议](https://www.v2ex.com/t/986442)
+
 ## 20231029
 - [V2EX](https://www.v2ex.com/) | [老人想把农村的房子卖了 再买市里的房子 靠谱吗](https://www.v2ex.com/t/986266)
 - [V2EX](https://www.v2ex.com/) | [大家是怎么规划父母的医保的？](https://www.v2ex.com/t/986227)
