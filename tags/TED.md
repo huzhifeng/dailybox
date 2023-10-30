@@ -1,3 +1,6 @@
+## 20231031
+- [TED Talks Daily](https://www.ted.com/talks) | [Is superintelligent AI inevitable? | Max Tegmark](https://www.ted.com/talks/max_tegmark_is_superintelligent_ai_inevitable?rss)
+
 ## 20231028
 - [TED Talks Daily](https://www.ted.com/talks) | [How to think computationally about AI, the universe and everything | Stephen Wolfram](https://www.ted.com/talks/stephen_wolfram_how_to_think_computationally_about_ai_the_universe_and_everything?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [My quest to end the horror of gun violence in the US | Lucy McBath](https://www.ted.com/talks/lucy_mcbath_my_quest_to_end_the_horror_of_gun_violence_in_the_us?rss)

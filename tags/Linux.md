@@ -1,3 +1,9 @@
+## 20231031
+- [9to5Linux](https://9to5linux.com/) | [VLC 3.0.20 Brings Fixes for Potential Security Issue, AV1 Hardware Decoder](https://9to5linux.com/vlc-3-0-20-brings-fixes-for-potential-security-issue-av1-hardware-decoder)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.6 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-6-kernel-released-for-software-freedom-lovers)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 29th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-29th-2023)
+- [Planet GNOME](https://planet.gnome.org/) | [New Home](https://enblog.eischmann.cz/2023/10/30/new-home/)
+
 ## 20231030
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1169 KDE 桌面立方体效果回归](https://linux.cn/article-16328-1.html?utm_source=rss&utm_medium=rss)
 - [Slashdot](https://linux.slashdot.org/) | [Experimental Project Attempts a Python Virtual Shell for Linux](https://developers.slashdot.org/story/23/10/29/1610218/experimental-project-attempts-a-python-virtual-shell-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)

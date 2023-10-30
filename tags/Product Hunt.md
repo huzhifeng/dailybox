@@ -1,3 +1,8 @@
+## 20231031
+- [Product Hunt](https://www.producthunt.com) | [AI Consultant](https://www.producthunt.com/posts/ai-consultant)
+- [Product Hunt](https://www.producthunt.com) | [AI Love Code](https://www.producthunt.com/posts/ai-love-code)
+- [Product Hunt](https://www.producthunt.com) | [GenVid](https://www.producthunt.com/posts/genvid)
+
 ## 20231030
 - [Product Hunt](https://www.producthunt.com) | [GetMax](https://www.producthunt.com/posts/getmax-3)
 - [Product Hunt](https://www.producthunt.com) | [Idea Spark](https://www.producthunt.com/posts/idea-spark-3)

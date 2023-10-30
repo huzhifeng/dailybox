@@ -1,3 +1,8 @@
+## 20231031
+- [V2EX](https://www.v2ex.com/) | [远程工作，咋碰到的都是不靠谱啊](https://www.v2ex.com/t/986618)
+- [V2EX](https://www.v2ex.com/) | [程序员一般用什么洗发水来防止脱发？推荐下～](https://www.v2ex.com/t/986604)
+- [V2EX](https://www.v2ex.com/) | [看少数派的文章总有一种差生文具多的感觉](https://www.v2ex.com/t/986596)
+
 ## 20231030
 - [V2EX](https://www.v2ex.com/) | [国产系统都内置了吗，反诈突然打电话来](https://www.v2ex.com/t/986489)
 - [V2EX](https://www.v2ex.com/) | [老婆不让捡垃圾，怎么办？](https://www.v2ex.com/t/986475)

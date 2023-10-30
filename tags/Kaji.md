@@ -1,3 +1,8 @@
+## 20231031
+- [Kagi Small Web](https://kagi.com/smallweb) | [My Diary](https://degruchy.org/2023/10/30/my-diary/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [UNESCOCERATOPS KOPPELHUSAE BY JULIUS CSOTONYI](https://fossilhuntress.blogspot.com/2023/10/unescoceratops-koppelhusae-by-julius.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [We live in the AI (after internet) age](https://emanueleviola.wordpress.com/2023/10/30/we-live-in-the-ai-after-internet-age/)
+
 ## 20231030
 - [Kagi Small Web](https://kagi.com/smallweb) | [Re: Share your Work in Progress shots!](https://forum.melonland.net/index.php?topic=2213.msg21309#msg21309)
 - [Kagi Small Web](https://kagi.com/smallweb) | [color inside of the lines](https://putah-creek.tumblr.com/post/732538269019013120)
