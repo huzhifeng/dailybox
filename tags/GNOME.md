@@ -1,3 +1,6 @@
+## 20231031
+- [Planet GNOME](https://planet.gnome.org/) | [New Home](https://enblog.eischmann.cz/2023/10/30/new-home/)
+
 ## 20231029
 - [Planet GNOME](https://planet.gnome.org/) | [FlatSync Status Update](https://blog.timfb.dev/posts/2023/10/28/flatsync-status-update.html)
 

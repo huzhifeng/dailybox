@@ -1,3 +1,8 @@
+## 20231031
+- [9to5Linux](https://9to5linux.com/) | [VLC 3.0.20 Brings Fixes for Potential Security Issue, AV1 Hardware Decoder](https://9to5linux.com/vlc-3-0-20-brings-fixes-for-potential-security-issue-av1-hardware-decoder)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.6 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-6-kernel-released-for-software-freedom-lovers)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 29th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-october-29th-2023)
+
 ## 20231027
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 to Ship with Cinnamon 6.0 and Experimental Wayland Support](https://9to5linux.com/linux-mint-21-3-to-ship-with-cinnamon-6-0-and-experimental-wayland-support)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45.1 Improves Flatpak Permission Checks, Adds Support for More CPUs](https://9to5linux.com/gnome-45-1-improves-flatpak-permission-checks-adds-support-for-more-cpus)
