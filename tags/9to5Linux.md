@@ -1,3 +1,6 @@
+## 20231101
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 545.29.02 Linux Graphics Driver Is Out with Wayland Improvements, More](https://9to5linux.com/nvidia-545-29-02-linux-graphics-driver-is-out-with-wayland-improvements-more)
+
 ## 20231031
 - [9to5Linux](https://9to5linux.com/) | [VLC 3.0.20 Brings Fixes for Potential Security Issue, AV1 Hardware Decoder](https://9to5linux.com/vlc-3-0-20-brings-fixes-for-potential-security-issue-av1-hardware-decoder)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.6 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-6-kernel-released-for-software-freedom-lovers)

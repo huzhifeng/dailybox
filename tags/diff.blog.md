@@ -1,3 +1,8 @@
+## 20231101
+- [diff.blog](https://diff.blog/) | [German court bans LinkedIn from ignoring "Do Not Track" signals](https://diff.blog/post/german-court-bans-linkedin-from-ignoring-do-not-track-signals-159682/)
+- [diff.blog](https://diff.blog/) | [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](https://diff.blog/post/reverse-engineering-ethernet-backoff-on-the-intel-82586-network-chips-die-159731/)
+- [diff.blog](https://diff.blog/) | [A glimpse of the next generation of AlphaFold](https://diff.blog/post/a-glimpse-of-the-next-generation-of-alphafold-159714/)
+
 ## 20231029
 - [diff.blog](https://diff.blog/) | [How I learned to stop worrying and love byte ordering](https://diff.blog/post/how-i-learned-to-stop-worrying-and-love-byte-ordering-159503/)
 

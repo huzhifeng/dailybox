@@ -1,3 +1,6 @@
+## 20231101
+- [Planet KDE](https://planet.kde.org/) | [Direct3D 12 Support in Qt 6.6](https://www.qt.io/blog/direct3d-12-support-in-qt-6.6?utm_source=atom_feed)
+
 ## 20231029
 - [Planet KDE](https://planet.kde.org/) | [Long Covid Sucks. No, Really, it Does, and if You haven’t got it by Now, You Probably Will.](https://valdyas.org/fading/politics/long-covid-sucks-no-really-it-does-and-if-you-havent-got-it-by-now-you-probably-will/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [These past 2 weeks in KDE: Wayland color management, the desktop cube returns, and optional shadows in Spectacle](https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/?utm_source=atom_feed)

@@ -1,3 +1,6 @@
+## 20231101
+- [TED Talks Daily](https://www.ted.com/talks) | [AI is dangerous, but not for the reasons you think | Sasha Luccioni](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think?rss)
+
 ## 20231031
 - [TED Talks Daily](https://www.ted.com/talks) | [Is superintelligent AI inevitable? | Max Tegmark](https://www.ted.com/talks/max_tegmark_is_superintelligent_ai_inevitable?rss)
 
