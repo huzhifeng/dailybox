@@ -1,3 +1,6 @@
+## 20231101
+- [BMPI](https://www.bmpi.dev/) | [海外银行证券开户薅羊毛小记](https://www.bmpi.dev/money/guide-to-open-sg-bank/)
+
 ## 20230522
 - [BMPI](https://www.bmpi.dev/) | [我与ChatGPT结对编程的体验](https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/)
 

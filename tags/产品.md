@@ -1,3 +1,8 @@
+## 20231101
+- [Product Hunt](https://www.producthunt.com) | [KonnectzIT](https://www.producthunt.com/posts/konnectzit)
+- [Product Hunt](https://www.producthunt.com) | [Formbricks](https://www.producthunt.com/posts/formbricks)
+- [Product Hunt](https://www.producthunt.com) | [Avatarly](https://www.producthunt.com/posts/avatarly)
+
 ## 20231031
 - [Product Hunt](https://www.producthunt.com) | [AI Consultant](https://www.producthunt.com/posts/ai-consultant)
 - [Product Hunt](https://www.producthunt.com) | [AI Love Code](https://www.producthunt.com/posts/ai-love-code)

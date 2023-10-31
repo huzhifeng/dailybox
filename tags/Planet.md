@@ -1,3 +1,7 @@
+## 20231101
+- [Planet GNOME](https://planet.gnome.org/) | [Stuttgart 2005: Memories of GUADECs past](https://viruta.org/guadecs-past-2005.html)
+- [Planet KDE](https://planet.kde.org/) | [Direct3D 12 Support in Qt 6.6](https://www.qt.io/blog/direct3d-12-support-in-qt-6.6?utm_source=atom_feed)
+
 ## 20231031
 - [Planet GNOME](https://planet.gnome.org/) | [New Home](https://enblog.eischmann.cz/2023/10/30/new-home/)
 

@@ -1,3 +1,8 @@
+## 20231101
+- [V2EX](https://www.v2ex.com/) | [再也不点外卖了!就是别人吃剩的](https://www.v2ex.com/t/987074)
+- [V2EX](https://www.v2ex.com/) | [[小红书副业利器] 嘴替笔记又更新人设了！送体验额度！](https://www.v2ex.com/t/987010)
+- [V2EX](https://www.v2ex.com/) | [理性讨论：苹果是否属于奢侈品](https://www.v2ex.com/t/986990)
+
 ## 20231031
 - [V2EX](https://www.v2ex.com/) | [远程工作，咋碰到的都是不靠谱啊](https://www.v2ex.com/t/986618)
 - [V2EX](https://www.v2ex.com/) | [程序员一般用什么洗发水来防止脱发？推荐下～](https://www.v2ex.com/t/986604)

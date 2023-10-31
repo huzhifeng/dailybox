@@ -1,3 +1,8 @@
+## 20231101
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://news.ycombinator.com/item?id=38088538)
+- [Hacker News](https://news.ycombinator.com/front) | [Firefox got faster for real users in 2023](https://news.ycombinator.com/item?id=38087573)
+- [Hacker News](https://news.ycombinator.com/front) | [I've overlayed stays on a light pollution satellite map](https://news.ycombinator.com/item?id=38083484)
+
 ## 20231030
 - [Hacker News](https://news.ycombinator.com/front) | [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://news.ycombinator.com/item?id=38057591)
 - [Hacker News](https://news.ycombinator.com/front) | [Giving a Shit as a Service (2022)](https://news.ycombinator.com/item?id=38056637)

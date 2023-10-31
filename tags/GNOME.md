@@ -1,3 +1,6 @@
+## 20231101
+- [Planet GNOME](https://planet.gnome.org/) | [Stuttgart 2005: Memories of GUADECs past](https://viruta.org/guadecs-past-2005.html)
+
 ## 20231031
 - [Planet GNOME](https://planet.gnome.org/) | [New Home](https://enblog.eischmann.cz/2023/10/30/new-home/)
 
