@@ -1,3 +1,8 @@
+## 20231102
+- [Hacker News](https://news.ycombinator.com/front) | [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://news.ycombinator.com/item?id=38103733)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
+- [Hacker News](https://news.ycombinator.com/front) | [Improving deep sleep may prevent dementia, study finds](https://news.ycombinator.com/item?id=38097184)
+
 ## 20231101
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://news.ycombinator.com/item?id=38088538)
 - [Hacker News](https://news.ycombinator.com/front) | [Firefox got faster for real users in 2023](https://news.ycombinator.com/item?id=38087573)

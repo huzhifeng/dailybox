@@ -1,3 +1,8 @@
+## 20231102
+- [Product Hunt](https://www.producthunt.com) | [Onepane](https://www.producthunt.com/posts/onepane)
+- [Product Hunt](https://www.producthunt.com) | [Docus.ai](https://www.producthunt.com/posts/docus-ai)
+- [Product Hunt](https://www.producthunt.com) | [Empy.ai](https://www.producthunt.com/posts/empy-ai)
+
 ## 20231101
 - [Product Hunt](https://www.producthunt.com) | [KonnectzIT](https://www.producthunt.com/posts/konnectzit)
 - [Product Hunt](https://www.producthunt.com) | [Formbricks](https://www.producthunt.com/posts/formbricks)

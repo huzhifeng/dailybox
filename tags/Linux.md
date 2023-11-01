@@ -1,3 +1,11 @@
+## 20231102
+- [9to5Linux](https://9to5linux.com/) | [GNOME Shell and Mutter 45.1 Released with Xwayland and Wayland Improvements](https://9to5linux.com/gnome-shell-and-mutter-45-1-released-with-xwayland-and-wayland-improvements)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.7 Adds Support for More Synaptics Prometheus Fingerprint Readers](https://9to5linux.com/fwupd-1-9-7-adds-support-for-more-synaptics-prometheus-fingerprint-readers)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS (Noble Numbat) Daily Build ISOs Are Now Available for Download](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-daily-build-isos-are-now-available-for-download)
+- [Planet GNOME](https://planet.gnome.org/) | [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
+- [Planet KDE](https://planet.kde.org/) | [LLVM and dot graphs](https://kde.haraldsitter.eu/posts/llvm-dot/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [September and October in KDE PIM](https://kontact.kde.org/blog/2023/2023-11-01-kde-pim-september-october-2023/?utm_source=atom_feed)
+
 ## 20231101
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1172 德国法庭裁决浏览器的“请勿跟踪”具有法律约束力](https://linux.cn/article-16338-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 545.29.02 Linux Graphics Driver Is Out with Wayland Improvements, More](https://9to5linux.com/nvidia-545-29-02-linux-graphics-driver-is-out-with-wayland-improvements-more)

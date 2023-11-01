@@ -1,3 +1,6 @@
+## 20231102
+- [diff.blog](https://diff.blog/) | [Europe clamps down on Meta's data collection; Norway ban goes regional](https://diff.blog/post/europe-clamps-down-on-metas-data-collection-norway-ban-goes-regional-159770/)
+
 ## 20231101
 - [diff.blog](https://diff.blog/) | [German court bans LinkedIn from ignoring "Do Not Track" signals](https://diff.blog/post/german-court-bans-linkedin-from-ignoring-do-not-track-signals-159682/)
 - [diff.blog](https://diff.blog/) | [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](https://diff.blog/post/reverse-engineering-ethernet-backoff-on-the-intel-82586-network-chips-die-159731/)

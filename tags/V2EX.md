@@ -1,3 +1,8 @@
+## 20231102
+- [V2EX](https://www.v2ex.com/) | [全栈 Java 大四，多个上线项目经历，到现在一个面试都没有，简历写的有问题吗](https://www.v2ex.com/t/987463)
+- [V2EX](https://www.v2ex.com/) | [住手，你们住手，不要再打了。8GB 内存的 MacBook Pro 的定位是啥？](https://www.v2ex.com/t/987428)
+- [V2EX](https://www.v2ex.com/) | [防不胜防，防不胜防啊，经过对光猫固件分析发现更多插件](https://www.v2ex.com/t/987392)
+
 ## 20231101
 - [V2EX](https://www.v2ex.com/) | [再也不点外卖了!就是别人吃剩的](https://www.v2ex.com/t/987074)
 - [V2EX](https://www.v2ex.com/) | [[小红书副业利器] 嘴替笔记又更新人设了！送体验额度！](https://www.v2ex.com/t/987010)

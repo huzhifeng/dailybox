@@ -1,3 +1,6 @@
+## 20231102
+- [TED Talks Daily](https://www.ted.com/talks) | [The power of unconventional thinking | David McWilliams](https://www.ted.com/talks/david_mcwilliams_the_power_of_unconventional_thinking?rss)
+
 ## 20231101
 - [TED Talks Daily](https://www.ted.com/talks) | [AI is dangerous, but not for the reasons you think | Sasha Luccioni](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think?rss)
 
