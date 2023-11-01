@@ -1,3 +1,8 @@
+## 20231102
+- [9to5Linux](https://9to5linux.com/) | [GNOME Shell and Mutter 45.1 Released with Xwayland and Wayland Improvements](https://9to5linux.com/gnome-shell-and-mutter-45-1-released-with-xwayland-and-wayland-improvements)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.7 Adds Support for More Synaptics Prometheus Fingerprint Readers](https://9to5linux.com/fwupd-1-9-7-adds-support-for-more-synaptics-prometheus-fingerprint-readers)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS (Noble Numbat) Daily Build ISOs Are Now Available for Download](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-daily-build-isos-are-now-available-for-download)
+
 ## 20231101
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 545.29.02 Linux Graphics Driver Is Out with Wayland Improvements, More](https://9to5linux.com/nvidia-545-29-02-linux-graphics-driver-is-out-with-wayland-improvements-more)
 

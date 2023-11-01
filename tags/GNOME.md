@@ -1,3 +1,6 @@
+## 20231102
+- [Planet GNOME](https://planet.gnome.org/) | [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
+
 ## 20231101
 - [Planet GNOME](https://planet.gnome.org/) | [Stuttgart 2005: Memories of GUADECs past](https://viruta.org/guadecs-past-2005.html)
 

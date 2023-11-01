@@ -1,3 +1,8 @@
+## 20231102
+- [Planet GNOME](https://planet.gnome.org/) | [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
+- [Planet KDE](https://planet.kde.org/) | [LLVM and dot graphs](https://kde.haraldsitter.eu/posts/llvm-dot/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [September and October in KDE PIM](https://kontact.kde.org/blog/2023/2023-11-01-kde-pim-september-october-2023/?utm_source=atom_feed)
+
 ## 20231101
 - [Planet GNOME](https://planet.gnome.org/) | [Stuttgart 2005: Memories of GUADECs past](https://viruta.org/guadecs-past-2005.html)
 - [Planet KDE](https://planet.kde.org/) | [Direct3D 12 Support in Qt 6.6](https://www.qt.io/blog/direct3d-12-support-in-qt-6.6?utm_source=atom_feed)
