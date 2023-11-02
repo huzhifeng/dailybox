@@ -1,3 +1,7 @@
+## 20231103
+- [diff.blog](https://diff.blog/) | [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://diff.blog/post/how-we-scaled-postgresql-to-350-tb-with-10b-new-recordsday-159870/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 519](https://diff.blog/post/this-week-in-rust-519-159834/)
+
 ## 20231102
 - [diff.blog](https://diff.blog/) | [Europe clamps down on Meta's data collection; Norway ban goes regional](https://diff.blog/post/europe-clamps-down-on-metas-data-collection-norway-ban-goes-regional-159770/)
 
