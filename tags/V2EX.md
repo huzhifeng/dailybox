@@ -1,3 +1,8 @@
+## 20231103
+- [V2EX](https://www.v2ex.com/) | [结婚对戒材质选择](https://www.v2ex.com/t/987881)
+- [V2EX](https://www.v2ex.com/) | [看到有人吐槽合租的室友，我也来让你们开开眼吧...](https://www.v2ex.com/t/987867)
+- [V2EX](https://www.v2ex.com/) | [如果不做程序员了](https://www.v2ex.com/t/987785)
+
 ## 20231102
 - [V2EX](https://www.v2ex.com/) | [全栈 Java 大四，多个上线项目经历，到现在一个面试都没有，简历写的有问题吗](https://www.v2ex.com/t/987463)
 - [V2EX](https://www.v2ex.com/) | [住手，你们住手，不要再打了。8GB 内存的 MacBook Pro 的定位是啥？](https://www.v2ex.com/t/987428)

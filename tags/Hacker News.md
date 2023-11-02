@@ -1,3 +1,8 @@
+## 20231103
+- [Hacker News](https://news.ycombinator.com/front) | [Google apparently backs off on WEI](https://news.ycombinator.com/item?id=38118627)
+- [Hacker News](https://news.ycombinator.com/front) | [Confusing Git Terminology](https://news.ycombinator.com/item?id=38112951)
+- [Hacker News](https://news.ycombinator.com/front) | [Talk-Llama](https://news.ycombinator.com/item?id=38110072)
+
 ## 20231102
 - [Hacker News](https://news.ycombinator.com/front) | [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://news.ycombinator.com/item?id=38103733)
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)

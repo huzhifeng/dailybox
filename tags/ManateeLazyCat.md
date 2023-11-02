@@ -1,3 +1,6 @@
+## 20231103
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [修复 lsp-bridge 补全菜单图标大小变化的 bug](https://manateelazycat.github.io/2023/11/02/emacs-font-function/)
+
 ## 20231026
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [Dell G16 在 Linux 下设置键盘灯 （逆向）](https://manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/)
 

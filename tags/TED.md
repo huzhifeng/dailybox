@@ -1,3 +1,6 @@
+## 20231103
+- [TED Talks Daily](https://www.ted.com/talks) | [The powerful possibilities of recycling the world's batteries | Emma Nehrenheim](https://www.ted.com/talks/emma_nehrenheim_the_powerful_possibilities_of_recycling_the_world_s_batteries?rss)
+
 ## 20231102
 - [TED Talks Daily](https://www.ted.com/talks) | [The power of unconventional thinking | David McWilliams](https://www.ted.com/talks/david_mcwilliams_the_power_of_unconventional_thinking?rss)
 

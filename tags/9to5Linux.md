@@ -1,3 +1,8 @@
+## 20231103
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.8 Is Here as the Last Update in the Series, Upgrade to LibreOffice 7.6 Now](https://9to5linux.com/libreoffice-7-5-8-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-7-6-now)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Ubuntu 23.04 to Ubuntu 23.10, Here’s How](https://9to5linux.com/you-can-now-upgrade-from-ubuntu-23-04-to-ubuntu-23-10-heres-how)
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.4 Released with Music Workflows, New Exporter, and More](https://9to5linux.com/audacity-3-4-released-with-music-workflows-new-exporter-and-more)
+
 ## 20231102
 - [9to5Linux](https://9to5linux.com/) | [GNOME Shell and Mutter 45.1 Released with Xwayland and Wayland Improvements](https://9to5linux.com/gnome-shell-and-mutter-45-1-released-with-xwayland-and-wayland-improvements)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.7 Adds Support for More Synaptics Prometheus Fingerprint Readers](https://9to5linux.com/fwupd-1-9-7-adds-support-for-more-synaptics-prometheus-fingerprint-readers)

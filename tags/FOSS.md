@@ -1,3 +1,6 @@
+## 20231103
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.44: Kernel 6.6, Midori Reborn, Gaming Distros, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-23-44/)
+
 ## 20231101
 - [It's FOSS](https://itsfoss.com/) | [Install VSCodium on Fedora](https://itsfoss.com/install-vscodium-fedora/)
 
