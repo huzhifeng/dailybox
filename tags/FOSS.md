@@ -1,3 +1,6 @@
+## 20231104
+- [It's FOSS](https://itsfoss.com/) | [Using Asciiquarium for Aquarium Like Animation Effects in Linux Terminal](https://itsfoss.com/asciiquarium/)
+
 ## 20231103
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.44: Kernel 6.6, Midori Reborn, Gaming Distros, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-23-44/)
 

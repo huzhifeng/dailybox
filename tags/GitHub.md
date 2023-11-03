@@ -1,3 +1,6 @@
+## 20231104
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Kuingsmile/clash-core](https://github.com/Kuingsmile/clash-core)
+
 ## 20231026
 - [GitHub Advanced Search](https://github.com/search/advanced) | [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)
 

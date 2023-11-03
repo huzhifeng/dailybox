@@ -1,3 +1,8 @@
+## 20231104
+- [Hacker News](https://news.ycombinator.com/front) | [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://news.ycombinator.com/item?id=38130418)
+- [Hacker News](https://news.ycombinator.com/front) | [No dogs were harmed in the making of this app](https://news.ycombinator.com/item?id=38128699)
+- [Hacker News](https://news.ycombinator.com/front) | [Bringing garbage collected programming languages efficiently to WebAssembly](https://news.ycombinator.com/item?id=38125348)
+
 ## 20231103
 - [Hacker News](https://news.ycombinator.com/front) | [Google apparently backs off on WEI](https://news.ycombinator.com/item?id=38118627)
 - [Hacker News](https://news.ycombinator.com/front) | [Confusing Git Terminology](https://news.ycombinator.com/item?id=38112951)

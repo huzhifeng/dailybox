@@ -1,3 +1,10 @@
+## 20231104
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1174 OpenELA 发布用于构建 RHEL 8/9 衍生版的源代码](https://linux.cn/article-16345-1.html?utm_source=rss&utm_medium=rss)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Big fixes for Snaps! Debian and KDE neon updates.](https://www.scarlettgatelymoore.dev/kde-big-fixes-for-snaps-debian-and-kde-neon-updates/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-44](https://ervin.ipsquad.net/blog/2023/11/03/web-review-week-2023-44/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Intel's Failed 64-bit Itanium CPUs Die Another Death as Linux Support Ends](https://linux.slashdot.org/story/23/11/03/1730231/intels-failed-64-bit-itanium-cpus-die-another-death-as-linux-support-ends?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [CIQ, Oracle and SUSE Unite Behind OpenELA To Take on Red Hat Enterprise Linux](https://linux.slashdot.org/story/23/11/03/1719211/ciq-oracle-and-suse-unite-behind-openela-to-take-on-red-hat-enterprise-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231103
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.8 Is Here as the Last Update in the Series, Upgrade to LibreOffice 7.6 Now](https://9to5linux.com/libreoffice-7-5-8-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-7-6-now)
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Ubuntu 23.04 to Ubuntu 23.10, Here’s How](https://9to5linux.com/you-can-now-upgrade-from-ubuntu-23-04-to-ubuntu-23-10-heres-how)
