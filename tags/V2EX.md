@@ -1,3 +1,8 @@
+## 20231104
+- [V2EX](https://www.v2ex.com/) | [好奇大家写代码都用的什么字体](https://www.v2ex.com/t/988286)
+- [V2EX](https://www.v2ex.com/) | [Go-Spring 轻装上阵，重新出发 v1.0.0 !](https://www.v2ex.com/t/988146)
+- [V2EX](https://www.v2ex.com/) | [请问各位有什么反复购买过的东西，觉得还不错的?](https://www.v2ex.com/t/988143)
+
 ## 20231103
 - [V2EX](https://www.v2ex.com/) | [结婚对戒材质选择](https://www.v2ex.com/t/987881)
 - [V2EX](https://www.v2ex.com/) | [看到有人吐槽合租的室友，我也来让你们开开眼吧...](https://www.v2ex.com/t/987867)

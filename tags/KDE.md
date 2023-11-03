@@ -1,3 +1,7 @@
+## 20231104
+- [Planet KDE](https://planet.kde.org/) | [KDE: Big fixes for Snaps! Debian and KDE neon updates.](https://www.scarlettgatelymoore.dev/kde-big-fixes-for-snaps-debian-and-kde-neon-updates/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-44](https://ervin.ipsquad.net/blog/2023/11/03/web-review-week-2023-44/?utm_source=atom_feed)
+
 ## 20231103
 - [Planet KDE](https://planet.kde.org/) | [KQuickImageEditor 0.3.0 and Kirigami Adddons 0.12 alpha](https://carlschwan.eu/2023/11/02/kquickimageeditor-0.3.0-and-kirigami-adddons-0.12-alpha/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KUserFeedback 1.3.0](https://jriddell.org/2023/11/02/kuserfeedback-1-3-0/?utm_source=atom_feed)

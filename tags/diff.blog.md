@@ -1,3 +1,6 @@
+## 20231104
+- [diff.blog](https://diff.blog/) | [Clojure Deref (Nov 3, 2023)](https://diff.blog/post/clojure-deref-nov-3-2023-160070/)
+
 ## 20231103
 - [diff.blog](https://diff.blog/) | [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://diff.blog/post/how-we-scaled-postgresql-to-350-tb-with-10b-new-recordsday-159870/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 519](https://diff.blog/post/this-week-in-rust-519-159834/)

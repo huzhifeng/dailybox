@@ -1,3 +1,7 @@
+## 20231104
+- [Slashdot](https://linux.slashdot.org/) | [Intel's Failed 64-bit Itanium CPUs Die Another Death as Linux Support Ends](https://linux.slashdot.org/story/23/11/03/1730231/intels-failed-64-bit-itanium-cpus-die-another-death-as-linux-support-ends?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [CIQ, Oracle and SUSE Unite Behind OpenELA To Take on Red Hat Enterprise Linux](https://linux.slashdot.org/story/23/11/03/1719211/ciq-oracle-and-suse-unite-behind-openela-to-take-on-red-hat-enterprise-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231031
 - [Slashdot](https://developers.slashdot.org/) | [79% of Developers are At Least Considering a New Job, Survey Finds](https://it.slashdot.org/story/23/10/30/0510214/79-of-developers-are-at-least-considering-a-new-job-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

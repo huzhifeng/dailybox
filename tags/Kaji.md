@@ -1,3 +1,8 @@
+## 20231104
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: Check out my 404!](https://forum.melonland.net/index.php?topic=886.msg21545#msg21545)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: can i easily install windows 10 back onto my pc for a dual boot? :(](https://forum.melonland.net/index.php?topic=2204.msg21544#msg21544)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Japanese Castles and Castle Towns](https://faroutliers.com/2023/11/03/japanese-castles-and-castle-towns/)
+
 ## 20231031
 - [Kagi Small Web](https://kagi.com/smallweb) | [My Diary](https://degruchy.org/2023/10/30/my-diary/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [UNESCOCERATOPS KOPPELHUSAE BY JULIUS CSOTONYI](https://fossilhuntress.blogspot.com/2023/10/unescoceratops-koppelhusae-by-julius.html)

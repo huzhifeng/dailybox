@@ -1,3 +1,8 @@
+## 20231104
+- [Product Hunt](https://www.producthunt.com) | [AI Best Man Speech Writing Tool](https://www.producthunt.com/posts/ai-best-man-speech-writing-tool)
+- [Product Hunt](https://www.producthunt.com) | [COUPLESY](https://www.producthunt.com/posts/couplesy)
+- [Product Hunt](https://www.producthunt.com) | [PotionPitch AI](https://www.producthunt.com/posts/potionpitch-ai)
+
 ## 20231103
 - [Product Hunt](https://www.producthunt.com) | [BeforeSunset AI Teams](https://www.producthunt.com/posts/beforesunset-ai-teams)
 - [Product Hunt](https://www.producthunt.com) | [CoPilot.Live](https://www.producthunt.com/posts/copilot-live)
