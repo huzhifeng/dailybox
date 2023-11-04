@@ -1,3 +1,11 @@
+## 20231105
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1175 最重要的计算机视觉库 OpenCV 众筹新版本，应者寥寥](https://linux.cn/article-16348-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.6.0 is out](https://nibblestew.blogspot.com/2023/11/capypdf-060-is-out.html)
+- [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/)
+- [Slashdot](https://linux.slashdot.org/) | [Mozilla Introduces Firefox Nightly<nobr> <wbr></nobr>.deb Packages for Debian-based Linux Distros](https://linux.slashdot.org/story/23/11/04/0530236/mozilla-introduces-firefox-nightly-deb-packages-for-debian-based-linux-distros?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231104
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1174 OpenELA 发布用于构建 RHEL 8/9 衍生版的源代码](https://linux.cn/article-16345-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [KDE: Big fixes for Snaps! Debian and KDE neon updates.](https://www.scarlettgatelymoore.dev/kde-big-fixes-for-snaps-debian-and-kde-neon-updates/?utm_source=atom_feed)

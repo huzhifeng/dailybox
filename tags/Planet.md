@@ -1,3 +1,8 @@
+## 20231105
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.6.0 is out](https://nibblestew.blogspot.com/2023/11/capypdf-060-is-out.html)
+- [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/?utm_source=atom_feed)
+
 ## 20231104
 - [Planet KDE](https://planet.kde.org/) | [KDE: Big fixes for Snaps! Debian and KDE neon updates.](https://www.scarlettgatelymoore.dev/kde-big-fixes-for-snaps-debian-and-kde-neon-updates/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-44](https://ervin.ipsquad.net/blog/2023/11/03/web-review-week-2023-44/?utm_source=atom_feed)

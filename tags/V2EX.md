@@ -1,3 +1,8 @@
+## 20231105
+- [V2EX](https://www.v2ex.com/) | [继上一贴老婆欠网赌，查了老婆的征信，看不懂。](https://www.v2ex.com/t/988668)
+- [V2EX](https://www.v2ex.com/) | [智齿长歪了，可以不拔么](https://www.v2ex.com/t/988605)
+- [V2EX](https://www.v2ex.com/) | [软路由友善 R2S 还能买吗？](https://www.v2ex.com/t/988591)
+
 ## 20231104
 - [V2EX](https://www.v2ex.com/) | [好奇大家写代码都用的什么字体](https://www.v2ex.com/t/988286)
 - [V2EX](https://www.v2ex.com/) | [Go-Spring 轻装上阵，重新出发 v1.0.0 !](https://www.v2ex.com/t/988146)
