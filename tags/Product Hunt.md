@@ -1,3 +1,8 @@
+## 20231105
+- [Product Hunt](https://www.producthunt.com) | [Documind](https://www.producthunt.com/posts/documind)
+- [Product Hunt](https://www.producthunt.com) | [Dinesto](https://www.producthunt.com/posts/dinesto)
+- [Product Hunt](https://www.producthunt.com) | [Director Mode](https://www.producthunt.com/posts/director-mode)
+
 ## 20231104
 - [Product Hunt](https://www.producthunt.com) | [AI Best Man Speech Writing Tool](https://www.producthunt.com/posts/ai-best-man-speech-writing-tool)
 - [Product Hunt](https://www.producthunt.com) | [COUPLESY](https://www.producthunt.com/posts/couplesy)

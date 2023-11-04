@@ -1,3 +1,6 @@
+## 20231105
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/)
+
 ## 20231029
 - [This week in KDE](https://pointieststick.com/) | [These past 2 weeks in KDE: Wayland color management, the desktop cube returns, and optional shadows in Spectacle](https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/)
 

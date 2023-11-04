@@ -1,3 +1,6 @@
+## 20231105
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.6.0 is out](https://nibblestew.blogspot.com/2023/11/capypdf-060-is-out.html)
+
 ## 20231102
 - [Planet GNOME](https://planet.gnome.org/) | [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 

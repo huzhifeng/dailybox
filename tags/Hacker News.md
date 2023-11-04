@@ -1,3 +1,6 @@
+## 20231105
+- [Hacker News](https://news.ycombinator.com/front) | [Othello Is Solved](https://news.ycombinator.com/item?id=38141366)
+
 ## 20231104
 - [Hacker News](https://news.ycombinator.com/front) | [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://news.ycombinator.com/item?id=38130418)
 - [Hacker News](https://news.ycombinator.com/front) | [No dogs were harmed in the making of this app](https://news.ycombinator.com/item?id=38128699)

@@ -1,3 +1,6 @@
+## 20231105
+- [It's FOSS](https://itsfoss.com/) | [8 Websites Linux Users Should Have bookmarked](https://itsfoss.com/useful-linux-websites/)
+
 ## 20231104
 - [It's FOSS](https://itsfoss.com/) | [Using Asciiquarium for Aquarium Like Animation Effects in Linux Terminal](https://itsfoss.com/asciiquarium/)
 
