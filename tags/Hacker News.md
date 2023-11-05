@@ -1,3 +1,7 @@
+## 20231106
+- [Hacker News](https://news.ycombinator.com/front) | [Why Cities: Skylines 2 performs poorly](https://news.ycombinator.com/item?id=38153573)
+- [Hacker News](https://news.ycombinator.com/front) | [Building a high performance JSON parser](https://news.ycombinator.com/item?id=38150833)
+
 ## 20231105
 - [Hacker News](https://news.ycombinator.com/front) | [Othello Is Solved](https://news.ycombinator.com/item?id=38141366)
 

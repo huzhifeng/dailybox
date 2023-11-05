@@ -1,3 +1,8 @@
+## 20231106
+- [Product Hunt](https://www.producthunt.com) | [Orba](https://www.producthunt.com/posts/orba-2)
+- [Product Hunt](https://www.producthunt.com) | [Iconoir 7.0.0](https://www.producthunt.com/posts/iconoir-7-0-0)
+- [Product Hunt](https://www.producthunt.com) | [Insou](https://www.producthunt.com/posts/insou)
+
 ## 20231105
 - [Product Hunt](https://www.producthunt.com) | [Documind](https://www.producthunt.com/posts/documind)
 - [Product Hunt](https://www.producthunt.com) | [Dinesto](https://www.producthunt.com/posts/dinesto)

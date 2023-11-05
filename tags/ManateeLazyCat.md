@@ -1,3 +1,6 @@
+## 20231106
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [千锤百炼出深山， 烈火焚烧若等闲](https://manateelazycat.github.io/2023/11/05/eaf-qthread-crash/)
+
 ## 20231103
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [修复 lsp-bridge 补全菜单图标大小变化的 bug](https://manateelazycat.github.io/2023/11/02/emacs-font-function/)
 

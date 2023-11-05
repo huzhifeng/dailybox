@@ -1,3 +1,6 @@
+## 20231106
+- [9to5Linux](https://9to5linux.com/) | [LXQt 1.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-1-4-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20231103
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.5.8 Is Here as the Last Update in the Series, Upgrade to LibreOffice 7.6 Now](https://9to5linux.com/libreoffice-7-5-8-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-7-6-now)
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Ubuntu 23.04 to Ubuntu 23.10, Here’s How](https://9to5linux.com/you-can-now-upgrade-from-ubuntu-23-04-to-ubuntu-23-10-heres-how)
