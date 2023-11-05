@@ -1,3 +1,8 @@
+## 20231106
+- [V2EX](https://www.v2ex.com/) | [太纠结了，电梯房 + 小区环境好 + 装修一般 vs 五层爬楼梯 + 小区环境一般 + 装修很好](https://www.v2ex.com/t/988783)
+- [V2EX](https://www.v2ex.com/) | [真实希望高通努努力 尽快发布搭载骁龙 X Elite 处理器的笔记本](https://www.v2ex.com/t/988772)
+- [V2EX](https://www.v2ex.com/) | [为什么要读原著、悟原理？](https://www.v2ex.com/t/988761)
+
 ## 20231105
 - [V2EX](https://www.v2ex.com/) | [继上一贴老婆欠网赌，查了老婆的征信，看不懂。](https://www.v2ex.com/t/988668)
 - [V2EX](https://www.v2ex.com/) | [智齿长歪了，可以不拔么](https://www.v2ex.com/t/988605)

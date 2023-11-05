@@ -1,3 +1,6 @@
+## 20231106
+- [Slashdot](https://linux.slashdot.org/) | [When Linux Spooked Microsoft:  Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231105
 - [Slashdot](https://linux.slashdot.org/) | [Mozilla Introduces Firefox Nightly<nobr> <wbr></nobr>.deb Packages for Debian-based Linux Distros](https://linux.slashdot.org/story/23/11/04/0530236/mozilla-introduces-firefox-nightly-deb-packages-for-debian-based-linux-distros?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

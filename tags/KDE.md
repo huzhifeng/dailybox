@@ -1,3 +1,6 @@
+## 20231106
+- [Planet KDE](https://planet.kde.org/) | [Meet the Kdenlive team in Zürich](https://kdenlive.org/en/2023/11/meet-the-kdenlive-team-in-zurich/?utm_source=atom_feed)
+
 ## 20231105
 - [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/?utm_source=atom_feed)

@@ -1,3 +1,9 @@
+## 20231106
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1176 Arm 收购了树莓派公司的少量股份，以免投向 RISC-V](https://linux.cn/article-16352-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [LXQt 1.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-1-4-desktop-environment-officially-released-this-is-whats-new)
+- [Planet KDE](https://planet.kde.org/) | [Meet the Kdenlive team in Zürich](https://kdenlive.org/en/2023/11/meet-the-kdenlive-team-in-zurich/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [When Linux Spooked Microsoft:  Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231105
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1175 最重要的计算机视觉库 OpenCV 众筹新版本，应者寥寥](https://linux.cn/article-16348-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.6.0 is out](https://nibblestew.blogspot.com/2023/11/capypdf-060-is-out.html)
