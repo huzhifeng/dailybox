@@ -1,3 +1,6 @@
+## 20231107
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 5th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-5th-2023)
+
 ## 20231106
 - [9to5Linux](https://9to5linux.com/) | [LXQt 1.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-1-4-desktop-environment-officially-released-this-is-whats-new)
 

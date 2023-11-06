@@ -1,3 +1,8 @@
+## 20231107
+- [Product Hunt](https://www.producthunt.com) | [Keep React](https://www.producthunt.com/posts/keep-react)
+- [Product Hunt](https://www.producthunt.com) | [Anise Health RestorAsian Scholarship](https://www.producthunt.com/posts/anise-health-restorasian-scholarship)
+- [Product Hunt](https://www.producthunt.com) | [MassInbox](https://www.producthunt.com/posts/massinbox)
+
 ## 20231106
 - [Product Hunt](https://www.producthunt.com) | [Orba](https://www.producthunt.com/posts/orba-2)
 - [Product Hunt](https://www.producthunt.com) | [Iconoir 7.0.0](https://www.producthunt.com/posts/iconoir-7-0-0)

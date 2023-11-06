@@ -1,3 +1,8 @@
+## 20231107
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1177 大多数使用 jQuery 的网站都运行着不再维护的版本](https://linux.cn/article-16355-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 5th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-5th-2023)
+- [Slashdot](https://linux.slashdot.org/) | [How Red Hat Divided the Open Source Community](https://linux.slashdot.org/story/23/11/06/0153203/how-red-hat-divided-the-open-source-community?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231106
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1176 Arm 收购了树莓派公司的少量股份，以免投向 RISC-V](https://linux.cn/article-16352-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [LXQt 1.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-1-4-desktop-environment-officially-released-this-is-whats-new)

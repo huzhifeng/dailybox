@@ -1,3 +1,6 @@
+## 20231107
+- [TED Talks Daily](https://www.ted.com/talks) | [How tech can help create the world we want | Ruha Benjamin](https://www.ted.com/talks/ruha_benjamin_how_tech_can_help_create_the_world_we_want?rss)
+
 ## 20231104
 - [TED Talks Daily](https://www.ted.com/talks) | [Regenerative living can restore a broken world | Paul Hawken](https://www.ted.com/talks/paul_hawken_regenerative_living_can_restore_a_broken_world?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Artificial skin? We made it — here's why | Anna Maria Coclite](https://www.ted.com/talks/anna_maria_coclite_artificial_skin_we_made_it_here_s_why?rss)
