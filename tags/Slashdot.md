@@ -1,3 +1,6 @@
+## 20231107
+- [Slashdot](https://linux.slashdot.org/) | [How Red Hat Divided the Open Source Community](https://linux.slashdot.org/story/23/11/06/0153203/how-red-hat-divided-the-open-source-community?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231106
 - [Slashdot](https://linux.slashdot.org/) | [When Linux Spooked Microsoft:  Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

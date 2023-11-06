@@ -1,3 +1,8 @@
+## 20231107
+- [diff.blog](https://diff.blog/) | [New models and developer products announced at DevDay](https://diff.blog/post/new-models-and-developer-products-announced-at-devday-160315/)
+- [diff.blog](https://diff.blog/) | [Introducing GPTs](https://diff.blog/post/introducing-gpts-160314/)
+- [diff.blog](https://diff.blog/) | [git rebase: what can go wrong?](https://diff.blog/post/git-rebase-what-can-go-wrong-160288/)
+
 ## 20231104
 - [diff.blog](https://diff.blog/) | [Clojure Deref (Nov 3, 2023)](https://diff.blog/post/clojure-deref-nov-3-2023-160070/)
 

@@ -1,3 +1,8 @@
+## 20231107
+- [V2EX](https://www.v2ex.com/) | [欢迎来访问我自己搭的博客网站，最好可以多攻击一下](https://www.v2ex.com/t/989189)
+- [V2EX](https://www.v2ex.com/) | [跟在酒吧认识的女生谈恋爱有结果么](https://www.v2ex.com/t/989062)
+- [V2EX](https://www.v2ex.com/) | [腾讯大王卡，老用户不如狗](https://www.v2ex.com/t/988953)
+
 ## 20231106
 - [V2EX](https://www.v2ex.com/) | [太纠结了，电梯房 + 小区环境好 + 装修一般 vs 五层爬楼梯 + 小区环境一般 + 装修很好](https://www.v2ex.com/t/988783)
 - [V2EX](https://www.v2ex.com/) | [真实希望高通努努力 尽快发布搭载骁龙 X Elite 处理器的笔记本](https://www.v2ex.com/t/988772)

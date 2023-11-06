@@ -1,3 +1,7 @@
+## 20231107
+- [Hacker News](https://news.ycombinator.com/front) | [GPTs: Custom versions of ChatGPT](https://news.ycombinator.com/item?id=38166431)
+- [Hacker News](https://news.ycombinator.com/front) | [New models and developer products](https://news.ycombinator.com/item?id=38166420)
+
 ## 20231106
 - [Hacker News](https://news.ycombinator.com/front) | [Why Cities: Skylines 2 performs poorly](https://news.ycombinator.com/item?id=38153573)
 - [Hacker News](https://news.ycombinator.com/front) | [Building a high performance JSON parser](https://news.ycombinator.com/item?id=38150833)
