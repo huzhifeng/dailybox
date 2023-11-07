@@ -1,3 +1,6 @@
+## 20231108
+- [It's FOSS](https://itsfoss.com/) | [Rename Files and Directories in Linux Command Line](https://itsfoss.com/linux-rename-files-directories/)
+
 ## 20231105
 - [It's FOSS](https://itsfoss.com/) | [8 Websites Linux Users Should Have bookmarked](https://itsfoss.com/useful-linux-websites/)
 

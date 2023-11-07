@@ -1,3 +1,6 @@
+## 20231108
+- [TED Talks Daily](https://www.ted.com/talks) | [Photographing nature beyond the limits of human perception | Doris Mitsch](https://www.ted.com/talks/doris_mitsch_photographing_nature_beyond_the_limits_of_human_perception?rss)
+
 ## 20231107
 - [TED Talks Daily](https://www.ted.com/talks) | [How tech can help create the world we want | Ruha Benjamin](https://www.ted.com/talks/ruha_benjamin_how_tech_can_help_create_the_world_we_want?rss)
 

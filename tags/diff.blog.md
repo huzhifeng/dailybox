@@ -1,3 +1,7 @@
+## 20231108
+- [diff.blog](https://diff.blog/) | [A four year plan for async Rust](https://diff.blog/post/a-four-year-plan-for-async-rust-160368/)
+- [diff.blog](https://diff.blog/) | [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://diff.blog/post/ftc-chair-lina-khan-on-ai-regulation-startup-acquisitions-and-more-160380/)
+
 ## 20231107
 - [diff.blog](https://diff.blog/) | [New models and developer products announced at DevDay](https://diff.blog/post/new-models-and-developer-products-announced-at-devday-160315/)
 - [diff.blog](https://diff.blog/) | [Introducing GPTs](https://diff.blog/post/introducing-gpts-160314/)

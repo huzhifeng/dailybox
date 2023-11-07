@@ -1,3 +1,9 @@
+## 20231108
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1178 Linux 系统也将出现 “蓝屏死机”](https://linux.cn/article-16358-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Is Now Available for Download, Powered by Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-is-now-available-for-download-powered-by-linux-kernel-6-5)
+- [Planet KDE](https://planet.kde.org/) | [KDSOAP WS-Discovery Client 0.3.0](https://jriddell.org/2023/11/07/kdsoap-ws-discovery-client-0-3-0/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Nostrum](https://quickfix.es/2023/11/off-theme-presents-nostrum/?utm_source=atom_feed)
+
 ## 20231107
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1177 大多数使用 jQuery 的网站都运行着不再维护的版本](https://linux.cn/article-16355-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 5th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-5th-2023)
