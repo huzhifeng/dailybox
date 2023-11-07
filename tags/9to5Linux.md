@@ -1,3 +1,6 @@
+## 20231108
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Is Now Available for Download, Powered by Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-is-now-available-for-download-powered-by-linux-kernel-6-5)
+
 ## 20231107
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 5th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-5th-2023)
 

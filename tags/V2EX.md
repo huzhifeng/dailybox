@@ -1,3 +1,8 @@
+## 20231108
+- [V2EX](https://www.v2ex.com/) | [想卖车了](https://www.v2ex.com/t/989515)
+- [V2EX](https://www.v2ex.com/) | [哎，早产的娃严重脑出血，要放弃治疗了...](https://www.v2ex.com/t/989504)
+- [V2EX](https://www.v2ex.com/) | [哎，因为加班，搞得很尴尬](https://www.v2ex.com/t/989457)
+
 ## 20231107
 - [V2EX](https://www.v2ex.com/) | [欢迎来访问我自己搭的博客网站，最好可以多攻击一下](https://www.v2ex.com/t/989189)
 - [V2EX](https://www.v2ex.com/) | [跟在酒吧认识的女生谈恋爱有结果么](https://www.v2ex.com/t/989062)

@@ -1,3 +1,8 @@
+## 20231108
+- [Product Hunt](https://www.producthunt.com) | [Morgen Assist](https://www.producthunt.com/posts/morgen-assist)
+- [Product Hunt](https://www.producthunt.com) | [Qureos Resume Builder](https://www.producthunt.com/posts/qureos-resume-builder)
+- [Product Hunt](https://www.producthunt.com) | [Vidiofy](https://www.producthunt.com/posts/vidiofy)
+
 ## 20231107
 - [Product Hunt](https://www.producthunt.com) | [Keep React](https://www.producthunt.com/posts/keep-react)
 - [Product Hunt](https://www.producthunt.com) | [Anise Health RestorAsian Scholarship](https://www.producthunt.com/posts/anise-health-restorasian-scholarship)
