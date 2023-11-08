@@ -1,3 +1,8 @@
+## 20231109
+- [V2EX](https://www.v2ex.com/) | [小米公布新的 BL 解锁规则了，要求社区等级 5 级以上，申请后 72 小时后可以解锁。](https://www.v2ex.com/t/989944)
+- [V2EX](https://www.v2ex.com/) | [在闲鱼买视频会员对方发来一个链接，被骗 1000 多，怎么办？](https://www.v2ex.com/t/989888)
+- [V2EX](https://www.v2ex.com/) | [有通勤要求的话， mbp 买 14 寸还是 16 寸的？大家怎么选择。](https://www.v2ex.com/t/989848)
+
 ## 20231108
 - [V2EX](https://www.v2ex.com/) | [想卖车了](https://www.v2ex.com/t/989515)
 - [V2EX](https://www.v2ex.com/) | [哎，早产的娃严重脑出血，要放弃治疗了...](https://www.v2ex.com/t/989504)

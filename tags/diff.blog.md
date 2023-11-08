@@ -1,3 +1,6 @@
+## 20231109
+- [diff.blog](https://diff.blog/) | [The bash book to rule them all](https://diff.blog/post/the-bash-book-to-rule-them-all-160407/)
+
 ## 20231108
 - [diff.blog](https://diff.blog/) | [A four year plan for async Rust](https://diff.blog/post/a-four-year-plan-for-async-rust-160368/)
 - [diff.blog](https://diff.blog/) | [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://diff.blog/post/ftc-chair-lina-khan-on-ai-regulation-startup-acquisitions-and-more-160380/)

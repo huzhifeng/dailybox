@@ -1,3 +1,8 @@
+## 20231109
+- [9to5Linux](https://9to5linux.com/) | [KDE Releases Alpha Versions of Plasma 6, Frameworks 6, and Gear 24.02](https://9to5linux.com/kde-releases-alpha-versions-of-plasma-6-frameworks-6-and-gear-24-02)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-3 Out Now with OTA Support for PinePhone and PineTab Devices](https://9to5linux.com/ubuntu-touch-ota-3-out-now-with-ota-support-for-pinephone-and-pinetab-devices)
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.1.1 Bumps Kernel to Linux 6.5, Adds Many Disk Cloning Improvements](https://9to5linux.com/clonezilla-live-3-1-1-bumps-kernel-to-linux-6-5-adds-many-disk-cloning-improvements)
+
 ## 20231108
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Is Now Available for Download, Powered by Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-is-now-available-for-download-powered-by-linux-kernel-6-5)
 

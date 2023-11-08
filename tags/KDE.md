@@ -1,3 +1,8 @@
+## 20231109
+- [Planet KDE](https://planet.kde.org/) | [qqc2-breeze5-style 6 Alpha](https://jriddell.org/2023/11/08/qqc2-breeze5-style-6-alpha/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Alpha Released](https://jriddell.org/2023/11/08/oxygen-icons-6-alpha-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Alpha](https://kde.org/announcements/kdes-6th-megarelease-alpha/?utm_source=atom_feed)
+
 ## 20231108
 - [Planet KDE](https://planet.kde.org/) | [KDSOAP WS-Discovery Client 0.3.0](https://jriddell.org/2023/11/07/kdsoap-ws-discovery-client-0-3-0/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Nostrum](https://quickfix.es/2023/11/off-theme-presents-nostrum/?utm_source=atom_feed)

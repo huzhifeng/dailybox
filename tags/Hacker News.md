@@ -1,3 +1,8 @@
+## 20231109
+- [Hacker News](https://news.ycombinator.com/front) | [Major outages across ChatGPT and API](https://news.ycombinator.com/item?id=38190401)
+- [Hacker News](https://news.ycombinator.com/front) | [Spain lives in flats: why we have built our cities vertically](https://news.ycombinator.com/item?id=38189840)
+- [Hacker News](https://news.ycombinator.com/front) | [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://news.ycombinator.com/item?id=38189790)
+
 ## 20231107
 - [Hacker News](https://news.ycombinator.com/front) | [GPTs: Custom versions of ChatGPT](https://news.ycombinator.com/item?id=38166431)
 - [Hacker News](https://news.ycombinator.com/front) | [New models and developer products](https://news.ycombinator.com/item?id=38166420)

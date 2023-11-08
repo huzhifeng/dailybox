@@ -1,3 +1,8 @@
+## 20231109
+- [Product Hunt](https://www.producthunt.com) | [Codebay](https://www.producthunt.com/posts/codebay)
+- [Product Hunt](https://www.producthunt.com) | [Sampld 2.0](https://www.producthunt.com/posts/sampld-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Attio Automations](https://www.producthunt.com/posts/attio-automations)
+
 ## 20231108
 - [Product Hunt](https://www.producthunt.com) | [Morgen Assist](https://www.producthunt.com/posts/morgen-assist)
 - [Product Hunt](https://www.producthunt.com) | [Qureos Resume Builder](https://www.producthunt.com/posts/qureos-resume-builder)

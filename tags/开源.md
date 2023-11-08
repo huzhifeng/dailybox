@@ -1,3 +1,6 @@
+## 20231109
+- [It's FOSS](https://itsfoss.com/) | [Tracking Changes and Version Management with LibreOffice](https://itsfoss.com/libreoffice-version-control/)
+
 ## 20231108
 - [It's FOSS](https://itsfoss.com/) | [Rename Files and Directories in Linux Command Line](https://itsfoss.com/linux-rename-files-directories/)
 
