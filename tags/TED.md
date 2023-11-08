@@ -1,3 +1,6 @@
+## 20231109
+- [TED Talks Daily](https://www.ted.com/talks) | [The deadly trap that could create an AI catastrophe | Liv Boeree](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe?rss)
+
 ## 20231108
 - [TED Talks Daily](https://www.ted.com/talks) | [Photographing nature beyond the limits of human perception | Doris Mitsch](https://www.ted.com/talks/doris_mitsch_photographing_nature_beyond_the_limits_of_human_perception?rss)
 

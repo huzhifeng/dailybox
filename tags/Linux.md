@@ -1,3 +1,12 @@
+## 20231109
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1179 苹果公司暂停开发明年的操作系统，以修复软件错误](https://linux.cn/article-16361-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Releases Alpha Versions of Plasma 6, Frameworks 6, and Gear 24.02](https://9to5linux.com/kde-releases-alpha-versions-of-plasma-6-frameworks-6-and-gear-24-02)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-3 Out Now with OTA Support for PinePhone and PineTab Devices](https://9to5linux.com/ubuntu-touch-ota-3-out-now-with-ota-support-for-pinephone-and-pinetab-devices)
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.1.1 Bumps Kernel to Linux 6.5, Adds Many Disk Cloning Improvements](https://9to5linux.com/clonezilla-live-3-1-1-bumps-kernel-to-linux-6-5-adds-many-disk-cloning-improvements)
+- [Planet KDE](https://planet.kde.org/) | [qqc2-breeze5-style 6 Alpha](https://jriddell.org/2023/11/08/qqc2-breeze5-style-6-alpha/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Alpha Released](https://jriddell.org/2023/11/08/oxygen-icons-6-alpha-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Alpha](https://kde.org/announcements/kdes-6th-megarelease-alpha/?utm_source=atom_feed)
+
 ## 20231108
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1178 Linux 系统也将出现 “蓝屏死机”](https://linux.cn/article-16358-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 39 Is Now Available for Download, Powered by Linux Kernel 6.5](https://9to5linux.com/fedora-linux-39-is-now-available-for-download-powered-by-linux-kernel-6-5)
