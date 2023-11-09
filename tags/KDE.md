@@ -1,3 +1,9 @@
+## 20231110
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Supercharging VS Code with C++ Extensions](https://www.kdab.com/supercharging-vs-code-with-c-extensions/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/)
+
 ## 20231109
 - [Planet KDE](https://planet.kde.org/) | [qqc2-breeze5-style 6 Alpha](https://jriddell.org/2023/11/08/qqc2-breeze5-style-6-alpha/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Alpha Released](https://jriddell.org/2023/11/08/oxygen-icons-6-alpha-released/?utm_source=atom_feed)

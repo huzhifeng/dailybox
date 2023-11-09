@@ -1,3 +1,8 @@
+## 20231110
+- [diff.blog](https://diff.blog/) | [Faster compilation with the parallel front-end in nightly](https://diff.blog/post/faster-compilation-with-the-parallel-front-end-in-nightly-160499/)
+- [diff.blog](https://diff.blog/) | [OpenAI Data Partnerships](https://diff.blog/post/openai-data-partnerships-160528/)
+- [diff.blog](https://diff.blog/) | [Reverse engineering the Intel 386 processor's register cell](https://diff.blog/post/reverse-engineering-the-intel-386-processors-register-cell-160512/)
+
 ## 20231109
 - [diff.blog](https://diff.blog/) | [The bash book to rule them all](https://diff.blog/post/the-bash-book-to-rule-them-all-160407/)
 

@@ -1,3 +1,6 @@
+## 20231110
+- [This week in KDE](https://pointieststick.com/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/)
+
 ## 20231105
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Plasma 6 Alpha approaches](https://pointieststick.com/2023/11/03/this-week-in-kde-plasma-6-alpha-approaches/)
 

@@ -1,3 +1,8 @@
+## 20231110
+- [Hacker News](https://news.ycombinator.com/front) | [Steam Deck OLED](https://news.ycombinator.com/item?id=38208334)
+- [Hacker News](https://news.ycombinator.com/front) | [What I learned getting acquired by Google](https://news.ycombinator.com/item?id=38207024)
+- [Hacker News](https://news.ycombinator.com/front) | [Omegle 2009-2023](https://news.ycombinator.com/item?id=38199355)
+
 ## 20231109
 - [Hacker News](https://news.ycombinator.com/front) | [Major outages across ChatGPT and API](https://news.ycombinator.com/item?id=38190401)
 - [Hacker News](https://news.ycombinator.com/front) | [Spain lives in flats: why we have built our cities vertically](https://news.ycombinator.com/item?id=38189840)
