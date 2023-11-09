@@ -1,3 +1,8 @@
+## 20231110
+- [V2EX](https://www.v2ex.com/) | [chatgpt 又挂了](https://www.v2ex.com/t/990224)
+- [V2EX](https://www.v2ex.com/) | [未来的刷机小王子是啥？](https://www.v2ex.com/t/990220)
+- [V2EX](https://www.v2ex.com/) | [新手人生第一辆 15---20 万轿车有哪些推荐？](https://www.v2ex.com/t/990170)
+
 ## 20231109
 - [V2EX](https://www.v2ex.com/) | [小米公布新的 BL 解锁规则了，要求社区等级 5 级以上，申请后 72 小时后可以解锁。](https://www.v2ex.com/t/989944)
 - [V2EX](https://www.v2ex.com/) | [在闲鱼买视频会员对方发来一个链接，被骗 1000 多，怎么办？](https://www.v2ex.com/t/989888)

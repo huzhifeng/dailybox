@@ -1,3 +1,11 @@
+## 20231110
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1180 Canonical 明年将发布不可变桌面操作系统](https://linux.cn/article-16364-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF, performance and shared libraries](https://nibblestew.blogspot.com/2023/11/capypdf-performance-and-shared-libraries.html)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Supercharging VS Code with C++ Extensions](https://www.kdab.com/supercharging-vs-code-with-c-extensions/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/)
+
 ## 20231109
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1179 苹果公司暂停开发明年的操作系统，以修复软件错误](https://linux.cn/article-16361-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Releases Alpha Versions of Plasma 6, Frameworks 6, and Gear 24.02](https://9to5linux.com/kde-releases-alpha-versions-of-plasma-6-frameworks-6-and-gear-24-02)

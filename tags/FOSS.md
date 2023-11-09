@@ -1,3 +1,7 @@
+## 20231110
+- [It's FOSS](https://itsfoss.com/) | [Fixing 'target not found' Error in Arch Linux](https://itsfoss.com/target-not-found-arch-linux/)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.45: Fedora 39, LibreOffice Version Control, Best Linux Websites, eBPF and More](https://itsfoss.com/newsletter/foss-weekly-23-45/)
+
 ## 20231109
 - [It's FOSS](https://itsfoss.com/) | [Tracking Changes and Version Management with LibreOffice](https://itsfoss.com/libreoffice-version-control/)
 

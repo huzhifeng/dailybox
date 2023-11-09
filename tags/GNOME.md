@@ -1,3 +1,6 @@
+## 20231110
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF, performance and shared libraries](https://nibblestew.blogspot.com/2023/11/capypdf-performance-and-shared-libraries.html)
+
 ## 20231105
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.6.0 is out](https://nibblestew.blogspot.com/2023/11/capypdf-060-is-out.html)
 

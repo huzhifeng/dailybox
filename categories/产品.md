@@ -1,3 +1,8 @@
+## 20231110
+- [Product Hunt](https://www.producthunt.com) | [Writingmate](https://www.producthunt.com/posts/writingmate)
+- [Product Hunt](https://www.producthunt.com) | [March Health](https://www.producthunt.com/posts/march-health)
+- [Product Hunt](https://www.producthunt.com) | [Sendforsign](https://www.producthunt.com/posts/sendforsign)
+
 ## 20231109
 - [Product Hunt](https://www.producthunt.com) | [Codebay](https://www.producthunt.com/posts/codebay)
 - [Product Hunt](https://www.producthunt.com) | [Sampld 2.0](https://www.producthunt.com/posts/sampld-2-0)
