@@ -1,3 +1,8 @@
+## 20231111
+- [Product Hunt](https://www.producthunt.com) | [Backender](https://www.producthunt.com/posts/backender)
+- [Product Hunt](https://www.producthunt.com) | [Intelis - AI Dynamic Pricing | Shopify](https://www.producthunt.com/posts/intelis-ai-dynamic-pricing-shopify)
+- [Product Hunt](https://www.producthunt.com) | [hiring tool](https://www.producthunt.com/posts/hiring-tool)
+
 ## 20231110
 - [Product Hunt](https://www.producthunt.com) | [Writingmate](https://www.producthunt.com/posts/writingmate)
 - [Product Hunt](https://www.producthunt.com) | [March Health](https://www.producthunt.com/posts/march-health)

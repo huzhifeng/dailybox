@@ -1,3 +1,8 @@
+## 20231111
+- [Planet KDE](https://planet.kde.org/) | [Fonts! Fonts! Fonts!](https://anditosan.wordpress.com/2023/11/10/fonts-fonts-fonts/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Krita 5.2.1 Snap! KDE Gear 23.08.3 Snaps and KDE neon release](https://www.scarlettgatelymoore.dev/kde-krita-5-2-1-snap-kde-gear-23-08-3-snaps-and-kde-neon-release/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 RC released](https://www.qt.io/blog/qt-creator-12-rc-released?utm_source=atom_feed)
+
 ## 20231110
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Supercharging VS Code with C++ Extensions](https://www.kdab.com/supercharging-vs-code-with-c-extensions/?utm_source=atom_feed)

@@ -1,3 +1,6 @@
+## 20231111
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-3-arrives-with-more-fixes-for-your-favorite-kde-apps)
+
 ## 20231109
 - [9to5Linux](https://9to5linux.com/) | [KDE Releases Alpha Versions of Plasma 6, Frameworks 6, and Gear 24.02](https://9to5linux.com/kde-releases-alpha-versions-of-plasma-6-frameworks-6-and-gear-24-02)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-3 Out Now with OTA Support for PinePhone and PineTab Devices](https://9to5linux.com/ubuntu-touch-ota-3-out-now-with-ota-support-for-pinephone-and-pinetab-devices)

@@ -1,3 +1,6 @@
+## 20231111
+- [diff.blog](https://diff.blog/) | [How git cherry-pick and revert use 3-way merge](https://diff.blog/post/how-git-cherry-pick-and-revert-use-3-way-merge-160628/)
+
 ## 20231110
 - [diff.blog](https://diff.blog/) | [Faster compilation with the parallel front-end in nightly](https://diff.blog/post/faster-compilation-with-the-parallel-front-end-in-nightly-160499/)
 - [diff.blog](https://diff.blog/) | [OpenAI Data Partnerships](https://diff.blog/post/openai-data-partnerships-160528/)

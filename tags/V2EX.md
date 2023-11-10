@@ -1,3 +1,8 @@
+## 20231111
+- [V2EX](https://www.v2ex.com/) | [说说你在苹果平台上玩到过的好游戏](https://www.v2ex.com/t/990699)
+- [V2EX](https://www.v2ex.com/) | [大家上班不忙的时候都怎么提升自己呢？](https://www.v2ex.com/t/990676)
+- [V2EX](https://www.v2ex.com/) | [写代码有未来吗？](https://www.v2ex.com/t/990568)
+
 ## 20231110
 - [V2EX](https://www.v2ex.com/) | [chatgpt 又挂了](https://www.v2ex.com/t/990224)
 - [V2EX](https://www.v2ex.com/) | [未来的刷机小王子是啥？](https://www.v2ex.com/t/990220)
