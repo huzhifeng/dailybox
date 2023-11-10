@@ -1,3 +1,6 @@
+## 20231111
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+
 ## 20231028
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#119 Stylish Websites](https://thisweek.gnome.org/posts/2023/10/twig-119/)
 

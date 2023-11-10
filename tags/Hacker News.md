@@ -1,3 +1,6 @@
+## 20231111
+- [Hacker News](https://news.ycombinator.com/front) | [I skipped to the ending](https://news.ycombinator.com/item?id=38216196)
+
 ## 20231110
 - [Hacker News](https://news.ycombinator.com/front) | [Steam Deck OLED](https://news.ycombinator.com/item?id=38208334)
 - [Hacker News](https://news.ycombinator.com/front) | [What I learned getting acquired by Google](https://news.ycombinator.com/item?id=38207024)

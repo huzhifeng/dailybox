@@ -1,3 +1,8 @@
+## 20231111
+- [Planet GNOME](https://planet.gnome.org/) | [PSA: For Xorg GNOME sessions, use the xf86-input-wacom driver for your tablets](https://who-t.blogspot.com/2023/11/psa-for-xorg-gnome-sessions-use-xf86.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+
 ## 20231110
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF, performance and shared libraries](https://nibblestew.blogspot.com/2023/11/capypdf-performance-and-shared-libraries.html)
 

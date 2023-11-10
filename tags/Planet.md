@@ -1,3 +1,10 @@
+## 20231111
+- [Planet GNOME](https://planet.gnome.org/) | [PSA: For Xorg GNOME sessions, use the xf86-input-wacom driver for your tablets](https://who-t.blogspot.com/2023/11/psa-for-xorg-gnome-sessions-use-xf86.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+- [Planet KDE](https://planet.kde.org/) | [Fonts! Fonts! Fonts!](https://anditosan.wordpress.com/2023/11/10/fonts-fonts-fonts/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Krita 5.2.1 Snap! KDE Gear 23.08.3 Snaps and KDE neon release](https://www.scarlettgatelymoore.dev/kde-krita-5-2-1-snap-kde-gear-23-08-3-snaps-and-kde-neon-release/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 RC released](https://www.qt.io/blog/qt-creator-12-rc-released?utm_source=atom_feed)
+
 ## 20231110
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF, performance and shared libraries](https://nibblestew.blogspot.com/2023/11/capypdf-performance-and-shared-libraries.html)
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released?utm_source=atom_feed)

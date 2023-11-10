@@ -1,3 +1,6 @@
+## 20231111
+- [TED Talks Daily](https://www.ted.com/talks) | [The unexpected way spirituality connects to climate change | Gopal D. Patel](https://www.ted.com/talks/gopal_d_patel_the_unexpected_way_spirituality_connects_to_climate_change?rss)
+
 ## 20231110
 - [TED Talks Daily](https://www.ted.com/talks) | [It's time to rethink the position of First Lady | Irina Karamanos Adrian](https://www.ted.com/talks/irina_karamanos_adrian_it_s_time_to_rethink_the_position_of_first_lady?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Returning to school mid-career? Here's what you need to know  | Candice Neveu](https://www.ted.com/talks/candice_neveu_returning_to_school_mid_career_here_s_what_you_need_to_know?rss)

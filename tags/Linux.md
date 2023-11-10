@@ -1,3 +1,13 @@
+## 20231111
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1181 欧洲立法准备拦截和监视加密的 HTTPS 连接，且不允许反制](https://linux.cn/article-16367-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-3-arrives-with-more-fixes-for-your-favorite-kde-apps)
+- [Planet GNOME](https://planet.gnome.org/) | [PSA: For Xorg GNOME sessions, use the xf86-input-wacom driver for your tablets](https://who-t.blogspot.com/2023/11/psa-for-xorg-gnome-sessions-use-xf86.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+- [Planet KDE](https://planet.kde.org/) | [Fonts! Fonts! Fonts!](https://anditosan.wordpress.com/2023/11/10/fonts-fonts-fonts/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: Krita 5.2.1 Snap! KDE Gear 23.08.3 Snaps and KDE neon release](https://www.scarlettgatelymoore.dev/kde-krita-5-2-1-snap-kde-gear-23-08-3-snaps-and-kde-neon-release/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 RC released](https://www.qt.io/blog/qt-creator-12-rc-released?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
+
 ## 20231110
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1180 Canonical 明年将发布不可变桌面操作系统](https://linux.cn/article-16364-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF, performance and shared libraries](https://nibblestew.blogspot.com/2023/11/capypdf-performance-and-shared-libraries.html)
