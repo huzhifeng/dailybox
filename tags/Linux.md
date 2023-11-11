@@ -1,3 +1,14 @@
+## 20231112
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1182 40 年前，微软宣布 Windows 开发计划](https://linux.cn/article-16370-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [First Look at Ubuntu 23.10 on Raspberry Pi 5](https://9to5linux.com/first-look-at-ubuntu-23-10-on-raspberry-pi-5)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Pulse 14 Gen3 Linux Laptop Unveiled with AMD Ryzen 7 7840HS CPU](https://9to5linux.com/tuxedo-pulse-14-gen3-linux-laptop-unveiled-with-amd-ryzen-7-7840hs-cpu)
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 6.1 &#8220;Heaviside&#8221; Released with VAAPI AV1 Encoder, HW Vulkan Decoding](https://9to5linux.com/ffmpeg-6-1-heaviside-released-with-vaapi-av1-encoder-hw-vulkan-decoding)
+- [Planet GNOME](https://planet.gnome.org/) | [AppStream 1.0 released!](https://blog.tenstral.net/2023/11/appstream-1-0-released.html)
+- [Planet KDE](https://planet.kde.org/) | [Porting KDE Android apps to Qt6/KF6](https://www.volkerkrause.eu/2023/11/11/kf6-porting-android-apps.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-45](https://ervin.ipsquad.net/blog/2023/11/11/web-review-week-2023-45/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/)
+
 ## 20231111
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1181 欧洲立法准备拦截和监视加密的 HTTPS 连接，且不允许反制](https://linux.cn/article-16367-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-3-arrives-with-more-fixes-for-your-favorite-kde-apps)

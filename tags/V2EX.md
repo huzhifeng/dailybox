@@ -1,3 +1,8 @@
+## 20231112
+- [V2EX](https://www.v2ex.com/) | [请问下，大家在用的知识库工具是什么？](https://www.v2ex.com/t/990924)
+- [V2EX](https://www.v2ex.com/) | [即将毕业该怎么办？ 好迷茫](https://www.v2ex.com/t/990904)
+- [V2EX](https://www.v2ex.com/) | [突然发现阿里云盘 11 年会员只要 1111 元,合计 101 一年,感觉还蛮划算?](https://www.v2ex.com/t/990893)
+
 ## 20231111
 - [V2EX](https://www.v2ex.com/) | [说说你在苹果平台上玩到过的好游戏](https://www.v2ex.com/t/990699)
 - [V2EX](https://www.v2ex.com/) | [大家上班不忙的时候都怎么提升自己呢？](https://www.v2ex.com/t/990676)

@@ -1,3 +1,8 @@
+## 20231112
+- [9to5Linux](https://9to5linux.com/) | [First Look at Ubuntu 23.10 on Raspberry Pi 5](https://9to5linux.com/first-look-at-ubuntu-23-10-on-raspberry-pi-5)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Pulse 14 Gen3 Linux Laptop Unveiled with AMD Ryzen 7 7840HS CPU](https://9to5linux.com/tuxedo-pulse-14-gen3-linux-laptop-unveiled-with-amd-ryzen-7-7840hs-cpu)
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 6.1 &#8220;Heaviside&#8221; Released with VAAPI AV1 Encoder, HW Vulkan Decoding](https://9to5linux.com/ffmpeg-6-1-heaviside-released-with-vaapi-av1-encoder-hw-vulkan-decoding)
+
 ## 20231111
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-23-08-3-arrives-with-more-fixes-for-your-favorite-kde-apps)
 

@@ -1,3 +1,6 @@
+## 20231112
+- [Planet GNOME](https://planet.gnome.org/) | [AppStream 1.0 released!](https://blog.tenstral.net/2023/11/appstream-1-0-released.html)
+
 ## 20231111
 - [Planet GNOME](https://planet.gnome.org/) | [PSA: For Xorg GNOME sessions, use the xf86-input-wacom driver for your tablets](https://who-t.blogspot.com/2023/11/psa-for-xorg-gnome-sessions-use-xf86.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
