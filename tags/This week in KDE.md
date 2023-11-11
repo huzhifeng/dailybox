@@ -1,3 +1,6 @@
+## 20231112
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/)
+
 ## 20231110
 - [This week in KDE](https://pointieststick.com/) | [November Plasma 6 update](https://pointieststick.com/2023/11/08/november-plasma-6-update/)
 

@@ -1,3 +1,7 @@
+## 20231112
+- [Product Hunt](https://www.producthunt.com) | [Cannix](https://www.producthunt.com/posts/cannix)
+- [Product Hunt](https://www.producthunt.com) | [AlTable.ai - No-code Al Agents](https://www.producthunt.com/posts/altable-ai-no-code-al-agents)
+
 ## 20231111
 - [Product Hunt](https://www.producthunt.com) | [Backender](https://www.producthunt.com/posts/backender)
 - [Product Hunt](https://www.producthunt.com) | [Intelis - AI Dynamic Pricing | Shopify](https://www.producthunt.com/posts/intelis-ai-dynamic-pricing-shopify)

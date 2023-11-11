@@ -1,3 +1,9 @@
+## 20231112
+- [Planet KDE](https://planet.kde.org/) | [Porting KDE Android apps to Qt6/KF6](https://www.volkerkrause.eu/2023/11/11/kf6-porting-android-apps.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-45](https://ervin.ipsquad.net/blog/2023/11/11/web-review-week-2023-45/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/)
+
 ## 20231111
 - [Planet KDE](https://planet.kde.org/) | [Fonts! Fonts! Fonts!](https://anditosan.wordpress.com/2023/11/10/fonts-fonts-fonts/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE: Krita 5.2.1 Snap! KDE Gear 23.08.3 Snaps and KDE neon release](https://www.scarlettgatelymoore.dev/kde-krita-5-2-1-snap-kde-gear-23-08-3-snaps-and-kde-neon-release/?utm_source=atom_feed)
