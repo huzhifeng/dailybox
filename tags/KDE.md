@@ -1,3 +1,6 @@
+## 20231113
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.112.0](https://kde.org/announcements/frameworks/5/5.112.0/?utm_source=atom_feed)
+
 ## 20231112
 - [Planet KDE](https://planet.kde.org/) | [Porting KDE Android apps to Qt6/KF6](https://www.volkerkrause.eu/2023/11/11/kf6-porting-android-apps.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/?utm_source=atom_feed)

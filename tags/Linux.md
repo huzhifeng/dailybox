@@ -1,3 +1,10 @@
+## 20231113
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1183 开发了四年的 NetBSD 10 接近发布](https://linux.cn/article-16373-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.112 Improves Support for NetworkManager 1.44, Fixes Bugs](https://9to5linux.com/kde-frameworks-5-112-improves-support-for-networkmanager-1-44-fixes-bugs)
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 30 Released with Support for Intel QSV H264, HEVC, and AV1 on Linux](https://9to5linux.com/obs-studio-30-released-with-support-for-intel-qsv-h264-hevc-and-av1-on-linux)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Upcoming talk: "Trust, confidentiality, and hardening: the virtio lessons" at LPC 2023](https://blog.vmsplice.net/2023/11/upcoming-talk-trust-confidentiality-and.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.112.0](https://kde.org/announcements/frameworks/5/5.112.0/?utm_source=atom_feed)
+
 ## 20231112
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1182 40 年前，微软宣布 Windows 开发计划](https://linux.cn/article-16370-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [First Look at Ubuntu 23.10 on Raspberry Pi 5](https://9to5linux.com/first-look-at-ubuntu-23-10-on-raspberry-pi-5)
