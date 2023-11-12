@@ -1,3 +1,8 @@
+## 20231113
+- [Kagi Small Web](https://kagi.com/smallweb) | [reader 3.10 released – storage internal API](https://death.andgravity.com/reader-3-10)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Setting up Hosted macOS GitHub Actions Workflows for Electron Builds](https://brunoscheufler.com/blog/2023-11-12-setting-up-hosted-macos-github-actions-workflows-for-electron-builds)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Forty years ago today - Nevember 1983.](https://stevedoescomics.blogspot.com/2023/11/forty-years-ago-today-nevember-1983.html)
+
 ## 20231104
 - [Kagi Small Web](https://kagi.com/smallweb) | [Re: Check out my 404!](https://forum.melonland.net/index.php?topic=886.msg21545#msg21545)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Re: can i easily install windows 10 back onto my pc for a dual boot? :(](https://forum.melonland.net/index.php?topic=2204.msg21544#msg21544)

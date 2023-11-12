@@ -1,3 +1,7 @@
+## 20231113
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Upcoming talk: "Trust, confidentiality, and hardening: the virtio lessons" at LPC 2023](https://blog.vmsplice.net/2023/11/upcoming-talk-trust-confidentiality-and.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.112.0](https://kde.org/announcements/frameworks/5/5.112.0/?utm_source=atom_feed)
+
 ## 20231112
 - [Planet GNOME](https://planet.gnome.org/) | [AppStream 1.0 released!](https://blog.tenstral.net/2023/11/appstream-1-0-released.html)
 - [Planet KDE](https://planet.kde.org/) | [Porting KDE Android apps to Qt6/KF6](https://www.volkerkrause.eu/2023/11/11/kf6-porting-android-apps.html?utm_source=atom_feed)

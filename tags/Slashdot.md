@@ -1,3 +1,8 @@
+## 20231113
+- [Slashdot](https://developers.slashdot.org/) | [How 'Hour of Code' Will Teach Students About Issues with AI](https://news.slashdot.org/story/23/11/12/0812228/how-hour-of-code-will-teach-students-about-issues-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Highly Invasive Backdoors Hidden in Python Obfuscation Packages, Downloaded by 2,348 Developers](https://it.slashdot.org/story/23/11/12/0221232/highly-invasive-backdoors-hidden-in-python-obfuscation-packages-downloaded-by-2348-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Why Chrome Enabled WebAssembly Garbage Collection (WasmGC) By Default](https://developers.slashdot.org/story/23/11/12/0456220/why-chrome-enabled-webassembly-garbage-collection-wasmgc-by-default?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231107
 - [Slashdot](https://linux.slashdot.org/) | [How Red Hat Divided the Open Source Community](https://linux.slashdot.org/story/23/11/06/0153203/how-red-hat-divided-the-open-source-community?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

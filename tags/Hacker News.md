@@ -1,3 +1,6 @@
+## 20231113
+- [Hacker News](https://news.ycombinator.com/front) | [HTML First](https://news.ycombinator.com/item?id=38241304)
+
 ## 20231112
 - [Hacker News](https://news.ycombinator.com/front) | [How I got here](https://news.ycombinator.com/item?id=38229231)
 

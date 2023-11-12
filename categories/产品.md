@@ -1,3 +1,8 @@
+## 20231113
+- [Product Hunt](https://www.producthunt.com) | [YC Rejection](https://www.producthunt.com/posts/yc-rejection)
+- [Product Hunt](https://www.producthunt.com) | [DocuPull](https://www.producthunt.com/posts/docupull)
+- [Product Hunt](https://www.producthunt.com) | [VocAI Chatbot](https://www.producthunt.com/posts/vocai-chatbot)
+
 ## 20231112
 - [Product Hunt](https://www.producthunt.com) | [Cannix](https://www.producthunt.com/posts/cannix)
 - [Product Hunt](https://www.producthunt.com) | [AlTable.ai - No-code Al Agents](https://www.producthunt.com/posts/altable-ai-no-code-al-agents)

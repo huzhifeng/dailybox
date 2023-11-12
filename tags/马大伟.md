@@ -1,3 +1,6 @@
+## 20231113
+- [BMPI](https://www.bmpi.dev/) | [全球经济中的隐形巨人](https://www.bmpi.dev/money/what-is-capital/)
+
 ## 20231101
 - [BMPI](https://www.bmpi.dev/) | [海外银行证券开户薅羊毛小记](https://www.bmpi.dev/money/guide-to-open-sg-bank/)
 
