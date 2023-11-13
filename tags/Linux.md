@@ -1,3 +1,11 @@
+## 20231114
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1184 等不及官方发布，创客制作了自己的树莓派 CM5](https://linux.cn/article-16376-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.3 Is Here as a Free Red Hat Enterprise Linux Alternative](https://9to5linux.com/almalinux-os-9-3-is-here-as-a-free-red-hat-enterprise-linux-alternative)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 12th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-12th-2023)
+- [9to5Linux](https://9to5linux.com/) | [Linus Torvalds Announces First Linux Kernel 6.7 Release Candidate](https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-6-7-release-candidate)
+- [Planet KDE](https://planet.kde.org/) | [APKs now built on invent](https://blogs.kde.org/2023/11/13/apks-now-built-invent?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.3 released](https://kdenlive.org/en/2023/11/kdenlive-23-08-3-released/?utm_source=atom_feed)
+
 ## 20231113
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1183 开发了四年的 NetBSD 10 接近发布](https://linux.cn/article-16373-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.112 Improves Support for NetworkManager 1.44, Fixes Bugs](https://9to5linux.com/kde-frameworks-5-112-improves-support-for-networkmanager-1-44-fixes-bugs)

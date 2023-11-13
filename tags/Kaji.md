@@ -1,3 +1,8 @@
+## 20231114
+- [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The joy of learning Helix (and probably other modal terminal-based editors)](https://pawelgrzybek.com/the-joy-of-learning-helix-and-probably-other-modal-terminal-based-editors/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
+
 ## 20231113
 - [Kagi Small Web](https://kagi.com/smallweb) | [reader 3.10 released – storage internal API](https://death.andgravity.com/reader-3-10)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Setting up Hosted macOS GitHub Actions Workflows for Electron Builds](https://brunoscheufler.com/blog/2023-11-12-setting-up-hosted-macos-github-actions-workflows-for-electron-builds)

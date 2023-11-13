@@ -1,3 +1,8 @@
+## 20231114
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.3 Is Here as a Free Red Hat Enterprise Linux Alternative](https://9to5linux.com/almalinux-os-9-3-is-here-as-a-free-red-hat-enterprise-linux-alternative)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 12th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-12th-2023)
+- [9to5Linux](https://9to5linux.com/) | [Linus Torvalds Announces First Linux Kernel 6.7 Release Candidate](https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-6-7-release-candidate)
+
 ## 20231113
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.112 Improves Support for NetworkManager 1.44, Fixes Bugs](https://9to5linux.com/kde-frameworks-5-112-improves-support-for-networkmanager-1-44-fixes-bugs)
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 30 Released with Support for Intel QSV H264, HEVC, and AV1 on Linux](https://9to5linux.com/obs-studio-30-released-with-support-for-intel-qsv-h264-hevc-and-av1-on-linux)

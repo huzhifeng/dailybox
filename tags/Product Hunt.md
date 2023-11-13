@@ -1,3 +1,8 @@
+## 20231114
+- [Product Hunt](https://www.producthunt.com) | [Klu](https://www.producthunt.com/posts/klu-4)
+- [Product Hunt](https://www.producthunt.com) | [OTelBin](https://www.producthunt.com/posts/otelbin)
+- [Product Hunt](https://www.producthunt.com) | [MailMaestro](https://www.producthunt.com/posts/mailmaestro)
+
 ## 20231113
 - [Product Hunt](https://www.producthunt.com) | [YC Rejection](https://www.producthunt.com/posts/yc-rejection)
 - [Product Hunt](https://www.producthunt.com) | [DocuPull](https://www.producthunt.com/posts/docupull)

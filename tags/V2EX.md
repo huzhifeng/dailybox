@@ -1,3 +1,8 @@
+## 20231114
+- [V2EX](https://www.v2ex.com/) | [备忘录+翻译+文件搜索+ChatGPT=Airy，给 V 站老哥前 1000 个用户都送终身会员](https://www.v2ex.com/t/991541)
+- [V2EX](https://www.v2ex.com/) | [煞笔女人，想离婚了](https://www.v2ex.com/t/991508)
+- [V2EX](https://www.v2ex.com/) | [[求职][Base 贵阳或远程]30+年工作经验,分析师架构师双证, Java /C++](https://www.v2ex.com/t/991415)
+
 ## 20231113
 - [V2EX](https://www.v2ex.com/) | [纯好奇小调查，你们有在网上买过药吗？](https://www.v2ex.com/t/991234)
 - [V2EX](https://www.v2ex.com/) | [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224)

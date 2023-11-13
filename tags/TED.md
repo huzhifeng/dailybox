@@ -1,3 +1,6 @@
+## 20231114
+- [TED Talks Daily](https://www.ted.com/talks) | [An alternative to the "midlife crisis" | Chip Conley](https://www.ted.com/talks/chip_conley_an_alternative_to_the_midlife_crisis?rss)
+
 ## 20231111
 - [TED Talks Daily](https://www.ted.com/talks) | [The unexpected way spirituality connects to climate change | Gopal D. Patel](https://www.ted.com/talks/gopal_d_patel_the_unexpected_way_spirituality_connects_to_climate_change?rss)
 
