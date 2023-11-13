@@ -1,3 +1,6 @@
+## 20231114
+- [Hacker News](https://news.ycombinator.com/front) | [Ruby on Rails: The Documentary [video]](https://news.ycombinator.com/item?id=38248421)
+
 ## 20231113
 - [Hacker News](https://news.ycombinator.com/front) | [HTML First](https://news.ycombinator.com/item?id=38241304)
 
