@@ -1,3 +1,8 @@
+## 20231115
+- [V2EX](https://www.v2ex.com/) | [双十一结束了，给 V 站老哥前 1000 个用户都送终身合伙人，寄快递成本价， 4 元寄全国，需要寄快递或者网购退货的快来](https://www.v2ex.com/t/991755)
+- [V2EX](https://www.v2ex.com/) | [V 站老哥太热情了， Airy 永久会员加送 9000，凑到 1 万](https://www.v2ex.com/t/991748)
+- [V2EX](https://www.v2ex.com/) | [再过两年 30 岁了，一事无成](https://www.v2ex.com/t/991743)
+
 ## 20231114
 - [V2EX](https://www.v2ex.com/) | [备忘录+翻译+文件搜索+ChatGPT=Airy，给 V 站老哥前 1000 个用户都送终身会员](https://www.v2ex.com/t/991541)
 - [V2EX](https://www.v2ex.com/) | [煞笔女人，想离婚了](https://www.v2ex.com/t/991508)

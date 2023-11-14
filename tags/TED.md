@@ -1,3 +1,6 @@
+## 20231115
+- [TED Talks Daily](https://www.ted.com/talks) | [Why you should ditch deadly fossil-fuel appliances | Donnel Baird](https://www.ted.com/talks/donnel_baird_why_you_should_ditch_deadly_fossil_fuel_appliances?rss)
+
 ## 20231114
 - [TED Talks Daily](https://www.ted.com/talks) | [An alternative to the "midlife crisis" | Chip Conley](https://www.ted.com/talks/chip_conley_an_alternative_to_the_midlife_crisis?rss)
 

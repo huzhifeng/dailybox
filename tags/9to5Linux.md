@@ -1,3 +1,7 @@
+## 20231115
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.8 Brings Support for uSWID SBoM Data with LZMA Compressed Payloads](https://9to5linux.com/fwupd-1-9-8-brings-support-for-uswid-sbom-data-with-lzma-compressed-payloads)
+- [9to5Linux](https://9to5linux.com/) | [Blender 4.0 Released with Support for AMD RDNA2 and RDNA3 APUs, Node Tools](https://9to5linux.com/blender-4-0-released-with-support-for-amd-rdna2-and-rdna3-apus-node-tools)
+
 ## 20231114
 - [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.3 Is Here as a Free Red Hat Enterprise Linux Alternative](https://9to5linux.com/almalinux-os-9-3-is-here-as-a-free-red-hat-enterprise-linux-alternative)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 12th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-12th-2023)

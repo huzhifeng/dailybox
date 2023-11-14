@@ -1,3 +1,9 @@
+## 20231115
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1185 宇宙射线可以导致 SSH 私钥被窃取](https://linux.cn/article-16380-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.8 Brings Support for uSWID SBoM Data with LZMA Compressed Payloads](https://9to5linux.com/fwupd-1-9-8-brings-support-for-uswid-sbom-data-with-lzma-compressed-payloads)
+- [9to5Linux](https://9to5linux.com/) | [Blender 4.0 Released with Support for AMD RDNA2 and RDNA3 APUs, Node Tools](https://9to5linux.com/blender-4-0-released-with-support-for-amd-rdna2-and-rdna3-apus-node-tools)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Graphite](https://quickfix.es/2023/11/off-theme-presents-graphite/?utm_source=atom_feed)
+
 ## 20231114
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1184 等不及官方发布，创客制作了自己的树莓派 CM5](https://linux.cn/article-16376-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.3 Is Here as a Free Red Hat Enterprise Linux Alternative](https://9to5linux.com/almalinux-os-9-3-is-here-as-a-free-red-hat-enterprise-linux-alternative)

@@ -1,3 +1,6 @@
+## 20231115
+- [diff.blog](https://diff.blog/) | [GraphCast: AI model for faster and more accurate global weather forecasting](https://diff.blog/post/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting-160968/)
+
 ## 20231111
 - [diff.blog](https://diff.blog/) | [How git cherry-pick and revert use 3-way merge](https://diff.blog/post/how-git-cherry-pick-and-revert-use-3-way-merge-160628/)
 

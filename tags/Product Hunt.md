@@ -1,3 +1,8 @@
+## 20231115
+- [Product Hunt](https://www.producthunt.com) | [Tadpole](https://www.producthunt.com/posts/tadpole)
+- [Product Hunt](https://www.producthunt.com) | [AskYoda by Eden AI](https://www.producthunt.com/posts/askyoda-by-eden-ai)
+- [Product Hunt](https://www.producthunt.com) | [Plural Continuous Deployment](https://www.producthunt.com/posts/plural-continuous-deployment)
+
 ## 20231114
 - [Product Hunt](https://www.producthunt.com) | [Klu](https://www.producthunt.com/posts/klu-4)
 - [Product Hunt](https://www.producthunt.com) | [OTelBin](https://www.producthunt.com/posts/otelbin)

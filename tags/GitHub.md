@@ -1,3 +1,6 @@
+## 20231115
+- [GitHub Advanced Search](https://github.com/search/advanced) | [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
 ## 20231104
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Kuingsmile/clash-core](https://github.com/Kuingsmile/clash-core)
 

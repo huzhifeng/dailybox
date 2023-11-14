@@ -1,3 +1,6 @@
+## 20231115
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Graphite](https://quickfix.es/2023/11/off-theme-presents-graphite/?utm_source=atom_feed)
+
 ## 20231114
 - [Planet KDE](https://planet.kde.org/) | [APKs now built on invent](https://blogs.kde.org/2023/11/13/apks-now-built-invent?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.3 released](https://kdenlive.org/en/2023/11/kdenlive-23-08-3-released/?utm_source=atom_feed)
