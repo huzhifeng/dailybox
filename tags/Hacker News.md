@@ -1,3 +1,6 @@
+## 20231115
+- [Hacker News](https://news.ycombinator.com/front) | [GraphCast: AI model for weather forecasting](https://news.ycombinator.com/item?id=38264641)
+
 ## 20231114
 - [Hacker News](https://news.ycombinator.com/front) | [Ruby on Rails: The Documentary [video]](https://news.ycombinator.com/item?id=38248421)
 
