@@ -1,3 +1,6 @@
+## 20231116
+- [TED Talks Daily](https://www.ted.com/talks) | [Your company is wasting time — here's how to stop it | Salvatore Cali](https://www.ted.com/talks/salvatore_cali_your_company_is_wasting_time_here_s_how_to_stop_it?rss)
+
 ## 20231115
 - [TED Talks Daily](https://www.ted.com/talks) | [Why you should ditch deadly fossil-fuel appliances | Donnel Baird](https://www.ted.com/talks/donnel_baird_why_you_should_ditch_deadly_fossil_fuel_appliances?rss)
 

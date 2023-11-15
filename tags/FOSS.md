@@ -1,3 +1,6 @@
+## 20231116
+- [It's FOSS](https://itsfoss.com/) | [10 YouTube Channels Linux Users Should Explore](https://itsfoss.com/linux-youtube-channels/)
+
 ## 20231115
 - [It's FOSS](https://itsfoss.com/) | [Install the Latest Calibre on Ubuntu](https://itsfoss.com/install-calibre-ubuntu/)
 

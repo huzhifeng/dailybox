@@ -1,3 +1,6 @@
+## 20231116
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.6 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-6-on-ubuntu-heres-how)
+
 ## 20231115
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.8 Brings Support for uSWID SBoM Data with LZMA Compressed Payloads](https://9to5linux.com/fwupd-1-9-8-brings-support-for-uswid-sbom-data-with-lzma-compressed-payloads)
 - [9to5Linux](https://9to5linux.com/) | [Blender 4.0 Released with Support for AMD RDNA2 and RDNA3 APUs, Node Tools](https://9to5linux.com/blender-4-0-released-with-support-for-amd-rdna2-and-rdna3-apus-node-tools)

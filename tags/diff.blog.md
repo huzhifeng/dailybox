@@ -1,3 +1,6 @@
+## 20231116
+- [diff.blog](https://diff.blog/) | [Haiku Activity & Contract Report, October 2023](https://diff.blog/post/haiku-activity-contract-report-october-2023-161025/)
+
 ## 20231115
 - [diff.blog](https://diff.blog/) | [GraphCast: AI model for faster and more accurate global weather forecasting](https://diff.blog/post/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting-160968/)
 

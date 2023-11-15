@@ -1,3 +1,8 @@
+## 20231116
+- [Product Hunt](https://www.producthunt.com) | [AI Product Insights Feed](https://www.producthunt.com/posts/ai-product-insights-feed)
+- [Product Hunt](https://www.producthunt.com) | [Taskade AI Agents](https://www.producthunt.com/posts/taskade-ai-agents)
+- [Product Hunt](https://www.producthunt.com) | [Joberty](https://www.producthunt.com/posts/joberty)
+
 ## 20231115
 - [Product Hunt](https://www.producthunt.com) | [Tadpole](https://www.producthunt.com/posts/tadpole)
 - [Product Hunt](https://www.producthunt.com) | [AskYoda by Eden AI](https://www.producthunt.com/posts/askyoda-by-eden-ai)

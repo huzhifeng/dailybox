@@ -1,3 +1,9 @@
+## 20231116
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1186 每月 5 美元的虚拟机性能超过了 30 年前的第三快的超算](https://linux.cn/article-16382-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.6 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-6-on-ubuntu-heres-how)
+- [Planet GNOME](https://planet.gnome.org/) | [Introducing graphics offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+- [Planet KDE](https://planet.kde.org/) | [Farewell for now, again.](https://www.scarlettgatelymoore.dev/farewell-for-now-again/?utm_source=atom_feed)
+
 ## 20231115
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1185 宇宙射线可以导致 SSH 私钥被窃取](https://linux.cn/article-16380-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.8 Brings Support for uSWID SBoM Data with LZMA Compressed Payloads](https://9to5linux.com/fwupd-1-9-8-brings-support-for-uswid-sbom-data-with-lzma-compressed-payloads)

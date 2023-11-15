@@ -1,3 +1,6 @@
+## 20231116
+- [Planet GNOME](https://planet.gnome.org/) | [Introducing graphics offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+
 ## 20231112
 - [Planet GNOME](https://planet.gnome.org/) | [AppStream 1.0 released!](https://blog.tenstral.net/2023/11/appstream-1-0-released.html)
 
