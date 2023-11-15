@@ -1,3 +1,7 @@
+## 20231116
+- [Hacker News](https://news.ycombinator.com/front) | [The Small Website Discoverability Crisis (2021)](https://news.ycombinator.com/item?id=38276951)
+- [Hacker News](https://news.ycombinator.com/front) | [Hacking ADHD: Strategies for the modern developer](https://news.ycombinator.com/item?id=38274782)
+
 ## 20231115
 - [Hacker News](https://news.ycombinator.com/front) | [GraphCast: AI model for weather forecasting](https://news.ycombinator.com/item?id=38264641)
 

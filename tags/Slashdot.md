@@ -1,3 +1,6 @@
+## 20231116
+- [Slashdot](https://developers.slashdot.org/) | [A Coder Considers the Waning Days of the Craft](https://developers.slashdot.org/story/23/11/15/1411231/a-coder-considers-the-waning-days-of-the-craft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231113
 - [Slashdot](https://developers.slashdot.org/) | [How 'Hour of Code' Will Teach Students About Issues with AI](https://news.slashdot.org/story/23/11/12/0812228/how-hour-of-code-will-teach-students-about-issues-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Highly Invasive Backdoors Hidden in Python Obfuscation Packages, Downloaded by 2,348 Developers](https://it.slashdot.org/story/23/11/12/0221232/highly-invasive-backdoors-hidden-in-python-obfuscation-packages-downloaded-by-2348-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,8 @@
+## 20231116
+- [V2EX](https://www.v2ex.com/) | [小米汽车工信部“证件照”正式亮相 SU7 / Pro / Max](https://www.v2ex.com/t/992170)
+- [V2EX](https://www.v2ex.com/) | [现在 win 下还有什么好用的轻量文本编辑器](https://www.v2ex.com/t/992137)
+- [V2EX](https://www.v2ex.com/) | [岛屿之梦，发现灵动生活——『Island Widgets』带你迈向全新体验！ [评论抽奖送终生会员]](https://www.v2ex.com/t/992091)
+
 ## 20231115
 - [V2EX](https://www.v2ex.com/) | [双十一结束了，给 V 站老哥前 1000 个用户都送终身合伙人，寄快递成本价， 4 元寄全国，需要寄快递或者网购退货的快来](https://www.v2ex.com/t/991755)
 - [V2EX](https://www.v2ex.com/) | [V 站老哥太热情了， Airy 永久会员加送 9000，凑到 1 万](https://www.v2ex.com/t/991748)

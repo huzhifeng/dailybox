@@ -1,3 +1,6 @@
+## 20231116
+- [Planet KDE](https://planet.kde.org/) | [Farewell for now, again.](https://www.scarlettgatelymoore.dev/farewell-for-now-again/?utm_source=atom_feed)
+
 ## 20231115
 - [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Graphite](https://quickfix.es/2023/11/off-theme-presents-graphite/?utm_source=atom_feed)
 
