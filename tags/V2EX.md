@@ -1,3 +1,8 @@
+## 20231117
+- [V2EX](https://www.v2ex.com/) | [chatgpt4.0 可以免费用了？](https://www.v2ex.com/t/992441)
+- [V2EX](https://www.v2ex.com/) | [官方 trade in 到手刀严重](https://www.v2ex.com/t/992388)
+- [V2EX](https://www.v2ex.com/) | [[送码] 数独游戏 -- Hi Sudoku 上线，送一些终身会员和订阅兑换码](https://www.v2ex.com/t/992373)
+
 ## 20231116
 - [V2EX](https://www.v2ex.com/) | [小米汽车工信部“证件照”正式亮相 SU7 / Pro / Max](https://www.v2ex.com/t/992170)
 - [V2EX](https://www.v2ex.com/) | [现在 win 下还有什么好用的轻量文本编辑器](https://www.v2ex.com/t/992137)

@@ -1,3 +1,8 @@
+## 20231117
+- [diff.blog](https://diff.blog/) | [Transforming the future of music creation](https://diff.blog/post/transforming-the-future-of-music-creation-161091/)
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.74.0](https://diff.blog/post/announcing-rust-1740-161117/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 521](https://diff.blog/post/this-week-in-rust-521-161083/)
+
 ## 20231116
 - [diff.blog](https://diff.blog/) | [Haiku Activity & Contract Report, October 2023](https://diff.blog/post/haiku-activity-contract-report-october-2023-161025/)
 

@@ -1,3 +1,6 @@
+## 20231117
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.46: Linux YouTube Channels, GNOME Extensions, elementary OS 8 and More](https://itsfoss.com/newsletter/foss-weekly-23-46/)
+
 ## 20231116
 - [It's FOSS](https://itsfoss.com/) | [10 YouTube Channels Linux Users Should Explore](https://itsfoss.com/linux-youtube-channels/)
 

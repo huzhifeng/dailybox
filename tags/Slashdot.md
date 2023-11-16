@@ -1,3 +1,6 @@
+## 20231117
+- [Slashdot](https://developers.slashdot.org/) | [Developers Can't Seem To Stop Exposing Credentials in Publicly Accessible Code](https://developers.slashdot.org/story/23/11/16/1639249/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231116
 - [Slashdot](https://developers.slashdot.org/) | [A Coder Considers the Waning Days of the Craft](https://developers.slashdot.org/story/23/11/15/1411231/a-coder-considers-the-waning-days-of-the-craft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
