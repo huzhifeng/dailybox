@@ -1,3 +1,6 @@
+## 20231117
+- [TED Talks Daily](https://www.ted.com/talks) | [Are you really as good at something as you think? | Robin Kramer](https://www.ted.com/talks/robin_kramer_are_you_really_as_good_at_something_as_you_think?rss)
+
 ## 20231116
 - [TED Talks Daily](https://www.ted.com/talks) | [Your company is wasting time — here's how to stop it | Salvatore Cali](https://www.ted.com/talks/salvatore_cali_your_company_is_wasting_time_here_s_how_to_stop_it?rss)
 

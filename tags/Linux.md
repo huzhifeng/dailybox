@@ -1,3 +1,11 @@
+## 20231117
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1188 科学家利用树莓派“胶囊”保护气球望远镜数据](https://linux.cn/article-16390-1.html?utm_source=rss&utm_medium=rss)
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1187 2023 年，GCC 仍然在为 COBOL 编译器开发新的功能](https://linux.cn/article-16389-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Steam Deck OLED Is Now Available to Order with HDR Display and Bigger Battery](https://9to5linux.com/steam-deck-oled-is-now-available-to-order-with-hdr-display-and-bigger-battery)
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7 Released with AMD VCN AV1 and NVIDIA NVENC AV1 Encoders](https://9to5linux.com/handbrake-1-7-released-with-amd-vcn-av1-and-nvidia-nvenc-av1-encoders)
+- [9to5Linux](https://9to5linux.com/) | [Hands-On with MX Linux 23 on Raspberry Pi 5](https://9to5linux.com/hands-on-with-mx-linux-23-on-raspberry-pi-5)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive Sprint Recap – November 2023](https://kdenlive.org/en/2023/11/kdenlive-sprint-recap-november-2023/?utm_source=atom_feed)
+
 ## 20231116
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1186 每月 5 美元的虚拟机性能超过了 30 年前的第三快的超算](https://linux.cn/article-16382-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.6 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-6-on-ubuntu-heres-how)

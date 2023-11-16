@@ -1,3 +1,6 @@
+## 20231117
+- [GitHub Advanced Search](https://github.com/search/advanced) | [twostraws/Inferno](https://github.com/twostraws/Inferno)
+
 ## 20231115
 - [GitHub Advanced Search](https://github.com/search/advanced) | [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
 

@@ -1,3 +1,6 @@
+## 20231117
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive Sprint Recap – November 2023](https://kdenlive.org/en/2023/11/kdenlive-sprint-recap-november-2023/?utm_source=atom_feed)
+
 ## 20231116
 - [Planet KDE](https://planet.kde.org/) | [Farewell for now, again.](https://www.scarlettgatelymoore.dev/farewell-for-now-again/?utm_source=atom_feed)
 

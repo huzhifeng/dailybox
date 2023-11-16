@@ -1,3 +1,8 @@
+## 20231117
+- [9to5Linux](https://9to5linux.com/) | [Steam Deck OLED Is Now Available to Order with HDR Display and Bigger Battery](https://9to5linux.com/steam-deck-oled-is-now-available-to-order-with-hdr-display-and-bigger-battery)
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7 Released with AMD VCN AV1 and NVIDIA NVENC AV1 Encoders](https://9to5linux.com/handbrake-1-7-released-with-amd-vcn-av1-and-nvidia-nvenc-av1-encoders)
+- [9to5Linux](https://9to5linux.com/) | [Hands-On with MX Linux 23 on Raspberry Pi 5](https://9to5linux.com/hands-on-with-mx-linux-23-on-raspberry-pi-5)
+
 ## 20231116
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.6 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-6-on-ubuntu-heres-how)
 
