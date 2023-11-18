@@ -1,3 +1,8 @@
+## 20231118
+- [diff.blog](https://diff.blog/) | [OpenAI announces leadership transition](https://diff.blog/post/openai-announces-leadership-transition-161221/)
+- [diff.blog](https://diff.blog/) | [A PCIe Coral TPU FINALLY works on Raspberry Pi 5](https://diff.blog/post/a-pcie-coral-tpu-finally-works-on-raspberry-pi-5-161212/)
+- [diff.blog](https://diff.blog/) | [Introducing the Functional Source License: Freedom without Free-riding](https://diff.blog/post/introducing-the-functional-source-license-freedom-without-free-riding-161202/)
+
 ## 20231117
 - [diff.blog](https://diff.blog/) | [Transforming the future of music creation](https://diff.blog/post/transforming-the-future-of-music-creation-161091/)
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.74.0](https://diff.blog/post/announcing-rust-1740-161117/)

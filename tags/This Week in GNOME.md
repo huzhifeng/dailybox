@@ -1,3 +1,6 @@
+## 20231118
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#122 Experimenting and Learning](https://thisweek.gnome.org/posts/2023/11/twig-122/)
+
 ## 20231111
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#121 Public Interest Infrastructure](https://thisweek.gnome.org/posts/2023/11/twig-121/)
 
