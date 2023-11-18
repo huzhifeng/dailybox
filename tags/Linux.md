@@ -1,3 +1,10 @@
+## 20231119
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1190 “Windows” 现在是一个 iOS 应用](https://linux.cn/article-16395-1.html?utm_source=rss&utm_medium=rss)
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1189 苹果宣布将在明年支持谷歌力推的 RCS 标准](https://linux.cn/article-16392-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Inkscape 1.3.1 Released with More Than 70 Bug Fixes and Two New Features](https://9to5linux.com/inkscape-1-3-1-released-with-more-than-70-bug-fixes-and-two-new-features)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/)
+
 ## 20231118
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs](https://9to5linux.com/calibre-7-0-e-book-manager-introduces-new-notes-feature-support-for-audio-epubs)
 - [9to5Linux](https://9to5linux.com/) | [It&#8217;s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026](https://9to5linux.com/its-official-linux-kernel-6-6-will-be-lts-supported-until-december-2026)

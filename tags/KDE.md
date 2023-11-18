@@ -1,3 +1,7 @@
+## 20231119
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/)
+
 ## 20231117
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive Sprint Recap – November 2023](https://kdenlive.org/en/2023/11/kdenlive-sprint-recap-november-2023/?utm_source=atom_feed)
 

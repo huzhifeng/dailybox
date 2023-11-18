@@ -1,3 +1,6 @@
+## 20231119
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/)
+
 ## 20231112
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Wayland by default, de-framed Breeze, HDR games, rectangle screen recording](https://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/)
 

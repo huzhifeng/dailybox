@@ -1,3 +1,6 @@
+## 20231119
+- [9to5Linux](https://9to5linux.com/) | [Inkscape 1.3.1 Released with More Than 70 Bug Fixes and Two New Features](https://9to5linux.com/inkscape-1-3-1-released-with-more-than-70-bug-fixes-and-two-new-features)
+
 ## 20231118
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs](https://9to5linux.com/calibre-7-0-e-book-manager-introduces-new-notes-feature-support-for-audio-epubs)
 - [9to5Linux](https://9to5linux.com/) | [It&#8217;s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026](https://9to5linux.com/its-official-linux-kernel-6-6-will-be-lts-supported-until-december-2026)

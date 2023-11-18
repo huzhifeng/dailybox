@@ -1,3 +1,6 @@
+## 20231119
+- [It's FOSS](https://itsfoss.com/) | [Enabling Bluetooth on Arch Linux](https://itsfoss.com/bluetooth-arch-linux/)
+
 ## 20231117
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.46: Linux YouTube Channels, GNOME Extensions, elementary OS 8 and More](https://itsfoss.com/newsletter/foss-weekly-23-46/)
 

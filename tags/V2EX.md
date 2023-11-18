@@ -1,3 +1,8 @@
+## 20231119
+- [V2EX](https://www.v2ex.com/) | [一次 github 跟开源大佬的抬杠经历](https://www.v2ex.com/t/993100)
+- [V2EX](https://www.v2ex.com/) | [领导说业余时间多学一下技术，我很想反驳，领导这是 pua 吗？如果不是的话该有怎么样的反应比较好，另外如果手头上有多个项目的话，该怎么处理呢？](https://www.v2ex.com/t/993073)
+- [V2EX](https://www.v2ex.com/) | [老生常谈，在写这种代码给这些字段命名的时候是真的难受](https://www.v2ex.com/t/993051)
+
 ## 20231117
 - [V2EX](https://www.v2ex.com/) | [chatgpt4.0 可以免费用了？](https://www.v2ex.com/t/992441)
 - [V2EX](https://www.v2ex.com/) | [官方 trade in 到手刀严重](https://www.v2ex.com/t/992388)
