@@ -1,3 +1,8 @@
+## 20231118
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs](https://9to5linux.com/calibre-7-0-e-book-manager-introduces-new-notes-feature-support-for-audio-epubs)
+- [9to5Linux](https://9to5linux.com/) | [It&#8217;s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026](https://9to5linux.com/its-official-linux-kernel-6-6-will-be-lts-supported-until-december-2026)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#122 Experimenting and Learning](https://thisweek.gnome.org/posts/2023/11/twig-122/)
+
 ## 20231117
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1188 科学家利用树莓派“胶囊”保护气球望远镜数据](https://linux.cn/article-16390-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1187 2023 年，GCC 仍然在为 COBOL 编译器开发新的功能](https://linux.cn/article-16389-1.html?utm_source=rss&utm_medium=rss)

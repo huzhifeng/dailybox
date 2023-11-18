@@ -1,3 +1,6 @@
+## 20231118
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#122 Experimenting and Learning](https://thisweek.gnome.org/posts/2023/11/twig-122/)
+
 ## 20231116
 - [Planet GNOME](https://planet.gnome.org/) | [Introducing graphics offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 

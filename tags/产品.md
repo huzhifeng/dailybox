@@ -1,3 +1,8 @@
+## 20231118
+- [Product Hunt](https://www.producthunt.com) | [ResearchGPT](https://www.producthunt.com/posts/researchgpt)
+- [Product Hunt](https://www.producthunt.com) | [Glorify 3.0](https://www.producthunt.com/posts/glorify-3-0)
+- [Product Hunt](https://www.producthunt.com) | [ClickUp 3.0](https://www.producthunt.com/posts/clickup-3-0)
+
 ## 20231117
 - [Product Hunt](https://www.producthunt.com) | [Polywork AI](https://www.producthunt.com/posts/polywork-ai)
 - [Product Hunt](https://www.producthunt.com) | [AI Shadows](https://www.producthunt.com/posts/ai-shadows)
