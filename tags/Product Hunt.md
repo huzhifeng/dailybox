@@ -1,3 +1,7 @@
+## 20231119
+- [Product Hunt](https://www.producthunt.com) | [maths.ai](https://www.producthunt.com/posts/maths-ai)
+- [Product Hunt](https://www.producthunt.com) | [ReadPilot](https://www.producthunt.com/posts/readpilot-2)
+
 ## 20231118
 - [Product Hunt](https://www.producthunt.com) | [ResearchGPT](https://www.producthunt.com/posts/researchgpt)
 - [Product Hunt](https://www.producthunt.com) | [Glorify 3.0](https://www.producthunt.com/posts/glorify-3-0)

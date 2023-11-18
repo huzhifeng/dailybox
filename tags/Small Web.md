@@ -1,3 +1,8 @@
+## 20231119
+- [Kagi Small Web](https://kagi.com/smallweb) | [Day 18 of Noirvember: Welcome to My Noir Dinner Party!](https://shadowsandsatin.wordpress.com/2023/11/18/day-18-of-noirvember-welcome-to-my-noir-dinner-party/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Unraveling the OpenAI Leadership Change: A Web of Questions](https://jrogel.com/unraveling-the-openai-leadership-change-a-web-of-questions/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Retrieve Windows key](https://silveiraneto.net/2023/11/18/retrieve-windows-key/)
+
 ## 20231114
 - [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [The joy of learning Helix (and probably other modal terminal-based editors)](https://pawelgrzybek.com/the-joy-of-learning-helix-and-probably-other-modal-terminal-based-editors/)

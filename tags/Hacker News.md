@@ -1,3 +1,8 @@
+## 20231119
+- [Hacker News](https://news.ycombinator.com/front) | [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://news.ycombinator.com/item?id=38318889)
+- [Hacker News](https://news.ycombinator.com/front) | [Starship Integrated Flight Test 2 at 7 Am Central Time](https://news.ycombinator.com/item?id=38317247)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Open-source tool for creating courses like Duolingo](https://news.ycombinator.com/item?id=38316936)
+
 ## 20231117
 - [Hacker News](https://news.ycombinator.com/front) | [Privacy is priceless, but Signal is expensive](https://news.ycombinator.com/item?id=38291427)
 - [Hacker News](https://news.ycombinator.com/front) | [I think I need to go lie down](https://news.ycombinator.com/item?id=38288130)
