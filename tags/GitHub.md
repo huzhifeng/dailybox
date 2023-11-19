@@ -1,3 +1,6 @@
+## 20231120
+- [GitHub Advanced Search](https://github.com/search/advanced) | [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
 ## 20231117
 - [GitHub Advanced Search](https://github.com/search/advanced) | [twostraws/Inferno](https://github.com/twostraws/Inferno)
 

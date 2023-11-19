@@ -1,3 +1,6 @@
+## 20231120
+- [It's FOSS](https://itsfoss.com/) | [LibreOffice Alternatives for Linux](https://itsfoss.com/libreoffice-alternatives-linux/)
+
 ## 20231119
 - [It's FOSS](https://itsfoss.com/) | [Enabling Bluetooth on Arch Linux](https://itsfoss.com/bluetooth-arch-linux/)
 

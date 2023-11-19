@@ -1,3 +1,7 @@
+## 20231120
+- [diff.blog](https://diff.blog/) | [FSL: A License For the Bazaar, Not the Cathedral](https://diff.blog/post/fsl-a-license-for-the-bazaar-not-the-cathedral-161265/)
+- [diff.blog](https://diff.blog/) | [ChatGPT performs better on Julia than Python (and R) for Large Language Model (LLM) Code Generation. Why?](https://diff.blog/post/chatgpt-performs-better-on-julia-than-python-and-r-for-large-language-model-llm-code-generation-why-161271/)
+
 ## 20231118
 - [diff.blog](https://diff.blog/) | [OpenAI announces leadership transition](https://diff.blog/post/openai-announces-leadership-transition-161221/)
 - [diff.blog](https://diff.blog/) | [A PCIe Coral TPU FINALLY works on Raspberry Pi 5](https://diff.blog/post/a-pcie-coral-tpu-finally-works-on-raspberry-pi-5-161212/)

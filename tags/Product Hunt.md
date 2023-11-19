@@ -1,3 +1,8 @@
+## 20231120
+- [Product Hunt](https://www.producthunt.com) | [BizPlannerAI](https://www.producthunt.com/posts/bizplannerai)
+- [Product Hunt](https://www.producthunt.com) | [Mobirise AI](https://www.producthunt.com/posts/mobirise-ai)
+- [Product Hunt](https://www.producthunt.com) | [lmage Generator by Akool](https://www.producthunt.com/posts/lmage-generator-by-akool)
+
 ## 20231119
 - [Product Hunt](https://www.producthunt.com) | [maths.ai](https://www.producthunt.com/posts/maths-ai)
 - [Product Hunt](https://www.producthunt.com) | [ReadPilot](https://www.producthunt.com/posts/readpilot-2)

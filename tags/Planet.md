@@ -1,3 +1,7 @@
+## 20231120
+- [Planet KDE](https://planet.kde.org/) | [What a Weekend](http://www.thelins.se/johan/blog/2023/11/what-a-weekend/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [My remote office set up](https://toscalix.com/2023/11/19/my-remote-office-set-up/?utm_source=atom_feed)
+
 ## 20231119
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/?utm_source=atom_feed)
 
