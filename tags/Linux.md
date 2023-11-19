@@ -1,3 +1,7 @@
+## 20231120
+- [Planet KDE](https://planet.kde.org/) | [What a Weekend](http://www.thelins.se/johan/blog/2023/11/what-a-weekend/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [My remote office set up](https://toscalix.com/2023/11/19/my-remote-office-set-up/?utm_source=atom_feed)
+
 ## 20231119
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1190 “Windows” 现在是一个 iOS 应用](https://linux.cn/article-16395-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1189 苹果宣布将在明年支持谷歌力推的 RCS 标准](https://linux.cn/article-16392-1.html?utm_source=rss&utm_medium=rss)

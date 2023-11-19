@@ -1,3 +1,8 @@
+## 20231120
+- [V2EX](https://www.v2ex.com/) | [各位大佬，有哪些出厂自带谷歌框架、手机信号好的安卓手机？](https://www.v2ex.com/t/993259)
+- [V2EX](https://www.v2ex.com/) | [[送码] 折腾 2 周，那个专注于信息过滤的 RSS 阅读器会员功能上线了，送年度会员](https://www.v2ex.com/t/993230)
+- [V2EX](https://www.v2ex.com/) | [安卓给自己推送消息有什么解决方案](https://www.v2ex.com/t/993205)
+
 ## 20231119
 - [V2EX](https://www.v2ex.com/) | [一次 github 跟开源大佬的抬杠经历](https://www.v2ex.com/t/993100)
 - [V2EX](https://www.v2ex.com/) | [领导说业余时间多学一下技术，我很想反驳，领导这是 pua 吗？如果不是的话该有怎么样的反应比较好，另外如果手头上有多个项目的话，该怎么处理呢？](https://www.v2ex.com/t/993073)

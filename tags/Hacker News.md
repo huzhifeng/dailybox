@@ -1,3 +1,6 @@
+## 20231120
+- [Hacker News](https://news.ycombinator.com/front) | [Deep Learning Course](https://news.ycombinator.com/item?id=38331200)
+
 ## 20231119
 - [Hacker News](https://news.ycombinator.com/front) | [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://news.ycombinator.com/item?id=38318889)
 - [Hacker News](https://news.ycombinator.com/front) | [Starship Integrated Flight Test 2 at 7 Am Central Time](https://news.ycombinator.com/item?id=38317247)

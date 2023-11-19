@@ -1,3 +1,8 @@
+## 20231120
+- [Kagi Small Web](https://kagi.com/smallweb) | [Weeknote: 13 to 17 November 2023](https://blog.mattedgar.com/2023/11/19/weeknote-13-to-17-november-2023/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Stephen Green on the Joy Punk podcast](https://siliconflorist.com/2023/11/19/stephen-green-on-the-joy-punk-podcast/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Nabokov’s Eye Spy.](https://languagehat.com/nabokovs-eye-spy/)
+
 ## 20231119
 - [Kagi Small Web](https://kagi.com/smallweb) | [Day 18 of Noirvember: Welcome to My Noir Dinner Party!](https://shadowsandsatin.wordpress.com/2023/11/18/day-18-of-noirvember-welcome-to-my-noir-dinner-party/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Unraveling the OpenAI Leadership Change: A Web of Questions](https://jrogel.com/unraveling-the-openai-leadership-change-a-web-of-questions/)
