@@ -1,3 +1,6 @@
+## 20231121
+- [OMG! Linux](https://www.omglinux.com/) | [EndeavourOS ‘Galileo’ is Available to Download](https://www.omglinux.com/endeavour-os-galileo-released/)
+
 ## 20230930
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME 46 Release Schedule is Now Online](https://www.omglinux.com/gnome-46-release-date/)
 

@@ -1,3 +1,8 @@
+## 20231121
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 9.3 Brings Back Cloud and Container Images for PowerPC 64-Bit](https://9to5linux.com/rocky-linux-9-3-brings-back-cloud-and-container-images-for-powerpc-64-bit)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.9 Released with Support for Lenovo X1 Yoga Gen7 530E 2-in-1 Laptops](https://9to5linux.com/fwupd-1-9-9-released-with-support-for-lenovo-x1-yoga-gen7-530e-2-in-1-laptops)
+- [9to5Linux](https://9to5linux.com/) | [Open Source NVIDIA Vulkan Driver NVK Reaches Vulkan 1.0 Conformance](https://9to5linux.com/open-source-nvidia-vulkan-driver-nvk-reaches-vulkan-1-0-conformance)
+
 ## 20231119
 - [9to5Linux](https://9to5linux.com/) | [Inkscape 1.3.1 Released with More Than 70 Bug Fixes and Two New Features](https://9to5linux.com/inkscape-1-3-1-released-with-more-than-70-bug-fixes-and-two-new-features)
 

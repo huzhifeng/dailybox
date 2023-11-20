@@ -1,3 +1,8 @@
+## 20231121
+- [Product Hunt](https://www.producthunt.com) | [Notion Leader's Toolkit](https://www.producthunt.com/posts/notion-leader-s-toolkit)
+- [Product Hunt](https://www.producthunt.com) | [folsom](https://www.producthunt.com/posts/folsom)
+- [Product Hunt](https://www.producthunt.com) | [Community Hub](https://www.producthunt.com/posts/community-hub)
+
 ## 20231120
 - [Product Hunt](https://www.producthunt.com) | [BizPlannerAI](https://www.producthunt.com/posts/bizplannerai)
 - [Product Hunt](https://www.producthunt.com) | [Mobirise AI](https://www.producthunt.com/posts/mobirise-ai)

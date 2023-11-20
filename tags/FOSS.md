@@ -1,3 +1,6 @@
+## 20231121
+- [It's FOSS](https://itsfoss.com/) | [What is Super Key in Linux?](https://itsfoss.com/super-key/)
+
 ## 20231120
 - [It's FOSS](https://itsfoss.com/) | [LibreOffice Alternatives for Linux](https://itsfoss.com/libreoffice-alternatives-linux/)
 
