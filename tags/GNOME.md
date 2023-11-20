@@ -1,3 +1,6 @@
+## 20231121
+- [Planet GNOME](https://planet.gnome.org/) | [Nextcloud as Personal Cloud](https://enblog.eischmann.cz/2023/11/20/nextcloud-as-personal-cloud/)
+
 ## 20231118
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#122 Experimenting and Learning](https://thisweek.gnome.org/posts/2023/11/twig-122/)
 

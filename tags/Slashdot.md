@@ -1,3 +1,6 @@
+## 20231121
+- [Slashdot](https://linux.slashdot.org/) | [Can AI Be Used to Fine-Tune Linux Kernel Performance?](https://linux.slashdot.org/story/23/11/20/0153201/can-ai-be-used-to-fine-tune-linux-kernel-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231117
 - [Slashdot](https://developers.slashdot.org/) | [Developers Can't Seem To Stop Exposing Credentials in Publicly Accessible Code](https://developers.slashdot.org/story/23/11/16/1639249/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

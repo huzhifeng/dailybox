@@ -1,3 +1,8 @@
+## 20231121
+- [V2EX](https://www.v2ex.com/) | [你有什么超能力](https://www.v2ex.com/t/993532)
+- [V2EX](https://www.v2ex.com/) | [[系列]辞职快四个月了，依然失业中](https://www.v2ex.com/t/993350)
+- [V2EX](https://www.v2ex.com/) | [大家怀念小时的自己吗](https://www.v2ex.com/t/993348)
+
 ## 20231120
 - [V2EX](https://www.v2ex.com/) | [各位大佬，有哪些出厂自带谷歌框架、手机信号好的安卓手机？](https://www.v2ex.com/t/993259)
 - [V2EX](https://www.v2ex.com/) | [[送码] 折腾 2 周，那个专注于信息过滤的 RSS 阅读器会员功能上线了，送年度会员](https://www.v2ex.com/t/993230)

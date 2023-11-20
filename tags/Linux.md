@@ -1,3 +1,12 @@
+## 20231121
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1191 Linux 中的 Rust 支持继续成熟](https://linux.cn/article-16398-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 9.3 Brings Back Cloud and Container Images for PowerPC 64-Bit](https://9to5linux.com/rocky-linux-9-3-brings-back-cloud-and-container-images-for-powerpc-64-bit)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.9 Released with Support for Lenovo X1 Yoga Gen7 530E 2-in-1 Laptops](https://9to5linux.com/fwupd-1-9-9-released-with-support-for-lenovo-x1-yoga-gen7-530e-2-in-1-laptops)
+- [9to5Linux](https://9to5linux.com/) | [Open Source NVIDIA Vulkan Driver NVK Reaches Vulkan 1.0 Conformance](https://9to5linux.com/open-source-nvidia-vulkan-driver-nvk-reaches-vulkan-1-0-conformance)
+- [OMG! Linux](https://www.omglinux.com/) | [EndeavourOS ‘Galileo’ is Available to Download](https://www.omglinux.com/endeavour-os-galileo-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [Nextcloud as Personal Cloud](https://enblog.eischmann.cz/2023/11/20/nextcloud-as-personal-cloud/)
+- [Slashdot](https://linux.slashdot.org/) | [Can AI Be Used to Fine-Tune Linux Kernel Performance?](https://linux.slashdot.org/story/23/11/20/0153201/can-ai-be-used-to-fine-tune-linux-kernel-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231120
 - [Planet KDE](https://planet.kde.org/) | [What a Weekend](http://www.thelins.se/johan/blog/2023/11/what-a-weekend/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [My remote office set up](https://toscalix.com/2023/11/19/my-remote-office-set-up/?utm_source=atom_feed)

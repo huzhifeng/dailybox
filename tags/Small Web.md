@@ -1,3 +1,8 @@
+## 20231121
+- [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Just like that, we are shutting down! So, I am looking for a new role.](https://pawelgrzybek.com/just-like-that-we-are-shutting-down-so-i-am-looking-for-a-new-role/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Product Versioning for Fast-Moving Teams](https://brunoscheufler.com/blog/2023-11-20-product-versioning-for-fast-moving-teams)
+
 ## 20231120
 - [Kagi Small Web](https://kagi.com/smallweb) | [Weeknote: 13 to 17 November 2023](https://blog.mattedgar.com/2023/11/19/weeknote-13-to-17-november-2023/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Stephen Green on the Joy Punk podcast](https://siliconflorist.com/2023/11/19/stephen-green-on-the-joy-punk-podcast/)

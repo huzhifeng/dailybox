@@ -1,3 +1,6 @@
+## 20231121
+- [Planet GNOME](https://planet.gnome.org/) | [Nextcloud as Personal Cloud](https://enblog.eischmann.cz/2023/11/20/nextcloud-as-personal-cloud/)
+
 ## 20231120
 - [Planet KDE](https://planet.kde.org/) | [What a Weekend](http://www.thelins.se/johan/blog/2023/11/what-a-weekend/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [My remote office set up](https://toscalix.com/2023/11/19/my-remote-office-set-up/?utm_source=atom_feed)

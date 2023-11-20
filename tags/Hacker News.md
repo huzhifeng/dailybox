@@ -1,3 +1,8 @@
+## 20231121
+- [Hacker News](https://news.ycombinator.com/front) | [Sam Altman is still trying to return as OpenAI CEO](https://news.ycombinator.com/item?id=38352891)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenAI staff threaten to quit unless board resigns](https://news.ycombinator.com/item?id=38347868)
+- [Hacker News](https://news.ycombinator.com/front) | [I deeply regret my participation in the board's actions](https://news.ycombinator.com/item?id=38347501)
+
 ## 20231120
 - [Hacker News](https://news.ycombinator.com/front) | [Deep Learning Course](https://news.ycombinator.com/item?id=38331200)
 
