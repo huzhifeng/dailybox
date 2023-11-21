@@ -1,3 +1,8 @@
+## 20231122
+- [Hacker News](https://news.ycombinator.com/front) | [Stable Video Diffusion](https://news.ycombinator.com/item?id=38368287)
+- [Hacker News](https://news.ycombinator.com/front) | [Binance founder Changpeng Zhao agrees to step down, plead guilty](https://news.ycombinator.com/item?id=38366729)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude 2.1](https://news.ycombinator.com/item?id=38365934)
+
 ## 20231121
 - [Hacker News](https://news.ycombinator.com/front) | [Sam Altman is still trying to return as OpenAI CEO](https://news.ycombinator.com/item?id=38352891)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenAI staff threaten to quit unless board resigns](https://news.ycombinator.com/item?id=38347868)
