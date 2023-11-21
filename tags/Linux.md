@@ -1,3 +1,6 @@
+## 20231122
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1192 商业航班遭遇 “难以想象” 的 GPS 攻击](https://linux.cn/article-16402-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20231121
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1191 Linux 中的 Rust 支持继续成熟](https://linux.cn/article-16398-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 9.3 Brings Back Cloud and Container Images for PowerPC 64-Bit](https://9to5linux.com/rocky-linux-9-3-brings-back-cloud-and-container-images-for-powerpc-64-bit)

@@ -1,3 +1,8 @@
+## 20231122
+- [V2EX](https://www.v2ex.com/) | [让帮我测试发消息，确给我 oss 刷了 4.7TB 的流量😭](https://www.v2ex.com/t/993823)
+- [V2EX](https://www.v2ex.com/) | [游戏玩不下去，怎么办？](https://www.v2ex.com/t/993733)
+- [V2EX](https://www.v2ex.com/) | [[抽奖送码] 感谢 V 站老哥对「一休」的支持和建议，新版更新，再抽 100 个～](https://www.v2ex.com/t/993720)
+
 ## 20231121
 - [V2EX](https://www.v2ex.com/) | [你有什么超能力](https://www.v2ex.com/t/993532)
 - [V2EX](https://www.v2ex.com/) | [[系列]辞职快四个月了，依然失业中](https://www.v2ex.com/t/993350)

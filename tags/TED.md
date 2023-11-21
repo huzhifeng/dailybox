@@ -1,3 +1,7 @@
+## 20231122
+- [TED Talks Daily](https://www.ted.com/talks) | [When Biden met Xi (and what's going on with the US and China) | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_when_biden_met_xi_and_what_s_going_on_with_the_us_and_china?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [A crash course in making political change | Katie Fahey](https://www.ted.com/talks/katie_fahey_a_crash_course_in_making_political_change?rss)
+
 ## 20231121
 - [TED Talks Daily](https://www.ted.com/talks) | [Meet methane, the invisible climate villain | Marcelo Mena](https://www.ted.com/talks/marcelo_mena_meet_methane_the_invisible_climate_villain?rss)
 

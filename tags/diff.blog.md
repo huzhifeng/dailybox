@@ -1,3 +1,7 @@
+## 20231122
+- [diff.blog](https://diff.blog/) | [Satya Nadella: "We have all the rights and all the capability."](https://diff.blog/post/satya-nadella-we-have-all-the-rights-and-all-the-capability-161455/)
+- [diff.blog](https://diff.blog/) | [URL parser performance](https://diff.blog/post/url-parser-performance-161434/)
+
 ## 20231120
 - [diff.blog](https://diff.blog/) | [FSL: A License For the Bazaar, Not the Cathedral](https://diff.blog/post/fsl-a-license-for-the-bazaar-not-the-cathedral-161265/)
 - [diff.blog](https://diff.blog/) | [ChatGPT performs better on Julia than Python (and R) for Large Language Model (LLM) Code Generation. Why?](https://diff.blog/post/chatgpt-performs-better-on-julia-than-python-and-r-for-large-language-model-llm-code-generation-why-161271/)

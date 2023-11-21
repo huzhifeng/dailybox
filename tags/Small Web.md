@@ -1,3 +1,9 @@
+## 20231122
+- [Kagi Small Web](https://kagi.com/smallweb) | [Mastodon for Dummies: a book review](https://neilzone.co.uk/2023/11/mastodon-for-dummies-a-book-review/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [<p>It&#x27;s taken me far too long to discover this foot-gun in express.</p>
+<p>I started a new express project the other day and realised that my request bodies were all empty! Spent a good hour thinking  it was a problem in the client or ...](https://www.tomoliver.net/notes/2023-11-21-1657)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Video: Badlands to Hot Springs, South Dakota motorhome travel timelapse](https://sinclairtrails.com/2023/11/21/video-badlands-to-hot-springs-south-dakota-motorhome-travel-timelapse/)
+
 ## 20231121
 - [Kagi Small Web](https://kagi.com/smallweb) | [Archive](https://pawelgrzybek.com/posts/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Just like that, we are shutting down! So, I am looking for a new role.](https://pawelgrzybek.com/just-like-that-we-are-shutting-down-so-i-am-looking-for-a-new-role/)

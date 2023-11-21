@@ -1,3 +1,8 @@
+## 20231122
+- [Product Hunt](https://www.producthunt.com) | [Ekran](https://www.producthunt.com/posts/ekran)
+- [Product Hunt](https://www.producthunt.com) | [KWHero](https://www.producthunt.com/posts/kwhero)
+- [Product Hunt](https://www.producthunt.com) | [ShipGPT AI](https://www.producthunt.com/posts/shipgpt-ai)
+
 ## 20231121
 - [Product Hunt](https://www.producthunt.com) | [Notion Leader's Toolkit](https://www.producthunt.com/posts/notion-leader-s-toolkit)
 - [Product Hunt](https://www.producthunt.com) | [folsom](https://www.producthunt.com/posts/folsom)
