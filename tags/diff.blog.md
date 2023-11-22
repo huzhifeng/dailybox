@@ -1,3 +1,6 @@
+## 20231123
+- [diff.blog](https://diff.blog/) | [So you want to make a Raspberry Pi killer...](https://diff.blog/post/so-you-want-to-make-a-raspberry-pi-killer-161527/)
+
 ## 20231122
 - [diff.blog](https://diff.blog/) | [Satya Nadella: "We have all the rights and all the capability."](https://diff.blog/post/satya-nadella-we-have-all-the-rights-and-all-the-capability-161455/)
 - [diff.blog](https://diff.blog/) | [URL parser performance](https://diff.blog/post/url-parser-performance-161434/)

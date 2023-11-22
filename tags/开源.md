@@ -1,3 +1,6 @@
+## 20231123
+- [It's FOSS](https://itsfoss.com/) | [8 Open Source Password Managers to Enhance Your Privacy Game](https://itsfoss.com/open-source-password-managers/)
+
 ## 20231121
 - [It's FOSS](https://itsfoss.com/) | [What is Super Key in Linux?](https://itsfoss.com/super-key/)
 

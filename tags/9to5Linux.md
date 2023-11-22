@@ -1,3 +1,6 @@
+## 20231123
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 to Enable Wayland Support by Default on Linux](https://9to5linux.com/mozilla-firefox-121-to-enable-wayland-support-by-default-on-linux)
+
 ## 20231121
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 9.3 Brings Back Cloud and Container Images for PowerPC 64-Bit](https://9to5linux.com/rocky-linux-9-3-brings-back-cloud-and-container-images-for-powerpc-64-bit)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.9 Released with Support for Lenovo X1 Yoga Gen7 530E 2-in-1 Laptops](https://9to5linux.com/fwupd-1-9-9-released-with-support-for-lenovo-x1-yoga-gen7-530e-2-in-1-laptops)

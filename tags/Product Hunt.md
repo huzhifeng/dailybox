@@ -1,3 +1,8 @@
+## 20231123
+- [Product Hunt](https://www.producthunt.com) | [No-code Customer Interface](https://www.producthunt.com/posts/no-code-customer-interface)
+- [Product Hunt](https://www.producthunt.com) | [Dubecos](https://www.producthunt.com/posts/dubecos)
+- [Product Hunt](https://www.producthunt.com) | [Doplac CRM](https://www.producthunt.com/posts/doplac-crm)
+
 ## 20231122
 - [Product Hunt](https://www.producthunt.com) | [Ekran](https://www.producthunt.com/posts/ekran)
 - [Product Hunt](https://www.producthunt.com) | [KWHero](https://www.producthunt.com/posts/kwhero)

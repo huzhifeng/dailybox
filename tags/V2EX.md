@@ -1,3 +1,8 @@
+## 20231123
+- [V2EX](https://www.v2ex.com/) | [话说深圳地铁真贵啊，一个月向深圳地铁稳定贡献三四百都没有任何优惠](https://www.v2ex.com/t/994156)
+- [V2EX](https://www.v2ex.com/) | [强行安利，务本 X3 绝对是男人都会喜欢的玩意](https://www.v2ex.com/t/994133)
+- [V2EX](https://www.v2ex.com/) | [Obsidian 最优的跨平台数据同步方案是什么？](https://www.v2ex.com/t/994099)
+
 ## 20231122
 - [V2EX](https://www.v2ex.com/) | [让帮我测试发消息，确给我 oss 刷了 4.7TB 的流量😭](https://www.v2ex.com/t/993823)
 - [V2EX](https://www.v2ex.com/) | [游戏玩不下去，怎么办？](https://www.v2ex.com/t/993733)

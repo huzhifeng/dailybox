@@ -1,3 +1,6 @@
+## 20231123
+- [Planet KDE](https://planet.kde.org/) | [A Season to be Thankful, Thank You!](https://www.scarlettgatelymoore.dev/a-season-to-be-thankful-thank-you/?utm_source=atom_feed)
+
 ## 20231120
 - [Planet KDE](https://planet.kde.org/) | [What a Weekend](http://www.thelins.se/johan/blog/2023/11/what-a-weekend/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [My remote office set up](https://toscalix.com/2023/11/19/my-remote-office-set-up/?utm_source=atom_feed)
