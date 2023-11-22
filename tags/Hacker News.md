@@ -1,3 +1,8 @@
+## 20231123
+- [Hacker News](https://news.ycombinator.com/front) | [Reflecting on 18 Years at Google](https://news.ycombinator.com/item?id=38381573)
+- [Hacker News](https://news.ycombinator.com/front) | [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://news.ycombinator.com/item?id=38378216)
+- [Hacker News](https://news.ycombinator.com/front) | [LM Studio – Discover, download, and run local LLMs](https://news.ycombinator.com/item?id=38377072)
+
 ## 20231122
 - [Hacker News](https://news.ycombinator.com/front) | [Stable Video Diffusion](https://news.ycombinator.com/item?id=38368287)
 - [Hacker News](https://news.ycombinator.com/front) | [Binance founder Changpeng Zhao agrees to step down, plead guilty](https://news.ycombinator.com/item?id=38366729)

@@ -1,3 +1,9 @@
+## 20231123
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1193 Rust 有了一个制定规范的团队，但不负责定义该语言](https://linux.cn/article-16405-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 to Enable Wayland Support by Default on Linux](https://9to5linux.com/mozilla-firefox-121-to-enable-wayland-support-by-default-on-linux)
+- [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool 1.3](https://enblog.eischmann.cz/2023/11/22/linux-desktop-migration-tool-1-3/)
+- [Planet KDE](https://planet.kde.org/) | [A Season to be Thankful, Thank You!](https://www.scarlettgatelymoore.dev/a-season-to-be-thankful-thank-you/?utm_source=atom_feed)
+
 ## 20231122
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1192 商业航班遭遇 “难以想象” 的 GPS 攻击](https://linux.cn/article-16402-1.html?utm_source=rss&utm_medium=rss)
 

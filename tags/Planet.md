@@ -1,3 +1,7 @@
+## 20231123
+- [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool 1.3](https://enblog.eischmann.cz/2023/11/22/linux-desktop-migration-tool-1-3/)
+- [Planet KDE](https://planet.kde.org/) | [A Season to be Thankful, Thank You!](https://www.scarlettgatelymoore.dev/a-season-to-be-thankful-thank-you/?utm_source=atom_feed)
+
 ## 20231121
 - [Planet GNOME](https://planet.gnome.org/) | [Nextcloud as Personal Cloud](https://enblog.eischmann.cz/2023/11/20/nextcloud-as-personal-cloud/)
 
