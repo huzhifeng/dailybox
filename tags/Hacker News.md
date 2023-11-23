@@ -1,3 +1,7 @@
+## 20231124
+- [Hacker News](https://news.ycombinator.com/front) | [Developer account removed by Apple](https://news.ycombinator.com/item?id=38394364)
+- [Hacker News](https://news.ycombinator.com/front) | [test, [, and [[ (2020)](https://news.ycombinator.com/item?id=38387464)
+
 ## 20231123
 - [Hacker News](https://news.ycombinator.com/front) | [Reflecting on 18 Years at Google](https://news.ycombinator.com/item?id=38381573)
 - [Hacker News](https://news.ycombinator.com/front) | [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://news.ycombinator.com/item?id=38378216)

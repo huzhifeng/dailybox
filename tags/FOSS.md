@@ -1,3 +1,6 @@
+## 20231124
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.47: Password Managers, Joplin and Flatpak Tips, Black Friday and More](https://itsfoss.com/newsletter/foss-weekly-23-47/)
+
 ## 20231123
 - [It's FOSS](https://itsfoss.com/) | [8 Open Source Password Managers to Enhance Your Privacy Game](https://itsfoss.com/open-source-password-managers/)
 
