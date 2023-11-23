@@ -1,3 +1,8 @@
+## 20231124
+- [V2EX](https://www.v2ex.com/) | [不过了, ChatGPT Plus 免费送](https://www.v2ex.com/t/994585)
+- [V2EX](https://www.v2ex.com/) | [大鼠标求推荐](https://www.v2ex.com/t/994503)
+- [V2EX](https://www.v2ex.com/) | [和 mentor 代码习惯不一样，好头痛](https://www.v2ex.com/t/994435)
+
 ## 20231123
 - [V2EX](https://www.v2ex.com/) | [话说深圳地铁真贵啊，一个月向深圳地铁稳定贡献三四百都没有任何优惠](https://www.v2ex.com/t/994156)
 - [V2EX](https://www.v2ex.com/) | [强行安利，务本 X3 绝对是男人都会喜欢的玩意](https://www.v2ex.com/t/994133)

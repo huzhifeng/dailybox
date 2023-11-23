@@ -1,3 +1,7 @@
+## 20231124
+- [diff.blog](https://diff.blog/) | [git branches: intuition & reality](https://diff.blog/post/git-branches-intuition-reality-161590/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 522](https://diff.blog/post/this-week-in-rust-522-161565/)
+
 ## 20231123
 - [diff.blog](https://diff.blog/) | [So you want to make a Raspberry Pi killer...](https://diff.blog/post/so-you-want-to-make-a-raspberry-pi-killer-161527/)
 

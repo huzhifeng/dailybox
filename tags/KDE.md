@@ -1,3 +1,6 @@
+## 20231124
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released?utm_source=atom_feed)
+
 ## 20231123
 - [Planet KDE](https://planet.kde.org/) | [A Season to be Thankful, Thank You!](https://www.scarlettgatelymoore.dev/a-season-to-be-thankful-thank-you/?utm_source=atom_feed)
 

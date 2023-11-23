@@ -1,3 +1,6 @@
+## 20231124
+- [Planet GNOME](https://planet.gnome.org/) | [Local-First Workshop (feat. p2panda)](https://blogs.gnome.org/tbernard/2023/11/23/local-first-workshop-feat-p2panda/)
+
 ## 20231123
 - [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool 1.3](https://enblog.eischmann.cz/2023/11/22/linux-desktop-migration-tool-1-3/)
 

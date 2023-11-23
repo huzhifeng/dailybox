@@ -1,3 +1,11 @@
+## 20231124
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1194 苹果公司的 Objective-C 似乎已经落幕？](https://linux.cn/article-16407-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 12 Released with Screen Recording and Compiler Explorer Plugins](https://9to5linux.com/qt-creator-12-released-with-screen-recording-and-compiler-explorer-plugins)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.3 Office Suite Is Out Now with More Than 110 Bug Fixes](https://9to5linux.com/libreoffice-7-6-3-office-suite-is-out-now-with-more-than-110-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.2 Adds Support for TCP Fast Open on Linux, Argon2 KDF, and More](https://9to5linux.com/openssl-3-2-adds-support-for-tcp-fast-open-on-linux-argon2-kdf-and-more)
+- [Planet GNOME](https://planet.gnome.org/) | [Local-First Workshop (feat. p2panda)](https://blogs.gnome.org/tbernard/2023/11/23/local-first-workshop-feat-p2panda/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released?utm_source=atom_feed)
+
 ## 20231123
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1193 Rust 有了一个制定规范的团队，但不负责定义该语言](https://linux.cn/article-16405-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 to Enable Wayland Support by Default on Linux](https://9to5linux.com/mozilla-firefox-121-to-enable-wayland-support-by-default-on-linux)

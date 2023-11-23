@@ -1,3 +1,7 @@
+## 20231124
+- [Planet GNOME](https://planet.gnome.org/) | [Local-First Workshop (feat. p2panda)](https://blogs.gnome.org/tbernard/2023/11/23/local-first-workshop-feat-p2panda/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released?utm_source=atom_feed)
+
 ## 20231123
 - [Planet GNOME](https://planet.gnome.org/) | [Linux Desktop Migration Tool 1.3](https://enblog.eischmann.cz/2023/11/22/linux-desktop-migration-tool-1-3/)
 - [Planet KDE](https://planet.kde.org/) | [A Season to be Thankful, Thank You!](https://www.scarlettgatelymoore.dev/a-season-to-be-thankful-thank-you/?utm_source=atom_feed)

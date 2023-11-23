@@ -1,3 +1,8 @@
+## 20231124
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 12 Released with Screen Recording and Compiler Explorer Plugins](https://9to5linux.com/qt-creator-12-released-with-screen-recording-and-compiler-explorer-plugins)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.3 Office Suite Is Out Now with More Than 110 Bug Fixes](https://9to5linux.com/libreoffice-7-6-3-office-suite-is-out-now-with-more-than-110-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.2 Adds Support for TCP Fast Open on Linux, Argon2 KDF, and More](https://9to5linux.com/openssl-3-2-adds-support-for-tcp-fast-open-on-linux-argon2-kdf-and-more)
+
 ## 20231123
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 to Enable Wayland Support by Default on Linux](https://9to5linux.com/mozilla-firefox-121-to-enable-wayland-support-by-default-on-linux)
 

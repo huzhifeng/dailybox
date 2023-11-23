@@ -1,3 +1,8 @@
+## 20231124
+- [Product Hunt](https://www.producthunt.com) | [AI Fashion Model Generator](https://www.producthunt.com/posts/ai-fashion-model-generator)
+- [Product Hunt](https://www.producthunt.com) | [Fork.ai](https://www.producthunt.com/posts/fork-ai)
+- [Product Hunt](https://www.producthunt.com) | [Revert](https://www.producthunt.com/posts/revert-3)
+
 ## 20231123
 - [Product Hunt](https://www.producthunt.com) | [No-code Customer Interface](https://www.producthunt.com/posts/no-code-customer-interface)
 - [Product Hunt](https://www.producthunt.com) | [Dubecos](https://www.producthunt.com/posts/dubecos)
