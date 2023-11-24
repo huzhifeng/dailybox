@@ -1,3 +1,9 @@
+## 20231125
+- [Planet GNOME](https://planet.gnome.org/) | [2023-11-24 Friday](https://meeksfamily.uk/~michael/blog/2023-11-24.html)
+- [Planet GNOME](https://planet.gnome.org/) | [tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- [Planet KDE](https://planet.kde.org/) | [CXX-Qt 0.6 Release](https://www.kdab.com/cxx-qt-0-6/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-47](https://ervin.ipsquad.net/blog/2023/11/24/web-review-week-2023-47/?utm_source=atom_feed)
+
 ## 20231124
 - [Planet GNOME](https://planet.gnome.org/) | [Local-First Workshop (feat. p2panda)](https://blogs.gnome.org/tbernard/2023/11/23/local-first-workshop-feat-p2panda/)
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released?utm_source=atom_feed)

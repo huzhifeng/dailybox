@@ -1,3 +1,6 @@
+## 20231125
+- [Hacker News](https://news.ycombinator.com/front) | [Generative AI for Beginners](https://news.ycombinator.com/item?id=38405823)
+
 ## 20231124
 - [Hacker News](https://news.ycombinator.com/front) | [Developer account removed by Apple](https://news.ycombinator.com/item?id=38394364)
 - [Hacker News](https://news.ycombinator.com/front) | [test, [, and [[ (2020)](https://news.ycombinator.com/item?id=38387464)

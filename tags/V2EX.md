@@ -1,3 +1,8 @@
+## 20231125
+- [V2EX](https://www.v2ex.com/) | [新人 NAS 方案推荐](https://www.v2ex.com/t/994862)
+- [V2EX](https://www.v2ex.com/) | [有没有正常的程序员交流群？](https://www.v2ex.com/t/994819)
+- [V2EX](https://www.v2ex.com/) | [想做一个网站：互联网的记忆](https://www.v2ex.com/t/994818)
+
 ## 20231124
 - [V2EX](https://www.v2ex.com/) | [不过了, ChatGPT Plus 免费送](https://www.v2ex.com/t/994585)
 - [V2EX](https://www.v2ex.com/) | [大鼠标求推荐](https://www.v2ex.com/t/994503)

@@ -1,3 +1,10 @@
+## 20231125
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1195 特斯拉开源其跑车的所有设计和工程资源](https://linux.cn/article-16410-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [2023-11-24 Friday](https://meeksfamily.uk/~michael/blog/2023-11-24.html)
+- [Planet GNOME](https://planet.gnome.org/) | [tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- [Planet KDE](https://planet.kde.org/) | [CXX-Qt 0.6 Release](https://www.kdab.com/cxx-qt-0-6/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-47](https://ervin.ipsquad.net/blog/2023/11/24/web-review-week-2023-47/?utm_source=atom_feed)
+
 ## 20231124
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1194 苹果公司的 Objective-C 似乎已经落幕？](https://linux.cn/article-16407-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 12 Released with Screen Recording and Compiler Explorer Plugins](https://9to5linux.com/qt-creator-12-released-with-screen-recording-and-compiler-explorer-plugins)
