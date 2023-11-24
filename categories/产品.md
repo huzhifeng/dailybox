@@ -1,3 +1,8 @@
+## 20231125
+- [Product Hunt](https://www.producthunt.com) | [AI LinkedIn Carousel Maker](https://www.producthunt.com/posts/ai-linkedin-carousel-maker)
+- [Product Hunt](https://www.producthunt.com) | [aiPDF](https://www.producthunt.com/posts/aipdf)
+- [Product Hunt](https://www.producthunt.com) | [Albus for Community](https://www.producthunt.com/posts/albus-for-community)
+
 ## 20231124
 - [Product Hunt](https://www.producthunt.com) | [AI Fashion Model Generator](https://www.producthunt.com/posts/ai-fashion-model-generator)
 - [Product Hunt](https://www.producthunt.com) | [Fork.ai](https://www.producthunt.com/posts/fork-ai)

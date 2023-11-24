@@ -1,3 +1,6 @@
+## 20231125
+- [diff.blog](https://diff.blog/) | [PHP 8.3 is Out! – 60% Still Using End-of-Life PHP 7](https://diff.blog/post/php-83-is-out-60-still-using-end-of-life-php-7-161640/)
+
 ## 20231124
 - [diff.blog](https://diff.blog/) | [git branches: intuition & reality](https://diff.blog/post/git-branches-intuition-reality-161590/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 522](https://diff.blog/post/this-week-in-rust-522-161565/)
