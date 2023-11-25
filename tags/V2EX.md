@@ -1,3 +1,8 @@
+## 20231126
+- [V2EX](https://www.v2ex.com/) | [我准备从 Chrome 转向 Edge，你们做何选择？](https://www.v2ex.com/t/995182)
+- [V2EX](https://www.v2ex.com/) | [G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116)
+- [V2EX](https://www.v2ex.com/) | [手持 PIXEL5 三年了，该换 Pixel8 还是 S23？](https://www.v2ex.com/t/995107)
+
 ## 20231125
 - [V2EX](https://www.v2ex.com/) | [新人 NAS 方案推荐](https://www.v2ex.com/t/994862)
 - [V2EX](https://www.v2ex.com/) | [有没有正常的程序员交流群？](https://www.v2ex.com/t/994819)

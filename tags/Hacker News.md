@@ -1,3 +1,6 @@
+## 20231126
+- [Hacker News](https://news.ycombinator.com/front) | [The Bond villain compliance strategy](https://news.ycombinator.com/item?id=38411005)
+
 ## 20231125
 - [Hacker News](https://news.ycombinator.com/front) | [Generative AI for Beginners](https://news.ycombinator.com/item?id=38405823)
 

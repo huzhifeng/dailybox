@@ -1,3 +1,8 @@
+## 20231126
+- [Planet KDE](https://planet.kde.org/) | [Packaging changes for KDE Android apps](https://www.volkerkrause.eu/2023/11/25/kf6-android-packaging-changes.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/)
+
 ## 20231125
 - [Planet KDE](https://planet.kde.org/) | [CXX-Qt 0.6 Release](https://www.kdab.com/cxx-qt-0-6/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-47](https://ervin.ipsquad.net/blog/2023/11/24/web-review-week-2023-47/?utm_source=atom_feed)
