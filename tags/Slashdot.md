@@ -1,3 +1,6 @@
+## 20231126
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Budgie Switches to an Xfce Approach to Wayland](https://linux.slashdot.org/story/23/11/25/0631249/ubuntu-budgie-switches-to-an-xfce-approach-to-wayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231121
 - [Slashdot](https://linux.slashdot.org/) | [Can AI Be Used to Fine-Tune Linux Kernel Performance?](https://linux.slashdot.org/story/23/11/20/0153201/can-ai-be-used-to-fine-tune-linux-kernel-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,12 @@
+## 20231126
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1196 定了！GIMP 3.0 计划在 2024 年 5 月发布](https://linux.cn/article-16413-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 5.0 Is Out as the Last KDE Plasma 5 Release, Powered by Linux 6.6 LTS](https://9to5linux.com/openmandriva-lx-5-0-is-out-as-the-last-kde-plasma-5-release-powered-by-linux-6-6-lts)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Unveiled as TUXEDO Computers&#8217; First All-AMD Linux Gaming Laptop](https://9to5linux.com/tuxedo-sirius-16-unveiled-as-tuxedos-first-all-amd-linux-gaming-laptop)
+- [Planet KDE](https://planet.kde.org/) | [Packaging changes for KDE Android apps](https://www.volkerkrause.eu/2023/11/25/kf6-android-packaging-changes.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/)
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Budgie Switches to an Xfce Approach to Wayland](https://linux.slashdot.org/story/23/11/25/0631249/ubuntu-budgie-switches-to-an-xfce-approach-to-wayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231125
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1195 特斯拉开源其跑车的所有设计和工程资源](https://linux.cn/article-16410-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [2023-11-24 Friday](https://meeksfamily.uk/~michael/blog/2023-11-24.html)

@@ -1,3 +1,7 @@
+## 20231126
+- [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 5.0 Is Out as the Last KDE Plasma 5 Release, Powered by Linux 6.6 LTS](https://9to5linux.com/openmandriva-lx-5-0-is-out-as-the-last-kde-plasma-5-release-powered-by-linux-6-6-lts)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Unveiled as TUXEDO Computers&#8217; First All-AMD Linux Gaming Laptop](https://9to5linux.com/tuxedo-sirius-16-unveiled-as-tuxedos-first-all-amd-linux-gaming-laptop)
+
 ## 20231124
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 12 Released with Screen Recording and Compiler Explorer Plugins](https://9to5linux.com/qt-creator-12-released-with-screen-recording-and-compiler-explorer-plugins)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.3 Office Suite Is Out Now with More Than 110 Bug Fixes](https://9to5linux.com/libreoffice-7-6-3-office-suite-is-out-now-with-more-than-110-bug-fixes)

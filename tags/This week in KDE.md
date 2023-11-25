@@ -1,3 +1,6 @@
+## 20231126
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/)
+
 ## 20231119
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: Panel Intellihide and Wayland Presentation Time](https://pointieststick.com/2023/11/17/this-week-in-kde-panel-intellihide-and-wayland-presentation-time/)
 
