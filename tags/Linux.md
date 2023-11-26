@@ -1,3 +1,7 @@
+## 20231127
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1197 Debian 的 MIPS64EL 架构面临放弃](https://linux.cn/article-16417-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.0 &#8220;El Presidente&#8221; Officially Released, This Is What&#8217;s New](https://9to5linux.com/pipewire-1-0-el-presidente-officially-released-this-is-whats-new)
+
 ## 20231126
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1196 定了！GIMP 3.0 计划在 2024 年 5 月发布](https://linux.cn/article-16413-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 5.0 Is Out as the Last KDE Plasma 5 Release, Powered by Linux 6.6 LTS](https://9to5linux.com/openmandriva-lx-5-0-is-out-as-the-last-kde-plasma-5-release-powered-by-linux-6-6-lts)

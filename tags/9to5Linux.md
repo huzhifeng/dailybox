@@ -1,3 +1,6 @@
+## 20231127
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.0 &#8220;El Presidente&#8221; Officially Released, This Is What&#8217;s New](https://9to5linux.com/pipewire-1-0-el-presidente-officially-released-this-is-whats-new)
+
 ## 20231126
 - [9to5Linux](https://9to5linux.com/) | [OpenMandriva Lx 5.0 Is Out as the Last KDE Plasma 5 Release, Powered by Linux 6.6 LTS](https://9to5linux.com/openmandriva-lx-5-0-is-out-as-the-last-kde-plasma-5-release-powered-by-linux-6-6-lts)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Unveiled as TUXEDO Computers&#8217; First All-AMD Linux Gaming Laptop](https://9to5linux.com/tuxedo-sirius-16-unveiled-as-tuxedos-first-all-amd-linux-gaming-laptop)

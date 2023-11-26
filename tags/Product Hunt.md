@@ -1,3 +1,8 @@
+## 20231127
+- [Product Hunt](https://www.producthunt.com) | [Leadpipe](https://www.producthunt.com/posts/leadpipe-2)
+- [Product Hunt](https://www.producthunt.com) | [DrLambda-Social](https://www.producthunt.com/posts/drlambda-social)
+- [Product Hunt](https://www.producthunt.com) | [MyMap MindMap Generator](https://www.producthunt.com/posts/mymap-mindmap-generator)
+
 ## 20231126
 - [Product Hunt](https://www.producthunt.com) | [Recall - Mobile Apps](https://www.producthunt.com/posts/recall-mobile-apps)
 - [Product Hunt](https://www.producthunt.com) | [Collov AI](https://www.producthunt.com/posts/collov-ai)
