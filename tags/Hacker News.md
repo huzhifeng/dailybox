@@ -1,3 +1,7 @@
+## 20231127
+- [Hacker News](https://news.ycombinator.com/front) | [Whisky: Wine supercharged with the power of Apple's game porting toolkit](https://news.ycombinator.com/item?id=38421862)
+- [Hacker News](https://news.ycombinator.com/front) | [They're Made Out of Meat (1991)](https://news.ycombinator.com/item?id=38420111)
+
 ## 20231126
 - [Hacker News](https://news.ycombinator.com/front) | [The Bond villain compliance strategy](https://news.ycombinator.com/item?id=38411005)
 

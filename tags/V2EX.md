@@ -1,3 +1,8 @@
+## 20231127
+- [V2EX](https://www.v2ex.com/) | [新社畜感觉每天下班都好累，什么都干不动](https://www.v2ex.com/t/995322)
+- [V2EX](https://www.v2ex.com/) | [大多数人最后都是怎么死的？](https://www.v2ex.com/t/995314)
+- [V2EX](https://www.v2ex.com/) | [外接显示器摆放姿势，日常姿势使用探讨](https://www.v2ex.com/t/995279)
+
 ## 20231126
 - [V2EX](https://www.v2ex.com/) | [我准备从 Chrome 转向 Edge，你们做何选择？](https://www.v2ex.com/t/995182)
 - [V2EX](https://www.v2ex.com/) | [G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116)
