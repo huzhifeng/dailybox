@@ -1,3 +1,6 @@
+## 20231128
+- [Planet KDE](https://planet.kde.org/) | [Anniversary release: KPhotoAlbum 5.12.0](https://www.kphotoalbum.org//2023/11/27/anniversary-release-kphotoalbum-5.12.0/?utm_source=atom_feed)
+
 ## 20231126
 - [Planet KDE](https://planet.kde.org/) | [Packaging changes for KDE Android apps](https://www.volkerkrause.eu/2023/11/25/kf6-android-packaging-changes.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/?utm_source=atom_feed)

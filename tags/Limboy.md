@@ -1,3 +1,6 @@
+## 20231128
+- [Limboy](https://limboy.me) | [元宝](https://limboy.me/posts/yuanbao/)
+
 ## 20230711
 - [Limboy](https://limboy.me) | [改变，问题形成和解决的原则](https://limboy.me/books/change/)
 

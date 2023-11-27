@@ -1,3 +1,6 @@
+## 20231128
+- [Planet GNOME](https://planet.gnome.org/) | [GSoCxBMU event India](https://www.aryank.in/posts/2023-11-27-gsocxbmu-event-india/)
+
 ## 20231125
 - [Planet GNOME](https://planet.gnome.org/) | [2023-11-24 Friday](https://meeksfamily.uk/~michael/blog/2023-11-24.html)
 - [Planet GNOME](https://planet.gnome.org/) | [tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
