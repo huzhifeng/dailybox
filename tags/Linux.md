@@ -1,3 +1,9 @@
+## 20231128
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1198 Ubuntu Budgie 准备转而采用 Xfce](https://linux.cn/article-16420-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 26th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-26th-2023)
+- [Planet GNOME](https://planet.gnome.org/) | [GSoCxBMU event India](https://www.aryank.in/posts/2023-11-27-gsocxbmu-event-india/)
+- [Planet KDE](https://planet.kde.org/) | [Anniversary release: KPhotoAlbum 5.12.0](https://www.kphotoalbum.org//2023/11/27/anniversary-release-kphotoalbum-5.12.0/?utm_source=atom_feed)
+
 ## 20231127
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1197 Debian 的 MIPS64EL 架构面临放弃](https://linux.cn/article-16417-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.0 &#8220;El Presidente&#8221; Officially Released, This Is What&#8217;s New](https://9to5linux.com/pipewire-1-0-el-presidente-officially-released-this-is-whats-new)

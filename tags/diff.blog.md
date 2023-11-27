@@ -1,3 +1,7 @@
+## 20231128
+- [diff.blog](https://diff.blog/) | [poll_next](https://diff.blog/post/poll_next-161957/)
+- [diff.blog](https://diff.blog/) | [New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops](https://diff.blog/post/new-amazon-workspaces-thin-client-provides-cost-effective-secure-access-to-virtual-desktops-161871/)
+
 ## 20231125
 - [diff.blog](https://diff.blog/) | [PHP 8.3 is Out! – 60% Still Using End-of-Life PHP 7](https://diff.blog/post/php-83-is-out-60-still-using-end-of-life-php-7-161640/)
 

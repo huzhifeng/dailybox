@@ -1,3 +1,8 @@
+## 20231128
+- [Product Hunt](https://www.producthunt.com) | [Hyper](https://www.producthunt.com/posts/hyper-51eb629d-6a5a-4e54-a593-d46b00bd1b5f)
+- [Product Hunt](https://www.producthunt.com) | [CodebaseChat](https://www.producthunt.com/posts/codebasechat)
+- [Product Hunt](https://www.producthunt.com) | [RankWeek.com](https://www.producthunt.com/posts/rankweek-com)
+
 ## 20231127
 - [Product Hunt](https://www.producthunt.com) | [Leadpipe](https://www.producthunt.com/posts/leadpipe-2)
 - [Product Hunt](https://www.producthunt.com) | [DrLambda-Social](https://www.producthunt.com/posts/drlambda-social)

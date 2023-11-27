@@ -1,3 +1,8 @@
+## 20231128
+- [V2EX](https://www.v2ex.com/) | [感概现在大环境对大龄程序员的困难重重...](https://www.v2ex.com/t/995634)
+- [V2EX](https://www.v2ex.com/) | [武汉定居怎么样？预算 500 万买房。](https://www.v2ex.com/t/995480)
+- [V2EX](https://www.v2ex.com/) | [go 语言用起来好操蛋](https://www.v2ex.com/t/995474)
+
 ## 20231127
 - [V2EX](https://www.v2ex.com/) | [新社畜感觉每天下班都好累，什么都干不动](https://www.v2ex.com/t/995322)
 - [V2EX](https://www.v2ex.com/) | [大多数人最后都是怎么死的？](https://www.v2ex.com/t/995314)

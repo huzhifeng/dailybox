@@ -1,3 +1,6 @@
+## 20231128
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 26th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-26th-2023)
+
 ## 20231127
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.0 &#8220;El Presidente&#8221; Officially Released, This Is What&#8217;s New](https://9to5linux.com/pipewire-1-0-el-presidente-officially-released-this-is-whats-new)
 

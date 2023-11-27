@@ -1,3 +1,8 @@
+## 20231128
+- [Hacker News](https://news.ycombinator.com/front) | [My toddler loves planes, so I built her a radar](https://news.ycombinator.com/item?id=38435908)
+- [Hacker News](https://news.ycombinator.com/front) | [$20k bounty was claimed](https://news.ycombinator.com/item?id=38434613)
+- [Hacker News](https://news.ycombinator.com/front) | [Brother have gotten to where they are now by not innovating](https://news.ycombinator.com/item?id=38429291)
+
 ## 20231127
 - [Hacker News](https://news.ycombinator.com/front) | [Whisky: Wine supercharged with the power of Apple's game porting toolkit](https://news.ycombinator.com/item?id=38421862)
 - [Hacker News](https://news.ycombinator.com/front) | [They're Made Out of Meat (1991)](https://news.ycombinator.com/item?id=38420111)
