@@ -1,3 +1,7 @@
+## 20231129
+- [diff.blog](https://diff.blog/) | [The birth & death of search engine optimization](https://diff.blog/post/the-birth-death-of-search-engine-optimization-162075/)
+- [diff.blog](https://diff.blog/) | [Join the preview of Amazon Aurora Limitless Database](https://diff.blog/post/join-the-preview-of-amazon-aurora-limitless-database-162024/)
+
 ## 20231128
 - [diff.blog](https://diff.blog/) | [poll_next](https://diff.blog/post/poll_next-161957/)
 - [diff.blog](https://diff.blog/) | [New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops](https://diff.blog/post/new-amazon-workspaces-thin-client-provides-cost-effective-secure-access-to-virtual-desktops-161871/)

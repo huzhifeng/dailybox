@@ -1,3 +1,6 @@
+## 20231129
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.5 Reaches End of Life, It&#8217;s Time to Upgrade to Linux Kernel 6.6 LTS](https://9to5linux.com/linux-kernel-6-5-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-6-lts)
+
 ## 20231128
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 26th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-26th-2023)
 

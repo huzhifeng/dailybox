@@ -1,3 +1,8 @@
+## 20231129
+- [V2EX](https://www.v2ex.com/) | [有意回村搞养殖养羊，不知道这条路是否能走通](https://www.v2ex.com/t/995961)
+- [V2EX](https://www.v2ex.com/) | [在微信内编辑图片会上传并审查原图](https://www.v2ex.com/t/995953)
+- [V2EX](https://www.v2ex.com/) | [聊聊我在一个月抖音小红书粉丝累积到 3 万最后不再维护的事。](https://www.v2ex.com/t/995912)
+
 ## 20231128
 - [V2EX](https://www.v2ex.com/) | [感概现在大环境对大龄程序员的困难重重...](https://www.v2ex.com/t/995634)
 - [V2EX](https://www.v2ex.com/) | [武汉定居怎么样？预算 500 万买房。](https://www.v2ex.com/t/995480)

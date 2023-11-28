@@ -1,3 +1,6 @@
+## 20231129
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Shades of Purple](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/?utm_source=atom_feed)
+
 ## 20231128
 - [Planet KDE](https://planet.kde.org/) | [Anniversary release: KPhotoAlbum 5.12.0](https://www.kphotoalbum.org//2023/11/27/anniversary-release-kphotoalbum-5.12.0/?utm_source=atom_feed)
 
