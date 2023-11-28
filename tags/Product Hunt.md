@@ -1,3 +1,8 @@
+## 20231129
+- [Product Hunt](https://www.producthunt.com) | [Fortune](https://www.producthunt.com/posts/fortune-4)
+- [Product Hunt](https://www.producthunt.com) | [Walling AI](https://www.producthunt.com/posts/walling-ai)
+- [Product Hunt](https://www.producthunt.com) | [index.dev](https://www.producthunt.com/posts/index-dev-2)
+
 ## 20231128
 - [Product Hunt](https://www.producthunt.com) | [Hyper](https://www.producthunt.com/posts/hyper-51eb629d-6a5a-4e54-a593-d46b00bd1b5f)
 - [Product Hunt](https://www.producthunt.com) | [CodebaseChat](https://www.producthunt.com/posts/codebasechat)

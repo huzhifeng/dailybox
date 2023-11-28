@@ -1,3 +1,6 @@
+## 20231129
+- [TED Talks Daily](https://www.ted.com/talks) | [Life on the frontlines of war reporting | Jane Ferguson](https://www.ted.com/talks/jane_ferguson_life_on_the_frontlines_of_war_reporting?rss)
+
 ## 20231128
 - [TED Talks Daily](https://www.ted.com/talks) | [The science behind how sickness shapes your mood | Keely Muscatell](https://www.ted.com/talks/keely_muscatell_the_science_behind_how_sickness_shapes_your_mood?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [The case for a new Great Migration in the US | Charles M. Blow](https://www.ted.com/talks/charles_m_blow_the_case_for_a_new_great_migration_in_the_us?rss)

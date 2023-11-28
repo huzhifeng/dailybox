@@ -1,3 +1,8 @@
+## 20231129
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1199 把名字写到宇宙飞船上，它将在 2030 年到达木星](https://linux.cn/article-16423-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.5 Reaches End of Life, It&#8217;s Time to Upgrade to Linux Kernel 6.6 LTS](https://9to5linux.com/linux-kernel-6-5-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-6-lts)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Shades of Purple](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/?utm_source=atom_feed)
+
 ## 20231128
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1198 Ubuntu Budgie 准备转而采用 Xfce](https://linux.cn/article-16420-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 26th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-november-26th-2023)

@@ -1,3 +1,6 @@
+## 20231129
+- [GitHub Advanced Search](https://github.com/search/advanced) | [isafulf/inbox_cleaner](https://github.com/isafulf/inbox_cleaner)
+
 ## 20231124
 - [GitHub Advanced Search](https://github.com/search/advanced) | [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
 

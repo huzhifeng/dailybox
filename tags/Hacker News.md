@@ -1,3 +1,7 @@
+## 20231129
+- [Hacker News](https://news.ycombinator.com/front) | [MeshGPT: Generating triangle meshes with decoder-only transformers](https://news.ycombinator.com/item?id=38448653)
+- [Hacker News](https://news.ycombinator.com/front) | [IKEA sensors for doors and windows, motion, water leaks](https://news.ycombinator.com/item?id=38445745)
+
 ## 20231128
 - [Hacker News](https://news.ycombinator.com/front) | [My toddler loves planes, so I built her a radar](https://news.ycombinator.com/item?id=38435908)
 - [Hacker News](https://news.ycombinator.com/front) | [$20k bounty was claimed](https://news.ycombinator.com/item?id=38434613)
