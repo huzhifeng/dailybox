@@ -1,3 +1,8 @@
+## 20231130
+- [Product Hunt](https://www.producthunt.com) | [Manot](https://www.producthunt.com/posts/manot-2)
+- [Product Hunt](https://www.producthunt.com) | [Morph 1.0](https://www.producthunt.com/posts/morph-1-0)
+- [Product Hunt](https://www.producthunt.com) | [Syllaby](https://www.producthunt.com/posts/syllaby)
+
 ## 20231129
 - [Product Hunt](https://www.producthunt.com) | [Fortune](https://www.producthunt.com/posts/fortune-4)
 - [Product Hunt](https://www.producthunt.com) | [Walling AI](https://www.producthunt.com/posts/walling-ai)

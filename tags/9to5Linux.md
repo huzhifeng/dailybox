@@ -1,3 +1,7 @@
+## 20231130
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-desktop-environment-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.0 Desktop Environment Arrives with Initial Wayland Support](https://9to5linux.com/cinnamon-6-0-desktop-environment-arrives-with-initial-wayland-support)
+
 ## 20231129
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.5 Reaches End of Life, It&#8217;s Time to Upgrade to Linux Kernel 6.6 LTS](https://9to5linux.com/linux-kernel-6-5-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-6-lts)
 
