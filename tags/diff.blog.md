@@ -1,3 +1,6 @@
+## 20231130
+- [diff.blog](https://diff.blog/) | [Millions of new materials discovered with deep learning](https://diff.blog/post/millions-of-new-materials-discovered-with-deep-learning-162141/)
+
 ## 20231129
 - [diff.blog](https://diff.blog/) | [The birth & death of search engine optimization](https://diff.blog/post/the-birth-death-of-search-engine-optimization-162075/)
 - [diff.blog](https://diff.blog/) | [Join the preview of Amazon Aurora Limitless Database](https://diff.blog/post/join-the-preview-of-amazon-aurora-limitless-database-162024/)

@@ -1,3 +1,12 @@
+## 20231130
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1200 微软开源树莓派使用的 RTOS 固件，树莓派软件有望完全开源](https://linux.cn/article-16426-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-desktop-environment-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.0 Desktop Environment Arrives with Initial Wayland Support](https://9to5linux.com/cinnamon-6-0-desktop-environment-arrives-with-initial-wayland-support)
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 39 and beyond](https://blogs.gnome.org/uraeus/2023/11/29/fedora-workstation-39-and-beyond/)
+- [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.0](https://jriddell.org/2023/11/29/kdiagram-3-0-0/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KWeatherCore 0.8.0](https://jriddell.org/2023/11/29/kweathercore-0-8-0/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [RHEL 10 Plans To Drop X.Org Server Except For XWayland](https://linux.slashdot.org/story/23/11/29/0559207/rhel-10-plans-to-drop-xorg-server-except-for-xwayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231129
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1199 把名字写到宇宙飞船上，它将在 2030 年到达木星](https://linux.cn/article-16423-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.5 Reaches End of Life, It&#8217;s Time to Upgrade to Linux Kernel 6.6 LTS](https://9to5linux.com/linux-kernel-6-5-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-6-lts)

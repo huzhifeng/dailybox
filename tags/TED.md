@@ -1,3 +1,6 @@
+## 20231130
+- [TED Talks Daily](https://www.ted.com/talks) | [Can we hack photosynthesis to feed the world? | Steve Long](https://www.ted.com/talks/steve_long_can_we_hack_photosynthesis_to_feed_the_world?rss)
+
 ## 20231129
 - [TED Talks Daily](https://www.ted.com/talks) | [Life on the frontlines of war reporting | Jane Ferguson](https://www.ted.com/talks/jane_ferguson_life_on_the_frontlines_of_war_reporting?rss)
 

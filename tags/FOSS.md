@@ -1,3 +1,6 @@
+## 20231130
+- [It's FOSS](https://itsfoss.com/) | [Change Keyboard Layout in Ubuntu](https://itsfoss.com/ubuntu-change-keyboard/)
+
 ## 20231124
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.47: Password Managers, Joplin and Flatpak Tips, Black Friday and More](https://itsfoss.com/newsletter/foss-weekly-23-47/)
 

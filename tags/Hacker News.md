@@ -1,3 +1,8 @@
+## 20231130
+- [Hacker News](https://news.ycombinator.com/front) | [Freetar – an alternative front end for ultimate-guitar.com](https://news.ycombinator.com/item?id=38457556)
+- [Hacker News](https://news.ycombinator.com/front) | [Rust std fs slower than Python? No, it's hardware](https://news.ycombinator.com/item?id=38457247)
+- [Hacker News](https://news.ycombinator.com/front) | [The 1988 shooting down of Flight 655 as a user interface disaster](https://news.ycombinator.com/item?id=38457125)
+
 ## 20231129
 - [Hacker News](https://news.ycombinator.com/front) | [MeshGPT: Generating triangle meshes with decoder-only transformers](https://news.ycombinator.com/item?id=38448653)
 - [Hacker News](https://news.ycombinator.com/front) | [IKEA sensors for doors and windows, motion, water leaks](https://news.ycombinator.com/item?id=38445745)

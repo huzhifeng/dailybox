@@ -1,3 +1,6 @@
+## 20231130
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 39 and beyond](https://blogs.gnome.org/uraeus/2023/11/29/fedora-workstation-39-and-beyond/)
+
 ## 20231128
 - [Planet GNOME](https://planet.gnome.org/) | [GSoCxBMU event India](https://www.aryank.in/posts/2023-11-27-gsocxbmu-event-india/)
 

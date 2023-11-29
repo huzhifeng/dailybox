@@ -1,3 +1,8 @@
+## 20231130
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 39 and beyond](https://blogs.gnome.org/uraeus/2023/11/29/fedora-workstation-39-and-beyond/)
+- [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.0](https://jriddell.org/2023/11/29/kdiagram-3-0-0/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KWeatherCore 0.8.0](https://jriddell.org/2023/11/29/kweathercore-0-8-0/?utm_source=atom_feed)
+
 ## 20231129
 - [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Shades of Purple](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/?utm_source=atom_feed)
 

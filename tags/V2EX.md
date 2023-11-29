@@ -1,3 +1,8 @@
+## 20231130
+- [V2EX](https://www.v2ex.com/) | [大家睡觉都戴 Apple Watch 吗？深度睡眠都是多久？](https://www.v2ex.com/t/996242)
+- [V2EX](https://www.v2ex.com/) | [各位有哪些被动收入？](https://www.v2ex.com/t/996202)
+- [V2EX](https://www.v2ex.com/) | [自家赣南脐橙抽奖，华农家同县发出](https://www.v2ex.com/t/996196)
+
 ## 20231129
 - [V2EX](https://www.v2ex.com/) | [有意回村搞养殖养羊，不知道这条路是否能走通](https://www.v2ex.com/t/995961)
 - [V2EX](https://www.v2ex.com/) | [在微信内编辑图片会上传并审查原图](https://www.v2ex.com/t/995953)
