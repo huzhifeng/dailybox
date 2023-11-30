@@ -1,3 +1,6 @@
+## 20231201
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.2 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.2-lts-released?utm_source=atom_feed)
+
 ## 20231130
 - [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.0](https://jriddell.org/2023/11/29/kdiagram-3-0-0/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KWeatherCore 0.8.0](https://jriddell.org/2023/11/29/kweathercore-0-8-0/?utm_source=atom_feed)

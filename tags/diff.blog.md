@@ -1,3 +1,8 @@
+## 20231201
+- [diff.blog](https://diff.blog/) | [Why you really DO need a technical co-founder](https://diff.blog/post/why-you-really-do-need-a-technical-co-founder-162281/)
+- [diff.blog](https://diff.blog/) | [xCurl](https://diff.blog/post/xcurl-162212/)
+- [diff.blog](https://diff.blog/) | [Rust temporary lifetimes and "super let"](https://diff.blog/post/rust-temporary-lifetimes-and-super-let-162244/)
+
 ## 20231130
 - [diff.blog](https://diff.blog/) | [Millions of new materials discovered with deep learning](https://diff.blog/post/millions-of-new-materials-discovered-with-deep-learning-162141/)
 

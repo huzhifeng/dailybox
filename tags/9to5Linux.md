@@ -1,3 +1,8 @@
+## 20231201
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 23.11 Open-Source Video Editor Adds NVIDIA AV1 Hardware Encoding](https://9to5linux.com/shotcut-23-11-open-source-video-editor-adds-nvidia-av1-hardware-encoding)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.2 Open-Source Photo Management App Is Now Available for Download](https://9to5linux.com/digikam-8-2-open-source-photo-management-app-is-now-available-for-download)
+- [9to5Linux](https://9to5linux.com/) | [NixOS 23.11 “Tapir” Released with the GNOME 45 Desktop and Wi-Fi 6 Support](https://9to5linux.com/nixos-23-11-tapir-released-with-the-gnome-45-desktop-and-wi-fi-6-support)
+
 ## 20231130
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-desktop-environment-is-now-available-for-public-beta-testing)
 - [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.0 Desktop Environment Arrives with Initial Wayland Support](https://9to5linux.com/cinnamon-6-0-desktop-environment-arrives-with-initial-wayland-support)
