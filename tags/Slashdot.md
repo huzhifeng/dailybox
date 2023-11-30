@@ -1,3 +1,6 @@
+## 20231201
+- [Slashdot](https://developers.slashdot.org/) | [BBC BASIC Is Back In a Big Way](https://developers.slashdot.org/story/23/11/29/2328255/bbc-basic-is-back-in-a-big-way?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231130
 - [Slashdot](https://linux.slashdot.org/) | [RHEL 10 Plans To Drop X.Org Server Except For XWayland](https://linux.slashdot.org/story/23/11/29/0559207/rhel-10-plans-to-drop-xorg-server-except-for-xwayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

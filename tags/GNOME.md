@@ -1,3 +1,6 @@
+## 20231201
+- [Planet GNOME](https://planet.gnome.org/) | [Reducing Mutter dependencies](https://belmoussaoui.com/blog/18-reducing-mutter-dependencies/)
+
 ## 20231130
 - [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 39 and beyond](https://blogs.gnome.org/uraeus/2023/11/29/fedora-workstation-39-and-beyond/)
 

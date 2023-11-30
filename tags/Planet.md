@@ -1,3 +1,8 @@
+## 20231201
+- [Planet virt-tools](https://planet.virt-tools.org/) | [ANNOUNCE: libvirt-glib release 5.0.0](https://www.berrange.com/posts/2023/11/30/announce-libvirt-glib-release-5-0-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [Reducing Mutter dependencies](https://belmoussaoui.com/blog/18-reducing-mutter-dependencies/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.2 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.2-lts-released?utm_source=atom_feed)
+
 ## 20231130
 - [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 39 and beyond](https://blogs.gnome.org/uraeus/2023/11/29/fedora-workstation-39-and-beyond/)
 - [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.0](https://jriddell.org/2023/11/29/kdiagram-3-0-0/?utm_source=atom_feed)

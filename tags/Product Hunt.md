@@ -1,3 +1,8 @@
+## 20231201
+- [Product Hunt](https://www.producthunt.com) | [Sider 4.0](https://www.producthunt.com/posts/sider-4-0)
+- [Product Hunt](https://www.producthunt.com) | [Bind](https://www.producthunt.com/posts/bind-2)
+- [Product Hunt](https://www.producthunt.com) | [Pixlr 2024: Creative AI Partner](https://www.producthunt.com/posts/pixlr-2024-creative-ai-partner)
+
 ## 20231130
 - [Product Hunt](https://www.producthunt.com) | [Manot](https://www.producthunt.com/posts/manot-2)
 - [Product Hunt](https://www.producthunt.com) | [Morph 1.0](https://www.producthunt.com/posts/morph-1-0)

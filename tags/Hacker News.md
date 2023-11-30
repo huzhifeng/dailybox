@@ -1,3 +1,8 @@
+## 20231201
+- [Hacker News](https://news.ycombinator.com/front) | [CSAR: European Parliament rejects mass scanning of private messages](https://news.ycombinator.com/item?id=38472198)
+- [Hacker News](https://news.ycombinator.com/front) | [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://news.ycombinator.com/item?id=38471822)
+- [Hacker News](https://news.ycombinator.com/front) | [Brickception](https://news.ycombinator.com/item?id=38470764)
+
 ## 20231130
 - [Hacker News](https://news.ycombinator.com/front) | [Freetar – an alternative front end for ultimate-guitar.com](https://news.ycombinator.com/item?id=38457556)
 - [Hacker News](https://news.ycombinator.com/front) | [Rust std fs slower than Python? No, it's hardware](https://news.ycombinator.com/item?id=38457247)

@@ -1,3 +1,7 @@
+## 20231201
+- [Limboy](https://limboy.me) | [吃饭时也可以练习正念](https://limboy.me/posts/be-mindful-while-eating/)
+- [Limboy](https://limboy.me) | [感恩练习](https://limboy.me/posts/grateful-practice/)
+
 ## 20231128
 - [Limboy](https://limboy.me) | [元宝](https://limboy.me/posts/yuanbao/)
 

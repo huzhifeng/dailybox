@@ -1,3 +1,6 @@
+## 20231201
+- [TED Talks Daily](https://www.ted.com/talks) | [How to harness abundant, clean energy for 10 billion people | Julio Friedmann](https://www.ted.com/talks/julio_friedmann_how_to_harness_abundant_clean_energy_for_10_billion_people?rss)
+
 ## 20231130
 - [TED Talks Daily](https://www.ted.com/talks) | [Can we hack photosynthesis to feed the world? | Steve Long](https://www.ted.com/talks/steve_long_can_we_hack_photosynthesis_to_feed_the_world?rss)
 

@@ -1,3 +1,8 @@
+## 20231201
+- [V2EX](https://www.v2ex.com/) | [家用 4 盘位 NAS 用 RAID 几？](https://www.v2ex.com/t/996537)
+- [V2EX](https://www.v2ex.com/) | [油管广告越来越丧心病狂了](https://www.v2ex.com/t/996479)
+- [V2EX](https://www.v2ex.com/) | [在东北接机的日常，居然还真有人相信室外的东北没有上海冷](https://www.v2ex.com/t/996477)
+
 ## 20231130
 - [V2EX](https://www.v2ex.com/) | [大家睡觉都戴 Apple Watch 吗？深度睡眠都是多久？](https://www.v2ex.com/t/996242)
 - [V2EX](https://www.v2ex.com/) | [各位有哪些被动收入？](https://www.v2ex.com/t/996202)

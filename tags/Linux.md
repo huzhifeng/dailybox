@@ -1,3 +1,12 @@
+## 20231201
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1201 美国实现芯片独立还需十到二十年](https://linux.cn/article-16428-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 23.11 Open-Source Video Editor Adds NVIDIA AV1 Hardware Encoding](https://9to5linux.com/shotcut-23-11-open-source-video-editor-adds-nvidia-av1-hardware-encoding)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.2 Open-Source Photo Management App Is Now Available for Download](https://9to5linux.com/digikam-8-2-open-source-photo-management-app-is-now-available-for-download)
+- [9to5Linux](https://9to5linux.com/) | [NixOS 23.11 “Tapir” Released with the GNOME 45 Desktop and Wi-Fi 6 Support](https://9to5linux.com/nixos-23-11-tapir-released-with-the-gnome-45-desktop-and-wi-fi-6-support)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [ANNOUNCE: libvirt-glib release 5.0.0](https://www.berrange.com/posts/2023/11/30/announce-libvirt-glib-release-5-0-0/)
+- [Planet GNOME](https://planet.gnome.org/) | [Reducing Mutter dependencies](https://belmoussaoui.com/blog/18-reducing-mutter-dependencies/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.2 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.2-lts-released?utm_source=atom_feed)
+
 ## 20231130
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1200 微软开源树莓派使用的 RTOS 固件，树莓派软件有望完全开源](https://linux.cn/article-16426-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-desktop-environment-is-now-available-for-public-beta-testing)

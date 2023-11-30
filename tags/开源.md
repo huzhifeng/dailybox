@@ -1,3 +1,6 @@
+## 20231201
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.48: New rlxOS Distro, Wave Terminal,  Paru 2.0, Data Recovery in Linux and More](https://itsfoss.com/newsletter/foss-weekly-23-48/)
+
 ## 20231130
 - [It's FOSS](https://itsfoss.com/) | [Change Keyboard Layout in Ubuntu](https://itsfoss.com/ubuntu-change-keyboard/)
 
