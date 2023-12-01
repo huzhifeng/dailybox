@@ -78,6 +78,13 @@
 			"tags": ["Limboy", "博客"]
 		},
 		{
+			"channel": "槽边往事",
+			"portal": "https://www.hecaitou.com/",
+			"url": "https://www.hecaitou.com/feeds/posts/default",
+			"category": "博客",
+			"tags": ["和菜头", "槽边往事", "博客"]
+		},
+		{
 			"channel": "后互联网时代的乱弹",
 			"portal": "https://pie.wetime.com/",
 			"url": "https://proxy.wavpub.com/pie.xml",
