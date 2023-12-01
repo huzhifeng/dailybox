@@ -1,3 +1,10 @@
+## 20231202
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Releases: RHEL 8.9 and RHEL 9.3 on IBM Z &amp; LinuxONE](https://kvmonz.blogspot.com/2023/12/new-releases-rhel-89-and-rhel-93-on-ibm.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon and snaps, Debian Weekly report.](https://www.scarlettgatelymoore.dev/kde-neon-and-snaps-debian-weekly-report/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing # 4](https://mauikit.org/blog/maui-release-briefing-4/?utm_source=atom_feed)
+
 ## 20231201
 - [Planet virt-tools](https://planet.virt-tools.org/) | [ANNOUNCE: libvirt-glib release 5.0.0](https://www.berrange.com/posts/2023/11/30/announce-libvirt-glib-release-5-0-0/)
 - [Planet GNOME](https://planet.gnome.org/) | [Reducing Mutter dependencies](https://belmoussaoui.com/blog/18-reducing-mutter-dependencies/)

@@ -1,3 +1,8 @@
+## 20231202
+- [Planet KDE](https://planet.kde.org/) | [KDE neon and snaps, Debian Weekly report.](https://www.scarlettgatelymoore.dev/kde-neon-and-snaps-debian-weekly-report/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing # 4](https://mauikit.org/blog/maui-release-briefing-4/?utm_source=atom_feed)
+
 ## 20231201
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.2 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.2-lts-released?utm_source=atom_feed)
 

@@ -1,3 +1,8 @@
+## 20231202
+- [Kagi Small Web](https://kagi.com/smallweb) | [OSS updates November 2023](https://blog.michielborkent.nl/oss-updates-nov-2023.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [I replaced npm, yarn and nvm with pnpm](https://pawelgrzybek.com/i-replaced-npm-yarn-and-nvm-with-pnpm/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [What Referees Are For](https://4gravitons.com/2023/12/01/what-referees-are-for/)
+
 ## 20231122
 - [Kagi Small Web](https://kagi.com/smallweb) | [Mastodon for Dummies: a book review](https://neilzone.co.uk/2023/11/mastodon-for-dummies-a-book-review/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [<p>It&#x27;s taken me far too long to discover this foot-gun in express.</p>

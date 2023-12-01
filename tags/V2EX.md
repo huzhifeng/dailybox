@@ -1,3 +1,8 @@
+## 20231202
+- [V2EX](https://www.v2ex.com/) | [作为一个前端，一直不明白为什么要晚上发版？](https://www.v2ex.com/t/996780)
+- [V2EX](https://www.v2ex.com/) | [微信被盗刷。。。。。](https://www.v2ex.com/t/996764)
+- [V2EX](https://www.v2ex.com/) | [第一次买房，希望有经验的大佬进来指导(楼栋、楼层、性价比)](https://www.v2ex.com/t/996743)
+
 ## 20231201
 - [V2EX](https://www.v2ex.com/) | [家用 4 盘位 NAS 用 RAID 几？](https://www.v2ex.com/t/996537)
 - [V2EX](https://www.v2ex.com/) | [油管广告越来越丧心病狂了](https://www.v2ex.com/t/996479)

@@ -1,3 +1,7 @@
+## 20231202
+- [Hacker News](https://news.ycombinator.com/front) | [The Seamless Communication models](https://news.ycombinator.com/item?id=38487359)
+- [Hacker News](https://news.ycombinator.com/front) | [Code is run more than read](https://news.ycombinator.com/item?id=38483181)
+
 ## 20231201
 - [Hacker News](https://news.ycombinator.com/front) | [CSAR: European Parliament rejects mass scanning of private messages](https://news.ycombinator.com/item?id=38472198)
 - [Hacker News](https://news.ycombinator.com/front) | [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://news.ycombinator.com/item?id=38471822)
