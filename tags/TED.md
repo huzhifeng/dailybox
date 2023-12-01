@@ -1,3 +1,6 @@
+## 20231202
+- [TED Talks Daily](https://www.ted.com/talks) | [A playbook on financing climate solutions | Nili Gilbert and David Blood](https://www.ted.com/talks/nili_gilbert_and_david_blood_a_playbook_on_financing_climate_solutions?rss)
+
 ## 20231201
 - [TED Talks Daily](https://www.ted.com/talks) | [How to harness abundant, clean energy for 10 billion people | Julio Friedmann](https://www.ted.com/talks/julio_friedmann_how_to_harness_abundant_clean_energy_for_10_billion_people?rss)
 

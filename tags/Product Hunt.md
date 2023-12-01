@@ -1,3 +1,8 @@
+## 20231202
+- [Product Hunt](https://www.producthunt.com) | [Ideaverse Pro](https://www.producthunt.com/posts/ideaverse-pro)
+- [Product Hunt](https://www.producthunt.com) | [Tipptree](https://www.producthunt.com/posts/tipptree)
+- [Product Hunt](https://www.producthunt.com) | [Flowlie - The Fundraising Hub](https://www.producthunt.com/posts/flowlie-the-fundraising-hub)
+
 ## 20231201
 - [Product Hunt](https://www.producthunt.com) | [Sider 4.0](https://www.producthunt.com/posts/sider-4-0)
 - [Product Hunt](https://www.producthunt.com) | [Bind](https://www.producthunt.com/posts/bind-2)

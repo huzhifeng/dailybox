@@ -1,3 +1,7 @@
+## 20231202
+- [Planet GNOME](https://planet.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
+
 ## 20231201
 - [Planet GNOME](https://planet.gnome.org/) | [Reducing Mutter dependencies](https://belmoussaoui.com/blog/18-reducing-mutter-dependencies/)
 

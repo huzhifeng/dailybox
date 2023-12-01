@@ -1,3 +1,12 @@
+## 20231202
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1202 北京互联网法院裁决 AI 生成图片拥有版权](https://linux.cn/article-16432-1.html?utm_source=rss&utm_medium=rss)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Releases: RHEL 8.9 and RHEL 9.3 on IBM Z &amp; LinuxONE](https://kvmonz.blogspot.com/2023/12/new-releases-rhel-89-and-rhel-93-on-ibm.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon and snaps, Debian Weekly report.](https://www.scarlettgatelymoore.dev/kde-neon-and-snaps-debian-weekly-report/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing # 4](https://mauikit.org/blog/maui-release-briefing-4/?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
+
 ## 20231201
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1201 美国实现芯片独立还需十到二十年](https://linux.cn/article-16428-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 23.11 Open-Source Video Editor Adds NVIDIA AV1 Hardware Encoding](https://9to5linux.com/shotcut-23-11-open-source-video-editor-adds-nvidia-av1-hardware-encoding)
