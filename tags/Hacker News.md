@@ -1,3 +1,8 @@
+## 20231203
+- [Hacker News](https://news.ycombinator.com/front) | [Tiny volumetric display](https://news.ycombinator.com/item?id=38498109)
+- [Hacker News](https://news.ycombinator.com/front) | [You don't need JavaScript for that](https://news.ycombinator.com/item?id=38497445)
+- [Hacker News](https://news.ycombinator.com/front) | [Tinnitus linked to undetected auditory nerve damage](https://news.ycombinator.com/item?id=38495720)
+
 ## 20231202
 - [Hacker News](https://news.ycombinator.com/front) | [The Seamless Communication models](https://news.ycombinator.com/item?id=38487359)
 - [Hacker News](https://news.ycombinator.com/front) | [Code is run more than read](https://news.ycombinator.com/item?id=38483181)

@@ -1,3 +1,8 @@
+## 20231203
+- [Kagi Small Web](https://kagi.com/smallweb) | [Ice](http://vasilis.nl/voto/ice/231202172930/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Reykjanes Penninsula](https://mvdirona.com/2023/12/reykjanes-penninsula/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Defining European Colonialism](https://nathangoldwag.wordpress.com/2023/12/02/defining-european-colonialism/)
+
 ## 20231202
 - [Kagi Small Web](https://kagi.com/smallweb) | [OSS updates November 2023](https://blog.michielborkent.nl/oss-updates-nov-2023.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [I replaced npm, yarn and nvm with pnpm](https://pawelgrzybek.com/i-replaced-npm-yarn-and-nvm-with-pnpm/)
