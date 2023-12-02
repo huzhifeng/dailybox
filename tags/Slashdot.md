@@ -1,3 +1,6 @@
+## 20231203
+- [Slashdot](https://developers.slashdot.org/) | [Java Tries a New Way to Use Multithreading:  Structured Concurrency](https://developers.slashdot.org/story/23/12/02/1919255/java-tries-a-new-way-to-use-multithreading-structured-concurrency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231201
 - [Slashdot](https://developers.slashdot.org/) | [BBC BASIC Is Back In a Big Way](https://developers.slashdot.org/story/23/11/29/2328255/bbc-basic-is-back-in-a-big-way?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,6 @@
+## 20231203
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux’s December 2023 ISO Release Brings Linux 6.6 LTS, Updated Installer](https://9to5linux.com/arch-linuxs-december-2023-iso-release-brings-linux-6-6-lts-updated-installer)
+
 ## 20231201
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 23.11 Open-Source Video Editor Adds NVIDIA AV1 Hardware Encoding](https://9to5linux.com/shotcut-23-11-open-source-video-editor-adds-nvidia-av1-hardware-encoding)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.2 Open-Source Photo Management App Is Now Available for Download](https://9to5linux.com/digikam-8-2-open-source-photo-management-app-is-now-available-for-download)

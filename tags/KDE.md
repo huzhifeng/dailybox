@@ -1,3 +1,8 @@
+## 20231203
+- [Planet KDE](https://planet.kde.org/) | [October/November in KDE Itinerary](https://www.volkerkrause.eu/2023/12/02/kde-itinerary-october-november-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/)
+
 ## 20231202
 - [Planet KDE](https://planet.kde.org/) | [KDE neon and snaps, Debian Weekly report.](https://www.scarlettgatelymoore.dev/kde-neon-and-snaps-debian-weekly-report/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/?utm_source=atom_feed)

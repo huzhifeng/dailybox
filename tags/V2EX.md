@@ -1,3 +1,8 @@
+## 20231203
+- [V2EX](https://www.v2ex.com/) | [某鱼买到有锁硬盘以及小二用最小的权力给用户找最大的麻烦](https://www.v2ex.com/t/997141)
+- [V2EX](https://www.v2ex.com/) | [有个存在了很久的问题，我一般打游戏都没办法打通关，大部分人都这样子吗？](https://www.v2ex.com/t/997107)
+- [V2EX](https://www.v2ex.com/) | [各位写 C++有成就感吗](https://www.v2ex.com/t/997106)
+
 ## 20231202
 - [V2EX](https://www.v2ex.com/) | [作为一个前端，一直不明白为什么要晚上发版？](https://www.v2ex.com/t/996780)
 - [V2EX](https://www.v2ex.com/) | [微信被盗刷。。。。。](https://www.v2ex.com/t/996764)

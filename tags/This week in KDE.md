@@ -1,3 +1,6 @@
+## 20231203
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/)
+
 ## 20231126
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: the Plasma 6 feature freeze approaches](https://pointieststick.com/2023/11/24/this-week-in-kde-the-plasma-6-feature-freeze-approaches/)
 

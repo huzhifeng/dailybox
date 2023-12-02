@@ -1,3 +1,10 @@
+## 20231203
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1203 巴西城市颁布由 ChatGPT 编写的法令](https://linux.cn/article-16435-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux’s December 2023 ISO Release Brings Linux 6.6 LTS, Updated Installer](https://9to5linux.com/arch-linuxs-december-2023-iso-release-brings-linux-6-6-lts-updated-installer)
+- [Planet KDE](https://planet.kde.org/) | [October/November in KDE Itinerary](https://www.volkerkrause.eu/2023/12/02/kde-itinerary-october-november-2023.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/)
+
 ## 20231202
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1202 北京互联网法院裁决 AI 生成图片拥有版权](https://linux.cn/article-16432-1.html?utm_source=rss&utm_medium=rss)
 - [Planet virt-tools](https://planet.virt-tools.org/) | [New Releases: RHEL 8.9 and RHEL 9.3 on IBM Z &amp; LinuxONE](https://kvmonz.blogspot.com/2023/12/new-releases-rhel-89-and-rhel-93-on-ibm.html)
