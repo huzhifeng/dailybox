@@ -1,3 +1,6 @@
+## 20231204
+- [Planet GNOME](https://planet.gnome.org/) | [Profiling Rust Applications With Sysprof](https://blogs.gnome.org/haeckerfelix/2023/12/03/profiling-rust-applications-with-sysprof/)
+
 ## 20231202
 - [Planet GNOME](https://planet.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)

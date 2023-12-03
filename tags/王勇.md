@@ -1,3 +1,7 @@
+## 20231204
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [坦克 500 Hi4-T 评测](https://manateelazycat.github.io/2023/12/03/tank-500/)
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [哪些书改变了我](https://manateelazycat.github.io/2023/12/03/which-books-have-changed-me/)
+
 ## 20231129
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [通过降级 FreeType 解决 WPS 加粗字体乱码的问题](https://manateelazycat.github.io/2023/11/28/wps-font-problem/)
 

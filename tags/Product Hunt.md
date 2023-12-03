@@ -1,3 +1,8 @@
+## 20231204
+- [Product Hunt](https://www.producthunt.com) | [FastCut](https://www.producthunt.com/posts/fastcut)
+- [Product Hunt](https://www.producthunt.com) | [Metawork](https://www.producthunt.com/posts/metawork)
+- [Product Hunt](https://www.producthunt.com) | [Plus AI Google Analytics Reports](https://www.producthunt.com/posts/plus-ai-google-analytics-reports)
+
 ## 20231203
 - [Product Hunt](https://www.producthunt.com) | [Garden Of AI](https://www.producthunt.com/posts/garden-of-ai)
 - [Product Hunt](https://www.producthunt.com) | [Vulse](https://www.producthunt.com/posts/vulse)

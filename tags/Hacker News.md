@@ -1,3 +1,6 @@
+## 20231204
+- [Hacker News](https://news.ycombinator.com/front) | [LLM Visualization](https://news.ycombinator.com/item?id=38507672)
+
 ## 20231203
 - [Hacker News](https://news.ycombinator.com/front) | [Tiny volumetric display](https://news.ycombinator.com/item?id=38498109)
 - [Hacker News](https://news.ycombinator.com/front) | [You don't need JavaScript for that](https://news.ycombinator.com/item?id=38497445)

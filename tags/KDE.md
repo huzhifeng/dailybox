@@ -1,3 +1,7 @@
+## 20231204
+- [Planet KDE](https://planet.kde.org/) | [KStars 3.6.8 is Released](http://knro.blogspot.com/2023/12/kstars-368-is-released.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [digiKam 8.2.0 is released](https://digikam.org/news/2023-12-03-8.2.0_release_announcement/?utm_source=atom_feed)
+
 ## 20231203
 - [Planet KDE](https://planet.kde.org/) | [October/November in KDE Itinerary](https://www.volkerkrause.eu/2023/12/02/kde-itinerary-october-november-2023.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/?utm_source=atom_feed)
