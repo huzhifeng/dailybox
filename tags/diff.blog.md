@@ -1,3 +1,6 @@
+## 20231204
+- [diff.blog](https://diff.blog/) | [The Flask Mega-Tutorial, Part XVI: Full-Text Search](https://diff.blog/post/the-flask-mega-tutorial-part-xvi-full-text-search-162428/)
+
 ## 20231201
 - [diff.blog](https://diff.blog/) | [Why you really DO need a technical co-founder](https://diff.blog/post/why-you-really-do-need-a-technical-co-founder-162281/)
 - [diff.blog](https://diff.blog/) | [xCurl](https://diff.blog/post/xcurl-162212/)

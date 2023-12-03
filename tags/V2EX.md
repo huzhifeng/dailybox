@@ -1,3 +1,8 @@
+## 20231204
+- [V2EX](https://www.v2ex.com/) | [每天通勤 100KM 左右 一年内无车位 帮我看看选什么电车？](https://www.v2ex.com/t/997261)
+- [V2EX](https://www.v2ex.com/) | [想问下大家的 Intel Mac 还能战多少年？](https://www.v2ex.com/t/997243)
+- [V2EX](https://www.v2ex.com/) | [大师用一辈子寻找真理的行为有意义吗？](https://www.v2ex.com/t/997241)
+
 ## 20231203
 - [V2EX](https://www.v2ex.com/) | [某鱼买到有锁硬盘以及小二用最小的权力给用户找最大的麻烦](https://www.v2ex.com/t/997141)
 - [V2EX](https://www.v2ex.com/) | [有个存在了很久的问题，我一般打游戏都没办法打通关，大部分人都这样子吗？](https://www.v2ex.com/t/997107)

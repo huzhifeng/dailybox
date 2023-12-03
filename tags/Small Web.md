@@ -1,3 +1,8 @@
+## 20231204
+- [Kagi Small Web](https://kagi.com/smallweb) | [Every drop in the ocean counts.](https://putah-creek.tumblr.com/post/735712077797261312)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Travel Tech 2023](https://joe-steel.com/2023-12-03-Travel-Tech-2023.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Re: Art i've made!](https://forum.melonland.net/index.php?topic=2209.msg22753#msg22753)
+
 ## 20231203
 - [Kagi Small Web](https://kagi.com/smallweb) | [Ice](http://vasilis.nl/voto/ice/231202172930/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reykjanes Penninsula](https://mvdirona.com/2023/12/reykjanes-penninsula/)
