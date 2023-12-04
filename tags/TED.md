@@ -1,3 +1,6 @@
+## 20231205
+- [TED Talks Daily](https://www.ted.com/talks) | [Democracy works — we just need better leaders | Lindiwe Mazibuko](https://www.ted.com/talks/lindiwe_mazibuko_democracy_works_we_just_need_better_leaders?rss)
+
 ## 20231202
 - [TED Talks Daily](https://www.ted.com/talks) | [A playbook on financing climate solutions | Nili Gilbert and David Blood](https://www.ted.com/talks/nili_gilbert_and_david_blood_a_playbook_on_financing_climate_solutions?rss)
 

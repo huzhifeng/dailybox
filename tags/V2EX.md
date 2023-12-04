@@ -1,3 +1,8 @@
+## 20231205
+- [V2EX](https://www.v2ex.com/) | [如果你有房贷 100w，现在有现金 15w 你是用来先提前还房贷还是买车？](https://www.v2ex.com/t/997559)
+- [V2EX](https://www.v2ex.com/) | [农村两户距离 300 米，如何共用一根宽带？](https://www.v2ex.com/t/997456)
+- [V2EX](https://www.v2ex.com/) | [人生第一台车， 10+ 到 20+ 油车求推荐](https://www.v2ex.com/t/997415)
+
 ## 20231204
 - [V2EX](https://www.v2ex.com/) | [每天通勤 100KM 左右 一年内无车位 帮我看看选什么电车？](https://www.v2ex.com/t/997261)
 - [V2EX](https://www.v2ex.com/) | [想问下大家的 Intel Mac 还能战多少年？](https://www.v2ex.com/t/997243)

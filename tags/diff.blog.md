@@ -1,3 +1,6 @@
+## 20231205
+- [diff.blog](https://diff.blog/) | [A Decade of Have I Been Pwned](https://diff.blog/post/a-decade-of-have-i-been-pwned-162540/)
+
 ## 20231204
 - [diff.blog](https://diff.blog/) | [The Flask Mega-Tutorial, Part XVI: Full-Text Search](https://diff.blog/post/the-flask-mega-tutorial-part-xvi-full-text-search-162428/)
 

@@ -1,3 +1,8 @@
+## 20231205
+- [Product Hunt](https://www.producthunt.com) | [Watermark Remover by Magic Studio](https://www.producthunt.com/posts/watermark-remover-by-magic-studio)
+- [Product Hunt](https://www.producthunt.com) | [Papermark AI](https://www.producthunt.com/posts/papermark-ai)
+- [Product Hunt](https://www.producthunt.com) | [Swifty](https://www.producthunt.com/posts/swifty-5)
+
 ## 20231204
 - [Product Hunt](https://www.producthunt.com) | [FastCut](https://www.producthunt.com/posts/fastcut)
 - [Product Hunt](https://www.producthunt.com) | [Metawork](https://www.producthunt.com/posts/metawork)
