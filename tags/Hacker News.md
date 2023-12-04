@@ -1,3 +1,7 @@
+## 20231205
+- [Hacker News](https://news.ycombinator.com/front) | [A decade of Have I Been Pwned](https://news.ycombinator.com/item?id=38519257)
+- [Hacker News](https://news.ycombinator.com/front) | [Django 5.0](https://news.ycombinator.com/item?id=38517099)
+
 ## 20231204
 - [Hacker News](https://news.ycombinator.com/front) | [LLM Visualization](https://news.ycombinator.com/item?id=38507672)
 

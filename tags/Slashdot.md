@@ -1,3 +1,6 @@
+## 20231205
+- [Slashdot](https://developers.slashdot.org/) | [150,000 Programmers Tackle 'Advent of Code' in Event's 9th Year](https://entertainment.slashdot.org/story/23/12/04/0539251/150000-programmers-tackle-advent-of-code-in-events-9th-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231203
 - [Slashdot](https://developers.slashdot.org/) | [Java Tries a New Way to Use Multithreading:  Structured Concurrency](https://developers.slashdot.org/story/23/12/02/1919255/java-tries-a-new-way-to-use-multithreading-structured-concurrency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

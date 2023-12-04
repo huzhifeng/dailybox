@@ -1,3 +1,8 @@
+## 20231205
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1205 苹果用 15 年完成了英特尔芯片替代](https://linux.cn/article-16441-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Beta Released with Quick Settings, Spatial Desktop, and More](https://9to5linux.com/zorin-os-17-beta-released-with-quick-settings-spatial-desktop-and-more)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 3rd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-3rd-2023)
+
 ## 20231204
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1204 Chrome 还有打击广告拦截器的下一个武器](https://linux.cn/article-16438-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [Profiling Rust Applications With Sysprof](https://blogs.gnome.org/haeckerfelix/2023/12/03/profiling-rust-applications-with-sysprof/)

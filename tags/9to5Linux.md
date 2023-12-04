@@ -1,3 +1,7 @@
+## 20231205
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Beta Released with Quick Settings, Spatial Desktop, and More](https://9to5linux.com/zorin-os-17-beta-released-with-quick-settings-spatial-desktop-and-more)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 3rd, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-3rd-2023)
+
 ## 20231203
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux’s December 2023 ISO Release Brings Linux 6.6 LTS, Updated Installer](https://9to5linux.com/arch-linuxs-december-2023-iso-release-brings-linux-6-6-lts-updated-installer)
 

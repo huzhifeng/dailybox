@@ -1,3 +1,8 @@
+## 20231205
+- [Kagi Small Web](https://kagi.com/smallweb) | [Lawrence Jones proved it: in business, awards are for losers.](https://webdevlaw.uk/2023/12/04/lawrence-jones-proved-it-in-business-awards-are-for-losers/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Harvard Gutted Initial Team Examining Facebook Files Following $500 Million Donation from Chan Zuckerberg...](https://werd.io/2023/harvard-gutted-initial-team-examining-facebook-files-following-500-million)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Detected: Edu-Hub College of Health Sciences](https://marcoramilli.com/2023/12/04/detected-edu-hub-college-of-health-sciences/)
+
 ## 20231204
 - [Kagi Small Web](https://kagi.com/smallweb) | [Every drop in the ocean counts.](https://putah-creek.tumblr.com/post/735712077797261312)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Travel Tech 2023](https://joe-steel.com/2023-12-03-Travel-Tech-2023.html)
