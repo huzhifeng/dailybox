@@ -1,3 +1,7 @@
+## 20231206
+- [Planet GNOME](https://planet.gnome.org/) | [colophonwards](https://wingolog.org/archives/2023/12/05/colophonwards)
+- [Planet GNOME](https://planet.gnome.org/) | [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
+
 ## 20231204
 - [Planet GNOME](https://planet.gnome.org/) | [Profiling Rust Applications With Sysprof](https://blogs.gnome.org/haeckerfelix/2023/12/03/profiling-rust-applications-with-sysprof/)
 

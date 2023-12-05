@@ -1,3 +1,10 @@
+## 20231206
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1206 Linus Torvalds 为假期季做准备](https://linux.cn/article-16443-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Kali Linux 2023.4 Brings Support for Raspberry Pi 5](https://9to5linux.com/ethical-hacking-distro-kali-linux-2023-4-brings-support-for-raspberry-pi-5)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.2 Released with Various Fixes and Performance Improvements](https://9to5linux.com/gnome-45-2-released-with-various-fixes-and-performance-improvements)
+- [Planet GNOME](https://planet.gnome.org/) | [colophonwards](https://wingolog.org/archives/2023/12/05/colophonwards)
+- [Planet GNOME](https://planet.gnome.org/) | [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
+
 ## 20231205
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1205 苹果用 15 年完成了英特尔芯片替代](https://linux.cn/article-16441-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Beta Released with Quick Settings, Spatial Desktop, and More](https://9to5linux.com/zorin-os-17-beta-released-with-quick-settings-spatial-desktop-and-more)

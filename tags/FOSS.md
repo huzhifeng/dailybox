@@ -1,3 +1,6 @@
+## 20231206
+- [It's FOSS](https://itsfoss.com/) | [7 Sudo Tips and Tweaks for Linux Users](https://itsfoss.com/sudo-tips/)
+
 ## 20231205
 - [It's FOSS](https://itsfoss.com/) | [How to Install Docker on Ubuntu](https://itsfoss.com/install-docker-ubuntu/)
 

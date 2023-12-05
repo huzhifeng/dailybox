@@ -1,3 +1,7 @@
+## 20231206
+- [diff.blog](https://diff.blog/) | [Behind the Scenes of Rust String Formatting: format_args!()](https://diff.blog/post/behind-the-scenes-of-rust-string-formatting-format_args-162652/)
+- [diff.blog](https://diff.blog/) | [Mounting git commits as folders with NFS](https://diff.blog/post/mounting-git-commits-as-folders-with-nfs-162609/)
+
 ## 20231205
 - [diff.blog](https://diff.blog/) | [A Decade of Have I Been Pwned](https://diff.blog/post/a-decade-of-have-i-been-pwned-162540/)
 

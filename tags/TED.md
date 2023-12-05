@@ -1,3 +1,6 @@
+## 20231206
+- [TED Talks Daily](https://www.ted.com/talks) | [How to stop the next pandemic? Stop deforestation | Neil Vora](https://www.ted.com/talks/neil_vora_how_to_stop_the_next_pandemic_stop_deforestation?rss)
+
 ## 20231205
 - [TED Talks Daily](https://www.ted.com/talks) | [Democracy works — we just need better leaders | Lindiwe Mazibuko](https://www.ted.com/talks/lindiwe_mazibuko_democracy_works_we_just_need_better_leaders?rss)
 

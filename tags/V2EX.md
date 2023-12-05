@@ -1,3 +1,8 @@
+## 20231206
+- [V2EX](https://www.v2ex.com/) | [年会特等奖 15000 奖品推荐？](https://www.v2ex.com/t/997755)
+- [V2EX](https://www.v2ex.com/) | [决赛圈 iqoo12/魅族 20pro/魅族 21 怎么选](https://www.v2ex.com/t/997747)
+- [V2EX](https://www.v2ex.com/) | [消费降级： 8 年三星用户入手红米 K70pro](https://www.v2ex.com/t/997722)
+
 ## 20231205
 - [V2EX](https://www.v2ex.com/) | [如果你有房贷 100w，现在有现金 15w 你是用来先提前还房贷还是买车？](https://www.v2ex.com/t/997559)
 - [V2EX](https://www.v2ex.com/) | [农村两户距离 300 米，如何共用一根宽带？](https://www.v2ex.com/t/997456)
