@@ -1,3 +1,8 @@
+## 20231206
+- [Product Hunt](https://www.producthunt.com) | [Passage by 1Password](https://www.producthunt.com/posts/passage-by-1password)
+- [Product Hunt](https://www.producthunt.com) | [Respell](https://www.producthunt.com/posts/respell)
+- [Product Hunt](https://www.producthunt.com) | [Referd](https://www.producthunt.com/posts/referd-2)
+
 ## 20231205
 - [Product Hunt](https://www.producthunt.com) | [Watermark Remover by Magic Studio](https://www.producthunt.com/posts/watermark-remover-by-magic-studio)
 - [Product Hunt](https://www.producthunt.com) | [Papermark AI](https://www.producthunt.com/posts/papermark-ai)

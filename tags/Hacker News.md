@@ -1,3 +1,8 @@
+## 20231206
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Beeper Mini – iMessage Client for Android](https://news.ycombinator.com/item?id=38531759)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: How did your computer reach my server?](https://news.ycombinator.com/item?id=38531604)
+- [Hacker News](https://news.ycombinator.com/front) | [Firefox on the brink?](https://news.ycombinator.com/item?id=38531104)
+
 ## 20231205
 - [Hacker News](https://news.ycombinator.com/front) | [A decade of Have I Been Pwned](https://news.ycombinator.com/item?id=38519257)
 - [Hacker News](https://news.ycombinator.com/front) | [Django 5.0](https://news.ycombinator.com/item?id=38517099)

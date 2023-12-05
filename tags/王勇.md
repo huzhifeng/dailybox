@@ -1,3 +1,6 @@
+## 20231206
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [怎么打造流畅的 Emacs？](https://manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/)
+
 ## 20231204
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [坦克 500 Hi4-T 评测](https://manateelazycat.github.io/2023/12/03/tank-500/)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [哪些书改变了我](https://manateelazycat.github.io/2023/12/03/which-books-have-changed-me/)
