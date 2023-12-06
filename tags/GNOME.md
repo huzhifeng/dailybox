@@ -1,3 +1,6 @@
+## 20231207
+- [Planet GNOME](https://planet.gnome.org/) | [Calliope 10.0: creating music playlists using Tracker Miner FS](https://samthursfield.wordpress.com/2023/12/06/calliope-10-0-creating-music-playlists-using-tracker-miner-fs/)
+
 ## 20231206
 - [Planet GNOME](https://planet.gnome.org/) | [colophonwards](https://wingolog.org/archives/2023/12/05/colophonwards)
 - [Planet GNOME](https://planet.gnome.org/) | [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)

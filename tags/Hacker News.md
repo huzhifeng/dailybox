@@ -1,3 +1,7 @@
+## 20231207
+- [Hacker News](https://news.ycombinator.com/front) | [Gemini AI](https://news.ycombinator.com/item?id=38544729)
+- [Hacker News](https://news.ycombinator.com/front) | [Governments spying on Apple, Google users through push notifications](https://news.ycombinator.com/item?id=38543155)
+
 ## 20231206
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Beeper Mini – iMessage Client for Android](https://news.ycombinator.com/item?id=38531759)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: How did your computer reach my server?](https://news.ycombinator.com/item?id=38531604)

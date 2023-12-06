@@ -1,3 +1,8 @@
+## 20231207
+- [V2EX](https://www.v2ex.com/) | [坚持独身主义的人士，你们心中有恐惧吗](https://www.v2ex.com/t/998051)
+- [V2EX](https://www.v2ex.com/) | [一些碎碎念：下半年刚结婚，年前被裁的我，突然有点迷茫了](https://www.v2ex.com/t/998024)
+- [V2EX](https://www.v2ex.com/) | [在 B 站看黑马程序员视频学的前端，做了一个背单词的网站，大佬们看下是什么水平？](https://www.v2ex.com/t/997978)
+
 ## 20231206
 - [V2EX](https://www.v2ex.com/) | [年会特等奖 15000 奖品推荐？](https://www.v2ex.com/t/997755)
 - [V2EX](https://www.v2ex.com/) | [决赛圈 iqoo12/魅族 20pro/魅族 21 怎么选](https://www.v2ex.com/t/997747)

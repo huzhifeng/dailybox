@@ -1,3 +1,7 @@
+## 20231207
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Gets New Dark GTK Theme, Better Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-gets-new-dark-gtk-theme-better-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.10 Improves Night Color with Automatic Location, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-10-improves-night-color-with-automatic-location-fixes-bugs)
+
 ## 20231206
 - [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Kali Linux 2023.4 Brings Support for Raspberry Pi 5](https://9to5linux.com/ethical-hacking-distro-kali-linux-2023-4-brings-support-for-raspberry-pi-5)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45.2 Released with Various Fixes and Performance Improvements](https://9to5linux.com/gnome-45-2-released-with-various-fixes-and-performance-improvements)

@@ -1,3 +1,8 @@
+## 20231207
+- [Product Hunt](https://www.producthunt.com) | [Inter 4.0](https://www.producthunt.com/posts/inter-4-0)
+- [Product Hunt](https://www.producthunt.com) | [Cede.store](https://www.producthunt.com/posts/cede-store)
+- [Product Hunt](https://www.producthunt.com) | [Investor Ratings](https://www.producthunt.com/posts/investor-ratings)
+
 ## 20231206
 - [Product Hunt](https://www.producthunt.com) | [Passage by 1Password](https://www.producthunt.com/posts/passage-by-1password)
 - [Product Hunt](https://www.producthunt.com) | [Respell](https://www.producthunt.com/posts/respell)
