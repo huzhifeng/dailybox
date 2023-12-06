@@ -1,3 +1,11 @@
+## 20231207
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1207 Firefox 面临被踢出兼容性要求名单](https://linux.cn/article-16448-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Gets New Dark GTK Theme, Better Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-gets-new-dark-gtk-theme-better-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.10 Improves Night Color with Automatic Location, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-10-improves-night-color-with-automatic-location-fixes-bugs)
+- [OMG! Linux](https://www.omglinux.com/) | [Vote for openSUSE’s New Logo Closes Dec 12](https://www.omglinux.com/voting-for-opensuses-new-logo-ends-december-12/)
+- [Planet GNOME](https://planet.gnome.org/) | [Calliope 10.0: creating music playlists using Tracker Miner FS](https://samthursfield.wordpress.com/2023/12/06/calliope-10-0-creating-music-playlists-using-tracker-miner-fs/)
+- [Planet KDE](https://planet.kde.org/) | [Broken Rules Sponsors Krita!](https://krita.org/en/item/broken-rules-sponsors-krita/?utm_source=atom_feed)
+
 ## 20231206
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1206 Linus Torvalds 为假期季做准备](https://linux.cn/article-16443-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Kali Linux 2023.4 Brings Support for Raspberry Pi 5](https://9to5linux.com/ethical-hacking-distro-kali-linux-2023-4-brings-support-for-raspberry-pi-5)

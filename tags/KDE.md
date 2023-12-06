@@ -1,3 +1,6 @@
+## 20231207
+- [Planet KDE](https://planet.kde.org/) | [Broken Rules Sponsors Krita!](https://krita.org/en/item/broken-rules-sponsors-krita/?utm_source=atom_feed)
+
 ## 20231204
 - [Planet KDE](https://planet.kde.org/) | [KStars 3.6.8 is Released](http://knro.blogspot.com/2023/12/kstars-368-is-released.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [digiKam 8.2.0 is released](https://digikam.org/news/2023-12-03-8.2.0_release_announcement/?utm_source=atom_feed)

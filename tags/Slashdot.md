@@ -1,3 +1,6 @@
+## 20231207
+- [Slashdot](https://developers.slashdot.org/) | [Millions of Coders Are Now Using AI Assistants. How Will That Change Software?](https://developers.slashdot.org/story/23/12/06/163201/millions-of-coders-are-now-using-ai-assistants-how-will-that-change-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231205
 - [Slashdot](https://developers.slashdot.org/) | [150,000 Programmers Tackle 'Advent of Code' in Event's 9th Year](https://entertainment.slashdot.org/story/23/12/04/0539251/150000-programmers-tackle-advent-of-code-in-events-9th-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

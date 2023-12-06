@@ -1,3 +1,6 @@
+## 20231207
+- [OMG! Linux](https://www.omglinux.com/) | [Vote for openSUSE’s New Logo Closes Dec 12](https://www.omglinux.com/voting-for-opensuses-new-logo-ends-december-12/)
+
 ## 20231121
 - [OMG! Linux](https://www.omglinux.com/) | [EndeavourOS ‘Galileo’ is Available to Download](https://www.omglinux.com/endeavour-os-galileo-released/)
 

@@ -1,3 +1,6 @@
+## 20231207
+- [TED Talks Daily](https://www.ted.com/talks) | [How to find humor in life's absurdity | Maira Kalman](https://www.ted.com/talks/maira_kalman_how_to_find_humor_in_life_s_absurdity?rss)
+
 ## 20231206
 - [TED Talks Daily](https://www.ted.com/talks) | [How to stop the next pandemic? Stop deforestation | Neil Vora](https://www.ted.com/talks/neil_vora_how_to_stop_the_next_pandemic_stop_deforestation?rss)
 
