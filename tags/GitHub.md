@@ -1,3 +1,6 @@
+## 20231208
+- [GitHub Advanced Search](https://github.com/search/advanced) | [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)
+
 ## 20231129
 - [GitHub Advanced Search](https://github.com/search/advanced) | [isafulf/inbox_cleaner](https://github.com/isafulf/inbox_cleaner)
 

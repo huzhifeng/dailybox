@@ -1,3 +1,7 @@
+## 20231208
+- [Hacker News](https://news.ycombinator.com/front) | [Gemini "duck" demo was not done in realtime or with voice](https://news.ycombinator.com/item?id=38559582)
+- [Hacker News](https://news.ycombinator.com/front) | [SVG Tutorial](https://news.ycombinator.com/item?id=38556116)
+
 ## 20231207
 - [Hacker News](https://news.ycombinator.com/front) | [Gemini AI](https://news.ycombinator.com/item?id=38544729)
 - [Hacker News](https://news.ycombinator.com/front) | [Governments spying on Apple, Google users through push notifications](https://news.ycombinator.com/item?id=38543155)

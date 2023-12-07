@@ -1,3 +1,8 @@
+## 20231208
+- [Product Hunt](https://www.producthunt.com) | [Gemini](https://www.producthunt.com/posts/gemini-8)
+- [Product Hunt](https://www.producthunt.com) | [Openlayer](https://www.producthunt.com/posts/openlayer-2)
+- [Product Hunt](https://www.producthunt.com) | [Enqo](https://www.producthunt.com/posts/enqo)
+
 ## 20231207
 - [Product Hunt](https://www.producthunt.com) | [Inter 4.0](https://www.producthunt.com/posts/inter-4-0)
 - [Product Hunt](https://www.producthunt.com) | [Cede.store](https://www.producthunt.com/posts/cede-store)

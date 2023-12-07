@@ -1,3 +1,8 @@
+## 20231208
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0](https://9to5linux.com/linux-mint-21-3-beta-is-now-available-for-download-with-cinnamon-6-0)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.4 Office Suite Is Now Available for Download](https://9to5linux.com/libreoffice-7-6-4-office-suite-is-now-availalbe-for-download)
+- [9to5Linux](https://9to5linux.com/) | [Alpine Linux 3.19 Released with Linux Kernel 6.6 LTS and Raspberry Pi 5 Support](https://9to5linux.com/alpine-linux-3-19-released-with-linux-kernel-6-6-lts-and-raspberry-pi-5-support)
+
 ## 20231207
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Gets New Dark GTK Theme, Better Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-gets-new-dark-gtk-theme-better-raspberry-pi-5-support)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.10 Improves Night Color with Automatic Location, Fixes Bugs](https://9to5linux.com/kde-plasma-5-27-10-improves-night-color-with-automatic-location-fixes-bugs)
