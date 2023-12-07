@@ -1,3 +1,8 @@
+## 20231208
+- [V2EX](https://www.v2ex.com/) | [闺女出生 9 天了，越看越可爱。怎么避免她以后找的对象是像我一样的小垃圾兼闷骚？](https://www.v2ex.com/t/998429)
+- [V2EX](https://www.v2ex.com/) | [你倾向于哪个 Linux 桌面发行版？](https://www.v2ex.com/t/998407)
+- [V2EX](https://www.v2ex.com/) | [贷了 20 万梭哈，不知道选什么币](https://www.v2ex.com/t/998397)
+
 ## 20231207
 - [V2EX](https://www.v2ex.com/) | [坚持独身主义的人士，你们心中有恐惧吗](https://www.v2ex.com/t/998051)
 - [V2EX](https://www.v2ex.com/) | [一些碎碎念：下半年刚结婚，年前被裁的我，突然有点迷茫了](https://www.v2ex.com/t/998024)

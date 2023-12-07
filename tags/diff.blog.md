@@ -1,3 +1,6 @@
+## 20231208
+- [diff.blog](https://diff.blog/) | [Building end-to-end security for Messenger](https://diff.blog/post/building-end-to-end-security-for-messenger-163343/)
+
 ## 20231206
 - [diff.blog](https://diff.blog/) | [Behind the Scenes of Rust String Formatting: format_args!()](https://diff.blog/post/behind-the-scenes-of-rust-string-formatting-format_args-162652/)
 - [diff.blog](https://diff.blog/) | [Mounting git commits as folders with NFS](https://diff.blog/post/mounting-git-commits-as-folders-with-nfs-162609/)

@@ -1,3 +1,11 @@
+## 20231208
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Red Hat Ansible Automation Platform available on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/12/red-hat-ansible-automation-platform.html)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME will have two Outreachy interns working on implementing end-to-end tests for GNOME OS using openQA](https://feborg.es/announcement-gnome-will-have-two-outreachy-interns-working-on-implementing-end-to-end-tests-for-gnome-os-using-openqa/)
+- [Planet GNOME](https://planet.gnome.org/) | [the last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2.2 Released!](https://krita.org/en/item/krita-5-2-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Commonality](https://quickfix.es/2023/12/off-theme-presents-commonality/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 1](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/?utm_source=atom_feed)
+
 ## 20231207
 - [Planet GNOME](https://planet.gnome.org/) | [Calliope 10.0: creating music playlists using Tracker Miner FS](https://samthursfield.wordpress.com/2023/12/06/calliope-10-0-creating-music-playlists-using-tracker-miner-fs/)
 - [Planet KDE](https://planet.kde.org/) | [Broken Rules Sponsors Krita!](https://krita.org/en/item/broken-rules-sponsors-krita/?utm_source=atom_feed)

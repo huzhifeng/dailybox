@@ -1,3 +1,8 @@
+## 20231208
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2.2 Released!](https://krita.org/en/item/krita-5-2-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Commonality](https://quickfix.es/2023/12/off-theme-presents-commonality/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 1](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/?utm_source=atom_feed)
+
 ## 20231207
 - [Planet KDE](https://planet.kde.org/) | [Broken Rules Sponsors Krita!](https://krita.org/en/item/broken-rules-sponsors-krita/?utm_source=atom_feed)
 

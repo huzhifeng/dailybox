@@ -1,3 +1,8 @@
+## 20231208
+- [TED Talks Daily](https://www.ted.com/talks) | [AI's single point of failure | Rob Toews](https://www.ted.com/talks/rob_toews_ai_s_single_point_of_failure?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Can AI catch what doctors miss? | Eric Topol](https://www.ted.com/talks/eric_topol_can_ai_catch_what_doctors_miss?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [What will happen to marketing in the age of AI? | Jessica Apotheker](https://www.ted.com/talks/jessica_apotheker_what_will_happen_to_marketing_in_the_age_of_ai?rss)
+
 ## 20231207
 - [TED Talks Daily](https://www.ted.com/talks) | [How to find humor in life's absurdity | Maira Kalman](https://www.ted.com/talks/maira_kalman_how_to_find_humor_in_life_s_absurdity?rss)
 

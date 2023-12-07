@@ -1,3 +1,15 @@
+## 20231208
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1208 LVFS 已为 Linux 用户提供超过 1 亿次固件更新](https://linux.cn/article-16450-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0](https://9to5linux.com/linux-mint-21-3-beta-is-now-available-for-download-with-cinnamon-6-0)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.4 Office Suite Is Now Available for Download](https://9to5linux.com/libreoffice-7-6-4-office-suite-is-now-availalbe-for-download)
+- [9to5Linux](https://9to5linux.com/) | [Alpine Linux 3.19 Released with Linux Kernel 6.6 LTS and Raspberry Pi 5 Support](https://9to5linux.com/alpine-linux-3-19-released-with-linux-kernel-6-6-lts-and-raspberry-pi-5-support)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Red Hat Ansible Automation Platform available on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/12/red-hat-ansible-automation-platform.html)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME will have two Outreachy interns working on implementing end-to-end tests for GNOME OS using openQA](https://feborg.es/announcement-gnome-will-have-two-outreachy-interns-working-on-implementing-end-to-end-tests-for-gnome-os-using-openqa/)
+- [Planet GNOME](https://planet.gnome.org/) | [the last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
+- [Planet KDE](https://planet.kde.org/) | [Krita 5.2.2 Released!](https://krita.org/en/item/krita-5-2-2-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Commonality](https://quickfix.es/2023/12/off-theme-presents-commonality/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 1](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/?utm_source=atom_feed)
+
 ## 20231207
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1207 Firefox 面临被踢出兼容性要求名单](https://linux.cn/article-16448-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Gets New Dark GTK Theme, Better Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-gets-new-dark-gtk-theme-better-raspberry-pi-5-support)

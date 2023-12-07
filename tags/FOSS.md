@@ -1,3 +1,6 @@
+## 20231208
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.49: Sudo Tweaks, Ubuntu Starters, Zorin 17, Cinnamon 6 and More](https://itsfoss.com/newsletter/foss-weekly-23-49/)
+
 ## 20231206
 - [It's FOSS](https://itsfoss.com/) | [7 Sudo Tips and Tweaks for Linux Users](https://itsfoss.com/sudo-tips/)
 
