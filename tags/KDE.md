@@ -1,3 +1,7 @@
+## 20231209
+- [Planet KDE](https://planet.kde.org/) | [Future text improvements in Qt 6.7](https://www.qt.io/blog/text-improvements-in-qt-6.7?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/?utm_source=atom_feed)
+
 ## 20231208
 - [Planet KDE](https://planet.kde.org/) | [Krita 5.2.2 Released!](https://krita.org/en/item/krita-5-2-2-released/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Off-Theme Presents: Commonality](https://quickfix.es/2023/12/off-theme-presents-commonality/?utm_source=atom_feed)

@@ -1,3 +1,7 @@
+## 20231209
+- [Planet GNOME](https://planet.gnome.org/) | [v8's mark-sweep nursery](https://wingolog.org/archives/2023/12/08/v8s-mark-sweep-nursery)
+- [Planet GNOME](https://planet.gnome.org/) | [Vivaldi Is Available on Flathub](https://enblog.eischmann.cz/2023/12/08/vivaldi-is-available-on-flathub/)
+
 ## 20231208
 - [Planet GNOME](https://planet.gnome.org/) | [GNOME will have two Outreachy interns working on implementing end-to-end tests for GNOME OS using openQA](https://feborg.es/announcement-gnome-will-have-two-outreachy-interns-working-on-implementing-end-to-end-tests-for-gnome-os-using-openqa/)
 - [Planet GNOME](https://planet.gnome.org/) | [the last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)

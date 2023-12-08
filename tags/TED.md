@@ -1,3 +1,8 @@
+## 20231209
+- [TED Talks Daily](https://www.ted.com/talks) | [How stress drains your brain — and what to do about it | Nicole Byers](https://www.ted.com/talks/nicole_byers_how_stress_drains_your_brain_and_what_to_do_about_it?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Why science needs to get behind natural medicine | Jeff Chen](https://www.ted.com/talks/jeff_chen_why_science_needs_to_get_behind_natural_medicine?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [The unifying power of grace | Sean Goode](https://www.ted.com/talks/sean_goode_the_unifying_power_of_grace?rss)
+
 ## 20231208
 - [TED Talks Daily](https://www.ted.com/talks) | [AI's single point of failure | Rob Toews](https://www.ted.com/talks/rob_toews_ai_s_single_point_of_failure?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Can AI catch what doctors miss? | Eric Topol](https://www.ted.com/talks/eric_topol_can_ai_catch_what_doctors_miss?rss)

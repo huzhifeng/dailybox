@@ -1,3 +1,6 @@
+## 20231209
+- [Hacker News](https://news.ycombinator.com/front) | [Mistral "Mixtral" 8x7B 32k model [magnet]](https://news.ycombinator.com/item?id=38570537)
+
 ## 20231208
 - [Hacker News](https://news.ycombinator.com/front) | [Gemini "duck" demo was not done in realtime or with voice](https://news.ycombinator.com/item?id=38559582)
 - [Hacker News](https://news.ycombinator.com/front) | [SVG Tutorial](https://news.ycombinator.com/item?id=38556116)
