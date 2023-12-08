@@ -1,3 +1,11 @@
+## 20231209
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1209 开机启动显示的徽标中可隐藏恶意代码](https://linux.cn/article-16452-1.html?utm_source=rss&utm_medium=rss)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Linux on IBM Z &amp; LinuxONE Forum at Open Mainframe Project](https://kvmonz.blogspot.com/2023/12/new-linux-on-ibm-z-linuxone-forum-at.html)
+- [Planet GNOME](https://planet.gnome.org/) | [v8's mark-sweep nursery](https://wingolog.org/archives/2023/12/08/v8s-mark-sweep-nursery)
+- [Planet GNOME](https://planet.gnome.org/) | [Vivaldi Is Available on Flathub](https://enblog.eischmann.cz/2023/12/08/vivaldi-is-available-on-flathub/)
+- [Planet KDE](https://planet.kde.org/) | [Future text improvements in Qt 6.7](https://www.qt.io/blog/text-improvements-in-qt-6.7?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/?utm_source=atom_feed)
+
 ## 20231208
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1208 LVFS 已为 Linux 用户提供超过 1 亿次固件更新](https://linux.cn/article-16450-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0](https://9to5linux.com/linux-mint-21-3-beta-is-now-available-for-download-with-cinnamon-6-0)

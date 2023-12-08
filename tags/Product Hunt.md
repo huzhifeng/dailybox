@@ -1,3 +1,8 @@
+## 20231209
+- [Product Hunt](https://www.producthunt.com) | [CopilotKit](https://www.producthunt.com/posts/copilotkit)
+- [Product Hunt](https://www.producthunt.com) | [Amazy.uk](https://www.producthunt.com/posts/amazy-uk)
+- [Product Hunt](https://www.producthunt.com) | [Propertizer](https://www.producthunt.com/posts/propertizer)
+
 ## 20231208
 - [Product Hunt](https://www.producthunt.com) | [Gemini](https://www.producthunt.com/posts/gemini-8)
 - [Product Hunt](https://www.producthunt.com) | [Openlayer](https://www.producthunt.com/posts/openlayer-2)

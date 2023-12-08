@@ -1,3 +1,8 @@
+## 20231209
+- [V2EX](https://www.v2ex.com/) | [[NGA 故事分享]砸车的邻居如何从民事调解上升到刑事立案](https://www.v2ex.com/t/998693)
+- [V2EX](https://www.v2ex.com/) | [有没有什么灵异/科学解释不了的真事分享下？](https://www.v2ex.com/t/998674)
+- [V2EX](https://www.v2ex.com/) | [讨论下 PHP 转 go 的水平](https://www.v2ex.com/t/998612)
+
 ## 20231208
 - [V2EX](https://www.v2ex.com/) | [闺女出生 9 天了，越看越可爱。怎么避免她以后找的对象是像我一样的小垃圾兼闷骚？](https://www.v2ex.com/t/998429)
 - [V2EX](https://www.v2ex.com/) | [你倾向于哪个 Linux 桌面发行版？](https://www.v2ex.com/t/998407)

@@ -1,3 +1,6 @@
+## 20231209
+- [diff.blog](https://diff.blog/) | [Postgres Language Server: implementing the Parser](https://diff.blog/post/postgres-language-server-implementing-the-parser-163451/)
+
 ## 20231208
 - [diff.blog](https://diff.blog/) | [Building end-to-end security for Messenger](https://diff.blog/post/building-end-to-end-security-for-messenger-163343/)
 
