@@ -1,3 +1,8 @@
+## 20231210
+- [Planet KDE](https://planet.kde.org/) | [Plasma Browser Integration 1.9](https://blog.broulik.de/2023/12/plasma-browser-integration-1-9/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE:  DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/)
+
 ## 20231209
 - [Planet KDE](https://planet.kde.org/) | [Future text improvements in Qt 6.7](https://www.qt.io/blog/text-improvements-in-qt-6.7?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/?utm_source=atom_feed)

@@ -1,3 +1,8 @@
+## 20231210
+- [Kagi Small Web](https://kagi.com/smallweb) | [Introducing mpmetrics](https://blog.trends.tf/introducing-mpmetrics.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Alexandra Petri: If You Need Medical Advice in Texas, Call State Atty-General Ken Paxton](https://dianeravitch.net/2023/12/09/alexandra-petri-if-you-need-medical-advice-in-texas-call-state-atty-general-ken-paxton/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
+
 ## 20231205
 - [Kagi Small Web](https://kagi.com/smallweb) | [Lawrence Jones proved it: in business, awards are for losers.](https://webdevlaw.uk/2023/12/04/lawrence-jones-proved-it-in-business-awards-are-for-losers/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Harvard Gutted Initial Team Examining Facebook Files Following $500 Million Donation from Chan Zuckerberg...](https://werd.io/2023/harvard-gutted-initial-team-examining-facebook-files-following-500-million)

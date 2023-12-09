@@ -1,3 +1,6 @@
+## 20231210
+- [Hacker News](https://news.ycombinator.com/front) | [W4 Games raises $15M to drive video game development with Godot Engine](https://news.ycombinator.com/item?id=38580742)
+
 ## 20231209
 - [Hacker News](https://news.ycombinator.com/front) | [Mistral "Mixtral" 8x7B 32k model [magnet]](https://news.ycombinator.com/item?id=38570537)
 

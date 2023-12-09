@@ -1,3 +1,7 @@
+## 20231210
+- [Product Hunt](https://www.producthunt.com) | [MakerPeak](https://www.producthunt.com/posts/makerpeak)
+- [Product Hunt](https://www.producthunt.com) | [Video Translation by Akool](https://www.producthunt.com/posts/video-translation-by-akool)
+
 ## 20231209
 - [Product Hunt](https://www.producthunt.com) | [CopilotKit](https://www.producthunt.com/posts/copilotkit)
 - [Product Hunt](https://www.producthunt.com) | [Amazy.uk](https://www.producthunt.com/posts/amazy-uk)

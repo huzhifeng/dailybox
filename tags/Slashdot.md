@@ -1,3 +1,8 @@
+## 20231210
+- [Slashdot](https://linux.slashdot.org/) | [How AlmaLinux's Community Supported RHEL Binary Compatibility](https://linux.slashdot.org/story/23/12/09/2121242/how-almalinuxs-community-supported-rhel-binary-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linus Torvalds Discusses Maintainers, AI, and Rust in the Kernel](https://linux.slashdot.org/story/23/12/09/0644247/linus-torvalds-discusses-maintainers-ai-and-rust-in-the-kernel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Go Programmers Surveyed: Most Use Linux or MacOS](https://developers.slashdot.org/story/23/12/09/0445214/go-programmers-surveyed-most-use-linux-or-macos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231207
 - [Slashdot](https://developers.slashdot.org/) | [Millions of Coders Are Now Using AI Assistants. How Will That Change Software?](https://developers.slashdot.org/story/23/12/06/163201/millions-of-coders-are-now-using-ai-assistants-how-will-that-change-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
