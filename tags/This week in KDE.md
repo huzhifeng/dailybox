@@ -1,3 +1,6 @@
+## 20231210
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE:  DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/)
+
 ## 20231203
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE: changing the wallpaper from within System Settings](https://pointieststick.com/2023/12/01/this-week-in-kde-changing-the-wallpaper-from-within-system-settings/)
 

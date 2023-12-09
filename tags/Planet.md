@@ -1,3 +1,7 @@
+## 20231210
+- [Planet KDE](https://planet.kde.org/) | [Plasma Browser Integration 1.9](https://blog.broulik.de/2023/12/plasma-browser-integration-1-9/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/?utm_source=atom_feed)
+
 ## 20231209
 - [Planet virt-tools](https://planet.virt-tools.org/) | [New Linux on IBM Z &amp; LinuxONE Forum at Open Mainframe Project](https://kvmonz.blogspot.com/2023/12/new-linux-on-ibm-z-linuxone-forum-at.html)
 - [Planet GNOME](https://planet.gnome.org/) | [v8's mark-sweep nursery](https://wingolog.org/archives/2023/12/08/v8s-mark-sweep-nursery)

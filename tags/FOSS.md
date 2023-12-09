@@ -1,3 +1,6 @@
+## 20231210
+- [It's FOSS](https://itsfoss.com/) | [Jami: A Versatile Open-Source Distributed Communication App](https://itsfoss.com/jami/)
+
 ## 20231208
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.49: Sudo Tweaks, Ubuntu Starters, Zorin 17, Cinnamon 6 and More](https://itsfoss.com/newsletter/foss-weekly-23-49/)
 

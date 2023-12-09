@@ -1,3 +1,8 @@
+## 20231210
+- [V2EX](https://www.v2ex.com/) | [近期安卓新机出了一堆，纠结了很久](https://www.v2ex.com/t/998995)
+- [V2EX](https://www.v2ex.com/) | [为啥独立开发者的产品同行都不愿意付费呢？看不上吗？](https://www.v2ex.com/t/998941)
+- [V2EX](https://www.v2ex.com/) | [现在都在劝退计算机，想问下普通背景的人还有哪些行业或者岗位可以转？](https://www.v2ex.com/t/998923)
+
 ## 20231209
 - [V2EX](https://www.v2ex.com/) | [[NGA 故事分享]砸车的邻居如何从民事调解上升到刑事立案](https://www.v2ex.com/t/998693)
 - [V2EX](https://www.v2ex.com/) | [有没有什么灵异/科学解释不了的真事分享下？](https://www.v2ex.com/t/998674)
