@@ -1,3 +1,7 @@
+## 20231211
+- [Slashdot](https://developers.slashdot.org/) | [40 years of Turbo Pascal: Memories of the Coding Dinosaur that Revolutionized IDEs](https://developers.slashdot.org/story/23/12/10/0513201/40-years-of-turbo-pascal-memories-of-the-coding-dinosaur-that-revolutionized-ides?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Can IBM's Watson Translate the World's 60-Year-Old Cobol Code?](https://developers.slashdot.org/story/23/12/10/0627206/can-ibms-watson-translate-the-worlds-60-year-old-cobol-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231210
 - [Slashdot](https://linux.slashdot.org/) | [How AlmaLinux's Community Supported RHEL Binary Compatibility](https://linux.slashdot.org/story/23/12/09/2121242/how-almalinuxs-community-supported-rhel-binary-compatibility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [Linus Torvalds Discusses Maintainers, AI, and Rust in the Kernel](https://linux.slashdot.org/story/23/12/09/0644247/linus-torvalds-discusses-maintainers-ai-and-rust-in-the-kernel?utm_source=rss1.0mainlinkanon&utm_medium=feed)

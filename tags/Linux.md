@@ -1,3 +1,9 @@
+## 20231211
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程](https://linux.cn/article-16458-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Lubuntu 24.04 LTS to Ship with Optional Wayland Session, Improved Installer](https://9to5linux.com/lubuntu-24-04-lts-to-ship-with-optional-wayland-session-improved-installer)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [A Systems Programmer's Perspectives on Generative AI](https://www.bennee.com/~alex/blog/2023/12/10/a-systems-programmers-perspectives-on-generative-ai/)
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDE Snaps 23.08.4, PIM! KDE neon, Debian](https://www.scarlettgatelymoore.dev/kde-kde-snaps-23-08-4-pim-kde-neon-debian/?utm_source=atom_feed)
+
 ## 20231210
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1210 人工智能聊天机器人被用来越狱其它人工智能](https://linux.cn/article-16455-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [Plasma Browser Integration 1.9](https://blog.broulik.de/2023/12/plasma-browser-integration-1-9/?utm_source=atom_feed)

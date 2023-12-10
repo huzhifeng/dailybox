@@ -1,3 +1,8 @@
+## 20231211
+- [V2EX](https://www.v2ex.com/) | [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145)
+- [V2EX](https://www.v2ex.com/) | [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137)
+- [V2EX](https://www.v2ex.com/) | [2023 年快结束了，对于今年，你有什么想说的？](https://www.v2ex.com/t/999125)
+
 ## 20231210
 - [V2EX](https://www.v2ex.com/) | [近期安卓新机出了一堆，纠结了很久](https://www.v2ex.com/t/998995)
 - [V2EX](https://www.v2ex.com/) | [为啥独立开发者的产品同行都不愿意付费呢？看不上吗？](https://www.v2ex.com/t/998941)
