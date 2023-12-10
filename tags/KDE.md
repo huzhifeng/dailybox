@@ -1,3 +1,6 @@
+## 20231211
+- [Planet KDE](https://planet.kde.org/) | [KDE: KDE Snaps 23.08.4, PIM! KDE neon, Debian](https://www.scarlettgatelymoore.dev/kde-kde-snaps-23-08-4-pim-kde-neon-debian/?utm_source=atom_feed)
+
 ## 20231210
 - [Planet KDE](https://planet.kde.org/) | [Plasma Browser Integration 1.9](https://blog.broulik.de/2023/12/plasma-browser-integration-1-9/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/?utm_source=atom_feed)

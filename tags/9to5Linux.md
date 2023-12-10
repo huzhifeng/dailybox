@@ -1,3 +1,6 @@
+## 20231211
+- [9to5Linux](https://9to5linux.com/) | [Lubuntu 24.04 LTS to Ship with Optional Wayland Session, Improved Installer](https://9to5linux.com/lubuntu-24-04-lts-to-ship-with-optional-wayland-session-improved-installer)
+
 ## 20231208
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0](https://9to5linux.com/linux-mint-21-3-beta-is-now-available-for-download-with-cinnamon-6-0)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.4 Office Suite Is Now Available for Download](https://9to5linux.com/libreoffice-7-6-4-office-suite-is-now-availalbe-for-download)

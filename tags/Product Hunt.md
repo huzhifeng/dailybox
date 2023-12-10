@@ -1,3 +1,8 @@
+## 20231211
+- [Product Hunt](https://www.producthunt.com) | [Stray](https://www.producthunt.com/posts/stray-2)
+- [Product Hunt](https://www.producthunt.com) | [ayraa](https://www.producthunt.com/posts/ayraa)
+- [Product Hunt](https://www.producthunt.com) | [AI Assistant](https://www.producthunt.com/posts/ai-assistant-4)
+
 ## 20231210
 - [Product Hunt](https://www.producthunt.com) | [MakerPeak](https://www.producthunt.com/posts/makerpeak)
 - [Product Hunt](https://www.producthunt.com) | [Video Translation by Akool](https://www.producthunt.com/posts/video-translation-by-akool)
