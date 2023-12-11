@@ -1,3 +1,10 @@
+## 20231212
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS](https://linux.cn/article-16461-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-10th-2023)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Red Hat Ansible Automation Platform available on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/12/red-hat-ansible-automation-platform.html)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.4 released](https://kdenlive.org/en/2023/12/kdenlive-23-08-4-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 - Over a million reasons why Snaps are important.](https://tube.kockatoo.org/w/87ihEWfMY48d4PhfCsqT5J?utm_source=atom_feed)
+
 ## 20231211
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程](https://linux.cn/article-16458-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Lubuntu 24.04 LTS to Ship with Optional Wayland Session, Improved Installer](https://9to5linux.com/lubuntu-24-04-lts-to-ship-with-optional-wayland-session-improved-installer)

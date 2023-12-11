@@ -1,3 +1,6 @@
+## 20231212
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-10th-2023)
+
 ## 20231211
 - [9to5Linux](https://9to5linux.com/) | [Lubuntu 24.04 LTS to Ship with Optional Wayland Session, Improved Installer](https://9to5linux.com/lubuntu-24-04-lts-to-ship-with-optional-wayland-session-improved-installer)
 
