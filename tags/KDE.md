@@ -1,3 +1,7 @@
+## 20231212
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.4 released](https://kdenlive.org/en/2023/12/kdenlive-23-08-4-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 - Over a million reasons why Snaps are important.](https://tube.kockatoo.org/w/87ihEWfMY48d4PhfCsqT5J?utm_source=atom_feed)
+
 ## 20231211
 - [Planet KDE](https://planet.kde.org/) | [KDE: KDE Snaps 23.08.4, PIM! KDE neon, Debian](https://www.scarlettgatelymoore.dev/kde-kde-snaps-23-08-4-pim-kde-neon-debian/?utm_source=atom_feed)
 

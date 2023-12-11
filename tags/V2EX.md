@@ -1,3 +1,8 @@
+## 20231212
+- [V2EX](https://www.v2ex.com/) | [ChatGPT Plus 拼车宝发布两周, 会员接着送](https://www.v2ex.com/t/999407)
+- [V2EX](https://www.v2ex.com/) | [你们的眼镜多少钱配的？分享下最近我配眼镜的经历，给大家避坑](https://www.v2ex.com/t/999391)
+- [V2EX](https://www.v2ex.com/) | [如何看待，没有大把钱被亲戚各种看不起](https://www.v2ex.com/t/999373)
+
 ## 20231211
 - [V2EX](https://www.v2ex.com/) | [iPhone 的微信延迟无解了](https://www.v2ex.com/t/999145)
 - [V2EX](https://www.v2ex.com/) | [直接开喷了， Apple Watch Ultra 2 真辣鸡](https://www.v2ex.com/t/999137)

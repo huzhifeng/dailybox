@@ -1,3 +1,7 @@
+## 20231212
+- [TED Talks Daily](https://www.ted.com/talks) | [Life lessons from Beethoven's Symphony No. 9 | Benjamin Zander](https://www.ted.com/talks/benjamin_zander_life_lessons_from_beethoven_s_symphony_no_9?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [TED Explores: A New Climate Vision | TED Countdown](https://www.ted.com/talks/ted_countdown_ted_explores_a_new_climate_vision?rss)
+
 ## 20231209
 - [TED Talks Daily](https://www.ted.com/talks) | [How stress drains your brain — and what to do about it | Nicole Byers](https://www.ted.com/talks/nicole_byers_how_stress_drains_your_brain_and_what_to_do_about_it?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Why science needs to get behind natural medicine | Jeff Chen](https://www.ted.com/talks/jeff_chen_why_science_needs_to_get_behind_natural_medicine?rss)

@@ -1,3 +1,8 @@
+## 20231212
+- [Product Hunt](https://www.producthunt.com) | [Supasnap](https://www.producthunt.com/posts/supasnap)
+- [Product Hunt](https://www.producthunt.com) | [Walnut Deal Intel](https://www.producthunt.com/posts/walnut-deal-intel)
+- [Product Hunt](https://www.producthunt.com) | [LeapAhead](https://www.producthunt.com/posts/leapahead)
+
 ## 20231211
 - [Product Hunt](https://www.producthunt.com) | [Stray](https://www.producthunt.com/posts/stray-2)
 - [Product Hunt](https://www.producthunt.com) | [ayraa](https://www.producthunt.com/posts/ayraa)

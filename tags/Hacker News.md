@@ -1,3 +1,8 @@
+## 20231212
+- [Hacker News](https://news.ycombinator.com/front) | [Beeper Mini is back](https://news.ycombinator.com/item?id=38602575)
+- [Hacker News](https://news.ycombinator.com/front) | [Mistral: Our first AI endpoints are available in early access](https://news.ycombinator.com/item?id=38598568)
+- [Hacker News](https://news.ycombinator.com/front) | [Mistral: Mixtral of Experts](https://news.ycombinator.com/item?id=38598559)
+
 ## 20231210
 - [Hacker News](https://news.ycombinator.com/front) | [W4 Games raises $15M to drive video game development with Godot Engine](https://news.ycombinator.com/item?id=38580742)
 

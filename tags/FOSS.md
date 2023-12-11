@@ -1,3 +1,6 @@
+## 20231212
+- [It's FOSS](https://itsfoss.com/) | [Creating and Working with Links in Obsidian](https://itsfoss.com/obsidian-create-links/)
+
 ## 20231210
 - [It's FOSS](https://itsfoss.com/) | [Jami: A Versatile Open-Source Distributed Communication App](https://itsfoss.com/jami/)
 
