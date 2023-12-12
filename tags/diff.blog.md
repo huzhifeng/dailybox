@@ -1,3 +1,8 @@
+## 20231213
+- [diff.blog](https://diff.blog/) | [Forget spaceships; I just want my music](https://diff.blog/post/forget-spaceships-i-just-want-my-music-163727/)
+- [diff.blog](https://diff.blog/) | [poll_progress](https://diff.blog/post/poll_progress-163729/)
+- [diff.blog](https://diff.blog/) | [Edge Functions: Node and native npm compatibility](https://diff.blog/post/edge-functions-node-and-native-npm-compatibility-163733/)
+
 ## 20231209
 - [diff.blog](https://diff.blog/) | [Postgres Language Server: implementing the Parser](https://diff.blog/post/postgres-language-server-implementing-the-parser-163451/)
 

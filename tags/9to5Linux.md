@@ -1,3 +1,6 @@
+## 20231213
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.3 Released as the Next Generation Graphical Installer for Linux](https://9to5linux.com/calamares-3-3-released-as-the-next-generation-graphical-installer-for-linux)
+
 ## 20231212
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-10th-2023)
 

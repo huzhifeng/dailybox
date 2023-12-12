@@ -1,3 +1,8 @@
+## 20231213
+- [V2EX](https://www.v2ex.com/) | [🎉[福利] iOS & macOS 福利放送， 150 位， 5 选 1](https://www.v2ex.com/t/999774)
+- [V2EX](https://www.v2ex.com/) | [有过来的兄弟没, 这样的智齿该拔吗?](https://www.v2ex.com/t/999658)
+- [V2EX](https://www.v2ex.com/) | [你们电视会买电视会员吗？](https://www.v2ex.com/t/999643)
+
 ## 20231212
 - [V2EX](https://www.v2ex.com/) | [ChatGPT Plus 拼车宝发布两周, 会员接着送](https://www.v2ex.com/t/999407)
 - [V2EX](https://www.v2ex.com/) | [你们的眼镜多少钱配的？分享下最近我配眼镜的经历，给大家避坑](https://www.v2ex.com/t/999391)

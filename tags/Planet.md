@@ -1,3 +1,8 @@
+## 20231213
+- [Planet GNOME](https://planet.gnome.org/) | [sir talks-a-lot](https://wingolog.org/archives/2023/12/12/sir-talks-a-lot)
+- [Planet GNOME](https://planet.gnome.org/) | [Increase Reader Engagement with ActivityPub Plugin](https://enblog.eischmann.cz/2023/12/12/increase-reader-engagement-with-activitypub-plugin/)
+- [Planet GNOME](https://planet.gnome.org/) | [It’s time to propose project ideas for Google Summer of Code 2024!](https://feborg.es/start-planning-for-gsoc24/)
+
 ## 20231212
 - [Planet virt-tools](https://planet.virt-tools.org/) | [Red Hat Ansible Automation Platform available on IBM Z and LinuxONE](https://kvmonz.blogspot.com/2023/12/red-hat-ansible-automation-platform.html)
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.4 released](https://kdenlive.org/en/2023/12/kdenlive-23-08-4-released/?utm_source=atom_feed)
