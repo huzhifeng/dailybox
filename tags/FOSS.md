@@ -1,3 +1,6 @@
+## 20231213
+- [It's FOSS](https://itsfoss.com/) | [Bored With Bash? Change the Default Shell in Linux](https://itsfoss.com/linux-change-default-shell/)
+
 ## 20231212
 - [It's FOSS](https://itsfoss.com/) | [Creating and Working with Links in Obsidian](https://itsfoss.com/obsidian-create-links/)
 

@@ -1,3 +1,8 @@
+## 20231213
+- [Product Hunt](https://www.producthunt.com) | [Brief](https://www.producthunt.com/posts/brief-6)
+- [Product Hunt](https://www.producthunt.com) | [80days.me v3](https://www.producthunt.com/posts/80days-me-v3)
+- [Product Hunt](https://www.producthunt.com) | [Pagemaker](https://www.producthunt.com/posts/pagemaker)
+
 ## 20231212
 - [Product Hunt](https://www.producthunt.com) | [Supasnap](https://www.producthunt.com/posts/supasnap)
 - [Product Hunt](https://www.producthunt.com) | [Walnut Deal Intel](https://www.producthunt.com/posts/walnut-deal-intel)

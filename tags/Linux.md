@@ -1,3 +1,10 @@
+## 20231213
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1213 Linux 内核直呼 666~](https://linux.cn/article-16464-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.3 Released as the Next Generation Graphical Installer for Linux](https://9to5linux.com/calamares-3-3-released-as-the-next-generation-graphical-installer-for-linux)
+- [Planet GNOME](https://planet.gnome.org/) | [sir talks-a-lot](https://wingolog.org/archives/2023/12/12/sir-talks-a-lot)
+- [Planet GNOME](https://planet.gnome.org/) | [Increase Reader Engagement with ActivityPub Plugin](https://enblog.eischmann.cz/2023/12/12/increase-reader-engagement-with-activitypub-plugin/)
+- [Planet GNOME](https://planet.gnome.org/) | [It’s time to propose project ideas for Google Summer of Code 2024!](https://feborg.es/start-planning-for-gsoc24/)
+
 ## 20231212
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS](https://linux.cn/article-16461-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 10th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-10th-2023)

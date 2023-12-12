@@ -1,3 +1,8 @@
+## 20231213
+- [Planet GNOME](https://planet.gnome.org/) | [sir talks-a-lot](https://wingolog.org/archives/2023/12/12/sir-talks-a-lot)
+- [Planet GNOME](https://planet.gnome.org/) | [Increase Reader Engagement with ActivityPub Plugin](https://enblog.eischmann.cz/2023/12/12/increase-reader-engagement-with-activitypub-plugin/)
+- [Planet GNOME](https://planet.gnome.org/) | [It’s time to propose project ideas for Google Summer of Code 2024!](https://feborg.es/start-planning-for-gsoc24/)
+
 ## 20231209
 - [Planet GNOME](https://planet.gnome.org/) | [v8's mark-sweep nursery](https://wingolog.org/archives/2023/12/08/v8s-mark-sweep-nursery)
 - [Planet GNOME](https://planet.gnome.org/) | [Vivaldi Is Available on Flathub](https://enblog.eischmann.cz/2023/12/08/vivaldi-is-available-on-flathub/)

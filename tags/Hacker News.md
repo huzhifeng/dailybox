@@ -1,3 +1,8 @@
+## 20231213
+- [Hacker News](https://news.ycombinator.com/front) | [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://news.ycombinator.com/item?id=38613552)
+- [Hacker News](https://news.ycombinator.com/front) | [23andMe frantically changed its terms of service to prevent customers from suing](https://news.ycombinator.com/item?id=38613386)
+- [Hacker News](https://news.ycombinator.com/front) | [FFmpeg Lands CLI Multi-Threading as Its "Most Complex Refactoring" in Decades](https://news.ycombinator.com/item?id=38613219)
+
 ## 20231212
 - [Hacker News](https://news.ycombinator.com/front) | [Beeper Mini is back](https://news.ycombinator.com/item?id=38602575)
 - [Hacker News](https://news.ycombinator.com/front) | [Mistral: Our first AI endpoints are available in early access](https://news.ycombinator.com/item?id=38598568)
