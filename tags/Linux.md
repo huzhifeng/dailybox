@@ -1,3 +1,7 @@
+## 20231214
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1214 美国讨论数据政策以避免全球互联网碎片化](https://linux.cn/article-16467-1.html?utm_source=rss&utm_medium=rss)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.2.5 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.2.5-lts-released?utm_source=atom_feed)
+
 ## 20231213
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1213 Linux 内核直呼 666~](https://linux.cn/article-16464-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Calamares 3.3 Released as the Next Generation Graphical Installer for Linux](https://9to5linux.com/calamares-3-3-released-as-the-next-generation-graphical-installer-for-linux)

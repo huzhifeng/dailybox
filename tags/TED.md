@@ -1,3 +1,6 @@
+## 20231214
+- [TED Talks Daily](https://www.ted.com/talks) | [Time is running out on climate change. The metaverse could help | Cedrik Neike](https://www.ted.com/talks/cedrik_neike_time_is_running_out_on_climate_change_the_metaverse_could_help?rss)
+
 ## 20231212
 - [TED Talks Daily](https://www.ted.com/talks) | [Life lessons from Beethoven's Symphony No. 9 | Benjamin Zander](https://www.ted.com/talks/benjamin_zander_life_lessons_from_beethoven_s_symphony_no_9?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [TED Explores: A New Climate Vision | TED Countdown](https://www.ted.com/talks/ted_countdown_ted_explores_a_new_climate_vision?rss)

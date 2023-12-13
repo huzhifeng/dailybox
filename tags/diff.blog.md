@@ -1,3 +1,8 @@
+## 20231214
+- [diff.blog](https://diff.blog/) | [Partnership with Axel Springer to deepen beneficial use of AI in journalism](https://diff.blog/post/partnership-with-axel-springer-to-deepen-beneficial-use-of-ai-in-journalism-163816/)
+- [diff.blog](https://diff.blog/) | [Supavisor 1.0: a scalable connection pooler for Postgres](https://diff.blog/post/supavisor-10-a-scalable-connection-pooler-for-postgres-163813/)
+- [diff.blog](https://diff.blog/) | [PostgREST 12](https://diff.blog/post/postgrest-12-163788/)
+
 ## 20231213
 - [diff.blog](https://diff.blog/) | [Forget spaceships; I just want my music](https://diff.blog/post/forget-spaceships-i-just-want-my-music-163727/)
 - [diff.blog](https://diff.blog/) | [poll_progress](https://diff.blog/post/poll_progress-163729/)

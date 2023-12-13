@@ -1,3 +1,6 @@
+## 20231214
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.2.5 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.2.5-lts-released?utm_source=atom_feed)
+
 ## 20231213
 - [Planet GNOME](https://planet.gnome.org/) | [sir talks-a-lot](https://wingolog.org/archives/2023/12/12/sir-talks-a-lot)
 - [Planet GNOME](https://planet.gnome.org/) | [Increase Reader Engagement with ActivityPub Plugin](https://enblog.eischmann.cz/2023/12/12/increase-reader-engagement-with-activitypub-plugin/)

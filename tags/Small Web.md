@@ -1,3 +1,8 @@
+## 20231214
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Largest Money-Printing UI Element Ever Made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [You choose!](https://blog.bestamericanpoetry.com/the_best_american_poetry/2023/12/you-choose.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [What San Francisco Looks like from a Visitor’s Perspective](https://brokeassstuart.com/2023/12/13/what-san-francisco-looks-like-from-a-visitors-perspective/)
+
 ## 20231210
 - [Kagi Small Web](https://kagi.com/smallweb) | [Introducing mpmetrics](https://blog.trends.tf/introducing-mpmetrics.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Alexandra Petri: If You Need Medical Advice in Texas, Call State Atty-General Ken Paxton](https://dianeravitch.net/2023/12/09/alexandra-petri-if-you-need-medical-advice-in-texas-call-state-atty-general-ken-paxton/)
