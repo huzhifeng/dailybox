@@ -1,3 +1,7 @@
+## 20231214
+- [Product Hunt](https://www.producthunt.com) | [Ask Viable](https://www.producthunt.com/posts/ask-viable)
+- [Product Hunt](https://www.producthunt.com) | [Frond 3.0](https://www.producthunt.com/posts/frond-3-0)
+
 ## 20231213
 - [Product Hunt](https://www.producthunt.com) | [Brief](https://www.producthunt.com/posts/brief-6)
 - [Product Hunt](https://www.producthunt.com) | [80days.me v3](https://www.producthunt.com/posts/80days-me-v3)

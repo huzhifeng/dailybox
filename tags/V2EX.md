@@ -1,3 +1,8 @@
+## 20231214
+- [V2EX](https://www.v2ex.com/) | [程序员如何从公司上班转型](https://www.v2ex.com/t/1000000)
+- [V2EX](https://www.v2ex.com/) | [周海媚去世了，现在的年轻人可能都不认识。](https://www.v2ex.com/t/999973)
+- [V2EX](https://www.v2ex.com/) | [王者荣耀](https://www.v2ex.com/t/999947)
+
 ## 20231213
 - [V2EX](https://www.v2ex.com/) | [🎉[福利] iOS & macOS 福利放送， 150 位， 5 选 1](https://www.v2ex.com/t/999774)
 - [V2EX](https://www.v2ex.com/) | [有过来的兄弟没, 这样的智齿该拔吗?](https://www.v2ex.com/t/999658)
