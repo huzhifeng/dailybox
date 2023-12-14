@@ -1,3 +1,9 @@
+## 20231215
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1215 1/4 的 Java 应用程序仍受 Log4Shell 影响](https://linux.cn/article-16470-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [blogs.gnome.org blogs can now be followed in the fediverse!](https://feborg.es/blogs-gnome-org-fediverse/)
+- [Planet GNOME](https://planet.gnome.org/) | [service update](https://wingolog.org/archives/2023/12/14/service-update)
+- [Planet GNOME](https://planet.gnome.org/) | [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
+
 ## 20231214
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1214 美国讨论数据政策以避免全球互联网碎片化](https://linux.cn/article-16467-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.2.5 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.2.5-lts-released?utm_source=atom_feed)

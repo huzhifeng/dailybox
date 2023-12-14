@@ -1,3 +1,8 @@
+## 20231215
+- [diff.blog](https://diff.blog/) | [New extensions you’ll love now available on Firefox for Android](https://diff.blog/post/new-extensions-youll-love-now-available-on-firefox-for-android-163926/)
+- [diff.blog](https://diff.blog/) | [Weak-to-strong generalization](https://diff.blog/post/weak-to-strong-generalization-163923/)
+- [diff.blog](https://diff.blog/) | [FunSearch: Making new discoveries in mathematical sciences using Large Language Models](https://diff.blog/post/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models-163909/)
+
 ## 20231214
 - [diff.blog](https://diff.blog/) | [Partnership with Axel Springer to deepen beneficial use of AI in journalism](https://diff.blog/post/partnership-with-axel-springer-to-deepen-beneficial-use-of-ai-in-journalism-163816/)
 - [diff.blog](https://diff.blog/) | [Supavisor 1.0: a scalable connection pooler for Postgres](https://diff.blog/post/supavisor-10-a-scalable-connection-pooler-for-postgres-163813/)

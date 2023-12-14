@@ -1,3 +1,7 @@
+## 20231215
+- [TED Talks Daily](https://www.ted.com/talks) | [What happens as we die? | Kathryn Mannix](https://www.ted.com/talks/kathryn_mannix_what_happens_as_we_die_dec_2023?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Why helping people makes you happy | Asha Curran](https://www.ted.com/talks/asha_curran_why_helping_people_makes_you_happy?rss)
+
 ## 20231214
 - [TED Talks Daily](https://www.ted.com/talks) | [Time is running out on climate change. The metaverse could help | Cedrik Neike](https://www.ted.com/talks/cedrik_neike_time_is_running_out_on_climate_change_the_metaverse_could_help?rss)
 

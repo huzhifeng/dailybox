@@ -1,3 +1,6 @@
+## 20231215
+- [GitHub Advanced Search](https://github.com/search/advanced) | [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
 ## 20231208
 - [GitHub Advanced Search](https://github.com/search/advanced) | [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)
 
