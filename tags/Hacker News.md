@@ -1,3 +1,6 @@
+## 20231215
+- [Hacker News](https://news.ycombinator.com/front) | [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://news.ycombinator.com/item?id=38640406)
+
 ## 20231213
 - [Hacker News](https://news.ycombinator.com/front) | [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://news.ycombinator.com/item?id=38613552)
 - [Hacker News](https://news.ycombinator.com/front) | [23andMe frantically changed its terms of service to prevent customers from suing](https://news.ycombinator.com/item?id=38613386)

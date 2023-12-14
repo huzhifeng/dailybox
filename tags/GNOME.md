@@ -1,3 +1,8 @@
+## 20231215
+- [Planet GNOME](https://planet.gnome.org/) | [blogs.gnome.org blogs can now be followed in the fediverse!](https://feborg.es/blogs-gnome-org-fediverse/)
+- [Planet GNOME](https://planet.gnome.org/) | [service update](https://wingolog.org/archives/2023/12/14/service-update)
+- [Planet GNOME](https://planet.gnome.org/) | [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
+
 ## 20231213
 - [Planet GNOME](https://planet.gnome.org/) | [sir talks-a-lot](https://wingolog.org/archives/2023/12/12/sir-talks-a-lot)
 - [Planet GNOME](https://planet.gnome.org/) | [Increase Reader Engagement with ActivityPub Plugin](https://enblog.eischmann.cz/2023/12/12/increase-reader-engagement-with-activitypub-plugin/)

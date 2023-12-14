@@ -1,3 +1,6 @@
+## 20231215
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.50: BSOD on Linux, Mint 21.3 Beta, Xonsh Shell and More](https://itsfoss.com/newsletter/foss-weekly-23-50/)
+
 ## 20231213
 - [It's FOSS](https://itsfoss.com/) | [Bored With Bash? Change the Default Shell in Linux](https://itsfoss.com/linux-change-default-shell/)
 

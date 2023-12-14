@@ -1,3 +1,6 @@
+## 20231215
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [研发团队](https://manateelazycat.github.io/2023/12/14/developer-team/)
+
 ## 20231206
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [怎么打造流畅的 Emacs？](https://manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/)
 
