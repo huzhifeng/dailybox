@@ -1,3 +1,6 @@
+## 20231216
+- [Hacker News](https://news.ycombinator.com/front) | [Database Fundamentals](https://news.ycombinator.com/item?id=38655066)
+
 ## 20231215
 - [Hacker News](https://news.ycombinator.com/front) | [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://news.ycombinator.com/item?id=38640406)
 

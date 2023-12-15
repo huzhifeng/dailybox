@@ -1,3 +1,9 @@
+## 20231216
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME Online Account and the STF](https://www.andyholmes.ca/posts/goa-and-stf-part-1/)
+- [Planet GNOME](https://planet.gnome.org/) | [Down and down, exploring the implementation of the accessibility subsystem](https://en.trycht.cz/2023/12/15/down-and-down-exploring-the-implementation-of-the-accessibility-subsystem/?pk_campaign=feed&pk_kwd=down-and-down-exploring-the-implementation-of-the-accessibility-subsystem)
+- [Planet GNOME](https://planet.gnome.org/) | [[teaser] Gameeky: A new learning tool to develop STEAM skills](https://blogs.gnome.org/tchx84/2023/12/15/gameeky-a-new-learning-tool-to-develop-steam-skills/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/?utm_source=atom_feed)
+
 ## 20231215
 - [Planet GNOME](https://planet.gnome.org/) | [blogs.gnome.org blogs can now be followed in the fediverse!](https://feborg.es/blogs-gnome-org-fediverse/)
 - [Planet GNOME](https://planet.gnome.org/) | [service update](https://wingolog.org/archives/2023/12/14/service-update)

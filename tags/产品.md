@@ -1,3 +1,8 @@
+## 20231216
+- [Product Hunt](https://www.producthunt.com) | [Merlin Unified API](https://www.producthunt.com/posts/merlin-unified-api)
+- [Product Hunt](https://www.producthunt.com) | [Wewaat](https://www.producthunt.com/posts/wewaat-2)
+- [Product Hunt](https://www.producthunt.com) | [AI Magicx Logo Designer](https://www.producthunt.com/posts/ai-magicx-logo-designer)
+
 ## 20231215
 - [Product Hunt](https://www.producthunt.com) | [Routine iOS](https://www.producthunt.com/posts/routine-ios)
 - [Product Hunt](https://www.producthunt.com) | [SkillReactor](https://www.producthunt.com/posts/skillreactor)

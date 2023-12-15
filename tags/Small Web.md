@@ -1,3 +1,8 @@
+## 20231216
+- [Kagi Small Web](https://kagi.com/smallweb) | [Tick-tock is a both chip architecture and a corporate strategy](https://interconnected.org/home/2023/12/15/tick-tock)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Today's Video Link](https://www.newsfromme.com/2023/12/15/todays-video-link-4046/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [How did we make reading genomes a million times cheaper? — What is biophysics? #18](https://eighteenthelephant.com/2023/12/15/how-did-we-make-reading-genomes-a-million-times-cheaper-what-is-biophysics-18/)
+
 ## 20231214
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Largest Money-Printing UI Element Ever Made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [You choose!](https://blog.bestamericanpoetry.com/the_best_american_poetry/2023/12/you-choose.html)

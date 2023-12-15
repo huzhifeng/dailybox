@@ -1,3 +1,6 @@
+## 20231216
+- [diff.blog](https://diff.blog/) | [Fly Postgres, managed by Supabase](https://diff.blog/post/fly-postgres-managed-by-supabase-163972/)
+
 ## 20231215
 - [diff.blog](https://diff.blog/) | [New extensions you’ll love now available on Firefox for Android](https://diff.blog/post/new-extensions-youll-love-now-available-on-firefox-for-android-163926/)
 - [diff.blog](https://diff.blog/) | [Weak-to-strong generalization](https://diff.blog/post/weak-to-strong-generalization-163923/)

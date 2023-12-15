@@ -1,3 +1,8 @@
+## 20231216
+- [TED Talks Daily](https://www.ted.com/talks) | [Why AI will spark exponential economic growth | Cathie Wood](https://www.ted.com/talks/cathie_wood_why_ai_will_spark_exponential_economic_growth?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | ["Hey Look Ma, I Made It" / "Believer" |  Detroit Youth Choir](https://www.ted.com/talks/detroit_youth_choir_hey_look_ma_i_made_it_believer?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [How to build a global pro-democracy movement | Yordanos Eyoel](https://www.ted.com/talks/yordanos_eyoel_how_to_build_a_global_pro_democracy_movement?rss)
+
 ## 20231215
 - [TED Talks Daily](https://www.ted.com/talks) | [What happens as we die? | Kathryn Mannix](https://www.ted.com/talks/kathryn_mannix_what_happens_as_we_die_dec_2023?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Why helping people makes you happy | Asha Curran](https://www.ted.com/talks/asha_curran_why_helping_people_makes_you_happy?rss)
