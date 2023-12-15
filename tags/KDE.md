@@ -1,3 +1,6 @@
+## 20231216
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/?utm_source=atom_feed)
+
 ## 20231214
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.2.5 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.2.5-lts-released?utm_source=atom_feed)
 

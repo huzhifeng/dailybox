@@ -1,3 +1,6 @@
+## 20231216
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#126 New Apps](https://thisweek.gnome.org/posts/2023/12/twig-126/)
+
 ## 20231202
 - [This Week in GNOME](https://thisweek.gnome.org/) | [#124 Fixes and Improvements](https://thisweek.gnome.org/posts/2023/12/twig-124/)
 

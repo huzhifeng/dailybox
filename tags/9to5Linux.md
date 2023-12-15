@@ -1,3 +1,8 @@
+## 20231216
+- [9to5Linux](https://9to5linux.com/) | [Manjaro 23.1 &#8220;Vulcan&#8221; Is Available for Download with GNOME 45, Linux 6.6 LTS](https://9to5linux.com/manjaro-23-1-vulcan-is-available-for-download-with-gnome-45-linux-6-6-lts)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.7 Optimizes Shell Application Search and Improves Performance](https://9to5linux.com/gnome-44-7-optimizes-shell-application-search-and-improves-performance)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.04 &#8220;Lunar Lobster&#8221; to Reach End of Life on January 25th, 2024](https://9to5linux.com/ubuntu-23-04-lunar-lobster-to-reach-end-of-life-on-january-25th-2024)
+
 ## 20231213
 - [9to5Linux](https://9to5linux.com/) | [Calamares 3.3 Released as the Next Generation Graphical Installer for Linux](https://9to5linux.com/calamares-3-3-released-as-the-next-generation-graphical-installer-for-linux)
 

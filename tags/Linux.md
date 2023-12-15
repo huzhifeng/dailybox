@@ -1,3 +1,14 @@
+## 20231216
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1216 继收回 LXD 控制后，Canonical 将其更改为 AGPLv3 许可](https://linux.cn/article-16473-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Manjaro 23.1 &#8220;Vulcan&#8221; Is Available for Download with GNOME 45, Linux 6.6 LTS](https://9to5linux.com/manjaro-23-1-vulcan-is-available-for-download-with-gnome-45-linux-6-6-lts)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 44.7 Optimizes Shell Application Search and Improves Performance](https://9to5linux.com/gnome-44-7-optimizes-shell-application-search-and-improves-performance)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.04 &#8220;Lunar Lobster&#8221; to Reach End of Life on January 25th, 2024](https://9to5linux.com/ubuntu-23-04-lunar-lobster-to-reach-end-of-life-on-january-25th-2024)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME Online Account and the STF](https://www.andyholmes.ca/posts/goa-and-stf-part-1/)
+- [Planet GNOME](https://planet.gnome.org/) | [Down and down, exploring the implementation of the accessibility subsystem](https://en.trycht.cz/2023/12/15/down-and-down-exploring-the-implementation-of-the-accessibility-subsystem/?pk_campaign=feed&pk_kwd=down-and-down-exploring-the-implementation-of-the-accessibility-subsystem)
+- [Planet GNOME](https://planet.gnome.org/) | [[teaser] Gameeky: A new learning tool to develop STEAM skills](https://blogs.gnome.org/tchx84/2023/12/15/gameeky-a-new-learning-tool-to-develop-steam-skills/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/?utm_source=atom_feed)
+- [This Week in GNOME](https://thisweek.gnome.org/) | [#126 New Apps](https://thisweek.gnome.org/posts/2023/12/twig-126/)
+
 ## 20231215
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1215 1/4 的 Java 应用程序仍受 Log4Shell 影响](https://linux.cn/article-16470-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [blogs.gnome.org blogs can now be followed in the fediverse!](https://feborg.es/blogs-gnome-org-fediverse/)
