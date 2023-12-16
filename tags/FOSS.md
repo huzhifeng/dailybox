@@ -1,3 +1,6 @@
+## 20231217
+- [It's FOSS](https://itsfoss.com/) | [Blast from the Past: DG/UX UNIX Operating System](https://itsfoss.com/dg-ux-os/)
+
 ## 20231215
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.50: BSOD on Linux, Mint 21.3 Beta, Xonsh Shell and More](https://itsfoss.com/newsletter/foss-weekly-23-50/)
 

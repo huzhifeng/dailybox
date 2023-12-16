@@ -1,3 +1,6 @@
+## 20231217
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: un-flashy important stability work](https://pointieststick.com/2023/12/15/this-week-in-kde-un-flashy-important-stability-work/)
+
 ## 20231210
 - [This week in KDE](https://pointieststick.com/) | [This week in KDE:  DMA fence deadlines and lots of bug-fixing](https://pointieststick.com/2023/12/08/this-week-in-kde-dma-fence-deadlines-and-lots-of-bug-fixing/)
 

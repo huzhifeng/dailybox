@@ -1,3 +1,6 @@
+## 20231217
+- [Slashdot](https://developers.slashdot.org/) | [Amazon, Etsy, Launch Categories With 'Gifts For Programmers'](https://entertainment.slashdot.org/story/23/12/16/061230/amazon-etsy-launch-categories-with-gifts-for-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231211
 - [Slashdot](https://developers.slashdot.org/) | [40 years of Turbo Pascal: Memories of the Coding Dinosaur that Revolutionized IDEs](https://developers.slashdot.org/story/23/12/10/0513201/40-years-of-turbo-pascal-memories-of-the-coding-dinosaur-that-revolutionized-ides?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Can IBM's Watson Translate the World's 60-Year-Old Cobol Code?](https://developers.slashdot.org/story/23/12/10/0627206/can-ibms-watson-translate-the-worlds-60-year-old-cobol-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
