@@ -1,3 +1,8 @@
+## 20231217
+- [V2EX](https://www.v2ex.com/) | [免费浏览器扩展的出路只有被收购吗？](https://www.v2ex.com/t/1000976)
+- [V2EX](https://www.v2ex.com/) | [最后的挣扎：在不更换灯和墙壁开关的前提下，有办法改成智能家居吗？](https://www.v2ex.com/t/1000951)
+- [V2EX](https://www.v2ex.com/) | [请喝奶茶以表心意，半年没解决关于 Safari 浏览器的问题，强迫症很难受](https://www.v2ex.com/t/1000932)
+
 ## 20231216
 - [V2EX](https://www.v2ex.com/) | [我找到了自己搞定健康午餐的办法 彻底取代外卖](https://www.v2ex.com/t/1000693)
 - [V2EX](https://www.v2ex.com/) | [请教 Windows 桌面开发选择](https://www.v2ex.com/t/1000641)

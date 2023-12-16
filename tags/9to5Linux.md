@@ -1,3 +1,7 @@
+## 20231217
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets](https://9to5linux.com/kde-plasma-6-for-mobile-devices-is-shaping-up-nicely-with-support-for-applets)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.113 Released for Plasma 5 Users with Various Improvements](https://9to5linux.com/kde-frameworks-5-113-released-for-plasma-5-users-with-various-improvements)
+
 ## 20231216
 - [9to5Linux](https://9to5linux.com/) | [Manjaro 23.1 &#8220;Vulcan&#8221; Is Available for Download with GNOME 45, Linux 6.6 LTS](https://9to5linux.com/manjaro-23-1-vulcan-is-available-for-download-with-gnome-45-linux-6-6-lts)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 44.7 Optimizes Shell Application Search and Improves Performance](https://9to5linux.com/gnome-44-7-optimizes-shell-application-search-and-improves-performance)

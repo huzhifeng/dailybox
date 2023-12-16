@@ -1,3 +1,9 @@
+## 20231217
+- [Planet KDE](https://planet.kde.org/) | [KDE Android apps porting update](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: un-flashy important stability work](https://pointieststick.com/2023/12/15/this-week-in-kde-un-flashy-important-stability-work/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Beginning of Season of KDE 2024!](https://mentorship.kde.org/blog/2023-12-16-sok-2024/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: un-flashy important stability work](https://pointieststick.com/2023/12/15/this-week-in-kde-un-flashy-important-stability-work/)
+
 ## 20231216
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/?utm_source=atom_feed)
 

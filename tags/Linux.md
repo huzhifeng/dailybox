@@ -1,3 +1,13 @@
+## 20231217
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1217 FFmpeg 已经完成多线程功能开发](https://linux.cn/article-16478-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets](https://9to5linux.com/kde-plasma-6-for-mobile-devices-is-shaping-up-nicely-with-support-for-applets)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.113 Released for Plasma 5 Users with Various Improvements](https://9to5linux.com/kde-frameworks-5-113-released-for-plasma-5-users-with-various-improvements)
+- [Planet GNOME](https://planet.gnome.org/) | [On the scalability of C++ module implementations or lack thereof](https://nibblestew.blogspot.com/2023/12/on-scalability-of-c-module.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Android apps porting update](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: un-flashy important stability work](https://pointieststick.com/2023/12/15/this-week-in-kde-un-flashy-important-stability-work/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Beginning of Season of KDE 2024!](https://mentorship.kde.org/blog/2023-12-16-sok-2024/?utm_source=atom_feed)
+- [This week in KDE](https://pointieststick.com/) | [This week in KDE: un-flashy important stability work](https://pointieststick.com/2023/12/15/this-week-in-kde-un-flashy-important-stability-work/)
+
 ## 20231216
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1216 继收回 LXD 控制后，Canonical 将其更改为 AGPLv3 许可](https://linux.cn/article-16473-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Manjaro 23.1 &#8220;Vulcan&#8221; Is Available for Download with GNOME 45, Linux 6.6 LTS](https://9to5linux.com/manjaro-23-1-vulcan-is-available-for-download-with-gnome-45-linux-6-6-lts)

@@ -1,3 +1,6 @@
+## 20231217
+- [Planet GNOME](https://planet.gnome.org/) | [On the scalability of C++ module implementations or lack thereof](https://nibblestew.blogspot.com/2023/12/on-scalability-of-c-module.html)
+
 ## 20231216
 - [Planet GNOME](https://planet.gnome.org/) | [GNOME Online Account and the STF](https://www.andyholmes.ca/posts/goa-and-stf-part-1/)
 - [Planet GNOME](https://planet.gnome.org/) | [Down and down, exploring the implementation of the accessibility subsystem](https://en.trycht.cz/2023/12/15/down-and-down-exploring-the-implementation-of-the-accessibility-subsystem/?pk_campaign=feed&pk_kwd=down-and-down-exploring-the-implementation-of-the-accessibility-subsystem)

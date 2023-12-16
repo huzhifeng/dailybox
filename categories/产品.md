@@ -1,3 +1,7 @@
+## 20231217
+- [Product Hunt](https://www.producthunt.com) | [Captions for photos: Captioned](https://www.producthunt.com/posts/captions-for-photos-captioned)
+- [Product Hunt](https://www.producthunt.com) | [Snoooz](https://www.producthunt.com/posts/snoooz)
+
 ## 20231216
 - [Product Hunt](https://www.producthunt.com) | [Merlin Unified API](https://www.producthunt.com/posts/merlin-unified-api)
 - [Product Hunt](https://www.producthunt.com) | [Wewaat](https://www.producthunt.com/posts/wewaat-2)
