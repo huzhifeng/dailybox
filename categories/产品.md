@@ -1,3 +1,7 @@
+## 20231218
+- [Product Hunt](https://www.producthunt.com) | [Roast My Web](https://www.producthunt.com/posts/roast-my-web)
+- [Product Hunt](https://www.producthunt.com) | [SEO Stuff](https://www.producthunt.com/posts/seo-stuff)
+
 ## 20231217
 - [Product Hunt](https://www.producthunt.com) | [Captions for photos: Captioned](https://www.producthunt.com/posts/captions-for-photos-captioned)
 - [Product Hunt](https://www.producthunt.com) | [Snoooz](https://www.producthunt.com/posts/snoooz)

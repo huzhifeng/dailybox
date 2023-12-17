@@ -1,3 +1,6 @@
+## 20231218
+- [Hacker News](https://news.ycombinator.com/front) | [The Final Speech from The Great Dictator](https://news.ycombinator.com/item?id=38673292)
+
 ## 20231216
 - [Hacker News](https://news.ycombinator.com/front) | [Database Fundamentals](https://news.ycombinator.com/item?id=38655066)
 

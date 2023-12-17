@@ -1,3 +1,6 @@
+## 20231218
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1218 谷歌即将对 1% 的 Chrome 用户关闭第三方追踪](https://linux.cn/article-16480-1.html?utm_source=rss&utm_medium=rss)
+
 ## 20231217
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1217 FFmpeg 已经完成多线程功能开发](https://linux.cn/article-16478-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets](https://9to5linux.com/kde-plasma-6-for-mobile-devices-is-shaping-up-nicely-with-support-for-applets)
