@@ -1,3 +1,8 @@
+## 20231218
+- [V2EX](https://www.v2ex.com/) | [生活真的不易，我早已忘了开心的味道](https://www.v2ex.com/t/1001128)
+- [V2EX](https://www.v2ex.com/) | [英语的重音到底是个什么东西呢？看了几天资料我连 present 都不会发音了](https://www.v2ex.com/t/1001098)
+- [V2EX](https://www.v2ex.com/) | [准备换掉小米 14，寻找更合适的安卓手机](https://www.v2ex.com/t/1001084)
+
 ## 20231217
 - [V2EX](https://www.v2ex.com/) | [免费浏览器扩展的出路只有被收购吗？](https://www.v2ex.com/t/1000976)
 - [V2EX](https://www.v2ex.com/) | [最后的挣扎：在不更换灯和墙壁开关的前提下，有办法改成智能家居吗？](https://www.v2ex.com/t/1000951)
