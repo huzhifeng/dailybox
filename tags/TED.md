@@ -1,3 +1,6 @@
+## 20231219
+- [TED Talks Daily](https://www.ted.com/talks) | [Why you should embrace mediocrity | Crispin Thurlow](https://www.ted.com/talks/crispin_thurlow_why_you_should_embrace_mediocrity?rss)
+
 ## 20231216
 - [TED Talks Daily](https://www.ted.com/talks) | [Why AI will spark exponential economic growth | Cathie Wood](https://www.ted.com/talks/cathie_wood_why_ai_will_spark_exponential_economic_growth?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | ["Hey Look Ma, I Made It" / "Believer" |  Detroit Youth Choir](https://www.ted.com/talks/detroit_youth_choir_hey_look_ma_i_made_it_believer?rss)

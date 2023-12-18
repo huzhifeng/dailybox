@@ -1,3 +1,6 @@
+## 20231219
+- [It's FOSS](https://itsfoss.com/) | [11 Fish Shell Features That Make it More Awesome Than Bash](https://itsfoss.com/fish-shell-features/)
+
 ## 20231217
 - [It's FOSS](https://itsfoss.com/) | [Blast from the Past: DG/UX UNIX Operating System](https://itsfoss.com/dg-ux-os/)
 

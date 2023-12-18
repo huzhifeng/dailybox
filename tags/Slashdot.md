@@ -1,3 +1,6 @@
+## 20231219
+- [Slashdot](https://developers.slashdot.org/) | [Creator of JSON Unveils New Programming Language 'Misty'](https://developers.slashdot.org/story/23/12/18/0634241/creator-of-json-unveils-new-programming-language-misty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231217
 - [Slashdot](https://developers.slashdot.org/) | [Amazon, Etsy, Launch Categories With 'Gifts For Programmers'](https://entertainment.slashdot.org/story/23/12/16/061230/amazon-etsy-launch-categories-with-gifts-for-programmers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

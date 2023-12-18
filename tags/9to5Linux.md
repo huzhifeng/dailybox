@@ -1,3 +1,8 @@
+## 20231219
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-121-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-17th-2023)
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 23.12 Brings the GNOME 45 Desktop to Linux Phones and Tablets](https://9to5linux.com/postmarketos-23-12-brings-the-gnome-45-desktop-to-linux-phones-and-tablets)
+
 ## 20231217
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets](https://9to5linux.com/kde-plasma-6-for-mobile-devices-is-shaping-up-nicely-with-support-for-applets)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.113 Released for Plasma 5 Users with Various Improvements](https://9to5linux.com/kde-frameworks-5-113-released-for-plasma-5-users-with-various-improvements)
