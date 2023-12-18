@@ -1,3 +1,8 @@
+## 20231219
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Coming Crack-Up of the Left: Yascha Mounk’s ‘The Identity Trap: A Story of Power and Ideas in Our Time’](https://pc.blogspot.com/2023/12/the-coming-crack-up-of-left-yascha.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [General Mills New Festive Gingerbread Toast Crunch House Kit](https://grubbits.com/general-mills-new-festive-gingerbread-toast-crunch-house-kit/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Notes #12](https://gcollazo.com/notes-12/)
+
 ## 20231216
 - [Kagi Small Web](https://kagi.com/smallweb) | [Tick-tock is a both chip architecture and a corporate strategy](https://interconnected.org/home/2023/12/15/tick-tock)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Today's Video Link](https://www.newsfromme.com/2023/12/15/todays-video-link-4046/)

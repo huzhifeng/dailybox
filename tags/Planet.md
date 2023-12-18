@@ -1,3 +1,10 @@
+## 20231219
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 18/12/23](https://samthursfield.wordpress.com/2023/12/18/status-update-18-12-23/)
+- [Planet GNOME](https://planet.gnome.org/) | [2023-12-18 Monday](https://meeksfamily.uk/~michael/blog/2023-12-18.html)
+- [Planet KDE](https://planet.kde.org/) | [XWayland Video Bridge 0.4](https://jriddell.org/2023/12/18/xwayland-video-bridge-0-4/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [conf.kde.in 2024 in Pune, Maharashtra](https://kde.org/announcements/conf-kde-in-2024/?utm_source=atom_feed)
+
 ## 20231217
 - [Planet GNOME](https://planet.gnome.org/) | [On the scalability of C++ module implementations or lack thereof](https://nibblestew.blogspot.com/2023/12/on-scalability-of-c-module.html)
 - [Planet KDE](https://planet.kde.org/) | [KDE Android apps porting update](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html?utm_source=atom_feed)

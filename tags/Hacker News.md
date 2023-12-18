@@ -1,3 +1,6 @@
+## 20231219
+- [Hacker News](https://news.ycombinator.com/front) | [Figma and Adobe abandon proposed merger](https://news.ycombinator.com/item?id=38681861)
+
 ## 20231218
 - [Hacker News](https://news.ycombinator.com/front) | [The Final Speech from The Great Dictator](https://news.ycombinator.com/item?id=38673292)
 

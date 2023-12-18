@@ -1,3 +1,7 @@
+## 20231219
+- [diff.blog](https://diff.blog/) | [Launching the 2023 State of Rust Survey](https://diff.blog/post/launching-the-2023-state-of-rust-survey-164092/)
+- [diff.blog](https://diff.blog/) | [This year in Servo: over 1000 pull requests and beyond](https://diff.blog/post/this-year-in-servo-over-1000-pull-requests-and-beyond-164082/)
+
 ## 20231216
 - [diff.blog](https://diff.blog/) | [Fly Postgres, managed by Supabase](https://diff.blog/post/fly-postgres-managed-by-supabase-163972/)
 

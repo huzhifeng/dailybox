@@ -1,3 +1,8 @@
+## 20231219
+- [V2EX](https://www.v2ex.com/) | [好绝望哦，走了被迫离职，因赔偿谈判破裂，公司不给开离职证明，新公司无离职证明无法入职。。](https://www.v2ex.com/t/1001366)
+- [V2EX](https://www.v2ex.com/) | [个人使用小米 14 对比 iphone13，一个字，真香！](https://www.v2ex.com/t/1001361)
+- [V2EX](https://www.v2ex.com/) | [有狗粮，猫粮，为什么没有人粮。](https://www.v2ex.com/t/1001346)
+
 ## 20231218
 - [V2EX](https://www.v2ex.com/) | [生活真的不易，我早已忘了开心的味道](https://www.v2ex.com/t/1001128)
 - [V2EX](https://www.v2ex.com/) | [英语的重音到底是个什么东西呢？看了几天资料我连 present 都不会发音了](https://www.v2ex.com/t/1001098)

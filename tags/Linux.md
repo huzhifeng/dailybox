@@ -1,3 +1,16 @@
+## 20231219
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1219 首个 Rust 编写的网络 PHY 驱动程序将登陆 Linux 6.8](https://linux.cn/article-16484-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-121-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-17th-2023)
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 23.12 Brings the GNOME 45 Desktop to Linux Phones and Tablets](https://9to5linux.com/postmarketos-23-12-brings-the-gnome-45-desktop-to-linux-phones-and-tablets)
+- [OMG! Linux](https://www.omglinux.com/) | [Test Post](https://www.omglinux.com/test-post/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 18/12/23](https://samthursfield.wordpress.com/2023/12/18/status-update-18-12-23/)
+- [Planet GNOME](https://planet.gnome.org/) | [2023-12-18 Monday](https://meeksfamily.uk/~michael/blog/2023-12-18.html)
+- [Planet KDE](https://planet.kde.org/) | [XWayland Video Bridge 0.4](https://jriddell.org/2023/12/18/xwayland-video-bridge-0-4/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [conf.kde.in 2024 in Pune, Maharashtra](https://kde.org/announcements/conf-kde-in-2024/?utm_source=atom_feed)
+
 ## 20231218
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1218 谷歌即将对 1% 的 Chrome 用户关闭第三方追踪](https://linux.cn/article-16480-1.html?utm_source=rss&utm_medium=rss)
 

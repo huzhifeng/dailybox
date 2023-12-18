@@ -1,3 +1,8 @@
+## 20231219
+- [Product Hunt](https://www.producthunt.com) | [EarnBetter](https://www.producthunt.com/posts/earnbetter)
+- [Product Hunt](https://www.producthunt.com) | [Mental](https://www.producthunt.com/posts/mental)
+- [Product Hunt](https://www.producthunt.com) | [Pixplain by Merlin AI](https://www.producthunt.com/posts/pixplain-by-merlin-ai)
+
 ## 20231218
 - [Product Hunt](https://www.producthunt.com) | [Roast My Web](https://www.producthunt.com/posts/roast-my-web)
 - [Product Hunt](https://www.producthunt.com) | [SEO Stuff](https://www.producthunt.com/posts/seo-stuff)

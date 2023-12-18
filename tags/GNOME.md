@@ -1,3 +1,7 @@
+## 20231219
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 18/12/23](https://samthursfield.wordpress.com/2023/12/18/status-update-18-12-23/)
+- [Planet GNOME](https://planet.gnome.org/) | [2023-12-18 Monday](https://meeksfamily.uk/~michael/blog/2023-12-18.html)
+
 ## 20231217
 - [Planet GNOME](https://planet.gnome.org/) | [On the scalability of C++ module implementations or lack thereof](https://nibblestew.blogspot.com/2023/12/on-scalability-of-c-module.html)
 
