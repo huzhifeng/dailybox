@@ -1,3 +1,6 @@
+## 20231220
+- [Red Hat Developer](https://developers.redhat.com/) | [Contributions to the ComplianceAsCode project for OpenShift](https://developers.redhat.com/articles/2023/12/19/contributions-complianceascode-project-openshift)
+
 ## 20231012
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Data Plane Development Kit (DPDK) latency in Red Hat OpenShift - Part I](https://www.redhat.com/en/blog/dpdk-latency-red-hat-openshift-1)

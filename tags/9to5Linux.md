@@ -1,3 +1,7 @@
+## 20231220
+- [9to5Linux](https://9to5linux.com/) | [Armbian Linux Is Now Available for Raspberry Pi 5 Computers](https://9to5linux.com/armbian-linux-is-now-available-for-raspberry-pi-5-computers)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Officially Released for Apple Silicon Macs](https://9to5linux.com/fedora-asahi-remix-officially-released-for-apple-silicon-macs)
+
 ## 20231219
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 121 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-121-is-now-available-for-download-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-17th-2023)

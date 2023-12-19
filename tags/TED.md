@@ -1,3 +1,6 @@
+## 20231220
+- [TED Talks Daily](https://www.ted.com/talks) | [My mission to change the narrative of mental health | Glenn Close](https://www.ted.com/talks/glenn_close_my_mission_to_change_the_narrative_of_mental_health?rss)
+
 ## 20231219
 - [TED Talks Daily](https://www.ted.com/talks) | [Why you should embrace mediocrity | Crispin Thurlow](https://www.ted.com/talks/crispin_thurlow_why_you_should_embrace_mediocrity?rss)
 

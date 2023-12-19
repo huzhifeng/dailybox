@@ -1,3 +1,7 @@
+## 20231220
+- [Planet KDE](https://planet.kde.org/) | [Qt Contributor’s Summit 2023](https://blog.broulik.de/2023/12/qt-contributors-summit-2023/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Announcing Brise theme](https://carlschwan.eu/2023/12/19/announcing-brise-theme/?utm_source=atom_feed)
+
 ## 20231219
 - [Planet KDE](https://planet.kde.org/) | [XWayland Video Bridge 0.4](https://jriddell.org/2023/12/18/xwayland-video-bridge-0-4/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html?utm_source=atom_feed)

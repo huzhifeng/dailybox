@@ -1,3 +1,9 @@
+## 20231220
+- [Planet GNOME](https://planet.gnome.org/) | [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#2 Another update on GNOME Settings](https://feborg.es/settings-news-2/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Contributor’s Summit 2023](https://blog.broulik.de/2023/12/qt-contributors-summit-2023/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Announcing Brise theme](https://carlschwan.eu/2023/12/19/announcing-brise-theme/?utm_source=atom_feed)
+
 ## 20231219
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 18/12/23](https://samthursfield.wordpress.com/2023/12/18/status-update-18-12-23/)
 - [Planet GNOME](https://planet.gnome.org/) | [2023-12-18 Monday](https://meeksfamily.uk/~michael/blog/2023-12-18.html)

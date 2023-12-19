@@ -1,3 +1,8 @@
+## 20231220
+- [Product Hunt](https://www.producthunt.com) | [TheyDo](https://www.producthunt.com/posts/theydo)
+- [Product Hunt](https://www.producthunt.com) | [AI Clips](https://www.producthunt.com/posts/ai-clips)
+- [Product Hunt](https://www.producthunt.com) | [Pieces Copilot](https://www.producthunt.com/posts/pieces-copilot)
+
 ## 20231219
 - [Product Hunt](https://www.producthunt.com) | [EarnBetter](https://www.producthunt.com/posts/earnbetter)
 - [Product Hunt](https://www.producthunt.com) | [Mental](https://www.producthunt.com/posts/mental)

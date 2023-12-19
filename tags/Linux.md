@@ -1,3 +1,12 @@
+## 20231220
+- [Red Hat Developer](https://developers.redhat.com/) | [Contributions to the ComplianceAsCode project for OpenShift](https://developers.redhat.com/articles/2023/12/19/contributions-complianceascode-project-openshift)
+- [9to5Linux](https://9to5linux.com/) | [Armbian Linux Is Now Available for Raspberry Pi 5 Computers](https://9to5linux.com/armbian-linux-is-now-available-for-raspberry-pi-5-computers)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Officially Released for Apple Silicon Macs](https://9to5linux.com/fedora-asahi-remix-officially-released-for-apple-silicon-macs)
+- [Planet GNOME](https://planet.gnome.org/) | [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#2 Another update on GNOME Settings](https://feborg.es/settings-news-2/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Contributor’s Summit 2023](https://blog.broulik.de/2023/12/qt-contributors-summit-2023/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Announcing Brise theme](https://carlschwan.eu/2023/12/19/announcing-brise-theme/?utm_source=atom_feed)
+
 ## 20231219
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1219 首个 Rust 编写的网络 PHY 驱动程序将登陆 Linux 6.8](https://linux.cn/article-16484-1.html?utm_source=rss&utm_medium=rss)

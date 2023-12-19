@@ -1,3 +1,8 @@
+## 20231220
+- [V2EX](https://www.v2ex.com/) | [自考 5 年, 终于毕业拿到了学位证](https://www.v2ex.com/t/1001627)
+- [V2EX](https://www.v2ex.com/) | [[2023 年终盘点] 在这一年，你有什么收获？](https://www.v2ex.com/t/1001624)
+- [V2EX](https://www.v2ex.com/) | [买了轻量腾讯云服务器，发现一年了啥也没放，大家有什么好的思路](https://www.v2ex.com/t/1001579)
+
 ## 20231219
 - [V2EX](https://www.v2ex.com/) | [好绝望哦，走了被迫离职，因赔偿谈判破裂，公司不给开离职证明，新公司无离职证明无法入职。。](https://www.v2ex.com/t/1001366)
 - [V2EX](https://www.v2ex.com/) | [个人使用小米 14 对比 iphone13，一个字，真香！](https://www.v2ex.com/t/1001361)
