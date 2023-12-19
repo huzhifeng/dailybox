@@ -1,3 +1,6 @@
+## 20231220
+- [Hacker News](https://news.ycombinator.com/front) | [James Webb Space Telescope captures high-resolution image of Uranus](https://news.ycombinator.com/item?id=38695337)
+
 ## 20231219
 - [Hacker News](https://news.ycombinator.com/front) | [Figma and Adobe abandon proposed merger](https://news.ycombinator.com/item?id=38681861)
 

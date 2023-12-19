@@ -1,3 +1,8 @@
+## 20231220
+- [Kagi Small Web](https://kagi.com/smallweb) | [Getting an Unread Badge Count For the Docked Gmail Web App in macOS](https://blog.jim-nielsen.com/2023/unread-badge-macos-safari-web-app/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [6000 Years Ago, the Oldest Cities in Europe Ensured their Food with Cereals and Peas, without the Need for Meat](https://www.labrujulaverde.com/en/2023/12/6000-years-ago-the-oldest-cities-in-europe-ensured-their-food-with-cereals-and-peas-without-the-need-for-meat/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [I mean, I know that the obvious real-world reference for Godzilla is postwar Japanese anxieties over&hellip;](https://macleod.tumblr.com/post/737154962172379136)
+
 ## 20231219
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Coming Crack-Up of the Left: Yascha Mounk’s ‘The Identity Trap: A Story of Power and Ideas in Our Time’](https://pc.blogspot.com/2023/12/the-coming-crack-up-of-left-yascha.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [General Mills New Festive Gingerbread Toast Crunch House Kit](https://grubbits.com/general-mills-new-festive-gingerbread-toast-crunch-house-kit/)
