@@ -1,3 +1,7 @@
+## 20231221
+- [Planet KDE](https://planet.kde.org/) | [From GitLab to Microsoft Store](https://blogs.kde.org/2023/12/20/gitlab-microsoft-store?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Beta 2](https://kde.org/announcements/megarelease/6/beta2/?utm_source=atom_feed)
+
 ## 20231220
 - [Planet GNOME](https://planet.gnome.org/) | [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#2 Another update on GNOME Settings](https://feborg.es/settings-news-2/)

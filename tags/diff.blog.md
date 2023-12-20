@@ -1,3 +1,7 @@
+## 20231221
+- [diff.blog](https://diff.blog/) | [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://diff.blog/post/the-transparent-chip-inside-a-vintage-hewlett-packard-floppy-drive-164446/)
+- [diff.blog](https://diff.blog/) | [The AWS Canada West (Calgary) Region is now available](https://diff.blog/post/the-aws-canada-west-calgary-region-is-now-available-164433/)
+
 ## 20231219
 - [diff.blog](https://diff.blog/) | [Launching the 2023 State of Rust Survey](https://diff.blog/post/launching-the-2023-state-of-rust-survey-164092/)
 - [diff.blog](https://diff.blog/) | [This year in Servo: over 1000 pull requests and beyond](https://diff.blog/post/this-year-in-servo-over-1000-pull-requests-and-beyond-164082/)

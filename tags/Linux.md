@@ -1,3 +1,10 @@
+## 20231221
+- [9to5Linux](https://9to5linux.com/) | [GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop](https://9to5linux.com/guadec-2024-conference-will-be-held-in-denver-for-the-gnome-46-desktop)
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Released with Quick Settings Menu, Spatial Desktop Effects, and More](https://9to5linux.com/zorin-os-17-officially-released-with-quick-settings-spatial-desktop-effects-and-more)
+- [9to5Linux](https://9to5linux.com/) | [QEMU 8.2 Released with Virtio-Sound Device, RISC-V KVM AIA Support](https://9to5linux.com/qemu-8-2-released-with-virtio-sound-device-risc-v-kvm-aia-support)
+- [Planet KDE](https://planet.kde.org/) | [From GitLab to Microsoft Store](https://blogs.kde.org/2023/12/20/gitlab-microsoft-store?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Beta 2](https://kde.org/announcements/megarelease/6/beta2/?utm_source=atom_feed)
+
 ## 20231220
 - [Red Hat Developer](https://developers.redhat.com/) | [Contributions to the ComplianceAsCode project for OpenShift](https://developers.redhat.com/articles/2023/12/19/contributions-complianceascode-project-openshift)
 - [9to5Linux](https://9to5linux.com/) | [Armbian Linux Is Now Available for Raspberry Pi 5 Computers](https://9to5linux.com/armbian-linux-is-now-available-for-raspberry-pi-5-computers)

@@ -1,3 +1,8 @@
+## 20231221
+- [Product Hunt](https://www.producthunt.com) | [Shader](https://www.producthunt.com/posts/shader)
+- [Product Hunt](https://www.producthunt.com) | [Snowball](https://www.producthunt.com/posts/snowball-edf5ae17-d817-4654-ab1d-4236ea16d83f)
+- [Product Hunt](https://www.producthunt.com) | [Competitor Analysis by Pythia World](https://www.producthunt.com/posts/competitor-analysis-by-pythia-world)
+
 ## 20231220
 - [Product Hunt](https://www.producthunt.com) | [TheyDo](https://www.producthunt.com/posts/theydo)
 - [Product Hunt](https://www.producthunt.com) | [AI Clips](https://www.producthunt.com/posts/ai-clips)
