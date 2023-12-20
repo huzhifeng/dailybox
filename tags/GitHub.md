@@ -1,3 +1,6 @@
+## 20231221
+- [GitHub Advanced Search](https://github.com/search/advanced) | [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal)
+
 ## 20231219
 - [GitHub Advanced Search](https://github.com/search/advanced) | [hosir-web3/EVM_inscription](https://github.com/hosir-web3/EVM_inscription)
 

@@ -1,3 +1,8 @@
+## 20231221
+- [9to5Linux](https://9to5linux.com/) | [GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop](https://9to5linux.com/guadec-2024-conference-will-be-held-in-denver-for-the-gnome-46-desktop)
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Released with Quick Settings Menu, Spatial Desktop Effects, and More](https://9to5linux.com/zorin-os-17-officially-released-with-quick-settings-spatial-desktop-effects-and-more)
+- [9to5Linux](https://9to5linux.com/) | [QEMU 8.2 Released with Virtio-Sound Device, RISC-V KVM AIA Support](https://9to5linux.com/qemu-8-2-released-with-virtio-sound-device-risc-v-kvm-aia-support)
+
 ## 20231220
 - [9to5Linux](https://9to5linux.com/) | [Armbian Linux Is Now Available for Raspberry Pi 5 Computers](https://9to5linux.com/armbian-linux-is-now-available-for-raspberry-pi-5-computers)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix Officially Released for Apple Silicon Macs](https://9to5linux.com/fedora-asahi-remix-officially-released-for-apple-silicon-macs)

@@ -1,3 +1,7 @@
+## 20231221
+- [Planet KDE](https://planet.kde.org/) | [From GitLab to Microsoft Store](https://blogs.kde.org/2023/12/20/gitlab-microsoft-store?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Beta 2](https://kde.org/announcements/megarelease/6/beta2/?utm_source=atom_feed)
+
 ## 20231220
 - [Planet KDE](https://planet.kde.org/) | [Qt Contributor’s Summit 2023](https://blog.broulik.de/2023/12/qt-contributors-summit-2023/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Announcing Brise theme](https://carlschwan.eu/2023/12/19/announcing-brise-theme/?utm_source=atom_feed)
