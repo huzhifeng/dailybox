@@ -850,6 +850,7 @@
 			"portal": "https://post.smzdm.com/hot_1/",
 			"url": "https://post.smzdm.com/rank/json_more/?unit=1",
 			"_comment": "https://post.smzdm.com/ | https://post.smzdm.com/hot_1/ | https://post.smzdm.com/hot_json_more/?unit=day",
+			"enable": 0,
 			"category": "资讯",
 			"tags": ["什么值得买", "资讯"],
 			"request": {
