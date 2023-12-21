@@ -1,3 +1,6 @@
+## 20231222
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.6 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-6-open-source-raw-image-editor-released-heres-whats-new)
+
 ## 20231221
 - [9to5Linux](https://9to5linux.com/) | [GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop](https://9to5linux.com/guadec-2024-conference-will-be-held-in-denver-for-the-gnome-46-desktop)
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Released with Quick Settings Menu, Spatial Desktop Effects, and More](https://9to5linux.com/zorin-os-17-officially-released-with-quick-settings-spatial-desktop-effects-and-more)

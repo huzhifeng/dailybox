@@ -1,3 +1,11 @@
+## 20231222
+- [Red Hat Developer](https://developers.redhat.com/) | [Getting started with RHEL on WSL](https://developers.redhat.com/articles/2023/12/21/getting-started-rhel-windows-subsystem-linux)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to get more from OpenShift Service Mesh monitoring](https://developers.redhat.com/articles/2023/12/21/how-get-more-openshift-service-mesh-monitoring)
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.6 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-6-open-source-raw-image-editor-released-heres-whats-new)
+- [Planet KDE](https://planet.kde.org/) | [Cutelyst v4 – 10 years 🎉](https://dantti.wordpress.com/2023/12/21/cutelyst-v4-10-years-%f0%9f%8e%89/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 Keynote: Kdenlive - what can we learn after 20 years of development?](https://tube.kockatoo.org/w/hMhQwxYBmEaGruZpVizDns?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 - Keynote: Libre Space Foundation - Empowering Open-Source Space Technologies](https://tube.kockatoo.org/w/2wntZWpxGd8EbxVC5D2Pv5?utm_source=atom_feed)
+
 ## 20231221
 - [9to5Linux](https://9to5linux.com/) | [GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop](https://9to5linux.com/guadec-2024-conference-will-be-held-in-denver-for-the-gnome-46-desktop)
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 17 Released with Quick Settings Menu, Spatial Desktop Effects, and More](https://9to5linux.com/zorin-os-17-officially-released-with-quick-settings-spatial-desktop-effects-and-more)

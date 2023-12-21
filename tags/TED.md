@@ -1,3 +1,6 @@
+## 20231222
+- [TED Talks Daily](https://www.ted.com/talks) | [Why businesses need a dreamer's magic and a doer's realism | Beth Viner](https://www.ted.com/talks/beth_viner_why_businesses_need_a_dreamer_s_magic_and_a_doer_s_realism?rss)
+
 ## 20231220
 - [TED Talks Daily](https://www.ted.com/talks) | [My mission to change the narrative of mental health | Glenn Close](https://www.ted.com/talks/glenn_close_my_mission_to_change_the_narrative_of_mental_health?rss)
 
