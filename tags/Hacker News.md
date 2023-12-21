@@ -1,3 +1,8 @@
+## 20231222
+- [Hacker News](https://news.ycombinator.com/front) | [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
+- [Hacker News](https://news.ycombinator.com/front) | [ArXiv now offers papers in HTML format](https://news.ycombinator.com/item?id=38724665)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple allows some iOS apps to track user locations via lists of nearby SSIDs](https://news.ycombinator.com/item?id=38720656)
+
 ## 20231220
 - [Hacker News](https://news.ycombinator.com/front) | [James Webb Space Telescope captures high-resolution image of Uranus](https://news.ycombinator.com/item?id=38695337)
 

@@ -1,3 +1,8 @@
+## 20231222
+- [V2EX](https://www.v2ex.com/) | [前端之虎陈随易 2023 年终回顾与总结](https://www.v2ex.com/t/1002274)
+- [V2EX](https://www.v2ex.com/) | [大家都是工作多久后达到的月入 2 万](https://www.v2ex.com/t/1002248)
+- [V2EX](https://www.v2ex.com/) | [大龄程序员的出路难道是开滴滴送外卖吗](https://www.v2ex.com/t/1002227)
+
 ## 20231220
 - [V2EX](https://www.v2ex.com/) | [自考 5 年, 终于毕业拿到了学位证](https://www.v2ex.com/t/1001627)
 - [V2EX](https://www.v2ex.com/) | [[2023 年终盘点] 在这一年，你有什么收获？](https://www.v2ex.com/t/1001624)

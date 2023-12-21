@@ -1,3 +1,8 @@
+## 20231222
+- [Product Hunt](https://www.producthunt.com) | [Dropshipping Copilot](https://www.producthunt.com/posts/dropshipping-copilot)
+- [Product Hunt](https://www.producthunt.com) | [Spur](https://www.producthunt.com/posts/spur-4)
+- [Product Hunt](https://www.producthunt.com) | [Magic Hour](https://www.producthunt.com/posts/magic-hour-2)
+
 ## 20231221
 - [Product Hunt](https://www.producthunt.com) | [Shader](https://www.producthunt.com/posts/shader)
 - [Product Hunt](https://www.producthunt.com) | [Snowball](https://www.producthunt.com/posts/snowball-edf5ae17-d817-4654-ab1d-4236ea16d83f)

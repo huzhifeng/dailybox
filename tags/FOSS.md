@@ -1,3 +1,6 @@
+## 20231222
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.51: Fish Shell, Free AI Course, Zorin 17, DG/UX UNIX and More](https://itsfoss.com/newsletter/foss-weekly-23-51/)
+
 ## 20231219
 - [It's FOSS](https://itsfoss.com/) | [11 Fish Shell Features That Make it More Awesome Than Bash](https://itsfoss.com/fish-shell-features/)
 

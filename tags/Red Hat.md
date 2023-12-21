@@ -1,3 +1,7 @@
+## 20231222
+- [Red Hat Developer](https://developers.redhat.com/) | [Getting started with RHEL on WSL](https://developers.redhat.com/articles/2023/12/21/getting-started-rhel-windows-subsystem-linux)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to get more from OpenShift Service Mesh monitoring](https://developers.redhat.com/articles/2023/12/21/how-get-more-openshift-service-mesh-monitoring)
+
 ## 20231220
 - [Red Hat Developer](https://developers.redhat.com/) | [Contributions to the ComplianceAsCode project for OpenShift](https://developers.redhat.com/articles/2023/12/19/contributions-complianceascode-project-openshift)
 

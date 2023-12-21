@@ -1,3 +1,7 @@
+## 20231222
+- [diff.blog](https://diff.blog/) | [Announcing `async fn` and return-position `impl Trait` in traits](https://diff.blog/post/announcing-async-fn-and-return-position-impl-trait-in-traits-164537/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 526](https://diff.blog/post/this-week-in-rust-526-164471/)
+
 ## 20231221
 - [diff.blog](https://diff.blog/) | [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://diff.blog/post/the-transparent-chip-inside-a-vintage-hewlett-packard-floppy-drive-164446/)
 - [diff.blog](https://diff.blog/) | [The AWS Canada West (Calgary) Region is now available](https://diff.blog/post/the-aws-canada-west-calgary-region-is-now-available-164433/)

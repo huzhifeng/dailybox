@@ -1,3 +1,8 @@
+## 20231222
+- [Planet KDE](https://planet.kde.org/) | [Cutelyst v4 – 10 years 🎉](https://dantti.wordpress.com/2023/12/21/cutelyst-v4-10-years-%f0%9f%8e%89/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 Keynote: Kdenlive - what can we learn after 20 years of development?](https://tube.kockatoo.org/w/hMhQwxYBmEaGruZpVizDns?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Akademy 2023 - Keynote: Libre Space Foundation - Empowering Open-Source Space Technologies](https://tube.kockatoo.org/w/2wntZWpxGd8EbxVC5D2Pv5?utm_source=atom_feed)
+
 ## 20231221
 - [Planet KDE](https://planet.kde.org/) | [From GitLab to Microsoft Store](https://blogs.kde.org/2023/12/20/gitlab-microsoft-store?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Beta 2](https://kde.org/announcements/megarelease/6/beta2/?utm_source=atom_feed)
