@@ -1,3 +1,8 @@
+## 20231223
+- [Planet GNOME](https://planet.gnome.org/) | [#127 Welcome News](https://thisweek.gnome.org/posts/2023/12/twig-127/)
+- [Planet KDE](https://planet.kde.org/) | [Introduction to Delivery Performance Analytics](https://toscalix.com/2023/12/22/delivery-performance-analytics-intro/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/?utm_source=atom_feed)
+
 ## 20231222
 - [Planet KDE](https://planet.kde.org/) | [Cutelyst v4 – 10 years 🎉](https://dantti.wordpress.com/2023/12/21/cutelyst-v4-10-years-%f0%9f%8e%89/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Akademy 2023 Keynote: Kdenlive - what can we learn after 20 years of development?](https://tube.kockatoo.org/w/hMhQwxYBmEaGruZpVizDns?utm_source=atom_feed)

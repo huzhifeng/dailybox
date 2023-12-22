@@ -1,3 +1,8 @@
+## 20231223
+- [Hacker News](https://news.ycombinator.com/front) | [From Nand to Tetris (2017)](https://news.ycombinator.com/item?id=38735066)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Heynote – A dedicated scratchpad for developers](https://news.ycombinator.com/item?id=38733968)
+- [Hacker News](https://news.ycombinator.com/front) | [Mindustry: Open-source automation tower defense game](https://news.ycombinator.com/item?id=38732542)
+
 ## 20231222
 - [Hacker News](https://news.ycombinator.com/front) | [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
 - [Hacker News](https://news.ycombinator.com/front) | [ArXiv now offers papers in HTML format](https://news.ycombinator.com/item?id=38724665)

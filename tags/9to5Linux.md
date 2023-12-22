@@ -1,3 +1,7 @@
+## 20231223
+- [9to5Linux](https://9to5linux.com/) | [Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering](https://9to5linux.com/plymouth-linux-graphical-boot-manager-now-better-handles-display-rendering)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Control Center 2.1 Released with Exciting New Functions](https://9to5linux.com/tuxedo-control-center-2-1-released-with-exciting-new-functions)
+
 ## 20231222
 - [9to5Linux](https://9to5linux.com/) | [Darktable 4.6 Open-Source RAW Image Editor Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/darktable-4-6-open-source-raw-image-editor-released-heres-whats-new)
 

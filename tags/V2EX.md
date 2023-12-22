@@ -1,3 +1,8 @@
+## 20231223
+- [V2EX](https://www.v2ex.com/) | [来点实际的！大家第一份工作月薪多少？？](https://www.v2ex.com/t/1002606)
+- [V2EX](https://www.v2ex.com/) | [明年目标：转向前端和移动开发](https://www.v2ex.com/t/1002591)
+- [V2EX](https://www.v2ex.com/) | [个人觉得 Go 的 error 设计的非常好，为什么还那么多人吐槽？](https://www.v2ex.com/t/1002535)
+
 ## 20231222
 - [V2EX](https://www.v2ex.com/) | [前端之虎陈随易 2023 年终回顾与总结](https://www.v2ex.com/t/1002274)
 - [V2EX](https://www.v2ex.com/) | [大家都是工作多久后达到的月入 2 万](https://www.v2ex.com/t/1002248)
