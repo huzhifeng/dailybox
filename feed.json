@@ -1,13 +1,6 @@
 {
 	"feed": [
 		{
-			"channel": "阮一峰的网络日志",
-			"portal": "https://www.ruanyifeng.com/blog/",
-			"url": "https://ruanyifeng.com/blog/atom.xml",
-			"category": "博客",
-			"tags": ["阮一峰", "博客"]
-		},
-		{
 			"channel": "酷壳",
 			"portal": "https://coolshell.cn/",
 			"url": "https://coolshell.cn/feed",
@@ -221,14 +214,6 @@
 			"tags": ["硬核观察", "Linux", "日报"]
 		},
 		{
-			"channel": "泰晓资讯",
-			"portal": "https://tinylab.org/albums/#%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF-ref",
-			"url": "https://tinylab.org/rss.xml",
-			"_comment": "https://github.com/tinyclub/tinylab.org",
-			"category": "开源",
-			"tags": ["泰晓资讯", "Linux"]
-		},
-		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",
@@ -355,20 +340,6 @@
 			"tags": ["Planet", "Linux", "KDE"]
 		},
 		{
-			"channel": "This Week in GNOME",
-			"portal": "https://thisweek.gnome.org/",
-			"url": "https://thisweek.gnome.org/index.xml",
-			"category": "开源",
-			"tags": ["Linux", "GNOME", "This Week in GNOME", "开源"]
-		},
-		{
-			"channel": "This week in KDE",
-			"portal": "https://pointieststick.com/",
-			"url": "https://pointieststick.com/feed/",
-			"category": "开源",
-			"tags": ["Linux", "KDE", "This week in KDE", "开源"]
-		},
-		{
 			"channel": "Awesome Open Source",
 			"portal": "https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g",
 			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g",
@@ -389,13 +360,6 @@
 			"_comment": "http://feeds.feedburner.com/tedtalks_video",
 			"category": "视频",
 			"tags": ["TED"]
-		},
-		{
-			"channel": "DistroWatch Weekly",
-			"portal": "https://distrowatch.com/weekly.php",
-			"url": "https://distrowatch.com/news/dww.xml",
-			"category": "资讯",
-			"tags": ["资讯", "DistroWatch", "周刊"]
 		},
 		{
 			"channel": "喷嚏网",
