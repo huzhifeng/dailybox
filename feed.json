@@ -546,37 +546,6 @@
 			}
 		},
 		{
-			"channel": "得到头条",
-			"portal": "https://www.dedao.cn/course/detail?id=nb9L2q1e3OxKBPNsdoJrgN8P0Rwo6B",
-			"url": "https://www.dedao.cn/pc/bauhinia/pc/class/purchase/article_list",
-			"category": "日报",
-			"tags": ["得到头条", "日报"],
-			"request": {
-				"method": "post",
-				"payload": {
-					"chapter_id": "2424",
-					"count": 10,
-					"detail_id": "nb9L2q1e3OxKBPNsdoJrgN8P0Rwo6B",
-					"include_edge": false,
-					"is_unlearn": false,
-					"max_id": 0,
-					"max_order_num": 0,
-					"reverse": true,
-					"since_id": 0,
-					"since_order_num": 0,
-					"unlearn_switch": false
-				}
-			},
-			"response": {
-				"list": "c.article_list"
-			},
-			"entry": {
-				"date": "publish_time",
-				"title": "title",
-				"link": "{trial_share_url}"
-			}
-		},
-		{
 			"channel": "CSDN排行榜",
 			"portal": "https://blog.csdn.net/rank/list",
 			"url": "https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=25&type=",
