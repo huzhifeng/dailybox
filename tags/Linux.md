@@ -1,3 +1,11 @@
+## 20231223
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1223 Mozilla 认为 “可信类型” 是一项值得信赖的安全功能](https://linux.cn/article-16497-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering](https://9to5linux.com/plymouth-linux-graphical-boot-manager-now-better-handles-display-rendering)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Control Center 2.1 Released with Exciting New Functions](https://9to5linux.com/tuxedo-control-center-2-1-released-with-exciting-new-functions)
+- [Planet GNOME](https://planet.gnome.org/) | [#127 Welcome News](https://thisweek.gnome.org/posts/2023/12/twig-127/)
+- [Planet KDE](https://planet.kde.org/) | [Introduction to Delivery Performance Analytics](https://toscalix.com/2023/12/22/delivery-performance-analytics-intro/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/?utm_source=atom_feed)
+
 ## 20231222
 - [Red Hat Developer](https://developers.redhat.com/) | [Getting started with RHEL on WSL](https://developers.redhat.com/articles/2023/12/21/getting-started-rhel-windows-subsystem-linux)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to get more from OpenShift Service Mesh monitoring](https://developers.redhat.com/articles/2023/12/21/how-get-more-openshift-service-mesh-monitoring)

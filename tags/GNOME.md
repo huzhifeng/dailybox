@@ -1,3 +1,6 @@
+## 20231223
+- [Planet GNOME](https://planet.gnome.org/) | [#127 Welcome News](https://thisweek.gnome.org/posts/2023/12/twig-127/)
+
 ## 20231220
 - [Planet GNOME](https://planet.gnome.org/) | [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#2 Another update on GNOME Settings](https://feborg.es/settings-news-2/)

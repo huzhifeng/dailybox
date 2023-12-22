@@ -1,3 +1,8 @@
+## 20231223
+- [Product Hunt](https://www.producthunt.com) | [BlogSEO AI Renewed](https://www.producthunt.com/posts/blogseo-ai-renewed)
+- [Product Hunt](https://www.producthunt.com) | [Midjourney v6](https://www.producthunt.com/posts/midjourney-v6)
+- [Product Hunt](https://www.producthunt.com) | [SMTP Debug Tool](https://www.producthunt.com/posts/smtp-debug-tool)
+
 ## 20231222
 - [Product Hunt](https://www.producthunt.com) | [Dropshipping Copilot](https://www.producthunt.com/posts/dropshipping-copilot)
 - [Product Hunt](https://www.producthunt.com) | [Spur](https://www.producthunt.com/posts/spur-4)
