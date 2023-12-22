@@ -336,20 +336,6 @@
 			"tags": ["Kaji", "Small Web"]
 		},
 		{
-			"channel": "豆瓣书评",
-			"portal": "https://book.douban.com/review/best/",
-			"url": "https://www.douban.com/feed/review/book",
-			"category": "漫游",
-			"tags": ["豆瓣书评"]
-		},
-		{
-			"channel": "豆瓣影评",
-			"portal": "https://movie.douban.com/review/best/",
-			"url": "https://www.douban.com/feed/review/movie",
-			"category": "漫游",
-			"tags": ["豆瓣影评"]
-		},
-		{
 			"channel": "V2EX",
 			"portal": "https://www.v2ex.com/",
 			"url": "https://rsshub.app/v2ex/topics/hot",
