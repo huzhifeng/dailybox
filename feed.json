@@ -577,25 +577,6 @@
 			}
 		},
 		{
-			"channel": "微博热搜",
-			"portal": "https://weibo.com/newlogin?tabtype=search",
-			"url": "https://weibo.com/ajax/side/hotSearch",
-			"_comment": "https://rsshub.app/weibo/search/hot",
-			"category": "资讯",
-			"tags": ["微博热搜", "资讯"],
-			"request": {
-				"method": "get"
-			},
-			"response": {
-				"list": "data.realtime"
-			},
-			"entry": {
-				"date": "onboard_time",
-				"title": "word",
-				"link": "https://s.weibo.com/weibo?q=%23{word}%23"
-			}
-		},
-		{
 			"channel": "CSDN排行榜",
 			"portal": "https://blog.csdn.net/rank/list",
 			"url": "https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=25&type=",
