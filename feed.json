@@ -4,6 +4,7 @@
 			"channel": "酷壳",
 			"portal": "https://coolshell.cn/",
 			"url": "https://coolshell.cn/feed",
+			"enable": 0,
 			"category": "博客",
 			"tags": ["陈皓", "酷壳", "博客"]
 		},
