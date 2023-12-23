@@ -1,3 +1,8 @@
+## 20231224
+- [Planet KDE](https://planet.kde.org/) | [Prog(ressive) C++ at Meeting C++](https://cukic.co/2023/12/23/prog-cpp/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE @ 37C3](https://www.volkerkrause.eu/2023/12/23/kde-37c3.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Holiday bug fixes](https://pointieststick.com/2023/12/22/this-week-in-kde-holiday-bug-fixes/?utm_source=atom_feed)
+
 ## 20231223
 - [Planet KDE](https://planet.kde.org/) | [Introduction to Delivery Performance Analytics](https://toscalix.com/2023/12/22/delivery-performance-analytics-intro/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/?utm_source=atom_feed)

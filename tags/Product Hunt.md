@@ -1,3 +1,7 @@
+## 20231224
+- [Product Hunt](https://www.producthunt.com) | [Hiresmrt ATS](https://www.producthunt.com/posts/hiresmrt-ats)
+- [Product Hunt](https://www.producthunt.com) | [Percept Pixel](https://www.producthunt.com/posts/percept-pixel)
+
 ## 20231223
 - [Product Hunt](https://www.producthunt.com) | [BlogSEO AI Renewed](https://www.producthunt.com/posts/blogseo-ai-renewed)
 - [Product Hunt](https://www.producthunt.com) | [Midjourney v6](https://www.producthunt.com/posts/midjourney-v6)

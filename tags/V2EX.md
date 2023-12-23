@@ -1,3 +1,8 @@
+## 20231224
+- [V2EX](https://www.v2ex.com/) | [送码与抽奖👏 英语学习插件 EnglishXYZ 送年度或永久会员等](https://www.v2ex.com/t/1002901)
+- [V2EX](https://www.v2ex.com/) | [水龙头的位置离热水器太远，放热水要放很久](https://www.v2ex.com/t/1002896)
+- [V2EX](https://www.v2ex.com/) | [[打折] 2023 年最后一周， App 打折啦🎉🎉](https://www.v2ex.com/t/1002884)
+
 ## 20231223
 - [V2EX](https://www.v2ex.com/) | [来点实际的！大家第一份工作月薪多少？？](https://www.v2ex.com/t/1002606)
 - [V2EX](https://www.v2ex.com/) | [明年目标：转向前端和移动开发](https://www.v2ex.com/t/1002591)

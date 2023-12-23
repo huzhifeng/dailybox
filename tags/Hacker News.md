@@ -1,3 +1,7 @@
+## 20231224
+- [Hacker News](https://news.ycombinator.com/front) | [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://news.ycombinator.com/item?id=38745668)
+- [Hacker News](https://news.ycombinator.com/front) | [Ferret: A Multimodal Large Language Model by Apple](https://news.ycombinator.com/item?id=38745348)
+
 ## 20231223
 - [Hacker News](https://news.ycombinator.com/front) | [From Nand to Tetris (2017)](https://news.ycombinator.com/item?id=38735066)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Heynote – A dedicated scratchpad for developers](https://news.ycombinator.com/item?id=38733968)

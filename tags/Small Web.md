@@ -1,3 +1,8 @@
+## 20231224
+- [Kagi Small Web](https://kagi.com/smallweb) | [Dämmstoffe](https://martin-thoma.com/daemstoffe/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Gerrit v3.9 is out](https://thiagowfx.github.io/2023/12/gerrit-v3.9-is-out/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [TRT World interview on failing UN pressure to end Israeli war on Gaza](https://antonyloewenstein.com/trt-world-interview-on-failing-un-pressure-to-end-israeli-war-on-gaza/)
+
 ## 20231220
 - [Kagi Small Web](https://kagi.com/smallweb) | [Getting an Unread Badge Count For the Docked Gmail Web App in macOS](https://blog.jim-nielsen.com/2023/unread-badge-macos-safari-web-app/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [6000 Years Ago, the Oldest Cities in Europe Ensured their Food with Cereals and Peas, without the Need for Meat](https://www.labrujulaverde.com/en/2023/12/6000-years-ago-the-oldest-cities-in-europe-ensured-their-food-with-cereals-and-peas-without-the-need-for-meat/)

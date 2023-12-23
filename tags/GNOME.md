@@ -1,3 +1,6 @@
+## 20231224
+- [Planet GNOME](https://planet.gnome.org/) | [Christmas Maps 2023](https://ml4711.blogspot.com/2023/12/christmas-maps-2023.html)
+
 ## 20231223
 - [Planet GNOME](https://planet.gnome.org/) | [#127 Welcome News](https://thisweek.gnome.org/posts/2023/12/twig-127/)
 
