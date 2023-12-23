@@ -1,3 +1,9 @@
+## 20231224
+- [Planet GNOME](https://planet.gnome.org/) | [Christmas Maps 2023](https://ml4711.blogspot.com/2023/12/christmas-maps-2023.html)
+- [Planet KDE](https://planet.kde.org/) | [Prog(ressive) C++ at Meeting C++](https://cukic.co/2023/12/23/prog-cpp/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE @ 37C3](https://www.volkerkrause.eu/2023/12/23/kde-37c3.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Holiday bug fixes](https://pointieststick.com/2023/12/22/this-week-in-kde-holiday-bug-fixes/?utm_source=atom_feed)
+
 ## 20231223
 - [Planet GNOME](https://planet.gnome.org/) | [#127 Welcome News](https://thisweek.gnome.org/posts/2023/12/twig-127/)
 - [Planet KDE](https://planet.kde.org/) | [Introduction to Delivery Performance Analytics](https://toscalix.com/2023/12/22/delivery-performance-analytics-intro/?utm_source=atom_feed)

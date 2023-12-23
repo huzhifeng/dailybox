@@ -1,3 +1,10 @@
+## 20231224
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1224 微软准备放弃其 Windows VR 平台](https://linux.cn/article-16500-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [Christmas Maps 2023](https://ml4711.blogspot.com/2023/12/christmas-maps-2023.html)
+- [Planet KDE](https://planet.kde.org/) | [Prog(ressive) C++ at Meeting C++](https://cukic.co/2023/12/23/prog-cpp/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE @ 37C3](https://www.volkerkrause.eu/2023/12/23/kde-37c3.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Holiday bug fixes](https://pointieststick.com/2023/12/22/this-week-in-kde-holiday-bug-fixes/?utm_source=atom_feed)
+
 ## 20231223
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1223 Mozilla 认为 “可信类型” 是一项值得信赖的安全功能](https://linux.cn/article-16497-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering](https://9to5linux.com/plymouth-linux-graphical-boot-manager-now-better-handles-display-rendering)

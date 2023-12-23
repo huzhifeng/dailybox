@@ -1,3 +1,6 @@
+## 20231224
+- [GitHub Advanced Search](https://github.com/search/advanced) | [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
+
 ## 20231221
 - [GitHub Advanced Search](https://github.com/search/advanced) | [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal)
 
