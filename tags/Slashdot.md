@@ -1,3 +1,7 @@
+## 20231225
+- [Slashdot](https://developers.slashdot.org/) | [Quantum Computing Gets a 'Hard, Cold Reality Check'](https://developers.slashdot.org/story/23/12/24/1747245/quantum-computing-gets-a-hard-cold-reality-check?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [30 Years of Donald Knuth's 'Christmas Lectures' Go Online - Including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231219
 - [Slashdot](https://developers.slashdot.org/) | [Creator of JSON Unveils New Programming Language 'Misty'](https://developers.slashdot.org/story/23/12/18/0634241/creator-of-json-unveils-new-programming-language-misty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

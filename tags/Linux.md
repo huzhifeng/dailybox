@@ -1,3 +1,7 @@
+## 20231225
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1225 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾](https://linux.cn/article-16502-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7.2 Improves Automatic Selection of Dolby Vision Level](https://9to5linux.com/handbrake-1-7-2-improves-automatic-selection-of-dolby-vision-level)
+
 ## 20231224
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1224 微软准备放弃其 Windows VR 平台](https://linux.cn/article-16500-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [Christmas Maps 2023](https://ml4711.blogspot.com/2023/12/christmas-maps-2023.html)

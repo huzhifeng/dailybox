@@ -1,3 +1,8 @@
+## 20231225
+- [V2EX](https://www.v2ex.com/) | [如何让一个位于海外的不了解技术朋友，简易地为我提供他家里的家宽网络？](https://www.v2ex.com/t/1003019)
+- [V2EX](https://www.v2ex.com/) | [24 届应届生 OFFER 选择求建议 银行 or 互联网？](https://www.v2ex.com/t/1003010)
+- [V2EX](https://www.v2ex.com/) | [家庭服务器、纯固态 nas 折腾分享](https://www.v2ex.com/t/1003004)
+
 ## 20231224
 - [V2EX](https://www.v2ex.com/) | [送码与抽奖👏 英语学习插件 EnglishXYZ 送年度或永久会员等](https://www.v2ex.com/t/1002901)
 - [V2EX](https://www.v2ex.com/) | [水龙头的位置离热水器太远，放热水要放很久](https://www.v2ex.com/t/1002896)

@@ -1,3 +1,6 @@
+## 20231225
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7.2 Improves Automatic Selection of Dolby Vision Level](https://9to5linux.com/handbrake-1-7-2-improves-automatic-selection-of-dolby-vision-level)
+
 ## 20231223
 - [9to5Linux](https://9to5linux.com/) | [Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering](https://9to5linux.com/plymouth-linux-graphical-boot-manager-now-better-handles-display-rendering)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Control Center 2.1 Released with Exciting New Functions](https://9to5linux.com/tuxedo-control-center-2-1-released-with-exciting-new-functions)
