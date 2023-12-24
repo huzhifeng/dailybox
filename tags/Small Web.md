@@ -1,3 +1,8 @@
+## 20231225
+- [Kagi Small Web](https://kagi.com/smallweb) | [Week 51: More full-fat](https://matthewsheret.wordpress.com/2023/12/24/week-51-more-full-fat/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [X-Men ’97 comic leads into the Disney+ show](https://smashpages.net/2023/12/24/x-men-97-comic-leads-into-the-disney-show/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Bookmarked “OpenAny: macOS app and file launching springboard”](https://decoding.io/2023/12/bookmarked-penany-macos-app-and-file-launching-springboard/)
+
 ## 20231224
 - [Kagi Small Web](https://kagi.com/smallweb) | [Dämmstoffe](https://martin-thoma.com/daemstoffe/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Gerrit v3.9 is out](https://thiagowfx.github.io/2023/12/gerrit-v3.9-is-out/)

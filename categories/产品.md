@@ -1,3 +1,8 @@
+## 20231225
+- [Product Hunt](https://www.producthunt.com) | [Download Bazar](https://www.producthunt.com/posts/download-bazar)
+- [Product Hunt](https://www.producthunt.com) | [JaevesAI Creative Suite 2.0 (Beta)](https://www.producthunt.com/posts/jaevesai-creative-suite-2-0-beta)
+- [Product Hunt](https://www.producthunt.com) | [Collab](https://www.producthunt.com/posts/collab-3)
+
 ## 20231224
 - [Product Hunt](https://www.producthunt.com) | [Hiresmrt ATS](https://www.producthunt.com/posts/hiresmrt-ats)
 - [Product Hunt](https://www.producthunt.com) | [Percept Pixel](https://www.producthunt.com/posts/percept-pixel)
