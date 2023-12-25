@@ -1,3 +1,8 @@
+## 20231226
+- [V2EX](https://www.v2ex.com/) | [以后互联网三巨头就是 BTP 了](https://www.v2ex.com/t/1003268)
+- [V2EX](https://www.v2ex.com/) | [一个候选人爽约，回头疯狂发消息解释说自己睡过头了闹钟没响](https://www.v2ex.com/t/1003196)
+- [V2EX](https://www.v2ex.com/) | [12 月去了一趟日本关西，分享我的游记](https://www.v2ex.com/t/1003185)
+
 ## 20231225
 - [V2EX](https://www.v2ex.com/) | [如何让一个位于海外的不了解技术朋友，简易地为我提供他家里的家宽网络？](https://www.v2ex.com/t/1003019)
 - [V2EX](https://www.v2ex.com/) | [24 届应届生 OFFER 选择求建议 银行 or 互联网？](https://www.v2ex.com/t/1003010)

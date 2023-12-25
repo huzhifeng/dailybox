@@ -1,3 +1,6 @@
+## 20231226
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 24th, 2023 &#8211; Happy Holidays!](https://9to5linux.com/9to5linux-weekly-roundup-december-24th-2023-happy-holidays)
+
 ## 20231225
 - [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7.2 Improves Automatic Selection of Dolby Vision Level](https://9to5linux.com/handbrake-1-7-2-improves-automatic-selection-of-dolby-vision-level)
 

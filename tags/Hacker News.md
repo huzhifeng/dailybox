@@ -1,3 +1,7 @@
+## 20231226
+- [Hacker News](https://news.ycombinator.com/front) | [Ruby 3.3](https://news.ycombinator.com/item?id=38760477)
+- [Hacker News](https://news.ycombinator.com/front) | [Cray-1 vs Raspberry Pi](https://news.ycombinator.com/item?id=38758355)
+
 ## 20231224
 - [Hacker News](https://news.ycombinator.com/front) | [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://news.ycombinator.com/item?id=38745668)
 - [Hacker News](https://news.ycombinator.com/front) | [Ferret: A Multimodal Large Language Model by Apple](https://news.ycombinator.com/item?id=38745348)
