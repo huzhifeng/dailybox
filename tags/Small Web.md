@@ -1,3 +1,8 @@
+## 20231226
+- [Kagi Small Web](https://kagi.com/smallweb) | [A Christmas Story](https://danielbmarkham.com/a-christmas-story/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [William K. Hartmann](https://70sscifiart.tumblr.com/post/737699399544832000)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Kindness brings a special goodness to both the person giving and the person receiving.](https://putah-creek.tumblr.com/post/737698757582503936)
+
 ## 20231225
 - [Kagi Small Web](https://kagi.com/smallweb) | [Week 51: More full-fat](https://matthewsheret.wordpress.com/2023/12/24/week-51-more-full-fat/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [X-Men ’97 comic leads into the Disney+ show](https://smashpages.net/2023/12/24/x-men-97-comic-leads-into-the-disney-show/)
