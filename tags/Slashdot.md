@@ -1,3 +1,6 @@
+## 20231227
+- [Slashdot](https://developers.slashdot.org/) | [The Beauty of Finished Software](https://tech.slashdot.org/story/23/12/26/103207/the-beauty-of-finished-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231225
 - [Slashdot](https://developers.slashdot.org/) | [Quantum Computing Gets a 'Hard, Cold Reality Check'](https://developers.slashdot.org/story/23/12/24/1747245/quantum-computing-gets-a-hard-cold-reality-check?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [30 Years of Donald Knuth's 'Christmas Lectures' Go Online - Including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s?utm_source=rss1.0mainlinkanon&utm_medium=feed)

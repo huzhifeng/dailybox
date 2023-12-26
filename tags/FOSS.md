@@ -1,3 +1,6 @@
+## 20231227
+- [It's FOSS](https://itsfoss.com/) | [Ctrl+C Ctrl+V Made Better With These Clipboard Managers in Linux](https://itsfoss.com/linux-clipboard-managers/)
+
 ## 20231222
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.51: Fish Shell, Free AI Course, Zorin 17, DG/UX UNIX and More](https://itsfoss.com/newsletter/foss-weekly-23-51/)
 

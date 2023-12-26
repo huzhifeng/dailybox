@@ -1,3 +1,8 @@
+## 20231227
+- [Kagi Small Web](https://kagi.com/smallweb) | [Fedora 39 mini-review on the Blackbird and Talos II (and other woes)](https://www.talospace.com/2023/12/fedora-39-mini-review-on-blackbird-and.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Monarch 10EE Tailstock Rebuilding](https://www.youtube.com/watch?v=79tLbfLgNpY)
+- [Kagi Small Web](https://kagi.com/smallweb) | [We&#8217;ve Remodeled Our Bathroom, So Now You Have to Take a Dump...](https://kottke.org/23/12/0043676-weve-remodeled-our-bathro)
+
 ## 20231226
 - [Kagi Small Web](https://kagi.com/smallweb) | [A Christmas Story](https://danielbmarkham.com/a-christmas-story/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [William K. Hartmann](https://70sscifiart.tumblr.com/post/737699399544832000)

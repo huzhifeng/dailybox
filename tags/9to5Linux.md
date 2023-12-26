@@ -1,3 +1,6 @@
+## 20231227
+- [9to5Linux](https://9to5linux.com/) | [Firefox 122 Enters Public Beta Testing with Improved Built-In Translation Feature](https://9to5linux.com/firefox-122-enters-public-beta-testing-with-improved-built-in-translation-feature)
+
 ## 20231226
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 24th, 2023 &#8211; Happy Holidays!](https://9to5linux.com/9to5linux-weekly-roundup-december-24th-2023-happy-holidays)
 

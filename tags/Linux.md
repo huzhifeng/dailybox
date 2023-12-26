@@ -1,3 +1,8 @@
+## 20231227
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1227 谷歌因影响营收拒绝改变 Play 商店收费模式](https://linux.cn/article-16508-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 122 Enters Public Beta Testing with Improved Built-In Translation Feature](https://9to5linux.com/firefox-122-enters-public-beta-testing-with-improved-built-in-translation-feature)
+- [Planet GNOME](https://planet.gnome.org/) | [Tagged PDF funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
+
 ## 20231226
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1226 Fedora 40 计划统一 /usr/bin 和 /usr/sbin](https://linux.cn/article-16505-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 24th, 2023 &#8211; Happy Holidays!](https://9to5linux.com/9to5linux-weekly-roundup-december-24th-2023-happy-holidays)

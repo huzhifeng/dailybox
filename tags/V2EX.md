@@ -1,3 +1,8 @@
+## 20231227
+- [V2EX](https://www.v2ex.com/) | [手游这东西到底还要不要继续玩下去](https://www.v2ex.com/t/1003484)
+- [V2EX](https://www.v2ex.com/) | [今天公司发了通告，年终奖没了](https://www.v2ex.com/t/1003467)
+- [V2EX](https://www.v2ex.com/) | [厦门新教师没编制，堂妹应该回老家拿编制还是留在厦门](https://www.v2ex.com/t/1003448)
+
 ## 20231226
 - [V2EX](https://www.v2ex.com/) | [以后互联网三巨头就是 BTP 了](https://www.v2ex.com/t/1003268)
 - [V2EX](https://www.v2ex.com/) | [一个候选人爽约，回头疯狂发消息解释说自己睡过头了闹钟没响](https://www.v2ex.com/t/1003196)
