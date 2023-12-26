@@ -1,3 +1,6 @@
+## 20231227
+- [Product Hunt](https://www.producthunt.com) | [Inbox Zero](https://www.producthunt.com/posts/inbox-zero-2)
+
 ## 20231225
 - [Product Hunt](https://www.producthunt.com) | [Download Bazar](https://www.producthunt.com/posts/download-bazar)
 - [Product Hunt](https://www.producthunt.com) | [JaevesAI Creative Suite 2.0 (Beta)](https://www.producthunt.com/posts/jaevesai-creative-suite-2-0-beta)

@@ -1,3 +1,6 @@
+## 20231227
+- [Hacker News](https://news.ycombinator.com/front) | [Japan to crack down on Apple and Google app store monopolies](https://news.ycombinator.com/item?id=38773429)
+
 ## 20231226
 - [Hacker News](https://news.ycombinator.com/front) | [Ruby 3.3](https://news.ycombinator.com/item?id=38760477)
 - [Hacker News](https://news.ycombinator.com/front) | [Cray-1 vs Raspberry Pi](https://news.ycombinator.com/item?id=38758355)

@@ -1,3 +1,6 @@
+## 20231227
+- [Planet GNOME](https://planet.gnome.org/) | [Tagged PDF funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
+
 ## 20231224
 - [Planet GNOME](https://planet.gnome.org/) | [Christmas Maps 2023](https://ml4711.blogspot.com/2023/12/christmas-maps-2023.html)
 
