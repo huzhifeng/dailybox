@@ -1,3 +1,7 @@
+## 20231228
+- [Hacker News](https://news.ycombinator.com/front) | [A National Evil – the curse of the goitre in Switzerland](https://news.ycombinator.com/item?id=38782954)
+- [Hacker News](https://news.ycombinator.com/front) | [DeskHop – Fast Desktop Switching](https://news.ycombinator.com/item?id=38780519)
+
 ## 20231227
 - [Hacker News](https://news.ycombinator.com/front) | [Japan to crack down on Apple and Google app store monopolies](https://news.ycombinator.com/item?id=38773429)
 

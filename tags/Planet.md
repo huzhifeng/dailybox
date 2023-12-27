@@ -1,3 +1,6 @@
+## 20231228
+- [Planet KDE](https://planet.kde.org/) | [Does Wayland really break everything?](https://pointieststick.com/2023/12/26/does-wayland-really-break-everything/?utm_source=atom_feed)
+
 ## 20231227
 - [Planet GNOME](https://planet.gnome.org/) | [Tagged PDF funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 

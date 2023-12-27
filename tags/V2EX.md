@@ -1,3 +1,8 @@
+## 20231228
+- [V2EX](https://www.v2ex.com/) | [mac 刚到 交出你们的 mac 都装了什么软件](https://www.v2ex.com/t/1003846)
+- [V2EX](https://www.v2ex.com/) | [各位程序员，你们一次能做多少个俯卧撑？](https://www.v2ex.com/t/1003785)
+- [V2EX](https://www.v2ex.com/) | [中间户邻居把门改外开，怎么破](https://www.v2ex.com/t/1003770)
+
 ## 20231227
 - [V2EX](https://www.v2ex.com/) | [手游这东西到底还要不要继续玩下去](https://www.v2ex.com/t/1003484)
 - [V2EX](https://www.v2ex.com/) | [今天公司发了通告，年终奖没了](https://www.v2ex.com/t/1003467)

@@ -1,3 +1,8 @@
+## 20231228
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1228 研究人员利用《哈利·波特》研究 AI 的“遗忘”功能](https://linux.cn/article-16511-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to Kafka Connect](https://developers.redhat.com/articles/2023/12/27/introduction-kafka-connect)
+- [Planet KDE](https://planet.kde.org/) | [Does Wayland really break everything?](https://pointieststick.com/2023/12/26/does-wayland-really-break-everything/?utm_source=atom_feed)
+
 ## 20231227
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1227 谷歌因影响营收拒绝改变 Play 商店收费模式](https://linux.cn/article-16508-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 122 Enters Public Beta Testing with Improved Built-In Translation Feature](https://9to5linux.com/firefox-122-enters-public-beta-testing-with-improved-built-in-translation-feature)

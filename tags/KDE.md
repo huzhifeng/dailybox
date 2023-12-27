@@ -1,3 +1,6 @@
+## 20231228
+- [Planet KDE](https://planet.kde.org/) | [Does Wayland really break everything?](https://pointieststick.com/2023/12/26/does-wayland-really-break-everything/?utm_source=atom_feed)
+
 ## 20231224
 - [Planet KDE](https://planet.kde.org/) | [Prog(ressive) C++ at Meeting C++](https://cukic.co/2023/12/23/prog-cpp/index.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE @ 37C3](https://www.volkerkrause.eu/2023/12/23/kde-37c3.html?utm_source=atom_feed)
