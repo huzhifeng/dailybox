@@ -1,3 +1,6 @@
+## 20231228
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to Kafka Connect](https://developers.redhat.com/articles/2023/12/27/introduction-kafka-connect)
+
 ## 20231222
 - [Red Hat Developer](https://developers.redhat.com/) | [Getting started with RHEL on WSL](https://developers.redhat.com/articles/2023/12/21/getting-started-rhel-windows-subsystem-linux)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to get more from OpenShift Service Mesh monitoring](https://developers.redhat.com/articles/2023/12/21/how-get-more-openshift-service-mesh-monitoring)
