@@ -1,3 +1,8 @@
+## 20231229
+- [Hacker News](https://news.ycombinator.com/front) | [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://news.ycombinator.com/item?id=38794068)
+- [Hacker News](https://news.ycombinator.com/front) | [IDEs we had 30 years ago](https://news.ycombinator.com/item?id=38792446)
+- [Hacker News](https://news.ycombinator.com/front) | [4B If Statements](https://news.ycombinator.com/item?id=38790597)
+
 ## 20231228
 - [Hacker News](https://news.ycombinator.com/front) | [A National Evil – the curse of the goitre in Switzerland](https://news.ycombinator.com/item?id=38782954)
 - [Hacker News](https://news.ycombinator.com/front) | [DeskHop – Fast Desktop Switching](https://news.ycombinator.com/item?id=38780519)

@@ -1,3 +1,8 @@
+## 20231229
+- [Planet GNOME](https://planet.gnome.org/) | [Unraveling the “Needle” in OpenQA Testing: A Tale of Precision and Visual Assertions](https://tanjuachaleke.wordpress.com/2023/12/28/unraveling-the-needle-in-openqa-testing-a-tale-of-precision-and-visual-assertions/)
+- [Planet GNOME](https://planet.gnome.org/) | [Creating Needles Without a local OpenQA Instance: Navigating the Challenges in GNOME’s Outreachy Project](https://dorothykabarozi.wordpress.com/2023/12/28/creating-needles-without-a-local-openqa-instance-navigating-the-challenges-in-gnomes-outreachy-project/)
+- [Planet GNOME](https://planet.gnome.org/) | [A Reflection on the LFX Mentorship Program](https://medium.com/@patronus15/a-reflection-on-the-lfx-mentorship-program-46ea3ac31366?source=rss-85f47818cc71------2)
+
 ## 20231227
 - [Planet GNOME](https://planet.gnome.org/) | [Tagged PDF funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 

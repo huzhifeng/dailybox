@@ -1,3 +1,8 @@
+## 20231229
+- [Kagi Small Web](https://kagi.com/smallweb) | [A look back at 2023](https://pawelgrzybek.com/a-look-back-at-2023/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [My Professional 2023](https://whatever.scalzi.com/2023/12/28/my-professional-2023/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Quick Reviews gets its annual update](https://birchtree.me/blog/quick-reviews-gets-its-annual/)
+
 ## 20231227
 - [Kagi Small Web](https://kagi.com/smallweb) | [Fedora 39 mini-review on the Blackbird and Talos II (and other woes)](https://www.talospace.com/2023/12/fedora-39-mini-review-on-blackbird-and.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Monarch 10EE Tailstock Rebuilding](https://www.youtube.com/watch?v=79tLbfLgNpY)

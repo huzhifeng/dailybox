@@ -1,3 +1,7 @@
+## 20231229
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.75.0](https://diff.blog/post/announcing-rust-1750-165139/)
+- [diff.blog](https://diff.blog/) | [This Week in Rust 527](https://diff.blog/post/this-week-in-rust-527-165075/)
+
 ## 20231227
 - [diff.blog](https://diff.blog/) | [Why Prusa is floundering, and how you can avoid their fate](https://diff.blog/post/why-prusa-is-floundering-and-how-you-can-avoid-their-fate-165005/)
 
