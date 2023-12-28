@@ -1,3 +1,8 @@
+## 20231229
+- [V2EX](https://www.v2ex.com/) | [一起讨论下「小米汽车技术发布会」？](https://www.v2ex.com/t/1004118)
+- [V2EX](https://www.v2ex.com/) | [注册 V2EX 五年了，聊一下我这几年生活！](https://www.v2ex.com/t/1004101)
+- [V2EX](https://www.v2ex.com/) | [我也年轻过，但是却不知道如何与年轻人对话](https://www.v2ex.com/t/1004081)
+
 ## 20231228
 - [V2EX](https://www.v2ex.com/) | [mac 刚到 交出你们的 mac 都装了什么软件](https://www.v2ex.com/t/1003846)
 - [V2EX](https://www.v2ex.com/) | [各位程序员，你们一次能做多少个俯卧撑？](https://www.v2ex.com/t/1003785)

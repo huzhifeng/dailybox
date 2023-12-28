@@ -1,3 +1,10 @@
+## 20231229
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1229 新的员工福利：心理健康聊天机器人](https://linux.cn/article-16514-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Operating OpenShift the SRE way](https://developers.redhat.com/articles/2023/12/28/operating-openshift-sre-way)
+- [Planet GNOME](https://planet.gnome.org/) | [Unraveling the “Needle” in OpenQA Testing: A Tale of Precision and Visual Assertions](https://tanjuachaleke.wordpress.com/2023/12/28/unraveling-the-needle-in-openqa-testing-a-tale-of-precision-and-visual-assertions/)
+- [Planet GNOME](https://planet.gnome.org/) | [Creating Needles Without a local OpenQA Instance: Navigating the Challenges in GNOME’s Outreachy Project](https://dorothykabarozi.wordpress.com/2023/12/28/creating-needles-without-a-local-openqa-instance-navigating-the-challenges-in-gnomes-outreachy-project/)
+- [Planet GNOME](https://planet.gnome.org/) | [A Reflection on the LFX Mentorship Program](https://medium.com/@patronus15/a-reflection-on-the-lfx-mentorship-program-46ea3ac31366?source=rss-85f47818cc71------2)
+
 ## 20231228
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1228 研究人员利用《哈利·波特》研究 AI 的“遗忘”功能](https://linux.cn/article-16511-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Introduction to Kafka Connect](https://developers.redhat.com/articles/2023/12/27/introduction-kafka-connect)

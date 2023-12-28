@@ -1,3 +1,6 @@
+## 20231229
+- [Red Hat Developer](https://developers.redhat.com/) | [Operating OpenShift the SRE way](https://developers.redhat.com/articles/2023/12/28/operating-openshift-sre-way)
+
 ## 20231228
 - [Red Hat Developer](https://developers.redhat.com/) | [Introduction to Kafka Connect](https://developers.redhat.com/articles/2023/12/27/introduction-kafka-connect)
 

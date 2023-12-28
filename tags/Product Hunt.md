@@ -1,3 +1,8 @@
+## 20231229
+- [Product Hunt](https://www.producthunt.com) | [Picyard](https://www.producthunt.com/posts/picyard-3)
+- [Product Hunt](https://www.producthunt.com) | [Genie AI](https://www.producthunt.com/posts/genie-ai-2)
+- [Product Hunt](https://www.producthunt.com) | [Spiritory](https://www.producthunt.com/posts/spiritory)
+
 ## 20231228
 - [Product Hunt](https://www.producthunt.com) | [FamHub app: Family Fun Together](https://www.producthunt.com/posts/famhub-app-family-fun-together)
 

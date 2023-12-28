@@ -1,3 +1,6 @@
+## 20231229
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.52: Winning Distros and Apps of 2023, Linux Books and More](https://itsfoss.com/newsletter/foss-weekly-23-52/)
+
 ## 20231227
 - [It's FOSS](https://itsfoss.com/) | [Ctrl+C Ctrl+V Made Better With These Clipboard Managers in Linux](https://itsfoss.com/linux-clipboard-managers/)
 
