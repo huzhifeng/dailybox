@@ -1,3 +1,6 @@
+## 20231230
+- [Red Hat Developer](https://developers.redhat.com/) | [Autoscaling Kafka workloads with custom metrics autoscaler](https://developers.redhat.com/articles/2023/12/29/autoscaling-kafka-workloads-custom-metrics-autoscaler)
+
 ## 20231229
 - [Red Hat Developer](https://developers.redhat.com/) | [Operating OpenShift the SRE way](https://developers.redhat.com/articles/2023/12/28/operating-openshift-sre-way)
 

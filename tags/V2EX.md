@@ -1,3 +1,8 @@
+## 20231230
+- [V2EX](https://www.v2ex.com/) | [🎁 嗯背单词双链功能已上线，助你轻松突破一万词汇量，评论抽取 20 个终身会员兑换码！](https://www.v2ex.com/t/1004459)
+- [V2EX](https://www.v2ex.com/) | [大家喜欢用 ORM 还是直接写 SQL](https://www.v2ex.com/t/1004383)
+- [V2EX](https://www.v2ex.com/) | [我的 2023 总结，一个程序员与物业的对抗之路](https://www.v2ex.com/t/1004375)
+
 ## 20231229
 - [V2EX](https://www.v2ex.com/) | [一起讨论下「小米汽车技术发布会」？](https://www.v2ex.com/t/1004118)
 - [V2EX](https://www.v2ex.com/) | [注册 V2EX 五年了，聊一下我这几年生活！](https://www.v2ex.com/t/1004101)

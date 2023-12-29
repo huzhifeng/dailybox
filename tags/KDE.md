@@ -1,3 +1,6 @@
+## 20231230
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/?utm_source=atom_feed)
+
 ## 20231228
 - [Planet KDE](https://planet.kde.org/) | [Does Wayland really break everything?](https://pointieststick.com/2023/12/26/does-wayland-really-break-everything/?utm_source=atom_feed)
 

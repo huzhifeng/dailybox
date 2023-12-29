@@ -1,3 +1,6 @@
+## 20231230
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/?utm_source=atom_feed)
+
 ## 20231229
 - [Planet GNOME](https://planet.gnome.org/) | [Unraveling the “Needle” in OpenQA Testing: A Tale of Precision and Visual Assertions](https://tanjuachaleke.wordpress.com/2023/12/28/unraveling-the-needle-in-openqa-testing-a-tale-of-precision-and-visual-assertions/)
 - [Planet GNOME](https://planet.gnome.org/) | [Creating Needles Without a local OpenQA Instance: Navigating the Challenges in GNOME’s Outreachy Project](https://dorothykabarozi.wordpress.com/2023/12/28/creating-needles-without-a-local-openqa-instance-navigating-the-challenges-in-gnomes-outreachy-project/)
