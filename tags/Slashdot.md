@@ -1,3 +1,6 @@
+## 20231230
+- [Slashdot](https://linux.slashdot.org/) | [Linux Is the Only OS To Support Diagonal PC Monitor Mode](https://hardware.slashdot.org/story/23/12/29/0453255/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231227
 - [Slashdot](https://developers.slashdot.org/) | [The Beauty of Finished Software](https://tech.slashdot.org/story/23/12/26/103207/the-beauty-of-finished-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

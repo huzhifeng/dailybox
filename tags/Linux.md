@@ -1,3 +1,9 @@
+## 20231230
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1230 《纽约时报》起诉 OpenAI 和微软](https://linux.cn/article-16516-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Autoscaling Kafka workloads with custom metrics autoscaler](https://developers.redhat.com/articles/2023/12/29/autoscaling-kafka-workloads-custom-metrics-autoscaler)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Is the Only OS To Support Diagonal PC Monitor Mode](https://hardware.slashdot.org/story/23/12/29/0453255/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231229
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1229 新的员工福利：心理健康聊天机器人](https://linux.cn/article-16514-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Operating OpenShift the SRE way](https://developers.redhat.com/articles/2023/12/28/operating-openshift-sre-way)

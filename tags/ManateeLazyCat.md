@@ -1,3 +1,6 @@
+## 20231230
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [怎么提升研发能力？](https://manateelazycat.github.io/2023/12/29/how-to-improve-development-capabilities/)
+
 ## 20231219
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [不同能力要看哪些书可以得到提升?](https://manateelazycat.github.io/2023/12/18/how-to-reading/)
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [坦克 500 Hi4-T 越野测试](https://manateelazycat.github.io/2023/12/18/tank-500-enhance/)
