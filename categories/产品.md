@@ -1,3 +1,6 @@
+## 20231231
+- [Product Hunt](https://www.producthunt.com) | [Xiaomi SU7](https://www.producthunt.com/posts/xiaomi-su7)
+
 ## 20231230
 - [Product Hunt](https://www.producthunt.com) | [Tibah](https://www.producthunt.com/posts/tibah)
 - [Product Hunt](https://www.producthunt.com) | [Canvas](https://www.producthunt.com/posts/canvas-36ba6109-cdaa-4a5d-a61c-8b5d3b5f1471)

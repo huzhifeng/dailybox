@@ -1,3 +1,8 @@
+## 20231231
+- [V2EX](https://www.v2ex.com/) | [2023 年，用一个字来总结你的年度？](https://www.v2ex.com/t/1004713)
+- [V2EX](https://www.v2ex.com/) | [那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679)
+- [V2EX](https://www.v2ex.com/) | [看到 b 站娶外国老婆的视频破防了](https://www.v2ex.com/t/1004661)
+
 ## 20231230
 - [V2EX](https://www.v2ex.com/) | [🎁 嗯背单词双链功能已上线，助你轻松突破一万词汇量，评论抽取 20 个终身会员兑换码！](https://www.v2ex.com/t/1004459)
 - [V2EX](https://www.v2ex.com/) | [大家喜欢用 ORM 还是直接写 SQL](https://www.v2ex.com/t/1004383)

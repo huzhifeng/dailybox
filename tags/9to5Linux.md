@@ -1,3 +1,6 @@
+## 20231231
+- [9to5Linux](https://9to5linux.com/) | [MX Linux Raspberry Pi Edition Officially Released for Raspberry Pi 5 and 4 SBCs](https://9to5linux.com/mx-linux-raspberry-pi-edition-officially-released-for-raspberry-pi-5-and-4-sbcs)
+
 ## 20231227
 - [9to5Linux](https://9to5linux.com/) | [Firefox 122 Enters Public Beta Testing with Improved Built-In Translation Feature](https://9to5linux.com/firefox-122-enters-public-beta-testing-with-improved-built-in-translation-feature)
 

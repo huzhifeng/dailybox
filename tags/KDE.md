@@ -1,3 +1,6 @@
+## 20231231
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icons Update!](https://anditosan.wordpress.com/2023/12/30/breeze-icons-update/?utm_source=atom_feed)
+
 ## 20231230
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/?utm_source=atom_feed)
 

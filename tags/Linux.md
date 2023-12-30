@@ -1,3 +1,8 @@
+## 20231231
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1231 在 Linux 上，开发者可以将屏幕倾斜 22° 来编程](https://linux.cn/article-16519-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux Raspberry Pi Edition Officially Released for Raspberry Pi 5 and 4 SBCs](https://9to5linux.com/mx-linux-raspberry-pi-edition-officially-released-for-raspberry-pi-5-and-4-sbcs)
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icons Update!](https://anditosan.wordpress.com/2023/12/30/breeze-icons-update/?utm_source=atom_feed)
+
 ## 20231230
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1230 《纽约时报》起诉 OpenAI 和微软](https://linux.cn/article-16516-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Autoscaling Kafka workloads with custom metrics autoscaler](https://developers.redhat.com/articles/2023/12/29/autoscaling-kafka-workloads-custom-metrics-autoscaler)
