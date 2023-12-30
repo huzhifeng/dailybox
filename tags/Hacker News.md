@@ -1,3 +1,6 @@
+## 20231231
+- [Hacker News](https://news.ycombinator.com/front) | [The art of high performance computing](https://news.ycombinator.com/item?id=38815334)
+
 ## 20231229
 - [Hacker News](https://news.ycombinator.com/front) | [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://news.ycombinator.com/item?id=38794068)
 - [Hacker News](https://news.ycombinator.com/front) | [IDEs we had 30 years ago](https://news.ycombinator.com/item?id=38792446)

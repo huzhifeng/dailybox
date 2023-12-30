@@ -1,3 +1,6 @@
+## 20231231
+- [diff.blog](https://diff.blog/) | [Why Android developers no longer need Windows USB drivers](https://diff.blog/post/why-android-developers-no-longer-need-windows-usb-drivers-165278/)
+
 ## 20231229
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.75.0](https://diff.blog/post/announcing-rust-1750-165139/)
 - [diff.blog](https://diff.blog/) | [This Week in Rust 527](https://diff.blog/post/this-week-in-rust-527-165075/)
