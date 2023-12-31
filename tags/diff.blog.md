@@ -1,3 +1,7 @@
+## 20240101
+- [diff.blog](https://diff.blog/) | [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://diff.blog/post/interesting-double-poly-latches-inside-amds-vintage-lance-ethernet-chip-165382/)
+- [diff.blog](https://diff.blog/) | [2023: Year in review](https://diff.blog/post/2023-year-in-review-165386/)
+
 ## 20231231
 - [diff.blog](https://diff.blog/) | [Why Android developers no longer need Windows USB drivers](https://diff.blog/post/why-android-developers-no-longer-need-windows-usb-drivers-165278/)
 

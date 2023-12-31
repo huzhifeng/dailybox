@@ -1,3 +1,8 @@
+## 20240101
+- [V2EX](https://www.v2ex.com/) | [V 友们 2024 新年快乐！](https://www.v2ex.com/t/1004877)
+- [V2EX](https://www.v2ex.com/) | [怎么样才能真正的戒掉手冲?](https://www.v2ex.com/t/1004819)
+- [V2EX](https://www.v2ex.com/) | [唉，彻底结束了。难受了一个下午。](https://www.v2ex.com/t/1004809)
+
 ## 20231231
 - [V2EX](https://www.v2ex.com/) | [2023 年，用一个字来总结你的年度？](https://www.v2ex.com/t/1004713)
 - [V2EX](https://www.v2ex.com/) | [那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679)

@@ -1,3 +1,6 @@
+## 20240101
+- [Slashdot](https://linux.slashdot.org/) | [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231230
 - [Slashdot](https://linux.slashdot.org/) | [Linux Is the Only OS To Support Diagonal PC Monitor Mode](https://hardware.slashdot.org/story/23/12/29/0453255/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

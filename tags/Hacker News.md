@@ -1,3 +1,8 @@
+## 20240101
+- [Hacker News](https://news.ycombinator.com/front) | [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
+- [Hacker News](https://news.ycombinator.com/front) | [Emacs-copilot: Large language model code completion for Emacs](https://news.ycombinator.com/item?id=38822164)
+- [Hacker News](https://news.ycombinator.com/front) | [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://news.ycombinator.com/item?id=38821248)
+
 ## 20231231
 - [Hacker News](https://news.ycombinator.com/front) | [The art of high performance computing](https://news.ycombinator.com/item?id=38815334)
 
