@@ -1,3 +1,6 @@
+## 20240101
+- [Product Hunt](https://www.producthunt.com) | [Resident Evil 4](https://www.producthunt.com/posts/resident-evil-4)
+
 ## 20231231
 - [Product Hunt](https://www.producthunt.com) | [Xiaomi SU7](https://www.producthunt.com/posts/xiaomi-su7)
 

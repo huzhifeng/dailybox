@@ -1,3 +1,7 @@
+## 20240101
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1232 GitHub 正式发布 Copilot 编程助手](https://linux.cn/article-16522-1.html?utm_source=rss&utm_medium=rss)
+- [Slashdot](https://linux.slashdot.org/) | [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20231231
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1231 在 Linux 上，开发者可以将屏幕倾斜 22° 来编程](https://linux.cn/article-16519-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [MX Linux Raspberry Pi Edition Officially Released for Raspberry Pi 5 and 4 SBCs](https://9to5linux.com/mx-linux-raspberry-pi-edition-officially-released-for-raspberry-pi-5-and-4-sbcs)
