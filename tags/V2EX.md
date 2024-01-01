@@ -1,3 +1,8 @@
+## 20240102
+- [V2EX](https://www.v2ex.com/) | [元旦 T 楼！ 送 Google One 2T + 京东 E 卡 300 元](https://www.v2ex.com/t/1004976)
+- [V2EX](https://www.v2ex.com/) | [原来蔡司镜片很多店都能 4,5 折](https://www.v2ex.com/t/1004950)
+- [V2EX](https://www.v2ex.com/) | [技术书看多了顿感无聊，这次就推荐三本哲学方面的书籍](https://www.v2ex.com/t/1004923)
+
 ## 20240101
 - [V2EX](https://www.v2ex.com/) | [V 友们 2024 新年快乐！](https://www.v2ex.com/t/1004877)
 - [V2EX](https://www.v2ex.com/) | [怎么样才能真正的戒掉手冲?](https://www.v2ex.com/t/1004819)

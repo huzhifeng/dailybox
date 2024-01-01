@@ -1,3 +1,7 @@
+## 20240102
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year)
+- [9to5Linux](https://9to5linux.com/) | [Scribus 1.6 Open-Source Desktop Publishing App Released as a Major Update](https://9to5linux.com/scribus-1-6-open-source-desktop-publishing-app-released-as-a-major-update)
+
 ## 20231231
 - [9to5Linux](https://9to5linux.com/) | [MX Linux Raspberry Pi Edition Officially Released for Raspberry Pi 5 and 4 SBCs](https://9to5linux.com/mx-linux-raspberry-pi-edition-officially-released-for-raspberry-pi-5-and-4-sbcs)
 

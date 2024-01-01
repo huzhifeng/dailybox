@@ -1,3 +1,6 @@
+## 20240102
+- [Product Hunt](https://www.producthunt.com) | [Freelancer Stash](https://www.producthunt.com/posts/freelancer-stash)
+
 ## 20240101
 - [Product Hunt](https://www.producthunt.com) | [Resident Evil 4](https://www.producthunt.com/posts/resident-evil-4)
 

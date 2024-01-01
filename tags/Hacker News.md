@@ -1,3 +1,6 @@
+## 20240102
+- [Hacker News](https://news.ycombinator.com/front) | [Procrastination is connected to perfectionism](https://news.ycombinator.com/item?id=38831446)
+
 ## 20240101
 - [Hacker News](https://news.ycombinator.com/front) | [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 - [Hacker News](https://news.ycombinator.com/front) | [Emacs-copilot: Large language model code completion for Emacs](https://news.ycombinator.com/item?id=38822164)
