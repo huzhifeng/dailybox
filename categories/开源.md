@@ -1,3 +1,7 @@
+## 20240102
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Upcoming talk: "Trust, confidentiality, and hardening: the virtio lessons" at LPC 2023](https://blog.vmsplice.net/2023/11/upcoming-talk-trust-confidentiality-and.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Storage literature notes on free space management and snapshots](https://blog.vmsplice.net/2024/01/storage-literature-notes-on-free-space.html)
+
 ## 20231231
 - [Planet KDE](https://planet.kde.org/) | [Breeze Icons Update!](https://anditosan.wordpress.com/2023/12/30/breeze-icons-update/?utm_source=atom_feed)
 

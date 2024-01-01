@@ -1,3 +1,10 @@
+## 20240102
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1233 基于源代码的 Gentoo Linux 也将提供二进制](https://linux.cn/article-16525-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year)
+- [9to5Linux](https://9to5linux.com/) | [Scribus 1.6 Open-Source Desktop Publishing App Released as a Major Update](https://9to5linux.com/scribus-1-6-open-source-desktop-publishing-app-released-as-a-major-update)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Upcoming talk: "Trust, confidentiality, and hardening: the virtio lessons" at LPC 2023](https://blog.vmsplice.net/2023/11/upcoming-talk-trust-confidentiality-and.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Storage literature notes on free space management and snapshots](https://blog.vmsplice.net/2024/01/storage-literature-notes-on-free-space.html)
+
 ## 20240101
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1232 GitHub 正式发布 Copilot 编程助手](https://linux.cn/article-16522-1.html?utm_source=rss&utm_medium=rss)
 - [Slashdot](https://linux.slashdot.org/) | [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)

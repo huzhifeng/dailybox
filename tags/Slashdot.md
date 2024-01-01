@@ -1,3 +1,6 @@
+## 20240102
+- [Slashdot](https://developers.slashdot.org/) | [Since the Demise of Atom, 'Pulsar' Offers an Alternative Code Editor](https://tech.slashdot.org/story/24/01/01/016215/since-the-demise-of-atom-pulsar-offers-an-alternative-code-editor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240101
 - [Slashdot](https://linux.slashdot.org/) | [Source-Based Gentoo Linux Goes Binary](https://linux.slashdot.org/story/23/12/30/1756208/source-based-gentoo-linux-goes-binary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
