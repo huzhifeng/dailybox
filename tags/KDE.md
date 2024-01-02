@@ -1,3 +1,6 @@
+## 20240103
+- [Planet KDE](https://planet.kde.org/) | [Cleaning up KDE's metadata - the little things matter too](https://write.as/alexander-lohnau/cleaning-up-kdes-metadata-the-little-things-matter-too?pk_campaign=rss-feed?utm_source=atom_feed)
+
 ## 20231231
 - [Planet KDE](https://planet.kde.org/) | [Breeze Icons Update!](https://anditosan.wordpress.com/2023/12/30/breeze-icons-update/?utm_source=atom_feed)
 

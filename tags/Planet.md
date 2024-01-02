@@ -1,3 +1,9 @@
+## 20240103
+- [Planet virt-tools](https://planet.virt-tools.org/) | [QEMU AioContext removal and how it was done](https://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
+- [Planet GNOME](https://planet.gnome.org/) | [C++ module tooling emulator playground](https://nibblestew.blogspot.com/2024/01/c-module-tooling-emulator-playground.html)
+- [Planet KDE](https://planet.kde.org/) | [Cleaning up KDE's metadata - the little things matter too](https://write.as/alexander-lohnau/cleaning-up-kdes-metadata-the-little-things-matter-too?pk_campaign=rss-feed?utm_source=atom_feed)
+
 ## 20240102
 - [Planet virt-tools](https://planet.virt-tools.org/) | [Upcoming talk: "Trust, confidentiality, and hardening: the virtio lessons" at LPC 2023](https://blog.vmsplice.net/2023/11/upcoming-talk-trust-confidentiality-and.html)
 - [Planet virt-tools](https://planet.virt-tools.org/) | [Storage literature notes on free space management and snapshots](https://blog.vmsplice.net/2024/01/storage-literature-notes-on-free-space.html)

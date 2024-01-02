@@ -1,3 +1,6 @@
+## 20240103
+- [TED Talks Daily](https://www.ted.com/talks) | [Life is hard. Art helps | Liana Finck](https://www.ted.com/talks/liana_finck_life_is_hard_art_helps?rss)
+
 ## 20231222
 - [TED Talks Daily](https://www.ted.com/talks) | [Why businesses need a dreamer's magic and a doer's realism | Beth Viner](https://www.ted.com/talks/beth_viner_why_businesses_need_a_dreamer_s_magic_and_a_doer_s_realism?rss)
 

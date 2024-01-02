@@ -1,3 +1,6 @@
+## 20240103
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Distro Nitrux Kicks Off 2024 with New ISO Release](https://9to5linux.com/systemd-free-distro-nitrux-kicks-off-2024-with-new-iso-release)
+
 ## 20240102
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year)
 - [9to5Linux](https://9to5linux.com/) | [Scribus 1.6 Open-Source Desktop Publishing App Released as a Major Update](https://9to5linux.com/scribus-1-6-open-source-desktop-publishing-app-released-as-a-major-update)

@@ -1,3 +1,13 @@
+## 20240103
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1234 流量分析显示，6G 标准该准备了](https://linux.cn/article-16527-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Exploring x86-64-v3 for Red Hat Enterprise Linux 10](https://developers.redhat.com/articles/2024/01/02/exploring-x86-64-v3-red-hat-enterprise-linux-10)
+- [Red Hat Developer](https://developers.redhat.com/) | [How lazy debuginfo loading improves GDB and Valgrind](https://developers.redhat.com/articles/2024/01/02/how-lazy-debuginfo-loading-improves-gdb-and-valgrind)
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Distro Nitrux Kicks Off 2024 with New ISO Release](https://9to5linux.com/systemd-free-distro-nitrux-kicks-off-2024-with-new-iso-release)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [QEMU AioContext removal and how it was done](https://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
+- [Planet GNOME](https://planet.gnome.org/) | [C++ module tooling emulator playground](https://nibblestew.blogspot.com/2024/01/c-module-tooling-emulator-playground.html)
+- [Planet KDE](https://planet.kde.org/) | [Cleaning up KDE's metadata - the little things matter too](https://write.as/alexander-lohnau/cleaning-up-kdes-metadata-the-little-things-matter-too?pk_campaign=rss-feed?utm_source=atom_feed)
+
 ## 20240102
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1233 基于源代码的 Gentoo Linux 也将提供二进制](https://linux.cn/article-16525-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year)

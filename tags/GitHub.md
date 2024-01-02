@@ -1,3 +1,6 @@
+## 20240103
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)
+
 ## 20231224
 - [GitHub Advanced Search](https://github.com/search/advanced) | [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 
