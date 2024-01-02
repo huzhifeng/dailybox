@@ -1,3 +1,7 @@
+## 20240103
+- [diff.blog](https://diff.blog/) | [LLMs and Programming in the first days of 2024](https://diff.blog/post/llms-and-programming-in-the-first-days-of-2024-165488/)
+- [diff.blog](https://diff.blog/) | [The I in LLM stands for intelligence](https://diff.blog/post/the-i-in-llm-stands-for-intelligence-165489/)
+
 ## 20240101
 - [diff.blog](https://diff.blog/) | [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://diff.blog/post/interesting-double-poly-latches-inside-amds-vintage-lance-ethernet-chip-165382/)
 - [diff.blog](https://diff.blog/) | [2023: Year in review](https://diff.blog/post/2023-year-in-review-165386/)

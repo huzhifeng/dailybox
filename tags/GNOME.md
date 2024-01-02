@@ -1,3 +1,7 @@
+## 20240103
+- [Planet GNOME](https://planet.gnome.org/) | [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
+- [Planet GNOME](https://planet.gnome.org/) | [C++ module tooling emulator playground](https://nibblestew.blogspot.com/2024/01/c-module-tooling-emulator-playground.html)
+
 ## 20231229
 - [Planet GNOME](https://planet.gnome.org/) | [Unraveling the “Needle” in OpenQA Testing: A Tale of Precision and Visual Assertions](https://tanjuachaleke.wordpress.com/2023/12/28/unraveling-the-needle-in-openqa-testing-a-tale-of-precision-and-visual-assertions/)
 - [Planet GNOME](https://planet.gnome.org/) | [Creating Needles Without a local OpenQA Instance: Navigating the Challenges in GNOME’s Outreachy Project](https://dorothykabarozi.wordpress.com/2023/12/28/creating-needles-without-a-local-openqa-instance-navigating-the-challenges-in-gnomes-outreachy-project/)

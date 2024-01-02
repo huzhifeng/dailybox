@@ -1,3 +1,6 @@
+## 20240103
+- [It's FOSS](https://itsfoss.com/) | [Using GDM Settings to Customize Login Screen in GNOME](https://itsfoss.com/customize-gdm-login/)
+
 ## 20231229
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #23.52: Winning Distros and Apps of 2023, Linux Books and More](https://itsfoss.com/newsletter/foss-weekly-23-52/)
 

@@ -1,3 +1,8 @@
+## 20240103
+- [V2EX](https://www.v2ex.com/) | [[杭州]买车容易停车难](https://www.v2ex.com/t/1005156)
+- [V2EX](https://www.v2ex.com/) | [每个月四千多的房贷，对于我 24 岁的人来说压力大嘛](https://www.v2ex.com/t/1005153)
+- [V2EX](https://www.v2ex.com/) | [2024 上班第一天有啥感想没？](https://www.v2ex.com/t/1005080)
+
 ## 20240102
 - [V2EX](https://www.v2ex.com/) | [元旦 T 楼！ 送 Google One 2T + 京东 E 卡 300 元](https://www.v2ex.com/t/1004976)
 - [V2EX](https://www.v2ex.com/) | [原来蔡司镜片很多店都能 4,5 折](https://www.v2ex.com/t/1004950)

@@ -1,3 +1,6 @@
+## 20240103
+- [Hacker News](https://news.ycombinator.com/front) | [1D Pac-Man](https://news.ycombinator.com/item?id=38845510)
+
 ## 20240102
 - [Hacker News](https://news.ycombinator.com/front) | [Procrastination is connected to perfectionism](https://news.ycombinator.com/item?id=38831446)
 
