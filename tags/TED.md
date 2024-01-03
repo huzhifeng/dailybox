@@ -1,3 +1,6 @@
+## 20240104
+- [TED Talks Daily](https://www.ted.com/talks) | [What's your leadership language? | Rosita Najmi](https://www.ted.com/talks/rosita_najmi_what_s_your_leadership_language?rss)
+
 ## 20240103
 - [TED Talks Daily](https://www.ted.com/talks) | [Life is hard. Art helps | Liana Finck](https://www.ted.com/talks/liana_finck_life_is_hard_art_helps?rss)
 

@@ -1,3 +1,7 @@
+## 20240104
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1235 虽然 Firefox 市场份额继续下滑，但其 CEO 在涨薪](https://linux.cn/article-16530-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Wrapping up](https://developers.redhat.com/articles/2024/01/03/introduction-nodejs-reference-architecture-wrapping)
+
 ## 20240103
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1234 流量分析显示，6G 标准该准备了](https://linux.cn/article-16527-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Exploring x86-64-v3 for Red Hat Enterprise Linux 10](https://developers.redhat.com/articles/2024/01/02/exploring-x86-64-v3-red-hat-enterprise-linux-10)

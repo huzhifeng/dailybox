@@ -1,3 +1,8 @@
+## 20240104
+- [Hacker News](https://news.ycombinator.com/front) | [Niklaus Wirth has died](https://news.ycombinator.com/item?id=38858012)
+- [Hacker News](https://news.ycombinator.com/front) | [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://news.ycombinator.com/item?id=38853706)
+- [Hacker News](https://news.ycombinator.com/front) | [Maestro: A Linux-compatible kernel in Rust](https://news.ycombinator.com/item?id=38852360)
+
 ## 20240103
 - [Hacker News](https://news.ycombinator.com/front) | [1D Pac-Man](https://news.ycombinator.com/item?id=38845510)
 
