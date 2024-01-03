@@ -1,3 +1,8 @@
+## 20240104
+- [V2EX](https://www.v2ex.com/) | [如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514)
+- [V2EX](https://www.v2ex.com/) | [一百万如何进行简单的理财](https://www.v2ex.com/t/1005508)
+- [V2EX](https://www.v2ex.com/) | [上海联通坐标普陀，因 PT 被运营商直接停机](https://www.v2ex.com/t/1005459)
+
 ## 20240103
 - [V2EX](https://www.v2ex.com/) | [[杭州]买车容易停车难](https://www.v2ex.com/t/1005156)
 - [V2EX](https://www.v2ex.com/) | [每个月四千多的房贷，对于我 24 岁的人来说压力大嘛](https://www.v2ex.com/t/1005153)

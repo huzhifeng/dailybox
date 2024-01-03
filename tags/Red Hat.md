@@ -1,3 +1,6 @@
+## 20240104
+- [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Wrapping up](https://developers.redhat.com/articles/2024/01/03/introduction-nodejs-reference-architecture-wrapping)
+
 ## 20240103
 - [Red Hat Developer](https://developers.redhat.com/) | [Exploring x86-64-v3 for Red Hat Enterprise Linux 10](https://developers.redhat.com/articles/2024/01/02/exploring-x86-64-v3-red-hat-enterprise-linux-10)
 - [Red Hat Developer](https://developers.redhat.com/) | [How lazy debuginfo loading improves GDB and Valgrind](https://developers.redhat.com/articles/2024/01/02/how-lazy-debuginfo-loading-improves-gdb-and-valgrind)

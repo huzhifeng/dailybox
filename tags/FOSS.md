@@ -1,3 +1,6 @@
+## 20240104
+- [It's FOSS](https://itsfoss.com/) | [How to Check if Your Linux System Uses systemd](https://itsfoss.com/check-if-systemd/)
+
 ## 20240103
 - [It's FOSS](https://itsfoss.com/) | [Using GDM Settings to Customize Login Screen in GNOME](https://itsfoss.com/customize-gdm-login/)
 
