@@ -1,3 +1,7 @@
+## 20240105
+- [Red Hat Developer](https://developers.redhat.com/) | [Mastering Kafka migration with MirrorMaker 2](https://developers.redhat.com/articles/2024/01/04/mastering-kafka-migration-mirrormaker-2)
+- [Red Hat Developer](https://developers.redhat.com/) | [An update on packet drop reasons in Linux](https://developers.redhat.com/articles/2024/01/04/update-packet-drop-reasons-linux)
+
 ## 20240104
 - [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Wrapping up](https://developers.redhat.com/articles/2024/01/03/introduction-nodejs-reference-architecture-wrapping)
 

@@ -1,3 +1,8 @@
+## 20240105
+- [Product Hunt](https://www.producthunt.com) | [Data Dead Drop](https://www.producthunt.com/posts/data-dead-drop)
+- [Product Hunt](https://www.producthunt.com) | [Convertixo for e-commerce](https://www.producthunt.com/posts/convertixo-for-e-commerce)
+- [Product Hunt](https://www.producthunt.com) | [CompressX](https://www.producthunt.com/posts/compressx)
+
 ## 20240104
 - [Product Hunt](https://www.producthunt.com) | [ApparenceKit](https://www.producthunt.com/posts/apparencekit-2)
 - [Product Hunt](https://www.producthunt.com) | [Moodboard Creator](https://www.producthunt.com/posts/moodboard-creator)
