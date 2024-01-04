@@ -1,3 +1,7 @@
+## 20240105
+- [Slashdot](https://linux.slashdot.org/) | [Linux Hits Nearly 4% Desktop User Share on Statcounter](https://linux.slashdot.org/story/24/01/04/1317203/linux-hits-nearly-4-desktop-user-share-on-statcounter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Niklaus Wirth, Inventor of Pascal, Dies At 89](https://developers.slashdot.org/story/24/01/04/0126247/niklaus-wirth-inventor-of-pascal-dies-at-89?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240102
 - [Slashdot](https://developers.slashdot.org/) | [Since the Demise of Atom, 'Pulsar' Offers an Alternative Code Editor](https://tech.slashdot.org/story/24/01/01/016215/since-the-demise-of-atom-pulsar-offers-an-alternative-code-editor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

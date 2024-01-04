@@ -1,3 +1,8 @@
+## 20240105
+- [V2EX](https://www.v2ex.com/) | [Windows 下开发小应用 GUI，真的很难选方案](https://www.v2ex.com/t/1005903)
+- [V2EX](https://www.v2ex.com/) | [graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用](https://www.v2ex.com/t/1005841)
+- [V2EX](https://www.v2ex.com/) | [这些年最明智的决策之一：先买房后买车](https://www.v2ex.com/t/1005799)
+
 ## 20240104
 - [V2EX](https://www.v2ex.com/) | [如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514)
 - [V2EX](https://www.v2ex.com/) | [一百万如何进行简单的理财](https://www.v2ex.com/t/1005508)

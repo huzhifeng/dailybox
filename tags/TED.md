@@ -1,3 +1,6 @@
+## 20240105
+- [TED Talks Daily](https://www.ted.com/talks) | [The vital data you flush down the toilet | Newsha Ghaeli](https://www.ted.com/talks/newsha_ghaeli_the_vital_data_you_flush_down_the_toilet?rss)
+
 ## 20240104
 - [TED Talks Daily](https://www.ted.com/talks) | [What's your leadership language? | Rosita Najmi](https://www.ted.com/talks/rosita_najmi_what_s_your_leadership_language?rss)
 

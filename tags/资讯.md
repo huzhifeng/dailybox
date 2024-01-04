@@ -1,3 +1,7 @@
+## 20240105
+- [diff.blog](https://diff.blog/) | [Shaping the future of advanced robotics](https://diff.blog/post/shaping-the-future-of-advanced-robotics-165646/)
+- [diff.blog](https://diff.blog/) | [The Pulse: Will US companies hire fewer engineers due to Section 174?](https://diff.blog/post/the-pulse-will-us-companies-hire-fewer-engineers-due-to-section-174-165656/)
+
 ## 20240103
 - [diff.blog](https://diff.blog/) | [LLMs and Programming in the first days of 2024](https://diff.blog/post/llms-and-programming-in-the-first-days-of-2024-165488/)
 - [diff.blog](https://diff.blog/) | [The I in LLM stands for intelligence](https://diff.blog/post/the-i-in-llm-stands-for-intelligence-165489/)

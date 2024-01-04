@@ -1,3 +1,6 @@
+## 20240105
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.01: Linux in 2024, GDM Customization, Distros You Missed Last Year](https://itsfoss.com/newsletter/foss-weekly-24-01/)
+
 ## 20240104
 - [It's FOSS](https://itsfoss.com/) | [How to Check if Your Linux System Uses systemd](https://itsfoss.com/check-if-systemd/)
 

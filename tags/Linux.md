@@ -1,3 +1,11 @@
+## 20240105
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1236 已知最古老的 MS-DOS 前身版本](https://linux.cn/article-16533-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Mastering Kafka migration with MirrorMaker 2](https://developers.redhat.com/articles/2024/01/04/mastering-kafka-migration-mirrormaker-2)
+- [Red Hat Developer](https://developers.redhat.com/) | [An update on packet drop reasons in Linux](https://developers.redhat.com/articles/2024/01/04/update-packet-drop-reasons-linux)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 EDGE ISO to Ship with Linux 6.5, Addressing Hardware Issues](https://9to5linux.com/linux-mint-21-3-edge-iso-to-ship-with-linux-6-5-addressing-hardware-issues)
+- [9to5Linux](https://9to5linux.com/) | [Debian Bookworm and Bullseye Users Receive Important Linux Security Updates](https://9to5linux.com/debian-bookworm-and-bullseye-users-receive-important-linux-security-updates)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Hits Nearly 4% Desktop User Share on Statcounter](https://linux.slashdot.org/story/24/01/04/1317203/linux-hits-nearly-4-desktop-user-share-on-statcounter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240104
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1235 虽然 Firefox 市场份额继续下滑，但其 CEO 在涨薪](https://linux.cn/article-16530-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Introduction to the Node.js reference architecture: Wrapping up](https://developers.redhat.com/articles/2024/01/03/introduction-nodejs-reference-architecture-wrapping)

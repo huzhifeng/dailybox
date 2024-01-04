@@ -1,3 +1,6 @@
+## 20240105
+- [Hacker News](https://news.ycombinator.com/front) | [Power over fiber](https://news.ycombinator.com/item?id=38865518)
+
 ## 20240104
 - [Hacker News](https://news.ycombinator.com/front) | [Niklaus Wirth has died](https://news.ycombinator.com/item?id=38858012)
 - [Hacker News](https://news.ycombinator.com/front) | [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://news.ycombinator.com/item?id=38853706)

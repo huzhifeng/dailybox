@@ -1,3 +1,7 @@
+## 20240105
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 EDGE ISO to Ship with Linux 6.5, Addressing Hardware Issues](https://9to5linux.com/linux-mint-21-3-edge-iso-to-ship-with-linux-6-5-addressing-hardware-issues)
+- [9to5Linux](https://9to5linux.com/) | [Debian Bookworm and Bullseye Users Receive Important Linux Security Updates](https://9to5linux.com/debian-bookworm-and-bullseye-users-receive-important-linux-security-updates)
+
 ## 20240103
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Distro Nitrux Kicks Off 2024 with New ISO Release](https://9to5linux.com/systemd-free-distro-nitrux-kicks-off-2024-with-new-iso-release)
 
