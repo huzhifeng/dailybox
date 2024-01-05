@@ -1,3 +1,8 @@
+## 20240106
+- [V2EX](https://www.v2ex.com/) | [已婚有娃，目前小学，有机会去日本，要考虑吗？](https://www.v2ex.com/t/1006224)
+- [V2EX](https://www.v2ex.com/) | [有什么能快速开发网站的框架或语言吗](https://www.v2ex.com/t/1006194)
+- [V2EX](https://www.v2ex.com/) | [基金亏了 30% 了，该止损了吗？](https://www.v2ex.com/t/1006104)
+
 ## 20240105
 - [V2EX](https://www.v2ex.com/) | [Windows 下开发小应用 GUI，真的很难选方案](https://www.v2ex.com/t/1005903)
 - [V2EX](https://www.v2ex.com/) | [graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用](https://www.v2ex.com/t/1005841)

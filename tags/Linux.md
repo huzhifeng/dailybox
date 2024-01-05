@@ -1,3 +1,13 @@
+## 20240106
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Enable fine-grained API authorization using Keycloak and 3scale](https://developers.redhat.com/articles/2024/01/05/enable-fine-grained-api-authorization-using-keycloak-and-3scale)
+- [Planet GNOME](https://planet.gnome.org/) | [scheme modules vs whole-program compilation: fight](https://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
+- [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.12: Two-toned Editor](https://blogs.gnome.org/jrb/2024/01/05/crosswords-0-3-12-two-toned-editor/)
+- [Planet GNOME](https://planet.gnome.org/) | [Cross-border rail in 2023](https://samthursfield.wordpress.com/2024/01/05/cross-border-rail-in-2023/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [New Video: Krita 5.2 Features!](https://krita.org/en/item/new-video-krita-5-2-features/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Two Breeze Icon Updates](https://anditosan.wordpress.com/2024/01/05/two-breeze-icon-updates/?utm_source=atom_feed)
+
 ## 20240105
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1236 已知最古老的 MS-DOS 前身版本](https://linux.cn/article-16533-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Mastering Kafka migration with MirrorMaker 2](https://developers.redhat.com/articles/2024/01/04/mastering-kafka-migration-mirrormaker-2)

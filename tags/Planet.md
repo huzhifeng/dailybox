@@ -1,3 +1,11 @@
+## 20240106
+- [Planet GNOME](https://planet.gnome.org/) | [scheme modules vs whole-program compilation: fight](https://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
+- [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.12: Two-toned Editor](https://blogs.gnome.org/jrb/2024/01/05/crosswords-0-3-12-two-toned-editor/)
+- [Planet GNOME](https://planet.gnome.org/) | [Cross-border rail in 2023](https://samthursfield.wordpress.com/2024/01/05/cross-border-rail-in-2023/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [New Video: Krita 5.2 Features!](https://krita.org/en/item/new-video-krita-5-2-features/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Two Breeze Icon Updates](https://anditosan.wordpress.com/2024/01/05/two-breeze-icon-updates/?utm_source=atom_feed)
+
 ## 20240103
 - [Planet virt-tools](https://planet.virt-tools.org/) | [QEMU AioContext removal and how it was done](https://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
