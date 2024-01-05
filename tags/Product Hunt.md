@@ -1,3 +1,8 @@
+## 20240106
+- [Product Hunt](https://www.producthunt.com) | [Typeform Alternative By MakeForms](https://www.producthunt.com/posts/typeform-alternative-by-makeforms)
+- [Product Hunt](https://www.producthunt.com) | [The Bulletproof Notion Workspace 4.0](https://www.producthunt.com/posts/the-bulletproof-notion-workspace-4-0)
+- [Product Hunt](https://www.producthunt.com) | [PH Hunters](https://www.producthunt.com/posts/ph-hunters)
+
 ## 20240105
 - [Product Hunt](https://www.producthunt.com) | [Data Dead Drop](https://www.producthunt.com/posts/data-dead-drop)
 - [Product Hunt](https://www.producthunt.com) | [Convertixo for e-commerce](https://www.producthunt.com/posts/convertixo-for-e-commerce)

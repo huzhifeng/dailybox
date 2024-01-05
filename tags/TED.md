@@ -1,3 +1,7 @@
+## 20240106
+- [TED Talks Daily](https://www.ted.com/talks) | [Enough red tape — we need to say yes to clean energy | Rich Powell](https://www.ted.com/talks/rich_powell_enough_red_tape_we_need_to_say_yes_to_clean_energy?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Don't be a jerk to your barista — and other thoughts on frontline work | Adriann Negreros](https://www.ted.com/talks/adriann_negreros_don_t_be_a_jerk_to_your_barista_and_other_thoughts_on_frontline_work?rss)
+
 ## 20240105
 - [TED Talks Daily](https://www.ted.com/talks) | [The vital data you flush down the toilet | Newsha Ghaeli](https://www.ted.com/talks/newsha_ghaeli_the_vital_data_you_flush_down_the_toilet?rss)
 

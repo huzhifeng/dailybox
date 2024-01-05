@@ -1,3 +1,6 @@
+## 20240106
+- [Red Hat Developer](https://developers.redhat.com/) | [Enable fine-grained API authorization using Keycloak and 3scale](https://developers.redhat.com/articles/2024/01/05/enable-fine-grained-api-authorization-using-keycloak-and-3scale)
+
 ## 20240105
 - [Red Hat Developer](https://developers.redhat.com/) | [Mastering Kafka migration with MirrorMaker 2](https://developers.redhat.com/articles/2024/01/04/mastering-kafka-migration-mirrormaker-2)
 - [Red Hat Developer](https://developers.redhat.com/) | [An update on packet drop reasons in Linux](https://developers.redhat.com/articles/2024/01/04/update-packet-drop-reasons-linux)

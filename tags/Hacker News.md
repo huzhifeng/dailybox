@@ -1,3 +1,6 @@
+## 20240106
+- [Hacker News](https://news.ycombinator.com/front) | [An app can be a home-cooked meal (2020)](https://news.ycombinator.com/item?id=38877423)
+
 ## 20240105
 - [Hacker News](https://news.ycombinator.com/front) | [Power over fiber](https://news.ycombinator.com/item?id=38865518)
 

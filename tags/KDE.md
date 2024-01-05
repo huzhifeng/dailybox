@@ -1,3 +1,8 @@
+## 20240106
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [New Video: Krita 5.2 Features!](https://krita.org/en/item/new-video-krita-5-2-features/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Two Breeze Icon Updates](https://anditosan.wordpress.com/2024/01/05/two-breeze-icon-updates/?utm_source=atom_feed)
+
 ## 20240103
 - [Planet KDE](https://planet.kde.org/) | [Cleaning up KDE's metadata - the little things matter too](https://write.as/alexander-lohnau/cleaning-up-kdes-metadata-the-little-things-matter-too?pk_campaign=rss-feed?utm_source=atom_feed)
 

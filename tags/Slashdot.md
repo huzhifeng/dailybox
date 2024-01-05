@@ -1,3 +1,6 @@
+## 20240106
+- [Slashdot](https://developers.slashdot.org/) | [AI-Assisted Bug Reports Are Seriously Annoying For Developers](https://it.slashdot.org/story/24/01/04/2230246/ai-assisted-bug-reports-are-seriously-annoying-for-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240105
 - [Slashdot](https://linux.slashdot.org/) | [Linux Hits Nearly 4% Desktop User Share on Statcounter](https://linux.slashdot.org/story/24/01/04/1317203/linux-hits-nearly-4-desktop-user-share-on-statcounter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Niklaus Wirth, Inventor of Pascal, Dies At 89](https://developers.slashdot.org/story/24/01/04/0126247/niklaus-wirth-inventor-of-pascal-dies-at-89?utm_source=rss1.0mainlinkanon&utm_medium=feed)
