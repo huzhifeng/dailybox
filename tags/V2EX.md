@@ -1,3 +1,8 @@
+## 20240107
+- [V2EX](https://www.v2ex.com/) | [工作日每天通勤 100KM 左右 周末家庭 4-5 人包含小朋友用车 兄弟们选什么电车?](https://www.v2ex.com/t/1006418)
+- [V2EX](https://www.v2ex.com/) | [面了个十年经验的开发, 连 Session/Cookie/Token/JWT 都讲不明白](https://www.v2ex.com/t/1006401)
+- [V2EX](https://www.v2ex.com/) | [node_modules 小文件真是多的离谱，服了！](https://www.v2ex.com/t/1006362)
+
 ## 20240106
 - [V2EX](https://www.v2ex.com/) | [已婚有娃，目前小学，有机会去日本，要考虑吗？](https://www.v2ex.com/t/1006224)
 - [V2EX](https://www.v2ex.com/) | [有什么能快速开发网站的框架或语言吗](https://www.v2ex.com/t/1006194)

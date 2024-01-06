@@ -1,3 +1,6 @@
+## 20240107
+- [Hacker News](https://news.ycombinator.com/front) | [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://news.ycombinator.com/item?id=38893909)
+
 ## 20240106
 - [Hacker News](https://news.ycombinator.com/front) | [An app can be a home-cooked meal (2020)](https://news.ycombinator.com/item?id=38877423)
 
