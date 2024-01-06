@@ -1,3 +1,8 @@
+## 20240107
+- [Product Hunt](https://www.producthunt.com) | [Youtube Looper](https://www.producthunt.com/posts/youtube-looper)
+- [Product Hunt](https://www.producthunt.com) | [Brewed](https://www.producthunt.com/posts/brewed)
+- [Product Hunt](https://www.producthunt.com) | [SaaS Boilerplates](https://www.producthunt.com/posts/saas-boilerplates)
+
 ## 20240106
 - [Product Hunt](https://www.producthunt.com) | [Typeform Alternative By MakeForms](https://www.producthunt.com/posts/typeform-alternative-by-makeforms)
 - [Product Hunt](https://www.producthunt.com) | [The Bulletproof Notion Workspace 4.0](https://www.producthunt.com/posts/the-bulletproof-notion-workspace-4-0)

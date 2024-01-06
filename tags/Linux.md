@@ -1,3 +1,7 @@
+## 20240107
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1238 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变](https://linux.cn/article-16538-1.html?utm_source=rss&utm_medium=rss)
+- [Planet KDE](https://planet.kde.org/) | [37C3 Impressions](https://www.volkerkrause.eu/2024/01/06/kde-37c3-impressions.html?utm_source=atom_feed)
+
 ## 20240106
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Enable fine-grained API authorization using Keycloak and 3scale](https://developers.redhat.com/articles/2024/01/05/enable-fine-grained-api-authorization-using-keycloak-and-3scale)

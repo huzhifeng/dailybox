@@ -1,3 +1,6 @@
+## 20240107
+- [Planet KDE](https://planet.kde.org/) | [37C3 Impressions](https://www.volkerkrause.eu/2024/01/06/kde-37c3-impressions.html?utm_source=atom_feed)
+
 ## 20240106
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [New Video: Krita 5.2 Features!](https://krita.org/en/item/new-video-krita-5-2-features/?utm_source=atom_feed)

@@ -1,3 +1,6 @@
+## 20240107
+- [Planet KDE](https://planet.kde.org/) | [37C3 Impressions](https://www.volkerkrause.eu/2024/01/06/kde-37c3-impressions.html?utm_source=atom_feed)
+
 ## 20240106
 - [Planet GNOME](https://planet.gnome.org/) | [scheme modules vs whole-program compilation: fight](https://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 - [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.12: Two-toned Editor](https://blogs.gnome.org/jrb/2024/01/05/crosswords-0-3-12-two-toned-editor/)
