@@ -1,3 +1,11 @@
+## 20240108
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1239 DeepMind 制定 “机器人宪法”](https://linux.cn/article-16541-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-7-officially-released-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Introduce Headless Remote Logins via GNOME Display Manager](https://9to5linux.com/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager)
+- [Planet KDE](https://planet.kde.org/) | [November and December in KDE PIM](https://kontact.kde.org/blog/2024/2024-01-01-kde-pim-november-december-2024/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [ZDNet Calls Rhino Linux 'New Coolest Linux Distro'](https://news.slashdot.org/story/24/01/07/2036245/zdnet-calls-rhino-linux-new-coolest-linux-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://linux.slashdot.org/story/24/01/07/0327229/how-does-freebsd-compare-to-linux-on-a-raspberry-pi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240107
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1238 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变](https://linux.cn/article-16538-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [37C3 Impressions](https://www.volkerkrause.eu/2024/01/06/kde-37c3-impressions.html?utm_source=atom_feed)

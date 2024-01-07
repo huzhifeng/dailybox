@@ -1,3 +1,7 @@
+## 20240108
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-7-officially-released-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Introduce Headless Remote Logins via GNOME Display Manager](https://9to5linux.com/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager)
+
 ## 20240105
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 EDGE ISO to Ship with Linux 6.5, Addressing Hardware Issues](https://9to5linux.com/linux-mint-21-3-edge-iso-to-ship-with-linux-6-5-addressing-hardware-issues)
 - [9to5Linux](https://9to5linux.com/) | [Debian Bookworm and Bullseye Users Receive Important Linux Security Updates](https://9to5linux.com/debian-bookworm-and-bullseye-users-receive-important-linux-security-updates)

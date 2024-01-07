@@ -1,3 +1,8 @@
+## 20240108
+- [Slashdot](https://linux.slashdot.org/) | [ZDNet Calls Rhino Linux 'New Coolest Linux Distro'](https://news.slashdot.org/story/24/01/07/2036245/zdnet-calls-rhino-linux-new-coolest-linux-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://linux.slashdot.org/story/24/01/07/0327229/how-does-freebsd-compare-to-linux-on-a-raspberry-pi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Can AI-Generated Proofs Bring Bug-Free Software One Step Closer?](https://developers.slashdot.org/story/24/01/06/238237/can-ai-generated-proofs-bring-bug-free-software-one-step-closer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240106
 - [Slashdot](https://developers.slashdot.org/) | [AI-Assisted Bug Reports Are Seriously Annoying For Developers](https://it.slashdot.org/story/24/01/04/2230246/ai-assisted-bug-reports-are-seriously-annoying-for-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
