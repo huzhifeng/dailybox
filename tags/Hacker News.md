@@ -1,3 +1,8 @@
+## 20240108
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://news.ycombinator.com/item?id=38901504)
+- [Hacker News](https://news.ycombinator.com/front) | [DNS Toys (2022)](https://news.ycombinator.com/item?id=38899290)
+- [Hacker News](https://news.ycombinator.com/front) | [Pocketbase: Open-source back end in one file](https://news.ycombinator.com/item?id=38898934)
+
 ## 20240107
 - [Hacker News](https://news.ycombinator.com/front) | [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://news.ycombinator.com/item?id=38893909)
 

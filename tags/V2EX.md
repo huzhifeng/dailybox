@@ -1,3 +1,8 @@
+## 20240108
+- [V2EX](https://www.v2ex.com/) | [超大流量的流量耗子 过街老鼠 人人喊打](https://www.v2ex.com/t/1006612)
+- [V2EX](https://www.v2ex.com/) | [不算不知道，一算吓一跳，每个月的订阅制支出竟高达 1000+](https://www.v2ex.com/t/1006566)
+- [V2EX](https://www.v2ex.com/) | [好无聊啊，不知道捣鼓点啥？](https://www.v2ex.com/t/1006559)
+
 ## 20240107
 - [V2EX](https://www.v2ex.com/) | [工作日每天通勤 100KM 左右 周末家庭 4-5 人包含小朋友用车 兄弟们选什么电车?](https://www.v2ex.com/t/1006418)
 - [V2EX](https://www.v2ex.com/) | [面了个十年经验的开发, 连 Session/Cookie/Token/JWT 都讲不明白](https://www.v2ex.com/t/1006401)

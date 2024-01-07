@@ -1,3 +1,6 @@
+## 20240108
+- [Planet KDE](https://planet.kde.org/) | [November and December in KDE PIM](https://kontact.kde.org/blog/2024/2024-01-01-kde-pim-november-december-2024/?utm_source=atom_feed)
+
 ## 20240107
 - [Planet KDE](https://planet.kde.org/) | [37C3 Impressions](https://www.volkerkrause.eu/2024/01/06/kde-37c3-impressions.html?utm_source=atom_feed)
 
