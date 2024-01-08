@@ -1,3 +1,8 @@
+## 20240109
+- [V2EX](https://www.v2ex.com/) | [6000 多买张电脑桌（黑胡桃木、2m*0.8m）是不是多少交了点智商税？](https://www.v2ex.com/t/1006821)
+- [V2EX](https://www.v2ex.com/) | [帮朋友做商城网站，他想把自己的珠宝钻石卖给外国人，我不知道需要什么文件、资质、审批，有知道的老哥，请帮忙执教一下，先谢过！](https://www.v2ex.com/t/1006776)
+- [V2EX](https://www.v2ex.com/) | [想买一个手机送对象，目前对象在 15 ProMax 以及 15Plus 之间犹豫](https://www.v2ex.com/t/1006763)
+
 ## 20240108
 - [V2EX](https://www.v2ex.com/) | [超大流量的流量耗子 过街老鼠 人人喊打](https://www.v2ex.com/t/1006612)
 - [V2EX](https://www.v2ex.com/) | [不算不知道，一算吓一跳，每个月的订阅制支出竟高达 1000+](https://www.v2ex.com/t/1006566)

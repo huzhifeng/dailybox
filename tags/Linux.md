@@ -1,3 +1,14 @@
+## 20240109
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1240 Mozilla 已经将目光投向 Firefox 以外的领域](https://linux.cn/article-16543-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [OpenShift application monitoring with Event-Driven Ansible & Alertmanager](https://developers.redhat.com/articles/2024/01/08/openshift-application-monitoring-event-driven-ansible-alertmanager)
+- [Red Hat Developer](https://developers.redhat.com/) | [Supercharge Helm workflows with OpenShift Toolkit in VS Code](https://developers.redhat.com/articles/2024/01/08/supercharge-helm-workflows-openshift-toolkit-vs-code)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.7 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-7-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+- [Planet GNOME](https://planet.gnome.org/) | [missing the point of webassembly](https://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
+- [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.1](https://jriddell.org/2024/01/08/kdiagram-3-0-1/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Chingam: a new libre Malayalam traditional script font](https://rajeeshknambiar.wordpress.com/2024/01/08/chingam-a-new-libre-malayalam-traditional-script-font/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Three Packages Targeting Linux with Crypto Miners Found in Python's 'PyPi' Repository](https://developers.slashdot.org/story/24/01/08/0038210/three-packages-targeting-linux-with-crypto-miners-found-in-pythons-pypi-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240108
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1239 DeepMind 制定 “机器人宪法”](https://linux.cn/article-16541-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-7-officially-released-this-is-whats-new)

@@ -1,3 +1,7 @@
+## 20240109
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.7 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-7-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+
 ## 20240108
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-7-officially-released-this-is-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Introduce Headless Remote Logins via GNOME Display Manager](https://9to5linux.com/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager)

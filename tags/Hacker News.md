@@ -1,3 +1,6 @@
+## 20240109
+- [Hacker News](https://news.ycombinator.com/front) | [Jeff Lawson steps down as CEO of Twilio](https://news.ycombinator.com/item?id=38912497)
+
 ## 20240108
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://news.ycombinator.com/item?id=38901504)
 - [Hacker News](https://news.ycombinator.com/front) | [DNS Toys (2022)](https://news.ycombinator.com/item?id=38899290)

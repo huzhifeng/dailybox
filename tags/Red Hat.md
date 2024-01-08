@@ -1,3 +1,7 @@
+## 20240109
+- [Red Hat Developer](https://developers.redhat.com/) | [OpenShift application monitoring with Event-Driven Ansible & Alertmanager](https://developers.redhat.com/articles/2024/01/08/openshift-application-monitoring-event-driven-ansible-alertmanager)
+- [Red Hat Developer](https://developers.redhat.com/) | [Supercharge Helm workflows with OpenShift Toolkit in VS Code](https://developers.redhat.com/articles/2024/01/08/supercharge-helm-workflows-openshift-toolkit-vs-code)
+
 ## 20240106
 - [Red Hat Developer](https://developers.redhat.com/) | [Enable fine-grained API authorization using Keycloak and 3scale](https://developers.redhat.com/articles/2024/01/05/enable-fine-grained-api-authorization-using-keycloak-and-3scale)
 

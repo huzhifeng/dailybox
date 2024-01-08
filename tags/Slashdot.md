@@ -1,3 +1,7 @@
+## 20240109
+- [Slashdot](https://linux.slashdot.org/) | [Three Packages Targeting Linux with Crypto Miners Found in Python's 'PyPi' Repository](https://developers.slashdot.org/story/24/01/08/0038210/three-packages-targeting-linux-with-crypto-miners-found-in-pythons-pypi-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Three Packages Targeting Linux with Crypto Miners Found in Python's 'PyPi' Repository](https://developers.slashdot.org/story/24/01/08/0038210/three-packages-targeting-linux-with-crypto-miners-found-in-pythons-pypi-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240108
 - [Slashdot](https://linux.slashdot.org/) | [ZDNet Calls Rhino Linux 'New Coolest Linux Distro'](https://news.slashdot.org/story/24/01/07/2036245/zdnet-calls-rhino-linux-new-coolest-linux-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://linux.slashdot.org/story/24/01/07/0327229/how-does-freebsd-compare-to-linux-on-a-raspberry-pi?utm_source=rss1.0mainlinkanon&utm_medium=feed)

@@ -1,3 +1,6 @@
+## 20240109
+- [Planet GNOME](https://planet.gnome.org/) | [missing the point of webassembly](https://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
+
 ## 20240106
 - [Planet GNOME](https://planet.gnome.org/) | [scheme modules vs whole-program compilation: fight](https://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 - [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.12: Two-toned Editor](https://blogs.gnome.org/jrb/2024/01/05/crosswords-0-3-12-two-toned-editor/)
