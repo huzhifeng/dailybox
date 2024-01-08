@@ -1,3 +1,6 @@
+## 20240109
+- [GitHub Advanced Search](https://github.com/search/advanced) | [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news)
+
 ## 20240103
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)
 

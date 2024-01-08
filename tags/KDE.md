@@ -1,3 +1,7 @@
+## 20240109
+- [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.1](https://jriddell.org/2024/01/08/kdiagram-3-0-1/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Chingam: a new libre Malayalam traditional script font](https://rajeeshknambiar.wordpress.com/2024/01/08/chingam-a-new-libre-malayalam-traditional-script-font/?utm_source=atom_feed)
+
 ## 20240108
 - [Planet KDE](https://planet.kde.org/) | [November and December in KDE PIM](https://kontact.kde.org/blog/2024/2024-01-01-kde-pim-november-december-2024/?utm_source=atom_feed)
 

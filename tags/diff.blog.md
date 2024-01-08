@@ -1,3 +1,7 @@
+## 20240109
+- [diff.blog](https://diff.blog/) | [OpenAI and journalism](https://diff.blog/post/openai-and-journalism-165945/)
+- [diff.blog](https://diff.blog/) | [An Overview of Distributed  PostgreSQL Architectures](https://diff.blog/post/an-overview-of-distributed-postgresql-architectures-165939/)
+
 ## 20240105
 - [diff.blog](https://diff.blog/) | [Shaping the future of advanced robotics](https://diff.blog/post/shaping-the-future-of-advanced-robotics-165646/)
 - [diff.blog](https://diff.blog/) | [The Pulse: Will US companies hire fewer engineers due to Section 174?](https://diff.blog/post/the-pulse-will-us-companies-hire-fewer-engineers-due-to-section-174-165656/)
