@@ -1,3 +1,7 @@
+## 20240110
+- [Planet GNOME](https://planet.gnome.org/) | [Recent GNOME design work](https://blogs.gnome.org/aday/2024/01/09/recent-gnome-design-work/)
+- [Planet GNOME](https://planet.gnome.org/) | [Looking for LogoFAIL on your local system](https://blogs.gnome.org/hughsie/2024/01/09/looking-for-logofail-on-your-local-system/)
+
 ## 20240109
 - [Planet GNOME](https://planet.gnome.org/) | [missing the point of webassembly](https://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 

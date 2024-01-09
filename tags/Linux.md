@@ -1,3 +1,12 @@
+## 20240110
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT](https://linux.cn/article-16545-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/09/connect-quarkus-app-external-postgresql-database)
+- [Red Hat Developer](https://developers.redhat.com/) | [A fully automated setup of a JBoss EAP cluster using Ansible](https://developers.redhat.com/articles/2024/01/09/fully-automated-setup-jboss-eap-cluster-using-ansible)
+- [9to5Linux](https://9to5linux.com/) | [Solus 4.5 Released with Calamares Installer, PipeWire, Linux 6.6, and New Xfce Edition](https://9to5linux.com/solus-4-5-released-with-calamares-installer-pipewire-linux-6-6-and-new-xfce-edition)
+- [Planet GNOME](https://planet.gnome.org/) | [Recent GNOME design work](https://blogs.gnome.org/aday/2024/01/09/recent-gnome-design-work/)
+- [Planet GNOME](https://planet.gnome.org/) | [Looking for LogoFAIL on your local system](https://blogs.gnome.org/hughsie/2024/01/09/looking-for-logofail-on-your-local-system/)
+- [Planet KDE](https://planet.kde.org/) | [More Icon Updates](https://anditosan.wordpress.com/2024/01/09/more-icon-updates/?utm_source=atom_feed)
+
 ## 20240109
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1240 Mozilla 已经将目光投向 Firefox 以外的领域](https://linux.cn/article-16543-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [OpenShift application monitoring with Event-Driven Ansible & Alertmanager](https://developers.redhat.com/articles/2024/01/08/openshift-application-monitoring-event-driven-ansible-alertmanager)

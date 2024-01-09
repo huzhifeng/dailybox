@@ -1,3 +1,8 @@
+## 20240110
+- [Planet GNOME](https://planet.gnome.org/) | [Recent GNOME design work](https://blogs.gnome.org/aday/2024/01/09/recent-gnome-design-work/)
+- [Planet GNOME](https://planet.gnome.org/) | [Looking for LogoFAIL on your local system](https://blogs.gnome.org/hughsie/2024/01/09/looking-for-logofail-on-your-local-system/)
+- [Planet KDE](https://planet.kde.org/) | [More Icon Updates](https://anditosan.wordpress.com/2024/01/09/more-icon-updates/?utm_source=atom_feed)
+
 ## 20240109
 - [Planet GNOME](https://planet.gnome.org/) | [missing the point of webassembly](https://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 - [Planet KDE](https://planet.kde.org/) | [KDiagram 3.0.1](https://jriddell.org/2024/01/08/kdiagram-3-0-1/?utm_source=atom_feed)

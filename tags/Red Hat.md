@@ -1,3 +1,7 @@
+## 20240110
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/09/connect-quarkus-app-external-postgresql-database)
+- [Red Hat Developer](https://developers.redhat.com/) | [A fully automated setup of a JBoss EAP cluster using Ansible](https://developers.redhat.com/articles/2024/01/09/fully-automated-setup-jboss-eap-cluster-using-ansible)
+
 ## 20240109
 - [Red Hat Developer](https://developers.redhat.com/) | [OpenShift application monitoring with Event-Driven Ansible & Alertmanager](https://developers.redhat.com/articles/2024/01/08/openshift-application-monitoring-event-driven-ansible-alertmanager)
 - [Red Hat Developer](https://developers.redhat.com/) | [Supercharge Helm workflows with OpenShift Toolkit in VS Code](https://developers.redhat.com/articles/2024/01/08/supercharge-helm-workflows-openshift-toolkit-vs-code)
