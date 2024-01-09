@@ -1,3 +1,7 @@
+## 20240110
+- [TED Talks Daily](https://www.ted.com/talks) | [The US vs. itself — and other top global risks in 2024 | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_us_vs_itself_and_other_top_global_risks_in_2024?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [What would it take for generosity to go viral? | Chris Anderson](https://www.ted.com/talks/chris_anderson_what_would_it_take_for_generosity_to_go_viral?rss)
+
 ## 20240109
 - [TED Talks Daily](https://www.ted.com/talks) | [Is alternative meat the recipe for a healthier planet? | Tao Zhang](https://www.ted.com/talks/tao_zhang_is_alternative_meat_the_recipe_for_a_healthier_planet?rss)
 

@@ -1,3 +1,8 @@
+## 20240110
+- [Product Hunt](https://www.producthunt.com) | [Items Design](https://www.producthunt.com/posts/items-design)
+- [Product Hunt](https://www.producthunt.com) | [OkFeedback](https://www.producthunt.com/posts/okfeedback)
+- [Product Hunt](https://www.producthunt.com) | [Sama AI](https://www.producthunt.com/posts/sama-ai)
+
 ## 20240109
 - [Product Hunt](https://www.producthunt.com) | [Bland Turbo](https://www.producthunt.com/posts/bland-turbo)
 - [Product Hunt](https://www.producthunt.com) | [pipl.ai](https://www.producthunt.com/posts/pipl-ai)

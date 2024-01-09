@@ -1,3 +1,6 @@
+## 20240110
+- [It's FOSS](https://itsfoss.com/) | [Free Command Examples](https://itsfoss.com/free-command/)
+
 ## 20240109
 - [It's FOSS](https://itsfoss.com/) | [7 Tips and Tools to Improve Your Gaming Experience on Linux](https://itsfoss.com/linux-gaming-tips/)
 

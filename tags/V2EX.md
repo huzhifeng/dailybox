@@ -1,3 +1,8 @@
+## 20240110
+- [V2EX](https://www.v2ex.com/) | [有没有一种东西，摸一下能释放静电](https://www.v2ex.com/t/1007238)
+- [V2EX](https://www.v2ex.com/) | [看到公司的春节放假通知， 震惊了 吓尿了](https://www.v2ex.com/t/1007140)
+- [V2EX](https://www.v2ex.com/) | [请教：能自己改个系统出来给小孩用达到安全绿色和管控吗](https://www.v2ex.com/t/1007116)
+
 ## 20240109
 - [V2EX](https://www.v2ex.com/) | [6000 多买张电脑桌（黑胡桃木、2m*0.8m）是不是多少交了点智商税？](https://www.v2ex.com/t/1006821)
 - [V2EX](https://www.v2ex.com/) | [帮朋友做商城网站，他想把自己的珠宝钻石卖给外国人，我不知道需要什么文件、资质、审批，有知道的老哥，请帮忙执教一下，先谢过！](https://www.v2ex.com/t/1006776)

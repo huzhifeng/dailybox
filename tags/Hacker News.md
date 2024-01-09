@@ -1,3 +1,7 @@
+## 20240110
+- [Hacker News](https://news.ycombinator.com/front) | [Python 3.13 Gets a JIT](https://news.ycombinator.com/item?id=38923741)
+- [Hacker News](https://news.ycombinator.com/front) | [Where Have All the Websites Gone?](https://news.ycombinator.com/item?id=38923627)
+
 ## 20240109
 - [Hacker News](https://news.ycombinator.com/front) | [Jeff Lawson steps down as CEO of Twilio](https://news.ycombinator.com/item?id=38912497)
 
