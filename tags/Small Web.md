@@ -1,3 +1,8 @@
+## 20240111
+- [Kagi Small Web](https://kagi.com/smallweb) | [Idioms as Code](https://blog.jim-nielsen.com/2024/idioms-as-code/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Phase 1 is a Millstone not a Milestone](https://shermanonsoftware.com/2024/01/10/phase-1-is-a-millstone-not-a-milestone/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Living Dead: Hacking Mobile Face Recognition SDKs with Non-Deepfake Attacks](https://www.youtube.com/watch?v=nPE2AjNB2sI)
+
 ## 20240110
 - [Kagi Small Web](https://kagi.com/smallweb) | [It’s Humans All the Way Down](https://blog.jim-nielsen.com/2024/humans-all-the-way-down/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Does AI risk “other” the AIs?](https://joecarlsmith.com/2024/01/09/does-ai-risk-other-the-ais)
