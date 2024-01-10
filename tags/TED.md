@@ -1,3 +1,6 @@
+## 20240111
+- [TED Talks Daily](https://www.ted.com/talks) | [How to create democracy — in an authoritarian country | Tessza Udvarhelyi](https://www.ted.com/talks/tessza_udvarhelyi_how_to_create_democracy_in_an_authoritarian_country?rss)
+
 ## 20240110
 - [TED Talks Daily](https://www.ted.com/talks) | [The US vs. itself — and other top global risks in 2024 | Ian Bremmer](https://www.ted.com/talks/ian_bremmer_the_us_vs_itself_and_other_top_global_risks_in_2024?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [What would it take for generosity to go viral? | Chris Anderson](https://www.ted.com/talks/chris_anderson_what_would_it_take_for_generosity_to_go_viral?rss)

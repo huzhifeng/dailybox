@@ -1,3 +1,8 @@
+## 20240111
+- [V2EX](https://www.v2ex.com/) | [该怎么办呢？能上岸却上不了。](https://www.v2ex.com/t/1007481)
+- [V2EX](https://www.v2ex.com/) | [感觉学前端技术，很难升职加薪。](https://www.v2ex.com/t/1007466)
+- [V2EX](https://www.v2ex.com/) | [自从买了车，各种问题导致心情异常烦恼](https://www.v2ex.com/t/1007429)
+
 ## 20240110
 - [V2EX](https://www.v2ex.com/) | [有没有一种东西，摸一下能释放静电](https://www.v2ex.com/t/1007238)
 - [V2EX](https://www.v2ex.com/) | [看到公司的春节放假通知， 震惊了 吓尿了](https://www.v2ex.com/t/1007140)

@@ -1,3 +1,7 @@
+## 20240111
+- [Red Hat Developer](https://developers.redhat.com/) | [Multilingual semantic similarity search with Elasticsearch](https://developers.redhat.com/articles/2024/01/10/multilingual-semantic-similarity-search-elasticsearch)
+- [Red Hat Developer](https://developers.redhat.com/) | [Protect applications with SSO using Kerberos & Active Directory](https://developers.redhat.com/articles/2024/01/10/protect-applications-sso-using-kerberos-active-directory)
+
 ## 20240110
 - [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/09/connect-quarkus-app-external-postgresql-database)
 - [Red Hat Developer](https://developers.redhat.com/) | [A fully automated setup of a JBoss EAP cluster using Ansible](https://developers.redhat.com/articles/2024/01/09/fully-automated-setup-jboss-eap-cluster-using-ansible)

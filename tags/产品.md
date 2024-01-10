@@ -1,3 +1,8 @@
+## 20240111
+- [Product Hunt](https://www.producthunt.com) | [Rabbit r1](https://www.producthunt.com/posts/rabbit-r1)
+- [Product Hunt](https://www.producthunt.com) | [Seemless](https://www.producthunt.com/posts/seemless)
+- [Product Hunt](https://www.producthunt.com) | [Fliz AI](https://www.producthunt.com/posts/fliz-ai)
+
 ## 20240110
 - [Product Hunt](https://www.producthunt.com) | [Items Design](https://www.producthunt.com/posts/items-design)
 - [Product Hunt](https://www.producthunt.com) | [OkFeedback](https://www.producthunt.com/posts/okfeedback)

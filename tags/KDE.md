@@ -1,3 +1,6 @@
+## 20240111
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Release Candidate 1](https://kde.org/announcements/megarelease/6/rc1/?utm_source=atom_feed)
+
 ## 20240110
 - [Planet KDE](https://planet.kde.org/) | [More Icon Updates](https://anditosan.wordpress.com/2024/01/09/more-icon-updates/?utm_source=atom_feed)
 

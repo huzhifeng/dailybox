@@ -1,3 +1,6 @@
+## 20240111
+- [diff.blog](https://diff.blog/) | [Introducing the GPT Store](https://diff.blog/post/introducing-the-gpt-store-166085/)
+
 ## 20240109
 - [diff.blog](https://diff.blog/) | [OpenAI and journalism](https://diff.blog/post/openai-and-journalism-165945/)
 - [diff.blog](https://diff.blog/) | [An Overview of Distributed  PostgreSQL Architectures](https://diff.blog/post/an-overview-of-distributed-postgresql-architectures-165939/)

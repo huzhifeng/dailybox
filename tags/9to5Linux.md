@@ -1,3 +1,8 @@
+## 20240111
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 &#8220;Virginia&#8221; Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/linux-mint-21-3-virginia-is-now-available-for-download-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.5 from Ubuntu 23.10](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-5-from-ubuntu-23-10)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 4.14 Reaches End of Life After More Than Six Years of Maintenance](https://9to5linux.com/linux-kernel-4-14-reaches-end-of-life-after-more-than-six-years-of-maintenance)
+
 ## 20240110
 - [9to5Linux](https://9to5linux.com/) | [Solus 4.5 Released with Calamares Installer, PipeWire, Linux 6.6, and New Xfce Edition](https://9to5linux.com/solus-4-5-released-with-calamares-installer-pipewire-linux-6-6-and-new-xfce-edition)
 

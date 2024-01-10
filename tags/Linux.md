@@ -1,3 +1,14 @@
+## 20240111
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1242 苹果公司要求开发者将 Vision Pro 应用称为“空间计算应用”](https://linux.cn/article-16548-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Multilingual semantic similarity search with Elasticsearch](https://developers.redhat.com/articles/2024/01/10/multilingual-semantic-similarity-search-elasticsearch)
+- [Red Hat Developer](https://developers.redhat.com/) | [Protect applications with SSO using Kerberos & Active Directory](https://developers.redhat.com/articles/2024/01/10/protect-applications-sso-using-kerberos-active-directory)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 &#8220;Virginia&#8221; Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/linux-mint-21-3-virginia-is-now-available-for-download-this-is-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.5 from Ubuntu 23.10](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-5-from-ubuntu-23-10)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 4.14 Reaches End of Life After More Than Six Years of Maintenance](https://9to5linux.com/linux-kernel-4-14-reaches-end-of-life-after-more-than-six-years-of-maintenance)
+- [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Release Candidate 1](https://kde.org/announcements/megarelease/6/rc1/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Kernel 4.14 Reaches End of Life After More Than Six Years of Maintenance](https://linux.slashdot.org/story/24/01/10/1729216/linux-kernel-414-reaches-end-of-life-after-more-than-six-years-of-maintenance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Devices Are Under Attack By a Never-Before-Seen Worm](https://linux.slashdot.org/story/24/01/10/1727219/linux-devices-are-under-attack-by-a-never-before-seen-worm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240110
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT](https://linux.cn/article-16545-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/09/connect-quarkus-app-external-postgresql-database)
