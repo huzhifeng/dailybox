@@ -1,3 +1,8 @@
+## 20240112
+- [Hacker News](https://news.ycombinator.com/front) | [Discord is laying off 17 percent of employees](https://news.ycombinator.com/item?id=38956623)
+- [Hacker News](https://news.ycombinator.com/front) | [Outlook is Microsoft's new data collection service](https://news.ycombinator.com/item?id=38953618)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://news.ycombinator.com/item?id=38951172)
+
 ## 20240110
 - [Hacker News](https://news.ycombinator.com/front) | [Python 3.13 Gets a JIT](https://news.ycombinator.com/item?id=38923741)
 - [Hacker News](https://news.ycombinator.com/front) | [Where Have All the Websites Gone?](https://news.ycombinator.com/item?id=38923627)

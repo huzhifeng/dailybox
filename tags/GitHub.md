@@ -1,3 +1,6 @@
+## 20240112
+- [GitHub Advanced Search](https://github.com/search/advanced) | [PolUyNa/Tr.Bt](https://github.com/PolUyNa/Tr.Bt)
+
 ## 20240109
 - [GitHub Advanced Search](https://github.com/search/advanced) | [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news)
 

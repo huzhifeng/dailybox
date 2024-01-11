@@ -1,3 +1,6 @@
+## 20240112
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.02: Mixing AI With Linux, Vanilla OS 2, and More](https://itsfoss.com/newsletter/foss-weekly-24-02/)
+
 ## 20240111
 - [It's FOSS](https://itsfoss.com/) | [How to Use Tiling Assistant on GNOME Desktop?](https://itsfoss.com/gnome-tiling-assistant/)
 

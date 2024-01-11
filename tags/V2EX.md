@@ -1,3 +1,8 @@
+## 20240112
+- [V2EX](https://www.v2ex.com/) | [公司服从性测试，必需要年会表演魔术，求大伙给条路走](https://www.v2ex.com/t/1007865)
+- [V2EX](https://www.v2ex.com/) | [数据量较大，数据库选型问题](https://www.v2ex.com/t/1007852)
+- [V2EX](https://www.v2ex.com/) | [手汗严重，有同样遭遇的朋友吗，有没有什么办法能减少出汗？](https://www.v2ex.com/t/1007793)
+
 ## 20240111
 - [V2EX](https://www.v2ex.com/) | [该怎么办呢？能上岸却上不了。](https://www.v2ex.com/t/1007481)
 - [V2EX](https://www.v2ex.com/) | [感觉学前端技术，很难升职加薪。](https://www.v2ex.com/t/1007466)

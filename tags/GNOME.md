@@ -1,3 +1,8 @@
+## 20240112
+- [Planet GNOME](https://planet.gnome.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
+- [Planet GNOME](https://planet.gnome.org/) | [micro macro story time](https://wingolog.org/archives/2024/01/11/micro-macro-story-time)
+- [Planet GNOME](https://planet.gnome.org/) | [Implementing End-to-End tests for GNOME OS with openQA: Beginner’s guide](https://dorothykabarozi.wordpress.com/2024/01/11/implementing-end-to-end-tests-for-gnome-os-with-openqa-beginners-guide/)
+
 ## 20240110
 - [Planet GNOME](https://planet.gnome.org/) | [Recent GNOME design work](https://blogs.gnome.org/aday/2024/01/09/recent-gnome-design-work/)
 - [Planet GNOME](https://planet.gnome.org/) | [Looking for LogoFAIL on your local system](https://blogs.gnome.org/hughsie/2024/01/09/looking-for-logofail-on-your-local-system/)

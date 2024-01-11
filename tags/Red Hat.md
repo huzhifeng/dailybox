@@ -1,3 +1,6 @@
+## 20240112
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a .NET app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/11/connect-dotnet-app-external-postgresql-database)
+
 ## 20240111
 - [Red Hat Developer](https://developers.redhat.com/) | [Multilingual semantic similarity search with Elasticsearch](https://developers.redhat.com/articles/2024/01/10/multilingual-semantic-similarity-search-elasticsearch)
 - [Red Hat Developer](https://developers.redhat.com/) | [Protect applications with SSO using Kerberos & Active Directory](https://developers.redhat.com/articles/2024/01/10/protect-applications-sso-using-kerberos-active-directory)
