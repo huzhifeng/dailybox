@@ -1,3 +1,8 @@
+## 20240112
+- [Product Hunt](https://www.producthunt.com) | [hoopsAI](https://www.producthunt.com/posts/hoopsai)
+- [Product Hunt](https://www.producthunt.com) | [HEY Calendar](https://www.producthunt.com/posts/hey-calendar)
+- [Product Hunt](https://www.producthunt.com) | [Olly - AI Social Media Co-Pilot](https://www.producthunt.com/posts/olly-ai-social-media-co-pilot)
+
 ## 20240111
 - [Product Hunt](https://www.producthunt.com) | [Rabbit r1](https://www.producthunt.com/posts/rabbit-r1)
 - [Product Hunt](https://www.producthunt.com) | [Seemless](https://www.producthunt.com/posts/seemless)

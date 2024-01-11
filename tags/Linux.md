@@ -1,3 +1,14 @@
+## 20240112
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1243 Linux 内核开发者再次讨论从 C 语言转换为现代 C++ 语言](https://linux.cn/article-16550-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a .NET app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/11/connect-dotnet-app-external-postgresql-database)
+- [9to5Linux](https://9to5linux.com/) | [Libreboot Open-Source Firmware Now Supports HP EliteBook 820 G2 Laptops](https://9to5linux.com/libreboot-open-source-firmware-now-supports-hp-elitebook-820-g2-laptops)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire Camera Support Is Coming to OBS Studio for Linux Desktops](https://9to5linux.com/pipewire-camera-support-is-coming-to-obs-studio-for-linux-desktops)
+- [Planet GNOME](https://planet.gnome.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
+- [Planet GNOME](https://planet.gnome.org/) | [micro macro story time](https://wingolog.org/archives/2024/01/11/micro-macro-story-time)
+- [Planet GNOME](https://planet.gnome.org/) | [Implementing End-to-End tests for GNOME OS with openQA: Beginner’s guide](https://dorothykabarozi.wordpress.com/2024/01/11/implementing-end-to-end-tests-for-gnome-os-with-openqa-beginners-guide/)
+- [Planet KDE](https://planet.kde.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KTextAddons 1.5.3](https://jriddell.org/2024/01/11/ktextaddons-1-5-3/?utm_source=atom_feed)
+
 ## 20240111
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1242 苹果公司要求开发者将 Vision Pro 应用称为“空间计算应用”](https://linux.cn/article-16548-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Multilingual semantic similarity search with Elasticsearch](https://developers.redhat.com/articles/2024/01/10/multilingual-semantic-similarity-search-elasticsearch)

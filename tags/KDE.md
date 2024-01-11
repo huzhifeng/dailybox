@@ -1,3 +1,7 @@
+## 20240112
+- [Planet KDE](https://planet.kde.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KTextAddons 1.5.3](https://jriddell.org/2024/01/11/ktextaddons-1-5-3/?utm_source=atom_feed)
+
 ## 20240111
 - [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Release Candidate 1](https://kde.org/announcements/megarelease/6/rc1/?utm_source=atom_feed)
 

@@ -1,3 +1,10 @@
+## 20240112
+- [Planet GNOME](https://planet.gnome.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
+- [Planet GNOME](https://planet.gnome.org/) | [micro macro story time](https://wingolog.org/archives/2024/01/11/micro-macro-story-time)
+- [Planet GNOME](https://planet.gnome.org/) | [Implementing End-to-End tests for GNOME OS with openQA: Beginner’s guide](https://dorothykabarozi.wordpress.com/2024/01/11/implementing-end-to-end-tests-for-gnome-os-with-openqa-beginners-guide/)
+- [Planet KDE](https://planet.kde.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KTextAddons 1.5.3](https://jriddell.org/2024/01/11/ktextaddons-1-5-3/?utm_source=atom_feed)
+
 ## 20240111
 - [Planet KDE](https://planet.kde.org/) | [KDE's 6th Megarelease - Release Candidate 1](https://kde.org/announcements/megarelease/6/rc1/?utm_source=atom_feed)
 

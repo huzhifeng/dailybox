@@ -1,3 +1,8 @@
+## 20240112
+- [Kagi Small Web](https://kagi.com/smallweb) | [Friday @ 6:38 am](https://alis.me/x/friday-638-am-2/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Book of Jerks](https://dndwithpornstars.blogspot.com/2024/01/the-book-of-jerks.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [✚ Unlimited Chart Options](https://flowingdata.com/2024/01/11/process-271-unlimited/)
+
 ## 20240111
 - [Kagi Small Web](https://kagi.com/smallweb) | [Idioms as Code](https://blog.jim-nielsen.com/2024/idioms-as-code/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Phase 1 is a Millstone not a Milestone](https://shermanonsoftware.com/2024/01/10/phase-1-is-a-millstone-not-a-milestone/)

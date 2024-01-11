@@ -1,3 +1,6 @@
+## 20240112
+- [TED Talks Daily](https://www.ted.com/talks) | [What happens when we deny people abortions? | Diana Greene Foster](https://www.ted.com/talks/diana_greene_foster_what_happens_when_we_deny_people_abortions?rss)
+
 ## 20240111
 - [TED Talks Daily](https://www.ted.com/talks) | [How to create democracy — in an authoritarian country | Tessza Udvarhelyi](https://www.ted.com/talks/tessza_udvarhelyi_how_to_create_democracy_in_an_authoritarian_country?rss)
 

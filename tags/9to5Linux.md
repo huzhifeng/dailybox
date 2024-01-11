@@ -1,3 +1,7 @@
+## 20240112
+- [9to5Linux](https://9to5linux.com/) | [Libreboot Open-Source Firmware Now Supports HP EliteBook 820 G2 Laptops](https://9to5linux.com/libreboot-open-source-firmware-now-supports-hp-elitebook-820-g2-laptops)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire Camera Support Is Coming to OBS Studio for Linux Desktops](https://9to5linux.com/pipewire-camera-support-is-coming-to-obs-studio-for-linux-desktops)
+
 ## 20240111
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 &#8220;Virginia&#8221; Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/linux-mint-21-3-virginia-is-now-available-for-download-this-is-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04 LTS Is Now Powered by Linux Kernel 6.5 from Ubuntu 23.10](https://9to5linux.com/ubuntu-22-04-lts-is-now-powered-by-linux-kernel-6-5-from-ubuntu-23-10)
