@@ -1,3 +1,6 @@
+## 20240113
+- [It's FOSS](https://itsfoss.com/) | [13 Best Open Source ChatGPT Alternatives](https://itsfoss.com/open-source-chatgpt-alternatives/)
+
 ## 20240112
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.02: Mixing AI With Linux, Vanilla OS 2, and More](https://itsfoss.com/newsletter/foss-weekly-24-02/)
 

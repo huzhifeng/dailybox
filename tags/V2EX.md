@@ -1,3 +1,8 @@
+## 20240113
+- [V2EX](https://www.v2ex.com/) | [苹果为什么不做指纹](https://www.v2ex.com/t/1008120)
+- [V2EX](https://www.v2ex.com/) | [到底是喜欢重要还是合适更重要](https://www.v2ex.com/t/1008036)
+- [V2EX](https://www.v2ex.com/) | [在中国普通个人如何对冲房地产的不确定风险？](https://www.v2ex.com/t/1008009)
+
 ## 20240112
 - [V2EX](https://www.v2ex.com/) | [公司服从性测试，必需要年会表演魔术，求大伙给条路走](https://www.v2ex.com/t/1007865)
 - [V2EX](https://www.v2ex.com/) | [数据量较大，数据库选型问题](https://www.v2ex.com/t/1007852)

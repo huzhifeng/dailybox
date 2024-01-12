@@ -1,3 +1,9 @@
+## 20240113
+- [Planet GNOME](https://planet.gnome.org/) | [2023 in retrospect](https://feaneron.com/2024/01/12/2023-in-retrospect/)
+- [Planet GNOME](https://planet.gnome.org/) | [Updates on our internships administration](https://feborg.es/updates-on-internships-administration/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDSoap 2.2.0 Released](https://www.kdab.com/kdsoap-2-2-0-released/?utm_source=atom_feed)
+
 ## 20240112
 - [Planet GNOME](https://planet.gnome.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 - [Planet GNOME](https://planet.gnome.org/) | [micro macro story time](https://wingolog.org/archives/2024/01/11/micro-macro-story-time)

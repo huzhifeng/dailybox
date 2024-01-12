@@ -1,3 +1,7 @@
+## 20240113
+- [Slashdot](https://linux.slashdot.org/) | [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://linux.slashdot.org/story/24/01/12/169219/a-2024-discussion-whether-to-convert-the-linux-kernel-from-c-to-modern-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://linux.slashdot.org/story/24/01/12/169219/a-2024-discussion-whether-to-convert-the-linux-kernel-from-c-to-modern-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240111
 - [Slashdot](https://linux.slashdot.org/) | [Linux Kernel 4.14 Reaches End of Life After More Than Six Years of Maintenance](https://linux.slashdot.org/story/24/01/10/1729216/linux-kernel-414-reaches-end-of-life-after-more-than-six-years-of-maintenance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [Linux Devices Are Under Attack By a Never-Before-Seen Worm](https://linux.slashdot.org/story/24/01/10/1727219/linux-devices-are-under-attack-by-a-never-before-seen-worm?utm_source=rss1.0mainlinkanon&utm_medium=feed)

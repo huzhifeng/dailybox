@@ -1,3 +1,12 @@
+## 20240113
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1244 美国讨论限制中国获取 RISC-V 技术](https://linux.cn/article-16552-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 Alpha Desktop Released for Public Testing, Here’s What’s New](https://9to5linux.com/gnome-46-alpha-desktop-released-for-public-testing-heres-whats-new)
+- [Planet GNOME](https://planet.gnome.org/) | [2023 in retrospect](https://feaneron.com/2024/01/12/2023-in-retrospect/)
+- [Planet GNOME](https://planet.gnome.org/) | [Updates on our internships administration](https://feborg.es/updates-on-internships-administration/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDSoap 2.2.0 Released](https://www.kdab.com/kdsoap-2-2-0-released/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://linux.slashdot.org/story/24/01/12/169219/a-2024-discussion-whether-to-convert-the-linux-kernel-from-c-to-modern-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240112
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1243 Linux 内核开发者再次讨论从 C 语言转换为现代 C++ 语言](https://linux.cn/article-16550-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Connect a .NET app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/11/connect-dotnet-app-external-postgresql-database)

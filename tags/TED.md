@@ -1,3 +1,6 @@
+## 20240113
+- [TED Talks Daily](https://www.ted.com/talks) | [Could AI give you X-ray vision? | Tara Boroushaki](https://www.ted.com/talks/tara_boroushaki_could_ai_give_you_x_ray_vision?rss)
+
 ## 20240112
 - [TED Talks Daily](https://www.ted.com/talks) | [What happens when we deny people abortions? | Diana Greene Foster](https://www.ted.com/talks/diana_greene_foster_what_happens_when_we_deny_people_abortions?rss)
 
