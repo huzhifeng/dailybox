@@ -1,3 +1,7 @@
+## 20240113
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDSoap 2.2.0 Released](https://www.kdab.com/kdsoap-2-2-0-released/?utm_source=atom_feed)
+
 ## 20240112
 - [Planet KDE](https://planet.kde.org/) | [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KTextAddons 1.5.3](https://jriddell.org/2024/01/11/ktextaddons-1-5-3/?utm_source=atom_feed)

@@ -1,3 +1,8 @@
+## 20240113
+- [Hacker News](https://news.ycombinator.com/front) | [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://news.ycombinator.com/item?id=38971012)
+- [Hacker News](https://news.ycombinator.com/front) | [US regulator considers stripping Boeing's right to self-inspect planes](https://news.ycombinator.com/item?id=38969466)
+- [Hacker News](https://news.ycombinator.com/front) | [Wind turbines are friendlier to birds than oil-and-gas drilling](https://news.ycombinator.com/item?id=38965306)
+
 ## 20240112
 - [Hacker News](https://news.ycombinator.com/front) | [Discord is laying off 17 percent of employees](https://news.ycombinator.com/item?id=38956623)
 - [Hacker News](https://news.ycombinator.com/front) | [Outlook is Microsoft's new data collection service](https://news.ycombinator.com/item?id=38953618)

@@ -1,3 +1,8 @@
+## 20240113
+- [Kagi Small Web](https://kagi.com/smallweb) | [Weather on the Way is the roadtrip app I never knew I needed](https://a.wholelottanothing.org/2024/01/12/weather-on-the-way-is-the-roadtrip-app-i-never-knew-i-needed/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Engineering Explained: Simple Math Destroys Tesla Cybertruck Advertising Fraud](https://www.flyingpenguin.com/?p=54604)
+- [Kagi Small Web](https://kagi.com/smallweb) | [I like how Tumblr puts more thought into Lucas&rsquo; worldbuilding than Lucas ever did.](https://tumblr.beesbuzz.biz/post/739342062295597056)
+
 ## 20240112
 - [Kagi Small Web](https://kagi.com/smallweb) | [Friday @ 6:38 am](https://alis.me/x/friday-638-am-2/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Book of Jerks](https://dndwithpornstars.blogspot.com/2024/01/the-book-of-jerks.html)

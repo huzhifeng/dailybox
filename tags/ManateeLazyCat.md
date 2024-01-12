@@ -1,3 +1,6 @@
+## 20240113
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [什么是利他？](https://manateelazycat.github.io/2024/01/12/kindness/)
+
 ## 20231230
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [怎么提升研发能力？](https://manateelazycat.github.io/2023/12/29/how-to-improve-development-capabilities/)
 
