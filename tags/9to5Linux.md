@@ -1,3 +1,6 @@
+## 20240114
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.114 Adds New Quality Settings for AVIF Images, Fixes More Bugs](https://9to5linux.com/kde-frameworks-5-114-adds-new-quality-settings-for-avif-images-fixes-more-bugs)
+
 ## 20240113
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 Alpha Desktop Released for Public Testing, Here’s What’s New](https://9to5linux.com/gnome-46-alpha-desktop-released-for-public-testing-heres-whats-new)
 

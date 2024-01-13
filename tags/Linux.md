@@ -1,3 +1,9 @@
+## 20240114
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1245 OpenAI 悄然删除禁止将 ChatGPT 用于 “军事和战争” 的禁令](https://linux.cn/article-16554-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.114 Adds New Quality Settings for AVIF Images, Fixes More Bugs](https://9to5linux.com/kde-frameworks-5-114-adds-new-quality-settings-for-avif-images-fixes-more-bugs)
+- [Planet KDE](https://planet.kde.org/) | [The last few weeks in KDE: It’s coming… it’s coming… it’s coming](https://pointieststick.com/2024/01/12/the-last-few-weeks-in-kde-its-coming-its-coming-its-coming/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.114.0](https://kde.org/announcements/frameworks/5/5.114.0/?utm_source=atom_feed)
+
 ## 20240113
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1244 美国讨论限制中国获取 RISC-V 技术](https://linux.cn/article-16552-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 Alpha Desktop Released for Public Testing, Here’s What’s New](https://9to5linux.com/gnome-46-alpha-desktop-released-for-public-testing-heres-whats-new)

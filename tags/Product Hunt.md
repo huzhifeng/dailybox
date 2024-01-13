@@ -1,3 +1,8 @@
+## 20240114
+- [Product Hunt](https://www.producthunt.com) | [Dinnerfy](https://www.producthunt.com/posts/dinnerfy)
+- [Product Hunt](https://www.producthunt.com) | [Mural](https://www.producthunt.com/posts/mural-3)
+- [Product Hunt](https://www.producthunt.com) | [Felo Translator](https://www.producthunt.com/posts/felo-translator-3)
+
 ## 20240113
 - [Product Hunt](https://www.producthunt.com) | [Presence](https://www.producthunt.com/posts/presence-10)
 - [Product Hunt](https://www.producthunt.com) | [Cargo for Sheets](https://www.producthunt.com/posts/cargo-for-sheets)

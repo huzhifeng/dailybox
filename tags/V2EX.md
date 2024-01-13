@@ -1,3 +1,8 @@
+## 20240114
+- [V2EX](https://www.v2ex.com/) | [Windows11 怎么这么贱啊！](https://www.v2ex.com/t/1008375)
+- [V2EX](https://www.v2ex.com/) | [求个人博客网站服务器推荐](https://www.v2ex.com/t/1008361)
+- [V2EX](https://www.v2ex.com/) | [以我的粗浅分析，苹果大概率没有解决输入法卡顿的问题，或者说根本解决不了。](https://www.v2ex.com/t/1008334)
+
 ## 20240113
 - [V2EX](https://www.v2ex.com/) | [苹果为什么不做指纹](https://www.v2ex.com/t/1008120)
 - [V2EX](https://www.v2ex.com/) | [到底是喜欢重要还是合适更重要](https://www.v2ex.com/t/1008036)

@@ -1,3 +1,7 @@
+## 20240114
+- [Planet KDE](https://planet.kde.org/) | [The last few weeks in KDE: It’s coming… it’s coming… it’s coming](https://pointieststick.com/2024/01/12/the-last-few-weeks-in-kde-its-coming-its-coming-its-coming/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.114.0](https://kde.org/announcements/frameworks/5/5.114.0/?utm_source=atom_feed)
+
 ## 20240113
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDSoap 2.2.0 Released](https://www.kdab.com/kdsoap-2-2-0-released/?utm_source=atom_feed)
