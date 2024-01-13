@@ -1,3 +1,6 @@
+## 20240114
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free)
+
 ## 20240113
 - [GitHub Advanced Search](https://github.com/search/advanced) | [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)
 

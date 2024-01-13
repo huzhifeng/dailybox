@@ -1,3 +1,7 @@
+## 20240114
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+- [Hacker News](https://news.ycombinator.com/front) | [Stellarium is a free GPL software which renders realistic skies in real time](https://news.ycombinator.com/item?id=38981254)
+
 ## 20240113
 - [Hacker News](https://news.ycombinator.com/front) | [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://news.ycombinator.com/item?id=38971012)
 - [Hacker News](https://news.ycombinator.com/front) | [US regulator considers stripping Boeing's right to self-inspect planes](https://news.ycombinator.com/item?id=38969466)
