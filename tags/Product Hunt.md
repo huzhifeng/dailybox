@@ -1,3 +1,8 @@
+## 20240115
+- [Product Hunt](https://www.producthunt.com) | [EXT](https://www.producthunt.com/posts/ext)
+- [Product Hunt](https://www.producthunt.com) | [Folksable](https://www.producthunt.com/posts/folksable-3)
+- [Product Hunt](https://www.producthunt.com) | [LinkedLeads](https://www.producthunt.com/posts/linkedleads)
+
 ## 20240114
 - [Product Hunt](https://www.producthunt.com) | [Dinnerfy](https://www.producthunt.com/posts/dinnerfy)
 - [Product Hunt](https://www.producthunt.com) | [Mural](https://www.producthunt.com/posts/mural-3)

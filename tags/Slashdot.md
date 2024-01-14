@@ -1,3 +1,6 @@
+## 20240115
+- [Slashdot](https://linux.slashdot.org/) | [Linux Mint 21.3: Its First Official Release with Wayland Support](https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240113
 - [Slashdot](https://linux.slashdot.org/) | [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://linux.slashdot.org/story/24/01/12/169219/a-2024-discussion-whether-to-convert-the-linux-kernel-from-c-to-modern-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://linux.slashdot.org/story/24/01/12/169219/a-2024-discussion-whether-to-convert-the-linux-kernel-from-c-to-modern-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)

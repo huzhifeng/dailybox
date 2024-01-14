@@ -1,3 +1,8 @@
+## 20240115
+- [V2EX](https://www.v2ex.com/) | [老爸咳嗽后被传染然后自己又传染给弟弟，咳嗽了五六天了还没好一分钟咳嗽二十次怎么办？](https://www.v2ex.com/t/1008551)
+- [V2EX](https://www.v2ex.com/) | [姐姐家老大非常不喜欢老二，以致抑郁，有何良策？](https://www.v2ex.com/t/1008515)
+- [V2EX](https://www.v2ex.com/) | [(深圳)老婆上周摇中油车牌了，预算 30 万左右，打算上宝马 3 系，前辈们帮掌掌眼](https://www.v2ex.com/t/1008513)
+
 ## 20240114
 - [V2EX](https://www.v2ex.com/) | [Windows11 怎么这么贱啊！](https://www.v2ex.com/t/1008375)
 - [V2EX](https://www.v2ex.com/) | [求个人博客网站服务器推荐](https://www.v2ex.com/t/1008361)

@@ -1,3 +1,8 @@
+## 20240115
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1246 OpenWrt 项目准备推出开放路由器](https://linux.cn/article-16556-1.html?utm_source=rss&utm_medium=rss)
+- [Planet KDE](https://planet.kde.org/) | [New countries in KDE Itinerary](https://jbb.ghsq.de/2024/01/14/New-Itinerary-backends.html?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Mint 21.3: Its First Official Release with Wayland Support](https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240114
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1245 OpenAI 悄然删除禁止将 ChatGPT 用于 “军事和战争” 的禁令](https://linux.cn/article-16554-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.114 Adds New Quality Settings for AVIF Images, Fixes More Bugs](https://9to5linux.com/kde-frameworks-5-114-adds-new-quality-settings-for-avif-images-fixes-more-bugs)
