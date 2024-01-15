@@ -1,3 +1,6 @@
+## 20240116
+- [Planet GNOME](https://planet.gnome.org/) | [Testing composefs in Silverblue](https://blogs.gnome.org/alexl/2024/01/15/testing-composefs-in-silverblue/)
+
 ## 20240113
 - [Planet GNOME](https://planet.gnome.org/) | [2023 in retrospect](https://feaneron.com/2024/01/12/2023-in-retrospect/)
 - [Planet GNOME](https://planet.gnome.org/) | [Updates on our internships administration](https://feborg.es/updates-on-internships-administration/)

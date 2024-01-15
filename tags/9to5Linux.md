@@ -1,3 +1,8 @@
+## 20240116
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Confirmed, Will Be Based on SUSE’s New Adaptable Linux Platform](https://9to5linux.com/opensuse-leap-16-confirmed-will-be-based-on-suses-new-adaptable-linux-platform)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.3 Released to Allow Sharing of WPA3 (SAE) Networks with QR Code](https://9to5linux.com/gnome-45-3-released-to-allow-sharing-of-wpa3-sae-networks-with-qr-code)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-14th-2024)
+
 ## 20240114
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.114 Adds New Quality Settings for AVIF Images, Fixes More Bugs](https://9to5linux.com/kde-frameworks-5-114-adds-new-quality-settings-for-avif-images-fixes-more-bugs)
 

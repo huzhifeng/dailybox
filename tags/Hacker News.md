@@ -1,3 +1,6 @@
+## 20240116
+- [Hacker News](https://news.ycombinator.com/front) | [Teach Yourself Programming in Ten Years (1998)](https://news.ycombinator.com/item?id=39001755)
+
 ## 20240114
 - [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 - [Hacker News](https://news.ycombinator.com/front) | [Stellarium is a free GPL software which renders realistic skies in real time](https://news.ycombinator.com/item?id=38981254)
