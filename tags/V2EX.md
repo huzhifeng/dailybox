@@ -1,3 +1,8 @@
+## 20240116
+- [V2EX](https://www.v2ex.com/) | [20 年买的房，首付 60 万，贷款 120 万， 4 年过去了一共还了 32 万，本金只还了 4 万块不到，还剩 116.3 万本金](https://www.v2ex.com/t/1008763)
+- [V2EX](https://www.v2ex.com/) | [调查，有多少人有过开发一个社交软件的想法？最终因为难度高而放弃了](https://www.v2ex.com/t/1008744)
+- [V2EX](https://www.v2ex.com/) | [V 友们如何看待额外补充维生素 D 这件事](https://www.v2ex.com/t/1008736)
+
 ## 20240115
 - [V2EX](https://www.v2ex.com/) | [老爸咳嗽后被传染然后自己又传染给弟弟，咳嗽了五六天了还没好一分钟咳嗽二十次怎么办？](https://www.v2ex.com/t/1008551)
 - [V2EX](https://www.v2ex.com/) | [姐姐家老大非常不喜欢老二，以致抑郁，有何良策？](https://www.v2ex.com/t/1008515)

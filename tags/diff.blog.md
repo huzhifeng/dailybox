@@ -1,3 +1,6 @@
+## 20240116
+- [diff.blog](https://diff.blog/) | [How OpenAI is approaching 2024 worldwide elections](https://diff.blog/post/how-openai-is-approaching-2024-worldwide-elections-166430/)
+
 ## 20240111
 - [diff.blog](https://diff.blog/) | [Introducing the GPT Store](https://diff.blog/post/introducing-the-gpt-store-166085/)
 

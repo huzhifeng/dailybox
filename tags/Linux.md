@@ -1,3 +1,11 @@
+## 20240116
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1247 Git 项目考虑使用 Rust 代码开发](https://linux.cn/article-16559-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Confirmed, Will Be Based on SUSE’s New Adaptable Linux Platform](https://9to5linux.com/opensuse-leap-16-confirmed-will-be-based-on-suses-new-adaptable-linux-platform)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.3 Released to Allow Sharing of WPA3 (SAE) Networks with QR Code](https://9to5linux.com/gnome-45-3-released-to-allow-sharing-of-wpa3-sae-networks-with-qr-code)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-14th-2024)
+- [Planet GNOME](https://planet.gnome.org/) | [Testing composefs in Silverblue](https://blogs.gnome.org/alexl/2024/01/15/testing-composefs-in-silverblue/)
+- [Planet KDE](https://planet.kde.org/) | [Season Of KDE 2024 Projects](https://mentorship.kde.org/blog/2024-01-15-sok-24-welcome/?utm_source=atom_feed)
+
 ## 20240115
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1246 OpenWrt 项目准备推出开放路由器](https://linux.cn/article-16556-1.html?utm_source=rss&utm_medium=rss)
 - [Planet KDE](https://planet.kde.org/) | [New countries in KDE Itinerary](https://jbb.ghsq.de/2024/01/14/New-Itinerary-backends.html?utm_source=atom_feed)

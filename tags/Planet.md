@@ -1,3 +1,7 @@
+## 20240116
+- [Planet GNOME](https://planet.gnome.org/) | [Testing composefs in Silverblue](https://blogs.gnome.org/alexl/2024/01/15/testing-composefs-in-silverblue/)
+- [Planet KDE](https://planet.kde.org/) | [Season Of KDE 2024 Projects](https://mentorship.kde.org/blog/2024-01-15-sok-24-welcome/?utm_source=atom_feed)
+
 ## 20240115
 - [Planet KDE](https://planet.kde.org/) | [New countries in KDE Itinerary](https://jbb.ghsq.de/2024/01/14/New-Itinerary-backends.html?utm_source=atom_feed)
 

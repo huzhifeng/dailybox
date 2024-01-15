@@ -1,3 +1,8 @@
+## 20240116
+- [Product Hunt](https://www.producthunt.com) | [Gotalk.ai](https://www.producthunt.com/posts/gotalk-ai)
+- [Product Hunt](https://www.producthunt.com) | [Naria AI](https://www.producthunt.com/posts/naria-ai)
+- [Product Hunt](https://www.producthunt.com) | [Life Story AI](https://www.producthunt.com/posts/life-story-ai)
+
 ## 20240115
 - [Product Hunt](https://www.producthunt.com) | [EXT](https://www.producthunt.com/posts/ext)
 - [Product Hunt](https://www.producthunt.com) | [Folksable](https://www.producthunt.com/posts/folksable-3)
