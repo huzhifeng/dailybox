@@ -1,3 +1,8 @@
+## 20240117
+- [Planet GNOME](https://planet.gnome.org/) | [2024-01-16 Tuesday](https://meeksfamily.uk/~michael/blog/2024-01-16.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Unveiling My Journey:Half way through my Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/01/16/unveiling-my-journeyhalf-way-through-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/01/2024](https://samthursfield.wordpress.com/2024/01/16/status-update-16-01-2024/)
+
 ## 20240116
 - [Planet GNOME](https://planet.gnome.org/) | [Testing composefs in Silverblue](https://blogs.gnome.org/alexl/2024/01/15/testing-composefs-in-silverblue/)
 

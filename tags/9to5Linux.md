@@ -1,3 +1,7 @@
+## 20240117
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.14 Lets You Import and Export VMs with NVMe Storage Controllers](https://9to5linux.com/virtualbox-7-0-14-lets-you-import-and-export-vms-with-nvme-storage-controllers)
+- [9to5Linux](https://9to5linux.com/) | [XOrg Server and Xwayland Patched Against Multiple Security Vulnerabilities](https://9to5linux.com/xorg-server-and-xwayland-patched-against-multiple-security-vulnerabilities)
+
 ## 20240116
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Confirmed, Will Be Based on SUSE’s New Adaptable Linux Platform](https://9to5linux.com/opensuse-leap-16-confirmed-will-be-based-on-suses-new-adaptable-linux-platform)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 45.3 Released to Allow Sharing of WPA3 (SAE) Networks with QR Code](https://9to5linux.com/gnome-45-3-released-to-allow-sharing-of-wpa3-sae-networks-with-qr-code)

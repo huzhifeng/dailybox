@@ -1,3 +1,10 @@
+## 20240117
+- [Planet GNOME](https://planet.gnome.org/) | [2024-01-16 Tuesday](https://meeksfamily.uk/~michael/blog/2024-01-16.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Unveiling My Journey:Half way through my Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/01/16/unveiling-my-journeyhalf-way-through-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/01/2024](https://samthursfield.wordpress.com/2024/01/16/status-update-16-01-2024/)
+- [Planet KDE](https://planet.kde.org/) | [OpenUK’s 2024 New Year’s Honours List](https://jriddell.org/2024/01/16/openuks-2024-new-years-honours-list/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 5](https://blog.broulik.de/2024/01/on-the-road-to-plasma-6-vol-5/?utm_source=atom_feed)
+
 ## 20240116
 - [Planet GNOME](https://planet.gnome.org/) | [Testing composefs in Silverblue](https://blogs.gnome.org/alexl/2024/01/15/testing-composefs-in-silverblue/)
 - [Planet KDE](https://planet.kde.org/) | [Season Of KDE 2024 Projects](https://mentorship.kde.org/blog/2024-01-15-sok-24-welcome/?utm_source=atom_feed)

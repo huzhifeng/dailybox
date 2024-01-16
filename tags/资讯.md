@@ -1,3 +1,6 @@
+## 20240117
+- [diff.blog](https://diff.blog/) | [Democratic inputs to AI grant program: lessons learned and implementation plans](https://diff.blog/post/democratic-inputs-to-ai-grant-program-lessons-learned-and-implementation-plans-166479/)
+
 ## 20240116
 - [diff.blog](https://diff.blog/) | [How OpenAI is approaching 2024 worldwide elections](https://diff.blog/post/how-openai-is-approaching-2024-worldwide-elections-166430/)
 
