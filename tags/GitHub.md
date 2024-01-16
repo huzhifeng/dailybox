@@ -1,3 +1,6 @@
+## 20240117
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Fvrxc/AI-Trading-Bot](https://github.com/Fvrxc/AI-Trading-Bot)
+
 ## 20240115
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Hjfjs/MEV-BOT](https://github.com/Hjfjs/MEV-BOT)
 

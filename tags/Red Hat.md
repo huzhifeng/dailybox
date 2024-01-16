@@ -1,3 +1,7 @@
+## 20240117
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Developer Hub: Your gateway to seamless development](https://developers.redhat.com/articles/2024/01/16/red-hat-developer-hub-your-gateway-seamless-development)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Vue.js apps to OpenShift](https://developers.redhat.com/articles/2024/01/16/how-deploy-vuejs-apps-openshift)
+
 ## 20240112
 - [Red Hat Developer](https://developers.redhat.com/) | [Connect a .NET app to an external PostgreSQL database](https://developers.redhat.com/articles/2024/01/11/connect-dotnet-app-external-postgresql-database)
 

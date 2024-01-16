@@ -1,3 +1,15 @@
+## 20240117
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1248 AI 女友涌入 OpenAI 的 GPT 商店](https://linux.cn/article-16562-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Developer Hub: Your gateway to seamless development](https://developers.redhat.com/articles/2024/01/16/red-hat-developer-hub-your-gateway-seamless-development)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Vue.js apps to OpenShift](https://developers.redhat.com/articles/2024/01/16/how-deploy-vuejs-apps-openshift)
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.14 Lets You Import and Export VMs with NVMe Storage Controllers](https://9to5linux.com/virtualbox-7-0-14-lets-you-import-and-export-vms-with-nvme-storage-controllers)
+- [9to5Linux](https://9to5linux.com/) | [XOrg Server and Xwayland Patched Against Multiple Security Vulnerabilities](https://9to5linux.com/xorg-server-and-xwayland-patched-against-multiple-security-vulnerabilities)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-01-16 Tuesday](https://meeksfamily.uk/~michael/blog/2024-01-16.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Unveiling My Journey:Half way through my Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/01/16/unveiling-my-journeyhalf-way-through-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/01/2024](https://samthursfield.wordpress.com/2024/01/16/status-update-16-01-2024/)
+- [Planet KDE](https://planet.kde.org/) | [OpenUK’s 2024 New Year’s Honours List](https://jriddell.org/2024/01/16/openuks-2024-new-years-honours-list/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 5](https://blog.broulik.de/2024/01/on-the-road-to-plasma-6-vol-5/?utm_source=atom_feed)
+
 ## 20240116
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1247 Git 项目考虑使用 Rust 代码开发](https://linux.cn/article-16559-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Confirmed, Will Be Based on SUSE’s New Adaptable Linux Platform](https://9to5linux.com/opensuse-leap-16-confirmed-will-be-based-on-suses-new-adaptable-linux-platform)

@@ -1,3 +1,6 @@
+## 20240117
+- [It's FOSS](https://itsfoss.com/) | [mv Command Examples](https://itsfoss.com/mv-command/)
+
 ## 20240113
 - [It's FOSS](https://itsfoss.com/) | [13 Best Open Source ChatGPT Alternatives](https://itsfoss.com/open-source-chatgpt-alternatives/)
 

@@ -1,3 +1,8 @@
+## 20240117
+- [V2EX](https://www.v2ex.com/) | [现在各地房价跌到哪一年了？](https://www.v2ex.com/t/1009047)
+- [V2EX](https://www.v2ex.com/) | [分享一下我家族的人在大事上犯的蠢事](https://www.v2ex.com/t/1009021)
+- [V2EX](https://www.v2ex.com/) | [是时候给 10 岁的孩子大开眼界了](https://www.v2ex.com/t/1009014)
+
 ## 20240116
 - [V2EX](https://www.v2ex.com/) | [20 年买的房，首付 60 万，贷款 120 万， 4 年过去了一共还了 32 万，本金只还了 4 万块不到，还剩 116.3 万本金](https://www.v2ex.com/t/1008763)
 - [V2EX](https://www.v2ex.com/) | [调查，有多少人有过开发一个社交软件的想法？最终因为难度高而放弃了](https://www.v2ex.com/t/1008744)

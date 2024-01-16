@@ -1,3 +1,8 @@
+## 20240117
+- [Product Hunt](https://www.producthunt.com) | [DocentPro](https://www.producthunt.com/posts/docentpro-3)
+- [Product Hunt](https://www.producthunt.com) | [GoReply.com](https://www.producthunt.com/posts/goreply-com)
+- [Product Hunt](https://www.producthunt.com) | [CheckYa Bookings](https://www.producthunt.com/posts/checkya-bookings)
+
 ## 20240116
 - [Product Hunt](https://www.producthunt.com) | [Gotalk.ai](https://www.producthunt.com/posts/gotalk-ai)
 - [Product Hunt](https://www.producthunt.com) | [Naria AI](https://www.producthunt.com/posts/naria-ai)

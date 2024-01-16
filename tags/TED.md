@@ -1,3 +1,7 @@
+## 20240117
+- [TED Talks Daily](https://www.ted.com/talks) | [The beauty of wildlife — and an artistic call to protect it | Isabella Kirkland](https://www.ted.com/talks/isabella_kirkland_the_beauty_of_wildlife_and_an_artistic_call_to_protect_it?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Let curiosity lead | Yara Shahidi](https://www.ted.com/talks/yara_shahidi_let_curiosity_lead?rss)
+
 ## 20240113
 - [TED Talks Daily](https://www.ted.com/talks) | [Could AI give you X-ray vision? | Tara Boroushaki](https://www.ted.com/talks/tara_boroushaki_could_ai_give_you_x_ray_vision?rss)
 
