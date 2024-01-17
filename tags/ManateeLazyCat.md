@@ -1,3 +1,6 @@
+## 20240118
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [研发团队管理的目的](https://manateelazycat.github.io/2024/01/17/purpose-of-development-management/)
+
 ## 20240113
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [什么是利他？](https://manateelazycat.github.io/2024/01/12/kindness/)
 

@@ -1,3 +1,9 @@
+## 20240118
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1249 LG 洗衣机每天上传近 4GB 的数据？](https://linux.cn/article-16564-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Monolith to microservices: Breaking down apps the useful way](https://developers.redhat.com/articles/2024/01/17/monolith-microservices-breaking-down-apps-useful-way)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install and upgrade Data Grid 8 Operator](https://developers.redhat.com/articles/2024/01/17/how-install-and-upgrade-data-grid-8-operator)
+- [Planet KDE](https://planet.kde.org/) | [Ruqola 2.1 Beta](https://jriddell.org/2024/01/17/ruqola-2-1-beta/?utm_source=atom_feed)
+
 ## 20240117
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1248 AI 女友涌入 OpenAI 的 GPT 商店](https://linux.cn/article-16562-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Developer Hub: Your gateway to seamless development](https://developers.redhat.com/articles/2024/01/16/red-hat-developer-hub-your-gateway-seamless-development)

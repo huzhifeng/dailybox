@@ -1,3 +1,8 @@
+## 20240118
+- [Product Hunt](https://www.producthunt.com) | [Sparksocial](https://www.producthunt.com/posts/sparksocial)
+- [Product Hunt](https://www.producthunt.com) | [GetWebsite.Report](https://www.producthunt.com/posts/getwebsite-report)
+- [Product Hunt](https://www.producthunt.com) | [Canonic](https://www.producthunt.com/posts/canonic-3)
+
 ## 20240117
 - [Product Hunt](https://www.producthunt.com) | [DocentPro](https://www.producthunt.com/posts/docentpro-3)
 - [Product Hunt](https://www.producthunt.com) | [GoReply.com](https://www.producthunt.com/posts/goreply-com)
