@@ -1,3 +1,6 @@
+## 20240118
+- [Slashdot](https://developers.slashdot.org/) | [Apple Revises App Store Rules To Let Developers Link To Outside Payment Methods](https://apple.slashdot.org/story/24/01/17/0015255/apple-revises-app-store-rules-to-let-developers-link-to-outside-payment-methods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240115
 - [Slashdot](https://linux.slashdot.org/) | [Linux Mint 21.3: Its First Official Release with Wayland Support](https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

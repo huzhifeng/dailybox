@@ -1,3 +1,6 @@
+## 20240118
+- [Planet KDE](https://planet.kde.org/) | [Ruqola 2.1 Beta](https://jriddell.org/2024/01/17/ruqola-2-1-beta/?utm_source=atom_feed)
+
 ## 20240117
 - [Planet KDE](https://planet.kde.org/) | [OpenUK’s 2024 New Year’s Honours List](https://jriddell.org/2024/01/16/openuks-2024-new-years-honours-list/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [On the Road to Plasma 6, Vol. 5](https://blog.broulik.de/2024/01/on-the-road-to-plasma-6-vol-5/?utm_source=atom_feed)

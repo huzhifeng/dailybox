@@ -1,3 +1,8 @@
+## 20240118
+- [Hacker News](https://news.ycombinator.com/front) | [Hacking into an insurance company by exploiting their premium calculator](https://news.ycombinator.com/item?id=39030302)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple built iCloud to store billions of databases](https://news.ycombinator.com/item?id=39028672)
+- [Hacker News](https://news.ycombinator.com/front) | [Willow Protocol](https://news.ycombinator.com/item?id=39026791)
+
 ## 20240116
 - [Hacker News](https://news.ycombinator.com/front) | [Teach Yourself Programming in Ten Years (1998)](https://news.ycombinator.com/item?id=39001755)
 

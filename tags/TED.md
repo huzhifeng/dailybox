@@ -1,3 +1,6 @@
+## 20240118
+- [TED Talks Daily](https://www.ted.com/talks) | [What if advertising was honest? | Sylvester Chauke](https://www.ted.com/talks/sylvester_chauke_what_if_advertising_was_honest?rss)
+
 ## 20240117
 - [TED Talks Daily](https://www.ted.com/talks) | [The beauty of wildlife — and an artistic call to protect it | Isabella Kirkland](https://www.ted.com/talks/isabella_kirkland_the_beauty_of_wildlife_and_an_artistic_call_to_protect_it?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Let curiosity lead | Yara Shahidi](https://www.ted.com/talks/yara_shahidi_let_curiosity_lead?rss)

@@ -1,3 +1,6 @@
+## 20240118
+- [Planet KDE](https://planet.kde.org/) | [Ruqola 2.1 Beta](https://jriddell.org/2024/01/17/ruqola-2-1-beta/?utm_source=atom_feed)
+
 ## 20240117
 - [Planet GNOME](https://planet.gnome.org/) | [2024-01-16 Tuesday](https://meeksfamily.uk/~michael/blog/2024-01-16.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Unveiling My Journey:Half way through my Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/01/16/unveiling-my-journeyhalf-way-through-my-outreachy-internship-with-gnome/)

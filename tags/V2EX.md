@@ -1,3 +1,8 @@
+## 20240118
+- [V2EX](https://www.v2ex.com/) | [怎么解决 淋浴“向左一点烫死，向右一点冷死”的问题？](https://www.v2ex.com/t/1009312)
+- [V2EX](https://www.v2ex.com/) | [购买茶叶如何避免高价买到低茶？](https://www.v2ex.com/t/1009310)
+- [V2EX](https://www.v2ex.com/) | [看到有人在讨论预制菜，分享一个看过的视频](https://www.v2ex.com/t/1009293)
+
 ## 20240117
 - [V2EX](https://www.v2ex.com/) | [现在各地房价跌到哪一年了？](https://www.v2ex.com/t/1009047)
 - [V2EX](https://www.v2ex.com/) | [分享一下我家族的人在大事上犯的蠢事](https://www.v2ex.com/t/1009021)
