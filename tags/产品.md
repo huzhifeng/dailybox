@@ -1,3 +1,8 @@
+## 20240119
+- [Product Hunt](https://www.producthunt.com) | [mentalport-app](https://www.producthunt.com/posts/mentalport-app)
+- [Product Hunt](https://www.producthunt.com) | [Emailwish](https://www.producthunt.com/posts/emailwish-2)
+- [Product Hunt](https://www.producthunt.com) | [Modelize.ai 1.0](https://www.producthunt.com/posts/modelize-ai-1-0)
+
 ## 20240118
 - [Product Hunt](https://www.producthunt.com) | [Sparksocial](https://www.producthunt.com/posts/sparksocial)
 - [Product Hunt](https://www.producthunt.com) | [GetWebsite.Report](https://www.producthunt.com/posts/getwebsite-report)

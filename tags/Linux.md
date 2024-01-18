@@ -1,3 +1,7 @@
+## 20240119
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1250 苹果公司首次在全球智能手机市场占据首位](https://linux.cn/article-16567-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [Chafa 1.14: All-singing, all-dancing](https://hpjansson.org/blag/2024/01/18/chafa-1-14-all-singing-all-dancing/)
+
 ## 20240118
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1249 LG 洗衣机每天上传近 4GB 的数据？](https://linux.cn/article-16564-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Monolith to microservices: Breaking down apps the useful way](https://developers.redhat.com/articles/2024/01/17/monolith-microservices-breaking-down-apps-useful-way)

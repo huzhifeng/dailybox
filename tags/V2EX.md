@@ -1,3 +1,8 @@
+## 20240119
+- [V2EX](https://www.v2ex.com/) | [有什么好玩的手游没，要质量高点的，随时能脱手的，王者之类的就算了](https://www.v2ex.com/t/1009669)
+- [V2EX](https://www.v2ex.com/) | [吐槽一下某同事，居然把 Ubuntu 读成 uboot](https://www.v2ex.com/t/1009629)
+- [V2EX](https://www.v2ex.com/) | [24 年，想看看大家的订阅付费，软件或服务都可以](https://www.v2ex.com/t/1009615)
+
 ## 20240118
 - [V2EX](https://www.v2ex.com/) | [怎么解决 淋浴“向左一点烫死，向右一点冷死”的问题？](https://www.v2ex.com/t/1009312)
 - [V2EX](https://www.v2ex.com/) | [购买茶叶如何避免高价买到低茶？](https://www.v2ex.com/t/1009310)

@@ -1,3 +1,6 @@
+## 20240119
+- [TED Talks Daily](https://www.ted.com/talks) | [Fight for justice — even if you don't live to see it | Golriz Lucina](https://www.ted.com/talks/golriz_lucina_fight_for_justice_even_if_you_don_t_live_to_see_it?rss)
+
 ## 20240118
 - [TED Talks Daily](https://www.ted.com/talks) | [What if advertising was honest? | Sylvester Chauke](https://www.ted.com/talks/sylvester_chauke_what_if_advertising_was_honest?rss)
 

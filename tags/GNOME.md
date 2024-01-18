@@ -1,3 +1,6 @@
+## 20240119
+- [Planet GNOME](https://planet.gnome.org/) | [Chafa 1.14: All-singing, all-dancing](https://hpjansson.org/blag/2024/01/18/chafa-1-14-all-singing-all-dancing/)
+
 ## 20240117
 - [Planet GNOME](https://planet.gnome.org/) | [2024-01-16 Tuesday](https://meeksfamily.uk/~michael/blog/2024-01-16.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Unveiling My Journey:Half way through my Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/01/16/unveiling-my-journeyhalf-way-through-my-outreachy-internship-with-gnome/)

@@ -1,3 +1,6 @@
+## 20240119
+- [Hacker News](https://news.ycombinator.com/front) | [Losing my son](https://news.ycombinator.com/item?id=39036842)
+
 ## 20240118
 - [Hacker News](https://news.ycombinator.com/front) | [Hacking into an insurance company by exploiting their premium calculator](https://news.ycombinator.com/item?id=39030302)
 - [Hacker News](https://news.ycombinator.com/front) | [Apple built iCloud to store billions of databases](https://news.ycombinator.com/item?id=39028672)
