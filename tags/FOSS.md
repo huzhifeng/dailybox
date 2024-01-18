@@ -1,3 +1,6 @@
+## 20240119
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.03: Linux Mint 21.3 Released, Tiling GNOME, Open Source ChatGPT and More](https://itsfoss.com/newsletter/foss-weekly-24-03/)
+
 ## 20240117
 - [It's FOSS](https://itsfoss.com/) | [mv Command Examples](https://itsfoss.com/mv-command/)
 

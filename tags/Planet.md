@@ -1,3 +1,6 @@
+## 20240119
+- [Planet GNOME](https://planet.gnome.org/) | [Chafa 1.14: All-singing, all-dancing](https://hpjansson.org/blag/2024/01/18/chafa-1-14-all-singing-all-dancing/)
+
 ## 20240118
 - [Planet KDE](https://planet.kde.org/) | [Ruqola 2.1 Beta](https://jriddell.org/2024/01/17/ruqola-2-1-beta/?utm_source=atom_feed)
 
