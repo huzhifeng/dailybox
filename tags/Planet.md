@@ -1,3 +1,7 @@
+## 20240120
+- [Planet GNOME](https://planet.gnome.org/) | [#131 STF Happenings](https://thisweek.gnome.org/posts/2024/01/twig-131/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/?utm_source=atom_feed)
+
 ## 20240119
 - [Planet GNOME](https://planet.gnome.org/) | [Chafa 1.14: All-singing, all-dancing](https://hpjansson.org/blag/2024/01/18/chafa-1-14-all-singing-all-dancing/)
 

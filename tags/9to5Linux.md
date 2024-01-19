@@ -1,3 +1,7 @@
+## 20240120
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux Kicks Off 2024 with MLVWM Macintosh-Like WM and Calamares 3.3](https://9to5linux.com/sparkylinux-kicks-off-2024-with-mlvwm-macintosh-like-wm-and-calamares-3-3)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.4 Open-Source Ebook Manager Adds Support for Supernote A6X2 Nomad](https://9to5linux.com/calibre-7-4-open-source-ebook-manager-adds-support-for-supernote-a6x2-nomad)
+
 ## 20240117
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.0.14 Lets You Import and Export VMs with NVMe Storage Controllers](https://9to5linux.com/virtualbox-7-0-14-lets-you-import-and-export-vms-with-nvme-storage-controllers)
 - [9to5Linux](https://9to5linux.com/) | [XOrg Server and Xwayland Patched Against Multiple Security Vulnerabilities](https://9to5linux.com/xorg-server-and-xwayland-patched-against-multiple-security-vulnerabilities)

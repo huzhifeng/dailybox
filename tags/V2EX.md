@@ -1,3 +1,8 @@
+## 20240120
+- [V2EX](https://www.v2ex.com/) | [nas 硬盘太吵了，有什么解决方案吗](https://www.v2ex.com/t/1009959)
+- [V2EX](https://www.v2ex.com/) | [你们的 mac 每天都会关机吗？](https://www.v2ex.com/t/1009956)
+- [V2EX](https://www.v2ex.com/) | [这两天抖音经常给我推送卖女士内裤的直播……](https://www.v2ex.com/t/1009894)
+
 ## 20240119
 - [V2EX](https://www.v2ex.com/) | [有什么好玩的手游没，要质量高点的，随时能脱手的，王者之类的就算了](https://www.v2ex.com/t/1009669)
 - [V2EX](https://www.v2ex.com/) | [吐槽一下某同事，居然把 Ubuntu 读成 uboot](https://www.v2ex.com/t/1009629)

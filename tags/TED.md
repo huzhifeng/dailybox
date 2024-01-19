@@ -1,3 +1,6 @@
+## 20240120
+- [TED Talks Daily](https://www.ted.com/talks) | [How film changes the way we see the world | Ava DuVernay](https://www.ted.com/talks/ava_duvernay_how_film_changes_the_way_we_see_the_world?rss)
+
 ## 20240119
 - [TED Talks Daily](https://www.ted.com/talks) | [Fight for justice — even if you don't live to see it | Golriz Lucina](https://www.ted.com/talks/golriz_lucina_fight_for_justice_even_if_you_don_t_live_to_see_it?rss)
 

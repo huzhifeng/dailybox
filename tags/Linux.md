@@ -1,3 +1,10 @@
+## 20240120
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1251 ChatGPT 几乎没有提升必应搜索市场份额](https://linux.cn/article-16569-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux Kicks Off 2024 with MLVWM Macintosh-Like WM and Calamares 3.3](https://9to5linux.com/sparkylinux-kicks-off-2024-with-mlvwm-macintosh-like-wm-and-calamares-3-3)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.4 Open-Source Ebook Manager Adds Support for Supernote A6X2 Nomad](https://9to5linux.com/calibre-7-4-open-source-ebook-manager-adds-support-for-supernote-a6x2-nomad)
+- [Planet GNOME](https://planet.gnome.org/) | [#131 STF Happenings](https://thisweek.gnome.org/posts/2024/01/twig-131/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/?utm_source=atom_feed)
+
 ## 20240119
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1250 苹果公司首次在全球智能手机市场占据首位](https://linux.cn/article-16567-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [Chafa 1.14: All-singing, all-dancing](https://hpjansson.org/blag/2024/01/18/chafa-1-14-all-singing-all-dancing/)
