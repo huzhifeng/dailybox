@@ -1,3 +1,8 @@
+## 20240120
+- [Product Hunt](https://www.producthunt.com) | [Free AI Writing & Generators Tools](https://www.producthunt.com/posts/free-ai-writing-generators-tools)
+- [Product Hunt](https://www.producthunt.com) | [Koosh](https://www.producthunt.com/posts/koosh)
+- [Product Hunt](https://www.producthunt.com) | [Photify AI](https://www.producthunt.com/posts/photify-ai)
+
 ## 20240119
 - [Product Hunt](https://www.producthunt.com) | [mentalport-app](https://www.producthunt.com/posts/mentalport-app)
 - [Product Hunt](https://www.producthunt.com) | [Emailwish](https://www.producthunt.com/posts/emailwish-2)

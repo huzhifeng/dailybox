@@ -1,3 +1,7 @@
+## 20240120
+- [Hacker News](https://news.ycombinator.com/front) | [Winding down Google Sync and Less Secure Apps support](https://news.ycombinator.com/item?id=39052196)
+- [Hacker News](https://news.ycombinator.com/front) | [Dave Mills has died](https://news.ycombinator.com/item?id=39051246)
+
 ## 20240119
 - [Hacker News](https://news.ycombinator.com/front) | [Losing my son](https://news.ycombinator.com/item?id=39036842)
 
