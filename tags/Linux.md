@@ -1,3 +1,12 @@
+## 20240121
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [Sidebars in Libpanel](https://blogs.gnome.org/chergert/2024/01/20/sidebars-in-libpanel/)
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx now offers built-in support for Arch Linux and Ubuntu](https://debarshiray.wordpress.com/2024/01/20/toolbx-now-offers-built-in-support-for-arch-linux-and-ubuntu/)
+- [Planet GNOME](https://planet.gnome.org/) | [Faster Numbers](https://blogs.gnome.org/chergert/2024/01/20/faster-numbers/)
+- [Planet KDE](https://planet.kde.org/) | [Improving the qcolor-from-literal Clazy check](https://write.as/alexander-lohnau/improving-the-qcolor-from-literal-clazy-check?pk_campaign=rss-feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Events in 2024](https://www.volkerkrause.eu/2024/01/20/events-in-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: auto-save in Dolphin and better fractional scaling](https://pointieststick.com/2024/01/19/this-week-in-kde-auto-save-in-dolphin-and-better-fractional-scaling/?utm_source=atom_feed)
+
 ## 20240120
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1251 ChatGPT 几乎没有提升必应搜索市场份额](https://linux.cn/article-16569-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux Kicks Off 2024 with MLVWM Macintosh-Like WM and Calamares 3.3](https://9to5linux.com/sparkylinux-kicks-off-2024-with-mlvwm-macintosh-like-wm-and-calamares-3-3)

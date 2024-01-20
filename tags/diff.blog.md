@@ -1,3 +1,6 @@
+## 20240121
+- [diff.blog](https://diff.blog/) | [The Orange Pi 5+](https://diff.blog/post/the-orange-pi-5-167015/)
+
 ## 20240118
 - [diff.blog](https://diff.blog/) | [AlphaGeometry: An Olympiad-level AI system for geometry](https://diff.blog/post/alphageometry-an-olympiad-level-ai-system-for-geometry-166583/)
 - [diff.blog](https://diff.blog/) | [Inside the Massive Naz.API Credential Stuffing List](https://diff.blog/post/inside-the-massive-nazapi-credential-stuffing-list-166578/)

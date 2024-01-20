@@ -1,3 +1,11 @@
+## 20240121
+- [Planet GNOME](https://planet.gnome.org/) | [Sidebars in Libpanel](https://blogs.gnome.org/chergert/2024/01/20/sidebars-in-libpanel/)
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx now offers built-in support for Arch Linux and Ubuntu](https://debarshiray.wordpress.com/2024/01/20/toolbx-now-offers-built-in-support-for-arch-linux-and-ubuntu/)
+- [Planet GNOME](https://planet.gnome.org/) | [Faster Numbers](https://blogs.gnome.org/chergert/2024/01/20/faster-numbers/)
+- [Planet KDE](https://planet.kde.org/) | [Improving the qcolor-from-literal Clazy check](https://write.as/alexander-lohnau/improving-the-qcolor-from-literal-clazy-check?pk_campaign=rss-feed?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Events in 2024](https://www.volkerkrause.eu/2024/01/20/events-in-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: auto-save in Dolphin and better fractional scaling](https://pointieststick.com/2024/01/19/this-week-in-kde-auto-save-in-dolphin-and-better-fractional-scaling/?utm_source=atom_feed)
+
 ## 20240120
 - [Planet GNOME](https://planet.gnome.org/) | [#131 STF Happenings](https://thisweek.gnome.org/posts/2024/01/twig-131/)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/?utm_source=atom_feed)

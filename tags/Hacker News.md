@@ -1,3 +1,7 @@
+## 20240121
+- [Hacker News](https://news.ycombinator.com/front) | [Spotube: Open-source Spotify-Youtube client](https://news.ycombinator.com/item?id=39066136)
+- [Hacker News](https://news.ycombinator.com/front) | [What's that touchscreen in my room?](https://news.ycombinator.com/item?id=39063242)
+
 ## 20240120
 - [Hacker News](https://news.ycombinator.com/front) | [Winding down Google Sync and Less Secure Apps support](https://news.ycombinator.com/item?id=39052196)
 - [Hacker News](https://news.ycombinator.com/front) | [Dave Mills has died](https://news.ycombinator.com/item?id=39051246)
