@@ -1,3 +1,8 @@
+## 20240121
+- [Planet GNOME](https://planet.gnome.org/) | [Sidebars in Libpanel](https://blogs.gnome.org/chergert/2024/01/20/sidebars-in-libpanel/)
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx now offers built-in support for Arch Linux and Ubuntu](https://debarshiray.wordpress.com/2024/01/20/toolbx-now-offers-built-in-support-for-arch-linux-and-ubuntu/)
+- [Planet GNOME](https://planet.gnome.org/) | [Faster Numbers](https://blogs.gnome.org/chergert/2024/01/20/faster-numbers/)
+
 ## 20240120
 - [Planet GNOME](https://planet.gnome.org/) | [#131 STF Happenings](https://thisweek.gnome.org/posts/2024/01/twig-131/)
 

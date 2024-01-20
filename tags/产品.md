@@ -1,3 +1,7 @@
+## 20240121
+- [Product Hunt](https://www.producthunt.com) | [Gyre](https://www.producthunt.com/posts/gyre-2)
+- [Product Hunt](https://www.producthunt.com) | [not8](https://www.producthunt.com/posts/not8-3)
+
 ## 20240120
 - [Product Hunt](https://www.producthunt.com) | [Free AI Writing & Generators Tools](https://www.producthunt.com/posts/free-ai-writing-generators-tools)
 - [Product Hunt](https://www.producthunt.com) | [Koosh](https://www.producthunt.com/posts/koosh)
