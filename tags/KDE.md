@@ -1,3 +1,6 @@
+## 20240122
+- [Planet KDE](https://planet.kde.org/) | [Debug symbols for all!](https://akselmo.dev/posts/debug-symbols-for-all/?utm_source=atom_feed)
+
 ## 20240121
 - [Planet KDE](https://planet.kde.org/) | [Improving the qcolor-from-literal Clazy check](https://write.as/alexander-lohnau/improving-the-qcolor-from-literal-clazy-check?pk_campaign=rss-feed?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Events in 2024](https://www.volkerkrause.eu/2024/01/20/events-in-2024.html?utm_source=atom_feed)

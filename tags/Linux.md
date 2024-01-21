@@ -1,3 +1,8 @@
+## 20240122
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1253 海尔要求开发者下架开源的家庭助理插件](https://linux.cn/article-16573-1.html?utm_source=rss&utm_medium=rss)
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.8.0 released](https://nibblestew.blogspot.com/2024/01/capypdf-080-released.html)
+- [Planet KDE](https://planet.kde.org/) | [Debug symbols for all!](https://akselmo.dev/posts/debug-symbols-for-all/?utm_source=atom_feed)
+
 ## 20240121
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [Sidebars in Libpanel](https://blogs.gnome.org/chergert/2024/01/20/sidebars-in-libpanel/)
