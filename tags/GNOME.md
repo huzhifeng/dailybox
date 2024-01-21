@@ -1,3 +1,6 @@
+## 20240122
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.8.0 released](https://nibblestew.blogspot.com/2024/01/capypdf-080-released.html)
+
 ## 20240121
 - [Planet GNOME](https://planet.gnome.org/) | [Sidebars in Libpanel](https://blogs.gnome.org/chergert/2024/01/20/sidebars-in-libpanel/)
 - [Planet GNOME](https://planet.gnome.org/) | [Toolbx now offers built-in support for Arch Linux and Ubuntu](https://debarshiray.wordpress.com/2024/01/20/toolbx-now-offers-built-in-support-for-arch-linux-and-ubuntu/)

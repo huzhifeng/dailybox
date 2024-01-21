@@ -1,3 +1,6 @@
+## 20240122
+- [diff.blog](https://diff.blog/) | [eBay Still (Secretly) Supports Dorking](https://diff.blog/post/ebay-still-secretly-supports-dorking-167035/)
+
 ## 20240121
 - [diff.blog](https://diff.blog/) | [The Orange Pi 5+](https://diff.blog/post/the-orange-pi-5-167015/)
 

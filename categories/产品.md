@@ -1,3 +1,8 @@
+## 20240122
+- [Product Hunt](https://www.producthunt.com) | [WittyWingMan](https://www.producthunt.com/posts/wittywingman)
+- [Product Hunt](https://www.producthunt.com) | [HabitDone](https://www.producthunt.com/posts/habitdone)
+- [Product Hunt](https://www.producthunt.com) | [Is It You?](https://www.producthunt.com/posts/is-it-you)
+
 ## 20240121
 - [Product Hunt](https://www.producthunt.com) | [Gyre](https://www.producthunt.com/posts/gyre-2)
 - [Product Hunt](https://www.producthunt.com) | [not8](https://www.producthunt.com/posts/not8-3)
