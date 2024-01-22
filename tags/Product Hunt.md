@@ -1,3 +1,8 @@
+## 20240123
+- [Product Hunt](https://www.producthunt.com) | [Micro StartUps Acquisitions](https://www.producthunt.com/posts/micro-startups-acquisitions)
+- [Product Hunt](https://www.producthunt.com) | [Kyugo 2.0](https://www.producthunt.com/posts/kyugo-2-0)
+- [Product Hunt](https://www.producthunt.com) | [24me Smart Personal Assistant](https://www.producthunt.com/posts/24me-smart-personal-assistant-902909e6-1d55-4d76-b193-b9b6e7e3a7a2)
+
 ## 20240122
 - [Product Hunt](https://www.producthunt.com) | [WittyWingMan](https://www.producthunt.com/posts/wittywingman)
 - [Product Hunt](https://www.producthunt.com) | [HabitDone](https://www.producthunt.com/posts/habitdone)

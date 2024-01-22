@@ -1,3 +1,6 @@
+## 20240123
+- [diff.blog](https://diff.blog/) | [Self-driving as a case study for AGI](https://diff.blog/post/self-driving-as-a-case-study-for-agi-167098/)
+
 ## 20240122
 - [diff.blog](https://diff.blog/) | [eBay Still (Secretly) Supports Dorking](https://diff.blog/post/ebay-still-secretly-supports-dorking-167035/)
 

@@ -1,3 +1,6 @@
+## 20240123
+- [Hacker News](https://news.ycombinator.com/front) | [Reading QR codes without a computer](https://news.ycombinator.com/item?id=39087752)
+
 ## 20240121
 - [Hacker News](https://news.ycombinator.com/front) | [Spotube: Open-source Spotify-Youtube client](https://news.ycombinator.com/item?id=39066136)
 - [Hacker News](https://news.ycombinator.com/front) | [What's that touchscreen in my room?](https://news.ycombinator.com/item?id=39063242)

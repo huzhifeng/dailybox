@@ -1,3 +1,6 @@
+## 20240123
+- [Red Hat Developer](https://developers.redhat.com/) | [Convert CentOS Linux to RHEL using Red Hat Insights](https://developers.redhat.com/articles/2024/01/22/convert-centos-linux-rhel-using-red-hat-insights)
+
 ## 20240118
 - [Red Hat Developer](https://developers.redhat.com/) | [Monolith to microservices: Breaking down apps the useful way](https://developers.redhat.com/articles/2024/01/17/monolith-microservices-breaking-down-apps-useful-way)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to install and upgrade Data Grid 8 Operator](https://developers.redhat.com/articles/2024/01/17/how-install-and-upgrade-data-grid-8-operator)

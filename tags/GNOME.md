@@ -1,3 +1,6 @@
+## 20240123
+- [Planet GNOME](https://planet.gnome.org/) | [Taxes and section 174](https://blogs.gnome.org/rbultje/2024/01/22/taxes-and-section-174/)
+
 ## 20240122
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.8.0 released](https://nibblestew.blogspot.com/2024/01/capypdf-080-released.html)
 

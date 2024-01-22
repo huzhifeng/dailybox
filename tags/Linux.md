@@ -1,3 +1,11 @@
+## 20240123
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1254 得益于人工智能驱动的狂热，标普 500 指数创历史新高](https://linux.cn/article-16576-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Convert CentOS Linux to RHEL using Red Hat Insights](https://developers.redhat.com/articles/2024/01/22/convert-centos-linux-rhel-using-red-hat-insights)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 122 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-122-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 “EDGE” ISO Released with Linux Kernel 6.5](https://9to5linux.com/linux-mint-21-3-edge-iso-released-with-linux-kernel-6-5)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23.2 Is Out with Linux Kernel 6.6, PipeWire 1.0, and Debian 12.4 Base](https://9to5linux.com/mx-linux-23-2-is-out-with-linux-kernel-6-6-pipewire-1-0-and-debian-12-4-base)
+- [Planet GNOME](https://planet.gnome.org/) | [Taxes and section 174](https://blogs.gnome.org/rbultje/2024/01/22/taxes-and-section-174/)
+
 ## 20240122
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1253 海尔要求开发者下架开源的家庭助理插件](https://linux.cn/article-16573-1.html?utm_source=rss&utm_medium=rss)
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.8.0 released](https://nibblestew.blogspot.com/2024/01/capypdf-080-released.html)

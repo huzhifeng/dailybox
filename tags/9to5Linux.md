@@ -1,3 +1,8 @@
+## 20240123
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 122 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-122-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 “EDGE” ISO Released with Linux Kernel 6.5](https://9to5linux.com/linux-mint-21-3-edge-iso-released-with-linux-kernel-6-5)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23.2 Is Out with Linux Kernel 6.6, PipeWire 1.0, and Debian 12.4 Base](https://9to5linux.com/mx-linux-23-2-is-out-with-linux-kernel-6-6-pipewire-1-0-and-debian-12-4-base)
+
 ## 20240120
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux Kicks Off 2024 with MLVWM Macintosh-Like WM and Calamares 3.3](https://9to5linux.com/sparkylinux-kicks-off-2024-with-mlvwm-macintosh-like-wm-and-calamares-3-3)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.4 Open-Source Ebook Manager Adds Support for Supernote A6X2 Nomad](https://9to5linux.com/calibre-7-4-open-source-ebook-manager-adds-support-for-supernote-a6x2-nomad)
