@@ -1,3 +1,6 @@
+## 20240123
+- [It's FOSS](https://itsfoss.com/) | [CP/M: An Unsung Architect of Micro-Computing](https://itsfoss.com/cp-m-os-history/)
+
 ## 20240119
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.03: Linux Mint 21.3 Released, Tiling GNOME, Open Source ChatGPT and More](https://itsfoss.com/newsletter/foss-weekly-24-03/)
 
