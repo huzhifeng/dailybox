@@ -1,3 +1,8 @@
+## 20240124
+- [V2EX](https://www.v2ex.com/) | [Postgres 在中国还能起来么？](https://www.v2ex.com/t/1010986)
+- [V2EX](https://www.v2ex.com/) | [广州天河区老破小想便宜卖了](https://www.v2ex.com/t/1010905)
+- [V2EX](https://www.v2ex.com/) | [十二年职场奋斗路，年终考核梦碎时，该怎么办](https://www.v2ex.com/t/1010888)
+
 ## 20240123
 - [V2EX](https://www.v2ex.com/) | [遇到这种事情的时候，你们会怎样去应对？](https://www.v2ex.com/t/1010720)
 - [V2EX](https://www.v2ex.com/) | [实现 Authing/Okta/Auth0 的难点在于？为什么这块还需要云服务？](https://www.v2ex.com/t/1010604)

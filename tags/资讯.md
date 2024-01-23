@@ -1,3 +1,6 @@
+## 20240124
+- [diff.blog](https://diff.blog/) | [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://diff.blog/post/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives-167264/)
+
 ## 20240123
 - [diff.blog](https://diff.blog/) | [Self-driving as a case study for AGI](https://diff.blog/post/self-driving-as-a-case-study-for-agi-167098/)
 

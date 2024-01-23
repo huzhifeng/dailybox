@@ -1,3 +1,6 @@
+## 20240124
+- [Red Hat Developer](https://developers.redhat.com/) | [Speed up Java application startup time with AppCDS](https://developers.redhat.com/articles/2024/01/23/speed-java-application-startup-time-appcds)
+
 ## 20240123
 - [Red Hat Developer](https://developers.redhat.com/) | [Convert CentOS Linux to RHEL using Red Hat Insights](https://developers.redhat.com/articles/2024/01/22/convert-centos-linux-rhel-using-red-hat-insights)
 
