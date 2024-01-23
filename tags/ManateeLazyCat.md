@@ -1,3 +1,6 @@
+## 20240124
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [ChatGPT 注册登录最佳实践](https://manateelazycat.github.io/2024/01/23/chatgpt-way/)
+
 ## 20240118
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [研发团队管理的目的](https://manateelazycat.github.io/2024/01/17/purpose-of-development-management/)
 

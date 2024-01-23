@@ -1,3 +1,6 @@
+## 20240124
+- [GitHub Advanced Search](https://github.com/search/advanced) | [JogNKee/Fortnite-Private](https://github.com/JogNKee/Fortnite-Private)
+
 ## 20240123
 - [GitHub Advanced Search](https://github.com/search/advanced) | [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 

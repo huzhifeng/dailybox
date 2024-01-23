@@ -1,3 +1,6 @@
+## 20240124
+- [Hacker News](https://news.ycombinator.com/front) | [Free Godot engine port for Nintendo Switch](https://news.ycombinator.com/item?id=39102002)
+
 ## 20240123
 - [Hacker News](https://news.ycombinator.com/front) | [Reading QR codes without a computer](https://news.ycombinator.com/item?id=39087752)
 

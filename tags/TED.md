@@ -1,3 +1,6 @@
+## 20240124
+- [TED Talks Daily](https://www.ted.com/talks) | [Your creative superpowers can help protect democracy | Sofia Ongele](https://www.ted.com/talks/sofia_ongele_your_creative_superpowers_can_help_protect_democracy?rss)
+
 ## 20240123
 - [TED Talks Daily](https://www.ted.com/talks) | [Do gut microbes control your personality? | Kathleen McAuliffe](https://www.ted.com/talks/kathleen_mcauliffe_do_gut_microbes_control_your_personality?rss)
 

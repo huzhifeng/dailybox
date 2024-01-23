@@ -1,3 +1,8 @@
+## 20240124
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 123 Enters Public Beta Testing, Here&#8217;s What to Expect](https://9to5linux.com/mozilla-firefox-123-enters-public-beta-testing-heres-what-to-expect)
+- [9to5Linux](https://9to5linux.com/) | [How to Install Firefox as a DEB Package on Debian, Ubuntu, or Linux Mint](https://9to5linux.com/how-to-install-firefox-as-a-deb-package-in-debian-ubuntu-or-linux-mint)
+- [9to5Linux](https://9to5linux.com/) | [Valve Releases Proton 8.0-5 with HDR Support for Multiple Video Games](https://9to5linux.com/valve-releases-proton-8-0-5-with-hdr-support-for-multiple-video-games)
+
 ## 20240123
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 122 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-122-is-now-available-for-download-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 21.3 “EDGE” ISO Released with Linux Kernel 6.5](https://9to5linux.com/linux-mint-21-3-edge-iso-released-with-linux-kernel-6-5)

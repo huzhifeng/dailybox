@@ -1,3 +1,10 @@
+## 20240124
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1255 惠普称病毒能通过墨盒传播而禁止使用第三方墨盒](https://linux.cn/article-16578-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Speed up Java application startup time with AppCDS](https://developers.redhat.com/articles/2024/01/23/speed-java-application-startup-time-appcds)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 123 Enters Public Beta Testing, Here&#8217;s What to Expect](https://9to5linux.com/mozilla-firefox-123-enters-public-beta-testing-heres-what-to-expect)
+- [9to5Linux](https://9to5linux.com/) | [How to Install Firefox as a DEB Package on Debian, Ubuntu, or Linux Mint](https://9to5linux.com/how-to-install-firefox-as-a-deb-package-in-debian-ubuntu-or-linux-mint)
+- [9to5Linux](https://9to5linux.com/) | [Valve Releases Proton 8.0-5 with HDR Support for Multiple Video Games](https://9to5linux.com/valve-releases-proton-8-0-5-with-hdr-support-for-multiple-video-games)
+
 ## 20240123
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1254 得益于人工智能驱动的狂热，标普 500 指数创历史新高](https://linux.cn/article-16576-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Convert CentOS Linux to RHEL using Red Hat Insights](https://developers.redhat.com/articles/2024/01/22/convert-centos-linux-rhel-using-red-hat-insights)

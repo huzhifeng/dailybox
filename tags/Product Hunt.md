@@ -1,3 +1,8 @@
+## 20240124
+- [Product Hunt](https://www.producthunt.com) | [TIRA by Formation](https://www.producthunt.com/posts/tira-by-formation)
+- [Product Hunt](https://www.producthunt.com) | [Recraft Foundation Model](https://www.producthunt.com/posts/recraft-foundation-model)
+- [Product Hunt](https://www.producthunt.com) | [Brainner](https://www.producthunt.com/posts/brainner)
+
 ## 20240123
 - [Product Hunt](https://www.producthunt.com) | [Micro StartUps Acquisitions](https://www.producthunt.com/posts/micro-startups-acquisitions)
 - [Product Hunt](https://www.producthunt.com) | [Kyugo 2.0](https://www.producthunt.com/posts/kyugo-2-0)

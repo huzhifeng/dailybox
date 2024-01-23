@@ -1,3 +1,6 @@
+## 20240124
+- [It's FOSS](https://itsfoss.com/) | [scp Command Examples](https://itsfoss.com/scp-command/)
+
 ## 20240123
 - [It's FOSS](https://itsfoss.com/) | [CP/M: An Unsung Architect of Micro-Computing](https://itsfoss.com/cp-m-os-history/)
 
