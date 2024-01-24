@@ -1,3 +1,8 @@
+## 20240125
+- [Product Hunt](https://www.producthunt.com) | [Taped.ai](https://www.producthunt.com/posts/taped-ai)
+- [Product Hunt](https://www.producthunt.com) | [Graphy for Marketers](https://www.producthunt.com/posts/graphy-for-marketers)
+- [Product Hunt](https://www.producthunt.com) | [Callbell Shop](https://www.producthunt.com/posts/callbell-shop)
+
 ## 20240124
 - [Product Hunt](https://www.producthunt.com) | [TIRA by Formation](https://www.producthunt.com/posts/tira-by-formation)
 - [Product Hunt](https://www.producthunt.com) | [Recraft Foundation Model](https://www.producthunt.com/posts/recraft-foundation-model)

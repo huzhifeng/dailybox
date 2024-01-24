@@ -1,3 +1,10 @@
+## 20240125
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1256  研究发现人类仍比人工智能便宜](https://linux.cn/article-16581-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Scraping Prometheus metrics from Red Hat build of Keycloak](https://developers.redhat.com/articles/2024/01/24/scraping-prometheus-metrics-red-hat-build-keycloak)
+- [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Parrot OS 6.0 Brings Linux 6.5, Raspberry Pi 5 Support](https://9to5linux.com/ethical-hacking-distro-parrot-os-6-0-brings-linux-kernel-6-5-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [Lightweight Distro BunsenLabs Linux Boron Is Here Based on Debian Bookworm](https://9to5linux.com/lightweight-distro-bunsenlabs-linux-boron-is-here-based-on-debian-bookworm)
+- [Planet GNOME](https://planet.gnome.org/) | [After Twitter](https://lu.is/blog/2024/01/23/after-twitter/)
+
 ## 20240124
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1255 惠普称病毒能通过墨盒传播而禁止使用第三方墨盒](https://linux.cn/article-16578-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Speed up Java application startup time with AppCDS](https://developers.redhat.com/articles/2024/01/23/speed-java-application-startup-time-appcds)

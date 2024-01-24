@@ -1,3 +1,6 @@
+## 20240125
+- [Planet GNOME](https://planet.gnome.org/) | [After Twitter](https://lu.is/blog/2024/01/23/after-twitter/)
+
 ## 20240123
 - [Planet GNOME](https://planet.gnome.org/) | [Taxes and section 174](https://blogs.gnome.org/rbultje/2024/01/22/taxes-and-section-174/)
 

@@ -1,3 +1,6 @@
+## 20240125
+- [Red Hat Developer](https://developers.redhat.com/) | [Scraping Prometheus metrics from Red Hat build of Keycloak](https://developers.redhat.com/articles/2024/01/24/scraping-prometheus-metrics-red-hat-build-keycloak)
+
 ## 20240124
 - [Red Hat Developer](https://developers.redhat.com/) | [Speed up Java application startup time with AppCDS](https://developers.redhat.com/articles/2024/01/23/speed-java-application-startup-time-appcds)
 
