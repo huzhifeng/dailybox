@@ -1,3 +1,7 @@
+## 20240125
+- [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Parrot OS 6.0 Brings Linux 6.5, Raspberry Pi 5 Support](https://9to5linux.com/ethical-hacking-distro-parrot-os-6-0-brings-linux-kernel-6-5-raspberry-pi-5-support)
+- [9to5Linux](https://9to5linux.com/) | [Lightweight Distro BunsenLabs Linux Boron Is Here Based on Debian Bookworm](https://9to5linux.com/lightweight-distro-bunsenlabs-linux-boron-is-here-based-on-debian-bookworm)
+
 ## 20240124
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 123 Enters Public Beta Testing, Here&#8217;s What to Expect](https://9to5linux.com/mozilla-firefox-123-enters-public-beta-testing-heres-what-to-expect)
 - [9to5Linux](https://9to5linux.com/) | [How to Install Firefox as a DEB Package on Debian, Ubuntu, or Linux Mint](https://9to5linux.com/how-to-install-firefox-as-a-deb-package-in-debian-ubuntu-or-linux-mint)

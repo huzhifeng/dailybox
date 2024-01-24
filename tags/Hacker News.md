@@ -1,3 +1,6 @@
+## 20240125
+- [Hacker News](https://news.ycombinator.com/front) | [Zed, a collaborative code editor, is now open source](https://news.ycombinator.com/item?id=39119835)
+
 ## 20240124
 - [Hacker News](https://news.ycombinator.com/front) | [Free Godot engine port for Nintendo Switch](https://news.ycombinator.com/item?id=39102002)
 

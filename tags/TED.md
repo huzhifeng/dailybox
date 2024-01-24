@@ -1,3 +1,6 @@
+## 20240125
+- [TED Talks Daily](https://www.ted.com/talks) | [Advice for leaders on creating a culture of belonging | Melonie D. Parker](https://www.ted.com/talks/melonie_d_parker_advice_for_leaders_on_creating_a_culture_of_belonging?rss)
+
 ## 20240124
 - [TED Talks Daily](https://www.ted.com/talks) | [Your creative superpowers can help protect democracy | Sofia Ongele](https://www.ted.com/talks/sofia_ongele_your_creative_superpowers_can_help_protect_democracy?rss)
 

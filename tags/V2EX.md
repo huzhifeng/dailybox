@@ -1,3 +1,8 @@
+## 20240125
+- [V2EX](https://www.v2ex.com/) | [Java 玩腻了 其实发现 golang 也还不错 确实很简洁](https://www.v2ex.com/t/1011186)
+- [V2EX](https://www.v2ex.com/) | [是否 12306 推出候补功能后，更难买票了](https://www.v2ex.com/t/1011171)
+- [V2EX](https://www.v2ex.com/) | [2024 年，桌面软件开发（不考虑移动端），推荐什么技术栈？](https://www.v2ex.com/t/1011141)
+
 ## 20240124
 - [V2EX](https://www.v2ex.com/) | [Postgres 在中国还能起来么？](https://www.v2ex.com/t/1010986)
 - [V2EX](https://www.v2ex.com/) | [广州天河区老破小想便宜卖了](https://www.v2ex.com/t/1010905)

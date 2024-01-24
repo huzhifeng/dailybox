@@ -1,3 +1,6 @@
+## 20240125
+- [It's FOSS](https://itsfoss.com/) | [Shut Down WSL Running Linux Distributions](https://itsfoss.com/shut-down-wsl-distros/)
+
 ## 20240124
 - [It's FOSS](https://itsfoss.com/) | [scp Command Examples](https://itsfoss.com/scp-command/)
 

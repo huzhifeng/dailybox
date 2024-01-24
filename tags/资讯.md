@@ -1,3 +1,6 @@
+## 20240125
+- [diff.blog](https://diff.blog/) | [You (probably) don’t need to learn C](https://diff.blog/post/you-probably-dont-need-to-learn-c-167338/)
+
 ## 20240124
 - [diff.blog](https://diff.blog/) | [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://diff.blog/post/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives-167264/)
 
