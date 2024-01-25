@@ -1,3 +1,7 @@
+## 20240126
+- [Red Hat Developer](https://developers.redhat.com/) | [Network observability with eBPF on single node OpenShift](https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Implement MLOps with Kubeflow Pipelines](https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines)
+
 ## 20240125
 - [Red Hat Developer](https://developers.redhat.com/) | [Scraping Prometheus metrics from Red Hat build of Keycloak](https://developers.redhat.com/articles/2024/01/24/scraping-prometheus-metrics-red-hat-build-keycloak)
 

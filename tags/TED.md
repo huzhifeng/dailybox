@@ -1,3 +1,6 @@
+## 20240126
+- [TED Talks Daily](https://www.ted.com/talks) | [Can a simple brick be the next great battery? | John O'Donnell](https://www.ted.com/talks/john_o_donnell_can_a_simple_brick_be_the_next_great_battery?rss)
+
 ## 20240125
 - [TED Talks Daily](https://www.ted.com/talks) | [Advice for leaders on creating a culture of belonging | Melonie D. Parker](https://www.ted.com/talks/melonie_d_parker_advice_for_leaders_on_creating_a_culture_of_belonging?rss)
 

@@ -1,3 +1,6 @@
+## 20240126
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.04 &#8220;Lunar Lobster&#8221; Reached End of Life, Upgrade to Ubuntu 23.10 Now](https://9to5linux.com/ubuntu-23-04-lunar-lobster-reached-end-of-life-upgrade-to-ubuntu-23-10-now)
+
 ## 20240125
 - [9to5Linux](https://9to5linux.com/) | [Ethical Hacking Distro Parrot OS 6.0 Brings Linux 6.5, Raspberry Pi 5 Support](https://9to5linux.com/ethical-hacking-distro-parrot-os-6-0-brings-linux-kernel-6-5-raspberry-pi-5-support)
 - [9to5Linux](https://9to5linux.com/) | [Lightweight Distro BunsenLabs Linux Boron Is Here Based on Debian Bookworm](https://9to5linux.com/lightweight-distro-bunsenlabs-linux-boron-is-here-based-on-debian-bookworm)

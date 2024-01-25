@@ -1,3 +1,6 @@
+## 20240126
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.04: Huawei's 'Better Than Linux Kernel', CP/M OS, Firefox as Deb and More](https://itsfoss.com/newsletter/foss-weekly-24-04/)
+
 ## 20240125
 - [It's FOSS](https://itsfoss.com/) | [Shut Down WSL Running Linux Distributions](https://itsfoss.com/shut-down-wsl-distros/)
 

@@ -1,3 +1,6 @@
+## 20240126
+- [diff.blog](https://diff.blog/) | [New embedding models and API updates](https://diff.blog/post/new-embedding-models-and-api-updates-167480/)
+
 ## 20240125
 - [diff.blog](https://diff.blog/) | [You (probably) don’t need to learn C](https://diff.blog/post/you-probably-dont-need-to-learn-c-167338/)
 
