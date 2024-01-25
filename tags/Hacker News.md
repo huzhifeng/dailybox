@@ -1,3 +1,8 @@
+## 20240126
+- [Hacker News](https://news.ycombinator.com/front) | [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://news.ycombinator.com/item?id=39132453)
+- [Hacker News](https://news.ycombinator.com/front) | [Faircamp is a free Bandcamp alternative](https://news.ycombinator.com/item?id=39129155)
+- [Hacker News](https://news.ycombinator.com/front) | [Brains are not required to think or solve problems – simple cells can do it](https://news.ycombinator.com/item?id=39127028)
+
 ## 20240125
 - [Hacker News](https://news.ycombinator.com/front) | [Zed, a collaborative code editor, is now open source](https://news.ycombinator.com/item?id=39119835)
 

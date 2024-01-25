@@ -1,3 +1,8 @@
+## 20240126
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE’s 6th Megarelease with KDE neon Testing Edition](https://blog.neon.kde.org/2024/01/25/kdes-6th-megarelease-with-kde-neon-testing-edition/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 2](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-2/?utm_source=atom_feed)
+
 ## 20240125
 - [Planet GNOME](https://planet.gnome.org/) | [After Twitter](https://lu.is/blog/2024/01/23/after-twitter/)
 

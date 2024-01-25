@@ -1,3 +1,12 @@
+## 20240126
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1257 Mozilla 指责谷歌、微软、苹果妨碍公平竞争](https://linux.cn/article-16584-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Network observability with eBPF on single node OpenShift](https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift)
+- [Red Hat Developer](https://developers.redhat.com/) | [Implement MLOps with Kubeflow Pipelines](https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.04 &#8220;Lunar Lobster&#8221; Reached End of Life, Upgrade to Ubuntu 23.10 Now](https://9to5linux.com/ubuntu-23-04-lunar-lobster-reached-end-of-life-upgrade-to-ubuntu-23-10-now)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE’s 6th Megarelease with KDE neon Testing Edition](https://blog.neon.kde.org/2024/01/25/kdes-6th-megarelease-with-kde-neon-testing-edition/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 2](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-2/?utm_source=atom_feed)
+
 ## 20240125
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1256  研究发现人类仍比人工智能便宜](https://linux.cn/article-16581-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Scraping Prometheus metrics from Red Hat build of Keycloak](https://developers.redhat.com/articles/2024/01/24/scraping-prometheus-metrics-red-hat-build-keycloak)

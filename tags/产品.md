@@ -1,3 +1,8 @@
+## 20240126
+- [Product Hunt](https://www.producthunt.com) | [Dokin](https://www.producthunt.com/posts/dokin)
+- [Product Hunt](https://www.producthunt.com) | [Sketch Logo AI](https://www.producthunt.com/posts/sketch-logo-ai)
+- [Product Hunt](https://www.producthunt.com) | [Sequence](https://www.producthunt.com/posts/sequence-2)
+
 ## 20240125
 - [Product Hunt](https://www.producthunt.com) | [Taped.ai](https://www.producthunt.com/posts/taped-ai)
 - [Product Hunt](https://www.producthunt.com) | [Graphy for Marketers](https://www.producthunt.com/posts/graphy-for-marketers)
