@@ -1,3 +1,10 @@
+## 20240127
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
+- [Planet GNOME](https://planet.gnome.org/) | [A fully open source stack for MIPI cameras](https://hansdegoede.livejournal.com/27909.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Automated testing of GNOME accessibility features](https://blogs.gnome.org/a11y/2024/01/26/automated-testing/)
+- [Planet GNOME](https://planet.gnome.org/) | [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-04](https://ervin.ipsquad.net/blog/2024/01/26/web-review-week-2024-04/?utm_source=atom_feed)
+
 ## 20240126
 - [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
 - [Planet KDE](https://planet.kde.org/) | [KDE’s 6th Megarelease with KDE neon Testing Edition](https://blog.neon.kde.org/2024/01/25/kdes-6th-megarelease-with-kde-neon-testing-edition/?utm_source=atom_feed)

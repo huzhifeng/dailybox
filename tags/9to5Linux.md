@@ -1,3 +1,7 @@
+## 20240127
+- [9to5Linux](https://9to5linux.com/) | [Open Source Firmware Libreboot 20240126 Adds Support for New Hardware](https://9to5linux.com/open-source-firmware-libreboot-20240126-adds-support-for-new-hardware)
+- [9to5Linux](https://9to5linux.com/) | [Flathub Now Has Over One Million Active Flatpak App Users](https://9to5linux.com/flathub-now-has-over-one-million-active-flatpak-app-users)
+
 ## 20240126
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.04 &#8220;Lunar Lobster&#8221; Reached End of Life, Upgrade to Ubuntu 23.10 Now](https://9to5linux.com/ubuntu-23-04-lunar-lobster-reached-end-of-life-upgrade-to-ubuntu-23-10-now)
 

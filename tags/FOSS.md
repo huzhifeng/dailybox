@@ -1,3 +1,7 @@
+## 20240127
+- [It's FOSS](https://itsfoss.com/) | [Setting Up PrivateGPT to Use AI Chat With Your Documents](https://itsfoss.com/privategpt-setup/)
+- [It's FOSS](https://itsfoss.com/) | [VS Code vs VS Codium: What's the Difference?](https://itsfoss.com/vs-code-vs-codium/)
+
 ## 20240126
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.04: Huawei's 'Better Than Linux Kernel', CP/M OS, Firefox as Deb and More](https://itsfoss.com/newsletter/foss-weekly-24-04/)
 

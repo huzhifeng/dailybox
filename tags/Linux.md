@@ -1,3 +1,15 @@
+## 20240127
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1258 苹果公布第三方应用商店的详细规则](https://linux.cn/article-16586-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Community support for Spring Boot applications on OpenShift and RHEL](https://developers.redhat.com/articles/2024/01/26/community-support-spring-boot-applications-openshift-and-rhel)
+- [9to5Linux](https://9to5linux.com/) | [Open Source Firmware Libreboot 20240126 Adds Support for New Hardware](https://9to5linux.com/open-source-firmware-libreboot-20240126-adds-support-for-new-hardware)
+- [9to5Linux](https://9to5linux.com/) | [Flathub Now Has Over One Million Active Flatpak App Users](https://9to5linux.com/flathub-now-has-over-one-million-active-flatpak-app-users)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
+- [Planet GNOME](https://planet.gnome.org/) | [A fully open source stack for MIPI cameras](https://hansdegoede.livejournal.com/27909.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Automated testing of GNOME accessibility features](https://blogs.gnome.org/a11y/2024/01/26/automated-testing/)
+- [Planet GNOME](https://planet.gnome.org/) | [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-04](https://ervin.ipsquad.net/blog/2024/01/26/web-review-week-2024-04/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux App Store Flathub Now Has Over One Million Active Flatpak App Users](https://linux.slashdot.org/story/24/01/26/1657210/linux-app-store-flathub-now-has-over-one-million-active-flatpak-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240126
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1257 Mozilla 指责谷歌、微软、苹果妨碍公平竞争](https://linux.cn/article-16584-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Network observability with eBPF on single node OpenShift](https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift)

@@ -1,3 +1,8 @@
+## 20240127
+- [Product Hunt](https://www.producthunt.com) | [SMTPedia](https://www.producthunt.com/posts/smtpedia)
+- [Product Hunt](https://www.producthunt.com) | [Pricing Page Generator](https://www.producthunt.com/posts/pricing-page-generator)
+- [Product Hunt](https://www.producthunt.com) | [Linearity Move](https://www.producthunt.com/posts/linearity-move)
+
 ## 20240126
 - [Product Hunt](https://www.producthunt.com) | [Dokin](https://www.producthunt.com/posts/dokin)
 - [Product Hunt](https://www.producthunt.com) | [Sketch Logo AI](https://www.producthunt.com/posts/sketch-logo-ai)
