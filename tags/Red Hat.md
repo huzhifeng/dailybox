@@ -1,3 +1,6 @@
+## 20240127
+- [Red Hat Developer](https://developers.redhat.com/) | [Community support for Spring Boot applications on OpenShift and RHEL](https://developers.redhat.com/articles/2024/01/26/community-support-spring-boot-applications-openshift-and-rhel)
+
 ## 20240126
 - [Red Hat Developer](https://developers.redhat.com/) | [Network observability with eBPF on single node OpenShift](https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift)
 - [Red Hat Developer](https://developers.redhat.com/) | [Implement MLOps with Kubeflow Pipelines](https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines)

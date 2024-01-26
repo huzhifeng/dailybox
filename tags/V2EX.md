@@ -1,3 +1,8 @@
+## 20240127
+- [V2EX](https://www.v2ex.com/) | [因为小时候原生家庭受的伤，导致长大了很多年还是无法愈合吗？](https://www.v2ex.com/t/1011778)
+- [V2EX](https://www.v2ex.com/) | [为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737)
+- [V2EX](https://www.v2ex.com/) | [你会有请假恐惧症吗？](https://www.v2ex.com/t/1011716)
+
 ## 20240126
 - [V2EX](https://www.v2ex.com/) | [关于 A 股，周一还是一片哀鸿，国家队开始入场以后连涨三天，基本面和大环境没有变化，真的能改变趋势吗？](https://www.v2ex.com/t/1011495)
 - [V2EX](https://www.v2ex.com/) | [Firefox 的没落的根本原因?](https://www.v2ex.com/t/1011474)

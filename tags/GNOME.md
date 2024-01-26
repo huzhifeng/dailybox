@@ -1,3 +1,8 @@
+## 20240127
+- [Planet GNOME](https://planet.gnome.org/) | [A fully open source stack for MIPI cameras](https://hansdegoede.livejournal.com/27909.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Automated testing of GNOME accessibility features](https://blogs.gnome.org/a11y/2024/01/26/automated-testing/)
+- [Planet GNOME](https://planet.gnome.org/) | [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/)
+
 ## 20240125
 - [Planet GNOME](https://planet.gnome.org/) | [After Twitter](https://lu.is/blog/2024/01/23/after-twitter/)
 

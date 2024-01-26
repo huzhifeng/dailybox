@@ -1,3 +1,7 @@
+## 20240127
+- [Hacker News](https://news.ycombinator.com/front) | [Oasis – a small, statically-linked Linux system](https://news.ycombinator.com/item?id=39142748)
+- [Hacker News](https://news.ycombinator.com/front) | [Portable EPUBs](https://news.ycombinator.com/item?id=39138042)
+
 ## 20240126
 - [Hacker News](https://news.ycombinator.com/front) | [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://news.ycombinator.com/item?id=39132453)
 - [Hacker News](https://news.ycombinator.com/front) | [Faircamp is a free Bandcamp alternative](https://news.ycombinator.com/item?id=39129155)
