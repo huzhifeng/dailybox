@@ -1,3 +1,8 @@
+## 20240128
+- [V2EX](https://www.v2ex.com/) | [全面私有云 2.0](https://www.v2ex.com/t/1012050)
+- [V2EX](https://www.v2ex.com/) | [如果得不到喜欢的人，你会和其他人凑活结婚吗](https://www.v2ex.com/t/1012033)
+- [V2EX](https://www.v2ex.com/) | [汽车装了 360 度全景影像倒车入库很方便，但是很多人却说不要依赖，为什么？](https://www.v2ex.com/t/1012013)
+
 ## 20240127
 - [V2EX](https://www.v2ex.com/) | [因为小时候原生家庭受的伤，导致长大了很多年还是无法愈合吗？](https://www.v2ex.com/t/1011778)
 - [V2EX](https://www.v2ex.com/) | [为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737)

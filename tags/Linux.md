@@ -1,3 +1,8 @@
+## 20240128
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1259 苹果公司将允许第三方浏览器引擎，但 Firefox 非常失望](https://linux.cn/article-16589-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [EndeavourOS Galileo Neo Released with Linux Kernel 6.7 and Improved Installer](https://9to5linux.com/endeavouros-galileo-neo-released-with-linux-kernel-6-7-and-improved-installer)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/?utm_source=atom_feed)
+
 ## 20240127
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1258 苹果公布第三方应用商店的详细规则](https://linux.cn/article-16586-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Community support for Spring Boot applications on OpenShift and RHEL](https://developers.redhat.com/articles/2024/01/26/community-support-spring-boot-applications-openshift-and-rhel)

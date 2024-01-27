@@ -1,3 +1,6 @@
+## 20240128
+- [9to5Linux](https://9to5linux.com/) | [EndeavourOS Galileo Neo Released with Linux Kernel 6.7 and Improved Installer](https://9to5linux.com/endeavouros-galileo-neo-released-with-linux-kernel-6-7-and-improved-installer)
+
 ## 20240127
 - [9to5Linux](https://9to5linux.com/) | [Open Source Firmware Libreboot 20240126 Adds Support for New Hardware](https://9to5linux.com/open-source-firmware-libreboot-20240126-adds-support-for-new-hardware)
 - [9to5Linux](https://9to5linux.com/) | [Flathub Now Has Over One Million Active Flatpak App Users](https://9to5linux.com/flathub-now-has-over-one-million-active-flatpak-app-users)
