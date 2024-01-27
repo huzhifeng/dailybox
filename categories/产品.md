@@ -1,3 +1,8 @@
+## 20240128
+- [Product Hunt](https://www.producthunt.com) | [Project Plan Generator](https://www.producthunt.com/posts/project-plan-generator)
+- [Product Hunt](https://www.producthunt.com) | [Yesss!](https://www.producthunt.com/posts/yesss)
+- [Product Hunt](https://www.producthunt.com) | [Kuasar Video AI](https://www.producthunt.com/posts/kuasar-video-ai)
+
 ## 20240127
 - [Product Hunt](https://www.producthunt.com) | [SMTPedia](https://www.producthunt.com/posts/smtpedia)
 - [Product Hunt](https://www.producthunt.com) | [Pricing Page Generator](https://www.producthunt.com/posts/pricing-page-generator)

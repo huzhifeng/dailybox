@@ -1,3 +1,6 @@
+## 20240128
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/?utm_source=atom_feed)
+
 ## 20240127
 - [Planet virt-tools](https://planet.virt-tools.org/) | [Key-Value Stores: The Foundation of File Systems and Databases](https://blog.vmsplice.net/2024/01/key-value-stores-foundation-of-file.html)
 - [Planet GNOME](https://planet.gnome.org/) | [A fully open source stack for MIPI cameras](https://hansdegoede.livejournal.com/27909.html)

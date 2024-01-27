@@ -1,3 +1,6 @@
+## 20240128
+- [Hacker News](https://news.ycombinator.com/front) | [Disney unveils the HoloTile floor](https://news.ycombinator.com/item?id=39156444)
+
 ## 20240127
 - [Hacker News](https://news.ycombinator.com/front) | [Oasis – a small, statically-linked Linux system](https://news.ycombinator.com/item?id=39142748)
 - [Hacker News](https://news.ycombinator.com/front) | [Portable EPUBs](https://news.ycombinator.com/item?id=39138042)
