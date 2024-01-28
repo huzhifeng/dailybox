@@ -1,3 +1,6 @@
+## 20240129
+- [Slashdot](https://developers.slashdot.org/) | [Oracle's Plans for Java in 2024](https://developers.slashdot.org/story/24/01/28/070252/oracles-plans-for-java-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240127
 - [Slashdot](https://linux.slashdot.org/) | [Linux App Store Flathub Now Has Over One Million Active Flatpak App Users](https://linux.slashdot.org/story/24/01/26/1657210/linux-app-store-flathub-now-has-over-one-million-active-flatpak-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Shameless Insult, Malicious Compliance, Junk Fees, Extortion Regime: Industry Reacts To Apple's Proposed Changes Over Digital Markets Act](https://apple.slashdot.org/story/24/01/26/140245/shameless-insult-malicious-compliance-junk-fees-extortion-regime-industry-reacts-to-apples-proposed-changes-over-digital-markets-act?utm_source=rss1.0mainlinkanon&utm_medium=feed)

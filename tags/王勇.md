@@ -1,3 +1,6 @@
+## 20240129
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [用 Gource 显示 Git 提交历史](https://manateelazycat.github.io/2024/01/28/the-history-of-lsp-bridge/)
+
 ## 20240124
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [ChatGPT 注册登录最佳实践](https://manateelazycat.github.io/2024/01/23/chatgpt-way/)
 

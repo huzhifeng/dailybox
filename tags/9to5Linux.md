@@ -1,3 +1,7 @@
+## 20240129
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.9 Desktop Adds Initial Wayland Support, Redesigned Bluetooth Applet](https://9to5linux.com/budgie-10-9-desktop-adds-initial-wayland-support-redesigned-bluetooth-applet)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux-Based SystemRescue 11 Released with Linux Kernel 6.6 LTS](https://9to5linux.com/arch-linux-based-systemrescue-11-released-with-linux-kernel-6-6-lts)
+
 ## 20240128
 - [9to5Linux](https://9to5linux.com/) | [EndeavourOS Galileo Neo Released with Linux Kernel 6.7 and Improved Installer](https://9to5linux.com/endeavouros-galileo-neo-released-with-linux-kernel-6-7-and-improved-installer)
 

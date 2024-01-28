@@ -1,3 +1,6 @@
+## 20240129
+- [Planet GNOME](https://planet.gnome.org/) | [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+
 ## 20240127
 - [Planet GNOME](https://planet.gnome.org/) | [A fully open source stack for MIPI cameras](https://hansdegoede.livejournal.com/27909.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Automated testing of GNOME accessibility features](https://blogs.gnome.org/a11y/2024/01/26/automated-testing/)
