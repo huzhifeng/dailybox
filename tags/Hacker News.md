@@ -1,3 +1,6 @@
+## 20240129
+- [Hacker News](https://news.ycombinator.com/front) | [In loving memory of square checkbox](https://news.ycombinator.com/item?id=39161339)
+
 ## 20240128
 - [Hacker News](https://news.ycombinator.com/front) | [Disney unveils the HoloTile floor](https://news.ycombinator.com/item?id=39156444)
 

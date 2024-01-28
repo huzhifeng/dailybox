@@ -1,3 +1,9 @@
+## 20240129
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1260 苹果公司的第三方应用商店招致广泛批评](https://linux.cn/article-16591-1.html?utm_source=rss&utm_medium=rss)
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.9 Desktop Adds Initial Wayland Support, Redesigned Bluetooth Applet](https://9to5linux.com/budgie-10-9-desktop-adds-initial-wayland-support-redesigned-bluetooth-applet)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux-Based SystemRescue 11 Released with Linux Kernel 6.6 LTS](https://9to5linux.com/arch-linux-based-systemrescue-11-released-with-linux-kernel-6-6-lts)
+- [Planet GNOME](https://planet.gnome.org/) | [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+
 ## 20240128
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1259 苹果公司将允许第三方浏览器引擎，但 Firefox 非常失望](https://linux.cn/article-16589-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [EndeavourOS Galileo Neo Released with Linux Kernel 6.7 and Improved Installer](https://9to5linux.com/endeavouros-galileo-neo-released-with-linux-kernel-6-7-and-improved-installer)

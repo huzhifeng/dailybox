@@ -1,3 +1,6 @@
+## 20240129
+- [Planet GNOME](https://planet.gnome.org/) | [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+
 ## 20240128
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/?utm_source=atom_feed)
 
