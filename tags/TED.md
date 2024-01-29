@@ -1,3 +1,6 @@
+## 20240130
+- [TED Talks Daily](https://www.ted.com/talks) | [What if a simple blood test could detect cancer? | Hani Goodarzi](https://www.ted.com/talks/hani_goodarzi_what_if_a_simple_blood_test_could_detect_cancer?rss)
+
 ## 20240126
 - [TED Talks Daily](https://www.ted.com/talks) | [Can a simple brick be the next great battery? | John O'Donnell](https://www.ted.com/talks/john_o_donnell_can_a_simple_brick_be_the_next_great_battery?rss)
 

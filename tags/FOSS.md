@@ -1,3 +1,6 @@
+## 20240130
+- [It's FOSS](https://itsfoss.com/) | [Monitor CPU and GPU Temperature in Raspberry Pi](https://itsfoss.com/raspberry-pi-cpu-gpu-temperature/)
+
 ## 20240127
 - [It's FOSS](https://itsfoss.com/) | [Setting Up PrivateGPT to Use AI Chat With Your Documents](https://itsfoss.com/privategpt-setup/)
 - [It's FOSS](https://itsfoss.com/) | [VS Code vs VS Codium: What's the Difference?](https://itsfoss.com/vs-code-vs-codium/)

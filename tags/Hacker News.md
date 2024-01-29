@@ -1,3 +1,7 @@
+## 20240130
+- [Hacker News](https://news.ycombinator.com/front) | [Meta AI releases Code Llama 70B](https://news.ycombinator.com/item?id=39178886)
+- [Hacker News](https://news.ycombinator.com/front) | [—-libcurl](https://news.ycombinator.com/item?id=39175873)
+
 ## 20240129
 - [Hacker News](https://news.ycombinator.com/front) | [In loving memory of square checkbox](https://news.ycombinator.com/item?id=39161339)
 

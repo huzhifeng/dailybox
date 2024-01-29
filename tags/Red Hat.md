@@ -1,3 +1,7 @@
+## 20240130
+- [Red Hat Developer](https://developers.redhat.com/) | [The developer's guide to Kubernetes Operators](https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators)
+- [Red Hat Developer](https://developers.redhat.com/) | [Blue/green deployment strategy with Argo Rollouts](https://developers.redhat.com/articles/2024/01/29/bluegreen-deployment-strategy-argo-rollouts)
+
 ## 20240127
 - [Red Hat Developer](https://developers.redhat.com/) | [Community support for Spring Boot applications on OpenShift and RHEL](https://developers.redhat.com/articles/2024/01/26/community-support-spring-boot-applications-openshift-and-rhel)
 

@@ -1,3 +1,8 @@
+## 20240130
+- [Product Hunt](https://www.producthunt.com) | [GPT Analytics](https://www.producthunt.com/posts/gpt-analytics)
+- [Product Hunt](https://www.producthunt.com) | [Arc Search](https://www.producthunt.com/posts/arc-search)
+- [Product Hunt](https://www.producthunt.com) | [Tart Finance](https://www.producthunt.com/posts/tart-finance-16eb0b8f-c8b8-4ac7-8007-562f539e088b)
+
 ## 20240129
 - [Product Hunt](https://www.producthunt.com) | [My Event Hero](https://www.producthunt.com/posts/my-event-hero)
 - [Product Hunt](https://www.producthunt.com) | [ChatGPT Team](https://www.producthunt.com/posts/chatgpt-team)

@@ -1,3 +1,8 @@
+## 20240130
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.01 Open-Source Video Editor Released with Many New Features](https://9to5linux.com/shotcut-24-01-open-source-video-editor-released-with-many-new-features)
+- [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Gets More Features Ahead of the GNOME 46 Release](https://9to5linux.com/nautilus-file-manager-gets-more-features-ahead-of-the-gnome-46-release)
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Ubuntu 24.04 LTS Will Be Powered by Linux Kernel 6.8](https://9to5linux.com/looks-like-ubuntu-24-04-lts-will-be-powered-by-linux-kernel-6-8)
+
 ## 20240129
 - [9to5Linux](https://9to5linux.com/) | [Budgie 10.9 Desktop Adds Initial Wayland Support, Redesigned Bluetooth Applet](https://9to5linux.com/budgie-10-9-desktop-adds-initial-wayland-support-redesigned-bluetooth-applet)
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux-Based SystemRescue 11 Released with Linux Kernel 6.6 LTS](https://9to5linux.com/arch-linux-based-systemrescue-11-released-with-linux-kernel-6-6-lts)

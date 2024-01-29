@@ -1,3 +1,8 @@
+## 20240130
+- [V2EX](https://www.v2ex.com/) | [麻烦问各位大佬一个问题，项目上线出现了 bug，导致公司亏了几万块钱，请问需要自己赔偿吗？这个问题该怎么处理呢？](https://www.v2ex.com/t/1012484)
+- [V2EX](https://www.v2ex.com/) | [关于我和直属领导发生的 battle](https://www.v2ex.com/t/1012464)
+- [V2EX](https://www.v2ex.com/) | [不小心删除了微信聊天记录，心都碎了，感觉像是数字人被执行了死刑](https://www.v2ex.com/t/1012451)
+
 ## 20240129
 - [V2EX](https://www.v2ex.com/) | [Google Voice 号码还有没有用？](https://www.v2ex.com/t/1012268)
 - [V2EX](https://www.v2ex.com/) | [问下搬家的利润到底多大？搬了两次家，搞得我都不想码了，想去搬家了。。](https://www.v2ex.com/t/1012223)

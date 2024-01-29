@@ -1,3 +1,8 @@
+## 20240130
+- [Planet GNOME](https://planet.gnome.org/) | [Save the Date: Berlin Mini GUADEC 2024](https://blogs.gnome.org/tbernard/2024/01/29/save-the-date-berlin-mini-guadec-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [New gitlab.freedesktop.org 🚯 emoji-based spamfighting abilities](https://who-t.blogspot.com/2024/01/new-gitlabfreedesktoporg-emoji-based.html)
+- [Planet KDE](https://planet.kde.org/) | [Gushing about KDE applications](https://redstrate.com/blog/2024/01/gushing-about-kde-applications/?utm_source=atom_feed)
+
 ## 20240129
 - [Planet GNOME](https://planet.gnome.org/) | [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 
