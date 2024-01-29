@@ -1,3 +1,14 @@
+## 20240130
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1261 X 计划在奥斯汀建立内容审核总部](https://linux.cn/article-16593-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [The developer's guide to Kubernetes Operators](https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators)
+- [Red Hat Developer](https://developers.redhat.com/) | [Blue/green deployment strategy with Argo Rollouts](https://developers.redhat.com/articles/2024/01/29/bluegreen-deployment-strategy-argo-rollouts)
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.01 Open-Source Video Editor Released with Many New Features](https://9to5linux.com/shotcut-24-01-open-source-video-editor-released-with-many-new-features)
+- [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Gets More Features Ahead of the GNOME 46 Release](https://9to5linux.com/nautilus-file-manager-gets-more-features-ahead-of-the-gnome-46-release)
+- [9to5Linux](https://9to5linux.com/) | [Looks Like Ubuntu 24.04 LTS Will Be Powered by Linux Kernel 6.8](https://9to5linux.com/looks-like-ubuntu-24-04-lts-will-be-powered-by-linux-kernel-6-8)
+- [Planet GNOME](https://planet.gnome.org/) | [Save the Date: Berlin Mini GUADEC 2024](https://blogs.gnome.org/tbernard/2024/01/29/save-the-date-berlin-mini-guadec-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [New gitlab.freedesktop.org 🚯 emoji-based spamfighting abilities](https://who-t.blogspot.com/2024/01/new-gitlabfreedesktoporg-emoji-based.html)
+- [Planet KDE](https://planet.kde.org/) | [Gushing about KDE applications](https://redstrate.com/blog/2024/01/gushing-about-kde-applications/?utm_source=atom_feed)
+
 ## 20240129
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1260 苹果公司的第三方应用商店招致广泛批评](https://linux.cn/article-16591-1.html?utm_source=rss&utm_medium=rss)
 - [9to5Linux](https://9to5linux.com/) | [Budgie 10.9 Desktop Adds Initial Wayland Support, Redesigned Bluetooth Applet](https://9to5linux.com/budgie-10-9-desktop-adds-initial-wayland-support-redesigned-bluetooth-applet)

@@ -1,3 +1,6 @@
+## 20240130
+- [Planet KDE](https://planet.kde.org/) | [Gushing about KDE applications](https://redstrate.com/blog/2024/01/gushing-about-kde-applications/?utm_source=atom_feed)
+
 ## 20240128
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/?utm_source=atom_feed)
 
