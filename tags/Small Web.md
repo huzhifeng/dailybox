@@ -1,3 +1,8 @@
+## 20240131
+- [Kagi Small Web](https://kagi.com/smallweb) | [Beefy!](https://refarmer.ca/2024/01/30/beefy/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [We Wanna Send You to the Opening Night of the SF Indie Film Fest on 2/8](https://brokeassstuart.com/2024/01/30/we-wanna-send-you-to-the-opening-night-of-the-sf-indie-film-fest-on-2-8/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Notes on Arduino and sigrok](https://newscrewdriver.com/2024/01/30/notes-on-arduino-and-sigrok/)
+
 ## 20240113
 - [Kagi Small Web](https://kagi.com/smallweb) | [Weather on the Way is the roadtrip app I never knew I needed](https://a.wholelottanothing.org/2024/01/12/weather-on-the-way-is-the-roadtrip-app-i-never-knew-i-needed/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Engineering Explained: Simple Math Destroys Tesla Cybertruck Advertising Fraud](https://www.flyingpenguin.com/?p=54604)

@@ -1,3 +1,12 @@
+## 20240131
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1262 网络上最古老的软件存档库之一即将关闭](https://linux.cn/article-16597-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Next.js applications to OpenShift](https://developers.redhat.com/articles/2024/01/30/how-deploy-nextjs-applications-openshift)
+- [9to5Linux](https://9to5linux.com/) | [Wayland Driver for Wine to Get OpenGL Support and Many New Features in 2024](https://9to5linux.com/wayland-driver-for-wine-to-get-opengl-support-and-many-new-features-in-2024)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-4 Rolls Out to Linux Phone Users with Various Improvements](https://9to5linux.com/ubuntu-touch-ota-4-rolls-out-to-linux-phone-users-with-various-improvements)
+- [Planet GNOME](https://planet.gnome.org/) | [Booting into Toolbox Containers](https://blog.sebastianwick.net/posts/booting-into-toolbox-containers/)
+- [Planet GNOME](https://planet.gnome.org/) | [Announcing the GNOME Project Handbook](https://blogs.gnome.org/aday/2024/01/30/announcing-the-gnome-project-handbook/)
+- [Planet KDE](https://planet.kde.org/) | [Farewell, Binary Factory! Add Craft Jobs for Your Apps to KDE's GitLab Now](https://blogs.kde.org/2024/01/30/farewell-binary-factory-add-craft-jobs-your-apps-kdes-gitlab-now?utm_source=atom_feed)
+
 ## 20240130
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1261 X 计划在奥斯汀建立内容审核总部](https://linux.cn/article-16593-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [The developer's guide to Kubernetes Operators](https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators)

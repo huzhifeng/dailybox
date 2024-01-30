@@ -1,3 +1,6 @@
+## 20240131
+- [Slashdot](https://developers.slashdot.org/) | [New GitHub Copilot Research Finds 'Downward Pressure On Code Quality'](https://developers.slashdot.org/story/24/01/30/153247/new-github-copilot-research-finds-downward-pressure-on-code-quality?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240129
 - [Slashdot](https://developers.slashdot.org/) | [Oracle's Plans for Java in 2024](https://developers.slashdot.org/story/24/01/28/070252/oracles-plans-for-java-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

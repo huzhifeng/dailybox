@@ -1,3 +1,6 @@
+## 20240131
+- [It's FOSS](https://itsfoss.com/) | [Paste Command Examples](https://itsfoss.com/paste-command/)
+
 ## 20240130
 - [It's FOSS](https://itsfoss.com/) | [Monitor CPU and GPU Temperature in Raspberry Pi](https://itsfoss.com/raspberry-pi-cpu-gpu-temperature/)
 
