@@ -1,3 +1,6 @@
+## 20240131
+- [TED Talks Daily](https://www.ted.com/talks) | [A reframing of masculinity, rooted in empathy | Gary Barker](https://www.ted.com/talks/gary_barker_a_reframing_of_masculinity_rooted_in_empathy?rss)
+
 ## 20240130
 - [TED Talks Daily](https://www.ted.com/talks) | [What if a simple blood test could detect cancer? | Hani Goodarzi](https://www.ted.com/talks/hani_goodarzi_what_if_a_simple_blood_test_could_detect_cancer?rss)
 

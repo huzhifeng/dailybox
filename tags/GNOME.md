@@ -1,3 +1,7 @@
+## 20240131
+- [Planet GNOME](https://planet.gnome.org/) | [Booting into Toolbox Containers](https://blog.sebastianwick.net/posts/booting-into-toolbox-containers/)
+- [Planet GNOME](https://planet.gnome.org/) | [Announcing the GNOME Project Handbook](https://blogs.gnome.org/aday/2024/01/30/announcing-the-gnome-project-handbook/)
+
 ## 20240130
 - [Planet GNOME](https://planet.gnome.org/) | [Save the Date: Berlin Mini GUADEC 2024](https://blogs.gnome.org/tbernard/2024/01/29/save-the-date-berlin-mini-guadec-2024/)
 - [Planet GNOME](https://planet.gnome.org/) | [New gitlab.freedesktop.org 🚯 emoji-based spamfighting abilities](https://who-t.blogspot.com/2024/01/new-gitlabfreedesktoporg-emoji-based.html)

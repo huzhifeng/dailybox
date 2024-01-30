@@ -1,3 +1,8 @@
+## 20240131
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Open-source x64 and Arm GitHub runners](https://news.ycombinator.com/item?id=39191870)
+- [Hacker News](https://news.ycombinator.com/front) | [How to deal with receiving a cease-and-desist letter from Big Tech](https://news.ycombinator.com/item?id=39190791)
+- [Hacker News](https://news.ycombinator.com/front) | [I just wanted Emacs to look nice – Using 24-bit color in terminals](https://news.ycombinator.com/item?id=39189881)
+
 ## 20240130
 - [Hacker News](https://news.ycombinator.com/front) | [Meta AI releases Code Llama 70B](https://news.ycombinator.com/item?id=39178886)
 - [Hacker News](https://news.ycombinator.com/front) | [—-libcurl](https://news.ycombinator.com/item?id=39175873)

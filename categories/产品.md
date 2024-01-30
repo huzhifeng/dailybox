@@ -1,3 +1,8 @@
+## 20240131
+- [Product Hunt](https://www.producthunt.com) | [Open SaaS](https://www.producthunt.com/posts/open-saas)
+- [Product Hunt](https://www.producthunt.com) | [Podnotes](https://www.producthunt.com/posts/podnotes-2)
+- [Product Hunt](https://www.producthunt.com) | [Blozum](https://www.producthunt.com/posts/blozum)
+
 ## 20240130
 - [Product Hunt](https://www.producthunt.com) | [GPT Analytics](https://www.producthunt.com/posts/gpt-analytics)
 - [Product Hunt](https://www.producthunt.com) | [Arc Search](https://www.producthunt.com/posts/arc-search)

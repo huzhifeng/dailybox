@@ -1,3 +1,7 @@
+## 20240131
+- [9to5Linux](https://9to5linux.com/) | [Wayland Driver for Wine to Get OpenGL Support and Many New Features in 2024](https://9to5linux.com/wayland-driver-for-wine-to-get-opengl-support-and-many-new-features-in-2024)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-4 Rolls Out to Linux Phone Users with Various Improvements](https://9to5linux.com/ubuntu-touch-ota-4-rolls-out-to-linux-phone-users-with-various-improvements)
+
 ## 20240130
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 24.01 Open-Source Video Editor Released with Many New Features](https://9to5linux.com/shotcut-24-01-open-source-video-editor-released-with-many-new-features)
 - [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Gets More Features Ahead of the GNOME 46 Release](https://9to5linux.com/nautilus-file-manager-gets-more-features-ahead-of-the-gnome-46-release)

@@ -1,3 +1,6 @@
+## 20240131
+- [Planet KDE](https://planet.kde.org/) | [Farewell, Binary Factory! Add Craft Jobs for Your Apps to KDE's GitLab Now](https://blogs.kde.org/2024/01/30/farewell-binary-factory-add-craft-jobs-your-apps-kdes-gitlab-now?utm_source=atom_feed)
+
 ## 20240130
 - [Planet KDE](https://planet.kde.org/) | [Gushing about KDE applications](https://redstrate.com/blog/2024/01/gushing-about-kde-applications/?utm_source=atom_feed)
 
