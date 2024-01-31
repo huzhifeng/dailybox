@@ -1,3 +1,6 @@
+## 20240201
+- [TED Talks Daily](https://www.ted.com/talks) | [Leadership in the age of AI | Paul Hudson and Lindsay Levin](https://www.ted.com/talks/paul_hudson_and_lindsay_levin_leadership_in_the_age_of_ai?rss)
+
 ## 20240131
 - [TED Talks Daily](https://www.ted.com/talks) | [A reframing of masculinity, rooted in empathy | Gary Barker](https://www.ted.com/talks/gary_barker_a_reframing_of_masculinity_rooted_in_empathy?rss)
 

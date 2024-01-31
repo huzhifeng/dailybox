@@ -1,3 +1,7 @@
+## 20240201
+- [Planet GNOME](https://planet.gnome.org/) | [Re: New responsibilities](https://www.hadess.net/2024/01/re-new-responsibilities.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Catch Us at FOSDEM 2024!](https://docs.flathub.org/blog/fosdem-2024)
+
 ## 20240131
 - [Planet GNOME](https://planet.gnome.org/) | [Booting into Toolbox Containers](https://blog.sebastianwick.net/posts/booting-into-toolbox-containers/)
 - [Planet GNOME](https://planet.gnome.org/) | [Announcing the GNOME Project Handbook](https://blogs.gnome.org/aday/2024/01/30/announcing-the-gnome-project-handbook/)
