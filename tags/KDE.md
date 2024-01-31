@@ -1,3 +1,7 @@
+## 20240201
+- [Planet KDE](https://planet.kde.org/) | [Revisited i18n with CMake](https://www.qt.io/blog/revisited-i18n-with-cmake?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's Megarelease 6 - Release Candidate 2](https://kde.org/announcements/megarelease/6/rc2/?utm_source=atom_feed)
+
 ## 20240131
 - [Planet KDE](https://planet.kde.org/) | [Farewell, Binary Factory! Add Craft Jobs for Your Apps to KDE's GitLab Now](https://blogs.kde.org/2024/01/30/farewell-binary-factory-add-craft-jobs-your-apps-kdes-gitlab-now?utm_source=atom_feed)
 

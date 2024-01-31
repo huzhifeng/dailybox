@@ -1,3 +1,6 @@
+## 20240201
+- [Hacker News](https://news.ycombinator.com/front) | [Infinite Craft](https://news.ycombinator.com/item?id=39205020)
+
 ## 20240131
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Open-source x64 and Arm GitHub runners](https://news.ycombinator.com/item?id=39191870)
 - [Hacker News](https://news.ycombinator.com/front) | [How to deal with receiving a cease-and-desist letter from Big Tech](https://news.ycombinator.com/item?id=39190791)

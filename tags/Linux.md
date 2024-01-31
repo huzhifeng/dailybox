@@ -1,3 +1,14 @@
+## 20240201
+- [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1263 德国铁路公司招聘 Windows for Workgroups 3.11 管理员](https://linux.cn/article-16601-1.html?utm_source=rss&utm_medium=rss)
+- [Red Hat Developer](https://developers.redhat.com/) | [Debugging Open vSwitch logs: long poll interval, blocked waiting](https://developers.redhat.com/articles/2024/01/31/debugging-open-vswitch-logs-long-poll-interval-blocked-waiting)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Zorin OS 16 to Zorin OS 17, Here&#8217;s How](https://9to5linux.com/you-can-now-upgrade-from-zorin-os-16-to-zorin-os-17-heres-how)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Codenamed &#8220;Wilma&#8221;, Will Be Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-codenamed-wilma-will-be-based-on-ubuntu-24-04-lts)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2 Open-Source Office Suite Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/libreoffice-24-2-open-source-office-suite-officially-released-heres-whats-new)
+- [Planet GNOME](https://planet.gnome.org/) | [Re: New responsibilities](https://www.hadess.net/2024/01/re-new-responsibilities.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Catch Us at FOSDEM 2024!](https://docs.flathub.org/blog/fosdem-2024)
+- [Planet KDE](https://planet.kde.org/) | [Revisited i18n with CMake](https://www.qt.io/blog/revisited-i18n-with-cmake?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE's Megarelease 6 - Release Candidate 2](https://kde.org/announcements/megarelease/6/rc2/?utm_source=atom_feed)
+
 ## 20240131
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1262 网络上最古老的软件存档库之一即将关闭](https://linux.cn/article-16597-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Next.js applications to OpenShift](https://developers.redhat.com/articles/2024/01/30/how-deploy-nextjs-applications-openshift)

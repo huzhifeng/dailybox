@@ -1,3 +1,7 @@
+## 20240201
+- [diff.blog](https://diff.blog/) | [Building an early warning system for LLM-aided biological threat creation](https://diff.blog/post/building-an-early-warning-system-for-llm-aided-biological-threat-creation-168107/)
+- [diff.blog](https://diff.blog/) | [The Performance Inequality Gap, 2024](https://diff.blog/post/the-performance-inequality-gap-2024-167907/)
+
 ## 20240126
 - [diff.blog](https://diff.blog/) | [New embedding models and API updates](https://diff.blog/post/new-embedding-models-and-api-updates-167480/)
 

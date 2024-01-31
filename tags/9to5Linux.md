@@ -1,3 +1,8 @@
+## 20240201
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Zorin OS 16 to Zorin OS 17, Here&#8217;s How](https://9to5linux.com/you-can-now-upgrade-from-zorin-os-16-to-zorin-os-17-heres-how)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Codenamed &#8220;Wilma&#8221;, Will Be Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-codenamed-wilma-will-be-based-on-ubuntu-24-04-lts)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2 Open-Source Office Suite Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/libreoffice-24-2-open-source-office-suite-officially-released-heres-whats-new)
+
 ## 20240131
 - [9to5Linux](https://9to5linux.com/) | [Wayland Driver for Wine to Get OpenGL Support and Many New Features in 2024](https://9to5linux.com/wayland-driver-for-wine-to-get-opengl-support-and-many-new-features-in-2024)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-4 Rolls Out to Linux Phone Users with Various Improvements](https://9to5linux.com/ubuntu-touch-ota-4-rolls-out-to-linux-phone-users-with-various-improvements)
