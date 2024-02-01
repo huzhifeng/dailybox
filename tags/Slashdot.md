@@ -1,3 +1,6 @@
+## 20240202
+- [Slashdot](https://developers.slashdot.org/) | [Microsoft Seeks Rust Developers To Rewrite Core C# Code](https://tech.slashdot.org/story/24/02/01/1529242/microsoft-seeks-rust-developers-to-rewrite-core-c-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240131
 - [Slashdot](https://developers.slashdot.org/) | [New GitHub Copilot Research Finds 'Downward Pressure On Code Quality'](https://developers.slashdot.org/story/24/01/30/153247/new-github-copilot-research-finds-downward-pressure-on-code-quality?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

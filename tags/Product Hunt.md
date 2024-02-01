@@ -1,3 +1,8 @@
+## 20240202
+- [Product Hunt](https://www.producthunt.com) | [Favikon Chrome extension](https://www.producthunt.com/posts/favikon-chrome-extension-2)
+- [Product Hunt](https://www.producthunt.com) | [BeforeSunset AI](https://www.producthunt.com/posts/beforesunset-ai-2)
+- [Product Hunt](https://www.producthunt.com) | [Fotor AI](https://www.producthunt.com/posts/fotor-ai-2)
+
 ## 20240201
 - [Product Hunt](https://www.producthunt.com) | [GPTGuard](https://www.producthunt.com/posts/gptguard-2)
 - [Product Hunt](https://www.producthunt.com) | [Tailwind Studio](https://www.producthunt.com/posts/tailwind-studio)

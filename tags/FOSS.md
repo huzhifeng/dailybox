@@ -1,3 +1,6 @@
+## 20240202
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/)
+
 ## 20240131
 - [It's FOSS](https://itsfoss.com/) | [Paste Command Examples](https://itsfoss.com/paste-command/)
 

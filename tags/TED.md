@@ -1,3 +1,6 @@
+## 20240202
+- [TED Talks Daily](https://www.ted.com/talks) | [Lessons from the past on adapting to climate change | Laprisha Berry Daniels](https://www.ted.com/talks/laprisha_berry_daniels_lessons_from_the_past_on_adapting_to_climate_change?rss)
+
 ## 20240201
 - [TED Talks Daily](https://www.ted.com/talks) | [Leadership in the age of AI | Paul Hudson and Lindsay Levin](https://www.ted.com/talks/paul_hudson_and_lindsay_levin_leadership_in_the_age_of_ai?rss)
 
