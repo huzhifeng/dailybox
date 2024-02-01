@@ -1,3 +1,10 @@
+## 20240202
+- [Red Hat Developer](https://developers.redhat.com/) | [How to configure granular access in OpenShift Dev Spaces](https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Meteor.js applications to OpenShift](https://developers.redhat.com/articles/2024/02/01/how-deploy-meteorjs-applications-openshift)
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Serval WS Linux Laptop with 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-serval-ws-linux-laptop-with-14th-gen-intel-cpu)
+- [9to5Linux](https://9to5linux.com/) | [Mesa 24.0 Linux Graphics Stack Released with NVK and RADV Driver Improvements](https://9to5linux.com/mesa-24-0-linux-graphics-stack-released-with-nvk-and-radv-driver-improvements)
+- [Planet KDE](https://planet.kde.org/) | [The Embedded Developer’s Dilemma in Choosing Hardware](https://www.kdab.com/the-embedded-developers-dilemma-in-choosing-hardware/?utm_source=atom_feed)
+
 ## 20240201
 - [硬核观察](https://linux.cn/news/express/) | [硬核观察 | 硬核观察 #1263 德国铁路公司招聘 Windows for Workgroups 3.11 管理员](https://linux.cn/article-16601-1.html?utm_source=rss&utm_medium=rss)
 - [Red Hat Developer](https://developers.redhat.com/) | [Debugging Open vSwitch logs: long poll interval, blocked waiting](https://developers.redhat.com/articles/2024/01/31/debugging-open-vswitch-logs-long-poll-interval-blocked-waiting)

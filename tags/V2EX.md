@@ -1,3 +1,8 @@
+## 20240202
+- [V2EX](https://www.v2ex.com/) | [cs 学生，请问目前 chatgpt 4.0、codipilot 等 AI 助手/工具的水平到底是什么程度？码农这个行业还有未来么？](https://www.v2ex.com/t/1013479)
+- [V2EX](https://www.v2ex.com/) | [尝试性转 5 个亿，虽然显示余额不足，但是银行卡仍然被冻结了](https://www.v2ex.com/t/1013377)
+- [V2EX](https://www.v2ex.com/) | [你们怎么读 " Linux "](https://www.v2ex.com/t/1013322)
+
 ## 20240201
 - [V2EX](https://www.v2ex.com/) | [问一下结婚了的大佬，你们过年的时候，都是去男方家里过年吗？](https://www.v2ex.com/t/1013083)
 - [V2EX](https://www.v2ex.com/) | [回南天里的你们，还有内裤穿吗？](https://www.v2ex.com/t/1013046)

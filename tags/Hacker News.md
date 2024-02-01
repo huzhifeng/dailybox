@@ -1,3 +1,6 @@
+## 20240202
+- [Hacker News](https://news.ycombinator.com/front) | [My favourite Git commit (2019)](https://news.ycombinator.com/item?id=39217149)
+
 ## 20240201
 - [Hacker News](https://news.ycombinator.com/front) | [Infinite Craft](https://news.ycombinator.com/item?id=39205020)
 

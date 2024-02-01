@@ -1,3 +1,6 @@
+## 20240202
+- [Planet KDE](https://planet.kde.org/) | [The Embedded Developer’s Dilemma in Choosing Hardware](https://www.kdab.com/the-embedded-developers-dilemma-in-choosing-hardware/?utm_source=atom_feed)
+
 ## 20240201
 - [Planet GNOME](https://planet.gnome.org/) | [Re: New responsibilities](https://www.hadess.net/2024/01/re-new-responsibilities.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Catch Us at FOSDEM 2024!](https://docs.flathub.org/blog/fosdem-2024)

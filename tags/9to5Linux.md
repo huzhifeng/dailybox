@@ -1,3 +1,7 @@
+## 20240202
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Serval WS Linux Laptop with 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-serval-ws-linux-laptop-with-14th-gen-intel-cpu)
+- [9to5Linux](https://9to5linux.com/) | [Mesa 24.0 Linux Graphics Stack Released with NVK and RADV Driver Improvements](https://9to5linux.com/mesa-24-0-linux-graphics-stack-released-with-nvk-and-radv-driver-improvements)
+
 ## 20240201
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Upgrade from Zorin OS 16 to Zorin OS 17, Here&#8217;s How](https://9to5linux.com/you-can-now-upgrade-from-zorin-os-16-to-zorin-os-17-heres-how)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Codenamed &#8220;Wilma&#8221;, Will Be Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-codenamed-wilma-will-be-based-on-ubuntu-24-04-lts)

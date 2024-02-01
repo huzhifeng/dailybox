@@ -1,3 +1,7 @@
+## 20240202
+- [Red Hat Developer](https://developers.redhat.com/) | [How to configure granular access in OpenShift Dev Spaces](https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Meteor.js applications to OpenShift](https://developers.redhat.com/articles/2024/02/01/how-deploy-meteorjs-applications-openshift)
+
 ## 20240201
 - [Red Hat Developer](https://developers.redhat.com/) | [Debugging Open vSwitch logs: long poll interval, blocked waiting](https://developers.redhat.com/articles/2024/01/31/debugging-open-vswitch-logs-long-poll-interval-blocked-waiting)
 

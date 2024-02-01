@@ -1,3 +1,6 @@
+## 20240202
+- [Planet KDE](https://planet.kde.org/) | [The Embedded Developer’s Dilemma in Choosing Hardware](https://www.kdab.com/the-embedded-developers-dilemma-in-choosing-hardware/?utm_source=atom_feed)
+
 ## 20240201
 - [Planet KDE](https://planet.kde.org/) | [Revisited i18n with CMake](https://www.qt.io/blog/revisited-i18n-with-cmake?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE's Megarelease 6 - Release Candidate 2](https://kde.org/announcements/megarelease/6/rc2/?utm_source=atom_feed)
