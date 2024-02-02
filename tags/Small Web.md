@@ -1,3 +1,8 @@
+## 20240203
+- [Kagi Small Web](https://kagi.com/smallweb) | [“The Power of the Fragile”: When Jocasta says “no” quid Oedipus? [By Tracy Danison]](https://blog.bestamericanpoetry.com/the_best_american_poetry/2024/02/the-power-of-the-fragile-when-jocasta-says-no-quid-oedipus-by-tracy-danison.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [yes and no](https://jacklimpert.com/2024/02/yes-and-no/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Understanding "People Are Strange"](https://www.youtube.com/watch?v=XQVjylcUH6k)
+
 ## 20240131
 - [Kagi Small Web](https://kagi.com/smallweb) | [Beefy!](https://refarmer.ca/2024/01/30/beefy/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [We Wanna Send You to the Opening Night of the SF Indie Film Fest on 2/8](https://brokeassstuart.com/2024/01/30/we-wanna-send-you-to-the-opening-night-of-the-sf-indie-film-fest-on-2-8/)

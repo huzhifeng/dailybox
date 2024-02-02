@@ -1,3 +1,6 @@
+## 20240203
+- [TED Talks Daily](https://www.ted.com/talks) | [How babies think about danger | Shari Liu](https://www.ted.com/talks/shari_liu_how_babies_think_about_danger?rss)
+
 ## 20240202
 - [TED Talks Daily](https://www.ted.com/talks) | [Lessons from the past on adapting to climate change | Laprisha Berry Daniels](https://www.ted.com/talks/laprisha_berry_daniels_lessons_from_the_past_on_adapting_to_climate_change?rss)
 

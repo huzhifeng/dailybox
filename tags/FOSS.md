@@ -1,3 +1,6 @@
+## 20240203
+- [It's FOSS](https://itsfoss.com/) | [Teaching Linux to Software Developers With This Book](https://itsfoss.com/software-developers-guide-linux-review/)
+
 ## 20240202
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/)
 

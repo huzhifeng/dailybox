@@ -1,3 +1,8 @@
+## 20240203
+- [Planet GNOME](https://planet.gnome.org/) | [Thessaloniki spring Hackfests!](https://blogs.gnome.org/alatiera/2024/02/02/thessaloniki-spring-hackfests/)
+- [Planet GNOME](https://planet.gnome.org/) | [Performance Profiling for Fedora Magazine](https://blogs.gnome.org/chergert/2024/02/02/performance-profiling-for-fedora-magazine/)
+- [Planet GNOME](https://planet.gnome.org/) | [#133 FOSDEM 2024](https://thisweek.gnome.org/posts/2024/02/twig-133/)
+
 ## 20240201
 - [Planet GNOME](https://planet.gnome.org/) | [Re: New responsibilities](https://www.hadess.net/2024/01/re-new-responsibilities.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Catch Us at FOSDEM 2024!](https://docs.flathub.org/blog/fosdem-2024)
