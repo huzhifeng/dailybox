@@ -1,3 +1,8 @@
+## 20240203
+- [Hacker News](https://news.ycombinator.com/front) | [Stories removed from the Hacker News Front Page, updated in real time](https://news.ycombinator.com/item?id=39230513)
+- [Hacker News](https://news.ycombinator.com/front) | [Tailwind color palette generator](https://news.ycombinator.com/item?id=39227831)
+- [Hacker News](https://news.ycombinator.com/front) | [Google has another secret browser](https://news.ycombinator.com/item?id=39226754)
+
 ## 20240202
 - [Hacker News](https://news.ycombinator.com/front) | [My favourite Git commit (2019)](https://news.ycombinator.com/item?id=39217149)
 

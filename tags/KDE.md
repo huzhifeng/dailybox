@@ -1,3 +1,8 @@
+## 20240203
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 24.02.0 RC ready for testing](https://kdenlive.org/en/2024/02/kdenlive-24-02-0-rc-ready-for-testing/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Some exciting news! Kubuntu: I’m back!!!](https://www.scarlettgatelymoore.dev/some-exciting-news-kubuntu-im-back/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-05](https://ervin.ipsquad.net/blog/2024/02/02/web-review-week-2024-05/?utm_source=atom_feed)
+
 ## 20240202
 - [Planet KDE](https://planet.kde.org/) | [The Embedded Developer’s Dilemma in Choosing Hardware](https://www.kdab.com/the-embedded-developers-dilemma-in-choosing-hardware/?utm_source=atom_feed)
 

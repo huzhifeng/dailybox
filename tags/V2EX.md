@@ -1,3 +1,8 @@
+## 20240203
+- [V2EX](https://www.v2ex.com/) | [为什么会认为 2w 的活儿 给的钱太少了？？](https://www.v2ex.com/t/1013672)
+- [V2EX](https://www.v2ex.com/) | [农村亲戚炫耀二本儿子在福建当程序员月薪一万二，应该如何应对？](https://www.v2ex.com/t/1013644)
+- [V2EX](https://www.v2ex.com/) | [大伙烦躁，心里不得劲儿的时候都怎么排解或发泄的](https://www.v2ex.com/t/1013626)
+
 ## 20240202
 - [V2EX](https://www.v2ex.com/) | [cs 学生，请问目前 chatgpt 4.0、codipilot 等 AI 助手/工具的水平到底是什么程度？码农这个行业还有未来么？](https://www.v2ex.com/t/1013479)
 - [V2EX](https://www.v2ex.com/) | [尝试性转 5 个亿，虽然显示余额不足，但是银行卡仍然被冻结了](https://www.v2ex.com/t/1013377)
