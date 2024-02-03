@@ -1,3 +1,6 @@
+## 20240204
+- [It's FOSS](https://itsfoss.com/) | [Run LLMs Locally on Raspberry Pi Using Ollama AI](https://itsfoss.com/raspberry-pi-ollama-ai-setup/)
+
 ## 20240203
 - [It's FOSS](https://itsfoss.com/) | [Teaching Linux to Software Developers With This Book](https://itsfoss.com/software-developers-guide-linux-review/)
 

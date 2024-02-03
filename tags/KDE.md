@@ -1,3 +1,6 @@
+## 20240204
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/?utm_source=atom_feed)
+
 ## 20240203
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 24.02.0 RC ready for testing](https://kdenlive.org/en/2024/02/kdenlive-24-02-0-rc-ready-for-testing/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Some exciting news! Kubuntu: I’m back!!!](https://www.scarlettgatelymoore.dev/some-exciting-news-kubuntu-im-back/?utm_source=atom_feed)

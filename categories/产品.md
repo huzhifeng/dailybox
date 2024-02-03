@@ -1,3 +1,8 @@
+## 20240204
+- [Product Hunt](https://www.producthunt.com) | [SocialFocus](https://www.producthunt.com/posts/socialfocus)
+- [Product Hunt](https://www.producthunt.com) | [Happie](https://www.producthunt.com/posts/happie-2)
+- [Product Hunt](https://www.producthunt.com) | [Zoom for Apple Vision Pro](https://www.producthunt.com/posts/zoom-for-apple-vision-pro)
+
 ## 20240203
 - [Product Hunt](https://www.producthunt.com) | [BaliBam](https://www.producthunt.com/posts/balibam)
 - [Product Hunt](https://www.producthunt.com) | [Morning Maker Show](https://www.producthunt.com/posts/morning-maker-show)

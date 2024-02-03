@@ -1,3 +1,7 @@
+## 20240204
+- [diff.blog](https://diff.blog/) | [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://diff.blog/post/how-i-reduced-the-size-of-my-very-first-published-docker-image-by-40-a-lesson-in-dockerizing-shell-scripts-168373/)
+- [diff.blog](https://diff.blog/) | [Let futures be futures](https://diff.blog/post/let-futures-be-futures-168390/)
+
 ## 20240201
 - [diff.blog](https://diff.blog/) | [Building an early warning system for LLM-aided biological threat creation](https://diff.blog/post/building-an-early-warning-system-for-llm-aided-biological-threat-creation-168107/)
 - [diff.blog](https://diff.blog/) | [The Performance Inequality Gap, 2024](https://diff.blog/post/the-performance-inequality-gap-2024-167907/)
