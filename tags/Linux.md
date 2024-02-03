@@ -1,3 +1,9 @@
+## 20240204
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Anonymous OS Launches February 27th Based on Debian 12 Bookworm](https://9to5linux.com/tails-6-0-anonymous-os-launches-february-27th-based-on-debian-12-bookworm)
+- [Planet GNOME](https://planet.gnome.org/) | [GTK hackfest updates](https://blog.gtk.org/2024/02/03/gtk-hackfest-updates/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linus Torvalds Has 'Robust Exchanges' Over Filesystem Suggestion on Linux Kernel Mailing List](https://linux.slashdot.org/story/24/02/03/044248/linus-torvalds-has-robust-exchanges-over-filesystem-suggestion-on-linux-kernel-mailing-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240203
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.1.2 Released with Linux Kernel 6.6 LTS and Memtest86+ 7.00](https://9to5linux.com/clonezilla-live-3-1-2-released-with-linux-kernel-6-6-lts-and-memtest86-7-00)
 - [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.3 Is Out Now Powered by Linux Kernel 6.7](https://9to5linux.com/immutable-distro-nitrux-3-3-is-out-now-powered-by-linux-kernel-6-7)

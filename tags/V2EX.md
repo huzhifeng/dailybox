@@ -1,3 +1,8 @@
+## 20240204
+- [V2EX](https://www.v2ex.com/) | [求帮忙推荐一款适合装 Linux 的笔记本电脑](https://www.v2ex.com/t/1013900)
+- [V2EX](https://www.v2ex.com/) | [想买一块 2TB 的机械硬盘，各位推荐 西部数据 还是 希捷](https://www.v2ex.com/t/1013898)
+- [V2EX](https://www.v2ex.com/) | [百度输入法 VIP 来了](https://www.v2ex.com/t/1013878)
+
 ## 20240203
 - [V2EX](https://www.v2ex.com/) | [为什么会认为 2w 的活儿 给的钱太少了？？](https://www.v2ex.com/t/1013672)
 - [V2EX](https://www.v2ex.com/) | [农村亲戚炫耀二本儿子在福建当程序员月薪一万二，应该如何应对？](https://www.v2ex.com/t/1013644)

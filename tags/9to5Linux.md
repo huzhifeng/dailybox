@@ -1,3 +1,6 @@
+## 20240204
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Anonymous OS Launches February 27th Based on Debian 12 Bookworm](https://9to5linux.com/tails-6-0-anonymous-os-launches-february-27th-based-on-debian-12-bookworm)
+
 ## 20240203
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.1.2 Released with Linux Kernel 6.6 LTS and Memtest86+ 7.00](https://9to5linux.com/clonezilla-live-3-1-2-released-with-linux-kernel-6-6-lts-and-memtest86-7-00)
 - [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.3 Is Out Now Powered by Linux Kernel 6.7](https://9to5linux.com/immutable-distro-nitrux-3-3-is-out-now-powered-by-linux-kernel-6-7)

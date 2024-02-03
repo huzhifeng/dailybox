@@ -1,3 +1,6 @@
+## 20240204
+- [BMPI](https://www.bmpi.dev/) | [我的2023](https://www.bmpi.dev/self/annual-summary/2023/)
+
 ## 20231113
 - [BMPI](https://www.bmpi.dev/) | [全球经济中的隐形巨人](https://www.bmpi.dev/money/what-is-capital/)
 

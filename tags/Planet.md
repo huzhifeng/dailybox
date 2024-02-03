@@ -1,3 +1,7 @@
+## 20240204
+- [Planet GNOME](https://planet.gnome.org/) | [GTK hackfest updates](https://blog.gtk.org/2024/02/03/gtk-hackfest-updates/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/?utm_source=atom_feed)
+
 ## 20240203
 - [Planet GNOME](https://planet.gnome.org/) | [Thessaloniki spring Hackfests!](https://blogs.gnome.org/alatiera/2024/02/02/thessaloniki-spring-hackfests/)
 - [Planet GNOME](https://planet.gnome.org/) | [Performance Profiling for Fedora Magazine](https://blogs.gnome.org/chergert/2024/02/02/performance-profiling-for-fedora-magazine/)
