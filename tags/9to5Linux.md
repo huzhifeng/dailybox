@@ -1,3 +1,6 @@
+## 20240205
+- [9to5Linux](https://9to5linux.com/) | [Kubuntu 24.04 LTS Is Switching to the Calamares Installer by Default](https://9to5linux.com/kubuntu-24-04-lts-is-switching-to-the-calamares-installer-by-default)
+
 ## 20240204
 - [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Anonymous OS Launches February 27th Based on Debian 12 Bookworm](https://9to5linux.com/tails-6-0-anonymous-os-launches-february-27th-based-on-debian-12-bookworm)
 

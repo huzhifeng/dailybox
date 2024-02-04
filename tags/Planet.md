@@ -1,3 +1,7 @@
+## 20240205
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME Asia Nepal 2023](https://www.aryank.in/posts/2024-02-04-gnome-asia-nepal-2023/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Council Meeting – 30th January 2024](https://kubuntu.org/news/kubuntu-council-meeting-30th-january-2024/?utm_source=atom_feed)
+
 ## 20240204
 - [Planet GNOME](https://planet.gnome.org/) | [GTK hackfest updates](https://blog.gtk.org/2024/02/03/gtk-hackfest-updates/)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/?utm_source=atom_feed)

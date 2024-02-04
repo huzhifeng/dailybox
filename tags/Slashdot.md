@@ -1,3 +1,8 @@
+## 20240205
+- [Slashdot](https://linux.slashdot.org/) | ['Linux Foundation Energy' Partners With US Government on Interoperability of America's EV Charging](https://hardware.slashdot.org/story/24/02/04/0537238/linux-foundation-energy-partners-with-us-government-on-interoperability-of-americas-ev-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [How a Microsoft Update Broke VS Code Editor on Ubuntu](https://linux.slashdot.org/story/24/02/04/0116229/how-a-microsoft-update-broke-vs-code-editor-on-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [How a Microsoft Update Broke VS Code Editor on Ubuntu](https://linux.slashdot.org/story/24/02/04/0116229/how-a-microsoft-update-broke-vs-code-editor-on-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240204
 - [Slashdot](https://linux.slashdot.org/) | [Linus Torvalds Has 'Robust Exchanges' Over Filesystem Suggestion on Linux Kernel Mailing List](https://linux.slashdot.org/story/24/02/03/044248/linus-torvalds-has-robust-exchanges-over-filesystem-suggestion-on-linux-kernel-mailing-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Apple Says EU Represents 7% of Global App Store Revenue](https://apple.slashdot.org/story/24/02/02/217244/apple-says-eu-represents-7-of-global-app-store-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)

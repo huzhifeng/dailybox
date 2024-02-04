@@ -1,3 +1,6 @@
+## 20240205
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Council Meeting – 30th January 2024](https://kubuntu.org/news/kubuntu-council-meeting-30th-january-2024/?utm_source=atom_feed)
+
 ## 20240204
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/?utm_source=atom_feed)
 

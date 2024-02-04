@@ -1,3 +1,6 @@
+## 20240205
+- [Hacker News](https://news.ycombinator.com/front) | [Why is the mouse cursor slightly tilted and not straight?](https://news.ycombinator.com/item?id=39248225)
+
 ## 20240203
 - [Hacker News](https://news.ycombinator.com/front) | [Stories removed from the Hacker News Front Page, updated in real time](https://news.ycombinator.com/item?id=39230513)
 - [Hacker News](https://news.ycombinator.com/front) | [Tailwind color palette generator](https://news.ycombinator.com/item?id=39227831)

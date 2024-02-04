@@ -1,3 +1,6 @@
+## 20240205
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME Asia Nepal 2023](https://www.aryank.in/posts/2024-02-04-gnome-asia-nepal-2023/)
+
 ## 20240204
 - [Planet GNOME](https://planet.gnome.org/) | [GTK hackfest updates](https://blog.gtk.org/2024/02/03/gtk-hackfest-updates/)
 
