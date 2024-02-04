@@ -1,3 +1,10 @@
+## 20240205
+- [9to5Linux](https://9to5linux.com/) | [Kubuntu 24.04 LTS Is Switching to the Calamares Installer by Default](https://9to5linux.com/kubuntu-24-04-lts-is-switching-to-the-calamares-installer-by-default)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME Asia Nepal 2023](https://www.aryank.in/posts/2024-02-04-gnome-asia-nepal-2023/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Council Meeting – 30th January 2024](https://kubuntu.org/news/kubuntu-council-meeting-30th-january-2024/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | ['Linux Foundation Energy' Partners With US Government on Interoperability of America's EV Charging](https://hardware.slashdot.org/story/24/02/04/0537238/linux-foundation-energy-partners-with-us-government-on-interoperability-of-americas-ev-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [How a Microsoft Update Broke VS Code Editor on Ubuntu](https://linux.slashdot.org/story/24/02/04/0116229/how-a-microsoft-update-broke-vs-code-editor-on-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240204
 - [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Anonymous OS Launches February 27th Based on Debian 12 Bookworm](https://9to5linux.com/tails-6-0-anonymous-os-launches-february-27th-based-on-debian-12-bookworm)
 - [Planet GNOME](https://planet.gnome.org/) | [GTK hackfest updates](https://blog.gtk.org/2024/02/03/gtk-hackfest-updates/)

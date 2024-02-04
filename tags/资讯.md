@@ -1,3 +1,7 @@
+## 20240205
+- [diff.blog](https://diff.blog/) | [How to Replace Your CPAP In Only 666 Days](https://diff.blog/post/how-to-replace-your-cpap-in-only-666-days-168403/)
+- [diff.blog](https://diff.blog/) | [Rye: A Vision Continued](https://diff.blog/post/rye-a-vision-continued-168533/)
+
 ## 20240204
 - [diff.blog](https://diff.blog/) | [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://diff.blog/post/how-i-reduced-the-size-of-my-very-first-published-docker-image-by-40-a-lesson-in-dockerizing-shell-scripts-168373/)
 - [diff.blog](https://diff.blog/) | [Let futures be futures](https://diff.blog/post/let-futures-be-futures-168390/)

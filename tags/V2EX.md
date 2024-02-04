@@ -1,3 +1,8 @@
+## 20240205
+- [V2EX](https://www.v2ex.com/) | [良心给同事推荐双拼，被同事说装逼怎么办](https://www.v2ex.com/t/1014193)
+- [V2EX](https://www.v2ex.com/) | [小米净水器是真的无语呀](https://www.v2ex.com/t/1014039)
+- [V2EX](https://www.v2ex.com/) | [目前手机已经用六年了，有比我更久的么](https://www.v2ex.com/t/1014038)
+
 ## 20240204
 - [V2EX](https://www.v2ex.com/) | [求帮忙推荐一款适合装 Linux 的笔记本电脑](https://www.v2ex.com/t/1013900)
 - [V2EX](https://www.v2ex.com/) | [想买一块 2TB 的机械硬盘，各位推荐 西部数据 还是 希捷](https://www.v2ex.com/t/1013898)
