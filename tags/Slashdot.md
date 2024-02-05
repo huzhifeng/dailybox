@@ -1,3 +1,6 @@
+## 20240206
+- [Slashdot](https://developers.slashdot.org/) | [Apple Releases Pkl, a Configuration-as-Code Language](https://apple.slashdot.org/story/24/02/05/1936215/apple-releases-pkl-a-configuration-as-code-language?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240205
 - [Slashdot](https://linux.slashdot.org/) | ['Linux Foundation Energy' Partners With US Government on Interoperability of America's EV Charging](https://hardware.slashdot.org/story/24/02/04/0537238/linux-foundation-energy-partners-with-us-government-on-interoperability-of-americas-ev-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [How a Microsoft Update Broke VS Code Editor on Ubuntu](https://linux.slashdot.org/story/24/02/04/0116229/how-a-microsoft-update-broke-vs-code-editor-on-ubuntu?utm_source=rss1.0mainlinkanon&utm_medium=feed)

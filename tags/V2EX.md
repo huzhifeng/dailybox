@@ -1,3 +1,8 @@
+## 20240206
+- [V2EX](https://www.v2ex.com/) | [朋友患有子宫内膜异位症, 每次经期都痛的死去活来, 求有效的止痛方法](https://www.v2ex.com/t/1014369)
+- [V2EX](https://www.v2ex.com/) | [人和人, 差别是挺大的](https://www.v2ex.com/t/1014366)
+- [V2EX](https://www.v2ex.com/) | [快过年了，整个活， AI 春联～](https://www.v2ex.com/t/1014312)
+
 ## 20240205
 - [V2EX](https://www.v2ex.com/) | [良心给同事推荐双拼，被同事说装逼怎么办](https://www.v2ex.com/t/1014193)
 - [V2EX](https://www.v2ex.com/) | [小米净水器是真的无语呀](https://www.v2ex.com/t/1014039)

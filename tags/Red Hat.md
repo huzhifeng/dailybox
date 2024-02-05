@@ -1,3 +1,7 @@
+## 20240206
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in JBoss Enterprise Application Platform 8.0](https://developers.redhat.com/articles/2024/02/05/whats-new-jboss-enterprise-application-platform-8)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to cache data using GDB's Python API](https://developers.redhat.com/articles/2024/02/05/how-cache-data-using-gdbs-python-api)
+
 ## 20240202
 - [Red Hat Developer](https://developers.redhat.com/) | [How to configure granular access in OpenShift Dev Spaces](https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to deploy Meteor.js applications to OpenShift](https://developers.redhat.com/articles/2024/02/01/how-deploy-meteorjs-applications-openshift)

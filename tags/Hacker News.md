@@ -1,3 +1,7 @@
+## 20240206
+- [Hacker News](https://news.ycombinator.com/front) | [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://news.ycombinator.com/item?id=39261861)
+- [Hacker News](https://news.ycombinator.com/front) | [Deno in 2023](https://news.ycombinator.com/item?id=39259068)
+
 ## 20240205
 - [Hacker News](https://news.ycombinator.com/front) | [Why is the mouse cursor slightly tilted and not straight?](https://news.ycombinator.com/item?id=39248225)
 
