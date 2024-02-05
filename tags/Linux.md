@@ -1,3 +1,9 @@
+## 20240206
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in JBoss Enterprise Application Platform 8.0](https://developers.redhat.com/articles/2024/02/05/whats-new-jboss-enterprise-application-platform-8)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to cache data using GDB's Python API](https://developers.redhat.com/articles/2024/02/05/how-cache-data-using-gdbs-python-api)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-4th-2024)
+- [Planet GNOME](https://planet.gnome.org/) | [fwupd: Auto-Quitting On Idle, Harder](https://blogs.gnome.org/hughsie/2024/02/05/fwupd-auto-quitting-on-idle-harder/)
+
 ## 20240205
 - [9to5Linux](https://9to5linux.com/) | [Kubuntu 24.04 LTS Is Switching to the Calamares Installer by Default](https://9to5linux.com/kubuntu-24-04-lts-is-switching-to-the-calamares-installer-by-default)
 - [Planet GNOME](https://planet.gnome.org/) | [GNOME Asia Nepal 2023](https://www.aryank.in/posts/2024-02-04-gnome-asia-nepal-2023/)

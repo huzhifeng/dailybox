@@ -1,3 +1,6 @@
+## 20240206
+- [TED Talks Daily](https://www.ted.com/talks) | [Wild, intricate sculptures — made out of my hair | Laetitia Ky](https://www.ted.com/talks/laetitia_ky_wild_intricate_sculptures_made_out_of_my_hair?rss)
+
 ## 20240203
 - [TED Talks Daily](https://www.ted.com/talks) | [How babies think about danger | Shari Liu](https://www.ted.com/talks/shari_liu_how_babies_think_about_danger?rss)
 

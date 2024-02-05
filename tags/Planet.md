@@ -1,3 +1,6 @@
+## 20240206
+- [Planet GNOME](https://planet.gnome.org/) | [fwupd: Auto-Quitting On Idle, Harder](https://blogs.gnome.org/hughsie/2024/02/05/fwupd-auto-quitting-on-idle-harder/)
+
 ## 20240205
 - [Planet GNOME](https://planet.gnome.org/) | [GNOME Asia Nepal 2023](https://www.aryank.in/posts/2024-02-04-gnome-asia-nepal-2023/)
 - [Planet KDE](https://planet.kde.org/) | [Kubuntu Council Meeting – 30th January 2024](https://kubuntu.org/news/kubuntu-council-meeting-30th-january-2024/?utm_source=atom_feed)

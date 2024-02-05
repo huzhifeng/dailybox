@@ -1,3 +1,6 @@
+## 20240206
+- [diff.blog](https://diff.blog/) | [How Spoutible’s Leaky API Spurted out a Deluge of Personal Data](https://diff.blog/post/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data-168600/)
+
 ## 20240205
 - [diff.blog](https://diff.blog/) | [How to Replace Your CPAP In Only 666 Days](https://diff.blog/post/how-to-replace-your-cpap-in-only-666-days-168403/)
 - [diff.blog](https://diff.blog/) | [Rye: A Vision Continued](https://diff.blog/post/rye-a-vision-continued-168533/)
