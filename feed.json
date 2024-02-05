@@ -299,6 +299,13 @@
 			"tags": ["BlogFinder"]
 		},
 		{
+			"channel": "博友圈",
+			"portal": "https://www.boyouquan.com/home",
+			"url": "https://www.boyouquan.com/feed.xml",
+			"category": "漫游",
+			"tags": ["博友圈"]
+		},
+		{
 			"channel": "十年之约",
 			"portal": "https://www.foreverblog.cn/feeds.html",
 			"url": "https://rsshub.app/foreverblog/feeds",
