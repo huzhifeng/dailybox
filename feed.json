@@ -292,6 +292,13 @@
 			"tags": ["博客园"]
 		},
 		{
+			"channel": "BlogFinder",
+			"portal": "https://bf.zzxworld.com/",
+			"url": "https://bf.zzxworld.com/feed.xml",
+			"category": "漫游",
+			"tags": ["BlogFinder"]
+		},
+		{
 			"channel": "十年之约",
 			"portal": "https://www.foreverblog.cn/feeds.html",
 			"url": "https://rsshub.app/foreverblog/feeds",
