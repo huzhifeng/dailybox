@@ -1,3 +1,9 @@
+## 20240207
+- [Planet GNOME](https://planet.gnome.org/) | [2024-02-06 Tuesday](https://meeksfamily.uk/~michael/blog/2024-02-06.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Wayland, Supercharged](https://blog.broulik.de/2024/02/qt-wayland-supercharged/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Update: xdg-toplevel-drag merged](https://blog.david-redondo.de/kde/wayland/qt/2024/02/06/xdg-toplevel-drag-update.html?utm_source=atom_feed)
+
 ## 20240206
 - [Planet GNOME](https://planet.gnome.org/) | [fwupd: Auto-Quitting On Idle, Harder](https://blogs.gnome.org/hughsie/2024/02/05/fwupd-auto-quitting-on-idle-harder/)
 

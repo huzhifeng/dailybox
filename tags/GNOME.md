@@ -1,3 +1,7 @@
+## 20240207
+- [Planet GNOME](https://planet.gnome.org/) | [2024-02-06 Tuesday](https://meeksfamily.uk/~michael/blog/2024-02-06.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
+
 ## 20240206
 - [Planet GNOME](https://planet.gnome.org/) | [fwupd: Auto-Quitting On Idle, Harder](https://blogs.gnome.org/hughsie/2024/02/05/fwupd-auto-quitting-on-idle-harder/)
 

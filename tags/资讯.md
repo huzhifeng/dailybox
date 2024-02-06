@@ -1,3 +1,6 @@
+## 20240207
+- [diff.blog](https://diff.blog/) | [Introducing Mozilla Monitor Plus, a new tool to automatically remove your personal information from data broker sites](https://diff.blog/post/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites-168796/)
+
 ## 20240206
 - [diff.blog](https://diff.blog/) | [How Spoutible’s Leaky API Spurted out a Deluge of Personal Data](https://diff.blog/post/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data-168600/)
 
