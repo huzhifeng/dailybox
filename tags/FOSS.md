@@ -1,3 +1,6 @@
+## 20240207
+- [It's FOSS](https://itsfoss.com/) | [Less Command Examples](https://itsfoss.com/less-command/)
+
 ## 20240204
 - [It's FOSS](https://itsfoss.com/) | [Run LLMs Locally on Raspberry Pi Using Ollama AI](https://itsfoss.com/raspberry-pi-ollama-ai-setup/)
 

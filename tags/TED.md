@@ -1,3 +1,6 @@
+## 20240207
+- [TED Talks Daily](https://www.ted.com/talks) | [What makes someone vote against their political party? | Sarah Longwell](https://www.ted.com/talks/sarah_longwell_what_makes_someone_vote_against_their_political_party?rss)
+
 ## 20240206
 - [TED Talks Daily](https://www.ted.com/talks) | [Wild, intricate sculptures — made out of my hair | Laetitia Ky](https://www.ted.com/talks/laetitia_ky_wild_intricate_sculptures_made_out_of_my_hair?rss)
 

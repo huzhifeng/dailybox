@@ -1,3 +1,6 @@
+## 20240207
+- [GitHub Advanced Search](https://github.com/search/advanced) | [ejoy/vaststars](https://github.com/ejoy/vaststars)
+
 ## 20240124
 - [GitHub Advanced Search](https://github.com/search/advanced) | [JogNKee/Fortnite-Private](https://github.com/JogNKee/Fortnite-Private)
 
