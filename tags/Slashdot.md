@@ -1,3 +1,6 @@
+## 20240208
+- [Slashdot](https://linux.slashdot.org/) | [Critical Vulnerability Affecting Most Linux Distros Allows For Bootkits](https://linux.slashdot.org/story/24/02/07/1749248/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240206
 - [Slashdot](https://developers.slashdot.org/) | [Apple Releases Pkl, a Configuration-as-Code Language](https://apple.slashdot.org/story/24/02/05/1936215/apple-releases-pkl-a-configuration-as-code-language?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

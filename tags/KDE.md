@@ -1,3 +1,6 @@
+## 20240208
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12.0.2 released](https://www.qt.io/blog/qt-creator-12.0.2-released?utm_source=atom_feed)
+
 ## 20240207
 - [Planet KDE](https://planet.kde.org/) | [Qt Wayland, Supercharged](https://blog.broulik.de/2024/02/qt-wayland-supercharged/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Update: xdg-toplevel-drag merged](https://blog.david-redondo.de/kde/wayland/qt/2024/02/06/xdg-toplevel-drag-update.html?utm_source=atom_feed)

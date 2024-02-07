@@ -1,3 +1,9 @@
+## 20240208
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use LLMs in Java with LangChain4j and Quarkus](https://developers.redhat.com/articles/2024/02/07/how-use-llms-java-langchain4j-and-quarkus)
+- [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Is Getting a New Global Search Mode in GNOME 46](https://9to5linux.com/nautilus-file-manager-is-getting-a-new-global-search-mode-in-gnome-46)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12.0.2 released](https://www.qt.io/blog/qt-creator-12.0.2-released?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Critical Vulnerability Affecting Most Linux Distros Allows For Bootkits](https://linux.slashdot.org/story/24/02/07/1749248/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240207
 - [Red Hat Developer](https://developers.redhat.com/) | [Security policies in open source software](https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to integrate Quarkus applications with OpenShift AI](https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai)

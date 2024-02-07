@@ -1,3 +1,6 @@
+## 20240208
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use LLMs in Java with LangChain4j and Quarkus](https://developers.redhat.com/articles/2024/02/07/how-use-llms-java-langchain4j-and-quarkus)
+
 ## 20240207
 - [Red Hat Developer](https://developers.redhat.com/) | [Security policies in open source software](https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to integrate Quarkus applications with OpenShift AI](https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai)

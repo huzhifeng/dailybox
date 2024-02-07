@@ -1,3 +1,8 @@
+## 20240208
+- [Kagi Small Web](https://kagi.com/smallweb) | [A Golden Era of Blogging](https://blog.jim-nielsen.com/2024/golden-era-blogging/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [podcast art 2.0 | botanical studies of internet magic](https://keningzhu.com/journal/podcast-art-2-botanical-studies-of-internet-magic)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Major new work: harmful design in browser choice](https://cennydd.com/writing/major-new-work-harmful-design-in-browser-choice)
+
 ## 20240203
 - [Kagi Small Web](https://kagi.com/smallweb) | [“The Power of the Fragile”: When Jocasta says “no” quid Oedipus? [By Tracy Danison]](https://blog.bestamericanpoetry.com/the_best_american_poetry/2024/02/the-power-of-the-fragile-when-jocasta-says-no-quid-oedipus-by-tracy-danison.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [yes and no](https://jacklimpert.com/2024/02/yes-and-no/)

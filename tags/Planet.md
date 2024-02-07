@@ -1,3 +1,6 @@
+## 20240208
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 12.0.2 released](https://www.qt.io/blog/qt-creator-12.0.2-released?utm_source=atom_feed)
+
 ## 20240207
 - [Planet GNOME](https://planet.gnome.org/) | [2024-02-06 Tuesday](https://meeksfamily.uk/~michael/blog/2024-02-06.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
