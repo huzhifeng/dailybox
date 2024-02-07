@@ -1,3 +1,8 @@
+## 20240208
+- [BlogFinder](https://bf.zzxworld.com/) | [来也龙年，去也龙年](https://hjyl.org/come-in-long-year-and-leaving-too/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [做网站真的太好玩了](https://tracyxc.com/zuo-wang-zhan-tai-hao-wan-le/?utm_source=blogfinder&utm_medium=rss&utm_campaign=zuo-wang-zhan-tai-hao-wan-le)
+- [BlogFinder](https://bf.zzxworld.com/) | [快新年了，明天模板预计大更新。](https://luolt.cn/archives/2685.html?utm_source=blogfinder)
+
 ## 20240207
 - [BlogFinder](https://bf.zzxworld.com/) | [灵活运用对冲，保证人生自由](https://blog.peiluming.com/article/517?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [PagePlug：一个Appsmith的中国化低代码平台，轻松部署在NAS上！](https://www.huluohu.com/posts/962/?utm_source=blogfinder)

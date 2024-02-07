@@ -1,3 +1,6 @@
+## 20240208
+- [It's FOSS](https://itsfoss.com/) | [How to upgrade to Zorin OS 17](https://itsfoss.com/zorin-os-upgrade/)
+
 ## 20240207
 - [It's FOSS](https://itsfoss.com/) | [Less Command Examples](https://itsfoss.com/less-command/)
 

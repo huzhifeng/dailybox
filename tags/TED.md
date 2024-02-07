@@ -1,3 +1,6 @@
+## 20240208
+- [TED Talks Daily](https://www.ted.com/talks) | [6 tips on being a successful entrepreneur | John Mullins](https://www.ted.com/talks/john_mullins_6_tips_on_being_a_successful_entrepreneur?rss)
+
 ## 20240207
 - [TED Talks Daily](https://www.ted.com/talks) | [What makes someone vote against their political party? | Sarah Longwell](https://www.ted.com/talks/sarah_longwell_what_makes_someone_vote_against_their_political_party?rss)
 

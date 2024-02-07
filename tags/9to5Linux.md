@@ -1,3 +1,6 @@
+## 20240208
+- [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Is Getting a New Global Search Mode in GNOME 46](https://9to5linux.com/nautilus-file-manager-is-getting-a-new-global-search-mode-in-gnome-46)
+
 ## 20240206
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-4th-2024)
 

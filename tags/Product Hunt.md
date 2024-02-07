@@ -1,3 +1,8 @@
+## 20240208
+- [Product Hunt](https://www.producthunt.com) | [Coze](https://www.producthunt.com/posts/coze)
+- [Product Hunt](https://www.producthunt.com) | [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)
+- [Product Hunt](https://www.producthunt.com) | [Agent Gold AI](https://www.producthunt.com/posts/agent-gold-ai)
+
 ## 20240207
 - [Product Hunt](https://www.producthunt.com) | [Passport Autofill](https://www.producthunt.com/posts/passport-autofill)
 - [Product Hunt](https://www.producthunt.com) | [PopAi](https://www.producthunt.com/posts/popai)
