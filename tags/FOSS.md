@@ -1,3 +1,6 @@
+## 20240209
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/)
+
 ## 20240208
 - [It's FOSS](https://itsfoss.com/) | [How to upgrade to Zorin OS 17](https://itsfoss.com/zorin-os-upgrade/)
 

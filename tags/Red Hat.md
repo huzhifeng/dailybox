@@ -1,3 +1,6 @@
+## 20240209
+- [Red Hat Developer](https://developers.redhat.com/) | [How to visualize your OpenSCAP compliance reports](https://developers.redhat.com/articles/2024/02/08/how-visualize-your-openscap-compliance-reports)
+
 ## 20240208
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use LLMs in Java with LangChain4j and Quarkus](https://developers.redhat.com/articles/2024/02/07/how-use-llms-java-langchain4j-and-quarkus)
 

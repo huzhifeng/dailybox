@@ -1,3 +1,6 @@
+## 20240209
+- [TED Talks Daily](https://www.ted.com/talks) | [The climate solutions worth funding — now | Jonathan Foley](https://www.ted.com/talks/jonathan_foley_the_climate_solutions_worth_funding_now?rss)
+
 ## 20240208
 - [TED Talks Daily](https://www.ted.com/talks) | [6 tips on being a successful entrepreneur | John Mullins](https://www.ted.com/talks/john_mullins_6_tips_on_being_a_successful_entrepreneur?rss)
 
