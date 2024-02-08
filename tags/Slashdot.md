@@ -1,3 +1,6 @@
+## 20240209
+- [Slashdot](https://linux.slashdot.org/) | [Linux Foundation Forms Post-Quantum Cryptography Alliance](https://linux.slashdot.org/story/24/02/07/2326214/linux-foundation-forms-post-quantum-cryptography-alliance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240208
 - [Slashdot](https://linux.slashdot.org/) | [Critical Vulnerability Affecting Most Linux Distros Allows For Bootkits](https://linux.slashdot.org/story/24/02/07/1749248/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

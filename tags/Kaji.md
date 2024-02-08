@@ -1,3 +1,8 @@
+## 20240209
+- [Kagi Small Web](https://kagi.com/smallweb) | [Back in the hammock again](https://jmglov.net/blog/2024-02-08-back-in-the-hammock-again.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [How to remove Dalle-3 Content Credentials](https://www.timboucher.ca/2024/02/how-to-remove-dalle-3-content-credentials/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Cet instrument va vous surprendre (peut-être)(bon ok y'a des trucs plus surprenants)](https://www.youtube.com/watch?v=Dik-zZPOcNs)
+
 ## 20240208
 - [Kagi Small Web](https://kagi.com/smallweb) | [A Golden Era of Blogging](https://blog.jim-nielsen.com/2024/golden-era-blogging/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [podcast art 2.0 | botanical studies of internet magic](https://keningzhu.com/journal/podcast-art-2-botanical-studies-of-internet-magic)

@@ -1,3 +1,8 @@
+## 20240209
+- [Red Hat Developer](https://developers.redhat.com/) | [How to visualize your OpenSCAP compliance reports](https://developers.redhat.com/articles/2024/02/08/how-visualize-your-openscap-compliance-reports)
+- [Planet GNOME](https://planet.gnome.org/) | [Gameeky released](https://blogs.gnome.org/tchx84/2024/02/08/gameeky-released/)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Foundation Forms Post-Quantum Cryptography Alliance](https://linux.slashdot.org/story/24/02/07/2326214/linux-foundation-forms-post-quantum-cryptography-alliance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240208
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use LLMs in Java with LangChain4j and Quarkus](https://developers.redhat.com/articles/2024/02/07/how-use-llms-java-langchain4j-and-quarkus)
 - [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Is Getting a New Global Search Mode in GNOME 46](https://9to5linux.com/nautilus-file-manager-is-getting-a-new-global-search-mode-in-gnome-46)

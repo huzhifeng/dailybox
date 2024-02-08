@@ -1,3 +1,8 @@
+## 20240209
+- [Hacker News](https://news.ycombinator.com/front) | [FCC rules AI-generated voices in robocalls illegal](https://news.ycombinator.com/item?id=39304736)
+- [Hacker News](https://news.ycombinator.com/front) | [Mozilla names new CEO as it pivots to data privacy](https://news.ycombinator.com/item?id=39302744)
+- [Hacker News](https://news.ycombinator.com/front) | [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://news.ycombinator.com/item?id=39301495)
+
 ## 20240208
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Improve cognitive focus in 1 minute](https://news.ycombinator.com/item?id=39288039)
 - [Hacker News](https://news.ycombinator.com/front) | [RustPython](https://news.ycombinator.com/item?id=39286458)

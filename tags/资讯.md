@@ -1,3 +1,8 @@
+## 20240209
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.76.0](https://diff.blog/post/announcing-rust-1760-168941/)
+- [diff.blog](https://diff.blog/) | [11 ways to convince yourself to start something (when you really don't want to)](https://diff.blog/post/11-ways-to-convince-yourself-to-start-something-when-you-really-dont-want-to-168954/)
+- [diff.blog](https://diff.blog/) | [A New Chapter for Mozilla: Focused Execution and an Expanded Role in Charting the Internet’s Future](https://diff.blog/post/a-new-chapter-for-mozilla-focused-execution-and-an-expanded-role-in-charting-the-internets-future-168940/)
+
 ## 20240207
 - [diff.blog](https://diff.blog/) | [Introducing Mozilla Monitor Plus, a new tool to automatically remove your personal information from data broker sites](https://diff.blog/post/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites-168796/)
 

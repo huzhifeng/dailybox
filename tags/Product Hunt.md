@@ -1,3 +1,8 @@
+## 20240209
+- [Product Hunt](https://www.producthunt.com) | [Figr AI (Early Preview)](https://www.producthunt.com/posts/figr-ai-early-preview)
+- [Product Hunt](https://www.producthunt.com) | [Wondera](https://www.producthunt.com/posts/wondera)
+- [Product Hunt](https://www.producthunt.com) | [Data Analyst AI](https://www.producthunt.com/posts/data-analyst-ai-2)
+
 ## 20240208
 - [Product Hunt](https://www.producthunt.com) | [Coze](https://www.producthunt.com/posts/coze)
 - [Product Hunt](https://www.producthunt.com) | [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)

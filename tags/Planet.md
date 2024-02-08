@@ -1,3 +1,6 @@
+## 20240209
+- [Planet GNOME](https://planet.gnome.org/) | [Gameeky released](https://blogs.gnome.org/tchx84/2024/02/08/gameeky-released/)
+
 ## 20240208
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 12.0.2 released](https://www.qt.io/blog/qt-creator-12.0.2-released?utm_source=atom_feed)
 
