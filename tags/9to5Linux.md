@@ -1,3 +1,6 @@
+## 20240210
+- [9to5Linux](https://9to5linux.com/) | [Fedora Project Announces Fedora Atomic Desktops for Immutable Fedora Spins](https://9to5linux.com/fedora-project-announces-fedora-atomic-desktops-for-immutable-fedora-spins)
+
 ## 20240208
 - [9to5Linux](https://9to5linux.com/) | [Nautilus File Manager Is Getting a New Global Search Mode in GNOME 46](https://9to5linux.com/nautilus-file-manager-is-getting-a-new-global-search-mode-in-gnome-46)
 

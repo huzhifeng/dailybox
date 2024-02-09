@@ -1,3 +1,7 @@
+## 20240210
+- [Product Hunt](https://www.producthunt.com) | [Capitol AI](https://www.producthunt.com/posts/capitol-ai)
+- [Product Hunt](https://www.producthunt.com) | [Rizzle AI](https://www.producthunt.com/posts/rizzle-ai-2)
+
 ## 20240209
 - [Product Hunt](https://www.producthunt.com) | [Figr AI (Early Preview)](https://www.producthunt.com/posts/figr-ai-early-preview)
 - [Product Hunt](https://www.producthunt.com) | [Wondera](https://www.producthunt.com/posts/wondera)

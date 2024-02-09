@@ -1,3 +1,8 @@
+## 20240210
+- [Hacker News](https://news.ycombinator.com/front) | [Add coffee stains to LaTeX documents (2021)](https://news.ycombinator.com/item?id=39316193)
+- [Hacker News](https://news.ycombinator.com/front) | [Permutation City (1994)](https://news.ycombinator.com/item?id=39313696)
+- [Hacker News](https://news.ycombinator.com/front) | [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://news.ycombinator.com/item?id=39312896)
+
 ## 20240209
 - [Hacker News](https://news.ycombinator.com/front) | [FCC rules AI-generated voices in robocalls illegal](https://news.ycombinator.com/item?id=39304736)
 - [Hacker News](https://news.ycombinator.com/front) | [Mozilla names new CEO as it pivots to data privacy](https://news.ycombinator.com/item?id=39302744)

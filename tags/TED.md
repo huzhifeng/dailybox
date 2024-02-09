@@ -1,3 +1,6 @@
+## 20240210
+- [TED Talks Daily](https://www.ted.com/talks) | ["Atalanta" |  The Merian Ensemble](https://www.ted.com/talks/the_merian_ensemble_atalanta?rss)
+
 ## 20240209
 - [TED Talks Daily](https://www.ted.com/talks) | [The climate solutions worth funding — now | Jonathan Foley](https://www.ted.com/talks/jonathan_foley_the_climate_solutions_worth_funding_now?rss)
 

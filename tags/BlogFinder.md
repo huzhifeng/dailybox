@@ -1,3 +1,8 @@
+## 20240210
+- [BlogFinder](https://bf.zzxworld.com/) | [使用Github Action定时重启邮件服务](https://www.ordchaos.com/posts/e9c784c5/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [一些笔记工具工具以及memos介绍](https://colobu.com/2024/02/10/some-note-taking-tools-and-memos/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [盖茨比式体验](https://stephenleng.com/cn/the-great-gatsby-experience/?utm_source=blogfinder)
+
 ## 20240209
 - [BlogFinder](https://bf.zzxworld.com/) | [利用cloudflare与lsky图床搭建搭建](https://hao.gg/archives/362.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [发表于2024年2月9日](https://coimo.cn/?p=146&utm_source=blogfinder)
