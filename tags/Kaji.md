@@ -1,3 +1,8 @@
+## 20240210
+- [Kagi Small Web](https://kagi.com/smallweb) | [Counting blog posts in 50 simple steps](https://jmglov.net/blog/2024-02-09-counting-blog-posts.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Reliability stuff worth reading](https://rachelbythebay.com/w/2022/11/18/mc/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Should I get an Evolution???](https://austinmeyer.com/should-i-get-an-evolution/)
+
 ## 20240209
 - [Kagi Small Web](https://kagi.com/smallweb) | [Back in the hammock again](https://jmglov.net/blog/2024-02-08-back-in-the-hammock-again.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [How to remove Dalle-3 Content Credentials](https://www.timboucher.ca/2024/02/how-to-remove-dalle-3-content-credentials/)

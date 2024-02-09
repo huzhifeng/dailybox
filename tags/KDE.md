@@ -1,3 +1,6 @@
+## 20240210
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-06](https://ervin.ipsquad.net/blog/2024/02/09/web-review-week-2024-06/?utm_source=atom_feed)
+
 ## 20240208
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 12.0.2 released](https://www.qt.io/blog/qt-creator-12.0.2-released?utm_source=atom_feed)
 

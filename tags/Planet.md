@@ -1,3 +1,8 @@
+## 20240210
+- [Planet GNOME](https://planet.gnome.org/) | [New and old apps on Flathub](https://www.hadess.net/2024/02/new-and-old-apps-on-flathub.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-06](https://ervin.ipsquad.net/blog/2024/02/09/web-review-week-2024-06/?utm_source=atom_feed)
+
 ## 20240209
 - [Planet GNOME](https://planet.gnome.org/) | [Gameeky released](https://blogs.gnome.org/tchx84/2024/02/08/gameeky-released/)
 
