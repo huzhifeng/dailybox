@@ -1,3 +1,9 @@
+## 20240211
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.115 Improves Copy/Move of Large Number of Files](https://9to5linux.com/kde-frameworks-5-115-improves-copy-move-of-large-number-of-files)
+- [Planet KDE](https://planet.kde.org/) | [Plucker/Palm support removed from Okular for 24.05](https://tsdgeos.blogspot.com/2024/02/pluckerpalm-support-removed-from-okular.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [FOSDEM 2024 and Open Public Transport Routing](https://www.volkerkrause.eu/2024/02/10/fosdem-2024-open-public-transport-routing.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/?utm_source=atom_feed)
+
 ## 20240210
 - [9to5Linux](https://9to5linux.com/) | [Fedora Project Announces Fedora Atomic Desktops for Immutable Fedora Spins](https://9to5linux.com/fedora-project-announces-fedora-atomic-desktops-for-immutable-fedora-spins)
 - [Planet GNOME](https://planet.gnome.org/) | [New and old apps on Flathub](https://www.hadess.net/2024/02/new-and-old-apps-on-flathub.html)

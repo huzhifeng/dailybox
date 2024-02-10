@@ -1,3 +1,6 @@
+## 20240211
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.115 Improves Copy/Move of Large Number of Files](https://9to5linux.com/kde-frameworks-5-115-improves-copy-move-of-large-number-of-files)
+
 ## 20240210
 - [9to5Linux](https://9to5linux.com/) | [Fedora Project Announces Fedora Atomic Desktops for Immutable Fedora Spins](https://9to5linux.com/fedora-project-announces-fedora-atomic-desktops-for-immutable-fedora-spins)
 

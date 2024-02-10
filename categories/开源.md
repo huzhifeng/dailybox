@@ -1,3 +1,8 @@
+## 20240211
+- [Planet KDE](https://planet.kde.org/) | [Plucker/Palm support removed from Okular for 24.05](https://tsdgeos.blogspot.com/2024/02/pluckerpalm-support-removed-from-okular.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [FOSDEM 2024 and Open Public Transport Routing](https://www.volkerkrause.eu/2024/02/10/fosdem-2024-open-public-transport-routing.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/?utm_source=atom_feed)
+
 ## 20240210
 - [Planet GNOME](https://planet.gnome.org/) | [New and old apps on Flathub](https://www.hadess.net/2024/02/new-and-old-apps-on-flathub.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/)

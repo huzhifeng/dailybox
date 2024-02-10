@@ -1,3 +1,7 @@
+## 20240211
+- [Product Hunt](https://www.producthunt.com) | [Figicon](https://www.producthunt.com/posts/figicon)
+- [Product Hunt](https://www.producthunt.com) | [Hey.bio](https://www.producthunt.com/posts/hey-bio)
+
 ## 20240210
 - [Product Hunt](https://www.producthunt.com) | [Capitol AI](https://www.producthunt.com/posts/capitol-ai)
 - [Product Hunt](https://www.producthunt.com) | [Rizzle AI](https://www.producthunt.com/posts/rizzle-ai-2)
