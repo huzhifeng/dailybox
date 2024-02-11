@@ -1,3 +1,8 @@
+## 20240212
+- [V2EX](https://www.v2ex.com/) | [有没有非智能电视？](https://www.v2ex.com/t/1015354)
+- [V2EX](https://www.v2ex.com/) | [安卓输入法的多语言切换怎么才能更丝滑一点？](https://www.v2ex.com/t/1015349)
+- [V2EX](https://www.v2ex.com/) | [养老保险最低一千](https://www.v2ex.com/t/1015333)
+
 ## 20240211
 - [V2EX](https://www.v2ex.com/) | [请问送男生什么礼物比较好，价格 300 以内](https://www.v2ex.com/t/1015280)
 - [V2EX](https://www.v2ex.com/) | [老人看电视方案？](https://www.v2ex.com/t/1015265)

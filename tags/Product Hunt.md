@@ -1,3 +1,8 @@
+## 20240212
+- [Product Hunt](https://www.producthunt.com) | [WordHoop](https://www.producthunt.com/posts/wordhoop)
+- [Product Hunt](https://www.producthunt.com) | [easybranding.io](https://www.producthunt.com/posts/easybranding-io)
+- [Product Hunt](https://www.producthunt.com) | [RelaGit](https://www.producthunt.com/posts/relagit)
+
 ## 20240211
 - [Product Hunt](https://www.producthunt.com) | [Figicon](https://www.producthunt.com/posts/figicon)
 - [Product Hunt](https://www.producthunt.com) | [Hey.bio](https://www.producthunt.com/posts/hey-bio)

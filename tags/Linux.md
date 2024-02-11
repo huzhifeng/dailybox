@@ -1,3 +1,8 @@
+## 20240212
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7.3 Open-Source Video Transcoder Released with Linux Fixes](https://9to5linux.com/handbrake-1-7-3-open-source-video-transcoder-released-with-linux-fixes)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 9.7 Open-Source File Archiver Utility Adds Native ARM64 Linux Support](https://9to5linux.com/peazip-9-7-open-source-file-archiver-utility-adds-native-arm64-linux-support)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.5 “Bookworm” Released with 68 Bug Fixes and 42 Security Updates](https://9to5linux.com/debian-12-5-bookworm-released-with-68-bug-fixes-and-42-security-updates)
+
 ## 20240211
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 5.115 Improves Copy/Move of Large Number of Files](https://9to5linux.com/kde-frameworks-5-115-improves-copy-move-of-large-number-of-files)
 - [Planet KDE](https://planet.kde.org/) | [Plucker/Palm support removed from Okular for 24.05](https://tsdgeos.blogspot.com/2024/02/pluckerpalm-support-removed-from-okular.html?utm_source=atom_feed)

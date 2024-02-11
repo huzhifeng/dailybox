@@ -1,3 +1,8 @@
+## 20240212
+- [BlogFinder](https://bf.zzxworld.com/) | [年味越来越淡，没有感觉](https://lhasa.icu/22211Records.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [第一届 TomyWeb 口令红包大赛(误](https://blog.tomys.top/2024-02/redpackchallenge/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [使用 Vercel 免费部署 LobeChat](https://yinji.org/5244.html?utm_source=blogfinder)
+
 ## 20240211
 - [BlogFinder](https://bf.zzxworld.com/) | [千祥云集庆有余 万福骈臻贺新春](https://pinlyu.com/posts/85/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [【图片】过年](https://www.dmxvx.cc/785.html?utm_source=blogfinder)

@@ -1,3 +1,8 @@
+## 20240212
+- [Kagi Small Web](https://kagi.com/smallweb) | [The real Donald Trump is losing it](https://jabberwocking.com/the-real-donald-trump-is-losing-it/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Unlocking A Bestseller: Million Dollar Weekend by Noah Kagan](https://www.charliehoehn.com/2024/02/11/million-dollar-weekend-noah-kagan/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Cancel vs subscribe 2024](https://blog.usmanity.com/cancel-vs-subscribe-2024/)
+
 ## 20240210
 - [Kagi Small Web](https://kagi.com/smallweb) | [Counting blog posts in 50 simple steps](https://jmglov.net/blog/2024-02-09-counting-blog-posts.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reliability stuff worth reading](https://rachelbythebay.com/w/2022/11/18/mc/)
