@@ -1,3 +1,7 @@
+## 20240212
+- [diff.blog](https://diff.blog/) | [Finding a New Software Developer Job](https://diff.blog/post/finding-a-new-software-developer-job-169249/)
+- [diff.blog](https://diff.blog/) | [Minimal Linux Bootloader debugging story 🐞](https://diff.blog/post/minimal-linux-bootloader-debugging-story-169226/)
+
 ## 20240209
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.76.0](https://diff.blog/post/announcing-rust-1760-168941/)
 - [diff.blog](https://diff.blog/) | [11 ways to convince yourself to start something (when you really don't want to)](https://diff.blog/post/11-ways-to-convince-yourself-to-start-something-when-you-really-dont-want-to-168954/)

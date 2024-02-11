@@ -1,3 +1,6 @@
+## 20240212
+- [Hacker News](https://news.ycombinator.com/front) | [I designed a cube that balances itself on a corner](https://news.ycombinator.com/item?id=39336139)
+
 ## 20240210
 - [Hacker News](https://news.ycombinator.com/front) | [Add coffee stains to LaTeX documents (2021)](https://news.ycombinator.com/item?id=39316193)
 - [Hacker News](https://news.ycombinator.com/front) | [Permutation City (1994)](https://news.ycombinator.com/item?id=39313696)
