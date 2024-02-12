@@ -1,3 +1,8 @@
+## 20240213
+- [Kagi Small Web](https://kagi.com/smallweb) | [Boring boring Arsenal](https://jmglov.net/blog/2024-02-12-boring-boring-arsenal.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Going Mobile! SpaceX-lobbed Tesla Due for Speeding Ticket](https://www.LeonardDavid.com/going-mobile-spacex-lobbed-tesla-due-for-speeding-ticket/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [2005](https://56k-modem.online/post/742151134905548800)
+
 ## 20240212
 - [Kagi Small Web](https://kagi.com/smallweb) | [The real Donald Trump is losing it](https://jabberwocking.com/the-real-donald-trump-is-losing-it/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Unlocking A Bestseller: Million Dollar Weekend by Noah Kagan](https://www.charliehoehn.com/2024/02/11/million-dollar-weekend-noah-kagan/)

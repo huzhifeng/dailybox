@@ -1,3 +1,7 @@
+## 20240213
+- [Red Hat Developer](https://developers.redhat.com/) | [Debug ACPI issues in Windows virtual machines on RHEL](https://developers.redhat.com/articles/2024/02/12/debug-acpi-issues-windows-virtual-machines-rhel)
+- [Red Hat Developer](https://developers.redhat.com/) | [Getting started with the Red Hat build of Keycloak 22](https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22)
+
 ## 20240209
 - [Red Hat Developer](https://developers.redhat.com/) | [How to visualize your OpenSCAP compliance reports](https://developers.redhat.com/articles/2024/02/08/how-visualize-your-openscap-compliance-reports)
 

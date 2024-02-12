@@ -1,3 +1,8 @@
+## 20240213
+- [Hacker News](https://news.ycombinator.com/front) | [Cloudflare defeats patent troll Sable at trial](https://news.ycombinator.com/item?id=39344956)
+- [Hacker News](https://news.ycombinator.com/front) | [AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://news.ycombinator.com/item?id=39344815)
+- [Hacker News](https://news.ycombinator.com/front) | [Should toggle button show its current state or the state to which it'll change? (2010)](https://news.ycombinator.com/item?id=39342649)
+
 ## 20240212
 - [Hacker News](https://news.ycombinator.com/front) | [I designed a cube that balances itself on a corner](https://news.ycombinator.com/item?id=39336139)
 

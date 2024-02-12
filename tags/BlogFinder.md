@@ -1,3 +1,8 @@
+## 20240213
+- [BlogFinder](https://bf.zzxworld.com/) | [宝塔面板登录引发报错：kernel python3 error:0 in libstdc++.so.6.0.19](https://woolio.cn/%e5%ae%9d%e5%a1%94%e9%9d%a2%e6%9d%bf%e7%99%bb%e5%bd%95%e5%bc%95%e5%8f%91%e6%8a%a5%e9%94%99%ef%bc%9akernel-python3-error0-in-libstdc-so-6-0-19/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [《繁花》落幕，仔细回味爷叔21条上头的金句](https://www.dhkk.cn/archives/1179?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [热辣滚烫：优缺点明显的春节档票房冠军](https://pinlyu.com/posts/86/?utm_source=blogfinder)
+
 ## 20240212
 - [BlogFinder](https://bf.zzxworld.com/) | [年味越来越淡，没有感觉](https://lhasa.icu/22211Records.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [第一届 TomyWeb 口令红包大赛(误](https://blog.tomys.top/2024-02/redpackchallenge/?utm_source=blogfinder)

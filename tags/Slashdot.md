@@ -1,3 +1,7 @@
+## 20240213
+- [Slashdot](https://linux.slashdot.org/) | ['Damn Small Linux' is Back - But Bigger](https://linux.slashdot.org/story/24/02/11/2049252/damn-small-linux-is-back---but-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [California Bill Would Require Computer Science For High School Graduation](https://news.slashdot.org/story/24/02/11/2247207/california-bill-would-require-computer-science-for-high-school-graduation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240211
 - [Slashdot](https://developers.slashdot.org/) | [Microsoft Relents, Will Support VS Code On Ubuntu 18.04 For One More Year](https://developers.slashdot.org/story/24/02/10/051239/microsoft-relents-will-support-vs-code-on-ubuntu-1804-for-one-more-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
