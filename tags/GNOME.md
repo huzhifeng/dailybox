@@ -1,3 +1,6 @@
+## 20240213
+- [Planet GNOME](https://planet.gnome.org/) | [Newsflash 3.1](https://blogs.gnome.org/jangernert/2024/02/12/newsflash-3-1/)
+
 ## 20240210
 - [Planet GNOME](https://planet.gnome.org/) | [New and old apps on Flathub](https://www.hadess.net/2024/02/new-and-old-apps-on-flathub.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/)

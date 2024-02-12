@@ -1,3 +1,8 @@
+## 20240213
+- [Product Hunt](https://www.producthunt.com) | [Gooday](https://www.producthunt.com/posts/gooday)
+- [Product Hunt](https://www.producthunt.com) | [Radical Design](https://www.producthunt.com/posts/radical-design)
+- [Product Hunt](https://www.producthunt.com) | [Plus AI for Google Docs](https://www.producthunt.com/posts/plus-ai-for-google-docs)
+
 ## 20240212
 - [Product Hunt](https://www.producthunt.com) | [WordHoop](https://www.producthunt.com/posts/wordhoop)
 - [Product Hunt](https://www.producthunt.com) | [easybranding.io](https://www.producthunt.com/posts/easybranding-io)

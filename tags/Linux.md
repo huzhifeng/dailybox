@@ -1,3 +1,13 @@
+## 20240213
+- [Red Hat Developer](https://developers.redhat.com/) | [Debug ACPI issues in Windows virtual machines on RHEL](https://developers.redhat.com/articles/2024/02/12/debug-acpi-issues-windows-virtual-machines-rhel)
+- [Red Hat Developer](https://developers.redhat.com/) | [Getting started with the Red Hat build of Keycloak 22](https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22)
+- [9to5Linux](https://9to5linux.com/) | [UBports Is Switching to a Fixed-Release Model for Ubuntu Touch OTA Updates](https://9to5linux.com/ubports-is-switching-to-a-fixed-release-model-for-ubuntu-touch-ota-updates)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2024.02 Improves CLI Installer, Adds More Debian Trixie Updates](https://9to5linux.com/sparkylinux-2024-02-improves-cli-installer-adds-more-debian-trixie-updates)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-11th-2024)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [vDPA: support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+- [Planet GNOME](https://planet.gnome.org/) | [Newsflash 3.1](https://blogs.gnome.org/jangernert/2024/02/12/newsflash-3-1/)
+- [Slashdot](https://linux.slashdot.org/) | ['Damn Small Linux' is Back - But Bigger](https://linux.slashdot.org/story/24/02/11/2049252/damn-small-linux-is-back---but-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240212
 - [9to5Linux](https://9to5linux.com/) | [HandBrake 1.7.3 Open-Source Video Transcoder Released with Linux Fixes](https://9to5linux.com/handbrake-1-7-3-open-source-video-transcoder-released-with-linux-fixes)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 9.7 Open-Source File Archiver Utility Adds Native ARM64 Linux Support](https://9to5linux.com/peazip-9-7-open-source-file-archiver-utility-adds-native-arm64-linux-support)

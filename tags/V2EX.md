@@ -1,3 +1,8 @@
+## 20240213
+- [V2EX](https://www.v2ex.com/) | [技术人的目标和终点在哪里?](https://www.v2ex.com/t/1015421)
+- [V2EX](https://www.v2ex.com/) | [有没有人能说一下建造类游戏的趣味性？](https://www.v2ex.com/t/1015401)
+- [V2EX](https://www.v2ex.com/) | [不想回家了](https://www.v2ex.com/t/1015395)
+
 ## 20240212
 - [V2EX](https://www.v2ex.com/) | [有没有非智能电视？](https://www.v2ex.com/t/1015354)
 - [V2EX](https://www.v2ex.com/) | [安卓输入法的多语言切换怎么才能更丝滑一点？](https://www.v2ex.com/t/1015349)

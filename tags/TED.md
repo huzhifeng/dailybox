@@ -1,3 +1,6 @@
+## 20240213
+- [TED Talks Daily](https://www.ted.com/talks) | [Life's an obstacle course — here's how to navigate it | Maryam Banikarim](https://www.ted.com/talks/maryam_banikarim_life_s_an_obstacle_course_here_s_how_to_navigate_it?rss)
+
 ## 20240210
 - [TED Talks Daily](https://www.ted.com/talks) | ["Atalanta" |  The Merian Ensemble](https://www.ted.com/talks/the_merian_ensemble_atalanta?rss)
 

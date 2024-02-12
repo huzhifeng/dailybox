@@ -1,3 +1,6 @@
+## 20240213
+- [It's FOSS](https://itsfoss.com/) | [Using a USB Serial Adapter (UART) to Help Debug Your Raspberry Pi](https://itsfoss.com/use-uart-raspberry-pi/)
+
 ## 20240209
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/)
 
