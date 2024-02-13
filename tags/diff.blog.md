@@ -1,3 +1,8 @@
+## 20240214
+- [diff.blog](https://diff.blog/) | [Memory and new controls for ChatGPT](https://diff.blog/post/memory-and-new-controls-for-chatgpt-169501/)
+- [diff.blog](https://diff.blog/) | [How To Center a Div](https://diff.blog/post/how-to-center-a-div-169504/)
+- [diff.blog](https://diff.blog/) | [Routing Enhancements for Go 1.22](https://diff.blog/post/routing-enhancements-for-go-122-169468/)
+
 ## 20240212
 - [diff.blog](https://diff.blog/) | [Finding a New Software Developer Job](https://diff.blog/post/finding-a-new-software-developer-job-169249/)
 - [diff.blog](https://diff.blog/) | [Minimal Linux Bootloader debugging story 🐞](https://diff.blog/post/minimal-linux-bootloader-debugging-story-169226/)

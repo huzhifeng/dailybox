@@ -1,3 +1,6 @@
+## 20240214
+- [9to5Linux](https://9to5linux.com/) | [IPFire Hardened Linux Firewall Distro Is Now Powered by Linux Kernel 6.6 LTS](https://9to5linux.com/ipfire-hardened-linux-firewall-distro-is-now-powered-by-linux-kernel-6-6-lts)
+
 ## 20240213
 - [9to5Linux](https://9to5linux.com/) | [UBports Is Switching to a Fixed-Release Model for Ubuntu Touch OTA Updates](https://9to5linux.com/ubports-is-switching-to-a-fixed-release-model-for-ubuntu-touch-ota-updates)
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2024.02 Improves CLI Installer, Adds More Debian Trixie Updates](https://9to5linux.com/sparkylinux-2024-02-improves-cli-installer-adds-more-debian-trixie-updates)

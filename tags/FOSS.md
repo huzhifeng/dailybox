@@ -1,3 +1,6 @@
+## 20240214
+- [It's FOSS](https://itsfoss.com/) | [Cut Command Examples](https://itsfoss.com/cut-command/)
+
 ## 20240213
 - [It's FOSS](https://itsfoss.com/) | [Using a USB Serial Adapter (UART) to Help Debug Your Raspberry Pi](https://itsfoss.com/use-uart-raspberry-pi/)
 

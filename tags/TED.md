@@ -1,3 +1,6 @@
+## 20240214
+- [TED Talks Daily](https://www.ted.com/talks) | [How sci-fi informs our climate future — and what to do next | Zainab Usman](https://www.ted.com/talks/zainab_usman_how_sci_fi_informs_our_climate_future_and_what_to_do_next?rss)
+
 ## 20240213
 - [TED Talks Daily](https://www.ted.com/talks) | [Life's an obstacle course — here's how to navigate it | Maryam Banikarim](https://www.ted.com/talks/maryam_banikarim_life_s_an_obstacle_course_here_s_how_to_navigate_it?rss)
 

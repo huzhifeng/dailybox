@@ -1,3 +1,8 @@
+## 20240214
+- [Hacker News](https://news.ycombinator.com/front) | [Stable Cascade](https://news.ycombinator.com/item?id=39360106)
+- [Hacker News](https://news.ycombinator.com/front) | [Is something bugging you?](https://news.ycombinator.com/item?id=39356920)
+- [Hacker News](https://news.ycombinator.com/front) | [The Catalogue of UK Entrances to Hell (2002)](https://news.ycombinator.com/item?id=39356066)
+
 ## 20240213
 - [Hacker News](https://news.ycombinator.com/front) | [Cloudflare defeats patent troll Sable at trial](https://news.ycombinator.com/item?id=39344956)
 - [Hacker News](https://news.ycombinator.com/front) | [AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://news.ycombinator.com/item?id=39344815)

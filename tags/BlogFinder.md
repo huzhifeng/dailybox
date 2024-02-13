@@ -1,3 +1,8 @@
+## 20240214
+- [BlogFinder](https://bf.zzxworld.com/) | [一枚螺丝引发的错误：记显示器无信号的故障修复](https://woolio.cn/%e4%b8%80%e6%9e%9a%e8%9e%ba%e4%b8%9d%e5%bc%95%e5%8f%91%e7%9a%84%e9%94%99%e8%af%af%ef%bc%9a%e8%ae%b0%e6%98%be%e7%a4%ba%e5%99%a8%e6%97%a0%e4%bf%a1%e5%8f%b7%e7%9a%84%e6%95%85%e9%9a%9c%e4%bf%ae%e5%a4%8d/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [数字游民双周报 #5 龙年春节](https://innomad.io/digital-nomad-log-5?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Fuze Tea](https://kaffa.im/fuze-tea.html?utm_source=blogfinder)
+
 ## 20240213
 - [BlogFinder](https://bf.zzxworld.com/) | [宝塔面板登录引发报错：kernel python3 error:0 in libstdc++.so.6.0.19](https://woolio.cn/%e5%ae%9d%e5%a1%94%e9%9d%a2%e6%9d%bf%e7%99%bb%e5%bd%95%e5%bc%95%e5%8f%91%e6%8a%a5%e9%94%99%ef%bc%9akernel-python3-error0-in-libstdc-so-6-0-19/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [《繁花》落幕，仔细回味爷叔21条上头的金句](https://www.dhkk.cn/archives/1179?utm_source=blogfinder)
