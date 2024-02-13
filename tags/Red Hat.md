@@ -1,3 +1,6 @@
+## 20240214
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external SQL Server database](https://developers.redhat.com/articles/2024/02/13/connect-quarkus-app-external-sql-server-database)
+
 ## 20240213
 - [Red Hat Developer](https://developers.redhat.com/) | [Debug ACPI issues in Windows virtual machines on RHEL](https://developers.redhat.com/articles/2024/02/12/debug-acpi-issues-windows-virtual-machines-rhel)
 - [Red Hat Developer](https://developers.redhat.com/) | [Getting started with the Red Hat build of Keycloak 22](https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22)

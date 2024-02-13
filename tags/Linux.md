@@ -1,3 +1,7 @@
+## 20240214
+- [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external SQL Server database](https://developers.redhat.com/articles/2024/02/13/connect-quarkus-app-external-sql-server-database)
+- [9to5Linux](https://9to5linux.com/) | [IPFire Hardened Linux Firewall Distro Is Now Powered by Linux Kernel 6.6 LTS](https://9to5linux.com/ipfire-hardened-linux-firewall-distro-is-now-powered-by-linux-kernel-6-6-lts)
+
 ## 20240213
 - [Red Hat Developer](https://developers.redhat.com/) | [Debug ACPI issues in Windows virtual machines on RHEL](https://developers.redhat.com/articles/2024/02/12/debug-acpi-issues-windows-virtual-machines-rhel)
 - [Red Hat Developer](https://developers.redhat.com/) | [Getting started with the Red Hat build of Keycloak 22](https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22)

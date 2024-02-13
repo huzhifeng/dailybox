@@ -1,3 +1,8 @@
+## 20240214
+- [V2EX](https://www.v2ex.com/) | [怎么远程让微信号永久封禁](https://www.v2ex.com/t/1015525)
+- [V2EX](https://www.v2ex.com/) | [有没有选择抵制 jakarta 坚守 javax 的？](https://www.v2ex.com/t/1015516)
+- [V2EX](https://www.v2ex.com/) | [老家买房抉择求助](https://www.v2ex.com/t/1015514)
+
 ## 20240213
 - [V2EX](https://www.v2ex.com/) | [技术人的目标和终点在哪里?](https://www.v2ex.com/t/1015421)
 - [V2EX](https://www.v2ex.com/) | [有没有人能说一下建造类游戏的趣味性？](https://www.v2ex.com/t/1015401)

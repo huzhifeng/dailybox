@@ -1,3 +1,8 @@
+## 20240214
+- [Kagi Small Web](https://kagi.com/smallweb) | [Playing on the Babashka playground](https://jmglov.net/blog/2024-02-13-bb-playground.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Come Build/Play a Game with Me Next Week](https://www.raymondcamden.com/2024/02/13/come-buildplay-a-game-with-me-next-week)
+- [Kagi Small Web](https://kagi.com/smallweb) | [why keep an inspiration log: the practice of psychic nourishment](https://keningzhu.com/journal/why-keep-an-inspiration-log)
+
 ## 20240213
 - [Kagi Small Web](https://kagi.com/smallweb) | [Boring boring Arsenal](https://jmglov.net/blog/2024-02-12-boring-boring-arsenal.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Going Mobile! SpaceX-lobbed Tesla Due for Speeding Ticket](https://www.LeonardDavid.com/going-mobile-spacex-lobbed-tesla-due-for-speeding-ticket/)
