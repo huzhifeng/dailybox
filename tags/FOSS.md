@@ -1,3 +1,6 @@
+## 20240215
+- [It's FOSS](https://itsfoss.com/) | [Intel Processor Naming Changes: All You Need to Know](https://itsfoss.com/intel-processor-naming/)
+
 ## 20240214
 - [It's FOSS](https://itsfoss.com/) | [Cut Command Examples](https://itsfoss.com/cut-command/)
 

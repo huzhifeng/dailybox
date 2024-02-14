@@ -1,3 +1,6 @@
+## 20240215
+- [TED Talks Daily](https://www.ted.com/talks) | [An Israeli and a Palestinian talk peace, dignity and safety | Ali Abu Awwad and Ami Dar](https://www.ted.com/talks/ali_abu_awwad_and_ami_dar_an_israeli_and_a_palestinian_talk_peace_dignity_and_safety?rss)
+
 ## 20240214
 - [TED Talks Daily](https://www.ted.com/talks) | [How sci-fi informs our climate future — and what to do next | Zainab Usman](https://www.ted.com/talks/zainab_usman_how_sci_fi_informs_our_climate_future_and_what_to_do_next?rss)
 

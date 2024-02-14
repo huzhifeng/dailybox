@@ -1,3 +1,7 @@
+## 20240215
+- [Hacker News](https://news.ycombinator.com/front) | [Freenginx: Core Nginx developer announces fork](https://news.ycombinator.com/item?id=39373327)
+- [Hacker News](https://news.ycombinator.com/front) | [European Court of Human Rights bans weakening of secure end-to-end encryption](https://news.ycombinator.com/item?id=39369653)
+
 ## 20240214
 - [Hacker News](https://news.ycombinator.com/front) | [Stable Cascade](https://news.ycombinator.com/item?id=39360106)
 - [Hacker News](https://news.ycombinator.com/front) | [Is something bugging you?](https://news.ycombinator.com/item?id=39356920)

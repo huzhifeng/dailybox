@@ -1,3 +1,8 @@
+## 20240215
+- [BlogFinder](https://bf.zzxworld.com/) | [【日记】在外冲浪时候被吓](https://www.dmxvx.cc/797.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [年味淡了](https://dujun.io/1720.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [正月里的碎碎念：我又在思考人生了](http://hi-nikola.cn/2024/02/15/%E6%AD%A3%E6%9C%88%E9%87%8C%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5%EF%BC%9A%E6%88%91%E5%8F%88%E5%9C%A8%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F%E4%BA%86/?utm_source=blogfinder)
+
 ## 20240214
 - [BlogFinder](https://bf.zzxworld.com/) | [一枚螺丝引发的错误：记显示器无信号的故障修复](https://woolio.cn/%e4%b8%80%e6%9e%9a%e8%9e%ba%e4%b8%9d%e5%bc%95%e5%8f%91%e7%9a%84%e9%94%99%e8%af%af%ef%bc%9a%e8%ae%b0%e6%98%be%e7%a4%ba%e5%99%a8%e6%97%a0%e4%bf%a1%e5%8f%b7%e7%9a%84%e6%95%85%e9%9a%9c%e4%bf%ae%e5%a4%8d/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [数字游民双周报 #5 龙年春节](https://innomad.io/digital-nomad-log-5?utm_source=blogfinder)

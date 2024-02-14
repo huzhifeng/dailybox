@@ -1,3 +1,7 @@
+## 20240215
+- [Product Hunt](https://www.producthunt.com) | [Vault by Modernbanc](https://www.producthunt.com/posts/vault-by-modernbanc)
+- [Product Hunt](https://www.producthunt.com) | [Fixkey](https://www.producthunt.com/posts/fixkey)
+
 ## 20240214
 - [Product Hunt](https://www.producthunt.com) | [Visme AI Designer](https://www.producthunt.com/posts/visme-ai-designer)
 - [Product Hunt](https://www.producthunt.com) | [Contentrain](https://www.producthunt.com/posts/contentrain-2)
