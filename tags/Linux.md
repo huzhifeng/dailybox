@@ -1,3 +1,8 @@
+## 20240215
+- [Red Hat Developer](https://developers.redhat.com/) | [A deep dive into Stakater's Multi-Tenant Operator](https://developers.redhat.com/articles/2024/02/14/deep-dive-stakaters-multi-tenant-operator)
+- [Red Hat Developer](https://developers.redhat.com/) | [Intel GPUs and OVMS: A winning combination for deep learning efficiency](https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6.1 Released](https://www.qt.io/blog/qt-for-mcus-2.6.1-released?utm_source=atom_feed)
+
 ## 20240214
 - [Red Hat Developer](https://developers.redhat.com/) | [Connect a Quarkus app to an external SQL Server database](https://developers.redhat.com/articles/2024/02/13/connect-quarkus-app-external-sql-server-database)
 - [9to5Linux](https://9to5linux.com/) | [IPFire Hardened Linux Firewall Distro Is Now Powered by Linux Kernel 6.6 LTS](https://9to5linux.com/ipfire-hardened-linux-firewall-distro-is-now-powered-by-linux-kernel-6-6-lts)

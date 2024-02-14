@@ -1,3 +1,6 @@
+## 20240215
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6.1 Released](https://www.qt.io/blog/qt-for-mcus-2.6.1-released?utm_source=atom_feed)
+
 ## 20240213
 - [Planet virt-tools](https://planet.virt-tools.org/) | [vDPA: support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
 - [Planet GNOME](https://planet.gnome.org/) | [Newsflash 3.1](https://blogs.gnome.org/jangernert/2024/02/12/newsflash-3-1/)

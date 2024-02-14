@@ -1,3 +1,7 @@
+## 20240215
+- [diff.blog](https://diff.blog/) | [YC's latest Request for Startups](https://diff.blog/post/ycs-latest-request-for-startups-169556/)
+- [diff.blog](https://diff.blog/) | [Disrupting malicious uses of AI by state-affiliated threat actors](https://diff.blog/post/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors-169546/)
+
 ## 20240214
 - [diff.blog](https://diff.blog/) | [Memory and new controls for ChatGPT](https://diff.blog/post/memory-and-new-controls-for-chatgpt-169501/)
 - [diff.blog](https://diff.blog/) | [How To Center a Div](https://diff.blog/post/how-to-center-a-div-169504/)
