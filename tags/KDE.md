@@ -1,3 +1,8 @@
+## 20240216
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta released](https://www.qt.io/blog/qt-creator-13-beta-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Optimizing Embedded Product Design](https://www.kdab.com/optimizing-embedded-product-design-the-case-for-off-the-shelf-board/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.5](https://kde.org/announcements/gear/23.08.5/?utm_source=atom_feed)
+
 ## 20240215
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.6.1 Released](https://www.qt.io/blog/qt-for-mcus-2.6.1-released?utm_source=atom_feed)
 

@@ -1,3 +1,6 @@
+## 20240216
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS](https://developers.redhat.com/articles/2024/02/15/automate-jboss-web-server-6-deployment-red-hat-ansible-certified-content)
+
 ## 20240215
 - [Red Hat Developer](https://developers.redhat.com/) | [A deep dive into Stakater's Multi-Tenant Operator](https://developers.redhat.com/articles/2024/02/14/deep-dive-stakaters-multi-tenant-operator)
 - [Red Hat Developer](https://developers.redhat.com/) | [Intel GPUs and OVMS: A winning combination for deep learning efficiency](https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency)

@@ -1,3 +1,7 @@
+## 20240216
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS “Noble Numbat” Wallpaper Competition Opens for Entries](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-wallpaper-competition-opens-for-entries)
+- [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Saturn Linux Laptop with Ubuntu and NVIDIA RTX 4070](https://9to5linux.com/juno-computers-launches-saturn-linux-laptop-with-ubuntu-and-nvidia-rtx-4070)
+
 ## 20240214
 - [9to5Linux](https://9to5linux.com/) | [IPFire Hardened Linux Firewall Distro Is Now Powered by Linux Kernel 6.6 LTS](https://9to5linux.com/ipfire-hardened-linux-firewall-distro-is-now-powered-by-linux-kernel-6-6-lts)
 

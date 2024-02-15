@@ -1,3 +1,6 @@
+## 20240216
+- [Slashdot](https://linux.slashdot.org/) | [Asahi Linux Project's OpenGL Support On Apple Silicon Officially Surpasses Apple's](https://linux.slashdot.org/story/24/02/15/021216/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240213
 - [Slashdot](https://linux.slashdot.org/) | ['Damn Small Linux' is Back - But Bigger](https://linux.slashdot.org/story/24/02/11/2049252/damn-small-linux-is-back---but-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [California Bill Would Require Computer Science For High School Graduation](https://news.slashdot.org/story/24/02/11/2247207/california-bill-would-require-computer-science-for-high-school-graduation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
