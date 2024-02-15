@@ -1,3 +1,14 @@
+## 20240216
+- [Red Hat Developer](https://developers.redhat.com/) | [Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS](https://developers.redhat.com/articles/2024/02/15/automate-jboss-web-server-6-deployment-red-hat-ansible-certified-content)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS “Noble Numbat” Wallpaper Competition Opens for Entries](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-wallpaper-competition-opens-for-entries)
+- [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Saturn Linux Laptop with Ubuntu and NVIDIA RTX 4070](https://9to5linux.com/juno-computers-launches-saturn-linux-laptop-with-ubuntu-and-nvidia-rtx-4070)
+- [Planet GNOME](https://planet.gnome.org/) | [Bisecting Regressions in Fedora Silverblue](https://enblog.eischmann.cz/2024/02/15/bisecting-regressions-in-fedora-silverblue/)
+- [Planet GNOME](https://planet.gnome.org/) | [Boox Page: A Review](https://lu.is/2024/02/boox-page-a-review/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta released](https://www.qt.io/blog/qt-creator-13-beta-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Optimizing Embedded Product Design](https://www.kdab.com/optimizing-embedded-product-design-the-case-for-off-the-shelf-board/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 23.08.5](https://kde.org/announcements/gear/23.08.5/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Asahi Linux Project's OpenGL Support On Apple Silicon Officially Surpasses Apple's](https://linux.slashdot.org/story/24/02/15/021216/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240215
 - [Red Hat Developer](https://developers.redhat.com/) | [A deep dive into Stakater's Multi-Tenant Operator](https://developers.redhat.com/articles/2024/02/14/deep-dive-stakaters-multi-tenant-operator)
 - [Red Hat Developer](https://developers.redhat.com/) | [Intel GPUs and OVMS: A winning combination for deep learning efficiency](https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency)

@@ -1,3 +1,7 @@
+## 20240216
+- [Planet GNOME](https://planet.gnome.org/) | [Bisecting Regressions in Fedora Silverblue](https://enblog.eischmann.cz/2024/02/15/bisecting-regressions-in-fedora-silverblue/)
+- [Planet GNOME](https://planet.gnome.org/) | [Boox Page: A Review](https://lu.is/2024/02/boox-page-a-review/)
+
 ## 20240213
 - [Planet GNOME](https://planet.gnome.org/) | [Newsflash 3.1](https://blogs.gnome.org/jangernert/2024/02/12/newsflash-3-1/)
 

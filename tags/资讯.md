@@ -1,3 +1,6 @@
+## 20240216
+- [diff.blog](https://diff.blog/) | [Gemini 1.5: Our next-generation model, now available for Private Preview in Google AI Studio](https://diff.blog/post/gemini-15-our-next-generation-model-now-available-for-private-preview-in-google-ai-studio-169630/)
+
 ## 20240215
 - [diff.blog](https://diff.blog/) | [YC's latest Request for Startups](https://diff.blog/post/ycs-latest-request-for-startups-169556/)
 - [diff.blog](https://diff.blog/) | [Disrupting malicious uses of AI by state-affiliated threat actors](https://diff.blog/post/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors-169546/)

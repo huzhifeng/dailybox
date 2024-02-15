@@ -1,3 +1,7 @@
+## 20240216
+- [Hacker News](https://news.ycombinator.com/front) | [Sora: Creating video from text](https://news.ycombinator.com/item?id=39386156)
+- [Hacker News](https://news.ycombinator.com/front) | [Our next-generation model: Gemini 1.5](https://news.ycombinator.com/item?id=39383446)
+
 ## 20240215
 - [Hacker News](https://news.ycombinator.com/front) | [Freenginx: Core Nginx developer announces fork](https://news.ycombinator.com/item?id=39373327)
 - [Hacker News](https://news.ycombinator.com/front) | [European Court of Human Rights bans weakening of secure end-to-end encryption](https://news.ycombinator.com/item?id=39369653)

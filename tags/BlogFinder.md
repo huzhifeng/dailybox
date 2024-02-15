@@ -1,3 +1,8 @@
+## 20240216
+- [BlogFinder](https://bf.zzxworld.com/) | [重逢](https://blog.awumiao.org/922/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [湖畔幽悠](https://lhasa.icu/TheLakeIsVeryQuiet.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Google 表格函数获取实时汇率/股价](https://innomad.io/google-finance-in-google-sheets?utm_source=blogfinder)
+
 ## 20240215
 - [BlogFinder](https://bf.zzxworld.com/) | [【日记】在外冲浪时候被吓](https://www.dmxvx.cc/797.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [年味淡了](https://dujun.io/1720.html?utm_source=blogfinder)

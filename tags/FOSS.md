@@ -1,3 +1,6 @@
+## 20240216
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/)
+
 ## 20240215
 - [It's FOSS](https://itsfoss.com/) | [Intel Processor Naming Changes: All You Need to Know](https://itsfoss.com/intel-processor-naming/)
 

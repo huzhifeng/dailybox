@@ -1,3 +1,6 @@
+## 20240216
+- [TED Talks Daily](https://www.ted.com/talks) | [When you inform women, you transform lives | Paige Alexander](https://www.ted.com/talks/paige_alexander_when_you_inform_women_you_transform_lives?rss)
+
 ## 20240215
 - [TED Talks Daily](https://www.ted.com/talks) | [An Israeli and a Palestinian talk peace, dignity and safety | Ali Abu Awwad and Ami Dar](https://www.ted.com/talks/ali_abu_awwad_and_ami_dar_an_israeli_and_a_palestinian_talk_peace_dignity_and_safety?rss)
 

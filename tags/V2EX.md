@@ -1,3 +1,8 @@
+## 20240216
+- [V2EX](https://www.v2ex.com/) | [如何 0 基础到找到一份程序员工作？这个问题可能有点可笑](https://www.v2ex.com/t/1015757)
+- [V2EX](https://www.v2ex.com/) | [为什么 mpv 等很多软件使用 Lua 作为脚本语言，而不是更普及、门槛更低、性能更高（正文附来源）的 JavaScript？如果要给软件加入用户自己编写扩展的功能， Lua ...](https://www.v2ex.com/t/1015740)
+- [V2EX](https://www.v2ex.com/) | [超大型文件比较，内存不足，只能分页读区再匹配，但头都秃了，也没想到优化的方式，朋友们帮帮忙啊。](https://www.v2ex.com/t/1015733)
+
 ## 20240215
 - [V2EX](https://www.v2ex.com/) | [求推荐 iOS 天气 App](https://www.v2ex.com/t/1015639)
 - [V2EX](https://www.v2ex.com/) | [我的生命倒计时可能不足五年，我要如何高质量的过好剩余的每一天？](https://www.v2ex.com/t/1015627)
