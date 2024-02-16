@@ -1,3 +1,10 @@
+## 20240217
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4 Open-Source DJ Software Released with Major Changes](https://9to5linux.com/mixxx-2-4-open-source-dj-software-released-with-major-changes)
+- [Planet GNOME](https://planet.gnome.org/) | [Cambalache Gtk4 port goes beta!](https://blogs.gnome.org/xjuan/2024/02/16/cambalache-gtk4-port-goes-beta/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/02/2024](https://samthursfield.wordpress.com/2024/02/16/status-update-16-02-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-07](https://ervin.ipsquad.net/blog/2024/02/16/web-review-week-2024-07/?utm_source=atom_feed)
+
 ## 20240216
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS](https://developers.redhat.com/articles/2024/02/15/automate-jboss-web-server-6-deployment-red-hat-ansible-certified-content)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS “Noble Numbat” Wallpaper Competition Opens for Entries](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-wallpaper-competition-opens-for-entries)

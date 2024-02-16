@@ -1,3 +1,6 @@
+## 20240217
+- [Slashdot](https://developers.slashdot.org/) | [Nginx Core Developer Quits Project, Says He No Longer Sees Nginx as 'Free and Open Source Project For the Public Good'](https://developers.slashdot.org/story/24/02/16/164217/nginx-core-developer-quits-project-says-he-no-longer-sees-nginx-as-free-and-open-source-project-for-the-public-good?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240216
 - [Slashdot](https://linux.slashdot.org/) | [Asahi Linux Project's OpenGL Support On Apple Silicon Officially Surpasses Apple's](https://linux.slashdot.org/story/24/02/15/021216/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

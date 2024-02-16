@@ -1,3 +1,6 @@
+## 20240217
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4 Open-Source DJ Software Released with Major Changes](https://9to5linux.com/mixxx-2-4-open-source-dj-software-released-with-major-changes)
+
 ## 20240216
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS “Noble Numbat” Wallpaper Competition Opens for Entries](https://9to5linux.com/ubuntu-24-04-lts-noble-numbat-wallpaper-competition-opens-for-entries)
 - [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Saturn Linux Laptop with Ubuntu and NVIDIA RTX 4070](https://9to5linux.com/juno-computers-launches-saturn-linux-laptop-with-ubuntu-and-nvidia-rtx-4070)

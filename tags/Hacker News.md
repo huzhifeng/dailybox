@@ -1,3 +1,8 @@
+## 20240217
+- [Hacker News](https://news.ycombinator.com/front) | [My sixth year as a bootstrapped founder](https://news.ycombinator.com/item?id=39398009)
+- [Hacker News](https://news.ycombinator.com/front) | [Alexei Navalny has died](https://news.ycombinator.com/item?id=39395631)
+- [Hacker News](https://news.ycombinator.com/front) | [Think Python, 3rd Edition](https://news.ycombinator.com/item?id=39392881)
+
 ## 20240216
 - [Hacker News](https://news.ycombinator.com/front) | [Sora: Creating video from text](https://news.ycombinator.com/item?id=39386156)
 - [Hacker News](https://news.ycombinator.com/front) | [Our next-generation model: Gemini 1.5](https://news.ycombinator.com/item?id=39383446)

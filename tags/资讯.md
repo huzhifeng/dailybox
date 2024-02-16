@@ -1,3 +1,8 @@
+## 20240217
+- [diff.blog](https://diff.blog/) | [Popular git config options](https://diff.blog/post/popular-git-config-options-169708/)
+- [diff.blog](https://diff.blog/) | [If you’re just going to sit there doing nothing, at least do nothing correctly](https://diff.blog/post/if-youre-just-going-to-sit-there-doing-nothing-at-least-do-nothing-correctly-169709/)
+- [diff.blog](https://diff.blog/) | [Video generation models as world simulators](https://diff.blog/post/video-generation-models-as-world-simulators-169672/)
+
 ## 20240216
 - [diff.blog](https://diff.blog/) | [Gemini 1.5: Our next-generation model, now available for Private Preview in Google AI Studio](https://diff.blog/post/gemini-15-our-next-generation-model-now-available-for-private-preview-in-google-ai-studio-169630/)
 
