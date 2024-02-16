@@ -1,3 +1,6 @@
+## 20240217
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-07](https://ervin.ipsquad.net/blog/2024/02/16/web-review-week-2024-07/?utm_source=atom_feed)
+
 ## 20240216
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta released](https://www.qt.io/blog/qt-creator-13-beta-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Optimizing Embedded Product Design](https://www.kdab.com/optimizing-embedded-product-design-the-case-for-off-the-shelf-board/?utm_source=atom_feed)

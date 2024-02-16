@@ -1,3 +1,8 @@
+## 20240217
+- [Planet GNOME](https://planet.gnome.org/) | [Cambalache Gtk4 port goes beta!](https://blogs.gnome.org/xjuan/2024/02/16/cambalache-gtk4-port-goes-beta/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/02/2024](https://samthursfield.wordpress.com/2024/02/16/status-update-16-02-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
+
 ## 20240216
 - [Planet GNOME](https://planet.gnome.org/) | [Bisecting Regressions in Fedora Silverblue](https://enblog.eischmann.cz/2024/02/15/bisecting-regressions-in-fedora-silverblue/)
 - [Planet GNOME](https://planet.gnome.org/) | [Boox Page: A Review](https://lu.is/2024/02/boox-page-a-review/)
