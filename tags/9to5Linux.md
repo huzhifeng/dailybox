@@ -1,3 +1,8 @@
+## 20240218
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/gnome-46-desktop-environment-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Desktop Installer Will Be Updated with Accessibility Features](https://9to5linux.com/ubuntu-24-04-lts-desktop-installer-will-be-updated-with-accessibility-features)
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.6.1 Released with Performance Improvements and Bug Fixes](https://9to5linux.com/darktable-4-6-1-released-with-performance-improvements-and-bug-fixes)
+
 ## 20240217
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4 Open-Source DJ Software Released with Major Changes](https://9to5linux.com/mixxx-2-4-open-source-dj-software-released-with-major-changes)
 

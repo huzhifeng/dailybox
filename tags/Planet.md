@@ -1,3 +1,7 @@
+## 20240218
+- [Planet KDE](https://planet.kde.org/) | [Marco Arena's series on SObjectizer](https://cukic.co/2024/02/17/marco-sobjectizer/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/?utm_source=atom_feed)
+
 ## 20240217
 - [Planet GNOME](https://planet.gnome.org/) | [Cambalache Gtk4 port goes beta!](https://blogs.gnome.org/xjuan/2024/02/16/cambalache-gtk4-port-goes-beta/)
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/02/2024](https://samthursfield.wordpress.com/2024/02/16/status-update-16-02-2024/)
