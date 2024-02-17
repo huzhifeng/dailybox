@@ -1,3 +1,6 @@
+## 20240218
+- [Hacker News](https://news.ycombinator.com/front) | [Considerations for a long-running Raspberry Pi](https://news.ycombinator.com/item?id=39407631)
+
 ## 20240217
 - [Hacker News](https://news.ycombinator.com/front) | [My sixth year as a bootstrapped founder](https://news.ycombinator.com/item?id=39398009)
 - [Hacker News](https://news.ycombinator.com/front) | [Alexei Navalny has died](https://news.ycombinator.com/item?id=39395631)

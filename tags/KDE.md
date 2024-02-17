@@ -1,3 +1,7 @@
+## 20240218
+- [Planet KDE](https://planet.kde.org/) | [Marco Arena's series on SObjectizer](https://cukic.co/2024/02/17/marco-sobjectizer/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/?utm_source=atom_feed)
+
 ## 20240217
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-07](https://ervin.ipsquad.net/blog/2024/02/16/web-review-week-2024-07/?utm_source=atom_feed)
 

@@ -1,3 +1,10 @@
+## 20240218
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/gnome-46-desktop-environment-is-now-available-for-public-beta-testing)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Desktop Installer Will Be Updated with Accessibility Features](https://9to5linux.com/ubuntu-24-04-lts-desktop-installer-will-be-updated-with-accessibility-features)
+- [9to5Linux](https://9to5linux.com/) | [Darktable 4.6.1 Released with Performance Improvements and Bug Fixes](https://9to5linux.com/darktable-4-6-1-released-with-performance-improvements-and-bug-fixes)
+- [Planet KDE](https://planet.kde.org/) | [Marco Arena's series on SObjectizer](https://cukic.co/2024/02/17/marco-sobjectizer/index.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/?utm_source=atom_feed)
+
 ## 20240217
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4 Open-Source DJ Software Released with Major Changes](https://9to5linux.com/mixxx-2-4-open-source-dj-software-released-with-major-changes)
 - [Planet GNOME](https://planet.gnome.org/) | [Cambalache Gtk4 port goes beta!](https://blogs.gnome.org/xjuan/2024/02/16/cambalache-gtk4-port-goes-beta/)
