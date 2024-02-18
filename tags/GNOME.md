@@ -1,3 +1,6 @@
+## 20240219
+- [Planet GNOME](https://planet.gnome.org/) | [Rustifying libipuz: character sets](https://viruta.org/rustifying-libipuz-charset.html)
+
 ## 20240217
 - [Planet GNOME](https://planet.gnome.org/) | [Cambalache Gtk4 port goes beta!](https://blogs.gnome.org/xjuan/2024/02/16/cambalache-gtk4-port-goes-beta/)
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/02/2024](https://samthursfield.wordpress.com/2024/02/16/status-update-16-02-2024/)

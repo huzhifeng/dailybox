@@ -1,3 +1,8 @@
+## 20240219
+- [V2EX](https://www.v2ex.com/) | [各位怎么忍受 apple watch 一天一充的？](https://www.v2ex.com/t/1016281)
+- [V2EX](https://www.v2ex.com/) | [新买的 iPhone 15，吐槽一下这个极其极其不好用的 FaceID](https://www.v2ex.com/t/1016257)
+- [V2EX](https://www.v2ex.com/) | [安卓手机拍照有能跟 iPhone 媲美的吗](https://www.v2ex.com/t/1016248)
+
 ## 20240218
 - [V2EX](https://www.v2ex.com/) | [把结婚想太简单了，谈了 2 年的女朋友过年谈订婚谈崩了](https://www.v2ex.com/t/1016070)
 - [V2EX](https://www.v2ex.com/) | [孩子天天只想玩游戏，如何在路由器 openwrt 上屏蔽游戏和短视频网站](https://www.v2ex.com/t/1016005)

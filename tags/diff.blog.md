@@ -1,3 +1,6 @@
+## 20240219
+- [diff.blog](https://diff.blog/) | [FuturesUnordered and the order of futures](https://diff.blog/post/futuresunordered-and-the-order-of-futures-169790/)
+
 ## 20240217
 - [diff.blog](https://diff.blog/) | [Popular git config options](https://diff.blog/post/popular-git-config-options-169708/)
 - [diff.blog](https://diff.blog/) | [If you’re just going to sit there doing nothing, at least do nothing correctly](https://diff.blog/post/if-youre-just-going-to-sit-there-doing-nothing-at-least-do-nothing-correctly-169709/)
