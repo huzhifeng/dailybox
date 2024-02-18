@@ -1,3 +1,6 @@
+## 20240219
+- [Hacker News](https://news.ycombinator.com/front) | [Lapce](https://news.ycombinator.com/item?id=39421090)
+
 ## 20240218
 - [Hacker News](https://news.ycombinator.com/front) | [Considerations for a long-running Raspberry Pi](https://news.ycombinator.com/item?id=39407631)
 

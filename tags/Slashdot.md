@@ -1,3 +1,6 @@
+## 20240219
+- [Slashdot](https://developers.slashdot.org/) | [How Rust Improves the Security of Its Ecosystem](https://developers.slashdot.org/story/24/02/18/0010238/how-rust-improves-the-security-of-its-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240217
 - [Slashdot](https://developers.slashdot.org/) | [Nginx Core Developer Quits Project, Says He No Longer Sees Nginx as 'Free and Open Source Project For the Public Good'](https://developers.slashdot.org/story/24/02/16/164217/nginx-core-developer-quits-project-says-he-no-longer-sees-nginx-as-free-and-open-source-project-for-the-public-good?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

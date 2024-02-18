@@ -1,3 +1,6 @@
+## 20240219
+- [Planet GNOME](https://planet.gnome.org/) | [Rustifying libipuz: character sets](https://viruta.org/rustifying-libipuz-charset.html)
+
 ## 20240218
 - [Planet KDE](https://planet.kde.org/) | [Marco Arena's series on SObjectizer](https://cukic.co/2024/02/17/marco-sobjectizer/index.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/?utm_source=atom_feed)
