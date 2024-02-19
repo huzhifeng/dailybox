@@ -1,3 +1,7 @@
+## 20240220
+- [Slashdot](https://linux.slashdot.org/) | [The Linux Kernel Prepares For Rust 1.77 Upgrade](https://linux.slashdot.org/story/24/02/18/175242/the-linux-kernel-prepares-for-rust-177-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [The Linux Kernel Prepares For Rust 1.77 Upgrade](https://linux.slashdot.org/story/24/02/18/175242/the-linux-kernel-prepares-for-rust-177-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240219
 - [Slashdot](https://developers.slashdot.org/) | [How Rust Improves the Security of Its Ecosystem](https://developers.slashdot.org/story/24/02/18/0010238/how-rust-improves-the-security-of-its-ecosystem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

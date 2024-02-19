@@ -1,3 +1,8 @@
+## 20240220
+- [Hacker News](https://news.ycombinator.com/front) | [Big media publishers are inundating the web with subpar product recommendations](https://news.ycombinator.com/item?id=39433451)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: htmz – a low power tool for HTML](https://news.ycombinator.com/item?id=39429370)
+- [Hacker News](https://news.ycombinator.com/front) | [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880)
+
 ## 20240219
 - [Hacker News](https://news.ycombinator.com/front) | [Lapce](https://news.ycombinator.com/item?id=39421090)
 

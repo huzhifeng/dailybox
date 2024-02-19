@@ -1,3 +1,6 @@
+## 20240220
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.5 released](https://kdenlive.org/en/2024/02/kdenlive-23-08-5-released/?utm_source=atom_feed)
+
 ## 20240218
 - [Planet KDE](https://planet.kde.org/) | [Marco Arena's series on SObjectizer](https://cukic.co/2024/02/17/marco-sobjectizer/index.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/?utm_source=atom_feed)

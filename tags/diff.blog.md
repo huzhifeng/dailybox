@@ -1,3 +1,6 @@
+## 20240220
+- [diff.blog](https://diff.blog/) | [2023 Annual Rust Survey Results](https://diff.blog/post/2023-annual-rust-survey-results-169822/)
+
 ## 20240219
 - [diff.blog](https://diff.blog/) | [FuturesUnordered and the order of futures](https://diff.blog/post/futuresunordered-and-the-order-of-futures-169790/)
 

@@ -1,3 +1,13 @@
+## 20240220
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift Dev Spaces security best practices](https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices)
+- [Red Hat Developer](https://developers.redhat.com/) | [Palo Alto Networks' NGFW now supporting OVN-Kubernetes](https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes)
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.3.2 Installer Improves Manual Partitioning and Qt 6 Compatibility](https://9to5linux.com/calamares-3-3-2-installer-improves-manual-partitioning-and-qt-6-compatibility)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.5 Brings More Bug Fixes for Kdenlive, Falkon, and Other Apps](https://9to5linux.com/kde-gear-23-08-5-released-with-various-bug-fixes-for-kdenlive-falkon-and-other-apps)
+- [9to5Linux](https://9to5linux.com/) | [Miracle-WM Is a New Tiling Wayland Compositor Based on Mir](https://9to5linux.com/miracle-wm-is-a-new-tiling-wayland-compositor-based-on-mir)
+- [Planet GNOME](https://planet.gnome.org/) | [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.5 released](https://kdenlive.org/en/2024/02/kdenlive-23-08-5-released/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [The Linux Kernel Prepares For Rust 1.77 Upgrade](https://linux.slashdot.org/story/24/02/18/175242/the-linux-kernel-prepares-for-rust-177-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240219
 - [Planet GNOME](https://planet.gnome.org/) | [Rustifying libipuz: character sets](https://viruta.org/rustifying-libipuz-charset.html)
 
