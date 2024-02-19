@@ -1,3 +1,7 @@
+## 20240220
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift Dev Spaces security best practices](https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices)
+- [Red Hat Developer](https://developers.redhat.com/) | [Palo Alto Networks' NGFW now supporting OVN-Kubernetes](https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes)
+
 ## 20240216
 - [Red Hat Developer](https://developers.redhat.com/) | [Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS](https://developers.redhat.com/articles/2024/02/15/automate-jboss-web-server-6-deployment-red-hat-ansible-certified-content)
 

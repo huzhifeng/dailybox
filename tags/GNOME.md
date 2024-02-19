@@ -1,3 +1,6 @@
+## 20240220
+- [Planet GNOME](https://planet.gnome.org/) | [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+
 ## 20240219
 - [Planet GNOME](https://planet.gnome.org/) | [Rustifying libipuz: character sets](https://viruta.org/rustifying-libipuz-charset.html)
 

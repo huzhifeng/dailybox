@@ -1,3 +1,6 @@
+## 20240220
+- [It's FOSS](https://itsfoss.com/) | [How to Remove Password from PDF Files in Linux](https://itsfoss.com/remove-pdf-password-linux/)
+
 ## 20240216
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/)
 

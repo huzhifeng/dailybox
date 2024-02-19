@@ -1,3 +1,7 @@
+## 20240220
+- [Planet GNOME](https://planet.gnome.org/) | [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+- [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.5 released](https://kdenlive.org/en/2024/02/kdenlive-23-08-5-released/?utm_source=atom_feed)
+
 ## 20240219
 - [Planet GNOME](https://planet.gnome.org/) | [Rustifying libipuz: character sets](https://viruta.org/rustifying-libipuz-charset.html)
 
