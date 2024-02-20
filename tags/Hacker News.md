@@ -1,3 +1,7 @@
+## 20240221
+- [Hacker News](https://news.ycombinator.com/front) | [Keep your phone number private with Signal usernames](https://news.ycombinator.com/item?id=39444500)
+- [Hacker News](https://news.ycombinator.com/front) | [In Defense of Simple Architectures (2022)](https://news.ycombinator.com/item?id=39440179)
+
 ## 20240220
 - [Hacker News](https://news.ycombinator.com/front) | [Big media publishers are inundating the web with subpar product recommendations](https://news.ycombinator.com/item?id=39433451)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: htmz – a low power tool for HTML](https://news.ycombinator.com/item?id=39429370)

@@ -1,3 +1,6 @@
+## 20240221
+- [Planet GNOME](https://planet.gnome.org/) | [A Clarification About WebKit Switching to Skia](https://blogs.igalia.com/carlosgc/2024/02/20/a-clarification-about-webkit-switching-to-skia/)
+
 ## 20240220
 - [Planet GNOME](https://planet.gnome.org/) | [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 

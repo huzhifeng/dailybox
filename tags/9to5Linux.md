@@ -1,3 +1,7 @@
+## 20240221
+- [9to5Linux](https://9to5linux.com/) | [Help Shape the Future of Kubuntu and Win Awesome Prizes](https://9to5linux.com/help-shape-the-future-of-kubuntu-and-win-awesome-prizes)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 124 Is Now Available for Public Beta Testing, Here’s What to Expect](https://9to5linux.com/mozilla-firefox-124-is-now-available-for-public-beta-testing-heres-what-to-expect)
+
 ## 20240220
 - [9to5Linux](https://9to5linux.com/) | [Calamares 3.3.2 Installer Improves Manual Partitioning and Qt 6 Compatibility](https://9to5linux.com/calamares-3-3-2-installer-improves-manual-partitioning-and-qt-6-compatibility)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 23.08.5 Brings More Bug Fixes for Kdenlive, Falkon, and Other Apps](https://9to5linux.com/kde-gear-23-08-5-released-with-various-bug-fixes-for-kdenlive-falkon-and-other-apps)

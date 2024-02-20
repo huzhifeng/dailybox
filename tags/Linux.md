@@ -1,3 +1,10 @@
+## 20240221
+- [Red Hat Developer](https://developers.redhat.com/) | [mass-prebuild: An open source journey of improvement and growth](https://developers.redhat.com/articles/2024/02/20/mass-prebuild-open-source-journey-improvement-and-growth)
+- [9to5Linux](https://9to5linux.com/) | [Help Shape the Future of Kubuntu and Win Awesome Prizes](https://9to5linux.com/help-shape-the-future-of-kubuntu-and-win-awesome-prizes)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 124 Is Now Available for Public Beta Testing, Here’s What to Expect](https://9to5linux.com/mozilla-firefox-124-is-now-available-for-public-beta-testing-heres-what-to-expect)
+- [Planet GNOME](https://planet.gnome.org/) | [A Clarification About WebKit Switching to Skia](https://blogs.igalia.com/carlosgc/2024/02/20/a-clarification-about-webkit-switching-to-skia/)
+- [Planet KDE](https://planet.kde.org/) | [Making way for Wayland in KdeEcoTest](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/?utm_source=atom_feed)
+
 ## 20240220
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift Dev Spaces security best practices](https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices)
 - [Red Hat Developer](https://developers.redhat.com/) | [Palo Alto Networks' NGFW now supporting OVN-Kubernetes](https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes)

@@ -1,3 +1,6 @@
+## 20240221
+- [Planet KDE](https://planet.kde.org/) | [Making way for Wayland in KdeEcoTest](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/?utm_source=atom_feed)
+
 ## 20240220
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 23.08.5 released](https://kdenlive.org/en/2024/02/kdenlive-23-08-5-released/?utm_source=atom_feed)
 

@@ -1,3 +1,7 @@
+## 20240221
+- [GitHub Advanced Search](https://github.com/search/advanced) | [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [tatimancilla/Mevbot](https://github.com/tatimancilla/Mevbot)
+
 ## 20240216
 - [GitHub Advanced Search](https://github.com/search/advanced) | [tocoti-pjmiL/Mevbot](https://github.com/tocoti-pjmiL/Mevbot)
 
