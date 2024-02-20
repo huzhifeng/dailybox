@@ -1,3 +1,8 @@
+## 20240221
+- [Product Hunt](https://www.producthunt.com) | [Zenfetch](https://www.producthunt.com/posts/zenfetch)
+- [Product Hunt](https://www.producthunt.com) | [Sharpe Labs](https://www.producthunt.com/posts/sharpe-labs)
+- [Product Hunt](https://www.producthunt.com) | [Stey](https://www.producthunt.com/posts/stey-1)
+
 ## 20240220
 - [Product Hunt](https://www.producthunt.com) | [Pika Embed](https://www.producthunt.com/posts/pika-embed)
 - [Product Hunt](https://www.producthunt.com) | [Painkiller Ideas](https://www.producthunt.com/posts/painkiller-ideas)

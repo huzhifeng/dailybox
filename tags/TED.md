@@ -1,3 +1,6 @@
+## 20240221
+- [TED Talks Daily](https://www.ted.com/talks) | [How to design for dignity during times of war | Slava Balbek](https://www.ted.com/talks/slava_balbek_how_to_design_for_dignity_during_times_of_war?rss)
+
 ## 20240217
 - [TED Talks Daily](https://www.ted.com/talks) | [The Herds, a vast act of theater to spark climate action | Amir Nizar Zuabi](https://www.ted.com/talks/amir_nizar_zuabi_the_herds_a_vast_act_of_theater_to_spark_climate_action?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [What the world can learn from Ukraine's fight for democracy | Olesya Khromeychuk](https://www.ted.com/talks/olesya_khromeychuk_what_the_world_can_learn_from_ukraine_s_fight_for_democracy?rss)

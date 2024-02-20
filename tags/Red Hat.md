@@ -1,3 +1,6 @@
+## 20240221
+- [Red Hat Developer](https://developers.redhat.com/) | [mass-prebuild: An open source journey of improvement and growth](https://developers.redhat.com/articles/2024/02/20/mass-prebuild-open-source-journey-improvement-and-growth)
+
 ## 20240220
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift Dev Spaces security best practices](https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices)
 - [Red Hat Developer](https://developers.redhat.com/) | [Palo Alto Networks' NGFW now supporting OVN-Kubernetes](https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes)

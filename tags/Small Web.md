@@ -1,3 +1,8 @@
+## 20240221
+- [Kagi Small Web](https://kagi.com/smallweb) | [Why does generalization work?](https://www.lesswrong.com/posts/NwDvmodb2CcuysQxW/why-does-generalization-work-1)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Floating point numbers aren’t weird](https://www.sicpers.info/2024/02/floating-point-numbers-arent-weird/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Seventeen-year-old arrested over murder of teenager](https://www.eastlondonlines.co.uk/2024/02/seventeen-year-old-arrested-over-murder-of-teenager/)
+
 ## 20240220
 - [Kagi Small Web](https://kagi.com/smallweb) | [UI=f(org): UI is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Burning Chrome](https://www.robin.is/posts/2024/burning-chrome/)
