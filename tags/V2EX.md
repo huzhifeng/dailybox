@@ -1,3 +1,8 @@
+## 20240222
+- [V2EX](https://www.v2ex.com/) | [GitHub 用户来领空投： TOP 5k 项目的贡献者可领取价值 $200 空投](https://www.v2ex.com/t/1017287)
+- [V2EX](https://www.v2ex.com/) | [大一新生三选一： iPhone 、 iPad 、笔记本](https://www.v2ex.com/t/1017238)
+- [V2EX](https://www.v2ex.com/) | [想听各位老哥断断家务事](https://www.v2ex.com/t/1017206)
+
 ## 20240221
 - [V2EX](https://www.v2ex.com/) | [独家解密火绒误杀 win10 系统文件(explorer.exe)背后的真相 [安全专家 边亮 的频道视频]](https://www.v2ex.com/t/1016836)
 - [V2EX](https://www.v2ex.com/) | [大家有没有有效的减肥方法吗？一起交流交流](https://www.v2ex.com/t/1016797)

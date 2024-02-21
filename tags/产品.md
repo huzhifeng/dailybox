@@ -1,3 +1,8 @@
+## 20240222
+- [Product Hunt](https://www.producthunt.com) | [Stanza Systems](https://www.producthunt.com/posts/stanza-systems)
+- [Product Hunt](https://www.producthunt.com) | [Chatsimple](https://www.producthunt.com/posts/chatsimple-2)
+- [Product Hunt](https://www.producthunt.com) | [Swizzle](https://www.producthunt.com/posts/swizzle-2)
+
 ## 20240221
 - [Product Hunt](https://www.producthunt.com) | [Zenfetch](https://www.producthunt.com/posts/zenfetch)
 - [Product Hunt](https://www.producthunt.com) | [Sharpe Labs](https://www.producthunt.com/posts/sharpe-labs)
