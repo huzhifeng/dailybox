@@ -1,3 +1,8 @@
+## 20240222
+- [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Released](https://jriddell.org/2024/02/21/oxygen-icons-6-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDSOAP WS-Discovery Client 0.4.0](https://jriddell.org/2024/02/21/kdsoap-ws-discovery-client-0-4-0/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Introducing Support For KdeEcoTest On Windows](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/?utm_source=atom_feed)
+
 ## 20240221
 - [Planet KDE](https://planet.kde.org/) | [Making way for Wayland in KdeEcoTest](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/?utm_source=atom_feed)
 

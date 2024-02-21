@@ -1,3 +1,7 @@
+## 20240222
+- [diff.blog](https://diff.blog/) | [Rust participates in Google Summer of Code 2024](https://diff.blog/post/rust-participates-in-google-summer-of-code-2024-169985/)
+- [diff.blog](https://diff.blog/) | [DISPUTED, not REJECTED](https://diff.blog/post/disputed-not-rejected-169959/)
+
 ## 20240220
 - [diff.blog](https://diff.blog/) | [2023 Annual Rust Survey Results](https://diff.blog/post/2023-annual-rust-survey-results-169822/)
 

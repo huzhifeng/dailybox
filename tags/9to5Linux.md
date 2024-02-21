@@ -1,3 +1,7 @@
+## 20240222
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.4 Open-Source DAW Released with Experimental AAF Import](https://9to5linux.com/ardour-8-4-open-source-daw-released-with-experimental-aaf-import)
+- [9to5Linux](https://9to5linux.com/) | [GCompris 4.0 Open-Source Educational Suite Released with Several New Activities](https://9to5linux.com/gcompris-4-0-open-source-educational-suite-released-with-several-new-activities)
+
 ## 20240221
 - [9to5Linux](https://9to5linux.com/) | [Help Shape the Future of Kubuntu and Win Awesome Prizes](https://9to5linux.com/help-shape-the-future-of-kubuntu-and-win-awesome-prizes)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 124 Is Now Available for Public Beta Testing, Here’s What to Expect](https://9to5linux.com/mozilla-firefox-124-is-now-available-for-public-beta-testing-heres-what-to-expect)

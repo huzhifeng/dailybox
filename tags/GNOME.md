@@ -1,3 +1,7 @@
+## 20240222
+- [Planet GNOME](https://planet.gnome.org/) | [Conversations in Open Source: Insights from Informal chats with Open Source contributors.](https://dorothykabarozi.wordpress.com/2024/02/21/conversations-in-open-source-insights-from-informal-chats-with-open-source-contributors/)
+- [Planet GNOME](https://planet.gnome.org/) | [Improved build validation, increased moderation, and the long-awaited switch to libappstream](https://docs.flathub.org/blog/improved-build-validation)
+
 ## 20240221
 - [Planet GNOME](https://planet.gnome.org/) | [A Clarification About WebKit Switching to Skia](https://blogs.igalia.com/carlosgc/2024/02/20/a-clarification-about-webkit-switching-to-skia/)
 

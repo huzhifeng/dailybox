@@ -1,3 +1,10 @@
+## 20240222
+- [Planet GNOME](https://planet.gnome.org/) | [Conversations in Open Source: Insights from Informal chats with Open Source contributors.](https://dorothykabarozi.wordpress.com/2024/02/21/conversations-in-open-source-insights-from-informal-chats-with-open-source-contributors/)
+- [Planet GNOME](https://planet.gnome.org/) | [Improved build validation, increased moderation, and the long-awaited switch to libappstream](https://docs.flathub.org/blog/improved-build-validation)
+- [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Released](https://jriddell.org/2024/02/21/oxygen-icons-6-released/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDSOAP WS-Discovery Client 0.4.0](https://jriddell.org/2024/02/21/kdsoap-ws-discovery-client-0-4-0/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Introducing Support For KdeEcoTest On Windows](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/?utm_source=atom_feed)
+
 ## 20240221
 - [Planet GNOME](https://planet.gnome.org/) | [A Clarification About WebKit Switching to Skia](https://blogs.igalia.com/carlosgc/2024/02/20/a-clarification-about-webkit-switching-to-skia/)
 - [Planet KDE](https://planet.kde.org/) | [Making way for Wayland in KdeEcoTest](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/?utm_source=atom_feed)

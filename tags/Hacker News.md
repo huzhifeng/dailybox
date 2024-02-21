@@ -1,3 +1,8 @@
+## 20240222
+- [Hacker News](https://news.ycombinator.com/front) | [iMessage with PQ3 Cryptographic Protocol](https://news.ycombinator.com/item?id=39453660)
+- [Hacker News](https://news.ycombinator.com/front) | [Gemma: New Open Models](https://news.ycombinator.com/item?id=39453271)
+- [Hacker News](https://news.ycombinator.com/front) | [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://news.ycombinator.com/item?id=39452494)
+
 ## 20240221
 - [Hacker News](https://news.ycombinator.com/front) | [Keep your phone number private with Signal usernames](https://news.ycombinator.com/item?id=39444500)
 - [Hacker News](https://news.ycombinator.com/front) | [In Defense of Simple Architectures (2022)](https://news.ycombinator.com/item?id=39440179)

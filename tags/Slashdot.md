@@ -1,3 +1,6 @@
+## 20240222
+- [Slashdot](https://developers.slashdot.org/) | [Darwin Online Has Virtually Reassembled the Naturalist's Personal Library](https://news.slashdot.org/story/24/02/21/0148225/darwin-online-has-virtually-reassembled-the-naturalists-personal-library?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240220
 - [Slashdot](https://linux.slashdot.org/) | [The Linux Kernel Prepares For Rust 1.77 Upgrade](https://linux.slashdot.org/story/24/02/18/175242/the-linux-kernel-prepares-for-rust-177-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [The Linux Kernel Prepares For Rust 1.77 Upgrade](https://linux.slashdot.org/story/24/02/18/175242/the-linux-kernel-prepares-for-rust-177-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed)

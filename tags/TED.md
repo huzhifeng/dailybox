@@ -1,3 +1,6 @@
+## 20240222
+- [TED Talks Daily](https://www.ted.com/talks) | [Why ocean currents are slowing — and what it means for you | Susan Lozier](https://www.ted.com/talks/susan_lozier_why_ocean_currents_are_slowing_and_what_it_means_for_you?rss)
+
 ## 20240221
 - [TED Talks Daily](https://www.ted.com/talks) | [How to design for dignity during times of war | Slava Balbek](https://www.ted.com/talks/slava_balbek_how_to_design_for_dignity_during_times_of_war?rss)
 
