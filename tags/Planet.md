@@ -1,3 +1,6 @@
+## 20240223
+- [Planet KDE](https://planet.kde.org/) | [Kirigami Addons 1.0](https://carlschwan.eu/2024/02/22/kirigami-addons-1.0/?utm_source=atom_feed)
+
 ## 20240222
 - [Planet GNOME](https://planet.gnome.org/) | [Conversations in Open Source: Insights from Informal chats with Open Source contributors.](https://dorothykabarozi.wordpress.com/2024/02/21/conversations-in-open-source-insights-from-informal-chats-with-open-source-contributors/)
 - [Planet GNOME](https://planet.gnome.org/) | [Improved build validation, increased moderation, and the long-awaited switch to libappstream](https://docs.flathub.org/blog/improved-build-validation)

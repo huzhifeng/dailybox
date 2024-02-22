@@ -1,3 +1,8 @@
+## 20240223
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【AIGC】OpenAI推出王炸级模型sora,颠覆AI视频行业](https://blog.csdn.net/jinxinxin1314/article/details/136180288)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [数字之美：探索人工智能绘画的奇妙世界](https://blog.csdn.net/weixin_42794881/article/details/136230757)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [高校学科竞赛平台|基于springboot高校学科竞赛平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136221041)
+
 ## 20231015
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python数据挖掘项目实战——自动售货机销售数据分析](https://blog.csdn.net/Why_does_it_work/article/details/133816648)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [解锁机器学习-梯度下降：从技术到实战的全面指南](https://blog.csdn.net/magicyangjay111/article/details/133819132)

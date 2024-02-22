@@ -1,3 +1,6 @@
+## 20240223
+- [diff.blog](https://diff.blog/) | [This Week in Rust 535](https://diff.blog/post/this-week-in-rust-535-170011/)
+
 ## 20240222
 - [diff.blog](https://diff.blog/) | [Rust participates in Google Summer of Code 2024](https://diff.blog/post/rust-participates-in-google-summer-of-code-2024-169985/)
 - [diff.blog](https://diff.blog/) | [DISPUTED, not REJECTED](https://diff.blog/post/disputed-not-rejected-169959/)

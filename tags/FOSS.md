@@ -1,3 +1,6 @@
+## 20240223
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/)
+
 ## 20240221
 - [It's FOSS](https://itsfoss.com/) | [Grep Command Examples](https://itsfoss.com/grep-command/)
 

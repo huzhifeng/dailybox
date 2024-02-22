@@ -1,3 +1,8 @@
+## 20240223
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04.4 LTS (Jammy Jellyfish) Released with Linux Kernel 6.5, Mesa 23.2](https://9to5linux.com/ubuntu-22-04-4-lts-jammy-jellyfish-released-with-linux-kernel-6-5-mesa-23-2)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.5 Office Suite Is Out Now with More Than 90 Bug Fixes](https://9to5linux.com/libreoffice-7-6-5-office-suite-is-out-now-with-more-than-90-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Slimbook V Is the World&#8217;s First Linux Laptop to Ship with KDE Plasma 6](https://9to5linux.com/kde-slimbook-v-is-the-worlds-first-linux-laptop-to-ship-with-kde-plasma-6)
+
 ## 20240222
 - [9to5Linux](https://9to5linux.com/) | [Ardour 8.4 Open-Source DAW Released with Experimental AAF Import](https://9to5linux.com/ardour-8-4-open-source-daw-released-with-experimental-aaf-import)
 - [9to5Linux](https://9to5linux.com/) | [GCompris 4.0 Open-Source Educational Suite Released with Several New Activities](https://9to5linux.com/gcompris-4-0-open-source-educational-suite-released-with-several-new-activities)

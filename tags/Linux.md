@@ -1,3 +1,11 @@
+## 20240223
+- [Red Hat Developer](https://developers.redhat.com/) | [Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise](https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise)
+- [Red Hat Developer](https://developers.redhat.com/) | [Best practices for OpenShift Data Foundation disaster recovery resource planning](https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04.4 LTS (Jammy Jellyfish) Released with Linux Kernel 6.5, Mesa 23.2](https://9to5linux.com/ubuntu-22-04-4-lts-jammy-jellyfish-released-with-linux-kernel-6-5-mesa-23-2)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.5 Office Suite Is Out Now with More Than 90 Bug Fixes](https://9to5linux.com/libreoffice-7-6-5-office-suite-is-out-now-with-more-than-90-bug-fixes)
+- [9to5Linux](https://9to5linux.com/) | [KDE Slimbook V Is the World&#8217;s First Linux Laptop to Ship with KDE Plasma 6](https://9to5linux.com/kde-slimbook-v-is-the-worlds-first-linux-laptop-to-ship-with-kde-plasma-6)
+- [Planet KDE](https://planet.kde.org/) | [Kirigami Addons 1.0](https://carlschwan.eu/2024/02/22/kirigami-addons-1.0/?utm_source=atom_feed)
+
 ## 20240222
 - [Red Hat Developer](https://developers.redhat.com/) | [Virtio live migration technical deep dive](https://developers.redhat.com/articles/2024/02/21/virtio-live-migration-technical-deep-dive)
 - [Red Hat Developer](https://developers.redhat.com/) | [Run Node.js applications on the edge with RHEL and Fedora](https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora)
