@@ -1,3 +1,7 @@
+## 20240223
+- [Red Hat Developer](https://developers.redhat.com/) | [Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise](https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise)
+- [Red Hat Developer](https://developers.redhat.com/) | [Best practices for OpenShift Data Foundation disaster recovery resource planning](https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning)
+
 ## 20240222
 - [Red Hat Developer](https://developers.redhat.com/) | [Virtio live migration technical deep dive](https://developers.redhat.com/articles/2024/02/21/virtio-live-migration-technical-deep-dive)
 - [Red Hat Developer](https://developers.redhat.com/) | [Run Node.js applications on the edge with RHEL and Fedora](https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora)

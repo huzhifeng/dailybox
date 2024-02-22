@@ -1,3 +1,6 @@
+## 20240223
+- [Planet KDE](https://planet.kde.org/) | [Kirigami Addons 1.0](https://carlschwan.eu/2024/02/22/kirigami-addons-1.0/?utm_source=atom_feed)
+
 ## 20240222
 - [Planet KDE](https://planet.kde.org/) | [Oxygen Icons 6 Released](https://jriddell.org/2024/02/21/oxygen-icons-6-released/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDSOAP WS-Discovery Client 0.4.0](https://jriddell.org/2024/02/21/kdsoap-ws-discovery-client-0-4-0/?utm_source=atom_feed)

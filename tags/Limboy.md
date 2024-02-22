@@ -1,3 +1,6 @@
+## 20240223
+- [Limboy](https://limboy.me) | [不再好好做音乐流媒体的 Spotify](https://limboy.me/posts/spotify-expand-scope/)
+
 ## 20240221
 - [Limboy](https://limboy.me) | [当呼吸化为空气](https://limboy.me/books/when-breath-becomes-air/)
 - [Limboy](https://limboy.me) | [](https://limboy.me/thoughts/leave-social-media-for-a-while/)

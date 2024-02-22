@@ -1,3 +1,8 @@
+## 20240223
+- [Hacker News](https://news.ycombinator.com/front) | [Bluesky announces data federation for self hosters](https://news.ycombinator.com/item?id=39471116)
+- [Hacker News](https://news.ycombinator.com/front) | [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630)
+- [Hacker News](https://news.ycombinator.com/front) | [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://news.ycombinator.com/item?id=39465517)
+
 ## 20240222
 - [Hacker News](https://news.ycombinator.com/front) | [iMessage with PQ3 Cryptographic Protocol](https://news.ycombinator.com/item?id=39453660)
 - [Hacker News](https://news.ycombinator.com/front) | [Gemma: New Open Models](https://news.ycombinator.com/item?id=39453271)

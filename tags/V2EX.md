@@ -1,3 +1,8 @@
+## 20240223
+- [V2EX](https://www.v2ex.com/) | [新开发的 App，永久版交个朋友 [文末免费送码]](https://www.v2ex.com/t/1017611)
+- [V2EX](https://www.v2ex.com/) | [再次感叹 airdrop 的黑科技](https://www.v2ex.com/t/1017486)
+- [V2EX](https://www.v2ex.com/) | [下班后，好像最想做的就是打 lol，其他事情也想做，但是一打游戏就停不下来，应该如何改变？](https://www.v2ex.com/t/1017478)
+
 ## 20240222
 - [V2EX](https://www.v2ex.com/) | [GitHub 用户来领空投： TOP 5k 项目的贡献者可领取价值 $200 空投](https://www.v2ex.com/t/1017287)
 - [V2EX](https://www.v2ex.com/) | [大一新生三选一： iPhone 、 iPad 、笔记本](https://www.v2ex.com/t/1017238)
