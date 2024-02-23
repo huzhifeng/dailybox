@@ -1,3 +1,7 @@
+## 20240224
+- [Hacker News](https://news.ycombinator.com/front) | [Thanks FedEx, This Is Why We Keep Getting Phished](https://news.ycombinator.com/item?id=39479001)
+- [Hacker News](https://news.ycombinator.com/front) | [Intel Processor Instability Causing Oodle Decompression Failures](https://news.ycombinator.com/item?id=39478551)
+
 ## 20240223
 - [Hacker News](https://news.ycombinator.com/front) | [Bluesky announces data federation for self hosters](https://news.ycombinator.com/item?id=39471116)
 - [Hacker News](https://news.ycombinator.com/front) | [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630)

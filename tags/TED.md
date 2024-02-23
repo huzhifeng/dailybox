@@ -1,3 +1,7 @@
+## 20240224
+- [TED Talks Daily](https://www.ted.com/talks) | [The 5 tenets of turning pain into power | Christine Schuler Deschryver](https://www.ted.com/talks/christine_schuler_deschryver_the_5_tenets_of_turning_pain_into_power?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [TED is 40 — here's how it all started | Chris Anderson and Richard Saul Wurman](https://www.ted.com/talks/chris_anderson_and_richard_saul_wurman_ted_is_40_here_s_how_it_all_started?rss)
+
 ## 20240223
 - [TED Talks Daily](https://www.ted.com/talks) | [Can nanoparticles help fight hunger? | Christy L. Haynes](https://www.ted.com/talks/christy_l_haynes_can_nanoparticles_help_fight_hunger?rss)
 

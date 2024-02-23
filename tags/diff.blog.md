@@ -1,3 +1,7 @@
+## 20240224
+- [diff.blog](https://diff.blog/) | [Thanks FedEx, This is Why we Keep Getting Phished](https://diff.blog/post/thanks-fedex-this-is-why-we-keep-getting-phished-170097/)
+- [diff.blog](https://diff.blog/) | [curl HTTP/3 security audit](https://diff.blog/post/curl-http3-security-audit-170118/)
+
 ## 20240223
 - [diff.blog](https://diff.blog/) | [This Week in Rust 535](https://diff.blog/post/this-week-in-rust-535-170011/)
 

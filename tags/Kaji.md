@@ -1,3 +1,8 @@
+## 20240224
+- [Kagi Small Web](https://kagi.com/smallweb) | [Book Review: The Case Against Reality](https://4gravitons.com/2024/02/23/book-review-the-case-against-reality/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://werd.io/2024/what-happens-to-your-sensitive-data-when-a-data-broker)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Ruckus One: Provisioning ICX Switches](https://www.derekseaman.com/2024/02/ruckus-one-provisioning-icx-switches.html)
+
 ## 20240221
 - [Kagi Small Web](https://kagi.com/smallweb) | [Why does generalization work?](https://www.lesswrong.com/posts/NwDvmodb2CcuysQxW/why-does-generalization-work-1)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Floating point numbers aren’t weird](https://www.sicpers.info/2024/02/floating-point-numbers-arent-weird/)

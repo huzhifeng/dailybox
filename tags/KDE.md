@@ -1,3 +1,8 @@
+## 20240224
+- [Planet KDE](https://planet.kde.org/) | [Software Heritage Symposium and FOSDEM 2024](https://toscalix.com/2024/02/23/software-heritage-symposium-and-fosdem-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Want to visit Gothenburg](http://www.thelins.se/johan/blog/2024/02/want-to-visit-gothenburg/?utm_source=atom_feed)
+
 ## 20240223
 - [Planet KDE](https://planet.kde.org/) | [Kirigami Addons 1.0](https://carlschwan.eu/2024/02/22/kirigami-addons-1.0/?utm_source=atom_feed)
 

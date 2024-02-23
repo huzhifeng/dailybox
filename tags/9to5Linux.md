@@ -1,3 +1,8 @@
+## 20240224
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Launches in April with New Applications Menu, Qt 6 Port](https://9to5linux.com/lxqt-2-0-desktop-launches-in-april-with-new-applications-menu-qt-6-port)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.54.14 Linux Graphics Driver Released with Many Improvements](https://9to5linux.com/nvidia-550-54-14-linux-graphics-driver-released-with-many-improvements)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.46 Improves Support for 6GHz Wi-Fi, Adds Energy-Efficient Ethernet Settings](https://9to5linux.com/networkmanager-1-46-adds-support-for-6ghz-wi-fi-and-energy-efficient-ethernet)
+
 ## 20240223
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 22.04.4 LTS (Jammy Jellyfish) Released with Linux Kernel 6.5, Mesa 23.2](https://9to5linux.com/ubuntu-22-04-4-lts-jammy-jellyfish-released-with-linux-kernel-6-5-mesa-23-2)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.5 Office Suite Is Out Now with More Than 90 Bug Fixes](https://9to5linux.com/libreoffice-7-6-5-office-suite-is-out-now-with-more-than-90-bug-fixes)
