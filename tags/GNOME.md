@@ -1,3 +1,7 @@
+## 20240224
+- [Planet GNOME](https://planet.gnome.org/) | [Creating tagged PDFs with CapyPDF now sort of possible](https://nibblestew.blogspot.com/2024/02/tagged-pdfs-with-capypdf-now-sort-of.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/)
+
 ## 20240222
 - [Planet GNOME](https://planet.gnome.org/) | [Conversations in Open Source: Insights from Informal chats with Open Source contributors.](https://dorothykabarozi.wordpress.com/2024/02/21/conversations-in-open-source-insights-from-informal-chats-with-open-source-contributors/)
 - [Planet GNOME](https://planet.gnome.org/) | [Improved build validation, increased moderation, and the long-awaited switch to libappstream](https://docs.flathub.org/blog/improved-build-validation)

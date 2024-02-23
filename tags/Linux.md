@@ -1,3 +1,13 @@
+## 20240224
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Launches in April with New Applications Menu, Qt 6 Port](https://9to5linux.com/lxqt-2-0-desktop-launches-in-april-with-new-applications-menu-qt-6-port)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.54.14 Linux Graphics Driver Released with Many Improvements](https://9to5linux.com/nvidia-550-54-14-linux-graphics-driver-released-with-many-improvements)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.46 Improves Support for 6GHz Wi-Fi, Adds Energy-Efficient Ethernet Settings](https://9to5linux.com/networkmanager-1-46-adds-support-for-6ghz-wi-fi-and-energy-efficient-ethernet)
+- [Planet GNOME](https://planet.gnome.org/) | [Creating tagged PDFs with CapyPDF now sort of possible](https://nibblestew.blogspot.com/2024/02/tagged-pdfs-with-capypdf-now-sort-of.html)
+- [Planet GNOME](https://planet.gnome.org/) | [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/)
+- [Planet KDE](https://planet.kde.org/) | [Software Heritage Symposium and FOSDEM 2024](https://toscalix.com/2024/02/23/software-heritage-symposium-and-fosdem-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Want to visit Gothenburg](http://www.thelins.se/johan/blog/2024/02/want-to-visit-gothenburg/?utm_source=atom_feed)
+
 ## 20240223
 - [Red Hat Developer](https://developers.redhat.com/) | [Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise](https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise)
 - [Red Hat Developer](https://developers.redhat.com/) | [Best practices for OpenShift Data Foundation disaster recovery resource planning](https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning)
