@@ -1,3 +1,7 @@
+## 20240225
+- [Slashdot](https://developers.slashdot.org/) | ['Can a Programming Language Implement Time Travel?'](https://developers.slashdot.org/story/24/02/24/0521230/can-a-programming-language-implement-time-travel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Vending Machine Error Reveals Secret Face Image Database of College Students](https://yro.slashdot.org/story/24/02/24/0012232/vending-machine-error-reveals-secret-face-image-database-of-college-students?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240224
 - [Slashdot](https://developers.slashdot.org/) | [Tech Job Interviews Are Out of Control](https://tech.slashdot.org/story/24/02/23/1916215/tech-job-interviews-are-out-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

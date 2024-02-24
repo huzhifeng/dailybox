@@ -1,3 +1,8 @@
+## 20240225
+- [Hacker News](https://news.ycombinator.com/front) | [Google helped destroy adoption of RSS feeds (2023)](https://news.ycombinator.com/item?id=39493770)
+- [Hacker News](https://news.ycombinator.com/front) | [Institutions try to preserve the problem to which they are the solution](https://news.ycombinator.com/item?id=39491863)
+- [Hacker News](https://news.ycombinator.com/front) | [GPT in 500 Lines of SQL](https://news.ycombinator.com/item?id=39488668)
+
 ## 20240224
 - [Hacker News](https://news.ycombinator.com/front) | [Thanks FedEx, This Is Why We Keep Getting Phished](https://news.ycombinator.com/item?id=39479001)
 - [Hacker News](https://news.ycombinator.com/front) | [Intel Processor Instability Causing Oodle Decompression Failures](https://news.ycombinator.com/item?id=39478551)
