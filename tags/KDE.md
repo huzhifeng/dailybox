@@ -1,3 +1,7 @@
+## 20240225
+- [Planet KDE](https://planet.kde.org/) | [The Neon Powered Gears are Working on Plasma 6](https://blog.neon.kde.org/2024/02/24/the-neon-powered-gears-are-working-on-plasma-6/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/?utm_source=atom_feed)
+
 ## 20240224
 - [Planet KDE](https://planet.kde.org/) | [Software Heritage Symposium and FOSDEM 2024](https://toscalix.com/2024/02/23/software-heritage-symposium-and-fosdem-2024/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/?utm_source=atom_feed)

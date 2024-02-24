@@ -1,3 +1,7 @@
+## 20240225
+- [Planet KDE](https://planet.kde.org/) | [The Neon Powered Gears are Working on Plasma 6](https://blog.neon.kde.org/2024/02/24/the-neon-powered-gears-are-working-on-plasma-6/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/?utm_source=atom_feed)
+
 ## 20240224
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Launches in April with New Applications Menu, Qt 6 Port](https://9to5linux.com/lxqt-2-0-desktop-launches-in-april-with-new-applications-menu-qt-6-port)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.54.14 Linux Graphics Driver Released with Many Improvements](https://9to5linux.com/nvidia-550-54-14-linux-graphics-driver-released-with-many-improvements)

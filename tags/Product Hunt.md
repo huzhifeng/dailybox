@@ -1,3 +1,8 @@
+## 20240225
+- [Product Hunt](https://www.producthunt.com) | [Kudobox](https://www.producthunt.com/posts/kudobox)
+- [Product Hunt](https://www.producthunt.com) | [Persuva ai](https://www.producthunt.com/posts/persuva-ai)
+- [Product Hunt](https://www.producthunt.com) | [PDF2Anki 3.0](https://www.producthunt.com/posts/pdf2anki-3-0)
+
 ## 20240224
 - [Product Hunt](https://www.producthunt.com) | [FinFloh](https://www.producthunt.com/posts/finfloh)
 - [Product Hunt](https://www.producthunt.com) | [Dosty Petcare](https://www.producthunt.com/posts/dosty-petcare)
