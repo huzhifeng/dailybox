@@ -1,3 +1,8 @@
+## 20240226
+- [V2EX](https://www.v2ex.com/) | [终于轮到我了，求推荐一款安卓手机](https://www.v2ex.com/t/1018302)
+- [V2EX](https://www.v2ex.com/) | [24 年买车，极氪 001 和宝马 3 系怎么选？](https://www.v2ex.com/t/1018272)
+- [V2EX](https://www.v2ex.com/) | [手机常年连接家庭主路由，电池怎么办？](https://www.v2ex.com/t/1018262)
+
 ## 20240225
 - [V2EX](https://www.v2ex.com/) | [想请教一下回国的注意事项](https://www.v2ex.com/t/1018103)
 - [V2EX](https://www.v2ex.com/) | [关于 2 台电脑 3 块屏幕的快速切换问题](https://www.v2ex.com/t/1018093)

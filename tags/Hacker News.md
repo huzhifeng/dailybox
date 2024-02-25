@@ -1,3 +1,6 @@
+## 20240226
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://news.ycombinator.com/item?id=39501073)
+
 ## 20240225
 - [Hacker News](https://news.ycombinator.com/front) | [Google helped destroy adoption of RSS feeds (2023)](https://news.ycombinator.com/item?id=39493770)
 - [Hacker News](https://news.ycombinator.com/front) | [Institutions try to preserve the problem to which they are the solution](https://news.ycombinator.com/item?id=39491863)
