@@ -669,6 +669,24 @@
 			}
 		},
 		{
+			"channel": "中文播客榜",
+			"portal": "https://xyzrank.com/",
+			"url": "https://xyzrank.com/assets/hot-episodes.67b0e9255c14adad3d6723cec5cbf74c.json",
+			"category": "播客",
+			"tags": ["播客"],
+			"request": {
+				"method": "get"
+			},
+			"response": {
+				"list": "data.episodes"
+			},
+			"entry": {
+				"date": "postTime",
+				"title": "title",
+				"link": "{link}"
+			}
+		},
+		{
 			"channel": "V2EX今日热议主题",
 			"portal": "https://v2ex.com/?tab=hot",
 			"url": "https://www.v2ex.com/api/topics/hot.json",
