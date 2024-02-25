@@ -196,6 +196,11 @@ def main():
                 logger.debug('%s response error', url)
                 continue
 
+            if '中文播客榜' in api['channel']:
+                # Filter by postTime and sorted by commentCount
+                entries = [entry for entry in entries
+                            if today.strftime('%Y-%m-%d') in entry['postTime']]
+                entries = sorted(entries, key=lambda x: x.get('commentCount'), reverse=True)
             title = api['entry']['title']
             link = api['entry']['link']
             date = api['entry']['date']
@@ -232,6 +237,7 @@ def main():
                     elif 'GitHub中文社区' == api['channel'] \
                             or 'GitHub Advanced Search' == api['channel'] \
                             or 'diff.blog' == api['channel'] \
+                            or '中文播客榜' == api['channel'] \
                             or 'Product Hunt' == api['channel']:
                         # '2023-04-07T10:38:28Z' or '2023-04-10T00:01:00-07:00'
                         published = dateparser.parse(entry[date])
