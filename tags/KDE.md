@@ -1,3 +1,7 @@
+## 20240226
+- [Planet KDE](https://planet.kde.org/) | [Call for feeds: Make your region available in our open transit router](https://jbb.ghsq.de/kde/2024/02/25/Call-for-feeds-Make-your-region-available-in-our-open-transit-router.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Plasma Pass 1.2.2](https://jriddell.org/2024/02/25/plasma-pass-1-2-2/?utm_source=atom_feed)
+
 ## 20240225
 - [Planet KDE](https://planet.kde.org/) | [The Neon Powered Gears are Working on Plasma 6](https://blog.neon.kde.org/2024/02/24/the-neon-powered-gears-are-working-on-plasma-6/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/?utm_source=atom_feed)

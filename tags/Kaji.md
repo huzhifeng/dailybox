@@ -1,3 +1,8 @@
+## 20240226
+- [Kagi Small Web](https://kagi.com/smallweb) | [Ripen Forth runs again](https://felix.plesoianu.ro/languages/forth/ripen/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)
+- [Kagi Small Web](https://kagi.com/smallweb) | [git branches: the rules](https://wizardzines.com/comics/git-branches-the-rules/)
+
 ## 20240224
 - [Kagi Small Web](https://kagi.com/smallweb) | [Book Review: The Case Against Reality](https://4gravitons.com/2024/02/23/book-review-the-case-against-reality/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://werd.io/2024/what-happens-to-your-sensitive-data-when-a-data-broker)
