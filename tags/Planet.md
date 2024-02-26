@@ -1,3 +1,8 @@
+## 20240227
+- [Planet GNOME](https://planet.gnome.org/) | [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
+- [Planet GNOME](https://planet.gnome.org/) | [Introducing App Brand Colors](https://docs.flathub.org/blog/introducing-app-brand-colors)
+- [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing #5](https://mauikit.org/blog/maui-release-briefing-5/?utm_source=atom_feed)
+
 ## 20240226
 - [Planet KDE](https://planet.kde.org/) | [Call for feeds: Make your region available in our open transit router](https://jbb.ghsq.de/kde/2024/02/25/Call-for-feeds-Make-your-region-available-in-our-open-transit-router.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Plasma Pass 1.2.2](https://jriddell.org/2024/02/25/plasma-pass-1-2-2/?utm_source=atom_feed)

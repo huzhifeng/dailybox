@@ -1,3 +1,8 @@
+## 20240227
+- [Product Hunt](https://www.producthunt.com) | [Immersive Translate](https://www.producthunt.com/posts/immersive-translate)
+- [Product Hunt](https://www.producthunt.com) | [Slogan Generator](https://www.producthunt.com/posts/slogan-generator-ef1c13a5-6e17-4aa2-8504-4efd81e7dbfc)
+- [Product Hunt](https://www.producthunt.com) | [HeyEditor](https://www.producthunt.com/posts/heyeditor)
+
 ## 20240226
 - [Product Hunt](https://www.producthunt.com) | [Legal Guardian](https://www.producthunt.com/posts/legal-guardian)
 - [Product Hunt](https://www.producthunt.com) | [Riff](https://www.producthunt.com/posts/riff-3)

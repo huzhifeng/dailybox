@@ -1,3 +1,7 @@
+## 20240227
+- [Slashdot](https://developers.slashdot.org/) | [Apple's Decision To Drop iPhone Web Apps Comes Under Scrutiny in the EU](https://apple.slashdot.org/story/24/02/26/1631200/apples-decision-to-drop-iphone-web-apps-comes-under-scrutiny-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Nvidia CEO Says Kids Shouldn't Learn To Code](https://developers.slashdot.org/story/24/02/26/1322242/nvidia-ceo-says-kids-shouldnt-learn-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240225
 - [Slashdot](https://developers.slashdot.org/) | ['Can a Programming Language Implement Time Travel?'](https://developers.slashdot.org/story/24/02/24/0521230/can-a-programming-language-implement-time-travel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Vending Machine Error Reveals Secret Face Image Database of College Students](https://yro.slashdot.org/story/24/02/24/0012232/vending-machine-error-reveals-secret-face-image-database-of-college-students?utm_source=rss1.0mainlinkanon&utm_medium=feed)
