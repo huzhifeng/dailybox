@@ -1,3 +1,7 @@
+## 20240227
+- [Planet GNOME](https://planet.gnome.org/) | [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
+- [Planet GNOME](https://planet.gnome.org/) | [Introducing App Brand Colors](https://docs.flathub.org/blog/introducing-app-brand-colors)
+
 ## 20240224
 - [Planet GNOME](https://planet.gnome.org/) | [Creating tagged PDFs with CapyPDF now sort of possible](https://nibblestew.blogspot.com/2024/02/tagged-pdfs-with-capypdf-now-sort-of.html)
 - [Planet GNOME](https://planet.gnome.org/) | [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/)

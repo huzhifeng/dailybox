@@ -1,3 +1,12 @@
+## 20240227
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install RHEL on the Marvell Octeon 10 DPU](https://developers.redhat.com/articles/2024/02/26/how-install-rhel-marvell-octeon-10-dpu)
+- [9to5Linux](https://9to5linux.com/) | [Giada 1.0 Open-Source Loop Machine Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/giada-1-0-open-source-loop-machine-officially-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.14 Fixes Updating the Fingerprint Reader on Framework 13 and 16 Laptops](https://9to5linux.com/fwupd-1-9-14-fixes-updating-the-fingerprint-reader-on-framework-laptops)
+- [9to5Linux](https://9to5linux.com/) | [GParted 1.6 Open-Source Partition Editor Improves exFAT Support and Fixes Bugs](https://9to5linux.com/gparted-1-6-open-source-partition-editor-improves-exfat-support-and-fixes-bugs)
+- [Planet GNOME](https://planet.gnome.org/) | [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
+- [Planet GNOME](https://planet.gnome.org/) | [Introducing App Brand Colors](https://docs.flathub.org/blog/introducing-app-brand-colors)
+- [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing #5](https://mauikit.org/blog/maui-release-briefing-5/?utm_source=atom_feed)
+
 ## 20240226
 - [Planet KDE](https://planet.kde.org/) | [Call for feeds: Make your region available in our open transit router](https://jbb.ghsq.de/kde/2024/02/25/Call-for-feeds-Make-your-region-available-in-our-open-transit-router.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Plasma Pass 1.2.2](https://jriddell.org/2024/02/25/plasma-pass-1-2-2/?utm_source=atom_feed)

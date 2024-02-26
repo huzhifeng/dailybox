@@ -1,3 +1,6 @@
+## 20240227
+- [It's FOSS](https://itsfoss.com/) | [13 Super Useful Tips on Organizing Notes Better With Obsidian](https://itsfoss.com/obsidian-tips/)
+
 ## 20240226
 - [It's FOSS](https://itsfoss.com/) | [Bluesky vs. Mastodon: Which Twitter Alternative Should You Choose?](https://itsfoss.com/bluesky-vs-mastodon/)
 

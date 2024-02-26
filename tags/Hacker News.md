@@ -1,3 +1,8 @@
+## 20240227
+- [Hacker News](https://news.ycombinator.com/front) | [How to find the AWS account ID of any S3 bucket](https://news.ycombinator.com/item?id=39512896)
+- [Hacker News](https://news.ycombinator.com/front) | [Apache Superset](https://news.ycombinator.com/item?id=39511676)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft strikes deal with Mistral in push beyond OpenAI](https://news.ycombinator.com/item?id=39511530)
+
 ## 20240226
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://news.ycombinator.com/item?id=39501073)
 

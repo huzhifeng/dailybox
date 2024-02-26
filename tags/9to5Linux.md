@@ -1,3 +1,8 @@
+## 20240227
+- [9to5Linux](https://9to5linux.com/) | [Giada 1.0 Open-Source Loop Machine Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/giada-1-0-open-source-loop-machine-officially-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.14 Fixes Updating the Fingerprint Reader on Framework 13 and 16 Laptops](https://9to5linux.com/fwupd-1-9-14-fixes-updating-the-fingerprint-reader-on-framework-laptops)
+- [9to5Linux](https://9to5linux.com/) | [GParted 1.6 Open-Source Partition Editor Improves exFAT Support and Fixes Bugs](https://9to5linux.com/gparted-1-6-open-source-partition-editor-improves-exfat-support-and-fixes-bugs)
+
 ## 20240224
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Launches in April with New Applications Menu, Qt 6 Port](https://9to5linux.com/lxqt-2-0-desktop-launches-in-april-with-new-applications-menu-qt-6-port)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.54.14 Linux Graphics Driver Released with Many Improvements](https://9to5linux.com/nvidia-550-54-14-linux-graphics-driver-released-with-many-improvements)
