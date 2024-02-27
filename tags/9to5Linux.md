@@ -1,3 +1,6 @@
+## 20240228
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Officially Released, Based on Debian 12 &#8220;Bookworm&#8221; and GNOME 43](https://9to5linux.com/tails-6-0-officially-released-based-on-debian-12-bookworm-and-gnome-43)
+
 ## 20240227
 - [9to5Linux](https://9to5linux.com/) | [Giada 1.0 Open-Source Loop Machine Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/giada-1-0-open-source-loop-machine-officially-released-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.14 Fixes Updating the Fingerprint Reader on Framework 13 and 16 Laptops](https://9to5linux.com/fwupd-1-9-14-fixes-updating-the-fingerprint-reader-on-framework-laptops)

@@ -1,3 +1,8 @@
+## 20240228
+- [Kagi Small Web](https://kagi.com/smallweb) | [More Files Please](https://blog.jim-nielsen.com/2024/more-files-plz/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Jonathan V. Last: Trump Showed His Vulnerabilities in South Carolina](https://dianeravitch.net/2024/02/27/jonathan-v-last-trump-showed-his-vulnerabilities-in-south-carolina/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [OMCA Workers Unionize Joining a National Movement for Change](https://brokeassstuart.com/2024/02/27/omca-workers-unionize-joining-a-national-movement-for-change/)
+
 ## 20240226
 - [Kagi Small Web](https://kagi.com/smallweb) | [Ripen Forth runs again](https://felix.plesoianu.ro/languages/forth/ripen/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)

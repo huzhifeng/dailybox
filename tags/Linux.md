@@ -1,3 +1,8 @@
+## 20240228
+- [Red Hat Developer](https://developers.redhat.com/) | [Network observability using TCP handshake round-trip time](https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time)
+- [Red Hat Developer](https://developers.redhat.com/) | [Handling FIPS mode in upstream projects for RHEL](https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel)
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.0 Officially Released, Based on Debian 12 &#8220;Bookworm&#8221; and GNOME 43](https://9to5linux.com/tails-6-0-officially-released-based-on-debian-12-bookworm-and-gnome-43)
+
 ## 20240227
 - [Red Hat Developer](https://developers.redhat.com/) | [How to install RHEL on the Marvell Octeon 10 DPU](https://developers.redhat.com/articles/2024/02/26/how-install-rhel-marvell-octeon-10-dpu)
 - [9to5Linux](https://9to5linux.com/) | [Giada 1.0 Open-Source Loop Machine Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/giada-1-0-open-source-loop-machine-officially-released-heres-whats-new)

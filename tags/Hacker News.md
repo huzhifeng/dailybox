@@ -1,3 +1,8 @@
+## 20240228
+- [Hacker News](https://news.ycombinator.com/front) | [Apple cancels work on electric car, shifts team to generative AI](https://news.ycombinator.com/item?id=39528134)
+- [Hacker News](https://news.ycombinator.com/front) | [Airfoil](https://news.ycombinator.com/item?id=39526057)
+- [Hacker News](https://news.ycombinator.com/front) | [I turned my open-source project into a full-time business](https://news.ycombinator.com/item?id=39522348)
+
 ## 20240227
 - [Hacker News](https://news.ycombinator.com/front) | [How to find the AWS account ID of any S3 bucket](https://news.ycombinator.com/item?id=39512896)
 - [Hacker News](https://news.ycombinator.com/front) | [Apache Superset](https://news.ycombinator.com/item?id=39511676)

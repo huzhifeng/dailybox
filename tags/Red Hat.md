@@ -1,3 +1,7 @@
+## 20240228
+- [Red Hat Developer](https://developers.redhat.com/) | [Network observability using TCP handshake round-trip time](https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time)
+- [Red Hat Developer](https://developers.redhat.com/) | [Handling FIPS mode in upstream projects for RHEL](https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel)
+
 ## 20240227
 - [Red Hat Developer](https://developers.redhat.com/) | [How to install RHEL on the Marvell Octeon 10 DPU](https://developers.redhat.com/articles/2024/02/26/how-install-rhel-marvell-octeon-10-dpu)
 

@@ -1,3 +1,8 @@
+## 20240228
+- [Product Hunt](https://www.producthunt.com) | [Superhuman AI 2.0](https://www.producthunt.com/posts/superhuman-ai-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Droit UI](https://www.producthunt.com/posts/droit-ui)
+- [Product Hunt](https://www.producthunt.com) | [Uneed](https://www.producthunt.com/posts/uneed-2)
+
 ## 20240227
 - [Product Hunt](https://www.producthunt.com) | [Immersive Translate](https://www.producthunt.com/posts/immersive-translate)
 - [Product Hunt](https://www.producthunt.com) | [Slogan Generator](https://www.producthunt.com/posts/slogan-generator-ef1c13a5-6e17-4aa2-8504-4efd81e7dbfc)

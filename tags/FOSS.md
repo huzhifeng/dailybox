@@ -1,3 +1,6 @@
+## 20240228
+- [It's FOSS](https://itsfoss.com/) | [Kill Command Examples](https://itsfoss.com/kill-command/)
+
 ## 20240227
 - [It's FOSS](https://itsfoss.com/) | [13 Super Useful Tips on Organizing Notes Better With Obsidian](https://itsfoss.com/obsidian-tips/)
 
