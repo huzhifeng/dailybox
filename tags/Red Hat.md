@@ -1,3 +1,6 @@
+## 20240229
+- [Red Hat Developer](https://developers.redhat.com/) | [Dynamically manage apps with the Argo CD plug-in generator](https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator)
+
 ## 20240228
 - [Red Hat Developer](https://developers.redhat.com/) | [Network observability using TCP handshake round-trip time](https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time)
 - [Red Hat Developer](https://developers.redhat.com/) | [Handling FIPS mode in upstream projects for RHEL](https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel)

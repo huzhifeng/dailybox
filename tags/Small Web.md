@@ -1,3 +1,8 @@
+## 20240229
+- [Kagi Small Web](https://kagi.com/smallweb) | [Home](https://samim.io/p/2024-02-28-home)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Reverse Logistics – What Happens to Stuff We Return?](https://frobertjacobs.wordpress.com/2024/02/28/reverse-logistics-what-happens-to-stuff-we-return/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [All The Terrible Arguments Used To Justify Genocide - SOME MORE NEWS](https://www.youtube.com/watch?v=LrGlRax9AiY)
+
 ## 20240228
 - [Kagi Small Web](https://kagi.com/smallweb) | [More Files Please](https://blog.jim-nielsen.com/2024/more-files-plz/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Jonathan V. Last: Trump Showed His Vulnerabilities in South Carolina](https://dianeravitch.net/2024/02/27/jonathan-v-last-trump-showed-his-vulnerabilities-in-south-carolina/)

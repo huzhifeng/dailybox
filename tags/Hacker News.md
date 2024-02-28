@@ -1,3 +1,7 @@
+## 20240229
+- [Hacker News](https://news.ycombinator.com/front) | [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://news.ycombinator.com/item?id=39538800)
+- [Hacker News](https://news.ycombinator.com/front) | [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://news.ycombinator.com/item?id=39535800)
+
 ## 20240228
 - [Hacker News](https://news.ycombinator.com/front) | [Apple cancels work on electric car, shifts team to generative AI](https://news.ycombinator.com/item?id=39528134)
 - [Hacker News](https://news.ycombinator.com/front) | [Airfoil](https://news.ycombinator.com/item?id=39526057)

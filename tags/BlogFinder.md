@@ -1,3 +1,8 @@
+## 20240229
+- [BlogFinder](https://bf.zzxworld.com/) | [所谓工作能力强，其实就是这五点](https://chegva.com/5954.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [减肥100斤，没有皮松正常吗？](https://www.xn--ptua509t.com/question/1716/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [GORM 支持复杂对象](https://www.edony.ink/advanced-gorm-customized-types/?utm_source=blogfinder)
+
 ## 20240228
 - [BlogFinder](https://bf.zzxworld.com/) | [nikon Z5](https://slykiten.com/life-note/nikon-z5/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [再见，德美利证券](https://innomad.io/bye-bye-tda?utm_source=blogfinder)
