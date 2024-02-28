@@ -1,3 +1,8 @@
+## 20240229
+- [Planet KDE](https://planet.kde.org/) | [KDE 6 UK Release Party](http://blog.davidedmundson.co.uk/blog/kde-6-uk-release-party/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Implicit Imports vs. QML Modules in Qt 6](https://www.qt.io/blog/implicit-imports-vs.-qml-modules-in-qt-6?utm_source=atom_feed)
+
 ## 20240227
 - [Planet GNOME](https://planet.gnome.org/) | [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 - [Planet GNOME](https://planet.gnome.org/) | [Introducing App Brand Colors](https://docs.flathub.org/blog/introducing-app-brand-colors)

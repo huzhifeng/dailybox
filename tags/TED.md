@@ -1,3 +1,6 @@
+## 20240229
+- [TED Talks Daily](https://www.ted.com/talks) | [What's the point of digital fashion? | Karinna Grant](https://www.ted.com/talks/karinna_grant_what_s_the_point_of_digital_fashion?rss)
+
 ## 20240228
 - [TED Talks Daily](https://www.ted.com/talks) | [How poop turns into forests | Ludmila Rattis](https://www.ted.com/talks/ludmila_rattis_how_poop_turns_into_forests?rss)
 

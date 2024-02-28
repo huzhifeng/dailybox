@@ -1,3 +1,8 @@
+## 20240229
+- [Planet KDE](https://planet.kde.org/) | [KDE 6 UK Release Party](http://blog.davidedmundson.co.uk/blog/kde-6-uk-release-party/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Implicit Imports vs. QML Modules in Qt 6](https://www.qt.io/blog/implicit-imports-vs.-qml-modules-in-qt-6?utm_source=atom_feed)
+
 ## 20240227
 - [Planet KDE](https://planet.kde.org/) | [Maui Release Briefing #5](https://mauikit.org/blog/maui-release-briefing-5/?utm_source=atom_feed)
 

@@ -1,3 +1,12 @@
+## 20240229
+- [Red Hat Developer](https://developers.redhat.com/) | [Dynamically manage apps with the Argo CD plug-in generator](https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator)
+- [9to5Linux](https://9to5linux.com/) | [Distrobox 1.7 Improves NVIDIA Support, Wolfi Containers, and Adds New Flags](https://9to5linux.com/distrobox-1-7-improves-nvidia-support-wolfi-containers-and-adds-new-flags)
+- [9to5Linux](https://9to5linux.com/) | [Kali Linux 2024.1 Penetration Testing Distro Is Here with Linux 6.6 LTS, New Look](https://9to5linux.com/kali-linux-2024-1-penetration-testing-distro-is-here-with-linux-6-6-lts-new-look)
+- [9to5Linux](https://9to5linux.com/) | [KDE neon 6 Distro Now Available with the KDE Plasma 6 Desktop Environment](https://9to5linux.com/kde-neon-distro-now-ships-with-the-kde-plasma-6-desktop-environment)
+- [Planet KDE](https://planet.kde.org/) | [KDE 6 UK Release Party](http://blog.davidedmundson.co.uk/blog/kde-6-uk-release-party/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Implicit Imports vs. QML Modules in Qt 6](https://www.qt.io/blog/implicit-imports-vs.-qml-modules-in-qt-6?utm_source=atom_feed)
+
 ## 20240228
 - [Red Hat Developer](https://developers.redhat.com/) | [Network observability using TCP handshake round-trip time](https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time)
 - [Red Hat Developer](https://developers.redhat.com/) | [Handling FIPS mode in upstream projects for RHEL](https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel)

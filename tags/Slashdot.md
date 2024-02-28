@@ -1,3 +1,6 @@
+## 20240229
+- [Slashdot](https://developers.slashdot.org/) | [White House Urges Devs To Switch To Memory-Safe Programming Languages](https://developers.slashdot.org/story/24/02/28/1529238/white-house-urges-devs-to-switch-to-memory-safe-programming-languages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240227
 - [Slashdot](https://developers.slashdot.org/) | [Apple's Decision To Drop iPhone Web Apps Comes Under Scrutiny in the EU](https://apple.slashdot.org/story/24/02/26/1631200/apples-decision-to-drop-iphone-web-apps-comes-under-scrutiny-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Nvidia CEO Says Kids Shouldn't Learn To Code](https://developers.slashdot.org/story/24/02/26/1322242/nvidia-ceo-says-kids-shouldnt-learn-to-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)

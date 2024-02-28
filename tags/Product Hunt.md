@@ -1,3 +1,8 @@
+## 20240229
+- [Product Hunt](https://www.producthunt.com) | [Breakcold](https://www.producthunt.com/posts/breakcold-2)
+- [Product Hunt](https://www.producthunt.com) | [Cookieless Facebook Ad Pixel Replacement](https://www.producthunt.com/posts/cookieless-facebook-ad-pixel-replacement)
+- [Product Hunt](https://www.producthunt.com) | [Index Rusher](https://www.producthunt.com/posts/index-rusher)
+
 ## 20240228
 - [Product Hunt](https://www.producthunt.com) | [Superhuman AI 2.0](https://www.producthunt.com/posts/superhuman-ai-2-0)
 - [Product Hunt](https://www.producthunt.com) | [Droit UI](https://www.producthunt.com/posts/droit-ui)
