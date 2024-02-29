@@ -1,3 +1,6 @@
+## 20240301
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.09: GNOME 46 & KDE 6 Features, PipeWire, Obsidian Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-09/)
+
 ## 20240228
 - [It's FOSS](https://itsfoss.com/) | [Kill Command Examples](https://itsfoss.com/kill-command/)
 

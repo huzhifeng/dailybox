@@ -1,3 +1,6 @@
+## 20240301
+- [Slashdot](https://developers.slashdot.org/) | ['Paying People To Work on Open Source is Good Actually'](https://news.slashdot.org/story/24/02/29/0746221/paying-people-to-work-on-open-source-is-good-actually?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240229
 - [Slashdot](https://developers.slashdot.org/) | [White House Urges Devs To Switch To Memory-Safe Programming Languages](https://developers.slashdot.org/story/24/02/28/1529238/white-house-urges-devs-to-switch-to-memory-safe-programming-languages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

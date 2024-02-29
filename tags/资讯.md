@@ -1,3 +1,6 @@
+## 20240301
+- [diff.blog](https://diff.blog/) | [This Week in Rust 536](https://diff.blog/post/this-week-in-rust-536-170502/)
+
 ## 20240228
 - [diff.blog](https://diff.blog/) | [How I backup](https://diff.blog/post/how-i-backup-170358/)
 - [diff.blog](https://diff.blog/) | [How I backup](https://diff.blog/post/how-i-backup-170357/)

@@ -1,3 +1,7 @@
+## 20240301
+- [TED Talks Daily](https://www.ted.com/talks) | [The billion-dollar problem in education | Tanishia Lavette Williams](https://www.ted.com/talks/tanishia_lavette_williams_the_billion_dollar_problem_in_education?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [A meditation on Rumi and the power of poetry | Leili Anvar](https://www.ted.com/talks/leili_anvar_a_meditation_on_rumi_and_the_power_of_poetry?rss)
+
 ## 20240229
 - [TED Talks Daily](https://www.ted.com/talks) | [What's the point of digital fashion? | Karinna Grant](https://www.ted.com/talks/karinna_grant_what_s_the_point_of_digital_fashion?rss)
 

@@ -1,3 +1,7 @@
+## 20240301
+- [Planet GNOME](https://planet.gnome.org/) | [2024-02-29 Thursday](https://meeksfamily.uk/~michael/blog/2024-02-29.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Accessibility in Ptyxis](https://blogs.gnome.org/chergert/2024/02/29/accessibility-in-ptyxis/)
+
 ## 20240227
 - [Planet GNOME](https://planet.gnome.org/) | [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 - [Planet GNOME](https://planet.gnome.org/) | [Introducing App Brand Colors](https://docs.flathub.org/blog/introducing-app-brand-colors)

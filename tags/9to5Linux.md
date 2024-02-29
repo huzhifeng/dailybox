@@ -1,3 +1,6 @@
+## 20240301
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.1 Office Suite Is Out with More Than 100 Bug Fixes](https://9to5linux.com/libreoffice-24-2-1-office-suite-is-out-with-more-than-100-bug-fixes)
+
 ## 20240229
 - [9to5Linux](https://9to5linux.com/) | [Distrobox 1.7 Improves NVIDIA Support, Wolfi Containers, and Adds New Flags](https://9to5linux.com/distrobox-1-7-improves-nvidia-support-wolfi-containers-and-adds-new-flags)
 - [9to5Linux](https://9to5linux.com/) | [Kali Linux 2024.1 Penetration Testing Distro Is Here with Linux 6.6 LTS, New Look](https://9to5linux.com/kali-linux-2024-1-penetration-testing-distro-is-here-with-linux-6-6-lts-new-look)

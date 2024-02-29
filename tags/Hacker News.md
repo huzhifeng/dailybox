@@ -1,3 +1,6 @@
+## 20240301
+- [Hacker News](https://news.ycombinator.com/front) | [The KDE desktop gets an overhaul with Plasma 6](https://news.ycombinator.com/item?id=39548088)
+
 ## 20240229
 - [Hacker News](https://news.ycombinator.com/front) | [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://news.ycombinator.com/item?id=39538800)
 - [Hacker News](https://news.ycombinator.com/front) | [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://news.ycombinator.com/item?id=39535800)
