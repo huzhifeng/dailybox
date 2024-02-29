@@ -1,3 +1,7 @@
+## 20240301
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta2 released](https://www.qt.io/blog/qt-creator-13-beta2-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Punctuality Matters: Using Linux to Manage Time-Critical Situations](https://www.kdab.com/punctuality-matters-using-linux-to-manage-time-critical-situations/?utm_source=atom_feed)
+
 ## 20240229
 - [Planet KDE](https://planet.kde.org/) | [KDE 6 UK Release Party](http://blog.davidedmundson.co.uk/blog/kde-6-uk-release-party/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/?utm_source=atom_feed)

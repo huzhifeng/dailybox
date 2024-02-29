@@ -1,3 +1,7 @@
+## 20240301
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploying Microservices to OpenShift- Tutorial using Pedal](https://developers.redhat.com/articles/2024/02/29/deploying-microservices-openshift-tutorial-using-pedal)
+- [Red Hat Developer](https://developers.redhat.com/) | [CodeShift hackathon winners](https://developers.redhat.com/articles/2024/02/29/codeshift-hackathon-winners)
+
 ## 20240229
 - [Red Hat Developer](https://developers.redhat.com/) | [Dynamically manage apps with the Argo CD plug-in generator](https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator)
 

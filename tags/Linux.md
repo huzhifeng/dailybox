@@ -1,3 +1,12 @@
+## 20240301
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploying Microservices to OpenShift- Tutorial using Pedal](https://developers.redhat.com/articles/2024/02/29/deploying-microservices-openshift-tutorial-using-pedal)
+- [Red Hat Developer](https://developers.redhat.com/) | [CodeShift hackathon winners](https://developers.redhat.com/articles/2024/02/29/codeshift-hackathon-winners)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.1 Office Suite Is Out with More Than 100 Bug Fixes](https://9to5linux.com/libreoffice-24-2-1-office-suite-is-out-with-more-than-100-bug-fixes)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-02-29 Thursday](https://meeksfamily.uk/~michael/blog/2024-02-29.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Accessibility in Ptyxis](https://blogs.gnome.org/chergert/2024/02/29/accessibility-in-ptyxis/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta2 released](https://www.qt.io/blog/qt-creator-13-beta2-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Punctuality Matters: Using Linux to Manage Time-Critical Situations](https://www.kdab.com/punctuality-matters-using-linux-to-manage-time-critical-situations/?utm_source=atom_feed)
+
 ## 20240229
 - [Red Hat Developer](https://developers.redhat.com/) | [Dynamically manage apps with the Argo CD plug-in generator](https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator)
 - [9to5Linux](https://9to5linux.com/) | [Distrobox 1.7 Improves NVIDIA Support, Wolfi Containers, and Adds New Flags](https://9to5linux.com/distrobox-1-7-improves-nvidia-support-wolfi-containers-and-adds-new-flags)
