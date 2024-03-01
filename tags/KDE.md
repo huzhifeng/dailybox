@@ -1,3 +1,8 @@
+## 20240302
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu: Week 4, Feature Freeze and what comes next.](https://www.scarlettgatelymoore.dev/kubuntu-week-4-feature-freeze-and-what-comes-next/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Release Party in Nürnberg](https://blog.broulik.de/2024/03/kde-release-party-in-nurnberg/?utm_source=atom_feed)
+
 ## 20240301
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 Beta2 released](https://www.qt.io/blog/qt-creator-13-beta2-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Punctuality Matters: Using Linux to Manage Time-Critical Situations](https://www.kdab.com/punctuality-matters-using-linux-to-manage-time-critical-situations/?utm_source=atom_feed)

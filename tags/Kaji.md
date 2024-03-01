@@ -1,3 +1,8 @@
+## 20240302
+- [Kagi Small Web](https://kagi.com/smallweb) | [Original: Embroidered Pocket, 18th Century](https://bethsbobbins.blogspot.com/2024/03/original-embroidered-pocket-18th-century.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [self-fulfilling prophecies when applying for funding](https://www.lesswrong.com/posts/B3GMeth32R2xPeKfp/self-fulfilling-prophecies-when-applying-for-funding)
+- [Kagi Small Web](https://kagi.com/smallweb) | [MelonLand in 2024](https://forum.melonland.net/index.php?topic=2648.msg25815#msg25815)
+
 ## 20240229
 - [Kagi Small Web](https://kagi.com/smallweb) | [Home](https://samim.io/p/2024-02-28-home)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reverse Logistics – What Happens to Stuff We Return?](https://frobertjacobs.wordpress.com/2024/02/28/reverse-logistics-what-happens-to-stuff-we-return/)

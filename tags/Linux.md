@@ -1,3 +1,11 @@
+## 20240302
+- [9to5Linux](https://9to5linux.com/) | [KDE Releases Plasma 6 for Mobile Devices with Revamped Homescreen](https://9to5linux.com/kde-releases-plasma-6-for-mobile-devices-with-revamped-homescreen)
+- [9to5Linux](https://9to5linux.com/) | [Armbian 24.2 Adds Xiaomi Mi 10, Orange Pi Zero 3, and ASUS Tinker Edge R Support](https://9to5linux.com/armbian-24-2-adds-xiaomi-mi-10-orange-pi-zero-3-and-asus-tinker-edge-r-support)
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx is a release blocker for Fedora 39 onwards](https://debarshiray.wordpress.com/2024/03/01/toolbx-is-a-release-blocker-for-fedora-39-onwards/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu: Week 4, Feature Freeze and what comes next.](https://www.scarlettgatelymoore.dev/kubuntu-week-4-feature-freeze-and-what-comes-next/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Release Party in Nürnberg](https://blog.broulik.de/2024/03/kde-release-party-in-nurnberg/?utm_source=atom_feed)
+
 ## 20240301
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploying Microservices to OpenShift- Tutorial using Pedal](https://developers.redhat.com/articles/2024/02/29/deploying-microservices-openshift-tutorial-using-pedal)
 - [Red Hat Developer](https://developers.redhat.com/) | [CodeShift hackathon winners](https://developers.redhat.com/articles/2024/02/29/codeshift-hackathon-winners)

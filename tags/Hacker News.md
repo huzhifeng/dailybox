@@ -1,3 +1,8 @@
+## 20240302
+- [Hacker News](https://news.ycombinator.com/front) | [Apple reverses course on death of Progressive Web Apps in EU](https://news.ycombinator.com/item?id=39563618)
+- [Hacker News](https://news.ycombinator.com/front) | [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://news.ycombinator.com/item?id=39561021)
+- [Hacker News](https://news.ycombinator.com/front) | [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://news.ycombinator.com/item?id=39559966)
+
 ## 20240301
 - [Hacker News](https://news.ycombinator.com/front) | [The KDE desktop gets an overhaul with Plasma 6](https://news.ycombinator.com/item?id=39548088)
 

@@ -1,3 +1,9 @@
+## 20240302
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx is a release blocker for Fedora 39 onwards](https://debarshiray.wordpress.com/2024/03/01/toolbx-is-a-release-blocker-for-fedora-39-onwards/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu: Week 4, Feature Freeze and what comes next.](https://www.scarlettgatelymoore.dev/kubuntu-week-4-feature-freeze-and-what-comes-next/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE Release Party in Nürnberg](https://blog.broulik.de/2024/03/kde-release-party-in-nurnberg/?utm_source=atom_feed)
+
 ## 20240301
 - [Planet GNOME](https://planet.gnome.org/) | [2024-02-29 Thursday](https://meeksfamily.uk/~michael/blog/2024-02-29.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Accessibility in Ptyxis](https://blogs.gnome.org/chergert/2024/02/29/accessibility-in-ptyxis/)

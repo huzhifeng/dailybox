@@ -1,3 +1,7 @@
+## 20240302
+- [TED Talks Daily](https://www.ted.com/talks) | [How AI and democracy can fix each other | Divya Siddarth](https://www.ted.com/talks/divya_siddarth_how_ai_and_democracy_can_fix_each_other?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [The drumline meets the danceline |  Mahogany-N-Motion](https://www.ted.com/talks/mahogany_n_motion_the_drumline_meets_the_danceline?rss)
+
 ## 20240301
 - [TED Talks Daily](https://www.ted.com/talks) | [The billion-dollar problem in education | Tanishia Lavette Williams](https://www.ted.com/talks/tanishia_lavette_williams_the_billion_dollar_problem_in_education?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [A meditation on Rumi and the power of poetry | Leili Anvar](https://www.ted.com/talks/leili_anvar_a_meditation_on_rumi_and_the_power_of_poetry?rss)

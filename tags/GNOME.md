@@ -1,3 +1,6 @@
+## 20240302
+- [Planet GNOME](https://planet.gnome.org/) | [Toolbx is a release blocker for Fedora 39 onwards](https://debarshiray.wordpress.com/2024/03/01/toolbx-is-a-release-blocker-for-fedora-39-onwards/)
+
 ## 20240301
 - [Planet GNOME](https://planet.gnome.org/) | [2024-02-29 Thursday](https://meeksfamily.uk/~michael/blog/2024-02-29.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Accessibility in Ptyxis](https://blogs.gnome.org/chergert/2024/02/29/accessibility-in-ptyxis/)

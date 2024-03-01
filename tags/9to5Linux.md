@@ -1,3 +1,7 @@
+## 20240302
+- [9to5Linux](https://9to5linux.com/) | [KDE Releases Plasma 6 for Mobile Devices with Revamped Homescreen](https://9to5linux.com/kde-releases-plasma-6-for-mobile-devices-with-revamped-homescreen)
+- [9to5Linux](https://9to5linux.com/) | [Armbian 24.2 Adds Xiaomi Mi 10, Orange Pi Zero 3, and ASUS Tinker Edge R Support](https://9to5linux.com/armbian-24-2-adds-xiaomi-mi-10-orange-pi-zero-3-and-asus-tinker-edge-r-support)
+
 ## 20240301
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.1 Office Suite Is Out with More Than 100 Bug Fixes](https://9to5linux.com/libreoffice-24-2-1-office-suite-is-out-with-more-than-100-bug-fixes)
 
