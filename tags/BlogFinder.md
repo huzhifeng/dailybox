@@ -1,3 +1,8 @@
+## 20240303
+- [BlogFinder](https://bf.zzxworld.com/) | [2024年第一个役満！](https://www.wikimoe.com/post/949rbkpe?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [上海探秘之旅：穿越时空的魔都风情（七）](https://bluehe.cn/archives/shanghai-walk-2?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [升级 rust 到最新版本](https://www.sunzhongwei.com/rust-upgrade-version?utm_source=blogfinder)
+
 ## 20240302
 - [BlogFinder](https://bf.zzxworld.com/) | [在华南工程那边](https://www.xiangshitan.com/post/756.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [关于中文书写的标点符号](https://kaffa.im/on-punctuation-marks-in-chinese-writing.html?utm_source=blogfinder)

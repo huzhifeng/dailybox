@@ -1,3 +1,6 @@
+## 20240303
+- [Planet GNOME](https://planet.gnome.org/) | [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/)
+
 ## 20240302
 - [Planet GNOME](https://planet.gnome.org/) | [Toolbx is a release blocker for Fedora 39 onwards](https://debarshiray.wordpress.com/2024/03/01/toolbx-is-a-release-blocker-for-fedora-39-onwards/)
 

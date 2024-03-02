@@ -1,3 +1,11 @@
+## 20240303
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.02 Open-Source Video Editor Released with Ambisonic Audio Support](https://9to5linux.com/shotcut-24-02-open-source-video-editor-released-with-ambisonic-audio-support)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Ship with Experimental Variable Refresh Rate (VRR) Support](https://9to5linux.com/gnome-46-to-ship-with-experimental-variable-refresh-rate-vrr-support)
+- [Planet GNOME](https://planet.gnome.org/) | [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/)
+- [Planet KDE](https://planet.kde.org/) | [Megarelease Teething Problems](https://blog.neon.kde.org/2024/03/02/megarelease-teething-problems/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend February 2024](https://www.volkerkrause.eu/2024/03/02/osm-hackweekend-karlsruhe-february-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This Week in KDE: delayed until tomorrow!](https://pointieststick.com/2024/03/01/this-week-in-kde-delayed-until-tomorrow/?utm_source=atom_feed)
+
 ## 20240302
 - [9to5Linux](https://9to5linux.com/) | [KDE Releases Plasma 6 for Mobile Devices with Revamped Homescreen](https://9to5linux.com/kde-releases-plasma-6-for-mobile-devices-with-revamped-homescreen)
 - [9to5Linux](https://9to5linux.com/) | [Armbian 24.2 Adds Xiaomi Mi 10, Orange Pi Zero 3, and ASUS Tinker Edge R Support](https://9to5linux.com/armbian-24-2-adds-xiaomi-mi-10-orange-pi-zero-3-and-asus-tinker-edge-r-support)
