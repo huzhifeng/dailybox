@@ -1,3 +1,8 @@
+## 20240303
+- [Kagi Small Web](https://kagi.com/smallweb) | [Rules for my personal blogging](https://json.blog/2024/03/02/rules-for-my.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Weekend links 715](https://www.johncoulthart.com/feuilleton/2024/03/02/weekend-links-715/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Elite higher education--an undergraduate's view](https://historyunfolding.blogspot.com/2024/03/elite-higher-education-undergraduates.html)
+
 ## 20240302
 - [Kagi Small Web](https://kagi.com/smallweb) | [Original: Embroidered Pocket, 18th Century](https://bethsbobbins.blogspot.com/2024/03/original-embroidered-pocket-18th-century.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [self-fulfilling prophecies when applying for funding](https://www.lesswrong.com/posts/B3GMeth32R2xPeKfp/self-fulfilling-prophecies-when-applying-for-funding)

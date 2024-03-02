@@ -1,3 +1,8 @@
+## 20240303
+- [Planet KDE](https://planet.kde.org/) | [Megarelease Teething Problems](https://blog.neon.kde.org/2024/03/02/megarelease-teething-problems/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend February 2024](https://www.volkerkrause.eu/2024/03/02/osm-hackweekend-karlsruhe-february-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This Week in KDE: delayed until tomorrow!](https://pointieststick.com/2024/03/01/this-week-in-kde-delayed-until-tomorrow/?utm_source=atom_feed)
+
 ## 20240302
 - [Planet KDE](https://planet.kde.org/) | [Kubuntu: Week 4, Feature Freeze and what comes next.](https://www.scarlettgatelymoore.dev/kubuntu-week-4-feature-freeze-and-what-comes-next/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/?utm_source=atom_feed)

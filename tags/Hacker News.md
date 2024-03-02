@@ -1,3 +1,7 @@
+## 20240303
+- [Hacker News](https://news.ycombinator.com/front) | [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://news.ycombinator.com/item?id=39570692)
+- [Hacker News](https://news.ycombinator.com/front) | [Bash Debugging](https://news.ycombinator.com/item?id=39568728)
+
 ## 20240302
 - [Hacker News](https://news.ycombinator.com/front) | [Apple reverses course on death of Progressive Web Apps in EU](https://news.ycombinator.com/item?id=39563618)
 - [Hacker News](https://news.ycombinator.com/front) | [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://news.ycombinator.com/item?id=39561021)
