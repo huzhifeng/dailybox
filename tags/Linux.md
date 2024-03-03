@@ -1,3 +1,7 @@
+## 20240304
+- [Planet GNOME](https://planet.gnome.org/) | [Pika Backup Hopping Through Milestones](https://blogs.gnome.org/sophieh/2024/03/03/pika-backup-hopping-through-milestones/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)
+
 ## 20240303
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 24.02 Open-Source Video Editor Released with Ambisonic Audio Support](https://9to5linux.com/shotcut-24-02-open-source-video-editor-released-with-ambisonic-audio-support)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Ship with Experimental Variable Refresh Rate (VRR) Support](https://9to5linux.com/gnome-46-to-ship-with-experimental-variable-refresh-rate-vrr-support)

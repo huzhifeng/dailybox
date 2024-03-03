@@ -1,3 +1,8 @@
+## 20240304
+- [BlogFinder](https://bf.zzxworld.com/) | [如何向别人证明自己不是精神病](https://www.edony.ink/how-to-prove-myself/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [我对独立博客的一些看法](https://jyblog.cn/2574?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [保护知识产权，维护原创精神：面对网站被爬取的困境与解决之道](https://blog.peiluming.com/article/795?utm_source=blogfinder)
+
 ## 20240303
 - [BlogFinder](https://bf.zzxworld.com/) | [2024年第一个役満！](https://www.wikimoe.com/post/949rbkpe?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [上海探秘之旅：穿越时空的魔都风情（七）](https://bluehe.cn/archives/shanghai-walk-2?utm_source=blogfinder)

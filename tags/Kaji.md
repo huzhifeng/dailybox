@@ -1,3 +1,8 @@
+## 20240304
+- [Kagi Small Web](https://kagi.com/smallweb) | [Book Review:  The Business Novels of Cameron Hawley](https://chicagoboyz.net/archives/70636.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Kind of like the NBA All-Star game](https://marginalrevolution.com/marginalrevolution/2024/03/kind-of-like-the-nba-all-star-game.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [N is for Not So Free French Forces!](https://smallscaleworld.blogspot.com/2024/03/n-is-for-not-so-free-french-forces.html)
+
 ## 20240303
 - [Kagi Small Web](https://kagi.com/smallweb) | [Rules for my personal blogging](https://json.blog/2024/03/02/rules-for-my.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Weekend links 715](https://www.johncoulthart.com/feuilleton/2024/03/02/weekend-links-715/)

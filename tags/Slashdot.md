@@ -1,3 +1,7 @@
+## 20240304
+- [Slashdot](https://developers.slashdot.org/) | ['Communications of the ACM' Is Now Open Access](https://developers.slashdot.org/story/24/03/03/035222/communications-of-the-acm-is-now-open-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Rust Survey Finds Linux and VS Code Users, More WebAssembly Targeting](https://developers.slashdot.org/story/24/03/03/0620219/rust-survey-finds-linux-and-vs-code-users-more-webassembly-targeting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240301
 - [Slashdot](https://developers.slashdot.org/) | ['Paying People To Work on Open Source is Good Actually'](https://news.slashdot.org/story/24/02/29/0746221/paying-people-to-work-on-open-source-is-good-actually?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

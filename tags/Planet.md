@@ -1,3 +1,7 @@
+## 20240304
+- [Planet GNOME](https://planet.gnome.org/) | [Pika Backup Hopping Through Milestones](https://blogs.gnome.org/sophieh/2024/03/03/pika-backup-hopping-through-milestones/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)
+
 ## 20240303
 - [Planet GNOME](https://planet.gnome.org/) | [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/)
 - [Planet KDE](https://planet.kde.org/) | [Megarelease Teething Problems](https://blog.neon.kde.org/2024/03/02/megarelease-teething-problems/?utm_source=atom_feed)

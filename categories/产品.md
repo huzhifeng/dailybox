@@ -1,3 +1,8 @@
+## 20240304
+- [Product Hunt](https://www.producthunt.com) | [Country Out](https://www.producthunt.com/posts/country-out)
+- [Product Hunt](https://www.producthunt.com) | [ReplyMore](https://www.producthunt.com/posts/replymore)
+- [Product Hunt](https://www.producthunt.com) | [Calorieasy](https://www.producthunt.com/posts/calorieasy)
+
 ## 20240303
 - [Product Hunt](https://www.producthunt.com) | [OG Image Generator](https://www.producthunt.com/posts/og-image-generator)
 - [Product Hunt](https://www.producthunt.com) | [Ten - Testnet](https://www.producthunt.com/posts/ten-testnet-1)
