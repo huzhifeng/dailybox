@@ -1,3 +1,6 @@
+## 20240304
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)
+
 ## 20240303
 - [Planet KDE](https://planet.kde.org/) | [Megarelease Teething Problems](https://blog.neon.kde.org/2024/03/02/megarelease-teething-problems/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [OSM Hack Weekend February 2024](https://www.volkerkrause.eu/2024/03/02/osm-hackweekend-karlsruhe-february-2024.html?utm_source=atom_feed)

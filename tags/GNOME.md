@@ -1,3 +1,6 @@
+## 20240304
+- [Planet GNOME](https://planet.gnome.org/) | [Pika Backup Hopping Through Milestones](https://blogs.gnome.org/sophieh/2024/03/03/pika-backup-hopping-through-milestones/)
+
 ## 20240303
 - [Planet GNOME](https://planet.gnome.org/) | [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/)
 
