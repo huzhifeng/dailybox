@@ -1,3 +1,6 @@
+## 20240305
+- [Red Hat Developer](https://developers.redhat.com/) | [Test Kubernetes performance and scale with kube-burner](https://developers.redhat.com/articles/2024/03/04/test-kubernetes-performance-and-scale-kube-burner)
+
 ## 20240301
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploying Microservices to OpenShift- Tutorial using Pedal](https://developers.redhat.com/articles/2024/02/29/deploying-microservices-openshift-tutorial-using-pedal)
 - [Red Hat Developer](https://developers.redhat.com/) | [CodeShift hackathon winners](https://developers.redhat.com/articles/2024/02/29/codeshift-hackathon-winners)

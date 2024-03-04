@@ -1,3 +1,6 @@
+## 20240305
+- [diff.blog](https://diff.blog/) | [Reclaim your focus with ~12 lines of bash](https://diff.blog/post/reclaim-your-focus-with-12-lines-of-bash-170939/)
+
 ## 20240301
 - [diff.blog](https://diff.blog/) | [This Week in Rust 536](https://diff.blog/post/this-week-in-rust-536-170502/)
 

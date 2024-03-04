@@ -1,3 +1,6 @@
+## 20240305
+- [It's FOSS](https://itsfoss.com/) | [The Book You Need to Get Started With Linux Kernel Development](https://itsfoss.com/linux-kernel-programming-review/)
+
 ## 20240301
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.09: GNOME 46 & KDE 6 Features, PipeWire, Obsidian Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-09/)
 

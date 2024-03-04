@@ -1,3 +1,7 @@
+## 20240305
+- [Hacker News](https://news.ycombinator.com/front) | [The hunt for the missing data type](https://news.ycombinator.com/item?id=39592444)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude 3 model family](https://news.ycombinator.com/item?id=39590666)
+
 ## 20240303
 - [Hacker News](https://news.ycombinator.com/front) | [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://news.ycombinator.com/item?id=39570692)
 - [Hacker News](https://news.ycombinator.com/front) | [Bash Debugging](https://news.ycombinator.com/item?id=39568728)

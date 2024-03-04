@@ -1,3 +1,8 @@
+## 20240305
+- [Kagi Small Web](https://kagi.com/smallweb) | [Expectations](https://blog.academicbiz.com/2024/03/expectations.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Reddit IPO breakdown! #reddit #stockmarket](https://www.youtube.com/watch?v=M4uk2S2tZ3Y)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Sears, Roebuck & Co. in-house Fulton brand hand planes manufactured by Union Plane Co.](https://www.timetestedtools.net/2024/03/04/sears-roebuck-co-in-house-fulton-brand-hand-planes-manufactured-by-union-plane-co/)
+
 ## 20240304
 - [Kagi Small Web](https://kagi.com/smallweb) | [Book Review:  The Business Novels of Cameron Hawley](https://chicagoboyz.net/archives/70636.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Kind of like the NBA All-Star game](https://marginalrevolution.com/marginalrevolution/2024/03/kind-of-like-the-nba-all-star-game.html)

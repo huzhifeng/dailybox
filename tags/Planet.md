@@ -1,3 +1,6 @@
+## 20240305
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.9.0 released](https://nibblestew.blogspot.com/2024/03/capypdf-090-released.html)
+
 ## 20240304
 - [Planet GNOME](https://planet.gnome.org/) | [Pika Backup Hopping Through Milestones](https://blogs.gnome.org/sophieh/2024/03/03/pika-backup-hopping-through-milestones/)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)

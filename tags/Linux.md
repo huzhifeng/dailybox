@@ -1,3 +1,8 @@
+## 20240305
+- [Red Hat Developer](https://developers.redhat.com/) | [Test Kubernetes performance and scale with kube-burner](https://developers.redhat.com/articles/2024/03/04/test-kubernetes-performance-and-scale-kube-burner)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-3rd-2024)
+- [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.9.0 released](https://nibblestew.blogspot.com/2024/03/capypdf-090-released.html)
+
 ## 20240304
 - [Planet GNOME](https://planet.gnome.org/) | [Pika Backup Hopping Through Milestones](https://blogs.gnome.org/sophieh/2024/03/03/pika-backup-hopping-through-milestones/)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)

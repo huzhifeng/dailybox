@@ -1,3 +1,8 @@
+## 20240305
+- [V2EX](https://www.v2ex.com/) | [自己做饭真的能省钱吗？](https://www.v2ex.com/t/1020456)
+- [V2EX](https://www.v2ex.com/) | [关于丧假，公司需要开出死亡证明、关系证明。这两需要本人去当地派出所才能开吗？](https://www.v2ex.com/t/1020455)
+- [V2EX](https://www.v2ex.com/) | [boss 大都已读不回](https://www.v2ex.com/t/1020382)
+
 ## 20240304
 - [V2EX](https://www.v2ex.com/) | [mpb 卡了半年，才发现罪魁祸首是 Vivaldi，以及虽然 Edge 又烂又恶心，但确实强到无敌（对我来说）……](https://www.v2ex.com/t/1020218)
 - [V2EX](https://www.v2ex.com/) | [各位都几年换一次手机](https://www.v2ex.com/t/1020214)

@@ -1,3 +1,6 @@
+## 20240305
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-3rd-2024)
+
 ## 20240303
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 24.02 Open-Source Video Editor Released with Ambisonic Audio Support](https://9to5linux.com/shotcut-24-02-open-source-video-editor-released-with-ambisonic-audio-support)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 to Ship with Experimental Variable Refresh Rate (VRR) Support](https://9to5linux.com/gnome-46-to-ship-with-experimental-variable-refresh-rate-vrr-support)
