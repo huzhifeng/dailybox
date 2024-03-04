@@ -1,3 +1,8 @@
+## 20240305
+- [BlogFinder](https://bf.zzxworld.com/) | [WireGuard 配置备忘](https://blog.lucien.ink/archives/545/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [一趟说走就走的香港行](http://www.huih110.com/archives/2024hongkong?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Hugo 英语内容出现在中文页面](https://scottyeung.top/2024/hugo-en-content-exist-in-zh/?utm_source=blogfinder)
+
 ## 20240304
 - [BlogFinder](https://bf.zzxworld.com/) | [如何向别人证明自己不是精神病](https://www.edony.ink/how-to-prove-myself/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [我对独立博客的一些看法](https://jyblog.cn/2574?utm_source=blogfinder)

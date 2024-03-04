@@ -1,3 +1,8 @@
+## 20240305
+- [GitHub Advanced Search](https://github.com/search/advanced) | [wacki01/ChatGPT-Windows-Client](https://github.com/wacki01/ChatGPT-Windows-Client)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [vasyarar/ledger-live-desktop](https://github.com/vasyarar/ledger-live-desktop)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [thelomls/CS2-External-Midnight](https://github.com/thelomls/CS2-External-Midnight)
+
 ## 20240302
 - [GitHub Advanced Search](https://github.com/search/advanced) | [tel003/Mevbot](https://github.com/tel003/Mevbot)
 
