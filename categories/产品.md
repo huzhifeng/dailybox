@@ -1,3 +1,8 @@
+## 20240306
+- [Product Hunt](https://www.producthunt.com) | [Claude 3](https://www.producthunt.com/posts/claude-3)
+- [Product Hunt](https://www.producthunt.com) | [Qubinets](https://www.producthunt.com/posts/qubinets)
+- [Product Hunt](https://www.producthunt.com) | [AI Studios by DeepBrain AI](https://www.producthunt.com/posts/ai-studios-by-deepbrain-ai)
+
 ## 20240305
 - [Product Hunt](https://www.producthunt.com) | [PoopUp](https://www.producthunt.com/posts/poopup)
 - [Product Hunt](https://www.producthunt.com) | [Wondercraft](https://www.producthunt.com/posts/wondercraft)

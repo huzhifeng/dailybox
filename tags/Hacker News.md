@@ -1,3 +1,8 @@
+## 20240306
+- [Hacker News](https://news.ycombinator.com/front) | [Kagi and Wolfram](https://news.ycombinator.com/item?id=39606048)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta outage](https://news.ycombinator.com/item?id=39604590)
+- [Hacker News](https://news.ycombinator.com/front) | [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://news.ycombinator.com/item?id=39600810)
+
 ## 20240305
 - [Hacker News](https://news.ycombinator.com/front) | [The hunt for the missing data type](https://news.ycombinator.com/item?id=39592444)
 - [Hacker News](https://news.ycombinator.com/front) | [Claude 3 model family](https://news.ycombinator.com/item?id=39590666)

@@ -1,3 +1,6 @@
+## 20240306
+- [It's FOSS](https://itsfoss.com/) | [ps Command Examples](https://itsfoss.com/ps-command/)
+
 ## 20240305
 - [It's FOSS](https://itsfoss.com/) | [The Book You Need to Get Started With Linux Kernel Development](https://itsfoss.com/linux-kernel-programming-review/)
 

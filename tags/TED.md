@@ -1,3 +1,6 @@
+## 20240306
+- [TED Talks Daily](https://www.ted.com/talks) | [How to bridge political divides — from two friends on opposing sides | Samar Ali and Clint Brewer](https://www.ted.com/talks/samar_ali_and_clint_brewer_how_to_bridge_political_divides_from_two_friends_on_opposing_sides?rss)
+
 ## 20240305
 - [TED Talks Daily](https://www.ted.com/talks) | [How business can improve the world, not just the bottom line | Esha Chhabra](https://www.ted.com/talks/esha_chhabra_how_business_can_improve_the_world_not_just_the_bottom_line?rss)
 

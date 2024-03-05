@@ -1,3 +1,7 @@
+## 20240306
+- [Slashdot](https://linux.slashdot.org/) | [Linux Passes 4% Desktop Market Share](https://linux.slashdot.org/story/24/03/04/2159239/linux-passes-4-desktop-market-share?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Qualcomm Launches First True 'App Store' For AI With 75 Free Models](https://developers.slashdot.org/story/24/03/04/2212212/qualcomm-launches-first-true-app-store-for-ai-with-75-free-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240304
 - [Slashdot](https://developers.slashdot.org/) | ['Communications of the ACM' Is Now Open Access](https://developers.slashdot.org/story/24/03/03/035222/communications-of-the-acm-is-now-open-access?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Rust Survey Finds Linux and VS Code Users, More WebAssembly Targeting](https://developers.slashdot.org/story/24/03/03/0620219/rust-survey-finds-linux-and-vs-code-users-more-webassembly-targeting?utm_source=rss1.0mainlinkanon&utm_medium=feed)

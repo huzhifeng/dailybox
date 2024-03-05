@@ -1,3 +1,6 @@
+## 20240306
+- [Planet KDE](https://planet.kde.org/) | [Icon Updates for March, 2024](https://anditosan.wordpress.com/2024/03/05/icon-updates-for-march-2024/?utm_source=atom_feed)
+
 ## 20240304
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/?utm_source=atom_feed)
 

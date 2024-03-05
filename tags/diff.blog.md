@@ -1,3 +1,7 @@
+## 20240306
+- [diff.blog](https://diff.blog/) | [Free data transfer out to internet when moving out of AWS](https://diff.blog/post/free-data-transfer-out-to-internet-when-moving-out-of-aws-171052/)
+- [diff.blog](https://diff.blog/) | [Protecting paths in macro expansions by extending UTF-8](https://diff.blog/post/protecting-paths-in-macro-expansions-by-extending-utf-8-171012/)
+
 ## 20240305
 - [diff.blog](https://diff.blog/) | [Reclaim your focus with ~12 lines of bash](https://diff.blog/post/reclaim-your-focus-with-12-lines-of-bash-170939/)
 
