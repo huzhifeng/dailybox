@@ -1,3 +1,11 @@
+## 20240306
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use JBoss EAP 8.0's new provisioning system](https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system)
+- [Red Hat Developer](https://developers.redhat.com/) | [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mobile Distro postmarketOS Adopts systemd to Better Support GNOME, KDE Plasma](https://9to5linux.com/linux-mobile-distro-postmarketos-adopts-systemd-to-better-support-gnome-kde-plasma)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.24 Multimedia Framework Released with Vulkan H.264 and H.265 Video Decoders](https://9to5linux.com/gstreamer-1-24-multimedia-framework-released-with-vulkan-h-264-and-h-265-video-decoders)
+- [Planet KDE](https://planet.kde.org/) | [Icon Updates for March, 2024](https://anditosan.wordpress.com/2024/03/05/icon-updates-for-march-2024/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Passes 4% Desktop Market Share](https://linux.slashdot.org/story/24/03/04/2159239/linux-passes-4-desktop-market-share?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240305
 - [Red Hat Developer](https://developers.redhat.com/) | [Test Kubernetes performance and scale with kube-burner](https://developers.redhat.com/articles/2024/03/04/test-kubernetes-performance-and-scale-kube-burner)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-3rd-2024)

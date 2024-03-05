@@ -1,3 +1,6 @@
+## 20240306
+- [Planet KDE](https://planet.kde.org/) | [Icon Updates for March, 2024](https://anditosan.wordpress.com/2024/03/05/icon-updates-for-march-2024/?utm_source=atom_feed)
+
 ## 20240305
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.9.0 released](https://nibblestew.blogspot.com/2024/03/capypdf-090-released.html)
 

@@ -1,3 +1,8 @@
+## 20240306
+- [Kagi Small Web](https://kagi.com/smallweb) | [My Guest Appearance on ShopTalk Show #605](https://blog.jim-nielsen.com/2024/shoptalk-show-605/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [what's between two pings?](https://bytes.zone/micro/thing-a-month-03-02/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Visual Effects Oscar Nominees Go In-Depth On Their Work](https://kottke.org/24/03/visual-effects-oscar-nominees-go-in-depth-on-their-work)
+
 ## 20240305
 - [Kagi Small Web](https://kagi.com/smallweb) | [Expectations](https://blog.academicbiz.com/2024/03/expectations.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reddit IPO breakdown! #reddit #stockmarket](https://www.youtube.com/watch?v=M4uk2S2tZ3Y)

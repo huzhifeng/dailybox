@@ -1,3 +1,7 @@
+## 20240306
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use JBoss EAP 8.0's new provisioning system](https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system)
+- [Red Hat Developer](https://developers.redhat.com/) | [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
+
 ## 20240305
 - [Red Hat Developer](https://developers.redhat.com/) | [Test Kubernetes performance and scale with kube-burner](https://developers.redhat.com/articles/2024/03/04/test-kubernetes-performance-and-scale-kube-burner)
 

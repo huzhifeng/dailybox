@@ -1,3 +1,8 @@
+## 20240306
+- [V2EX](https://www.v2ex.com/) | [直属领导威胁要揍我，该怎么办？](https://www.v2ex.com/t/1020754)
+- [V2EX](https://www.v2ex.com/) | [老人把旧台式卖了，硬盘没格式化，怎么止损？](https://www.v2ex.com/t/1020733)
+- [V2EX](https://www.v2ex.com/) | [对于国外的人来说， macbook 8G 内存是绝对够用的](https://www.v2ex.com/t/1020715)
+
 ## 20240305
 - [V2EX](https://www.v2ex.com/) | [自己做饭真的能省钱吗？](https://www.v2ex.com/t/1020456)
 - [V2EX](https://www.v2ex.com/) | [关于丧假，公司需要开出死亡证明、关系证明。这两需要本人去当地派出所才能开吗？](https://www.v2ex.com/t/1020455)
