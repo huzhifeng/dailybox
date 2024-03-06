@@ -1,3 +1,10 @@
+## 20240307
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Helm charts to deploy Data Grid on OpenShift](https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.11 LTS Fixes Flatpak Support in Discover, Plasma Wayland](https://9to5linux.com/kde-plasma-5-27-11-lts-fixes-flatpak-support-in-discover-plasma-wayland)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [How to access libvirt domains in KubeVirt](https://blog.vmsplice.net/2024/03/how-to-access-libvirt-domains-in.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.11, Bugfix Release for March](https://kde.org/announcements/plasma/5/5.27.11/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Why Desktop Linux Is Finally Growing In Popularity](https://linux.slashdot.org/story/24/03/05/2158236/why-desktop-linux-is-finally-growing-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240306
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use JBoss EAP 8.0's new provisioning system](https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system)
 - [Red Hat Developer](https://developers.redhat.com/) | [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)

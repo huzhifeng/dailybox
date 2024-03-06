@@ -1,3 +1,7 @@
+## 20240307
+- [diff.blog](https://diff.blog/) | [OpenAI and Elon Musk](https://diff.blog/post/openai-and-elon-musk-171087/)
+- [diff.blog](https://diff.blog/) | [Bending pause times to your will with Generational ZGC](https://diff.blog/post/bending-pause-times-to-your-will-with-generational-zgc-171086/)
+
 ## 20240306
 - [diff.blog](https://diff.blog/) | [Free data transfer out to internet when moving out of AWS](https://diff.blog/post/free-data-transfer-out-to-internet-when-moving-out-of-aws-171052/)
 - [diff.blog](https://diff.blog/) | [Protecting paths in macro expansions by extending UTF-8](https://diff.blog/post/protecting-paths-in-macro-expansions-by-extending-utf-8-171012/)

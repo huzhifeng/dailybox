@@ -1,3 +1,7 @@
+## 20240307
+- [Slashdot](https://linux.slashdot.org/) | [Why Desktop Linux Is Finally Growing In Popularity](https://linux.slashdot.org/story/24/03/05/2158236/why-desktop-linux-is-finally-growing-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Apple Terminated Epic's Developer Account](https://apple.slashdot.org/story/24/03/06/1737255/apple-terminated-epics-developer-account?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240306
 - [Slashdot](https://linux.slashdot.org/) | [Linux Passes 4% Desktop Market Share](https://linux.slashdot.org/story/24/03/04/2159239/linux-passes-4-desktop-market-share?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Qualcomm Launches First True 'App Store' For AI With 75 Free Models](https://developers.slashdot.org/story/24/03/04/2212212/qualcomm-launches-first-true-app-store-for-ai-with-75-free-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)

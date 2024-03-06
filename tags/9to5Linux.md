@@ -1,3 +1,6 @@
+## 20240307
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.11 LTS Fixes Flatpak Support in Discover, Plasma Wayland](https://9to5linux.com/kde-plasma-5-27-11-lts-fixes-flatpak-support-in-discover-plasma-wayland)
+
 ## 20240306
 - [9to5Linux](https://9to5linux.com/) | [Linux Mobile Distro postmarketOS Adopts systemd to Better Support GNOME, KDE Plasma](https://9to5linux.com/linux-mobile-distro-postmarketos-adopts-systemd-to-better-support-gnome-kde-plasma)
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.24 Multimedia Framework Released with Vulkan H.264 and H.265 Video Decoders](https://9to5linux.com/gstreamer-1-24-multimedia-framework-released-with-vulkan-h-264-and-h-265-video-decoders)

@@ -1,3 +1,6 @@
+## 20240307
+- [It's FOSS](https://itsfoss.com/) | [8 Open Source Second Brain Knowledge Base Tools](https://itsfoss.com/open-source-second-brain-apps/)
+
 ## 20240306
 - [It's FOSS](https://itsfoss.com/) | [ps Command Examples](https://itsfoss.com/ps-command/)
 

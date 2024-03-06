@@ -1,3 +1,8 @@
+## 20240307
+- [V2EX](https://www.v2ex.com/) | [如果工作本身没意义，那上班真的比上坟都难受](https://www.v2ex.com/t/1021004)
+- [V2EX](https://www.v2ex.com/) | [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002)
+- [V2EX](https://www.v2ex.com/) | [劳烦各位大佬们，帮忙对买房选择投下票呗~](https://www.v2ex.com/t/1020992)
+
 ## 20240306
 - [V2EX](https://www.v2ex.com/) | [直属领导威胁要揍我，该怎么办？](https://www.v2ex.com/t/1020754)
 - [V2EX](https://www.v2ex.com/) | [老人把旧台式卖了，硬盘没格式化，怎么止损？](https://www.v2ex.com/t/1020733)

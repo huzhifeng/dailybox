@@ -1,3 +1,6 @@
+## 20240307
+- [Red Hat Developer](https://developers.redhat.com/) | [How to use Helm charts to deploy Data Grid on OpenShift](https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift)
+
 ## 20240306
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use JBoss EAP 8.0's new provisioning system](https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system)
 - [Red Hat Developer](https://developers.redhat.com/) | [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
