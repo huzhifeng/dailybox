@@ -1,3 +1,8 @@
+## 20240307
+- [Product Hunt](https://www.producthunt.com) | [FlyWP](https://www.producthunt.com/posts/flywp)
+- [Product Hunt](https://www.producthunt.com) | [AI Assist by Dopt](https://www.producthunt.com/posts/ai-assist-by-dopt)
+- [Product Hunt](https://www.producthunt.com) | [Luminar for iPad](https://www.producthunt.com/posts/luminar-for-ipad)
+
 ## 20240306
 - [Product Hunt](https://www.producthunt.com) | [Claude 3](https://www.producthunt.com/posts/claude-3)
 - [Product Hunt](https://www.producthunt.com) | [Qubinets](https://www.producthunt.com/posts/qubinets)

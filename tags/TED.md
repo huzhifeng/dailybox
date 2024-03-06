@@ -1,3 +1,7 @@
+## 20240307
+- [TED Talks Daily](https://www.ted.com/talks) | [How to lead with radical candor | Kim Scott](https://www.ted.com/talks/kim_scott_how_to_lead_with_radical_candor?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [How to find creativity and purpose in the face of adversity | Suleika Jaouad](https://www.ted.com/talks/suleika_jaouad_how_to_find_creativity_and_purpose_in_the_face_of_adversity?rss)
+
 ## 20240306
 - [TED Talks Daily](https://www.ted.com/talks) | [How to bridge political divides — from two friends on opposing sides | Samar Ali and Clint Brewer](https://www.ted.com/talks/samar_ali_and_clint_brewer_how_to_bridge_political_divides_from_two_friends_on_opposing_sides?rss)
 

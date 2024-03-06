@@ -1,3 +1,6 @@
+## 20240307
+- [Hacker News](https://news.ycombinator.com/front) | [Apple terminates Epic Games developer account, calling it a 'threat' to iOS](https://news.ycombinator.com/item?id=39618673)
+
 ## 20240306
 - [Hacker News](https://news.ycombinator.com/front) | [Kagi and Wolfram](https://news.ycombinator.com/item?id=39606048)
 - [Hacker News](https://news.ycombinator.com/front) | [Meta outage](https://news.ycombinator.com/item?id=39604590)
