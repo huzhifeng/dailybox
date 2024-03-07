@@ -87,6 +87,13 @@
 			"tags": ["硬核观察", "Linux", "日报"]
 		},
 		{
+			"channel": "开源日报",
+			"portal": "https://www.oschina.net/news/column?columnId=25",
+			"url": "https://www.oschina.net/news/rss",
+			"category": "开源",
+			"tags": ["开源日报", "开源"]
+		},
+		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",
