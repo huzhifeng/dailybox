@@ -1,3 +1,8 @@
+## 20240308
+- [BlogFinder](https://bf.zzxworld.com/) | [自建免费 Moe-Counter 计数器](https://www.imalun.com/moe-counter-vercel/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [构建和运行 Xen HVM 和 PV](https://sh.alynx.one/posts/Xen-HVM-PV/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [路遥《人生》读后感](https://www.jingfengshuo.com/archives/2746.html?utm_source=blogfinder)
+
 ## 20240307
 - [BlogFinder](https://bf.zzxworld.com/) | [【微博】：微博自我欣赏](https://www.webersongao.com/microposts/3780.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [YesPlayMusic 高颜值的第三方网易云播放器](https://dusays.com/684/?utm_source=blogfinder)

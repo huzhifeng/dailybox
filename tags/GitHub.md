@@ -1,3 +1,6 @@
+## 20240308
+- [GitHub Advanced Search](https://github.com/search/advanced) | [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore)
+
 ## 20240307
 - [GitHub Advanced Search](https://github.com/search/advanced) | [tristandalton/Mev-bot](https://github.com/tristandalton/Mev-bot)
 

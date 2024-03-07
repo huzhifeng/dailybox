@@ -1,3 +1,9 @@
+## 20240308
+- [9to5Linux](https://9to5linux.com/) | [Zorin OS 17.1 Released with Enhanced Windows App Support, Education Edition](https://9to5linux.com/zorin-os-17-1-released-with-enhanced-windows-app-support-education-edition)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.6 Is Now Available for Public Beta Testing with GNOME 45](https://9to5linux.com/opensuse-leap-15-6-is-now-available-for-public-beta-testing-with-gnome-45)
+- [Planet GNOME](https://planet.gnome.org/) | [On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+- [Planet KDE](https://planet.kde.org/) | [Reducing Visual Studio Installations with Toolchains](https://www.kdab.com/reducing-visual-studio-installations-with-toolchains/?utm_source=atom_feed)
+
 ## 20240307
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Helm charts to deploy Data Grid on OpenShift](https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 5.27.11 LTS Fixes Flatpak Support in Discover, Plasma Wayland](https://9to5linux.com/kde-plasma-5-27-11-lts-fixes-flatpak-support-in-discover-plasma-wayland)

@@ -1,3 +1,7 @@
+## 20240308
+- [Planet GNOME](https://planet.gnome.org/) | [On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+- [Planet KDE](https://planet.kde.org/) | [Reducing Visual Studio Installations with Toolchains](https://www.kdab.com/reducing-visual-studio-installations-with-toolchains/?utm_source=atom_feed)
+
 ## 20240307
 - [Planet virt-tools](https://planet.virt-tools.org/) | [How to access libvirt domains in KubeVirt](https://blog.vmsplice.net/2024/03/how-to-access-libvirt-domains-in.html)
 - [Planet KDE](https://planet.kde.org/) | [KDE Plasma 5.27.11, Bugfix Release for March](https://kde.org/announcements/plasma/5/5.27.11/?utm_source=atom_feed)

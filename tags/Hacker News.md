@@ -1,3 +1,7 @@
+## 20240308
+- [Hacker News](https://news.ycombinator.com/front) | [Eloquent JavaScript 4th edition (2024)](https://news.ycombinator.com/item?id=39629044)
+- [Hacker News](https://news.ycombinator.com/front) | [Nikon to acquire RED](https://news.ycombinator.com/item?id=39625919)
+
 ## 20240307
 - [Hacker News](https://news.ycombinator.com/front) | [Apple terminates Epic Games developer account, calling it a 'threat' to iOS](https://news.ycombinator.com/item?id=39618673)
 
