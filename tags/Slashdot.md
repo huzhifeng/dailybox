@@ -1,3 +1,7 @@
+## 20240308
+- [Slashdot](https://developers.slashdot.org/) | ['AI Prompt Engineering Is Dead'](https://developers.slashdot.org/story/24/03/07/1511252/ai-prompt-engineering-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Google Adds New Developer Fees As Part of Play Store's DMA Compliance Plan](https://tech.slashdot.org/story/24/03/06/2130208/google-adds-new-developer-fees-as-part-of-play-stores-dma-compliance-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240307
 - [Slashdot](https://linux.slashdot.org/) | [Why Desktop Linux Is Finally Growing In Popularity](https://linux.slashdot.org/story/24/03/05/2158236/why-desktop-linux-is-finally-growing-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Apple Terminated Epic's Developer Account](https://apple.slashdot.org/story/24/03/06/1737255/apple-terminated-epics-developer-account?utm_source=rss1.0mainlinkanon&utm_medium=feed)

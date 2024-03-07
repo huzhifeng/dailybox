@@ -1,3 +1,8 @@
+## 20240308
+- [V2EX](https://www.v2ex.com/) | [发现穷人的孩子真的难翻身](https://www.v2ex.com/t/1021542)
+- [V2EX](https://www.v2ex.com/) | [亲妹妹 12 岁想和同学去外地旅游, 大家帮忙给点意见](https://www.v2ex.com/t/1021473)
+- [V2EX](https://www.v2ex.com/) | [Diss 一个卷项目跑路的职场叼毛，对说的就是你章某](https://www.v2ex.com/t/1021362)
+
 ## 20240307
 - [V2EX](https://www.v2ex.com/) | [如果工作本身没意义，那上班真的比上坟都难受](https://www.v2ex.com/t/1021004)
 - [V2EX](https://www.v2ex.com/) | [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002)

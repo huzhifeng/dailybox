@@ -1,3 +1,6 @@
+## 20240308
+- [Planet GNOME](https://planet.gnome.org/) | [On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+
 ## 20240305
 - [Planet GNOME](https://planet.gnome.org/) | [CapyPDF 0.9.0 released](https://nibblestew.blogspot.com/2024/03/capypdf-090-released.html)
 

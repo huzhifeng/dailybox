@@ -1,3 +1,6 @@
+## 20240308
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/)
+
 ## 20240307
 - [It's FOSS](https://itsfoss.com/) | [8 Open Source Second Brain Knowledge Base Tools](https://itsfoss.com/open-source-second-brain-apps/)
 
