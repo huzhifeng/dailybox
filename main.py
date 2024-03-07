@@ -95,6 +95,9 @@ def main():
                 elif '泰晓资讯' == feed['channel']:
                     if '泰晓资讯' not in entry.title:
                         continue
+                elif '开源日报' == feed['channel']:
+                    if '开源日报' not in entry.title:
+                        continue
                 elif 'Hacker News' == feed['channel'] \
                         or 'Lobsters' == feed['channel']:
                     if 'comments' in entry:
