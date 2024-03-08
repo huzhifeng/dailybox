@@ -250,6 +250,15 @@
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
 		{
+			"channel": "每日环球视野",
+			"portal": "https://idai.ly/",
+			"url": "https://feedx.net/rss/idaily.xml",
+			"url2": "https://rsshub.app/idaily/today",
+			"url3": "https://plink.anyfeeder.com/idaily/today",
+			"category": "资讯",
+			"tags": ["每日环球视野", "日报"]
+		},
+		{
 			"channel": "界面早报",
 			"portal": "https://www.jiemian.com/lists/280.html",
 			"url": "https://rsshub.app/jiemian/list/280",
