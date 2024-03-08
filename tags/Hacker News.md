@@ -1,3 +1,6 @@
+## 20240309
+- [Hacker News](https://news.ycombinator.com/front) | [Home Lab Beginners guide](https://news.ycombinator.com/item?id=39640992)
+
 ## 20240308
 - [Hacker News](https://news.ycombinator.com/front) | [Eloquent JavaScript 4th edition (2024)](https://news.ycombinator.com/item?id=39629044)
 - [Hacker News](https://news.ycombinator.com/front) | [Nikon to acquire RED](https://news.ycombinator.com/item?id=39625919)

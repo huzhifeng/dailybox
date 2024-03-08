@@ -1,3 +1,7 @@
+## 20240309
+- [Planet GNOME](https://planet.gnome.org/) | [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
+- [Planet GNOME](https://planet.gnome.org/) | [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/)
+
 ## 20240308
 - [Planet GNOME](https://planet.gnome.org/) | [On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 

@@ -1,3 +1,7 @@
+## 20240309
+- [Slashdot](https://linux.slashdot.org/) | [Fedora Workstation 41 To No Longer Install GNOME X.Org Session By Default](https://news.slashdot.org/story/24/03/07/2157258/fedora-workstation-41-to-no-longer-install-gnome-xorg-session-by-default?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Apple Reinstates Epic Developer Account After Public Backlash for Retaliation](https://apple.slashdot.org/story/24/03/08/1810244/apple-reinstates-epic-developer-account-after-public-backlash-for-retaliation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240308
 - [Slashdot](https://developers.slashdot.org/) | ['AI Prompt Engineering Is Dead'](https://developers.slashdot.org/story/24/03/07/1511252/ai-prompt-engineering-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Google Adds New Developer Fees As Part of Play Store's DMA Compliance Plan](https://tech.slashdot.org/story/24/03/06/2130208/google-adds-new-developer-fees-as-part-of-play-stores-dma-compliance-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)

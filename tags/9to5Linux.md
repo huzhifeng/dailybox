@@ -1,3 +1,6 @@
+## 20240309
+- [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Neptune 17 v6 Linux Laptop with Up to NVIDIA RTX 4090](https://9to5linux.com/juno-computers-launches-neptune-17-v6-linux-laptop-with-up-to-nvidia-rtx-4090)
+
 ## 20240308
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 17.1 Released with Enhanced Windows App Support, Education Edition](https://9to5linux.com/zorin-os-17-1-released-with-enhanced-windows-app-support-education-edition)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.6 Is Now Available for Public Beta Testing with GNOME 45](https://9to5linux.com/opensuse-leap-15-6-is-now-available-for-public-beta-testing-with-gnome-45)

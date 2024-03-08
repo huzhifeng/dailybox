@@ -1,3 +1,8 @@
+## 20240309
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1709909028](https://www.mmbkz.cn/7be687ea.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [吃了药再感冒，到底是药害的抑或病即是如此？](https://sliun.com/57.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [打油诗其十六·新造的人](https://chegva.com/5962.html?utm_source=blogfinder)
+
 ## 20240308
 - [BlogFinder](https://bf.zzxworld.com/) | [自建免费 Moe-Counter 计数器](https://www.imalun.com/moe-counter-vercel/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [构建和运行 Xen HVM 和 PV](https://sh.alynx.one/posts/Xen-HVM-PV/?utm_source=blogfinder)

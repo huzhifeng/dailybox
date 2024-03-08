@@ -1,3 +1,6 @@
+## 20240309
+- [TED Talks Daily](https://www.ted.com/talks) | [Why are women still taken less seriously than men? | Mary Ann Sieghart](https://www.ted.com/talks/mary_ann_sieghart_why_are_women_still_taken_less_seriously_than_men?rss)
+
 ## 20240308
 - [TED Talks Daily](https://www.ted.com/talks) | [The unsung heroes fighting malnutrition | Shruthi Baskaran-Makanju](https://www.ted.com/talks/shruthi_baskaran_makanju_the_unsung_heroes_fighting_malnutrition?rss)
 
