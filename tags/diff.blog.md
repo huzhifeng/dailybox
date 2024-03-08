@@ -1,3 +1,6 @@
+## 20240309
+- [diff.blog](https://diff.blog/) | [Home Lab Beginners guide (Hardware)](https://diff.blog/post/home-lab-beginners-guide-hardware-171241/)
+
 ## 20240307
 - [diff.blog](https://diff.blog/) | [OpenAI and Elon Musk](https://diff.blog/post/openai-and-elon-musk-171087/)
 - [diff.blog](https://diff.blog/) | [Bending pause times to your will with Generational ZGC](https://diff.blog/post/bending-pause-times-to-your-will-with-generational-zgc-171086/)

@@ -1,3 +1,12 @@
+## 20240309
+- [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Neptune 17 v6 Linux Laptop with Up to NVIDIA RTX 4090](https://9to5linux.com/juno-computers-launches-neptune-17-v6-linux-laptop-with-up-to-nvidia-rtx-4090)
+- [Planet GNOME](https://planet.gnome.org/) | [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
+- [Planet GNOME](https://planet.gnome.org/) | [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/)
+- [Planet KDE](https://planet.kde.org/) | [PSA: enable 3D acceleration in your VirtualBox VMs](https://pointieststick.com/2024/03/08/psa-enable-3d-acceleration-in-your-virtualbox-vms/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Community Update – March 2024](https://kubuntu.org/news/kubuntu-community-update-march-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-10](https://ervin.ipsquad.net/blog/2024/03/08/web-review-week-2024-10/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Fedora Workstation 41 To No Longer Install GNOME X.Org Session By Default](https://news.slashdot.org/story/24/03/07/2157258/fedora-workstation-41-to-no-longer-install-gnome-xorg-session-by-default?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240308
 - [9to5Linux](https://9to5linux.com/) | [Zorin OS 17.1 Released with Enhanced Windows App Support, Education Edition](https://9to5linux.com/zorin-os-17-1-released-with-enhanced-windows-app-support-education-edition)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 15.6 Is Now Available for Public Beta Testing with GNOME 45](https://9to5linux.com/opensuse-leap-15-6-is-now-available-for-public-beta-testing-with-gnome-45)

@@ -1,3 +1,8 @@
+## 20240309
+- [Planet KDE](https://planet.kde.org/) | [PSA: enable 3D acceleration in your VirtualBox VMs](https://pointieststick.com/2024/03/08/psa-enable-3d-acceleration-in-your-virtualbox-vms/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Community Update – March 2024](https://kubuntu.org/news/kubuntu-community-update-march-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-10](https://ervin.ipsquad.net/blog/2024/03/08/web-review-week-2024-10/?utm_source=atom_feed)
+
 ## 20240308
 - [Planet KDE](https://planet.kde.org/) | [Reducing Visual Studio Installations with Toolchains](https://www.kdab.com/reducing-visual-studio-installations-with-toolchains/?utm_source=atom_feed)
 

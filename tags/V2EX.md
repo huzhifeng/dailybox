@@ -1,3 +1,8 @@
+## 20240309
+- [V2EX](https://www.v2ex.com/) | [预算 10w 左右启动资金，在老家县城做一个线上卖菜的小程序创业靠谱吗？](https://www.v2ex.com/t/1021759)
+- [V2EX](https://www.v2ex.com/) | [一年长 20 斤这个需求好实现吗？](https://www.v2ex.com/t/1021751)
+- [V2EX](https://www.v2ex.com/) | [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705)
+
 ## 20240308
 - [V2EX](https://www.v2ex.com/) | [发现穷人的孩子真的难翻身](https://www.v2ex.com/t/1021542)
 - [V2EX](https://www.v2ex.com/) | [亲妹妹 12 岁想和同学去外地旅游, 大家帮忙给点意见](https://www.v2ex.com/t/1021473)
