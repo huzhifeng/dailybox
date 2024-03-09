@@ -1,3 +1,6 @@
+## 20240310
+- [Slashdot](https://developers.slashdot.org/) | [Warner Bros. is Now Erasing Games As It Plans To Delist Adult Swim-Published Titles](https://games.slashdot.org/story/24/03/08/2116248/warner-bros-is-now-erasing-games-as-it-plans-to-delist-adult-swim-published-titles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240309
 - [Slashdot](https://linux.slashdot.org/) | [Fedora Workstation 41 To No Longer Install GNOME X.Org Session By Default](https://news.slashdot.org/story/24/03/07/2157258/fedora-workstation-41-to-no-longer-install-gnome-xorg-session-by-default?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Apple Reinstates Epic Developer Account After Public Backlash for Retaliation](https://apple.slashdot.org/story/24/03/08/1810244/apple-reinstates-epic-developer-account-after-public-backlash-for-retaliation?utm_source=rss1.0mainlinkanon&utm_medium=feed)

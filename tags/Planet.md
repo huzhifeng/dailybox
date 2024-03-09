@@ -1,3 +1,6 @@
+## 20240310
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/?utm_source=atom_feed)
+
 ## 20240309
 - [Planet GNOME](https://planet.gnome.org/) | [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 - [Planet GNOME](https://planet.gnome.org/) | [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/)
