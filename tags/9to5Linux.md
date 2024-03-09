@@ -1,3 +1,6 @@
+## 20240310
+- [9to5Linux](https://9to5linux.com/) | [LXQt&#8217;s Desktop Component Is Now 100% Ready for Wayland](https://9to5linux.com/the-lxqt-desktop-environment-is-now-100-wayland-ready)
+
 ## 20240309
 - [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Neptune 17 v6 Linux Laptop with Up to NVIDIA RTX 4090](https://9to5linux.com/juno-computers-launches-neptune-17-v6-linux-laptop-with-up-to-nvidia-rtx-4090)
 

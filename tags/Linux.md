@@ -1,3 +1,7 @@
+## 20240310
+- [9to5Linux](https://9to5linux.com/) | [LXQt&#8217;s Desktop Component Is Now 100% Ready for Wayland](https://9to5linux.com/the-lxqt-desktop-environment-is-now-100-wayland-ready)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/?utm_source=atom_feed)
+
 ## 20240309
 - [9to5Linux](https://9to5linux.com/) | [Juno Computers Launches Neptune 17 v6 Linux Laptop with Up to NVIDIA RTX 4090](https://9to5linux.com/juno-computers-launches-neptune-17-v6-linux-laptop-with-up-to-nvidia-rtx-4090)
 - [Planet GNOME](https://planet.gnome.org/) | [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)

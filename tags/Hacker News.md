@@ -1,3 +1,6 @@
+## 20240310
+- [Hacker News](https://news.ycombinator.com/front) | [Monodraw](https://news.ycombinator.com/item?id=39651796)
+
 ## 20240309
 - [Hacker News](https://news.ycombinator.com/front) | [Home Lab Beginners guide](https://news.ycombinator.com/item?id=39640992)
 
