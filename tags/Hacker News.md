@@ -1,3 +1,6 @@
+## 20240311
+- [Hacker News](https://news.ycombinator.com/front) | [S3 is files, but not a filesystem](https://news.ycombinator.com/item?id=39656657)
+
 ## 20240310
 - [Hacker News](https://news.ycombinator.com/front) | [Monodraw](https://news.ycombinator.com/item?id=39651796)
 

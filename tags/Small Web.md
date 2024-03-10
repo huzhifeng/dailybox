@@ -1,3 +1,8 @@
+## 20240311
+- [Kagi Small Web](https://kagi.com/smallweb) | [Figma’s CEO on life after the company’s failed sale to Adobe](https://elezea.com/2024/03/figmas-ceo-on-life-after-the-companys-failed-sale-to-adobe/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Why you already love Chromeo "Adult Contemporary". Album Analysis](https://www.youtube.com/watch?v=TWbayPoMBqA)
+- [Kagi Small Web](https://kagi.com/smallweb) | [How green are my valleys?](https://grahamsisland.com/2024/03/10/how-green-are-my-valleys/)
+
 ## 20240306
 - [Kagi Small Web](https://kagi.com/smallweb) | [My Guest Appearance on ShopTalk Show #605](https://blog.jim-nielsen.com/2024/shoptalk-show-605/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [what's between two pings?](https://bytes.zone/micro/thing-a-month-03-02/)

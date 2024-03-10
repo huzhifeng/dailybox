@@ -1,3 +1,6 @@
+## 20240311
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.8 Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/linux-kernel-6-8-officially-released-heres-whats-new)
+
 ## 20240310
 - [9to5Linux](https://9to5linux.com/) | [LXQt&#8217;s Desktop Component Is Now 100% Ready for Wayland](https://9to5linux.com/the-lxqt-desktop-environment-is-now-100-wayland-ready)
 
