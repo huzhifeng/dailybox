@@ -1,3 +1,8 @@
+## 20240311
+- [Slashdot](https://linux.slashdot.org/) | [To Replace HexChat, Linux Mint is Building a New Desktop Chat App Called 'Jargonaut'](https://linux.slashdot.org/story/24/03/09/2049259/to-replace-hexchat-linux-mint-is-building-a-new-desktop-chat-app-called-jargonaut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://linux.slashdot.org/story/24/03/09/210221/linux-variants-of-bifrost-trojan-evade-detection-via-typosquatting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [The Apple IIgs: On a Machine This Slow, You Had To Get Weird](https://developers.slashdot.org/story/24/03/09/2230202/the-apple-iigs-on-a-machine-this-slow-you-had-to-get-weird?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240310
 - [Slashdot](https://developers.slashdot.org/) | [Warner Bros. is Now Erasing Games As It Plans To Delist Adult Swim-Published Titles](https://games.slashdot.org/story/24/03/08/2116248/warner-bros-is-now-erasing-games-as-it-plans-to-delist-adult-swim-published-titles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

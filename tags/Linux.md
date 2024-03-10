@@ -1,3 +1,8 @@
+## 20240311
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.8 Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/linux-kernel-6-8-officially-released-heres-whats-new)
+- [Slashdot](https://linux.slashdot.org/) | [To Replace HexChat, Linux Mint is Building a New Desktop Chat App Called 'Jargonaut'](https://linux.slashdot.org/story/24/03/09/2049259/to-replace-hexchat-linux-mint-is-building-a-new-desktop-chat-app-called-jargonaut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://linux.slashdot.org/story/24/03/09/210221/linux-variants-of-bifrost-trojan-evade-detection-via-typosquatting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240310
 - [9to5Linux](https://9to5linux.com/) | [LXQt&#8217;s Desktop Component Is Now 100% Ready for Wayland](https://9to5linux.com/the-lxqt-desktop-environment-is-now-100-wayland-ready)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/?utm_source=atom_feed)

@@ -1,3 +1,8 @@
+## 20240311
+- [V2EX](https://www.v2ex.com/) | [*** MYSQL 算法难题: 查询距离指定坐标 10 公里范围内的所有店铺 ***](https://www.v2ex.com/t/1022313)
+- [V2EX](https://www.v2ex.com/) | [⭐️想做一个聚合工具，诚邀大家帮忙起个名~](https://www.v2ex.com/t/1022309)
+- [V2EX](https://www.v2ex.com/) | [老婆下定极氪 001 了，车来之前要买什么呢？](https://www.v2ex.com/t/1022296)
+
 ## 20240310
 - [V2EX](https://www.v2ex.com/) | [全平台密码管理器咨询](https://www.v2ex.com/t/1022177)
 - [V2EX](https://www.v2ex.com/) | [馒头账号 41 天未登录被删了](https://www.v2ex.com/t/1022147)
