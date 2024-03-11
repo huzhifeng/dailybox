@@ -1,3 +1,8 @@
+## 20240312
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [ARM TrustZone技术解析：构建嵌入式系统的安全扩展基石](https://blog.csdn.net/Aileenvov/article/details/136612575)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024年AI辅助研发趋势：科技革新的引擎](https://blog.csdn.net/double222222/article/details/136592509)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [探索未来科技：量子计算的前沿与挑战](https://blog.csdn.net/AliceNo/article/details/136616421)
+
 ## 20240310
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringBoot系列】Spring Boot 3核心技术与最佳实践](https://blog.csdn.net/jinxinxin1314/article/details/136548925)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024 AI 辅助研发的新纪年](https://blog.csdn.net/lmy050813/article/details/136570228)

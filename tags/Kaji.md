@@ -1,3 +1,8 @@
+## 20240312
+- [Kagi Small Web](https://kagi.com/smallweb) | [I canceled my Fujifilm X100VI order](https://baty.net/2024/03/i-canceled-my-fujifilm-x100vi-order)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Picking up ClinkLog 2 again](https://felix.plesoianu.ro/web/clinklog2/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The big day](https://www.greaterfool.ca/2024/03/11/the-big-day/)
+
 ## 20240311
 - [Kagi Small Web](https://kagi.com/smallweb) | [Figma’s CEO on life after the company’s failed sale to Adobe](https://elezea.com/2024/03/figmas-ceo-on-life-after-the-companys-failed-sale-to-adobe/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Why you already love Chromeo "Adult Contemporary". Album Analysis](https://www.youtube.com/watch?v=TWbayPoMBqA)

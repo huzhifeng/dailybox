@@ -1,3 +1,8 @@
+## 20240312
+- [V2EX](https://www.v2ex.com/) | [用 17 万买个 37 万的工作岗位要不要买？](https://www.v2ex.com/t/1022556)
+- [V2EX](https://www.v2ex.com/) | [Downie 4 威胁我随机删除电脑上的文件作为惩罚](https://www.v2ex.com/t/1022505)
+- [V2EX](https://www.v2ex.com/) | [如果 5 年前投资英伟达 50w，如今已成千万富翁](https://www.v2ex.com/t/1022463)
+
 ## 20240311
 - [V2EX](https://www.v2ex.com/) | [*** MYSQL 算法难题: 查询距离指定坐标 10 公里范围内的所有店铺 ***](https://www.v2ex.com/t/1022313)
 - [V2EX](https://www.v2ex.com/) | [⭐️想做一个聚合工具，诚邀大家帮忙起个名~](https://www.v2ex.com/t/1022309)

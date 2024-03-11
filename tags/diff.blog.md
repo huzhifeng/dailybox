@@ -1,3 +1,8 @@
+## 20240312
+- [diff.blog](https://diff.blog/) | [Announcing Rustup 1.27.0](https://diff.blog/post/announcing-rustup-1270-171747/)
+- [diff.blog](https://diff.blog/) | [Advancing GPU-Driven Rendering with Work Graphs in Direct3D 12](https://diff.blog/post/advancing-gpu-driven-rendering-with-work-graphs-in-direct3d-12-171752/)
+- [diff.blog](https://diff.blog/) | [crates.io: Download changes](https://diff.blog/post/cratesio-download-changes-171725/)
+
 ## 20240309
 - [diff.blog](https://diff.blog/) | [Home Lab Beginners guide (Hardware)](https://diff.blog/post/home-lab-beginners-guide-hardware-171241/)
 

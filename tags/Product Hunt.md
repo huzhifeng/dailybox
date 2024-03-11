@@ -1,3 +1,7 @@
+## 20240312
+- [Product Hunt](https://www.producthunt.com) | [Free SaaS Site Kit for Framer and Figma](https://www.producthunt.com/posts/free-saas-site-kit-for-framer-and-figma)
+- [Product Hunt](https://www.producthunt.com) | [Forescribe](https://www.producthunt.com/posts/forescribe)
+
 ## 20240311
 - [Product Hunt](https://www.producthunt.com) | [Thumblytics](https://www.producthunt.com/posts/thumblytics)
 - [Product Hunt](https://www.producthunt.com) | [Vibrantsnap](https://www.producthunt.com/posts/vibrantsnap)
