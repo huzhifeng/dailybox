@@ -1,3 +1,6 @@
+## 20240312
+- [It's FOSS](https://itsfoss.com/) | [Unlocking the Power of Storage: A Beginner's Guide to LVM in Linux](https://itsfoss.com/lvm-guide/)
+
 ## 20240308
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/)
 

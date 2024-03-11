@@ -1,3 +1,8 @@
+## 20240312
+- [Hacker News](https://news.ycombinator.com/front) | [JSON Canvas – An open file format for infinite canvas data](https://news.ycombinator.com/item?id=39670922)
+- [Hacker News](https://news.ycombinator.com/front) | [gh-116167: Allow disabling the GIL](https://news.ycombinator.com/item?id=39670102)
+- [Hacker News](https://news.ycombinator.com/front) | [Flowers for Algernon (1965) [pdf]](https://news.ycombinator.com/item?id=39666956)
+
 ## 20240311
 - [Hacker News](https://news.ycombinator.com/front) | [S3 is files, but not a filesystem](https://news.ycombinator.com/item?id=39656657)
 

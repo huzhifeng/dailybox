@@ -1,3 +1,8 @@
+## 20240312
+- [BlogFinder](https://bf.zzxworld.com/) | [Markdown-it 如何自定义文中的标签](https://blog.imsyy.top/posts/2024/0311?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [提升部署在vercel或netlify的网站在中国的访问速度和稳定性](https://xingpingcn.top/enhanced-FaaS-in-cn.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [再谈评论区亲密度](https://h4ck.org.cn/2024/03/15777?utm_source=blogfinder)
+
 ## 20240311
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1710083014](https://imxcy.cn/archives/788d2722.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [向着阳光茁壮成长](https://www.imets.cn/archives/2863.html?utm_source=blogfinder)
