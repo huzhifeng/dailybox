@@ -1,3 +1,8 @@
+## 20240313
+- [Product Hunt](https://www.producthunt.com) | [Tavus for Developers Beta](https://www.producthunt.com/posts/tavus-for-developers-beta)
+- [Product Hunt](https://www.producthunt.com) | [Cycle 3.0](https://www.producthunt.com/posts/cycle-3-0)
+- [Product Hunt](https://www.producthunt.com) | [OpenVC Pitch Deck Template](https://www.producthunt.com/posts/openvc-pitch-deck-template)
+
 ## 20240312
 - [Product Hunt](https://www.producthunt.com) | [Free SaaS Site Kit for Framer and Figma](https://www.producthunt.com/posts/free-saas-site-kit-for-framer-and-figma)
 - [Product Hunt](https://www.producthunt.com) | [Forescribe](https://www.producthunt.com/posts/forescribe)

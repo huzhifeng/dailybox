@@ -1,3 +1,6 @@
+## 20240313
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.2, Bugfix Release for March](https://kde.org/announcements/plasma/6/6.0.2/?utm_source=atom_feed)
+
 ## 20240312
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 24.02.0 released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/?utm_source=atom_feed)
 

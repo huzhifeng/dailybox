@@ -1,3 +1,14 @@
+## 20240313
+- [Red Hat Developer](https://developers.redhat.com/) | [Understanding Templates in Stakater's Multi Tenancy Operator](https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator)
+- [Red Hat Developer](https://developers.redhat.com/) | [Achieve more with less using Red Hat Developer Hub's self-service features](https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features)
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.03 Is Out to Deliver a Stable KDE Plasma 6 Experience](https://9to5linux.com/kaos-linux-2024-03-is-out-to-deliver-a-stable-kde-plasma-6-experience)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.0.2 Improves Night Color, Discover, Plasma Wayland, and More](https://9to5linux.com/kde-plasma-6-0-2-improves-night-color-discover-plasma-wayland-and-more)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [How to access libvirt domains in KubeVirt](https://blog.vmsplice.net/2024/03/how-to-access-libvirt-domains-in.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Overall experience: My Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/03/12/overall-experience-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-03-12 Tuesday](https://meeksfamily.uk/~michael/blog/2024-03-12.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Enforcing a touchscreen mapping in GNOME](https://who-t.blogspot.com/2024/03/enforcing-touchscreen-mapping-in-gnome.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.2, Bugfix Release for March](https://kde.org/announcements/plasma/6/6.0.2/?utm_source=atom_feed)
+
 ## 20240312
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.8 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-8-kernel-released-for-software-freedom-lovers)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-10th-2024)

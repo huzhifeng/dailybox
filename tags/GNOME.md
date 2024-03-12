@@ -1,3 +1,8 @@
+## 20240313
+- [Planet GNOME](https://planet.gnome.org/) | [Overall experience: My Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/03/12/overall-experience-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-03-12 Tuesday](https://meeksfamily.uk/~michael/blog/2024-03-12.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Enforcing a touchscreen mapping in GNOME](https://who-t.blogspot.com/2024/03/enforcing-touchscreen-mapping-in-gnome.html)
+
 ## 20240309
 - [Planet GNOME](https://planet.gnome.org/) | [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 - [Planet GNOME](https://planet.gnome.org/) | [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/)

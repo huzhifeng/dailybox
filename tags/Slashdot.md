@@ -1,3 +1,6 @@
+## 20240313
+- [Slashdot](https://developers.slashdot.org/) | [Apple To Allow iOS App Downloads Direct From Websites in the EU](https://apple.slashdot.org/story/24/03/12/1331200/apple-to-allow-ios-app-downloads-direct-from-websites-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240311
 - [Slashdot](https://linux.slashdot.org/) | [To Replace HexChat, Linux Mint is Building a New Desktop Chat App Called 'Jargonaut'](https://linux.slashdot.org/story/24/03/09/2049259/to-replace-hexchat-linux-mint-is-building-a-new-desktop-chat-app-called-jargonaut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://linux.slashdot.org/) | [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://linux.slashdot.org/story/24/03/09/210221/linux-variants-of-bifrost-trojan-evade-detection-via-typosquatting?utm_source=rss1.0mainlinkanon&utm_medium=feed)

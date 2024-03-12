@@ -1,3 +1,7 @@
+## 20240313
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.03 Is Out to Deliver a Stable KDE Plasma 6 Experience](https://9to5linux.com/kaos-linux-2024-03-is-out-to-deliver-a-stable-kde-plasma-6-experience)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.0.2 Improves Night Color, Discover, Plasma Wayland, and More](https://9to5linux.com/kde-plasma-6-0-2-improves-night-color-discover-plasma-wayland-and-more)
+
 ## 20240312
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.8 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-8-kernel-released-for-software-freedom-lovers)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-10th-2024)
