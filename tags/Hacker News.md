@@ -1,3 +1,8 @@
+## 20240313
+- [Hacker News](https://news.ycombinator.com/front) | [Building Meta's GenAI infrastructure](https://news.ycombinator.com/item?id=39680997)
+- [Hacker News](https://news.ycombinator.com/front) | [Devin: AI Software Engineer](https://news.ycombinator.com/item?id=39679787)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple announces ability to download apps directly from websites in EU](https://news.ycombinator.com/item?id=39678532)
+
 ## 20240312
 - [Hacker News](https://news.ycombinator.com/front) | [JSON Canvas – An open file format for infinite canvas data](https://news.ycombinator.com/item?id=39670922)
 - [Hacker News](https://news.ycombinator.com/front) | [gh-116167: Allow disabling the GIL](https://news.ycombinator.com/item?id=39670102)

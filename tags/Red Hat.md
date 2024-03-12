@@ -1,3 +1,7 @@
+## 20240313
+- [Red Hat Developer](https://developers.redhat.com/) | [Understanding Templates in Stakater's Multi Tenancy Operator](https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator)
+- [Red Hat Developer](https://developers.redhat.com/) | [Achieve more with less using Red Hat Developer Hub's self-service features](https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features)
+
 ## 20240307
 - [Red Hat Developer](https://developers.redhat.com/) | [How to use Helm charts to deploy Data Grid on OpenShift](https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift)
 

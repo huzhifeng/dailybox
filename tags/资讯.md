@@ -1,3 +1,6 @@
+## 20240313
+- [diff.blog](https://diff.blog/) | [Building Meta’s GenAI Infrastructure](https://diff.blog/post/building-metas-genai-infrastructure-171842/)
+
 ## 20240312
 - [diff.blog](https://diff.blog/) | [Announcing Rustup 1.27.0](https://diff.blog/post/announcing-rustup-1270-171747/)
 - [diff.blog](https://diff.blog/) | [Advancing GPU-Driven Rendering with Work Graphs in Direct3D 12](https://diff.blog/post/advancing-gpu-driven-rendering-with-work-graphs-in-direct3d-12-171752/)

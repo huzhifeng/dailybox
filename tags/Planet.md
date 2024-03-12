@@ -1,3 +1,10 @@
+## 20240313
+- [Planet virt-tools](https://planet.virt-tools.org/) | [How to access libvirt domains in KubeVirt](https://blog.vmsplice.net/2024/03/how-to-access-libvirt-domains-in.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Overall experience: My Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/03/12/overall-experience-my-outreachy-internship-with-gnome/)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-03-12 Tuesday](https://meeksfamily.uk/~michael/blog/2024-03-12.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Enforcing a touchscreen mapping in GNOME](https://who-t.blogspot.com/2024/03/enforcing-touchscreen-mapping-in-gnome.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.2, Bugfix Release for March](https://kde.org/announcements/plasma/6/6.0.2/?utm_source=atom_feed)
+
 ## 20240312
 - [Planet KDE](https://planet.kde.org/) | [Kdenlive 24.02.0 released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/?utm_source=atom_feed)
 

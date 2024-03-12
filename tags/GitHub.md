@@ -1,3 +1,6 @@
+## 20240313
+- [GitHub Advanced Search](https://github.com/search/advanced) | [krishnaik06/Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024)
+
 ## 20240308
 - [GitHub Advanced Search](https://github.com/search/advanced) | [jiaweizzhao/GaLore](https://github.com/jiaweizzhao/GaLore)
 

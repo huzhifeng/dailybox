@@ -1,3 +1,6 @@
+## 20240313
+- [TED Talks Daily](https://www.ted.com/talks) | [A path to social safety for migrant workers | Ashif Shaikh](https://www.ted.com/talks/ashif_shaikh_a_path_to_social_safety_for_migrant_workers?rss)
+
 ## 20240312
 - [TED Talks Daily](https://www.ted.com/talks) | [3 mysteries of the universe — and a new force that might explain them | Alex Keshavarzi](https://www.ted.com/talks/alex_keshavarzi_3_mysteries_of_the_universe_and_a_new_force_that_might_explain_them?rss)
 
