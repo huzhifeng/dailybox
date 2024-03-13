@@ -1,3 +1,6 @@
+## 20240314
+- [Hacker News](https://news.ycombinator.com/front) | [JIT WireGuard](https://news.ycombinator.com/item?id=39688545)
+
 ## 20240313
 - [Hacker News](https://news.ycombinator.com/front) | [Building Meta's GenAI infrastructure](https://news.ycombinator.com/item?id=39680997)
 - [Hacker News](https://news.ycombinator.com/front) | [Devin: AI Software Engineer](https://news.ycombinator.com/item?id=39679787)

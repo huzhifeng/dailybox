@@ -1,3 +1,6 @@
+## 20240314
+- [It's FOSS](https://itsfoss.com/) | [UPT: Universal Package Management Tool for Linux](https://itsfoss.com/upt/)
+
 ## 20240312
 - [It's FOSS](https://itsfoss.com/) | [Unlocking the Power of Storage: A Beginner's Guide to LVM in Linux](https://itsfoss.com/lvm-guide/)
 

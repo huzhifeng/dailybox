@@ -1,3 +1,6 @@
+## 20240314
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.7 released](https://www.qt.io/blog/qt-for-mcus-2.7-released?utm_source=atom_feed)
+
 ## 20240313
 - [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.2, Bugfix Release for March](https://kde.org/announcements/plasma/6/6.0.2/?utm_source=atom_feed)
 

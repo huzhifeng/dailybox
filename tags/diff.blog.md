@@ -1,3 +1,7 @@
+## 20240314
+- [diff.blog](https://diff.blog/) | [SIMA generalist AI agent for 3D virtual environments](https://diff.blog/post/sima-generalist-ai-agent-for-3d-virtual-environments-171903/)
+- [diff.blog](https://diff.blog/) | [An important consideration about Pi 5 overclocking](https://diff.blog/post/an-important-consideration-about-pi-5-overclocking-171906/)
+
 ## 20240313
 - [diff.blog](https://diff.blog/) | [Building Meta’s GenAI Infrastructure](https://diff.blog/post/building-metas-genai-infrastructure-171842/)
 

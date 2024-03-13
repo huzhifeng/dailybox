@@ -1,3 +1,8 @@
+## 20240314
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1710348261](https://www.mmbkz.cn/d04789aa.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [解决halo umami plugin CORS&CSP跨域报错问题](https://howiehz.top/archives/1710173065825?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [只一种办法，视频怎么刷不重要](https://kaffa.im/not-matter-how-you-use-th-video-content.html?utm_source=blogfinder)
+
 ## 20240313
 - [BlogFinder](https://bf.zzxworld.com/) | [当我玩博客时我在玩什么](https://atpx.com/blog/what-i-talk-about-when-i-talk-about-blog/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [理想国](https://kaffa.im/plato-republic.html?utm_source=blogfinder)

@@ -1,3 +1,6 @@
+## 20240314
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Powered by Linux 6.6 LTS, Improves Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-is-now-powered-by-linux-6-6-lts-improves-raspberry-pi-5-support)
+
 ## 20240313
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.03 Is Out to Deliver a Stable KDE Plasma 6 Experience](https://9to5linux.com/kaos-linux-2024-03-is-out-to-deliver-a-stable-kde-plasma-6-experience)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.0.2 Improves Night Color, Discover, Plasma Wayland, and More](https://9to5linux.com/kde-plasma-6-0-2-improves-night-color-discover-plasma-wayland-and-more)
