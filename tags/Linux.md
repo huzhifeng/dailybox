@@ -1,3 +1,10 @@
+## 20240314
+- [Red Hat Developer](https://developers.redhat.com/) | [Save memory with OpenShift Virtualization using Free Page Reporting](https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting)
+- [Red Hat Developer](https://developers.redhat.com/) | [Kafka tiered storage deep dive](https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Powered by Linux 6.6 LTS, Improves Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-is-now-powered-by-linux-6-6-lts-improves-raspberry-pi-5-support)
+- [Planet GNOME](https://planet.gnome.org/) | [Gameeky 0.6.0](https://blogs.gnome.org/tchx84/2024/03/13/gameeky-0-6-0/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.7 released](https://www.qt.io/blog/qt-for-mcus-2.7-released?utm_source=atom_feed)
+
 ## 20240313
 - [Red Hat Developer](https://developers.redhat.com/) | [Understanding Templates in Stakater's Multi Tenancy Operator](https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator)
 - [Red Hat Developer](https://developers.redhat.com/) | [Achieve more with less using Red Hat Developer Hub's self-service features](https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features)

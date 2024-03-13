@@ -1,3 +1,7 @@
+## 20240314
+- [Planet GNOME](https://planet.gnome.org/) | [Gameeky 0.6.0](https://blogs.gnome.org/tchx84/2024/03/13/gameeky-0-6-0/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.7 released](https://www.qt.io/blog/qt-for-mcus-2.7-released?utm_source=atom_feed)
+
 ## 20240313
 - [Planet virt-tools](https://planet.virt-tools.org/) | [How to access libvirt domains in KubeVirt](https://blog.vmsplice.net/2024/03/how-to-access-libvirt-domains-in.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Overall experience: My Outreachy internship with GNOME](https://dorothykabarozi.wordpress.com/2024/03/12/overall-experience-my-outreachy-internship-with-gnome/)

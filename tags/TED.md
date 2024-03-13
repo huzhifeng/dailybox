@@ -1,3 +1,6 @@
+## 20240314
+- [TED Talks Daily](https://www.ted.com/talks) | [How a sanctuary for self-expression can change lives | Reed J. Williams and Lindsay Morris](https://www.ted.com/talks/reed_j_williams_and_lindsay_morris_how_a_sanctuary_for_self_expression_can_change_lives?rss)
+
 ## 20240313
 - [TED Talks Daily](https://www.ted.com/talks) | [A path to social safety for migrant workers | Ashif Shaikh](https://www.ted.com/talks/ashif_shaikh_a_path_to_social_safety_for_migrant_workers?rss)
 

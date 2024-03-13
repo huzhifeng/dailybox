@@ -1,3 +1,8 @@
+## 20240314
+- [Product Hunt](https://www.producthunt.com) | [Airtrain.ai LLM Playground](https://www.producthunt.com/posts/airtrain-ai-llm-playground)
+- [Product Hunt](https://www.producthunt.com) | [Offsite](https://www.producthunt.com/posts/offsite-2)
+- [Product Hunt](https://www.producthunt.com) | [Hello8](https://www.producthunt.com/posts/hello8)
+
 ## 20240313
 - [Product Hunt](https://www.producthunt.com) | [Tavus for Developers Beta](https://www.producthunt.com/posts/tavus-for-developers-beta)
 - [Product Hunt](https://www.producthunt.com) | [Cycle 3.0](https://www.producthunt.com/posts/cycle-3-0)

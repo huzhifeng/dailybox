@@ -1,3 +1,8 @@
+## 20240314
+- [V2EX](https://www.v2ex.com/) | [大家好， mac 上有哪款 git GUI 工具好用呢？](https://www.v2ex.com/t/1023248)
+- [V2EX](https://www.v2ex.com/) | [趁着最近小米要上电动车，问一个问题](https://www.v2ex.com/t/1023245)
+- [V2EX](https://www.v2ex.com/) | [如何在睡觉的时候不胡思乱想](https://www.v2ex.com/t/1023202)
+
 ## 20240313
 - [V2EX](https://www.v2ex.com/) | [「数码荔枝」关于 Downie 事件始末的说明与回应](https://www.v2ex.com/t/1022882)
 - [V2EX](https://www.v2ex.com/) | [君子约定，猜测小米 SU7 价格，胜者为最贴近 3.28 公布丐版实际价格的人，参与回复的人每人送他 10 铜币。](https://www.v2ex.com/t/1022863)

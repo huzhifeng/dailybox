@@ -1,3 +1,7 @@
+## 20240314
+- [Red Hat Developer](https://developers.redhat.com/) | [Save memory with OpenShift Virtualization using Free Page Reporting](https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting)
+- [Red Hat Developer](https://developers.redhat.com/) | [Kafka tiered storage deep dive](https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive)
+
 ## 20240313
 - [Red Hat Developer](https://developers.redhat.com/) | [Understanding Templates in Stakater's Multi Tenancy Operator](https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator)
 - [Red Hat Developer](https://developers.redhat.com/) | [Achieve more with less using Red Hat Developer Hub's self-service features](https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features)
