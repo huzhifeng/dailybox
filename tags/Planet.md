@@ -1,3 +1,9 @@
+## 20240315
+- [Planet GNOME](https://planet.gnome.org/) | [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 RC released](https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Streamlining Multi-platform Development and Testing](https://www.kdab.com/streamlining-multi-platform-development-and-testing/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [What We're Up To In 2024](https://krita.org/en/posts/2024/2024-roadmap/?utm_source=atom_feed)
+
 ## 20240314
 - [Planet GNOME](https://planet.gnome.org/) | [Gameeky 0.6.0](https://blogs.gnome.org/tchx84/2024/03/13/gameeky-0-6-0/)
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.7 released](https://www.qt.io/blog/qt-for-mcus-2.7-released?utm_source=atom_feed)

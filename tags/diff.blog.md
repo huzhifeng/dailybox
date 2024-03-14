@@ -1,3 +1,6 @@
+## 20240315
+- [diff.blog](https://diff.blog/) | [Die shots and transistor-level debugging on Raspberry Pi 5](https://diff.blog/post/die-shots-and-transistor-level-debugging-on-raspberry-pi-5-171965/)
+
 ## 20240314
 - [diff.blog](https://diff.blog/) | [SIMA generalist AI agent for 3D virtual environments](https://diff.blog/post/sima-generalist-ai-agent-for-3d-virtual-environments-171903/)
 - [diff.blog](https://diff.blog/) | [An important consideration about Pi 5 overclocking](https://diff.blog/post/an-important-consideration-about-pi-5-overclocking-171906/)

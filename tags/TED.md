@@ -1,3 +1,6 @@
+## 20240315
+- [TED Talks Daily](https://www.ted.com/talks) | [Meet mini-grids — the clean energy solution bringing power to millions | Tombo Banda](https://www.ted.com/talks/tombo_banda_meet_mini_grids_the_clean_energy_solution_bringing_power_to_millions?rss)
+
 ## 20240314
 - [TED Talks Daily](https://www.ted.com/talks) | [How a sanctuary for self-expression can change lives | Reed J. Williams and Lindsay Morris](https://www.ted.com/talks/reed_j_williams_and_lindsay_morris_how_a_sanctuary_for_self_expression_can_change_lives?rss)
 

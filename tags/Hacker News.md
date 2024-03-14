@@ -1,3 +1,8 @@
+## 20240315
+- [Hacker News](https://news.ycombinator.com/front) | [Oregon passes right-to-repair law Apple lobbied to kill](https://news.ycombinator.com/item?id=39702604)
+- [Hacker News](https://news.ycombinator.com/front) | [Starship's Third Flight Test [video]](https://news.ycombinator.com/item?id=39702568)
+- [Hacker News](https://news.ycombinator.com/front) | [Reverse engineering a car key fob signal](https://news.ycombinator.com/item?id=39701931)
+
 ## 20240314
 - [Hacker News](https://news.ycombinator.com/front) | [JIT WireGuard](https://news.ycombinator.com/item?id=39688545)
 

@@ -1,3 +1,8 @@
+## 20240315
+- [Product Hunt](https://www.producthunt.com) | [AI Agents by B2B Rocket](https://www.producthunt.com/posts/ai-agents-by-b2b-rocket)
+- [Product Hunt](https://www.producthunt.com) | [CloudDevs 2.0](https://www.producthunt.com/posts/clouddevs-2-0)
+- [Product Hunt](https://www.producthunt.com) | [Kazava AI Anime](https://www.producthunt.com/posts/kazava-ai-anime)
+
 ## 20240314
 - [Product Hunt](https://www.producthunt.com) | [Airtrain.ai LLM Playground](https://www.producthunt.com/posts/airtrain-ai-llm-playground)
 - [Product Hunt](https://www.producthunt.com) | [Offsite](https://www.producthunt.com/posts/offsite-2)
