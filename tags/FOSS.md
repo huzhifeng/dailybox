@@ -1,3 +1,7 @@
+## 20240315
+- [It's FOSS](https://itsfoss.com/) | [Use Calibre to Remove DRM from Kindle Books and Convert to PDF](https://itsfoss.com/calibre-remove-drm-kindle/)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/)
+
 ## 20240314
 - [It's FOSS](https://itsfoss.com/) | [UPT: Universal Package Management Tool for Linux](https://itsfoss.com/upt/)
 

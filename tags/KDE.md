@@ -1,3 +1,8 @@
+## 20240315
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 RC released](https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Streamlining Multi-platform Development and Testing](https://www.kdab.com/streamlining-multi-platform-development-and-testing/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [What We're Up To In 2024](https://krita.org/en/posts/2024/2024-roadmap/?utm_source=atom_feed)
+
 ## 20240314
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.7 released](https://www.qt.io/blog/qt-for-mcus-2.7-released?utm_source=atom_feed)
 

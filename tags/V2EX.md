@@ -1,3 +1,8 @@
+## 20240315
+- [V2EX](https://www.v2ex.com/) | [C 盘焦虑症各位有吗？ C 盘分多大合适？](https://www.v2ex.com/t/1023651)
+- [V2EX](https://www.v2ex.com/) | [月底去成都玩几天，求推荐吃喝和景点，给点建议](https://www.v2ex.com/t/1023601)
+- [V2EX](https://www.v2ex.com/) | [京东为了不让用户保价的骚操作](https://www.v2ex.com/t/1023544)
+
 ## 20240314
 - [V2EX](https://www.v2ex.com/) | [大家好， mac 上有哪款 git GUI 工具好用呢？](https://www.v2ex.com/t/1023248)
 - [V2EX](https://www.v2ex.com/) | [趁着最近小米要上电动车，问一个问题](https://www.v2ex.com/t/1023245)

@@ -1,3 +1,10 @@
+## 20240315
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu)
+- [Planet GNOME](https://planet.gnome.org/) | [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 RC released](https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Streamlining Multi-platform Development and Testing](https://www.kdab.com/streamlining-multi-platform-development-and-testing/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [What We're Up To In 2024](https://krita.org/en/posts/2024/2024-roadmap/?utm_source=atom_feed)
+
 ## 20240314
 - [Red Hat Developer](https://developers.redhat.com/) | [Save memory with OpenShift Virtualization using Free Page Reporting](https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting)
 - [Red Hat Developer](https://developers.redhat.com/) | [Kafka tiered storage deep dive](https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive)

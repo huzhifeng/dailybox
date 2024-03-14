@@ -1,3 +1,6 @@
+## 20240315
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu)
+
 ## 20240314
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi OS Is Now Powered by Linux 6.6 LTS, Improves Raspberry Pi 5 Support](https://9to5linux.com/raspberry-pi-os-is-now-powered-by-linux-6-6-lts-improves-raspberry-pi-5-support)
 
