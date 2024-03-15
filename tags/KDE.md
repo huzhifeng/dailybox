@@ -1,3 +1,8 @@
+## 20240316
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [RESTful Client Applications in Qt 6.7 and Forward](https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [New Release Team Blog](https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed)
+
 ## 20240315
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 RC released](https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Streamlining Multi-platform Development and Testing](https://www.kdab.com/streamlining-multi-platform-development-and-testing/?utm_source=atom_feed)

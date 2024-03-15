@@ -1,3 +1,8 @@
+## 20240316
+- [Kagi Small Web](https://kagi.com/smallweb) | [Devin & AI](https://www.sahilparikh.com/posts/2024/devin/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Tom Griffiths](https://mlfoundations.org/talk/griffith/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Approaching the Dock](https://www.75centralphotography.com/approaching-the-dock/)
+
 ## 20240312
 - [Kagi Small Web](https://kagi.com/smallweb) | [I canceled my Fujifilm X100VI order](https://baty.net/2024/03/i-canceled-my-fujifilm-x100vi-order)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Picking up ClinkLog 2 again](https://felix.plesoianu.ro/web/clinklog2/)

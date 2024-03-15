@@ -1,3 +1,6 @@
+## 20240316
+- [Red Hat Developer](https://developers.redhat.com/) | [Empower conversational AI at scale with KServe](https://developers.redhat.com/articles/2024/03/15/empower-conversational-ai-scale-kserve)
+
 ## 20240314
 - [Red Hat Developer](https://developers.redhat.com/) | [Save memory with OpenShift Virtualization using Free Page Reporting](https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting)
 - [Red Hat Developer](https://developers.redhat.com/) | [Kafka tiered storage deep dive](https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive)

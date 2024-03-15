@@ -1,3 +1,13 @@
+## 20240316
+- [Red Hat Developer](https://developers.redhat.com/) | [Empower conversational AI at scale with KServe](https://developers.redhat.com/articles/2024/03/15/empower-conversational-ai-scale-kserve)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network](https://9to5linux.com/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network)
+- [Planet GNOME](https://planet.gnome.org/) | [PipeWire camera handling is now happening!](https://blogs.gnome.org/uraeus/2024/03/15/pipewire-camera-handling-is-now-happening/)
+- [Planet GNOME](https://planet.gnome.org/) | [Libadwaita 1.5](https://blogs.gnome.org/alicem/2024/03/15/libadwaita-1-5/)
+- [Planet GNOME](https://planet.gnome.org/) | [Maps and GNOME 46](https://ml4711.blogspot.com/2024/03/maps-and-gnome-46.html)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [RESTful Client Applications in Qt 6.7 and Forward](https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [New Release Team Blog](https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed)
+
 ## 20240315
 - [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu)
 - [Planet GNOME](https://planet.gnome.org/) | [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)

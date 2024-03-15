@@ -1,3 +1,6 @@
+## 20240316
+- [diff.blog](https://diff.blog/) | [Nix is a better Docker image builder than Docker's image builder](https://diff.blog/post/nix-is-a-better-docker-image-builder-than-dockers-image-builder-172047/)
+
 ## 20240315
 - [diff.blog](https://diff.blog/) | [Die shots and transistor-level debugging on Raspberry Pi 5](https://diff.blog/post/die-shots-and-transistor-level-debugging-on-raspberry-pi-5-171965/)
 

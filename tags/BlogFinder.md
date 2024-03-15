@@ -1,3 +1,8 @@
+## 20240316
+- [BlogFinder](https://bf.zzxworld.com/) | [心只为你跳](https://www.jul.cn/post/66.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [如何在RK系开发板的linux冷门内核上编译CH340驱动](https://yisous.xyz/posts/dad8e69b/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Blogwe重整上线](https://mmcl.net/a/blogwe.html?utm_source=blogfinder)
+
 ## 20240315
 - [BlogFinder](https://bf.zzxworld.com/) | [MacBook Air 2015版（ A1499） 重装系统和从Yosemite升级到High Sierra最终到Mojave的过程](https://www.zyzhang.com/macbook-air-2015%e7%89%88%ef%bc%88-a1499%ef%bc%89-%e9%87%8d%e8%a3%85%e7%b3%bb%e7%bb%9f%e5%92%8c%e4%bb%8eyosemite%e5%8d%87%e7%ba%a7%e5%88%b0high-sierra%e6%9c%80%e7%bb%88%e5%88%b0mojave%e7%9a%84/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [老了](https://hisherry.com/iramblings/4603/?utm_source=blogfinder)
