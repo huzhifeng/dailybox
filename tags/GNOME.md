@@ -1,3 +1,8 @@
+## 20240316
+- [Planet GNOME](https://planet.gnome.org/) | [PipeWire camera handling is now happening!](https://blogs.gnome.org/uraeus/2024/03/15/pipewire-camera-handling-is-now-happening/)
+- [Planet GNOME](https://planet.gnome.org/) | [Libadwaita 1.5](https://blogs.gnome.org/alicem/2024/03/15/libadwaita-1-5/)
+- [Planet GNOME](https://planet.gnome.org/) | [Maps and GNOME 46](https://ml4711.blogspot.com/2024/03/maps-and-gnome-46.html)
+
 ## 20240315
 - [Planet GNOME](https://planet.gnome.org/) | [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 

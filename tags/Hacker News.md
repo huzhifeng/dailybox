@@ -1,3 +1,8 @@
+## 20240316
+- [Hacker News](https://news.ycombinator.com/front) | [Ollama now supports AMD graphics cards](https://news.ycombinator.com/item?id=39718558)
+- [Hacker News](https://news.ycombinator.com/front) | [Berlin's techno scene added to Unesco intangible cultural heritage list](https://news.ycombinator.com/item?id=39713323)
+- [Hacker News](https://news.ycombinator.com/front) | [Vision Pro: What we got wrong at Oculus that Apple got right](https://news.ycombinator.com/item?id=39711725)
+
 ## 20240315
 - [Hacker News](https://news.ycombinator.com/front) | [Oregon passes right-to-repair law Apple lobbied to kill](https://news.ycombinator.com/item?id=39702604)
 - [Hacker News](https://news.ycombinator.com/front) | [Starship's Third Flight Test [video]](https://news.ycombinator.com/item?id=39702568)

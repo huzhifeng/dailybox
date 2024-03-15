@@ -1,3 +1,6 @@
+## 20240316
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network](https://9to5linux.com/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network)
+
 ## 20240315
 - [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU](https://9to5linux.com/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu)
 
