@@ -1,3 +1,8 @@
+## 20240317
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Update March 16, 2024](https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This weekend I am contributing to Transitous. You should too.](https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Dolphin 24.02](https://meven.github.io/dolphin-24-02/?utm_source=atom_feed)
+
 ## 20240316
 - [Planet GNOME](https://planet.gnome.org/) | [PipeWire camera handling is now happening!](https://blogs.gnome.org/uraeus/2024/03/15/pipewire-camera-handling-is-now-happening/)
 - [Planet GNOME](https://planet.gnome.org/) | [Libadwaita 1.5](https://blogs.gnome.org/alicem/2024/03/15/libadwaita-1-5/)

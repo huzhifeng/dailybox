@@ -1,3 +1,8 @@
+## 20240317
+- [BlogFinder](https://bf.zzxworld.com/) | [J 人的本命笔记软件：Capacities](https://www.owenyoung.com/blog/capacities/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [利用HTML5 Canvas技术，实现人群流动的模拟动画效果](https://www.lyszm.com/648.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [家人被诈骗了](https://blog.forecho.com/the-familys-been-scammed.html?utm_source=blogfinder)
+
 ## 20240316
 - [BlogFinder](https://bf.zzxworld.com/) | [心只为你跳](https://www.jul.cn/post/66.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [如何在RK系开发板的linux冷门内核上编译CH340驱动](https://yisous.xyz/posts/dad8e69b/?utm_source=blogfinder)

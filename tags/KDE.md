@@ -1,3 +1,8 @@
+## 20240317
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Update March 16, 2024](https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This weekend I am contributing to Transitous. You should too.](https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Dolphin 24.02](https://meven.github.io/dolphin-24-02/?utm_source=atom_feed)
+
 ## 20240316
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [RESTful Client Applications in Qt 6.7 and Forward](https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed)

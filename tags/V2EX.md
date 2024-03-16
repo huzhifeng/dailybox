@@ -1,3 +1,8 @@
+## 20240317
+- [V2EX](https://www.v2ex.com/) | [支持远程上班的公司是如何保证员工不摸鱼的？是有实时监控吗？](https://www.v2ex.com/t/1024284)
+- [V2EX](https://www.v2ex.com/) | [欢迎加入 Ai-hub，您可以优惠的价格畅享 OpenAI 服务，也可以参与推广实现 GPT-4 自由并获得被动收入](https://www.v2ex.com/t/1024256)
+- [V2EX](https://www.v2ex.com/) | [CF 这种云服务商靠什么赚钱?](https://www.v2ex.com/t/1024241)
+
 ## 20240316
 - [V2EX](https://www.v2ex.com/) | [手里有大量 GPT 额度欢迎白嫖](https://www.v2ex.com/t/1023995)
 - [V2EX](https://www.v2ex.com/) | [关于男女关系——上班路上所见有感](https://www.v2ex.com/t/1023983)
