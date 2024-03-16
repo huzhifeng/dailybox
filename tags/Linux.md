@@ -1,3 +1,8 @@
+## 20240317
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Update March 16, 2024](https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This weekend I am contributing to Transitous. You should too.](https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Dolphin 24.02](https://meven.github.io/dolphin-24-02/?utm_source=atom_feed)
+
 ## 20240316
 - [Red Hat Developer](https://developers.redhat.com/) | [Empower conversational AI at scale with KServe](https://developers.redhat.com/articles/2024/03/15/empower-conversational-ai-scale-kserve)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network](https://9to5linux.com/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network)

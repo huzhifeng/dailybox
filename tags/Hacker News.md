@@ -1,3 +1,6 @@
+## 20240317
+- [Hacker News](https://news.ycombinator.com/front) | [Fuzzing Ladybird with tools from Google Project Zero](https://news.ycombinator.com/item?id=39725057)
+
 ## 20240316
 - [Hacker News](https://news.ycombinator.com/front) | [Ollama now supports AMD graphics cards](https://news.ycombinator.com/item?id=39718558)
 - [Hacker News](https://news.ycombinator.com/front) | [Berlin's techno scene added to Unesco intangible cultural heritage list](https://news.ycombinator.com/item?id=39713323)
