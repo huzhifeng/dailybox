@@ -1,3 +1,8 @@
+## 20240318
+- [V2EX](https://www.v2ex.com/) | [感觉网络世界最近这几年变得越来越无聊了](https://www.v2ex.com/t/1024512)
+- [V2EX](https://www.v2ex.com/) | [各位都是如何解决 jp 区， google 搜索 显示日文的。](https://www.v2ex.com/t/1024489)
+- [V2EX](https://www.v2ex.com/) | [楼下我办会员的理发店年后全部人都换了,我问新店长营业信息不对吗?](https://www.v2ex.com/t/1024459)
+
 ## 20240317
 - [V2EX](https://www.v2ex.com/) | [支持远程上班的公司是如何保证员工不摸鱼的？是有实时监控吗？](https://www.v2ex.com/t/1024284)
 - [V2EX](https://www.v2ex.com/) | [欢迎加入 Ai-hub，您可以优惠的价格畅享 OpenAI 服务，也可以参与推广实现 GPT-4 自由并获得被动收入](https://www.v2ex.com/t/1024256)

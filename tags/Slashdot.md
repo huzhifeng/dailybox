@@ -1,3 +1,6 @@
+## 20240318
+- [Slashdot](https://developers.slashdot.org/) | [Free/Libre 'GnuCOBOL' Compiler Reaches Maturity, Can Compete with Proprietary Offerings](https://developers.slashdot.org/story/24/03/17/1810257/freelibre-gnucobol-compiler-reaches-maturity-can-compete-with-proprietary-offerings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240313
 - [Slashdot](https://developers.slashdot.org/) | [Apple To Allow iOS App Downloads Direct From Websites in the EU](https://apple.slashdot.org/story/24/03/12/1331200/apple-to-allow-ios-app-downloads-direct-from-websites-in-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
