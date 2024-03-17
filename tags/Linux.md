@@ -1,3 +1,7 @@
+## 20240318
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.8 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-8-on-ubuntu-heres-how)
+- [Planet KDE](https://planet.kde.org/) | [Kile 2.9.95 / 3.0 beta 4 released](https://gruenich.blogspot.com/2024/03/kile-2995-30-beta-4-released.html?utm_source=atom_feed)
+
 ## 20240317
 - [Planet KDE](https://planet.kde.org/) | [Breeze Icon Update March 16, 2024](https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This weekend I am contributing to Transitous. You should too.](https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed)

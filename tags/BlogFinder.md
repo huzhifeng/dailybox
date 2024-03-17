@@ -1,3 +1,8 @@
+## 20240318
+- [BlogFinder](https://bf.zzxworld.com/) | [emlog显示今天发布文章数](https://mmcl.net/a/110.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [关于文章内容卡片的设计方案](https://www.latiao.org/1750.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [欺负老实人](https://www.vergilisme.com/index.php/2024/03/17/2346.html?utm_source=blogfinder)
+
 ## 20240317
 - [BlogFinder](https://bf.zzxworld.com/) | [J 人的本命笔记软件：Capacities](https://www.owenyoung.com/blog/capacities/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [利用HTML5 Canvas技术，实现人群流动的模拟动画效果](https://www.lyszm.com/648.html?utm_source=blogfinder)

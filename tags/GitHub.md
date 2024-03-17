@@ -1,3 +1,6 @@
+## 20240318
+- [GitHub Advanced Search](https://github.com/search/advanced) | [xai-org/grok-1](https://github.com/xai-org/grok-1)
+
 ## 20240314
 - [GitHub Advanced Search](https://github.com/search/advanced) | [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
 

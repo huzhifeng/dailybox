@@ -1,3 +1,8 @@
+## 20240318
+- [Product Hunt](https://www.producthunt.com) | [Songhunt](https://www.producthunt.com/posts/songhunt-2)
+- [Product Hunt](https://www.producthunt.com) | [Tailor](https://www.producthunt.com/posts/tailor-78fc1f19-962e-4158-808c-dce6e26f28d1)
+- [Product Hunt](https://www.producthunt.com) | [Onboarding.Study](https://www.producthunt.com/posts/onboarding-study)
+
 ## 20240316
 - [Product Hunt](https://www.producthunt.com) | [Keep Design 1.5](https://www.producthunt.com/posts/keep-design-1-5)
 - [Product Hunt](https://www.producthunt.com) | [Perspect](https://www.producthunt.com/posts/perspect)

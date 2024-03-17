@@ -1,3 +1,7 @@
+## 20240318
+- [Hacker News](https://news.ycombinator.com/front) | [Grok](https://news.ycombinator.com/item?id=39737281)
+- [Hacker News](https://news.ycombinator.com/front) | [The return of the frame pointers](https://news.ycombinator.com/item?id=39731824)
+
 ## 20240317
 - [Hacker News](https://news.ycombinator.com/front) | [Fuzzing Ladybird with tools from Google Project Zero](https://news.ycombinator.com/item?id=39725057)
 

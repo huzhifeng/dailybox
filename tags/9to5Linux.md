@@ -1,3 +1,6 @@
+## 20240318
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.8 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-8-on-ubuntu-heres-how)
+
 ## 20240316
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network](https://9to5linux.com/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network)
 
