@@ -1,3 +1,8 @@
+## 20240319
+- [BlogFinder](https://bf.zzxworld.com/) | [【微博】：凌晨一点的北京](https://www.webersongao.com/microposts/3848.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [【微博】：周处除三害](https://www.webersongao.com/microposts/3847.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [iPhone 无法收到通知](https://dujun.io/1736.html?utm_source=blogfinder)
+
 ## 20240318
 - [BlogFinder](https://bf.zzxworld.com/) | [emlog显示今天发布文章数](https://mmcl.net/a/110.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [关于文章内容卡片的设计方案](https://www.latiao.org/1750.html?utm_source=blogfinder)

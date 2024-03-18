@@ -1,3 +1,6 @@
+## 20240319
+- [Planet KDE](https://planet.kde.org/) | [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed)
+
 ## 20240318
 - [Planet KDE](https://planet.kde.org/) | [Kile 2.9.95 / 3.0 beta 4 released](https://gruenich.blogspot.com/2024/03/kile-2995-30-beta-4-released.html?utm_source=atom_feed)
 

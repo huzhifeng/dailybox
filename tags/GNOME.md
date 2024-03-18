@@ -1,3 +1,6 @@
+## 20240319
+- [Planet GNOME](https://planet.gnome.org/) | [Frame Pointers in the Media](https://blogs.gnome.org/chergert/2024/03/18/frame-pointers-in-the-media/)
+
 ## 20240316
 - [Planet GNOME](https://planet.gnome.org/) | [PipeWire camera handling is now happening!](https://blogs.gnome.org/uraeus/2024/03/15/pipewire-camera-handling-is-now-happening/)
 - [Planet GNOME](https://planet.gnome.org/) | [Libadwaita 1.5](https://blogs.gnome.org/alicem/2024/03/15/libadwaita-1-5/)
