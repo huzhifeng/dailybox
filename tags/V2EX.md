@@ -1,3 +1,8 @@
+## 20240319
+- [V2EX](https://www.v2ex.com/) | [幼儿园孩子之间冲突升级，对方家长在场施暴，如何处理](https://www.v2ex.com/t/1024723)
+- [V2EX](https://www.v2ex.com/) | [年纪轻轻患了癌症，关于未来有点迷茫了](https://www.v2ex.com/t/1024660)
+- [V2EX](https://www.v2ex.com/) | [各位 JS 高手你好，问一个关于 for 循环使用$.post 替换全局变量的问题，好像是竞争锁之类的](https://www.v2ex.com/t/1024619)
+
 ## 20240318
 - [V2EX](https://www.v2ex.com/) | [感觉网络世界最近这几年变得越来越无聊了](https://www.v2ex.com/t/1024512)
 - [V2EX](https://www.v2ex.com/) | [各位都是如何解决 jp 区， google 搜索 显示日文的。](https://www.v2ex.com/t/1024489)

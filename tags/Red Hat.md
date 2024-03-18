@@ -1,3 +1,7 @@
+## 20240319
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Profile Analyzer is now in tech preview](https://developers.redhat.com/articles/2024/03/18/red-hat-trusted-profile-analyzer-now-tech-preview)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to manage a fleet of heterogeneous OpenShift clusters](https://developers.redhat.com/articles/2024/03/18/how-manage-fleet-heterogeneous-openshift-clusters)
+
 ## 20240316
 - [Red Hat Developer](https://developers.redhat.com/) | [Empower conversational AI at scale with KServe](https://developers.redhat.com/articles/2024/03/15/empower-conversational-ai-scale-kserve)
 

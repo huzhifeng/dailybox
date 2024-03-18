@@ -1,3 +1,6 @@
+## 20240319
+- [It's FOSS](https://itsfoss.com/) | [Setting up Jellyfin Media Server on Raspberry Pi](https://itsfoss.com/jellyfin-raspberry-pi/)
+
 ## 20240315
 - [It's FOSS](https://itsfoss.com/) | [Use Calibre to Remove DRM from Kindle Books and Convert to PDF](https://itsfoss.com/calibre-remove-drm-kindle/)
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/)

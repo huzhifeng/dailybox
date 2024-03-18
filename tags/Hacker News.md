@@ -1,3 +1,6 @@
+## 20240319
+- [Hacker News](https://news.ycombinator.com/front) | [YouTube now requires to label their realistic-looking videos made using AI](https://news.ycombinator.com/item?id=39746468)
+
 ## 20240318
 - [Hacker News](https://news.ycombinator.com/front) | [Grok](https://news.ycombinator.com/item?id=39737281)
 - [Hacker News](https://news.ycombinator.com/front) | [The return of the frame pointers](https://news.ycombinator.com/item?id=39731824)

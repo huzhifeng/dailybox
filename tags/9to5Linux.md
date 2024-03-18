@@ -1,3 +1,8 @@
+## 20240319
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 124 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-124-is-now-available-for-download-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [4MLinux 45.0 Released with Linux Kernel 6.6 LTS, New Printing Drivers](https://9to5linux.com/4mlinux-45-0-released-with-linux-kernel-6-6-lts-new-printing-drivers)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-17th-2024)
+
 ## 20240318
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.8 on Ubuntu, Here’s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-8-on-ubuntu-heres-how)
 

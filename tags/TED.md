@@ -1,3 +1,6 @@
+## 20240319
+- [TED Talks Daily](https://www.ted.com/talks) | [Dear fellow refugees, here's how I found resilience | Chantale Zuzi Leader](https://www.ted.com/talks/chantale_zuzi_leader_dear_fellow_refugees_here_s_how_i_found_resilience?rss)
+
 ## 20240316
 - [TED Talks Daily](https://www.ted.com/talks) | [The miracle of organ donation — and a breakthrough for the future | Abbas Ardehali](https://www.ted.com/talks/abbas_ardehali_the_miracle_of_organ_donation_and_a_breakthrough_for_the_future?rss)
 
