@@ -1,3 +1,13 @@
+## 20240320
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in Red Hat OpenShift 4.15](https://developers.redhat.com/articles/2024/03/19/whats-new-developers-red-hat-openshift-415)
+- [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Database profiling results](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results)
+- [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Profiling, performance, and efficiency](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-profiling-performance-and-efficiency)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 125 Enters Public Beta Testing with URL Paste Suggestion, PDF Highlighting](https://9to5linux.com/firefox-125-enters-public-beta-testing-with-url-paste-suggestion-pdf-highlighting)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.67 Linux Graphics Driver Brings Wayland Fixes, Better Support for VKD3D Games](https://9to5linux.com/nvidia-550-67-linux-graphics-driver-brings-wayland-fixes)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 45.5 Is Here with Small Updates for GNOME Shell, Mutter, and GNOME Tweaks](https://9to5linux.com/gnome-45-5-is-here-with-small-updates-for-gnome-shell-mutter-and-gnome-tweaks)
+- [Planet GNOME](https://planet.gnome.org/) | [Asymptotic: A 2023 Review](https://arunraghavan.net/2024/03/asymptotic-a-2023-review/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 19/03/2024 – GNOME OS and openQA](https://samthursfield.wordpress.com/2024/03/19/status-update-19-03-2024-gnome-os-and-openqa/)
+
 ## 20240319
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Profile Analyzer is now in tech preview](https://developers.redhat.com/articles/2024/03/18/red-hat-trusted-profile-analyzer-now-tech-preview)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to manage a fleet of heterogeneous OpenShift clusters](https://developers.redhat.com/articles/2024/03/18/how-manage-fleet-heterogeneous-openshift-clusters)

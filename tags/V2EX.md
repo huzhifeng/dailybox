@@ -1,3 +1,8 @@
+## 20240320
+- [V2EX](https://www.v2ex.com/) | [噗，在国内做独立开发者，门槛比情敌还高](https://www.v2ex.com/t/1025007)
+- [V2EX](https://www.v2ex.com/) | [对开源软件售卖、倒卖、骗赞、付费打包都是正当合法，值得鼓励的](https://www.v2ex.com/t/1024977)
+- [V2EX](https://www.v2ex.com/) | [[求笔记本推荐！] 女生，预算 9000+-500，纯办公 word/ecel](https://www.v2ex.com/t/1024975)
+
 ## 20240319
 - [V2EX](https://www.v2ex.com/) | [幼儿园孩子之间冲突升级，对方家长在场施暴，如何处理](https://www.v2ex.com/t/1024723)
 - [V2EX](https://www.v2ex.com/) | [年纪轻轻患了癌症，关于未来有点迷茫了](https://www.v2ex.com/t/1024660)

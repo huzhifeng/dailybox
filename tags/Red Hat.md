@@ -1,3 +1,8 @@
+## 20240320
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in Red Hat OpenShift 4.15](https://developers.redhat.com/articles/2024/03/19/whats-new-developers-red-hat-openshift-415)
+- [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Database profiling results](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results)
+- [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Profiling, performance, and efficiency](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-profiling-performance-and-efficiency)
+
 ## 20240319
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Profile Analyzer is now in tech preview](https://developers.redhat.com/articles/2024/03/18/red-hat-trusted-profile-analyzer-now-tech-preview)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to manage a fleet of heterogeneous OpenShift clusters](https://developers.redhat.com/articles/2024/03/18/how-manage-fleet-heterogeneous-openshift-clusters)

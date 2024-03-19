@@ -1,3 +1,7 @@
+## 20240320
+- [Planet GNOME](https://planet.gnome.org/) | [Asymptotic: A 2023 Review](https://arunraghavan.net/2024/03/asymptotic-a-2023-review/)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 19/03/2024 – GNOME OS and openQA](https://samthursfield.wordpress.com/2024/03/19/status-update-19-03-2024-gnome-os-and-openqa/)
+
 ## 20240319
 - [Planet GNOME](https://planet.gnome.org/) | [Frame Pointers in the Media](https://blogs.gnome.org/chergert/2024/03/18/frame-pointers-in-the-media/)
 - [Planet KDE](https://planet.kde.org/) | [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed)
