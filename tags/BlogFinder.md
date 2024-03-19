@@ -1,3 +1,8 @@
+## 20240320
+- [BlogFinder](https://bf.zzxworld.com/) | [【日记】历经小磨难成功注册6s.ink](https://www.dmxvx.cc/807.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [美股“四巫日”是什么](https://innomad.io/quadruple-witching?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Product Hunt 的邮件通讯，现在有中文版了！](https://cheapy.top/product-hunt-de-you-jian-tong-xun-xian-zai-you-zhong-wen-ban-liao-2/?utm_source=blogfinder)
+
 ## 20240319
 - [BlogFinder](https://bf.zzxworld.com/) | [【微博】：凌晨一点的北京](https://www.webersongao.com/microposts/3848.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [【微博】：周处除三害](https://www.webersongao.com/microposts/3847.html?utm_source=blogfinder)

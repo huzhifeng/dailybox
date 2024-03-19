@@ -1,3 +1,7 @@
+## 20240320
+- [diff.blog](https://diff.blog/) | [Inside the Massive Alleged AT&T Data Breach](https://diff.blog/post/inside-the-massive-alleged-att-data-breach-172272/)
+- [diff.blog](https://diff.blog/) | [Port Scan with Spoofed IP Addresses](https://diff.blog/post/port-scan-with-spoofed-ip-addresses-172309/)
+
 ## 20240319
 - [diff.blog](https://diff.blog/) | [I&#8217;m So Old:  Web Edition](https://diff.blog/post/i8217m-so-old-web-edition-172204/)
 

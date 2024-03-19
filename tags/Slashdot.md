@@ -1,3 +1,6 @@
+## 20240320
+- [Slashdot](https://developers.slashdot.org/) | [C++ Creator Rebuts White House Warning](https://developers.slashdot.org/story/24/03/19/019240/c-creator-rebuts-white-house-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240319
 - [Slashdot](https://developers.slashdot.org/) | [Database-Based Operating System 'DBOS' Does Things Linux Can't](https://developers.slashdot.org/story/24/03/18/0038232/database-based-operating-system-dbos-does-things-linux-cant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
