@@ -1,3 +1,8 @@
+## 20240321
+- [Kagi Small Web](https://kagi.com/smallweb) | [Rust log macro](https://pvdz.ee/weblog/455)
+- [Kagi Small Web](https://kagi.com/smallweb) | [HBD 2024](https://artlung.com/blog/2024/03/20/hbd-2024/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Why do neutrinos have mass? | Even Bananas](https://www.youtube.com/watch?v=7k36ylf5noE)
+
 ## 20240316
 - [Kagi Small Web](https://kagi.com/smallweb) | [Devin & AI](https://www.sahilparikh.com/posts/2024/devin/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Tom Griffiths](https://mlfoundations.org/talk/griffith/)

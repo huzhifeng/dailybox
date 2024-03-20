@@ -1,3 +1,8 @@
+## 20240321
+- [V2EX](https://www.v2ex.com/) | [问下大家 30 岁的人不会开车也不买车也不学驾照算失败吗？](https://www.v2ex.com/t/1025457)
+- [V2EX](https://www.v2ex.com/) | [盼大佬解答，前端加密到底是不是脱裤子放屁？](https://www.v2ex.com/t/1025454)
+- [V2EX](https://www.v2ex.com/) | [你买得最值得的软件是什么？](https://www.v2ex.com/t/1025405)
+
 ## 20240320
 - [V2EX](https://www.v2ex.com/) | [噗，在国内做独立开发者，门槛比情敌还高](https://www.v2ex.com/t/1025007)
 - [V2EX](https://www.v2ex.com/) | [对开源软件售卖、倒卖、骗赞、付费打包都是正当合法，值得鼓励的](https://www.v2ex.com/t/1024977)

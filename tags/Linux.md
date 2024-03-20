@@ -1,3 +1,15 @@
+## 20240321
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Network Observability 1.5](https://developers.redhat.com/articles/2024/03/20/whats-new-network-observability-15)
+- [Red Hat Developer](https://developers.redhat.com/) | [Using Kuadrant Gateway API policies with Gatekeeper policies](https://developers.redhat.com/articles/2024/03/20/using-kuadrant-gateway-api-policies-gatekeeper-policies)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 &#8220;Kathmandu&#8221; Desktop Environment Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-46-kathmandu-desktop-environment-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.3.1 Brings More Efficient Shader Code Generation on NVIDIA GPUs](https://9to5linux.com/dxvk-2-3-1-brings-more-efficient-shader-code-generation-on-nvidia-gpus)
+- [9to5Linux](https://9to5linux.com/) | [Top 5 Linux Distributions to Try the KDE Plasma 6 Desktop Right Now](https://9to5linux.com/top-5-linux-distributions-to-try-the-kde-plasma-6-desktop-right-now)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 20/03/2024 – TinySPARQL and Tracker Miners](https://samthursfield.wordpress.com/2024/03/20/status-update-20-03-2024-tinysparql-and-tracker-miners/)
+- [Planet GNOME](https://planet.gnome.org/) | [Color management and API design](https://nibblestew.blogspot.com/2024/03/color-management-and-api-design.html)
+- [Planet GNOME](https://planet.gnome.org/) | [What’s new in GVfs for GNOME 46?](https://ondrej.holych.net/whats-new-in-gvfs-for-gnome-46/)
+- [Planet KDE](https://planet.kde.org/) | [Trusting content on the KDE Store](http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Splashscreen contributions](https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed)
+
 ## 20240320
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in Red Hat OpenShift 4.15](https://developers.redhat.com/articles/2024/03/19/whats-new-developers-red-hat-openshift-415)
 - [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Database profiling results](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results)

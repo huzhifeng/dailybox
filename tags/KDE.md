@@ -1,3 +1,7 @@
+## 20240321
+- [Planet KDE](https://planet.kde.org/) | [Trusting content on the KDE Store](http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Splashscreen contributions](https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed)
+
 ## 20240319
 - [Planet KDE](https://planet.kde.org/) | [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed)
 

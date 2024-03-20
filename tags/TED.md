@@ -1,3 +1,6 @@
+## 20240321
+- [TED Talks Daily](https://www.ted.com/talks) | [3 ways to use AI without replacing your coworkers | Madison Mohns](https://www.ted.com/talks/madison_mohns_3_ways_to_use_ai_without_replacing_your_coworkers?rss)
+
 ## 20240320
 - [TED Talks Daily](https://www.ted.com/talks) | [5 lessons on happiness — from pop fame to poisonous snakes | Mike Posner](https://www.ted.com/talks/mike_posner_5_lessons_on_happiness_from_pop_fame_to_poisonous_snakes?rss)
 

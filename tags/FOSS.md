@@ -1,3 +1,6 @@
+## 20240321
+- [It's FOSS](https://itsfoss.com/) | [How to Test Webcam on Ubuntu](https://itsfoss.com/test-webcam-ubuntu/)
+
 ## 20240320
 - [It's FOSS](https://itsfoss.com/) | [procs is a Better Alternative to the ps Command for Handling Process in Linux](https://itsfoss.com/procs/)
 

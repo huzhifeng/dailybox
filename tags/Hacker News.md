@@ -1,3 +1,7 @@
+## 20240321
+- [Hacker News](https://news.ycombinator.com/front) | [Flightradar24's new GPS jamming map](https://news.ycombinator.com/item?id=39768434)
+- [Hacker News](https://news.ycombinator.com/front) | [Regex character "$" doesn't mean "end-of-string"](https://news.ycombinator.com/item?id=39763750)
+
 ## 20240319
 - [Hacker News](https://news.ycombinator.com/front) | [YouTube now requires to label their realistic-looking videos made using AI](https://news.ycombinator.com/item?id=39746468)
 

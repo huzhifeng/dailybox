@@ -1,3 +1,7 @@
+## 20240321
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Network Observability 1.5](https://developers.redhat.com/articles/2024/03/20/whats-new-network-observability-15)
+- [Red Hat Developer](https://developers.redhat.com/) | [Using Kuadrant Gateway API policies with Gatekeeper policies](https://developers.redhat.com/articles/2024/03/20/using-kuadrant-gateway-api-policies-gatekeeper-policies)
+
 ## 20240320
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new for developers in Red Hat OpenShift 4.15](https://developers.redhat.com/articles/2024/03/19/whats-new-developers-red-hat-openshift-415)
 - [Red Hat Developer](https://developers.redhat.com/) | [Optimizing Quay/Clair: Database profiling results](https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results)
