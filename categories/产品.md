@@ -1,3 +1,8 @@
+## 20240321
+- [Product Hunt](https://www.producthunt.com) | [ThinkAny](https://www.producthunt.com/posts/thinkany)
+- [Product Hunt](https://www.producthunt.com) | [AI Desk by Collov AI](https://www.producthunt.com/posts/ai-desk-by-collov-ai)
+- [Product Hunt](https://www.producthunt.com) | [ZeroTrusted.ai](https://www.producthunt.com/posts/zerotrusted-ai)
+
 ## 20240320
 - [Product Hunt](https://www.producthunt.com) | [ContextQA 2.0](https://www.producthunt.com/posts/contextqa-2-0)
 - [Product Hunt](https://www.producthunt.com) | [WeGoTrip On Demand Tours](https://www.producthunt.com/posts/wegotrip-on-demand-tours)

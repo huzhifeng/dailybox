@@ -1,3 +1,6 @@
+## 20240321
+- [diff.blog](https://diff.blog/) | [curl turns 26 today](https://diff.blog/post/curl-turns-26-today-172348/)
+
 ## 20240320
 - [diff.blog](https://diff.blog/) | [Inside the Massive Alleged AT&T Data Breach](https://diff.blog/post/inside-the-massive-alleged-att-data-breach-172272/)
 - [diff.blog](https://diff.blog/) | [Port Scan with Spoofed IP Addresses](https://diff.blog/post/port-scan-with-spoofed-ip-addresses-172309/)

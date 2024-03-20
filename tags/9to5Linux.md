@@ -1,3 +1,8 @@
+## 20240321
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46 &#8220;Kathmandu&#8221; Desktop Environment Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-46-kathmandu-desktop-environment-released-heres-whats-new)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.3.1 Brings More Efficient Shader Code Generation on NVIDIA GPUs](https://9to5linux.com/dxvk-2-3-1-brings-more-efficient-shader-code-generation-on-nvidia-gpus)
+- [9to5Linux](https://9to5linux.com/) | [Top 5 Linux Distributions to Try the KDE Plasma 6 Desktop Right Now](https://9to5linux.com/top-5-linux-distributions-to-try-the-kde-plasma-6-desktop-right-now)
+
 ## 20240320
 - [9to5Linux](https://9to5linux.com/) | [Firefox 125 Enters Public Beta Testing with URL Paste Suggestion, PDF Highlighting](https://9to5linux.com/firefox-125-enters-public-beta-testing-with-url-paste-suggestion-pdf-highlighting)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 550.67 Linux Graphics Driver Brings Wayland Fixes, Better Support for VKD3D Games](https://9to5linux.com/nvidia-550-67-linux-graphics-driver-brings-wayland-fixes)
