@@ -1,3 +1,8 @@
+## 20240322
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.77.0](https://diff.blog/post/announcing-rust-1770-172460/)
+- [diff.blog](https://diff.blog/) | [The Reddits](https://diff.blog/post/the-reddits-172465/)
+- [diff.blog](https://diff.blog/) | [Threads has entered the fediverse](https://diff.blog/post/threads-has-entered-the-fediverse-172488/)
+
 ## 20240321
 - [diff.blog](https://diff.blog/) | [curl turns 26 today](https://diff.blog/post/curl-turns-26-today-172348/)
 

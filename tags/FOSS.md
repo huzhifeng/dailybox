@@ -1,3 +1,6 @@
+## 20240322
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.12: SnoopGod Linux, Jellyfin Setup, procs, GNOME 46 Release and More](https://itsfoss.com/newsletter/foss-weekly-24-12/)
+
 ## 20240321
 - [It's FOSS](https://itsfoss.com/) | [How to Test Webcam on Ubuntu](https://itsfoss.com/test-webcam-ubuntu/)
 

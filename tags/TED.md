@@ -1,3 +1,6 @@
+## 20240322
+- [TED Talks Daily](https://www.ted.com/talks) | [How to choose clothes for longevity, not the landfill | Diarra Bousso](https://www.ted.com/talks/diarra_bousso_how_to_choose_clothes_for_longevity_not_the_landfill?rss)
+
 ## 20240321
 - [TED Talks Daily](https://www.ted.com/talks) | [3 ways to use AI without replacing your coworkers | Madison Mohns](https://www.ted.com/talks/madison_mohns_3_ways_to_use_ai_without_replacing_your_coworkers?rss)
 

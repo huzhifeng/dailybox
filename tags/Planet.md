@@ -1,3 +1,7 @@
+## 20240322
+- [Planet GNOME](https://planet.gnome.org/) | [BOLT’ing Libraries](https://blogs.gnome.org/chergert/2024/03/21/bolting-libraries/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.02.1](https://kde.org/announcements/gear/24.02.1/?utm_source=atom_feed)
+
 ## 20240321
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 20/03/2024 – TinySPARQL and Tracker Miners](https://samthursfield.wordpress.com/2024/03/20/status-update-20-03-2024-tinysparql-and-tracker-miners/)
 - [Planet GNOME](https://planet.gnome.org/) | [Color management and API design](https://nibblestew.blogspot.com/2024/03/color-management-and-api-design.html)
