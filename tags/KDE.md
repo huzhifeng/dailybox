@@ -1,3 +1,6 @@
+## 20240322
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.02.1](https://kde.org/announcements/gear/24.02.1/?utm_source=atom_feed)
+
 ## 20240321
 - [Planet KDE](https://planet.kde.org/) | [Trusting content on the KDE Store](http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Splashscreen contributions](https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed)

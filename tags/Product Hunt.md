@@ -1,3 +1,8 @@
+## 20240322
+- [Product Hunt](https://www.producthunt.com) | [UpSkill Safety Coach for Kids](https://www.producthunt.com/posts/upskill-safety-coach-for-kids)
+- [Product Hunt](https://www.producthunt.com) | [Pulse AI](https://www.producthunt.com/posts/pulse-ai)
+- [Product Hunt](https://www.producthunt.com) | [Vapi](https://www.producthunt.com/posts/vapi)
+
 ## 20240321
 - [Product Hunt](https://www.producthunt.com) | [ThinkAny](https://www.producthunt.com/posts/thinkany)
 - [Product Hunt](https://www.producthunt.com) | [AI Desk by Collov AI](https://www.producthunt.com/posts/ai-desk-by-collov-ai)

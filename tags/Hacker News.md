@@ -1,3 +1,8 @@
+## 20240322
+- [Hacker News](https://news.ycombinator.com/front) | [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://news.ycombinator.com/item?id=39778999)
+- [Hacker News](https://news.ycombinator.com/front) | [Difftastic, a structural diff tool that understands syntax](https://news.ycombinator.com/item?id=39778412)
+- [Hacker News](https://news.ycombinator.com/front) | [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://news.ycombinator.com/item?id=39777229)
+
 ## 20240321
 - [Hacker News](https://news.ycombinator.com/front) | [Flightradar24's new GPS jamming map](https://news.ycombinator.com/item?id=39768434)
 - [Hacker News](https://news.ycombinator.com/front) | [Regex character "$" doesn't mean "end-of-string"](https://news.ycombinator.com/item?id=39763750)

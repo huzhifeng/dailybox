@@ -1,3 +1,8 @@
+## 20240322
+- [V2EX](https://www.v2ex.com/) | [[抽 5 个 88 现金红包]开发的 Excel 小工具上线 Product Hunt 了](https://www.v2ex.com/t/1025770)
+- [V2EX](https://www.v2ex.com/) | [想消费，没啥可买的了？](https://www.v2ex.com/t/1025751)
+- [V2EX](https://www.v2ex.com/) | [过来人推荐下求婚戒指](https://www.v2ex.com/t/1025701)
+
 ## 20240321
 - [V2EX](https://www.v2ex.com/) | [问下大家 30 岁的人不会开车也不买车也不学驾照算失败吗？](https://www.v2ex.com/t/1025457)
 - [V2EX](https://www.v2ex.com/) | [盼大佬解答，前端加密到底是不是脱裤子放屁？](https://www.v2ex.com/t/1025454)

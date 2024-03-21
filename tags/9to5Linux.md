@@ -1,3 +1,7 @@
+## 20240322
+- [9to5Linux](https://9to5linux.com/) | [System76 Unveils New Lemur Pro Linux Laptop with Intel Core Ultra Processors](https://9to5linux.com/system76-unveils-new-lemur-pro-linux-laptop-with-intel-core-ultra-processors)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.02.1 Improves Dolphin, Spectacle, Okular, and Other KDE Apps](https://9to5linux.com/kde-gear-24-02-1-improves-dolphin-spectacle-okular-and-other-kde-apps)
+
 ## 20240321
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46 &#8220;Kathmandu&#8221; Desktop Environment Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-46-kathmandu-desktop-environment-released-heres-whats-new)
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.3.1 Brings More Efficient Shader Code Generation on NVIDIA GPUs](https://9to5linux.com/dxvk-2-3-1-brings-more-efficient-shader-code-generation-on-nvidia-gpus)
