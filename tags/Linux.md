@@ -1,3 +1,9 @@
+## 20240323
+- [Planet GNOME](https://planet.gnome.org/) | [Mini GUADEC 2024: We have a Venue!](https://blogs.gnome.org/tbernard/2024/03/22/mini-guadec-2024-we-have-a-venue/)
+- [Planet GNOME](https://planet.gnome.org/) | [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-12](https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Wallpaper 24.04 – Call for Submissions](https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed)
+
 ## 20240322
 - [Red Hat Developer](https://developers.redhat.com/) | [Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency](https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency)
 - [Red Hat Developer](https://developers.redhat.com/) | [Implement Source-to-Image builds in an Azure DevOps pipeline](https://developers.redhat.com/articles/2024/03/21/implement-source-image-builds-azure-devops-pipeline)

@@ -1,3 +1,6 @@
+## 20240323
+- [diff.blog](https://diff.blog/) | [The "current branch" in git](https://diff.blog/post/the-current-branch-in-git-172540/)
+
 ## 20240322
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.77.0](https://diff.blog/post/announcing-rust-1770-172460/)
 - [diff.blog](https://diff.blog/) | [The Reddits](https://diff.blog/post/the-reddits-172465/)

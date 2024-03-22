@@ -1,3 +1,7 @@
+## 20240323
+- [Planet GNOME](https://planet.gnome.org/) | [Mini GUADEC 2024: We have a Venue!](https://blogs.gnome.org/tbernard/2024/03/22/mini-guadec-2024-we-have-a-venue/)
+- [Planet GNOME](https://planet.gnome.org/) | [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/)
+
 ## 20240322
 - [Planet GNOME](https://planet.gnome.org/) | [BOLT’ing Libraries](https://blogs.gnome.org/chergert/2024/03/21/bolting-libraries/)
 

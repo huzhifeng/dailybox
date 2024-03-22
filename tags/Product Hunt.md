@@ -1,3 +1,7 @@
+## 20240323
+- [Product Hunt](https://www.producthunt.com) | [SEO AI Writer](https://www.producthunt.com/posts/seo-ai-writer)
+- [Product Hunt](https://www.producthunt.com) | [Butternut AI 1.0](https://www.producthunt.com/posts/butternut-ai-1-0)
+
 ## 20240322
 - [Product Hunt](https://www.producthunt.com) | [UpSkill Safety Coach for Kids](https://www.producthunt.com/posts/upskill-safety-coach-for-kids)
 - [Product Hunt](https://www.producthunt.com) | [Pulse AI](https://www.producthunt.com/posts/pulse-ai)
