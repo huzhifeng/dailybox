@@ -1,3 +1,6 @@
+## 20240323
+- [TED Talks Daily](https://www.ted.com/talks) | [How business leaders can renew democracy | Daniella Ballou-Aares](https://www.ted.com/talks/daniella_ballou_aares_how_business_leaders_can_renew_democracy?rss)
+
 ## 20240322
 - [TED Talks Daily](https://www.ted.com/talks) | [How to choose clothes for longevity, not the landfill | Diarra Bousso](https://www.ted.com/talks/diarra_bousso_how_to_choose_clothes_for_longevity_not_the_landfill?rss)
 

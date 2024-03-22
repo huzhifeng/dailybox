@@ -1,3 +1,9 @@
+## 20240323
+- [Planet GNOME](https://planet.gnome.org/) | [Mini GUADEC 2024: We have a Venue!](https://blogs.gnome.org/tbernard/2024/03/22/mini-guadec-2024-we-have-a-venue/)
+- [Planet GNOME](https://planet.gnome.org/) | [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-12](https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Wallpaper 24.04 – Call for Submissions](https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed)
+
 ## 20240322
 - [Planet GNOME](https://planet.gnome.org/) | [BOLT’ing Libraries](https://blogs.gnome.org/chergert/2024/03/21/bolting-libraries/)
 - [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.02.1](https://kde.org/announcements/gear/24.02.1/?utm_source=atom_feed)

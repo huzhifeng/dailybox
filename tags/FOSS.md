@@ -1,3 +1,6 @@
+## 20240323
+- [It's FOSS](https://itsfoss.com/) | [Change Default Web Browser in Ubuntu [Beginner's Tip]](https://itsfoss.com/ubuntu-change-browser/)
+
 ## 20240322
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.12: SnoopGod Linux, Jellyfin Setup, procs, GNOME 46 Release and More](https://itsfoss.com/newsletter/foss-weekly-24-12/)
 

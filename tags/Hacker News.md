@@ -1,3 +1,7 @@
+## 20240323
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Mapping almost every law, regulation and case in Australia](https://news.ycombinator.com/item?id=39788322)
+- [Hacker News](https://news.ycombinator.com/front) | [Picotron Is a Fantasy Workstation](https://news.ycombinator.com/item?id=39786984)
+
 ## 20240322
 - [Hacker News](https://news.ycombinator.com/front) | [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://news.ycombinator.com/item?id=39778999)
 - [Hacker News](https://news.ycombinator.com/front) | [Difftastic, a structural diff tool that understands syntax](https://news.ycombinator.com/item?id=39778412)

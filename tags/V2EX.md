@@ -1,3 +1,8 @@
+## 20240323
+- [V2EX](https://www.v2ex.com/) | [手机防水就是个能看不能信的骗局](https://www.v2ex.com/t/1026071)
+- [V2EX](https://www.v2ex.com/) | [事实证明， 一线城市，月薪 3000 完全够用的。](https://www.v2ex.com/t/1026026)
+- [V2EX](https://www.v2ex.com/) | [整了一个独立朋友圈](https://www.v2ex.com/t/1025995)
+
 ## 20240322
 - [V2EX](https://www.v2ex.com/) | [[抽 5 个 88 现金红包]开发的 Excel 小工具上线 Product Hunt 了](https://www.v2ex.com/t/1025770)
 - [V2EX](https://www.v2ex.com/) | [想消费，没啥可买的了？](https://www.v2ex.com/t/1025751)

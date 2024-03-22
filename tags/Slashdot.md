@@ -1,3 +1,6 @@
+## 20240323
+- [Slashdot](https://developers.slashdot.org/) | [Redis To Adopt 'Source-Available Licensing' Starting With Next Version](https://bsd.slashdot.org/story/24/03/21/225211/redis-to-adopt-source-available-licensing-starting-with-next-version?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240320
 - [Slashdot](https://developers.slashdot.org/) | [C++ Creator Rebuts White House Warning](https://developers.slashdot.org/story/24/03/19/019240/c-creator-rebuts-white-house-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
