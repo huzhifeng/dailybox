@@ -1,3 +1,7 @@
+## 20240324
+- [V2EX](https://www.v2ex.com/) | [做了六七年的 Java 开发，换工作也从未停歇，实在是有些累了](https://www.v2ex.com/t/1026492)
+- [V2EX](https://www.v2ex.com/) | [28 岁，又是被上海户口烦恼到做噩梦的一天](https://www.v2ex.com/t/1026490)
+
 ## 20240323
 - [V2EX](https://www.v2ex.com/) | [手机防水就是个能看不能信的骗局](https://www.v2ex.com/t/1026071)
 - [V2EX](https://www.v2ex.com/) | [事实证明， 一线城市，月薪 3000 完全够用的。](https://www.v2ex.com/t/1026026)

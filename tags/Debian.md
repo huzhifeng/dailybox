@@ -1,3 +1,7 @@
+## 20240324
+- [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: Testing again](https://weeraman.com/testing-again/)
+- [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: This is a test](https://weeraman.com/this-is-a-test/)
+
 ## 20231017
 - [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: New toy: ASUS ZenScreen Go MB16AHP](https://grep.be/blog//en/computer/hardware/New_toy:_ASUS_ZenScreen_Go_MB16AHP/)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: KDE: Debian: Hopefully a short goodbye for now.](https://www.scarlettgatelymoore.dev/kde-debian-hopefully-a-short-goodbye-for-now/)

@@ -1,3 +1,7 @@
+## 20240324
+- [Phoronix](https://www.phoronix.com/) | [SDL3 Preview Release Aims To Help Test The New SDL 3.0 API](https://www.phoronix.com/news/SDL-3.0-Preview-Release)
+- [Phoronix](https://www.phoronix.com/) | [KVM Virtualization With Linux 6.9 Brings More Optimizations For Intel & AMD](https://www.phoronix.com/news/Linux-6.9-KVM)
+
 ## 20231017
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 23.10 Desktop ISOs Re-Released Following Translation Snafu](https://www.phoronix.com/news/Ubuntu-23.10-ISOs-Re-Released)
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max / Sapphire Rapids Riding Higher On Ubuntu 23.10](https://www.phoronix.com/review/xeon-max-ubuntu-2310)

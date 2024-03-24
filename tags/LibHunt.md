@@ -1,3 +1,7 @@
+## 20240324
+- [LibHunt](https://www.libhunt.com/) | [devika](https://www.libhunt.com/r/devika)
+- [LibHunt](https://www.libhunt.com/) | [OpenDevin](https://www.libhunt.com/r/OpenDevin)
+
 ## 20231017
 - [LibHunt](https://www.libhunt.com/) | [MemGPT](https://www.libhunt.com/r/MemGPT)
 - [LibHunt](https://www.libhunt.com/) | [ChatGPT-AutoExpert](https://www.libhunt.com/r/ChatGPT-AutoExpert)

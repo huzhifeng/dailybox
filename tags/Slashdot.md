@@ -1,3 +1,6 @@
+## 20240324
+- [Slashdot](https://developers.slashdot.org/) | [Ask Slashdot:  DuckDB Queries JSON with SQL.  But Will AI Change Code Syntax?](https://developers.slashdot.org/story/24/03/23/170217/ask-slashdot-duckdb-queries-json-with-sql-but-will-ai-change-code-syntax?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240323
 - [Slashdot](https://developers.slashdot.org/) | [Redis To Adopt 'Source-Available Licensing' Starting With Next Version](https://bsd.slashdot.org/story/24/03/21/225211/redis-to-adopt-source-available-licensing-starting-with-next-version?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

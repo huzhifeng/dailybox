@@ -1,3 +1,7 @@
+## 20240324
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [What did we learn from Covid? (Jen Sorensen)](https://lemmy.world/pictrs/image/ec1759be-8f9b-4700-9b41-6cf9d7156785.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Are we the baddies?](https://i.imgur.com/QocIqUX.jpeg)
+
 ## 20231017
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [its the end of the rule as we know it](https://lemmy.blahaj.zone/pictrs/image/9b04c815-3034-4ef0-91c9-8a49277f8ac6.png)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hidden Beauty - Safely Endangered](https://lemmy.ca/pictrs/image/b2f523c7-10bb-46f2-8eda-24afb923df6a.png)

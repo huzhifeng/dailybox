@@ -1,3 +1,6 @@
+## 20240324
+- [Hacker News](https://news.ycombinator.com/front) | [Linux Crisis Tools](https://news.ycombinator.com/item?id=39804214)
+
 ## 20240323
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: Mapping almost every law, regulation and case in Australia](https://news.ycombinator.com/item?id=39788322)
 - [Hacker News](https://news.ycombinator.com/front) | [Picotron Is a Fantasy Workstation](https://news.ycombinator.com/item?id=39786984)

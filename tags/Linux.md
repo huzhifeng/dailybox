@@ -1,3 +1,10 @@
+## 20240324
+- [Phoronix](https://www.phoronix.com/) | [SDL3 Preview Release Aims To Help Test The New SDL 3.0 API](https://www.phoronix.com/news/SDL-3.0-Preview-Release)
+- [Phoronix](https://www.phoronix.com/) | [KVM Virtualization With Linux 6.9 Brings More Optimizations For Intel & AMD](https://www.phoronix.com/news/Linux-6.9-KVM)
+- [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: Testing again](https://weeraman.com/testing-again/)
+- [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: This is a test](https://weeraman.com/this-is-a-test/)
+- [Planet GNOME](https://planet.gnome.org/) | [Kooha 2.3 Released!](https://seadve.github.io/blog/10-kooha-2-3/)
+
 ## 20240323
 - [Planet GNOME](https://planet.gnome.org/) | [Mini GUADEC 2024: We have a Venue!](https://blogs.gnome.org/tbernard/2024/03/22/mini-guadec-2024-we-have-a-venue/)
 - [Planet GNOME](https://planet.gnome.org/) | [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/)
