@@ -51,7 +51,7 @@ def main():
             logger.debug(feed['url'])
             try:
                 resp = feedparser.parse(
-                    feed['url'], modified=yesterday, request_headers=request_headers)
+                    feed['url'], request_headers=request_headers)
             except TimeoutError as e_timeout:
                 logger.warning(e_timeout)
                 continue
@@ -73,7 +73,7 @@ def main():
             updated = resp.feed.get('updated_parsed', today)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
-            if updated < yesterday or updated >= today:
+            if updated < today:
                 continue
             if not resp.has_key('entries'):
                 logger.debug('no entries')
@@ -121,7 +121,7 @@ def main():
                             published = published.replace(tzinfo=None)
                     else:
                         continue
-                if published < yesterday or published >= today:
+                if published < today:
                     continue
                 item = {
                     'category': feed['category'],
@@ -247,7 +247,7 @@ def main():
                         published = published.replace(tzinfo=None)
                     else:
                         published = dateutil.parser.parse(entry[date])
-                if not published or published < yesterday or published >= today:
+                if not published or published < today:
                     continue
                 if '网易轻松一刻' == api['channel']:
                     if 'source' not in entry or not '轻松一刻' == entry['source']:
