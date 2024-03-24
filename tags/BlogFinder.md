@@ -1,3 +1,7 @@
+## 20240324
+- [BlogFinder](https://bf.zzxworld.com/) | [近期的规划](https://liuyuyang.net/index.php/archives/2417/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [身体预警](https://joojen.com/archives/7213.html?utm_source=blogfinder)
+
 ## 20240323
 - [BlogFinder](https://bf.zzxworld.com/) | [Bitwarden插件无法登录如何修复（Cannot read properties of nul(reading ‘iterations‘)）](https://www.imcharon.com/8514/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [Debian/Ubuntu 鼠标左键无响应问题的解决办法](https://muddyflow.com/978.html?utm_source=blogfinder)

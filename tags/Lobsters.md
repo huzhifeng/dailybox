@@ -1,3 +1,7 @@
+## 20240324
+- [Lobsters](https://lobste.rs/) | [TeXpresso: live rendering and error reporting for LaTeX](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error)
+- [Lobsters](https://lobste.rs/) | [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording)
+
 ## 20231017
 - [Lobsters](https://lobste.rs/) | [The state of ruby HTTP clients, or why you should use httpx](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use)
 - [Lobsters](https://lobste.rs/) | [Better HTTP server routing in Go 1.22](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22)

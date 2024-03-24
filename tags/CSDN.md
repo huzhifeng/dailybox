@@ -1,3 +1,7 @@
+## 20240324
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [人工智能时代的引领者：AI提示工程激发大语言模型的无限潜能](https://blog.csdn.net/qq_32682301/article/details/136934434)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习：智能时代的核心引擎](https://blog.csdn.net/2301_80221228/article/details/136971762)
+
 ## 20240312
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [ARM TrustZone技术解析：构建嵌入式系统的安全扩展基石](https://blog.csdn.net/Aileenvov/article/details/136612575)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024年AI辅助研发趋势：科技革新的引擎](https://blog.csdn.net/double222222/article/details/136592509)

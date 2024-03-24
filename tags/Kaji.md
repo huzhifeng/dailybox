@@ -1,3 +1,7 @@
+## 20240324
+- [Kagi Small Web](https://kagi.com/smallweb) | [Create rail timetable graphs in R](https://blog.pesky.moe/posts/2024-03-24-timetable-graph/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Links #716](https://maggiemcneill.com/2024/03/24/links-716/)
+
 ## 20240321
 - [Kagi Small Web](https://kagi.com/smallweb) | [Rust log macro](https://pvdz.ee/weblog/455)
 - [Kagi Small Web](https://kagi.com/smallweb) | [HBD 2024](https://artlung.com/blog/2024/03/20/hbd-2024/)

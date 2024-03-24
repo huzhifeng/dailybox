@@ -1,3 +1,7 @@
+## 20240324
+- [It's FOSS](https://itsfoss.com/) | [How to Get CPU Details in Linux Command Line](https://itsfoss.com/cpu-info-linux/)
+- [It's FOSS](https://itsfoss.com/) | [10 Things You Probably Didn't Know You Could do With Nano Editor](https://itsfoss.com/nano-tips-tricks/)
+
 ## 20240323
 - [It's FOSS](https://itsfoss.com/) | [Change Default Web Browser in Ubuntu [Beginner's Tip]](https://itsfoss.com/ubuntu-change-browser/)
 
