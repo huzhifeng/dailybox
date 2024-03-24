@@ -26,6 +26,7 @@ def main():
     timestamp = datetime.datetime.now().timestamp()
     items = []
     request_timeout = int(os.getenv('TIMEOUT', '180'))
+    entry_limit = int(os.getenv('LIMIT', '2'))
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) '\
         'AppleWebKit/537.36 (KHTML, like Gecko) '\
         'Chrome/109.0.0.0 Safari/537.36'
@@ -81,7 +82,7 @@ def main():
 
             i = 0
             for entry in resp.entries:
-                if i >= 3:
+                if i >= entry_limit:
                     break
                 if '喷嚏网' == feed['channel']:
                     if '喷嚏图卦' not in entry.title:
@@ -210,7 +211,7 @@ def main():
             placeholder = link.split('{')[1].split('}')[0]
             i = 0
             for entry in entries:
-                if i >= 3:
+                if i >= entry_limit:
                     break
                 if '8点1氪' == api['channel']:
                     if 'templateMaterial' in entry:
