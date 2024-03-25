@@ -1,3 +1,7 @@
+## 20240325
+- [Kagi Small Web](https://kagi.com/smallweb) | [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Allure of Local-First Sync Engines](https://blog.jim-nielsen.com/2024/allure-of-sync-engines/)
+
 ## 20240324
 - [Kagi Small Web](https://kagi.com/smallweb) | [Create rail timetable graphs in R](https://blog.pesky.moe/posts/2024-03-24-timetable-graph/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Links #716](https://maggiemcneill.com/2024/03/24/links-716/)

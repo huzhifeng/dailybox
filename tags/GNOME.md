@@ -1,3 +1,6 @@
+## 20240325
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME 45/46 Retrospective](https://blogs.gnome.org/chergert/2024/03/25/gnome-45-46-retrospective/)
+
 ## 20240324
 - [Planet GNOME](https://planet.gnome.org/) | [Kooha 2.3 Released!](https://seadve.github.io/blog/10-kooha-2-3/)
 

@@ -1,3 +1,7 @@
+## 20240325
+- [V2EX](https://www.v2ex.com/) | [一直理解不了码农把自己类比为泥瓦匠和纺织工是什么逻辑](https://www.v2ex.com/t/1026744)
+- [V2EX](https://www.v2ex.com/) | [逆天摸鱼王](https://www.v2ex.com/t/1026700)
+
 ## 20240324
 - [V2EX](https://www.v2ex.com/) | [做了六七年的 Java 开发，换工作也从未停歇，实在是有些累了](https://www.v2ex.com/t/1026492)
 - [V2EX](https://www.v2ex.com/) | [28 岁，又是被上海户口烦恼到做噩梦的一天](https://www.v2ex.com/t/1026490)

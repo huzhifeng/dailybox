@@ -1,3 +1,7 @@
+## 20240325
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 25 March 1300 UTC](https://neuroblog.fedoraproject.org/2024/03/25/next-open-neurofedora-meeting-25-march-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Álex Sáez: [Spanish] MTProxy on Fedora/CentOS Stream/RHEL](https://alexsaezm.com/2024/03/25/spanish-mtproxy-on.html)
+
 ## 20231017
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 397 – The curl and glibc vulnerabilities](https://opensourcesecurity.io/2023/10/15/episode-397-the-curl-and-glibc-vulnerabilities/)
 

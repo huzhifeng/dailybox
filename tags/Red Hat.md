@@ -1,3 +1,8 @@
+## 20240325
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What's new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to navigate API evolution with versioning](https://developers.redhat.com/articles/2024/03/25/how-navigate-api-evolution-versioning)
+
 ## 20240322
 - [Red Hat Developer](https://developers.redhat.com/) | [Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency](https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency)
 - [Red Hat Developer](https://developers.redhat.com/) | [Implement Source-to-Image builds in an Azure DevOps pipeline](https://developers.redhat.com/articles/2024/03/21/implement-source-image-builds-azure-devops-pipeline)

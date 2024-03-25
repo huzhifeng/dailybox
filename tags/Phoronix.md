@@ -1,3 +1,7 @@
+## 20240325
+- [Phoronix](https://www.phoronix.com/) | [Inkscape Development Version Switches To Using GTK4](https://www.phoronix.com/news/Inkscape-Switches-To-GTK4)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.9 Will Boot Much Faster For Systems With Large Amounts Of RAM](https://www.phoronix.com/news/Linux-6.9-RAM-HugeTLB-Boot-Fast)
+
 ## 20240324
 - [Phoronix](https://www.phoronix.com/) | [SDL3 Preview Release Aims To Help Test The New SDL 3.0 API](https://www.phoronix.com/news/SDL-3.0-Preview-Release)
 - [Phoronix](https://www.phoronix.com/) | [KVM Virtualization With Linux 6.9 Brings More Optimizations For Intel & AMD](https://www.phoronix.com/news/Linux-6.9-KVM)

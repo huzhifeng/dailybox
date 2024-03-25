@@ -1,3 +1,7 @@
+## 20240325
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Love this](https://midwest.social/pictrs/image/d9c2f219-7fb0-40d6-bbb3-f61216dd948b.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Do you like cats resting on your car?](https://lemmy.world/pictrs/image/df351996-bc28-42c5-82f9-9246ee992940.jpeg)
+
 ## 20240324
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [What did we learn from Covid? (Jen Sorensen)](https://lemmy.world/pictrs/image/ec1759be-8f9b-4700-9b41-6cf9d7156785.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Are we the baddies?](https://i.imgur.com/QocIqUX.jpeg)
