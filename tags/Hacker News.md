@@ -1,3 +1,6 @@
+## 20240325
+- [Hacker News](https://news.ycombinator.com/front) | [Why choose async/await over threads?](https://news.ycombinator.com/item?id=39812969)
+
 ## 20240324
 - [Hacker News](https://news.ycombinator.com/front) | [Linux Crisis Tools](https://news.ycombinator.com/item?id=39804214)
 

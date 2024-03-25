@@ -1,3 +1,8 @@
+## 20240325
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [传百度将为国行 iPhone 16 提供 AI 功能；小米汽车上市发布会定档 3 月 28 日晚 7 点 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137020801)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习：智能时代的核心引擎](https://blog.csdn.net/2301_80221228/article/details/136971762)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [C# 将 Word 转文本存储到数据库并进行管理](https://blog.csdn.net/michaelline/article/details/136844883)
+
 ## 20240324
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [人工智能时代的引领者：AI提示工程激发大语言模型的无限潜能](https://blog.csdn.net/qq_32682301/article/details/136934434)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习：智能时代的核心引擎](https://blog.csdn.net/2301_80221228/article/details/136971762)

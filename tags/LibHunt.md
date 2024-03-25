@@ -1,3 +1,6 @@
+## 20240325
+- [LibHunt](https://www.libhunt.com/) | [mise](https://www.libhunt.com/r/mise)
+
 ## 20240324
 - [LibHunt](https://www.libhunt.com/) | [devika](https://www.libhunt.com/r/devika)
 - [LibHunt](https://www.libhunt.com/) | [OpenDevin](https://www.libhunt.com/r/OpenDevin)

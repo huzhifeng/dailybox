@@ -1,3 +1,17 @@
+## 20240325
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What's new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to navigate API evolution with versioning](https://developers.redhat.com/articles/2024/03/25/how-navigate-api-evolution-versioning)
+- [Phoronix](https://www.phoronix.com/) | [Inkscape Development Version Switches To Using GTK4](https://www.phoronix.com/news/Inkscape-Switches-To-GTK4)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.9 Will Boot Much Faster For Systems With Large Amounts Of RAM](https://www.phoronix.com/news/Linux-6.9-RAM-HugeTLB-Boot-Fast)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-24th-2024)
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 25 March 1300 UTC](https://neuroblog.fedoraproject.org/2024/03/25/next-open-neurofedora-meeting-25-march-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Álex Sáez: [Spanish] MTProxy on Fedora/CentOS Stream/RHEL](https://alexsaezm.com/2024/03/25/spanish-mtproxy-on.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Piecepack and postcard boxes](https://blog.trueelena.org/blog/2023/11/04-piecepack_and_postcard_boxes/index.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Running SBSA Reference Platform](https://marcin.juszkiewicz.com.pl/2024/03/25/running-sbsa-reference-platform/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Important Note on Verifying Secure Execution Host Key Documents](https://kvmonz.blogspot.com/2024/03/important-note-on-verifying-secure.html)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME 45/46 Retrospective](https://blogs.gnome.org/chergert/2024/03/25/gnome-45-46-retrospective/)
+
 ## 20240324
 - [Phoronix](https://www.phoronix.com/) | [SDL3 Preview Release Aims To Help Test The New SDL 3.0 API](https://www.phoronix.com/news/SDL-3.0-Preview-Release)
 - [Phoronix](https://www.phoronix.com/) | [KVM Virtualization With Linux 6.9 Brings More Optimizations For Intel & AMD](https://www.phoronix.com/news/Linux-6.9-KVM)

@@ -1,3 +1,7 @@
+## 20240325
+- [Lobsters](https://lobste.rs/) | [Bump Allocation: Up or Down?](https://lobste.rs/s/vrhiti/bump_allocation_up_down)
+- [Lobsters](https://lobste.rs/) | [Tcl/Tk 9.0b1 released](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released)
+
 ## 20240324
 - [Lobsters](https://lobste.rs/) | [TeXpresso: live rendering and error reporting for LaTeX](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error)
 - [Lobsters](https://lobste.rs/) | [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording)

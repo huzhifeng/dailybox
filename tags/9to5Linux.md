@@ -1,3 +1,6 @@
+## 20240325
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-24th-2024)
+
 ## 20240322
 - [9to5Linux](https://9to5linux.com/) | [System76 Unveils New Lemur Pro Linux Laptop with Intel Core Ultra Processors](https://9to5linux.com/system76-unveils-new-lemur-pro-linux-laptop-with-intel-core-ultra-processors)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.02.1 Improves Dolphin, Spectacle, Okular, and Other KDE Apps](https://9to5linux.com/kde-gear-24-02-1-improves-dolphin-spectacle-okular-and-other-kde-apps)

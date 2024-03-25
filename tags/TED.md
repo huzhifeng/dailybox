@@ -1,3 +1,6 @@
+## 20240325
+- [TED Talks Daily](https://www.ted.com/talks) | [3 steps to better connect with your fellow humans | Amber Cabral](https://www.ted.com/talks/amber_cabral_3_steps_to_better_connect_with_your_fellow_humans?rss)
+
 ## 20240323
 - [TED Talks Daily](https://www.ted.com/talks) | [How business leaders can renew democracy | Daniella Ballou-Aares](https://www.ted.com/talks/daniella_ballou_aares_how_business_leaders_can_renew_democracy?rss)
 

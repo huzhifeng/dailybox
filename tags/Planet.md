@@ -1,3 +1,11 @@
+## 20240325
+- [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 25 March 1300 UTC](https://neuroblog.fedoraproject.org/2024/03/25/next-open-neurofedora-meeting-25-march-1300-utc.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Álex Sáez: [Spanish] MTProxy on Fedora/CentOS Stream/RHEL](https://alexsaezm.com/2024/03/25/spanish-mtproxy-on.html)
+- [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Piecepack and postcard boxes](https://blog.trueelena.org/blog/2023/11/04-piecepack_and_postcard_boxes/index.html)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Running SBSA Reference Platform](https://marcin.juszkiewicz.com.pl/2024/03/25/running-sbsa-reference-platform/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Important Note on Verifying Secure Execution Host Key Documents](https://kvmonz.blogspot.com/2024/03/important-note-on-verifying-secure.html)
+- [Planet GNOME](https://planet.gnome.org/) | [GNOME 45/46 Retrospective](https://blogs.gnome.org/chergert/2024/03/25/gnome-45-46-retrospective/)
+
 ## 20240324
 - [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: Testing again](https://weeraman.com/testing-again/)
 - [Planet Debian](https://planet.debian.org/) | [Anuradha Weeraman: This is a test](https://weeraman.com/this-is-a-test/)

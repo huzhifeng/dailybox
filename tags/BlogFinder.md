@@ -1,3 +1,7 @@
+## 20240325
+- [BlogFinder](https://bf.zzxworld.com/) | [一款追求自由的键盘，真！分体式键盘—珂芝k75lite+数字键盘k20](https://panda995.xyz/evaluation/4862.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Strava 提示没有路线信息的解决方法](https://muddyflow.com/981.html?utm_source=blogfinder)
+
 ## 20240324
 - [BlogFinder](https://bf.zzxworld.com/) | [近期的规划](https://liuyuyang.net/index.php/archives/2417/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [身体预警](https://joojen.com/archives/7213.html?utm_source=blogfinder)
