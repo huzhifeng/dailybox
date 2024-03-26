@@ -1,3 +1,14 @@
+## 20240326
+- [Red Hat Developer](https://developers.redhat.com/) | [Canary deployment strategy with OpenShift Service Mesh](https://developers.redhat.com/articles/2024/03/26/canary-deployment-strategy-openshift-service-mesh)
+- [Phoronix](https://www.phoronix.com/) | [SDL Developers Weigh Reverting Wayland Over X11 For SDL 3.0](https://www.phoronix.com/news/SDL-3.0-Wayland-Possible-Revert)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 40 Beta Released With GNOME 46 & KDE Plasma 6.0 On Wayland Desktops](https://www.phoronix.com/news/Fedora-40-Beta-Released)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 40 Beta Released with GNOME 46, KDE Plasma 6, and Linux Kernel 6.8](https://9to5linux.com/fedora-linux-40-beta-released-with-gnome-46-kde-plasma-6-and-linux-kernel-6-8)
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Fedora Linux 40 Beta est disponible pour les tests](https://blog.fedora-fr.org/renault/post/Fedora-Linux-40-Beta-est-disponible-pour-les-tests)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 40 Beta](https://fedoramagazine.org/announcing-fedora-linux-40-beta/)
+- [Planet GNOME](https://planet.gnome.org/) | [hacking v8 with guix, bis](https://wingolog.org/archives/2024/03/26/hacking-v8-with-guix-bis)
+- [Planet KDE](https://planet.kde.org/) | [Software Engineering Training in the Age of Generative AI](https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Linux LTS Releases Get Up To 12 Years of Support](https://news.slashdot.org/story/24/03/26/018254/ubuntu-linux-lts-releases-get-up-to-12-years-of-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240325
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [What's new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)

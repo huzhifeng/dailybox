@@ -1,3 +1,8 @@
+## 20240326
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [今年一半以上新增财富来自AI；微软任命Windows和Surface新负责人；GitHub推出代码自动修复工具 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137038964)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024三掌柜赠书活动第十八期：Excel高效办公：人力资源管理（AI版）](https://blog.csdn.net/CC1991_/article/details/136991227)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】引领未来的力量：技术革新与应用探索](https://blog.csdn.net/g310773517/article/details/137037686)
+
 ## 20240325
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [传百度将为国行 iPhone 16 提供 AI 功能；小米汽车上市发布会定档 3 月 28 日晚 7 点 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137020801)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习：智能时代的核心引擎](https://blog.csdn.net/2301_80221228/article/details/136971762)

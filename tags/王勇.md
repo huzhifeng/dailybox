@@ -1,3 +1,6 @@
+## 20240326
+- [ManateeLazyCat](https://manateelazycat.github.io/) | [Arch 上使用微信原生版本](https://manateelazycat.github.io/2024/03/26/wechat-linux-version/)
+
 ## 20240129
 - [ManateeLazyCat](https://manateelazycat.github.io/) | [用 Gource 显示 Git 提交历史](https://manateelazycat.github.io/2024/01/28/the-history-of-lsp-bridge/)
 

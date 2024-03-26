@@ -1,3 +1,7 @@
+## 20240326
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1711447054](https://www.mmbkz.cn/6b95d1d2.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [一夜爆火的Kimi到底好用吗？用NAS部署kimi-free-api实际体验下](https://panda995.xyz/network/4850.html?utm_source=blogfinder)
+
 ## 20240325
 - [BlogFinder](https://bf.zzxworld.com/) | [一款追求自由的键盘，真！分体式键盘—珂芝k75lite+数字键盘k20](https://panda995.xyz/evaluation/4862.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [Strava 提示没有路线信息的解决方法](https://muddyflow.com/981.html?utm_source=blogfinder)

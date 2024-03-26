@@ -1,3 +1,6 @@
+## 20240326
+- [Planet KDE](https://planet.kde.org/) | [Software Engineering Training in the Age of Generative AI](https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed)
+
 ## 20240323
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-12](https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Kubuntu Wallpaper 24.04 – Call for Submissions](https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed)

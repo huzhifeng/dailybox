@@ -1,3 +1,7 @@
+## 20240326
+- [Phoronix](https://www.phoronix.com/) | [SDL Developers Weigh Reverting Wayland Over X11 For SDL 3.0](https://www.phoronix.com/news/SDL-3.0-Wayland-Possible-Revert)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 40 Beta Released With GNOME 46 & KDE Plasma 6.0 On Wayland Desktops](https://www.phoronix.com/news/Fedora-40-Beta-Released)
+
 ## 20240325
 - [Phoronix](https://www.phoronix.com/) | [Inkscape Development Version Switches To Using GTK4](https://www.phoronix.com/news/Inkscape-Switches-To-GTK4)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.9 Will Boot Much Faster For Systems With Large Amounts Of RAM](https://www.phoronix.com/news/Linux-6.9-RAM-HugeTLB-Boot-Fast)

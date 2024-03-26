@@ -1,3 +1,6 @@
+## 20240326
+- [Slashdot](https://linux.slashdot.org/) | [Ubuntu Linux LTS Releases Get Up To 12 Years of Support](https://news.slashdot.org/story/24/03/26/018254/ubuntu-linux-lts-releases-get-up-to-12-years-of-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240324
 - [Slashdot](https://developers.slashdot.org/) | [Ask Slashdot:  DuckDB Queries JSON with SQL.  But Will AI Change Code Syntax?](https://developers.slashdot.org/story/24/03/23/170217/ask-slashdot-duckdb-queries-json-with-sql-but-will-ai-change-code-syntax?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

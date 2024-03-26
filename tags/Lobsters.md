@@ -1,3 +1,7 @@
+## 20240326
+- [Lobsters](https://lobste.rs/) | [On Tech Debt: My Rust Library is now a CDO](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo)
+- [Lobsters](https://lobste.rs/) | [42.parquet – A Zip Bomb for the Big Data Age](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age)
+
 ## 20240325
 - [Lobsters](https://lobste.rs/) | [Bump Allocation: Up or Down?](https://lobste.rs/s/vrhiti/bump_allocation_up_down)
 - [Lobsters](https://lobste.rs/) | [Tcl/Tk 9.0b1 released](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released)

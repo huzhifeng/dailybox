@@ -1,3 +1,7 @@
+## 20240326
+- [Kagi Small Web](https://kagi.com/smallweb) | [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Designing for older adults](https://thomasrigby.com/posts/designing-for-older-adults/)
+
 ## 20240325
 - [Kagi Small Web](https://kagi.com/smallweb) | [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Allure of Local-First Sync Engines](https://blog.jim-nielsen.com/2024/allure-of-sync-engines/)

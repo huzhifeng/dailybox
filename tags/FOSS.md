@@ -1,3 +1,6 @@
+## 20240326
+- [It's FOSS](https://itsfoss.com/) | [RUA: Yet Another Way to Install AUR Packages in Arch](https://itsfoss.com/rua-aur-tool/)
+
 ## 20240324
 - [It's FOSS](https://itsfoss.com/) | [How to Get CPU Details in Linux Command Line](https://itsfoss.com/cpu-info-linux/)
 - [It's FOSS](https://itsfoss.com/) | [10 Things You Probably Didn't Know You Could do With Nano Editor](https://itsfoss.com/nano-tips-tricks/)

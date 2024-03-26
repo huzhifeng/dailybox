@@ -1,3 +1,6 @@
+## 20240326
+- [Planet GNOME](https://planet.gnome.org/) | [hacking v8 with guix, bis](https://wingolog.org/archives/2024/03/26/hacking-v8-with-guix-bis)
+
 ## 20240325
 - [Planet GNOME](https://planet.gnome.org/) | [GNOME 45/46 Retrospective](https://blogs.gnome.org/chergert/2024/03/25/gnome-45-46-retrospective/)
 

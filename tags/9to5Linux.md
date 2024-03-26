@@ -1,3 +1,6 @@
+## 20240326
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 40 Beta Released with GNOME 46, KDE Plasma 6, and Linux Kernel 6.8](https://9to5linux.com/fedora-linux-40-beta-released-with-gnome-46-kde-plasma-6-and-linux-kernel-6-8)
+
 ## 20240325
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: March 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-24th-2024)
 
