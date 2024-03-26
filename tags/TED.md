@@ -1,3 +1,6 @@
+## 20240326
+- [TED Talks Daily](https://www.ted.com/talks) | [Why don't we have better robots yet? | Ken Goldberg](https://www.ted.com/talks/ken_goldberg_why_don_t_we_have_better_robots_yet?rss)
+
 ## 20240325
 - [TED Talks Daily](https://www.ted.com/talks) | [3 steps to better connect with your fellow humans | Amber Cabral](https://www.ted.com/talks/amber_cabral_3_steps_to_better_connect_with_your_fellow_humans?rss)
 

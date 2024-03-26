@@ -1,3 +1,6 @@
+## 20240326
+- [Red Hat Developer](https://developers.redhat.com/) | [Canary deployment strategy with OpenShift Service Mesh](https://developers.redhat.com/articles/2024/03/26/canary-deployment-strategy-openshift-service-mesh)
+
 ## 20240325
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [What's new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)

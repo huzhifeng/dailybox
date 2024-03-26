@@ -1,3 +1,6 @@
+## 20240326
+- [LibHunt](https://www.libhunt.com/) | [pueue](https://www.libhunt.com/r/pueue)
+
 ## 20240325
 - [LibHunt](https://www.libhunt.com/) | [mise](https://www.libhunt.com/r/mise)
 

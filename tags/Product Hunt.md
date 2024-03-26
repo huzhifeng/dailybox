@@ -1,3 +1,7 @@
+## 20240326
+- [Product Hunt](https://www.producthunt.com) | [FinCheck by Trezy](https://www.producthunt.com/posts/fincheck-by-trezy)
+- [Product Hunt](https://www.producthunt.com) | [Creatie](https://www.producthunt.com/posts/creatie)
+
 ## 20240323
 - [Product Hunt](https://www.producthunt.com) | [SEO AI Writer](https://www.producthunt.com/posts/seo-ai-writer)
 - [Product Hunt](https://www.producthunt.com) | [Butternut AI 1.0](https://www.producthunt.com/posts/butternut-ai-1-0)

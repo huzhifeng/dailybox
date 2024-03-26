@@ -1,3 +1,9 @@
+## 20240326
+- [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Fedora Linux 40 Beta est disponible pour les tests](https://blog.fedora-fr.org/renault/post/Fedora-Linux-40-Beta-est-disponible-pour-les-tests)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 40 Beta](https://fedoramagazine.org/announcing-fedora-linux-40-beta/)
+- [Planet GNOME](https://planet.gnome.org/) | [hacking v8 with guix, bis](https://wingolog.org/archives/2024/03/26/hacking-v8-with-guix-bis)
+- [Planet KDE](https://planet.kde.org/) | [Software Engineering Training in the Age of Generative AI](https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed)
+
 ## 20240325
 - [Planet Fedora](http://fedoraplanet.org/) | [The NeuroFedora Blog: Next Open NeuroFedora meeting: 25 March 1300 UTC](https://neuroblog.fedoraproject.org/2024/03/25/next-open-neurofedora-meeting-25-march-1300-utc.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Álex Sáez: [Spanish] MTProxy on Fedora/CentOS Stream/RHEL](https://alexsaezm.com/2024/03/25/spanish-mtproxy-on.html)

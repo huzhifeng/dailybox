@@ -1,3 +1,7 @@
+## 20240326
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [&quot;Twy Edge Pwetty Pwease&quot;](https://lemmy.world/pictrs/image/72ab6dd9-3a86-45ff-ac68-c97bbd4f6def.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Devil all the way!](https://lemmy.world/pictrs/image/335823a3-363c-4a40-bc9e-28f84a14cb08.jpeg)
+
 ## 20240325
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Love this](https://midwest.social/pictrs/image/d9c2f219-7fb0-40d6-bbb3-f61216dd948b.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Do you like cats resting on your car?](https://lemmy.world/pictrs/image/df351996-bc28-42c5-82f9-9246ee992940.jpeg)

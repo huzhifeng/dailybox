@@ -1,3 +1,6 @@
+## 20240326
+- [diff.blog](https://diff.blog/) | [On Tech Debt: My Rust Library is now a CDO](https://diff.blog/post/on-tech-debt-my-rust-library-is-now-a-cdo-172782/)
+
 ## 20240323
 - [diff.blog](https://diff.blog/) | [The "current branch" in git](https://diff.blog/post/the-current-branch-in-git-172540/)
 

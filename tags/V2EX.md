@@ -1,3 +1,7 @@
+## 20240326
+- [V2EX](https://www.v2ex.com/) | [中國今年頭六週的 iPhone 銷量與去年同期相比下降了 24%，苹果开始衰退了吗？](https://www.v2ex.com/t/1027206)
+- [V2EX](https://www.v2ex.com/) | [房价再这样跌下去，当初高位入手的房贷会咋咧个办呢？](https://www.v2ex.com/t/1027163)
+
 ## 20240325
 - [V2EX](https://www.v2ex.com/) | [一直理解不了码农把自己类比为泥瓦匠和纺织工是什么逻辑](https://www.v2ex.com/t/1026744)
 - [V2EX](https://www.v2ex.com/) | [逆天摸鱼王](https://www.v2ex.com/t/1026700)
