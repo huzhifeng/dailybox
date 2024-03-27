@@ -1,3 +1,7 @@
+## 20240327
+- [Kagi Small Web](https://kagi.com/smallweb) | [Climate change is an engineering challenge](https://holdfastprojects.com/generative)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Some findings from training SAEs on Othello-GPT](https://www.lesswrong.com/posts/Fmh3nKnatFg5kmLYo/some-findings-from-training-saes-on-othello-gpt)
+
 ## 20240326
 - [Kagi Small Web](https://kagi.com/smallweb) | [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Designing for older adults](https://thomasrigby.com/posts/designing-for-older-adults/)

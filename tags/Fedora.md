@@ -1,3 +1,7 @@
+## 20240327
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Alerting on One Identity Cloud PAM Essentials logs using syslog-ng](https://peter.czanik.hu/other/syslog-ng-alerting-on-one-identity-cloud-pam-essentials-logs/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Build custom images for Testing Farm](https://fedoramagazine.org/build-custom-images-for-testing-farm/)
+
 ## 20240326
 - [Planet Fedora](http://fedoraplanet.org/) | [Charles-Antoine Couret: Fedora Linux 40 Beta est disponible pour les tests](https://blog.fedora-fr.org/renault/post/Fedora-Linux-40-Beta-est-disponible-pour-les-tests)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Announcing Fedora Linux 40 Beta](https://fedoramagazine.org/announcing-fedora-linux-40-beta/)

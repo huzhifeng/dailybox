@@ -1,3 +1,7 @@
+## 20240327
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [rule](https://lemmy.cafe/pictrs/image/96552b0b-9f34-42c9-807d-63dca96d4513.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [oldie but a goodie (relevant once again in light of him magically not having to pay the $450 million)](https://fedia.io/media/f2/f3/f2f341b55bc13fc0e53e77e8b8241189d9ecd44b952195feead1605e95606726.jpg)
+
 ## 20240326
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [&quot;Twy Edge Pwetty Pwease&quot;](https://lemmy.world/pictrs/image/72ab6dd9-3a86-45ff-ac68-c97bbd4f6def.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Devil all the way!](https://lemmy.world/pictrs/image/335823a3-363c-4a40-bc9e-28f84a14cb08.jpeg)

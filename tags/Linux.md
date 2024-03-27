@@ -1,3 +1,14 @@
+## 20240327
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.14.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6143-has-been-released)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Important notice regarding entitlement and Simple Content Access (SCA)](https://www.redhat.com/en/blog/important-notice-regarding-entitlement-and-simple-content-access-sca)
+- [Red Hat Developer](https://developers.redhat.com/) | [Migrating from Red Hat Fuse to Red Hat build of Apache Camel](https://developers.redhat.com/articles/2024/03/27/migrating-red-hat-fuse-red-hat-build-apache-camel)
+- [Phoronix](https://www.phoronix.com/) | [Canonical Continues Exploring Ubuntu x86-64-v3 Images - Now In Microsoft's Cloud](https://www.phoronix.com/news/Ubuntu-x86-64-v3-Images-Azure)
+- [Phoronix](https://www.phoronix.com/) | [Blender 4.1 Benchmarks Confirm Even Faster CPU Render Times Under Linux](https://www.phoronix.com/news/Blender-4.1-CPU-Linux-Perf)
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.1 Is Out to Mitigate the RFDS Intel CPU Vulnerabilities, Fix More Bugs](https://9to5linux.com/tails-6-1-is-out-to-mitigate-the-rfds-intel-cpu-vulnerabilities-fix-more-bugs)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Alerting on One Identity Cloud PAM Essentials logs using syslog-ng](https://peter.czanik.hu/other/syslog-ng-alerting-on-one-identity-cloud-pam-essentials-logs/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Build custom images for Testing Farm](https://fedoramagazine.org/build-custom-images-for-testing-farm/)
+- [Planet KDE](https://planet.kde.org/) | [Haruna 1.0.2](https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed)
+
 ## 20240326
 - [Red Hat Developer](https://developers.redhat.com/) | [Canary deployment strategy with OpenShift Service Mesh](https://developers.redhat.com/articles/2024/03/26/canary-deployment-strategy-openshift-service-mesh)
 - [Phoronix](https://www.phoronix.com/) | [SDL Developers Weigh Reverting Wayland Over X11 For SDL 3.0](https://www.phoronix.com/news/SDL-3.0-Wayland-Possible-Revert)

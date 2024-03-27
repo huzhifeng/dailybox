@@ -1,3 +1,7 @@
+## 20240327
+- [Phoronix](https://www.phoronix.com/) | [Canonical Continues Exploring Ubuntu x86-64-v3 Images - Now In Microsoft's Cloud](https://www.phoronix.com/news/Ubuntu-x86-64-v3-Images-Azure)
+- [Phoronix](https://www.phoronix.com/) | [Blender 4.1 Benchmarks Confirm Even Faster CPU Render Times Under Linux](https://www.phoronix.com/news/Blender-4.1-CPU-Linux-Perf)
+
 ## 20240326
 - [Phoronix](https://www.phoronix.com/) | [SDL Developers Weigh Reverting Wayland Over X11 For SDL 3.0](https://www.phoronix.com/news/SDL-3.0-Wayland-Possible-Revert)
 - [Phoronix](https://www.phoronix.com/) | [Fedora 40 Beta Released With GNOME 46 & KDE Plasma 6.0 On Wayland Desktops](https://www.phoronix.com/news/Fedora-40-Beta-Released)

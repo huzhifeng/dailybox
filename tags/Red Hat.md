@@ -1,3 +1,8 @@
+## 20240327
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.14.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6143-has-been-released)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Important notice regarding entitlement and Simple Content Access (SCA)](https://www.redhat.com/en/blog/important-notice-regarding-entitlement-and-simple-content-access-sca)
+- [Red Hat Developer](https://developers.redhat.com/) | [Migrating from Red Hat Fuse to Red Hat build of Apache Camel](https://developers.redhat.com/articles/2024/03/27/migrating-red-hat-fuse-red-hat-build-apache-camel)
+
 ## 20240326
 - [Red Hat Developer](https://developers.redhat.com/) | [Canary deployment strategy with OpenShift Service Mesh](https://developers.redhat.com/articles/2024/03/26/canary-deployment-strategy-openshift-service-mesh)
 

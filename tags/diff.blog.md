@@ -1,3 +1,7 @@
+## 20240327
+- [diff.blog](https://diff.blog/) | [Introducing DBRX: A New State-of-the-Art Open LLM](https://diff.blog/post/introducing-dbrx-a-new-state-of-the-art-open-llm-172890/)
+- [diff.blog](https://diff.blog/) | [Announcing DBRX: A new standard for efficient open source LLMs](https://diff.blog/post/announcing-dbrx-a-new-standard-for-efficient-open-source-llms-172889/)
+
 ## 20240326
 - [diff.blog](https://diff.blog/) | [On Tech Debt: My Rust Library is now a CDO](https://diff.blog/post/on-tech-debt-my-rust-library-is-now-a-cdo-172782/)
 
