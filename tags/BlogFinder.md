@@ -1,3 +1,7 @@
+## 20240327
+- [BlogFinder](https://bf.zzxworld.com/) | [Openai 又开始大规模封号了](https://xiangming.site/603.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Linux时间偏差处理 | 启用Chrony时间同步服务](https://woolio.cn/linux%e6%97%b6%e9%97%b4%e5%81%8f%e5%b7%ae%e5%a4%84%e7%90%86-%e5%90%af%e7%94%a8chrony%e6%97%b6%e9%97%b4%e5%90%8c%e6%ad%a5%e6%9c%8d%e5%8a%a1/?utm_source=blogfinder)
+
 ## 20240326
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1711447054](https://www.mmbkz.cn/6b95d1d2.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [一夜爆火的Kimi到底好用吗？用NAS部署kimi-free-api实际体验下](https://panda995.xyz/network/4850.html?utm_source=blogfinder)

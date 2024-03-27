@@ -1,3 +1,6 @@
+## 20240327
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.1 Is Out to Mitigate the RFDS Intel CPU Vulnerabilities, Fix More Bugs](https://9to5linux.com/tails-6-1-is-out-to-mitigate-the-rfds-intel-cpu-vulnerabilities-fix-more-bugs)
+
 ## 20240326
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 40 Beta Released with GNOME 46, KDE Plasma 6, and Linux Kernel 6.8](https://9to5linux.com/fedora-linux-40-beta-released-with-gnome-46-kde-plasma-6-and-linux-kernel-6-8)
 

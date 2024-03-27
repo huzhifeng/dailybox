@@ -1,3 +1,6 @@
+## 20240327
+- [Planet KDE](https://planet.kde.org/) | [Haruna 1.0.2](https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed)
+
 ## 20240326
 - [Planet KDE](https://planet.kde.org/) | [Software Engineering Training in the Age of Generative AI](https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed)
 

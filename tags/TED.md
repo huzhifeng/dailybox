@@ -1,3 +1,7 @@
+## 20240327
+- [TED Talks Daily](https://www.ted.com/talks) | [Your invitation to help build a sustainable future | Jim Snabe](https://www.ted.com/talks/jim_snabe_your_invitation_to_help_build_a_sustainable_future?rss)
+- [TED Talks Daily](https://www.ted.com/talks) | [Let your garden grow wild | Rebecca McMackin](https://www.ted.com/talks/rebecca_mcmackin_let_your_garden_grow_wild?rss)
+
 ## 20240326
 - [TED Talks Daily](https://www.ted.com/talks) | [Why don't we have better robots yet? | Ken Goldberg](https://www.ted.com/talks/ken_goldberg_why_don_t_we_have_better_robots_yet?rss)
 

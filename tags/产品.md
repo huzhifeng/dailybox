@@ -1,3 +1,7 @@
+## 20240327
+- [Product Hunt](https://www.producthunt.com) | [SigmaOS Airis (Alpha)](https://www.producthunt.com/posts/sigmaos-airis-alpha)
+- [Product Hunt](https://www.producthunt.com) | [Alice](https://www.producthunt.com/posts/alice-7c4787d4-6172-4d23-8145-4ced324a1e0f)
+
 ## 20240326
 - [Product Hunt](https://www.producthunt.com) | [FinCheck by Trezy](https://www.producthunt.com/posts/fincheck-by-trezy)
 - [Product Hunt](https://www.producthunt.com) | [Creatie](https://www.producthunt.com/posts/creatie)

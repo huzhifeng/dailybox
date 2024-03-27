@@ -1,3 +1,7 @@
+## 20240327
+- [Lobsters](https://lobste.rs/) | [Two little interpreters](https://lobste.rs/s/5pb86n/two_little_interpreters)
+- [Lobsters](https://lobste.rs/) | [Garbage Collection for Systems Programmers](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems)
+
 ## 20240326
 - [Lobsters](https://lobste.rs/) | [On Tech Debt: My Rust Library is now a CDO](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo)
 - [Lobsters](https://lobste.rs/) | [42.parquet – A Zip Bomb for the Big Data Age](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age)
