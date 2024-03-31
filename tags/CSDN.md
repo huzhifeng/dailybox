@@ -1,3 +1,7 @@
+## 20240331
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI赋能微服务：Spring Boot与机器学习驱动的未来应用开发](https://blog.csdn.net/g310773517/article/details/137148589)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024三掌柜赠书活动第十九期：DevOps企业级CI/CD实战](https://blog.csdn.net/CC1991_/article/details/137151654)
+
 ## 20240328
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [罗永浩将首度直播卖“云”；武汉大学回应开设雷军班；.NET 7自5月14日起将不被支持 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137104580)
 

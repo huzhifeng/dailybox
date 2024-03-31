@@ -1,3 +1,7 @@
+## 20240331
+- [Phoronix](https://www.phoronix.com/) | [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times For AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continued Upstreaming A Lot Of Great Linux/Open-Source Code This Quarter](https://www.phoronix.com/news/Intel-2024-Q1-Highlights)
+
 ## 20240330
 - [Phoronix](https://www.phoronix.com/) | [NetBSD 10.0 Released With Much Improved Hardware Support & Faster Performance](https://www.phoronix.com/news/NetBSD-10.0-Released)
 - [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Adds WOFF2 Web Fonts, HTML Tables By Default](https://www.phoronix.com/news/Servo-Web-Engine-March-2023)

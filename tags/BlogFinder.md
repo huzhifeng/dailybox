@@ -1,3 +1,7 @@
+## 20240331
+- [BlogFinder](https://bf.zzxworld.com/) | [花钱买头像？听我解释](https://lanxing.net/archives/49/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [同性婚姻平权运动下对抚养孩子问题的思考](https://blog.bxaw.name/archives/The-Consideration-of-Child-Rearing-Issues-Under-the-Same-Sex-Marriage-Equality-Movement.html?utm_source=blogfinder)
+
 ## 20240330
 - [BlogFinder](https://bf.zzxworld.com/) | [阳光下松弛的赘肉](https://www.xiangshitan.com/post/764.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [生活中不多的陪伴](https://www.imets.cn/archives/2947.html?utm_source=blogfinder)

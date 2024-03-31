@@ -1,3 +1,6 @@
+## 20240331
+- [Product Hunt](https://www.producthunt.com) | [LeadGenSheet.com](https://www.producthunt.com/posts/leadgensheet-com)
+
 ## 20240330
 - [Product Hunt](https://www.producthunt.com) | [100+ AI Side-Hustle Ideas](https://www.producthunt.com/posts/100-ai-side-hustle-ideas)
 - [Product Hunt](https://www.producthunt.com) | [Virabble](https://www.producthunt.com/posts/virabble)
