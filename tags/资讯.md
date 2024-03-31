@@ -1,3 +1,6 @@
+## 20240329
+- [diff.blog](https://diff.blog/) | [Navigating the Challenges and Opportunities of Synthetic Voices](https://diff.blog/post/navigating-the-challenges-and-opportunities-of-synthetic-voices-173175/)
+
 ## 20240328
 - [diff.blog](https://diff.blog/) | [Nonsensical Maven is still a Gradle problem](https://diff.blog/post/nonsensical-maven-is-still-a-gradle-problem-172986/)
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.77.1](https://diff.blog/post/announcing-rust-1771-172963/)

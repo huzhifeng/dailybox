@@ -1,3 +1,7 @@
+## 20240329
+- [BlogFinder](https://bf.zzxworld.com/) | [再见 JavaScript](https://atpx.com/blog/goodbye-javascript/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Github构建Hexo并同步COS](https://www.hydsb0.com/c2834f01/?utm_source=blogfinder)
+
 ## 20240328
 - [BlogFinder](https://bf.zzxworld.com/) | [称之为训练的三个月](http://www.huih110.com/archives/3run?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [增加 darkmode](https://kaffa.im/add-darkmode-to-website.html?utm_source=blogfinder)

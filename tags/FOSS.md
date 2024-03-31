@@ -1,3 +1,6 @@
+## 20240329
+- [It's FOSS](https://itsfoss.com/) | [ZimaBoard Makes Owning a Homelab Super Easy](https://itsfoss.com/zimaboard-review/)
+
 ## 20240328
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/)
 

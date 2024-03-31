@@ -1,3 +1,7 @@
+## 20240329
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Issues Urgent Alert For Fedora Linux Users Due To Malicious Code](https://it.slashdot.org/story/24/03/29/2158259/red-hat-issues-urgent-alert-for-fedora-linux-users-due-to-malicious-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Tries on a McKinsey Cap in Quest To Streamline Techies' Jobs](https://linux.slashdot.org/story/24/03/29/1235217/red-hat-tries-on-a-mckinsey-cap-in-quest-to-streamline-techies-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240328
 - [Slashdot](https://linux.slashdot.org/) | [Linux Foundation Launches Valkey As A Redis Fork](https://linux.slashdot.org/story/24/03/28/213213/linux-foundation-launches-valkey-as-a-redis-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Core PostgreSQL Developer Dies In Airplane Crash](https://developers.slashdot.org/story/24/03/28/050200/core-postgresql-developer-dies-in-airplane-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed)

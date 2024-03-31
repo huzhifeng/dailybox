@@ -1,3 +1,7 @@
+## 20240329
+- [Planet Debian](https://planet.debian.org/) | [Rapha&#235;l Hertzog: Freexian is looking to expand its team with more Debian contributors](https://raphaelhertzog.com/2024/03/29/freexian-is-looking-to-expand-its-team-with-more-debian-contributors/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: A visit to the Taj Mahal](https://ravidwivedi.in/posts/taj-mahal/)
+
 ## 20240328
 - [Planet Debian](https://planet.debian.org/) | [Joey Hess: the vulture in the coal mine](http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/)
 - [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/)

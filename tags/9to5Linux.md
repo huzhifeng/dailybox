@@ -1,3 +1,6 @@
+## 20240329
+- [9to5Linux](https://9to5linux.com/) | [Red Hat Warns Fedora Linux 40/41 and Rawhide Users About Critical Security Flaw](https://9to5linux.com/red-hat-warns-fedora-linux-40-41-and-rawhide-users-about-critical-security-flaw)
+
 ## 20240328
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.2 Is Now Available for Download with More Than 70 Bug Fixes](https://9to5linux.com/libreoffice-24-2-2-is-now-available-for-download-with-more-than-70-bug-fixes)
 
