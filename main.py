@@ -122,7 +122,7 @@ def main():
                             published = published.replace(tzinfo=None)
                     else:
                         continue
-                if published < today:
+                if published.date() != today.date():
                     continue
                 item = {
                     'category': feed['category'],
@@ -248,7 +248,7 @@ def main():
                         published = published.replace(tzinfo=None)
                     else:
                         published = dateutil.parser.parse(entry[date])
-                if not published or published < today:
+                if not published or published.date() != today.date():
                     continue
                 if '网易轻松一刻' == api['channel']:
                     if 'source' not in entry or not '轻松一刻' == entry['source']:
