@@ -1,3 +1,7 @@
+## 20240328
+- [BlogFinder](https://bf.zzxworld.com/) | [称之为训练的三个月](http://www.huih110.com/archives/3run?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [增加 darkmode](https://kaffa.im/add-darkmode-to-website.html?utm_source=blogfinder)
+
 ## 20240327
 - [BlogFinder](https://bf.zzxworld.com/) | [Openai 又开始大规模封号了](https://xiangming.site/603.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [Linux时间偏差处理 | 启用Chrony时间同步服务](https://woolio.cn/linux%e6%97%b6%e9%97%b4%e5%81%8f%e5%b7%ae%e5%a4%84%e7%90%86-%e5%90%af%e7%94%a8chrony%e6%97%b6%e9%97%b4%e5%90%8c%e6%ad%a5%e6%9c%8d%e5%8a%a1/?utm_source=blogfinder)

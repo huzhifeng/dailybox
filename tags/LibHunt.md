@@ -1,3 +1,7 @@
+## 20240328
+- [LibHunt](https://www.libhunt.com/) | [lawsofinsidertrading.com](https://www.libhunt.com/r/lawsofinsidertrading.com)
+- [LibHunt](https://www.libhunt.com/) | [placeholderkv](https://www.libhunt.com/r/placeholderkv)
+
 ## 20240326
 - [LibHunt](https://www.libhunt.com/) | [pueue](https://www.libhunt.com/r/pueue)
 

@@ -1,3 +1,7 @@
+## 20240328
+- [Product Hunt](https://www.producthunt.com) | [Content Score by Quick Creator](https://www.producthunt.com/posts/content-score-by-quick-creator)
+- [Product Hunt](https://www.producthunt.com) | [Retexts](https://www.producthunt.com/posts/retexts)
+
 ## 20240327
 - [Product Hunt](https://www.producthunt.com) | [SigmaOS Airis (Alpha)](https://www.producthunt.com/posts/sigmaos-airis-alpha)
 - [Product Hunt](https://www.producthunt.com) | [Alice](https://www.producthunt.com/posts/alice-7c4787d4-6172-4d23-8145-4ced324a1e0f)

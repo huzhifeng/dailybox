@@ -1,3 +1,6 @@
+## 20240328
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/)
+
 ## 20240326
 - [It's FOSS](https://itsfoss.com/) | [RUA: Yet Another Way to Install AUR Packages in Arch](https://itsfoss.com/rua-aur-tool/)
 

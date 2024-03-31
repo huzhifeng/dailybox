@@ -1,3 +1,6 @@
+## 20240328
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+
 ## 20240326
 - [Planet GNOME](https://planet.gnome.org/) | [hacking v8 with guix, bis](https://wingolog.org/archives/2024/03/26/hacking-v8-with-guix-bis)
 

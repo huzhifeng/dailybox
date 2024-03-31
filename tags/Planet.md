@@ -1,3 +1,14 @@
+## 20240328
+- [Planet Fedora](http://fedoraplanet.org/) | [Christian F.K. Schaller: Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Dors/Cluc and DevConf.cz: Two open source events worth visiting](https://talkweb.eu/openweb/4192/)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: the vulture in the coal mine](http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploying Open Language Models on Ubuntu](https://ubuntu.com//blog/deploying-open-language-models-on-ubuntu)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Simos Xenitellis: How to install and setup the Incus Web UI](https://blog.simos.info/how-to-install-and-setup-the-incus-web-ui/)
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KEcoLab in SoK24: Incorporating Energy-Consumption Measurements In The CI/CD Pipeline](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed)
+
 ## 20240327
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Alerting on One Identity Cloud PAM Essentials logs using syslog-ng](https://peter.czanik.hu/other/syslog-ng-alerting-on-one-identity-cloud-pam-essentials-logs/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Build custom images for Testing Farm](https://fedoramagazine.org/build-custom-images-for-testing-farm/)

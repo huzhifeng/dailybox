@@ -1,3 +1,6 @@
+## 20240328
+- [TED Talks Daily](https://www.ted.com/talks) | [How to live with economic doomsaying | Philipp Carlsson-Szlezak](https://www.ted.com/talks/philipp_carlsson_szlezak_how_to_live_with_economic_doomsaying?rss)
+
 ## 20240327
 - [TED Talks Daily](https://www.ted.com/talks) | [Your invitation to help build a sustainable future | Jim Snabe](https://www.ted.com/talks/jim_snabe_your_invitation_to_help_build_a_sustainable_future?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Let your garden grow wild | Rebecca McMackin](https://www.ted.com/talks/rebecca_mcmackin_let_your_garden_grow_wild?rss)

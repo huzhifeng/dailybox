@@ -1,3 +1,6 @@
+## 20240328
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.2 Is Now Available for Download with More Than 70 Bug Fixes](https://9to5linux.com/libreoffice-24-2-2-is-now-available-for-download-with-more-than-70-bug-fixes)
+
 ## 20240327
 - [9to5Linux](https://9to5linux.com/) | [Tails 6.1 Is Out to Mitigate the RFDS Intel CPU Vulnerabilities, Fix More Bugs](https://9to5linux.com/tails-6-1-is-out-to-mitigate-the-rfds-intel-cpu-vulnerabilities-fix-more-bugs)
 

@@ -1,3 +1,7 @@
+## 20240328
+- [Slashdot](https://linux.slashdot.org/) | [Linux Foundation Launches Valkey As A Redis Fork](https://linux.slashdot.org/story/24/03/28/213213/linux-foundation-launches-valkey-as-a-redis-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Core PostgreSQL Developer Dies In Airplane Crash](https://developers.slashdot.org/story/24/03/28/050200/core-postgresql-developer-dies-in-airplane-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240326
 - [Slashdot](https://linux.slashdot.org/) | [Ubuntu Linux LTS Releases Get Up To 12 Years of Support](https://news.slashdot.org/story/24/03/26/018254/ubuntu-linux-lts-releases-get-up-to-12-years-of-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

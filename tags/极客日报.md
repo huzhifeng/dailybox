@@ -1,3 +1,6 @@
+## 20240328
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [罗永浩将首度直播卖“云”；武汉大学回应开设雷军班；.NET 7自5月14日起将不被支持 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137104580)
+
 ## 20240327
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [飞书裁员提供补偿方案或者转岗机会；雷军谈小米智能驾驶目标；苹果开发者大会定档端午节 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137072268)
 

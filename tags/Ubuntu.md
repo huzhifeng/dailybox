@@ -1,3 +1,7 @@
+## 20240328
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploying Open Language Models on Ubuntu](https://ubuntu.com//blog/deploying-open-language-models-on-ubuntu)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Simos Xenitellis: How to install and setup the Incus Web UI](https://blog.simos.info/how-to-install-and-setup-the-incus-web-ui/)
+
 ## 20231017
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai)
 

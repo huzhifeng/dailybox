@@ -1,3 +1,7 @@
+## 20240328
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KEcoLab in SoK24: Incorporating Energy-Consumption Measurements In The CI/CD Pipeline](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed)
+
 ## 20240327
 - [Planet KDE](https://planet.kde.org/) | [Haruna 1.0.2](https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed)
 

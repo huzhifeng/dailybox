@@ -1,3 +1,7 @@
+## 20240328
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Podman 5.0 Unveiled](https://www.redhat.com/en/blog/podman-50-unveiled)
+- [Red Hat Developer](https://developers.redhat.com/) | [Packet capture using Network Observability eBPF Agent](https://developers.redhat.com/articles/2024/03/28/packet-capture-using-network-observability-ebpf-agent)
+
 ## 20240327
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.14.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6143-has-been-released)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Important notice regarding entitlement and Simple Content Access (SCA)](https://www.redhat.com/en/blog/important-notice-regarding-entitlement-and-simple-content-access-sca)
