@@ -1,3 +1,6 @@
+## 20240330
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: xz backdooring](http://blog.sesse.net/blog/tech/2024-03-30-11-39_xz_backdooring.html)
+
 ## 20240329
 - [Planet Debian](https://planet.debian.org/) | [Rapha&#235;l Hertzog: Freexian is looking to expand its team with more Debian contributors](https://raphaelhertzog.com/2024/03/29/freexian-is-looking-to-expand-its-team-with-more-debian-contributors/)
 - [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: A visit to the Taj Mahal](https://ravidwivedi.in/posts/taj-mahal/)

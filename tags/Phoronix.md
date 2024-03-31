@@ -1,3 +1,7 @@
+## 20240330
+- [Phoronix](https://www.phoronix.com/) | [NetBSD 10.0 Released With Much Improved Hardware Support & Faster Performance](https://www.phoronix.com/news/NetBSD-10.0-Released)
+- [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Adds WOFF2 Web Fonts, HTML Tables By Default](https://www.phoronix.com/news/Servo-Web-Engine-March-2023)
+
 ## 20240329
 - [Phoronix](https://www.phoronix.com/) | [AMD Releases Orochi 2.0 With More CUDA/HIP Functions Implemented For Better Portability](https://www.phoronix.com/news/AMD-Orochi-2.0-HIP-CUDA)
 - [Phoronix](https://www.phoronix.com/) | [XZ Struck By Malicious Code That Could Allow Unauthorized Remote System Access](https://www.phoronix.com/news/XZ-CVE-2024-3094)

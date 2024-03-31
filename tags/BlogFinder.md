@@ -1,3 +1,7 @@
+## 20240330
+- [BlogFinder](https://bf.zzxworld.com/) | [阳光下松弛的赘肉](https://www.xiangshitan.com/post/764.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [生活中不多的陪伴](https://www.imets.cn/archives/2947.html?utm_source=blogfinder)
+
 ## 20240329
 - [BlogFinder](https://bf.zzxworld.com/) | [再见 JavaScript](https://atpx.com/blog/goodbye-javascript/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [Github构建Hexo并同步COS](https://www.hydsb0.com/c2834f01/?utm_source=blogfinder)

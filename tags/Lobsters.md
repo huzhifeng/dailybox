@@ -1,3 +1,7 @@
+## 20240330
+- [Lobsters](https://lobste.rs/) | [Type Inference Was a Mistake](https://lobste.rs/s/pkgjno/type_inference_was_mistake)
+- [Lobsters](https://lobste.rs/) | [Helix Release 24.03 Highlights](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights)
+
 ## 20240329
 - [Lobsters](https://lobste.rs/) | [backdoor in upstream xz/liblzma leading to ssh server compromise](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh)
 - [Lobsters](https://lobste.rs/) | [Easy Mode Rust](https://lobste.rs/s/zwgqnl/easy_mode_rust)

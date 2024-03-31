@@ -1,3 +1,7 @@
+## 20240330
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Backdoors](https://lemmy.ml/pictrs/image/bff7ab5e-346a-4fc0-b4dc-3666b858b860.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit started blocking VPN users on old.reddit.com](https://lemm.ee/pictrs/image/9d71ca6d-5046-4ed8-a8e4-e1152a2b5e4d.webp)
+
 ## 20240327
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [rule](https://lemmy.cafe/pictrs/image/96552b0b-9f34-42c9-807d-63dca96d4513.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [oldie but a goodie (relevant once again in light of him magically not having to pay the $450 million)](https://fedia.io/media/f2/f3/f2f341b55bc13fc0e53e77e8b8241189d9ecd44b952195feead1605e95606726.jpg)
