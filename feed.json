@@ -433,6 +433,7 @@
 			"channel": "网易轻松一刻",
 			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
 			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
+			"enable": 0,
 			"category": "资讯",
 			"tags": ["网易轻松一刻", "日报"],
 			"request": {
@@ -451,6 +452,7 @@
 			"channel": "网易智见访谈",
 			"portal": "https://m.163.com/news/sub/T1561627188873.html",
 			"url": "https://c.m.163.com/nc/article/headline/T1561627188873/0-10.html",
+			"enable": 0,
 			"category": "资讯",
 			"tags": ["网易智见访谈"],
 			"request": {
