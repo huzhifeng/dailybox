@@ -1,3 +1,7 @@
+## 20240331
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [How to make sure drivers will give way](https://lemmy.ml/pictrs/image/6ed8738d-049d-4dac-995c-acf16be700cc.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Captain Barbossa: &quot;Ye best start believing in Cyberpunk stories, cuz ye&#x27;ll be living in one.&quot;](https://sh.itjust.works/pictrs/image/ab5fca79-413c-4b5d-9699-487a821bc9a6.png)
+
 ## 20240330
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Backdoors](https://lemmy.ml/pictrs/image/bff7ab5e-346a-4fc0-b4dc-3666b858b860.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Reddit started blocking VPN users on old.reddit.com](https://lemm.ee/pictrs/image/9d71ca6d-5046-4ed8-a8e4-e1152a2b5e4d.webp)

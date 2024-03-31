@@ -1,3 +1,7 @@
+## 20240331
+- [Lobsters](https://lobste.rs/) | [Refurb weekend: Data General/One (and the worst LCD in the world)](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd)
+- [Lobsters](https://lobste.rs/) | [mdbooker – turn your README.md into a documentation site](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into)
+
 ## 20240330
 - [Lobsters](https://lobste.rs/) | [Type Inference Was a Mistake](https://lobste.rs/s/pkgjno/type_inference_was_mistake)
 - [Lobsters](https://lobste.rs/) | [Helix Release 24.03 Highlights](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights)

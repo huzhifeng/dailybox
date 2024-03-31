@@ -1,3 +1,12 @@
+## 20240331
+- [Phoronix](https://www.phoronix.com/) | [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times For AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+- [Phoronix](https://www.phoronix.com/) | [Intel Continued Upstreaming A Lot Of Great Linux/Open-Source Code This Quarter](https://www.phoronix.com/news/Intel-2024-Q1-Highlights)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/31/cant-wait-to.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links March 2024](https://etbe.coker.com.au/2024/03/31/links-march-2024/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Where are the Supply Chain Safe Programming Languages?](https://blog.vmsplice.net/2024/03/where-are-supply-chain-safe-programming.html)
+- [Planet KDE](https://planet.kde.org/) | [Τι είναι το Fedora; Όλα όσα πρέπει να γνωρίζετε...](https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [My work in KDE for March 2024](https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed)
+
 ## 20240330
 - [Phoronix](https://www.phoronix.com/) | [NetBSD 10.0 Released With Much Improved Hardware Support & Faster Performance](https://www.phoronix.com/news/NetBSD-10.0-Released)
 - [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Adds WOFF2 Web Fonts, HTML Tables By Default](https://www.phoronix.com/news/Servo-Web-Engine-March-2023)

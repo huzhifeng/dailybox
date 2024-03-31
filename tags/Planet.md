@@ -1,3 +1,10 @@
+## 20240331
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/31/cant-wait-to.html)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links March 2024](https://etbe.coker.com.au/2024/03/31/links-march-2024/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [Where are the Supply Chain Safe Programming Languages?](https://blog.vmsplice.net/2024/03/where-are-supply-chain-safe-programming.html)
+- [Planet KDE](https://planet.kde.org/) | [Τι είναι το Fedora; Όλα όσα πρέπει να γνωρίζετε...](https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [My work in KDE for March 2024](https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed)
+
 ## 20240330
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/30/beautiful-park-near.html)
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: xz backdooring](http://blog.sesse.net/blog/tech/2024-03-30-11-39_xz_backdooring.html)

@@ -1,3 +1,6 @@
+## 20240331
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/31/cant-wait-to.html)
+
 ## 20240330
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/30/beautiful-park-near.html)
 

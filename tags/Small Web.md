@@ -1,3 +1,7 @@
+## 20240331
+- [Kagi Small Web](https://kagi.com/smallweb) | [Editorial: Innovations in Hierarchical Forecasting](https://robjhyndman.com/publications/fr_editorial.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Forecast reconciliation: A review](https://robjhyndman.com/publications/frreview.html)
+
 ## 20240330
 - [Kagi Small Web](https://kagi.com/smallweb) | [On Garbage Collection](https://www.xorvoid.com/on_garbage_collection.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [What's The Point Of A Faithful Mario Adaptation?](https://www.youtube.com/watch?v=zn3Yo5ea5L8)

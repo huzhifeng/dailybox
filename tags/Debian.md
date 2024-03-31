@@ -1,3 +1,6 @@
+## 20240331
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links March 2024](https://etbe.coker.com.au/2024/03/31/links-march-2024/)
+
 ## 20240330
 - [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: xz backdooring](http://blog.sesse.net/blog/tech/2024-03-30-11-39_xz_backdooring.html)
 
