@@ -1,3 +1,7 @@
+## 20240330
+- [V2EX](https://www.v2ex.com/) | [有被 雷军 的演讲能力折服的吗？](https://www.v2ex.com/t/1028482)
+- [V2EX](https://www.v2ex.com/) | [请教各位大佬，研究了一套深度学习方法，预测 A 股涨跌，....](https://www.v2ex.com/t/1028472)
+
 ## 20240327
 - [V2EX](https://www.v2ex.com/) | [可以晒下你们的服务器配置吗](https://www.v2ex.com/t/1027481)
 - [V2EX](https://www.v2ex.com/) | [su7 的页面好炫酷，要用什么技术才能写成这样](https://www.v2ex.com/t/1027438)

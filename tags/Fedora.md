@@ -1,3 +1,6 @@
+## 20240330
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/30/beautiful-park-near.html)
+
 ## 20240329
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: CVE-2024-3094: Urgent alert for Fedora Linux 40 and Rawhide users](https://fedoramagazine.org/cve-2024-3094-security-alert-f40-rawhide/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: Wiping Drives - Data Recovery with Open-Source Tools (part 6)](https://blog.stevecoinc.com/2024/03/wiping-drives-data-recovery-with-open.html)

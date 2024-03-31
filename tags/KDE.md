@@ -1,3 +1,6 @@
+## 20240330
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed)
+
 ## 20240329
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-13](https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [FOSSGIS Conference 2024](https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed)

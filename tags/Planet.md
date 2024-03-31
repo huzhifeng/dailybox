@@ -1,3 +1,8 @@
+## 20240330
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/30/beautiful-park-near.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: xz backdooring](http://blog.sesse.net/blog/tech/2024-03-30-11-39_xz_backdooring.html)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed)
+
 ## 20240329
 - [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Networking Track](https://lpc.events/blog/current/index.php/2024/03/29/networking-track/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: CVE-2024-3094: Urgent alert for Fedora Linux 40 and Rawhide users](https://fedoramagazine.org/cve-2024-3094-security-alert-f40-rawhide/)

@@ -1,3 +1,6 @@
+## 20240330
+- [diff.blog](https://diff.blog/) | [Changes to `u128`/`i128` layout in 1.77 and 1.78](https://diff.blog/post/changes-to-u128i128-layout-in-177-and-178-173228/)
+
 ## 20240329
 - [diff.blog](https://diff.blog/) | [Navigating the Challenges and Opportunities of Synthetic Voices](https://diff.blog/post/navigating-the-challenges-and-opportunities-of-synthetic-voices-173175/)
 

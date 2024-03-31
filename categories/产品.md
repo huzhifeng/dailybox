@@ -1,3 +1,7 @@
+## 20240330
+- [Product Hunt](https://www.producthunt.com) | [100+ AI Side-Hustle Ideas](https://www.producthunt.com/posts/100-ai-side-hustle-ideas)
+- [Product Hunt](https://www.producthunt.com) | [Virabble](https://www.producthunt.com/posts/virabble)
+
 ## 20240329
 - [Product Hunt](https://www.producthunt.com) | [Datawave](https://www.producthunt.com/posts/datawave)
 - [Product Hunt](https://www.producthunt.com) | [AiGenda](https://www.producthunt.com/posts/aigenda)

@@ -1,3 +1,7 @@
+## 20240330
+- [LibHunt](https://www.libhunt.com/) | [homebrew-core](https://www.libhunt.com/r/homebrew-core)
+- [LibHunt](https://www.libhunt.com/) | [libarchive](https://www.libhunt.com/r/libarchive)
+
 ## 20240329
 - [LibHunt](https://www.libhunt.com/) | [xz](https://www.libhunt.com/r/xz)
 

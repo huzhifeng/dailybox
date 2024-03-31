@@ -1,3 +1,6 @@
+## 20240330
+- [9to5Linux](https://9to5linux.com/) | [Meet Marknote, KDE&#8217;s New WYSIWYG Note-Taking Application for Linux](https://9to5linux.com/meet-marknote-kdes-wysiwyg-note-taking-application-for-linux)
+
 ## 20240329
 - [9to5Linux](https://9to5linux.com/) | [Red Hat Warns Fedora Linux 40/41 and Rawhide Users About Critical Security Flaw](https://9to5linux.com/red-hat-warns-fedora-linux-40-41-and-rawhide-users-about-critical-security-flaw)
 

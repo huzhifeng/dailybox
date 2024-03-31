@@ -1,3 +1,7 @@
+## 20240330
+- [Kagi Small Web](https://kagi.com/smallweb) | [On Garbage Collection](https://www.xorvoid.com/on_garbage_collection.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [What's The Point Of A Faithful Mario Adaptation?](https://www.youtube.com/watch?v=zn3Yo5ea5L8)
+
 ## 20240329
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Hat](https://blog.glyph.im/2024/03/the-hat.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Get Federated Got Gasta-Ed](https://cogdogblog.com/2024/03/get-federated-got-gasta/)

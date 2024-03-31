@@ -1,3 +1,11 @@
+## 20240330
+- [Phoronix](https://www.phoronix.com/) | [NetBSD 10.0 Released With Much Improved Hardware Support & Faster Performance](https://www.phoronix.com/news/NetBSD-10.0-Released)
+- [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Adds WOFF2 Web Fonts, HTML Tables By Default](https://www.phoronix.com/news/Servo-Web-Engine-March-2023)
+- [9to5Linux](https://9to5linux.com/) | [Meet Marknote, KDE&#8217;s New WYSIWYG Note-Taking Application for Linux](https://9to5linux.com/meet-marknote-kdes-wysiwyg-note-taking-application-for-linux)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/30/beautiful-park-near.html)
+- [Planet Debian](https://planet.debian.org/) | [Steinar H. Gunderson: xz backdooring](http://blog.sesse.net/blog/tech/2024-03-30-11-39_xz_backdooring.html)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed)
+
 ## 20240329
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Urgent security alert for Fedora Linux 40 and Fedora Rawhide users](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [The path to scaling automation at one of Spain's largest banks](https://www.redhat.com/en/blog/the-path-to-scaling-automation-at-one-of-spains-largest-banks)
