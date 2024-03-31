@@ -1,3 +1,7 @@
+## 20240328
+- [Phoronix](https://www.phoronix.com/) | [Intel "Family 6" CPU Era Coming To An End Soon: Code Suggests Cooper Forest & Adams Lake](https://www.phoronix.com/news/Intel-CPU-Family-6-Ending)
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Launches Valkey As A Redis Fork](https://www.phoronix.com/news/Linux-Foundation-Valkey)
+
 ## 20240327
 - [Phoronix](https://www.phoronix.com/) | [Canonical Continues Exploring Ubuntu x86-64-v3 Images - Now In Microsoft's Cloud](https://www.phoronix.com/news/Ubuntu-x86-64-v3-Images-Azure)
 - [Phoronix](https://www.phoronix.com/) | [Blender 4.1 Benchmarks Confirm Even Faster CPU Render Times Under Linux](https://www.phoronix.com/news/Blender-4.1-CPU-Linux-Perf)

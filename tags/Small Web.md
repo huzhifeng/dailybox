@@ -1,3 +1,7 @@
+## 20240328
+- [Kagi Small Web](https://kagi.com/smallweb) | [Elon Musk “most prolific liar in the history of American business”](https://www.flyingpenguin.com/?p=56314)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Thread Hijacking: Phishes That Prey on Your Curiosity](https://krebsonsecurity.com/2024/03/thread-hijacking-phishes-that-prey-on-your-curiosity/)
+
 ## 20240327
 - [Kagi Small Web](https://kagi.com/smallweb) | [Climate change is an engineering challenge](https://holdfastprojects.com/generative)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Some findings from training SAEs on Othello-GPT](https://www.lesswrong.com/posts/Fmh3nKnatFg5kmLYo/some-findings-from-training-saes-on-othello-gpt)

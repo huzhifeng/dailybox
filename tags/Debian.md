@@ -1,3 +1,7 @@
+## 20240328
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: the vulture in the coal mine](http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/)
+
 ## 20240325
 - [Planet Debian](https://planet.debian.org/) | [Valhalla's Things: Piecepack and postcard boxes](https://blog.trueelena.org/blog/2023/11/04-piecepack_and_postcard_boxes/index.html)
 

@@ -1,3 +1,7 @@
+## 20240328
+- [diff.blog](https://diff.blog/) | [Nonsensical Maven is still a Gradle problem](https://diff.blog/post/nonsensical-maven-is-still-a-gradle-problem-172986/)
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.77.1](https://diff.blog/post/announcing-rust-1771-172963/)
+
 ## 20240327
 - [diff.blog](https://diff.blog/) | [Introducing DBRX: A New State-of-the-Art Open LLM](https://diff.blog/post/introducing-dbrx-a-new-state-of-the-art-open-llm-172890/)
 - [diff.blog](https://diff.blog/) | [Announcing DBRX: A new standard for efficient open source LLMs](https://diff.blog/post/announcing-dbrx-a-new-standard-for-efficient-open-source-llms-172889/)

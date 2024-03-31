@@ -1,3 +1,20 @@
+## 20240328
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Podman 5.0 Unveiled](https://www.redhat.com/en/blog/podman-50-unveiled)
+- [Red Hat Developer](https://developers.redhat.com/) | [Packet capture using Network Observability eBPF Agent](https://developers.redhat.com/articles/2024/03/28/packet-capture-using-network-observability-ebpf-agent)
+- [Phoronix](https://www.phoronix.com/) | [Intel "Family 6" CPU Era Coming To An End Soon: Code Suggests Cooper Forest & Adams Lake](https://www.phoronix.com/news/Intel-CPU-Family-6-Ending)
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Launches Valkey As A Redis Fork](https://www.phoronix.com/news/Linux-Foundation-Valkey)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.2 Is Now Available for Download with More Than 70 Bug Fixes](https://9to5linux.com/libreoffice-24-2-2-is-now-available-for-download-with-more-than-70-bug-fixes)
+- [Planet Fedora](http://fedoraplanet.org/) | [Christian F.K. Schaller: Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Dors/Cluc and DevConf.cz: Two open source events worth visiting](https://talkweb.eu/openweb/4192/)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: the vulture in the coal mine](http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/)
+- [Planet Debian](https://planet.debian.org/) | [Scarlett Gately Moore: Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploying Open Language Models on Ubuntu](https://ubuntu.com//blog/deploying-open-language-models-on-ubuntu)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Simos Xenitellis: How to install and setup the Incus Web UI](https://blog.simos.info/how-to-install-and-setup-the-incus-web-ui/)
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu, KDE Report. In Loving Memory of my Son.](https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KEcoLab in SoK24: Incorporating Energy-Consumption Measurements In The CI/CD Pipeline](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Linux Foundation Launches Valkey As A Redis Fork](https://linux.slashdot.org/story/24/03/28/213213/linux-foundation-launches-valkey-as-a-redis-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240327
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.14.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6143-has-been-released)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Important notice regarding entitlement and Simple Content Access (SCA)](https://www.redhat.com/en/blog/important-notice-regarding-entitlement-and-simple-content-access-sca)

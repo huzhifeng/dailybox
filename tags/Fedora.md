@@ -1,3 +1,7 @@
+## 20240328
+- [Planet Fedora](http://fedoraplanet.org/) | [Christian F.K. Schaller: Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Dors/Cluc and DevConf.cz: Two open source events worth visiting](https://talkweb.eu/openweb/4192/)
+
 ## 20240327
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Alerting on One Identity Cloud PAM Essentials logs using syslog-ng](https://peter.czanik.hu/other/syslog-ng-alerting-on-one-identity-cloud-pam-essentials-logs/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: Build custom images for Testing Farm](https://fedoramagazine.org/build-custom-images-for-testing-farm/)
