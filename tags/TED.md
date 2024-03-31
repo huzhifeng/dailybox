@@ -1,3 +1,6 @@
+## 20240329
+- [TED Talks Daily](https://www.ted.com/talks) | [The human cost of coal mining in China | Xiaojun "Tom" Wang](https://www.ted.com/talks/xiaojun_tom_wang_the_human_cost_of_coal_mining_in_china?rss)
+
 ## 20240328
 - [TED Talks Daily](https://www.ted.com/talks) | [How to live with economic doomsaying | Philipp Carlsson-Szlezak](https://www.ted.com/talks/philipp_carlsson_szlezak_how_to_live_with_economic_doomsaying?rss)
 

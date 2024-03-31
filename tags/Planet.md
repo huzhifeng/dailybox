@@ -1,3 +1,14 @@
+## 20240329
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Networking Track](https://lpc.events/blog/current/index.php/2024/03/29/networking-track/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: CVE-2024-3094: Urgent alert for Fedora Linux 40 and Rawhide users](https://fedoramagazine.org/cve-2024-3094-security-alert-f40-rawhide/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: Wiping Drives - Data Recovery with Open-Source Tools (part 6)](https://blog.stevecoinc.com/2024/03/wiping-drives-data-recovery-with-open.html)
+- [Planet Debian](https://planet.debian.org/) | [Rapha&#235;l Hertzog: Freexian is looking to expand its team with more Debian contributors](https://raphaelhertzog.com/2024/03/29/freexian-is-looking-to-expand-its-team-with-more-debian-contributors/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: A visit to the Taj Mahal](https://ravidwivedi.in/posts/taj-mahal/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI and automotive: navigating the roads of tomorrow](https://ubuntu.com//blog/ai-and-automotive-navigating-the-roads-of-tomorrow)
+- [Planet GNOME](https://planet.gnome.org/) | [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-13](https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [FOSSGIS Conference 2024](https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed)
+
 ## 20240328
 - [Planet Fedora](http://fedoraplanet.org/) | [Christian F.K. Schaller: Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Dors/Cluc and DevConf.cz: Two open source events worth visiting](https://talkweb.eu/openweb/4192/)

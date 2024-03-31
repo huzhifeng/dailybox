@@ -1,3 +1,7 @@
+## 20240329
+- [Lobsters](https://lobste.rs/) | [backdoor in upstream xz/liblzma leading to ssh server compromise](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh)
+- [Lobsters](https://lobste.rs/) | [Easy Mode Rust](https://lobste.rs/s/zwgqnl/easy_mode_rust)
+
 ## 20240327
 - [Lobsters](https://lobste.rs/) | [Two little interpreters](https://lobste.rs/s/5pb86n/two_little_interpreters)
 - [Lobsters](https://lobste.rs/) | [Garbage Collection for Systems Programmers](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems)

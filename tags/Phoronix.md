@@ -1,3 +1,7 @@
+## 20240329
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases Orochi 2.0 With More CUDA/HIP Functions Implemented For Better Portability](https://www.phoronix.com/news/AMD-Orochi-2.0-HIP-CUDA)
+- [Phoronix](https://www.phoronix.com/) | [XZ Struck By Malicious Code That Could Allow Unauthorized Remote System Access](https://www.phoronix.com/news/XZ-CVE-2024-3094)
+
 ## 20240328
 - [Phoronix](https://www.phoronix.com/) | [Intel "Family 6" CPU Era Coming To An End Soon: Code Suggests Cooper Forest & Adams Lake](https://www.phoronix.com/news/Intel-CPU-Family-6-Ending)
 - [Phoronix](https://www.phoronix.com/) | [Linux Foundation Launches Valkey As A Redis Fork](https://www.phoronix.com/news/Linux-Foundation-Valkey)

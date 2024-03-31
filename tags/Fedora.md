@@ -1,3 +1,7 @@
+## 20240329
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: CVE-2024-3094: Urgent alert for Fedora Linux 40 and Rawhide users](https://fedoramagazine.org/cve-2024-3094-security-alert-f40-rawhide/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: Wiping Drives - Data Recovery with Open-Source Tools (part 6)](https://blog.stevecoinc.com/2024/03/wiping-drives-data-recovery-with-open.html)
+
 ## 20240328
 - [Planet Fedora](http://fedoraplanet.org/) | [Christian F.K. Schaller: Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Bogomil Shopov - Bogo: Dors/Cluc and DevConf.cz: Two open source events worth visiting](https://talkweb.eu/openweb/4192/)

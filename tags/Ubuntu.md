@@ -1,3 +1,6 @@
+## 20240329
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI and automotive: navigating the roads of tomorrow](https://ubuntu.com//blog/ai-and-automotive-navigating-the-roads-of-tomorrow)
+
 ## 20240328
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Deploying Open Language Models on Ubuntu](https://ubuntu.com//blog/deploying-open-language-models-on-ubuntu)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Simos Xenitellis: How to install and setup the Incus Web UI](https://blog.simos.info/how-to-install-and-setup-the-incus-web-ui/)

@@ -1,3 +1,7 @@
+## 20240329
+- [Product Hunt](https://www.producthunt.com) | [Datawave](https://www.producthunt.com/posts/datawave)
+- [Product Hunt](https://www.producthunt.com) | [AiGenda](https://www.producthunt.com/posts/aigenda)
+
 ## 20240328
 - [Product Hunt](https://www.producthunt.com) | [Content Score by Quick Creator](https://www.producthunt.com/posts/content-score-by-quick-creator)
 - [Product Hunt](https://www.producthunt.com) | [Retexts](https://www.producthunt.com/posts/retexts)

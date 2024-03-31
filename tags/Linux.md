@@ -1,3 +1,21 @@
+## 20240329
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Urgent security alert for Fedora Linux 40 and Fedora Rawhide users](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [The path to scaling automation at one of Spain's largest banks](https://www.redhat.com/en/blog/the-path-to-scaling-automation-at-one-of-spains-largest-banks)
+- [Phoronix](https://www.phoronix.com/) | [AMD Releases Orochi 2.0 With More CUDA/HIP Functions Implemented For Better Portability](https://www.phoronix.com/news/AMD-Orochi-2.0-HIP-CUDA)
+- [Phoronix](https://www.phoronix.com/) | [XZ Struck By Malicious Code That Could Allow Unauthorized Remote System Access](https://www.phoronix.com/news/XZ-CVE-2024-3094)
+- [9to5Linux](https://9to5linux.com/) | [Red Hat Warns Fedora Linux 40/41 and Rawhide Users About Critical Security Flaw](https://9to5linux.com/red-hat-warns-fedora-linux-40-41-and-rawhide-users-about-critical-security-flaw)
+- [Planet Kernel](https://planet.kernel.org/) | [Linux Plumbers Conference: Networking Track](https://lpc.events/blog/current/index.php/2024/03/29/networking-track/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Magazine: CVE-2024-3094: Urgent alert for Fedora Linux 40 and Rawhide users](https://fedoramagazine.org/cve-2024-3094-security-alert-f40-rawhide/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Steven Pritchard: Wiping Drives - Data Recovery with Open-Source Tools (part 6)](https://blog.stevecoinc.com/2024/03/wiping-drives-data-recovery-with-open.html)
+- [Planet Debian](https://planet.debian.org/) | [Rapha&#235;l Hertzog: Freexian is looking to expand its team with more Debian contributors](https://raphaelhertzog.com/2024/03/29/freexian-is-looking-to-expand-its-team-with-more-debian-contributors/)
+- [Planet Debian](https://planet.debian.org/) | [Ravi Dwivedi: A visit to the Taj Mahal](https://ravidwivedi.in/posts/taj-mahal/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI and automotive: navigating the roads of tomorrow](https://ubuntu.com//blog/ai-and-automotive-navigating-the-roads-of-tomorrow)
+- [Planet GNOME](https://planet.gnome.org/) | [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-13](https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [FOSSGIS Conference 2024](https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Issues Urgent Alert For Fedora Linux Users Due To Malicious Code](https://it.slashdot.org/story/24/03/29/2158259/red-hat-issues-urgent-alert-for-fedora-linux-users-due-to-malicious-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://linux.slashdot.org/) | [Red Hat Tries on a McKinsey Cap in Quest To Streamline Techies' Jobs](https://linux.slashdot.org/story/24/03/29/1235217/red-hat-tries-on-a-mckinsey-cap-in-quest-to-streamline-techies-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240328
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Podman 5.0 Unveiled](https://www.redhat.com/en/blog/podman-50-unveiled)
 - [Red Hat Developer](https://developers.redhat.com/) | [Packet capture using Network Observability eBPF Agent](https://developers.redhat.com/articles/2024/03/28/packet-capture-using-network-observability-ebpf-agent)
