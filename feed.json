@@ -79,14 +79,6 @@
 			"tags": ["和菜头", "槽边往事", "博客"]
 		},
 		{
-			"channel": "硬核观察",
-			"portal": "https://linux.cn/news/express/",
-			"url": "https://linux.cn/rss.xml",
-			"_comment": "https://linux.cn/insight.xml",
-			"category": "日报",
-			"tags": ["硬核观察", "Linux", "日报"]
-		},
-		{
 			"channel": "开源日报",
 			"portal": "https://www.oschina.net/news/column?columnId=25",
 			"url": "https://www.oschina.net/news/rss",
