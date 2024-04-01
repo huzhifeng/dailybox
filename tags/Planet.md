@@ -1,3 +1,11 @@
+## 20240401
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/04/01/im-not-sure.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/)
+- [Planet Debian](https://planet.debian.org/) | [Colin Watson: Free software activity in March 2024](https://www.chiark.greenend.org.uk/~cjwatson/blog/activity-2024-03.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Towards reproducible minimal source code tarballs?  On *-src.tar.gz](https://blog.josefsson.org/2024/04/01/towards-reproducible-minimal-source-code-tarballs-please-welcome-src-tar-gz/)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-04-01 Monday](https://meeksfamily.uk/~michael/blog/2024-04-01.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE - Kiosco De Empanadas](https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed)
+
 ## 20240331
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/31/cant-wait-to.html)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links March 2024](https://etbe.coker.com.au/2024/03/31/links-march-2024/)

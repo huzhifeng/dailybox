@@ -1,3 +1,7 @@
+## 20240401
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [can&#x27;t wait](https://lemmy.world/pictrs/image/ec0e509a-864e-48be-816f-23762a69eec4.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Simple as](https://lemmy.world/pictrs/image/99e626dd-457a-4c87-b268-1b978b032d5b.png)
+
 ## 20240331
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [How to make sure drivers will give way](https://lemmy.ml/pictrs/image/6ed8738d-049d-4dac-995c-acf16be700cc.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Captain Barbossa: &quot;Ye best start believing in Cyberpunk stories, cuz ye&#x27;ll be living in one.&quot;](https://sh.itjust.works/pictrs/image/ab5fca79-413c-4b5d-9699-487a821bc9a6.png)

@@ -1,3 +1,7 @@
+## 20240401
+- [Planet Debian](https://planet.debian.org/) | [Colin Watson: Free software activity in March 2024](https://www.chiark.greenend.org.uk/~cjwatson/blog/activity-2024-03.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Towards reproducible minimal source code tarballs?  On *-src.tar.gz](https://blog.josefsson.org/2024/04/01/towards-reproducible-minimal-source-code-tarballs-please-welcome-src-tar-gz/)
+
 ## 20240331
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links March 2024](https://etbe.coker.com.au/2024/03/31/links-march-2024/)
 

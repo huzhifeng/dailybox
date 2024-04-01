@@ -1,3 +1,7 @@
+## 20240401
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Level up your automation with Event-Driven Ansible and Red Hat Consulting](https://www.redhat.com/en/blog/level-your-automation-event-driven-ansible-and-red-hat-consulting)
+- [Red Hat Developer](https://developers.redhat.com/) | [Secure JBoss EAP apps with Microsoft Entra ID & OpenID Connect](https://developers.redhat.com/articles/2024/04/01/secure-jboss-eap-apps-microsoft-entra-id-openid-connect)
+
 ## 20240329
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Urgent security alert for Fedora Linux 40 and Fedora Rawhide users](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [The path to scaling automation at one of Spain's largest banks](https://www.redhat.com/en/blog/the-path-to-scaling-automation-at-one-of-spains-largest-banks)

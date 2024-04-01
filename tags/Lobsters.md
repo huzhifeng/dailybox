@@ -1,3 +1,7 @@
+## 20240401
+- [Lobsters](https://lobste.rs/) | [Switching between code variants using comments](https://lobste.rs/s/ugvvay/switching_between_code_variants_using)
+- [Lobsters](https://lobste.rs/) | [The Wi-Fi only works when it's raining](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining)
+
 ## 20240331
 - [Lobsters](https://lobste.rs/) | [Refurb weekend: Data General/One (and the worst LCD in the world)](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd)
 - [Lobsters](https://lobste.rs/) | [mdbooker – turn your README.md into a documentation site](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into)

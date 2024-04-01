@@ -1,3 +1,17 @@
+## 20240401
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Level up your automation with Event-Driven Ansible and Red Hat Consulting](https://www.redhat.com/en/blog/level-your-automation-event-driven-ansible-and-red-hat-consulting)
+- [Red Hat Developer](https://developers.redhat.com/) | [Secure JBoss EAP apps with Microsoft Entra ID & OpenID Connect](https://developers.redhat.com/articles/2024/04/01/secure-jboss-eap-apps-microsoft-entra-id-openid-connect)
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Making Use Of Plymouth For Better Boot Experience, Mitigates For XZ Fiasco](https://www.phoronix.com/news/CachyOS-April-2024-Released)
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 22 Will Use The PipeWire Sound Server, Support JPEG-XL Images](https://www.phoronix.com/news/Linux-Mint-22-March-2024)
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.4 Released, the systemd-Free Distro Now Uses KDE Software from Debian](https://9to5linux.com/nitrux-3-4-released-the-systemd-free-distro-now-uses-kde-software-from-debian)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs to Ship Thunderbird as a Native DEB Package in Linux Mint 22](https://9to5linux.com/linux-mint-devs-to-ship-thunderbird-as-a-native-deb-package-in-linux-mint-22)
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/04/01/im-not-sure.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/)
+- [Planet Debian](https://planet.debian.org/) | [Colin Watson: Free software activity in March 2024](https://www.chiark.greenend.org.uk/~cjwatson/blog/activity-2024-03.html)
+- [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Towards reproducible minimal source code tarballs?  On *-src.tar.gz](https://blog.josefsson.org/2024/04/01/towards-reproducible-minimal-source-code-tarballs-please-welcome-src-tar-gz/)
+- [Planet GNOME](https://planet.gnome.org/) | [2024-04-01 Monday](https://meeksfamily.uk/~michael/blog/2024-04-01.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE - Kiosco De Empanadas](https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed)
+
 ## 20240331
 - [Phoronix](https://www.phoronix.com/) | [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times For AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
 - [Phoronix](https://www.phoronix.com/) | [Intel Continued Upstreaming A Lot Of Great Linux/Open-Source Code This Quarter](https://www.phoronix.com/news/Intel-2024-Q1-Highlights)
