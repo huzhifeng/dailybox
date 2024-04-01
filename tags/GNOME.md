@@ -1,3 +1,6 @@
+## 20240401
+- [Planet GNOME](https://planet.gnome.org/) | [2024-04-01 Monday](https://meeksfamily.uk/~michael/blog/2024-04-01.html)
+
 ## 20240329
 - [Planet GNOME](https://planet.gnome.org/) | [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/)
 

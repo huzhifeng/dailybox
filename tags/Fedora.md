@@ -1,3 +1,7 @@
+## 20240401
+- [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/04/01/im-not-sure.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/)
+
 ## 20240331
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/03/31/cant-wait-to.html)
 

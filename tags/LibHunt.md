@@ -1,3 +1,7 @@
+## 20240401
+- [LibHunt](https://www.libhunt.com/) | [kftray](https://www.libhunt.com/r/kftray)
+- [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)
+
 ## 20240330
 - [LibHunt](https://www.libhunt.com/) | [homebrew-core](https://www.libhunt.com/r/homebrew-core)
 - [LibHunt](https://www.libhunt.com/) | [libarchive](https://www.libhunt.com/r/libarchive)

@@ -1,3 +1,6 @@
+## 20240401
+- [Hacker News](https://news.ycombinator.com/front) | [LLaMA Now Goes Faster on CPUs](https://news.ycombinator.com/item?id=39890262)
+
 ## 20240330
 - [Hacker News](https://news.ycombinator.com/front) | [Xz: A Microcosm of the interactions in Open Source projects](https://news.ycombinator.com/item?id=39879710)
 - [Hacker News](https://news.ycombinator.com/front) | [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://news.ycombinator.com/item?id=39877730)

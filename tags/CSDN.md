@@ -1,3 +1,8 @@
+## 20240401
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车称目前暂没有海外销售计划；GitHub屏蔽了Neovim插件作者的账号；NetBSD 10.0发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137222719)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python版【植物大战僵尸 +源码】](https://blog.csdn.net/m0_68089732/article/details/137202714)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Machine Learning机器学习之文本分析](https://blog.csdn.net/a910247/article/details/137209947)
+
 ## 20240331
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI赋能微服务：Spring Boot与机器学习驱动的未来应用开发](https://blog.csdn.net/g310773517/article/details/137148589)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [2024三掌柜赠书活动第十九期：DevOps企业级CI/CD实战](https://blog.csdn.net/CC1991_/article/details/137151654)

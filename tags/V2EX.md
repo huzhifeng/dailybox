@@ -1,3 +1,7 @@
+## 20240401
+- [V2EX](https://www.v2ex.com/) | [为什么用 telegram 的人这么多](https://www.v2ex.com/t/1028778)
+- [V2EX](https://www.v2ex.com/) | [最终，我还是选择了买 SU7](https://www.v2ex.com/t/1028734)
+
 ## 20240331
 - [V2EX](https://www.v2ex.com/) | [[讨论] 如何减少 Xz Backdoor 类似问题的发生](https://www.v2ex.com/t/1028563)
 - [V2EX](https://www.v2ex.com/) | [入职新公司后有点抑郁](https://www.v2ex.com/t/1028530)

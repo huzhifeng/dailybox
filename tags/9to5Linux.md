@@ -1,3 +1,7 @@
+## 20240401
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.4 Released, the systemd-Free Distro Now Uses KDE Software from Debian](https://9to5linux.com/nitrux-3-4-released-the-systemd-free-distro-now-uses-kde-software-from-debian)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs to Ship Thunderbird as a Native DEB Package in Linux Mint 22](https://9to5linux.com/linux-mint-devs-to-ship-thunderbird-as-a-native-deb-package-in-linux-mint-22)
+
 ## 20240330
 - [9to5Linux](https://9to5linux.com/) | [Meet Marknote, KDE&#8217;s New WYSIWYG Note-Taking Application for Linux](https://9to5linux.com/meet-marknote-kdes-wysiwyg-note-taking-application-for-linux)
 

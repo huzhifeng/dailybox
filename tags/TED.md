@@ -1,3 +1,6 @@
+## 20240401
+- [TED Talks Daily](https://www.ted.com/talks) | [A comedian's take on how to save democracy | Jordan Klepper](https://www.ted.com/talks/jordan_klepper_a_comedian_s_take_on_how_to_save_democracy?rss)
+
 ## 20240329
 - [TED Talks Daily](https://www.ted.com/talks) | [The human cost of coal mining in China | Xiaojun "Tom" Wang](https://www.ted.com/talks/xiaojun_tom_wang_the_human_cost_of_coal_mining_in_china?rss)
 
