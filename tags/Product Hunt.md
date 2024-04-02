@@ -1,3 +1,7 @@
+## 20240402
+- [Product Hunt](https://www.producthunt.com) | [nsave](https://www.producthunt.com/posts/nsave)
+- [Product Hunt](https://www.producthunt.com) | [Email Deliverability Booster](https://www.producthunt.com/posts/email-deliverability-booster)
+
 ## 20240401
 - [Product Hunt](https://www.producthunt.com) | [Letters](https://www.producthunt.com/posts/letters-5)
 

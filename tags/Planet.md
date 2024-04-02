@@ -1,3 +1,9 @@
+## 20240402
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng health check](https://peter.czanik.hu/other/syslog-ng-health-check/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Join us! Restarting Community Ops team meetings in 2024](https://communityblog.fedoraproject.org/restarting-community-ops-2024/)
+- [Planet KDE](https://planet.kde.org/) | [Qt 6.7 Released!](https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [SoK 2024 - Implementing package management features from RKWard into Cantor via a GUI First Blog](https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed)
+
 ## 20240401
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/04/01/im-not-sure.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/)

@@ -1,3 +1,7 @@
+## 20240402
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng health check](https://peter.czanik.hu/other/syslog-ng-health-check/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Join us! Restarting Community Ops team meetings in 2024](https://communityblog.fedoraproject.org/restarting-community-ops-2024/)
+
 ## 20240401
 - [Planet Fedora](http://fedoraplanet.org/) | [Zach Oglesby](https://zach.oglesby.co/2024/04/01/im-not-sure.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/)

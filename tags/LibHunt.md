@@ -1,3 +1,7 @@
+## 20240402
+- [LibHunt](https://www.libhunt.com/) | [myscaledb](https://www.libhunt.com/r/myscaledb)
+- [LibHunt](https://www.libhunt.com/) | [ragflow](https://www.libhunt.com/r/ragflow)
+
 ## 20240401
 - [LibHunt](https://www.libhunt.com/) | [kftray](https://www.libhunt.com/r/kftray)
 - [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)

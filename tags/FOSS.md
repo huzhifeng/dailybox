@@ -1,3 +1,6 @@
+## 20240402
+- [It's FOSS](https://itsfoss.com/) | [Improve Your Efficiency in Linux Terminal With Aliases](https://itsfoss.com/linux-alias/)
+
 ## 20240330
 - [It's FOSS](https://itsfoss.com/) | [Turn your Raspberry Pi into a NAS using Samba (SMB) Server](https://itsfoss.com/raspberry-pi-nas-samba/)
 - [It's FOSS](https://itsfoss.com/) | [Read Log Files With Colors Using tailspin](https://itsfoss.com/tailspin/)

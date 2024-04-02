@@ -1,3 +1,7 @@
+## 20240402
+- [Lobsters](https://lobste.rs/) | [Cosmic Drift](https://lobste.rs/s/jb1o6q/cosmic_drift)
+- [Lobsters](https://lobste.rs/) | [Guess My RGB](https://lobste.rs/s/sbcayb/guess_my_rgb)
+
 ## 20240401
 - [Lobsters](https://lobste.rs/) | [Switching between code variants using comments](https://lobste.rs/s/ugvvay/switching_between_code_variants_using)
 - [Lobsters](https://lobste.rs/) | [The Wi-Fi only works when it's raining](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining)

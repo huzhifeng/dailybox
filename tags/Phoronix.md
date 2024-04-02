@@ -1,3 +1,7 @@
+## 20240402
+- [Phoronix](https://www.phoronix.com/) | [Mesa 24.1 Merges Vulkan Support For Wayland Explicit Sync](https://www.phoronix.com/news/Mesa-24.1-Vulkan-Wayland-Exp)
+- [Phoronix](https://www.phoronix.com/) | [TUXEDO Pulse 14 Gen 3 Continues Running Well As A Powerful AMD Ryzen 7 Linux Laptop](https://www.phoronix.com/review/tuxedo-pulse14-gen3)
+
 ## 20240401
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Making Use Of Plymouth For Better Boot Experience, Mitigates For XZ Fiasco](https://www.phoronix.com/news/CachyOS-April-2024-Released)
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint 22 Will Use The PipeWire Sound Server, Support JPEG-XL Images](https://www.phoronix.com/news/Linux-Mint-22-March-2024)

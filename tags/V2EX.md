@@ -1,3 +1,7 @@
+## 20240402
+- [V2EX](https://www.v2ex.com/) | [忘记还房贷，逾期一天](https://www.v2ex.com/t/1029111)
+- [V2EX](https://www.v2ex.com/) | [为什么大家这么看重 800V 平台，有多大区别？](https://www.v2ex.com/t/1029056)
+
 ## 20240401
 - [V2EX](https://www.v2ex.com/) | [为什么用 telegram 的人这么多](https://www.v2ex.com/t/1028778)
 - [V2EX](https://www.v2ex.com/) | [最终，我还是选择了买 SU7](https://www.v2ex.com/t/1028734)

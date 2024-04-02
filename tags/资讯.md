@@ -1,3 +1,6 @@
+## 20240402
+- [diff.blog](https://diff.blog/) | [Timeline of the xz open source attack](https://diff.blog/post/timeline-of-the-xz-open-source-attack-173329/)
+
 ## 20240330
 - [diff.blog](https://diff.blog/) | [Changes to `u128`/`i128` layout in 1.77 and 1.78](https://diff.blog/post/changes-to-u128i128-layout-in-177-and-178-173228/)
 
