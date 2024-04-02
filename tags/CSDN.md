@@ -1,3 +1,8 @@
+## 20240402
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里迎来首位 7X24 的 AI 程序员，工号 AI001；曝任正非禁止余承东说遥遥领先 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137268676)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】数据探索---python主要的探索函数](https://blog.csdn.net/qq_38614074/article/details/136947087)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [机器学习在智能音箱中的应用探索与实践：让声音更懂你](https://blog.csdn.net/g310773517/article/details/137234317)
+
 ## 20240401
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车称目前暂没有海外销售计划；GitHub屏蔽了Neovim插件作者的账号；NetBSD 10.0发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137222719)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Python版【植物大战僵尸 +源码】](https://blog.csdn.net/m0_68089732/article/details/137202714)

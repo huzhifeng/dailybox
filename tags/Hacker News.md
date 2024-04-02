@@ -1,3 +1,7 @@
+## 20240402
+- [Hacker News](https://news.ycombinator.com/front) | [Timeline of the xz open source attack](https://news.ycombinator.com/item?id=39902241)
+- [Hacker News](https://news.ycombinator.com/front) | [Low Cost Robot Arm](https://news.ycombinator.com/item?id=39902205)
+
 ## 20240401
 - [Hacker News](https://news.ycombinator.com/front) | [LLaMA Now Goes Faster on CPUs](https://news.ycombinator.com/item?id=39890262)
 

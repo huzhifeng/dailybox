@@ -1,3 +1,7 @@
+## 20240402
+- [Planet KDE](https://planet.kde.org/) | [Qt 6.7 Released!](https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [SoK 2024 - Implementing package management features from RKWard into Cantor via a GUI First Blog](https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed)
+
 ## 20240401
 - [Planet KDE](https://planet.kde.org/) | [KDE - Kiosco De Empanadas](https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed)
 

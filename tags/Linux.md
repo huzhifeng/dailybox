@@ -1,3 +1,12 @@
+## 20240402
+- [Red Hat Developer](https://developers.redhat.com/) | [Customize AWS cloud images with RHEL image builder and Packit](https://developers.redhat.com/articles/2024/04/02/customize-aws-cloud-images-rhel-image-builder-and-packit)
+- [Phoronix](https://www.phoronix.com/) | [Mesa 24.1 Merges Vulkan Support For Wayland Explicit Sync](https://www.phoronix.com/news/Mesa-24.1-Vulkan-Wayland-Exp)
+- [Phoronix](https://www.phoronix.com/) | [TUXEDO Pulse 14 Gen 3 Continues Running Well As A Powerful AMD Ryzen 7 Linux Laptop](https://www.phoronix.com/review/tuxedo-pulse14-gen3)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng health check](https://peter.czanik.hu/other/syslog-ng-health-check/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Join us! Restarting Community Ops team meetings in 2024](https://communityblog.fedoraproject.org/restarting-community-ops-2024/)
+- [Planet KDE](https://planet.kde.org/) | [Qt 6.7 Released!](https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [SoK 2024 - Implementing package management features from RKWard into Cantor via a GUI First Blog](https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed)
+
 ## 20240401
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Level up your automation with Event-Driven Ansible and Red Hat Consulting](https://www.redhat.com/en/blog/level-your-automation-event-driven-ansible-and-red-hat-consulting)
 - [Red Hat Developer](https://developers.redhat.com/) | [Secure JBoss EAP apps with Microsoft Entra ID & OpenID Connect](https://developers.redhat.com/articles/2024/04/01/secure-jboss-eap-apps-microsoft-entra-id-openid-connect)

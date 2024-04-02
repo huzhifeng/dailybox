@@ -1,3 +1,6 @@
+## 20240402
+- [GitHub Advanced Search](https://github.com/search/advanced) | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+
 ## 20240323
 - [GitHub Advanced Search](https://github.com/search/advanced) | [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor)
 

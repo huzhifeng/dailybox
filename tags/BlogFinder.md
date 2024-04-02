@@ -1,3 +1,7 @@
+## 20240402
+- [BlogFinder](https://bf.zzxworld.com/) | [不着家的周末](https://hux.ink/posts/away-for-the-weekend/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [使用stable diffusion给线稿上色](https://pellucid.art/archives/18130?utm_source=blogfinder)
+
 ## 20240401
 - [BlogFinder](https://bf.zzxworld.com/) | [键盘都有光，鼠标怎么能没有！性能与设计的完美融合-机械师M72鼠标](https://panda995.xyz/evaluation/4920.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [利用Nginx自建Github及其资源镜像站](http://ning0818.cn/archives/1711964079058?utm_source=blogfinder)

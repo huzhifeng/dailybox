@@ -1,3 +1,7 @@
+## 20240402
+- [Kagi Small Web](https://kagi.com/smallweb) | [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Rolling Over the Mountains](https://www.75centralphotography.com/rolling-over-the-mountains/)
+
 ## 20240401
 - [Kagi Small Web](https://kagi.com/smallweb) | [Igel M350C](https://www.parkytowers.me.uk/thin/Igel/ud/ud3/M350C/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Reaching Into San Pablo Bay](https://www.75centralphotography.com/reaching-into-san-pablo-bay/)
