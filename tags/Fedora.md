@@ -1,3 +1,7 @@
+## 20240403
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: LWN subscription slots available for Fedora contributors](https://communityblog.fedoraproject.org/lwn-subscription-fedora-contributors/)
+
 ## 20240402
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng health check](https://peter.czanik.hu/other/syslog-ng-health-check/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Join us! Restarting Community Ops team meetings in 2024](https://communityblog.fedoraproject.org/restarting-community-ops-2024/)

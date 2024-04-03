@@ -1,3 +1,7 @@
+## 20240403
+- [Kagi Small Web](https://kagi.com/smallweb) | [Building a Hybrid Search Experience](https://brunoscheufler.com/blog/2024-04-03-building-a-hybrid-search-experience)
+- [Kagi Small Web](https://kagi.com/smallweb) | [xorshift for rng](https://pvdz.ee/weblog/456)
+
 ## 20240402
 - [Kagi Small Web](https://kagi.com/smallweb) | [Virtual Pinhead](https://www.engineersneedart.com/blog/pinhead/pinhead.html)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Rolling Over the Mountains](https://www.75centralphotography.com/rolling-over-the-mountains/)

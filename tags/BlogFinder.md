@@ -1,3 +1,7 @@
+## 20240403
+- [BlogFinder](https://bf.zzxworld.com/) | [献血光荣，无私奉献](https://pampo.cn/index.php/archives/52.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [阴兽](https://kaffa.im/yin-beast.html?utm_source=blogfinder)
+
 ## 20240402
 - [BlogFinder](https://bf.zzxworld.com/) | [不着家的周末](https://hux.ink/posts/away-for-the-weekend/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [使用stable diffusion给线稿上色](https://pellucid.art/archives/18130?utm_source=blogfinder)

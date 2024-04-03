@@ -1,3 +1,7 @@
+## 20240403
+- [Lobsters](https://lobste.rs/) | [autoconf makes me think we stopped evolving too soon](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped)
+- [Lobsters](https://lobste.rs/) | [The 6502 Instruction Set as a Database](https://lobste.rs/s/fagujm/6502_instruction_set_as_database)
+
 ## 20240402
 - [Lobsters](https://lobste.rs/) | [Cosmic Drift](https://lobste.rs/s/jb1o6q/cosmic_drift)
 - [Lobsters](https://lobste.rs/) | [Guess My RGB](https://lobste.rs/s/sbcayb/guess_my_rgb)

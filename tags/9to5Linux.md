@@ -1,3 +1,7 @@
+## 20240403
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Reaches End of Life, Users Urged to Upgrade to Linux Kernel 6.8](https://9to5linux.com/linux-kernel-6-7-reaches-end-of-life-users-urged-to-upgrade-to-linux-kernel-6-8)
+- [9to5Linux](https://9to5linux.com/) | [Linux Firmware Update Utility Fwupd Will Use Zstd Compression for Future Releases](https://9to5linux.com/linux-firmware-update-utility-fwupd-will-use-zstd-compression-for-future-releases)
+
 ## 20240401
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.4 Released, the systemd-Free Distro Now Uses KDE Software from Debian](https://9to5linux.com/nitrux-3-4-released-the-systemd-free-distro-now-uses-kde-software-from-debian)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs to Ship Thunderbird as a Native DEB Package in Linux Mint 22](https://9to5linux.com/linux-mint-devs-to-ship-thunderbird-as-a-native-deb-package-in-linux-mint-22)

@@ -1,3 +1,17 @@
+## 20240403
+- [Red Hat Developer](https://developers.redhat.com/) | [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to add debug support for Go stripped binaries](https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries)
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 Boasts Nice ASCII Art For Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
+- [Phoronix](https://www.phoronix.com/) | [Crucial T705 PCIe 5.0 NVMe SSD On Linux](https://www.phoronix.com/review/crucial-t705-linux)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Reaches End of Life, Users Urged to Upgrade to Linux Kernel 6.8](https://9to5linux.com/linux-kernel-6-7-reaches-end-of-life-users-urged-to-upgrade-to-linux-kernel-6-8)
+- [9to5Linux](https://9to5linux.com/) | [Linux Firmware Update Utility Fwupd Will Use Zstd Compression for Future Releases](https://9to5linux.com/linux-firmware-update-utility-fwupd-will-use-zstd-compression-for-future-releases)
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: LWN subscription slots available for Fedora contributors](https://communityblog.fedoraproject.org/lwn-subscription-fedora-contributors/)
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities March 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_March_2024.html)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+- [Planet GNOME](https://planet.gnome.org/) | [fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Brand Graphic Design Contest Deadline Extended!](https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed)
+
 ## 20240402
 - [Red Hat Developer](https://developers.redhat.com/) | [Customize AWS cloud images with RHEL image builder and Packit](https://developers.redhat.com/articles/2024/04/02/customize-aws-cloud-images-rhel-image-builder-and-packit)
 - [Phoronix](https://www.phoronix.com/) | [Mesa 24.1 Merges Vulkan Support For Wayland Explicit Sync](https://www.phoronix.com/news/Mesa-24.1-Vulkan-Wayland-Exp)

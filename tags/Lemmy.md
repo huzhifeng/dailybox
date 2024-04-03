@@ -1,3 +1,6 @@
+## 20240403
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Elementary!](https://lemmy.world/pictrs/image/e960b6f9-fdb9-4d8f-8812-c95d95eedbd5.jpeg)
+
 ## 20240401
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [can&#x27;t wait](https://lemmy.world/pictrs/image/ec0e509a-864e-48be-816f-23762a69eec4.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Simple as](https://lemmy.world/pictrs/image/99e626dd-457a-4c87-b268-1b978b032d5b.png)

@@ -1,3 +1,6 @@
+## 20240403
+- [Planet GNOME](https://planet.gnome.org/) | [fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+
 ## 20240401
 - [Planet GNOME](https://planet.gnome.org/) | [2024-04-01 Monday](https://meeksfamily.uk/~michael/blog/2024-04-01.html)
 

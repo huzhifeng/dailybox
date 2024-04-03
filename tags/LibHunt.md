@@ -1,3 +1,6 @@
+## 20240403
+- [LibHunt](https://www.libhunt.com/) | [valkey](https://www.libhunt.com/r/valkey)
+
 ## 20240402
 - [LibHunt](https://www.libhunt.com/) | [myscaledb](https://www.libhunt.com/r/myscaledb)
 - [LibHunt](https://www.libhunt.com/) | [ragflow](https://www.libhunt.com/r/ragflow)

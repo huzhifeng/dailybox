@@ -1,3 +1,7 @@
+## 20240403
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities March 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_March_2024.html)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+
 ## 20240401
 - [Planet Debian](https://planet.debian.org/) | [Colin Watson: Free software activity in March 2024](https://www.chiark.greenend.org.uk/~cjwatson/blog/activity-2024-03.html)
 - [Planet Debian](https://planet.debian.org/) | [Simon Josefsson: Towards reproducible minimal source code tarballs?  On *-src.tar.gz](https://blog.josefsson.org/2024/04/01/towards-reproducible-minimal-source-code-tarballs-please-welcome-src-tar-gz/)
