@@ -412,6 +412,13 @@
 			"tags": ["Google News", "AI"]
 		},
 		{
+			"channel": "Hacker News Daily",
+			"portal": "https://www.daemonology.net/hn-daily/",
+			"url": "https://www.daemonology.net/hn-daily/index.rss",
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
