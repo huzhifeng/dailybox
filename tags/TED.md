@@ -1,3 +1,6 @@
+## 20240403
+- [TED Talks Daily](https://www.ted.com/talks) | [How to spot a cult | Sarah Edmondson](https://www.ted.com/talks/sarah_edmondson_how_to_spot_a_cult?rss)
+
 ## 20240402
 - [TED Talks Daily](https://www.ted.com/talks) | [Want to succeed in business? Find a problem to solve | Anthony Tan and Amane Dannouni](https://www.ted.com/talks/anthony_tan_and_amane_dannouni_want_to_succeed_in_business_find_a_problem_to_solve?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [What happens to sex in midlife? A look at the "bedroom gap" | Maria Sophocles](https://www.ted.com/talks/maria_sophocles_what_happens_to_sex_in_midlife_a_look_at_the_bedroom_gap?rss)

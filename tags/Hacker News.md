@@ -1,3 +1,6 @@
+## 20240403
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-02](https://www.daemonology.net/hn-daily/2024-04-02.html)
+
 ## 20240402
 - [Hacker News](https://news.ycombinator.com/front) | [Timeline of the xz open source attack](https://news.ycombinator.com/item?id=39902241)
 - [Hacker News](https://news.ycombinator.com/front) | [Low Cost Robot Arm](https://news.ycombinator.com/item?id=39902205)

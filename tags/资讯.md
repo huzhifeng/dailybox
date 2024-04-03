@@ -1,3 +1,6 @@
+## 20240403
+- [diff.blog](https://diff.blog/) | [Improvements to static analysis in the GCC 14 compiler](https://diff.blog/post/improvements-to-static-analysis-in-the-gcc-14-compiler-173396/)
+
 ## 20240402
 - [diff.blog](https://diff.blog/) | [Timeline of the xz open source attack](https://diff.blog/post/timeline-of-the-xz-open-source-attack-173329/)
 

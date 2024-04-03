@@ -1,3 +1,6 @@
+## 20240403
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Brand Graphic Design Contest Deadline Extended!](https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed)
+
 ## 20240402
 - [Planet KDE](https://planet.kde.org/) | [Qt 6.7 Released!](https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [SoK 2024 - Implementing package management features from RKWard into Cantor via a GUI First Blog](https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed)

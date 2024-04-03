@@ -1,3 +1,11 @@
+## 20240403
+- [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: LWN subscription slots available for Fedora contributors](https://communityblog.fedoraproject.org/lwn-subscription-fedora-contributors/)
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities March 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_March_2024.html)
+- [Planet Debian](https://planet.debian.org/) | [Joey Hess: reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+- [Planet GNOME](https://planet.gnome.org/) | [fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
+- [Planet KDE](https://planet.kde.org/) | [Kubuntu Brand Graphic Design Contest Deadline Extended!](https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed)
+
 ## 20240402
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng health check](https://peter.czanik.hu/other/syslog-ng-health-check/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Join us! Restarting Community Ops team meetings in 2024](https://communityblog.fedoraproject.org/restarting-community-ops-2024/)

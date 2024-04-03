@@ -1,3 +1,7 @@
+## 20240403
+- [V2EX](https://www.v2ex.com/) | [朋友结婚没有邀请我，我要主动问吗](https://www.v2ex.com/t/1029442)
+- [V2EX](https://www.v2ex.com/) | [五年后，什么资产最值钱](https://www.v2ex.com/t/1029440)
+
 ## 20240402
 - [V2EX](https://www.v2ex.com/) | [忘记还房贷，逾期一天](https://www.v2ex.com/t/1029111)
 - [V2EX](https://www.v2ex.com/) | [为什么大家这么看重 800V 平台，有多大区别？](https://www.v2ex.com/t/1029056)

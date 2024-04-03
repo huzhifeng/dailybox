@@ -1,3 +1,8 @@
+## 20240403
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [中国IT工程师薪资超过日本；王慧文以顾问身份回归美团；Bun 1.1 发布，支持Windows｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/137335325)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】数据探索---python主要的探索函数](https://blog.csdn.net/qq_38614074/article/details/136947087)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [今天起，Windows可以一键召唤GPT-4了](https://blog.csdn.net/Vicky_Victory/article/details/137211705)
+
 ## 20240402
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里迎来首位 7X24 的 AI 程序员，工号 AI001；曝任正非禁止余承东说遥遥领先 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137268676)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】数据探索---python主要的探索函数](https://blog.csdn.net/qq_38614074/article/details/136947087)

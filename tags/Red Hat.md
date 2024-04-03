@@ -1,3 +1,7 @@
+## 20240403
+- [Red Hat Developer](https://developers.redhat.com/) | [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to add debug support for Go stripped binaries](https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries)
+
 ## 20240402
 - [Red Hat Developer](https://developers.redhat.com/) | [Customize AWS cloud images with RHEL image builder and Packit](https://developers.redhat.com/articles/2024/04/02/customize-aws-cloud-images-rhel-image-builder-and-packit)
 

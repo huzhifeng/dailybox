@@ -1,3 +1,7 @@
+## 20240403
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 Boasts Nice ASCII Art For Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
+- [Phoronix](https://www.phoronix.com/) | [Crucial T705 PCIe 5.0 NVMe SSD On Linux](https://www.phoronix.com/review/crucial-t705-linux)
+
 ## 20240402
 - [Phoronix](https://www.phoronix.com/) | [Mesa 24.1 Merges Vulkan Support For Wayland Explicit Sync](https://www.phoronix.com/news/Mesa-24.1-Vulkan-Wayland-Exp)
 - [Phoronix](https://www.phoronix.com/) | [TUXEDO Pulse 14 Gen 3 Continues Running Well As A Powerful AMD Ryzen 7 Linux Laptop](https://www.phoronix.com/review/tuxedo-pulse14-gen3)
