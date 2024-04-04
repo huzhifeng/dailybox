@@ -1,3 +1,8 @@
+## 20240404
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Introducing Confidential Containers Trustee: Attestation Services Solution Overview and Use Cases](https://www.redhat.com/en/blog/introducing-confidential-containers-trustee-attestation-services-solution-overview-and-use-cases)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Evolving the automation journey with Event-Driven Ansible](https://www.redhat.com/en/blog/evolving-automation-journey-event-driven-ansible)
+- [Red Hat Developer](https://developers.redhat.com/) | [Getting started with MongoDB and Quarkus: Beyond the basics](https://developers.redhat.com/articles/2024/04/04/getting-started-mongodb-and-quarkus-beyond-basics)
+
 ## 20240403
 - [Red Hat Developer](https://developers.redhat.com/) | [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to add debug support for Go stripped binaries](https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries)

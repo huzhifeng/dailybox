@@ -1,3 +1,7 @@
+## 20240404
+- [Lobsters](https://lobste.rs/) | [Pandoc: Convert links to footnotes (the easy way)](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way)
+- [Lobsters](https://lobste.rs/) | [I sold my startup because of bugs: I wish I had this serverless repository](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had)
+
 ## 20240403
 - [Lobsters](https://lobste.rs/) | [autoconf makes me think we stopped evolving too soon](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped)
 - [Lobsters](https://lobste.rs/) | [The 6502 Instruction Set as a Database](https://lobste.rs/s/fagujm/6502_instruction_set_as_database)

@@ -1,3 +1,7 @@
+## 20240404
+- [Kagi Small Web](https://kagi.com/smallweb) | [Fake Lawsuit Threat Exposes Privnote Phishing Sites](https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Press release ✦ Removal of  Vivin’s music from streaming platform](https://vi.vin/updates/music-removal/)
+
 ## 20240403
 - [Kagi Small Web](https://kagi.com/smallweb) | [Building a Hybrid Search Experience](https://brunoscheufler.com/blog/2024-04-03-building-a-hybrid-search-experience)
 - [Kagi Small Web](https://kagi.com/smallweb) | [xorshift for rng](https://pvdz.ee/weblog/456)

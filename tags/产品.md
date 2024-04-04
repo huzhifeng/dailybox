@@ -1,3 +1,7 @@
+## 20240404
+- [Product Hunt](https://www.producthunt.com) | [Sheetgo Forms](https://www.producthunt.com/posts/sheetgo-forms)
+- [Product Hunt](https://www.producthunt.com) | [Metaforms AI](https://www.producthunt.com/posts/metaforms-ai)
+
 ## 20240403
 - [Product Hunt](https://www.producthunt.com) | [In-App Notification Center by SuprSend](https://www.producthunt.com/posts/in-app-notification-center-by-suprsend)
 - [Product Hunt](https://www.producthunt.com) | [Nas.io](https://www.producthunt.com/posts/nas-io-2)

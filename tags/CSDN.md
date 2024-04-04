@@ -1,3 +1,7 @@
+## 20240404
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Rust】——生命周期](https://blog.csdn.net/shsjssnn/article/details/136372569)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入解析实时数仓Doris：Rollup上卷表与查询](https://blog.csdn.net/qq_26664043/article/details/137211284)
+
 ## 20240403
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [中国IT工程师薪资超过日本；王慧文以顾问身份回归美团；Bun 1.1 发布，支持Windows｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/137335325)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】数据探索---python主要的探索函数](https://blog.csdn.net/qq_38614074/article/details/136947087)

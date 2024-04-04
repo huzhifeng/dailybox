@@ -1,3 +1,7 @@
+## 20240404
+- [V2EX](https://www.v2ex.com/) | [我们从零开发了一套支付系统，现已开放测试，请大家帮忙找 bug 提意见](https://www.v2ex.com/t/1029702)
+- [V2EX](https://www.v2ex.com/) | [如果不是迫于生活，你想从事什么工作？](https://www.v2ex.com/t/1029673)
+
 ## 20240403
 - [V2EX](https://www.v2ex.com/) | [朋友结婚没有邀请我，我要主动问吗](https://www.v2ex.com/t/1029442)
 - [V2EX](https://www.v2ex.com/) | [五年后，什么资产最值钱](https://www.v2ex.com/t/1029440)
