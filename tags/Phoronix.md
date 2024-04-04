@@ -1,3 +1,7 @@
+## 20240404
+- [Phoronix](https://www.phoronix.com/) | [Wine Project's April Fools' Gag With Merit: Leveraging AI For Faster Code Review](https://www.phoronix.com/news/Wine-AI-Code-Review)
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max Sees Some Performance Gains For OpenVINO & ONNX With Linux 6.9](https://www.phoronix.com/review/linux-69-intel-xeon-max)
+
 ## 20240403
 - [Phoronix](https://www.phoronix.com/) | [GCC 14 Boasts Nice ASCII Art For Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 - [Phoronix](https://www.phoronix.com/) | [Crucial T705 PCIe 5.0 NVMe SSD On Linux](https://www.phoronix.com/review/crucial-t705-linux)

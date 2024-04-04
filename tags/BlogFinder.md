@@ -1,3 +1,7 @@
+## 20240404
+- [BlogFinder](https://bf.zzxworld.com/) | [噶猫记](https://xingbianren.cn/post/197.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [【观自在·十九】读到好思想，看见坏人间](http://www.qncd.com/?p=9263&utm_source=blogfinder)
+
 ## 20240403
 - [BlogFinder](https://bf.zzxworld.com/) | [献血光荣，无私奉献](https://pampo.cn/index.php/archives/52.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [阴兽](https://kaffa.im/yin-beast.html?utm_source=blogfinder)

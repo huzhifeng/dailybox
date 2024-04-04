@@ -1,3 +1,8 @@
+## 20240404
+- [Planet virt-tools](https://planet.virt-tools.org/) | [DT-free EDK2 on SBSA Reference Platform](https://marcin.juszkiewicz.com.pl/2024/04/04/dt-free-edk2-on-sbsa-reference-platform/)
+- [Planet KDE](https://planet.kde.org/) | [Streamlining Strategies for Embedded Software Development](https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Implementing xdg-dialog-v1 in Qt and KWin](https://blog.david-redondo.de/kde/wayland/qt/2024/04/04/xdg-dialog.html?utm_source=atom_feed)
+
 ## 20240403
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: LWN subscription slots available for Fedora contributors](https://communityblog.fedoraproject.org/lwn-subscription-fedora-contributors/)

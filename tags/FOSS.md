@@ -1,3 +1,6 @@
+## 20240404
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/)
+
 ## 20240402
 - [It's FOSS](https://itsfoss.com/) | [Improve Your Efficiency in Linux Terminal With Aliases](https://itsfoss.com/linux-alias/)
 

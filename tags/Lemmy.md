@@ -1,3 +1,7 @@
+## 20240404
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [bOtH SiDeS!!1!](https://i.imgur.com/4aZCP8S.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [‘School Never Taught Us About Taxes,&#x27; Says Woman Who Wouldn’t Remember It Even If They Had](https://reductress.com/post/school-never-taught-us-about-taxes-says-woman-who-wouldnt-remember-it-even-if-they-had/)
+
 ## 20240403
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Elementary!](https://lemmy.world/pictrs/image/e960b6f9-fdb9-4d8f-8812-c95d95eedbd5.jpeg)
 

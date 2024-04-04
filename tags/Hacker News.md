@@ -1,3 +1,8 @@
+## 20240404
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-03](https://www.daemonology.net/hn-daily/2024-04-03.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Anatomy of a credit card rewards program](https://news.ycombinator.com/item?id=39928604)
+- [Hacker News](https://news.ycombinator.com/front) | [A disk so full, it couldn't be restored](https://news.ycombinator.com/item?id=39925186)
+
 ## 20240403
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-02](https://www.daemonology.net/hn-daily/2024-04-02.html)
 

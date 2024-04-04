@@ -1,3 +1,7 @@
+## 20240404
+- [Planet KDE](https://planet.kde.org/) | [Streamlining Strategies for Embedded Software Development](https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Implementing xdg-dialog-v1 in Qt and KWin](https://blog.david-redondo.de/kde/wayland/qt/2024/04/04/xdg-dialog.html?utm_source=atom_feed)
+
 ## 20240403
 - [Planet KDE](https://planet.kde.org/) | [Kubuntu Brand Graphic Design Contest Deadline Extended!](https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed)
 

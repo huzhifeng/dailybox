@@ -1,3 +1,6 @@
+## 20240404
+- [TED Talks Daily](https://www.ted.com/talks) | [A futuristic vision for Latin America, rooted in ancient design | Catalina Lotero](https://www.ted.com/talks/catalina_lotero_a_futuristic_vision_for_latin_america_rooted_in_ancient_design?rss)
+
 ## 20240403
 - [TED Talks Daily](https://www.ted.com/talks) | [How to spot a cult | Sarah Edmondson](https://www.ted.com/talks/sarah_edmondson_how_to_spot_a_cult?rss)
 
