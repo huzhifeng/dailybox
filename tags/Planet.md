@@ -1,3 +1,11 @@
+## 20240405
+- [Planet Fedora](http://fedoraplanet.org/) | [Andreas Schneider: KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: 2024 Git Forge Evaluation](https://communityblog.fedoraproject.org/2024-git-forge-evaluation/)
+- [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: PGP keys on Yubikey, with a side of Mutt](https://www.linux.it/~ema/posts/pgp-keys-on-yubikey/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 263 released](https://diffoscope.org/news/diffoscope-263-released/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 - CMake Update](https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed)
+
 ## 20240404
 - [Planet virt-tools](https://planet.virt-tools.org/) | [DT-free EDK2 on SBSA Reference Platform](https://marcin.juszkiewicz.com.pl/2024/04/04/dt-free-edk2-on-sbsa-reference-platform/)
 - [Planet KDE](https://planet.kde.org/) | [Streamlining Strategies for Embedded Software Development](https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed)

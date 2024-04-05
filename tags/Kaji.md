@@ -1,3 +1,7 @@
+## 20240405
+- [Kagi Small Web](https://kagi.com/smallweb) | [Monthly Recap: March 2024](https://flamedfury.com/posts/monthly-recap-march-2024/)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Announcing CraftBook 5 Beta Releases](https://madelinemiller.dev/blog/craftbook-5-beta/)
+
 ## 20240404
 - [Kagi Small Web](https://kagi.com/smallweb) | [Fake Lawsuit Threat Exposes Privnote Phishing Sites](https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Press release ✦ Removal of  Vivin’s music from streaming platform](https://vi.vin/updates/music-removal/)

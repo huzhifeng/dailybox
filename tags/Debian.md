@@ -1,3 +1,7 @@
+## 20240405
+- [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: PGP keys on Yubikey, with a side of Mutt](https://www.linux.it/~ema/posts/pgp-keys-on-yubikey/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 263 released](https://diffoscope.org/news/diffoscope-263-released/)
+
 ## 20240403
 - [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities March 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_March_2024.html)
 - [Planet Debian](https://planet.debian.org/) | [Joey Hess: reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)

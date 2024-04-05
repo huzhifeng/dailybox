@@ -1,3 +1,7 @@
+## 20240405
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS Merges Support For Using Multiple Task Queues To Increase Performance](https://www.phoronix.com/news/OpenZFS-Lands-Multi-Taskqs)
+- [Phoronix](https://www.phoronix.com/) | [OpenBLAS 0.3.27 Adds C-SKY Arch, Improved GEMM For AMD Zen & Sapphire Rapids Fixes](https://www.phoronix.com/news/OpenBLAS-0.3.27-Released)
+
 ## 20240404
 - [Phoronix](https://www.phoronix.com/) | [Wine Project's April Fools' Gag With Merit: Leveraging AI For Faster Code Review](https://www.phoronix.com/news/Wine-AI-Code-Review)
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon Max Sees Some Performance Gains For OpenVINO & ONNX With Linux 6.9](https://www.phoronix.com/review/linux-69-intel-xeon-max)

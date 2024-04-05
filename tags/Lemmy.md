@@ -1,3 +1,7 @@
+## 20240405
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Yes, I&#x27;m this old](https://lemmy.world/pictrs/image/2a127c60-7b56-43bf-96db-aee66a7783b6.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [iPod with custom shell, new screen, 512gb SSD, and a 30 day battery](https://lemm.ee/pictrs/image/f7b8dea5-a617-447d-8809-332bccd74cf6.webp)
+
 ## 20240404
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [bOtH SiDeS!!1!](https://i.imgur.com/4aZCP8S.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [‘School Never Taught Us About Taxes,&#x27; Says Woman Who Wouldn’t Remember It Even If They Had](https://reductress.com/post/school-never-taught-us-about-taxes-says-woman-who-wouldnt-remember-it-even-if-they-had/)

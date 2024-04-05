@@ -1,3 +1,7 @@
+## 20240405
+- [Lobsters](https://lobste.rs/) | [An IRC Client in your motherboard](https://lobste.rs/s/agywrp/irc_client_your_motherboard)
+- [Lobsters](https://lobste.rs/) | [OpenBSD 7.5](https://lobste.rs/s/dukzk2/openbsd_7_5)
+
 ## 20240404
 - [Lobsters](https://lobste.rs/) | [Pandoc: Convert links to footnotes (the easy way)](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way)
 - [Lobsters](https://lobste.rs/) | [I sold my startup because of bugs: I wish I had this serverless repository](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had)

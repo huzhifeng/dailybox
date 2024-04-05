@@ -1,3 +1,7 @@
+## 20240405
+- [V2EX](https://www.v2ex.com/) | [我强烈建议所有杭州人 买车前自己租车体验一下每天的通勤路线](https://www.v2ex.com/t/1029845)
+- [V2EX](https://www.v2ex.com/) | [家里电视给小孩当显示器可行吗？](https://www.v2ex.com/t/1029818)
+
 ## 20240404
 - [V2EX](https://www.v2ex.com/) | [我们从零开发了一套支付系统，现已开放测试，请大家帮忙找 bug 提意见](https://www.v2ex.com/t/1029702)
 - [V2EX](https://www.v2ex.com/) | [如果不是迫于生活，你想从事什么工作？](https://www.v2ex.com/t/1029673)

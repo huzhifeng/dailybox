@@ -1,3 +1,6 @@
+## 20240405
+- [TED Talks Daily](https://www.ted.com/talks) | [Music, movement and poetry | Tunde Olaniran](https://www.ted.com/talks/tunde_olaniran_music_movement_and_poetry?rss)
+
 ## 20240404
 - [TED Talks Daily](https://www.ted.com/talks) | [A futuristic vision for Latin America, rooted in ancient design | Catalina Lotero](https://www.ted.com/talks/catalina_lotero_a_futuristic_vision_for_latin_america_rooted_in_ancient_design?rss)
 

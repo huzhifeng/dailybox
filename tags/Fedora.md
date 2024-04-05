@@ -1,3 +1,7 @@
+## 20240405
+- [Planet Fedora](http://fedoraplanet.org/) | [Andreas Schneider: KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: 2024 Git Forge Evaluation](https://communityblog.fedoraproject.org/2024-git-forge-evaluation/)
+
 ## 20240403
 - [Planet Fedora](http://fedoraplanet.org/) | [Richard Hughes: fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: LWN subscription slots available for Fedora contributors](https://communityblog.fedoraproject.org/lwn-subscription-fedora-contributors/)

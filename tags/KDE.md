@@ -1,3 +1,7 @@
+## 20240405
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 - CMake Update](https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed)
+
 ## 20240404
 - [Planet KDE](https://planet.kde.org/) | [Streamlining Strategies for Embedded Software Development](https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Implementing xdg-dialog-v1 in Qt and KWin](https://blog.david-redondo.de/kde/wayland/qt/2024/04/04/xdg-dialog.html?utm_source=atom_feed)
