@@ -1,3 +1,6 @@
+## 20240405
+- [LibHunt](https://www.libhunt.com/) | [Svelte](https://www.libhunt.com/r/svelte)
+
 ## 20240403
 - [LibHunt](https://www.libhunt.com/) | [valkey](https://www.libhunt.com/r/valkey)
 

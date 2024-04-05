@@ -1,3 +1,7 @@
+## 20240405
+- [BlogFinder](https://bf.zzxworld.com/) | [发表于2024年4月5日](https://coimo.cn/?p=167&utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [灯塔计划-「晓看红湿 花重江山」](https://kegongteng.cn/pharos-spring?utm_source=blogfinder)
+
 ## 20240404
 - [BlogFinder](https://bf.zzxworld.com/) | [噶猫记](https://xingbianren.cn/post/197.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [【观自在·十九】读到好思想，看见坏人间](http://www.qncd.com/?p=9263&utm_source=blogfinder)

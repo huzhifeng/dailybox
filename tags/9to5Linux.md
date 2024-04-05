@@ -1,3 +1,7 @@
+## 20240405
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 7.0 &#8220;Dijkstra&#8221; Released with Important AArch64 Optimizations for HEVC](https://9to5linux.com/ffmpeg-7-0-dijkstra-released-with-important-aarch64-optimizations-for-hevc)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.16 Brings Support for Acer T34 and U33 Docks, Qualcomm Series 5 Devices](https://9to5linux.com/fwupd-1-9-16-brings-support-for-acer-t34-and-u33-docks-qualcomm-series-5-devices)
+
 ## 20240403
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.7 Reaches End of Life, Users Urged to Upgrade to Linux Kernel 6.8](https://9to5linux.com/linux-kernel-6-7-reaches-end-of-life-users-urged-to-upgrade-to-linux-kernel-6-8)
 - [9to5Linux](https://9to5linux.com/) | [Linux Firmware Update Utility Fwupd Will Use Zstd Compression for Future Releases](https://9to5linux.com/linux-firmware-update-utility-fwupd-will-use-zstd-compression-for-future-releases)

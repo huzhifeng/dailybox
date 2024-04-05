@@ -1,3 +1,17 @@
+## 20240405
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 5, 2024](https://www.redhat.com/en/blog/friday-five-april-5-2024-red-hat)
+- [Phoronix](https://www.phoronix.com/) | [OpenZFS Merges Support For Using Multiple Task Queues To Increase Performance](https://www.phoronix.com/news/OpenZFS-Lands-Multi-Taskqs)
+- [Phoronix](https://www.phoronix.com/) | [OpenBLAS 0.3.27 Adds C-SKY Arch, Improved GEMM For AMD Zen & Sapphire Rapids Fixes](https://www.phoronix.com/news/OpenBLAS-0.3.27-Released)
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 7.0 &#8220;Dijkstra&#8221; Released with Important AArch64 Optimizations for HEVC](https://9to5linux.com/ffmpeg-7-0-dijkstra-released-with-important-aarch64-optimizations-for-hevc)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.16 Brings Support for Acer T34 and U33 Docks, Qualcomm Series 5 Devices](https://9to5linux.com/fwupd-1-9-16-brings-support-for-acer-t34-and-u33-docks-qualcomm-series-5-devices)
+- [Planet Fedora](http://fedoraplanet.org/) | [Andreas Schneider: KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: 2024 Git Forge Evaluation](https://communityblog.fedoraproject.org/2024-git-forge-evaluation/)
+- [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: PGP keys on Yubikey, with a side of Mutt](https://www.linux.it/~ema/posts/pgp-keys-on-yubikey/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 263 released](https://diffoscope.org/news/diffoscope-263-released/)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 - CMake Update](https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed)
+
 ## 20240404
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Introducing Confidential Containers Trustee: Attestation Services Solution Overview and Use Cases](https://www.redhat.com/en/blog/introducing-confidential-containers-trustee-attestation-services-solution-overview-and-use-cases)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Evolving the automation journey with Event-Driven Ansible](https://www.redhat.com/en/blog/evolving-automation-journey-event-driven-ansible)

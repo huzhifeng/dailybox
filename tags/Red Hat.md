@@ -1,3 +1,7 @@
+## 20240405
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 5, 2024](https://www.redhat.com/en/blog/friday-five-april-5-2024-red-hat)
+
 ## 20240404
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Introducing Confidential Containers Trustee: Attestation Services Solution Overview and Use Cases](https://www.redhat.com/en/blog/introducing-confidential-containers-trustee-attestation-services-solution-overview-and-use-cases)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Evolving the automation journey with Event-Driven Ansible](https://www.redhat.com/en/blog/evolving-automation-journey-event-driven-ansible)

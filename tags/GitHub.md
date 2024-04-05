@@ -1,3 +1,6 @@
+## 20240405
+- [GitHub Advanced Search](https://github.com/search/advanced) | [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+
 ## 20240402
 - [GitHub Advanced Search](https://github.com/search/advanced) | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 
