@@ -1,3 +1,7 @@
+## 20240406
+- [Lobsters](https://lobste.rs/) | [Do you have any programming "white whales"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
+- [Lobsters](https://lobste.rs/) | [A History of Source Control Systems: SCCS and RCS](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs)
+
 ## 20240405
 - [Lobsters](https://lobste.rs/) | [An IRC Client in your motherboard](https://lobste.rs/s/agywrp/irc_client_your_motherboard)
 - [Lobsters](https://lobste.rs/) | [OpenBSD 7.5](https://lobste.rs/s/dukzk2/openbsd_7_5)

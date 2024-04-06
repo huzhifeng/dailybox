@@ -1,3 +1,11 @@
+## 20240406
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Facebook is Censoring Stories about Climate Change and Illegal Raid in Marion, Kansas](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Trying to explain analogue clock.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-Apr-6.html.en#2024-Apr-6-12:37:09)
+- [Planet GNOME](https://planet.gnome.org/) | [Exercises in Reversing](https://jensge.org/2024/04/06/exercises-in-reversing/)
+- [Planet GNOME](https://planet.gnome.org/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
+- [Planet KDE](https://planet.kde.org/) | [February/March in KDE Itinerary](https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed)
+
 ## 20240405
 - [Planet Fedora](http://fedoraplanet.org/) | [Andreas Schneider: KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: 2024 Git Forge Evaluation](https://communityblog.fedoraproject.org/2024-git-forge-evaluation/)

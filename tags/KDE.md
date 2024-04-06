@@ -1,3 +1,7 @@
+## 20240406
+- [Planet KDE](https://planet.kde.org/) | [February/March in KDE Itinerary](https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed)
+
 ## 20240405
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13 - CMake Update](https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed)

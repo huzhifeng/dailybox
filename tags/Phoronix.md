@@ -1,3 +1,7 @@
+## 20240406
+- [Phoronix](https://www.phoronix.com/) | [KDE On The Importance Of Wayland Explicit Sync](https://www.phoronix.com/news/KDE-Wayland-Explicit-Sync-Goal)
+- [Phoronix](https://www.phoronix.com/) | [GNOME Improving Integration With systemd-homed, Mockups For An OS Installer](https://www.phoronix.com/news/GNOME-Better-Homed)
+
 ## 20240405
 - [Phoronix](https://www.phoronix.com/) | [OpenZFS Merges Support For Using Multiple Task Queues To Increase Performance](https://www.phoronix.com/news/OpenZFS-Lands-Multi-Taskqs)
 - [Phoronix](https://www.phoronix.com/) | [OpenBLAS 0.3.27 Adds C-SKY Arch, Improved GEMM For AMD Zen & Sapphire Rapids Fixes](https://www.phoronix.com/news/OpenBLAS-0.3.27-Released)

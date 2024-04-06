@@ -1,3 +1,6 @@
+## 20240406
+- [9to5Linux](https://9to5linux.com/) | [Kodi 21.0 &#8220;Omega&#8221; Open-Source Media Center Is Here with Major Changes](https://9to5linux.com/kodi-21-0-omega-open-source-media-center-is-here-with-major-changes)
+
 ## 20240405
 - [9to5Linux](https://9to5linux.com/) | [FFmpeg 7.0 &#8220;Dijkstra&#8221; Released with Important AArch64 Optimizations for HEVC](https://9to5linux.com/ffmpeg-7-0-dijkstra-released-with-important-aarch64-optimizations-for-hevc)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.16 Brings Support for Acer T34 and U33 Docks, Qualcomm Series 5 Devices](https://9to5linux.com/fwupd-1-9-16-brings-support-for-acer-t34-and-u33-docks-qualcomm-series-5-devices)
