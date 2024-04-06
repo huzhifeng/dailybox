@@ -1,3 +1,6 @@
+## 20240406
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-05](https://www.daemonology.net/hn-daily/2024-04-05.html)
+
 ## 20240405
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-04](https://www.daemonology.net/hn-daily/2024-04-04.html)
 - [Hacker News](https://news.ycombinator.com/front) | [FFmpeg 7.0](https://news.ycombinator.com/item?id=39938703)

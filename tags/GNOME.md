@@ -1,3 +1,7 @@
+## 20240406
+- [Planet GNOME](https://planet.gnome.org/) | [Exercises in Reversing](https://jensge.org/2024/04/06/exercises-in-reversing/)
+- [Planet GNOME](https://planet.gnome.org/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
+
 ## 20240403
 - [Planet GNOME](https://planet.gnome.org/) | [fwupd and xz metadata](https://blogs.gnome.org/hughsie/2024/04/03/fwupd-and-xz-metadata/)
 

@@ -1,3 +1,7 @@
+## 20240406
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hate it when that happens](https://sh.itjust.works/pictrs/image/86c4af08-0dbe-4e28-8716-d48b4e20ae2b.jpeg)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Has this ever happened to you?](https://lemmy.world/pictrs/image/9d6d30c0-bbba-4a62-ac93-e2caa334c869.png)
+
 ## 20240405
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Yes, I&#x27;m this old](https://lemmy.world/pictrs/image/2a127c60-7b56-43bf-96db-aee66a7783b6.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [iPod with custom shell, new screen, 512gb SSD, and a 30 day battery](https://lemm.ee/pictrs/image/f7b8dea5-a617-447d-8809-332bccd74cf6.webp)

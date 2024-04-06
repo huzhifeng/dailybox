@@ -1,3 +1,7 @@
+## 20240406
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Facebook is Censoring Stories about Climate Change and Illegal Raid in Marion, Kansas](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Trying to explain analogue clock.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-Apr-6.html.en#2024-Apr-6-12:37:09)
+
 ## 20240405
 - [Planet Debian](https://planet.debian.org/) | [Emanuele Rocca: PGP keys on Yubikey, with a side of Mutt](https://www.linux.it/~ema/posts/pgp-keys-on-yubikey/)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 263 released](https://diffoscope.org/news/diffoscope-263-released/)

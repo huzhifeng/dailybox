@@ -1,3 +1,7 @@
+## 20240406
+- [V2EX](https://www.v2ex.com/) | [住宿舍的大学生是否需要一台 nas ？](https://www.v2ex.com/t/1030069)
+- [V2EX](https://www.v2ex.com/) | [小米汽车体验有感](https://www.v2ex.com/t/1030012)
+
 ## 20240405
 - [V2EX](https://www.v2ex.com/) | [我强烈建议所有杭州人 买车前自己租车体验一下每天的通勤路线](https://www.v2ex.com/t/1029845)
 - [V2EX](https://www.v2ex.com/) | [家里电视给小孩当显示器可行吗？](https://www.v2ex.com/t/1029818)

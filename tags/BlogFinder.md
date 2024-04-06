@@ -1,3 +1,7 @@
+## 20240406
+- [BlogFinder](https://bf.zzxworld.com/) | [Specialized（闪电）与TREK（崔克）公路自行车价格对比](http://rushihu.com/archives/2422?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [Specialized（闪电）公路自行车价格](http://rushihu.com/archives/2420?utm_source=blogfinder)
+
 ## 20240405
 - [BlogFinder](https://bf.zzxworld.com/) | [发表于2024年4月5日](https://coimo.cn/?p=167&utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [灯塔计划-「晓看红湿 花重江山」](https://kegongteng.cn/pharos-spring?utm_source=blogfinder)

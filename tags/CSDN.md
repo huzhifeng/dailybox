@@ -1,3 +1,7 @@
+## 20240406
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探索MySQL：成本模型解析与查询性能优化，及未来深度学习与AI模型的应用展望](https://blog.csdn.net/qq_26664043/article/details/137401560)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [信息传播的AI时代：机器学习赋能新闻出版业的数字化之旅](https://blog.csdn.net/g310773517/article/details/137268662)
+
 ## 20240405
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [信息传播的AI时代：机器学习赋能新闻出版业的数字化之旅](https://blog.csdn.net/g310773517/article/details/137268662)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探索MySQL：成本模型解析与查询性能优化，及未来深度学习与AI模型的应用展望](https://blog.csdn.net/qq_26664043/article/details/137401560)

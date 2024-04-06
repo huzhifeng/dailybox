@@ -1,3 +1,6 @@
+## 20240406
+- [It's FOSS](https://itsfoss.com/) | [Set Static IP Address on Raspberry Pi](https://itsfoss.com/raspberry-pi-static-ip/)
+
 ## 20240404
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/)
 

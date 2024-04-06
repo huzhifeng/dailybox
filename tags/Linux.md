@@ -1,3 +1,14 @@
+## 20240406
+- [Phoronix](https://www.phoronix.com/) | [KDE On The Importance Of Wayland Explicit Sync](https://www.phoronix.com/news/KDE-Wayland-Explicit-Sync-Goal)
+- [Phoronix](https://www.phoronix.com/) | [GNOME Improving Integration With systemd-homed, Mockups For An OS Installer](https://www.phoronix.com/news/GNOME-Better-Homed)
+- [9to5Linux](https://9to5linux.com/) | [Kodi 21.0 &#8220;Omega&#8221; Open-Source Media Center Is Here with Major Changes](https://9to5linux.com/kodi-21-0-omega-open-source-media-center-is-here-with-major-changes)
+- [Planet Debian](https://planet.debian.org/) | [John Goerzen: Facebook is Censoring Stories about Climate Change and Illegal Raid in Marion, Kansas](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Trying to explain analogue clock.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-Apr-6.html.en#2024-Apr-6-12:37:09)
+- [Planet GNOME](https://planet.gnome.org/) | [Exercises in Reversing](https://jensge.org/2024/04/06/exercises-in-reversing/)
+- [Planet GNOME](https://planet.gnome.org/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
+- [Planet KDE](https://planet.kde.org/) | [February/March in KDE Itinerary](https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed)
+
 ## 20240405
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 5, 2024](https://www.redhat.com/en/blog/friday-five-april-5-2024-red-hat)
