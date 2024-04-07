@@ -419,6 +419,13 @@
 			"tags": ["Hacker News"]
 		},
 		{
+			"channel": "Hacker News Daily",
+			"portal": "https://github.com/headllines/hackernews-daily",
+			"url": "https://rsshub.app/github/issue/headllines/hackernews-daily",
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
