@@ -1,3 +1,7 @@
+## 20240407
+- [BlogFinder](https://bf.zzxworld.com/) | [随想 2024-04](https://write.laily.net/post/%E9%9A%8F%E6%83%B3-2024-04/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [长安公园植物园碎片兼求助](https://dongjunke.cn/posts/2024/04/07/27334.html?utm_source=blogfinder)
+
 ## 20240406
 - [BlogFinder](https://bf.zzxworld.com/) | [Specialized（闪电）与TREK（崔克）公路自行车价格对比](http://rushihu.com/archives/2422?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [Specialized（闪电）公路自行车价格](http://rushihu.com/archives/2420?utm_source=blogfinder)

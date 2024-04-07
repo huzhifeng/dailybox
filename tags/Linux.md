@@ -1,3 +1,8 @@
+## 20240407
+- [Phoronix](https://www.phoronix.com/) | [x86-64-v5? Questions Arise Over The Future Of x86-64 Micro-Architecture Feature Levels](https://www.phoronix.com/news/x86-64-v5-Questioned)
+- [Phoronix](https://www.phoronix.com/) | [Framework Hiring For Open-Source Firmware Development](https://www.phoronix.com/news/Framework-OSS-Firmware-Hiring)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in March 2024](http://blog.alteholz.eu/2024/04/my-debian-activities-in-march-2024/)
+
 ## 20240406
 - [Phoronix](https://www.phoronix.com/) | [KDE On The Importance Of Wayland Explicit Sync](https://www.phoronix.com/news/KDE-Wayland-Explicit-Sync-Goal)
 - [Phoronix](https://www.phoronix.com/) | [GNOME Improving Integration With systemd-homed, Mockups For An OS Installer](https://www.phoronix.com/news/GNOME-Better-Homed)

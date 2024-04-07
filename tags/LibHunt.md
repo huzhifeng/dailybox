@@ -1,3 +1,6 @@
+## 20240407
+- [LibHunt](https://www.libhunt.com/) | [printf-tac-toe](https://www.libhunt.com/r/printf-tac-toe)
+
 ## 20240405
 - [LibHunt](https://www.libhunt.com/) | [Svelte](https://www.libhunt.com/r/svelte)
 
