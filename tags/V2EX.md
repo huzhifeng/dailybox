@@ -1,3 +1,7 @@
+## 20240407
+- [V2EX](https://www.v2ex.com/) | [都说现在高考报志愿选计算机是 49 年加入国军，那么选什么专业是现在高三学生的正确选择呢？](https://www.v2ex.com/t/1030260)
+- [V2EX](https://www.v2ex.com/) | [不想上班了，想回老家啃老](https://www.v2ex.com/t/1030200)
+
 ## 20240406
 - [V2EX](https://www.v2ex.com/) | [住宿舍的大学生是否需要一台 nas ？](https://www.v2ex.com/t/1030069)
 - [V2EX](https://www.v2ex.com/) | [小米汽车体验有感](https://www.v2ex.com/t/1030012)

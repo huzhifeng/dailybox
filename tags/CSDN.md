@@ -1,3 +1,8 @@
+## 20240407
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军回应小米为什么造车快；蔡崇信反思阿里过往；苹果公司裁员超600人 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137461220)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探索MySQL：成本模型解析与查询性能优化，及未来深度学习与AI模型的应用展望](https://blog.csdn.net/qq_26664043/article/details/137401560)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】K-means聚类算法：原理、应用与优化](https://blog.csdn.net/qq_38614074/article/details/137456095)
+
 ## 20240406
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探索MySQL：成本模型解析与查询性能优化，及未来深度学习与AI模型的应用展望](https://blog.csdn.net/qq_26664043/article/details/137401560)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [信息传播的AI时代：机器学习赋能新闻出版业的数字化之旅](https://blog.csdn.net/g310773517/article/details/137268662)

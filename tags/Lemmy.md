@@ -1,3 +1,7 @@
+## 20240407
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Sad, but it&#x27;s true](https://sh.itjust.works/pictrs/image/46cc7bdb-30e8-4ee2-8faa-214912dde845.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It’s too thrilling](https://lemmy.world/pictrs/image/a1cc06be-d7e9-463b-b3e8-04e8dae480df.jpeg)
+
 ## 20240406
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Hate it when that happens](https://sh.itjust.works/pictrs/image/86c4af08-0dbe-4e28-8716-d48b4e20ae2b.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Has this ever happened to you?](https://lemmy.world/pictrs/image/9d6d30c0-bbba-4a62-ac93-e2caa334c869.png)

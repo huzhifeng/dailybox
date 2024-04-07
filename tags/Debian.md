@@ -1,3 +1,6 @@
+## 20240407
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in March 2024](http://blog.alteholz.eu/2024/04/my-debian-activities-in-march-2024/)
+
 ## 20240406
 - [Planet Debian](https://planet.debian.org/) | [John Goerzen: Facebook is Censoring Stories about Climate Change and Illegal Raid in Marion, Kansas](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Trying to explain analogue clock.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-Apr-6.html.en#2024-Apr-6-12:37:09)
