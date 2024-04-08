@@ -1,3 +1,6 @@
+## 20240408
+- [TED Talks Daily](https://www.ted.com/talks) | [Can AI catch criminals at sea? | Dyhia Belhabib](https://www.ted.com/talks/dyhia_belhabib_can_ai_catch_criminals_at_sea?rss)
+
 ## 20240405
 - [TED Talks Daily](https://www.ted.com/talks) | [Music, movement and poetry | Tunde Olaniran](https://www.ted.com/talks/tunde_olaniran_music_movement_and_poetry?rss)
 

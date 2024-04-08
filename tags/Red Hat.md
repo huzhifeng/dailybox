@@ -1,3 +1,7 @@
+## 20240408
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [4 ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [Detect network issues in Open vSwitch using Red Hat Insights](https://developers.redhat.com/articles/2024/04/08/detect-network-issues-open-vswitch-using-red-hat-insights)
+
 ## 20240405
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 5, 2024](https://www.redhat.com/en/blog/friday-five-april-5-2024-red-hat)

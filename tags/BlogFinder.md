@@ -1,3 +1,7 @@
+## 20240408
+- [BlogFinder](https://bf.zzxworld.com/) | [《崩坏：星穹铁道》历代版本信息「2.0-2.1」](https://blog.starsharbor.com/honkai-starrail-2/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [钟先生](https://lanxing.net/archives/53/?utm_source=blogfinder)
+
 ## 20240407
 - [BlogFinder](https://bf.zzxworld.com/) | [随想 2024-04](https://write.laily.net/post/%E9%9A%8F%E6%83%B3-2024-04/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [长安公园植物园碎片兼求助](https://dongjunke.cn/posts/2024/04/07/27334.html?utm_source=blogfinder)

@@ -1,3 +1,7 @@
+## 20240408
+- [V2EX](https://www.v2ex.com/) | [想开发运营一个 真实的、靠谱的相亲小程序，大家觉得有人用吗？](https://www.v2ex.com/t/1030625)
+- [V2EX](https://www.v2ex.com/) | [腾讯云大量服务报错 控制台登入后无数据](https://www.v2ex.com/t/1030613)
+
 ## 20240407
 - [V2EX](https://www.v2ex.com/) | [都说现在高考报志愿选计算机是 49 年加入国军，那么选什么专业是现在高三学生的正确选择呢？](https://www.v2ex.com/t/1030260)
 - [V2EX](https://www.v2ex.com/) | [不想上班了，想回老家啃老](https://www.v2ex.com/t/1030200)

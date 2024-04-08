@@ -1,3 +1,11 @@
+## 20240408
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [4 ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [Detect network issues in Open vSwitch using Red Hat Insights](https://developers.redhat.com/articles/2024/04/08/detect-network-issues-open-vswitch-using-red-hat-insights)
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland](https://www.phoronix.com/review/kde-plasma-6-amd-gaming)
+- [Phoronix](https://www.phoronix.com/) | [KDAB Working On Embedding Servo Web Engine Within Qt](https://www.phoronix.com/news/KDAB-Embed-Servo-Qt)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: April 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-7th-2024)
+- [OMG! Linux](https://www.omglinux.com/) | [Fragments Torrent App Update Adds Much-Requested Feature](https://www.omglinux.com/fragments-torrent-app-update-adds-much-requested-feature/)
+
 ## 20240407
 - [Phoronix](https://www.phoronix.com/) | [x86-64-v5? Questions Arise Over The Future Of x86-64 Micro-Architecture Feature Levels](https://www.phoronix.com/news/x86-64-v5-Questioned)
 - [Phoronix](https://www.phoronix.com/) | [Framework Hiring For Open-Source Firmware Development](https://www.phoronix.com/news/Framework-OSS-Firmware-Hiring)

@@ -1,3 +1,6 @@
+## 20240408
+- [It's FOSS](https://itsfoss.com/) | [Install ADB and Fastboot on Ubuntu and other Linux](https://itsfoss.com/install-adb-fastboot-linux/)
+
 ## 20240406
 - [It's FOSS](https://itsfoss.com/) | [Set Static IP Address on Raspberry Pi](https://itsfoss.com/raspberry-pi-static-ip/)
 
