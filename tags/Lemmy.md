@@ -1,3 +1,7 @@
+## 20240408
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [That remains to be seen](https://sopuli.xyz/pictrs/image/cebc533b-0dc1-43d4-836e-47a9df1a694c.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [My wife was unimpressed by Vim](https://programming.dev/pictrs/image/40a23fea-e1a4-41a2-8718-0c6a5513ef55.png)
+
 ## 20240407
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Sad, but it&#x27;s true](https://sh.itjust.works/pictrs/image/46cc7bdb-30e8-4ee2-8faa-214912dde845.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [It’s too thrilling](https://lemmy.world/pictrs/image/a1cc06be-d7e9-463b-b3e8-04e8dae480df.jpeg)

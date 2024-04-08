@@ -1,3 +1,7 @@
+## 20240408
+- [Lobsters](https://lobste.rs/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46)
+- [Lobsters](https://lobste.rs/) | [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m)
+
 ## 20240407
 - [Lobsters](https://lobste.rs/) | [Glory is only 11MB/sec away](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away)
 - [Lobsters](https://lobste.rs/) | [OpenTofu may be showing us the wrong way to fork](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork)

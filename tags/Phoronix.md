@@ -1,3 +1,7 @@
+## 20240408
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland](https://www.phoronix.com/review/kde-plasma-6-amd-gaming)
+- [Phoronix](https://www.phoronix.com/) | [KDAB Working On Embedding Servo Web Engine Within Qt](https://www.phoronix.com/news/KDAB-Embed-Servo-Qt)
+
 ## 20240407
 - [Phoronix](https://www.phoronix.com/) | [x86-64-v5? Questions Arise Over The Future Of x86-64 Micro-Architecture Feature Levels](https://www.phoronix.com/news/x86-64-v5-Questioned)
 - [Phoronix](https://www.phoronix.com/) | [Framework Hiring For Open-Source Firmware Development](https://www.phoronix.com/news/Framework-OSS-Firmware-Hiring)

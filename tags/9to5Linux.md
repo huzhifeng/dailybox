@@ -1,3 +1,6 @@
+## 20240408
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: April 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-7th-2024)
+
 ## 20240406
 - [9to5Linux](https://9to5linux.com/) | [Kodi 21.0 &#8220;Omega&#8221; Open-Source Media Center Is Here with Major Changes](https://9to5linux.com/kodi-21-0-omega-open-source-media-center-is-here-with-major-changes)
 

@@ -1,3 +1,8 @@
+## 20240408
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [谷歌考虑对AI搜索收费；扎克伯格超越马斯克成全球第三大富豪；通义千问开源 320 亿参数模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137501408)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】K-means聚类算法：原理、应用与优化](https://blog.csdn.net/qq_38614074/article/details/137456095)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [设计模式深度解析：AI大模型下的策略模式与模板方法模式对比解析](https://blog.csdn.net/danci_/article/details/137477329)
+
 ## 20240407
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军回应小米为什么造车快；蔡崇信反思阿里过往；苹果公司裁员超600人 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137461220)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [深入探索MySQL：成本模型解析与查询性能优化，及未来深度学习与AI模型的应用展望](https://blog.csdn.net/qq_26664043/article/details/137401560)
