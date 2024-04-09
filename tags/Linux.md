@@ -1,3 +1,11 @@
+## 20240409
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Builds for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/builds-red-hat-openshift-now-generally-available)
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces Gaudi 3 AI Accelerator, Intel Xeon 6 Brand](https://www.phoronix.com/review/intel-gaudi-3-xeon-6)
+- [Phoronix](https://www.phoronix.com/) | [Google Announces Axion ARM-Based CPUs For The Cloud](https://www.phoronix.com/news/Google-Cloud-Axion-CPUs)
+- [9to5Linux](https://9to5linux.com/) | [Explicit GPU Synchronization for Xwayland Is Now Finally Merged into XOrg Server](https://9to5linux.com/explicit-gpu-synchronization-for-xwayland-is-now-finally-merged-into-xorg-server)
+- [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.3 Released with Support for QLog for Tracing QUIC Connections](https://9to5linux.com/openssl-3-3-released-with-support-for-qlog-for-tracing-quic-connections)
+- [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+
 ## 20240408
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [4 ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
 - [Red Hat Developer](https://developers.redhat.com/) | [Detect network issues in Open vSwitch using Red Hat Insights](https://developers.redhat.com/articles/2024/04/08/detect-network-issues-open-vswitch-using-red-hat-insights)

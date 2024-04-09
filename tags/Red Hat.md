@@ -1,3 +1,6 @@
+## 20240409
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Builds for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/builds-red-hat-openshift-now-generally-available)
+
 ## 20240408
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [4 ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
 - [Red Hat Developer](https://developers.redhat.com/) | [Detect network issues in Open vSwitch using Red Hat Insights](https://developers.redhat.com/articles/2024/04/08/detect-network-issues-open-vswitch-using-red-hat-insights)

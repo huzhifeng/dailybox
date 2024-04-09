@@ -1,3 +1,7 @@
+## 20240409
+- [9to5Linux](https://9to5linux.com/) | [Explicit GPU Synchronization for Xwayland Is Now Finally Merged into XOrg Server](https://9to5linux.com/explicit-gpu-synchronization-for-xwayland-is-now-finally-merged-into-xorg-server)
+- [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.3 Released with Support for QLog for Tracing QUIC Connections](https://9to5linux.com/openssl-3-3-released-with-support-for-qlog-for-tracing-quic-connections)
+
 ## 20240408
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: April 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-7th-2024)
 

@@ -1,3 +1,7 @@
+## 20240409
+- [Lobsters](https://lobste.rs/) | [The server chose violence](https://lobste.rs/s/2q0ole/server_chose_violence)
+- [Lobsters](https://lobste.rs/) | [Don't require people to change 'source code' to configure your programs](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code)
+
 ## 20240408
 - [Lobsters](https://lobste.rs/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46)
 - [Lobsters](https://lobste.rs/) | [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m)

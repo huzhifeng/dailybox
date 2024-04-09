@@ -1,3 +1,8 @@
+## 20240409
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [智己汽车向小米汽车致歉；马斯克预测：AI 有望在明年超越最聪明的人类；HTTP/2 协议被曝安全漏洞 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137543273)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Dify开源大语言模型(LLM) 应用开发平台如何使用Docker部署与远程访问](https://blog.csdn.net/a1657054242/article/details/137525676)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】K-means聚类算法：原理、应用与优化](https://blog.csdn.net/qq_38614074/article/details/137456095)
+
 ## 20240408
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [谷歌考虑对AI搜索收费；扎克伯格超越马斯克成全球第三大富豪；通义千问开源 320 亿参数模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137501408)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】K-means聚类算法：原理、应用与优化](https://blog.csdn.net/qq_38614074/article/details/137456095)

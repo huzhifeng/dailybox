@@ -1,3 +1,6 @@
+## 20240409
+- [LibHunt](https://www.libhunt.com/) | [auto-code-rover](https://www.libhunt.com/r/auto-code-rover)
+
 ## 20240407
 - [LibHunt](https://www.libhunt.com/) | [printf-tac-toe](https://www.libhunt.com/r/printf-tac-toe)
 

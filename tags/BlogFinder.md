@@ -1,3 +1,7 @@
+## 20240409
+- [BlogFinder](https://bf.zzxworld.com/) | [博客增加了可以在后台自定义添加CSS样式的功能，这样一些小的自定义样式就可以不用编译实现，增加了拓展...](https://www.wikimoe.com/post/h99acgxu?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：这个payload再看一眼就要爆炸！（分析某webshell）](https://sophiatazar.com/archives/869.html?utm_source=blogfinder)
+
 ## 20240408
 - [BlogFinder](https://bf.zzxworld.com/) | [《崩坏：星穹铁道》历代版本信息「2.0-2.1」](https://blog.starsharbor.com/honkai-starrail-2/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [钟先生](https://lanxing.net/archives/53/?utm_source=blogfinder)

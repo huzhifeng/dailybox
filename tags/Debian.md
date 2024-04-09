@@ -1,3 +1,6 @@
+## 20240409
+- [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+
 ## 20240407
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in March 2024](http://blog.alteholz.eu/2024/04/my-debian-activities-in-march-2024/)
 
