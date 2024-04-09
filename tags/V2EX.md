@@ -1,3 +1,7 @@
+## 20240409
+- [V2EX](https://www.v2ex.com/) | [发一个拼 CPU 性能的红包](https://www.v2ex.com/t/1030992)
+- [V2EX](https://www.v2ex.com/) | [[iOS] 嗯背单词更新了 1.4 版本，优化了 UI/UX，新增英英模式，评论抽取 50 个年度加永久会员](https://www.v2ex.com/t/1030937)
+
 ## 20240408
 - [V2EX](https://www.v2ex.com/) | [想开发运营一个 真实的、靠谱的相亲小程序，大家觉得有人用吗？](https://www.v2ex.com/t/1030625)
 - [V2EX](https://www.v2ex.com/) | [腾讯云大量服务报错 控制台登入后无数据](https://www.v2ex.com/t/1030613)

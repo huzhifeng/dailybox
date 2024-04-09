@@ -1,3 +1,7 @@
+## 20240409
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces Gaudi 3 AI Accelerator, Intel Xeon 6 Brand](https://www.phoronix.com/review/intel-gaudi-3-xeon-6)
+- [Phoronix](https://www.phoronix.com/) | [Google Announces Axion ARM-Based CPUs For The Cloud](https://www.phoronix.com/news/Google-Cloud-Axion-CPUs)
+
 ## 20240408
 - [Phoronix](https://www.phoronix.com/) | [AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland](https://www.phoronix.com/review/kde-plasma-6-amd-gaming)
 - [Phoronix](https://www.phoronix.com/) | [KDAB Working On Embedding Servo Web Engine Within Qt](https://www.phoronix.com/news/KDAB-Embed-Servo-Qt)

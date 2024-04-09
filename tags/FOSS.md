@@ -1,3 +1,6 @@
+## 20240409
+- [It's FOSS](https://itsfoss.com/) | [Systemctl Command Examples](https://itsfoss.com/systemctl-command/)
+
 ## 20240408
 - [It's FOSS](https://itsfoss.com/) | [Install ADB and Fastboot on Ubuntu and other Linux](https://itsfoss.com/install-adb-fastboot-linux/)
 

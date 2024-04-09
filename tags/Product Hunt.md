@@ -1,3 +1,7 @@
+## 20240409
+- [Product Hunt](https://www.producthunt.com) | [OpenUI](https://www.producthunt.com/posts/openui)
+- [Product Hunt](https://www.producthunt.com) | [Atomize](https://www.producthunt.com/posts/atomize-2)
+
 ## 20240406
 - [Product Hunt](https://www.producthunt.com) | [Curations](https://www.producthunt.com/posts/curations-2)
 - [Product Hunt](https://www.producthunt.com) | [React Careers - Reverse job board](https://www.producthunt.com/posts/react-careers-reverse-job-board)

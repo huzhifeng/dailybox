@@ -1,3 +1,7 @@
+## 20240409
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [consider the implications for a post scarcity future](https://slrpnk.net/pictrs/image/d3653eb5-2beb-43c9-a966-7b07030ed534.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Christian Values Rule!](https://slrpnk.net/pictrs/image/789efd52-ea2f-4e75-bda4-db846c9342bd.webp)
+
 ## 20240408
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [That remains to be seen](https://sopuli.xyz/pictrs/image/cebc533b-0dc1-43d4-836e-47a9df1a694c.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [My wife was unimpressed by Vim](https://programming.dev/pictrs/image/40a23fea-e1a4-41a2-8718-0c6a5513ef55.png)
