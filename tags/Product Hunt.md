@@ -1,3 +1,7 @@
+## 20240410
+- [Product Hunt](https://www.producthunt.com) | [Glazed](https://www.producthunt.com/posts/glazed)
+- [Product Hunt](https://www.producthunt.com) | [Persana AI for Prospecting](https://www.producthunt.com/posts/persana-ai-for-prospecting)
+
 ## 20240409
 - [Product Hunt](https://www.producthunt.com) | [OpenUI](https://www.producthunt.com/posts/openui)
 - [Product Hunt](https://www.producthunt.com) | [Atomize](https://www.producthunt.com/posts/atomize-2)

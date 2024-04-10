@@ -1,3 +1,12 @@
+## 20240410
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Up close and personal with STMicroelectronics' STM32MP2 at Embedded World](https://www.collabora.com/news-and-blog/news-and-events/up-close-and-personal-with-stmicroelectronics-stm32mp2-at-embedded-world.html)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding the Red Hat security impact scale](https://www.redhat.com/en/blog/understanding-red-hat-security-impact-scale)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.8.5 & Other Stable Kernel Updates Due To Native BHI Vulnerability](https://www.phoronix.com/news/Linux-685-Mitigates-Native-BHI)
+- [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Now An SPI Project](https://www.phoronix.com/news/Gentoo-Linux-SPI-Project)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration)
+- [Planet Gentoo](https://planet.gentoo.org/) | [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Refreshed Search](https://blogs.gnome.org/chergert/2024/04/10/refreshed-search/)
+
 ## 20240409
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Builds for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/builds-red-hat-openshift-now-generally-available)
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces Gaudi 3 AI Accelerator, Intel Xeon 6 Brand](https://www.phoronix.com/review/intel-gaudi-3-xeon-6)

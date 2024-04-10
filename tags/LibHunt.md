@@ -1,3 +1,7 @@
+## 20240410
+- [LibHunt](https://www.libhunt.com/) | [neco](https://www.libhunt.com/r/neco)
+- [LibHunt](https://www.libhunt.com/) | [KeyPress-OSD](https://www.libhunt.com/r/KeyPress-OSD)
+
 ## 20240409
 - [LibHunt](https://www.libhunt.com/) | [auto-code-rover](https://www.libhunt.com/r/auto-code-rover)
 

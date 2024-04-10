@@ -1,3 +1,6 @@
+## 20240410
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration)
+
 ## 20240329
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: AI and automotive: navigating the roads of tomorrow](https://ubuntu.com//blog/ai-and-automotive-navigating-the-roads-of-tomorrow)
 

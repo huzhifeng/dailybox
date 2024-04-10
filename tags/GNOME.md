@@ -1,3 +1,6 @@
+## 20240410
+- [Planet GNOME](https://planet.gnome.org/) | [Refreshed Search](https://blogs.gnome.org/chergert/2024/04/10/refreshed-search/)
+
 ## 20240406
 - [Planet GNOME](https://planet.gnome.org/) | [Exercises in Reversing](https://jensge.org/2024/04/06/exercises-in-reversing/)
 - [Planet GNOME](https://planet.gnome.org/) | [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)

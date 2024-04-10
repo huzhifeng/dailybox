@@ -1,3 +1,7 @@
+## 20240410
+- [Lobsters](https://lobste.rs/) | [Shell History Is Your Best Productivity Tool](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity)
+- [Lobsters](https://lobste.rs/) | [Client libraries are better when they have no API](https://lobste.rs/s/denejr/client_libraries_are_better_when_they)
+
 ## 20240409
 - [Lobsters](https://lobste.rs/) | [The server chose violence](https://lobste.rs/s/2q0ole/server_chose_violence)
 - [Lobsters](https://lobste.rs/) | [Don't require people to change 'source code' to configure your programs](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code)
