@@ -1,3 +1,8 @@
+## 20240410
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [网易暴雪官宣合作；马云内部发帖肯定阿里一年改革；Android Studio整合Gemini 1.0 Pro | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137584706)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [Elasticsearch索引之嵌套类型：深度剖析与实战应用](https://blog.csdn.net/qq_26664043/article/details/137438939)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [AI智慧医疗：探索机器学习在医疗保健中的应用与进展](https://blog.csdn.net/g310773517/article/details/137508324)
+
 ## 20240409
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [智己汽车向小米汽车致歉；马斯克预测：AI 有望在明年超越最聪明的人类；HTTP/2 协议被曝安全漏洞 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137543273)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [Dify开源大语言模型(LLM) 应用开发平台如何使用Docker部署与远程访问](https://blog.csdn.net/a1657054242/article/details/137525676)

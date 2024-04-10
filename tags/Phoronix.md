@@ -1,3 +1,7 @@
+## 20240410
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.8.5 & Other Stable Kernel Updates Due To Native BHI Vulnerability](https://www.phoronix.com/news/Linux-685-Mitigates-Native-BHI)
+- [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Now An SPI Project](https://www.phoronix.com/news/Gentoo-Linux-SPI-Project)
+
 ## 20240409
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces Gaudi 3 AI Accelerator, Intel Xeon 6 Brand](https://www.phoronix.com/review/intel-gaudi-3-xeon-6)
 - [Phoronix](https://www.phoronix.com/) | [Google Announces Axion ARM-Based CPUs For The Cloud](https://www.phoronix.com/news/Google-Cloud-Axion-CPUs)

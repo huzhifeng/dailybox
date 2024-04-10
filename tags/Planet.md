@@ -1,3 +1,8 @@
+## 20240410
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration)
+- [Planet Gentoo](https://planet.gentoo.org/) | [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Refreshed Search](https://blogs.gnome.org/chergert/2024/04/10/refreshed-search/)
+
 ## 20240409
 - [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 

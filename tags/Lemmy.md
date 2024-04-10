@@ -1,3 +1,7 @@
+## 20240410
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [seize the means of production](https://slrpnk.net/pictrs/image/4f7e2a4c-ea99-4142-8edc-4a31807d2a22.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Anon learns about nuts](https://sh.itjust.works/pictrs/image/ef8281bf-0e82-436f-9c28-5fb9a732400c.png)
+
 ## 20240409
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [consider the implications for a post scarcity future](https://slrpnk.net/pictrs/image/d3653eb5-2beb-43c9-a966-7b07030ed534.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Christian Values Rule!](https://slrpnk.net/pictrs/image/789efd52-ea2f-4e75-bda4-db846c9342bd.webp)

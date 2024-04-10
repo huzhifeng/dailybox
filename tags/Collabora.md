@@ -1,3 +1,6 @@
+## 20240410
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Up close and personal with STMicroelectronics' STM32MP2 at Embedded World](https://www.collabora.com/news-and-blog/news-and-events/up-close-and-personal-with-stmicroelectronics-stm32mp2-at-embedded-world.html)
+
 ## 20231013
 - [Collabora](https://www.collabora.com/news-and-blog/) | [X.Org Developer's Conference 2023](https://www.collabora.com/news-and-blog/news-and-events/xorg-developers-conference-2023.html)
 

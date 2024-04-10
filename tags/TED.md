@@ -1,3 +1,6 @@
+## 20240410
+- [TED Talks Daily](https://www.ted.com/talks) | [Can cannabis help you sleep? Here's the science | Jen Walsh](https://www.ted.com/talks/jen_walsh_can_cannabis_help_you_sleep_here_s_the_science?rss)
+
 ## 20240409
 - [TED Talks Daily](https://www.ted.com/talks) | [A new national park to reclaim Indigenous land | Tracie Revis](https://www.ted.com/talks/tracie_revis_a_new_national_park_to_reclaim_indigenous_land?rss)
 - [TED Talks Daily](https://www.ted.com/talks) | [Ideas change everything — and what’s next for TED | Chris Anderson and Monique Ruff-Bell](https://www.ted.com/talks/chris_anderson_and_monique_ruff_bell_ideas_change_everything_and_what_s_next_for_ted?rss)

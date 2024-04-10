@@ -1,3 +1,6 @@
+## 20240410
+- [diff.blog](https://diff.blog/) | [Verified curl](https://diff.blog/post/verified-curl-173751/)
+
 ## 20240403
 - [diff.blog](https://diff.blog/) | [Improvements to static analysis in the GCC 14 compiler](https://diff.blog/post/improvements-to-static-analysis-in-the-gcc-14-compiler-173396/)
 

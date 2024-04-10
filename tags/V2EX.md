@@ -1,3 +1,7 @@
+## 20240410
+- [V2EX](https://www.v2ex.com/) | [30+男装的归宿不是优衣库，而是海澜之家？](https://www.v2ex.com/t/1031262)
+- [V2EX](https://www.v2ex.com/) | [wsl1, wsl2, VMware 如何选择](https://www.v2ex.com/t/1031241)
+
 ## 20240409
 - [V2EX](https://www.v2ex.com/) | [发一个拼 CPU 性能的红包](https://www.v2ex.com/t/1030992)
 - [V2EX](https://www.v2ex.com/) | [[iOS] 嗯背单词更新了 1.4 版本，优化了 UI/UX，新增英英模式，评论抽取 50 个年度加永久会员](https://www.v2ex.com/t/1030937)

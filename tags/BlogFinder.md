@@ -1,3 +1,7 @@
+## 20240410
+- [BlogFinder](https://bf.zzxworld.com/) | [核泄漏](https://onojyun.com/2024/04/10/%e6%a0%b8%e6%b3%84%e6%bc%8f/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [科技树下的战争狂欢](https://one21.cn/posts/24333.html?utm_source=blogfinder)
+
 ## 20240409
 - [BlogFinder](https://bf.zzxworld.com/) | [博客增加了可以在后台自定义添加CSS样式的功能，这样一些小的自定义样式就可以不用编译实现，增加了拓展...](https://www.wikimoe.com/post/h99acgxu?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：这个payload再看一眼就要爆炸！（分析某webshell）](https://sophiatazar.com/archives/869.html?utm_source=blogfinder)

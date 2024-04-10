@@ -1,3 +1,6 @@
+## 20240410
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding the Red Hat security impact scale](https://www.redhat.com/en/blog/understanding-red-hat-security-impact-scale)
+
 ## 20240409
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Builds for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/builds-red-hat-openshift-now-generally-available)
 
