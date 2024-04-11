@@ -1,3 +1,7 @@
+## 20240411
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: ML Training License](https://etbe.coker.com.au/2024/04/11/ml-training-license/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: OpenSC and the Belgian eID](https://grep.be/blog//en/computer/eID/OpenSC_and_the_Belgian_eID/)
+
 ## 20240409
 - [Planet Debian](https://planet.debian.org/) | [Matthew Palmer: How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 

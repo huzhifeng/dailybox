@@ -1,3 +1,7 @@
+## 20240411
+- [Phoronix](https://www.phoronix.com/) | [X.Org Server Change Allows GLAMOR To Fallback To Software Rendering For Obsolete GPUs](https://www.phoronix.com/news/GLAMOR-Software-Fallback-Fail)
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 Compiler Adds AArch64 GNU/Hurd Support](https://www.phoronix.com/news/GNU-Hurd-AArch64-GCC-14)
+
 ## 20240410
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.8.5 & Other Stable Kernel Updates Due To Native BHI Vulnerability](https://www.phoronix.com/news/Linux-685-Mitigates-Native-BHI)
 - [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Now An SPI Project](https://www.phoronix.com/news/Gentoo-Linux-SPI-Project)

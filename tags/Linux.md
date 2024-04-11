@@ -1,3 +1,12 @@
+## 20240411
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Blast from the past at Embedded World: Atari plays for Linux](https://www.collabora.com/news-and-blog/news-and-events/blast-from-the-past-at-embedded-world-atari-plays-for-linux.html)
+- [Phoronix](https://www.phoronix.com/) | [X.Org Server Change Allows GLAMOR To Fallback To Software Rendering For Obsolete GPUs](https://www.phoronix.com/news/GLAMOR-Software-Fallback-Fail)
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 Compiler Adds AArch64 GNU/Hurd Support](https://www.phoronix.com/news/GNU-Hurd-AArch64-GCC-14)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: ML Training License](https://etbe.coker.com.au/2024/04/11/ml-training-license/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: OpenSC and the Belgian eID](https://grep.be/blog//en/computer/eID/OpenSC_and_the_Belgian_eID/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.3 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Recursive Instantiation with Qt Quick and JSON](https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed)
+
 ## 20240410
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Up close and personal with STMicroelectronics' STM32MP2 at Embedded World](https://www.collabora.com/news-and-blog/news-and-events/up-close-and-personal-with-stmicroelectronics-stm32mp2-at-embedded-world.html)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding the Red Hat security impact scale](https://www.redhat.com/en/blog/understanding-red-hat-security-impact-scale)

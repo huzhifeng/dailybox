@@ -1,3 +1,6 @@
+## 20240411
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Blast from the past at Embedded World: Atari plays for Linux](https://www.collabora.com/news-and-blog/news-and-events/blast-from-the-past-at-embedded-world-atari-plays-for-linux.html)
+
 ## 20240410
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Up close and personal with STMicroelectronics' STM32MP2 at Embedded World](https://www.collabora.com/news-and-blog/news-and-events/up-close-and-personal-with-stmicroelectronics-stm32mp2-at-embedded-world.html)
 

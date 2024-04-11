@@ -1,3 +1,9 @@
+## 20240411
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: ML Training License](https://etbe.coker.com.au/2024/04/11/ml-training-license/)
+- [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: OpenSC and the Belgian eID](https://grep.be/blog//en/computer/eID/OpenSC_and_the_Belgian_eID/)
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.3 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Recursive Instantiation with Qt Quick and JSON](https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed)
+
 ## 20240410
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration)
 - [Planet Gentoo](https://planet.gentoo.org/) | [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)

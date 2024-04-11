@@ -1,3 +1,7 @@
+## 20240411
+- [Product Hunt](https://www.producthunt.com) | [Captions](https://www.producthunt.com/posts/captions-2)
+- [Product Hunt](https://www.producthunt.com) | [FTUE.Video](https://www.producthunt.com/posts/ftue-video)
+
 ## 20240410
 - [Product Hunt](https://www.producthunt.com) | [Glazed](https://www.producthunt.com/posts/glazed)
 - [Product Hunt](https://www.producthunt.com) | [Persana AI for Prospecting](https://www.producthunt.com/posts/persana-ai-for-prospecting)
