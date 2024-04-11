@@ -1,3 +1,7 @@
+## 20240411
+- [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.3 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Recursive Instantiation with Qt Quick and JSON](https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed)
+
 ## 20240406
 - [Planet KDE](https://planet.kde.org/) | [February/March in KDE Itinerary](https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed)

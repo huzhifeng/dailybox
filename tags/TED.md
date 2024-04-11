@@ -1,3 +1,6 @@
+## 20240411
+- [TED Talks Daily](https://www.ted.com/talks) | [Why you should disappoint your parents | Desiree Akhavan](https://www.ted.com/talks/desiree_akhavan_why_you_should_disappoint_your_parents?rss)
+
 ## 20240410
 - [TED Talks Daily](https://www.ted.com/talks) | [Can cannabis help you sleep? Here's the science | Jen Walsh](https://www.ted.com/talks/jen_walsh_can_cannabis_help_you_sleep_here_s_the_science?rss)
 

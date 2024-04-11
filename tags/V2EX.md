@@ -1,3 +1,7 @@
+## 20240411
+- [V2EX](https://www.v2ex.com/) | [兄弟姐妹们，中年男人的我裸辞了。](https://www.v2ex.com/t/1031614)
+- [V2EX](https://www.v2ex.com/) | [在不剧烈运动的情况下我怎么能快速减肥？](https://www.v2ex.com/t/1031605)
+
 ## 20240410
 - [V2EX](https://www.v2ex.com/) | [30+男装的归宿不是优衣库，而是海澜之家？](https://www.v2ex.com/t/1031262)
 - [V2EX](https://www.v2ex.com/) | [wsl1, wsl2, VMware 如何选择](https://www.v2ex.com/t/1031241)

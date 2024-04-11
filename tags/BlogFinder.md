@@ -1,3 +1,7 @@
+## 20240411
+- [BlogFinder](https://bf.zzxworld.com/) | [迟到的飞书裁员](https://joojen.com/archives/7357.html?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [0成本自建网站统计：Umami+Vercel](https://www.baiwulin.com/76.html?utm_source=blogfinder)
+
 ## 20240410
 - [BlogFinder](https://bf.zzxworld.com/) | [核泄漏](https://onojyun.com/2024/04/10/%e6%a0%b8%e6%b3%84%e6%bc%8f/?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [科技树下的战争狂欢](https://one21.cn/posts/24333.html?utm_source=blogfinder)

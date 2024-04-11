@@ -1,3 +1,6 @@
+## 20240411
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/)
+
 ## 20240409
 - [It's FOSS](https://itsfoss.com/) | [Systemctl Command Examples](https://itsfoss.com/systemctl-command/)
 

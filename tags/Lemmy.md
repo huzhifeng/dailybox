@@ -1,3 +1,7 @@
+## 20240411
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [He&#x27;s got a point](https://slrpnk.net/pictrs/image/1e3e327e-d7c6-47dc-b7f9-a376d2a1b9b0.webp)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Raid](https://lemmy.ml/pictrs/image/f4b4f1df-6a4b-4acf-aaf6-63e76dad1063.webp)
+
 ## 20240410
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [seize the means of production](https://slrpnk.net/pictrs/image/4f7e2a4c-ea99-4142-8edc-4a31807d2a22.webp)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Anon learns about nuts](https://sh.itjust.works/pictrs/image/ef8281bf-0e82-436f-9c28-5fb9a732400c.png)

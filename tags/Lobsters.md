@@ -1,3 +1,7 @@
+## 20240411
+- [Lobsters](https://lobste.rs/) | [What makes a great technical blog](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog)
+- [Lobsters](https://lobste.rs/) | [If Inheritance is so bad, why does everyone use it?](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone)
+
 ## 20240410
 - [Lobsters](https://lobste.rs/) | [Shell History Is Your Best Productivity Tool](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity)
 - [Lobsters](https://lobste.rs/) | [Client libraries are better when they have no API](https://lobste.rs/s/denejr/client_libraries_are_better_when_they)
