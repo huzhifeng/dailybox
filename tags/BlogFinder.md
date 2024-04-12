@@ -1,3 +1,7 @@
+## 20240412
+- [BlogFinder](https://bf.zzxworld.com/) | [万事不确定](https://riichiie.net/2024/04/12/uncertainty-is-everywhere/?utm_source=blogfinder)
+- [BlogFinder](https://bf.zzxworld.com/) | [糟心的尔滨之旅](https://pwsz.com/life/3883.html?utm_source=blogfinder)
+
 ## 20240411
 - [BlogFinder](https://bf.zzxworld.com/) | [迟到的飞书裁员](https://joojen.com/archives/7357.html?utm_source=blogfinder)
 - [BlogFinder](https://bf.zzxworld.com/) | [0成本自建网站统计：Umami+Vercel](https://www.baiwulin.com/76.html?utm_source=blogfinder)

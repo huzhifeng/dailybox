@@ -1,3 +1,8 @@
+## 20240412
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-11](https://www.daemonology.net/hn-daily/2024-04-11.html)
+- [Hacker News Daily](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-12](https://github.com/headllines/hackernews-daily/issues/1368)
+- [Hacker News](https://news.ycombinator.com/front) | [An open source initiative to share and compare heat pump performance data](https://news.ycombinator.com/item?id=40010615)
+
 ## 20240411
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-10](https://www.daemonology.net/hn-daily/2024-04-10.html)
 - [Hacker News Daily](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-11](https://github.com/headllines/hackernews-daily/issues/1367)

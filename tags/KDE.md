@@ -1,3 +1,7 @@
+## 20240412
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Ensuring KEcoLab Stability: Introducing Dedicated CI-Test](https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed)
+
 ## 20240411
 - [Planet KDE](https://planet.kde.org/) | [Qt for MCUs 2.5.3 LTS Released](https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Recursive Instantiation with Qt Quick and JSON](https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed)

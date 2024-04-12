@@ -1,3 +1,6 @@
+## 20240412
+- [It's FOSS](https://itsfoss.com/) | [Change Video Playback Speed in VLC [Quick Tip]](https://itsfoss.com/vlc-video-speed/)
+
 ## 20240411
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/)
 
