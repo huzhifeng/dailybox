@@ -1,3 +1,7 @@
+## 20240412
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 SLUB Optimization To Reduce Memory Consumption In Extreme Scenarios](https://www.phoronix.com/news/Linux-6.10-SLUB-Optimization)
+- [Phoronix](https://www.phoronix.com/) | [Dbus-Broker 36 Released For This Fastest D-Bus Implementation](https://www.phoronix.com/news/Dbus-Broker-36-Released)
+
 ## 20240411
 - [Phoronix](https://www.phoronix.com/) | [X.Org Server Change Allows GLAMOR To Fallback To Software Rendering For Obsolete GPUs](https://www.phoronix.com/news/GLAMOR-Software-Fallback-Fail)
 - [Phoronix](https://www.phoronix.com/) | [GCC 14 Compiler Adds AArch64 GNU/Hurd Support](https://www.phoronix.com/news/GNU-Hurd-AArch64-GCC-14)

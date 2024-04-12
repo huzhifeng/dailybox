@@ -1,3 +1,9 @@
+## 20240412
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernization - A reference appraoch, where to begin and how](https://developers.redhat.com/articles/2024/04/12/modernization-reference-appraoch-where-begin-and-how)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernization - Managing Data during the process](https://developers.redhat.com/articles/2024/04/12/modernization-managing-data-during-process)
+
 ## 20240410
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding the Red Hat security impact scale](https://www.redhat.com/en/blog/understanding-red-hat-security-impact-scale)
 

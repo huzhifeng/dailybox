@@ -1,3 +1,7 @@
+## 20240412
+- [Planet Debian](https://planet.debian.org/) | [NOKUBI Takatsugu: mailman3-web error when upgrading to bookworm](http://blog.daionet.gr.jp/knok-e/2024/04/12/mailman3-web-error-when-upgrading-to-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 264 released](https://diffoscope.org/news/diffoscope-264-released/)
+
 ## 20240411
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: ML Training License](https://etbe.coker.com.au/2024/04/11/ml-training-license/)
 - [Planet Debian](https://planet.debian.org/) | [Wouter Verhelst: OpenSC and the Belgian eID](https://grep.be/blog//en/computer/eID/OpenSC_and_the_Belgian_eID/)

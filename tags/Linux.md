@@ -1,3 +1,17 @@
+## 20240412
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernization - A reference appraoch, where to begin and how](https://developers.redhat.com/articles/2024/04/12/modernization-reference-appraoch-where-begin-and-how)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernization - Managing Data during the process](https://developers.redhat.com/articles/2024/04/12/modernization-managing-data-during-process)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 SLUB Optimization To Reduce Memory Consumption In Extreme Scenarios](https://www.phoronix.com/news/Linux-6.10-SLUB-Optimization)
+- [Phoronix](https://www.phoronix.com/) | [Dbus-Broker 36 Released For This Fastest D-Bus Implementation](https://www.phoronix.com/news/Dbus-Broker-36-Released)
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.5 Open-Source DAW Improves Linux and AAF Import Support](https://9to5linux.com/ardour-8-5-open-source-daw-improves-linux-and-aaf-import-support)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Gen2 All-AMD Linux Gaming Laptop Gets Faster Ryzen 7 CPU](https://9to5linux.com/tuxedo-sirius-16-gen2-all-amd-linux-gaming-laptop-gets-faster-ryzen-7-cpu)
+- [Planet Debian](https://planet.debian.org/) | [NOKUBI Takatsugu: mailman3-web error when upgrading to bookworm](http://blog.daionet.gr.jp/knok-e/2024/04/12/mailman3-web-error-when-upgrading-to-bookworm/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 264 released](https://diffoscope.org/news/diffoscope-264-released/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed)
+- [Planet KDE](https://planet.kde.org/) | [Ensuring KEcoLab Stability: Introducing Dedicated CI-Test](https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed)
+
 ## 20240411
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Blast from the past at Embedded World: Atari plays for Linux](https://www.collabora.com/news-and-blog/news-and-events/blast-from-the-past-at-embedded-world-atari-plays-for-linux.html)
 - [Phoronix](https://www.phoronix.com/) | [X.Org Server Change Allows GLAMOR To Fallback To Software Rendering For Obsolete GPUs](https://www.phoronix.com/news/GLAMOR-Software-Fallback-Fail)

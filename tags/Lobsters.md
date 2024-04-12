@@ -1,3 +1,7 @@
+## 20240412
+- [Lobsters](https://lobste.rs/) | [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable)
+- [Lobsters](https://lobste.rs/) | [Unit tests considered harmful? No](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no)
+
 ## 20240411
 - [Lobsters](https://lobste.rs/) | [What makes a great technical blog](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog)
 - [Lobsters](https://lobste.rs/) | [If Inheritance is so bad, why does everyone use it?](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone)

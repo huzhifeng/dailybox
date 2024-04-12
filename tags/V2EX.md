@@ -1,3 +1,7 @@
+## 20240412
+- [V2EX](https://www.v2ex.com/) | [请问大家是如何看待收入与消费的](https://www.v2ex.com/t/1031963)
+- [V2EX](https://www.v2ex.com/) | [公司突然给我发了点股票，回老家啃老计划暂停](https://www.v2ex.com/t/1031908)
+
 ## 20240411
 - [V2EX](https://www.v2ex.com/) | [兄弟姐妹们，中年男人的我裸辞了。](https://www.v2ex.com/t/1031614)
 - [V2EX](https://www.v2ex.com/) | [在不剧烈运动的情况下我怎么能快速减肥？](https://www.v2ex.com/t/1031605)

@@ -1,3 +1,7 @@
+## 20240412
+- [9to5Linux](https://9to5linux.com/) | [Ardour 8.5 Open-Source DAW Improves Linux and AAF Import Support](https://9to5linux.com/ardour-8-5-open-source-daw-improves-linux-and-aaf-import-support)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Gen2 All-AMD Linux Gaming Laptop Gets Faster Ryzen 7 CPU](https://9to5linux.com/tuxedo-sirius-16-gen2-all-amd-linux-gaming-laptop-gets-faster-ryzen-7-cpu)
+
 ## 20240409
 - [9to5Linux](https://9to5linux.com/) | [Explicit GPU Synchronization for Xwayland Is Now Finally Merged into XOrg Server](https://9to5linux.com/explicit-gpu-synchronization-for-xwayland-is-now-finally-merged-into-xorg-server)
 - [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.3 Released with Support for QLog for Tracing QUIC Connections](https://9to5linux.com/openssl-3-3-released-with-support-for-qlog-for-tracing-quic-connections)
