@@ -1,3 +1,8 @@
+## 20240413
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks](https://www.phoronix.com/news/Linux-Per-CPU-NUMA-Node-Cpumask)
+- [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Domo Arigato, Mr. debugfs](https://notes.pault.ag/debugfs/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed)
+
 ## 20240412
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)

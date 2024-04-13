@@ -1,3 +1,7 @@
+## 20240413
+- [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Domo Arigato, Mr. debugfs](https://notes.pault.ag/debugfs/)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed)
+
 ## 20240412
 - [Planet Debian](https://planet.debian.org/) | [NOKUBI Takatsugu: mailman3-web error when upgrading to bookworm](http://blog.daionet.gr.jp/knok-e/2024/04/12/mailman3-web-error-when-upgrading-to-bookworm/)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 264 released](https://diffoscope.org/news/diffoscope-264-released/)

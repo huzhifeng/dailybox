@@ -1,3 +1,7 @@
+## 20240413
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-12](https://www.daemonology.net/hn-daily/2024-04-12.html)
+- [Hacker News Daily](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-13](https://github.com/headllines/hackernews-daily/issues/1369)
+
 ## 20240412
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-11](https://www.daemonology.net/hn-daily/2024-04-11.html)
 - [Hacker News Daily](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-12](https://github.com/headllines/hackernews-daily/issues/1368)

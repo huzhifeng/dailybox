@@ -1,3 +1,6 @@
+## 20240413
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks](https://www.phoronix.com/news/Linux-Per-CPU-NUMA-Node-Cpumask)
+
 ## 20240412
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 SLUB Optimization To Reduce Memory Consumption In Extreme Scenarios](https://www.phoronix.com/news/Linux-6.10-SLUB-Optimization)
 - [Phoronix](https://www.phoronix.com/) | [Dbus-Broker 36 Released For This Fastest D-Bus Implementation](https://www.phoronix.com/news/Dbus-Broker-36-Released)
