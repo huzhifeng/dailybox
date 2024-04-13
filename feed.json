@@ -1,82 +1,11 @@
 {
 	"feed": [
 		{
-			"channel": "酷壳",
-			"portal": "https://coolshell.cn/",
-			"url": "https://coolshell.cn/feed",
-			"enable": 0,
-			"category": "博客",
-			"tags": ["陈皓", "酷壳", "博客"]
-		},
-		{
-			"channel": "ManateeLazyCat",
-			"portal": "https://manateelazycat.github.io/",
-			"url": "https://manateelazycat.github.io/feed.xml",
-			"category": "博客",
-			"tags": ["ManateeLazyCat", "王勇", "博客"]
-		},
-		{
-			"channel": "枫言枫语",
-			"portal": "https://justinyan.me/",
-			"url": "https://justinyan.me/feed",
-			"category": "博客",
-			"tags": ["枫言枫语", "博客"]
-		},
-		{
-			"channel": "胡涂说",
-			"portal": "https://hutusi.com/",
-			"url": "https://hutusi.com/feed.xml",
-			"category": "博客",
-			"tags": ["胡涂说", "博客"]
-		},
-		{
-			"channel": "二丫讲梵",
-			"portal": "https://wiki.eryajf.net/",
-			"url": "https://wiki.eryajf.net/rss.xml",
-			"category": "博客",
-			"tags": ["二丫讲梵", "博客"]
-		},
-		{
-			"channel": "Ein Verne",
-			"portal": "https://einverne.github.io/",
-			"url": "https://einverne.github.io/feed.xml",
-			"category": "博客",
-			"tags": ["博客"]
-		},
-		{
-			"channel": "拾月",
-			"portal": "https://www.skyue.com/",
-			"url": "https://www.skyue.com/feed/",
-			"category": "博客",
-			"tags": ["拾月", "博客"]
-		},
-		{
 			"channel": "拾月书签",
 			"portal": "https://pocket.skyue.com/",
 			"url": "https://pocket.skyue.com/feed/atom",
 			"category": "漫游",
 			"tags": ["拾月", "拾月书签"]
-		},
-		{
-			"channel": "BMPI",
-			"portal": "https://www.bmpi.dev/",
-			"url": "https://www.bmpi.dev/index.xml",
-			"category": "博客",
-			"tags": ["马大伟", "BMPI", "博客"]
-		},
-		{
-			"channel": "Limboy",
-			"portal": "https://limboy.me",
-			"url": "https://limboy.me/index.xml",
-			"category": "博客",
-			"tags": ["Limboy", "博客"]
-		},
-		{
-			"channel": "槽边往事",
-			"portal": "https://www.hecaitou.com/",
-			"url": "https://www.hecaitou.com/feeds/posts/default",
-			"category": "博客",
-			"tags": ["和菜头", "槽边往事", "博客"]
 		},
 		{
 			"channel": "开源日报",
