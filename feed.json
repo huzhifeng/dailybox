@@ -171,6 +171,14 @@
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
 		{
+			"channel": "网易轻松一刻",
+			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
+			"url": "https://rsshub.app/163/exclusive/qsyk",
+			"url2": "https://feedx.net/rss/163easy.xml",
+			"category": "资讯",
+			"tags": ["网易轻松一刻", "日报"]
+		},
+		{
 			"channel": "每日环球视野",
 			"portal": "https://idai.ly/",
 			"url": "https://feedx.net/rss/idaily.xml",
@@ -364,25 +372,6 @@
 		}
 	],
 	"api": [
-		{
-			"channel": "网易轻松一刻",
-			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
-			"url": "https://c.m.163.com/nc/article/headline/T1350383429665/0-10.html",
-			"enable": 0,
-			"category": "资讯",
-			"tags": ["网易轻松一刻", "日报"],
-			"request": {
-				"method": "get"
-			},
-			"response": {
-				"list": "T1350383429665"
-			},
-			"entry": {
-				"date": "ptime",
-				"title": "title",
-				"link": "{url}"
-			}
-		},
 		{
 			"channel": "派早报",
 			"portal": "https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5",

@@ -86,6 +86,9 @@ def main():
                 if '喷嚏网' == feed['channel']:
                     if '喷嚏图卦' not in entry.title:
                         continue
+                elif '网易轻松一刻' == feed['channel']:
+                    if '轻松一刻' not in entry.title:
+                        continue
                 elif '开源日报' == feed['channel']:
                     if '开源日报' not in entry.title:
                         continue
@@ -231,9 +234,6 @@ def main():
                         published = dateutil.parser.parse(entry[date])
                 if not published or published.date() != today.date():
                     continue
-                if '网易轻松一刻' == api['channel']:
-                    if 'source' not in entry or not '轻松一刻' == entry['source']:
-                        continue
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
