@@ -4,7 +4,6 @@ import shutil
 from pathlib import Path
 import json
 import logging
-import urllib
 import socket
 import time
 import datetime
@@ -87,15 +86,6 @@ def main():
                 if '喷嚏网' == feed['channel']:
                     if '喷嚏图卦' not in entry.title:
                         continue
-                elif '津津乐道' == feed['channel']:
-                    if '科技乱炖' not in entry.title and '编码人声' not in entry.title:
-                        continue
-                elif '硬核观察' == feed['channel']:
-                    if '硬核观察' not in entry.title:
-                        continue
-                elif '泰晓资讯' == feed['channel']:
-                    if '泰晓资讯' not in entry.title:
-                        continue
                 elif '开源日报' == feed['channel']:
                     if '开源日报' not in entry.title:
                         continue
@@ -106,9 +96,6 @@ def main():
                 elif 'Slashdot' == feed['channel']:
                     if 'slash_comments' in entry and int(entry['slash_comments']) < 10:
                         continue
-                elif '科技早知道' == feed['channel']:
-                    if 'itunes_episode' in entry:
-                        entry.link = f'https://guiguzaozhidao.fireside.fm/{entry.itunes_episode}'
                 published = entry.get('published_parsed' if entry.has_key(
                     'published_parsed') else 'updated_parsed', today)
                 if isinstance(published, time.struct_time):
@@ -200,11 +187,6 @@ def main():
                 logger.debug('%s response error', url)
                 continue
 
-            if '中文播客榜' in api['channel']:
-                # Filter by postTime and sorted by commentCount
-                entries = [entry for entry in entries
-                            if today.strftime('%Y-%m-%d') in entry['postTime']]
-                entries = sorted(entries, key=lambda x: x.get('commentCount'), reverse=True)
             title = api['entry']['title']
             link = api['entry']['link']
             date = api['entry']['date']
@@ -241,7 +223,6 @@ def main():
                     elif 'GitHub中文社区' == api['channel'] \
                             or 'GitHub Advanced Search' == api['channel'] \
                             or 'diff.blog' == api['channel'] \
-                            or '中文播客榜' == api['channel'] \
                             or 'Product Hunt' == api['channel']:
                         # '2023-04-07T10:38:28Z' or '2023-04-10T00:01:00-07:00'
                         published = dateparser.parse(entry[date])
@@ -253,9 +234,6 @@ def main():
                 if '网易轻松一刻' == api['channel']:
                     if 'source' not in entry or not '轻松一刻' == entry['source']:
                         continue
-                if '喷嚏网' == api['channel']:
-                    if '喷嚏图卦' not in entry.title:
-                        continue
                 if '晚点早知道' == api['channel']:
                     if not entry['programa'] == '3':
                         continue
@@ -263,10 +241,6 @@ def main():
                     if '_score' not in entry or int(entry['_score']) < 100:
                         continue
                 link_map = {placeholder: entry[placeholder]}
-                if '微博热搜' == api['channel']:
-                    # 中文和空格需要做 URL 编码，例如 '长月烬明 抄袭阴阳师'
-                    link_map[placeholder] = urllib.parse.quote(
-                        entry[placeholder])
                 item = {
                     'category': api['category'],
                     'tags': api['tags'],
