@@ -1,3 +1,6 @@
+## 20240413
+- [Lobsters](https://lobste.rs/) | [Go performance from version 1.0 to 1.22](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22)
+
 ## 20240412
 - [Lobsters](https://lobste.rs/) | [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable)
 - [Lobsters](https://lobste.rs/) | [Unit tests considered harmful? No](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no)

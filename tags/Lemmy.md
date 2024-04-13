@@ -1,3 +1,6 @@
+## 20240413
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Professor meow meow](https://lemm.ee/pictrs/image/abd9f79d-59ab-47d2-a4c6-912be9f657c5.webp)
+
 ## 20240412
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [I&#x27;m old, Gandalf. I know I don&#x27;t look it, but I&#x27;m beginning to feel it in my heart.](https://lemmy.world/pictrs/image/17ecd72f-05b7-48ae-8409-17f64893ad89.jpeg)
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Most useless superhero accessory](https://lemmy.world/pictrs/image/c8bd3f78-319c-4c9c-a756-20528efeaa08.webp)

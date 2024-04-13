@@ -1,3 +1,6 @@
+## 20240413
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed)
+
 ## 20240412
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed)
 - [Planet KDE](https://planet.kde.org/) | [Ensuring KEcoLab Stability: Introducing Dedicated CI-Test](https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed)
