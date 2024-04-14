@@ -1,6 +1,5 @@
 """Dialy Box Bot."""
 import os
-import shutil
 from pathlib import Path
 import json
 import logging
@@ -345,7 +344,12 @@ def main():
     fd_daily_box = open(fname_daily_box_today, mode='w', encoding='utf-8')
     fd_daily_box.write(md_daily_box)
     fd_daily_box.close()
-    shutil.copy(fname_daily_box_today, 'README.md')
+
+    # Update README.md
+    md_daily_box = md_daily_box.replace('daily-box-', 'archives/daily-box-')
+    fd_readme = open('README.md', mode='w', encoding='utf-8')
+    fd_readme.write(md_daily_box)
+    fd_readme.close()
 
     for tag, tag_val in tags_obj.items():
         md_tag = f'## {today_str}\n{tag_val}\n'
