@@ -16,13 +16,6 @@
 			"tags": ["开源之道", "李建盛", "适兕", "开源"]
 		},
 		{
-			"channel": "Opensource.com",
-			"portal": "https://opensource.com/",
-			"url": "https://opensource.com/feed",
-			"category": "开源",
-			"tags": ["开源"]
-		},
-		{
 			"channel": "It's FOSS",
 			"portal": "https://itsfoss.com/",
 			"url": "https://itsfoss.com/rss/",
