@@ -1,13 +1,6 @@
 {
 	"feed": [
 		{
-			"channel": "拾月书签",
-			"portal": "https://pocket.skyue.com/",
-			"url": "https://pocket.skyue.com/feed/atom",
-			"category": "漫游",
-			"tags": ["拾月", "拾月书签"]
-		},
-		{
 			"channel": "开源日报",
 			"portal": "https://www.oschina.net/news/column?columnId=25",
 			"url": "https://www.oschina.net/news/rss",
