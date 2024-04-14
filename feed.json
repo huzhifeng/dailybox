@@ -209,15 +209,6 @@
 			"tags": ["CSDN", "极客日报", "日报"]
 		},
 		{
-			"channel": "CSDN资讯",
-			"portal": "https://blog.csdn.net/csdnnews",
-			"url": "https://blog.csdn.net/csdnnews/rss/list",
-			"_comment": "https://rsshub.app/csdn/blog/csdnnews",
-			"enable": 0,
-			"category": "资讯",
-			"tags": ["CSDN", "资讯"]
-		},
-		{
 			"channel": "博客园",
 			"portal": "https://www.cnblogs.com/aggsite/headline",
 			"url": "https://rsshub.app/cnblogs/aggsite/headline",
