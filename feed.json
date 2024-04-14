@@ -329,7 +329,7 @@
 			"tags": ["Hacker News"]
 		},
 		{
-			"channel": "Hacker News Daily",
+			"channel": "Hacker News Daily Top 10",
 			"portal": "https://github.com/headllines/hackernews-daily",
 			"url": "https://rsshub.app/github/issue/headllines/hackernews-daily",
 			"category": "资讯",
