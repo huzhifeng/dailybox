@@ -77,21 +77,15 @@ def main():
             if not resp.has_key('entries'):
                 logger.debug('no entries')
                 continue
+            if 'filter' in feed and len(feed['filter']) > 0:
+                resp.entries = [entry for entry in resp.entries
+                                if any(k in entry.title for k in feed['filter'])]
 
             i = 0
             for entry in resp.entries:
                 if i >= entry_limit:
                     break
-                if '喷嚏网' == feed['channel']:
-                    if '喷嚏图卦' not in entry.title:
-                        continue
-                elif '网易轻松一刻' == feed['channel']:
-                    if '轻松一刻' not in entry.title:
-                        continue
-                elif '开源日报' == feed['channel']:
-                    if '开源日报' not in entry.title:
-                        continue
-                elif 'Hacker News' == feed['channel'] \
+                if 'Hacker News' == feed['channel'] \
                         or 'Lobsters' == feed['channel']:
                     if 'comments' in entry:
                         entry.link = entry.comments

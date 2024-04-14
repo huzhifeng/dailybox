@@ -11,6 +11,7 @@
 			"channel": "开源日报",
 			"portal": "https://www.oschina.net/news/column?columnId=25",
 			"url": "https://www.oschina.net/news/rss",
+			"filter": ["开源日报"],
 			"category": "开源",
 			"tags": ["开源日报", "开源"]
 		},
@@ -167,6 +168,7 @@
 			"portal": "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
 			"_comment": "https://rsshub.app/dapenti/tugua | https://plink.anyfeeder.com/pentitugua",
+			"filter": ["喷嚏图卦"],
 			"category": "资讯",
 			"tags": ["喷嚏图卦", "喷嚏网", "日报"]
 		},
@@ -175,6 +177,7 @@
 			"portal": "https://m.163.com/touch/exclusive/sub/qsyk",
 			"url": "https://rsshub.app/163/exclusive/qsyk",
 			"url2": "https://feedx.net/rss/163easy.xml",
+			"filter": ["轻松一刻"],
 			"category": "资讯",
 			"tags": ["网易轻松一刻", "日报"]
 		},
