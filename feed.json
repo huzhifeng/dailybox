@@ -336,6 +336,14 @@
 			"tags": ["Hacker News"]
 		},
 		{
+			"channel": "Hacker News Recap",
+			"portal": "https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd",
+			"portal2": "https://hackernewsrecap.buzzsprout.com/",
+			"url": "https://rsshub.app/xiaoyuzhou/podcast/6456fdfc0a8e51c73e68d0cd",
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "Hacker News",
 			"portal": "https://news.ycombinator.com/front",
 			"url": "https://hnrss.org/frontpage?points=300",
