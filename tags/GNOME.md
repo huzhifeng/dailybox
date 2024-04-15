@@ -1,3 +1,6 @@
+## 20240415
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240414
 - [Planet GNOME](https://planet.gnome.org/) | [Making GTK graphics offloading work](https://blogs.gnome.org/otte/2024/04/14/making-gtk-graphics-offloading-work/)
 

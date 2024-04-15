@@ -1,3 +1,6 @@
+## 20240415
+- [Product Hunt](https://www.producthunt.com) | [Stampede Social](https://www.producthunt.com/posts/stampede-social)
+
 ## 20240413
 - [Product Hunt](https://www.producthunt.com) | [ChatSlide.ai](https://www.producthunt.com/posts/chatslide-ai)
 

@@ -1,3 +1,10 @@
+## 20240415
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Ansible Blog - Networking - Why do you need network automation in the AI world?](https://www.redhat.com/en/blog/why-do-you-need-network-automation-ai-world)
+- [Phoronix](https://www.phoronix.com/) | [openSUSE Leap Micro 6 Reaches Alpha](https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 125 Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/mozilla-firefox-125-is-now-available-for-download-this-is-whats-new)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Open Door Chat](https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed)
+
 ## 20240414
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.9-rc4 Brings More Bcachefs Fixes, Native BHI Mitigation](https://www.phoronix.com/news/Linux-6.9-rc4)
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Time to move orphaned Debian packages to git](https://people.skolelinux.org/pere/blog/Time_to_move_orphaned_Debian_packages_to_git.html)

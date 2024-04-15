@@ -1,3 +1,6 @@
+## 20240415
+- [Phoronix](https://www.phoronix.com/) | [openSUSE Leap Micro 6 Reaches Alpha](https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha)
+
 ## 20240414
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.9-rc4 Brings More Bcachefs Fixes, Native BHI Mitigation](https://www.phoronix.com/news/Linux-6.9-rc4)
 

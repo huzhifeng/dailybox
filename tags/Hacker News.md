@@ -1,3 +1,8 @@
+## 20240415
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-14](https://www.daemonology.net/hn-daily/2024-04-14.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-15](https://github.com/headllines/hackernews-daily/issues/1371)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-15 | 医生背后的压力与挑战](https://www.xiaoyuzhoufm.com/episode/661d0c7a5dae7932c6a195b8)
+
 ## 20240414
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-13](https://www.daemonology.net/hn-daily/2024-04-13.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-14](https://github.com/headllines/hackernews-daily/issues/1370)
