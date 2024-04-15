@@ -1,3 +1,10 @@
+## 20240414
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.9-rc4 Brings More Bcachefs Fixes, Native BHI Mitigation](https://www.phoronix.com/news/Linux-6.9-rc4)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Time to move orphaned Debian packages to git](https://people.skolelinux.org/pere/blog/Time_to_move_orphaned_Debian_packages_to_git.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Making GTK graphics offloading work](https://blogs.gnome.org/otte/2024/04/14/making-gtk-graphics-offloading-work/)
+- [Planet KDE](https://planet.kde.org/) | [Improvements to QTextDocument](https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed)
+- [Slashdot](https://linux.slashdot.org/) | [APT Interface 'Revamped' For Ubuntu 24.10 and Debian Trixie with Colors and Columns](https://linux.slashdot.org/story/24/04/14/052258/apt-interface-revamped-for-ubuntu-2410-and-debian-trixie-with-colors-and-columns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240413
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks](https://www.phoronix.com/news/Linux-Per-CPU-NUMA-Node-Cpumask)
 - [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Domo Arigato, Mr. debugfs](https://notes.pault.ag/debugfs/)

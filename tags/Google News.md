@@ -1,3 +1,6 @@
+## 20240414
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Generative AI is coming for healthcare, and not everyone’s thrilled - TechCrunch](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNC8xNC9nZW5lcmF0aXZlLWFpLWlzLWNvbWluZy1mb3ItaGVhbHRoY2FyZS1hbmQtbm90LWV2ZXJ5b25lcy10aHJpbGxlZC_SAWhodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjQvMDQvMTQvZ2VuZXJhdGl2ZS1haS1pcy1jb21pbmctZm9yLWhlYWx0aGNhcmUtYW5kLW5vdC1ldmVyeW9uZXMtdGhyaWxsZWQvYW1wLw?oc=5)
+
 ## 20240413
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Galaxy AI features are coming to last-gen Samsung phones — including the S21 series - The Verge](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMTIvMjQxMjg5MTQvc2Ftc3VuZy1nYWxheHktYWktZmVhdHVyZXMtczIxLXMyMi1zZXJpZXMtcGhvbmVzLXVwZGF0ZdIBAA?oc=5)
 

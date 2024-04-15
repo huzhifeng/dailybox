@@ -1,3 +1,6 @@
+## 20240414
+- [V2EX](https://www.v2ex.com/) | [总是喜欢重装 Windows 系统怎么办？如何克服赛博洁癖](https://www.v2ex.com/t/1032425)
+
 ## 20240413
 - [V2EX](https://www.v2ex.com/) | [哪里可以买到真的化石？网上那些卖化石的是真的吗？](https://www.v2ex.com/t/1032145)
 

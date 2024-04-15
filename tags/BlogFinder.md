@@ -1,3 +1,6 @@
+## 20240414
+- [BlogFinder](https://bf.zzxworld.com/) | [最近想明白了几个困扰自己多年的问题](https://www.edony.ink/persoanl-problems-that-has-been-bothering-me-for-years/?utm_source=blogfinder)
+
 ## 20240413
 - [BlogFinder](https://bf.zzxworld.com/) | [CSS中的媒体查询是如何工作的？](https://www.sey.ink/6098/?utm_source=blogfinder)
 
