@@ -1,3 +1,6 @@
+## 20240414
+- [Planet GNOME](https://planet.gnome.org/) | [Making GTK graphics offloading work](https://blogs.gnome.org/otte/2024/04/14/making-gtk-graphics-offloading-work/)
+
 ## 20240410
 - [Planet GNOME](https://planet.gnome.org/) | [Refreshed Search](https://blogs.gnome.org/chergert/2024/04/10/refreshed-search/)
 

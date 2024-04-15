@@ -1,3 +1,6 @@
+## 20240414
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.9-rc4 Brings More Bcachefs Fixes, Native BHI Mitigation](https://www.phoronix.com/news/Linux-6.9-rc4)
+
 ## 20240413
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks](https://www.phoronix.com/news/Linux-Per-CPU-NUMA-Node-Cpumask)
 

@@ -1,3 +1,7 @@
+## 20240414
+- [Slashdot](https://linux.slashdot.org/) | [APT Interface 'Revamped' For Ubuntu 24.10 and Debian Trixie with Colors and Columns](https://linux.slashdot.org/story/24/04/14/052258/apt-interface-revamped-for-ubuntu-2410-and-debian-trixie-with-colors-and-columns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Slashdot](https://developers.slashdot.org/) | [Is PHP Declining In Popularity?](https://developers.slashdot.org/story/24/04/14/1413227/is-php-declining-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240405
 - [Slashdot](https://developers.slashdot.org/) | [Roblox Executive Says Children Making Money On the Platform Isn't Exploitation, It's a Gift](https://games.slashdot.org/story/24/04/04/2133237/roblox-executive-says-children-making-money-on-the-platform-isnt-exploitation-its-a-gift?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

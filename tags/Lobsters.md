@@ -1,3 +1,6 @@
+## 20240414
+- [Lobsters](https://lobste.rs/) | [DB Indexes Do Not Magically Compose](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose)
+
 ## 20240413
 - [Lobsters](https://lobste.rs/) | [Go performance from version 1.0 to 1.22](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22)
 

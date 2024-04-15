@@ -1,3 +1,8 @@
+## 20240414
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Time to move orphaned Debian packages to git](https://people.skolelinux.org/pere/blog/Time_to_move_orphaned_Debian_packages_to_git.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Making GTK graphics offloading work](https://blogs.gnome.org/otte/2024/04/14/making-gtk-graphics-offloading-work/)
+- [Planet KDE](https://planet.kde.org/) | [Improvements to QTextDocument](https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed)
+
 ## 20240413
 - [Planet Debian](https://planet.debian.org/) | [Paul Tagliamonte: Domo Arigato, Mr. debugfs](https://notes.pault.ag/debugfs/)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed)

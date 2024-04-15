@@ -1,3 +1,6 @@
+## 20240414
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [How Escher defends his castle](https://sh.itjust.works/pictrs/image/18750a13-ee81-4907-9b3e-8106855130ef.jpeg)
+
 ## 20240413
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Professor meow meow](https://lemm.ee/pictrs/image/abd9f79d-59ab-47d2-a4c6-912be9f657c5.webp)
 

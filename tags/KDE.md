@@ -1,3 +1,6 @@
+## 20240414
+- [Planet KDE](https://planet.kde.org/) | [Improvements to QTextDocument](https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed)
+
 ## 20240413
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed)
 

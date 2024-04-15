@@ -1,3 +1,9 @@
+## 20240414
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-13](https://www.daemonology.net/hn-daily/2024-04-13.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-14](https://github.com/headllines/hackernews-daily/issues/1370)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-14 | 谷歌威胁停止向加州新闻站点提供链接，加州《新闻保存法》激发激烈讨论](https://www.xiaoyuzhoufm.com/episode/661b36885dae7932c6516b86)
+- [Hacker News](https://news.ycombinator.com/front) | [Obituary for a quiet life (2023)](https://news.ycombinator.com/item?id=40028643)
+
 ## 20240413
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-12](https://www.daemonology.net/hn-daily/2024-04-12.html)
 - [Hacker News Daily](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-13](https://github.com/headllines/hackernews-daily/issues/1369)
