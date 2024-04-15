@@ -1,3 +1,6 @@
+## 20240415
+- [Lobsters](https://lobste.rs/) | [Neverest, a CLI to synchronize, backup and restore emails](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore)
+
 ## 20240414
 - [Lobsters](https://lobste.rs/) | [DB Indexes Do Not Magically Compose](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose)
 

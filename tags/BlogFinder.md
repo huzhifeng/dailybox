@@ -1,3 +1,6 @@
+## 20240415
+- [BlogFinder](https://bf.zzxworld.com/) | [对话、绘图我全都要！极空间最全AI方案，超详细教程](https://panda995.xyz/network/4945.html?utm_source=blogfinder)
+
 ## 20240414
 - [BlogFinder](https://bf.zzxworld.com/) | [最近想明白了几个困扰自己多年的问题](https://www.edony.ink/persoanl-problems-that-has-been-bothering-me-for-years/?utm_source=blogfinder)
 

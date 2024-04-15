@@ -1,3 +1,6 @@
+## 20240415
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 125 Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/mozilla-firefox-125-is-now-available-for-download-this-is-whats-new)
+
 ## 20240412
 - [9to5Linux](https://9to5linux.com/) | [Ardour 8.5 Open-Source DAW Improves Linux and AAF Import Support](https://9to5linux.com/ardour-8-5-open-source-daw-improves-linux-and-aaf-import-support)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Sirius 16 Gen2 All-AMD Linux Gaming Laptop Gets Faster Ryzen 7 CPU](https://9to5linux.com/tuxedo-sirius-16-gen2-all-amd-linux-gaming-laptop-gets-faster-ryzen-7-cpu)

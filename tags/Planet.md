@@ -1,3 +1,7 @@
+## 20240415
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Open Door Chat](https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed)
+
 ## 20240414
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Time to move orphaned Debian packages to git](https://people.skolelinux.org/pere/blog/Time_to_move_orphaned_Debian_packages_to_git.html)
 - [Planet GNOME](https://planet.gnome.org/) | [Making GTK graphics offloading work](https://blogs.gnome.org/otte/2024/04/14/making-gtk-graphics-offloading-work/)

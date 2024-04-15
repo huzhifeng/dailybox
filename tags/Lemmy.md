@@ -1,3 +1,6 @@
+## 20240415
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [But how would they be able to live on that?](https://lemmy.world/pictrs/image/6700163e-ed0c-42c4-b8f0-e6f9e427e3a0.png)
+
 ## 20240414
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [How Escher defends his castle](https://sh.itjust.works/pictrs/image/18750a13-ee81-4907-9b3e-8106855130ef.jpeg)
 

@@ -1,3 +1,6 @@
+## 20240415
+- [Kagi Small Web](https://kagi.com/smallweb) | [Faster Connectivity !== Faster Websites](https://blog.jim-nielsen.com/2024/faster-bandwidth-and-websites/)
+
 ## 20240405
 - [Kagi Small Web](https://kagi.com/smallweb) | [Monthly Recap: March 2024](https://flamedfury.com/posts/monthly-recap-march-2024/)
 - [Kagi Small Web](https://kagi.com/smallweb) | [Announcing CraftBook 5 Beta Releases](https://madelinemiller.dev/blog/craftbook-5-beta/)

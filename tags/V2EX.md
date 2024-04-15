@@ -1,3 +1,6 @@
+## 20240415
+- [V2EX](https://www.v2ex.com/) | [周末卖了一台群晖 918+ 买家开宝马来自提的](https://www.v2ex.com/t/1032558)
+
 ## 20240414
 - [V2EX](https://www.v2ex.com/) | [总是喜欢重装 Windows 系统怎么办？如何克服赛博洁癖](https://www.v2ex.com/t/1032425)
 

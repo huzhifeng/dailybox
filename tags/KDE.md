@@ -1,3 +1,6 @@
+## 20240415
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Open Door Chat](https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed)
+
 ## 20240414
 - [Planet KDE](https://planet.kde.org/) | [Improvements to QTextDocument](https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed)
 

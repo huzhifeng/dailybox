@@ -1,3 +1,6 @@
+## 20240415
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Ansible Blog - Networking - Why do you need network automation in the AI world?](https://www.redhat.com/en/blog/why-do-you-need-network-automation-ai-world)
+
 ## 20240412
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)
