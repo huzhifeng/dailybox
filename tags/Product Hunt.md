@@ -1,3 +1,6 @@
+## 20240416
+- [Product Hunt](https://www.producthunt.com) | [Vidyard AI Avatars](https://www.producthunt.com/posts/vidyard-ai-avatars)
+
 ## 20240415
 - [Product Hunt](https://www.producthunt.com) | [Stampede Social](https://www.producthunt.com/posts/stampede-social)
 

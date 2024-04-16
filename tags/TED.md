@@ -1,3 +1,6 @@
+## 20240416
+- [TED Talks Daily](https://www.ted.com/talks) | [What you can do to stop economic crime | Hanjo Seibert](https://www.ted.com/talks/hanjo_seibert_what_you_can_do_to_stop_economic_crime?rss)
+
 ## 20240411
 - [TED Talks Daily](https://www.ted.com/talks) | [Why you should disappoint your parents | Desiree Akhavan](https://www.ted.com/talks/desiree_akhavan_why_you_should_disappoint_your_parents?rss)
 

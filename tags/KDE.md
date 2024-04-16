@@ -1,3 +1,6 @@
+## 20240416
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.4, Bugfix Release for April](https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed)
+
 ## 20240415
 - [Planet KDE](https://planet.kde.org/) | [KDE neon Open Door Chat](https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed)
 

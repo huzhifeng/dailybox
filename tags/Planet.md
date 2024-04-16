@@ -1,3 +1,8 @@
+## 20240416
+- [Planet virt-tools](https://planet.virt-tools.org/) | [ConfigurationManager in EDK2: just say no](https://marcin.juszkiewicz.com.pl/2024/04/16/configurationmanager-in-edk2-just-say-no/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.4, Bugfix Release for April](https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed)
+
 ## 20240415
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
 - [Planet KDE](https://planet.kde.org/) | [KDE neon Open Door Chat](https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed)

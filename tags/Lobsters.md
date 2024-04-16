@@ -1,3 +1,6 @@
+## 20240416
+- [Lobsters](https://lobste.rs/) | [No I don't want 2, Emacs](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs)
+
 ## 20240415
 - [Lobsters](https://lobste.rs/) | [Neverest, a CLI to synchronize, backup and restore emails](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore)
 

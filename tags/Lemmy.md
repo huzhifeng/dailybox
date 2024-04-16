@@ -1,3 +1,6 @@
+## 20240416
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Decades of taking it](https://lemmy.world/pictrs/image/dc88a393-7d09-450a-a253-ba7dfd5025c1.jpeg)
+
 ## 20240415
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [But how would they be able to live on that?](https://lemmy.world/pictrs/image/6700163e-ed0c-42c4-b8f0-e6f9e427e3a0.png)
 
