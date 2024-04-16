@@ -1,3 +1,6 @@
+## 20240416
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Microsoft Makes High-Stakes Play in Tech Cold War With Emirati A.I. Deal - The New York Times](https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMTYvdGVjaG5vbG9neS9taWNyb3NvZnQtZzQyLXVhZS1haS5odG1s0gEA?oc=5)
+
 ## 20240415
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI's Sora - The Verge](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMTUvMjQxMzA4MDQvYWRvYmUtcHJlbWllcmUtcHJvLWZpcmVmbHktdmlkZW8tZ2VuZXJhdGl2ZS1haS1vcGVuYWktc29yYdIBAA?oc=5)
 

@@ -1,3 +1,6 @@
+## 20240416
+- [V2EX](https://www.v2ex.com/) | [年龄已经 34 了很难找到工作了，想转 GO。](https://www.v2ex.com/t/1032851)
+
 ## 20240415
 - [V2EX](https://www.v2ex.com/) | [周末卖了一台群晖 918+ 买家开宝马来自提的](https://www.v2ex.com/t/1032558)
 

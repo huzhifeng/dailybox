@@ -1,3 +1,6 @@
+## 20240416
+- [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：为WP“报警”插件添加管理员白名单功能，减少误报](https://sophiatazar.com/archives/907.html?utm_source=blogfinder)
+
 ## 20240415
 - [BlogFinder](https://bf.zzxworld.com/) | [对话、绘图我全都要！极空间最全AI方案，超详细教程](https://panda995.xyz/network/4945.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240416
+- [Red Hat Developer](https://developers.redhat.com/) | [Containerize Node.js applications at the edge on RHEL and Fedora](https://developers.redhat.com/articles/2024/04/16/containerize-nodejs-applications-edge-rhel-and-fedora)
+
 ## 20240415
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Ansible Blog - Networking - Why do you need network automation in the AI world?](https://www.redhat.com/en/blog/why-do-you-need-network-automation-ai-world)
 

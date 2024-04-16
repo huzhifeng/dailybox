@@ -1,3 +1,11 @@
+## 20240416
+- [Red Hat Developer](https://developers.redhat.com/) | [Containerize Node.js applications at the edge on RHEL and Fedora](https://developers.redhat.com/articles/2024/04/16/containerize-nodejs-applications-edge-rhel-and-fedora)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Supports Easy Installation Of OpenZFS Root File-System With Encryption](https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS)
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.3.6 Linux Installer Improves Support for Plymouth Splash Screens](https://9to5linux.com/calamares-3-3-6-linux-installer-improves-support-for-plymouth-splash-screens)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [ConfigurationManager in EDK2: just say no](https://marcin.juszkiewicz.com.pl/2024/04/16/configurationmanager-in-edk2-just-say-no/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.4, Bugfix Release for April](https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed)
+
 ## 20240415
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Ansible Blog - Networking - Why do you need network automation in the AI world?](https://www.redhat.com/en/blog/why-do-you-need-network-automation-ai-world)
 - [Phoronix](https://www.phoronix.com/) | [openSUSE Leap Micro 6 Reaches Alpha](https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha)

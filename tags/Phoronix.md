@@ -1,3 +1,6 @@
+## 20240416
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Supports Easy Installation Of OpenZFS Root File-System With Encryption](https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS)
+
 ## 20240415
 - [Phoronix](https://www.phoronix.com/) | [openSUSE Leap Micro 6 Reaches Alpha](https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha)
 
