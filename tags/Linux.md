@@ -1,3 +1,11 @@
+## 20240417
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Monado stays ahead: Keeping pace with OpenXR 1.1 for cross-platform, open source XR](https://www.collabora.com/news-and-blog/news-and-events/monado-stays-ahead-keeping-pace-with-openxr-11-for-free-and-open-source-xr.html)
+- [Red Hat Developer](https://developers.redhat.com/) | [Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights](https://developers.redhat.com/articles/2024/04/17/synchronize-instance-tags-amazon-ec2-and-microsoft-azure-red-hat-insights)
+- [Phoronix](https://www.phoronix.com/) | [LXQt 2.0 Released For Qt6 Desktop Port, Greater Wayland Support](https://www.phoronix.com/news/LXQt-2.0-Released)
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-2-0-desktop-environment-officially-released-this-is-whats-new)
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: RAID status from LSI Megaraid controllers in Debian](https://people.skolelinux.org/pere/blog/RAID_status_from_LSI_Megaraid_controllers_in_Debian.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240416
 - [Red Hat Developer](https://developers.redhat.com/) | [Containerize Node.js applications at the edge on RHEL and Fedora](https://developers.redhat.com/articles/2024/04/16/containerize-nodejs-applications-edge-rhel-and-fedora)
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Supports Easy Installation Of OpenZFS Root File-System With Encryption](https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS)

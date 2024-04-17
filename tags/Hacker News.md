@@ -1,3 +1,8 @@
+## 20240417
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-16](https://www.daemonology.net/hn-daily/2024-04-16.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-17](https://github.com/headllines/hackernews-daily/issues/1373)
+- [Hacker News](https://news.ycombinator.com/front) | [The NSA is just days away from taking over the internet](https://news.ycombinator.com/item?id=40062271)
+
 ## 20240416
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-15](https://www.daemonology.net/hn-daily/2024-04-15.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-16](https://github.com/headllines/hackernews-daily/issues/1372)

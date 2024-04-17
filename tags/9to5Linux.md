@@ -1,3 +1,6 @@
+## 20240417
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-2-0-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20240416
 - [9to5Linux](https://9to5linux.com/) | [Calamares 3.3.6 Linux Installer Improves Support for Plymouth Splash Screens](https://9to5linux.com/calamares-3-3-6-linux-installer-improves-support-for-plymouth-splash-screens)
 

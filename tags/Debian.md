@@ -1,3 +1,6 @@
+## 20240417
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: RAID status from LSI Megaraid controllers in Debian](https://people.skolelinux.org/pere/blog/RAID_status_from_LSI_Megaraid_controllers_in_Debian.html)
+
 ## 20240414
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: Time to move orphaned Debian packages to git](https://people.skolelinux.org/pere/blog/Time_to_move_orphaned_Debian_packages_to_git.html)
 

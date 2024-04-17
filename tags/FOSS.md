@@ -1,3 +1,6 @@
+## 20240417
+- [It's FOSS](https://itsfoss.com/) | [My Raspberry Pi Turned into a Robo-Dog and I am Loving it](https://itsfoss.com/raspberry-pi-dog-review/)
+
 ## 20240412
 - [It's FOSS](https://itsfoss.com/) | [Change Video Playback Speed in VLC [Quick Tip]](https://itsfoss.com/vlc-video-speed/)
 

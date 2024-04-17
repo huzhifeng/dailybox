@@ -1,3 +1,6 @@
+## 20240417
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Logitech wants you to press its new AI button - The Verge](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMTcvMjQxMzI0NjgvbG9naXRlY2gtYWktcHJvbXB0LWJ1aWxkZXItYnV0dG9u0gEA?oc=5)
+
 ## 20240416
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Microsoft Makes High-Stakes Play in Tech Cold War With Emirati A.I. Deal - The New York Times](https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMTYvdGVjaG5vbG9neS9taWNyb3NvZnQtZzQyLXVhZS1haS5odG1s0gEA?oc=5)
 
