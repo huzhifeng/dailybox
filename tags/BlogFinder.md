@@ -1,3 +1,6 @@
+## 20240417
+- [BlogFinder](https://bf.zzxworld.com/) | [rhel8.8部署squid代理——入门](https://www.latiao.org/1859.html?utm_source=blogfinder)
+
 ## 20240416
 - [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：为WP“报警”插件添加管理员白名单功能，减少误报](https://sophiatazar.com/archives/907.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240417
+- [Red Hat Developer](https://developers.redhat.com/) | [Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights](https://developers.redhat.com/articles/2024/04/17/synchronize-instance-tags-amazon-ec2-and-microsoft-azure-red-hat-insights)
+
 ## 20240416
 - [Red Hat Developer](https://developers.redhat.com/) | [Containerize Node.js applications at the edge on RHEL and Fedora](https://developers.redhat.com/articles/2024/04/16/containerize-nodejs-applications-edge-rhel-and-fedora)
 

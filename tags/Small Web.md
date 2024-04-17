@@ -1,3 +1,6 @@
+## 20240417
+- [Kagi Small Web](https://kagi.com/smallweb) | [Platypub: back to square one](https://tfos.co/p/platypub-back-to-square-one/)
+
 ## 20240416
 - [Kagi Small Web](https://kagi.com/smallweb) | [<span class="uncaps">&lambda;&mu;</span>: Relating Constructive, Classical and Substructural Logics](https://consequently.org/presentation/2024/lambda-mu-lisbon/)
 

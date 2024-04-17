@@ -1,3 +1,7 @@
+## 20240417
+- [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: RAID status from LSI Megaraid controllers in Debian](https://people.skolelinux.org/pere/blog/RAID_status_from_LSI_Megaraid_controllers_in_Debian.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240416
 - [Planet virt-tools](https://planet.virt-tools.org/) | [ConfigurationManager in EDK2: just say no](https://marcin.juszkiewicz.com.pl/2024/04/16/configurationmanager-in-edk2-just-say-no/)
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)

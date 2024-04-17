@@ -1,3 +1,6 @@
+## 20240417
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Pls pls pls....](https://slrpnk.net/pictrs/image/de88ed5b-2a0f-4dbd-9872-3bf783892e7d.webp)
+
 ## 20240416
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Decades of taking it](https://lemmy.world/pictrs/image/dc88a393-7d09-450a-a253-ba7dfd5025c1.jpeg)
 

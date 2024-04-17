@@ -1,3 +1,6 @@
+## 20240417
+- [TED Talks Daily](https://www.ted.com/talks) | [A Palestinian and an Israeli, face to face | Aziz Abu Sarah and Maoz Inon](https://www.ted.com/talks/aziz_abu_sarah_and_maoz_inon_a_palestinian_and_an_israeli_face_to_face?rss)
+
 ## 20240416
 - [TED Talks Daily](https://www.ted.com/talks) | [What you can do to stop economic crime | Hanjo Seibert](https://www.ted.com/talks/hanjo_seibert_what_you_can_do_to_stop_economic_crime?rss)
 

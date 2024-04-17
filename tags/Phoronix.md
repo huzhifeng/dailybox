@@ -1,3 +1,6 @@
+## 20240417
+- [Phoronix](https://www.phoronix.com/) | [LXQt 2.0 Released For Qt6 Desktop Port, Greater Wayland Support](https://www.phoronix.com/news/LXQt-2.0-Released)
+
 ## 20240416
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Supports Easy Installation Of OpenZFS Root File-System With Encryption](https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS)
 

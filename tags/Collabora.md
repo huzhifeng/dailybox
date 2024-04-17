@@ -1,3 +1,6 @@
+## 20240417
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Monado stays ahead: Keeping pace with OpenXR 1.1 for cross-platform, open source XR](https://www.collabora.com/news-and-blog/news-and-events/monado-stays-ahead-keeping-pace-with-openxr-11-for-free-and-open-source-xr.html)
+
 ## 20240411
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Blast from the past at Embedded World: Atari plays for Linux](https://www.collabora.com/news-and-blog/news-and-events/blast-from-the-past-at-embedded-world-atari-plays-for-linux.html)
 
