@@ -1,3 +1,12 @@
+## 20240418
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Learn about trends and best practices from top security experts at Red Hat and NIST's Cybersecurity Open Forum](https://www.redhat.com/en/blog/red-hat-nist-cybersecurity-open-forum)
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Software Supply Chain is now available](https://developers.redhat.com/articles/2024/04/18/red-hat-trusted-software-supply-chain-now-available)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Boosts Performance, Outperforming Windows 11 On The AMD Ryzen Framework 16 Laptop](https://www.phoronix.com/review/framework-16-windows-linux)
+- [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: sup Python you okay bro](https://zaitcev.livejournal.com/266582.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Unseen Academicals](https://www.eyrie.org/~eagle/reviews/books/0-06-233500-6.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Updates for April 2024 – with a Little Heart for You!](https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed)
+
 ## 20240417
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Monado stays ahead: Keeping pace with OpenXR 1.1 for cross-platform, open source XR](https://www.collabora.com/news-and-blog/news-and-events/monado-stays-ahead-keeping-pace-with-openxr-11-for-free-and-open-source-xr.html)
 - [Red Hat Developer](https://developers.redhat.com/) | [Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights](https://developers.redhat.com/articles/2024/04/17/synchronize-instance-tags-amazon-ec2-and-microsoft-azure-red-hat-insights)

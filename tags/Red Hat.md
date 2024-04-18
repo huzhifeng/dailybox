@@ -1,3 +1,7 @@
+## 20240418
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Learn about trends and best practices from top security experts at Red Hat and NIST's Cybersecurity Open Forum](https://www.redhat.com/en/blog/red-hat-nist-cybersecurity-open-forum)
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Software Supply Chain is now available](https://developers.redhat.com/articles/2024/04/18/red-hat-trusted-software-supply-chain-now-available)
+
 ## 20240417
 - [Red Hat Developer](https://developers.redhat.com/) | [Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights](https://developers.redhat.com/articles/2024/04/17/synchronize-instance-tags-amazon-ec2-and-microsoft-azure-red-hat-insights)
 

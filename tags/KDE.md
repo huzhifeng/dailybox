@@ -1,3 +1,6 @@
+## 20240418
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Updates for April 2024 – with a Little Heart for You!](https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed)
+
 ## 20240416
 - [Planet KDE](https://planet.kde.org/) | [KDE Plasma 6.0.4, Bugfix Release for April](https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed)
 

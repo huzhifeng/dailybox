@@ -1,3 +1,6 @@
+## 20240418
+- [BlogFinder](https://bf.zzxworld.com/) | [最近观察了一下各大搜索引擎目前搜索【维基萌】这个关键词是个什么情况，大致情况如下：谷歌能搜索到维基萌...](https://www.wikimoe.com/post/zufuc40d?utm_source=blogfinder)
+
 ## 20240417
 - [BlogFinder](https://bf.zzxworld.com/) | [rhel8.8部署squid代理——入门](https://www.latiao.org/1859.html?utm_source=blogfinder)
 

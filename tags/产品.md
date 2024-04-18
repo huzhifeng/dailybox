@@ -1,3 +1,6 @@
+## 20240418
+- [Product Hunt](https://www.producthunt.com) | [Latitude](https://www.producthunt.com/posts/latitude-6)
+
 ## 20240417
 - [Product Hunt](https://www.producthunt.com) | [Tempo](https://www.producthunt.com/posts/tempo-12)
 

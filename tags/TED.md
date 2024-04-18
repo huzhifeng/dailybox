@@ -1,3 +1,6 @@
+## 20240418
+- [TED Talks Daily](https://www.ted.com/talks) | [How to be an active citizen and spark change | Gabriel Marmentini](https://www.ted.com/talks/gabriel_marmentini_how_to_be_an_active_citizen_and_spark_change?rss)
+
 ## 20240417
 - [TED Talks Daily](https://www.ted.com/talks) | [A Palestinian and an Israeli, face to face | Aziz Abu Sarah and Maoz Inon](https://www.ted.com/talks/aziz_abu_sarah_and_maoz_inon_a_palestinian_and_an_israeli_face_to_face?rss)
 

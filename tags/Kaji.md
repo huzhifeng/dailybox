@@ -1,3 +1,6 @@
+## 20240418
+- [Kagi Small Web](https://kagi.com/smallweb) | [Snap 033: A Relaxing Evening](https://blognomic.com/archive/snap_033_a_relaxing_evening)
+
 ## 20240417
 - [Kagi Small Web](https://kagi.com/smallweb) | [Platypub: back to square one](https://tfos.co/p/platypub-back-to-square-one/)
 
