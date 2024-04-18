@@ -1,3 +1,6 @@
+## 20240418
+- [Lobsters](https://lobste.rs/) | [Wayland, where are we in 2024? Any good for being the default?](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for)
+
 ## 20240417
 - [Lobsters](https://lobste.rs/) | [Hardest Problem in Computer Science: Centering Things](https://lobste.rs/s/xcwla4/hardest_problem_computer_science)
 

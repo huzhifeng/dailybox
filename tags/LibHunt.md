@@ -1,3 +1,6 @@
+## 20240418
+- [LibHunt](https://www.libhunt.com/) | [Invidious](https://www.libhunt.com/r/invidious)
+
 ## 20240417
 - [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
 

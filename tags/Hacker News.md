@@ -1,3 +1,8 @@
+## 20240418
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-17](https://www.daemonology.net/hn-daily/2024-04-17.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-18](https://github.com/headllines/hackernews-daily/issues/1374)
+- [Hacker News](https://news.ycombinator.com/front) | [Short Stack: World’s smallest Nintendo Wii](https://news.ycombinator.com/item?id=40071826)
+
 ## 20240417
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-16](https://www.daemonology.net/hn-daily/2024-04-16.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-17](https://github.com/headllines/hackernews-daily/issues/1373)

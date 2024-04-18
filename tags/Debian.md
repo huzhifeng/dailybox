@@ -1,3 +1,6 @@
+## 20240418
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Unseen Academicals](https://www.eyrie.org/~eagle/reviews/books/0-06-233500-6.html)
+
 ## 20240417
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: RAID status from LSI Megaraid controllers in Debian](https://people.skolelinux.org/pere/blog/RAID_status_from_LSI_Megaraid_controllers_in_Debian.html)
 

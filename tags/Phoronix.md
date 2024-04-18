@@ -1,3 +1,6 @@
+## 20240418
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Boosts Performance, Outperforming Windows 11 On The AMD Ryzen Framework 16 Laptop](https://www.phoronix.com/review/framework-16-windows-linux)
+
 ## 20240417
 - [Phoronix](https://www.phoronix.com/) | [LXQt 2.0 Released For Qt6 Desktop Port, Greater Wayland Support](https://www.phoronix.com/news/LXQt-2.0-Released)
 

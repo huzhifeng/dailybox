@@ -1,3 +1,6 @@
+## 20240418
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/)
+
 ## 20240417
 - [It's FOSS](https://itsfoss.com/) | [My Raspberry Pi Turned into a Robo-Dog and I am Loving it](https://itsfoss.com/raspberry-pi-dog-review/)
 

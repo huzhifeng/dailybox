@@ -1,3 +1,6 @@
+## 20240418
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Chainmail-chic is such the rage these days](https://files.catbox.moe/5g7wv7.jpg)
+
 ## 20240417
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Pls pls pls....](https://slrpnk.net/pictrs/image/de88ed5b-2a0f-4dbd-9872-3bf783892e7d.webp)
 

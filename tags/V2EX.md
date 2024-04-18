@@ -1,3 +1,6 @@
+## 20240418
+- [V2EX](https://www.v2ex.com/) | [父母不想你回家](https://www.v2ex.com/t/1033612)
+
 ## 20240417
 - [V2EX](https://www.v2ex.com/) | [在车里办公有什么比较合适的解决方案吗](https://www.v2ex.com/t/1033181)
 

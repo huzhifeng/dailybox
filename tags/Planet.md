@@ -1,3 +1,9 @@
+## 20240418
+- [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: sup Python you okay bro](https://zaitcev.livejournal.com/266582.html)
+- [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Unseen Academicals](https://www.eyrie.org/~eagle/reviews/books/0-06-233500-6.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [Breeze Icon Updates for April 2024 – with a Little Heart for You!](https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed)
+
 ## 20240417
 - [Planet Debian](https://planet.debian.org/) | [Petter Reinholdtsen: RAID status from LSI Megaraid controllers in Debian](https://people.skolelinux.org/pere/blog/RAID_status_from_LSI_Megaraid_controllers_in_Debian.html)
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
