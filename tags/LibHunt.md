@@ -1,3 +1,6 @@
+## 20240419
+- [LibHunt](https://www.libhunt.com/) | [magic](https://www.libhunt.com/r/polterguy/magic)
+
 ## 20240418
 - [LibHunt](https://www.libhunt.com/) | [Invidious](https://www.libhunt.com/r/invidious)
 

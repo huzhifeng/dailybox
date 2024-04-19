@@ -1,3 +1,6 @@
+## 20240419
+- [It's FOSS](https://itsfoss.com/) | [Get Dark Mode in VLC on Ubuntu and Other Linux](https://itsfoss.com/vlc-dark-mode/)
+
 ## 20240418
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/)
 

@@ -1,3 +1,6 @@
+## 20240419
+- [BlogFinder](https://bf.zzxworld.com/) | [找出隐藏在账单里的秘密](https://blog.ops-coffee.cn/s/devops-cloud-cost-financial-billing-finops-resource?utm_source=blogfinder)
+
 ## 20240418
 - [BlogFinder](https://bf.zzxworld.com/) | [最近观察了一下各大搜索引擎目前搜索【维基萌】这个关键词是个什么情况，大致情况如下：谷歌能搜索到维基萌...](https://www.wikimoe.com/post/zufuc40d?utm_source=blogfinder)
 

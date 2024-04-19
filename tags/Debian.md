@@ -1,3 +1,6 @@
+## 20240419
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 265 released](https://diffoscope.org/news/diffoscope-265-released/)
+
 ## 20240418
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Unseen Academicals](https://www.eyrie.org/~eagle/reviews/books/0-06-233500-6.html)
 

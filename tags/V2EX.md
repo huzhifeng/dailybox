@@ -1,3 +1,6 @@
+## 20240419
+- [V2EX](https://www.v2ex.com/) | [炒股风波](https://www.v2ex.com/t/1033945)
+
 ## 20240418
 - [V2EX](https://www.v2ex.com/) | [父母不想你回家](https://www.v2ex.com/t/1033612)
 

@@ -1,3 +1,10 @@
+## 20240419
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Preps A Kernel Panic Screen - Sort Of A "Blue Screen of Death"](https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 265 released](https://diffoscope.org/news/diffoscope-265-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed)
+
 ## 20240418
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Learn about trends and best practices from top security experts at Red Hat and NIST's Cybersecurity Open Forum](https://www.redhat.com/en/blog/red-hat-nist-cybersecurity-open-forum)
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat Trusted Software Supply Chain is now available](https://developers.redhat.com/articles/2024/04/18/red-hat-trusted-software-supply-chain-now-available)

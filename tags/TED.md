@@ -1,3 +1,6 @@
+## 20240419
+- [TED Talks Daily](https://www.ted.com/talks) | [How AI will step off the screen and into the real world | Daniela Rus](https://www.ted.com/talks/daniela_rus_how_ai_will_step_off_the_screen_and_into_the_real_world?rss)
+
 ## 20240418
 - [TED Talks Daily](https://www.ted.com/talks) | [How to be an active citizen and spark change | Gabriel Marmentini](https://www.ted.com/talks/gabriel_marmentini_how_to_be_an_active_citizen_and_spark_change?rss)
 

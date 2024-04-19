@@ -1,3 +1,6 @@
+## 20240419
+- [Product Hunt](https://www.producthunt.com) | [Bridge](https://www.producthunt.com/posts/bridge-d84f5d97-9c9f-4155-8534-b588c3bb1060)
+
 ## 20240418
 - [Product Hunt](https://www.producthunt.com) | [Latitude](https://www.producthunt.com/posts/latitude-6)
 
