@@ -1,3 +1,6 @@
+## 20240419
+- [Lobsters](https://lobste.rs/) | [LLVM is Smarter Than Me](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me)
+
 ## 20240418
 - [Lobsters](https://lobste.rs/) | [Wayland, where are we in 2024? Any good for being the default?](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for)
 

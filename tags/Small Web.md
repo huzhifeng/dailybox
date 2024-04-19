@@ -1,3 +1,6 @@
+## 20240419
+- [Kagi Small Web](https://kagi.com/smallweb) | [Choosing Your Focus: Be a Bee, Not a Fly](https://mariosfakiolas.com/blog/choosing-your-focus-be-a-bee-not-a-fly/)
+
 ## 20240418
 - [Kagi Small Web](https://kagi.com/smallweb) | [Snap 033: A Relaxing Evening](https://blognomic.com/archive/snap_033_a_relaxing_evening)
 

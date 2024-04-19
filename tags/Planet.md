@@ -1,3 +1,8 @@
+## 20240419
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 265 released](https://diffoscope.org/news/diffoscope-265-released/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed)
+
 ## 20240418
 - [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: sup Python you okay bro](https://zaitcev.livejournal.com/266582.html)
 - [Planet Debian](https://planet.debian.org/) | [Russ Allbery: Review: Unseen Academicals](https://www.eyrie.org/~eagle/reviews/books/0-06-233500-6.html)

@@ -1,3 +1,6 @@
+## 20240419
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Preps A Kernel Panic Screen - Sort Of A "Blue Screen of Death"](https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler)
+
 ## 20240418
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.04 Boosts Performance, Outperforming Windows 11 On The AMD Ryzen Framework 16 Laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 

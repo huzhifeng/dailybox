@@ -1,3 +1,6 @@
+## 20240419
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed)
+
 ## 20240418
 - [Planet KDE](https://planet.kde.org/) | [Breeze Icon Updates for April 2024 – with a Little Heart for You!](https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed)
 

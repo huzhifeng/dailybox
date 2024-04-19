@@ -1,3 +1,6 @@
+## 20240419
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Prediction: This Artificial Intelligence (AI) Stock Could Be Worth More Than Microsoft 5 Years From Now - The Motley Fool](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA0LzE5L3ByZWRpY3Rpb24tdGhpcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS1zdG9jay_SAQA?oc=5)
+
 ## 20240418
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [US Air Force confirms first successful AI dogfight - The Verge](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzQvMTgvMjQxMzM4NzAvdXMtYWlyLWZvcmNlLWFpLWRvZ2ZpZ2h0LXRlc3QteC02MmHSAQA?oc=5)
 

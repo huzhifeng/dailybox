@@ -1,3 +1,6 @@
+## 20240419
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [I&#x27;m sorry, Dave](https://sh.itjust.works/pictrs/image/2d4bd70b-ea65-407c-8755-3eeac81c429c.jpeg)
+
 ## 20240418
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Chainmail-chic is such the rage these days](https://files.catbox.moe/5g7wv7.jpg)
 
