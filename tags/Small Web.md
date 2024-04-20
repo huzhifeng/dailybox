@@ -1,3 +1,6 @@
+## 20240420
+- [Kagi Small Web](https://kagi.com/smallweb) | [Fix the macOS photos app issue  - Apple Photos app is not opening 5461 error3](https://www.youtube.com/watch?v=NXS4Mz0M-RE)
+
 ## 20240419
 - [Kagi Small Web](https://kagi.com/smallweb) | [Choosing Your Focus: Be a Bee, Not a Fly](https://mariosfakiolas.com/blog/choosing-your-focus-be-a-bee-not-a-fly/)
 

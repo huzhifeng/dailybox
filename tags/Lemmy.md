@@ -1,3 +1,6 @@
+## 20240420
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Not as expected](https://lemmy.world/pictrs/image/990be619-b4c5-4116-9915-4c88d72c9ee9.webp)
+
 ## 20240419
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [I&#x27;m sorry, Dave](https://sh.itjust.works/pictrs/image/2d4bd70b-ea65-407c-8755-3eeac81c429c.jpeg)
 

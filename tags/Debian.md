@@ -1,3 +1,6 @@
+## 20240420
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Help needed: creating a WSDL file to interact with debbugs](https://venthur.de/2024-04-20-wsdl-for-debbugs.html)
+
 ## 20240419
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 265 released](https://diffoscope.org/news/diffoscope-265-released/)
 

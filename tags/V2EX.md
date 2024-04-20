@@ -1,3 +1,6 @@
+## 20240420
+- [V2EX](https://www.v2ex.com/) | [一直以为现在的本科水，没想到这么水。](https://www.v2ex.com/t/1034211)
+
 ## 20240419
 - [V2EX](https://www.v2ex.com/) | [炒股风波](https://www.v2ex.com/t/1033945)
 

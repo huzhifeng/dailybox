@@ -1,3 +1,6 @@
+## 20240420
+- [Lobsters](https://lobste.rs/) | [Do not buy Hisense TVs (or at least keep them offline)](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them)
+
 ## 20240419
 - [Lobsters](https://lobste.rs/) | [LLVM is Smarter Than Me](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me)
 

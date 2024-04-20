@@ -1,3 +1,9 @@
+## 20240420
+- [Phoronix](https://www.phoronix.com/) | [GNOME Working To Make Key Rack A Viable Password Manager, Better Printing For Flatpaks](https://www.phoronix.com/news/GNOME-Key-Rack-PW-Manager)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Help needed: creating a WSDL file to interact with debbugs](https://venthur.de/2024-04-20-wsdl-for-debbugs.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Slashdot](https://linux.slashdot.org/) | [Firefox Nightly Expands To Linux On ARM64](https://news.slashdot.org/story/24/04/19/216227/firefox-nightly-expands-to-linux-on-arm64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240419
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Preps A Kernel Panic Screen - Sort Of A "Blue Screen of Death"](https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler)

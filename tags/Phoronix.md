@@ -1,3 +1,6 @@
+## 20240420
+- [Phoronix](https://www.phoronix.com/) | [GNOME Working To Make Key Rack A Viable Password Manager, Better Printing For Flatpaks](https://www.phoronix.com/news/GNOME-Key-Rack-PW-Manager)
+
 ## 20240419
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Preps A Kernel Panic Screen - Sort Of A "Blue Screen of Death"](https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler)
 
