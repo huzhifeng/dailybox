@@ -1,3 +1,6 @@
+## 20240420
+- [Slashdot](https://linux.slashdot.org/) | [Firefox Nightly Expands To Linux On ARM64](https://news.slashdot.org/story/24/04/19/216227/firefox-nightly-expands-to-linux-on-arm64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240414
 - [Slashdot](https://linux.slashdot.org/) | [APT Interface 'Revamped' For Ubuntu 24.10 and Debian Trixie with Colors and Columns](https://linux.slashdot.org/story/24/04/14/052258/apt-interface-revamped-for-ubuntu-2410-and-debian-trixie-with-colors-and-columns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Is PHP Declining In Popularity?](https://developers.slashdot.org/story/24/04/14/1413227/is-php-declining-in-popularity?utm_source=rss1.0mainlinkanon&utm_medium=feed)

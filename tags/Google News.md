@@ -1,3 +1,6 @@
+## 20240420
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Meta’s AI chatbot is in your Instagram and Facebook. Here’s how to use it. - The Washington Post](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDQvMjAvbWV0YS1haS1jaGF0Ym90LWhvdy10by_SAQA?oc=5)
+
 ## 20240419
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Prediction: This Artificial Intelligence (AI) Stock Could Be Worth More Than Microsoft 5 Years From Now - The Motley Fool](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA0LzE5L3ByZWRpY3Rpb24tdGhpcy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS1zdG9jay_SAQA?oc=5)
 

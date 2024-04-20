@@ -1,3 +1,6 @@
+## 20240420
+- [BlogFinder](https://bf.zzxworld.com/) | [【观自在·卅一】一怒拍案](http://www.qncd.com/?p=9409&utm_source=blogfinder)
+
 ## 20240419
 - [BlogFinder](https://bf.zzxworld.com/) | [找出隐藏在账单里的秘密](https://blog.ops-coffee.cn/s/devops-cloud-cost-financial-billing-finops-resource?utm_source=blogfinder)
 
