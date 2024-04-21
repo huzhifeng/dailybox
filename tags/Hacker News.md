@@ -1,3 +1,9 @@
+## 20240421
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-20](https://www.daemonology.net/hn-daily/2024-04-20.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-21](https://github.com/headllines/hackernews-daily/issues/1377)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-21 | DuckDuckGo 加入 AI 聊天功能， 如何平衡隐私与信息源串联](https://www.xiaoyuzhoufm.com/episode/66246954200abebe6e2dccbf)
+- [Hacker News](https://news.ycombinator.com/front) | [Programming Is Mostly Thinking (2014)](https://news.ycombinator.com/item?id=40103407)
+
 ## 20240420
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-19](https://www.daemonology.net/hn-daily/2024-04-19.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-20](https://github.com/headllines/hackernews-daily/issues/1376)

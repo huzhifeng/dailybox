@@ -1,3 +1,6 @@
+## 20240421
+- [Lobsters](https://lobste.rs/) | [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for)
+
 ## 20240420
 - [Lobsters](https://lobste.rs/) | [Do not buy Hisense TVs (or at least keep them offline)](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them)
 

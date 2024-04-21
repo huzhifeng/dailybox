@@ -1,3 +1,6 @@
+## 20240421
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05 branches created](https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed)
+
 ## 20240419
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed)
 

@@ -1,3 +1,6 @@
+## 20240421
+- [V2EX](https://www.v2ex.com/) | [使用 clash 上网时应对 dns 泄露的心得](https://www.v2ex.com/t/1034325)
+
 ## 20240420
 - [V2EX](https://www.v2ex.com/) | [一直以为现在的本科水，没想到这么水。](https://www.v2ex.com/t/1034211)
 

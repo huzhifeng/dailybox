@@ -1,3 +1,8 @@
+## 20240421
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts RDNA3+ Firmware Files For Linux Users](https://www.phoronix.com/news/AMD-RDNA3-Plus-Firmware-Files)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05 branches created](https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed)
+
 ## 20240420
 - [Phoronix](https://www.phoronix.com/) | [GNOME Working To Make Key Rack A Viable Password Manager, Better Printing For Flatpaks](https://www.phoronix.com/news/GNOME-Key-Rack-PW-Manager)
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Help needed: creating a WSDL file to interact with debbugs](https://venthur.de/2024-04-20-wsdl-for-debbugs.html)

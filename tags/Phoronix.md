@@ -1,3 +1,6 @@
+## 20240421
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts RDNA3+ Firmware Files For Linux Users](https://www.phoronix.com/news/AMD-RDNA3-Plus-Firmware-Files)
+
 ## 20240420
 - [Phoronix](https://www.phoronix.com/) | [GNOME Working To Make Key Rack A Viable Password Manager, Better Printing For Flatpaks](https://www.phoronix.com/news/GNOME-Key-Rack-PW-Manager)
 
