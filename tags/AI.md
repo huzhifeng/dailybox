@@ -1,3 +1,6 @@
+## 20240421
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Salvador Dali lobster phone uses AI to answer museum visitor questions - NPR](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yMS8xMjQ2MTE3OTU0L3NhbHZhZG9yLWRhbGktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbG9ic3Rlci10ZWxlcGhvbmUtbXVzZXVt0gEA?oc=5)
+
 ## 20240420
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Meta’s AI chatbot is in your Instagram and Facebook. Here’s how to use it. - The Washington Post](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDQvMjAvbWV0YS1haS1jaGF0Ym90LWhvdy10by_SAQA?oc=5)
 

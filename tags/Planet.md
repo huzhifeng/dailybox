@@ -1,3 +1,7 @@
+## 20240421
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05 branches created](https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed)
+
 ## 20240420
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Help needed: creating a WSDL file to interact with debbugs](https://venthur.de/2024-04-20-wsdl-for-debbugs.html)
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
