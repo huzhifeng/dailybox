@@ -1,3 +1,6 @@
+## 20240422
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [me irl](https://lemmy.world/pictrs/image/7255ae10-43ea-4d66-962b-5d7de59e5466.png)
+
 ## 20240421
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Let π = 5](https://files.catbox.moe/hjclod.jpg)
 

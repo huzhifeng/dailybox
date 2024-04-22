@@ -1,3 +1,6 @@
+## 20240422
+- [BlogFinder](https://bf.zzxworld.com/) | [翻古早游戏截图文件的时候，翻到了04年《冒险岛Online》国服内测时的一些截图。时间过得真快，将近...](https://www.wikimoe.com/post/pvvhxyn3?utm_source=blogfinder)
+
 ## 20240421
 - [BlogFinder](https://bf.zzxworld.com/) | [WordPress SQLite Docker 镜像封装细节](https://soulteary.com/2024/04/21/wordpress-sqlite-docker-image-packaging-details.html?utm_source=blogfinder)
 

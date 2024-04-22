@@ -1,3 +1,6 @@
+## 20240422
+- [Lobsters](https://lobste.rs/) | [What’s New in Go 1.22: cmp.Or](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp)
+
 ## 20240421
 - [Lobsters](https://lobste.rs/) | [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for)
 

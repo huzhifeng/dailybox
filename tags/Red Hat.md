@@ -1,3 +1,7 @@
+## 20240422
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
+- [Red Hat Developer](https://developers.redhat.com/) | [C# 12: Collection expressions and primary constructors](https://developers.redhat.com/articles/2024/04/22/c-12-collection-expressions-and-primary-constructors)
+
 ## 20240419
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
 

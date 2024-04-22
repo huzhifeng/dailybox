@@ -1,3 +1,6 @@
+## 20240422
+- [Kagi Small Web](https://kagi.com/smallweb) | [Civil War as radical literalism](https://economistwritingeveryday.com/2024/04/22/civil-war-as-radical-literalism/)
+
 ## 20240421
 - [Kagi Small Web](https://kagi.com/smallweb) | [Would Xi Jinping congratulate a drag queen?](https://laorencha.blogspot.com/2024/04/would-xi-jinping-congratulate-drag-queen.html)
 

@@ -1,3 +1,6 @@
+## 20240422
+- [TED Talks Daily](https://www.ted.com/talks) | [A climate solution? The wisdom passed down through generations | Louise Mabulo](https://www.ted.com/talks/louise_mabulo_a_climate_solution_the_wisdom_passed_down_through_generations?rss)
+
 ## 20240419
 - [TED Talks Daily](https://www.ted.com/talks) | [How AI will step off the screen and into the real world | Daniela Rus](https://www.ted.com/talks/daniela_rus_how_ai_will_step_off_the_screen_and_into_the_real_world?rss)
 
