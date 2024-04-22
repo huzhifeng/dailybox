@@ -1,3 +1,6 @@
+## 20240422
+- [diff.blog](https://diff.blog/) | [curl is just the hobby](https://diff.blog/post/curl-is-just-the-hobby-174411/)
+
 ## 20240415
 - [diff.blog](https://diff.blog/) | [Supabase Swift](https://diff.blog/post/supabase-swift-174037/)
 

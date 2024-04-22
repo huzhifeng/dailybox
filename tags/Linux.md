@@ -1,3 +1,12 @@
+## 20240422
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
+- [Red Hat Developer](https://developers.redhat.com/) | [C# 12: Collection expressions and primary constructors](https://developers.redhat.com/articles/2024/04/22/c-12-collection-expressions-and-primary-constructors)
+- [Phoronix](https://www.phoronix.com/) | [Kioxia KCD8XPUG1T92 CD8P-R & KCMYXVUG3T20 CM7-V PCIe 5.0 SSDs](https://www.phoronix.com/review/kioxia-pcie5-cd8p-cm7v-ssds)
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.5 Released with Cloud Saving, Beat Detection, Pitch Shifting, and More](https://9to5linux.com/audacity-3-5-released-with-cloud-saving-beat-detection-pitch-shifting-and-more)
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 7.0 Released with iTunes & fyyd Search](https://www.omglinux.com/gnome-podcasts-7-0-released-with-itunes-podcast-search/)
+- [Planet Debian](https://planet.debian.org/) | [Vincent Fourmond: QSoas version 3.3 is out](https://vince-debian.blogspot.com/2024/04/qsoas-version-33-is-out.html)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240421
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts RDNA3+ Firmware Files For Linux Users](https://www.phoronix.com/news/AMD-RDNA3-Plus-Firmware-Files)
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)

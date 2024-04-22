@@ -1,3 +1,6 @@
+## 20240422
+- [Planet Debian](https://planet.debian.org/) | [Vincent Fourmond: QSoas version 3.3 is out](https://vince-debian.blogspot.com/2024/04/qsoas-version-33-is-out.html)
+
 ## 20240420
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: Help needed: creating a WSDL file to interact with debbugs](https://venthur.de/2024-04-20-wsdl-for-debbugs.html)
 

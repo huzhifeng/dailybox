@@ -1,3 +1,6 @@
+## 20240422
+- [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 7.0 Released with iTunes & fyyd Search](https://www.omglinux.com/gnome-podcasts-7-0-released-with-itunes-podcast-search/)
+
 ## 20240408
 - [OMG! Linux](https://www.omglinux.com/) | [Fragments Torrent App Update Adds Much-Requested Feature](https://www.omglinux.com/fragments-torrent-app-update-adds-much-requested-feature/)
 

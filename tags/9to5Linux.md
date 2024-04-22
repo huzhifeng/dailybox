@@ -1,3 +1,6 @@
+## 20240422
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.5 Released with Cloud Saving, Beat Detection, Pitch Shifting, and More](https://9to5linux.com/audacity-3-5-released-with-cloud-saving-beat-detection-pitch-shifting-and-more)
+
 ## 20240417
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.0 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/lxqt-2-0-desktop-environment-officially-released-this-is-whats-new)
 

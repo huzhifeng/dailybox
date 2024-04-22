@@ -1,3 +1,6 @@
+## 20240422
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 22.04 vs 24.04: What Has Changed?](https://itsfoss.com/ubuntu-24-04-vs-22-04/)
+
 ## 20240419
 - [It's FOSS](https://itsfoss.com/) | [Get Dark Mode in VLC on Ubuntu and Other Linux](https://itsfoss.com/vlc-dark-mode/)
 

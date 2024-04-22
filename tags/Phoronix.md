@@ -1,3 +1,6 @@
+## 20240422
+- [Phoronix](https://www.phoronix.com/) | [Kioxia KCD8XPUG1T92 CD8P-R & KCMYXVUG3T20 CM7-V PCIe 5.0 SSDs](https://www.phoronix.com/review/kioxia-pcie5-cd8p-cm7v-ssds)
+
 ## 20240421
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts RDNA3+ Firmware Files For Linux Users](https://www.phoronix.com/news/AMD-RDNA3-Plus-Firmware-Files)
 

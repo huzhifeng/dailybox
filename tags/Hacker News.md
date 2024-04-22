@@ -1,3 +1,9 @@
+## 20240422
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-21](https://www.daemonology.net/hn-daily/2024-04-21.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-22](https://github.com/headllines/hackernews-daily/issues/1378)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-22 | 我买了 300 个 emoji 域名做邮件服务，一周赚了$1000](https://www.xiaoyuzhoufm.com/episode/6625c583200abebe6e5e0e98)
+- [Hacker News](https://news.ycombinator.com/front) | [Equinox.space](https://news.ycombinator.com/item?id=40113013)
+
 ## 20240421
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-20](https://www.daemonology.net/hn-daily/2024-04-20.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-21](https://github.com/headllines/hackernews-daily/issues/1377)

@@ -1,3 +1,6 @@
+## 20240422
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Billionaire Stan Druckenmiller Is Selling Nvidia and Buying 2 Artificial Intelligence (AI) Stocks Instead - Yahoo Finance](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9iaWxsaW9uYWlyZS1zdGFuLWRydWNrZW5taWxsZXItc2VsbGluZy1udmlkaWEtMDkyNDAwMzczLmh0bWzSAQA?oc=5)
+
 ## 20240421
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Salvador Dali lobster phone uses AI to answer museum visitor questions - NPR](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yMS8xMjQ2MTE3OTU0L3NhbHZhZG9yLWRhbGktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbG9ic3Rlci10ZWxlcGhvbmUtbXVzZXVt0gEA?oc=5)
 
