@@ -1,3 +1,6 @@
+## 20240423
+- [Lobsters](https://lobste.rs/) | [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure)
+
 ## 20240422
 - [Lobsters](https://lobste.rs/) | [What’s New in Go 1.22: cmp.Or](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp)
 

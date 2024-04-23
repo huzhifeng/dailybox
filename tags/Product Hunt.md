@@ -1,3 +1,6 @@
+## 20240423
+- [Product Hunt](https://www.producthunt.com) | [Pinggy](https://www.producthunt.com/posts/pinggy-2)
+
 ## 20240422
 - [Product Hunt](https://www.producthunt.com) | [Jubilee](https://www.producthunt.com/posts/jubilee)
 

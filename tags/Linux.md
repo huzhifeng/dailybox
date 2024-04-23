@@ -1,3 +1,9 @@
+## 20240423
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
+- [Phoronix](https://www.phoronix.com/) | [Framework Raises $18M In New Funding, More Collaborations Coming With Cooler Master](https://www.phoronix.com/news/Framework-More-Funding)
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Fedora 2 Laptops Launch with Fedora Linux 40 Workstation](https://9to5linux.com/slimbook-fedora-2-laptops-launch-with-fedora-linux-40-workstation)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240422
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
 - [Red Hat Developer](https://developers.redhat.com/) | [C# 12: Collection expressions and primary constructors](https://developers.redhat.com/articles/2024/04/22/c-12-collection-expressions-and-primary-constructors)

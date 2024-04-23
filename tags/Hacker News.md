@@ -1,3 +1,8 @@
+## 20240423
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-22](https://www.daemonology.net/hn-daily/2024-04-22.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-23](https://github.com/headllines/hackernews-daily/issues/1379)
+- [Hacker News](https://news.ycombinator.com/front) | [Phi-3 Technical Report](https://news.ycombinator.com/item?id=40127806)
+
 ## 20240422
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-21](https://www.daemonology.net/hn-daily/2024-04-21.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-22](https://github.com/headllines/hackernews-daily/issues/1378)

@@ -1,3 +1,6 @@
+## 20240423
+- [Phoronix](https://www.phoronix.com/) | [Framework Raises $18M In New Funding, More Collaborations Coming With Cooler Master](https://www.phoronix.com/news/Framework-More-Funding)
+
 ## 20240422
 - [Phoronix](https://www.phoronix.com/) | [Kioxia KCD8XPUG1T92 CD8P-R & KCMYXVUG3T20 CM7-V PCIe 5.0 SSDs](https://www.phoronix.com/review/kioxia-pcie5-cd8p-cm7v-ssds)
 

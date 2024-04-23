@@ -1,3 +1,6 @@
+## 20240423
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240422
 - [Planet Debian](https://planet.debian.org/) | [Vincent Fourmond: QSoas version 3.3 is out](https://vince-debian.blogspot.com/2024/04/qsoas-version-33-is-out.html)
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)

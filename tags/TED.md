@@ -1,3 +1,6 @@
+## 20240423
+- [TED Talks Daily](https://www.ted.com/talks) | [The art of persuasive storytelling | Kelly D. Parker](https://www.ted.com/talks/kelly_d_parker_the_art_of_persuasive_storytelling?rss)
+
 ## 20240422
 - [TED Talks Daily](https://www.ted.com/talks) | [A climate solution? The wisdom passed down through generations | Louise Mabulo](https://www.ted.com/talks/louise_mabulo_a_climate_solution_the_wisdom_passed_down_through_generations?rss)
 

@@ -1,3 +1,6 @@
+## 20240423
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Fedora 2 Laptops Launch with Fedora Linux 40 Workstation](https://9to5linux.com/slimbook-fedora-2-laptops-launch-with-fedora-linux-40-workstation)
+
 ## 20240422
 - [9to5Linux](https://9to5linux.com/) | [Audacity 3.5 Released with Cloud Saving, Beat Detection, Pitch Shifting, and More](https://9to5linux.com/audacity-3-5-released-with-cloud-saving-beat-detection-pitch-shifting-and-more)
 

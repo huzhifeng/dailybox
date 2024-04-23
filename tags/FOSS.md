@@ -1,3 +1,6 @@
+## 20240423
+- [It's FOSS](https://itsfoss.com/) | [How to Make Bash Function Return Value](https://itsfoss.com/bash-function-return-value/)
+
 ## 20240422
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 22.04 vs 24.04: What Has Changed?](https://itsfoss.com/ubuntu-24-04-vs-22-04/)
 
