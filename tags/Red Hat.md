@@ -1,3 +1,6 @@
+## 20240423
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
+
 ## 20240422
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
 - [Red Hat Developer](https://developers.redhat.com/) | [C# 12: Collection expressions and primary constructors](https://developers.redhat.com/articles/2024/04/22/c-12-collection-expressions-and-primary-constructors)

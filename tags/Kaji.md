@@ -1,3 +1,6 @@
+## 20240423
+- [Kagi Small Web](https://kagi.com/smallweb) | [Meandering thoughts on the F word, feelings, and teamwork](https://artlung.com/blog/2024/04/23/meandering-thoughts-on-the-f-word-feelings-and-teamwork/)
+
 ## 20240422
 - [Kagi Small Web](https://kagi.com/smallweb) | [Civil War as radical literalism](https://economistwritingeveryday.com/2024/04/22/civil-war-as-radical-literalism/)
 

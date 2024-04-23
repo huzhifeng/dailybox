@@ -1,3 +1,6 @@
+## 20240423
+- [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
+
 ## 20240422
 - [LibHunt](https://www.libhunt.com/) | [recess](https://www.libhunt.com/r/yakkomajuri/recess)
 
