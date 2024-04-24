@@ -1,3 +1,8 @@
+## 20240424
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Using syslog-ng on multiple platforms](https://peter.czanik.hu/other/syslog-ng-using-on-multiple-platforms/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Source Code With Emoji](https://etbe.coker.com.au/2024/04/24/source-code-with-emoji/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240423
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
 

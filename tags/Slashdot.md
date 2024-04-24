@@ -1,3 +1,6 @@
+## 20240424
+- [Slashdot](https://developers.slashdot.org/) | [Oracle Is Moving Its World Headquarters To Nashville](https://developers.slashdot.org/story/24/04/23/2234216/oracle-is-moving-its-world-headquarters-to-nashville?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240420
 - [Slashdot](https://linux.slashdot.org/) | [Firefox Nightly Expands To Linux On ARM64](https://news.slashdot.org/story/24/04/19/216227/firefox-nightly-expands-to-linux-on-arm64?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,6 @@
+## 20240424
+- [Lobsters](https://lobste.rs/) | [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
+
 ## 20240423
 - [Lobsters](https://lobste.rs/) | [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure)
 

@@ -1,3 +1,6 @@
+## 20240424
+- [9to5Linux](https://9to5linux.com/) | [QEMU 9.0 Released with Raspberry Pi 4 Support, LoongArch KVM Acceleration](https://9to5linux.com/qemu-9-0-released-with-raspberry-pi-4-support-loongarch-kvm-acceleration)
+
 ## 20240423
 - [9to5Linux](https://9to5linux.com/) | [Slimbook Fedora 2 Laptops Launch with Fedora Linux 40 Workstation](https://9to5linux.com/slimbook-fedora-2-laptops-launch-with-fedora-linux-40-workstation)
 

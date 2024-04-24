@@ -1,3 +1,6 @@
+## 20240424
+- [Kagi Small Web](https://kagi.com/smallweb) | [Musings: A Common Misconception](https://denisegaskins.com/2024/04/24/musings-a-common-misconception/)
+
 ## 20240423
 - [Kagi Small Web](https://kagi.com/smallweb) | [Meandering thoughts on the F word, feelings, and teamwork](https://artlung.com/blog/2024/04/23/meandering-thoughts-on-the-f-word-feelings-and-teamwork/)
 

@@ -1,3 +1,8 @@
+## 20240424
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-23](https://www.daemonology.net/hn-daily/2024-04-23.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-24](https://github.com/headllines/hackernews-daily/issues/1380)
+- [Hacker News](https://news.ycombinator.com/front) | [CoreNet: A library for training deep neural networks](https://news.ycombinator.com/item?id=40139398)
+
 ## 20240423
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-22](https://www.daemonology.net/hn-daily/2024-04-22.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-23](https://github.com/headllines/hackernews-daily/issues/1379)

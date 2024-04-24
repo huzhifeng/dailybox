@@ -1,3 +1,11 @@
+## 20240424
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.15 is now available](https://www.redhat.com/en/blog/red-hat-satellite-615-now-available)
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 vs. LLVM Clang 18 Compiler Performance On Fedora 40](https://www.phoronix.com/review/gcc14-clang18-amd-zen4)
+- [9to5Linux](https://9to5linux.com/) | [QEMU 9.0 Released with Raspberry Pi 4 Support, LoongArch KVM Acceleration](https://9to5linux.com/qemu-9-0-released-with-raspberry-pi-4-support-loongarch-kvm-acceleration)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Using syslog-ng on multiple platforms](https://peter.czanik.hu/other/syslog-ng-using-on-multiple-platforms/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Source Code With Emoji](https://etbe.coker.com.au/2024/04/24/source-code-with-emoji/)
+- [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
+
 ## 20240423
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
 - [Phoronix](https://www.phoronix.com/) | [Framework Raises $18M In New Funding, More Collaborations Coming With Cooler Master](https://www.phoronix.com/news/Framework-More-Funding)

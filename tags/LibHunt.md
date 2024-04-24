@@ -1,3 +1,6 @@
+## 20240424
+- [LibHunt](https://www.libhunt.com/) | [prettier](https://www.libhunt.com/r/prettier)
+
 ## 20240423
 - [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
 
