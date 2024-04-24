@@ -1,3 +1,6 @@
+## 20240424
+- [V2EX](https://www.v2ex.com/) | [发小让我帮他贷款签字 我应该同意吗](https://www.v2ex.com/t/1035269)
+
 ## 20240423
 - [V2EX](https://www.v2ex.com/) | [看到隔壁老哥失恋，我也很想来问一下](https://www.v2ex.com/t/1034985)
 

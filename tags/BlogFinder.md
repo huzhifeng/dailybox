@@ -1,3 +1,6 @@
+## 20240424
+- [BlogFinder](https://bf.zzxworld.com/) | [GitHub Desktop：让代码托管不再高深莫测](https://blog.talen.top/posts/c941865b.html?utm_source=blogfinder)
+
 ## 20240423
 - [BlogFinder](https://bf.zzxworld.com/) | [Typecho 相册主题：Snapic Plus v5](http://www.lopwon.com/3641.html?utm_source=blogfinder)
 

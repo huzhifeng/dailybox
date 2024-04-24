@@ -1,3 +1,6 @@
+## 20240424
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.15 is now available](https://www.redhat.com/en/blog/red-hat-satellite-615-now-available)
+
 ## 20240423
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
 

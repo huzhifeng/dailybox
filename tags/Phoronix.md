@@ -1,3 +1,6 @@
+## 20240424
+- [Phoronix](https://www.phoronix.com/) | [GCC 14 vs. LLVM Clang 18 Compiler Performance On Fedora 40](https://www.phoronix.com/review/gcc14-clang18-amd-zen4)
+
 ## 20240423
 - [Phoronix](https://www.phoronix.com/) | [Framework Raises $18M In New Funding, More Collaborations Coming With Cooler Master](https://www.phoronix.com/news/Framework-More-Funding)
 

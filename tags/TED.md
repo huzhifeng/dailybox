@@ -1,3 +1,6 @@
+## 20240424
+- [TED Talks Daily](https://www.ted.com/talks) | [The weird and wonderful AI art of Niceaunties |  Niceaunties](https://www.ted.com/talks/niceaunties_the_weird_and_wonderful_ai_art_of_niceaunties?rss)
+
 ## 20240423
 - [TED Talks Daily](https://www.ted.com/talks) | [The art of persuasive storytelling | Kelly D. Parker](https://www.ted.com/talks/kelly_d_parker_the_art_of_persuasive_storytelling?rss)
 

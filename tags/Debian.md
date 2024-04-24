@@ -1,3 +1,6 @@
+## 20240424
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Source Code With Emoji](https://etbe.coker.com.au/2024/04/24/source-code-with-emoji/)
+
 ## 20240422
 - [Planet Debian](https://planet.debian.org/) | [Vincent Fourmond: QSoas version 3.3 is out](https://vince-debian.blogspot.com/2024/04/qsoas-version-33-is-out.html)
 

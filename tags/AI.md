@@ -1,3 +1,6 @@
+## 20240424
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Rabbit R1 hands-on: early tests with the $199 AI gadget - The Verge](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDEzODc0Ni9yYWJiaXQtcjEtaGFuZHMtb24tYWktZ2FkZ2V0LWNoYXRncHTSAQA?oc=5)
+
 ## 20240423
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Soiled nappies and karate: AI-rendered Putin biopic to be released - The Guardian](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9maWxtLzIwMjQvYXByLzIzL3B1dGluLWFpLWJpb3BpYy1yZWFkaWVzLWZvci1yZWxlYXNlLWJlc2FsZWVs0gEA?oc=5)
 

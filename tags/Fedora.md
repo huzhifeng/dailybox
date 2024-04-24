@@ -1,3 +1,6 @@
+## 20240424
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Using syslog-ng on multiple platforms](https://peter.czanik.hu/other/syslog-ng-using-on-multiple-platforms/)
+
 ## 20240405
 - [Planet Fedora](http://fedoraplanet.org/) | [Andreas Schneider: KDE: “Run a command” on notification trigger](https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/)
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: 2024 Git Forge Evaluation](https://communityblog.fedoraproject.org/2024-git-forge-evaluation/)
