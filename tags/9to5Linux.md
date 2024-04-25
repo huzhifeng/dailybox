@@ -1,3 +1,6 @@
+## 20240425
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-24-04-official-flavors-are-now-available-for-download-heres-whats-new)
+
 ## 20240424
 - [9to5Linux](https://9to5linux.com/) | [QEMU 9.0 Released with Raspberry Pi 4 Support, LoongArch KVM Acceleration](https://9to5linux.com/qemu-9-0-released-with-raspberry-pi-4-support-loongarch-kvm-acceleration)
 

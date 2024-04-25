@@ -1,3 +1,10 @@
+## 20240425
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVINO 2024.1 With More Gen AI & LLM Features](https://www.phoronix.com/news/Intel-OpenVINO-2024.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-24-04-official-flavors-are-now-available-for-download-heres-whats-new)
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Biosphere](https://jmtd.net/log/biosphere/)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 3](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed)
+
 ## 20240424
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.15 is now available](https://www.redhat.com/en/blog/red-hat-satellite-615-now-available)
 - [Phoronix](https://www.phoronix.com/) | [GCC 14 vs. LLVM Clang 18 Compiler Performance On Fedora 40](https://www.phoronix.com/review/gcc14-clang18-amd-zen4)

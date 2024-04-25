@@ -1,3 +1,6 @@
+## 20240425
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 3](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed)
+
 ## 20240421
 - [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05 branches created](https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed)
 

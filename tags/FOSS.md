@@ -1,3 +1,6 @@
+## 20240425
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 24.04 LTS Review: Big Changes & Sleek User Experience](https://itsfoss.com/ubuntu-24-04-lts-review/)
+
 ## 20240423
 - [It's FOSS](https://itsfoss.com/) | [How to Make Bash Function Return Value](https://itsfoss.com/bash-function-return-value/)
 

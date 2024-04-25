@@ -1,3 +1,7 @@
+## 20240425
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Biosphere](https://jmtd.net/log/biosphere/)
+- [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 3](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed)
+
 ## 20240424
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Using syslog-ng on multiple platforms](https://peter.czanik.hu/other/syslog-ng-using-on-multiple-platforms/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Source Code With Emoji](https://etbe.coker.com.au/2024/04/24/source-code-with-emoji/)

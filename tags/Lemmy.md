@@ -1,3 +1,6 @@
+## 20240425
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [YARRR](https://slrpnk.net/pictrs/image/e38af58e-8c54-461c-b969-98e1d583099c.webp)
+
 ## 20240424
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [⭐ rockstar developers ⭐](https://lemmy.blahaj.zone/pictrs/image/21afb0f5-5af1-443b-aebb-bc3a4db408b6.webp)
 

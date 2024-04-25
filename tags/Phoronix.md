@@ -1,3 +1,6 @@
+## 20240425
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVINO 2024.1 With More Gen AI & LLM Features](https://www.phoronix.com/news/Intel-OpenVINO-2024.1-Released)
+
 ## 20240424
 - [Phoronix](https://www.phoronix.com/) | [GCC 14 vs. LLVM Clang 18 Compiler Performance On Fedora 40](https://www.phoronix.com/review/gcc14-clang18-amd-zen4)
 
