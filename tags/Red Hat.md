@@ -1,3 +1,6 @@
+## 20240425
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
+
 ## 20240424
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Satellite 6.15 is now available](https://www.redhat.com/en/blog/red-hat-satellite-615-now-available)
 

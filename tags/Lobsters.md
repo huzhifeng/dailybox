@@ -1,3 +1,6 @@
+## 20240425
+- [Lobsters](https://lobste.rs/) | [Ruby might be faster than you think](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think)
+
 ## 20240424
 - [Lobsters](https://lobste.rs/) | [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 

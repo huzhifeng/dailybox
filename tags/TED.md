@@ -1,3 +1,6 @@
+## 20240425
+- [TED Talks Daily](https://www.ted.com/talks) | [How to live with fire | Oral McGuire](https://www.ted.com/talks/oral_mcguire_how_to_live_with_fire?rss)
+
 ## 20240424
 - [TED Talks Daily](https://www.ted.com/talks) | [The weird and wonderful AI art of Niceaunties |  Niceaunties](https://www.ted.com/talks/niceaunties_the_weird_and_wonderful_ai_art_of_niceaunties?rss)
 

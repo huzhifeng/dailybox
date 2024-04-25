@@ -1,3 +1,6 @@
+## 20240425
+- [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Biosphere](https://jmtd.net/log/biosphere/)
+
 ## 20240424
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Source Code With Emoji](https://etbe.coker.com.au/2024/04/24/source-code-with-emoji/)
 

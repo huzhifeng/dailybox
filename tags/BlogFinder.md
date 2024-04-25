@@ -1,3 +1,6 @@
+## 20240425
+- [BlogFinder](https://bf.zzxworld.com/) | [又到一年一季的稻谷栽种时刻](https://luolt.cn/archives/2779.html?utm_source=blogfinder)
+
 ## 20240424
 - [BlogFinder](https://bf.zzxworld.com/) | [GitHub Desktop：让代码托管不再高深莫测](https://blog.talen.top/posts/c941865b.html?utm_source=blogfinder)
 

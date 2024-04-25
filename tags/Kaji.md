@@ -1,3 +1,6 @@
+## 20240425
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Great Migration: Configuring the Server](https://eric.mann.blog/great-migration-server-configuration/)
+
 ## 20240424
 - [Kagi Small Web](https://kagi.com/smallweb) | [Musings: A Common Misconception](https://denisegaskins.com/2024/04/24/musings-a-common-misconception/)
 
