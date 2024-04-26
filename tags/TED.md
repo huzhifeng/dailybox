@@ -1,3 +1,6 @@
+## 20240426
+- [TED Talks Daily](https://www.ted.com/talks) | [The secret ingredient of business success | Pete Stavros](https://www.ted.com/talks/pete_stavros_the_secret_ingredient_of_business_success?rss)
+
 ## 20240425
 - [TED Talks Daily](https://www.ted.com/talks) | [How to live with fire | Oral McGuire](https://www.ted.com/talks/oral_mcguire_how_to_live_with_fire?rss)
 

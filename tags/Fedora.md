@@ -1,3 +1,6 @@
+## 20240426
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 17 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-17-2024/)
+
 ## 20240424
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: Using syslog-ng on multiple platforms](https://peter.czanik.hu/other/syslog-ng-using-on-multiple-platforms/)
 

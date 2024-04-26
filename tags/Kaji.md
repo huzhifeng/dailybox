@@ -1,3 +1,6 @@
+## 20240426
+- [Kagi Small Web](https://kagi.com/smallweb) | [Four new art pieces, with style experiments on some of them. Come unto Christ II:    In Your Mind an...](https://bencrowder.net/blog/2024/4.26/)
+
 ## 20240425
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Great Migration: Configuring the Server](https://eric.mann.blog/great-migration-server-configuration/)
 

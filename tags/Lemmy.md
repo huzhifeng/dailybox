@@ -1,3 +1,6 @@
+## 20240426
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Linux  Salesman](https://lemmy.world/pictrs/image/3d498790-0f07-4c8b-ae00-c860e3d9c5f7.png)
+
 ## 20240425
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [YARRR](https://slrpnk.net/pictrs/image/e38af58e-8c54-461c-b969-98e1d583099c.webp)
 

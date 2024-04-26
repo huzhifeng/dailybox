@@ -1,3 +1,6 @@
+## 20240426
+- [Planet GNOME](https://planet.gnome.org/) | [Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+
 ## 20240424
 - [Planet GNOME](https://planet.gnome.org/) | [23 Apr 2024](https://tirania.org/blog/archive/2024/Apr-23.html)
 
