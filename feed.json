@@ -9,6 +9,15 @@
 			"tags": ["开源日报", "开源"]
 		},
 		{
+			"channel": "开源服务指南",
+			"portal": "https://osguider.com/blog/",
+			"portal2": "https://github.com/osguider/blog/",
+			"url": "https://osguider.com/blog/index.xml",
+			"filter": ["开源日报", "开源专题"],
+			"category": "开源",
+			"tags": ["开源日报", "开源专题", "开源"]
+		},
+		{
 			"channel": "开源之道",
 			"portal": "https://opensourceway.community/",
 			"url": "https://opensourceway.community/index.xml",
