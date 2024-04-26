@@ -1,3 +1,6 @@
+## 20240426
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed)
+
 ## 20240425
 - [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 3](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed)
 

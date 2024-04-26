@@ -1,3 +1,9 @@
+## 20240426
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 17 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-17-2024/)
+- [Planet Debian](https://planet.debian.org/) | [Robert McQueen: Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+- [Planet GNOME](https://planet.gnome.org/) | [Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed)
+
 ## 20240425
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Biosphere](https://jmtd.net/log/biosphere/)
 - [Planet KDE](https://planet.kde.org/) | [Mixing C++ and Rust for Fun and Profit: Part 3](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed)

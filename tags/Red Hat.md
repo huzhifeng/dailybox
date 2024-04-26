@@ -1,3 +1,7 @@
+## 20240426
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Redefining development: The retrieval-augmented generation (RAG) revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
+- [Red Hat Developer](https://developers.redhat.com/) | [Create a Red Hat OpenShift AI environment](https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment)
+
 ## 20240425
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
 

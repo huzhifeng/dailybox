@@ -1,3 +1,6 @@
+## 20240426
+- [Planet Debian](https://planet.debian.org/) | [Robert McQueen: Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+
 ## 20240425
 - [Planet Debian](https://planet.debian.org/) | [Jonathan Dowland: Biosphere](https://jmtd.net/log/biosphere/)
 

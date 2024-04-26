@@ -1,3 +1,8 @@
+## 20240426
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-25](https://www.daemonology.net/hn-daily/2024-04-25.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-26](https://github.com/headllines/hackernews-daily/issues/1382)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-26 ｜ 拜登签署 TikTok 法案，字节跳动面临剥离压力](https://www.xiaoyuzhoufm.com/episode/662b68086a3c2ef095de3da9)
+
 ## 20240425
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-24](https://www.daemonology.net/hn-daily/2024-04-24.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-25](https://github.com/headllines/hackernews-daily/issues/1381)

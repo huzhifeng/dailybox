@@ -1,3 +1,6 @@
+## 20240426
+- [BlogFinder](https://bf.zzxworld.com/) | [如何使用 HTML 和 CSS 实现一个简单的弹窗？](https://leileiluoluo.com/posts/creating-a-popup-box-using-html-and-css.html?utm_source=blogfinder)
+
 ## 20240425
 - [BlogFinder](https://bf.zzxworld.com/) | [又到一年一季的稻谷栽种时刻](https://luolt.cn/archives/2779.html?utm_source=blogfinder)
 

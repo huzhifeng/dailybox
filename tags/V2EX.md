@@ -1,3 +1,6 @@
+## 20240426
+- [V2EX](https://www.v2ex.com/) | [远离阿里](https://www.v2ex.com/t/1035856)
+
 ## 20240425
 - [V2EX](https://www.v2ex.com/) | [号称永不跑路的 freewhale 也跑路了。](https://www.v2ex.com/t/1035627)
 

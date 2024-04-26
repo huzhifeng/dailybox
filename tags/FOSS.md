@@ -1,3 +1,6 @@
+## 20240426
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.17: All About Ubuntu 24.04 LTS and Fedora 40 Releases](https://itsfoss.com/newsletter/foss-weekly-24-17/)
+
 ## 20240425
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 24.04 LTS Review: Big Changes & Sleek User Experience](https://itsfoss.com/ubuntu-24-04-lts-review/)
 

@@ -1,3 +1,6 @@
+## 20240426
+- [Phoronix](https://www.phoronix.com/) | [New Patches Significantly Reduce Zink Driver Startup Time](https://www.phoronix.com/news/Faster-Zink-Start-Time-Patches)
+
 ## 20240425
 - [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVINO 2024.1 With More Gen AI & LLM Features](https://www.phoronix.com/news/Intel-OpenVINO-2024.1-Released)
 

@@ -1,3 +1,12 @@
+## 20240426
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Redefining development: The retrieval-augmented generation (RAG) revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
+- [Red Hat Developer](https://developers.redhat.com/) | [Create a Red Hat OpenShift AI environment](https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment)
+- [Phoronix](https://www.phoronix.com/) | [New Patches Significantly Reduce Zink Driver Startup Time](https://www.phoronix.com/news/Faster-Zink-Start-Time-Patches)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 17 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-17-2024/)
+- [Planet Debian](https://planet.debian.org/) | [Robert McQueen: Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+- [Planet GNOME](https://planet.gnome.org/) | [Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed)
+
 ## 20240425
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
 - [Phoronix](https://www.phoronix.com/) | [Intel Releases OpenVINO 2024.1 With More Gen AI & LLM Features](https://www.phoronix.com/news/Intel-OpenVINO-2024.1-Released)

@@ -1,3 +1,6 @@
+## 20240426
+- [Product Hunt](https://www.producthunt.com) | [Meeting Muse by beams](https://www.producthunt.com/posts/meeting-muse-by-beams)
+
 ## 20240425
 - [Product Hunt](https://www.producthunt.com) | [BePresent](https://www.producthunt.com/posts/bepresent)
 
