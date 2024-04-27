@@ -1,3 +1,6 @@
+## 20240427
+- [BlogFinder](https://bf.zzxworld.com/) | [解决升级umamiv2.11时出现的P3009错误](https://xingpingcn.top/solve-p3009-error-using-umami.html?utm_source=blogfinder)
+
 ## 20240426
 - [BlogFinder](https://bf.zzxworld.com/) | [如何使用 HTML 和 CSS 实现一个简单的弹窗？](https://leileiluoluo.com/posts/creating-a-popup-box-using-html-and-css.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240427
+- [Lobsters](https://lobste.rs/) | [Clang's -O0 output: branch displacement and size increase](https://lobste.rs/s/lxsgmu/clang_s_o0_output_branch_displacement)
+
 ## 20240426
 - [Lobsters](https://lobste.rs/) | [Passkeys: A Shattered Dream](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream)
 

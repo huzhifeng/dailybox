@@ -1,3 +1,7 @@
+## 20240427
+- [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.1 GPU LLM Offloading Works Now With More AMD GPUs](https://www.phoronix.com/news/Llamafile-0.8.1-Released)
+- [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)
+
 ## 20240426
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Redefining development: The retrieval-augmented generation (RAG) revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
 - [Red Hat Developer](https://developers.redhat.com/) | [Create a Red Hat OpenShift AI environment](https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment)

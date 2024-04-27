@@ -1,3 +1,8 @@
+## 20240427
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-26](https://www.daemonology.net/hn-daily/2024-04-26.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-27](https://github.com/headllines/hackernews-daily/issues/1387)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-27｜ 微软已经放出36年前发布的MS-DOS 4.0版源代码 供有兴趣的爱好者们研究](https://www.xiaoyuzhoufm.com/episode/662b72858a089719b7fa0554)
+
 ## 20240426
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-25](https://www.daemonology.net/hn-daily/2024-04-25.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-26](https://github.com/headllines/hackernews-daily/issues/1382)
