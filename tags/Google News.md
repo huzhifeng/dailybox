@@ -1,3 +1,6 @@
+## 20240427
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [I Witnessed the Future of AI, and It's a Broken Toy - The Atlantic](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS90ZWNobm9sb2d5L2FyY2hpdmUvMjAyNC8wNC9yYWJiaXQtcjEtaW1wcmVzc2lvbnMvNjc4MjI2L9IBAA?oc=5)
+
 ## 20240426
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [A Baltimore-area teacher is accused of using AI to make his boss appear racist - NPR](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNC8yNi8xMjQ3MjM3MTc1L2JhbHRpbW9yZS1haS1nZW5lcmF0ZWQtcmFjaXN0LWF1ZGlvLWNyaW1l0gEA?oc=5)
 

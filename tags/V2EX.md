@@ -1,3 +1,6 @@
+## 20240427
+- [V2EX](https://www.v2ex.com/) | [迷你洗衣机是不是都是智商税？](https://www.v2ex.com/t/1036113)
+
 ## 20240426
 - [V2EX](https://www.v2ex.com/) | [远离阿里](https://www.v2ex.com/t/1035856)
 

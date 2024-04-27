@@ -1,3 +1,6 @@
+## 20240427
+- [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.1 GPU LLM Offloading Works Now With More AMD GPUs](https://www.phoronix.com/news/Llamafile-0.8.1-Released)
+
 ## 20240426
 - [Phoronix](https://www.phoronix.com/) | [New Patches Significantly Reduce Zink Driver Startup Time](https://www.phoronix.com/news/Faster-Zink-Start-Time-Patches)
 

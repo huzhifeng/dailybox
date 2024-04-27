@@ -1,3 +1,6 @@
+## 20240427
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Oh yes, I can finally play some gta v](https://lemmy.world/pictrs/image/3ad3ec22-18cd-46e4-8c81-17e55618bee6.jpeg)
+
 ## 20240426
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Linux  Salesman](https://lemmy.world/pictrs/image/3d498790-0f07-4c8b-ae00-c860e3d9c5f7.png)
 

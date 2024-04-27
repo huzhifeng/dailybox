@@ -1,3 +1,6 @@
+## 20240427
+- [Slashdot](https://developers.slashdot.org/) | [Fake Job Interviews Target Developers With New Python Backdoor](https://developers.slashdot.org/story/24/04/26/219218/fake-job-interviews-target-developers-with-new-python-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240424
 - [Slashdot](https://developers.slashdot.org/) | [Oracle Is Moving Its World Headquarters To Nashville](https://developers.slashdot.org/story/24/04/23/2234216/oracle-is-moving-its-world-headquarters-to-nashville?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

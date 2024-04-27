@@ -1,3 +1,6 @@
+## 20240427
+- [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)
+
 ## 20240426
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 17 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-17-2024/)
 - [Planet Debian](https://planet.debian.org/) | [Robert McQueen: Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)

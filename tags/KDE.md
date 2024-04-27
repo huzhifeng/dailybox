@@ -1,3 +1,6 @@
+## 20240427
+- [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)
+
 ## 20240426
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed)
 

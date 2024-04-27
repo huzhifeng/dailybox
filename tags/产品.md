@@ -1,3 +1,6 @@
+## 20240427
+- [Product Hunt](https://www.producthunt.com) | [Invoice Generator](https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119)
+
 ## 20240426
 - [Product Hunt](https://www.producthunt.com) | [Meeting Muse by beams](https://www.producthunt.com/posts/meeting-muse-by-beams)
 
