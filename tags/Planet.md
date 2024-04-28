@@ -1,3 +1,6 @@
+## 20240428
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)
+
 ## 20240427
 - [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)
 

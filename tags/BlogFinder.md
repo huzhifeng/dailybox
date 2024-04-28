@@ -1,3 +1,6 @@
+## 20240428
+- [BlogFinder](https://bf.zzxworld.com/) | [修炼掉身上的戾气](https://joojen.com/archives/7413.html?utm_source=blogfinder)
+
 ## 20240427
 - [BlogFinder](https://bf.zzxworld.com/) | [解决升级umamiv2.11时出现的P3009错误](https://xingpingcn.top/solve-p3009-error-using-umami.html?utm_source=blogfinder)
 

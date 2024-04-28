@@ -1,3 +1,6 @@
+## 20240428
+- [V2EX](https://www.v2ex.com/) | [31 岁农村中年男子对生孩子和生活的困惑](https://www.v2ex.com/t/1036314)
+
 ## 20240427
 - [V2EX](https://www.v2ex.com/) | [迷你洗衣机是不是都是智商税？](https://www.v2ex.com/t/1036113)
 

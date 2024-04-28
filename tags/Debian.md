@@ -1,3 +1,6 @@
+## 20240428
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)
+
 ## 20240426
 - [Planet Debian](https://planet.debian.org/) | [Robert McQueen: Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
 

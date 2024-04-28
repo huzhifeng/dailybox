@@ -1,3 +1,7 @@
+## 20240428
+- [Phoronix](https://www.phoronix.com/) | [AMD Enabling "Fast CPPC" For Even Greater Linux Performance & Power Efficiency On Some CPUs](https://www.phoronix.com/news/AMD-Fast-CPPC-Linux-Patches)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)
+
 ## 20240427
 - [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.1 GPU LLM Offloading Works Now With More AMD GPUs](https://www.phoronix.com/news/Llamafile-0.8.1-Released)
 - [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)

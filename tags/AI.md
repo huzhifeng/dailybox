@@ -1,3 +1,6 @@
+## 20240428
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [2 New Recruits Help Israel Track Hamas Operatives In Gaza. They Are Both AI - NDTV](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvZXhwbGFpbmVkLXdoYXQtYXJlLWxhdmVuZGVyLWFuZC1nb3NwZWwtYWktaXNyYWVsLWlzLXVzaW5nLXRvLWJvbWItZ2F6YS01NTQwMDg20gEA?oc=5)
+
 ## 20240427
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [I Witnessed the Future of AI, and It's a Broken Toy - The Atlantic](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWF0bGFudGljLmNvbS90ZWNobm9sb2d5L2FyY2hpdmUvMjAyNC8wNC9yYWJiaXQtcjEtaW1wcmVzc2lvbnMvNjc4MjI2L9IBAA?oc=5)
 

@@ -1,3 +1,6 @@
+## 20240428
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [End homelessness with this one weird trick!](https://lemmy.world/pictrs/image/44f45d0d-9b36-4adc-911b-94f5bb0ad7d8.png)
+
 ## 20240427
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Oh yes, I can finally play some gta v](https://lemmy.world/pictrs/image/3ad3ec22-18cd-46e4-8c81-17e55618bee6.jpeg)
 

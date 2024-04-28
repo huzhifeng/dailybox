@@ -1,3 +1,6 @@
+## 20240428
+- [Phoronix](https://www.phoronix.com/) | [AMD Enabling "Fast CPPC" For Even Greater Linux Performance & Power Efficiency On Some CPUs](https://www.phoronix.com/news/AMD-Fast-CPPC-Linux-Patches)
+
 ## 20240427
 - [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.1 GPU LLM Offloading Works Now With More AMD GPUs](https://www.phoronix.com/news/Llamafile-0.8.1-Released)
 
