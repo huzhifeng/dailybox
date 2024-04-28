@@ -1,3 +1,6 @@
+## 20240428
+- [Kagi Small Web](https://kagi.com/smallweb) | [English Kings Killing Foreigners](https://pleasemindtheblog.wordpress.com/2024/04/28/english-kings-killing-foreigners/)
+
 ## 20240426
 - [Kagi Small Web](https://kagi.com/smallweb) | [Four new art pieces, with style experiments on some of them. Come unto Christ II:    In Your Mind an...](https://bencrowder.net/blog/2024/4.26/)
 

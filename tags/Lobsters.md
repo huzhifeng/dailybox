@@ -1,3 +1,6 @@
+## 20240428
+- [Lobsters](https://lobste.rs/) | [Zed Decoded: Rope & SumTree](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree)
+
 ## 20240427
 - [Lobsters](https://lobste.rs/) | [Clang's -O0 output: branch displacement and size increase](https://lobste.rs/s/lxsgmu/clang_s_o0_output_branch_displacement)
 
