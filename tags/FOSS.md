@@ -1,3 +1,6 @@
+## 20240429
+- [It's FOSS](https://itsfoss.com/) | [How to Use Pop Shell on GNOME Desktop](https://itsfoss.com/pop-shell-gnome-desktop/)
+
 ## 20240426
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.17: All About Ubuntu 24.04 LTS and Fedora 40 Releases](https://itsfoss.com/newsletter/foss-weekly-24-17/)
 

@@ -1,3 +1,6 @@
+## 20240429
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 426 – Automatically exploiting CVEs with AI](https://opensourcesecurity.io/2024/04/28/episode-426-automatically-exploiting-cves-with-ai/)
+
 ## 20240426
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 17 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-17-2024/)
 

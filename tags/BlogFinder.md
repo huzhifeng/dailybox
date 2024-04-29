@@ -1,3 +1,6 @@
+## 20240429
+- [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：你怎么跟九转大肠似的！（分析某webshell）](https://sophiatazar.com/archives/974.html?utm_source=blogfinder)
+
 ## 20240428
 - [BlogFinder](https://bf.zzxworld.com/) | [修炼掉身上的戾气](https://joojen.com/archives/7413.html?utm_source=blogfinder)
 

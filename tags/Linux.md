@@ -1,3 +1,15 @@
+## 20240429
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Effortless GStreamer Analytics Cross-Platform Support via ONNX Runtime](https://www.collabora.com/news-and-blog/news-and-events/effortless-gstreamer-analytics-cross-platform-support-via-onnx.html)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install single node OpenShift on bare metal](https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-bare-metal)
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra "Meteor Lake" Performance Improves With Linux 6.9](https://www.phoronix.com/review/intel-core-ultra-linux-69)
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.04 Open-Source Video Editor Released with Ambisonic Encoder Filter](https://9to5linux.com/shotcut-24-04-open-source-video-editor-released-with-ambisonic-encoder-filter)
+- [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: Export to STEP in OpenSCAD](https://zaitcev.livejournal.com/266803.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 426 – Automatically exploiting CVEs with AI](https://opensourcesecurity.io/2024/04/28/episode-426-automatically-exploiting-cves-with-ai/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [IBM Secure Execution for Linux support for Crypto Express adapters](https://kvmonz.blogspot.com/2024/04/ibm-secure-execution-for-linux-support.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Moving GPU drivers out of the initramfs](https://hansdegoede.dreamwidth.org/28291.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Post-Plasma 6 Updates Review](https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed)
+
 ## 20240428
 - [Phoronix](https://www.phoronix.com/) | [AMD Enabling "Fast CPPC" For Even Greater Linux Performance & Power Efficiency On Some CPUs](https://www.phoronix.com/news/AMD-Fast-CPPC-Linux-Patches)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)

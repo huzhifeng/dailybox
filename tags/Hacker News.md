@@ -1,3 +1,9 @@
+## 20240429
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-28](https://www.daemonology.net/hn-daily/2024-04-28.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-29](https://github.com/headllines/hackernews-daily/issues/1389)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-04-29 | 大语言模型永远无法做什么？探究大语言模型的局限性](https://www.xiaoyuzhoufm.com/episode/662f4d915fb33c1b2b5049be)
+- [Hacker News](https://news.ycombinator.com/front) | [Atomic nucleus excited with laser: A breakthrough after decades](https://news.ycombinator.com/item?id=40194636)
+
 ## 20240428
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-27](https://www.daemonology.net/hn-daily/2024-04-27.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-28](https://github.com/headllines/hackernews-daily/issues/1388)

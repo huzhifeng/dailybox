@@ -1,3 +1,6 @@
+## 20240429
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Effortless GStreamer Analytics Cross-Platform Support via ONNX Runtime](https://www.collabora.com/news-and-blog/news-and-events/effortless-gstreamer-analytics-cross-platform-support-via-onnx.html)
+
 ## 20240417
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Monado stays ahead: Keeping pace with OpenXR 1.1 for cross-platform, open source XR](https://www.collabora.com/news-and-blog/news-and-events/monado-stays-ahead-keeping-pace-with-openxr-11-for-free-and-open-source-xr.html)
 

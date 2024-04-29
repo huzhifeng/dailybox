@@ -1,3 +1,6 @@
+## 20240429
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Post-Plasma 6 Updates Review](https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed)
+
 ## 20240427
 - [Planet KDE](https://planet.kde.org/) | [The next foss-north](http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed)
 
