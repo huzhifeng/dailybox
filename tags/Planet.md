@@ -1,3 +1,10 @@
+## 20240429
+- [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: Export to STEP in OpenSCAD](https://zaitcev.livejournal.com/266803.html)
+- [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 426 – Automatically exploiting CVEs with AI](https://opensourcesecurity.io/2024/04/28/episode-426-automatically-exploiting-cves-with-ai/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [IBM Secure Execution for Linux support for Crypto Express adapters](https://kvmonz.blogspot.com/2024/04/ibm-secure-execution-for-linux-support.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Moving GPU drivers out of the initramfs](https://hansdegoede.dreamwidth.org/28291.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Post-Plasma 6 Updates Review](https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed)
+
 ## 20240428
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)
 

@@ -1,3 +1,6 @@
+## 20240429
+- [Product Hunt](https://www.producthunt.com) | [Play AI](https://www.producthunt.com/posts/play-ai)
+
 ## 20240428
 - [Product Hunt](https://www.producthunt.com) | [BrickCenter ](https://www.producthunt.com/posts/brickcenter)
 

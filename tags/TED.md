@@ -1,3 +1,6 @@
+## 20240429
+- [TED Talks Daily](https://www.ted.com/talks) | [How AI is unlocking the secrets of nature and the universe | Demis Hassabis](https://www.ted.com/talks/demis_hassabis_how_ai_is_unlocking_the_secrets_of_nature_and_the_universe?rss)
+
 ## 20240426
 - [TED Talks Daily](https://www.ted.com/talks) | [The secret ingredient of business success | Pete Stavros](https://www.ted.com/talks/pete_stavros_the_secret_ingredient_of_business_success?rss)
 

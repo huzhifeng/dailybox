@@ -1,3 +1,6 @@
+## 20240429
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra "Meteor Lake" Performance Improves With Linux 6.9](https://www.phoronix.com/review/intel-core-ultra-linux-69)
+
 ## 20240428
 - [Phoronix](https://www.phoronix.com/) | [AMD Enabling "Fast CPPC" For Even Greater Linux Performance & Power Efficiency On Some CPUs](https://www.phoronix.com/news/AMD-Fast-CPPC-Linux-Patches)
 

@@ -1,3 +1,6 @@
+## 20240429
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Nothing good about it](https://i.imgur.com/y2TGCVz.jpg)
+
 ## 20240428
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [End homelessness with this one weird trick!](https://lemmy.world/pictrs/image/44f45d0d-9b36-4adc-911b-94f5bb0ad7d8.png)
 

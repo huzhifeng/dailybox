@@ -1,3 +1,6 @@
+## 20240429
+- [Kagi Small Web](https://kagi.com/smallweb) | [Rudyard: Kiplings, Funambulists and Swallows](https://nigeness.blogspot.com/2024/04/rudyard-kiplings-funambulists-and.html)
+
 ## 20240428
 - [Kagi Small Web](https://kagi.com/smallweb) | [English Kings Killing Foreigners](https://pleasemindtheblog.wordpress.com/2024/04/28/english-kings-killing-foreigners/)
 

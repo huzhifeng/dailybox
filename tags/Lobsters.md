@@ -1,3 +1,6 @@
+## 20240429
+- [Lobsters](https://lobste.rs/) | [Functional Semantics in Imperative Clothing](https://lobste.rs/s/i8gyah/functional_semantics_imperative)
+
 ## 20240428
 - [Lobsters](https://lobste.rs/) | [Zed Decoded: Rope & SumTree](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree)
 

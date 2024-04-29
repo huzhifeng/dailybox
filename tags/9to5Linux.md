@@ -1,3 +1,6 @@
+## 20240429
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.04 Open-Source Video Editor Released with Ambisonic Encoder Filter](https://9to5linux.com/shotcut-24-04-open-source-video-editor-released-with-ambisonic-encoder-filter)
+
 ## 20240425
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 Official Flavors Are Now Available for Download, Here’s What’s New](https://9to5linux.com/ubuntu-24-04-official-flavors-are-now-available-for-download-heres-whats-new)
 

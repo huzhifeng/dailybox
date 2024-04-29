@@ -1,3 +1,7 @@
+## 20240429
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)
+- [Red Hat Developer](https://developers.redhat.com/) | [How to install single node OpenShift on bare metal](https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-bare-metal)
+
 ## 20240426
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Redefining development: The retrieval-augmented generation (RAG) revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
 - [Red Hat Developer](https://developers.redhat.com/) | [Create a Red Hat OpenShift AI environment](https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment)

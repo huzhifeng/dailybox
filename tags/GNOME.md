@@ -1,3 +1,6 @@
+## 20240429
+- [Planet GNOME](https://planet.gnome.org/) | [Moving GPU drivers out of the initramfs](https://hansdegoede.dreamwidth.org/28291.html)
+
 ## 20240426
 - [Planet GNOME](https://planet.gnome.org/) | [Update from the GNOME board](https://ramcq.net/2024/04/26/update-from-the-gnome-board/)
 
