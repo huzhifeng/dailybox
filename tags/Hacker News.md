@@ -1,3 +1,8 @@
+## 20240430
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-29](https://www.daemonology.net/hn-daily/2024-04-29.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-30](https://github.com/headllines/hackernews-daily/issues/1390)
+- [Hacker News](https://news.ycombinator.com/front) | [Why SQLite Uses Bytecode](https://news.ycombinator.com/item?id=40206752)
+
 ## 20240429
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-28](https://www.daemonology.net/hn-daily/2024-04-28.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-29](https://github.com/headllines/hackernews-daily/issues/1389)

@@ -1,3 +1,6 @@
+## 20240430
+- [V2EX](https://www.v2ex.com/) | [3 个月没找到工作了，够吃住就行，只要求 8 小时，双休，不加班](https://www.v2ex.com/t/1037071)
+
 ## 20240429
 - [V2EX](https://www.v2ex.com/) | [找了个对象，没想到他竟然这么对我！](https://www.v2ex.com/t/1036771)
 

@@ -1,3 +1,6 @@
+## 20240430
+- [LibHunt](https://www.libhunt.com/) | [automq](https://www.libhunt.com/r/automq)
+
 ## 20240429
 - [LibHunt](https://www.libhunt.com/) | [corenet](https://www.libhunt.com/r/corenet)
 

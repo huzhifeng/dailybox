@@ -1,3 +1,6 @@
+## 20240430
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links April 2024](https://etbe.coker.com.au/2024/04/30/links-april-2024/)
+
 ## 20240429
 - [Planet Kernel](https://planet.kernel.org/) | [Pete Zaitcev: Export to STEP in OpenSCAD](https://zaitcev.livejournal.com/266803.html)
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 426 – Automatically exploiting CVEs with AI](https://opensourcesecurity.io/2024/04/28/episode-426-automatically-exploiting-cves-with-ai/)

@@ -1,3 +1,6 @@
+## 20240430
+- [Lobsters](https://lobste.rs/) | [Save the Web by Being Nice](https://lobste.rs/s/nkkahc/save_web_by_being_nice)
+
 ## 20240429
 - [Lobsters](https://lobste.rs/) | [Functional Semantics in Imperative Clothing](https://lobste.rs/s/i8gyah/functional_semantics_imperative)
 

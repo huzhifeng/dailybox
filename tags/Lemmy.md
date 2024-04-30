@@ -1,3 +1,6 @@
+## 20240430
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Nothing but truth](https://lemmy.dbzer0.com/pictrs/image/d9bb89bc-667a-4009-ae51-a47a35c02006.png)
+
 ## 20240429
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Nothing good about it](https://i.imgur.com/y2TGCVz.jpg)
 
