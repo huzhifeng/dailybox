@@ -1,3 +1,6 @@
+## 20240430
+- [Product Hunt](https://www.producthunt.com) | [whatwide.ai](https://www.producthunt.com/posts/whatwide-ai)
+
 ## 20240429
 - [Product Hunt](https://www.producthunt.com) | [Play AI](https://www.producthunt.com/posts/play-ai)
 

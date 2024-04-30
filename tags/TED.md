@@ -1,3 +1,6 @@
+## 20240430
+- [TED Talks Daily](https://www.ted.com/talks) | [My epic journey becoming the fastest person to paddle around Australia | Bonnie Hancock](https://www.ted.com/talks/bonnie_hancock_my_epic_journey_becoming_the_fastest_person_to_paddle_around_australia?rss)
+
 ## 20240429
 - [TED Talks Daily](https://www.ted.com/talks) | [How AI is unlocking the secrets of nature and the universe | Demis Hassabis](https://www.ted.com/talks/demis_hassabis_how_ai_is_unlocking_the_secrets_of_nature_and_the_universe?rss)
 

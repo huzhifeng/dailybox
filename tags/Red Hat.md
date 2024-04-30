@@ -1,3 +1,7 @@
+## 20240430
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
+- [Red Hat Developer](https://developers.redhat.com/) | [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
+
 ## 20240429
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)
 - [Red Hat Developer](https://developers.redhat.com/) | [How to install single node OpenShift on bare metal](https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-bare-metal)

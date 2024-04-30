@@ -1,3 +1,6 @@
+## 20240430
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links April 2024](https://etbe.coker.com.au/2024/04/30/links-april-2024/)
+
 ## 20240428
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Galaxy Note 9 Droidian](https://etbe.coker.com.au/2024/04/28/note9-droidian/)
 

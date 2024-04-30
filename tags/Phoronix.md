@@ -1,3 +1,6 @@
+## 20240430
+- [Phoronix](https://www.phoronix.com/) | [Noctua NH-L12Sx77 Makes For A Great Low-Profile CPU Cooler](https://www.phoronix.com/review/noctua-nh-l12sx77)
+
 ## 20240429
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra "Meteor Lake" Performance Improves With Linux 6.9](https://www.phoronix.com/review/intel-core-ultra-linux-69)
 

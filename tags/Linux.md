@@ -1,3 +1,10 @@
+## 20240430
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
+- [Red Hat Developer](https://developers.redhat.com/) | [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
+- [Phoronix](https://www.phoronix.com/) | [Noctua NH-L12Sx77 Makes For A Great Low-Profile CPU Cooler](https://www.phoronix.com/review/noctua-nh-l12sx77)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links April 2024](https://etbe.coker.com.au/2024/04/30/links-april-2024/)
+- [Slashdot](https://linux.slashdot.org/) | [T2 Linux 24.5 Released](https://news.slashdot.org/story/24/04/29/2325210/t2-linux-245-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240429
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Effortless GStreamer Analytics Cross-Platform Support via ONNX Runtime](https://www.collabora.com/news-and-blog/news-and-events/effortless-gstreamer-analytics-cross-platform-support-via-onnx.html)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)

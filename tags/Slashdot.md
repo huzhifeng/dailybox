@@ -1,3 +1,6 @@
+## 20240430
+- [Slashdot](https://linux.slashdot.org/) | [T2 Linux 24.5 Released](https://news.slashdot.org/story/24/04/29/2325210/t2-linux-245-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240427
 - [Slashdot](https://developers.slashdot.org/) | [Fake Job Interviews Target Developers With New Python Backdoor](https://developers.slashdot.org/story/24/04/26/219218/fake-job-interviews-target-developers-with-new-python-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -1,3 +1,6 @@
+## 20240430
+- [It's FOSS](https://itsfoss.com/) | [Handling 'Cannot refresh snap-store' Error in Ubuntu 24.04](https://itsfoss.com/update-snap-store/)
+
 ## 20240429
 - [It's FOSS](https://itsfoss.com/) | [How to Use Pop Shell on GNOME Desktop](https://itsfoss.com/pop-shell-gnome-desktop/)
 

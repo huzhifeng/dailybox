@@ -1,3 +1,6 @@
+## 20240430
+- [Kagi Small Web](https://kagi.com/smallweb) | [Month notes & numbers №3](https://rachsmith.com/mnnm-3/)
+
 ## 20240429
 - [Kagi Small Web](https://kagi.com/smallweb) | [Rudyard: Kiplings, Funambulists and Swallows](https://nigeness.blogspot.com/2024/04/rudyard-kiplings-funambulists-and.html)
 
