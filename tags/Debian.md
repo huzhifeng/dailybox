@@ -1,3 +1,6 @@
+## 20240501
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities April 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_April_2024.html)
+
 ## 20240430
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links April 2024](https://etbe.coker.com.au/2024/04/30/links-april-2024/)
 

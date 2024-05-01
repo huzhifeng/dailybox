@@ -1,3 +1,8 @@
+## 20240501
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-30](https://www.daemonology.net/hn-daily/2024-04-30.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-01](https://github.com/headllines/hackernews-daily/issues/1391)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-01 | OpenAI 神秘搞事，GPT-4.5 默默上线？推理碾压GPT-4网友震惊，奥特曼在线吃瓜](https://www.xiaoyuzhoufm.com/episode/6631a2b503bcdd73a9f58cd8)
+
 ## 20240430
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-29](https://www.daemonology.net/hn-daily/2024-04-29.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-04-30](https://github.com/headllines/hackernews-daily/issues/1390)

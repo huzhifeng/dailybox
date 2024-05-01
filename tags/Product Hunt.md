@@ -1,3 +1,6 @@
+## 20240501
+- [Product Hunt](https://www.producthunt.com) | [Arc for Windows](https://www.producthunt.com/posts/arc-for-windows)
+
 ## 20240430
 - [Product Hunt](https://www.producthunt.com) | [whatwide.ai](https://www.producthunt.com/posts/whatwide-ai)
 

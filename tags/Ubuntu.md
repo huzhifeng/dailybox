@@ -1,3 +1,6 @@
+## 20240501
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts)
+
 ## 20240410
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration)
 

@@ -1,3 +1,6 @@
+## 20240501
+- [9to5Linux](https://9to5linux.com/) | [GNU nano 8.0 Released with New Options and Various Improvements](https://9to5linux.com/gnu-nano-8-0-released-with-new-options-and-various-improvements)
+
 ## 20240429
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 24.04 Open-Source Video Editor Released with Ambisonic Encoder Filter](https://9to5linux.com/shotcut-24-04-open-source-video-editor-released-with-ambisonic-encoder-filter)
 
