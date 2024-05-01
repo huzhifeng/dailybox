@@ -1,3 +1,6 @@
+## 20240501
+- [Kagi Small Web](https://kagi.com/smallweb) | [Bulletproof Method to Solving Problems](https://blog.jim-nielsen.com/2024/bulletproof-problem-solving/)
+
 ## 20240430
 - [Kagi Small Web](https://kagi.com/smallweb) | [Month notes & numbers №3](https://rachsmith.com/mnnm-3/)
 

@@ -1,3 +1,6 @@
+## 20240501
+- [Planet KDE](https://planet.kde.org/) | [Goal Sprint 2024](https://nicolasfella.de/posts/goal-sprint-2024/?utm_source=atom_feed?utm_source=atom_feed)
+
 ## 20240429
 - [Planet KDE](https://planet.kde.org/) | [KDE neon Post-Plasma 6 Updates Review](https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed)
 

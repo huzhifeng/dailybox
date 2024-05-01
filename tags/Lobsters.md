@@ -1,3 +1,6 @@
+## 20240501
+- [Lobsters](https://lobste.rs/) | [Please Don’t Share Our Links on Mastodon](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon)
+
 ## 20240430
 - [Lobsters](https://lobste.rs/) | [Save the Web by Being Nice](https://lobste.rs/s/nkkahc/save_web_by_being_nice)
 

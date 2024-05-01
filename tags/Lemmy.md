@@ -1,3 +1,6 @@
+## 20240501
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Black Kansas City teen Ralph Yarl sues white man who shot him for ringing the doorbell](https://www.kcur.org/news/2024-04-29/black-kansas-city-teen-ralph-yarl-sues-white-man-who-shot-him-for-ringing-the-doorbell)
+
 ## 20240430
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Nothing but truth](https://lemmy.dbzer0.com/pictrs/image/d9bb89bc-667a-4009-ae51-a47a35c02006.png)
 

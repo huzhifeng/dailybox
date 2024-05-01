@@ -1,3 +1,7 @@
+## 20240501
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Simplify hybrid cloud operations with Red Hat Enterprise Linux 9.4](https://www.redhat.com/en/blog/simplify-hybrid-cloud-operations-red-hat-enterprise-linux-94)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat Enterprise Linux 9.4?](https://developers.redhat.com/articles/2024/05/01/whats-new-red-hat-enterprise-linux-94)
+
 ## 20240430
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
 - [Red Hat Developer](https://developers.redhat.com/) | [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)

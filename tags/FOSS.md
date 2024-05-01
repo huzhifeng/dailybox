@@ -1,3 +1,6 @@
+## 20240501
+- [It's FOSS](https://itsfoss.com/) | [Installing VS Code on Fedora](https://itsfoss.com/install-vs-code-fedora/)
+
 ## 20240430
 - [It's FOSS](https://itsfoss.com/) | [Handling 'Cannot refresh snap-store' Error in Ubuntu 24.04](https://itsfoss.com/update-snap-store/)
 

@@ -1,3 +1,6 @@
+## 20240501
+- [Phoronix](https://www.phoronix.com/) | [PCI-SIG Provides CopprLink Cable Specs For PCIe 5.0 & PCIe 6.0](https://www.phoronix.com/news/PCI-SIG-CopprLink-Specs)
+
 ## 20240430
 - [Phoronix](https://www.phoronix.com/) | [Noctua NH-L12Sx77 Makes For A Great Low-Profile CPU Cooler](https://www.phoronix.com/review/noctua-nh-l12sx77)
 

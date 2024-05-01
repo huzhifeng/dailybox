@@ -1,3 +1,9 @@
+## 20240501
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities April 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_April_2024.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts)
+- [Planet GNOME](https://planet.gnome.org/) | [Workbench 46.1](http://blog.sonny.re/workbench-46-1?pk_campaign=rss-feed)
+- [Planet KDE](https://planet.kde.org/) | [Goal Sprint 2024](https://nicolasfella.de/posts/goal-sprint-2024/?utm_source=atom_feed?utm_source=atom_feed)
+
 ## 20240430
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Links April 2024](https://etbe.coker.com.au/2024/04/30/links-april-2024/)
 

@@ -1,3 +1,13 @@
+## 20240501
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Simplify hybrid cloud operations with Red Hat Enterprise Linux 9.4](https://www.redhat.com/en/blog/simplify-hybrid-cloud-operations-red-hat-enterprise-linux-94)
+- [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat Enterprise Linux 9.4?](https://developers.redhat.com/articles/2024/05/01/whats-new-red-hat-enterprise-linux-94)
+- [Phoronix](https://www.phoronix.com/) | [PCI-SIG Provides CopprLink Cable Specs For PCIe 5.0 & PCIe 6.0](https://www.phoronix.com/news/PCI-SIG-CopprLink-Specs)
+- [9to5Linux](https://9to5linux.com/) | [GNU nano 8.0 Released with New Options and Various Improvements](https://9to5linux.com/gnu-nano-8-0-released-with-new-options-and-various-improvements)
+- [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities April 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_April_2024.html)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts)
+- [Planet GNOME](https://planet.gnome.org/) | [Workbench 46.1](http://blog.sonny.re/workbench-46-1?pk_campaign=rss-feed)
+- [Planet KDE](https://planet.kde.org/) | [Goal Sprint 2024](https://nicolasfella.de/posts/goal-sprint-2024/?utm_source=atom_feed?utm_source=atom_feed)
+
 ## 20240430
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
 - [Red Hat Developer](https://developers.redhat.com/) | [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
