@@ -1,3 +1,6 @@
+## 20240502
+- [diff.blog](https://diff.blog/) | [Announcing Rust 1.78.0](https://diff.blog/post/announcing-rust-1780-175157/)
+
 ## 20240422
 - [diff.blog](https://diff.blog/) | [curl is just the hobby](https://diff.blog/post/curl-is-just-the-hobby-174411/)
 

@@ -1,3 +1,12 @@
+## 20240502
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [How do you operationalize Generative AI consistently and at scale?](https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernizing Pedal: Breaking down a Javå monolith into Quarkus microservices](https://developers.redhat.com/articles/2024/05/02/modernizing-pedal-breaking-down-java-monolith-quarkus-microservices)
+- [Phoronix](https://www.phoronix.com/) | [XWayland 24.1 RC2 Brings Fixes For Explicit Sync & DRM Leasing](https://www.phoronix.com/news/XWayland-24.1-RC2-Released)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.3 Office Suite Is Now Available for Download with 79 Bug Fixes](https://9to5linux.com/libreoffice-24-2-3-office-suite-is-now-available-for-download-with-79-bug-fixes)
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities April 2024](http://bonedaddy.net/pabs3/log/2024/05/02/floss-activities/)
+- [Planet GNOME](https://planet.gnome.org/) | [Outreachy May 2024: A letter to Fedora applicants](https://blog.jwf.io/2024/05/outreachy-may-2024-letter-fedora-applicants/)
+- [Planet KDE](https://planet.kde.org/) | [Let everyone know you are going to Akademy 2024 E-banners](https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed)
+
 ## 20240501
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Simplify hybrid cloud operations with Red Hat Enterprise Linux 9.4](https://www.redhat.com/en/blog/simplify-hybrid-cloud-operations-red-hat-enterprise-linux-94)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat Enterprise Linux 9.4?](https://developers.redhat.com/articles/2024/05/01/whats-new-red-hat-enterprise-linux-94)

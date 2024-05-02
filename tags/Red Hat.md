@@ -1,3 +1,7 @@
+## 20240502
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [How do you operationalize Generative AI consistently and at scale?](https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale)
+- [Red Hat Developer](https://developers.redhat.com/) | [Modernizing Pedal: Breaking down a Javå monolith into Quarkus microservices](https://developers.redhat.com/articles/2024/05/02/modernizing-pedal-breaking-down-java-monolith-quarkus-microservices)
+
 ## 20240501
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Simplify hybrid cloud operations with Red Hat Enterprise Linux 9.4](https://www.redhat.com/en/blog/simplify-hybrid-cloud-operations-red-hat-enterprise-linux-94)
 - [Red Hat Developer](https://developers.redhat.com/) | [What's new in Red Hat Enterprise Linux 9.4?](https://developers.redhat.com/articles/2024/05/01/whats-new-red-hat-enterprise-linux-94)

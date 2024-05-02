@@ -1,3 +1,6 @@
+## 20240502
+- [Kagi Small Web](https://kagi.com/smallweb) | [A Simple Plain-Text Knowledge System](https://blog.sebastian-daschner.com/entries/simple-plain-text-knowledge-system)
+
 ## 20240501
 - [Kagi Small Web](https://kagi.com/smallweb) | [Bulletproof Method to Solving Problems](https://blog.jim-nielsen.com/2024/bulletproof-problem-solving/)
 

@@ -1,3 +1,6 @@
+## 20240502
+- [Planet KDE](https://planet.kde.org/) | [Let everyone know you are going to Akademy 2024 E-banners](https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed)
+
 ## 20240501
 - [Planet KDE](https://planet.kde.org/) | [Goal Sprint 2024](https://nicolasfella.de/posts/goal-sprint-2024/?utm_source=atom_feed?utm_source=atom_feed)
 

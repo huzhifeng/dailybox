@@ -1,3 +1,6 @@
+## 20240502
+- [Phoronix](https://www.phoronix.com/) | [XWayland 24.1 RC2 Brings Fixes For Explicit Sync & DRM Leasing](https://www.phoronix.com/news/XWayland-24.1-RC2-Released)
+
 ## 20240501
 - [Phoronix](https://www.phoronix.com/) | [PCI-SIG Provides CopprLink Cable Specs For PCIe 5.0 & PCIe 6.0](https://www.phoronix.com/news/PCI-SIG-CopprLink-Specs)
 

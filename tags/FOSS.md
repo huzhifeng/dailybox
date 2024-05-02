@@ -1,3 +1,6 @@
+## 20240502
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/)
+
 ## 20240501
 - [It's FOSS](https://itsfoss.com/) | [Installing VS Code on Fedora](https://itsfoss.com/install-vs-code-fedora/)
 

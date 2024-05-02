@@ -1,3 +1,6 @@
+## 20240502
+- [Lobsters](https://lobste.rs/) | [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window)
+
 ## 20240501
 - [Lobsters](https://lobste.rs/) | [Please Don’t Share Our Links on Mastodon](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon)
 

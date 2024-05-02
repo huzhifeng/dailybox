@@ -1,3 +1,6 @@
+## 20240502
+- [BlogFinder](https://bf.zzxworld.com/) | [新疆天山](https://www.timelogs.cn/archives/1076/?utm_source=blogfinder)
+
 ## 20240501
 - [BlogFinder](https://bf.zzxworld.com/) | [交个朋友](https://anotherdayu.com/2024/5727/?utm_source=blogfinder)
 

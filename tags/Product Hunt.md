@@ -1,3 +1,6 @@
+## 20240502
+- [Product Hunt](https://www.producthunt.com) | [QueryPal](https://www.producthunt.com/posts/querypal-2)
+
 ## 20240501
 - [Product Hunt](https://www.producthunt.com) | [Arc for Windows](https://www.producthunt.com/posts/arc-for-windows)
 
