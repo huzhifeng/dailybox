@@ -1,3 +1,8 @@
+## 20240502
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities April 2024](http://bonedaddy.net/pabs3/log/2024/05/02/floss-activities/)
+- [Planet GNOME](https://planet.gnome.org/) | [Outreachy May 2024: A letter to Fedora applicants](https://blog.jwf.io/2024/05/outreachy-may-2024-letter-fedora-applicants/)
+- [Planet KDE](https://planet.kde.org/) | [Let everyone know you are going to Akademy 2024 E-banners](https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed)
+
 ## 20240501
 - [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities April 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_April_2024.html)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Ubuntu Blog: Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts)

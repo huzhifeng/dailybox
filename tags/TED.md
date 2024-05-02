@@ -1,3 +1,6 @@
+## 20240502
+- [TED Talks Daily](https://www.ted.com/talks) | [How the US is destroying young people's future | Scott Galloway](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future?rss)
+
 ## 20240501
 - [TED Talks Daily](https://www.ted.com/talks) | [How to govern AI — even if it's hard to predict | Helen Toner](https://www.ted.com/talks/helen_toner_how_to_govern_ai_even_if_it_s_hard_to_predict?rss)
 

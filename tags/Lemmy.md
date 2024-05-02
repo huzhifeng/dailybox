@@ -1,3 +1,6 @@
+## 20240502
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [the struggle](https://mander.xyz/pictrs/image/d1c6b2ab-021e-40ca-8908-e6324b50db83.png)
+
 ## 20240501
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Black Kansas City teen Ralph Yarl sues white man who shot him for ringing the doorbell](https://www.kcur.org/news/2024-04-29/black-kansas-city-teen-ralph-yarl-sues-white-man-who-shot-him-for-ringing-the-doorbell)
 

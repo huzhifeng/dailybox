@@ -1,3 +1,9 @@
+## 20240502
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-01](https://www.daemonology.net/hn-daily/2024-05-01.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-02](https://github.com/headllines/hackernews-daily/issues/1392)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-02 | 马斯克裁撤特斯拉超充团队、 半挂卡车Semi 延期交付](https://www.xiaoyuzhoufm.com/episode/6632e8ff4b7d3b5d3ba92630)
+- [Hacker News](https://news.ycombinator.com/front) | [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://news.ycombinator.com/item?id=40231515)
+
 ## 20240501
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-04-30](https://www.daemonology.net/hn-daily/2024-04-30.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-01](https://github.com/headllines/hackernews-daily/issues/1391)

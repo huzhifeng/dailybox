@@ -1,3 +1,6 @@
+## 20240502
+- [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities April 2024](http://bonedaddy.net/pabs3/log/2024/05/02/floss-activities/)
+
 ## 20240501
 - [Planet Debian](https://planet.debian.org/) | [Guido Günther: Free Software Activities April 2024](https://honk.sigxcpu.org/con/Free_Software_Activities_April_2024.html)
 

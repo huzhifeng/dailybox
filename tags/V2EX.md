@@ -1,3 +1,6 @@
+## 20240502
+- [V2EX](https://www.v2ex.com/) | [已绝版邮箱的讨论](https://www.v2ex.com/t/1037404)
+
 ## 20240501
 - [V2EX](https://www.v2ex.com/) | [Vidhub 收费 88 元终身，建议购买吗？](https://www.v2ex.com/t/1037297)
 

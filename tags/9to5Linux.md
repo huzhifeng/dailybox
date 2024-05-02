@@ -1,3 +1,6 @@
+## 20240502
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.3 Office Suite Is Now Available for Download with 79 Bug Fixes](https://9to5linux.com/libreoffice-24-2-3-office-suite-is-now-available-for-download-with-79-bug-fixes)
+
 ## 20240501
 - [9to5Linux](https://9to5linux.com/) | [GNU nano 8.0 Released with New Options and Various Improvements](https://9to5linux.com/gnu-nano-8-0-released-with-new-options-and-various-improvements)
 
