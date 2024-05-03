@@ -1,3 +1,6 @@
+## 20240503
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Saving people is illegal](https://lemmy.ml/pictrs/image/648c30f4-2c0b-42a6-8a99-adb7097aa71d.jpeg)
+
 ## 20240502
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [the struggle](https://mander.xyz/pictrs/image/d1c6b2ab-021e-40ca-8908-e6324b50db83.png)
 

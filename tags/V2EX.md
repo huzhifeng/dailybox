@@ -1,3 +1,6 @@
+## 20240503
+- [V2EX](https://www.v2ex.com/) | [从股票基金亏钱发现，我做的大多决定都是错的，这是为什么呢？](https://www.v2ex.com/t/1037521)
+
 ## 20240502
 - [V2EX](https://www.v2ex.com/) | [已绝版邮箱的讨论](https://www.v2ex.com/t/1037404)
 

@@ -1,3 +1,11 @@
+## 20240503
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy computer vision applications at the edge with MicroShift](https://developers.redhat.com/articles/2024/05/03/deploy-computer-vision-applications-edge-microshift)
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Working On Improving Its Audio Stack & Creating Graphical OS Installer](https://www.phoronix.com/news/FreeBSD-Q1-2024-Progress)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 17 Gen6 Linux Laptop Launches with Intel Core i9-14900HX](https://9to5linux.com/tuxedo-stellaris-17-gen6-linux-laptop-launches-with-intel-core-i9-14900hx)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: No, you can't downgrade T14 Gen 3 AMD's UEFI BIOS even when Secure Rollback Prevention is turned off](https://nobuto-m.github.io/post/2024/no-you-can-t-downgrade-t14-gen-3-amd-s-uefi-bios-even-when-secure-rollback-prevention-is-turned-off/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed)
+
 ## 20240502
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [How do you operationalize Generative AI consistently and at scale?](https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale)
 - [Red Hat Developer](https://developers.redhat.com/) | [Modernizing Pedal: Breaking down a Javå monolith into Quarkus microservices](https://developers.redhat.com/articles/2024/05/02/modernizing-pedal-breaking-down-java-monolith-quarkus-microservices)

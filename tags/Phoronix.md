@@ -1,3 +1,6 @@
+## 20240503
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Working On Improving Its Audio Stack & Creating Graphical OS Installer](https://www.phoronix.com/news/FreeBSD-Q1-2024-Progress)
+
 ## 20240502
 - [Phoronix](https://www.phoronix.com/) | [XWayland 24.1 RC2 Brings Fixes For Explicit Sync & DRM Leasing](https://www.phoronix.com/news/XWayland-24.1-RC2-Released)
 

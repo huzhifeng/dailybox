@@ -1,3 +1,6 @@
+## 20240503
+- [TED Talks Daily](https://www.ted.com/talks) | [Is your partner "the one?" Wrong question | George Blair-West](https://www.ted.com/talks/george_blair_west_is_your_partner_the_one_wrong_question?rss)
+
 ## 20240502
 - [TED Talks Daily](https://www.ted.com/talks) | [How the US is destroying young people's future | Scott Galloway](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future?rss)
 

@@ -1,3 +1,6 @@
+## 20240503
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed)
+
 ## 20240502
 - [Planet KDE](https://planet.kde.org/) | [Let everyone know you are going to Akademy 2024 E-banners](https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed)
 

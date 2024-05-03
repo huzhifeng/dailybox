@@ -1,3 +1,6 @@
+## 20240503
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 17 Gen6 Linux Laptop Launches with Intel Core i9-14900HX](https://9to5linux.com/tuxedo-stellaris-17-gen6-linux-laptop-launches-with-intel-core-i9-14900hx)
+
 ## 20240502
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.3 Office Suite Is Now Available for Download with 79 Bug Fixes](https://9to5linux.com/libreoffice-24-2-3-office-suite-is-now-available-for-download-with-79-bug-fixes)
 

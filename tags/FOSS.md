@@ -1,3 +1,6 @@
+## 20240503
+- [It's FOSS](https://itsfoss.com/) | [Neofetch is Dead! Here are 7 Alternatives for Your Linux System](https://itsfoss.com/neofetch-alternatives/)
+
 ## 20240502
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/)
 

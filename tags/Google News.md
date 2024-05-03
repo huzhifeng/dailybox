@@ -1,3 +1,6 @@
+## 20240503
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [AI engineers report burnout and rushed rollouts as 'rat race' to stay competitive hits tech industry - CNBC](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMDMvYWktZW5naW5lZXJzLWZhY2UtYnVybm91dC1hcy1yYXQtcmFjZS10by1zdGF5LWNvbXBldGl0aXZlLWhpdHMtdGVjaC5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDUvMDMvYWktZW5naW5lZXJzLWZhY2UtYnVybm91dC1hcy1yYXQtcmFjZS10by1zdGF5LWNvbXBldGl0aXZlLWhpdHMtdGVjaC5odG1s?oc=5)
+
 ## 20240502
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [US official urges China, Russia to declare only humans, not AI, control nuclear weapons - Reuters](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW9mZmljaWFsLXVyZ2VzLWNoaW5hLXJ1c3NpYS1kZWNsYXJlLW9ubHktaHVtYW5zLW5vdC1haS1jb250cm9sLW51Y2xlYXItMjAyNC0wNS0wMi_SAQA?oc=5)
 

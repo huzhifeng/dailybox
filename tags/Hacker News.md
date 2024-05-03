@@ -1,3 +1,9 @@
+## 20240503
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-02](https://www.daemonology.net/hn-daily/2024-05-02.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-03](https://github.com/headllines/hackernews-daily/issues/1393)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-03 | 通过 SSH 命令购买咖啡、AWS S3 漏洞或将导致用户账单飙升](https://www.xiaoyuzhoufm.com/episode/66339df24b7d3b5d3bbed20e)
+- [Hacker News](https://news.ycombinator.com/front) | [Woodworking as an escape from the absurdity of software](https://news.ycombinator.com/item?id=40245601)
+
 ## 20240502
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-01](https://www.daemonology.net/hn-daily/2024-05-01.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-02](https://github.com/headllines/hackernews-daily/issues/1392)
