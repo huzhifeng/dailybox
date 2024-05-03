@@ -1,3 +1,6 @@
+## 20240503
+- [Kagi Small Web](https://kagi.com/smallweb) | [Fifty-One Tales](https://wyrdbritain.blogspot.com/2024/05/fifty-one-tales.html)
+
 ## 20240502
 - [Kagi Small Web](https://kagi.com/smallweb) | [A Simple Plain-Text Knowledge System](https://blog.sebastian-daschner.com/entries/simple-plain-text-knowledge-system)
 

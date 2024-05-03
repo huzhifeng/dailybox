@@ -1,3 +1,7 @@
+## 20240503
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: No, you can't downgrade T14 Gen 3 AMD's UEFI BIOS even when Secure Rollback Prevention is turned off](https://nobuto-m.github.io/post/2024/no-you-can-t-downgrade-t14-gen-3-amd-s-uefi-bios-even-when-secure-rollback-prevention-is-turned-off/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed)
+
 ## 20240502
 - [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities April 2024](http://bonedaddy.net/pabs3/log/2024/05/02/floss-activities/)
 - [Planet GNOME](https://planet.gnome.org/) | [Outreachy May 2024: A letter to Fedora applicants](https://blog.jwf.io/2024/05/outreachy-may-2024-letter-fedora-applicants/)

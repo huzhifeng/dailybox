@@ -1,3 +1,6 @@
+## 20240503
+- [BlogFinder](https://bf.zzxworld.com/) | [风记星辰夏季壹言：晚风轻拂面·仲夏草木深](https://www.thyuu.com/77961?utm_source=blogfinder)
+
 ## 20240502
 - [BlogFinder](https://bf.zzxworld.com/) | [新疆天山](https://www.timelogs.cn/archives/1076/?utm_source=blogfinder)
 

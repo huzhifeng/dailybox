@@ -1,3 +1,6 @@
+## 20240503
+- [Lobsters](https://lobste.rs/) | [sudon't](https://lobste.rs/s/ldkfdg/sudon_t)
+
 ## 20240502
 - [Lobsters](https://lobste.rs/) | [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window)
 

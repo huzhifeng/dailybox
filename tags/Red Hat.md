@@ -1,3 +1,7 @@
+## 20240503
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
+- [Red Hat Developer](https://developers.redhat.com/) | [Deploy computer vision applications at the edge with MicroShift](https://developers.redhat.com/articles/2024/05/03/deploy-computer-vision-applications-edge-microshift)
+
 ## 20240502
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [How do you operationalize Generative AI consistently and at scale?](https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale)
 - [Red Hat Developer](https://developers.redhat.com/) | [Modernizing Pedal: Breaking down a Javå monolith into Quarkus microservices](https://developers.redhat.com/articles/2024/05/02/modernizing-pedal-breaking-down-java-monolith-quarkus-microservices)
