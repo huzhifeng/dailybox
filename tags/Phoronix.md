@@ -1,3 +1,6 @@
+## 20240504
+- [Phoronix](https://www.phoronix.com/) | [NetBSD On The State & Future Of X.Org/X11](https://www.phoronix.com/news/NetBSD-State-Of-X11-2024)
+
 ## 20240503
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD Working On Improving Its Audio Stack & Creating Graphical OS Installer](https://www.phoronix.com/news/FreeBSD-Q1-2024-Progress)
 

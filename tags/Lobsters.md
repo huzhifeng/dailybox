@@ -1,3 +1,6 @@
+## 20240504
+- [Lobsters](https://lobste.rs/) | [Rust RFC 3503 - frontmatter](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter)
+
 ## 20240503
 - [Lobsters](https://lobste.rs/) | [sudon't](https://lobste.rs/s/ldkfdg/sudon_t)
 

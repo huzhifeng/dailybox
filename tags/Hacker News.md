@@ -1,3 +1,8 @@
+## 20240504
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-03](https://www.daemonology.net/hn-daily/2024-05-03.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-04](https://github.com/headllines/hackernews-daily/issues/1394)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-04 | 心肺适应能力的提升显著关联于更低的死亡与慢性病风险](https://www.xiaoyuzhoufm.com/episode/663635e503bcdd73a9707eae)
+
 ## 20240503
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-02](https://www.daemonology.net/hn-daily/2024-05-02.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-03](https://github.com/headllines/hackernews-daily/issues/1393)

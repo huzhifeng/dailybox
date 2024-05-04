@@ -1,3 +1,6 @@
+## 20240504
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Book of Chaos: A Plea for Love](https://thewrittenaddiction.com/2024/05/04/the-book-of-chaos-a-plea-for-love/)
+
 ## 20240503
 - [Kagi Small Web](https://kagi.com/smallweb) | [Fifty-One Tales](https://wyrdbritain.blogspot.com/2024/05/fifty-one-tales.html)
 

@@ -1,3 +1,6 @@
+## 20240504
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: vym - view your mind](http://sven.stormbind.net/blog/posts/deb_view_your_mind_update_I/)
+
 ## 20240502
 - [Planet Debian](https://planet.debian.org/) | [Paul Wise: FLOSS Activities April 2024](http://bonedaddy.net/pabs3/log/2024/05/02/floss-activities/)
 

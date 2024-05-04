@@ -1,3 +1,6 @@
+## 20240504
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Help us](https://slrpnk.net/pictrs/image/c16ca2fc-2060-48a9-95a3-8b186f1129de.webp)
+
 ## 20240503
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Saving people is illegal](https://lemmy.ml/pictrs/image/648c30f4-2c0b-42a6-8a99-adb7097aa71d.jpeg)
 

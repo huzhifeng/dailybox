@@ -1,3 +1,6 @@
+## 20240504
+- [V2EX](https://www.v2ex.com/) | [小米换了 iqoo，舒服多了。](https://www.v2ex.com/t/1037695)
+
 ## 20240503
 - [V2EX](https://www.v2ex.com/) | [从股票基金亏钱发现，我做的大多决定都是错的，这是为什么呢？](https://www.v2ex.com/t/1037521)
 

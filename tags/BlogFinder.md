@@ -1,3 +1,6 @@
+## 20240504
+- [BlogFinder](https://bf.zzxworld.com/) | [Docker部署谷歌开源项目—图片无损压缩平台](https://panda995.xyz/network/4960.html?utm_source=blogfinder)
+
 ## 20240503
 - [BlogFinder](https://bf.zzxworld.com/) | [风记星辰夏季壹言：晚风轻拂面·仲夏草木深](https://www.thyuu.com/77961?utm_source=blogfinder)
 
