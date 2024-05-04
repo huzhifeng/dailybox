@@ -1,3 +1,8 @@
+## 20240504
+- [Phoronix](https://www.phoronix.com/) | [NetBSD On The State & Future Of X.Org/X11](https://www.phoronix.com/news/NetBSD-State-Of-X11-2024)
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: vym - view your mind](http://sven.stormbind.net/blog/posts/deb_view_your_mind_update_I/)
+- [Planet KDE](https://planet.kde.org/) | [Send your talks for Akademy NOW!](https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed)
+
 ## 20240503
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploy computer vision applications at the edge with MicroShift](https://developers.redhat.com/articles/2024/05/03/deploy-computer-vision-applications-edge-microshift)

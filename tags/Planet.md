@@ -1,3 +1,7 @@
+## 20240504
+- [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: vym - view your mind](http://sven.stormbind.net/blog/posts/deb_view_your_mind_update_I/)
+- [Planet KDE](https://planet.kde.org/) | [Send your talks for Akademy NOW!](https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed)
+
 ## 20240503
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: No, you can't downgrade T14 Gen 3 AMD's UEFI BIOS even when Secure Rollback Prevention is turned off](https://nobuto-m.github.io/post/2024/no-you-can-t-downgrade-t14-gen-3-amd-s-uefi-bios-even-when-secure-rollback-prevention-is-turned-off/)
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed)

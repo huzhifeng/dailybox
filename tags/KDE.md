@@ -1,3 +1,6 @@
+## 20240504
+- [Planet KDE](https://planet.kde.org/) | [Send your talks for Akademy NOW!](https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed)
+
 ## 20240503
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed)
 

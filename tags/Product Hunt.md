@@ -1,3 +1,6 @@
+## 20240504
+- [Product Hunt](https://www.producthunt.com) | [Logoit](https://www.producthunt.com/posts/logoit)
+
 ## 20240503
 - [Product Hunt](https://www.producthunt.com) | [Page UI](https://www.producthunt.com/posts/page-ui)
 
