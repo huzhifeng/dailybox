@@ -1,7 +1,7 @@
 name: Daily Box Bot
 on: 
   schedule:
-    - cron:  '30 15 * * *'
+    - cron:  '45 15 * * *'
 jobs:
   Dialy-Box-Bot-Actions:
     runs-on: ubuntu-latest
