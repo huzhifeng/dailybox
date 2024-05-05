@@ -1,3 +1,6 @@
+## 20240505
+- [Phoronix](https://www.phoronix.com/) | [New Intel P-State Linux Driver Patches To Better Handle Hybrid Core CPUs](https://www.phoronix.com/news/Intel-P-State-Asymmetic-Hybrid)
+
 ## 20240504
 - [Phoronix](https://www.phoronix.com/) | [NetBSD On The State & Future Of X.Org/X11](https://www.phoronix.com/news/NetBSD-State-Of-X11-2024)
 

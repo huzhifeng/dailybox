@@ -1,3 +1,6 @@
+## 20240505
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Empower Your Cybersecurity Journey with Linux: Why Ubuntu is the Perfect Starting Point](https://hamradio.my/empower-your-cybersecurity-journey-with-linux-why-ubuntu-is-the-perfect-starting-point/)
+
 ## 20240503
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Nobuto Murata: No, you can't downgrade T14 Gen 3 AMD's UEFI BIOS even when Secure Rollback Prevention is turned off](https://nobuto-m.github.io/post/2024/no-you-can-t-downgrade-t14-gen-3-amd-s-uefi-bios-even-when-secure-rollback-prevention-is-turned-off/)
 

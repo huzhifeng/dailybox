@@ -1,3 +1,6 @@
+## 20240505
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Apple’s AI research suggests features are coming for Siri, artists, and more. - The Verge](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvNS8yNDE0Nzk5NS9hcHBsZS1zaXJpLWFpLXJlc2VhcmNoLWNoYXRib3QtY3JlYXRpdml0edIBAA?oc=5)
+
 ## 20240504
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Sam's Club says AI will handle exit checks in all stores by end of 2024 - Fox Business](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS90ZWNobm9sb2d5L3NhbXMtY2x1Yi1haS1leGl0LWNoZWNrcy1hbGwtc3RvcmVzLTIwMjTSAVNodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9zYW1zLWNsdWItYWktZXhpdC1jaGVja3MtYWxsLXN0b3Jlcy0yMDI0LmFtcA?oc=5)
 

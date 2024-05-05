@@ -1,3 +1,6 @@
+## 20240505
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Been very busy with real life.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-May-5.html.en#2024-May-5-19:00:33)
+
 ## 20240504
 - [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: vym - view your mind](http://sven.stormbind.net/blog/posts/deb_view_your_mind_update_I/)
 
