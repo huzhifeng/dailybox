@@ -1,3 +1,6 @@
+## 20240505
+- [Lobsters](https://lobste.rs/) | [Dillo release 3.1.0](https://lobste.rs/s/drhnog/dillo_release_3_1_0)
+
 ## 20240504
 - [Lobsters](https://lobste.rs/) | [Rust RFC 3503 - frontmatter](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter)
 

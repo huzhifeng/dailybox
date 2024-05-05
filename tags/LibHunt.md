@@ -1,3 +1,6 @@
+## 20240505
+- [LibHunt](https://www.libhunt.com/) | [dillo](https://www.libhunt.com/r/dillo)
+
 ## 20240503
 - [LibHunt](https://www.libhunt.com/) | [t2sde](https://www.libhunt.com/r/t2sde)
 

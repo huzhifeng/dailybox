@@ -1,3 +1,6 @@
+## 20240505
+- [V2EX](https://www.v2ex.com/) | [20240505 - 邀请码系统](https://www.v2ex.com/t/1037849)
+
 ## 20240504
 - [V2EX](https://www.v2ex.com/) | [小米换了 iqoo，舒服多了。](https://www.v2ex.com/t/1037695)
 

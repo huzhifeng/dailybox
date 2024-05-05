@@ -1,3 +1,6 @@
+## 20240505
+- [Planet KDE](https://planet.kde.org/) | [Berlin Goals sprint 2024](https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed)
+
 ## 20240504
 - [Planet KDE](https://planet.kde.org/) | [Send your talks for Akademy NOW!](https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed)
 

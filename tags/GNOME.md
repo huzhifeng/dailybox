@@ -1,3 +1,6 @@
+## 20240505
+- [Planet GNOME](https://planet.gnome.org/) | [Guitar Builderings](https://blogs.gnome.org/chergert/2024/05/05/guitar-builderings/)
+
 ## 20240502
 - [Planet GNOME](https://planet.gnome.org/) | [Outreachy May 2024: A letter to Fedora applicants](https://blog.jwf.io/2024/05/outreachy-may-2024-letter-fedora-applicants/)
 

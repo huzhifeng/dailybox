@@ -1,3 +1,6 @@
+## 20240505
+- [Kagi Small Web](https://kagi.com/smallweb) | [2024 April. Kindle Scribe](https://kula.blog/newsletter/2024_04_update/)
+
 ## 20240504
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Book of Chaos: A Plea for Love](https://thewrittenaddiction.com/2024/05/04/the-book-of-chaos-a-plea-for-love/)
 

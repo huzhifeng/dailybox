@@ -1,3 +1,10 @@
+## 20240505
+- [Phoronix](https://www.phoronix.com/) | [New Intel P-State Linux Driver Patches To Better Handle Hybrid Core CPUs](https://www.phoronix.com/news/Intel-P-State-Asymmetic-Hybrid)
+- [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Been very busy with real life.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-May-5.html.en#2024-May-5-19:00:33)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Empower Your Cybersecurity Journey with Linux: Why Ubuntu is the Perfect Starting Point](https://hamradio.my/empower-your-cybersecurity-journey-with-linux-why-ubuntu-is-the-perfect-starting-point/)
+- [Planet GNOME](https://planet.gnome.org/) | [Guitar Builderings](https://blogs.gnome.org/chergert/2024/05/05/guitar-builderings/)
+- [Planet KDE](https://planet.kde.org/) | [Berlin Goals sprint 2024](https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed)
+
 ## 20240504
 - [Phoronix](https://www.phoronix.com/) | [NetBSD On The State & Future Of X.Org/X11](https://www.phoronix.com/news/NetBSD-State-Of-X11-2024)
 - [Planet Debian](https://planet.debian.org/) | [Sven Hoexter: vym - view your mind](http://sven.stormbind.net/blog/posts/deb_view_your_mind_update_I/)
