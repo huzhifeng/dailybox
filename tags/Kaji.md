@@ -1,3 +1,6 @@
+## 20240507
+- [Kagi Small Web](https://kagi.com/smallweb) | [Browsing Wikipedia on Your Desktop with Wike](https://opensourcemusings.com/posts/wike.html)
+
 ## 20240505
 - [Kagi Small Web](https://kagi.com/smallweb) | [2024 April. Kindle Scribe](https://kula.blog/newsletter/2024_04_update/)
 
