@@ -1,3 +1,6 @@
+## 20240507
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: Get Ready to 2024 Linux Display Next Hackfest in A Coruña!](https://melissawen.github.io/blog/2024/05/07/get-ready-display-hackfest-2024)
+
 ## 20240505
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Been very busy with real life.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-May-5.html.en#2024-May-5-19:00:33)
 

@@ -1,3 +1,8 @@
+## 20240507
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-06](https://www.daemonology.net/hn-daily/2024-05-06.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-07](https://github.com/headllines/hackernews-daily/issues/1397)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-07 | Meta 在 GPU 上的投资规模堪比历史上著名的曼哈顿计划](https://www.xiaoyuzhoufm.com/episode/6639958e565d3f8fe32af5f5)
+
 ## 20240505
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-04](https://www.daemonology.net/hn-daily/2024-05-04.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-05](https://github.com/headllines/hackernews-daily/issues/1395)

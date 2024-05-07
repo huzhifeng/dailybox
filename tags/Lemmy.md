@@ -1,3 +1,6 @@
+## 20240507
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Traffic rule](https://slrpnk.net/pictrs/image/2fdf647d-e8d7-470a-83a3-7298a45a5f1f.webp)
+
 ## 20240505
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [What&#x27;s stopping us?](https://lemmy.world/pictrs/image/d49ed6a5-f5bf-4223-ab16-3a8c5cb1a5c4.jpeg)
 

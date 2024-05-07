@@ -1,3 +1,6 @@
+## 20240507
+- [Lobsters](https://lobste.rs/) | [Apple Event for May 7th, 2024](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024)
+
 ## 20240505
 - [Lobsters](https://lobste.rs/) | [Dillo release 3.1.0](https://lobste.rs/s/drhnog/dillo_release_3_1_0)
 

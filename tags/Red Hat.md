@@ -1,3 +1,7 @@
+## 20240507
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
+- [Red Hat Developer](https://developers.redhat.com/) | [InstructLab: Advancing generative AI through open source](https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai)
+
 ## 20240503
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
 - [Red Hat Developer](https://developers.redhat.com/) | [Deploy computer vision applications at the edge with MicroShift](https://developers.redhat.com/articles/2024/05/03/deploy-computer-vision-applications-edge-microshift)

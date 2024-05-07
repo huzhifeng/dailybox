@@ -1,3 +1,6 @@
+## 20240507
+- [V2EX](https://www.v2ex.com/) | [黄鱼上已经有卖本站的激活码了](https://www.v2ex.com/t/1038421)
+
 ## 20240505
 - [V2EX](https://www.v2ex.com/) | [20240505 - 邀请码系统](https://www.v2ex.com/t/1037849)
 

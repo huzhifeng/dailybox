@@ -1,3 +1,6 @@
+## 20240507
+- [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
+
 ## 20240505
 - [LibHunt](https://www.libhunt.com/) | [dillo](https://www.libhunt.com/r/dillo)
 

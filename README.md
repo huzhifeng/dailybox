@@ -1,12 +1,53 @@
 # Daily Box 20240507
 
+## 开源
+- [开源日报](https://www.oschina.net/news/column?columnId=25) | [开源日报 | RustDesk暂停国内服务；高中生自创开源编程语言；国产开源MoE指标炸裂；大模型开闭源之争的实质；iPad要为AI“练兵”？](https://www.oschina.net/news/291222)
+- [开源之道](https://opensourceway.community/) | [「开源之史」系列之五/八：程序代码之外的开放式协作](https://www.opensourceway.community/posts/history-of-open-source/06-03-other-open-collaboration-based-source/)
+- [It's FOSS](https://itsfoss.com/) | [Running AI Locally Using Ollama on Ubuntu Linux](https://itsfoss.com/ollama-setup-linux/)
+- [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
+- [Red Hat Developer](https://developers.redhat.com/) | [InstructLab: Advancing generative AI through open source](https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai)
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: Get Ready to 2024 Linux Display Next Hackfest in A Coruña!](https://melissawen.github.io/blog/2024/05/07/get-ready-display-hackfest-2024)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13.0.1 released](https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed)
+
+## 资讯
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces The M4 Chip With Up To 10 CPU Cores](https://www.phoronix.com/news/Apple-Announces-M4)
+- [9to5Linux](https://9to5linux.com/) | [Meet Raspberry Pi Connect, a New Tool to Access Your Raspberry Pi Remotely](https://9to5linux.com/meet-raspberry-pi-connect-a-new-tool-to-access-your-raspberry-pi-remotely)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20240507】老人与海](http://www.dapenti.com/blog/more.asp?name=xilei&id=178444)
+- [网易轻松一刻](https://m.163.com/touch/exclusive/sub/qsyk) | [轻松一刻：女同事工作很累，该怎么给她放松一下？](https://m.163.com/news/article/J1JUJ2G8000181BR.html)
+- [V2EX](https://www.v2ex.com/) | [黄鱼上已经有卖本站的激活码了](https://www.v2ex.com/t/1038421)
+- [Lobsters](https://lobste.rs/) | [Apple Event for May 7th, 2024](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024)
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Traffic rule](https://slrpnk.net/pictrs/image/2fdf647d-e8d7-470a-83a3-7298a45a5f1f.webp)
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Stanley Druckenmiller cut his Nvidia stake in late March, says AI may be a bit overhyped short term - CNBC](https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jbmJjLmNvbS8yMDI0LzA1LzA3L3N0YW5sZXktZHJ1Y2tlbm1pbGxlci1jdXQtaGlzLW52aWRpYS1zdGFrZS1pbi1sYXRlLW1hcmNoLXNheXMtYWktbWF5LWJlLWEtYml0LW92ZXJoeXBlZC1zaG9ydC10ZXJtLmh0bWzSAYsBaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDUvMDcvc3RhbmxleS1kcnVja2VubWlsbGVyLWN1dC1oaXMtbnZpZGlhLXN0YWtlLWluLWxhdGUtbWFyY2gtc2F5cy1haS1tYXktYmUtYS1iaXQtb3Zlcmh5cGVkLXNob3J0LXRlcm0uaHRtbA?oc=5)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-06](https://www.daemonology.net/hn-daily/2024-05-06.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-07](https://github.com/headllines/hackernews-daily/issues/1397)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-07 | Meta 在 GPU 上的投资规模堪比历史上著名的曼哈顿计划](https://www.xiaoyuzhoufm.com/episode/6639958e565d3f8fe32af5f5)
+- [科技东风](https://m.smzdm.com/tag/tn0400v/) | [科技东风｜今年仅有 RTX 5090；Win 11 24H2 数据加密，家庭版性能下降；全国首例 AI 外挂案](https://post.m.smzdm.com/p/aov4egvr/)
+
+## 视频
+- [TED Talks Daily](https://www.ted.com/talks) | [Why US politics is broken — and how to fix it | Andrew Yang](https://www.ted.com/talks/andrew_yang_why_us_politics_is_broken_and_how_to_fix_it?rss)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [吃亏是福？我爸总吃亏，被上汽大众赞助一台车](https://b23.tv/BV1Q4421f7nn)
+
 ## 漫游
-- [Kagi Small Web](https://kagi.com/smallweb) | [Browsing Wikipedia on Your Desktop with Wike](https://opensourcemusings.com/posts/wike.html)
+- [BlogFinder](https://bf.zzxworld.com/) | [学习最近喜欢的一些歌曲](https://www.t223.top/archives/2031/?utm_source=blogfinder)
+- [博友圈](https://www.boyouquan.com/home) | [烽火台](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.vergilisme.com%2Findex.php%2F2024%2F05%2F07%2F2348.html)
+- [优质长文分享会](https://m.okjike.com/topics/56d2fabe7cb3331100467e2b) | [“我们所有的行为都是冰山上面的部分， 但如果你知道，你能揭示你的角色冰山下面的部分，行为背后的原因和情感，人们会更为你的角色感到动心和动情。 让观众为你...](https://m.okjike.com/originalPosts/663a1281164d89e6012290e6)
+- [Kagi Small Web](https://kagi.com/smallweb) | [Creativity sprints](https://rachsmith.com/creativity-sprints/)
+- [竹白先锋作品](https://www.zhubai.wiki/) | [参考周刊 Vol.50｜查理·芒格经典演讲：论基本的、普世的智慧](https://open.zhubai.wiki/a/l/t/z/pl/ouranswers/2399587397433397248)
+
+## 日报
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报|苹果或在今晚发布 Apple Pencil Pro/雷军：逛完北京车展后「很绝望」/微软或开发新模型与 OpenAI 竞争](https://www.ifanr.com/1584296)
+- [8点1氪](https://36kr.com/user/5652071) | [8点1氪丨iPhone在华市场份额跌出前五；问界回应M7 Plus追尾事故质疑；香飘飘总裁奖励员工反对核污水排海](https://36kr.com/p/2765101785316105)
+- [极客早知道](https://www.geekpark.net/column/74) | [微软推 AI 模型 MAI-1，与 OpenAI 竞争；问界正式回应山西追尾事故；美空军部长亲自体验 AI 战斗机 | 极客早知道](https://www.geekpark.net/news/334744)
+- [晚点早知道](https://www.latepost.com/news/index?proma=3) | [日本住房空置率新高；报道马斯克商业帝国灰色面的团队拿到普利策；中概股反弹，涨 25% 才能跑赢大盘](https://www.latepost.com/news/dj_detail?id=2261)
+
+## 产品
+- [Product Hunt](https://www.producthunt.com) | [Flownote](https://www.producthunt.com/posts/flownote-4)
 
 ## 语录
-- "所谓辉煌的人生，不过是欲望的囚徒。" - 叔本华 《网络》
-- "虚空落泉千仞直，雷奔入江不暂息。" - 徐凝 《庐山瀑布》
-- "The beginning of knowledge is the discovery of something we do not understand." - Frank Herbert
+- "现在他只能看到星星和墓碑，但这却是两样最能象征永恒的东西。" - 刘慈欣 《三体II: 黑暗森林》
+- "一曲新词酒一杯，去年天气旧亭台。" - 晏殊 《浣溪沙·一曲新词酒一杯》
+- "A quarrel between friends, when made up, adds a new tie to friendship." - Francis de Sales
 
 ## 更多
 - [前一天](archives/daily-box-20240506.md)

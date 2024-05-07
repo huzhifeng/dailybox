@@ -1,3 +1,6 @@
+## 20240507
+- [TED Talks Daily](https://www.ted.com/talks) | [Why US politics is broken — and how to fix it | Andrew Yang](https://www.ted.com/talks/andrew_yang_why_us_politics_is_broken_and_how_to_fix_it?rss)
+
 ## 20240503
 - [TED Talks Daily](https://www.ted.com/talks) | [Is your partner "the one?" Wrong question | George Blair-West](https://www.ted.com/talks/george_blair_west_is_your_partner_the_one_wrong_question?rss)
 

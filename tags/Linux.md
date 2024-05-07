@@ -1,3 +1,11 @@
+## 20240507
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
+- [Red Hat Developer](https://developers.redhat.com/) | [InstructLab: Advancing generative AI through open source](https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai)
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces The M4 Chip With Up To 10 CPU Cores](https://www.phoronix.com/news/Apple-Announces-M4)
+- [9to5Linux](https://9to5linux.com/) | [Meet Raspberry Pi Connect, a New Tool to Access Your Raspberry Pi Remotely](https://9to5linux.com/meet-raspberry-pi-connect-a-new-tool-to-access-your-raspberry-pi-remotely)
+- [Planet Debian](https://planet.debian.org/) | [Melissa Wen: Get Ready to 2024 Linux Display Next Hackfest in A Coruña!](https://melissawen.github.io/blog/2024/05/07/get-ready-display-hackfest-2024)
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13.0.1 released](https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed)
+
 ## 20240505
 - [Phoronix](https://www.phoronix.com/) | [New Intel P-State Linux Driver Patches To Better Handle Hybrid Core CPUs](https://www.phoronix.com/news/Intel-P-State-Asymmetic-Hybrid)
 - [Planet Debian](https://planet.debian.org/) | [Junichi Uekawa: Been very busy with real life.](http://www.netfort.gr.jp/~dancer/diary/daily/2024-May-5.html.en#2024-May-5-19:00:33)
