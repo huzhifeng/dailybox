@@ -1,3 +1,6 @@
+## 20240507
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces The M4 Chip With Up To 10 CPU Cores](https://www.phoronix.com/news/Apple-Announces-M4)
+
 ## 20240505
 - [Phoronix](https://www.phoronix.com/) | [New Intel P-State Linux Driver Patches To Better Handle Hybrid Core CPUs](https://www.phoronix.com/news/Intel-P-State-Asymmetic-Hybrid)
 

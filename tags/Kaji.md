@@ -1,4 +1,7 @@
 ## 20240507
+- [Kagi Small Web](https://kagi.com/smallweb) | [Creativity sprints](https://rachsmith.com/creativity-sprints/)
+
+## 20240507
 - [Kagi Small Web](https://kagi.com/smallweb) | [Browsing Wikipedia on Your Desktop with Wike](https://opensourcemusings.com/posts/wike.html)
 
 ## 20240505

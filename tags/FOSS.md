@@ -1,3 +1,6 @@
+## 20240507
+- [It's FOSS](https://itsfoss.com/) | [Running AI Locally Using Ollama on Ubuntu Linux](https://itsfoss.com/ollama-setup-linux/)
+
 ## 20240505
 - [It's FOSS](https://itsfoss.com/) | [4 Tools to Share Large Files Over the Internet Securely](https://itsfoss.com/share-large-files-tool/)
 

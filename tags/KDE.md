@@ -1,3 +1,6 @@
+## 20240507
+- [Planet KDE](https://planet.kde.org/) | [Qt Creator 13.0.1 released](https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed)
+
 ## 20240505
 - [Planet KDE](https://planet.kde.org/) | [Berlin Goals sprint 2024](https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed)
 
