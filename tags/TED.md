@@ -1,3 +1,6 @@
+## 20240508
+- [TED Talks Daily](https://www.ted.com/talks) | [Welcome to the world of audio computers | Jason Rugolo](https://www.ted.com/talks/jason_rugolo_welcome_to_the_world_of_audio_computers?rss)
+
 ## 20240507
 - [TED Talks Daily](https://www.ted.com/talks) | [Why US politics is broken — and how to fix it | Andrew Yang](https://www.ted.com/talks/andrew_yang_why_us_politics_is_broken_and_how_to_fix_it?rss)
 

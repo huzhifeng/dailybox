@@ -1,3 +1,6 @@
+## 20240508
+- [Kagi Small Web](https://kagi.com/smallweb) | [How does Anh Do write so many books?](https://rachsmith.com/how-so-many/)
+
 ## 20240507
 - [Kagi Small Web](https://kagi.com/smallweb) | [Creativity sprints](https://rachsmith.com/creativity-sprints/)
 

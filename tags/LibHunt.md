@@ -1,3 +1,6 @@
+## 20240508
+- [LibHunt](https://www.libhunt.com/) | [date-fns](https://www.libhunt.com/r/date-fns)
+
 ## 20240507
 - [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
 

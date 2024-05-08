@@ -1,3 +1,6 @@
+## 20240508
+- [It's FOSS](https://itsfoss.com/) | [Customizing GNOME's Top Panel: Here's How to do that!](https://itsfoss.com/customize-gnome-top-panel/)
+
 ## 20240507
 - [It's FOSS](https://itsfoss.com/) | [Running AI Locally Using Ollama on Ubuntu Linux](https://itsfoss.com/ollama-setup-linux/)
 

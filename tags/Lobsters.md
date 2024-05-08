@@ -1,3 +1,6 @@
+## 20240508
+- [Lobsters](https://lobste.rs/) | [Did GitHub Copilot really increase my productivity?](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my)
+
 ## 20240507
 - [Lobsters](https://lobste.rs/) | [Apple Event for May 7th, 2024](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024)
 

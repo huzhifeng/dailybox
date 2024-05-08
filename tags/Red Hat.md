@@ -1,3 +1,7 @@
+## 20240508
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift 101 for OpenStack admins: Data plane deployment](https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-data-plane-deployment)
+
 ## 20240507
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
 - [Red Hat Developer](https://developers.redhat.com/) | [InstructLab: Advancing generative AI through open source](https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai)

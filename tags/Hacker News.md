@@ -1,3 +1,8 @@
+## 20240508
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-07](https://www.daemonology.net/hn-daily/2024-05-07.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-08](https://github.com/headllines/hackernews-daily/issues/1398)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-08 | 开源项目 CQ2 如何让网上平台上的复杂对话变得有序并提高互动质量](https://www.xiaoyuzhoufm.com/episode/663b2031dbd3c12f0a1a0e42)
+
 ## 20240507
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-06](https://www.daemonology.net/hn-daily/2024-05-06.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-07](https://github.com/headllines/hackernews-daily/issues/1397)

@@ -1,3 +1,6 @@
+## 20240508
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix 40 Is Now Available for Apple Silicon Macs with KDE Plasma 6](https://9to5linux.com/fedora-asahi-remix-40-is-now-available-for-apple-silicon-macs-with-kde-plasma-6)
+
 ## 20240507
 - [9to5Linux](https://9to5linux.com/) | [Meet Raspberry Pi Connect, a New Tool to Access Your Raspberry Pi Remotely](https://9to5linux.com/meet-raspberry-pi-connect-a-new-tool-to-access-your-raspberry-pi-remotely)
 
