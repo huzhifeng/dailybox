@@ -1,3 +1,6 @@
+## 20240508
+- [V2EX](https://www.v2ex.com/) | [请教一下 iPad 的真实使用场景](https://www.v2ex.com/t/1038810)
+
 ## 20240507
 - [V2EX](https://www.v2ex.com/) | [黄鱼上已经有卖本站的激活码了](https://www.v2ex.com/t/1038421)
 

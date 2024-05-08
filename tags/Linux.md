@@ -1,3 +1,10 @@
+## 20240508
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
+- [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift 101 for OpenStack admins: Data plane deployment](https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-data-plane-deployment)
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1](https://www.phoronix.com/review/ubuntu-2404-riscv)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix 40 Is Now Available for Apple Silicon Macs with KDE Plasma 6](https://9to5linux.com/fedora-asahi-remix-40-is-now-available-for-apple-silicon-macs-with-kde-plasma-6)
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: New python-debianbts in experimental](https://venthur.de/2024-05-08-new-python-debianbts-in-experimental.html)
+
 ## 20240507
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
 - [Red Hat Developer](https://developers.redhat.com/) | [InstructLab: Advancing generative AI through open source](https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai)

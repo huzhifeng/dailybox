@@ -1,3 +1,6 @@
+## 20240508
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Every time I get an email about](https://lemmy.ca/pictrs/image/14af8b40-b3e2-4d25-a17f-8080aa6d234a.jpeg)
+
 ## 20240507
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Traffic rule](https://slrpnk.net/pictrs/image/2fdf647d-e8d7-470a-83a3-7298a45a5f1f.webp)
 

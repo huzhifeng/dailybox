@@ -1,3 +1,6 @@
+## 20240508
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1](https://www.phoronix.com/review/ubuntu-2404-riscv)
+
 ## 20240507
 - [Phoronix](https://www.phoronix.com/) | [Apple Announces The M4 Chip With Up To 10 CPU Cores](https://www.phoronix.com/news/Apple-Announces-M4)
 

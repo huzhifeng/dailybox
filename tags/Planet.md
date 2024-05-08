@@ -1,3 +1,6 @@
+## 20240508
+- [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: New python-debianbts in experimental](https://venthur.de/2024-05-08-new-python-debianbts-in-experimental.html)
+
 ## 20240507
 - [Planet Debian](https://planet.debian.org/) | [Melissa Wen: Get Ready to 2024 Linux Display Next Hackfest in A Coruña!](https://melissawen.github.io/blog/2024/05/07/get-ready-display-hackfest-2024)
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13.0.1 released](https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed)

@@ -1,3 +1,6 @@
+## 20240508
+- [BlogFinder](https://bf.zzxworld.com/) | [校内足球赛精彩纷呈，惊现8:0比分](https://hux6.com/archives/149.html?utm_source=blogfinder)
+
 ## 20240507
 - [BlogFinder](https://bf.zzxworld.com/) | [学习最近喜欢的一些歌曲](https://www.t223.top/archives/2031/?utm_source=blogfinder)
 
