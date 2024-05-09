@@ -1,3 +1,6 @@
+## 20240509
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Rebasing on Ubuntu Noble](https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed)
+
 ## 20240507
 - [Planet KDE](https://planet.kde.org/) | [Qt Creator 13.0.1 released](https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed)
 

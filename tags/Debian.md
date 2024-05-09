@@ -1,3 +1,6 @@
+## 20240509
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2024](http://blog.alteholz.eu/2024/05/my-debian-activities-in-april-2024/)
+
 ## 20240508
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: New python-debianbts in experimental](https://venthur.de/2024-05-08-new-python-debianbts-in-experimental.html)
 

@@ -1,3 +1,6 @@
+## 20240509
+- [Lobsters](https://lobste.rs/) | [All error messages are necessarily bad to some degree](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad)
+
 ## 20240508
 - [Lobsters](https://lobste.rs/) | [Did GitHub Copilot really increase my productivity?](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my)
 

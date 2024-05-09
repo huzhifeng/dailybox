@@ -1,3 +1,6 @@
+## 20240509
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4.1 DJ App Improves Support for Denon, Pioneer, and Traktor Controllers](https://9to5linux.com/mixxx-2-4-1-dj-app-improves-support-for-denon-pioneer-and-traktor-controllers)
+
 ## 20240508
 - [9to5Linux](https://9to5linux.com/) | [Fedora Asahi Remix 40 Is Now Available for Apple Silicon Macs with KDE Plasma 6](https://9to5linux.com/fedora-asahi-remix-40-is-now-available-for-apple-silicon-macs-with-kde-plasma-6)
 

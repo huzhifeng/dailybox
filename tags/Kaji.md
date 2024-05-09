@@ -1,3 +1,6 @@
+## 20240509
+- [Kagi Small Web](https://kagi.com/smallweb) | [Taji](https://samim.io/p/2024-05-09-taji)
+
 ## 20240508
 - [Kagi Small Web](https://kagi.com/smallweb) | [How does Anh Do write so many books?](https://rachsmith.com/how-so-many/)
 

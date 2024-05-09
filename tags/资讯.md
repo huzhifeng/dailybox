@@ -1,3 +1,6 @@
+## 20240509
+- [diff.blog](https://diff.blog/) | [This Week in Rust 546](https://diff.blog/post/this-week-in-rust-546-175553/)
+
 ## 20240502
 - [diff.blog](https://diff.blog/) | [Announcing Rust 1.78.0](https://diff.blog/post/announcing-rust-1780-175157/)
 

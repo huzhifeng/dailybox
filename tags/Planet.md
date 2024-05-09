@@ -1,3 +1,9 @@
+## 20240509
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2024-05: documentation; grouping-by(); PAM Essentials; health](https://peter.czanik.hu/other/syslog-ng-insider-2024-05-documentation-grouping-by-pam-essentials-health/)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2024](http://blog.alteholz.eu/2024/05/my-debian-activities-in-april-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [libwacom and Huion/Gaomon devices](https://who-t.blogspot.com/2024/05/libwacom-and-huiongaomon-devices.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Rebasing on Ubuntu Noble](https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed)
+
 ## 20240508
 - [Planet Debian](https://planet.debian.org/) | [Bastian Venthur: New python-debianbts in experimental](https://venthur.de/2024-05-08-new-python-debianbts-in-experimental.html)
 

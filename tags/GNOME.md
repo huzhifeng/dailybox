@@ -1,3 +1,6 @@
+## 20240509
+- [Planet GNOME](https://planet.gnome.org/) | [libwacom and Huion/Gaomon devices](https://who-t.blogspot.com/2024/05/libwacom-and-huiongaomon-devices.html)
+
 ## 20240505
 - [Planet GNOME](https://planet.gnome.org/) | [Guitar Builderings](https://blogs.gnome.org/chergert/2024/05/05/guitar-builderings/)
 

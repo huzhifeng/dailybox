@@ -1,3 +1,6 @@
+## 20240509
+- [TED Talks Daily](https://www.ted.com/talks) | [How aerosols brighten clouds — and cool the planet | Sarah J. Doherty](https://www.ted.com/talks/sarah_j_doherty_how_aerosols_brighten_clouds_and_cool_the_planet?rss)
+
 ## 20240508
 - [TED Talks Daily](https://www.ted.com/talks) | [Welcome to the world of audio computers | Jason Rugolo](https://www.ted.com/talks/jason_rugolo_welcome_to_the_world_of_audio_computers?rss)
 

@@ -1,3 +1,6 @@
+## 20240509
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Debuting at IOT Solutions World Congress](https://www.collabora.com/news-and-blog/news-and-events/debuting-at-iot-solutions-world-congress.html)
+
 ## 20240429
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Effortless GStreamer Analytics Cross-Platform Support via ONNX Runtime](https://www.collabora.com/news-and-blog/news-and-events/effortless-gstreamer-analytics-cross-platform-support-via-onnx.html)
 

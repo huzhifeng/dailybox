@@ -1,3 +1,6 @@
+## 20240509
+- [Phoronix](https://www.phoronix.com/) | [AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation](https://www.phoronix.com/news/AMD-MES-Firmware-Docs)
+
 ## 20240508
 - [Phoronix](https://www.phoronix.com/) | [RISC-V Performance On Ubuntu 24.04 LTS With Scaleway's EM-RV1](https://www.phoronix.com/review/ubuntu-2404-riscv)
 

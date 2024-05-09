@@ -1,3 +1,12 @@
+## 20240509
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Debuting at IOT Solutions World Congress](https://www.collabora.com/news-and-blog/news-and-events/debuting-at-iot-solutions-world-congress.html)
+- [Phoronix](https://www.phoronix.com/) | [AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation](https://www.phoronix.com/news/AMD-MES-Firmware-Docs)
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4.1 DJ App Improves Support for Denon, Pioneer, and Traktor Controllers](https://9to5linux.com/mixxx-2-4-1-dj-app-improves-support-for-denon-pioneer-and-traktor-controllers)
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2024-05: documentation; grouping-by(); PAM Essentials; health](https://peter.czanik.hu/other/syslog-ng-insider-2024-05-documentation-grouping-by-pam-essentials-health/)
+- [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2024](http://blog.alteholz.eu/2024/05/my-debian-activities-in-april-2024/)
+- [Planet GNOME](https://planet.gnome.org/) | [libwacom and Huion/Gaomon devices](https://who-t.blogspot.com/2024/05/libwacom-and-huiongaomon-devices.html)
+- [Planet KDE](https://planet.kde.org/) | [KDE neon Rebasing on Ubuntu Noble](https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed)
+
 ## 20240508
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
 - [Red Hat Developer](https://developers.redhat.com/) | [Red Hat OpenShift 101 for OpenStack admins: Data plane deployment](https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-data-plane-deployment)

@@ -1,3 +1,6 @@
+## 20240509
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.19: Local AI on Linux, systemd's sudo Replacement](https://itsfoss.com/newsletter/foss-weekly-24-19/)
+
 ## 20240508
 - [It's FOSS](https://itsfoss.com/) | [Customizing GNOME's Top Panel: Here's How to do that!](https://itsfoss.com/customize-gnome-top-panel/)
 

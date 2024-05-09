@@ -1,3 +1,6 @@
+## 20240509
+- [BlogFinder](https://bf.zzxworld.com/) | [Debian11 Vim 鼠标无法复制选中的内容的解决方法](https://www.bailuze.com/7534.html?utm_source=blogfinder)
+
 ## 20240508
 - [BlogFinder](https://bf.zzxworld.com/) | [校内足球赛精彩纷呈，惊现8:0比分](https://hux6.com/archives/149.html?utm_source=blogfinder)
 
