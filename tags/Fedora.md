@@ -1,3 +1,6 @@
+## 20240509
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2024-05: documentation; grouping-by(); PAM Essentials; health](https://peter.czanik.hu/other/syslog-ng-insider-2024-05-documentation-grouping-by-pam-essentials-health/)
+
 ## 20240429
 - [Planet Fedora](http://fedoraplanet.org/) | [Josh Bressers: Episode 426 – Automatically exploiting CVEs with AI](https://opensourcesecurity.io/2024/04/28/episode-426-automatically-exploiting-cves-with-ai/)
 

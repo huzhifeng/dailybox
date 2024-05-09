@@ -1,3 +1,8 @@
+## 20240509
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-08](https://www.daemonology.net/hn-daily/2024-05-08.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-09](https://github.com/headllines/hackernews-daily/issues/1399)
+- [Hacker News](https://news.ycombinator.com/front) | [The Time I Lied to the CTO and Saved the Day](https://news.ycombinator.com/item?id=40304453)
+
 ## 20240508
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-07](https://www.daemonology.net/hn-daily/2024-05-07.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-08](https://github.com/headllines/hackernews-daily/issues/1398)
