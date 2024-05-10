@@ -1,3 +1,6 @@
+## 20240510
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Adding TPM Bus Encryption & Integrity Protection](https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity)
+
 ## 20240509
 - [Phoronix](https://www.phoronix.com/) | [AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation](https://www.phoronix.com/news/AMD-MES-Firmware-Docs)
 

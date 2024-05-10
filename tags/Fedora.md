@@ -1,3 +1,6 @@
+## 20240510
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 19 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-19-2024/)
+
 ## 20240509
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2024-05: documentation; grouping-by(); PAM Essentials; health](https://peter.czanik.hu/other/syslog-ng-insider-2024-05-documentation-grouping-by-pam-essentials-health/)
 

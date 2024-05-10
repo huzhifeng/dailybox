@@ -1,3 +1,6 @@
+## 20240510
+- [Product Hunt](https://www.producthunt.com) | [HyperURLs](https://www.producthunt.com/posts/hyperurls)
+
 ## 20240509
 - [Product Hunt](https://www.producthunt.com) | [ChandlerAi](https://www.producthunt.com/posts/chandlerai)
 

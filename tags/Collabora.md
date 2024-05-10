@@ -1,3 +1,6 @@
+## 20240510
+- [Collabora](https://www.collabora.com/news-and-blog/) | [SteamOS 3.6: How the Steam Deck atomic updates are improving](https://www.collabora.com/news-and-blog/news-and-events/steamos-3-6-how-the-steam-deck-atomic-updates-are-improving.html)
+
 ## 20240509
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Debuting at IOT Solutions World Congress](https://www.collabora.com/news-and-blog/news-and-events/debuting-at-iot-solutions-world-congress.html)
 

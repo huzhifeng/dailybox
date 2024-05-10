@@ -1,3 +1,6 @@
+## 20240510
+- [Kagi Small Web](https://kagi.com/smallweb) | [The worse you feel, the more committed you are to your protocol](https://rachsmith.com/the-worse-you-feel/)
+
 ## 20240509
 - [Kagi Small Web](https://kagi.com/smallweb) | [Taji](https://samim.io/p/2024-05-09-taji)
 

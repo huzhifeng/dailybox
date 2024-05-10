@@ -1,3 +1,6 @@
+## 20240510
+- [Lobsters](https://lobste.rs/) | [Kibibytes are silly and we should all use them](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them)
+
 ## 20240509
 - [Lobsters](https://lobste.rs/) | [All error messages are necessarily bad to some degree](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad)
 

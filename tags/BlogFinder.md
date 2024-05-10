@@ -1,3 +1,6 @@
+## 20240510
+- [BlogFinder](https://bf.zzxworld.com/) | [sqli-labs靶场搭建与踩坑心得](https://sophiatazar.com/archives/1041.html?utm_source=blogfinder)
+
 ## 20240509
 - [BlogFinder](https://bf.zzxworld.com/) | [Debian11 Vim 鼠标无法复制选中的内容的解决方法](https://www.bailuze.com/7534.html?utm_source=blogfinder)
 
