@@ -1,3 +1,6 @@
+## 20240510
+- [TED Talks Daily](https://www.ted.com/talks) | [1 simple question that could improve women's health | Meryam Sugulle](https://www.ted.com/talks/meryam_sugulle_1_simple_question_that_could_improve_women_s_health?rss)
+
 ## 20240509
 - [TED Talks Daily](https://www.ted.com/talks) | [How aerosols brighten clouds — and cool the planet | Sarah J. Doherty](https://www.ted.com/talks/sarah_j_doherty_how_aerosols_brighten_clouds_and_cool_the_planet?rss)
 

@@ -1,3 +1,6 @@
+## 20240510
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2024](https://reproducible-builds.org/reports/2024-04/)
+
 ## 20240509
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2024](http://blog.alteholz.eu/2024/05/my-debian-activities-in-april-2024/)
 

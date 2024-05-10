@@ -1,3 +1,12 @@
+## 20240510
+- [Collabora](https://www.collabora.com/news-and-blog/) | [SteamOS 3.6: How the Steam Deck atomic updates are improving](https://www.collabora.com/news-and-blog/news-and-events/steamos-3-6-how-the-steam-deck-atomic-updates-are-improving.html)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — May 10, 2024](https://www.redhat.com/en/blog/friday-five-may-10-2024-red-hat)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Adding TPM Bus Encryption & Integrity Protection](https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.7 Is Here as the Last Update in the Series, Upgrade to LibreOffice 24.2](https://9to5linux.com/libreoffice-7-6-7-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-24-2)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 19 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-19-2024/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2024](https://reproducible-builds.org/reports/2024-04/)
+- [Planet KDE](https://planet.kde.org/) | [Using the QML Language Server for KDE Development (update)](https://nicolasfella.de/posts/qmlls-for-kde-development-2/?utm_source=atom_feed?utm_source=atom_feed)
+
 ## 20240509
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Debuting at IOT Solutions World Congress](https://www.collabora.com/news-and-blog/news-and-events/debuting-at-iot-solutions-world-congress.html)
 - [Phoronix](https://www.phoronix.com/) | [AMD Publishes Micro Engine Scheduler "MES" Firmware Documentation](https://www.phoronix.com/news/AMD-MES-Firmware-Docs)

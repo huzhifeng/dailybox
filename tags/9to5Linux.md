@@ -1,3 +1,6 @@
+## 20240510
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.7 Is Here as the Last Update in the Series, Upgrade to LibreOffice 24.2](https://9to5linux.com/libreoffice-7-6-7-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-24-2)
+
 ## 20240509
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.4.1 DJ App Improves Support for Denon, Pioneer, and Traktor Controllers](https://9to5linux.com/mixxx-2-4-1-dj-app-improves-support-for-denon-pioneer-and-traktor-controllers)
 

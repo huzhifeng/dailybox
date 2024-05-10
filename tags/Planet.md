@@ -1,3 +1,8 @@
+## 20240510
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 19 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-19-2024/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2024](https://reproducible-builds.org/reports/2024-04/)
+- [Planet KDE](https://planet.kde.org/) | [Using the QML Language Server for KDE Development (update)](https://nicolasfella.de/posts/qmlls-for-kde-development-2/?utm_source=atom_feed?utm_source=atom_feed)
+
 ## 20240509
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: The syslog-ng Insider 2024-05: documentation; grouping-by(); PAM Essentials; health](https://peter.czanik.hu/other/syslog-ng-insider-2024-05-documentation-grouping-by-pam-essentials-health/)
 - [Planet Debian](https://planet.debian.org/) | [Thorsten Alteholz: My Debian Activities in April 2024](http://blog.alteholz.eu/2024/05/my-debian-activities-in-april-2024/)

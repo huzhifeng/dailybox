@@ -1,3 +1,6 @@
+## 20240510
+- [LibHunt](https://www.libhunt.com/) | [anime.js](https://www.libhunt.com/r/anime)
+
 ## 20240509
 - [LibHunt](https://www.libhunt.com/) | [llvm-project](https://www.libhunt.com/r/llvm-project)
 

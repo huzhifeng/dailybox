@@ -1,3 +1,6 @@
+## 20240510
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The real magic word](https://sh.itjust.works/pictrs/image/c1608a19-79ca-4534-a3f1-feac3fc25f8f.webp)
+
 ## 20240509
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
 
