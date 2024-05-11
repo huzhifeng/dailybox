@@ -1,3 +1,9 @@
+## 20240511
+- [Phoronix](https://www.phoronix.com/) | [Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows](https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 9.8 Archive Manager Adds New CLI Switches, New UI Options, and Tux Theme](https://9to5linux.com/peazip-9-8-archive-manager-adds-new-cli-switches-new-ui-options-and-tux-theme)
+- [Planet GNOME](https://planet.gnome.org/) | [May Maps](https://ml4711.blogspot.com/2024/05/may-maps.html)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed)
+
 ## 20240510
 - [Collabora](https://www.collabora.com/news-and-blog/) | [SteamOS 3.6: How the Steam Deck atomic updates are improving](https://www.collabora.com/news-and-blog/news-and-events/steamos-3-6-how-the-steam-deck-atomic-updates-are-improving.html)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — May 10, 2024](https://www.redhat.com/en/blog/friday-five-may-10-2024-red-hat)

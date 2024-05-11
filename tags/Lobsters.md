@@ -1,3 +1,6 @@
+## 20240511
+- [Lobsters](https://lobste.rs/) | [Debian's KeePassXC package has removed many features](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed)
+
 ## 20240510
 - [Lobsters](https://lobste.rs/) | [Kibibytes are silly and we should all use them](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them)
 

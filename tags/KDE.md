@@ -1,3 +1,6 @@
+## 20240511
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed)
+
 ## 20240510
 - [Planet KDE](https://planet.kde.org/) | [Using the QML Language Server for KDE Development (update)](https://nicolasfella.de/posts/qmlls-for-kde-development-2/?utm_source=atom_feed?utm_source=atom_feed)
 

@@ -1,3 +1,6 @@
+## 20240511
+- [LibHunt](https://www.libhunt.com/) | [HomeBrew](https://www.libhunt.com/r/brew)
+
 ## 20240510
 - [LibHunt](https://www.libhunt.com/) | [anime.js](https://www.libhunt.com/r/anime)
 

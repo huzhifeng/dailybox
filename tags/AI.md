@@ -1,3 +1,6 @@
+## 20240511
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Android in the time of AI - The Verge](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTEvMjQxNTI5NzcvYW5kcm9pZC1haS1nb29nbGUtaW8tMjAyNC1nZW1pbmnSAQA?oc=5)
+
 ## 20240510
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [Oklo starts trading on NYSE - CNBC](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMTAvc2FtLWFsdG1hbi10YWtlcy1udWNsZWFyLXN0YXJ0dXAtb2tsby1wdWJsaWMtdG8tcG93ZXItYWktYW1iaXRpb25zLmh0bWzSAQA?oc=5)
 

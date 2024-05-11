@@ -1,3 +1,6 @@
+## 20240511
+- [V2EX](https://www.v2ex.com/) | [我这个到底是什么病，还有救吗](https://www.v2ex.com/t/1039841)
+
 ## 20240510
 - [V2EX](https://www.v2ex.com/) | [分享一个自己开发+运维了快 3 年的微信小程序，顺便给大家送点会员](https://www.v2ex.com/t/1039459)
 
