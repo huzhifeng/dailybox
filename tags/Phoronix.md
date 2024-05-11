@@ -1,3 +1,6 @@
+## 20240511
+- [Phoronix](https://www.phoronix.com/) | [Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows](https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows)
+
 ## 20240510
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Adding TPM Bus Encryption & Integrity Protection](https://www.phoronix.com/news/Linux-610-TPM-Encrypt-Integrity)
 

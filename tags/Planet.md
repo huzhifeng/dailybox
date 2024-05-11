@@ -1,3 +1,7 @@
+## 20240511
+- [Planet GNOME](https://planet.gnome.org/) | [May Maps](https://ml4711.blogspot.com/2024/05/may-maps.html)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed)
+
 ## 20240510
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 19 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-19-2024/)
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2024](https://reproducible-builds.org/reports/2024-04/)

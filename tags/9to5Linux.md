@@ -1,3 +1,6 @@
+## 20240511
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 9.8 Archive Manager Adds New CLI Switches, New UI Options, and Tux Theme](https://9to5linux.com/peazip-9-8-archive-manager-adds-new-cli-switches-new-ui-options-and-tux-theme)
+
 ## 20240510
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 7.6.7 Is Here as the Last Update in the Series, Upgrade to LibreOffice 24.2](https://9to5linux.com/libreoffice-7-6-7-is-here-as-the-last-update-in-the-series-upgrade-to-libreoffice-24-2)
 
