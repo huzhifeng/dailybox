@@ -338,6 +338,14 @@
 			"tags": ["Hacker News"]
 		},
 		{
+			"channel": "HackerNews 每日摘要",
+			"portal": "https://www.supertechfans.com/cn",
+			"portal2": "https://lw9eez9cc6.feishu.cn/wiki/Z408wHLlRi8MdCk6QfacpW6bnB0",
+			"url": "https://supertechfans.com/cn/index.xml",
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "Hacker News Daily Top 10",
 			"portal": "https://github.com/headllines/hackernews-daily",
 			"url": "https://rsshub.app/github/issue/headllines/hackernews-daily",
