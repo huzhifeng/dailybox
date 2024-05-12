@@ -1,3 +1,6 @@
+## 20240512
+- [V2EX](https://www.v2ex.com/) | [江苏南通大巴车车祸，如何避免](https://www.v2ex.com/t/1040034)
+
 ## 20240511
 - [V2EX](https://www.v2ex.com/) | [我这个到底是什么病，还有救吗](https://www.v2ex.com/t/1039841)
 

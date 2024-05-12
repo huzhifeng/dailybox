@@ -1,3 +1,8 @@
+## 20240512
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations](https://www.phoronix.com/news/Linux-6.10-Feature-Preview)
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: htop and PCP have a new home at Hack Club](https://daniel-lange.com/archives/187-htop-and-PCP-have-a-new-home-at-Hack-Club.html)
+- [Slashdot](https://linux.slashdot.org/) | [AMD Core Performance Boost For Linux Getting Per-CPU Core Controls](https://linux.slashdot.org/story/24/05/11/229219/amd-core-performance-boost-for-linux-getting-per-cpu-core-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240511
 - [Phoronix](https://www.phoronix.com/) | [Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows](https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 9.8 Archive Manager Adds New CLI Switches, New UI Options, and Tux Theme](https://9to5linux.com/peazip-9-8-archive-manager-adds-new-cli-switches-new-ui-options-and-tux-theme)

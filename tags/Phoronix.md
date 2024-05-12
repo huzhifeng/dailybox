@@ -1,3 +1,6 @@
+## 20240512
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations](https://www.phoronix.com/news/Linux-6.10-Feature-Preview)
+
 ## 20240511
 - [Phoronix](https://www.phoronix.com/) | [Torvalds Voices Thoughts On Linux Mitigating Unexpected Arithmetic Overflows/Underflows](https://www.phoronix.com/news/Torvalds-Arithmetic-Overflows)
 

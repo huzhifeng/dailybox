@@ -1,3 +1,6 @@
+## 20240512
+- [LibHunt](https://www.libhunt.com/) | [iTerm2](https://www.libhunt.com/r/iTerm2)
+
 ## 20240511
 - [LibHunt](https://www.libhunt.com/) | [HomeBrew](https://www.libhunt.com/r/brew)
 

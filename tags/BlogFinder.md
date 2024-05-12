@@ -1,3 +1,6 @@
+## 20240512
+- [BlogFinder](https://bf.zzxworld.com/) | [【读书记1436】阮义忠《想见看见听见》](http://www.qncd.com/?p=9623&utm_source=blogfinder)
+
 ## 20240511
 - [BlogFinder](https://bf.zzxworld.com/) | [淘淘作品：玩电脑的爸爸](https://dujun.io/1769.html?utm_source=blogfinder)
 

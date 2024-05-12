@@ -1,3 +1,6 @@
+## 20240512
+- [It's FOSS](https://itsfoss.com/) | [Finding the Fastest Arch Linux Mirrors](https://itsfoss.com/fast-arch-linux-mirrors/)
+
 ## 20240509
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.19: Local AI on Linux, systemd's sudo Replacement](https://itsfoss.com/newsletter/foss-weekly-24-19/)
 

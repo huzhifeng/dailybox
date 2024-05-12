@@ -1,3 +1,9 @@
+## 20240512
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-11](https://www.daemonology.net/hn-daily/2024-05-11.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-12](https://github.com/headllines/hackernews-daily/issues/1402)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-12 | 地球迎来20多年来最强太阳风暴，多地出现绚丽极光](https://www.xiaoyuzhoufm.com/episode/6640cb18af1e22bb15df8303)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
+
 ## 20240511
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-10](https://www.daemonology.net/hn-daily/2024-05-10.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-11](https://github.com/headllines/hackernews-daily/issues/1401)

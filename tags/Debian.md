@@ -1,3 +1,6 @@
+## 20240512
+- [Planet Debian](https://planet.debian.org/) | [Daniel Lange: htop and PCP have a new home at Hack Club](https://daniel-lange.com/archives/187-htop-and-PCP-have-a-new-home-at-Hack-Club.html)
+
 ## 20240510
 - [Planet Debian](https://planet.debian.org/) | [Reproducible Builds: Reproducible Builds in April 2024](https://reproducible-builds.org/reports/2024-04/)
 
