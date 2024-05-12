@@ -1,3 +1,6 @@
+## 20240512
+- [Kagi Small Web](https://kagi.com/smallweb) | [Weekly notes 19/2024](https://sathyabh.at/weekly-notes-19-2024/)
+
 ## 20240511
 - [Kagi Small Web](https://kagi.com/smallweb) | [Impressions from this mornings walk.](https://samim.io/p/2024-05-11-impressions-from-this-mornings-walk)
 

@@ -1,3 +1,6 @@
+## 20240512
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [California says restaurants must bake all of their add-on fees into menu prices](https://www.wshu.org/npr-news/2024-05-10/california-says-restaurants-must-bake-all-of-their-add-on-fees-into-menu-prices)
+
 ## 20240511
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Never Forget](https://mander.xyz/pictrs/image/5fc5b23d-fb22-4fa8-962d-9f1e5eceb0b4.jpeg)
 

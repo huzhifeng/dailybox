@@ -1,3 +1,6 @@
+## 20240512
+- [Product Hunt](https://www.producthunt.com) | [Smartrazor](https://www.producthunt.com/posts/smartrazor)
+
 ## 20240511
 - [Product Hunt](https://www.producthunt.com) | [Phew AI Tab](https://www.producthunt.com/posts/phew-ai-tab)
 
