@@ -1,3 +1,6 @@
+## 20240513
+- [Planet KDE](https://planet.kde.org/) | [KDE Goals April 2024 sprint](https://tsdgeos.blogspot.com/2024/05/kde-goals-april-2024-sprint.html?utm_source=atom_feed)
+
 ## 20240511
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed)
 

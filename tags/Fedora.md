@@ -1,3 +1,6 @@
+## 20240513
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Ops Architect Weekly](https://communityblog.fedoraproject.org/fedora-ops-architect-weekly-8/)
+
 ## 20240510
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Infra and RelEng Update – Week 19 2024](https://communityblog.fedoraproject.org/infra-and-releng-update-week-19-2024/)
 

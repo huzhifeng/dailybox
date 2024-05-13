@@ -1,3 +1,6 @@
+## 20240513
+- [Lobsters](https://lobste.rs/) | [Static Chess](https://lobste.rs/s/ttyfuk/static_chess)
+
 ## 20240512
 - [Lobsters](https://lobste.rs/) | [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug)
 

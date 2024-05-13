@@ -1,3 +1,6 @@
+## 20240513
+- [Planet GNOME](https://planet.gnome.org/) | [partitioning pitfalls for generational collectors](https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors)
+
 ## 20240511
 - [Planet GNOME](https://planet.gnome.org/) | [May Maps](https://ml4711.blogspot.com/2024/05/may-maps.html)
 

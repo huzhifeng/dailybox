@@ -1,3 +1,6 @@
+## 20240513
+- [Product Hunt](https://www.producthunt.com) | [AI Email Template Creator](https://www.producthunt.com/posts/ai-email-template-creator)
+
 ## 20240512
 - [Product Hunt](https://www.producthunt.com) | [Smartrazor](https://www.producthunt.com/posts/smartrazor)
 

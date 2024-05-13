@@ -1,3 +1,8 @@
+## 20240513
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Ops Architect Weekly](https://communityblog.fedoraproject.org/fedora-ops-architect-weekly-8/)
+- [Planet GNOME](https://planet.gnome.org/) | [partitioning pitfalls for generational collectors](https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors)
+- [Planet KDE](https://planet.kde.org/) | [KDE Goals April 2024 sprint](https://tsdgeos.blogspot.com/2024/05/kde-goals-april-2024-sprint.html?utm_source=atom_feed)
+
 ## 20240512
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: htop and PCP have a new home at Hack Club](https://daniel-lange.com/archives/187-htop-and-PCP-have-a-new-home-at-Hack-Club.html)
 
