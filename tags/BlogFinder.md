@@ -1,3 +1,6 @@
+## 20240513
+- [BlogFinder](https://bf.zzxworld.com/) | [如何排查慢SQL?](https://blog.serms.top/posts/9935d352.html?utm_source=blogfinder)
+
 ## 20240512
 - [BlogFinder](https://bf.zzxworld.com/) | [【读书记1436】阮义忠《想见看见听见》](http://www.qncd.com/?p=9623&utm_source=blogfinder)
 

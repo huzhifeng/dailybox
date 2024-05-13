@@ -1,3 +1,6 @@
+## 20240513
+- [TED Talks Daily](https://www.ted.com/talks) | [An activist investor on challenging the status quo | Bill Ackman](https://www.ted.com/talks/bill_ackman_an_activist_investor_on_challenging_the_status_quo?rss)
+
 ## 20240510
 - [TED Talks Daily](https://www.ted.com/talks) | [1 simple question that could improve women's health | Meryam Sugulle](https://www.ted.com/talks/meryam_sugulle_1_simple_question_that_could_improve_women_s_health?rss)
 

@@ -1,3 +1,6 @@
+## 20240513
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 126 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-126-is-now-available-for-download-heres-whats-new)
+
 ## 20240511
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 9.8 Archive Manager Adds New CLI Switches, New UI Options, and Tux Theme](https://9to5linux.com/peazip-9-8-archive-manager-adds-new-cli-switches-new-ui-options-and-tux-theme)
 

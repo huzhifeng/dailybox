@@ -1,3 +1,6 @@
+## 20240513
+- [Kagi Small Web](https://kagi.com/smallweb) | [The Gist That Keeps On Giving](https://blog.jim-nielsen.com/2024/gist-that-keeps-giving/)
+
 ## 20240512
 - [Kagi Small Web](https://kagi.com/smallweb) | [Weekly notes 19/2024](https://sathyabh.at/weekly-notes-19-2024/)
 

@@ -1,3 +1,10 @@
+## 20240513
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs](https://www.phoronix.com/news/Linux-6.10-Crypto)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 126 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-126-is-now-available-for-download-heres-whats-new)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Ops Architect Weekly](https://communityblog.fedoraproject.org/fedora-ops-architect-weekly-8/)
+- [Planet GNOME](https://planet.gnome.org/) | [partitioning pitfalls for generational collectors](https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors)
+- [Planet KDE](https://planet.kde.org/) | [KDE Goals April 2024 sprint](https://tsdgeos.blogspot.com/2024/05/kde-goals-april-2024-sprint.html?utm_source=atom_feed)
+
 ## 20240512
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations](https://www.phoronix.com/news/Linux-6.10-Feature-Preview)
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: htop and PCP have a new home at Hack Club](https://daniel-lange.com/archives/187-htop-and-PCP-have-a-new-home-at-Hack-Club.html)

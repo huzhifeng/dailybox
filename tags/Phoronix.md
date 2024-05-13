@@ -1,3 +1,6 @@
+## 20240513
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs](https://www.phoronix.com/news/Linux-6.10-Crypto)
+
 ## 20240512
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Expected From The NTSYNC Driver To Performance Optimizations](https://www.phoronix.com/news/Linux-6.10-Feature-Preview)
 
