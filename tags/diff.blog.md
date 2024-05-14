@@ -1,3 +1,6 @@
+## 20240514
+- [diff.blog](https://diff.blog/) | [See what’s changing in Firefox: Better insights, same privacy](https://diff.blog/post/see-whats-changing-in-firefox-better-insights-same-privacy-175881/)
+
 ## 20240509
 - [diff.blog](https://diff.blog/) | [This Week in Rust 546](https://diff.blog/post/this-week-in-rust-546-175553/)
 

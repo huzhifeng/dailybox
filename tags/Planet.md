@@ -1,3 +1,7 @@
+## 20240514
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Database Migrations](https://status.fedoraproject.org/2024-05-14-database-migration.html)
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+
 ## 20240513
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Community Blog: Fedora Ops Architect Weekly](https://communityblog.fedoraproject.org/fedora-ops-architect-weekly-8/)
 - [Planet GNOME](https://planet.gnome.org/) | [partitioning pitfalls for generational collectors](https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors)

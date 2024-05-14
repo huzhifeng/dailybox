@@ -1,3 +1,6 @@
+## 20240514
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [It was a classic rap beef. Then Drake revived Tupac with AI and Congress got involved - NPR](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ucHIub3JnL3NlY3Rpb25zL21vbmV5LzIwMjQvMDUvMTQvMTI1MDU3ODI5NS9pdC13YXMtYS1jbGFzc2ljLXJhcC1iZWVmLXRoZW4tZHJha2UtcmV2aXZlZC10dXBhYy13aXRoLWFpLWFuZC1jb25ncmVzcy1nb3QtaW52b9IBAA?oc=5)
+
 ## 20240513
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [As Google AI search rolls out to more people, websites brace for carnage - The Washington Post](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDUvMTMvZ29vZ2xlLWFpLXNlYXJjaC1pby1zZ2Uv0gEA?oc=5)
 

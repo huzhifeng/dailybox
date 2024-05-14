@@ -1,3 +1,6 @@
+## 20240514
+- [9to5Linux](https://9to5linux.com/) | [Manjaro Linux 24.0 &#8220;Wynsdey&#8221; Officially Released with Linux Kernel 6.9](https://9to5linux.com/manjaro-linux-24-0-wynsdey-officially-released-with-linux-kernel-6-9)
+
 ## 20240513
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 126 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-126-is-now-available-for-download-heres-whats-new)
 

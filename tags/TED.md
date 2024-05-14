@@ -1,3 +1,6 @@
+## 20240514
+- [TED Talks Daily](https://www.ted.com/talks) | [Why the world needs more builders — and less "us vs. them" | Daniel Lubetzky](https://www.ted.com/talks/daniel_lubetzky_why_the_world_needs_more_builders_and_less_us_vs_them?rss)
+
 ## 20240513
 - [TED Talks Daily](https://www.ted.com/talks) | [An activist investor on challenging the status quo | Bill Ackman](https://www.ted.com/talks/bill_ackman_an_activist_investor_on_challenging_the_status_quo?rss)
 

@@ -1,3 +1,6 @@
+## 20240514
+- [V2EX](https://www.v2ex.com/) | [入行几年，你还热爱吗](https://www.v2ex.com/t/1040612)
+
 ## 20240513
 - [V2EX](https://www.v2ex.com/) | [女朋友会说中日韩英语言（都是母语水平），她想做点兼职，有啥门路？](https://www.v2ex.com/t/1040316)
 

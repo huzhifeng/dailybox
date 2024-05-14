@@ -1,3 +1,6 @@
+## 20240514
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [xkcd #2932: Driving PSA](https://imgs.xkcd.com/comics/driving_psa_2x.png)
+
 ## 20240513
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [The way things are.](https://lemmy.world/pictrs/image/dbd150bd-eb33-4cff-863c-5c99504fd885.jpeg)
 

@@ -1,3 +1,7 @@
+## 20240514
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)
+- [Red Hat Developer](https://developers.redhat.com/) | [Use OperatorPolicy to manage Kubernetes-native applications](https://developers.redhat.com/articles/2024/05/14/use-operatorpolicy-manage-kubernetes-native-applications)
+
 ## 20240510
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Friday Five — May 10, 2024](https://www.redhat.com/en/blog/friday-five-may-10-2024-red-hat)
 

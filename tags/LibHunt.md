@@ -1,3 +1,6 @@
+## 20240514
+- [LibHunt](https://www.libhunt.com/) | [excalidraw](https://www.libhunt.com/r/excalidraw)
+
 ## 20240513
 - [LibHunt](https://www.libhunt.com/) | [marimo](https://www.libhunt.com/r/marimo)
 
