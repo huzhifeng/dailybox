@@ -1,3 +1,6 @@
+## 20240514
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.9: Enable, test, repeat](https://www.collabora.com/news-and-blog/news-and-events/kernel-69-enable-test-repeat.html)
+
 ## 20240510
 - [Collabora](https://www.collabora.com/news-and-blog/) | [SteamOS 3.6: How the Steam Deck atomic updates are improving](https://www.collabora.com/news-and-blog/news-and-events/steamos-3-6-how-the-steam-deck-atomic-updates-are-improving.html)
 

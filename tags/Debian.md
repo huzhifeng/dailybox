@@ -1,3 +1,6 @@
+## 20240514
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+
 ## 20240512
 - [Planet Debian](https://planet.debian.org/) | [Daniel Lange: htop and PCP have a new home at Hack Club](https://daniel-lange.com/archives/187-htop-and-PCP-have-a-new-home-at-Hack-Club.html)
 

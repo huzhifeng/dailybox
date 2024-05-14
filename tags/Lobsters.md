@@ -1,3 +1,6 @@
+## 20240514
+- [Lobsters](https://lobste.rs/) | [Using ARG in a Dockerfile - beware the gotcha](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha)
+
 ## 20240513
 - [Lobsters](https://lobste.rs/) | [Static Chess](https://lobste.rs/s/ttyfuk/static_chess)
 

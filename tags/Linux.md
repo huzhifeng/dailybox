@@ -1,3 +1,12 @@
+## 20240514
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.9: Enable, test, repeat](https://www.collabora.com/news-and-blog/news-and-events/kernel-69-enable-test-repeat.html)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)
+- [Red Hat Developer](https://developers.redhat.com/) | [Use OperatorPolicy to manage Kubernetes-native applications](https://developers.redhat.com/articles/2024/05/14/use-operatorpolicy-manage-kubernetes-native-applications)
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Engineer Ports EXT2 File-System Driver To Rust](https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2)
+- [9to5Linux](https://9to5linux.com/) | [Manjaro Linux 24.0 &#8220;Wynsdey&#8221; Officially Released with Linux Kernel 6.9](https://9to5linux.com/manjaro-linux-24-0-wynsdey-officially-released-with-linux-kernel-6-9)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Database Migrations](https://status.fedoraproject.org/2024-05-14-database-migration.html)
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+
 ## 20240513
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs](https://www.phoronix.com/news/Linux-6.10-Crypto)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 126 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-126-is-now-available-for-download-heres-whats-new)

@@ -1,3 +1,6 @@
+## 20240514
+- [Kagi Small Web](https://kagi.com/smallweb) | [Twenty Years](https://dbushell.com/2024/05/14/twenty-years/)
+
 ## 20240513
 - [Kagi Small Web](https://kagi.com/smallweb) | [The Gist That Keeps On Giving](https://blog.jim-nielsen.com/2024/gist-that-keeps-giving/)
 

@@ -1,3 +1,6 @@
+## 20240514
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Engineer Ports EXT2 File-System Driver To Rust](https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2)
+
 ## 20240513
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Makes AES-XTS Disk/File Encryption Much Faster For Modern Intel/AMD CPUs](https://www.phoronix.com/news/Linux-6.10-Crypto)
 
