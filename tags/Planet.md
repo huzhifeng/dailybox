@@ -1,3 +1,8 @@
+## 20240515
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server Updates/Reboots](https://status.fedoraproject.org/2024-05-15-update-reboots.html)
+- [Planet Debian](https://planet.debian.org/) | [Evgeni Golov: Using HPONCFG on CentOS Stream 9 with OpenSSL 3.2](https://www.die-welt.net/2024/05/using-hponcfg-on-centos-stream-9-with-openssl-32/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Ubuntu Linux: Pioneering a New Evolution for Desktop Operating Systems](https://hamradio.my/ubuntu-linux-pioneering-a-new-evolution-for-desktop-operating-systems/)
+
 ## 20240514
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Database Migrations](https://status.fedoraproject.org/2024-05-14-database-migration.html)
 - [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)

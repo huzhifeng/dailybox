@@ -1,3 +1,6 @@
+## 20240515
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Ubuntu Linux: Pioneering a New Evolution for Desktop Operating Systems](https://hamradio.my/ubuntu-linux-pioneering-a-new-evolution-for-desktop-operating-systems/)
+
 ## 20240505
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Empower Your Cybersecurity Journey with Linux: Why Ubuntu is the Perfect Starting Point](https://hamradio.my/empower-your-cybersecurity-journey-with-linux-why-ubuntu-is-the-perfect-starting-point/)
 

@@ -1,3 +1,6 @@
+## 20240515
+- [BlogFinder](https://bf.zzxworld.com/) | [QMS 质量管理系统需求梳理](https://www.sunzhongwei.com/quality-management-system?utm_source=blogfinder)
+
 ## 20240514
 - [BlogFinder](https://bf.zzxworld.com/) | [风记星辰的参考与设计：作者独立页面、文章作者卡片、文章目录、关于THYUU星度主题](https://www.thyuu.com/78109?utm_source=blogfinder)
 

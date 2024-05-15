@@ -1,3 +1,6 @@
+## 20240515
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [We have to stop ignoring AI's hallucination problem - The Verge](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTUvMjQxNTQ4MDgvYWktY2hhdGdwdC1nb29nbGUtZ2VtaW5pLW1pY3Jvc29mdC1jb3BpbG90LWhhbGx1Y2luYXRpb24td3JvbmfSAQA?oc=5)
+
 ## 20240514
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [It was a classic rap beef. Then Drake revived Tupac with AI and Congress got involved - NPR](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ucHIub3JnL3NlY3Rpb25zL21vbmV5LzIwMjQvMDUvMTQvMTI1MDU3ODI5NS9pdC13YXMtYS1jbGFzc2ljLXJhcC1iZWVmLXRoZW4tZHJha2UtcmV2aXZlZC10dXBhYy13aXRoLWFpLWFuZC1jb25ncmVzcy1nb3QtaW52b9IBAA?oc=5)
 

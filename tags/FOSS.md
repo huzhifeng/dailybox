@@ -1,3 +1,6 @@
+## 20240515
+- [It's FOSS](https://itsfoss.com/) | [Switching Between Intel and Nvidia Graphics Cards on Ubuntu](https://itsfoss.com/intel-nvidia-graphics-switch-ubuntu/)
+
 ## 20240514
 - [It's FOSS](https://itsfoss.com/) | [Testing the Surfshark VPN GUI App on Linux](https://itsfoss.com/surfshark-vpn-linux-review/)
 

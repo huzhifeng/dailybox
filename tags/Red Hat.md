@@ -1,3 +1,7 @@
+## 20240515
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
+- [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 14](https://developers.redhat.com/articles/2024/05/15/new-c-features-gcc-14)
+
 ## 20240514
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)
 - [Red Hat Developer](https://developers.redhat.com/) | [Use OperatorPolicy to manage Kubernetes-native applications](https://developers.redhat.com/articles/2024/05/14/use-operatorpolicy-manage-kubernetes-native-applications)
