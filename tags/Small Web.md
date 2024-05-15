@@ -1,3 +1,6 @@
+## 20240515
+- [Kagi Small Web](https://kagi.com/smallweb) | [How quickly can I make an Astro DB project? (part 2)](https://rachsmith.com/astro-db-2/)
+
 ## 20240514
 - [Kagi Small Web](https://kagi.com/smallweb) | [Twenty Years](https://dbushell.com/2024/05/14/twenty-years/)
 

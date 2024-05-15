@@ -1,3 +1,6 @@
+## 20240515
+- [diff.blog](https://diff.blog/) | [microSD cards' SBC days are numbered](https://diff.blog/post/microsd-cards-sbc-days-are-numbered-175921/)
+
 ## 20240514
 - [diff.blog](https://diff.blog/) | [See what’s changing in Firefox: Better insights, same privacy](https://diff.blog/post/see-whats-changing-in-firefox-better-insights-same-privacy-175881/)
 

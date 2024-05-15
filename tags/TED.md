@@ -1,3 +1,6 @@
+## 20240515
+- [TED Talks Daily](https://www.ted.com/talks) | [With spatial intelligence, AI will understand the real world | Fei-Fei Li](https://www.ted.com/talks/fei_fei_li_with_spatial_intelligence_ai_will_understand_the_real_world?rss)
+
 ## 20240514
 - [TED Talks Daily](https://www.ted.com/talks) | [Why the world needs more builders — and less "us vs. them" | Daniel Lubetzky](https://www.ted.com/talks/daniel_lubetzky_why_the_world_needs_more_builders_and_less_us_vs_them?rss)
 

@@ -1,3 +1,11 @@
+## 20240515
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
+- [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 14](https://developers.redhat.com/articles/2024/05/15/new-c-features-gcc-14)
+- [Phoronix](https://www.phoronix.com/) | [ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs](https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA)
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server Updates/Reboots](https://status.fedoraproject.org/2024-05-15-update-reboots.html)
+- [Planet Debian](https://planet.debian.org/) | [Evgeni Golov: Using HPONCFG on CentOS Stream 9 with OpenSSL 3.2](https://www.die-welt.net/2024/05/using-hponcfg-on-centos-stream-9-with-openssl-32/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Ubuntu Linux: Pioneering a New Evolution for Desktop Operating Systems](https://hamradio.my/ubuntu-linux-pioneering-a-new-evolution-for-desktop-operating-systems/)
+
 ## 20240514
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.9: Enable, test, repeat](https://www.collabora.com/news-and-blog/news-and-events/kernel-69-enable-test-repeat.html)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)

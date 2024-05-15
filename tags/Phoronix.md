@@ -1,3 +1,6 @@
+## 20240515
+- [Phoronix](https://www.phoronix.com/) | [ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs](https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA)
+
 ## 20240514
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Engineer Ports EXT2 File-System Driver To Rust](https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2)
 

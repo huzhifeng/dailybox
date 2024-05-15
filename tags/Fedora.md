@@ -1,3 +1,6 @@
+## 20240515
+- [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server Updates/Reboots](https://status.fedoraproject.org/2024-05-15-update-reboots.html)
+
 ## 20240514
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Database Migrations](https://status.fedoraproject.org/2024-05-14-database-migration.html)
 
