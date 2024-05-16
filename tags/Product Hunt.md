@@ -1,3 +1,6 @@
+## 20240516
+- [Product Hunt](https://www.producthunt.com) | [Plenty](https://www.producthunt.com/posts/plenty-2)
+
 ## 20240515
 - [Product Hunt](https://www.producthunt.com) | [Jovu by Amplication](https://www.producthunt.com/posts/jovu-by-amplication)
 

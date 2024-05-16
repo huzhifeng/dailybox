@@ -1,3 +1,6 @@
+## 20240516
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/05/2024 – Learning Async Rust](https://samthursfield.wordpress.com/2024/05/16/status-update-16-05-2024-learning-async-rust/)
+
 ## 20240515
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server Updates/Reboots](https://status.fedoraproject.org/2024-05-15-update-reboots.html)
 - [Planet Debian](https://planet.debian.org/) | [Evgeni Golov: Using HPONCFG on CentOS Stream 9 with OpenSSL 3.2](https://www.die-welt.net/2024/05/using-hponcfg-on-centos-stream-9-with-openssl-32/)

@@ -1,3 +1,6 @@
+## 20240516
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [AI and deepfakes blur reality in India elections - BBC.com](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTY4OTE4MzMw0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWFzaWEtaW5kaWEtNjg5MTgzMzAuYW1w?oc=5)
+
 ## 20240515
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [We have to stop ignoring AI's hallucination problem - The Verge](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTUvMjQxNTQ4MDgvYWktY2hhdGdwdC1nb29nbGUtZ2VtaW5pLW1pY3Jvc29mdC1jb3BpbG90LWhhbGx1Y2luYXRpb24td3JvbmfSAQA?oc=5)
 

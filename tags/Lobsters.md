@@ -1,3 +1,6 @@
+## 20240516
+- [Lobsters](https://lobste.rs/) | [NetBSD bans all commits of AI-generated code](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code)
+
 ## 20240515
 - [Lobsters](https://lobste.rs/) | [Sir, there's a cat in your mirror dimension](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension)
 

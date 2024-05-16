@@ -1,3 +1,6 @@
+## 20240516
+- [Kagi Small Web](https://kagi.com/smallweb) | [Mum jeans](https://rachsmith.com/mum-jeans/)
+
 ## 20240515
 - [Kagi Small Web](https://kagi.com/smallweb) | [How quickly can I make an Astro DB project? (part 2)](https://rachsmith.com/astro-db-2/)
 

@@ -1,3 +1,6 @@
+## 20240516
+- [BlogFinder](https://bf.zzxworld.com/) | [暴涨了](https://joojen.com/archives/7481.html?utm_source=blogfinder)
+
 ## 20240515
 - [BlogFinder](https://bf.zzxworld.com/) | [QMS 质量管理系统需求梳理](https://www.sunzhongwei.com/quality-management-system?utm_source=blogfinder)
 

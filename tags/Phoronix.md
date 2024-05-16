@@ -1,3 +1,6 @@
+## 20240516
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing 2024 Roadmap Update: 256 Core 3nm CPU In 2025](https://www.phoronix.com/review/ampere-256-core-2025)
+
 ## 20240515
 - [Phoronix](https://www.phoronix.com/) | [ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs](https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA)
 
