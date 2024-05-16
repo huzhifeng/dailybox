@@ -1,3 +1,6 @@
+## 20240516
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/05/2024 – Learning Async Rust](https://samthursfield.wordpress.com/2024/05/16/status-update-16-05-2024-learning-async-rust/)
+
 ## 20240513
 - [Planet GNOME](https://planet.gnome.org/) | [partitioning pitfalls for generational collectors](https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors)
 

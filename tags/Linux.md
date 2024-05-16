@@ -1,3 +1,11 @@
+## 20240516
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Implementing DRM format modifiers in NVK](https://www.collabora.com/news-and-blog/news-and-events/implementing-drm-format-modifiers-in-nvk.html)
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat OpenShift as OpenTelemetry (OTLP) native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [OpenShift Virtualization for vSphere admins: Introduction to network configurations](https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations)
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing 2024 Roadmap Update: 256 Core 3nm CPU In 2025](https://www.phoronix.com/review/ampere-256-core-2025)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Release Candidate Adds Explicit Sync and Snap Support](https://9to5linux.com/pipewire-1-2-release-candidate-adds-explicit-sync-and-snap-support)
+- [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/05/2024 – Learning Async Rust](https://samthursfield.wordpress.com/2024/05/16/status-update-16-05-2024-learning-async-rust/)
+
 ## 20240515
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
 - [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 14](https://developers.redhat.com/articles/2024/05/15/new-c-features-gcc-14)

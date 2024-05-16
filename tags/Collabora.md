@@ -1,3 +1,6 @@
+## 20240516
+- [Collabora](https://www.collabora.com/news-and-blog/) | [Implementing DRM format modifiers in NVK](https://www.collabora.com/news-and-blog/news-and-events/implementing-drm-format-modifiers-in-nvk.html)
+
 ## 20240514
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Kernel 6.9: Enable, test, repeat](https://www.collabora.com/news-and-blog/news-and-events/kernel-69-enable-test-repeat.html)
 

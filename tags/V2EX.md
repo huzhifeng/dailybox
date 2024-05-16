@@ -1,3 +1,6 @@
+## 20240516
+- [V2EX](https://www.v2ex.com/) | [想开咖啡店求骂醒](https://www.v2ex.com/t/1041377)
+
 ## 20240515
 - [V2EX](https://www.v2ex.com/) | [大龄长沙女生找对象](https://www.v2ex.com/t/1040998)
 

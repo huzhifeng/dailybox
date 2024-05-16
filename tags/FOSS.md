@@ -1,3 +1,6 @@
+## 20240516
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/)
+
 ## 20240515
 - [It's FOSS](https://itsfoss.com/) | [Switching Between Intel and Nvidia Graphics Cards on Ubuntu](https://itsfoss.com/intel-nvidia-graphics-switch-ubuntu/)
 

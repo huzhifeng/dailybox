@@ -1,3 +1,6 @@
+## 20240516
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Release Candidate Adds Explicit Sync and Snap Support](https://9to5linux.com/pipewire-1-2-release-candidate-adds-explicit-sync-and-snap-support)
+
 ## 20240514
 - [9to5Linux](https://9to5linux.com/) | [Manjaro Linux 24.0 &#8220;Wynsdey&#8221; Officially Released with Linux Kernel 6.9](https://9to5linux.com/manjaro-linux-24-0-wynsdey-officially-released-with-linux-kernel-6-9)
 

@@ -1,3 +1,8 @@
+## 20240516
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-15](https://www.daemonology.net/hn-daily/2024-05-15.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-16](https://github.com/headllines/hackernews-daily/issues/1406)
+- [Hacker News](https://news.ycombinator.com/front) | [Things I won't work with: the higher states of bromine (2019)](https://news.ycombinator.com/item?id=40375178)
+
 ## 20240515
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-14](https://www.daemonology.net/hn-daily/2024-05-14.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-15](https://github.com/headllines/hackernews-daily/issues/1405)

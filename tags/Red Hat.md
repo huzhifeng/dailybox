@@ -1,3 +1,7 @@
+## 20240516
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat OpenShift as OpenTelemetry (OTLP) native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
+- [Red Hat Developer](https://developers.redhat.com/) | [OpenShift Virtualization for vSphere admins: Introduction to network configurations](https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations)
+
 ## 20240515
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
 - [Red Hat Developer](https://developers.redhat.com/) | [New C++ features in GCC 14](https://developers.redhat.com/articles/2024/05/15/new-c-features-gcc-14)
