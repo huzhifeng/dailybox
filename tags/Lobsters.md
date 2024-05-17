@@ -1,3 +1,6 @@
+## 20240517
+- [Lobsters](https://lobste.rs/) | [Golang is evil on shitty networks (2022)](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022)
+
 ## 20240516
 - [Lobsters](https://lobste.rs/) | [NetBSD bans all commits of AI-generated code](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code)
 

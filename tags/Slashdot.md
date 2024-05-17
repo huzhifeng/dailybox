@@ -1,3 +1,6 @@
+## 20240517
+- [Slashdot](https://developers.slashdot.org/) | [NetBSD Bans AI-Generated Code](https://tech.slashdot.org/story/24/05/17/007240/netbsd-bans-ai-generated-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## 20240512
 - [Slashdot](https://linux.slashdot.org/) | [AMD Core Performance Boost For Linux Getting Per-CPU Core Controls](https://linux.slashdot.org/story/24/05/11/229219/amd-core-performance-boost-for-linux-getting-per-cpu-core-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Slashdot](https://developers.slashdot.org/) | [Father of SQL Says Yes to NoSQL](https://hardware.slashdot.org/story/24/05/12/035214/father-of-sql-says-yes-to-nosql?utm_source=rss1.0mainlinkanon&utm_medium=feed)

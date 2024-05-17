@@ -1,3 +1,6 @@
+## 20240517
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard](https://www.phoronix.com/news/Ubuntu-24.10-Roadmap)
+
 ## 20240516
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing 2024 Roadmap Update: 256 Core 3nm CPU In 2025](https://www.phoronix.com/review/ampere-256-core-2025)
 

@@ -1,3 +1,6 @@
+## 20240517
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 267 released](https://diffoscope.org/news/diffoscope-267-released/)
+
 ## 20240515
 - [Planet Debian](https://planet.debian.org/) | [Evgeni Golov: Using HPONCFG on CentOS Stream 9 with OpenSSL 3.2](https://www.die-welt.net/2024/05/using-hponcfg-on-centos-stream-9-with-openssl-32/)
 
