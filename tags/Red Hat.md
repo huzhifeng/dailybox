@@ -1,3 +1,7 @@
+## 20240517
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
+- [Red Hat Developer](https://developers.redhat.com/) | [How we used Java Flight Recorder to resolve authentication issues](https://developers.redhat.com/articles/2024/05/17/how-we-used-java-flight-recorder-resolve-authentication-issues)
+
 ## 20240516
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat OpenShift as OpenTelemetry (OTLP) native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
 - [Red Hat Developer](https://developers.redhat.com/) | [OpenShift Virtualization for vSphere admins: Introduction to network configurations](https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations)

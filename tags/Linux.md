@@ -1,3 +1,11 @@
+## 20240517
+- [Red Hat Blog](https://www.redhat.com/en/blog) | [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
+- [Red Hat Developer](https://developers.redhat.com/) | [How we used Java Flight Recorder to resolve authentication issues](https://developers.redhat.com/articles/2024/05/17/how-we-used-java-flight-recorder-resolve-authentication-issues)
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard](https://www.phoronix.com/news/Ubuntu-24.10-Roadmap)
+- [Planet Fedora](http://fedoraplanet.org/) | [Allan Day: GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 267 released](https://diffoscope.org/news/diffoscope-267-released/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/?utm_source=atom_feed)
+
 ## 20240516
 - [Collabora](https://www.collabora.com/news-and-blog/) | [Implementing DRM format modifiers in NVK](https://www.collabora.com/news-and-blog/news-and-events/implementing-drm-format-modifiers-in-nvk.html)
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Red Hat OpenShift as OpenTelemetry (OTLP) native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)

@@ -1,3 +1,6 @@
+## 20240517
+- [Kagi Small Web](https://kagi.com/smallweb) | [Glyphhanger – subset fonts for the web](https://jonas.brusman.se/glyphhanger/)
+
 ## 20240516
 - [Kagi Small Web](https://kagi.com/smallweb) | [Mum jeans](https://rachsmith.com/mum-jeans/)
 

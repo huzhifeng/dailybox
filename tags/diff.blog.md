@@ -1,3 +1,6 @@
+## 20240517
+- [diff.blog](https://diff.blog/) | [Faster linking times on nightly on Linux using `rust-lld`](https://diff.blog/post/faster-linking-times-on-nightly-on-linux-using-rust-lld-176074/)
+
 ## 20240515
 - [diff.blog](https://diff.blog/) | [microSD cards' SBC days are numbered](https://diff.blog/post/microsd-cards-sbc-days-are-numbered-175921/)
 

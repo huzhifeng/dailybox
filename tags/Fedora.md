@@ -1,3 +1,6 @@
+## 20240517
+- [Planet Fedora](http://fedoraplanet.org/) | [Allan Day: GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
+
 ## 20240515
 - [Planet Fedora](http://fedoraplanet.org/) | [Fedora Infrastructure Status: Server Updates/Reboots](https://status.fedoraproject.org/2024-05-15-update-reboots.html)
 

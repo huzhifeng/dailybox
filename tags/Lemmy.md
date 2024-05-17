@@ -1,3 +1,6 @@
+## 20240517
+- [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Get your old black powder bombs ready](https://i.imgur.com/Ro8DvpY.jpg)
+
 ## 20240516
 - [Lemmy](https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay) | [Anon catches his wife](https://sh.itjust.works/pictrs/image/cc5472bd-d5bf-4f2b-88b0-a8c715998c9f.jpeg)
 

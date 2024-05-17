@@ -1,3 +1,8 @@
+## 20240517
+- [Planet Fedora](http://fedoraplanet.org/) | [Allan Day: GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
+- [Planet Debian](https://planet.debian.org/) | [Reproducible Builds (diffoscope): diffoscope 267 released](https://diffoscope.org/news/diffoscope-267-released/)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/?utm_source=atom_feed)
+
 ## 20240516
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/05/2024 – Learning Async Rust](https://samthursfield.wordpress.com/2024/05/16/status-update-16-05-2024-learning-async-rust/)
 
