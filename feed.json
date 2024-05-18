@@ -39,27 +39,6 @@
 			"tags": ["LibHunt", "开源"]
 		},
 		{
-			"channel": "Collabora",
-			"portal": "https://www.collabora.com/news-and-blog/",
-			"url": "https://www.collabora.com/newsroom-rss-feed.rss",
-			"category": "开源",
-			"tags": ["Collabora", "Linux", "开源"]
-		},
-		{
-			"channel": "Red Hat Blog",
-			"portal": "https://www.redhat.com/en/blog",
-			"url": "https://www.redhat.com/en/rss/blog",
-			"category": "开源",
-			"tags": ["Red Hat", "Linux", "开源"]
-		},
-		{
-			"channel": "Red Hat Developer",
-			"portal": "https://developers.redhat.com/",
-			"url": "https://developers.redhat.com/blog/feed",
-			"category": "开源",
-			"tags": ["Red Hat", "Linux", "开源"]
-		},
-		{
 			"channel": "Phoronix",
 			"portal": "https://www.phoronix.com/",
 			"url": "https://www.phoronix.com/rss.php",
@@ -135,28 +114,6 @@
 			"url": "https://planet.kde.org/atom.xml",
 			"category": "开源",
 			"tags": ["Planet", "Linux", "KDE"]
-		},
-		{
-			"channel": "Awesome Open Source",
-			"portal": "https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g",
-			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g",
-			"category": "开源",
-			"tags": ["Linux", "Awesome Open Source", "开源", "YouTube"]
-		},
-		{
-			"channel": "The Linux Experiment",
-			"portal": "https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw",
-			"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
-			"category": "开源",
-			"tags": ["Linux", "The Linux Experiment", "开源", "YouTube"]
-		},
-		{
-			"channel": "TED Talks Daily",
-			"portal": "https://www.ted.com/talks",
-			"url": "https://pa.tedcdn.com/feeds/talks.rss",
-			"_comment": "http://feeds.feedburner.com/tedtalks_video",
-			"category": "视频",
-			"tags": ["TED"]
 		},
 		{
 			"channel": "喷嚏网",
@@ -261,67 +218,12 @@
 			"tags": ["优质长文分享会"]
 		},
 		{
-			"channel": "Medium Trending",
-			"portal": "https://medium.com/tag/trending",
-			"url": "https://medium.com/feed/tag/trending",
-			"enable": 0,
-			"category": "漫游",
-			"tags": ["Medium"]
-		},
-		{
-			"channel": "Medium Trends",
-			"portal": "https://medium.com/tag/trends",
-			"url": "https://medium.com/feed/tag/trends",
-			"enable": 0,
-			"category": "漫游",
-			"tags": ["Medium"]
-		},
-		{
-			"channel": "Kagi Small Web",
-			"portal": "https://kagi.com/smallweb",
-			"url": "https://kagi.com/api/v1/smallweb/feed",
-			"category": "漫游",
-			"tags": ["Kaji", "Small Web"]
-		},
-		{
 			"channel": "V2EX",
 			"portal": "https://www.v2ex.com/",
 			"url": "https://rsshub.app/v2ex/topics/hot",
 			"_comment": "https://www.v2ex.com/api/topics/hot.json",
 			"category": "资讯",
 			"tags": ["V2EX"]
-		},
-		{
-			"channel": "Lobsters",
-			"portal": "https://lobste.rs/",
-			"url": "https://lobste.rs/rss",
-			"_comment": "https://lobste.buzzing.cc/feed.json",
-			"category": "资讯",
-			"tags": ["Lobsters"]
-		},
-		{
-			"channel": "Lemmy",
-			"portal": "https://lemmy.world/?dataType=Post&listingType=All&page=1&sort=TopDay",
-			"url": "https://lemmy.world/feeds/all.xml?sort=TopDay",
-			"_comment": "https://lemm.ee/feeds/all.xml?sort=TopDay",
-			"category": "资讯",
-			"tags": ["Lemmy"]
-		},
-		{
-			"channel": "Slashdot",
-			"portal": "https://linux.slashdot.org/",
-			"url": "https://rss.slashdot.org/Slashdot/slashdotLinux",
-			"_comment": "https://slashdot.org/faq/feeds.shtml",
-			"category": "资讯",
-			"tags": ["Slashdot", "Linux"]
-		},
-		{
-			"channel": "Slashdot",
-			"portal": "https://developers.slashdot.org/",
-			"url": "https://rss.slashdot.org/Slashdot/slashdotDevelopers",
-			"_comment": "https://slashdot.org/faq/feeds.shtml",
-			"category": "资讯",
-			"tags": ["Slashdot"]
 		},
 		{
 			"channel": "Google News",
@@ -590,45 +492,6 @@
 			}
 		},
 		{
-			"channel": "V2EX今日热议主题",
-			"portal": "https://v2ex.com/?tab=hot",
-			"url": "https://www.v2ex.com/api/topics/hot.json",
-			"_comment": "https://www.v2ex.com/help/api | https://www.v2ex.com/t/170154 | https://v2ex.com/t/726858",
-			"enable": 0,
-			"category": "资讯",
-			"tags": ["V2EX", "资讯"],
-			"request": {
-				"method": "get"
-			},
-			"response": {
-				"list": ""
-			},
-			"entry": {
-				"date": "created",
-				"title": "title",
-				"link": "{url}"
-			}
-		},
-		{
-			"channel": "diff.blog",
-			"portal": "https://diff.blog/",
-			"url": "https://diff.blog/api/posts/top?limit=10",
-			"_comment": "https://diff.blog/api/posts/new?limit=5",
-			"category": "资讯",
-			"tags": ["diff.blog", "资讯"],
-			"request": {
-				"method": "get"
-			},
-			"response": {
-				"list": ""
-			},
-			"entry": {
-				"date": "updated_on",
-				"title": "title",
-				"link": "https://diff.blog/post/{slug}/"
-			}
-		},
-		{
 			"channel": "Product Hunt",
 			"portal": "https://www.producthunt.com",
 			"url": "https://ph.buzzing.cc/feed.json",
@@ -645,32 +508,6 @@
 				"date": "_original_published",
 				"title": "title",
 				"link": "{url}"
-			}
-		},
-		{
-			"channel": "GitHub中文社区",
-			"portal": "https://www.githubs.cn/trending",
-			"url": "https://www.githubs.cn/api/graphql",
-			"_comment": "https://rsshub.app/github/trending/daily/any",
-			"category": "产品",
-			"tags": ["GitHub", "开源", "产品"],
-			"request": {
-				"method": "post",
-				"payload": {
-					"query": "query trendingQuery(\n  $locale: String\n  $lang: String\n) {\n  dailyTrends: trending(range: \"daily\", locale: $locale, lang: $lang) {\n    ...Trends_trends\n  }\n  weeklyTrends: trending(range: \"weekly\", locale: $locale, lang: $lang) {\n    ...Trends_trends\n  }\n  monthlyTrends: trending(range: \"monthly\", locale: $locale, lang: $lang) {\n    ...Trends_trends\n  }\n}\n\nfragment Trends_trends on Trends {\n  dateRange\n  issueId\n  updateAt\n  projects {\n    id\n    name\n    fullName\n    sourceUrl\n    starCount\n    forkCount\n    description\n    remark\n    lang\n    screenshot\n    url\n    homepageUrl\n    descTrans\n    category(locale: $locale) {\n      name\n      screenName\n      id\n    }\n    tags {\n      name\n      id\n    }\n    createAt\n    updateAt\n    user {\n      name\n      remark\n      poweredBy\n      id\n    }\n    wiki\n    chinaFlag\n    commentCount\n  }\n}\n",
-					"variables": {
-						"locale": "zh",
-						"lang": null
-					}
-				}
-			},
-			"response": {
-				"list": "data.dailyTrends.projects"
-			},
-			"entry": {
-				"date": "updateAt",
-				"title": "fullName",
-				"link": "{sourceUrl}"
 			}
 		},
 		{
