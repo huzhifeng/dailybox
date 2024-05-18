@@ -145,7 +145,7 @@
 		{
 			"channel": "界面早报",
 			"portal": "https://www.jiemian.com/lists/280.html",
-			"url": "https://rsshub.app/jiemian/list/280",
+			"url": "https://rsshub.app/jiemian/lists/280",
 			"_comment": "https://m.jiemian.com/lists/280.html",
 			"category": "日报",
 			"tags": ["界面新闻", "界面早报", "日报"]
@@ -153,7 +153,7 @@
 		{
 			"channel": "界面晚报",
 			"portal": "https://www.jiemian.com/lists/426.html",
-			"url": "https://rsshub.app/jiemian/list/426",
+			"url": "https://rsshub.app/jiemian/lists/426",
 			"_comment": "https://m.jiemian.com/lists/426.html",
 			"category": "日报",
 			"tags": ["界面新闻", "界面晚报", "日报"]
@@ -161,7 +161,7 @@
 		{
 			"channel": "科技早报",
 			"portal": "https://www.jiemian.com/lists/459.html",
-			"url": "https://rsshub.app/jiemian/list/459",
+			"url": "https://rsshub.app/jiemian/lists/459",
 			"_comment": "https://m.jiemian.com/lists/459.html",
 			"category": "日报",
 			"tags": ["界面新闻", "科技早报", "日报"]
