@@ -1,3 +1,9 @@
+## 20240518
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility](https://www.phoronix.com/news/Linux-6.10-NFSD)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Kogan 5120*2160 40″ Monitor](https://etbe.coker.com.au/2024/05/18/kogan-5120x2160-40-monitor/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Unleash Your Musical Creativity: Creating Songs with Ubuntu Studio](https://hamradio.my/unleash-your-musical-creativity-creating-songs-with-ubuntu-studio/)
+- [Planet KDE](https://planet.kde.org/) | [Address formatting in QML](https://www.volkerkrause.eu/2024/05/18/kf6-address-formatting-qml.html?utm_source=atom_feed)
+
 ## 20240517
 - [Red Hat Blog](https://www.redhat.com/en/blog) | [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
 - [Red Hat Developer](https://developers.redhat.com/) | [How we used Java Flight Recorder to resolve authentication issues](https://developers.redhat.com/articles/2024/05/17/how-we-used-java-flight-recorder-resolve-authentication-issues)

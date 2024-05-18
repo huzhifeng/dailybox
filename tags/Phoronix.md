@@ -1,3 +1,6 @@
+## 20240518
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility](https://www.phoronix.com/news/Linux-6.10-NFSD)
+
 ## 20240517
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 To See More Polishing, NVIDIA Wayland By Default & New Welcome Wizard](https://www.phoronix.com/news/Ubuntu-24.10-Roadmap)
 

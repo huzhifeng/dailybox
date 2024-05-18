@@ -1,3 +1,6 @@
+## 20240518
+- [Planet KDE](https://planet.kde.org/) | [Address formatting in QML](https://www.volkerkrause.eu/2024/05/18/kf6-address-formatting-qml.html?utm_source=atom_feed)
+
 ## 20240517
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/?utm_source=atom_feed)
 
