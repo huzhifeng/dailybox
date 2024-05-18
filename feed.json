@@ -169,7 +169,7 @@
 		{
 			"channel": "极客日报",
 			"portal": "https://blog.csdn.net/csdngeeknews",
-			"url": "https://blog.csdn.net/csdngeeknews/rss/list",
+			"url": "https://rss.csdn.net/csdngeeknews/rss/map",
 			"_comment": "https://rsshub.app/csdn/blog/csdngeeknews",
 			"category": "日报",
 			"tags": ["CSDN", "极客日报", "日报"]
