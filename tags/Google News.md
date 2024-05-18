@@ -1,3 +1,6 @@
+## 20240518
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Sam Altman says GPT-4o has a "surprisingly cool" use for him at work - Business Insider](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FtLWFsdG1hbi1vcGVuYWktZ3B0LTRvLWhhcy1zdXJwcmlzaW5nbHktY29vbC11c2Utd29yay0yMDI0LTXSAWJodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3NhbS1hbHRtYW4tb3BlbmFpLWdwdC00by1oYXMtc3VycHJpc2luZ2x5LWNvb2wtdXNlLXdvcmstMjAyNC01P2FtcA?oc=5)
+
 ## 20240517
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB) | [How Google's AI could accelerate the Web's decline - Axios](https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA1LzE3L2dvb2dsZS1vcGVuYWktYWktZ2VuZXJhdGl2ZS1wdWJsaXNoZXJz0gEA?oc=5)
 

@@ -1,3 +1,6 @@
+## 20240518
+- [It's FOSS](https://itsfoss.com/) | [5 Tiny Tweaks That Help Me a Great Deal with Ubuntu 24.04 on My Laptop](https://itsfoss.com/ubuntu-tweaks-for-laptop/)
+
 ## 20240516
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/)
 

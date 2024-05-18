@@ -1,3 +1,6 @@
+## 20240518
+- [V2EX](https://www.v2ex.com/) | [遇到一个某 985 的傻白甜的故事](https://www.v2ex.com/t/1041838)
+
 ## 20240517
 - [V2EX](https://www.v2ex.com/) | [央行调整首套、二套首付利率，公积金利率也降了](https://www.v2ex.com/t/1041616)
 

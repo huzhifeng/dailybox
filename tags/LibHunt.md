@@ -1,3 +1,6 @@
+## 20240518
+- [LibHunt](https://www.libhunt.com/) | [HVM](https://www.libhunt.com/r/HVM)
+
 ## 20240517
 - [LibHunt](https://www.libhunt.com/) | [Bend](https://www.libhunt.com/r/Bend)
 
