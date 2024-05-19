@@ -1,3 +1,7 @@
+## 20240519
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Praises Golang PGO For Significant CPU Savings](https://www.phoronix.com/news/Cloudflare-Golang-PGO)
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)
+
 ## 20240518
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility](https://www.phoronix.com/news/Linux-6.10-NFSD)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Kogan 5120*2160 40″ Monitor](https://etbe.coker.com.au/2024/05/18/kogan-5120x2160-40-monitor/)

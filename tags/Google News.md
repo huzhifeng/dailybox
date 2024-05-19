@@ -1,3 +1,6 @@
+## 20240519
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google on what on-device AI is good at, more Android apps that use Gemini Nano coming - 9to5Google](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNS8xOS9hbmRyb2lkLW9uLWRldmljZS1haS_SAQA?oc=5)
+
 ## 20240518
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Sam Altman says GPT-4o has a "surprisingly cool" use for him at work - Business Insider](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FtLWFsdG1hbi1vcGVuYWktZ3B0LTRvLWhhcy1zdXJwcmlzaW5nbHktY29vbC11c2Utd29yay0yMDI0LTXSAWJodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3NhbS1hbHRtYW4tb3BlbmFpLWdwdC00by1oYXMtc3VycHJpc2luZ2x5LWNvb2wtdXNlLXdvcmstMjAyNC01P2FtcA?oc=5)
 

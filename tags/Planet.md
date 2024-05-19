@@ -1,3 +1,6 @@
+## 20240519
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)
+
 ## 20240518
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Kogan 5120*2160 40″ Monitor](https://etbe.coker.com.au/2024/05/18/kogan-5120x2160-40-monitor/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Unleash Your Musical Creativity: Creating Songs with Ubuntu Studio](https://hamradio.my/unleash-your-musical-creativity-creating-songs-with-ubuntu-studio/)

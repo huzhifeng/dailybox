@@ -1,3 +1,6 @@
+## 20240519
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Praises Golang PGO For Significant CPU Savings](https://www.phoronix.com/news/Cloudflare-Golang-PGO)
+
 ## 20240518
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 NFSD Brings Optimizations & Preps For New nfsdctl Utility](https://www.phoronix.com/news/Linux-6.10-NFSD)
 

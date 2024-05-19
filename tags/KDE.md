@@ -1,3 +1,6 @@
+## 20240519
+- [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)
+
 ## 20240518
 - [Planet KDE](https://planet.kde.org/) | [Address formatting in QML](https://www.volkerkrause.eu/2024/05/18/kf6-address-formatting-qml.html?utm_source=atom_feed)
 

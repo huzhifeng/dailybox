@@ -1,3 +1,9 @@
+## 20240519
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-18](https://www.daemonology.net/hn-daily/2024-05-18.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-19](https://github.com/headllines/hackernews-daily/issues/1409)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-19 | OpenAI 的保密风波：为什么关键人物离职却无法公开评论？](https://www.xiaoyuzhoufm.com/episode/66494ded82b428eafd817333)
+- [Hacker News](https://news.ycombinator.com/front) | [Riven](https://news.ycombinator.com/item?id=40404054)
+
 ## 20240518
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-17](https://www.daemonology.net/hn-daily/2024-05-17.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-18](https://github.com/headllines/hackernews-daily/issues/1408)
