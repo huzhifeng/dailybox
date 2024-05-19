@@ -1,3 +1,6 @@
+## 20240519
+- [V2EX](https://www.v2ex.com/) | [买苹果产品，建议抢首发](https://www.v2ex.com/t/1042069)
+
 ## 20240518
 - [V2EX](https://www.v2ex.com/) | [遇到一个某 985 的傻白甜的故事](https://www.v2ex.com/t/1041838)
 
