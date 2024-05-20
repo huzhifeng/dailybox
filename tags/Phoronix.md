@@ -1,3 +1,6 @@
+## 20240520
+- [Phoronix](https://www.phoronix.com/) | [Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41](https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved)
+
 ## 20240519
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Praises Golang PGO For Significant CPU Savings](https://www.phoronix.com/news/Cloudflare-Golang-PGO)
 

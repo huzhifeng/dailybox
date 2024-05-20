@@ -1,3 +1,6 @@
+## 20240520
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Respect and Children](https://etbe.coker.com.au/2024/05/20/respect-children/)
+
 ## 20240518
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Kogan 5120*2160 40″ Monitor](https://etbe.coker.com.au/2024/05/18/kogan-5120x2160-40-monitor/)
 
