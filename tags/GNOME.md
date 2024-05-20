@@ -1,3 +1,6 @@
+## 20240520
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora 40 Release Party in Prague](https://enblog.eischmann.cz/2024/05/20/fedora-40-release-party-in-prague/)
+
 ## 20240516
 - [Planet GNOME](https://planet.gnome.org/) | [Status update, 16/05/2024 – Learning Async Rust](https://samthursfield.wordpress.com/2024/05/16/status-update-16-05-2024-learning-async-rust/)
 

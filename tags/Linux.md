@@ -1,3 +1,11 @@
+## 20240520
+- [Phoronix](https://www.phoronix.com/) | [Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41](https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.20 Firmware Updater Adds Support for FPC FF2 Fingerprint Devices](https://9to5linux.com/fwupd-1-9-20-firmware-updater-adds-support-for-fpc-ff2-fingerprint-devices)
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 13.3](https://kiwitcms.org/blog/kiwi-tcms-team/2024/05/20/kiwi-tcms-133/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Respect and Children](https://etbe.coker.com.au/2024/05/20/respect-children/)
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora 40 Release Party in Prague](https://enblog.eischmann.cz/2024/05/20/fedora-40-release-party-in-prague/)
+- [Planet KDE](https://planet.kde.org/) | [New Plasma Edit Mode in 6.1](https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed)
+
 ## 20240519
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Praises Golang PGO For Significant CPU Savings](https://www.phoronix.com/news/Cloudflare-Golang-PGO)
 - [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)

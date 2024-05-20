@@ -1,3 +1,6 @@
+## 20240520
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google CEO Sundar Pichai on AI-powered search and the future of the web - The Verge](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE1ODM3NC9nb29nbGUtY2VvLXN1bmRhci1waWNoYWktYWktc2VhcmNoLWdlbWluaS1mdXR1cmUtb2YtdGhlLWludGVybmV0LXdlYi1vcGVuYWktZGVjb2Rlci1pbnRlcnZpZXfSAQA?oc=5)
+
 ## 20240519
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google on what on-device AI is good at, more Android apps that use Gemini Nano coming - 9to5Google](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNS8xOS9hbmRyb2lkLW9uLWRldmljZS1haS_SAQA?oc=5)
 

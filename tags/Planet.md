@@ -1,3 +1,9 @@
+## 20240520
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 13.3](https://kiwitcms.org/blog/kiwi-tcms-team/2024/05/20/kiwi-tcms-133/)
+- [Planet Debian](https://planet.debian.org/) | [Russell Coker: Respect and Children](https://etbe.coker.com.au/2024/05/20/respect-children/)
+- [Planet GNOME](https://planet.gnome.org/) | [Fedora 40 Release Party in Prague](https://enblog.eischmann.cz/2024/05/20/fedora-40-release-party-in-prague/)
+- [Planet KDE](https://planet.kde.org/) | [New Plasma Edit Mode in 6.1](https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed)
+
 ## 20240519
 - [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)
 

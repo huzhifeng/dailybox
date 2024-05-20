@@ -1,3 +1,6 @@
+## 20240520
+- [Planet KDE](https://planet.kde.org/) | [New Plasma Edit Mode in 6.1](https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed)
+
 ## 20240519
 - [Planet KDE](https://planet.kde.org/) | [KDE Ships Frameworks 5.116.0](https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed)
 

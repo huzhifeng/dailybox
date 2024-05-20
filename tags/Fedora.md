@@ -1,3 +1,6 @@
+## 20240520
+- [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 13.3](https://kiwitcms.org/blog/kiwi-tcms-team/2024/05/20/kiwi-tcms-133/)
+
 ## 20240517
 - [Planet Fedora](http://fedoraplanet.org/) | [Allan Day: GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
 

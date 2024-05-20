@@ -1,3 +1,6 @@
+## 20240520
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.20 Firmware Updater Adds Support for FPC FF2 Fingerprint Devices](https://9to5linux.com/fwupd-1-9-20-firmware-updater-adds-support-for-fpc-ff2-fingerprint-devices)
+
 ## 20240516
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Release Candidate Adds Explicit Sync and Snap Support](https://9to5linux.com/pipewire-1-2-release-candidate-adds-explicit-sync-and-snap-support)
 

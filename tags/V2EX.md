@@ -1,3 +1,6 @@
+## 20240520
+- [V2EX](https://www.v2ex.com/) | [码农专属导航 mn1024.com 正式上线，抽 6 份 50 元话费免费送](https://www.v2ex.com/t/1042387)
+
 ## 20240519
 - [V2EX](https://www.v2ex.com/) | [买苹果产品，建议抢首发](https://www.v2ex.com/t/1042069)
 
