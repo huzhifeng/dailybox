@@ -1,3 +1,6 @@
+## 20240521
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 555 Beta Linux Graphics Driver Released with Explicit Sync Support](https://9to5linux.com/nvidia-555-beta-linux-graphics-driver-released-with-explicit-sync-support)
+
 ## 20240520
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.20 Firmware Updater Adds Support for FPC FF2 Fingerprint Devices](https://9to5linux.com/fwupd-1-9-20-firmware-updater-adds-support-for-fpc-ff2-fingerprint-devices)
 

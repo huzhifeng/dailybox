@@ -1,3 +1,6 @@
+## 20240521
+- [Planet KDE](https://planet.kde.org/) | [Haruna 1.1.1 (updated)](https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed)
+
 ## 20240520
 - [Planet KDE](https://planet.kde.org/) | [New Plasma Edit Mode in 6.1](https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed)
 

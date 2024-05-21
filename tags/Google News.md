@@ -1,3 +1,6 @@
+## 20240521
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Can AI Make the PC Cool Again? Microsoft Thinks So. - The New York Times](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjAvdGVjaG5vbG9neS9taWNyb3NvZnQtY29waWxvdC1haS1wYy5odG1s0gEA?oc=5)
+
 ## 20240520
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google CEO Sundar Pichai on AI-powered search and the future of the web - The Verge](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE1ODM3NC9nb29nbGUtY2VvLXN1bmRhci1waWNoYWktYWktc2VhcmNoLWdlbWluaS1mdXR1cmUtb2YtdGhlLWludGVybmV0LXdlYi1vcGVuYWktZGVjb2Rlci1pbnRlcnZpZXfSAQA?oc=5)
 

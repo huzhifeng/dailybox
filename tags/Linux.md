@@ -1,3 +1,9 @@
+## 20240521
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default](https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 555 Beta Linux Graphics Driver Released with Explicit Sync Support](https://9to5linux.com/nvidia-555-beta-linux-graphics-driver-released-with-explicit-sync-support)
+- [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: lvm thin send/recv](https://abbbi.github.io//lvm/)
+- [Planet KDE](https://planet.kde.org/) | [Haruna 1.1.1 (updated)](https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed)
+
 ## 20240520
 - [Phoronix](https://www.phoronix.com/) | [Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41](https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.20 Firmware Updater Adds Support for FPC FF2 Fingerprint Devices](https://9to5linux.com/fwupd-1-9-20-firmware-updater-adds-support-for-fpc-ff2-fingerprint-devices)
