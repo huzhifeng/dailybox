@@ -1,3 +1,6 @@
+## 20240521
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default](https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta)
+
 ## 20240520
 - [Phoronix](https://www.phoronix.com/) | [Fedora Miracle Spin Approved To Ship As Part Of Fedora Linux 41](https://www.phoronix.com/news/Fedora-Miracle-Spin-Approved)
 

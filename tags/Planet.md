@@ -1,3 +1,7 @@
+## 20240521
+- [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: lvm thin send/recv](https://abbbi.github.io//lvm/)
+- [Planet KDE](https://planet.kde.org/) | [Haruna 1.1.1 (updated)](https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed)
+
 ## 20240520
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 13.3](https://kiwitcms.org/blog/kiwi-tcms-team/2024/05/20/kiwi-tcms-133/)
 - [Planet Debian](https://planet.debian.org/) | [Russell Coker: Respect and Children](https://etbe.coker.com.au/2024/05/20/respect-children/)

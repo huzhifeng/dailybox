@@ -1,3 +1,6 @@
+## 20240521
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [与Mac竞争，微软发布新型「Copilot+PC」；AI配音被指酷似知名演员，OpenAI紧急宣布停用 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139086517)
+
 ## 20240520
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI回应“封嘴”离职条款；滴滴程维：柳青升任永久合伙人，公司不再设总裁岗位；​NetBSD禁止AI生成代码 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139055683)
 

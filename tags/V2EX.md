@@ -1,3 +1,6 @@
+## 20240521
+- [V2EX](https://www.v2ex.com/) | [求解: 自我怀疑和自我麻痹, 关于独立开发的 A 股图表网站有没有意义?](https://www.v2ex.com/t/1042660)
+
 ## 20240520
 - [V2EX](https://www.v2ex.com/) | [码农专属导航 mn1024.com 正式上线，抽 6 份 50 元话费免费送](https://www.v2ex.com/t/1042387)
 
