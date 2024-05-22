@@ -1,3 +1,6 @@
+## 20240522
+- [BlogFinder](https://bf.zzxworld.com/) | [AI，还是AI？](https://h4ck.org.cn/2024/05/17138?utm_source=blogfinder)
+
 ## 20240521
 - [BlogFinder](https://bf.zzxworld.com/) | [Lady Gaga - Always Remember Us This Way ( Lyrics Video )](https://yhehe.com/archives/419/?utm_source=blogfinder)
 

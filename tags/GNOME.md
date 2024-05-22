@@ -1,3 +1,6 @@
+## 20240522
+- [Planet GNOME](https://planet.gnome.org/) | [growing a bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
+
 ## 20240520
 - [Planet GNOME](https://planet.gnome.org/) | [Fedora 40 Release Party in Prague](https://enblog.eischmann.cz/2024/05/20/fedora-40-release-party-in-prague/)
 
