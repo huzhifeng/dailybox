@@ -1,3 +1,6 @@
+## 20240522
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [字节、阿里、百度相继跟进AI大模型价格战；欧盟已批准人工智能法案 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139107790)
+
 ## 20240521
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [与Mac竞争，微软发布新型「Copilot+PC」；AI配音被指酷似知名演员，OpenAI紧急宣布停用 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139086517)
 

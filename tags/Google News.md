@@ -1,3 +1,6 @@
+## 20240522
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [T-Mobile Is Raising Prices on Some of Its Older Plans, Starting With Your Next Bill - CNET](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL3QtbW9iaWxlLWlzLXJhaXNpbmctcHJpY2VzLW9uLXNvbWUtb2YtaXRzLW9sZGVyLXBsYW5zLXN0YXJ0aW5nLXdpdGgteW91ci1uZXh0LWJpbGwv0gEA?oc=5)
+
 ## 20240521
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Can AI Make the PC Cool Again? Microsoft Thinks So. - The New York Times](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjAvdGVjaG5vbG9neS9taWNyb3NvZnQtY29waWxvdC1haS1wYy5odG1s0gEA?oc=5)
 

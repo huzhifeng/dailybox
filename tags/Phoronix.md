@@ -1,3 +1,6 @@
+## 20240522
+- [Phoronix](https://www.phoronix.com/) | [FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10](https://www.phoronix.com/news/Linux-6.10-FUSE)
+
 ## 20240521
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 555.42.02 Linux Beta Brings Wayland Explicit Sync, GSP Firmware Used By Default](https://www.phoronix.com/news/NVIDIA-555.42.02-Linux-Beta)
 

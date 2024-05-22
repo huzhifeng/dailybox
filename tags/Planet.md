@@ -1,3 +1,7 @@
+## 20240522
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: syslog-ng Prometheus exporter](https://peter.czanik.hu/other/syslog-ng-prometheus-exporter/)
+- [Planet GNOME](https://planet.gnome.org/) | [growing a bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
+
 ## 20240521
 - [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: lvm thin send/recv](https://abbbi.github.io//lvm/)
 - [Planet KDE](https://planet.kde.org/) | [Haruna 1.1.1 (updated)](https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed)

@@ -1,3 +1,6 @@
+## 20240522
+- [V2EX](https://www.v2ex.com/) | [[独立开发者] 开发的 Android Emby 第三方客户端 - Yamby 上线，抽 3 个永久 Pro 兑换码](https://www.v2ex.com/t/1042928)
+
 ## 20240521
 - [V2EX](https://www.v2ex.com/) | [求解: 自我怀疑和自我麻痹, 关于独立开发的 A 股图表网站有没有意义?](https://www.v2ex.com/t/1042660)
 

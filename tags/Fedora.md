@@ -1,3 +1,6 @@
+## 20240522
+- [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: syslog-ng Prometheus exporter](https://peter.czanik.hu/other/syslog-ng-prometheus-exporter/)
+
 ## 20240520
 - [Planet Fedora](http://fedoraplanet.org/) | [Kiwi TCMS: Kiwi TCMS 13.3](https://kiwitcms.org/blog/kiwi-tcms-team/2024/05/20/kiwi-tcms-133/)
 
