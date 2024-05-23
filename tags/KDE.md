@@ -1,3 +1,6 @@
+## 20240523
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05.0](https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed)
+
 ## 20240521
 - [Planet KDE](https://planet.kde.org/) | [Haruna 1.1.1 (updated)](https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed)
 

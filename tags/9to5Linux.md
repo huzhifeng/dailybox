@@ -1,3 +1,6 @@
+## 20240523
+- [9to5Linux](https://9to5linux.com/) | [Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook](https://9to5linux.com/meet-tuxedo-stellaris-slim-15-gen6-a-thin-and-light-linux-gaming-ultrabook)
+
 ## 20240522
 - [9to5Linux](https://9to5linux.com/) | [Alpine Linux 3.20 Released with Initial Support for 64-Bit RISC-V, KDE Plasma 6](https://9to5linux.com/alpine-linux-3-20-released-with-initial-support-for-64-bit-risc-v-kde-plasma-6)
 

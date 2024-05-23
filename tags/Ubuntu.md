@@ -1,3 +1,6 @@
+## 20240523
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Getting Started with Ubuntu Linux Operating System for Beginners](https://hamradio.my/2024/05/getting-started-with-ubuntu-linux-operating-system-for-beginners/)
+
 ## 20240518
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Unleash Your Musical Creativity: Creating Songs with Ubuntu Studio](https://hamradio.my/unleash-your-musical-creativity-creating-songs-with-ubuntu-studio/)
 

@@ -1,3 +1,6 @@
+## 20240523
+- [V2EX](https://www.v2ex.com/) | [请 [吸词] 的作者出来解释一下密码明文传输的问题](https://www.v2ex.com/t/1043320)
+
 ## 20240522
 - [V2EX](https://www.v2ex.com/) | [[独立开发者] 开发的 Android Emby 第三方客户端 - Yamby 上线，抽 3 个永久 Pro 兑换码](https://www.v2ex.com/t/1042928)
 

@@ -1,3 +1,12 @@
+## 20240523
+- [Phoronix](https://www.phoronix.com/) | [64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space](https://www.phoronix.com/news/Linux-6.10-ARM64)
+- [9to5Linux](https://9to5linux.com/) | [Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook](https://9to5linux.com/meet-tuxedo-stellaris-slim-15-gen6-a-thin-and-light-linux-gaming-ultrabook)
+- [Planet Fedora](http://fedoraplanet.org/) | [Farhaan Bukhsh: SSL: How It Works and Why It Matters](https://journal.farhaan.me/ssl-how-it-works-and-why-it-matters)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Getting Started with Ubuntu Linux Operating System for Beginners](https://hamradio.my/2024/05/getting-started-with-ubuntu-linux-operating-system-for-beginners/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 24.04](https://kvmonz.blogspot.com/2024/04/new-release-ubuntu-2404.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.13: Side Quests](https://blogs.gnome.org/jrb/2024/05/23/crosswords-0-3-13-side-quests/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05.0](https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed)
+
 ## 20240522
 - [Phoronix](https://www.phoronix.com/) | [FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10](https://www.phoronix.com/news/Linux-6.10-FUSE)
 - [9to5Linux](https://9to5linux.com/) | [Alpine Linux 3.20 Released with Initial Support for 64-Bit RISC-V, KDE Plasma 6](https://9to5linux.com/alpine-linux-3-20-released-with-initial-support-for-64-bit-risc-v-kde-plasma-6)

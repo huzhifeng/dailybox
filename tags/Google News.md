@@ -1,3 +1,6 @@
+## 20240523
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google introduces password sharing for family members - Engadget](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9nb29nbGUtaW50cm9kdWNlcy1wYXNzd29yZC1zaGFyaW5nLWZvci1mYW1pbHktbWVtYmVycy0xMjMwMTgyOTUuaHRtbNIBAA?oc=5)
+
 ## 20240522
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [T-Mobile Is Raising Prices on Some of Its Older Plans, Starting With Your Next Bill - CNET](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL3QtbW9iaWxlLWlzLXJhaXNpbmctcHJpY2VzLW9uLXNvbWUtb2YtaXRzLW9sZGVyLXBsYW5zLXN0YXJ0aW5nLXdpdGgteW91ci1uZXh0LWJpbGwv0gEA?oc=5)
 

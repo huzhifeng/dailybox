@@ -1,3 +1,7 @@
+## 20240523
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [360 客服回应弹窗广告关不完；拼多多市值再超阿里巴巴；我国发布全球首个开源大规模片上互联网络 IP「温榆河」|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139151936)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习与大型预训练模型的前沿探索：跨模态理解与生成的新纪元](https://blog.csdn.net/Easonmax/article/details/139125042)
+
 ## 20240522
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [字节、阿里、百度相继跟进AI大模型价格战；欧盟已批准人工智能法案 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139107790)
 
