@@ -1,3 +1,6 @@
+## 20240523
+- [Phoronix](https://www.phoronix.com/) | [64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space](https://www.phoronix.com/news/Linux-6.10-ARM64)
+
 ## 20240522
 - [Phoronix](https://www.phoronix.com/) | [FUSE Adds VirtIO-FS Multi-Queue For ~5x Performance Win With Linux 6.10](https://www.phoronix.com/news/Linux-6.10-FUSE)
 

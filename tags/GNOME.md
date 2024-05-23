@@ -1,3 +1,6 @@
+## 20240523
+- [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.13: Side Quests](https://blogs.gnome.org/jrb/2024/05/23/crosswords-0-3-13-side-quests/)
+
 ## 20240522
 - [Planet GNOME](https://planet.gnome.org/) | [growing a bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
 

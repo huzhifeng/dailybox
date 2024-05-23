@@ -1,3 +1,6 @@
+## 20240523
+- [Planet Fedora](http://fedoraplanet.org/) | [Farhaan Bukhsh: SSL: How It Works and Why It Matters](https://journal.farhaan.me/ssl-how-it-works-and-why-it-matters)
+
 ## 20240522
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: syslog-ng Prometheus exporter](https://peter.czanik.hu/other/syslog-ng-prometheus-exporter/)
 

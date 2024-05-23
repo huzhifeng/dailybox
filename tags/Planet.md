@@ -1,3 +1,10 @@
+## 20240523
+- [Planet Fedora](http://fedoraplanet.org/) | [Farhaan Bukhsh: SSL: How It Works and Why It Matters](https://journal.farhaan.me/ssl-how-it-works-and-why-it-matters)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Getting Started with Ubuntu Linux Operating System for Beginners](https://hamradio.my/2024/05/getting-started-with-ubuntu-linux-operating-system-for-beginners/)
+- [Planet virt-tools](https://planet.virt-tools.org/) | [New Release: Ubuntu 24.04](https://kvmonz.blogspot.com/2024/04/new-release-ubuntu-2404.html)
+- [Planet GNOME](https://planet.gnome.org/) | [Crosswords 0.3.13: Side Quests](https://blogs.gnome.org/jrb/2024/05/23/crosswords-0-3-13-side-quests/)
+- [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05.0](https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed)
+
 ## 20240522
 - [Planet Fedora](http://fedoraplanet.org/) | [Peter Czanik: syslog-ng Prometheus exporter](https://peter.czanik.hu/other/syslog-ng-prometheus-exporter/)
 - [Planet GNOME](https://planet.gnome.org/) | [growing a bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)

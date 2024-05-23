@@ -1,3 +1,6 @@
+## 20240523
+- [LibHunt](https://www.libhunt.com/) | [js-chat](https://www.libhunt.com/r/js-chat)
+
 ## 20240521
 - [LibHunt](https://www.libhunt.com/) | [AlphaCodium](https://www.libhunt.com/r/AlphaCodium)
 
