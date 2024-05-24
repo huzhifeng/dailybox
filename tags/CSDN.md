@@ -1,3 +1,7 @@
+## 20240524
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微软必应全球宕机，波及ChatGPT；刘强东被曝经常深夜发语音安排业务；Meta高管称大模型不会达到人类智能水平 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139169405)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】—机器学习和NLP预训练模型探索之旅](https://blog.csdn.net/2303_77720864/article/details/139159367)
+
 ## 20240523
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [360 客服回应弹窗广告关不完；拼多多市值再超阿里巴巴；我国发布全球首个开源大规模片上互联网络 IP「温榆河」|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139151936)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习与大型预训练模型的前沿探索：跨模态理解与生成的新纪元](https://blog.csdn.net/Easonmax/article/details/139125042)

@@ -1,3 +1,6 @@
+## 20240524
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 165U "Meteor Lake" Linux Performance](https://www.phoronix.com/review/intel-core-ultra-165u)
+
 ## 20240523
 - [Phoronix](https://www.phoronix.com/) | [64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space](https://www.phoronix.com/news/Linux-6.10-ARM64)
 

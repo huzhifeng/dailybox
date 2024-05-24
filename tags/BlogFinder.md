@@ -1,3 +1,6 @@
+## 20240524
+- [BlogFinder](https://bf.zzxworld.com/) | [中年人的基本素养，杜绝说教，避免变成老师](https://joojen.com/archives/7511.html?utm_source=blogfinder)
+
 ## 20240523
 - [BlogFinder](https://bf.zzxworld.com/) | [Codestar Framework主题框架1.02](https://www.tsxxc.com/mima/2946.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240524
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google criticized as AI Overview makes obvious errors, saying President Obama is Muslim and that it's safe to leave dogs in hot cars - CNBC](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjQvZ29vZ2xlLWNyaXRpY2l6ZWQtYXMtYWktb3ZlcnZpZXctbWFrZXMtZXJyb3JzLWxpa2Utc2F5aW5nLXByZXNpZGVudC1vYmFtYS1pcy1tdXNsaW0uaHRtbNIBfGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI0L2dvb2dsZS1jcml0aWNpemVkLWFzLWFpLW92ZXJ2aWV3LW1ha2VzLWVycm9ycy1saWtlLXNheWluZy1wcmVzaWRlbnQtb2JhbWEtaXMtbXVzbGltLmh0bWw?oc=5)
+
 ## 20240523
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google introduces password sharing for family members - Engadget](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9nb29nbGUtaW50cm9kdWNlcy1wYXNzd29yZC1zaGFyaW5nLWZvci1mYW1pbHktbWVtYmVycy0xMjMwMTgyOTUuaHRtbNIBAA?oc=5)
 

@@ -1,3 +1,6 @@
+## 20240524
+- [V2EX](https://www.v2ex.com/) | [分享一两句对你影响很大的名言警句](https://www.v2ex.com/t/1043620)
+
 ## 20240523
 - [V2EX](https://www.v2ex.com/) | [请 [吸词] 的作者出来解释一下密码明文传输的问题](https://www.v2ex.com/t/1043320)
 
