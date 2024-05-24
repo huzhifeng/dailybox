@@ -1,3 +1,6 @@
+## 20240524
+- [Product Hunt](https://www.producthunt.com) | [Call Arc](https://www.producthunt.com/posts/call-arc)
+
 ## 20240523
 - [Product Hunt](https://www.producthunt.com) | [DataGems](https://www.producthunt.com/posts/datagems)
 

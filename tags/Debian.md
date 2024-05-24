@@ -1,3 +1,6 @@
+## 20240524
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
+
 ## 20240521
 - [Planet Debian](https://planet.debian.org/) | [Michael Ablassmeier: lvm thin send/recv](https://abbbi.github.io//lvm/)
 

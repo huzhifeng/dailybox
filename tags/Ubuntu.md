@@ -1,3 +1,6 @@
+## 20240524
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
+
 ## 20240523
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Faizul "Piju" 9M2PJU: Getting Started with Ubuntu Linux Operating System for Beginners](https://hamradio.my/2024/05/getting-started-with-ubuntu-linux-operating-system-for-beginners/)
 

@@ -1,3 +1,10 @@
+## 20240524
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 165U "Meteor Lake" Linux Performance](https://www.phoronix.com/review/intel-core-ultra-165u)
+- [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
+- [Planet Ubuntu](https://planet.ubuntu.com/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
+- [Planet GNOME](https://planet.gnome.org/) | [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed)
+
 ## 20240523
 - [Phoronix](https://www.phoronix.com/) | [64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space](https://www.phoronix.com/news/Linux-6.10-ARM64)
 - [9to5Linux](https://9to5linux.com/) | [Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook](https://9to5linux.com/meet-tuxedo-stellaris-slim-15-gen6-a-thin-and-light-linux-gaming-ultrabook)

@@ -1,3 +1,6 @@
+## 20240524
+- [It's FOSS](https://itsfoss.com/) | [14 Top Outstanding Open Source LLMs For Research and Commercial Use](https://itsfoss.com/open-source-llms/)
+
 ## 20240523
 - [It's FOSS](https://itsfoss.com/) | [6 Linux Commands I Use for Malware Analysis](https://itsfoss.com/linux-commands-malware-analysis/)
 

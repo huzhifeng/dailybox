@@ -1,3 +1,6 @@
+## 20240524
+- [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed)
+
 ## 20240523
 - [Planet KDE](https://planet.kde.org/) | [KDE Gear 24.05.0](https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed)
 
