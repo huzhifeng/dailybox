@@ -1,3 +1,6 @@
+## 20240525
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed)
+
 ## 20240524
 - [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 - [Planet Ubuntu](https://planet.ubuntu.com/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)

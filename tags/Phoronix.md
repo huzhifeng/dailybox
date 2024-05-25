@@ -1,3 +1,6 @@
+## 20240525
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Improves AMD ROCm Compute Support For "Small" Ryzen APUs](https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs)
+
 ## 20240524
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 165U "Meteor Lake" Linux Performance](https://www.phoronix.com/review/intel-core-ultra-165u)
 

@@ -1,3 +1,6 @@
+## 20240525
+- [LibHunt](https://www.libhunt.com/) | [spot](https://www.libhunt.com/r/roblillack/spot)
+
 ## 20240523
 - [LibHunt](https://www.libhunt.com/) | [js-chat](https://www.libhunt.com/r/js-chat)
 

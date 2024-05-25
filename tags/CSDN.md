@@ -1,3 +1,6 @@
+## 20240525
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [绿色智能：AI机器学习在环境保护中的深度应用与实践案例](https://blog.csdn.net/g310773517/article/details/139154275)
+
 ## 20240524
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微软必应全球宕机，波及ChatGPT；刘强东被曝经常深夜发语音安排业务；Meta高管称大模型不会达到人类智能水平 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139169405)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】—机器学习和NLP预训练模型探索之旅](https://blog.csdn.net/2303_77720864/article/details/139159367)

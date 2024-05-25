@@ -1,3 +1,6 @@
+## 20240525
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed)
+
 ## 20240524
 - [Planet KDE](https://planet.kde.org/) | [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed)
 
