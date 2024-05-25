@@ -1,3 +1,7 @@
+## 20240525
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Improves AMD ROCm Compute Support For "Small" Ryzen APUs](https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs)
+- [Planet KDE](https://planet.kde.org/) | [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed)
+
 ## 20240524
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 165U "Meteor Lake" Linux Performance](https://www.phoronix.com/review/intel-core-ultra-165u)
 - [Planet Debian](https://planet.debian.org/) | [Julian Andres Klode: Observations in Debian dependency solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)

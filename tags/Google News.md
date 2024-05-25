@@ -1,3 +1,6 @@
+## 20240525
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google AI search tells users to glue pizza and eat rocks - BBC.com](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDExZ3plamd6NG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxMWd6ZWpnejRvLmFtcA?oc=5)
+
 ## 20240524
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google criticized as AI Overview makes obvious errors, saying President Obama is Muslim and that it's safe to leave dogs in hot cars - CNBC](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjQvZ29vZ2xlLWNyaXRpY2l6ZWQtYXMtYWktb3ZlcnZpZXctbWFrZXMtZXJyb3JzLWxpa2Utc2F5aW5nLXByZXNpZGVudC1vYmFtYS1pcy1tdXNsaW0uaHRtbNIBfGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI0L2dvb2dsZS1jcml0aWNpemVkLWFzLWFpLW92ZXJ2aWV3LW1ha2VzLWVycm9ycy1saWtlLXNheWluZy1wcmVzaWRlbnQtb2JhbWEtaXMtbXVzbGltLmh0bWw?oc=5)
 

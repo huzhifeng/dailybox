@@ -1,3 +1,6 @@
+## 20240525
+- [V2EX](https://www.v2ex.com/) | [唉，父母为了完成让我结婚这个任务，已经啥对象都给我介绍了](https://www.v2ex.com/t/1043914)
+
 ## 20240524
 - [V2EX](https://www.v2ex.com/) | [分享一两句对你影响很大的名言警句](https://www.v2ex.com/t/1043620)
 
