@@ -35,8 +35,8 @@
 			"channel": "LibHunt",
 			"portal": "https://www.libhunt.com/",
 			"url": "https://www.libhunt.com/feed",
-			"category": "开源",
-			"tags": ["LibHunt", "开源"]
+			"category": "产品",
+			"tags": ["LibHunt", "开源", "产品"]
 		},
 		{
 			"channel": "Phoronix",
