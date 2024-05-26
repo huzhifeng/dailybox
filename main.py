@@ -85,8 +85,9 @@ def main():
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
             if updated < today:
+                logger.debug('updated date(%s) < today(%s), feed: %s', updated, today, feed['channel'])
                 if 'ignoredate' in feed and feed['ignoredate'] == 1:
-                    logger.debug('%s: %s', feed['channel'], updated)
+                    logger.debug('ignore date')
                 else:
                     continue
             if not resp.has_key('entries'):
@@ -121,8 +122,10 @@ def main():
                     else:
                         continue
                 if published.date() != today.date():
+                    logger.debug('published date(%s) != today(%s), feed %s, entry: %s %s',
+                                    published, today, feed['channel'], entry.title, entry.link)
                     if 'ignoredate' in feed and feed['ignoredate'] == 1:
-                        logger.debug('%s: %s', feed['channel'], entry.title)
+                        logger.debug('ignore published date, check url instead')
                         if check_url_in_tag_file(feed['tags'][0], entry.link):
                             continue
                     else:
