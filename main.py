@@ -13,6 +13,18 @@ import feedparser
 import requests
 
 
+def check_url_in_tag_file(tag, link):
+    """Check if the URL already exists"""
+    fname_tag = f'tags/{tag}.md'
+
+    if os.path.isfile(fname_tag):
+        with open(fname_tag, mode='r', encoding='utf-8') as fd_tag:
+            txt = fd_tag.read()
+            if txt.find(link) != -1:
+                return True
+
+    return False
+
 def main():
     """Main loop."""
     timezone = pytz.timezone('Asia/Shanghai')
@@ -73,7 +85,10 @@ def main():
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
             if updated < today:
-                continue
+                if 'ignoredate' in feed and feed['ignoredate'] == 1:
+                    logger.debug('%s: %s', feed['channel'], updated)
+                else:
+                    continue
             if not resp.has_key('entries'):
                 logger.debug('no entries')
                 continue
@@ -106,7 +121,12 @@ def main():
                     else:
                         continue
                 if published.date() != today.date():
-                    continue
+                    if 'ignoredate' in feed and feed['ignoredate'] == 1:
+                        logger.debug('%s: %s', feed['channel'], entry.title)
+                        if check_url_in_tag_file(feed['tags'][0], entry.link):
+                            continue
+                    else:
+                        continue
                 item = {
                     'category': feed['category'],
                     'tags': feed['tags'].copy(),
