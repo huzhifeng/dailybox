@@ -60,62 +60,6 @@
 			"tags": ["OMG! Linux", "Linux"]
 		},
 		{
-			"channel": "Planet Kernel",
-			"portal": "https://planet.kernel.org/",
-			"url": "https://planet.kernel.org/rss20.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "开源"]
-		},
-		{
-			"channel": "Planet Fedora",
-			"portal": "http://fedoraplanet.org/",
-			"url": "http://fedoraplanet.org/rss20.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "Fedora"]
-		},
-		{
-			"channel": "Planet Debian",
-			"portal": "https://planet.debian.org/",
-			"url": "https://planet.debian.org/rss20.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "Debian"]
-		},
-		{
-			"channel": "Planet Ubuntu",
-			"portal": "https://planet.ubuntu.com/",
-			"url": "https://planet.ubuntu.com/rss20.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "Ubuntu"]
-		},
-		{
-			"channel": "Planet Gentoo",
-			"portal": "https://planet.gentoo.org/",
-			"url": "http://planet.gentoo.org/rss20.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "Gentoo"]
-		},
-		{
-			"channel": "Planet virt-tools",
-			"portal": "https://planet.virt-tools.org/",
-			"url": "https://planet.virt-tools.org/atom.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "虚拟化"]
-		},
-		{
-			"channel": "Planet GNOME",
-			"portal": "https://planet.gnome.org/",
-			"url": "https://planet.gnome.org/atom.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "GNOME"]
-		},
-		{
-			"channel": "Planet KDE",
-			"portal": "https://planet.kde.org/",
-			"url": "https://planet.kde.org/atom.xml",
-			"category": "开源",
-			"tags": ["Planet", "Linux", "KDE"]
-		},
-		{
 			"channel": "喷嚏网",
 			"portal": "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei",
 			"url": "https://www.dapenti.com/blog/rss2.asp?name=xilei",
