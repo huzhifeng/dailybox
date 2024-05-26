@@ -1,3 +1,6 @@
+## 20240526
+- [BlogFinder](https://bf.zzxworld.com/) | [archlinux gnome 安装 fcitx5 及扩展面板](https://www.frytea.com/post/20240526163807.html?utm_source=blogfinder)
+
 ## 20240525
 - [BlogFinder](https://bf.zzxworld.com/) | [读《乔布斯传》](https://www.xiejingyang.com/2024/05/25/read-jobs/?utm_source=blogfinder)
 

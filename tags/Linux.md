@@ -1,3 +1,6 @@
+## 20240526
+- [Phoronix](https://www.phoronix.com/) | [Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling](https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring)
+
 ## 20240525
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Improves AMD ROCm Compute Support For "Small" Ryzen APUs](https://www.phoronix.com/news/Linux-6.10-AMDKFD-Small-APUs)
 - [Planet KDE](https://planet.kde.org/) | [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed)

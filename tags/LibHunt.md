@@ -1,3 +1,6 @@
+## 20240526
+- [LibHunt](https://www.libhunt.com/) | [Mastodon](https://www.libhunt.com/r/mastodon)
+
 ## 20240525
 - [LibHunt](https://www.libhunt.com/) | [spot](https://www.libhunt.com/r/roblillack/spot)
 
