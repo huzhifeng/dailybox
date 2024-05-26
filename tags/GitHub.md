@@ -1,3 +1,6 @@
+## 20240526
+- [GitHub Trending](https://github.com/trending?since=daily) | [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
+
 ## 20240523
 - [GitHub Advanced Search](https://github.com/search/advanced) | [toni45robertsmithy/Ethereum-Sandwich-Bot](https://github.com/toni45robertsmithy/Ethereum-Sandwich-Bot)
 
