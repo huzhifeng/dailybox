@@ -1,3 +1,7 @@
+## 20240527
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [刘强东回应京东严抓考勤；马斯克560亿美元天价薪酬受质疑；ICQ将于6月26日起停止服务 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139235862)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Linux学习】深入探索进程等待与进程退出码和退出信号](https://blog.csdn.net/2301_77509762/article/details/138801026)
+
 ## 20240526
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【云原生】kubernetes中的service原理、应用实战案例解析](https://blog.csdn.net/littlefun591/article/details/139147828)
 

@@ -1,3 +1,7 @@
+## 20240527
+- [Phoronix](https://www.phoronix.com/) | [Intel Releases ISPC 1.24 With New AVX-VNNI & AVX512-VNNI Targets](https://www.phoronix.com/news/Intel-ISPC-1.24-Released)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 26th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-26th-2024)
+
 ## 20240526
 - [Phoronix](https://www.phoronix.com/) | [Intel NPU Driver Being Refactored For More Versatile CPU+NPU Handling](https://www.phoronix.com/news/Intel-NPU-iVPU-Refactoring)
 

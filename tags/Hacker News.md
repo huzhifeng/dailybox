@@ -1,3 +1,8 @@
+## 20240527
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-26](https://www.daemonology.net/hn-daily/2024-05-26.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-27](https://github.com/headllines/hackernews-daily/issues/1417)
+- [Hacker News](https://news.ycombinator.com/front) | [Big data is dead (2023)](https://news.ycombinator.com/item?id=40488844)
+
 ## 20240526
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-25](https://www.daemonology.net/hn-daily/2024-05-25.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-26](https://github.com/headllines/hackernews-daily/issues/1416)

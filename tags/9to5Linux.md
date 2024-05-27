@@ -1,3 +1,6 @@
+## 20240527
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 26th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-26th-2024)
+
 ## 20240523
 - [9to5Linux](https://9to5linux.com/) | [Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook](https://9to5linux.com/meet-tuxedo-stellaris-slim-15-gen6-a-thin-and-light-linux-gaming-ultrabook)
 

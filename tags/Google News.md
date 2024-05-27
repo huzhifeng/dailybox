@@ -1,3 +1,6 @@
+## 20240527
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [All of today's generative AI is a beta – not just iOS 18 - 9to5Mac](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNS8yNy9nZW5lcmF0aXZlLWFpLWlzLWEtYmV0YS_SAQA?oc=5)
+
 ## 20240526
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Keep Your Eyes Healthy With This Hidden iOS 17 Feature - CNET](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL2tlZXAteW91ci1leWVzLWhlYWx0aHktd2l0aC10aGlzLWhpZGRlbi1pb3MtMTctZmVhdHVyZS_SAQA?oc=5)
 

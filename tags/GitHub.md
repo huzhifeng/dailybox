@@ -1,3 +1,6 @@
+## 20240527
+- [GitHub Trending](https://github.com/trending?since=daily) | [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
+
 ## 20240526
 - [GitHub Trending](https://github.com/trending?since=daily) | [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
 
