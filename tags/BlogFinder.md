@@ -1,3 +1,6 @@
+## 20240527
+- [BlogFinder](https://bf.zzxworld.com/) | [收割后的麦田](https://www.xiangshitan.com/post/784.html?utm_source=blogfinder)
+
 ## 20240526
 - [BlogFinder](https://bf.zzxworld.com/) | [archlinux gnome 安装 fcitx5 及扩展面板](https://www.frytea.com/post/20240526163807.html?utm_source=blogfinder)
 
