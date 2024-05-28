@@ -1,3 +1,6 @@
+## 20240528
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google's Latest Search Tool Is Telling Us to Put Glue on Our Pizza, And Eat Rocks - ScienceAlert](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vZ29vZ2xlcy1sYXRlc3Qtc2VhcmNoLXRvb2wtaXMtdGVsbGluZy11cy10by1wdXQtZ2x1ZS1vbi1vdXItcGl6emEtYW5kLWVhdC1yb2Nrc9IBAA?oc=5)
+
 ## 20240527
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [All of today's generative AI is a beta – not just iOS 18 - 9to5Mac](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNS8yNy9nZW5lcmF0aXZlLWFpLWlzLWEtYmV0YS_SAQA?oc=5)
 

@@ -1,3 +1,6 @@
+## 20240528
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.05 Brings Bcachefs Support, Marknote Note-Taking App](https://9to5linux.com/kaos-linux-2024-05-brings-bcachefs-support-marknote-note-taking-app)
+
 ## 20240527
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 26th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-26th-2024)
 

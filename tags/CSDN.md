@@ -1,3 +1,7 @@
+## 20240528
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [马斯克的xAI拿下60亿美元融资；微软取消Win11 TPM要求，仅限物联网企业版 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139273951)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [苹果iOS18将引入ChatGPT；美国AI禁令再升级；微软首发Phi-3多模态模型 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139252050)
+
 ## 20240527
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [刘强东回应京东严抓考勤；马斯克560亿美元天价薪酬受质疑；ICQ将于6月26日起停止服务 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139235862)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Linux学习】深入探索进程等待与进程退出码和退出信号](https://blog.csdn.net/2301_77509762/article/details/138801026)

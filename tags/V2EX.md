@@ -1,3 +1,6 @@
+## 20240528
+- [V2EX](https://www.v2ex.com/) | [你们身体都有哪些慢性病(缺陷)](https://www.v2ex.com/t/1044703)
+
 ## 20240527
 - [V2EX](https://www.v2ex.com/) | [[公司远程控制家里电脑]有什么价格合适且稳定的方案么](https://www.v2ex.com/t/1044318)
 

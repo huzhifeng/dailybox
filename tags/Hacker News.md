@@ -1,3 +1,8 @@
+## 20240528
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-27](https://www.daemonology.net/hn-daily/2024-05-27.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-28](https://github.com/headllines/hackernews-daily/issues/1418)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-28 | 从平价到天价：Cloudflare 价格飙升如何令一家企业陷入混乱](https://www.xiaoyuzhoufm.com/episode/665521bc4efbc0c3dc7a9162)
+
 ## 20240527
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-26](https://www.daemonology.net/hn-daily/2024-05-26.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-27](https://github.com/headllines/hackernews-daily/issues/1417)

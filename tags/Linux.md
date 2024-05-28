@@ -1,3 +1,7 @@
+## 20240528
+- [Phoronix](https://www.phoronix.com/) | [AlmaLinux 8.10 Released With Support Re-Enabled For Some Older Hardware](https://www.phoronix.com/news/AlmaLinux-8.10-Released)
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.05 Brings Bcachefs Support, Marknote Note-Taking App](https://9to5linux.com/kaos-linux-2024-05-brings-bcachefs-support-marknote-note-taking-app)
+
 ## 20240527
 - [Phoronix](https://www.phoronix.com/) | [Intel Releases ISPC 1.24 With New AVX-VNNI & AVX512-VNNI Targets](https://www.phoronix.com/news/Intel-ISPC-1.24-Released)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: May 26th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-26th-2024)
