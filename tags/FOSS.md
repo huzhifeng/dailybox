@@ -1,3 +1,6 @@
+## 20240528
+- [It's FOSS](https://itsfoss.com/) | [I Installed AI Apps in a Single Click on My Linux System With Pinokio](https://itsfoss.com/install-ai-apps-pinokio-linux/)
+
 ## 20240524
 - [It's FOSS](https://itsfoss.com/) | [14 Top Outstanding Open Source LLMs For Research and Commercial Use](https://itsfoss.com/open-source-llms/)
 
