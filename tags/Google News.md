@@ -1,3 +1,6 @@
+## 20240529
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Sony Announces May 30 PS5 Showcase Will Feature 14 Games - Kotaku](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va290YWt1LmNvbS9wbGF5c3RhdGlvbi1zaG93Y2FzZS1wczUtZTMtZ2hvc3QtdHN1c2hpbWEtbGFzdC11cy0xODUxNTA2MjU00gEA?oc=5)
+
 ## 20240528
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google's Latest Search Tool Is Telling Us to Put Glue on Our Pizza, And Eat Rocks - ScienceAlert](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vZ29vZ2xlcy1sYXRlc3Qtc2VhcmNoLXRvb2wtaXMtdGVsbGluZy11cy10by1wdXQtZ2x1ZS1vbi1vdXItcGl6emEtYW5kLWVhdC1yb2Nrc9IBAA?oc=5)
 

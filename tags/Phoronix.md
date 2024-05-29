@@ -1,3 +1,6 @@
+## 20240529
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Include TPM Bus Encryption, More AMD Zen 5 & A Prison Letter Merge Request](https://www.phoronix.com/review/linux-610-features)
+
 ## 20240528
 - [Phoronix](https://www.phoronix.com/) | [AlmaLinux 8.10 Released With Support Re-Enabled For Some Older Hardware](https://www.phoronix.com/news/AlmaLinux-8.10-Released)
 

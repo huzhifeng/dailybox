@@ -1,3 +1,8 @@
+## 20240529
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-28](https://www.daemonology.net/hn-daily/2024-05-28.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-29](https://github.com/headllines/hackernews-daily/issues/1419)
+- [Hacker News](https://news.ycombinator.com/front) | [AI headphones let you listen to a single person in crowd, by looking at them](https://news.ycombinator.com/item?id=40508278)
+
 ## 20240528
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-27](https://www.daemonology.net/hn-daily/2024-05-27.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-28](https://github.com/headllines/hackernews-daily/issues/1418)

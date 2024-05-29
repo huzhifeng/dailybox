@@ -1,3 +1,7 @@
+## 20240529
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度沈抖：主力模型免费的原因很朴素，希望大家别再天天拉表格比价格；黄仁勋身家飙升至 6000 亿；微软晒 Edge 浏览器改进｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/139284722)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】解锁AI密码：神经网络算法详解与前沿探索](https://blog.csdn.net/2301_77509762/article/details/139278781)
+
 ## 20240528
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [马斯克的xAI拿下60亿美元融资；微软取消Win11 TPM要求，仅限物联网企业版 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139273951)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [苹果iOS18将引入ChatGPT；美国AI禁令再升级；微软首发Phi-3多模态模型 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139252050)
