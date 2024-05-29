@@ -1,3 +1,6 @@
+## 20240529
+- [Product Hunt](https://www.producthunt.com) | [Closely 2.0](https://www.producthunt.com/posts/closely-2-0)
+
 ## 20240528
 - [Product Hunt](https://www.producthunt.com) | [Reforge Extension](https://www.producthunt.com/posts/reforge-extension)
 
