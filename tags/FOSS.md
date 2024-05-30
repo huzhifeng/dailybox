@@ -1,3 +1,6 @@
+## 20240530
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.22: Ultramarine Linux, Open Source LLMs, Decibels Music Player and More](https://itsfoss.com/newsletter/foss-weekly-24-22/)
+
 ## 20240528
 - [It's FOSS](https://itsfoss.com/) | [I Installed AI Apps in a Single Click on My Linux System With Pinokio](https://itsfoss.com/install-ai-apps-pinokio-linux/)
 

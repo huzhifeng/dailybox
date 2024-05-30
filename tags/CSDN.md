@@ -1,3 +1,7 @@
+## 20240530
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO Altman 宣布将捐出大部分财产；​俄罗斯考虑对使用外国软件的企业收费 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139317767)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】利用机器学习优化陆军战术决策与战场态势感知](https://blog.csdn.net/Easonmax/article/details/139225359)
+
 ## 20240529
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [百度沈抖：主力模型免费的原因很朴素，希望大家别再天天拉表格比价格；黄仁勋身家飙升至 6000 亿；微软晒 Edge 浏览器改进｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/139284722)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】解锁AI密码：神经网络算法详解与前沿探索](https://blog.csdn.net/2301_77509762/article/details/139278781)

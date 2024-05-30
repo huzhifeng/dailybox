@@ -1,3 +1,6 @@
+## 20240530
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Darter Pro Linux Laptop Gets 16:10 Display, Intel Core Ultra CPUs](https://9to5linux.com/system76s-darter-pro-linux-laptop-gets-1610-display-intel-core-ultra-cpus)
+
 ## 20240528
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.05 Brings Bcachefs Support, Marknote Note-Taking App](https://9to5linux.com/kaos-linux-2024-05-brings-bcachefs-support-marknote-note-taking-app)
 

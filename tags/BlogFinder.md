@@ -1,3 +1,6 @@
+## 20240530
+- [BlogFinder](https://bf.zzxworld.com/) | [zblog主题模板简单移植于“Pigeon”](https://luolt.cn/archives/2801.html?utm_source=blogfinder)
+
 ## 20240529
 - [BlogFinder](https://bf.zzxworld.com/) | [WordPress网站添加侧边彩色滚动条的教程](https://www.bailuze.com/8383.html?utm_source=blogfinder)
 
