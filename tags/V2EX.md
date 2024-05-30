@@ -1,3 +1,6 @@
+## 20240530
+- [V2EX](https://www.v2ex.com/) | [[疑问]如何使用 cron 让脚本每 7 分钟执行一次？](https://www.v2ex.com/t/1045433)
+
 ## 20240529
 - [V2EX](https://www.v2ex.com/) | [交通事故求助，有没有朋友懂相关方面知识的帮忙分析一下，感激不尽！](https://www.v2ex.com/t/1045114)
 

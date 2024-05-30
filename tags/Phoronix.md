@@ -1,3 +1,6 @@
+## 20240530
+- [Phoronix](https://www.phoronix.com/) | [Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42](https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42)
+
 ## 20240529
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Include TPM Bus Encryption, More AMD Zen 5 & A Prison Letter Merge Request](https://www.phoronix.com/review/linux-610-features)
 

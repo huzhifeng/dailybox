@@ -1,3 +1,9 @@
+## 20240530
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-29](https://www.daemonology.net/hn-daily/2024-05-29.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-30](https://github.com/headllines/hackernews-daily/issues/1420)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-05-30 | OpenAI Sam Altman被驱逐原因、LLama3-V 发布性能高 20 %](https://www.xiaoyuzhoufm.com/episode/665835f4ad5aa5d8c26f5d18)
+- [Hacker News](https://news.ycombinator.com/front) | [I got tired of hearing that YC fired Sam, so here's what actually happened](https://news.ycombinator.com/item?id=40521657)
+
 ## 20240529
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-28](https://www.daemonology.net/hn-daily/2024-05-28.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-29](https://github.com/headllines/hackernews-daily/issues/1419)

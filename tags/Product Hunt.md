@@ -1,3 +1,6 @@
+## 20240530
+- [Product Hunt](https://www.producthunt.com) | [AR2R powered by SESSIONS](https://www.producthunt.com/posts/ar2r-powered-by-sessions)
+
 ## 20240529
 - [Product Hunt](https://www.producthunt.com) | [Closely 2.0](https://www.producthunt.com/posts/closely-2-0)
 

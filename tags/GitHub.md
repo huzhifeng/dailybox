@@ -1,3 +1,7 @@
+## 20240530
+- [GitHub Trending](https://github.com/trending?since=daily) | [2noise/ChatTTS](https://github.com/2noise/ChatTTS)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
+
 ## 20240529
 - [GitHub Trending](https://github.com/trending?since=daily) | [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [awsome2464/Counter-Strike-2-Cheat-](https://github.com/awsome2464/Counter-Strike-2-Cheat-)

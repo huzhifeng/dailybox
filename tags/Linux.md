@@ -1,3 +1,7 @@
+## 20240530
+- [Phoronix](https://www.phoronix.com/) | [Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42](https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42)
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Darter Pro Linux Laptop Gets 16:10 Display, Intel Core Ultra CPUs](https://9to5linux.com/system76s-darter-pro-linux-laptop-gets-1610-display-intel-core-ultra-cpus)
+
 ## 20240529
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.10 Features Include TPM Bus Encryption, More AMD Zen 5 & A Prison Letter Merge Request](https://www.phoronix.com/review/linux-610-features)
 

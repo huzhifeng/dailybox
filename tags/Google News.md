@@ -1,3 +1,6 @@
+## 20240530
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Leaked Documents Reveal How Google Search Gatekeeps the Internet - Gizmodo](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZ2l6bW9kby5jb20vZ29vZ2xlLXNlYXJjaC1zZW8tbGVhay1yZXZlYWwtZ2F0ZWtlZXBzLWludGVybmV0LTE4NTE1MDg0MTDSAQA?oc=5)
+
 ## 20240529
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Sony Announces May 30 PS5 Showcase Will Feature 14 Games - Kotaku](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va290YWt1LmNvbS9wbGF5c3RhdGlvbi1zaG93Y2FzZS1wczUtZTMtZ2hvc3QtdHN1c2hpbWEtbGFzdC11cy0xODUxNTA2MjU00gEA?oc=5)
 
