@@ -1,3 +1,6 @@
+## 20240531
+- [It's FOSS](https://itsfoss.com/) | [Install Multiple Python Versions on Ubuntu With Pyenv](https://itsfoss.com/pyenv-ubuntu/)
+
 ## 20240530
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.22: Ultramarine Linux, Open Source LLMs, Decibels Music Player and More](https://itsfoss.com/newsletter/foss-weekly-24-22/)
 

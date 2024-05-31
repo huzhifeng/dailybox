@@ -1,3 +1,6 @@
+## 20240531
+- [Phoronix](https://www.phoronix.com/) | [Godot 4.3 Beta 1 Released With Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Beta-1)
+
 ## 20240530
 - [Phoronix](https://www.phoronix.com/) | [Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42](https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42)
 
