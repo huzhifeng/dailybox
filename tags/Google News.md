@@ -1,3 +1,6 @@
+## 20240531
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics - Yahoo Finance](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vcGVuYWlzLWFwcGxlLWRlYWwtc3BhcmtzLWNvbmNlcm5zLTE0MjI1ODA3NC5odG1s0gEA?oc=5)
+
 ## 20240530
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Leaked Documents Reveal How Google Search Gatekeeps the Internet - Gizmodo](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZ2l6bW9kby5jb20vZ29vZ2xlLXNlYXJjaC1zZW8tbGVhay1yZXZlYWwtZ2F0ZWtlZXBzLWludGVybmV0LTE4NTE1MDg0MTDSAQA?oc=5)
 

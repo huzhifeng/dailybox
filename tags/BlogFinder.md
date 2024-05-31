@@ -1,3 +1,6 @@
+## 20240531
+- [BlogFinder](https://bf.zzxworld.com/) | [WordPress侧边栏信息统计小工具的教程](https://www.bailuze.com/8515.html?utm_source=blogfinder)
+
 ## 20240530
 - [BlogFinder](https://bf.zzxworld.com/) | [zblog主题模板简单移植于“Pigeon”](https://luolt.cn/archives/2801.html?utm_source=blogfinder)
 

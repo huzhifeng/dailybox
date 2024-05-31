@@ -1,3 +1,7 @@
+## 20240531
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [字节辟谣TikTok曾提议将控制权交给美国；小米回应收购恒大汽车传闻；iOS 18首个正式版无缘AI Siri | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139340580)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【AI大模型】如何让大模型变得更聪明？基于时代背景的思考](https://blog.csdn.net/Skrrapper/article/details/139298377)
+
 ## 20240530
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI CEO Altman 宣布将捐出大部分财产；​俄罗斯考虑对使用外国软件的企业收费 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139317767)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】利用机器学习优化陆军战术决策与战场态势感知](https://blog.csdn.net/Easonmax/article/details/139225359)

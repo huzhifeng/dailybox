@@ -1,3 +1,8 @@
+## 20240531
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-30](https://www.daemonology.net/hn-daily/2024-05-30.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-31](https://github.com/headllines/hackernews-daily/issues/1421)
+- [Hacker News](https://news.ycombinator.com/front) | [Every mountain, building and tree shadow in the world simulated for any time](https://news.ycombinator.com/item?id=40531699)
+
 ## 20240530
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-29](https://www.daemonology.net/hn-daily/2024-05-29.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-30](https://github.com/headllines/hackernews-daily/issues/1420)

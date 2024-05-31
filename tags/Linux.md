@@ -1,3 +1,7 @@
+## 20240531
+- [Phoronix](https://www.phoronix.com/) | [Godot 4.3 Beta 1 Released With Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Beta-1)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.48 Improves Detection of 6 GHz Band Capability for Wi-Fi Devices](https://9to5linux.com/networkmanager-1-48-improves-detection-of-6-ghz-band-capability-for-wi-fi-devices)
+
 ## 20240530
 - [Phoronix](https://www.phoronix.com/) | [Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42](https://www.phoronix.com/news/Anaconda-Web-UI-Fedora-42)
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Darter Pro Linux Laptop Gets 16:10 Display, Intel Core Ultra CPUs](https://9to5linux.com/system76s-darter-pro-linux-laptop-gets-1610-display-intel-core-ultra-cpus)

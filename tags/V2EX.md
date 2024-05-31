@@ -1,3 +1,6 @@
+## 20240531
+- [V2EX](https://www.v2ex.com/) | [两年翻倍的项目敢上吗](https://www.v2ex.com/t/1045664)
+
 ## 20240530
 - [V2EX](https://www.v2ex.com/) | [[疑问]如何使用 cron 让脚本每 7 分钟执行一次？](https://www.v2ex.com/t/1045433)
 
