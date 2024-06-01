@@ -1,3 +1,6 @@
+## 20240601
+- [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Release Powered by Linux 6.9 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-release-powered-by-linux-6-9-is-now-available-for-download)
+
 ## 20240531
 - [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.48 Improves Detection of 6 GHz Band Capability for Wi-Fi Devices](https://9to5linux.com/networkmanager-1-48-improves-detection-of-6-ghz-band-capability-for-wi-fi-devices)
 

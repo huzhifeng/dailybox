@@ -1,3 +1,6 @@
+## 20240601
+- [V2EX](https://www.v2ex.com/) | [什么时候会变得好点？](https://www.v2ex.com/t/1045973)
+
 ## 20240531
 - [V2EX](https://www.v2ex.com/) | [两年翻倍的项目敢上吗](https://www.v2ex.com/t/1045664)
 

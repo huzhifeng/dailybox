@@ -1,3 +1,6 @@
+## 20240601
+- [BlogFinder](https://bf.zzxworld.com/) | [深入 RocksDB 高性能的技术关键](https://www.luozhiyun.com/archives/842?utm_source=blogfinder)
+
 ## 20240531
 - [BlogFinder](https://bf.zzxworld.com/) | [WordPress侧边栏信息统计小工具的教程](https://www.bailuze.com/8515.html?utm_source=blogfinder)
 

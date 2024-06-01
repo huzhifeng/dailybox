@@ -1,3 +1,8 @@
+## 20240601
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-31](https://www.daemonology.net/hn-daily/2024-05-31.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-01](https://github.com/headllines/hackernews-daily/issues/1422)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-01 | 1-bit LLMs 成为大语言模型领域的“黑马”，压缩模型，提高速度，几乎不牺牲准确性](https://www.xiaoyuzhoufm.com/episode/665b209394977a26ef7c52ec)
+
 ## 20240531
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-30](https://www.daemonology.net/hn-daily/2024-05-30.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-05-31](https://github.com/headllines/hackernews-daily/issues/1421)
