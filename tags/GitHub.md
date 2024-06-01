@@ -1,3 +1,6 @@
+## 20240601
+- [GitHub Trending](https://github.com/trending?since=daily) | [2noise/ChatTTS](https://github.com/2noise/ChatTTS)
+
 ## 20240531
 - [GitHub Trending](https://github.com/trending?since=daily) | [2noise/ChatTTS](https://github.com/2noise/ChatTTS)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [ViqozUqSpectrum/MEV-trading-bot](https://github.com/ViqozUqSpectrum/MEV-trading-bot)

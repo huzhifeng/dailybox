@@ -1,3 +1,6 @@
+## 20240601
+- [Phoronix](https://www.phoronix.com/) | [VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2](https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2)
+
 ## 20240531
 - [Phoronix](https://www.phoronix.com/) | [Godot 4.3 Beta 1 Released With Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Beta-1)
 

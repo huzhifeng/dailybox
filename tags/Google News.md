@@ -1,3 +1,6 @@
+## 20240601
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google's A.I. Search Leaves Publishers Scrambling - The New York Times](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDEvdGVjaG5vbG9neS9nb29nbGUtYWktc2VhcmNoLXB1Ymxpc2hlcnMuaHRtbNIBAA?oc=5)
+
 ## 20240531
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics - Yahoo Finance](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vcGVuYWlzLWFwcGxlLWRlYWwtc3BhcmtzLWNvbmNlcm5zLTE0MjI1ODA3NC5odG1s0gEA?oc=5)
 

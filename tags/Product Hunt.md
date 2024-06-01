@@ -1,3 +1,6 @@
+## 20240601
+- [Product Hunt](https://www.producthunt.com) | [Artizyou](https://www.producthunt.com/posts/artizyou)
+
 ## 20240531
 - [Product Hunt](https://www.producthunt.com) | [Eve](https://www.producthunt.com/posts/eve-9)
 
