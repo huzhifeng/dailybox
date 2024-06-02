@@ -1,3 +1,6 @@
+## 20240602
+- [BlogFinder](https://bf.zzxworld.com/) | [梦见自己被狗咬了](https://ffodd.com/121?utm_source=blogfinder)
+
 ## 20240601
 - [BlogFinder](https://bf.zzxworld.com/) | [深入 RocksDB 高性能的技术关键](https://www.luozhiyun.com/archives/842?utm_source=blogfinder)
 

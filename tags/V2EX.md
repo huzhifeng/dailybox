@@ -1,3 +1,6 @@
+## 20240602
+- [V2EX](https://www.v2ex.com/) | [Chrome 将在明天推行均有争议的 Manifest V3 了 大量 Manifest V2 扩展将被禁用](https://www.v2ex.com/t/1046137)
+
 ## 20240601
 - [V2EX](https://www.v2ex.com/) | [什么时候会变得好点？](https://www.v2ex.com/t/1045973)
 

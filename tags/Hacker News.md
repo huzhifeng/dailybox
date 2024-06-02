@@ -1,3 +1,9 @@
+## 20240602
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-01](https://www.daemonology.net/hn-daily/2024-06-01.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-02](https://github.com/headllines/hackernews-daily/issues/1423)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-02 | 黑客通过信息盗窃工具 Snowflake 账号泄露多家公司敏感信息](https://www.xiaoyuzhoufm.com/episode/665c785894977a26efaa4d3a)
+- [Hacker News](https://news.ycombinator.com/front) | [Parable of the Sofa](https://news.ycombinator.com/item?id=40551725)
+
 ## 20240601
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-05-31](https://www.daemonology.net/hn-daily/2024-05-31.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-01](https://github.com/headllines/hackernews-daily/issues/1422)
