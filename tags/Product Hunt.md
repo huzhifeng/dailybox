@@ -1,3 +1,6 @@
+## 20240602
+- [Product Hunt](https://www.producthunt.com) | [OpenNotas](https://www.producthunt.com/posts/opennotas)
+
 ## 20240601
 - [Product Hunt](https://www.producthunt.com) | [Artizyou](https://www.producthunt.com/posts/artizyou)
 

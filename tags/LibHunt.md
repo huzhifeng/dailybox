@@ -1,3 +1,6 @@
+## 20240602
+- [LibHunt](https://www.libhunt.com/) | [jank](https://www.libhunt.com/r/jank)
+
 ## 20240601
 - [LibHunt](https://www.libhunt.com/) | [StellarNovaUI](https://www.libhunt.com/r/StellarNovaUI)
 

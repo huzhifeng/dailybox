@@ -1,3 +1,6 @@
+## 20240602
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Asus Finally Shares a Proper Look at ROG Ally X, Its Next Handheld Gaming PC - IGN](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvYXN1cy1maW5hbGx5LXNoYXJlcy1hLXByb3Blci1sb29rLWF0LXJvZy1hbGx5LXgtaXRzLW5leHQtaGFuZGhlbGQtZ2FtaW5nLXBj0gEA?oc=5)
+
 ## 20240601
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google's A.I. Search Leaves Publishers Scrambling - The New York Times](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMDEvdGVjaG5vbG9neS9nb29nbGUtYWktc2VhcmNoLXB1Ymxpc2hlcnMuaHRtbNIBAA?oc=5)
 

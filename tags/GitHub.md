@@ -1,3 +1,6 @@
+## 20240602
+- [GitHub Trending](https://github.com/trending?since=daily) | [lllyasviel/Omost](https://github.com/lllyasviel/Omost)
+
 ## 20240601
 - [GitHub Trending](https://github.com/trending?since=daily) | [2noise/ChatTTS](https://github.com/2noise/ChatTTS)
 

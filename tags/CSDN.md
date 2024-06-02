@@ -1,3 +1,6 @@
+## 20240602
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】探索未来科技的前沿：人工智能、机器学习与大模型](https://blog.csdn.net/Easonmax/article/details/139344512)
+
 ## 20240601
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】探索未来科技的前沿：人工智能、机器学习与大模型](https://blog.csdn.net/Easonmax/article/details/139344512)
 

@@ -1,3 +1,6 @@
+## 20240602
+- [Phoronix](https://www.phoronix.com/) | [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
+
 ## 20240601
 - [Phoronix](https://www.phoronix.com/) | [VCN5 AV1 Encode & More AMD RDNA4 RADV Support Land In Mesa 24.2](https://www.phoronix.com/news/AMD-More-GFX12-RDNA4-Mesa-24.2)
 
