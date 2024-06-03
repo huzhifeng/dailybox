@@ -1,3 +1,6 @@
+## 20240603
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024)
+
 ## 20240601
 - [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Release Powered by Linux 6.9 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-release-powered-by-linux-6-9-is-now-available-for-download)
 

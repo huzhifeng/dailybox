@@ -1,3 +1,7 @@
+## 20240603
+- [Phoronix](https://www.phoronix.com/) | [Debian Seeing Work To Support systemd-boot](https://www.phoronix.com/news/Debian-Expert-systemd-boot)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024)
+
 ## 20240602
 - [Phoronix](https://www.phoronix.com/) | [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
 

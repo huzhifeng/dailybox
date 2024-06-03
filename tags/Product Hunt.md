@@ -1,3 +1,6 @@
+## 20240603
+- [Product Hunt](https://www.producthunt.com) | [aicrunch.io: everything AI marketplace](https://www.producthunt.com/posts/aicrunch-io-everything-ai-marketplace)
+
 ## 20240602
 - [Product Hunt](https://www.producthunt.com) | [OpenNotas](https://www.producthunt.com/posts/opennotas)
 

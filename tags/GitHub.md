@@ -1,3 +1,6 @@
+## 20240603
+- [GitHub Trending](https://github.com/trending?since=daily) | [lllyasviel/Omost](https://github.com/lllyasviel/Omost)
+
 ## 20240602
 - [GitHub Trending](https://github.com/trending?since=daily) | [lllyasviel/Omost](https://github.com/lllyasviel/Omost)
 

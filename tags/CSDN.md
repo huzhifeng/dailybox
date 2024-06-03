@@ -1,3 +1,7 @@
+## 20240603
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [京东回应「磨铁抵制京东」；苹果被骗近8700万元；微软推出全屏弹窗提醒Win10用户升级Win 11 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139404733)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [从0开始制作微信小程序](https://blog.csdn.net/2302_79791164/article/details/139377719)
+
 ## 20240602
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】探索未来科技的前沿：人工智能、机器学习与大模型](https://blog.csdn.net/Easonmax/article/details/139344512)
 
