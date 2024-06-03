@@ -1,3 +1,6 @@
+## 20240603
+- [LibHunt](https://www.libhunt.com/) | [neon](https://www.libhunt.com/r/neon)
+
 ## 20240602
 - [LibHunt](https://www.libhunt.com/) | [jank](https://www.libhunt.com/r/jank)
 

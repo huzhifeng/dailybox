@@ -1,3 +1,6 @@
+## 20240603
+- [V2EX](https://www.v2ex.com/) | [千万别买绿联 DXP4800](https://www.v2ex.com/t/1046399)
+
 ## 20240602
 - [V2EX](https://www.v2ex.com/) | [Chrome 将在明天推行均有争议的 Manifest V3 了 大量 Manifest V2 扩展将被禁用](https://www.v2ex.com/t/1046137)
 

@@ -1,3 +1,6 @@
+## 20240603
+- [BlogFinder](https://bf.zzxworld.com/) | [WordPress Twenty Twelve主题首页设置只显示标题的教程](https://www.bailuze.com/8663.html?utm_source=blogfinder)
+
 ## 20240602
 - [BlogFinder](https://bf.zzxworld.com/) | [梦见自己被狗咬了](https://ffodd.com/121?utm_source=blogfinder)
 

@@ -1,3 +1,9 @@
+## 20240603
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-02](https://www.daemonology.net/hn-daily/2024-06-02.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-03](https://github.com/headllines/hackernews-daily/issues/1424)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-03 | 剑桥科学家确认其开发的"第三拇指"可被人们轻松掌握与应用](https://www.xiaoyuzhoufm.com/episode/665d2a9d63c334a2fbeabe1a)
+- [Hacker News](https://news.ycombinator.com/front) | [How many photons are received per bit transmitted from Voyager 1?](https://news.ycombinator.com/item?id=40561872)
+
 ## 20240602
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-01](https://www.daemonology.net/hn-daily/2024-06-01.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-02](https://github.com/headllines/hackernews-daily/issues/1423)

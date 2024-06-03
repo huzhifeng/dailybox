@@ -1,3 +1,6 @@
+## 20240603
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [AMD launches new AI chips to take on leader Nvidia - Reuters](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYW1kLWxhdW5jaGVzLW5ldy1haS1jaGlwcy10YWtlLWxlYWRlci1udmlkaWEtMjAyNC0wNi0wMy_SAQA?oc=5)
+
 ## 20240602
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Asus Finally Shares a Proper Look at ROG Ally X, Its Next Handheld Gaming PC - IGN](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvYXN1cy1maW5hbGx5LXNoYXJlcy1hLXByb3Blci1sb29rLWF0LXJvZy1hbGx5LXgtaXRzLW5leHQtaGFuZGhlbGQtZ2FtaW5nLXBj0gEA?oc=5)
 
