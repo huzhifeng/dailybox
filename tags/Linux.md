@@ -1,3 +1,7 @@
+## 20240604
+- [Phoronix](https://www.phoronix.com/) | [Fedora Moves Ahead In Replacing Redis With Valkey](https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey)
+- [9to5Linux](https://9to5linux.com/) | [Canonical Releases Ubuntu Core 24 for IoT, Edge, and Embedded Devices](https://9to5linux.com/canonical-releases-ubuntu-core-24-for-iot-edge-and-embedded-devices)
+
 ## 20240603
 - [Phoronix](https://www.phoronix.com/) | [Debian Seeing Work To Support systemd-boot](https://www.phoronix.com/news/Debian-Expert-systemd-boot)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024)

@@ -1,3 +1,6 @@
+## 20240604
+- [Product Hunt](https://www.producthunt.com) | [Underlord by Descript](https://www.producthunt.com/posts/underlord-by-descript)
+
 ## 20240603
 - [Product Hunt](https://www.producthunt.com) | [aicrunch.io: everything AI marketplace](https://www.producthunt.com/posts/aicrunch-io-everything-ai-marketplace)
 

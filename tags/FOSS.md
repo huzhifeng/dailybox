@@ -1,3 +1,6 @@
+## 20240604
+- [It's FOSS](https://itsfoss.com/) | [Running My Own Mars Rover With This Arduino Kit](https://itsfoss.com/galaxy-rover/)
+
 ## 20240531
 - [It's FOSS](https://itsfoss.com/) | [Install Multiple Python Versions on Ubuntu With Pyenv](https://itsfoss.com/pyenv-ubuntu/)
 

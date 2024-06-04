@@ -1,3 +1,6 @@
+## 20240604
+- [V2EX](https://www.v2ex.com/) | [买生鲜退货一定不能选择到付！](https://www.v2ex.com/t/1046637)
+
 ## 20240603
 - [V2EX](https://www.v2ex.com/) | [千万别买绿联 DXP4800](https://www.v2ex.com/t/1046399)
 

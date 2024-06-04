@@ -1,3 +1,6 @@
+## 20240604
+- [BlogFinder](https://bf.zzxworld.com/) | [革命性全屋WiFi组网方案：中兴星云晴天POE版路由器](https://xiangming.site/657.html?utm_source=blogfinder)
+
 ## 20240603
 - [BlogFinder](https://bf.zzxworld.com/) | [WordPress Twenty Twelve主题首页设置只显示标题的教程](https://www.bailuze.com/8663.html?utm_source=blogfinder)
 
