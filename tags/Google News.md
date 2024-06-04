@@ -1,3 +1,6 @@
+## 20240604
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Intel Shares Rise After It Unveils AI Chip To Rival Nvidia And AMD - Forbes](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcm9iZXJ0aGFydC8yMDI0LzA2LzA0L2ludGVsLXNoYXJlcy1yaXNlLWFmdGVyLWl0LXVudmVpbHMtYWktY2hpcC10by1yaXZhbC1udmlkaWEtYW5kLWFtZC_SAQA?oc=5)
+
 ## 20240603
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [AMD launches new AI chips to take on leader Nvidia - Reuters](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYW1kLWxhdW5jaGVzLW5ldy1haS1jaGlwcy10YWtlLWxlYWRlci1udmlkaWEtMjAyNC0wNi0wMy_SAQA?oc=5)
 

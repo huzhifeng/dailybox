@@ -1,3 +1,6 @@
+## 20240604
+- [Phoronix](https://www.phoronix.com/) | [Fedora Moves Ahead In Replacing Redis With Valkey](https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey)
+
 ## 20240603
 - [Phoronix](https://www.phoronix.com/) | [Debian Seeing Work To Support systemd-boot](https://www.phoronix.com/news/Debian-Expert-systemd-boot)
 

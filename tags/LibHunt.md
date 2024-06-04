@@ -1,3 +1,6 @@
+## 20240604
+- [LibHunt](https://www.libhunt.com/) | [compiler-explorer](https://www.libhunt.com/r/compiler-explorer)
+
 ## 20240603
 - [LibHunt](https://www.libhunt.com/) | [neon](https://www.libhunt.com/r/neon)
 

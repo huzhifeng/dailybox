@@ -1,3 +1,7 @@
+## 20240604
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋宴请行业大佬：总身价1.5万亿，人均消费不到100元；特斯拉回应单踏板模式被禁传言；微软确认混合现实部门裁员 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139432405)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】Qwen1.5-14B-Chat大模型训练与推理实战](https://blog.csdn.net/weixin_48007632/article/details/139422184)
+
 ## 20240603
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [京东回应「磨铁抵制京东」；苹果被骗近8700万元；微软推出全屏弹窗提醒Win10用户升级Win 11 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139404733)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [从0开始制作微信小程序](https://blog.csdn.net/2302_79791164/article/details/139377719)
