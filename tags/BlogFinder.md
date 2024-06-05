@@ -1,3 +1,6 @@
+## 20240605
+- [BlogFinder](https://bf.zzxworld.com/) | [迟来的艾尔登法环游玩体验](https://pinaland.cn/archives/elden-ring-thought.html?utm_source=blogfinder)
+
 ## 20240604
 - [BlogFinder](https://bf.zzxworld.com/) | [革命性全屋WiFi组网方案：中兴星云晴天POE版路由器](https://xiangming.site/657.html?utm_source=blogfinder)
 

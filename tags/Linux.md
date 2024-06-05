@@ -1,3 +1,7 @@
+## 20240605
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6766E/6780E Sierra Forest vs. Ampere Altra Performance & Power Efficiency](https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 “Mantic Minotaur” to Reach End of Life on July 11th, 2024](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-to-reach-end-of-life-on-july-11th-2024)
+
 ## 20240604
 - [Phoronix](https://www.phoronix.com/) | [Fedora Moves Ahead In Replacing Redis With Valkey](https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey)
 - [9to5Linux](https://9to5linux.com/) | [Canonical Releases Ubuntu Core 24 for IoT, Edge, and Embedded Devices](https://9to5linux.com/canonical-releases-ubuntu-core-24-for-iot-edge-and-embedded-devices)

@@ -1,3 +1,6 @@
+## 20240605
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Intel CEO hits back after Nvidia CEO says rival’s chips not for AI era - South China Morning Post](https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5zY21wLmNvbS90ZWNoL3RlY2gtdHJlbmRzL2FydGljbGUvMzI2NTQxNS9pbnRlbC1jZW8tcGF0LWdlbHNpbmdlci10YWtlcy1zaG90LW52aWRpYS1jZW8tamVuc2VuLWh1YW5ncy1jbGFpbS1pbnRlbC1wcm9jZXNzb3JzLWFyZS1vdXRkYXRlZC1hadIBmAFodHRwczovL2FtcC5zY21wLmNvbS90ZWNoL3RlY2gtdHJlbmRzL2FydGljbGUvMzI2NTQxNS9pbnRlbC1jZW8tcGF0LWdlbHNpbmdlci10YWtlcy1zaG90LW52aWRpYS1jZW8tamVuc2VuLWh1YW5ncy1jbGFpbS1pbnRlbC1wcm9jZXNzb3JzLWFyZS1vdXRkYXRlZC1haQ?oc=5)
+
 ## 20240604
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Intel Shares Rise After It Unveils AI Chip To Rival Nvidia And AMD - Forbes](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcm9iZXJ0aGFydC8yMDI0LzA2LzA0L2ludGVsLXNoYXJlcy1yaXNlLWFmdGVyLWl0LXVudmVpbHMtYWktY2hpcC10by1yaXZhbC1udmlkaWEtYW5kLWFtZC_SAQA?oc=5)
 

@@ -1,3 +1,9 @@
+## 20240605
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-04](https://www.daemonology.net/hn-daily/2024-06-04.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-05](https://github.com/headllines/hackernews-daily/issues/1426)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-05 | 旅行者 1 号如何实现星际通讯的？](https://www.xiaoyuzhoufm.com/episode/665fb1a663c334a2fb68b4a2)
+- [Hacker News](https://news.ycombinator.com/front) | [You'll regret using natural keys](https://news.ycombinator.com/item?id=40580549)
+
 ## 20240604
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-03](https://www.daemonology.net/hn-daily/2024-06-03.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-04](https://github.com/headllines/hackernews-daily/issues/1425)
