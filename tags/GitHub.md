@@ -1,3 +1,6 @@
+## 20240605
+- [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird)
+
 ## 20240604
 - [GitHub Trending](https://github.com/trending?since=daily) | [lllyasviel/Omost](https://github.com/lllyasviel/Omost)
 

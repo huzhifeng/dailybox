@@ -1,3 +1,6 @@
+## 20240605
+- [It's FOSS](https://itsfoss.com/) | [Can You Use Raspberry Pi 5 as a Desktop Computer?](https://itsfoss.com/raspberry-pi-5-review/)
+
 ## 20240604
 - [It's FOSS](https://itsfoss.com/) | [Running My Own Mars Rover With This Arduino Kit](https://itsfoss.com/galaxy-rover/)
 

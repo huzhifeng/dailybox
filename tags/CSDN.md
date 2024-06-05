@@ -1,3 +1,7 @@
+## 20240605
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [大裁员影响产品研发测试，传理想汽车召回部分被裁员工；曝苹果与中国移动洽谈合作，Apple TV+ 有望进入中国市场 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139459538)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习在深度学习领域中的作用：半监督学习的视角](https://blog.csdn.net/2301_77509762/article/details/139429139)
+
 ## 20240604
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋宴请行业大佬：总身价1.5万亿，人均消费不到100元；特斯拉回应单踏板模式被禁传言；微软确认混合现实部门裁员 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139432405)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】Qwen1.5-14B-Chat大模型训练与推理实战](https://blog.csdn.net/weixin_48007632/article/details/139422184)

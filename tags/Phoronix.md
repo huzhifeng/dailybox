@@ -1,3 +1,6 @@
+## 20240605
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6766E/6780E Sierra Forest vs. Ampere Altra Performance & Power Efficiency](https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra)
+
 ## 20240604
 - [Phoronix](https://www.phoronix.com/) | [Fedora Moves Ahead In Replacing Redis With Valkey](https://www.phoronix.com/news/Fedora-Replacing-Redis-Valkey)
 
