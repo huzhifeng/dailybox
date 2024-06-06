@@ -1,3 +1,7 @@
+## 20240606
+- [Phoronix](https://www.phoronix.com/) | [Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing](https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.4 Office Suite Is Now Available for Download with 72 Bug Fixes](https://9to5linux.com/libreoffice-24-2-4-office-suite-is-now-available-for-download-with-72-bug-fixes)
+
 ## 20240605
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6766E/6780E Sierra Forest vs. Ampere Altra Performance & Power Efficiency](https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 “Mantic Minotaur” to Reach End of Life on July 11th, 2024](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-to-reach-end-of-life-on-july-11th-2024)
