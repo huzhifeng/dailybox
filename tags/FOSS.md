@@ -1,3 +1,6 @@
+## 20240606
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/)
+
 ## 20240605
 - [It's FOSS](https://itsfoss.com/) | [Can You Use Raspberry Pi 5 as a Desktop Computer?](https://itsfoss.com/raspberry-pi-5-review/)
 

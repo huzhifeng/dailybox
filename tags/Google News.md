@@ -1,3 +1,6 @@
+## 20240606
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [How Apple Fell Behind in the AI Arms Race - The Wall Street Journal](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9haS9hcHBsZS1haS1zaXJpLWRldmVsb3BtZW50LWJlaGluZC05ZWE2NWVlONIBAA?oc=5)
+
 ## 20240605
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Intel CEO hits back after Nvidia CEO says rival’s chips not for AI era - South China Morning Post](https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5zY21wLmNvbS90ZWNoL3RlY2gtdHJlbmRzL2FydGljbGUvMzI2NTQxNS9pbnRlbC1jZW8tcGF0LWdlbHNpbmdlci10YWtlcy1zaG90LW52aWRpYS1jZW8tamVuc2VuLWh1YW5ncy1jbGFpbS1pbnRlbC1wcm9jZXNzb3JzLWFyZS1vdXRkYXRlZC1hadIBmAFodHRwczovL2FtcC5zY21wLmNvbS90ZWNoL3RlY2gtdHJlbmRzL2FydGljbGUvMzI2NTQxNS9pbnRlbC1jZW8tcGF0LWdlbHNpbmdlci10YWtlcy1zaG90LW52aWRpYS1jZW8tamVuc2VuLWh1YW5ncy1jbGFpbS1pbnRlbC1wcm9jZXNzb3JzLWFyZS1vdXRkYXRlZC1haQ?oc=5)
 

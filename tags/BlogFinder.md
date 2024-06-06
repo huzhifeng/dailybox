@@ -1,3 +1,6 @@
+## 20240606
+- [BlogFinder](https://bf.zzxworld.com/) | [运维笔记：蜜罐小实验（有回测数据）](https://sophiatazar.com/archives/1115.html?utm_source=blogfinder)
+
 ## 20240605
 - [BlogFinder](https://bf.zzxworld.com/) | [迟来的艾尔登法环游玩体验](https://pinaland.cn/archives/elden-ring-thought.html?utm_source=blogfinder)
 

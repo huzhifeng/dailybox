@@ -1,3 +1,6 @@
+## 20240606
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
 ## 20240605
 - [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird)
 

@@ -1,3 +1,6 @@
+## 20240606
+- [LibHunt](https://www.libhunt.com/) | [node](https://www.libhunt.com/r/node)
+
 ## 20240605
 - [LibHunt](https://www.libhunt.com/) | [PostHog](https://www.libhunt.com/r/posthog)
 

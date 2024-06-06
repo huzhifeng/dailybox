@@ -1,3 +1,6 @@
+## 20240606
+- [Phoronix](https://www.phoronix.com/) | [Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing](https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping)
+
 ## 20240605
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6766E/6780E Sierra Forest vs. Ampere Altra Performance & Power Efficiency](https://www.phoronix.com/review/intel-xeon-6700e-ampere-altra)
 

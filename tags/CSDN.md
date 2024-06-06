@@ -1,3 +1,7 @@
+## 20240606
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应可付费实习；付费购买灵动岛截图暗藏骗局苹果客服提醒；高考监考都用上 AI | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139497916)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Python数据挖掘实战案例】机器学习LightGBM算法原理、特点、应用---基于鸢尾花iris数据集分类实战](https://blog.csdn.net/qq_38614074/article/details/139471651)
+
 ## 20240605
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [大裁员影响产品研发测试，传理想汽车召回部分被裁员工；曝苹果与中国移动洽谈合作，Apple TV+ 有望进入中国市场 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139459538)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习在深度学习领域中的作用：半监督学习的视角](https://blog.csdn.net/2301_77509762/article/details/139429139)
