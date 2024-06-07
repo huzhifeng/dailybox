@@ -1,3 +1,6 @@
+## 20240607
+- [Product Hunt](https://www.producthunt.com) | [Storeez.app](https://www.producthunt.com/posts/storeez-app-2)
+
 ## 20240606
 - [Product Hunt](https://www.producthunt.com) | [Databutton](https://www.producthunt.com/posts/databutton)
 

@@ -1,3 +1,6 @@
+## 20240607
+- [V2EX](https://www.v2ex.com/) | [我的关于"35 岁以上找不到工作"的理解](https://www.v2ex.com/t/1047688)
+
 ## 20240606
 - [V2EX](https://www.v2ex.com/) | [销户了。今年亏了 10W](https://www.v2ex.com/t/1047269)
 

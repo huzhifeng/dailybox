@@ -1,3 +1,6 @@
+## 20240607
+- [It's FOSS](https://itsfoss.com/) | [10 VLC Shortcuts to Use it Like a Pro](https://itsfoss.com/vlc-shortcuts/)
+
 ## 20240606
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/)
 
