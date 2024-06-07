@@ -1,3 +1,6 @@
+## 20240607
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】GLM4-9B-Chat大模型/GLM-4V-9B多模态大模型概述、原理及推理实战](https://blog.csdn.net/weixin_48007632/article/details/139497336)
+
 ## 20240606
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应可付费实习；付费购买灵动岛截图暗藏骗局苹果客服提醒；高考监考都用上 AI | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139497916)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Python数据挖掘实战案例】机器学习LightGBM算法原理、特点、应用---基于鸢尾花iris数据集分类实战](https://blog.csdn.net/qq_38614074/article/details/139471651)

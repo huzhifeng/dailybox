@@ -1,3 +1,6 @@
+## 20240607
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.3 Released with Various UI Improvements and Bug Fixes](https://9to5linux.com/kde-frameworks-6-3-released-with-various-ui-improvements-and-bug-fixes)
+
 ## 20240606
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.4 Office Suite Is Now Available for Download with 72 Bug Fixes](https://9to5linux.com/libreoffice-24-2-4-office-suite-is-now-available-for-download-with-72-bug-fixes)
 

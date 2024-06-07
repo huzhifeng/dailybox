@@ -1,3 +1,6 @@
+## 20240607
+- [Phoronix](https://www.phoronix.com/) | [AMD Lands Support For Vendor Flavored SPIR-V Within LLVM](https://www.phoronix.com/news/LLVM-AMDGCN-Flavored-SPIR-V)
+
 ## 20240606
 - [Phoronix](https://www.phoronix.com/) | [Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing](https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping)
 

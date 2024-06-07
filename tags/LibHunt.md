@@ -1,3 +1,6 @@
+## 20240607
+- [LibHunt](https://www.libhunt.com/) | [mentals-ai](https://www.libhunt.com/r/mentals-ai)
+
 ## 20240606
 - [LibHunt](https://www.libhunt.com/) | [node](https://www.libhunt.com/r/node)
 

@@ -1,3 +1,8 @@
+## 20240607
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-06](https://www.daemonology.net/hn-daily/2024-06-06.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-07](https://github.com/headllines/hackernews-daily/issues/1428)
+- [Hacker News](https://news.ycombinator.com/front) | [Ice - open source bar manager for macOS](https://news.ycombinator.com/item?id=40605532)
+
 ## 20240606
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-05](https://www.daemonology.net/hn-daily/2024-06-05.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-06](https://github.com/headllines/hackernews-daily/issues/1427)

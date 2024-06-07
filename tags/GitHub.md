@@ -1,3 +1,6 @@
+## 20240607
+- [GitHub Trending](https://github.com/trending?since=daily) | [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
+
 ## 20240606
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 

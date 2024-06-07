@@ -1,3 +1,7 @@
+## 20240607
+- [Phoronix](https://www.phoronix.com/) | [AMD Lands Support For Vendor Flavored SPIR-V Within LLVM](https://www.phoronix.com/news/LLVM-AMDGCN-Flavored-SPIR-V)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.3 Released with Various UI Improvements and Bug Fixes](https://9to5linux.com/kde-frameworks-6-3-released-with-various-ui-improvements-and-bug-fixes)
+
 ## 20240606
 - [Phoronix](https://www.phoronix.com/) | [Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing](https://www.phoronix.com/news/Ryzen-AI-300-Laptop-Shopping)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.4 Office Suite Is Now Available for Download with 72 Bug Fixes](https://9to5linux.com/libreoffice-24-2-4-office-suite-is-now-available-for-download-with-72-bug-fixes)
