@@ -1,3 +1,7 @@
+## 20240608
+- [GitHub Trending](https://github.com/trending?since=daily) | [idootop/mi-gpt](https://github.com/idootop/mi-gpt)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [giorgosal99/TapSwapAuto](https://github.com/giorgosal99/TapSwapAuto)
+
 ## 20240607
 - [GitHub Trending](https://github.com/trending?since=daily) | [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
 

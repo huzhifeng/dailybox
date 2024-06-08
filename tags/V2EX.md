@@ -1,3 +1,6 @@
+## 20240608
+- [V2EX](https://www.v2ex.com/) | [贺 WWDC！抽两位送我所有的 App ：《One Markdown》、《MWeb》、《MWeb Pro》 的终身版兑换码！另外这些 App 也在 5 折起促销中。](https://www.v2ex.com/t/1047951)
+
 ## 20240607
 - [V2EX](https://www.v2ex.com/) | [我的关于"35 岁以上找不到工作"的理解](https://www.v2ex.com/t/1047688)
 

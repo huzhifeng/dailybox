@@ -1,3 +1,8 @@
+## 20240608
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-07](https://www.daemonology.net/hn-daily/2024-06-07.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-08](https://github.com/headllines/hackernews-daily/issues/1429)
+- [Hacker News](https://news.ycombinator.com/front) | [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://news.ycombinator.com/item?id=40614227)
+
 ## 20240607
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-06](https://www.daemonology.net/hn-daily/2024-06-06.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-07](https://github.com/headllines/hackernews-daily/issues/1428)

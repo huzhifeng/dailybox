@@ -1,3 +1,7 @@
+## 20240608
+- [Phoronix](https://www.phoronix.com/) | [AMD's Newest Open-Source Surprise: "Peano" - An LLVM Compiler For Ryzen AI NPUs](https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI)
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux](https://9to5linux.com/obs-studio-30-2-promises-nvenc-av1-and-shared-texture-support-on-linux)
+
 ## 20240607
 - [Phoronix](https://www.phoronix.com/) | [AMD Lands Support For Vendor Flavored SPIR-V Within LLVM](https://www.phoronix.com/news/LLVM-AMDGCN-Flavored-SPIR-V)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.3 Released with Various UI Improvements and Bug Fixes](https://9to5linux.com/kde-frameworks-6-3-released-with-various-ui-improvements-and-bug-fixes)
