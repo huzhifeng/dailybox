@@ -1,3 +1,6 @@
+## 20240608
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [WWDC 2024: What to Expect - Gizmodo](https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZ2l6bW9kby5jb20vd2hhdC10by1leHBlY3QtZnJvbS1hcHBsZS13d2RjLTIwMjQtMTg1MTUyNzIyNdIBAA?oc=5)
+
 ## 20240607
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple WWDC 2024 What to Expect: AI, iPadOS 18, macOS 15, Siri Updates, More - Bloomberg](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTA3L2FwcGxlLXd3ZGMtMjAyNC13aGF0LXRvLWV4cGVjdC1haS1pcGFkb3MtMTgtbWFjb3MtMTUtc2lyaS11cGRhdGVzLW1vcmXSAQA?oc=5)
 

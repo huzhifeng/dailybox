@@ -1,3 +1,6 @@
+## 20240608
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux](https://9to5linux.com/obs-studio-30-2-promises-nvenc-av1-and-shared-texture-support-on-linux)
+
 ## 20240607
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.3 Released with Various UI Improvements and Bug Fixes](https://9to5linux.com/kde-frameworks-6-3-released-with-various-ui-improvements-and-bug-fixes)
 

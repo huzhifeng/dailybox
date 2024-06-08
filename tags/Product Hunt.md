@@ -1,3 +1,6 @@
+## 20240608
+- [Product Hunt](https://www.producthunt.com) | [OnePublish](https://www.producthunt.com/posts/onepublish)
+
 ## 20240607
 - [Product Hunt](https://www.producthunt.com) | [Storeez.app](https://www.producthunt.com/posts/storeez-app-2)
 

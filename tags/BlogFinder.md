@@ -1,3 +1,6 @@
+## 20240608
+- [BlogFinder](https://bf.zzxworld.com/) | [做程序员呢，开心最重要，用 .Net 8 开发了一个自用的 Windows 文件上传七牛云小工具](https://www.sunzhongwei.com/dotnet-8-develop-first-windows-tool?utm_source=blogfinder)
+
 ## 20240607
 - [BlogFinder](https://bf.zzxworld.com/) | [什么是你真正所需要的](https://www.dengxiaokang.com/archives/1090.html?utm_source=blogfinder)
 
