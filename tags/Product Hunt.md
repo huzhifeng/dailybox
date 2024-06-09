@@ -1,3 +1,6 @@
+## 20240609
+- [Product Hunt](https://www.producthunt.com) | [MindMatrix](https://www.producthunt.com/posts/mindmatrix)
+
 ## 20240608
 - [Product Hunt](https://www.producthunt.com) | [OnePublish](https://www.producthunt.com/posts/onepublish)
 

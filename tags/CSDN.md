@@ -1,3 +1,6 @@
+## 20240609
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringBoot】SpringBoot整合RabbitMQ消息中间件，实现延迟队列和死信队列](https://blog.csdn.net/qq_61024956/article/details/139545178)
+
 ## 20240608
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【Python数据挖掘实战案例】机器学习LightGBM算法原理、特点、应用---基于鸢尾花iris数据集分类实战](https://blog.csdn.net/qq_38614074/article/details/139471651)
 

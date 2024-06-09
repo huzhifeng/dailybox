@@ -1,3 +1,6 @@
+## 20240609
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple WWDC: AI Announcements Will Enable Home Robot, AR Glasses, Camera AirPods - Bloomberg](https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvbmV3c2xldHRlcnMvMjAyNC0wNi0wOS9hcHBsZS13d2RjLWFpLWFubm91bmNlbWVudHMtd2lsbC1lbmFibGUtaG9tZS1yb2JvdC1hci1nbGFzc2VzLWNhbWVyYS1haXJwb2RzLWx4N2plbTlm0gEA?oc=5)
+
 ## 20240608
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [WWDC 2024: What to Expect - Gizmodo](https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZ2l6bW9kby5jb20vd2hhdC10by1leHBlY3QtZnJvbS1hcHBsZS13d2RjLTIwMjQtMTg1MTUyNzIyNdIBAA?oc=5)
 

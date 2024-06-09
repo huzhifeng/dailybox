@@ -1,3 +1,6 @@
+## 20240609
+- [V2EX](https://www.v2ex.com/) | [电信企业宽带 IPv6 禁止下发 PD 前缀！](https://www.v2ex.com/t/1048099)
+
 ## 20240608
 - [V2EX](https://www.v2ex.com/) | [贺 WWDC！抽两位送我所有的 App ：《One Markdown》、《MWeb》、《MWeb Pro》 的终身版兑换码！另外这些 App 也在 5 折起促销中。](https://www.v2ex.com/t/1047951)
 

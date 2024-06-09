@@ -1,3 +1,6 @@
+## 20240609
+- [GitHub Trending](https://github.com/trending?since=daily) | [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
 ## 20240608
 - [GitHub Trending](https://github.com/trending?since=daily) | [idootop/mi-gpt](https://github.com/idootop/mi-gpt)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [giorgosal99/TapSwapAuto](https://github.com/giorgosal99/TapSwapAuto)
