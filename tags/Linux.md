@@ -1,3 +1,6 @@
+## 20240609
+- [Phoronix](https://www.phoronix.com/) | [AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs](https://www.phoronix.com/news/AMDKFD-GFX12-Support)
+
 ## 20240608
 - [Phoronix](https://www.phoronix.com/) | [AMD's Newest Open-Source Surprise: "Peano" - An LLVM Compiler For Ryzen AI NPUs](https://www.phoronix.com/news/AMD-Peano-LLVM-Ryzen-AI)
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux](https://9to5linux.com/obs-studio-30-2-promises-nvenc-av1-and-shared-texture-support-on-linux)

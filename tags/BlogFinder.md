@@ -1,3 +1,6 @@
+## 20240609
+- [BlogFinder](https://bf.zzxworld.com/) | [虽说&quot;只有穷人，才会钟情于技术&quot;，但爽啊](https://www.52txr.cn/2024/qiongrentech.html?utm_source=blogfinder)
+
 ## 20240608
 - [BlogFinder](https://bf.zzxworld.com/) | [做程序员呢，开心最重要，用 .Net 8 开发了一个自用的 Windows 文件上传七牛云小工具](https://www.sunzhongwei.com/dotnet-8-develop-first-windows-tool?utm_source=blogfinder)
 

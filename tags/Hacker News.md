@@ -1,3 +1,9 @@
+## 20240609
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-08](https://www.daemonology.net/hn-daily/2024-06-08.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-09](https://github.com/headllines/hackernews-daily/issues/1430)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-09 | GPT-4o 是如何对图片进行编码的？](https://www.xiaoyuzhoufm.com/episode/66650d9163c334a2fb4b728d)
+- [Hacker News](https://news.ycombinator.com/front) | [piku: The tiniest PaaS you've ever seen](https://news.ycombinator.com/item?id=40622704)
+
 ## 20240608
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-07](https://www.daemonology.net/hn-daily/2024-06-07.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-08](https://github.com/headllines/hackernews-daily/issues/1429)
