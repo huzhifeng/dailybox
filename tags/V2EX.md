@@ -1,3 +1,6 @@
+## 20240610
+- [V2EX](https://www.v2ex.com/) | [如果 Apple AI 出国区特供版你们会怎么办](https://www.v2ex.com/t/1048222)
+
 ## 20240609
 - [V2EX](https://www.v2ex.com/) | [电信企业宽带 IPv6 禁止下发 PD 前缀！](https://www.v2ex.com/t/1048099)
 

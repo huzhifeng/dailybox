@@ -1,3 +1,6 @@
+## 20240610
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Are Working on an ARM Linux Laptop Running KDE Plasma](https://9to5linux.com/tuxedo-computers-are-working-on-an-arm-linux-laptop-running-kde-plasma)
+
 ## 20240608
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux](https://9to5linux.com/obs-studio-30-2-promises-nvenc-av1-and-shared-texture-support-on-linux)
 

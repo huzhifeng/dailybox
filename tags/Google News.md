@@ -1,3 +1,6 @@
+## 20240610
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple wants to redefine AI as 'Apple intelligence' at WWDC - Yahoo Finance](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vYXBwbGUtd2FudHMtcmVkZWZpbmUtYWktYXBwbGUtMTQxNzIyMDg2Lmh0bWzSAQA?oc=5)
+
 ## 20240609
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple WWDC: AI Announcements Will Enable Home Robot, AR Glasses, Camera AirPods - Bloomberg](https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvbmV3c2xldHRlcnMvMjAyNC0wNi0wOS9hcHBsZS13d2RjLWFpLWFubm91bmNlbWVudHMtd2lsbC1lbmFibGUtaG9tZS1yb2JvdC1hci1nbGFzc2VzLWNhbWVyYS1haXJwb2RzLWx4N2plbTlm0gEA?oc=5)
 

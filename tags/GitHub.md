@@ -1,3 +1,7 @@
+## 20240610
+- [GitHub Trending](https://github.com/trending?since=daily) | [coollabsio/coolify](https://github.com/coollabsio/coolify)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [soarowl/B1umAB](https://github.com/soarowl/B1umAB)
+
 ## 20240609
 - [GitHub Trending](https://github.com/trending?since=daily) | [coollabsio/coolify](https://github.com/coollabsio/coolify)
 
