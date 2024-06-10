@@ -1,3 +1,6 @@
+## 20240610
+- [It's FOSS](https://itsfoss.com/) | [Top 5 AI Browsers for Linux](https://itsfoss.com/ai-browsers/)
+
 ## 20240607
 - [It's FOSS](https://itsfoss.com/) | [10 VLC Shortcuts to Use it Like a Pro](https://itsfoss.com/vlc-shortcuts/)
 

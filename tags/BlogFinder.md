@@ -1,3 +1,6 @@
+## 20240610
+- [BlogFinder](https://bf.zzxworld.com/) | [端午节日记](https://bluehe.cn/archives/dragon-boat-festival?utm_source=blogfinder)
+
 ## 20240609
 - [BlogFinder](https://bf.zzxworld.com/) | [虽说&quot;只有穷人，才会钟情于技术&quot;，但爽啊](https://www.52txr.cn/2024/qiongrentech.html?utm_source=blogfinder)
 

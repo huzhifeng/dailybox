@@ -1,3 +1,6 @@
+## 20240610
+- [LibHunt](https://www.libhunt.com/) | [Rectangle](https://www.libhunt.com/r/Rectangle)
+
 ## 20240607
 - [LibHunt](https://www.libhunt.com/) | [mentals-ai](https://www.libhunt.com/r/mentals-ai)
 

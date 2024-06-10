@@ -1,3 +1,6 @@
+## 20240610
+- [Phoronix](https://www.phoronix.com/) | [One-Line Patch For Intel Meteor Lake Yields Up To 72% Better Performance, +7% Geo Mean](https://www.phoronix.com/review/intel-meteorlake-epp-perf)
+
 ## 20240609
 - [Phoronix](https://www.phoronix.com/) | [AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs](https://www.phoronix.com/news/AMDKFD-GFX12-Support)
 
