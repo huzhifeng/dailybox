@@ -1,3 +1,6 @@
+## 20240611
+- [Phoronix](https://www.phoronix.com/) | [Intel's Glibc Non-Temporal Stores Memset Optimization Extended To AMD CPUs](https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD)
+
 ## 20240610
 - [Phoronix](https://www.phoronix.com/) | [One-Line Patch For Intel Meteor Lake Yields Up To 72% Better Performance, +7% Geo Mean](https://www.phoronix.com/review/intel-meteorlake-epp-perf)
 

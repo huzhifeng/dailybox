@@ -1,3 +1,6 @@
+## 20240611
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer](https://9to5linux.com/almalinux-os-now-officially-supports-the-raspberry-pi-5-computer)
+
 ## 20240610
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Are Working on an ARM Linux Laptop Running KDE Plasma](https://9to5linux.com/tuxedo-computers-are-working-on-an-arm-linux-laptop-running-kde-plasma)
 
