@@ -1,3 +1,7 @@
+## 20240611
+- [Phoronix](https://www.phoronix.com/) | [Intel's Glibc Non-Temporal Stores Memset Optimization Extended To AMD CPUs](https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD)
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer](https://9to5linux.com/almalinux-os-now-officially-supports-the-raspberry-pi-5-computer)
+
 ## 20240610
 - [Phoronix](https://www.phoronix.com/) | [One-Line Patch For Intel Meteor Lake Yields Up To 72% Better Performance, +7% Geo Mean](https://www.phoronix.com/review/intel-meteorlake-epp-perf)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Are Working on an ARM Linux Laptop Running KDE Plasma](https://9to5linux.com/tuxedo-computers-are-working-on-an-arm-linux-laptop-running-kde-plasma)

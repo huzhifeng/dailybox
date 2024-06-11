@@ -1,3 +1,6 @@
+## 20240611
+- [V2EX](https://www.v2ex.com/) | [（上班族）开公司，被发现会被解雇吗？](https://www.v2ex.com/t/1048459)
+
 ## 20240610
 - [V2EX](https://www.v2ex.com/) | [如果 Apple AI 出国区特供版你们会怎么办](https://www.v2ex.com/t/1048222)
 

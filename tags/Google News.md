@@ -1,3 +1,6 @@
+## 20240611
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple stock surges to record high after AI announcements - Yahoo Finance](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcHBsZS1zdG9jay1zdXJnZXMtdG8tcmVjb3JkLWhpZ2gtYWZ0ZXItYWktYW5ub3VuY2VtZW50cy0xNTAzMjU5MjIuaHRtbNIBAA?oc=5)
+
 ## 20240610
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple wants to redefine AI as 'Apple intelligence' at WWDC - Yahoo Finance](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vYXBwbGUtd2FudHMtcmVkZWZpbmUtYWktYXBwbGUtMTQxNzIyMDg2Lmh0bWzSAQA?oc=5)
 

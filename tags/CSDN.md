@@ -1,3 +1,7 @@
+## 20240611
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [马斯克或将禁止苹果设备进入其公司；华为：未有投资柔宇科技的计划；SJTUG下架Docker Hub镜像 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139602682)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习与医疗健康在智能诊疗中的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/139390369)
+
 ## 20240610
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【SpringBoot】SpringBoot整合RabbitMQ消息中间件，实现延迟队列和死信队列](https://blog.csdn.net/qq_61024956/article/details/139545178)
 

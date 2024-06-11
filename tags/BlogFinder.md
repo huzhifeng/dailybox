@@ -1,3 +1,6 @@
+## 20240611
+- [BlogFinder](https://bf.zzxworld.com/) | [QThinker Plus 要更新2.0版本啦](https://qthinker.net/archives/659?utm_source=blogfinder)
+
 ## 20240610
 - [BlogFinder](https://bf.zzxworld.com/) | [端午节日记](https://bluehe.cn/archives/dragon-boat-festival?utm_source=blogfinder)
 

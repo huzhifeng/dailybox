@@ -1,3 +1,7 @@
+## 20240611
+- [GitHub Trending](https://github.com/trending?since=daily) | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Arafat7171/Pixel-Wallet-AutoClicker](https://github.com/Arafat7171/Pixel-Wallet-AutoClicker)
+
 ## 20240610
 - [GitHub Trending](https://github.com/trending?since=daily) | [coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [soarowl/B1umAB](https://github.com/soarowl/B1umAB)
