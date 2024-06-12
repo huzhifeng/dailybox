@@ -1,3 +1,6 @@
+## 20240612
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/review/freebsd-141-benchmarks)
+
 ## 20240611
 - [Phoronix](https://www.phoronix.com/) | [Intel's Glibc Non-Temporal Stores Memset Optimization Extended To AMD CPUs](https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD)
 

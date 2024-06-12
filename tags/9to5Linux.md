@@ -1,3 +1,6 @@
+## 20240612
+- [9to5Linux](https://9to5linux.com/) | [Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data](https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data)
+
 ## 20240611
 - [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer](https://9to5linux.com/almalinux-os-now-officially-supports-the-raspberry-pi-5-computer)
 

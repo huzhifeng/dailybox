@@ -1,3 +1,7 @@
+## 20240612
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/review/freebsd-141-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data](https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data)
+
 ## 20240611
 - [Phoronix](https://www.phoronix.com/) | [Intel's Glibc Non-Temporal Stores Memset Optimization Extended To AMD CPUs](https://www.phoronix.com/news/Glibc-Non-Temp-Stores-AMD)
 - [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer](https://9to5linux.com/almalinux-os-now-officially-supports-the-raspberry-pi-5-computer)

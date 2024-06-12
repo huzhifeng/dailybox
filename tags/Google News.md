@@ -1,3 +1,6 @@
+## 20240612
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [iOS 18 Lock Screen Customization Options Include Multicolor Clock - MacRumors](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNi8xMi9pb3MtMTgtbG9jay1zY3JlZW4tbXVsdGljb2xvci1jbG9jay1vcHRpb24v0gEA?oc=5)
+
 ## 20240611
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple stock surges to record high after AI announcements - Yahoo Finance](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcHBsZS1zdG9jay1zdXJnZXMtdG8tcmVjb3JkLWhpZ2gtYWZ0ZXItYWktYW5ub3VuY2VtZW50cy0xNTAzMjU5MjIuaHRtbNIBAA?oc=5)
 

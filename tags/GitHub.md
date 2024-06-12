@@ -1,3 +1,7 @@
+## 20240612
+- [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/lerobot](https://github.com/huggingface/lerobot)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [NotEgXD/WalletStea1er](https://github.com/NotEgXD/WalletStea1er)
+
 ## 20240611
 - [GitHub Trending](https://github.com/trending?since=daily) | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Arafat7171/Pixel-Wallet-AutoClicker](https://github.com/Arafat7171/Pixel-Wallet-AutoClicker)

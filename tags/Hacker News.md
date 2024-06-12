@@ -1,3 +1,8 @@
+## 20240612
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-11](https://www.daemonology.net/hn-daily/2024-06-11.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-12](https://github.com/headllines/hackernews-daily/issues/1433)
+- [Hacker News](https://news.ycombinator.com/front) | [Silicon Valley's best kept secret: Founder liquidity](https://news.ycombinator.com/item?id=40654190)
+
 ## 20240611
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-10](https://www.daemonology.net/hn-daily/2024-06-10.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-11](https://github.com/headllines/hackernews-daily/issues/1432)

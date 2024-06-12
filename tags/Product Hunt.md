@@ -1,3 +1,6 @@
+## 20240612
+- [Product Hunt](https://www.producthunt.com) | [Autodesigner 2.0](https://www.producthunt.com/posts/autodesigner-2-0)
+
 ## 20240611
 - [Product Hunt](https://www.producthunt.com) | [TeamCreate](https://www.producthunt.com/posts/teamcreate)
 

@@ -1,3 +1,6 @@
+## 20240612
+- [BlogFinder](https://bf.zzxworld.com/) | [如何使用 Serenity BDD 进行 UI 测试？](https://leileiluoluo.com/posts/how-to-perform-ui-testing-using-serenity-bdd.html?utm_source=blogfinder)
+
 ## 20240611
 - [BlogFinder](https://bf.zzxworld.com/) | [QThinker Plus 要更新2.0版本啦](https://qthinker.net/archives/659?utm_source=blogfinder)
 
