@@ -1,3 +1,7 @@
+## 20240612
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [360 回应 AI 生图版权争议；马斯克撤回对 OpenAI 的诉讼；微软撤下 Windows 11 24H2 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139619838)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】Qwen2大模型原理、训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/139564359)
+
 ## 20240611
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [马斯克或将禁止苹果设备进入其公司；华为：未有投资柔宇科技的计划；SJTUG下架Docker Hub镜像 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139602682)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】机器学习与医疗健康在智能诊疗中的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/139390369)

@@ -1,3 +1,6 @@
+## 20240612
+- [V2EX](https://www.v2ex.com/) | [被业委会气到了](https://www.v2ex.com/t/1048920)
+
 ## 20240611
 - [V2EX](https://www.v2ex.com/) | [（上班族）开公司，被发现会被解雇吗？](https://www.v2ex.com/t/1048459)
 
