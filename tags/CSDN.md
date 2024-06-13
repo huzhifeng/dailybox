@@ -1,3 +1,7 @@
+## 20240613
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [广汽埃安回应解约应届生；字节跳动辟谣研发AI手机；微软将于下月停用 GPTs 功能 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139646668)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【pytorch】深度学习模型在迁移学习、模型微调和模型部署时函数加载 torch.load()](https://blog.csdn.net/qq_38614074/article/details/139595230)
+
 ## 20240612
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [360 回应 AI 生图版权争议；马斯克撤回对 OpenAI 的诉讼；微软撤下 Windows 11 24H2 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139619838)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】Qwen2大模型原理、训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/139564359)

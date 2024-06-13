@@ -1,3 +1,6 @@
+## 20240613
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.1 Improves Elisa, Spectacle, KCalc, and Other KDE Apps](https://9to5linux.com/kde-gear-24-05-1-improves-elisa-spectacle-kcalc-and-other-kde-apps)
+
 ## 20240612
 - [9to5Linux](https://9to5linux.com/) | [Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data](https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data)
 

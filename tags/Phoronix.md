@@ -1,3 +1,6 @@
+## 20240613
+- [Phoronix](https://www.phoronix.com/) | ["Rocket" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU](https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver)
+
 ## 20240612
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/review/freebsd-141-benchmarks)
 

@@ -1,3 +1,6 @@
+## 20240613
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Here's how Apple's AI model tries to keep your data private - The Verge](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzYvMTMvMjQxNzU5ODUvYXBwbGUtaW50ZWxsaWdlbmNlLWFpLW1vZGVsLWxvY2FsLWNsb3VkLXByaXZhY3ktaG93LWl0LXdvcmtz0gEA?oc=5)
+
 ## 20240612
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [iOS 18 Lock Screen Customization Options Include Multicolor Clock - MacRumors](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNi8xMi9pb3MtMTgtbG9jay1zY3JlZW4tbXVsdGljb2xvci1jbG9jay1vcHRpb24v0gEA?oc=5)
 

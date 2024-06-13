@@ -1,3 +1,6 @@
+## 20240613
+- [LibHunt](https://www.libhunt.com/) | [duckdb](https://www.libhunt.com/r/duckdb)
+
 ## 20240612
 - [LibHunt](https://www.libhunt.com/) | [donut](https://www.libhunt.com/r/flavioribeiro/donut)
 
