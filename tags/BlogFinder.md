@@ -1,3 +1,6 @@
+## 20240613
+- [BlogFinder](https://bf.zzxworld.com/) | [勤劳真的能致富吗](https://www.dengxiaokang.com/archives/1192.html?utm_source=blogfinder)
+
 ## 20240612
 - [BlogFinder](https://bf.zzxworld.com/) | [如何使用 Serenity BDD 进行 UI 测试？](https://leileiluoluo.com/posts/how-to-perform-ui-testing-using-serenity-bdd.html?utm_source=blogfinder)
 

@@ -1,3 +1,7 @@
+## 20240613
+- [Phoronix](https://www.phoronix.com/) | ["Rocket" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU](https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.1 Improves Elisa, Spectacle, KCalc, and Other KDE Apps](https://9to5linux.com/kde-gear-24-05-1-improves-elisa-spectacle-kcalc-and-other-kde-apps)
+
 ## 20240612
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.1 vs. FreeBSD 14.0 Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/review/freebsd-141-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data](https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data)
