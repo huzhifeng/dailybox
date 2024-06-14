@@ -1,3 +1,6 @@
+## 20240614
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
+
 ## 20240613
 - [GitHub Trending](https://github.com/trending?since=daily) | [immich-app/immich](https://github.com/immich-app/immich)
 

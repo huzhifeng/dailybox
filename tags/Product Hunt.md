@@ -1,3 +1,6 @@
+## 20240614
+- [Product Hunt](https://www.producthunt.com) | [Magic Publish](https://www.producthunt.com/posts/magic-publish)
+
 ## 20240613
 - [Product Hunt](https://www.producthunt.com) | [Oasis by BeforeSunset AI](https://www.producthunt.com/posts/oasis-by-beforesunset-ai)
 

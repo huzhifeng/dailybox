@@ -1,3 +1,6 @@
+## 20240614
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 Seeing More Desktop Installer Improvements, Improving The Steam Snap](https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June)
+
 ## 20240613
 - [Phoronix](https://www.phoronix.com/) | ["Rocket" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU](https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.1 Improves Elisa, Spectacle, KCalc, and Other KDE Apps](https://9to5linux.com/kde-gear-24-05-1-improves-elisa-spectacle-kcalc-and-other-kde-apps)
