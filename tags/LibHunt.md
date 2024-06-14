@@ -1,3 +1,6 @@
+## 20240614
+- [LibHunt](https://www.libhunt.com/) | [kitty](https://www.libhunt.com/r/kitty)
+
 ## 20240613
 - [LibHunt](https://www.libhunt.com/) | [duckdb](https://www.libhunt.com/r/duckdb)
 

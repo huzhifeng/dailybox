@@ -1,3 +1,6 @@
+## 20240614
+- [BlogFinder](https://bf.zzxworld.com/) | [六月第一次买书](https://www.pijkdexbvj.top/mind/18/?utm_source=blogfinder)
+
 ## 20240613
 - [BlogFinder](https://bf.zzxworld.com/) | [勤劳真的能致富吗](https://www.dengxiaokang.com/archives/1192.html?utm_source=blogfinder)
 

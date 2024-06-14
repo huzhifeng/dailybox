@@ -1,3 +1,6 @@
+## 20240614
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 Seeing More Desktop Installer Improvements, Improving The Steam Snap](https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June)
+
 ## 20240613
 - [Phoronix](https://www.phoronix.com/) | ["Rocket" Accelerator Open-Source Linux Kernel Driver Posted For Rockchip NPU](https://www.phoronix.com/news/Rocket-Rockchip-NPU-Driver)
 

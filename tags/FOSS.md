@@ -1,3 +1,6 @@
+## 20240614
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.24: Pironman, VLC Tips, Amber Lang and 12 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-24-24/)
+
 ## 20240613
 - [It's FOSS](https://itsfoss.com/) | [How to Test Microphone on Ubuntu?](https://itsfoss.com/ubuntu-test-microphone/)
 

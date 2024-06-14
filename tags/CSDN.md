@@ -1,3 +1,7 @@
+## 20240614
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [周鸿祎回应360安全软件不能卸载；17岁中专女生拿下阿里全球数学竞赛第12名；鸿蒙首超iOS成中国第二大手机系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139672026)
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】QLoRA：基于PEFT亲手微调你的第一个AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139626801)
+
 ## 20240613
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [广汽埃安回应解约应届生；字节跳动辟谣研发AI手机；微软将于下月停用 GPTs 功能 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139646668)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【pytorch】深度学习模型在迁移学习、模型微调和模型部署时函数加载 torch.load()](https://blog.csdn.net/qq_38614074/article/details/139595230)
