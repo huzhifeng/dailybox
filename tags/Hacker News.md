@@ -1,3 +1,9 @@
+## 20240615
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-14](https://www.daemonology.net/hn-daily/2024-06-14.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-15](https://github.com/headllines/hackernews-daily/issues/1436)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-15 | AMD 的 MI300X 芯片在处理大语言模型时的表现超出了 NVIDIA 的 H100](https://www.xiaoyuzhoufm.com/episode/666d0ee6c26e396a36e9d743)
+- [Hacker News](https://news.ycombinator.com/front) | [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://news.ycombinator.com/item?id=40687660)
+
 ## 20240614
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-13](https://www.daemonology.net/hn-daily/2024-06-13.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-14](https://github.com/headllines/hackernews-daily/issues/1435)

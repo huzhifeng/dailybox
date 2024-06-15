@@ -1,3 +1,6 @@
+## 20240615
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Official Galaxy Z Flip 6 spec sheet leaks - SamMobile - Samsung news](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9vZmZpY2lhbC1nYWxheHktei1mbGlwLTYtc3BlYy1zaGVldC1sZWFrcy_SAQA?oc=5)
+
 ## 20240614
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple’s new artificial intelligence leaves out more than 90% of current iPhone users - EL PAÍS USA](https://news.google.com/rss/articles/CBMiiAFodHRwczovL2VuZ2xpc2guZWxwYWlzLmNvbS90ZWNobm9sb2d5LzIwMjQtMDYtMTQvYXBwbGVzLW5ldy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1sZWF2ZXMtb3V0LW1vcmUtdGhhbi05MC1vZi1jdXJyZW50LWlwaG9uZS11c2Vycy5odG1s0gGXAWh0dHBzOi8vZW5nbGlzaC5lbHBhaXMuY29tL3RlY2hub2xvZ3kvMjAyNC0wNi0xNC9hcHBsZXMtbmV3LWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWxlYXZlcy1vdXQtbW9yZS10aGFuLTkwLW9mLWN1cnJlbnQtaXBob25lLXVzZXJzLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5)
 

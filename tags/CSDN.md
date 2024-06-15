@@ -1,3 +1,6 @@
+## 20240615
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [MySQL Online DDL原理解读](https://blog.csdn.net/qq_26664043/article/details/139666138)
+
 ## 20240614
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [周鸿祎回应360安全软件不能卸载；17岁中专女生拿下阿里全球数学竞赛第12名；鸿蒙首超iOS成中国第二大手机系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139672026)
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】QLoRA：基于PEFT亲手微调你的第一个AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139626801)
