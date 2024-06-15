@@ -1,3 +1,6 @@
+## 20240615
+- [BlogFinder](https://bf.zzxworld.com/) | [吃草是一种什么感觉？《孤独摇滚》联动咖啡](https://www.wikimoe.com/post/6yvw38s1?utm_source=blogfinder)
+
 ## 20240614
 - [BlogFinder](https://bf.zzxworld.com/) | [六月第一次买书](https://www.pijkdexbvj.top/mind/18/?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240615
+- [It's FOSS](https://itsfoss.com/) | [How to Zoom in and out of a Video in VLC Player](https://itsfoss.com/vlc-zoom-in/)
+
 ## 20240614
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.24: Pironman, VLC Tips, Amber Lang and 12 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-24-24/)
 

@@ -1,3 +1,6 @@
+## 20240615
+- [Phoronix](https://www.phoronix.com/) | [New Linux Change Helps Ensure AMD Ryzen With NVMe Works After Resuming From Suspend](https://www.phoronix.com/news/Linux-6.10-rc4-PM-Ryzen-NVMe)
+
 ## 20240614
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 24.10 Seeing More Desktop Installer Improvements, Improving The Steam Snap](https://www.phoronix.com/news/Ubuntu-24.10-Desktop-June)
 
