@@ -1,3 +1,6 @@
+## 20240616
+- [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】人工智能与气候变化：利用深度学习与机器学习算法预测和缓解环境影响](https://blog.csdn.net/qq_61024956/article/details/139707031)
+
 ## 20240615
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [MySQL Online DDL原理解读](https://blog.csdn.net/qq_26664043/article/details/139666138)
 

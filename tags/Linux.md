@@ -1,3 +1,6 @@
+## 20240616
+- [Phoronix](https://www.phoronix.com/) | [IceWM 3.6 Released With A Few New Features & Fixes](https://www.phoronix.com/news/IceWM-3.6-Released)
+
 ## 20240615
 - [Phoronix](https://www.phoronix.com/) | [New Linux Change Helps Ensure AMD Ryzen With NVMe Works After Resuming From Suspend](https://www.phoronix.com/news/Linux-6.10-rc4-PM-Ryzen-NVMe)
 

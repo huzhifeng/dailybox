@@ -1,3 +1,6 @@
+## 20240616
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple Is the First Giant Tech Company to Make Useful AI Products - Business Insider](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYXBwbGUtd2lubmVyLWJpZy10ZWNoLWNvbXBhbnktYXJ0aWZpY2FsLWludGVsbGlnZW5jZS1nb29nbGUtbWljcm9zb2Z0LW9wZW5haS0yMDI0LTbSAQA?oc=5)
+
 ## 20240615
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Official Galaxy Z Flip 6 spec sheet leaks - SamMobile - Samsung news](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9vZmZpY2lhbC1nYWxheHktei1mbGlwLTYtc3BlYy1zaGVldC1sZWFrcy_SAQA?oc=5)
 

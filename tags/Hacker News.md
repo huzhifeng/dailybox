@@ -1,3 +1,9 @@
+## 20240616
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-15](https://www.daemonology.net/hn-daily/2024-06-15.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-16](https://github.com/headllines/hackernews-daily/issues/1437)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-16 | 微软的备受期待的 Recall AI 功能宣布无限期推迟](https://www.xiaoyuzhoufm.com/episode/666d6930b6a8412729f098b8)
+- [Hacker News](https://news.ycombinator.com/front) | [What You Get After Running an SSH Honeypot for 30 Days](https://news.ycombinator.com/item?id=40694768)
+
 ## 20240615
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-14](https://www.daemonology.net/hn-daily/2024-06-14.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-15](https://github.com/headllines/hackernews-daily/issues/1436)

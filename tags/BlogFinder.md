@@ -1,3 +1,6 @@
+## 20240616
+- [BlogFinder](https://bf.zzxworld.com/) | [Mac词典翻译神器Easydict](https://chegva.com/6088.html?utm_source=blogfinder)
+
 ## 20240615
 - [BlogFinder](https://bf.zzxworld.com/) | [吃草是一种什么感觉？《孤独摇滚》联动咖啡](https://www.wikimoe.com/post/6yvw38s1?utm_source=blogfinder)
 
