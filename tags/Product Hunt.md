@@ -1,3 +1,6 @@
+## 20240616
+- [Product Hunt](https://www.producthunt.com) | [PlantIdentify - Plant Detector](https://www.producthunt.com/posts/plantidentify-plant-detector)
+
 ## 20240614
 - [Product Hunt](https://www.producthunt.com) | [Magic Publish](https://www.producthunt.com/posts/magic-publish)
 
