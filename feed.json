@@ -265,38 +265,6 @@
 			}
 		},
 		{
-			"channel": "8点1氪",
-			"portal": "https://36kr.com/user/5652071",
-			"url": "https://gateway.36kr.com/api/mis/me/article",
-			"_comment": "https://36kr.com/rss-center",
-			"category": "日报",
-			"tags": ["36氦", "8点1氪", "日报"],
-			"request": {
-				"method": "post",
-				"payload": {
-					"partner_id": "web",
-					"timestamp": "{timestamp}",
-					"param": {
-						"userId": "5652071",
-						"pageEvent": 0,
-						"pageSize": 10,
-						"pageCallback": "",
-						"siteId": 1,
-						"platformId": 2
-					}
-				}
-			},
-			"response": {
-				"list": "data.itemList"
-			},
-			"entry": {
-				"objname": "templateMaterial",
-				"date": "publishTime",
-				"title": "widgetTitle",
-				"link": "https://36kr.com/p/{itemId}"
-			}
-		},
-		{
 			"channel": "极客早知道",
 			"portal": "https://www.geekpark.net/column/74",
 			"url": "https://mainssl.geekpark.net/api/v1/columns/74",
