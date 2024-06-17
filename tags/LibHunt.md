@@ -1,3 +1,6 @@
+## 20240617
+- [LibHunt](https://www.libhunt.com/) | [revideo](https://www.libhunt.com/r/revideo)
+
 ## 20240614
 - [LibHunt](https://www.libhunt.com/) | [kitty](https://www.libhunt.com/r/kitty)
 

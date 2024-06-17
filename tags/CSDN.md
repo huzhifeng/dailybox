@@ -1,3 +1,6 @@
+## 20240617
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车员工实发工资曝光近乎年入百万；OpenAI或转变为营利性公司；Windows Recall被推迟发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139740259)
+
 ## 20240616
 - [CSDN排行榜](https://blog.csdn.net/rank/list) | [【机器学习】人工智能与气候变化：利用深度学习与机器学习算法预测和缓解环境影响](https://blog.csdn.net/qq_61024956/article/details/139707031)
 

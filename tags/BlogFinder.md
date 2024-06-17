@@ -1,3 +1,6 @@
+## 20240617
+- [BlogFinder](https://bf.zzxworld.com/) | [热爱生活的模样真的很可贵](https://weblog.bailuze.com/17.html?utm_source=blogfinder)
+
 ## 20240616
 - [BlogFinder](https://bf.zzxworld.com/) | [Mac词典翻译神器Easydict](https://chegva.com/6088.html?utm_source=blogfinder)
 

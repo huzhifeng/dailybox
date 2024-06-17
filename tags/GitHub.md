@@ -1,3 +1,6 @@
+## 20240617
+- [GitHub Trending](https://github.com/trending?since=daily) | [zed-industries/zed](https://github.com/zed-industries/zed)
+
 ## 20240616
 - [GitHub Trending](https://github.com/trending?since=daily) | [zed-industries/zed](https://github.com/zed-industries/zed)
 

@@ -1,3 +1,6 @@
+## 20240617
+- [V2EX](https://www.v2ex.com/) | [珠三角一些行业开始收 USDT 了](https://www.v2ex.com/t/1050172)
+
 ## 20240616
 - [V2EX](https://www.v2ex.com/) | [就是想不明白，如果落实劳动法，会变成什么样？](https://www.v2ex.com/t/1049995)
 
