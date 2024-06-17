@@ -291,24 +291,6 @@
 			}
 		},
 		{
-			"channel": "CSDN排行榜",
-			"portal": "https://blog.csdn.net/rank/list",
-			"url": "https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=25&type=",
-			"category": "漫游",
-			"tags": ["CSDN"],
-			"request": {
-				"method": "get"
-			},
-			"response": {
-				"list": "data"
-			},
-			"entry": {
-				"date": "period",
-				"title": "articleTitle",
-				"link": "{articleDetailUrl}"
-			}
-		},
-		{
 			"channel": "竹白先锋作品",
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
