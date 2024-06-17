@@ -1,3 +1,6 @@
+## 20240617
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024)
+
 ## 20240613
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.1 Improves Elisa, Spectacle, KCalc, and Other KDE Apps](https://9to5linux.com/kde-gear-24-05-1-improves-elisa-spectacle-kcalc-and-other-kde-apps)
 
