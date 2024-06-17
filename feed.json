@@ -130,6 +130,7 @@
 			"channel": "十年之约",
 			"portal": "https://www.foreverblog.cn/feeds.html",
 			"url": "https://rsshub.app/foreverblog/feeds",
+			"ignoredate": 1,
 			"category": "漫游",
 			"tags": ["十年之约"]
 		},
