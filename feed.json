@@ -138,6 +138,7 @@
 			"channel": "积薪",
 			"portal": "https://firewood.news/",
 			"url": "https://firewood.news/rss.xml",
+			"ignoredate": 1,
 			"category": "漫游",
 			"tags": ["积薪"]
 		},
