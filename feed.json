@@ -113,15 +113,6 @@
 			"tags": ["CSDN", "极客日报", "日报"]
 		},
 		{
-			"channel": "博客园",
-			"portal": "https://www.cnblogs.com/aggsite/headline",
-			"url": "https://rsshub.app/cnblogs/aggsite/headline",
-			"_comment": "https://feed.cnblogs.com/blog/sitehome/rss",
-			"enable": 0,
-			"category": "漫游",
-			"tags": ["博客园"]
-		},
-		{
 			"channel": "BlogFinder",
 			"portal": "https://bf.zzxworld.com/",
 			"url": "https://bf.zzxworld.com/feed.xml",
