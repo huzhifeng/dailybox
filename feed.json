@@ -100,8 +100,9 @@
 			"portal": "https://www.jiemian.com/lists/459.html",
 			"url": "https://rsshub.app/jiemian/lists/459",
 			"_comment": "https://m.jiemian.com/lists/459.html",
+			"ignoredate": 1,
 			"category": "日报",
-			"tags": ["界面新闻", "科技早报", "日报"]
+			"tags": ["科技早报", "界面新闻", "日报"]
 		},
 		{
 			"channel": "极客日报",
