@@ -1,3 +1,7 @@
+## 20240618
+- [Phoronix](https://www.phoronix.com/) | [Framework Laptop 13 To See A RISC-V Motherboard Option](https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-1-desktop-environment-officially-released-heres-whats-new)
+
 ## 20240617
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.1 vs. DragonFlyBSD 6.4 vs. NetBSD 10 vs. Linux Benchmarks](https://www.phoronix.com/review/bsd-linux-threadripper-7980x)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024)

@@ -1,3 +1,6 @@
+## 20240618
+- [It's FOSS](https://itsfoss.com/) | [Reset Forgotten Root Password in Ubuntu](https://itsfoss.com/ubuntu-reset-lost-root-password/)
+
 ## 20240615
 - [It's FOSS](https://itsfoss.com/) | [How to Zoom in and out of a Video in VLC Player](https://itsfoss.com/vlc-zoom-in/)
 

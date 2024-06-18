@@ -1,3 +1,6 @@
+## 20240618
+- [V2EX](https://www.v2ex.com/) | [游戏研发行业现在咋这么苦逼了。](https://www.v2ex.com/t/1050516)
+
 ## 20240617
 - [V2EX](https://www.v2ex.com/) | [珠三角一些行业开始收 USDT 了](https://www.v2ex.com/t/1050172)
 

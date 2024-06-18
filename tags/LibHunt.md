@@ -1,3 +1,6 @@
+## 20240618
+- [LibHunt](https://www.libhunt.com/) | [htmx](https://www.libhunt.com/r/htmx)
+
 ## 20240617
 - [LibHunt](https://www.libhunt.com/) | [revideo](https://www.libhunt.com/r/revideo)
 

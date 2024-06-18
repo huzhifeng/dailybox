@@ -1,3 +1,6 @@
+## 20240618
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-1-desktop-environment-officially-released-heres-whats-new)
+
 ## 20240617
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024)
 
