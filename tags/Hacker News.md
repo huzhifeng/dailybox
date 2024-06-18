@@ -1,3 +1,9 @@
+## 20240618
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-17](https://www.daemonology.net/hn-daily/2024-06-17.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-18](https://github.com/headllines/hackernews-daily/issues/1439)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-18 | 重要的科学运算库 NumPy 经过多开发迎来 2.0 重大更新](https://www.xiaoyuzhoufm.com/episode/6670df6cb6a84127297d788f)
+- [Hacker News](https://news.ycombinator.com/front) | [Cyber Scarecrow, making your computer look 'scary' to malware](https://news.ycombinator.com/item?id=40715250)
+
 ## 20240617
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-16](https://www.daemonology.net/hn-daily/2024-06-16.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-17](https://github.com/headllines/hackernews-daily/issues/1438)

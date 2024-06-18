@@ -1,3 +1,6 @@
+## 20240618
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Review | 'Elden Ring' again shatters expectations with 'Shadow of the Erdtree' - The Washington Post](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbnRlcnRhaW5tZW50L3ZpZGVvLWdhbWVzLzIwMjQvMDYvMTgvZWxkZW4tcmluZy1zaGFkb3ctb2YtZXJkdHJlZS1yZXZpZXcv0gEA?oc=5)
+
 ## 20240617
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Apple AI logo aims to look unthreatening, and non-anthropomorphic - 9to5Mac](https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNi8xNy9hcHBsZS1haS1sb2dvL9IBAA?oc=5)
 

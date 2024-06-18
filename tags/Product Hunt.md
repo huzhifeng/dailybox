@@ -1,3 +1,6 @@
+## 20240618
+- [Product Hunt](https://www.producthunt.com) | [Pizi](https://www.producthunt.com/posts/pizi-3)
+
 ## 20240616
 - [Product Hunt](https://www.producthunt.com) | [PlantIdentify - Plant Detector](https://www.producthunt.com/posts/plantidentify-plant-detector)
 

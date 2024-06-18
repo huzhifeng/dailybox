@@ -1,3 +1,6 @@
+## 20240618
+- [BlogFinder](https://bf.zzxworld.com/) | [假期出行记录｜饮品测评特刊（拖更版）](https://blog.starsharbor.com/trip-record&beverage-evaluation/?utm_source=blogfinder)
+
 ## 20240617
 - [BlogFinder](https://bf.zzxworld.com/) | [热爱生活的模样真的很可贵](https://weblog.bailuze.com/17.html?utm_source=blogfinder)
 

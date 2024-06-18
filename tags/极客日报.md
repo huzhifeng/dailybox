@@ -1,3 +1,6 @@
+## 20240618
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [宁德时代回应“896”工作制；ChatGPT 时隔两周再次出现重大故障；蓝屏死机亮相 Linux | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139765058)
+
 ## 20240617
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米汽车员工实发工资曝光近乎年入百万；OpenAI或转变为营利性公司；Windows Recall被推迟发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139740259)
 
