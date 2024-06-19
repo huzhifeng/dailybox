@@ -1,3 +1,6 @@
+## 20240619
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [科大讯飞内部通报员工去世；消息称华为考虑对鸿蒙应用商店收取佣金；英伟达成为全球市值最高公司 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139795899)
+
 ## 20240618
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [宁德时代回应“896”工作制；ChatGPT 时隔两周再次出现重大故障；蓝屏死机亮相 Linux | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139765058)
 

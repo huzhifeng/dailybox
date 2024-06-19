@@ -1,3 +1,6 @@
+## 20240619
+- [Phoronix](https://www.phoronix.com/) | [Zlib-ng 2.2 Speeds Up Compression By ~12% On x86_64 CPUs](https://www.phoronix.com/news/zlib-2.2-RC1)
+
 ## 20240618
 - [Phoronix](https://www.phoronix.com/) | [Framework Laptop 13 To See A RISC-V Motherboard Option](https://www.phoronix.com/news/Framework-Laptop-RISC-V-Board)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-1-desktop-environment-officially-released-heres-whats-new)

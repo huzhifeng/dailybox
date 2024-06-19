@@ -1,3 +1,6 @@
+## 20240619
+- [BlogFinder](https://bf.zzxworld.com/) | [【读书记1449】马伯庸《长安的荔枝》](http://www.qncd.com/?p=9982&utm_source=blogfinder)
+
 ## 20240618
 - [BlogFinder](https://bf.zzxworld.com/) | [假期出行记录｜饮品测评特刊（拖更版）](https://blog.starsharbor.com/trip-record&beverage-evaluation/?utm_source=blogfinder)
 
