@@ -1,3 +1,6 @@
+## 20240619
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite - Nintendo Life](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDI0LzA2L2ZpcnN0LXByZS1vcmRlcnMtYXBwZWFyLWZvci16ZWxkYS1lY2hvZXMtb2Ytd2lzZG9tLWFuZC1oeXJ1bGUtZWRpdGlvbi1zd2l0Y2gtbGl0ZdIBAA?oc=5)
+
 ## 20240618
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Review | 'Elden Ring' again shatters expectations with 'Shadow of the Erdtree' - The Washington Post](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lbnRlcnRhaW5tZW50L3ZpZGVvLWdhbWVzLzIwMjQvMDYvMTgvZWxkZW4tcmluZy1zaGFkb3ctb2YtZXJkdHJlZS1yZXZpZXcv0gEA?oc=5)
 
