@@ -1,3 +1,6 @@
+## 20240620
+- [Phoronix](https://www.phoronix.com/) | [GNOME Shell Accent Color Support Merged For GNOME 47](https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged)
+
 ## 20240619
 - [Phoronix](https://www.phoronix.com/) | [Zlib-ng 2.2 Speeds Up Compression By ~12% On x86_64 CPUs](https://www.phoronix.com/news/zlib-2.2-RC1)
 

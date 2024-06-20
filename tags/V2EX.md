@@ -1,3 +1,6 @@
+## 20240620
+- [V2EX](https://www.v2ex.com/) | [人生第一台汽车到底是买混动，还是买纯电？](https://www.v2ex.com/t/1051212)
+
 ## 20240619
 - [V2EX](https://www.v2ex.com/) | [谁来劝劝我不要买摩托车](https://www.v2ex.com/t/1050853)
 

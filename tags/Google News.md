@@ -1,3 +1,6 @@
+## 20240620
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [I Compared Apple's Find My Network and Google's Find My Device: Here's the Clear Winner - CNET](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL2ktY29tcGFyZWQtYXBwbGVzLWZpbmQtbXktbmV0d29yay1hbmQtZ29vZ2xlLWZpbmQtbXktZGV2aWNlLWhlcmVzLXRoZS1jbGVhci13aW5uZXIv0gEA?oc=5)
+
 ## 20240619
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite - Nintendo Life](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDI0LzA2L2ZpcnN0LXByZS1vcmRlcnMtYXBwZWFyLWZvci16ZWxkYS1lY2hvZXMtb2Ytd2lzZG9tLWFuZC1oeXJ1bGUtZWRpdGlvbi1zd2l0Y2gtbGl0ZdIBAA?oc=5)
 
