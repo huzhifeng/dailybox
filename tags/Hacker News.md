@@ -1,3 +1,8 @@
+## 20240620
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-19](https://www.daemonology.net/hn-daily/2024-06-19.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-20](https://github.com/headllines/hackernews-daily/issues/1441)
+- [Hacker News](https://news.ycombinator.com/front) | [Tetris as Font](https://news.ycombinator.com/item?id=40737294)
+
 ## 20240619
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-18](https://www.daemonology.net/hn-daily/2024-06-18.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-19](https://github.com/headllines/hackernews-daily/issues/1440)

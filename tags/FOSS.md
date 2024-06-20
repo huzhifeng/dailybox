@@ -1,3 +1,6 @@
+## 20240620
+- [It's FOSS](https://itsfoss.com/) | [Fixing Applications Icon Missing from the Launcher in Ubuntu](https://itsfoss.com/ubuntu-app-icon-missing/)
+
 ## 20240618
 - [It's FOSS](https://itsfoss.com/) | [Reset Forgotten Root Password in Ubuntu](https://itsfoss.com/ubuntu-reset-lost-root-password/)
 

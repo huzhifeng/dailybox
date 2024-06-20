@@ -1,3 +1,6 @@
+## 20240620
+- [LibHunt](https://www.libhunt.com/) | [SQLpage](https://www.libhunt.com/r/SQLpage)
+
 ## 20240618
 - [LibHunt](https://www.libhunt.com/) | [htmx](https://www.libhunt.com/r/htmx)
 

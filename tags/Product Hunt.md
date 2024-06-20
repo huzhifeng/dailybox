@@ -1,3 +1,6 @@
+## 20240620
+- [Product Hunt](https://www.producthunt.com) | [Immersfy](https://www.producthunt.com/posts/immersfy)
+
 ## 20240619
 - [Product Hunt](https://www.producthunt.com) | [AI Logo Reveals](https://www.producthunt.com/posts/ai-logo-reveals)
 

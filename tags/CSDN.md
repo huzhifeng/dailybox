@@ -1,3 +1,6 @@
+## 20240620
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [传鸿蒙应用商店将免除对微信的抽成；OpenAI前科学家建安全超级智能实验室；腾讯招聘新增「AI 大模型」专项 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139824099)
+
 ## 20240619
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [科大讯飞内部通报员工去世；消息称华为考虑对鸿蒙应用商店收取佣金；英伟达成为全球市值最高公司 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139795899)
 
