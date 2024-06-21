@@ -1,3 +1,6 @@
+## 20240621
+- [GitHub Trending](https://github.com/trending?since=daily) | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
+
 ## 20240620
 - [GitHub Trending](https://github.com/trending?since=daily) | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 

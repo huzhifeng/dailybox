@@ -1,3 +1,6 @@
+## 20240621
+- [BlogFinder](https://bf.zzxworld.com/) | [火热的车牌歌](http://www.ickg.net/Cultural/chepai.html?utm_source=blogfinder)
+
 ## 20240620
 - [BlogFinder](https://bf.zzxworld.com/) | [啊？《我推的孩子》真人版？https://www.bilibili.com/video/BV1Tx4...](https://www.wikimoe.com/post/s7gkyoc5?utm_source=blogfinder)
 

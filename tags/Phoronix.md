@@ -1,3 +1,6 @@
+## 20240621
+- [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.13 Brings OpenVR/OpenXR Interop & Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.13)
+
 ## 20240620
 - [Phoronix](https://www.phoronix.com/) | [GNOME Shell Accent Color Support Merged For GNOME 47](https://www.phoronix.com/news/GNOME-Shell-Accent-Color-Merged)
 

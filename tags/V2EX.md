@@ -1,3 +1,6 @@
+## 20240621
+- [V2EX](https://www.v2ex.com/) | [问问大家的收入支出比是多少？](https://www.v2ex.com/t/1051421)
+
 ## 20240620
 - [V2EX](https://www.v2ex.com/) | [人生第一台汽车到底是买混动，还是买纯电？](https://www.v2ex.com/t/1051212)
 
