@@ -1,3 +1,9 @@
+## 20240621
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-20](https://www.daemonology.net/hn-daily/2024-06-20.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-21](https://github.com/headllines/hackernews-daily/issues/1442)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-21 | OpenAI前首席科学家Ilya创立新公司：超越AGI的“超级人工智能”和绝对的AI安全](https://www.xiaoyuzhoufm.com/episode/6674cdabc26e396a364545d3)
+- [Hacker News](https://news.ycombinator.com/front) | [Allan McDonald Refused To Approve Challenger Launch, Exposed Cover-Up (2021)](https://news.ycombinator.com/item?id=40748371)
+
 ## 20240620
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-19](https://www.daemonology.net/hn-daily/2024-06-19.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-20](https://github.com/headllines/hackernews-daily/issues/1441)

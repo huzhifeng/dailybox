@@ -1,3 +1,6 @@
+## 20240621
+- [LibHunt](https://www.libhunt.com/) | [ratatui](https://www.libhunt.com/r/ratatui)
+
 ## 20240620
 - [LibHunt](https://www.libhunt.com/) | [SQLpage](https://www.libhunt.com/r/SQLpage)
 

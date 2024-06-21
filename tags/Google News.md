@@ -1,3 +1,6 @@
+## 20240621
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Witcher 3 Dev Congratulates FromSoftware After Elden Ring DLC Shadow of the Erdtree Overtakes Blood and Wine as Best-Reviewed Expansion Ever - IGN](https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5pZ24uY29tL2FydGljbGVzL3dpdGNoZXItMy1kZXYtY29uZ3JhdHVsYXRlcy1mcm9tc29mdHdhcmUtYWZ0ZXItZWxkZW4tcmluZy1kbGMtc2hhZG93LW9mLXRoZS1lcmR0cmVlLW92ZXJ0YWtlcy1ibG9vZC1hbmQtd2luZS1hcy1iZXN0LXJldmlld2VkLWV4cGFuc2lvbi1ldmVy0gEA?oc=5)
+
 ## 20240620
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [I Compared Apple's Find My Network and Google's Find My Device: Here's the Clear Winner - CNET](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL2ktY29tcGFyZWQtYXBwbGVzLWZpbmQtbXktbmV0d29yay1hbmQtZ29vZ2xlLWZpbmQtbXktZGV2aWNlLWhlcmVzLXRoZS1jbGVhci13aW5uZXIv0gEA?oc=5)
 

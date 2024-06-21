@@ -1,3 +1,6 @@
+## 20240621
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米回应副董事长套现1.6亿；OpenAI竞品发布最强AI模型Claude 3.5；传苹果AI寻求与中国本土企业合作|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139849673)
+
 ## 20240620
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [传鸿蒙应用商店将免除对微信的抽成；OpenAI前科学家建安全超级智能实验室；腾讯招聘新增「AI 大模型」专项 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139824099)
 
