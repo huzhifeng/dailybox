@@ -1,3 +1,6 @@
+## 20240622
+- [GitHub Trending](https://github.com/trending?since=daily) | [niedev/RTranslator](https://github.com/niedev/RTranslator)
+
 ## 20240621
 - [GitHub Trending](https://github.com/trending?since=daily) | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
 

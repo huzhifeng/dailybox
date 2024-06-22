@@ -1,3 +1,6 @@
+## 20240622
+- [BlogFinder](https://bf.zzxworld.com/) | [物业缴费礼包](https://dujun.io/1798.html?utm_source=blogfinder)
+
 ## 20240621
 - [BlogFinder](https://bf.zzxworld.com/) | [火热的车牌歌](http://www.ickg.net/Cultural/chepai.html?utm_source=blogfinder)
 

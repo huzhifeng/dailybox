@@ -1,3 +1,6 @@
+## 20240622
+- [Phoronix](https://www.phoronix.com/) | [AMD AI Compiler Engineer Lands A Generic MLIR To SPIR-V Pass In LLVM 19](https://www.phoronix.com/news/LLVM-19-MLIR-To-SPIR-V)
+
 ## 20240621
 - [Phoronix](https://www.phoronix.com/) | [VKD3D-Proton 2.13 Brings OpenVR/OpenXR Interop & Performance Improvements](https://www.phoronix.com/news/VKD3D-Proton-2.13)
 
