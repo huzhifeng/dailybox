@@ -1,3 +1,6 @@
+## 20240622
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Exclusive Leak: First Look at the Samsung Galaxy Tab S10 Ultra in 5K Renders - Android Headlines](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFuZHJvaWRoZWFkbGluZXMuY29tL3NhbXN1bmctZ2FsYXh5LXRhYi1zMTDSAQA?oc=5)
+
 ## 20240621
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Witcher 3 Dev Congratulates FromSoftware After Elden Ring DLC Shadow of the Erdtree Overtakes Blood and Wine as Best-Reviewed Expansion Ever - IGN](https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5pZ24uY29tL2FydGljbGVzL3dpdGNoZXItMy1kZXYtY29uZ3JhdHVsYXRlcy1mcm9tc29mdHdhcmUtYWZ0ZXItZWxkZW4tcmluZy1kbGMtc2hhZG93LW9mLXRoZS1lcmR0cmVlLW92ZXJ0YWtlcy1ibG9vZC1hbmQtd2luZS1hcy1iZXN0LXJldmlld2VkLWV4cGFuc2lvbi1ldmVy0gEA?oc=5)
 

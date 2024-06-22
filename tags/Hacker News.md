@@ -1,3 +1,8 @@
+## 20240622
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-21](https://www.daemonology.net/hn-daily/2024-06-21.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-22](https://github.com/headllines/hackernews-daily/issues/1443)
+- [Hacker News](https://news.ycombinator.com/front) | [Language is primarily a tool for communication rather than thought [pdf]](https://news.ycombinator.com/item?id=40756176)
+
 ## 20240621
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-20](https://www.daemonology.net/hn-daily/2024-06-20.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-21](https://github.com/headllines/hackernews-daily/issues/1442)

@@ -1,3 +1,6 @@
+## 20240622
+- [V2EX](https://www.v2ex.com/) | [PotPlayer 为什么有那么多人推荐](https://www.v2ex.com/t/1051681)
+
 ## 20240621
 - [V2EX](https://www.v2ex.com/) | [问问大家的收入支出比是多少？](https://www.v2ex.com/t/1051421)
 
