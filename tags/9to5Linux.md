@@ -1,3 +1,6 @@
+## 20240623
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.9.2 Desktop Arrives with Bug Fixes as Wayland Porting Continues](https://9to5linux.com/budgie-10-9-2-desktop-arrives-with-bug-fixes-as-wayland-porting-continues)
+
 ## 20240618
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-1-desktop-environment-officially-released-heres-whats-new)
 

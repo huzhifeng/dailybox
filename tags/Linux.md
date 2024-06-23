@@ -1,3 +1,7 @@
+## 20240623
+- [Phoronix](https://www.phoronix.com/) | [Amazon Exploring MM-Local Memory Allocations To Help With Current/Future Speculation Attacks](https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs)
+- [9to5Linux](https://9to5linux.com/) | [Budgie 10.9.2 Desktop Arrives with Bug Fixes as Wayland Porting Continues](https://9to5linux.com/budgie-10-9-2-desktop-arrives-with-bug-fixes-as-wayland-porting-continues)
+
 ## 20240622
 - [Phoronix](https://www.phoronix.com/) | [AMD AI Compiler Engineer Lands A Generic MLIR To SPIR-V Pass In LLVM 19](https://www.phoronix.com/news/LLVM-19-MLIR-To-SPIR-V)
 

@@ -1,3 +1,6 @@
+## 20240623
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Galaxy Tab S10 Ultra Renders Barely Show Any Difference Compared To Galaxy Tab S9 Ultra, Hinting At Just An Internal Specifications Upgrade - Wccftech](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd2NjZnRlY2guY29tL2dhbGF4eS10YWItczEwLXVsdHJhLXJlbmRlcnMtbGl0dGxlLXRvLW5vLWRpZmZlcmVuY2Utd2l0aC1nYWxheHktdGFiLXM5LXVsdHJhL9IBZ2h0dHBzOi8vd2NjZnRlY2guY29tL2dhbGF4eS10YWItczEwLXVsdHJhLXJlbmRlcnMtbGl0dGxlLXRvLW5vLWRpZmZlcmVuY2Utd2l0aC1nYWxheHktdGFiLXM5LXVsdHJhL2FtcC8?oc=5)
+
 ## 20240622
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Exclusive Leak: First Look at the Samsung Galaxy Tab S10 Ultra in 5K Renders - Android Headlines](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFuZHJvaWRoZWFkbGluZXMuY29tL3NhbXN1bmctZ2FsYXh5LXRhYi1zMTDSAQA?oc=5)
 
