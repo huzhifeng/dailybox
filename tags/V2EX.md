@@ -1,3 +1,6 @@
+## 20240623
+- [V2EX](https://www.v2ex.com/) | [心梗后还会有公司要吗？](https://www.v2ex.com/t/1051851)
+
 ## 20240622
 - [V2EX](https://www.v2ex.com/) | [PotPlayer 为什么有那么多人推荐](https://www.v2ex.com/t/1051681)
 

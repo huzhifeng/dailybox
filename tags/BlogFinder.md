@@ -1,3 +1,6 @@
+## 20240623
+- [BlogFinder](https://bf.zzxworld.com/) | ["酷热难耐：身体好转却遭痱子“侵袭"叶开新动态](https://qq.md/post/737?utm_source=blogfinder)
+
 ## 20240622
 - [BlogFinder](https://bf.zzxworld.com/) | [物业缴费礼包](https://dujun.io/1798.html?utm_source=blogfinder)
 

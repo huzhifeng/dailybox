@@ -1,3 +1,6 @@
+## 20240623
+- [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
 ## 20240622
 - [GitHub Trending](https://github.com/trending?since=daily) | [niedev/RTranslator](https://github.com/niedev/RTranslator)
 
