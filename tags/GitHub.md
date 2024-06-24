@@ -1,3 +1,7 @@
+## 20240624
+- [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [PrinceG4ming/Sherbet-Bot](https://github.com/PrinceG4ming/Sherbet-Bot)
+
 ## 20240623
 - [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 

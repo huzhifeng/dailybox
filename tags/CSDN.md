@@ -1,3 +1,6 @@
+## 20240624
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军：做支持苹果生态最好的汽车；特斯拉今年已裁员超 14%；华为仓颉语言首次公开 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139916714)
+
 ## 20240621
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米回应副董事长套现1.6亿；OpenAI竞品发布最强AI模型Claude 3.5；传苹果AI寻求与中国本土企业合作|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139849673)
 

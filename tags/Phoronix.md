@@ -1,3 +1,6 @@
+## 20240624
+- [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.7 Brings Fixes, Better ARM Performance & Preps For New Server](https://www.phoronix.com/news/Llamafile-0.8.7-Released)
+
 ## 20240623
 - [Phoronix](https://www.phoronix.com/) | [Amazon Exploring MM-Local Memory Allocations To Help With Current/Future Speculation Attacks](https://www.phoronix.com/news/Linux-MM-Local-Kernel-Allocs)
 

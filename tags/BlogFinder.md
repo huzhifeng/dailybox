@@ -1,3 +1,6 @@
+## 20240624
+- [BlogFinder](https://bf.zzxworld.com/) | [毕业的诗（四）：苏幕遮·离乡](https://lostdeer.xyz/poem-for-graduation-ep4/?utm_source=blogfinder)
+
 ## 20240623
 - [BlogFinder](https://bf.zzxworld.com/) | ["酷热难耐：身体好转却遭痱子“侵袭"叶开新动态](https://qq.md/post/737?utm_source=blogfinder)
 

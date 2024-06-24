@@ -1,3 +1,6 @@
+## 20240624
+- [It's FOSS](https://itsfoss.com/) | [Using LM Studio to Run LLMs Easily, Locally and Privately](https://itsfoss.com/lm-studio-linux/)
+
 ## 20240620
 - [It's FOSS](https://itsfoss.com/) | [Fixing Applications Icon Missing from the Launcher in Ubuntu](https://itsfoss.com/ubuntu-app-icon-missing/)
 
