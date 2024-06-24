@@ -1,3 +1,8 @@
+## 20240624
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-23](https://www.daemonology.net/hn-daily/2024-06-23.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-24](https://github.com/headllines/hackernews-daily/issues/1445)
+- [Hacker News](https://news.ycombinator.com/front) | [Microfeatures I love in blogs and personal websites](https://news.ycombinator.com/item?id=40774277)
+
 ## 20240623
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-22](https://www.daemonology.net/hn-daily/2024-06-22.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-23](https://github.com/headllines/hackernews-daily/issues/1444)

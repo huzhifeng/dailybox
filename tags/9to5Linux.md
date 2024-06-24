@@ -1,3 +1,6 @@
+## 20240624
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024)
+
 ## 20240623
 - [9to5Linux](https://9to5linux.com/) | [Budgie 10.9.2 Desktop Arrives with Bug Fixes as Wayland Porting Continues](https://9to5linux.com/budgie-10-9-2-desktop-arrives-with-bug-fixes-as-wayland-porting-continues)
 
