@@ -1,3 +1,6 @@
+## 20240625
+- [BlogFinder](https://bf.zzxworld.com/) | [毕业的诗（五）：童年与夏天](https://lostdeer.xyz/poem-for-graduation-ep5/?utm_source=blogfinder)
+
 ## 20240624
 - [BlogFinder](https://bf.zzxworld.com/) | [毕业的诗（四）：苏幕遮·离乡](https://lostdeer.xyz/poem-for-graduation-ep4/?utm_source=blogfinder)
 

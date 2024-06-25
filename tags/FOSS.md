@@ -1,3 +1,6 @@
+## 20240625
+- [It's FOSS](https://itsfoss.com/) | [Exploring the Default Tiling Windows Feature in Ubuntu 24.04 (and Enhancing it)](https://itsfoss.com/ubuntu-tiling-windows/)
+
 ## 20240624
 - [It's FOSS](https://itsfoss.com/) | [Using LM Studio to Run LLMs Easily, Locally and Privately](https://itsfoss.com/lm-studio-linux/)
 

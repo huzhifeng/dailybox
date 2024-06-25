@@ -1,3 +1,6 @@
+## 20240625
+- [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
 ## 20240624
 - [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [PrinceG4ming/Sherbet-Bot](https://github.com/PrinceG4ming/Sherbet-Bot)

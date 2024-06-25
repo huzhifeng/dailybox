@@ -1,3 +1,6 @@
+## 20240625
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [字节跳动回应“与博通合作研发AI芯片”：消息不实；拼多多“自动跟价”被曝调整；马斯克560亿美元薪酬案远未结束 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139951706)
+
 ## 20240624
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军：做支持苹果生态最好的汽车；特斯拉今年已裁员超 14%；华为仓颉语言首次公开 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139916714)
 

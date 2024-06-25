@@ -1,3 +1,6 @@
+## 20240625
+- [V2EX](https://www.v2ex.com/) | [你都见过哪些非常稀少的姓氏？](https://www.v2ex.com/t/1052471)
+
 ## 20240624
 - [V2EX](https://www.v2ex.com/) | [高考数学 145 左右很高吗](https://www.v2ex.com/t/1052172)
 

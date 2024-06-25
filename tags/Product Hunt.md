@@ -1,3 +1,6 @@
+## 20240625
+- [Product Hunt](https://www.producthunt.com) | [Ozone](https://www.producthunt.com/posts/ozone-3)
+
 ## 20240624
 - [Product Hunt](https://www.producthunt.com) | [Bright](https://www.producthunt.com/posts/bright-51100347-8b81-41db-a2ec-e839017e00cd)
 
