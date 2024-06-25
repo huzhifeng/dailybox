@@ -1,3 +1,7 @@
+## 20240625
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics](https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Unveils the InfinityBook Pro 15 Gen9 Linux Ultrabook](https://9to5linux.com/tuxedo-computers-unveils-the-infinitybook-pro-15-gen9-linux-ultrabook)
+
 ## 20240624
 - [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.7 Brings Fixes, Better ARM Performance & Preps For New Server](https://www.phoronix.com/news/Llamafile-0.8.7-Released)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024)

@@ -1,3 +1,6 @@
+## 20240625
+- [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Google rolls out Gemini side panels for Gmail and other Workspace apps - Engadget](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9nb29nbGUtcm9sbHMtb3V0LWdlbWluaS1zaWRlLXBhbmVscy1mb3ItZ21haWwtYW5kLW90aGVyLXdvcmtzcGFjZS1hcHBzLTEyMzAzODAzNC5odG1s0gEA?oc=5)
+
 ## 20240624
 - [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB) | [Review: Super Monkey Ball Banana Rumble (Switch) - Super Single-Player, But Multiplayer's A Mess - Nintendo Life](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vcmV2aWV3cy9uaW50ZW5kby1zd2l0Y2gvc3VwZXItbW9ua2V5LWJhbGwtYmFuYW5hLXJ1bWJsZdIBAA?oc=5)
 

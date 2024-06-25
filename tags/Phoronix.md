@@ -1,3 +1,6 @@
+## 20240625
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics](https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU)
+
 ## 20240624
 - [Phoronix](https://www.phoronix.com/) | [Llamafile 0.8.7 Brings Fixes, Better ARM Performance & Preps For New Server](https://www.phoronix.com/news/Llamafile-0.8.7-Released)
 

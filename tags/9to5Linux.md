@@ -1,3 +1,6 @@
+## 20240625
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Unveils the InfinityBook Pro 15 Gen9 Linux Ultrabook](https://9to5linux.com/tuxedo-computers-unveils-the-infinitybook-pro-15-gen9-linux-ultrabook)
+
 ## 20240624
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024)
 
