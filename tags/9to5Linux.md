@@ -1,3 +1,6 @@
+## 20240626
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s Text-Mode Installer Gets Experimental LVM Support](https://9to5linux.com/arch-linuxs-text-mode-installer-gets-experimental-lvm-support)
+
 ## 20240625
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Unveils the InfinityBook Pro 15 Gen9 Linux Ultrabook](https://9to5linux.com/tuxedo-computers-unveils-the-infinitybook-pro-15-gen9-linux-ultrabook)
 

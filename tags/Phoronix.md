@@ -1,3 +1,6 @@
+## 20240626
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer "Archinstall" 2.8.1 Adds Experimental LVM Support](https://www.phoronix.com/news/Archinstall-2.8.1-Released)
+
 ## 20240625
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics](https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU)
 

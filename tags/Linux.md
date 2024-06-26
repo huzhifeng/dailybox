@@ -1,3 +1,7 @@
+## 20240626
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer "Archinstall" 2.8.1 Adds Experimental LVM Support](https://www.phoronix.com/news/Archinstall-2.8.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s Text-Mode Installer Gets Experimental LVM Support](https://9to5linux.com/arch-linuxs-text-mode-installer-gets-experimental-lvm-support)
+
 ## 20240625
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.1 Performing Much Better On Older Intel Integrated Graphics](https://www.phoronix.com/news/KDE-Plasma-6.1-Intel-iGPU)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Unveils the InfinityBook Pro 15 Gen9 Linux Ultrabook](https://9to5linux.com/tuxedo-computers-unveils-the-infinitybook-pro-15-gen9-linux-ultrabook)
