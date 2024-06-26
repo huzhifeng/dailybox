@@ -158,13 +158,6 @@
 			"tags": ["V2EX"]
 		},
 		{
-			"channel": "Google News",
-			"portal": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
-			"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
-			"category": "资讯",
-			"tags": ["Google News"]
-		},
-		{
 			"channel": "Hacker News Daily",
 			"portal": "https://www.daemonology.net/hn-daily/",
 			"url": "https://www.daemonology.net/hn-daily/index.rss",
