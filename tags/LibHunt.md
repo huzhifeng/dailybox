@@ -1,3 +1,6 @@
+## 20240626
+- [LibHunt](https://www.libhunt.com/) | [ball](https://www.libhunt.com/r/ball)
+
 ## 20240624
 - [LibHunt](https://www.libhunt.com/) | [cli](https://www.libhunt.com/r/docker/cli)
 

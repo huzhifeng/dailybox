@@ -1,3 +1,6 @@
+## 20240626
+- [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
 ## 20240625
 - [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 

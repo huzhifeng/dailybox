@@ -1,3 +1,6 @@
+## 20240626
+- [V2EX](https://www.v2ex.com/) | [侄儿今年高考，确定学计算机专业，求帮忙选择学校](https://www.v2ex.com/t/1052736)
+
 ## 20240625
 - [V2EX](https://www.v2ex.com/) | [你都见过哪些非常稀少的姓氏？](https://www.v2ex.com/t/1052471)
 

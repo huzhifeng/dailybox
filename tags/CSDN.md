@@ -1,3 +1,6 @@
+## 20240626
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI API不能用？多家国产大模型公司推出替代方案；欧盟指控微软违反反垄断法；苹果拒绝PC模拟器进入iOS |极客头条](https://blog.csdn.net/weixin_39786569/article/details/139981760)
+
 ## 20240625
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [字节跳动回应“与博通合作研发AI芯片”：消息不实；拼多多“自动跟价”被曝调整；马斯克560亿美元薪酬案远未结束 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139951706)
 

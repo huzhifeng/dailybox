@@ -1,3 +1,6 @@
+## 20240626
+- [Product Hunt](https://www.producthunt.com) | [The Fittest](https://www.producthunt.com/posts/the-fittest)
+
 ## 20240625
 - [Product Hunt](https://www.producthunt.com) | [Ozone](https://www.producthunt.com/posts/ozone-3)
 
