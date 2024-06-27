@@ -1,3 +1,6 @@
+## 20240627
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/)
+
 ## 20240625
 - [It's FOSS](https://itsfoss.com/) | [Exploring the Default Tiling Windows Feature in Ubuntu 24.04 (and Enhancing it)](https://itsfoss.com/ubuntu-tiling-windows/)
 

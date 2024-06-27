@@ -1,3 +1,7 @@
+## 20240627
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-26](https://www.daemonology.net/hn-daily/2024-06-26.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-27](https://github.com/headllines/hackernews-daily/issues/1448)
+
 ## 20240626
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-25](https://www.daemonology.net/hn-daily/2024-06-25.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-26](https://github.com/headllines/hackernews-daily/issues/1447)

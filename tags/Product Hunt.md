@@ -1,3 +1,6 @@
+## 20240627
+- [Product Hunt](https://www.producthunt.com) | [Figma Slides](https://www.producthunt.com/posts/figma-slides)
+
 ## 20240626
 - [Product Hunt](https://www.producthunt.com) | [The Fittest](https://www.producthunt.com/posts/the-fittest)
 

@@ -1,3 +1,6 @@
+## 20240627
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Released with Asynchronous Processing and Explicit Sync Metadata](https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata)
+
 ## 20240626
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s Text-Mode Installer Gets Experimental LVM Support](https://9to5linux.com/arch-linuxs-text-mode-installer-gets-experimental-lvm-support)
 
