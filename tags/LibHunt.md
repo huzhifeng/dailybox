@@ -1,3 +1,6 @@
+## 20240627
+- [LibHunt](https://www.libhunt.com/) | [telescope.nvim](https://www.libhunt.com/r/telescope.nvim)
+
 ## 20240626
 - [LibHunt](https://www.libhunt.com/) | [ball](https://www.libhunt.com/r/ball)
 

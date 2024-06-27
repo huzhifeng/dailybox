@@ -1,3 +1,6 @@
+## 20240627
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋“涨薪”六成；苹果称iPhone保值率远超安卓：至少40%；微信输入法上线“一键AI问答”功能 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140004255)
+
 ## 20240626
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI API不能用？多家国产大模型公司推出替代方案；欧盟指控微软违反反垄断法；苹果拒绝PC模拟器进入iOS |极客头条](https://blog.csdn.net/weixin_39786569/article/details/139981760)
 

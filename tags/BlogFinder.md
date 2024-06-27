@@ -1,3 +1,6 @@
+## 20240627
+- [BlogFinder](https://bf.zzxworld.com/) | [GLB转换到B3DM](https://dengqn.com/article/2442?utm_source=blogfinder)
+
 ## 20240626
 - [BlogFinder](https://bf.zzxworld.com/) | [10、常见问题：过度减脂，损害健康](https://www.xn--ptua509t.com/jianzhi10/6313/?utm_source=blogfinder)
 

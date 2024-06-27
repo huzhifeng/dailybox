@@ -1,3 +1,6 @@
+## 20240627
+- [V2EX](https://www.v2ex.com/) | [有偿出金咨询，采用 50-100U 酬劳。](https://www.v2ex.com/t/1053097)
+
 ## 20240626
 - [V2EX](https://www.v2ex.com/) | [侄儿今年高考，确定学计算机专业，求帮忙选择学校](https://www.v2ex.com/t/1052736)
 

@@ -1,3 +1,6 @@
+## 20240627
+- [Phoronix](https://www.phoronix.com/) | [PipeWire 1.2 Released With Async Processing, Explicit Sync & Other Features](https://www.phoronix.com/news/PipeWire-1.2-Released)
+
 ## 20240626
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer "Archinstall" 2.8.1 Adds Experimental LVM Support](https://www.phoronix.com/news/Archinstall-2.8.1-Released)
 
