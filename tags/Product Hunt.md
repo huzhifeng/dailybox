@@ -1,3 +1,6 @@
+## 20240628
+- [Product Hunt](https://www.producthunt.com) | [Hi.Events](https://www.producthunt.com/posts/hi-events)
+
 ## 20240627
 - [Product Hunt](https://www.producthunt.com) | [Figma Slides](https://www.producthunt.com/posts/figma-slides)
 
