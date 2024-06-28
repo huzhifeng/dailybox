@@ -1,3 +1,6 @@
+## 20240628
+- [It's FOSS](https://itsfoss.com/) | [This SBC Puts Raspberry Pi 5 to Shame](https://itsfoss.com/arosom-sige7-review/)
+
 ## 20240627
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/)
 

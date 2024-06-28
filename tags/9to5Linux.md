@@ -1,3 +1,6 @@
+## 20240628
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 M.2 HAT+ Review: It Just Works!](https://9to5linux.com/raspberry-pi-5-m-2-hat-review-it-just-works)
+
 ## 20240627
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Released with Asynchronous Processing and Explicit Sync Metadata](https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata)
 

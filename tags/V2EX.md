@@ -1,3 +1,6 @@
+## 20240628
+- [V2EX](https://www.v2ex.com/) | [做了个 AI 海龟汤小游戏，恐怖慎入](https://www.v2ex.com/t/1053293)
+
 ## 20240627
 - [V2EX](https://www.v2ex.com/) | [有偿出金咨询，采用 50-100U 酬劳。](https://www.v2ex.com/t/1053097)
 

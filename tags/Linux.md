@@ -1,3 +1,7 @@
+## 20240628
+- [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Gets WebGPU Running On OpenGL ES & Other New Features](https://www.phoronix.com/news/Servo-June-2024-Update)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 M.2 HAT+ Review: It Just Works!](https://9to5linux.com/raspberry-pi-5-m-2-hat-review-it-just-works)
+
 ## 20240627
 - [Phoronix](https://www.phoronix.com/) | [PipeWire 1.2 Released With Async Processing, Explicit Sync & Other Features](https://www.phoronix.com/news/PipeWire-1.2-Released)
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.2 Released with Asynchronous Processing and Explicit Sync Metadata](https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata)

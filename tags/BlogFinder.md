@@ -1,3 +1,6 @@
+## 20240628
+- [BlogFinder](https://bf.zzxworld.com/) | [七年级下册历史选择题解题方法](https://www.wanghao.me/beizhanqimozhiqinianjixiacelishixuanzetijietifangfa.html?utm_source=blogfinder)
+
 ## 20240627
 - [BlogFinder](https://bf.zzxworld.com/) | [GLB转换到B3DM](https://dengqn.com/article/2442?utm_source=blogfinder)
 

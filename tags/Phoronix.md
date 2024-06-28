@@ -1,3 +1,6 @@
+## 20240628
+- [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Gets WebGPU Running On OpenGL ES & Other New Features](https://www.phoronix.com/news/Servo-June-2024-Update)
+
 ## 20240627
 - [Phoronix](https://www.phoronix.com/) | [PipeWire 1.2 Released With Async Processing, Explicit Sync & Other Features](https://www.phoronix.com/news/PipeWire-1.2-Released)
 

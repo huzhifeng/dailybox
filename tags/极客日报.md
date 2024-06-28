@@ -1,3 +1,6 @@
+## 20240628
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [荣耀CMO辟谣采用华为芯片；百度：超千万考生用AI填报志愿；OpenAI推出CriticGPT新模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140034849)
+
 ## 20240627
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [黄仁勋“涨薪”六成；苹果称iPhone保值率远超安卓：至少40%；微信输入法上线“一键AI问答”功能 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140004255)
 
