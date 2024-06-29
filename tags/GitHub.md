@@ -1,3 +1,6 @@
+## 20240629
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
 ## 20240628
 - [GitHub Trending](https://github.com/trending?since=daily) | [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 

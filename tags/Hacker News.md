@@ -1,3 +1,8 @@
+## 20240629
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-28](https://www.daemonology.net/hn-daily/2024-06-28.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-29](https://github.com/headllines/hackernews-daily/issues/1450)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-06-29 | 谷歌最强开源模型Gemma 2发布，270亿参数，超越 Llama 3](https://www.xiaoyuzhoufm.com/episode/667fa86c077b88831b0507f4)
+
 ## 20240628
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-27](https://www.daemonology.net/hn-daily/2024-06-27.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-28](https://github.com/headllines/hackernews-daily/issues/1449)

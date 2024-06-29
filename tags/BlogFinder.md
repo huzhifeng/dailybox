@@ -1,3 +1,6 @@
+## 20240629
+- [BlogFinder](https://bf.zzxworld.com/) | [再现经典曲目——日本一30周年音乐会](https://www.wikimoe.com/post/j6u2eepg?utm_source=blogfinder)
+
 ## 20240628
 - [BlogFinder](https://bf.zzxworld.com/) | [七年级下册历史选择题解题方法](https://www.wanghao.me/beizhanqimozhiqinianjixiacelishixuanzetijietifangfa.html?utm_source=blogfinder)
 
