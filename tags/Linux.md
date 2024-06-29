@@ -1,3 +1,6 @@
+## 20240629
+- [Phoronix](https://www.phoronix.com/) | [Linux Prepares New Spectre BHI Mitigation Option For Cloud Environments](https://www.phoronix.com/news/Linux-Spectre-BHI-VMEXIT)
+
 ## 20240628
 - [Phoronix](https://www.phoronix.com/) | [Servo Web Engine Gets WebGPU Running On OpenGL ES & Other New Features](https://www.phoronix.com/news/Servo-June-2024-Update)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 M.2 HAT+ Review: It Just Works!](https://9to5linux.com/raspberry-pi-5-m-2-hat-review-it-just-works)

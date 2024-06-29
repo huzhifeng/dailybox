@@ -1,3 +1,6 @@
+## 20240629
+- [LibHunt](https://www.libhunt.com/) | [ImHex](https://www.libhunt.com/r/ImHex)
+
 ## 20240627
 - [LibHunt](https://www.libhunt.com/) | [telescope.nvim](https://www.libhunt.com/r/telescope.nvim)
 
