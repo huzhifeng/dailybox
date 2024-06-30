@@ -1,3 +1,8 @@
+## 20240630
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-29](https://www.daemonology.net/hn-daily/2024-06-29.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-30](https://github.com/headllines/hackernews-daily/issues/1451)
+- [Hacker News](https://news.ycombinator.com/front) | [Inside a $1 radar motion sensor](https://news.ycombinator.com/item?id=40834349)
+
 ## 20240629
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-28](https://www.daemonology.net/hn-daily/2024-06-28.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-29](https://github.com/headllines/hackernews-daily/issues/1450)
