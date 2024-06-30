@@ -1,3 +1,6 @@
+## 20240630
+- [GitHub Trending](https://github.com/trending?since=daily) | [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+
 ## 20240629
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 

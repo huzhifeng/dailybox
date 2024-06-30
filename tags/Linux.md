@@ -1,3 +1,6 @@
+## 20240630
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11](https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory)
+
 ## 20240629
 - [Phoronix](https://www.phoronix.com/) | [Linux Prepares New Spectre BHI Mitigation Option For Cloud Environments](https://www.phoronix.com/news/Linux-Spectre-BHI-VMEXIT)
 

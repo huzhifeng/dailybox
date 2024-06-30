@@ -1,3 +1,6 @@
+## 20240630
+- [V2EX](https://www.v2ex.com/) | [如何一天内喝掉 2L 以上的白开水](https://www.v2ex.com/t/1053698)
+
 ## 20240629
 - [V2EX](https://www.v2ex.com/) | [关于小区地下停车的问题，希望给点建议](https://www.v2ex.com/t/1053573)
 

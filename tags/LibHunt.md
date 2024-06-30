@@ -1,3 +1,6 @@
+## 20240630
+- [LibHunt](https://www.libhunt.com/) | [connect-es](https://www.libhunt.com/r/connect-es)
+
 ## 20240629
 - [LibHunt](https://www.libhunt.com/) | [ImHex](https://www.libhunt.com/r/ImHex)
 

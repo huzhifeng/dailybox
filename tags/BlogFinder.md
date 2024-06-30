@@ -1,3 +1,6 @@
+## 20240630
+- [BlogFinder](https://bf.zzxworld.com/) | [人生首野----温岭黄金海岸越野赛](http://www.huih110.com/archives/wlyyp?utm_source=blogfinder)
+
 ## 20240629
 - [BlogFinder](https://bf.zzxworld.com/) | [再现经典曲目——日本一30周年音乐会](https://www.wikimoe.com/post/j6u2eepg?utm_source=blogfinder)
 
