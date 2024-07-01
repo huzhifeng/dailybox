@@ -1,3 +1,6 @@
+## 20240701
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [不正当抓取高德地图“拥堵延时指数”，万得公司一审判赔1250万元；余承东回母校致辞：定位决定地位，眼界决定境界 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140093242)
+
 ## 20240628
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [荣耀CMO辟谣采用华为芯片；百度：超千万考生用AI填报志愿；OpenAI推出CriticGPT新模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140034849)
 

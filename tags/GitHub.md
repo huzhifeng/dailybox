@@ -1,3 +1,6 @@
+## 20240701
+- [GitHub Trending](https://github.com/trending?since=daily) | [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
+
 ## 20240630
 - [GitHub Trending](https://github.com/trending?since=daily) | [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 

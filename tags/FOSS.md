@@ -1,3 +1,6 @@
+## 20240701
+- [It's FOSS](https://itsfoss.com/) | [What is Ollama? Everything Important You Should Know](https://itsfoss.com/ollama/)
+
 ## 20240628
 - [It's FOSS](https://itsfoss.com/) | [This SBC Puts Raspberry Pi 5 to Shame](https://itsfoss.com/arosom-sige7-review/)
 

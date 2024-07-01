@@ -1,3 +1,6 @@
+## 20240701
+- [V2EX](https://www.v2ex.com/) | [V 友们是如何确定自己血型的](https://www.v2ex.com/t/1053957)
+
 ## 20240630
 - [V2EX](https://www.v2ex.com/) | [如何一天内喝掉 2L 以上的白开水](https://www.v2ex.com/t/1053698)
 

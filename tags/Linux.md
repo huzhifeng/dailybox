@@ -1,3 +1,7 @@
+## 20240701
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 4 vs. Intel Core Ultra 7 "Meteor Lake" In 400+ Benchmarks On Linux 6.10](https://www.phoronix.com/review/linux-610-amd-zen4-intel-meteorlake)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Beta Released with Cinnamon 6.2, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-beta-released-with-cinnamon-6-2-based-on-ubuntu-24-04-lts)
+
 ## 20240630
 - [Phoronix](https://www.phoronix.com/) | [RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11](https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory)
 

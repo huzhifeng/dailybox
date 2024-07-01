@@ -1,3 +1,6 @@
+## 20240701
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Beta Released with Cinnamon 6.2, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-beta-released-with-cinnamon-6-2-based-on-ubuntu-24-04-lts)
+
 ## 20240628
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 5 M.2 HAT+ Review: It Just Works!](https://9to5linux.com/raspberry-pi-5-m-2-hat-review-it-just-works)
 
