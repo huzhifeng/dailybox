@@ -1,3 +1,8 @@
+## 20240701
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-30](https://www.daemonology.net/hn-daily/2024-06-30.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-01](https://github.com/headllines/hackernews-daily/issues/1452)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: I created an After Effects alternative](https://news.ycombinator.com/item?id=40843867)
+
 ## 20240630
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-29](https://www.daemonology.net/hn-daily/2024-06-29.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-06-30](https://github.com/headllines/hackernews-daily/issues/1451)

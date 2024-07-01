@@ -1,3 +1,6 @@
+## 20240701
+- [BlogFinder](https://bf.zzxworld.com/) | [最近在听术曲](https://doufoo.com/archives/vocaloid/?utm_source=blogfinder)
+
 ## 20240630
 - [BlogFinder](https://bf.zzxworld.com/) | [人生首野----温岭黄金海岸越野赛](http://www.huih110.com/archives/wlyyp?utm_source=blogfinder)
 

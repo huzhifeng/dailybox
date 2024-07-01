@@ -1,3 +1,6 @@
+## 20240701
+- [Product Hunt](https://www.producthunt.com) | [Hostel Hop](https://www.producthunt.com/posts/hostel-hop)
+
 ## 20240630
 - [Product Hunt](https://www.producthunt.com) | [AI VisionBoard](https://www.producthunt.com/posts/ai-visionboard)
 

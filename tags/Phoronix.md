@@ -1,3 +1,6 @@
+## 20240701
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 4 vs. Intel Core Ultra 7 "Meteor Lake" In 400+ Benchmarks On Linux 6.10](https://www.phoronix.com/review/linux-610-amd-zen4-intel-meteorlake)
+
 ## 20240630
 - [Phoronix](https://www.phoronix.com/) | [RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11](https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory)
 
