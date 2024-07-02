@@ -1,3 +1,6 @@
+## 20240702
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
 ## 20240701
 - [GitHub Trending](https://github.com/trending?since=daily) | [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
 

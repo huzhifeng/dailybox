@@ -1,3 +1,6 @@
+## 20240702
+- [Product Hunt](https://www.producthunt.com) | [Vidiosa](https://www.producthunt.com/posts/vidiosa)
+
 ## 20240701
 - [Product Hunt](https://www.producthunt.com) | [Hostel Hop](https://www.producthunt.com/posts/hostel-hop)
 
