@@ -1,3 +1,6 @@
+## 20240702
+- [BlogFinder](https://bf.zzxworld.com/) | [华为控制器安装工具EasySuite参数修改](https://www.x8xx.cn/777.html?utm_source=blogfinder)
+
 ## 20240701
 - [BlogFinder](https://bf.zzxworld.com/) | [最近在听术曲](https://doufoo.com/archives/vocaloid/?utm_source=blogfinder)
 

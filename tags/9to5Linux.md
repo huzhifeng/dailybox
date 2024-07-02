@@ -1,3 +1,6 @@
+## 20240702
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.5.1 Released with Linux Kernel 6.9 and NVIDIA 555 Graphics Driver](https://9to5linux.com/nitrux-3-5-1-released-with-linux-kernel-6-9-and-nvidia-555-graphics-driver)
+
 ## 20240701
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22 Beta Released with Cinnamon 6.2, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-mint-22-beta-released-with-cinnamon-6-2-based-on-ubuntu-24-04-lts)
 

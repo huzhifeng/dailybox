@@ -1,3 +1,6 @@
+## 20240702
+- [V2EX](https://www.v2ex.com/) | [想做一个在家显示峰谷电价时间段的 app](https://www.v2ex.com/t/1054219)
+
 ## 20240701
 - [V2EX](https://www.v2ex.com/) | [V 友们是如何确定自己血型的](https://www.v2ex.com/t/1053957)
 

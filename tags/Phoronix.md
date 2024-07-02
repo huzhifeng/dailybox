@@ -1,3 +1,6 @@
+## 20240702
+- [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Matures To Having A Minimum Rust Toolchain Version](https://www.phoronix.com/news/Linux-Patches-Multiple-Rust-Ver)
+
 ## 20240701
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 4 vs. Intel Core Ultra 7 "Meteor Lake" In 400+ Benchmarks On Linux 6.10](https://www.phoronix.com/review/linux-610-amd-zen4-intel-meteorlake)
 

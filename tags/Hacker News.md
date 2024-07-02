@@ -1,3 +1,9 @@
+## 20240702
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-01](https://www.daemonology.net/hn-daily/2024-07-01.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-02](https://github.com/headllines/hackernews-daily/issues/1453)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-02 | 荷兰使用 3x3 的手写字母代替邮票](https://www.xiaoyuzhoufm.com/episode/6683dc30cdd230b23bb690fe)
+- [Hacker News](https://news.ycombinator.com/front) | [Why Is Chile So Long?](https://news.ycombinator.com/item?id=40856030)
+
 ## 20240701
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-06-30](https://www.daemonology.net/hn-daily/2024-06-30.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-01](https://github.com/headllines/hackernews-daily/issues/1452)

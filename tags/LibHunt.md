@@ -1,3 +1,6 @@
+## 20240702
+- [LibHunt](https://www.libhunt.com/) | [edna](https://www.libhunt.com/r/edna)
+
 ## 20240701
 - [LibHunt](https://www.libhunt.com/) | [cli](https://www.libhunt.com/r/snyk/cli)
 
