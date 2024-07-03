@@ -1,3 +1,6 @@
+## 20240703
+- [V2EX](https://www.v2ex.com/) | [被裁后去验血，空腹血糖接近 8.7，尿酸还高…](https://www.v2ex.com/t/1054537)
+
 ## 20240702
 - [V2EX](https://www.v2ex.com/) | [想做一个在家显示峰谷电价时间段的 app](https://www.v2ex.com/t/1054219)
 
