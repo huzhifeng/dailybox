@@ -1,3 +1,6 @@
+## 20240703
+- [Product Hunt](https://www.producthunt.com) | [Suno](https://www.producthunt.com/posts/suno-2)
+
 ## 20240702
 - [Product Hunt](https://www.producthunt.com) | [Vidiosa](https://www.producthunt.com/posts/vidiosa)
 

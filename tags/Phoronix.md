@@ -1,3 +1,6 @@
+## 20240703
+- [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 Taking Shape, Fedora-Flavored Kernels From Kmods SIG](https://www.phoronix.com/news/CentOS-June-2024)
+
 ## 20240702
 - [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Matures To Having A Minimum Rust Toolchain Version](https://www.phoronix.com/news/Linux-Patches-Multiple-Rust-Ver)
 

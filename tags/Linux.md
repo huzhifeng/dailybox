@@ -1,3 +1,6 @@
+## 20240703
+- [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 Taking Shape, Fedora-Flavored Kernels From Kmods SIG](https://www.phoronix.com/news/CentOS-June-2024)
+
 ## 20240702
 - [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Matures To Having A Minimum Rust Toolchain Version](https://www.phoronix.com/news/Linux-Patches-Multiple-Rust-Ver)
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.5.1 Released with Linux Kernel 6.9 and NVIDIA 555 Graphics Driver](https://9to5linux.com/nitrux-3-5-1-released-with-linux-kernel-6-9-and-nvidia-555-graphics-driver)
