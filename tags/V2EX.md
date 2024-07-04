@@ -1,3 +1,6 @@
+## 20240704
+- [V2EX](https://www.v2ex.com/) | [特斯拉还会降价吗](https://www.v2ex.com/t/1054789)
+
 ## 20240703
 - [V2EX](https://www.v2ex.com/) | [被裁后去验血，空腹血糖接近 8.7，尿酸还高…](https://www.v2ex.com/t/1054537)
 

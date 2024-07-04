@@ -1,3 +1,6 @@
+## 20240704
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-24-05-2-is-out-now-with-more-fixes-for-your-favorite-kde-apps)
+
 ## 20240702
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.5.1 Released with Linux Kernel 6.9 and NVIDIA 555 Graphics Driver](https://9to5linux.com/nitrux-3-5-1-released-with-linux-kernel-6-9-and-nvidia-555-graphics-driver)
 

@@ -1,3 +1,6 @@
+## 20240704
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/)
+
 ## 20240701
 - [It's FOSS](https://itsfoss.com/) | [What is Ollama? Everything Important You Should Know](https://itsfoss.com/ollama/)
 
