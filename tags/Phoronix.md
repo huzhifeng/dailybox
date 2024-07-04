@@ -1,3 +1,6 @@
+## 20240704
+- [Phoronix](https://www.phoronix.com/) | [AMD Appears To Be Aiming For Good Radeon RDNA4 GPU Support In Linux 6.11](https://www.phoronix.com/news/AMD-RDNA4-Intent-Linux-6.11)
+
 ## 20240703
 - [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 Taking Shape, Fedora-Flavored Kernels From Kmods SIG](https://www.phoronix.com/news/CentOS-June-2024)
 

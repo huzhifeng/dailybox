@@ -1,3 +1,6 @@
+## 20240704
+- [BlogFinder](https://bf.zzxworld.com/) | [【说说】网站添加了谷歌广告](https://www.dmxvx.cc/873.html?utm_source=blogfinder)
+
 ## 20240703
 - [BlogFinder](https://bf.zzxworld.com/) | [后腰像弹簧](https://pewae.com/2024/07/eurocup-diraries-20240703.html?utm_source=blogfinder)
 

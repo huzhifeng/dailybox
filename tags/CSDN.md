@@ -1,3 +1,6 @@
+## 20240704
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [何小鹏：汽车行业很少人认真做技术；过去十年中国生成式AI专利申请量居全球第一；苹果前员工涉嫌内幕交易被罚838万元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140181669)
+
 ## 20240703
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为回应25亿元转让“问界”商标等；苹果或获得OpenAI董事会观察员职位；​阿里云回应B站、小红书崩了 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140150185)
 
