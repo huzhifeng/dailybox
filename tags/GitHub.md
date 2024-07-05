@@ -1,3 +1,6 @@
+## 20240705
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/graphrag](https://github.com/microsoft/graphrag)
+
 ## 20240704
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 

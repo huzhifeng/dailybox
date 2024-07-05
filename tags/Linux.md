@@ -1,3 +1,6 @@
+## 20240705
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC](https://www.phoronix.com/news/Linux-6.11-Mobileye-EyeQ6H)
+
 ## 20240704
 - [Phoronix](https://www.phoronix.com/) | [AMD Appears To Be Aiming For Good Radeon RDNA4 GPU Support In Linux 6.11](https://www.phoronix.com/news/AMD-RDNA4-Intent-Linux-6.11)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-24-05-2-is-out-now-with-more-fixes-for-your-favorite-kde-apps)

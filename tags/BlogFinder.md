@@ -1,3 +1,6 @@
+## 20240705
+- [BlogFinder](https://bf.zzxworld.com/) | [迟到的对高股息股票的思考](https://www.zyzhang.com/%e8%bf%9f%e5%88%b0%e7%9a%84%e5%af%b9%e9%ab%98%e8%82%a1%e6%81%af%e8%82%a1%e7%a5%a8%e7%9a%84%e6%80%9d%e8%80%83/?utm_source=blogfinder)
+
 ## 20240704
 - [BlogFinder](https://bf.zzxworld.com/) | [【说说】网站添加了谷歌广告](https://www.dmxvx.cc/873.html?utm_source=blogfinder)
 

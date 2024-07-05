@@ -1,3 +1,6 @@
+## 20240705
+- [It's FOSS](https://itsfoss.com/) | [10 Best Linux Distributions for Xfce Desktop](https://itsfoss.com/best-xfce-distributions/)
+
 ## 20240704
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/)
 

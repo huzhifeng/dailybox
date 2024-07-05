@@ -1,3 +1,6 @@
+## 20240705
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [​李彦宏：AI时代应避免掉入超级应用陷阱；黑客曾窃取了OpenAI核心AI技术细节但公司守口如瓶| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140202069)
+
 ## 20240704
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [何小鹏：汽车行业很少人认真做技术；过去十年中国生成式AI专利申请量居全球第一；苹果前员工涉嫌内幕交易被罚838万元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140181669)
 

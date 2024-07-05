@@ -1,3 +1,6 @@
+## 20240705
+- [V2EX](https://www.v2ex.com/) | [为何中国不像西方或者香港一样搞租售同权呢？](https://www.v2ex.com/t/1055140)
+
 ## 20240704
 - [V2EX](https://www.v2ex.com/) | [特斯拉还会降价吗](https://www.v2ex.com/t/1054789)
 
