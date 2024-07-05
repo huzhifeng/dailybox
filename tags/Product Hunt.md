@@ -1,3 +1,6 @@
+## 20240705
+- [Product Hunt](https://www.producthunt.com) | [Voice Isolator by ElevenLabs](https://www.producthunt.com/posts/voice-isolator-by-elevenlabs)
+
 ## 20240704
 - [Product Hunt](https://www.producthunt.com) | [Airclap](https://www.producthunt.com/posts/airclap)
 
