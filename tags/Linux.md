@@ -1,3 +1,6 @@
+## 20240706
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake](https://www.phoronix.com/news/Linux-611-Perf-Arrow-Lunar-Lake)
+
 ## 20240705
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC](https://www.phoronix.com/news/Linux-6.11-Mobileye-EyeQ6H)
 

@@ -1,3 +1,6 @@
+## 20240706
+- [V2EX](https://www.v2ex.com/) | [亲戚家 女生 今年高考，送部 iPhone 15 Pro 1TB 怎么样？她拍照多](https://www.v2ex.com/t/1055299)
+
 ## 20240705
 - [V2EX](https://www.v2ex.com/) | [为何中国不像西方或者香港一样搞租售同权呢？](https://www.v2ex.com/t/1055140)
 

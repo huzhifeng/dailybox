@@ -1,3 +1,6 @@
+## 20240706
+- [LibHunt](https://www.libhunt.com/) | [LivePortrait](https://www.libhunt.com/r/LivePortrait)
+
 ## 20240705
 - [LibHunt](https://www.libhunt.com/) | [antd](https://www.libhunt.com/r/ant-design)
 

@@ -1,3 +1,8 @@
+## 20240706
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-05](https://www.daemonology.net/hn-daily/2024-07-05.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-06](https://github.com/headllines/hackernews-daily/issues/1457)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-06 | 用GPT-4o解读Hacker News招聘数据: 10000 条评论背后的就业市场洞察](https://www.xiaoyuzhoufm.com/episode/6689464e0bc5d7cc7044679b)
+
 ## 20240705
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-04](https://www.daemonology.net/hn-daily/2024-07-04.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-05](https://github.com/headllines/hackernews-daily/issues/1456)

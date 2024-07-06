@@ -1,3 +1,6 @@
+## 20240706
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/graphrag](https://github.com/microsoft/graphrag)
+
 ## 20240705
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/graphrag](https://github.com/microsoft/graphrag)
 
