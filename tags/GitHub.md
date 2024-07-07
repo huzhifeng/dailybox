@@ -1,3 +1,6 @@
+## 20240707
+- [GitHub Trending](https://github.com/trending?since=daily) | [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
 ## 20240706
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/graphrag](https://github.com/microsoft/graphrag)
 

@@ -1,3 +1,6 @@
+## 20240707
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 22 Aims To Be Out This Month After Fixing Many Bugs](https://www.phoronix.com/news/Linux-Mint-22-This-Month)
+
 ## 20240706
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake](https://www.phoronix.com/news/Linux-611-Perf-Arrow-Lunar-Lake)
 

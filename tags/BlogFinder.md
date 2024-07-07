@@ -1,3 +1,6 @@
+## 20240707
+- [BlogFinder](https://bf.zzxworld.com/) | [聊一下 Spring 的 SmartLifecycle 使用](https://nicksxs.me/2024/07/07/%E8%81%8A%E4%B8%80%E4%B8%8B-Spring-%E7%9A%84-SmarLifecycle-%E4%BD%BF%E7%94%A8/?utm_source=blogfinder)
+
 ## 20240706
 - [BlogFinder](https://bf.zzxworld.com/) | [汉字的概念](https://www.dengxiaokang.com/archives/1554.html?utm_source=blogfinder)
 
