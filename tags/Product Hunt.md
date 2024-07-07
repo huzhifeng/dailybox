@@ -1,3 +1,6 @@
+## 20240707
+- [Product Hunt](https://www.producthunt.com) | [MindPal](https://www.producthunt.com/posts/mindpal-3)
+
 ## 20240706
 - [Product Hunt](https://www.producthunt.com) | [Shazam Events](https://www.producthunt.com/posts/shazam-events)
 
