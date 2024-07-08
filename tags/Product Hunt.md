@@ -1,3 +1,6 @@
+## 20240708
+- [Product Hunt](https://www.producthunt.com) | [brickd](https://www.producthunt.com/posts/brickd-2)
+
 ## 20240707
 - [Product Hunt](https://www.producthunt.com) | [MindPal](https://www.producthunt.com/posts/mindpal-3)
 

@@ -1,3 +1,6 @@
+## 20240708
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [内部人士：AMD曾经差点收购NVIDIA；央视评App自动续费：“进坑”容易“出坑”难；​谷歌被曝开发系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140261522)
+
 ## 20240705
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [​李彦宏：AI时代应避免掉入超级应用陷阱；黑客曾窃取了OpenAI核心AI技术细节但公司守口如瓶| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140202069)
 

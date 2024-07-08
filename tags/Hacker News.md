@@ -1,3 +1,9 @@
+## 20240708
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-07](https://www.daemonology.net/hn-daily/2024-07-07.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-08](https://github.com/headllines/hackernews-daily/issues/1459)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-08 | 世界首个无负极钠基固态电池问世：成本低廉更环保](https://www.xiaoyuzhoufm.com/episode/668ba4b5ae8e21859a554558)
+- [Hacker News](https://news.ycombinator.com/front) | [Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes](https://news.ycombinator.com/item?id=40902749)
+
 ## 20240707
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-06](https://www.daemonology.net/hn-daily/2024-07-06.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-07](https://github.com/headllines/hackernews-daily/issues/1458)
