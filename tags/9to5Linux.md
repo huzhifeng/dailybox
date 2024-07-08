@@ -1,3 +1,6 @@
+## 20240708
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 128 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-128-is-now-available-for-download-heres-whats-new)
+
 ## 20240704
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-24-05-2-is-out-now-with-more-fixes-for-your-favorite-kde-apps)
 

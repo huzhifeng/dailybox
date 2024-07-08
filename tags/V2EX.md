@@ -1,3 +1,6 @@
+## 20240708
+- [V2EX](https://www.v2ex.com/) | [感觉电子阳痿了，都不知道玩什么游戏了，你们还在坚持什么游戏？](https://www.v2ex.com/t/1055652)
+
 ## 20240707
 - [V2EX](https://www.v2ex.com/) | [Infuse 8 折优惠活动](https://www.v2ex.com/t/1055441)
 
