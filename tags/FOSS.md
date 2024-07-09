@@ -1,3 +1,6 @@
+## 20240709
+- [It's FOSS](https://itsfoss.com/) | [Check Rockchip NPU Usage on Linux](https://itsfoss.com/monitor-npu-linux/)
+
 ## 20240705
 - [It's FOSS](https://itsfoss.com/) | [10 Best Linux Distributions for Xfce Desktop](https://itsfoss.com/best-xfce-distributions/)
 

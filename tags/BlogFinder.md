@@ -1,3 +1,6 @@
+## 20240709
+- [BlogFinder](https://bf.zzxworld.com/) | [关于选择](https://www.xingzou.org/p/837?utm_source=blogfinder)
+
 ## 20240708
 - [BlogFinder](https://bf.zzxworld.com/) | [中华人民共和国大事记](https://indude.cn/archives/36/?utm_source=blogfinder)
 
