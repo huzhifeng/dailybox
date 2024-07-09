@@ -1,3 +1,8 @@
+## 20240709
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-08](https://www.daemonology.net/hn-daily/2024-07-08.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-09](https://github.com/headllines/hackernews-daily/issues/1460)
+- [Hacker News](https://news.ycombinator.com/front) | [Rye: A Hassle-Free Python Experience](https://news.ycombinator.com/item?id=40911637)
+
 ## 20240708
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-07](https://www.daemonology.net/hn-daily/2024-07-07.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-08](https://github.com/headllines/hackernews-daily/issues/1459)

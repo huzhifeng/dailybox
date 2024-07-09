@@ -1,3 +1,6 @@
+## 20240709
+- [9to5Linux](https://9to5linux.com/) | [Firefox 129 Enters Beta Testing with Improved Reader View, Other Changes](https://9to5linux.com/firefox-129-enters-beta-testing-with-improved-reader-view-other-changes)
+
 ## 20240708
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 128 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-128-is-now-available-for-download-heres-whats-new)
 

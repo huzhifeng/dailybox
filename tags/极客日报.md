@@ -1,3 +1,6 @@
+## 20240709
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [传微软中国员工禁用Android手机改用iPhone；​ChatGPT被曝加入验证码；周鸿祎称大模型是风口不是泡沫 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140287132)
+
 ## 20240708
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [内部人士：AMD曾经差点收购NVIDIA；央视评App自动续费：“进坑”容易“出坑”难；​谷歌被曝开发系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140261522)
 

@@ -1,3 +1,6 @@
+## 20240709
+- [Phoronix](https://www.phoronix.com/) | [AMD vs. NVIDIA Vulkan Ray-Tracing Performance On Linux With Breaking Limit](https://www.phoronix.com/review/breaking-limit-rt-linux)
+
 ## 20240708
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7000/8000 Series vs. 14th Gen Intel Core CPU Performance On Linux 6.10 With 400+ Benchmarks](https://www.phoronix.com/review/amd-ryzen-intel-core-linux610)
 
