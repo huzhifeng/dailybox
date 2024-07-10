@@ -1,3 +1,6 @@
+## 20240710
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [去哪儿网推行灵活办公，每周可居家办公2天；小米工程师打造的安全智能头盔获奖10万 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140317930)
+
 ## 20240709
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [传微软中国员工禁用Android手机改用iPhone；​ChatGPT被曝加入验证码；周鸿祎称大模型是风口不是泡沫 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140287132)
 

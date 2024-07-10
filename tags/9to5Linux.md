@@ -1,3 +1,6 @@
+## 20240710
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.4 Released with Non-Native Refresh Rate Emulation, Direct3D 8 Support](https://9to5linux.com/dxvk-2-4-released-with-non-native-refresh-rate-emulation-direct3d-8-support)
+
 ## 20240709
 - [9to5Linux](https://9to5linux.com/) | [Firefox 129 Enters Beta Testing with Improved Reader View, Other Changes](https://9to5linux.com/firefox-129-enters-beta-testing-with-improved-reader-view-other-changes)
 

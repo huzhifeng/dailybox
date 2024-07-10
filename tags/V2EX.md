@@ -1,3 +1,6 @@
+## 20240710
+- [V2EX](https://www.v2ex.com/) | [深圳公司重新定义了 8 小时工作制](https://www.v2ex.com/t/1056196)
+
 ## 20240709
 - [V2EX](https://www.v2ex.com/) | [看了下公司数据，支付渠道里边张小龙的 3A 大作基本上就是碾压的水平啊](https://www.v2ex.com/t/1055943)
 
