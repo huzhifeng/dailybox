@@ -1,3 +1,6 @@
+## 20240710
+- [Phoronix](https://www.phoronix.com/) | [Intel Performance Limit Reasons Coming To Linux 6.11](https://www.phoronix.com/news/Perf-Limit-Reasons-Linux-6.11)
+
 ## 20240709
 - [Phoronix](https://www.phoronix.com/) | [AMD vs. NVIDIA Vulkan Ray-Tracing Performance On Linux With Breaking Limit](https://www.phoronix.com/review/breaking-limit-rt-linux)
 

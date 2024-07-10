@@ -1,3 +1,8 @@
+## 20240710
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-09](https://www.daemonology.net/hn-daily/2024-07-09.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-10](https://github.com/headllines/hackernews-daily/issues/1461)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-10 | Chrome 有独特的 API 只能通过 *.google.com 访问, 引发开发者热议](https://www.xiaoyuzhoufm.com/episode/668e716c73ae1ca98cf67b09)
+
 ## 20240709
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-08](https://www.daemonology.net/hn-daily/2024-07-08.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-09](https://github.com/headllines/hackernews-daily/issues/1460)

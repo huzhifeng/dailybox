@@ -1,3 +1,6 @@
+## 20240710
+- [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
 ## 20240709
 - [GitHub Trending](https://github.com/trending?since=daily) | [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
