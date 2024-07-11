@@ -1,3 +1,7 @@
+## 20240711
+- [Phoronix](https://www.phoronix.com/) | [Mold Linker Gains New Option To Deliver "Massively Faster" Performance](https://www.phoronix.com/news/Mold-Separate-Debug-File)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.5 Office Suite Is Now Available for Download with 78 Bug Fixes](https://9to5linux.com/libreoffice-24-2-5-office-suite-is-now-available-for-download-with-78-bug-fixes)
+
 ## 20240710
 - [Phoronix](https://www.phoronix.com/) | [Intel Performance Limit Reasons Coming To Linux 6.11](https://www.phoronix.com/news/Perf-Limit-Reasons-Linux-6.11)
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.4 Released with Non-Native Refresh Rate Emulation, Direct3D 8 Support](https://9to5linux.com/dxvk-2-4-released-with-non-native-refresh-rate-emulation-direct3d-8-support)
