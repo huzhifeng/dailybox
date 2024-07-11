@@ -1,3 +1,6 @@
+## 20240711
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/)
+
 ## 20240709
 - [It's FOSS](https://itsfoss.com/) | [Check Rockchip NPU Usage on Linux](https://itsfoss.com/monitor-npu-linux/)
 

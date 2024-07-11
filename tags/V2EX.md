@@ -1,3 +1,6 @@
+## 20240711
+- [V2EX](https://www.v2ex.com/) | [搞笑， VidHub 播放版权警告](https://www.v2ex.com/t/1056612)
+
 ## 20240710
 - [V2EX](https://www.v2ex.com/) | [深圳公司重新定义了 8 小时工作制](https://www.v2ex.com/t/1056196)
 

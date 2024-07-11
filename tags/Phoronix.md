@@ -1,3 +1,6 @@
+## 20240711
+- [Phoronix](https://www.phoronix.com/) | [Mold Linker Gains New Option To Deliver "Massively Faster" Performance](https://www.phoronix.com/news/Mold-Separate-Debug-File)
+
 ## 20240710
 - [Phoronix](https://www.phoronix.com/) | [Intel Performance Limit Reasons Coming To Linux 6.11](https://www.phoronix.com/news/Perf-Limit-Reasons-Linux-6.11)
 
