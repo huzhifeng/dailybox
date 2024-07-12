@@ -1,3 +1,6 @@
+## 20240712
+- [LibHunt](https://www.libhunt.com/) | [Quarkus](https://www.libhunt.com/r/quarkus)
+
 ## 20240711
 - [LibHunt](https://www.libhunt.com/) | [TypeScript](https://www.libhunt.com/r/TypeScript)
 

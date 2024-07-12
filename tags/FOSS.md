@@ -1,3 +1,6 @@
+## 20240712
+- [It's FOSS](https://itsfoss.com/) | [Jargon Buster: What is an Immutable Distro?](https://itsfoss.com/immutable-distro/)
+
 ## 20240711
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/)
 

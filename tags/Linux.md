@@ -1,3 +1,7 @@
+## 20240712
+- [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 Benchmarks Prove To Deliver The Best ARM Cloud Server Performance](https://www.phoronix.com/review/aws-graviton4-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-reached-end-of-life-upgrade-to-ubuntu-24-04-lts)
+
 ## 20240711
 - [Phoronix](https://www.phoronix.com/) | [Mold Linker Gains New Option To Deliver "Massively Faster" Performance](https://www.phoronix.com/news/Mold-Separate-Debug-File)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.2.5 Office Suite Is Now Available for Download with 78 Bug Fixes](https://9to5linux.com/libreoffice-24-2-5-office-suite-is-now-available-for-download-with-78-bug-fixes)

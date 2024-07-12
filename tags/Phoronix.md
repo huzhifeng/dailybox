@@ -1,3 +1,6 @@
+## 20240712
+- [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 Benchmarks Prove To Deliver The Best ARM Cloud Server Performance](https://www.phoronix.com/review/aws-graviton4-benchmarks)
+
 ## 20240711
 - [Phoronix](https://www.phoronix.com/) | [Mold Linker Gains New Option To Deliver "Massively Faster" Performance](https://www.phoronix.com/news/Mold-Separate-Debug-File)
 
