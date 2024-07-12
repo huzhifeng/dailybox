@@ -1,3 +1,6 @@
+## 20240712
+- [Product Hunt](https://www.producthunt.com) | [Funfun.ai](https://www.producthunt.com/posts/funfun-ai)
+
 ## 20240711
 - [Product Hunt](https://www.producthunt.com) | [AnyoneCanAI](https://www.producthunt.com/posts/anyonecanai)
 

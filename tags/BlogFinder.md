@@ -1,3 +1,6 @@
+## 20240712
+- [BlogFinder](https://bf.zzxworld.com/) | [白嫖25G永久网盘 infini-Cloud](https://bull.eu.org/get_25g_infini_Cloud.html?utm_source=blogfinder)
+
 ## 20240711
 - [BlogFinder](https://bf.zzxworld.com/) | [在我心中，没有美剧可以超过它](https://pwsz.com/share/3943.html?utm_source=blogfinder)
 

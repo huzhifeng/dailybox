@@ -1,3 +1,6 @@
+## 20240712
+- [GitHub Trending](https://github.com/trending?since=daily) | [stanford-oval/storm](https://github.com/stanford-oval/storm)
+
 ## 20240711
 - [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
