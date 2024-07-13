@@ -1,3 +1,6 @@
+## 20240713
+- [Phoronix](https://www.phoronix.com/) | [GNOME 47 Alpha Released With Accent Color Support & Wayland-Only Build Option](https://www.phoronix.com/news/GNOME-47-Alpha-Released)
+
 ## 20240712
 - [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 Benchmarks Prove To Deliver The Best ARM Cloud Server Performance](https://www.phoronix.com/review/aws-graviton4-benchmarks)
 

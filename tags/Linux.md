@@ -1,3 +1,7 @@
+## 20240713
+- [Phoronix](https://www.phoronix.com/) | [GNOME 47 Alpha Released With Accent Color Support & Wayland-Only Build Option](https://www.phoronix.com/news/GNOME-47-Alpha-Released)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 47 Alpha Desktop Environment Released with Support for Accent Colors](https://9to5linux.com/gnome-47-alpha-desktop-environment-released-with-support-for-accent-colors)
+
 ## 20240712
 - [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 Benchmarks Prove To Deliver The Best ARM Cloud Server Performance](https://www.phoronix.com/review/aws-graviton4-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS](https://9to5linux.com/ubuntu-23-10-mantic-minotaur-reached-end-of-life-upgrade-to-ubuntu-24-04-lts)
