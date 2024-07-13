@@ -1,3 +1,6 @@
+## 20240713
+- [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
+
 ## 20240712
 - [GitHub Trending](https://github.com/trending?since=daily) | [stanford-oval/storm](https://github.com/stanford-oval/storm)
 

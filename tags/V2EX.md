@@ -1,3 +1,6 @@
+## 20240713
+- [V2EX](https://www.v2ex.com/) | [你们觉得郭德纲的相声好听吗](https://www.v2ex.com/t/1057047)
+
 ## 20240712
 - [V2EX](https://www.v2ex.com/) | [求助！我 QQ 姓名泄漏，该怎么办？](https://www.v2ex.com/t/1056904)
 
