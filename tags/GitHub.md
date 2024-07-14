@@ -1,3 +1,6 @@
+## 20240714
+- [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
+
 ## 20240713
 - [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
 

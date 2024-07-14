@@ -1,3 +1,6 @@
+## 20240714
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Rolls Out Zen 4 Optimized Repository For Maximizing Zen 4 & Zen 5 Performance](https://www.phoronix.com/news/CachyOS-July-2024)
+
 ## 20240713
 - [Phoronix](https://www.phoronix.com/) | [GNOME 47 Alpha Released With Accent Color Support & Wayland-Only Build Option](https://www.phoronix.com/news/GNOME-47-Alpha-Released)
 

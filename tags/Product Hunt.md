@@ -1,3 +1,6 @@
+## 20240714
+- [Product Hunt](https://www.producthunt.com) | [PngMaker.io: Convert Text to PNG Quickly](https://www.producthunt.com/posts/pngmaker-io-convert-text-to-png-quickly)
+
 ## 20240713
 - [Product Hunt](https://www.producthunt.com) | [Funfun.tools](https://www.producthunt.com/posts/funfun-tools)
 
