@@ -1,3 +1,6 @@
+## 20240714
+- [BlogFinder](https://bf.zzxworld.com/) | [将成为经典之一的新闻照片](https://www.yehoidea.com/yehuoblog/3895.html?utm_source=blogfinder)
+
 ## 20240713
 - [BlogFinder](https://bf.zzxworld.com/) | [检查](https://ltmltm.cn/bk/1268.html?utm_source=blogfinder)
 

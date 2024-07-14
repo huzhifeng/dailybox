@@ -1,3 +1,7 @@
+## 20240714
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Rolls Out Zen 4 Optimized Repository For Maximizing Zen 4 & Zen 5 Performance](https://www.phoronix.com/news/CachyOS-July-2024)
+- [9to5Linux](https://9to5linux.com/) | [CachyOS Introduces New Repository Optimized for AMD Zen 4 and Zen 5 CPUs](https://9to5linux.com/cachyos-introduces-new-repository-optimized-for-amd-zen-4-and-zen-5-cpus)
+
 ## 20240713
 - [Phoronix](https://www.phoronix.com/) | [GNOME 47 Alpha Released With Accent Color Support & Wayland-Only Build Option](https://www.phoronix.com/news/GNOME-47-Alpha-Released)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47 Alpha Desktop Environment Released with Support for Accent Colors](https://9to5linux.com/gnome-47-alpha-desktop-environment-released-with-support-for-accent-colors)

@@ -1,3 +1,6 @@
+## 20240714
+- [9to5Linux](https://9to5linux.com/) | [CachyOS Introduces New Repository Optimized for AMD Zen 4 and Zen 5 CPUs](https://9to5linux.com/cachyos-introduces-new-repository-optimized-for-amd-zen-4-and-zen-5-cpus)
+
 ## 20240713
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47 Alpha Desktop Environment Released with Support for Accent Colors](https://9to5linux.com/gnome-47-alpha-desktop-environment-released-with-support-for-accent-colors)
 

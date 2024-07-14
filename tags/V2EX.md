@@ -1,3 +1,6 @@
+## 20240714
+- [V2EX](https://www.v2ex.com/) | [移动、联通校园卡， 20 元/年，踢楼送卡每 20 楼送一张。](https://www.v2ex.com/t/1057218)
+
 ## 20240713
 - [V2EX](https://www.v2ex.com/) | [你们觉得郭德纲的相声好听吗](https://www.v2ex.com/t/1057047)
 

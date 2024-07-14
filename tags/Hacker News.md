@@ -1,3 +1,8 @@
+## 20240714
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-13](https://www.daemonology.net/hn-daily/2024-07-13.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-14](https://github.com/headllines/hackernews-daily/issues/1465)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-14 | AT&T 遭遇重大数据泄露，1.1亿用户信息被盗](https://www.xiaoyuzhoufm.com/episode/66932fa78fcadceb90218833)
+
 ## 20240713
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-12](https://www.daemonology.net/hn-daily/2024-07-12.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-13](https://github.com/headllines/hackernews-daily/issues/1464)
