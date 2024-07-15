@@ -1,3 +1,6 @@
+## 20240715
+- [BlogFinder](https://bf.zzxworld.com/) | [恒山](https://retire50blog.wang/invest/%e6%81%92%e5%b1%b1.html?utm_source=blogfinder)
+
 ## 20240714
 - [BlogFinder](https://bf.zzxworld.com/) | [将成为经典之一的新闻照片](https://www.yehoidea.com/yehuoblog/3895.html?utm_source=blogfinder)
 

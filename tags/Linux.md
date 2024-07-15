@@ -1,3 +1,7 @@
+## 20240715
+- [Phoronix](https://www.phoronix.com/) | [GNU Linux-libre 6.10 Takes Aim At Intel IPU6, Panthor & Other Drivers With Blobs](https://www.phoronix.com/news/GNU-Linux-Libre-6.10)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-14th-2024)
+
 ## 20240714
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Rolls Out Zen 4 Optimized Repository For Maximizing Zen 4 & Zen 5 Performance](https://www.phoronix.com/news/CachyOS-July-2024)
 - [9to5Linux](https://9to5linux.com/) | [CachyOS Introduces New Repository Optimized for AMD Zen 4 and Zen 5 CPUs](https://9to5linux.com/cachyos-introduces-new-repository-optimized-for-amd-zen-4-and-zen-5-cpus)

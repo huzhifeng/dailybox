@@ -1,3 +1,8 @@
+## 20240715
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-14](https://www.daemonology.net/hn-daily/2024-07-14.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-15](https://github.com/headllines/hackernews-daily/issues/1466)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-15 | 云厂商过度追捧生成式 AI，工程师呼吁重视传统基础服务](https://www.xiaoyuzhoufm.com/episode/669485648fcadceb9054e97f)
+
 ## 20240714
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-13](https://www.daemonology.net/hn-daily/2024-07-13.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-14](https://github.com/headllines/hackernews-daily/issues/1465)
