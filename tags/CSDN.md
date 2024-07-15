@@ -1,3 +1,6 @@
+## 20240715
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI遭指控：非法阻止员工披露AI安全风险；北航本科生芯片设计团队成功流片两款CPU；谷歌终止安卓5.X支持 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/140431752)
+
 ## 20240712
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [无人驾驶算账，每天成本471元；华为全球最大研发中心建成，命名为练秋湖；马斯克：未来机器人的数量将远远超过人类 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140372079)
 

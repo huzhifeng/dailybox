@@ -1,3 +1,6 @@
+## 20240715
+- [It's FOSS](https://itsfoss.com/) | [LibreChat: Keep Your AI Models in One Place](https://itsfoss.com/librechat-linux/)
+
 ## 20240712
 - [It's FOSS](https://itsfoss.com/) | [Jargon Buster: What is an Immutable Distro?](https://itsfoss.com/immutable-distro/)
 
