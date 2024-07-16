@@ -1,3 +1,6 @@
+## 20240716
+- [V2EX](https://www.v2ex.com/) | [电脑太多却不舍得卖，是有病吧](https://www.v2ex.com/t/1057752)
+
 ## 20240715
 - [V2EX](https://www.v2ex.com/) | [求助，有件事困扰了我三个月了，快崩溃了](https://www.v2ex.com/t/1057460)
 

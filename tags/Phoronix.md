@@ -1,3 +1,6 @@
+## 20240716
+- [Phoronix](https://www.phoronix.com/) | [Intel FFmpeg 2024Q2 Update Enables GPU-Accelerated VVC Decoding](https://www.phoronix.com/news/Intel-FFmpeg-H266-VVC)
+
 ## 20240715
 - [Phoronix](https://www.phoronix.com/) | [GNU Linux-libre 6.10 Takes Aim At Intel IPU6, Panthor & Other Drivers With Blobs](https://www.phoronix.com/news/GNU-Linux-Libre-6.10)
 

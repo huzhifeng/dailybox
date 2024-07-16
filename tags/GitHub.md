@@ -1,3 +1,7 @@
+## 20240716
+- [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [eimg/rsd25](https://github.com/eimg/rsd25)
+
 ## 20240715
 - [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [ayoundzw/nacos-poc](https://github.com/ayoundzw/nacos-poc)

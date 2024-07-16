@@ -1,3 +1,7 @@
+## 20240716
+- [Phoronix](https://www.phoronix.com/) | [Intel FFmpeg 2024Q2 Update Enables GPU-Accelerated VVC Decoding](https://www.phoronix.com/news/Intel-FFmpeg-H266-VVC)
+- [9to5Linux](https://9to5linux.com/) | [Blender 4.2 LTS 3D Graphics Software Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/blender-4-2-lts-3d-graphics-software-officially-released-heres-whats-new)
+
 ## 20240715
 - [Phoronix](https://www.phoronix.com/) | [GNU Linux-libre 6.10 Takes Aim At Intel IPU6, Panthor & Other Drivers With Blobs](https://www.phoronix.com/news/GNU-Linux-Libre-6.10)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-14th-2024)

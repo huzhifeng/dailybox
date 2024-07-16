@@ -1,3 +1,6 @@
+## 20240716
+- [BlogFinder](https://bf.zzxworld.com/) | [旁路由openwrt开启代理IPv6](https://blog.mocn.top/posts/41926/?utm_source=blogfinder)
+
 ## 20240715
 - [BlogFinder](https://bf.zzxworld.com/) | [恒山](https://retire50blog.wang/invest/%e6%81%92%e5%b1%b1.html?utm_source=blogfinder)
 
