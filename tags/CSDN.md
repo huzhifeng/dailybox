@@ -1,3 +1,6 @@
+## 20240716
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [华为余承东回应「25 亿元转让问界」；鸿蒙 PC 版现身华为开发者官网；Linux Kernel 6.10释出 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140460086)
+
 ## 20240715
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [OpenAI遭指控：非法阻止员工披露AI安全风险；北航本科生芯片设计团队成功流片两款CPU；谷歌终止安卓5.X支持 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/140431752)
 

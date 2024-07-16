@@ -1,3 +1,6 @@
+## 20240716
+- [9to5Linux](https://9to5linux.com/) | [Blender 4.2 LTS 3D Graphics Software Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/blender-4-2-lts-3d-graphics-software-officially-released-heres-whats-new)
+
 ## 20240715
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-14th-2024)
 
