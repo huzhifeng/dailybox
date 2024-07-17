@@ -1,3 +1,6 @@
+## 20240717
+- [Phoronix](https://www.phoronix.com/) | [RADV vs. AMDVLK Radeon Vulkan Ray-Tracing Performance For Mid-2024](https://www.phoronix.com/review/amdvlk-radv-rt)
+
 ## 20240716
 - [Phoronix](https://www.phoronix.com/) | [Intel FFmpeg 2024Q2 Update Enables GPU-Accelerated VVC Decoding](https://www.phoronix.com/news/Intel-FFmpeg-H266-VVC)
 

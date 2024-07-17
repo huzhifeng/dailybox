@@ -1,3 +1,8 @@
+## 20240717
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-16](https://www.daemonology.net/hn-daily/2024-07-16.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-17](https://github.com/headllines/hackernews-daily/issues/1468)
+- [Hacker News](https://news.ycombinator.com/front) | [Import and Export Markdown in Google Docs](https://news.ycombinator.com/item?id=40982118)
+
 ## 20240716
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-15](https://www.daemonology.net/hn-daily/2024-07-15.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-16](https://github.com/headllines/hackernews-daily/issues/1467)

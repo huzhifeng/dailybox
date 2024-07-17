@@ -1,3 +1,6 @@
+## 20240717
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [自动回复朋友圈，苹果回应iPhone鬼手现象；雷军本周五年度演讲，分享小米造车这三年；OpenAI创始大神卡帕西创业| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140493589)
+
 ## 20240716
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [华为余承东回应「25 亿元转让问界」；鸿蒙 PC 版现身华为开发者官网；Linux Kernel 6.10释出 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140460086)
 

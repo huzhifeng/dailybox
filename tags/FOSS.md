@@ -1,3 +1,6 @@
+## 20240717
+- [It's FOSS](https://itsfoss.com/) | [How I Set Up Raspberry Pi for My 3 Year Old Kid](https://itsfoss.com/raspberry-pi-kids-set-up/)
+
 ## 20240715
 - [It's FOSS](https://itsfoss.com/) | [LibreChat: Keep Your AI Models in One Place](https://itsfoss.com/librechat-linux/)
 

@@ -1,3 +1,6 @@
+## 20240717
+- [Phoronix](https://www.phoronix.com/) | [RADV vs. AMDVLK Radeon Vulkan Ray-Tracing Performance For Mid-2024](https://www.phoronix.com/review/amdvlk-radv-rt)
+
 ## 20240716
 - [Phoronix](https://www.phoronix.com/) | [Intel FFmpeg 2024Q2 Update Enables GPU-Accelerated VVC Decoding](https://www.phoronix.com/news/Intel-FFmpeg-H266-VVC)
 - [9to5Linux](https://9to5linux.com/) | [Blender 4.2 LTS 3D Graphics Software Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/blender-4-2-lts-3d-graphics-software-officially-released-heres-whats-new)
