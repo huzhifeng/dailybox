@@ -1,3 +1,9 @@
+## 20240718
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-17](https://www.daemonology.net/hn-daily/2024-07-17.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-18](https://github.com/headllines/hackernews-daily/issues/1469)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-18 | OpenAI 内部矛盾：员工被禁止报告 AI 安全隐患](https://www.xiaoyuzhoufm.com/episode/6698674737236c546eeacf00)
+- [Hacker News](https://news.ycombinator.com/front) | [My daughter (7 years old) used HTML to make a website](https://news.ycombinator.com/item?id=40992982)
+
 ## 20240717
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-16](https://www.daemonology.net/hn-daily/2024-07-16.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-17](https://github.com/headllines/hackernews-daily/issues/1468)

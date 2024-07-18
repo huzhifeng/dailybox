@@ -1,3 +1,6 @@
+## 20240718
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Graphics Driver to Fully Adopt Open-Source GPU Kernel Modules](https://9to5linux.com/nvidia-560-linux-graphics-driver-to-fully-adopt-open-source-gpu-kernel-modules)
+
 ## 20240716
 - [9to5Linux](https://9to5linux.com/) | [Blender 4.2 LTS 3D Graphics Software Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/blender-4-2-lts-3d-graphics-software-officially-released-heres-whats-new)
 

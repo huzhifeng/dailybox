@@ -1,3 +1,6 @@
+## 20240718
+- [GitHub Trending](https://github.com/trending?since=daily) | [free-educa/books](https://github.com/free-educa/books)
+
 ## 20240717
 - [GitHub Trending](https://github.com/trending?since=daily) | [krahets/hello-algo](https://github.com/krahets/hello-algo)
 

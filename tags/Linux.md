@@ -1,3 +1,7 @@
+## 20240718
+- [Phoronix](https://www.phoronix.com/) | [AMD RDNA4 "GFX12" Linux Driver Support Matures To Being Enabled By Default](https://www.phoronix.com/news/AMD-RDNA4-Linux-Driver-Ready)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Graphics Driver to Fully Adopt Open-Source GPU Kernel Modules](https://9to5linux.com/nvidia-560-linux-graphics-driver-to-fully-adopt-open-source-gpu-kernel-modules)
+
 ## 20240717
 - [Phoronix](https://www.phoronix.com/) | [RADV vs. AMDVLK Radeon Vulkan Ray-Tracing Performance For Mid-2024](https://www.phoronix.com/review/amdvlk-radv-rt)
 

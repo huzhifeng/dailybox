@@ -1,3 +1,6 @@
+## 20240718
+- [BlogFinder](https://bf.zzxworld.com/) | [【读书记1458】林白《林白六短篇》](http://www.qncd.com/?p=10160&utm_source=blogfinder)
+
 ## 20240717
 - [BlogFinder](https://bf.zzxworld.com/) | [vscode-docker](https://blog.happyhack.io/2024/07/17/vscode-docker/?utm_source=blogfinder)
 

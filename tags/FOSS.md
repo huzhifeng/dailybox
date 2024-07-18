@@ -1,3 +1,6 @@
+## 20240718
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/)
+
 ## 20240717
 - [It's FOSS](https://itsfoss.com/) | [How I Set Up Raspberry Pi for My 3 Year Old Kid](https://itsfoss.com/raspberry-pi-kids-set-up/)
 
