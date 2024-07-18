@@ -1,3 +1,6 @@
+## 20240718
+- [LibHunt](https://www.libhunt.com/) | [exo](https://www.libhunt.com/r/exo-explore/exo)
+
 ## 20240717
 - [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
 

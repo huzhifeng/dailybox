@@ -1,3 +1,6 @@
+## 20240718
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军回应被指会搞流量；OpenAI营收拆解：84%来自近千万名ChatGPT付费用户；苹果发布iOS 18公开测试版| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140515539)
+
 ## 20240717
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [自动回复朋友圈，苹果回应iPhone鬼手现象；雷军本周五年度演讲，分享小米造车这三年；OpenAI创始大神卡帕西创业| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140493589)
 

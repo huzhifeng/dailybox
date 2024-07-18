@@ -1,3 +1,6 @@
+## 20240718
+- [V2EX](https://www.v2ex.com/) | [我是否真的适合做程序员](https://www.v2ex.com/t/1058250)
+
 ## 20240717
 - [V2EX](https://www.v2ex.com/) | [曝光无良公司被威胁删帖](https://www.v2ex.com/t/1057993)
 
