@@ -1,3 +1,6 @@
+## 20240719
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里要求各业务「有经营意识」；小鹏回应数百名大众工程师入驻总部；OpenAI发布GPT-4o mini | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140540847)
+
 ## 20240718
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军回应被指会搞流量；OpenAI营收拆解：84%来自近千万名ChatGPT付费用户；苹果发布iOS 18公开测试版| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140515539)
 

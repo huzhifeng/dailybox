@@ -1,3 +1,6 @@
+## 20240719
+- [Product Hunt](https://www.producthunt.com) | [Xspiral](https://www.producthunt.com/posts/xspiral)
+
 ## 20240717
 - [Product Hunt](https://www.producthunt.com) | [Apidog](https://www.producthunt.com/posts/apidog)
 

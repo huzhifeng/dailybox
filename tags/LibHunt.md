@@ -1,3 +1,6 @@
+## 20240719
+- [LibHunt](https://www.libhunt.com/) | [Poetry](https://www.libhunt.com/r/poetry)
+
 ## 20240718
 - [LibHunt](https://www.libhunt.com/) | [exo](https://www.libhunt.com/r/exo-explore/exo)
 
