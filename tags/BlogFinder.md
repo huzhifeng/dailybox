@@ -1,3 +1,6 @@
+## 20240719
+- [BlogFinder](https://bf.zzxworld.com/) | [在Ubuntu 22.04中安装AFNI 24.2](https://learning-archive.org/?p=766&utm_source=blogfinder)
+
 ## 20240718
 - [BlogFinder](https://bf.zzxworld.com/) | [【读书记1458】林白《林白六短篇》](http://www.qncd.com/?p=10160&utm_source=blogfinder)
 

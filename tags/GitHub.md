@@ -1,3 +1,6 @@
+## 20240719
+- [GitHub Trending](https://github.com/trending?since=daily) | [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+
 ## 20240718
 - [GitHub Trending](https://github.com/trending?since=daily) | [free-educa/books](https://github.com/free-educa/books)
 

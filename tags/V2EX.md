@@ -1,3 +1,6 @@
+## 20240719
+- [V2EX](https://www.v2ex.com/) | [30 多岁 没老婆没孩子，为了生存，干着一份不喜欢的工作，真的痛苦](https://www.v2ex.com/t/1058594)
+
 ## 20240718
 - [V2EX](https://www.v2ex.com/) | [我是否真的适合做程序员](https://www.v2ex.com/t/1058250)
 

@@ -1,3 +1,9 @@
+## 20240719
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-18](https://www.daemonology.net/hn-daily/2024-07-18.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-19](https://github.com/headllines/hackernews-daily/issues/1470)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-19 | OpenAI 发布 GPT-4o mini，GPT-3.5 退役](https://www.xiaoyuzhoufm.com/episode/669a0d008fcadceb907100ec)
+- [Hacker News](https://news.ycombinator.com/front) | [FCC votes unanimously to dramatically limit prison telecom charges](https://news.ycombinator.com/item?id=41005181)
+
 ## 20240718
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-17](https://www.daemonology.net/hn-daily/2024-07-17.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-18](https://github.com/headllines/hackernews-daily/issues/1469)

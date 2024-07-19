@@ -1,3 +1,6 @@
+## 20240719
+- [Phoronix](https://www.phoronix.com/) | [Rusticl In Mesa 24.2 Now Supports OpenCL Read-Write Images](https://www.phoronix.com/news/Rusticl-Read-Write-Images)
+
 ## 20240718
 - [Phoronix](https://www.phoronix.com/) | [AMD RDNA4 "GFX12" Linux Driver Support Matures To Being Enabled By Default](https://www.phoronix.com/news/AMD-RDNA4-Linux-Driver-Ready)
 
