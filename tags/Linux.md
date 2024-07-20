@@ -1,3 +1,6 @@
+## 20240720
+- [Phoronix](https://www.phoronix.com/) | [USB & Thunderbolt Improvements Land In Linux 6.11](https://www.phoronix.com/news/Linux-6.11-USB)
+
 ## 20240719
 - [Phoronix](https://www.phoronix.com/) | [Rusticl In Mesa 24.2 Now Supports OpenCL Read-Write Images](https://www.phoronix.com/news/Rusticl-Read-Write-Images)
 

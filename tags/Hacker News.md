@@ -1,3 +1,9 @@
+## 20240720
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-19](https://www.daemonology.net/hn-daily/2024-07-19.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-20](https://github.com/headllines/hackernews-daily/issues/1471)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-20 | 微软回应“蓝屏”事件：CrowdStrike更新致多个IT系统故障 正积极帮助客户协助恢复服务](https://www.xiaoyuzhoufm.com/episode/669b795237236c546e79a10f)
+- [Hacker News](https://news.ycombinator.com/front) | [Garage: Open-Source Distributed Object Storage](https://news.ycombinator.com/item?id=41013004)
+
 ## 20240719
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-18](https://www.daemonology.net/hn-daily/2024-07-18.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-19](https://github.com/headllines/hackernews-daily/issues/1470)
