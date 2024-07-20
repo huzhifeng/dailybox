@@ -1,3 +1,6 @@
+## 20240720
+- [LibHunt](https://www.libhunt.com/) | [typst](https://www.libhunt.com/r/typst)
+
 ## 20240719
 - [LibHunt](https://www.libhunt.com/) | [Poetry](https://www.libhunt.com/r/poetry)
 

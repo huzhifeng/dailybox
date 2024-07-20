@@ -1,3 +1,6 @@
+## 20240720
+- [It's FOSS](https://itsfoss.com/) | [Open External Links in AppImage for Login](https://itsfoss.com/appimage-open-external-links/)
+
 ## 20240718
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/)
 
