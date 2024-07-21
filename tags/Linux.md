@@ -1,3 +1,6 @@
+## 20240721
+- [Phoronix](https://www.phoronix.com/) | [Mesa 24.2 Enjoyed Some Last Minute Code Cleaning & Modernization](https://www.phoronix.com/news/Mesa-24.2-Modern-Interfaces)
+
 ## 20240720
 - [Phoronix](https://www.phoronix.com/) | [USB & Thunderbolt Improvements Land In Linux 6.11](https://www.phoronix.com/news/Linux-6.11-USB)
 
