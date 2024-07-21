@@ -1,3 +1,6 @@
+## 20240721
+- [BlogFinder](https://bf.zzxworld.com/) | [记第一次事故车险出险](https://isming.me/2024-07-21-car-insurance/?utm_source=blogfinder)
+
 ## 20240720
 - [BlogFinder](https://bf.zzxworld.com/) | [多线程&并发篇之下篇](https://blog.study996.cn/archives/140e3d1b?utm_source=blogfinder)
 

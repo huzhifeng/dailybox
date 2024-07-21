@@ -1,3 +1,9 @@
+## 20240721
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-20](https://www.daemonology.net/hn-daily/2024-07-20.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-21](https://github.com/headllines/hackernews-daily/issues/1472)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-21 | 英伟达宣布在 R560 驱动中开源 GPU Linux 内核模块](https://www.xiaoyuzhoufm.com/episode/669b81368fcadceb90a9161e)
+- [Hacker News](https://news.ycombinator.com/front) | [Initial details about why CrowdStrike's CSAgent.sys crashed](https://news.ycombinator.com/item?id=41021366)
+
 ## 20240720
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-19](https://www.daemonology.net/hn-daily/2024-07-19.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-20](https://github.com/headllines/hackernews-daily/issues/1471)
