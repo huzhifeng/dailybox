@@ -1,3 +1,6 @@
+## 20240722
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [周鸿祎谈为何微软蓝屏故障在中国少：大多数电脑用360；华为起诉联发科，向上游收专利费；OpenAI造芯计划再曝新进展| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140602803)
+
 ## 20240719
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [阿里要求各业务「有经营意识」；小鹏回应数百名大众工程师入驻总部；OpenAI发布GPT-4o mini | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140540847)
 

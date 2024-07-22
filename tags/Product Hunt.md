@@ -1,3 +1,6 @@
+## 20240722
+- [Product Hunt](https://www.producthunt.com) | [Airy](https://www.producthunt.com/posts/airy-2)
+
 ## 20240721
 - [Product Hunt](https://www.producthunt.com) | [Dialog AI](https://www.producthunt.com/posts/dialog-ai)
 

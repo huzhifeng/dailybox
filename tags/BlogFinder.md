@@ -1,3 +1,6 @@
+## 20240722
+- [BlogFinder](https://bf.zzxworld.com/) | [线上问诊的经验](https://demochen.com/posts/20240722/?utm_source=blogfinder)
+
 ## 20240721
 - [BlogFinder](https://bf.zzxworld.com/) | [记第一次事故车险出险](https://isming.me/2024-07-21-car-insurance/?utm_source=blogfinder)
 

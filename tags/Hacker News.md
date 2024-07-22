@@ -1,3 +1,8 @@
+## 20240722
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-21](https://www.daemonology.net/hn-daily/2024-07-21.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-22](https://github.com/headllines/hackernews-daily/issues/1473)
+- [Hacker News](https://news.ycombinator.com/front) | [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://news.ycombinator.com/item?id=41031037)
+
 ## 20240721
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-20](https://www.daemonology.net/hn-daily/2024-07-20.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-21](https://github.com/headllines/hackernews-daily/issues/1472)

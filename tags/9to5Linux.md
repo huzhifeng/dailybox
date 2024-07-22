@@ -1,3 +1,6 @@
+## 20240722
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-21st-2024)
+
 ## 20240718
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Graphics Driver to Fully Adopt Open-Source GPU Kernel Modules](https://9to5linux.com/nvidia-560-linux-graphics-driver-to-fully-adopt-open-source-gpu-kernel-modules)
 
