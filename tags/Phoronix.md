@@ -1,3 +1,6 @@
+## 20240722
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 "MM" Patches Include Many Improvements, A 10x Speedup For One Optimization](https://www.phoronix.com/news/Linux-6.11-MM)
+
 ## 20240721
 - [Phoronix](https://www.phoronix.com/) | [Mesa 24.2 Enjoyed Some Last Minute Code Cleaning & Modernization](https://www.phoronix.com/news/Mesa-24.2-Modern-Interfaces)
 

@@ -1,3 +1,6 @@
+## 20240722
+- [It's FOSS](https://itsfoss.com/) | [GitHub Copilot Alternatives: Best Open Source LLMs for Coding](https://itsfoss.com/coding-llms-copilot-alternatives/)
+
 ## 20240720
 - [It's FOSS](https://itsfoss.com/) | [Open External Links in AppImage for Login](https://itsfoss.com/appimage-open-external-links/)
 
