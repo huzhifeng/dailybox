@@ -1,3 +1,6 @@
+## 20240723
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微软蓝屏故障造成全球损失或超10亿美元；雷军今晚七点举行返场直播；谷歌取消在浏览器中弃用第三方cookie | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140627957)
+
 ## 20240722
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [周鸿祎谈为何微软蓝屏故障在中国少：大多数电脑用360；华为起诉联发科，向上游收专利费；OpenAI造芯计划再曝新进展| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140602803)
 

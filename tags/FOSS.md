@@ -1,3 +1,6 @@
+## 20240723
+- [It's FOSS](https://itsfoss.com/) | [Effectively Use History Command in Linux](https://itsfoss.com/history-command/)
+
 ## 20240722
 - [It's FOSS](https://itsfoss.com/) | [GitHub Copilot Alternatives: Best Open Source LLMs for Coding](https://itsfoss.com/coding-llms-copilot-alternatives/)
 

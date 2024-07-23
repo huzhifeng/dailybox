@@ -1,3 +1,6 @@
+## 20240723
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Beta Linux Driver Released with Open GPU Kernel Modules by Default](https://9to5linux.com/nvidia-560-beta-linux-driver-released-with-open-gpu-kernel-modules-by-default)
+
 ## 20240722
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-21st-2024)
 

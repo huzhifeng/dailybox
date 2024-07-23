@@ -1,3 +1,6 @@
+## 20240723
+- [Product Hunt](https://www.producthunt.com) | [StakeWeb](https://www.producthunt.com/posts/stakeweb)
+
 ## 20240722
 - [Product Hunt](https://www.producthunt.com) | [Airy](https://www.producthunt.com/posts/airy-2)
 
