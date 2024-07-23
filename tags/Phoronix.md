@@ -1,3 +1,6 @@
+## 20240723
+- [Phoronix](https://www.phoronix.com/) | [Intel Xe2/Battlemage & AMD RDNA4 Lead The Graphics Driver Changes In Linux 6.11](https://www.phoronix.com/news/Linux-6.11-DRM-Graphics-Drivers)
+
 ## 20240722
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 "MM" Patches Include Many Improvements, A 10x Speedup For One Optimization](https://www.phoronix.com/news/Linux-6.11-MM)
 

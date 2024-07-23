@@ -1,3 +1,6 @@
+## 20240723
+- [V2EX](https://www.v2ex.com/) | [碰到亲戚借钱怎么办](https://www.v2ex.com/t/1059397)
+
 ## 20240722
 - [V2EX](https://www.v2ex.com/) | [请教一下大伙，我现在这个情况该怎么做才是最优解呢？](https://www.v2ex.com/t/1059130)
 

@@ -1,3 +1,8 @@
+## 20240723
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-22](https://www.daemonology.net/hn-daily/2024-07-22.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-23](https://github.com/headllines/hackernews-daily/issues/1474)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-23 | 揭秘 ChatGPT 的'总结'能力：看似简洁实则是空洞的AI幻觉](https://www.xiaoyuzhoufm.com/episode/669efe5e8fcadceb90346105)
+
 ## 20240722
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-21](https://www.daemonology.net/hn-daily/2024-07-21.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-22](https://github.com/headllines/hackernews-daily/issues/1473)
