@@ -1,3 +1,6 @@
+## 20240724
+- [LibHunt](https://www.libhunt.com/) | [Oat++](https://www.libhunt.com/r/oatpp)
+
 ## 20240723
 - [LibHunt](https://www.libhunt.com/) | [react-hook-form](https://www.libhunt.com/r/react-hook-form)
 

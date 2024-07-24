@@ -1,3 +1,6 @@
+## 20240724
+- [Phoronix](https://www.phoronix.com/) | [Intel Graphics Compiler 1.0.17193.4 Released With Initial Battlemage Support](https://www.phoronix.com/news/Intel-IGC-1.0.17193.4)
+
 ## 20240723
 - [Phoronix](https://www.phoronix.com/) | [Intel Xe2/Battlemage & AMD RDNA4 Lead The Graphics Driver Changes In Linux 6.11](https://www.phoronix.com/news/Linux-6.11-DRM-Graphics-Drivers)
 

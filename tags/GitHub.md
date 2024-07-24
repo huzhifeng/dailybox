@@ -1,3 +1,6 @@
+## 20240724
+- [GitHub Trending](https://github.com/trending?since=daily) | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
 ## 20240723
 - [GitHub Trending](https://github.com/trending?since=daily) | [mem0ai/mem0](https://github.com/mem0ai/mem0)
 
