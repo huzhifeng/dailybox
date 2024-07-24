@@ -1,3 +1,6 @@
+## 20240724
+- [BlogFinder](https://bf.zzxworld.com/) | [记某站字体混淆解析方案](https://blog.cuger.cn/p/2b98/?utm_source=blogfinder)
+
 ## 20240723
 - [BlogFinder](https://bf.zzxworld.com/) | [网络探索记录：frp，nginx 与 https](https://saltfish.vip/index.php/archives/58/?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240724
+- [Product Hunt](https://www.producthunt.com) | [Translate.Photo](https://www.producthunt.com/posts/translate-photo)
+
 ## 20240723
 - [Product Hunt](https://www.producthunt.com) | [StakeWeb](https://www.producthunt.com/posts/stakeweb)
 
