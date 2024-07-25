@@ -1,3 +1,6 @@
+## 20240725
+- [Phoronix](https://www.phoronix.com/) | [AMD Working On More Precise GPU Reset Capabilities For Their Linux Driver](https://www.phoronix.com/news/AMDGPU-Per-Ring-Resets)
+
 ## 20240724
 - [Phoronix](https://www.phoronix.com/) | [Intel Graphics Compiler 1.0.17193.4 Released With Initial Battlemage Support](https://www.phoronix.com/news/Intel-IGC-1.0.17193.4)
 

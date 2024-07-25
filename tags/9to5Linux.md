@@ -1,3 +1,6 @@
+## 20240725
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 14 Open-Source IDE Released with Support for Lua-Based Plugins](https://9to5linux.com/qt-creator-14-open-source-ide-released-with-support-for-lua-based-plugins)
+
 ## 20240723
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Beta Linux Driver Released with Open GPU Kernel Modules by Default](https://9to5linux.com/nvidia-560-beta-linux-driver-released-with-open-gpu-kernel-modules-by-default)
 

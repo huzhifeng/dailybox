@@ -1,3 +1,8 @@
+## 20240725
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-24](https://www.daemonology.net/hn-daily/2024-07-24.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-25](https://github.com/headllines/hackernews-daily/issues/1476)
+- [Hacker News](https://news.ycombinator.com/front) | [Every company should be owned by its employees](https://news.ycombinator.com/item?id=41065227)
+
 ## 20240724
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-23](https://www.daemonology.net/hn-daily/2024-07-23.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-24](https://github.com/headllines/hackernews-daily/issues/1475)

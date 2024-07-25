@@ -1,3 +1,6 @@
+## 20240725
+- [LibHunt](https://www.libhunt.com/) | [Hugo](https://www.libhunt.com/r/hugo)
+
 ## 20240724
 - [LibHunt](https://www.libhunt.com/) | [Oat++](https://www.libhunt.com/r/oatpp)
 

@@ -1,3 +1,7 @@
+## 20240725
+- [Phoronix](https://www.phoronix.com/) | [AMD Working On More Precise GPU Reset Capabilities For Their Linux Driver](https://www.phoronix.com/news/AMDGPU-Per-Ring-Resets)
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 14 Open-Source IDE Released with Support for Lua-Based Plugins](https://9to5linux.com/qt-creator-14-open-source-ide-released-with-support-for-lua-based-plugins)
+
 ## 20240724
 - [Phoronix](https://www.phoronix.com/) | [Intel Graphics Compiler 1.0.17193.4 Released With Initial Battlemage Support](https://www.phoronix.com/news/Intel-IGC-1.0.17193.4)
 
