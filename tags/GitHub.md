@@ -1,3 +1,6 @@
+## 20240725
+- [GitHub Trending](https://github.com/trending?since=daily) | [Netflix/maestro](https://github.com/Netflix/maestro)
+
 ## 20240724
 - [GitHub Trending](https://github.com/trending?since=daily) | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 

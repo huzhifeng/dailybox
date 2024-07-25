@@ -1,3 +1,6 @@
+## 20240725
+- [BlogFinder](https://bf.zzxworld.com/) | [垃圾时间下的焦虑](https://bull.eu.org/Garbage_time.html?utm_source=blogfinder)
+
 ## 20240724
 - [BlogFinder](https://bf.zzxworld.com/) | [记某站字体混淆解析方案](https://blog.cuger.cn/p/2b98/?utm_source=blogfinder)
 

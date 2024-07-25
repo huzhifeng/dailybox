@@ -1,3 +1,6 @@
+## 20240725
+- [Product Hunt](https://www.producthunt.com) | [Tidyread](https://www.producthunt.com/posts/tidyread)
+
 ## 20240724
 - [Product Hunt](https://www.producthunt.com) | [Translate.Photo](https://www.producthunt.com/posts/translate-photo)
 

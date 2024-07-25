@@ -1,3 +1,6 @@
+## 20240725
+- [It's FOSS](https://itsfoss.com/) | [Booting Raspberry Pi 5 from NVMe SSD](https://itsfoss.com/raspberry-pi-ssd-boot/)
+
 ## 20240723
 - [It's FOSS](https://itsfoss.com/) | [Effectively Use History Command in Linux](https://itsfoss.com/history-command/)
 

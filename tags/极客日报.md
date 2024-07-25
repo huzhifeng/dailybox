@@ -1,3 +1,6 @@
+## 20240725
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [11岁男孩自写600多行代码造火箭；马来西亚向微软、CrowdStrike“索赔”；快手可灵AI全面开放内测 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140681974)
+
 ## 20240723
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微软蓝屏故障造成全球损失或超10亿美元；雷军今晚七点举行返场直播；谷歌取消在浏览器中弃用第三方cookie | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140627957)
 
