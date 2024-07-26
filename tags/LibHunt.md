@@ -1,3 +1,6 @@
+## 20240726
+- [LibHunt](https://www.libhunt.com/) | [trufflehog](https://www.libhunt.com/r/trufflehog)
+
 ## 20240725
 - [LibHunt](https://www.libhunt.com/) | [Hugo](https://www.libhunt.com/r/hugo)
 

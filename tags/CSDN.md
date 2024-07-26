@@ -1,3 +1,6 @@
+## 20240726
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米出资8.42亿拿地；OpenAI推出搜索引擎SearchGPT；百川智能确认已完成50亿元A轮融资 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140719366)
+
 ## 20240725
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [11岁男孩自写600多行代码造火箭；马来西亚向微软、CrowdStrike“索赔”；快手可灵AI全面开放内测 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140681974)
 

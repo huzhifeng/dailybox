@@ -1,3 +1,6 @@
+## 20240726
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Is Looking Good In Early Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/news/Linux-6.11-Benchmarks-Early)
+
 ## 20240725
 - [Phoronix](https://www.phoronix.com/) | [AMD Working On More Precise GPU Reset Capabilities For Their Linux Driver](https://www.phoronix.com/news/AMDGPU-Per-Ring-Resets)
 

@@ -1,3 +1,8 @@
+## 20240726
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-25](https://www.daemonology.net/hn-daily/2024-07-25.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-26](https://github.com/headllines/hackernews-daily/issues/1477)
+- [Hacker News](https://news.ycombinator.com/front) | [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://news.ycombinator.com/item?id=41075766)
+
 ## 20240725
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-24](https://www.daemonology.net/hn-daily/2024-07-24.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-25](https://github.com/headllines/hackernews-daily/issues/1476)

@@ -1,3 +1,6 @@
+## 20240726
+- [V2EX](https://www.v2ex.com/) | [周五了，大家现阶段的烦恼是什么呢？](https://www.v2ex.com/t/1060360)
+
 ## 20240725
 - [V2EX](https://www.v2ex.com/) | [教育方面遇到了一个大问题，切小号来问一下大家的意见](https://www.v2ex.com/t/1060069)
 
