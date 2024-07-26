@@ -1,3 +1,6 @@
+## 20240726
+- [BlogFinder](https://bf.zzxworld.com/) | [Flask入门学习（十三）：flask数据库的增删改查](https://www.52txr.cn/2024/FlaskZSGC.html?utm_source=blogfinder)
+
 ## 20240725
 - [BlogFinder](https://bf.zzxworld.com/) | [垃圾时间下的焦虑](https://bull.eu.org/Garbage_time.html?utm_source=blogfinder)
 

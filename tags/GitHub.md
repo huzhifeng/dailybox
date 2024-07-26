@@ -1,3 +1,6 @@
+## 20240726
+- [GitHub Trending](https://github.com/trending?since=daily) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 ## 20240725
 - [GitHub Trending](https://github.com/trending?since=daily) | [Netflix/maestro](https://github.com/Netflix/maestro)
 

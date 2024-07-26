@@ -1,3 +1,6 @@
+## 20240726
+- [It's FOSS](https://itsfoss.com/) | [Linux Mint 22 Review: Subtle And Impactful Upgrade](https://itsfoss.com/linux-mint-22/)
+
 ## 20240725
 - [It's FOSS](https://itsfoss.com/) | [Booting Raspberry Pi 5 from NVMe SSD](https://itsfoss.com/raspberry-pi-ssd-boot/)
 

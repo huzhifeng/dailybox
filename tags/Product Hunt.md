@@ -1,3 +1,6 @@
+## 20240726
+- [Product Hunt](https://www.producthunt.com) | [Friend - Open Source AI Necklace](https://www.producthunt.com/posts/friend-open-source-ai-necklace)
+
 ## 20240725
 - [Product Hunt](https://www.producthunt.com) | [Tidyread](https://www.producthunt.com/posts/tidyread)
 
