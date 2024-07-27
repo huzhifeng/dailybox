@@ -1,3 +1,6 @@
+## 20240727
+- [GitHub Trending](https://github.com/trending?since=daily) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 ## 20240726
 - [GitHub Trending](https://github.com/trending?since=daily) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
