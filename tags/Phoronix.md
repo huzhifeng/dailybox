@@ -1,3 +1,6 @@
+## 20240727
+- [Phoronix](https://www.phoronix.com/) | [EEVDF Scheduler On The Verge Of Being "Complete"](https://www.phoronix.com/news/Linux-Completing-EEVDF)
+
 ## 20240726
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Is Looking Good In Early Benchmarks On AMD Ryzen Threadripper](https://www.phoronix.com/news/Linux-6.11-Benchmarks-Early)
 

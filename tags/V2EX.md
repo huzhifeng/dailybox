@@ -1,3 +1,6 @@
+## 20240727
+- [V2EX](https://www.v2ex.com/) | [停车磕到路虎极光车衣请求哥哥们出出办法](https://www.v2ex.com/t/1060535)
+
 ## 20240726
 - [V2EX](https://www.v2ex.com/) | [周五了，大家现阶段的烦恼是什么呢？](https://www.v2ex.com/t/1060360)
 

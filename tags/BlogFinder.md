@@ -1,3 +1,6 @@
+## 20240727
+- [BlogFinder](https://bf.zzxworld.com/) | [闲谈，神圣与非神圣](https://sliun.com/84.html?utm_source=blogfinder)
+
 ## 20240726
 - [BlogFinder](https://bf.zzxworld.com/) | [Flask入门学习（十三）：flask数据库的增删改查](https://www.52txr.cn/2024/FlaskZSGC.html?utm_source=blogfinder)
 

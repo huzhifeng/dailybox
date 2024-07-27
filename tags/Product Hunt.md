@@ -1,3 +1,6 @@
+## 20240727
+- [Product Hunt](https://www.producthunt.com) | [Blobfish AI](https://www.producthunt.com/posts/blobfish-ai)
+
 ## 20240726
 - [Product Hunt](https://www.producthunt.com) | [Friend - Open Source AI Necklace](https://www.producthunt.com/posts/friend-open-source-ai-necklace)
 
