@@ -1,3 +1,6 @@
+## 20240728
+- [V2EX](https://www.v2ex.com/) | [广州男科有没有中医推荐。那方面不行](https://www.v2ex.com/t/1060692)
+
 ## 20240727
 - [V2EX](https://www.v2ex.com/) | [停车磕到路虎极光车衣请求哥哥们出出办法](https://www.v2ex.com/t/1060535)
 

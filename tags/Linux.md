@@ -1,3 +1,8 @@
+## 20240728
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 9 HX 370: 100+ Benchmarks Validate Zen 5's Captivating Power Efficiency & Performance](https://www.phoronix.com/review/amd-ryzen-ai-9-hx-370)
+- [9to5Linux](https://9to5linux.com/) | [Vanilla OS 2 &#8220;Orchid&#8221; Released with Hybrid Debian Base, Here&#8217;s What&#8217;s New](https://9to5linux.com/vanilla-os-2-orchid-released-with-hybrid-debian-base-heres-whats-new)
+- [OMG! Linux](https://www.omglinux.com/) | [Vanilla OS 2 Released, Based on Debian Sid + Android App Support](https://www.omglinux.com/vanilla-os-2-released-with-android-app-support/)
+
 ## 20240727
 - [Phoronix](https://www.phoronix.com/) | [EEVDF Scheduler On The Verge Of Being "Complete"](https://www.phoronix.com/news/Linux-Completing-EEVDF)
 

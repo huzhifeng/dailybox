@@ -1,3 +1,6 @@
+## 20240728
+- [LibHunt](https://www.libhunt.com/) | [open-saas](https://www.libhunt.com/r/open-saas)
+
 ## 20240727
 - [LibHunt](https://www.libhunt.com/) | [Docker Compose](https://www.libhunt.com/r/compose)
 

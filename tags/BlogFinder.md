@@ -1,3 +1,6 @@
+## 20240728
+- [BlogFinder](https://bf.zzxworld.com/) | [AutoPiano在线弹钢琴弹奏HTML源码](https://luolt.cn/archives/2870.html?utm_source=blogfinder)
+
 ## 20240727
 - [BlogFinder](https://bf.zzxworld.com/) | [闲谈，神圣与非神圣](https://sliun.com/84.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240728
+- [9to5Linux](https://9to5linux.com/) | [Vanilla OS 2 &#8220;Orchid&#8221; Released with Hybrid Debian Base, Here&#8217;s What&#8217;s New](https://9to5linux.com/vanilla-os-2-orchid-released-with-hybrid-debian-base-heres-whats-new)
+
 ## 20240725
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 14 Open-Source IDE Released with Support for Lua-Based Plugins](https://9to5linux.com/qt-creator-14-open-source-ide-released-with-support-for-lua-based-plugins)
 
