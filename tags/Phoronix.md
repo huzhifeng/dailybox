@@ -1,3 +1,6 @@
+## 20240728
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 9 HX 370: 100+ Benchmarks Validate Zen 5's Captivating Power Efficiency & Performance](https://www.phoronix.com/review/amd-ryzen-ai-9-hx-370)
+
 ## 20240727
 - [Phoronix](https://www.phoronix.com/) | [EEVDF Scheduler On The Verge Of Being "Complete"](https://www.phoronix.com/news/Linux-Completing-EEVDF)
 

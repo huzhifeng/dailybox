@@ -1,3 +1,6 @@
+## 20240728
+- [OMG! Linux](https://www.omglinux.com/) | [Vanilla OS 2 Released, Based on Debian Sid + Android App Support](https://www.omglinux.com/vanilla-os-2-released-with-android-app-support/)
+
 ## 20240422
 - [OMG! Linux](https://www.omglinux.com/) | [GNOME Podcasts 7.0 Released with iTunes & fyyd Search](https://www.omglinux.com/gnome-podcasts-7-0-released-with-itunes-podcast-search/)
 
