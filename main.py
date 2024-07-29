@@ -11,6 +11,7 @@ import dateparser
 import pytz
 import feedparser
 import requests
+import xml
 
 
 def check_url_in_tag_file(tag, link):
@@ -78,6 +79,10 @@ def main():
                     # https://pythonhosted.org/feedparser/character-encoding.html#handling-incorrectly-declared-encodings
                     logger.info(
                         'Ignore warning: document declared as us-ascii, but parsed as utf-8')
+                elif isinstance(resp.bozo_exception, xml.sax._exceptions.SAXParseException):
+                    # fix exception 'junk after document element' for https://www.oschina.net/news/rss
+                    logger.info(
+                        'Ignore SAXParseException: Extra content at the end of the document')
                 else:
                     logger.warning('Other bozo exception, please attention')
                     continue
