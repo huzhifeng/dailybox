@@ -1,3 +1,6 @@
+## 20240729
+- [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
+
 ## 20240728
 - [LibHunt](https://www.libhunt.com/) | [open-saas](https://www.libhunt.com/r/open-saas)
 

@@ -1,3 +1,6 @@
+## 20240729
+- [V2EX](https://www.v2ex.com/) | [有在从事鸿蒙开发的吗，可以说一下体验，给一些建议吗](https://www.v2ex.com/t/1060919)
+
 ## 20240728
 - [V2EX](https://www.v2ex.com/) | [广州男科有没有中医推荐。那方面不行](https://www.v2ex.com/t/1060692)
 

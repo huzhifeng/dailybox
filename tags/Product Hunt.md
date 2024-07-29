@@ -1,3 +1,6 @@
+## 20240729
+- [Product Hunt](https://www.producthunt.com) | [Datrics AI Analyst Builder](https://www.producthunt.com/posts/datrics-ai-analyst-builder)
+
 ## 20240728
 - [Product Hunt](https://www.producthunt.com) | [Bootstrap Mobile](https://www.producthunt.com/posts/bootstrap-mobile)
 

@@ -1,3 +1,8 @@
+## 20240729
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-28](https://www.daemonology.net/hn-daily/2024-07-28.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-29](https://github.com/headllines/hackernews-daily/issues/1480)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-07-29 | 《命令行的起源》：计算机操作系统发展的文化轨迹](https://www.xiaoyuzhoufm.com/episode/66a704417349f7a5573501f9)
+
 ## 20240728
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-27](https://www.daemonology.net/hn-daily/2024-07-27.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-28](https://github.com/headllines/hackernews-daily/issues/1479)

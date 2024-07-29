@@ -1,3 +1,6 @@
+## 20240729
+- [Phoronix](https://www.phoronix.com/) | [SysVinit 3.10 Released With Better Interoperability For systemd's "machinectl stop"](https://www.phoronix.com/news/SysVinit-3.10)
+
 ## 20240728
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 9 HX 370: 100+ Benchmarks Validate Zen 5's Captivating Power Efficiency & Performance](https://www.phoronix.com/review/amd-ryzen-ai-9-hx-370)
 
