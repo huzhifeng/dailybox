@@ -1,3 +1,6 @@
+## 20240729
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [淘宝回应88VIP会员“杀熟”买东西更贵；雷军谈年龄焦虑；Meta训练Llama 3遭遇频繁故障 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140765428)
+
 ## 20240726
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米出资8.42亿拿地；OpenAI推出搜索引擎SearchGPT；百川智能确认已完成50亿元A轮融资 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140719366)
 

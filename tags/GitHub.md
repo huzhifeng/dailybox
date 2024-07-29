@@ -1,3 +1,6 @@
+## 20240729
+- [GitHub Trending](https://github.com/trending?since=daily) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 ## 20240728
 - [GitHub Trending](https://github.com/trending?since=daily) | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 

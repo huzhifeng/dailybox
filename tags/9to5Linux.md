@@ -1,3 +1,6 @@
+## 20240729
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024)
+
 ## 20240728
 - [9to5Linux](https://9to5linux.com/) | [Vanilla OS 2 &#8220;Orchid&#8221; Released with Hybrid Debian Base, Here&#8217;s What&#8217;s New](https://9to5linux.com/vanilla-os-2-orchid-released-with-hybrid-debian-base-heres-whats-new)
 

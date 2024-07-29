@@ -1,3 +1,7 @@
+## 20240729
+- [Phoronix](https://www.phoronix.com/) | [SysVinit 3.10 Released With Better Interoperability For systemd's "machinectl stop"](https://www.phoronix.com/news/SysVinit-3.10)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024)
+
 ## 20240728
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 9 HX 370: 100+ Benchmarks Validate Zen 5's Captivating Power Efficiency & Performance](https://www.phoronix.com/review/amd-ryzen-ai-9-hx-370)
 - [9to5Linux](https://9to5linux.com/) | [Vanilla OS 2 &#8220;Orchid&#8221; Released with Hybrid Debian Base, Here&#8217;s What&#8217;s New](https://9to5linux.com/vanilla-os-2-orchid-released-with-hybrid-debian-base-heres-whats-new)

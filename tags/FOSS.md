@@ -1,3 +1,6 @@
+## 20240729
+- [It's FOSS](https://itsfoss.com/) | [7 Amazing Things You Can Do with a Linux Home Server](https://itsfoss.com/homelab-usage/)
+
 ## 20240726
 - [It's FOSS](https://itsfoss.com/) | [Linux Mint 22 Review: Subtle And Impactful Upgrade](https://itsfoss.com/linux-mint-22/)
 
