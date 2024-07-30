@@ -1,3 +1,6 @@
+## 20240730
+- [V2EX](https://www.v2ex.com/) | [[抽奖] [优惠] 评论送十台 FindMy 卡片充电防丢器、AntiTag 防跟踪、WIFI 远程温湿度计、蓝牙带屏温湿度计](https://www.v2ex.com/t/1061188)
+
 ## 20240729
 - [V2EX](https://www.v2ex.com/) | [有在从事鸿蒙开发的吗，可以说一下体验，给一些建议吗](https://www.v2ex.com/t/1060919)
 

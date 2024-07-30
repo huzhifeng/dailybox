@@ -1,3 +1,7 @@
+## 20240730
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Freedreno Gallium3D Driver Lands Initial Adreno 700 Series Support](https://www.phoronix.com/news/Mesa-24.3-Freedreno-A7xx)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-5 Is Now Available for Ubuntu Phone Users](https://9to5linux.com/ubuntu-touch-ota-5-is-now-available-for-ubuntu-phone-users)
+
 ## 20240729
 - [Phoronix](https://www.phoronix.com/) | [SysVinit 3.10 Released With Better Interoperability For systemd's "machinectl stop"](https://www.phoronix.com/news/SysVinit-3.10)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024)

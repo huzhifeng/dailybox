@@ -1,3 +1,6 @@
+## 20240730
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Freedreno Gallium3D Driver Lands Initial Adreno 700 Series Support](https://www.phoronix.com/news/Mesa-24.3-Freedreno-A7xx)
+
 ## 20240729
 - [Phoronix](https://www.phoronix.com/) | [SysVinit 3.10 Released With Better Interoperability For systemd's "machinectl stop"](https://www.phoronix.com/news/SysVinit-3.10)
 

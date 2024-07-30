@@ -1,3 +1,6 @@
+## 20240730
+- [BlogFinder](https://bf.zzxworld.com/) | [爱人如养花 被爱好似有靠山](https://www.mancs.cn/52.html?utm_source=blogfinder)
+
 ## 20240729
 - [BlogFinder](https://bf.zzxworld.com/) | [完整教程！这款文件管理系统太强了—极空间部署iFileSpace](https://panda995.xyz/network/5054.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240730
+- [It's FOSS](https://itsfoss.com/) | [Copy Files Between Remote Systems in the Linux Command Line](https://itsfoss.com/ssh-copy-remote-local/)
+
 ## 20240729
 - [It's FOSS](https://itsfoss.com/) | [7 Amazing Things You Can Do with a Linux Home Server](https://itsfoss.com/homelab-usage/)
 

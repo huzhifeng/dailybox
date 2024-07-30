@@ -1,3 +1,6 @@
+## 20240730
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-5 Is Now Available for Ubuntu Phone Users](https://9to5linux.com/ubuntu-touch-ota-5-is-now-available-for-ubuntu-phone-users)
+
 ## 20240729
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024)
 

@@ -1,3 +1,6 @@
+## 20240730
+- [LibHunt](https://www.libhunt.com/) | [cyclops](https://www.libhunt.com/r/cyclops-ui/cyclops)
+
 ## 20240729
 - [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
 
