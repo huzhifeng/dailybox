@@ -1,3 +1,6 @@
+## 20240730
+- [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
 ## 20240729
 - [GitHub Trending](https://github.com/trending?since=daily) | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 

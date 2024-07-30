@@ -1,3 +1,6 @@
+## 20240730
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军：小米汽车会在合适时间全球化；黄仁勋扎克伯格首次公开对话，两人互换外套；Chrome出错致1500万用户密码丢失| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140792094)
+
 ## 20240729
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [淘宝回应88VIP会员“杀熟”买东西更贵；雷军谈年龄焦虑；Meta训练Llama 3遭遇频繁故障 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140765428)
 
