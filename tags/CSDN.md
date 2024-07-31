@@ -1,3 +1,6 @@
+## 20240731
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [蔚来、小鹏、吉利等车企高管公开反对销量周榜：有点“低水平内卷”的意思；OpenAI向部分用户开放GPT-4o语音模式| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140815374)
+
 ## 20240730
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军：小米汽车会在合适时间全球化；黄仁勋扎克伯格首次公开对话，两人互换外套；Chrome出错致1500万用户密码丢失| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140792094)
 

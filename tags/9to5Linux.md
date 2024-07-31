@@ -1,3 +1,6 @@
+## 20240731
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Nitrux 3.6 Arrives with NVIDIA 560 Driver, Latest NVIDIA GSP Firmware](https://9to5linux.com/systemd-free-nitrux-3-6-arrives-with-nvidia-560-driver-latest-nvidia-gsp-firmware)
+
 ## 20240730
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-5 Is Now Available for Ubuntu Phone Users](https://9to5linux.com/ubuntu-touch-ota-5-is-now-available-for-ubuntu-phone-users)
 

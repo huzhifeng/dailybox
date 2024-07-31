@@ -1,3 +1,6 @@
+## 20240731
+- [Phoronix](https://www.phoronix.com/) | [AmpereOne Aurora In Development With Up To 512 Cores, AmpereOne Prices Published](https://www.phoronix.com/review/ampereone-skus-pricing)
+
 ## 20240730
 - [Phoronix](https://www.phoronix.com/) | [Mesa's Freedreno Gallium3D Driver Lands Initial Adreno 700 Series Support](https://www.phoronix.com/news/Mesa-24.3-Freedreno-A7xx)
 

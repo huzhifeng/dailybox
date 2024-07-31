@@ -1,3 +1,6 @@
+## 20240731
+- [Product Hunt](https://www.producthunt.com) | [Kroto](https://www.producthunt.com/posts/kroto-2)
+
 ## 20240730
 - [Product Hunt](https://www.producthunt.com) | [Jamie](https://www.producthunt.com/posts/jamie-3dc90211-2320-4e8b-8a7c-69b8f8e87550)
 

@@ -1,3 +1,6 @@
+## 20240731
+- [LibHunt](https://www.libhunt.com/) | [fish-shell](https://www.libhunt.com/r/fish-shell)
+
 ## 20240730
 - [LibHunt](https://www.libhunt.com/) | [cyclops](https://www.libhunt.com/r/cyclops-ui/cyclops)
 

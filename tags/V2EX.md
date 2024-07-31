@@ -1,3 +1,6 @@
+## 20240731
+- [V2EX](https://www.v2ex.com/) | [人生重启（心梗被救了回来）](https://www.v2ex.com/t/1061532)
+
 ## 20240730
 - [V2EX](https://www.v2ex.com/) | [[抽奖] [优惠] 评论送十台 FindMy 卡片充电防丢器、AntiTag 防跟踪、WIFI 远程温湿度计、蓝牙带屏温湿度计](https://www.v2ex.com/t/1061188)
 

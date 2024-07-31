@@ -1,3 +1,7 @@
+## 20240731
+- [GitHub Trending](https://github.com/trending?since=daily) | [DiceDB/dice](https://github.com/DiceDB/dice)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)
+
 ## 20240730
 - [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 

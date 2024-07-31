@@ -1,3 +1,6 @@
+## 20240731
+- [BlogFinder](https://bf.zzxworld.com/) | [7月小记-可能是破财消灾吧](https://isming.me/2024-07-31-july-summary/?utm_source=blogfinder)
+
 ## 20240730
 - [BlogFinder](https://bf.zzxworld.com/) | [爱人如养花 被爱好似有靠山](https://www.mancs.cn/52.html?utm_source=blogfinder)
 
