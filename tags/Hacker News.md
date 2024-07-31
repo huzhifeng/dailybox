@@ -1,3 +1,8 @@
+## 20240731
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-30](https://www.daemonology.net/hn-daily/2024-07-30.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-31](https://github.com/headllines/hackernews-daily/issues/1482)
+- [Hacker News](https://news.ycombinator.com/front) | [macOS in Docker Container](https://news.ycombinator.com/item?id=41116473)
+
 ## 20240730
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-29](https://www.daemonology.net/hn-daily/2024-07-29.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-30](https://github.com/headllines/hackernews-daily/issues/1481)

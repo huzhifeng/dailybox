@@ -1,3 +1,6 @@
+## 20240731
+- [It's FOSS](https://itsfoss.com/) | [Open Source Alternatives to Google Photos that Can be Self Hosted](https://itsfoss.com/google-photos-alternatives/)
+
 ## 20240730
 - [It's FOSS](https://itsfoss.com/) | [Copy Files Between Remote Systems in the Linux Command Line](https://itsfoss.com/ssh-copy-remote-local/)
 

@@ -1,3 +1,7 @@
+## 20240731
+- [Phoronix](https://www.phoronix.com/) | [AmpereOne Aurora In Development With Up To 512 Cores, AmpereOne Prices Published](https://www.phoronix.com/review/ampereone-skus-pricing)
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Nitrux 3.6 Arrives with NVIDIA 560 Driver, Latest NVIDIA GSP Firmware](https://9to5linux.com/systemd-free-nitrux-3-6-arrives-with-nvidia-560-driver-latest-nvidia-gsp-firmware)
+
 ## 20240730
 - [Phoronix](https://www.phoronix.com/) | [Mesa's Freedreno Gallium3D Driver Lands Initial Adreno 700 Series Support](https://www.phoronix.com/news/Mesa-24.3-Freedreno-A7xx)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-5 Is Now Available for Ubuntu Phone Users](https://9to5linux.com/ubuntu-touch-ota-5-is-now-available-for-ubuntu-phone-users)
