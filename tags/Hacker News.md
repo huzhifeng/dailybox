@@ -1,3 +1,8 @@
+## 20240801
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-31](https://www.daemonology.net/hn-daily/2024-07-31.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-01](https://github.com/headllines/hackernews-daily/issues/1483)
+- [Hacker News](https://news.ycombinator.com/front) | [How I got my laser eye injury](https://news.ycombinator.com/item?id=41127706)
+
 ## 20240731
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-07-30](https://www.daemonology.net/hn-daily/2024-07-30.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-07-31](https://github.com/headllines/hackernews-daily/issues/1482)

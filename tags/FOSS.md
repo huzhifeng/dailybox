@@ -1,3 +1,6 @@
+## 20240801
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.31: Mint 22 Review, Vanilla OS 2, Fun with Linux Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-31/)
+
 ## 20240731
 - [It's FOSS](https://itsfoss.com/) | [Open Source Alternatives to Google Photos that Can be Self Hosted](https://itsfoss.com/google-photos-alternatives/)
 

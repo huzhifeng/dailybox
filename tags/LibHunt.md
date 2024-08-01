@@ -1,3 +1,6 @@
+## 20240801
+- [LibHunt](https://www.libhunt.com/) | [time](https://www.libhunt.com/r/time-rs/time)
+
 ## 20240731
 - [LibHunt](https://www.libhunt.com/) | [fish-shell](https://www.libhunt.com/r/fish-shell)
 

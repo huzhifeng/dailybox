@@ -1,3 +1,6 @@
+## 20240801
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微软又发生9小时宕机：DDoS攻击引起；周鸿祎：360用户是在为国家安全“看”广告；谷歌公布安卓版本饼图 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140841772)
+
 ## 20240731
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [蔚来、小鹏、吉利等车企高管公开反对销量周榜：有点“低水平内卷”的意思；OpenAI向部分用户开放GPT-4o语音模式| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140815374)
 

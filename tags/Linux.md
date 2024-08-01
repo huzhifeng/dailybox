@@ -1,3 +1,7 @@
+## 20240801
+- [Phoronix](https://www.phoronix.com/) | [ASUS Zenbook S 16 UM5606WA Platform Profile Impact On Performance & Power](https://www.phoronix.com/review/asus-zenbook-s16-power)
+- [9to5Linux](https://9to5linux.com/) | [First Look at Serpent OS: Minimal GNOME Desktop and Rust-Based Package Manager](https://9to5linux.com/first-look-at-serpent-os-minimal-gnome-desktop-and-rust-based-package-manager)
+
 ## 20240731
 - [Phoronix](https://www.phoronix.com/) | [AmpereOne Aurora In Development With Up To 512 Cores, AmpereOne Prices Published](https://www.phoronix.com/review/ampereone-skus-pricing)
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Nitrux 3.6 Arrives with NVIDIA 560 Driver, Latest NVIDIA GSP Firmware](https://9to5linux.com/systemd-free-nitrux-3-6-arrives-with-nvidia-560-driver-latest-nvidia-gsp-firmware)
