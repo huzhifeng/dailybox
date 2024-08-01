@@ -1,3 +1,6 @@
+## 20240801
+- [GitHub Trending](https://github.com/trending?since=daily) | [lipku/metahuman-stream](https://github.com/lipku/metahuman-stream)
+
 ## 20240731
 - [GitHub Trending](https://github.com/trending?since=daily) | [DiceDB/dice](https://github.com/DiceDB/dice)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)

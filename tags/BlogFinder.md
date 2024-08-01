@@ -1,3 +1,6 @@
+## 20240801
+- [BlogFinder](https://bf.zzxworld.com/) | [5️⃣每日壁纸分享no.00015](https://blog.study996.cn/archives/7181488201977040163?utm_source=blogfinder)
+
 ## 20240731
 - [BlogFinder](https://bf.zzxworld.com/) | [7月小记-可能是破财消灾吧](https://isming.me/2024-07-31-july-summary/?utm_source=blogfinder)
 

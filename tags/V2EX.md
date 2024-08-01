@@ -1,3 +1,6 @@
+## 20240801
+- [V2EX](https://www.v2ex.com/) | [如何看待自带设备上班？](https://www.v2ex.com/t/1061709)
+
 ## 20240731
 - [V2EX](https://www.v2ex.com/) | [人生重启（心梗被救了回来）](https://www.v2ex.com/t/1061532)
 

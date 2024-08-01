@@ -1,3 +1,6 @@
+## 20240801
+- [Phoronix](https://www.phoronix.com/) | [ASUS Zenbook S 16 UM5606WA Platform Profile Impact On Performance & Power](https://www.phoronix.com/review/asus-zenbook-s16-power)
+
 ## 20240731
 - [Phoronix](https://www.phoronix.com/) | [AmpereOne Aurora In Development With Up To 512 Cores, AmpereOne Prices Published](https://www.phoronix.com/review/ampereone-skus-pricing)
 
