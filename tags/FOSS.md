@@ -1,3 +1,6 @@
+## 20240802
+- [It's FOSS](https://itsfoss.com/) | [Getting the Real GNOME Software Back in Ubuntu 24.04](https://itsfoss.com/ubuntu-gnome-software-center/)
+
 ## 20240801
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.31: Mint 22 Review, Vanilla OS 2, Fun with Linux Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-31/)
 

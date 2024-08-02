@@ -1,3 +1,6 @@
+## 20240802
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [佳能苏州回应裁员赔N+12/2N+12；微软将OpenAI列入竞争对手名单；三星芯片业务负责人：公司不改革将陷恶性循环|极客头条](https://blog.csdn.net/weixin_39786569/article/details/140863549)
+
 ## 20240801
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微软又发生9小时宕机：DDoS攻击引起；周鸿祎：360用户是在为国家安全“看”广告；谷歌公布安卓版本饼图 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140841772)
 

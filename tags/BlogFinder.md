@@ -1,3 +1,6 @@
+## 20240802
+- [BlogFinder](https://bf.zzxworld.com/) | [小更新一下以前的“轻收藏”主题模板](https://luolt.cn/archives/2874.html?utm_source=blogfinder)
+
 ## 20240801
 - [BlogFinder](https://bf.zzxworld.com/) | [5️⃣每日壁纸分享no.00015](https://blog.study996.cn/archives/7181488201977040163?utm_source=blogfinder)
 

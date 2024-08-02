@@ -1,3 +1,6 @@
+## 20240802
+- [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
 ## 20240801
 - [GitHub Trending](https://github.com/trending?since=daily) | [lipku/metahuman-stream](https://github.com/lipku/metahuman-stream)
 
