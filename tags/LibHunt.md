@@ -1,3 +1,6 @@
+## 20240802
+- [LibHunt](https://www.libhunt.com/) | [pico](https://www.libhunt.com/r/pico)
+
 ## 20240801
 - [LibHunt](https://www.libhunt.com/) | [time](https://www.libhunt.com/r/time-rs/time)
 

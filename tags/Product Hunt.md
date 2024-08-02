@@ -1,3 +1,6 @@
+## 20240802
+- [Product Hunt](https://www.producthunt.com) | [Wordware (YC S24)](https://www.producthunt.com/posts/wordware-yc-s24)
+
 ## 20240731
 - [Product Hunt](https://www.producthunt.com) | [Kroto](https://www.producthunt.com/posts/kroto-2)
 

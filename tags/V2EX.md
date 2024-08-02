@@ -1,3 +1,6 @@
+## 20240802
+- [V2EX](https://www.v2ex.com/) | [MBP 2015 已经很难再战了](https://www.v2ex.com/t/1062005)
+
 ## 20240801
 - [V2EX](https://www.v2ex.com/) | [如何看待自带设备上班？](https://www.v2ex.com/t/1061709)
 

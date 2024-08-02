@@ -1,3 +1,6 @@
+## 20240802
+- [Phoronix](https://www.phoronix.com/) | [Tiny Linux Patch Up To 32% Faster, Up To 18% Less Energy For Intel Xeon Emerald Rapids](https://www.phoronix.com/news/One-Line-Linux-Faster-Intel-EMR)
+
 ## 20240801
 - [Phoronix](https://www.phoronix.com/) | [ASUS Zenbook S 16 UM5606WA Platform Profile Impact On Performance & Power](https://www.phoronix.com/review/asus-zenbook-s16-power)
 
