@@ -1,3 +1,6 @@
+## 20240803
+- [Product Hunt](https://www.producthunt.com) | [Minduck](https://www.producthunt.com/posts/minduck)
+
 ## 20240802
 - [Product Hunt](https://www.producthunt.com) | [Wordware (YC S24)](https://www.producthunt.com/posts/wordware-yc-s24)
 

@@ -1,3 +1,6 @@
+## 20240803
+- [LibHunt](https://www.libhunt.com/) | [llm](https://www.libhunt.com/r/simonw/llm)
+
 ## 20240802
 - [LibHunt](https://www.libhunt.com/) | [pico](https://www.libhunt.com/r/pico)
 

@@ -1,3 +1,6 @@
+## 20240803
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 9.9 Open-Source Archive Manager Adds Internal Drag and Drop Features](https://9to5linux.com/peazip-9-9-open-source-archive-manager-adds-internal-drag-and-drop-features)
+
 ## 20240801
 - [9to5Linux](https://9to5linux.com/) | [First Look at Serpent OS: Minimal GNOME Desktop and Rust-Based Package Manager](https://9to5linux.com/first-look-at-serpent-os-minimal-gnome-desktop-and-rust-based-package-manager)
 

@@ -1,3 +1,7 @@
+## 20240803
+- [Phoronix](https://www.phoronix.com/) | [Immutable Version Of Arch-Based Manjaro Linux Available For Testing](https://www.phoronix.com/news/Immutable-Manjaro-Linux)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 9.9 Open-Source Archive Manager Adds Internal Drag and Drop Features](https://9to5linux.com/peazip-9-9-open-source-archive-manager-adds-internal-drag-and-drop-features)
+
 ## 20240802
 - [Phoronix](https://www.phoronix.com/) | [Tiny Linux Patch Up To 32% Faster, Up To 18% Less Energy For Intel Xeon Emerald Rapids](https://www.phoronix.com/news/One-Line-Linux-Faster-Intel-EMR)
 

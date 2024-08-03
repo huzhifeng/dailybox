@@ -1,3 +1,6 @@
+## 20240803
+- [BlogFinder](https://bf.zzxworld.com/) | [拾月通讯（第37期）](https://www.skyue.com/24080317.html?utm_source=blogfinder)
+
 ## 20240802
 - [BlogFinder](https://bf.zzxworld.com/) | [小更新一下以前的“轻收藏”主题模板](https://luolt.cn/archives/2874.html?utm_source=blogfinder)
 
