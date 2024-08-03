@@ -1,3 +1,6 @@
+## 20240803
+- [V2EX](https://www.v2ex.com/) | [现在想换 iPhone ，换一台 15 promax 512G，但 16 马上要上市了？要等吗？](https://www.v2ex.com/t/1062212)
+
 ## 20240802
 - [V2EX](https://www.v2ex.com/) | [MBP 2015 已经很难再战了](https://www.v2ex.com/t/1062005)
 

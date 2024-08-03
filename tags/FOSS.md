@@ -1,3 +1,6 @@
+## 20240803
+- [It's FOSS](https://itsfoss.com/) | [Find and Disable Push Notifications in Firefox and Chrome](https://itsfoss.com/disable-push-notifications-firefox-chrome/)
+
 ## 20240802
 - [It's FOSS](https://itsfoss.com/) | [Getting the Real GNOME Software Back in Ubuntu 24.04](https://itsfoss.com/ubuntu-gnome-software-center/)
 

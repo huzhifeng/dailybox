@@ -1,3 +1,6 @@
+## 20240803
+- [Phoronix](https://www.phoronix.com/) | [Immutable Version Of Arch-Based Manjaro Linux Available For Testing](https://www.phoronix.com/news/Immutable-Manjaro-Linux)
+
 ## 20240802
 - [Phoronix](https://www.phoronix.com/) | [Tiny Linux Patch Up To 32% Faster, Up To 18% Less Energy For Intel Xeon Emerald Rapids](https://www.phoronix.com/news/One-Line-Linux-Faster-Intel-EMR)
 
