@@ -1,3 +1,6 @@
+## 20240804
+- [BlogFinder](https://bf.zzxworld.com/) | [7️⃣每日壁纸分享no.00018](https://blog.study996.cn/archives/7182041396256296244?utm_source=blogfinder)
+
 ## 20240803
 - [BlogFinder](https://bf.zzxworld.com/) | [拾月通讯（第37期）](https://www.skyue.com/24080317.html?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240804
+- [V2EX](https://www.v2ex.com/) | [大家的大额存款都是怎么理财的？](https://www.v2ex.com/t/1062396)
+
 ## 20240803
 - [V2EX](https://www.v2ex.com/) | [现在想换 iPhone ，换一台 15 promax 512G，但 16 马上要上市了？要等吗？](https://www.v2ex.com/t/1062212)
 

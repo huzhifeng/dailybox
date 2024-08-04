@@ -1,3 +1,6 @@
+## 20240804
+- [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
 ## 20240803
 - [GitHub Trending](https://github.com/trending?since=daily) | [pytorch/torchchat](https://github.com/pytorch/torchchat)
 

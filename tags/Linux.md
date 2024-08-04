@@ -1,3 +1,6 @@
+## 20240804
+- [Phoronix](https://www.phoronix.com/) | [The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines](https://www.phoronix.com/news/AMD-Kernel-GPU-5.8-Million)
+
 ## 20240803
 - [Phoronix](https://www.phoronix.com/) | [Immutable Version Of Arch-Based Manjaro Linux Available For Testing](https://www.phoronix.com/news/Immutable-Manjaro-Linux)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 9.9 Open-Source Archive Manager Adds Internal Drag and Drop Features](https://9to5linux.com/peazip-9-9-open-source-archive-manager-adds-internal-drag-and-drop-features)

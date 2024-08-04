@@ -1,3 +1,6 @@
+## 20240804
+- [Phoronix](https://www.phoronix.com/) | [The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines](https://www.phoronix.com/news/AMD-Kernel-GPU-5.8-Million)
+
 ## 20240803
 - [Phoronix](https://www.phoronix.com/) | [Immutable Version Of Arch-Based Manjaro Linux Available For Testing](https://www.phoronix.com/news/Immutable-Manjaro-Linux)
 
