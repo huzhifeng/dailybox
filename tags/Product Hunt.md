@@ -1,3 +1,6 @@
+## 20240804
+- [Product Hunt](https://www.producthunt.com) | [Olovka](https://www.producthunt.com/posts/olovka)
+
 ## 20240803
 - [Product Hunt](https://www.producthunt.com) | [Minduck](https://www.producthunt.com/posts/minduck)
 

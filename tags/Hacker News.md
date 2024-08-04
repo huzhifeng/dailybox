@@ -1,3 +1,8 @@
+## 20240804
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-03](https://www.daemonology.net/hn-daily/2024-08-03.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-04](https://github.com/headllines/hackernews-daily/issues/1486)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-04 | 自制力实验「棉花糖实验」对预测长大后的表现并不那么靠谱](https://www.xiaoyuzhoufm.com/episode/66af365833ddcbb53c2bd4bb)
+
 ## 20240803
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-02](https://www.daemonology.net/hn-daily/2024-08-02.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-03](https://github.com/headllines/hackernews-daily/issues/1485)

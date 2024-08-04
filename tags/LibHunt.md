@@ -1,3 +1,6 @@
+## 20240804
+- [LibHunt](https://www.libhunt.com/) | [rhombus](https://www.libhunt.com/r/rhombus)
+
 ## 20240803
 - [LibHunt](https://www.libhunt.com/) | [llm](https://www.libhunt.com/r/simonw/llm)
 
