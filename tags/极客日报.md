@@ -1,3 +1,6 @@
+## 20240805
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小红书11周年信反思大公司病；OpenAI正研发文本水印工具，但推出受阻；马斯克称已为第二位人类患者植入脑机芯片 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140919101)
+
 ## 20240802
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [佳能苏州回应裁员赔N+12/2N+12；微软将OpenAI列入竞争对手名单；三星芯片业务负责人：公司不改革将陷恶性循环|极客头条](https://blog.csdn.net/weixin_39786569/article/details/140863549)
 

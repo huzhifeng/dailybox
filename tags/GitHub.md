@@ -1,3 +1,7 @@
+## 20240805
+- [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [LeVilla/1NSTTool](https://github.com/LeVilla/1NSTTool)
+
 ## 20240804
 - [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 

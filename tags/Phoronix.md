@@ -1,3 +1,6 @@
+## 20240805
+- [Phoronix](https://www.phoronix.com/) | [Sway Compositor Lands Wayland Tearing Control Support](https://www.phoronix.com/news/Sway-Tearing-Control-Lands)
+
 ## 20240804
 - [Phoronix](https://www.phoronix.com/) | [The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines](https://www.phoronix.com/news/AMD-Kernel-GPU-5.8-Million)
 

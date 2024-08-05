@@ -1,3 +1,6 @@
+## 20240805
+- [It's FOSS](https://itsfoss.com/) | [How I Installed Armbian Desktop](https://itsfoss.com/install-armbian/)
+
 ## 20240803
 - [It's FOSS](https://itsfoss.com/) | [Find and Disable Push Notifications in Firefox and Chrome](https://itsfoss.com/disable-push-notifications-firefox-chrome/)
 
