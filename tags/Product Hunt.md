@@ -1,3 +1,6 @@
+## 20240805
+- [Product Hunt](https://www.producthunt.com) | [Dobror](https://www.producthunt.com/posts/dobror)
+
 ## 20240804
 - [Product Hunt](https://www.producthunt.com) | [Olovka](https://www.producthunt.com/posts/olovka)
 

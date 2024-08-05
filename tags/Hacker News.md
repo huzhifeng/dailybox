@@ -1,3 +1,8 @@
+## 20240805
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-04](https://www.daemonology.net/hn-daily/2024-08-04.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-05](https://github.com/headllines/hackernews-daily/issues/1487)
+- [Hacker News](https://news.ycombinator.com/front) | [Starting Hospice](https://news.ycombinator.com/item?id=41157974)
+
 ## 20240804
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-03](https://www.daemonology.net/hn-daily/2024-08-03.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-04](https://github.com/headllines/hackernews-daily/issues/1486)

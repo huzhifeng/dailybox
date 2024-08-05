@@ -1,3 +1,6 @@
+## 20240805
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 129 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-129-is-now-available-for-download-heres-whats-new)
+
 ## 20240803
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 9.9 Open-Source Archive Manager Adds Internal Drag and Drop Features](https://9to5linux.com/peazip-9-9-open-source-archive-manager-adds-internal-drag-and-drop-features)
 

@@ -1,3 +1,7 @@
+## 20240805
+- [Phoronix](https://www.phoronix.com/) | [Sway Compositor Lands Wayland Tearing Control Support](https://www.phoronix.com/news/Sway-Tearing-Control-Lands)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 129 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-129-is-now-available-for-download-heres-whats-new)
+
 ## 20240804
 - [Phoronix](https://www.phoronix.com/) | [The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines](https://www.phoronix.com/news/AMD-Kernel-GPU-5.8-Million)
 
