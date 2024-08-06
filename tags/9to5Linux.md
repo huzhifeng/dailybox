@@ -1,3 +1,6 @@
+## 20240806
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.4 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-1-4-desktop-released-with-various-improvements-and-bug-fixes)
+
 ## 20240805
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 129 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-129-is-now-available-for-download-heres-whats-new)
 

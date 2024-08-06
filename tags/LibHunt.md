@@ -1,3 +1,6 @@
+## 20240806
+- [LibHunt](https://www.libhunt.com/) | [libcurl](https://www.libhunt.com/r/curl)
+
 ## 20240805
 - [LibHunt](https://www.libhunt.com/) | [age](https://www.libhunt.com/r/age)
 

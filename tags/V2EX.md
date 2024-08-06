@@ -1,3 +1,6 @@
+## 20240806
+- [V2EX](https://www.v2ex.com/) | [github 强制 2fa，有什么替代的吗](https://www.v2ex.com/t/1062879)
+
 ## 20240805
 - [V2EX](https://www.v2ex.com/) | [求助，我遇到了 2024 年的人口买卖，该怎么办](https://www.v2ex.com/t/1062589)
 

@@ -1,3 +1,7 @@
+## 20240806
+- [Phoronix](https://www.phoronix.com/) | [Solidigm D7-PS1010 PCIe 5.0 NVMe SSDs Offer Great Performance For Servers](https://www.phoronix.com/review/solidigm-d7-ps1010)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.4 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-1-4-desktop-released-with-various-improvements-and-bug-fixes)
+
 ## 20240805
 - [Phoronix](https://www.phoronix.com/) | [Sway Compositor Lands Wayland Tearing Control Support](https://www.phoronix.com/news/Sway-Tearing-Control-Lands)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 129 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-129-is-now-available-for-download-heres-whats-new)

@@ -1,3 +1,6 @@
+## 20240806
+- [GitHub Trending](https://github.com/trending?since=daily) | [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
+
 ## 20240805
 - [GitHub Trending](https://github.com/trending?since=daily) | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [LeVilla/1NSTTool](https://github.com/LeVilla/1NSTTool)
