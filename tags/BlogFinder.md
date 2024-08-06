@@ -1,3 +1,6 @@
+## 20240806
+- [BlogFinder](https://bf.zzxworld.com/) | [复活 iPhone 4](https://dujun.io/revive-iphone4.html?utm_source=blogfinder)
+
 ## 20240805
 - [BlogFinder](https://bf.zzxworld.com/) | [瑕不掩瑜的一部电影](https://www.mmbkz.cn/6d661ef9.html?utm_source=blogfinder)
 

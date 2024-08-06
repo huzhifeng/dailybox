@@ -1,3 +1,6 @@
+## 20240806
+- [Phoronix](https://www.phoronix.com/) | [Solidigm D7-PS1010 PCIe 5.0 NVMe SSDs Offer Great Performance For Servers](https://www.phoronix.com/review/solidigm-d7-ps1010)
+
 ## 20240805
 - [Phoronix](https://www.phoronix.com/) | [Sway Compositor Lands Wayland Tearing Control Support](https://www.phoronix.com/news/Sway-Tearing-Control-Lands)
 

@@ -1,3 +1,6 @@
+## 20240806
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [​荣耀回应上市传闻；美法院裁定谷歌非法垄断搜索市场；美股“七巨头”市值一夜蒸发6500亿美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140946440)
+
 ## 20240805
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小红书11周年信反思大公司病；OpenAI正研发文本水印工具，但推出受阻；马斯克称已为第二位人类患者植入脑机芯片 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140919101)
 

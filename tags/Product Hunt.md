@@ -1,3 +1,6 @@
+## 20240806
+- [Product Hunt](https://www.producthunt.com) | [Codei AI](https://www.producthunt.com/posts/codei-ai)
+
 ## 20240805
 - [Product Hunt](https://www.producthunt.com) | [Dobror](https://www.producthunt.com/posts/dobror)
 
