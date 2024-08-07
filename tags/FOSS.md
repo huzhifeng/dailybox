@@ -1,3 +1,6 @@
+## 20240807
+- [It's FOSS](https://itsfoss.com/) | [How to Back up or Clone a Virtual Machine on VirtualBox](https://itsfoss.com/virtualbox-backup-clone/)
+
 ## 20240805
 - [It's FOSS](https://itsfoss.com/) | [How I Installed Armbian Desktop](https://itsfoss.com/install-armbian/)
 

@@ -1,3 +1,6 @@
+## 20240807
+- [GitHub Trending](https://github.com/trending?since=daily) | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
+
 ## 20240806
 - [GitHub Trending](https://github.com/trending?since=daily) | [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
 

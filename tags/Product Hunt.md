@@ -1,3 +1,6 @@
+## 20240807
+- [Product Hunt](https://www.producthunt.com) | [Kypso](https://www.producthunt.com/posts/kypso-2)
+
 ## 20240806
 - [Product Hunt](https://www.producthunt.com) | [Codei AI](https://www.producthunt.com/posts/codei-ai)
 

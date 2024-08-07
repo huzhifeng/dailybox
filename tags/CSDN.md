@@ -1,3 +1,6 @@
+## 20240807
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯校招范围扩大；曝苹果就“佣金漏洞”向腾讯、字节施压；Flutter 3.24 和 Dart 3.5 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140989250)
+
 ## 20240806
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [​荣耀回应上市传闻；美法院裁定谷歌非法垄断搜索市场；美股“七巨头”市值一夜蒸发6500亿美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140946440)
 
