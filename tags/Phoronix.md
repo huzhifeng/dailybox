@@ -1,3 +1,6 @@
+## 20240807
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 5 9600X & Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
+
 ## 20240806
 - [Phoronix](https://www.phoronix.com/) | [Solidigm D7-PS1010 PCIe 5.0 NVMe SSDs Offer Great Performance For Servers](https://www.phoronix.com/review/solidigm-d7-ps1010)
 

@@ -1,3 +1,6 @@
+## 20240807
+- [LibHunt](https://www.libhunt.com/) | [firezone](https://www.libhunt.com/r/firezone)
+
 ## 20240806
 - [LibHunt](https://www.libhunt.com/) | [libcurl](https://www.libhunt.com/r/curl)
 

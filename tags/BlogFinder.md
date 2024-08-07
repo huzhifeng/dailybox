@@ -1,3 +1,6 @@
+## 20240807
+- [BlogFinder](https://bf.zzxworld.com/) | [绝区零｜Fairy待机文案收集](https://blog.starsharbor.com/posts/zenless-zone-zero-fairy/?utm_source=blogfinder)
+
 ## 20240806
 - [BlogFinder](https://bf.zzxworld.com/) | [复活 iPhone 4](https://dujun.io/revive-iphone4.html?utm_source=blogfinder)
 
