@@ -1,3 +1,6 @@
+## 20240808
+- [BlogFinder](https://bf.zzxworld.com/) | [【科普】为什么“找回密码”功能找不回密码？](https://blog.365sites.top/article/2024-08-08-001?utm_source=blogfinder)
+
 ## 20240807
 - [BlogFinder](https://bf.zzxworld.com/) | [绝区零｜Fairy待机文案收集](https://blog.starsharbor.com/posts/zenless-zone-zero-fairy/?utm_source=blogfinder)
 

@@ -1,3 +1,7 @@
+## 20240808
+- [Phoronix](https://www.phoronix.com/) | [System76 Releases COSMIC Alpha Desktop - It's Looking Quite Interesting](https://www.phoronix.com/news/System76-COSMIC-Alpha)
+- [9to5Linux](https://9to5linux.com/) | [System76 Launches Pop!_OS 24.04 LTS with COSMIC Alpha Desktop Environment](https://9to5linux.com/system76-launches-pop_os-24-04-lts-with-cosmic-alpha-desktop-environment)
+
 ## 20240807
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 5 9600X & Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 
