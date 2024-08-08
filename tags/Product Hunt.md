@@ -1,3 +1,6 @@
+## 20240808
+- [Product Hunt](https://www.producthunt.com) | [AICamp](https://www.producthunt.com/posts/aicamp)
+
 ## 20240807
 - [Product Hunt](https://www.producthunt.com) | [Kypso](https://www.producthunt.com/posts/kypso-2)
 

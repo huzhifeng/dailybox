@@ -1,3 +1,8 @@
+## 20240808
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-07](https://www.daemonology.net/hn-daily/2024-08-07.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-08](https://github.com/headllines/hackernews-daily/issues/1490)
+- [Hacker News](https://news.ycombinator.com/front) | [RLHF is just barely RL](https://news.ycombinator.com/item?id=41188647)
+
 ## 20240807
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-06](https://www.daemonology.net/hn-daily/2024-08-06.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-07](https://github.com/headllines/hackernews-daily/issues/1489)

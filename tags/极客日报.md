@@ -1,3 +1,6 @@
+## 20240808
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应文件传输助手隐私问题；人人影视创始人梁良致歉并出售设备；Google Chrome将允许用户打赏其喜欢的网站| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141019231)
+
 ## 20240807
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯校招范围扩大；曝苹果就“佣金漏洞”向腾讯、字节施压；Flutter 3.24 和 Dart 3.5 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140989250)
 

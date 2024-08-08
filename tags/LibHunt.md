@@ -1,3 +1,6 @@
+## 20240808
+- [LibHunt](https://www.libhunt.com/) | [obsidian-releases](https://www.libhunt.com/r/obsidian-releases)
+
 ## 20240807
 - [LibHunt](https://www.libhunt.com/) | [firezone](https://www.libhunt.com/r/firezone)
 

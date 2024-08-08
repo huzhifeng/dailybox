@@ -1,3 +1,6 @@
+## 20240808
+- [9to5Linux](https://9to5linux.com/) | [System76 Launches Pop!_OS 24.04 LTS with COSMIC Alpha Desktop Environment](https://9to5linux.com/system76-launches-pop_os-24-04-lts-with-cosmic-alpha-desktop-environment)
+
 ## 20240806
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.4 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-1-4-desktop-released-with-various-improvements-and-bug-fixes)
 

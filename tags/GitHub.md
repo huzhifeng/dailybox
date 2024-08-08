@@ -1,3 +1,6 @@
+## 20240808
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
 ## 20240807
 - [GitHub Trending](https://github.com/trending?since=daily) | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
 
