@@ -1,3 +1,7 @@
+## 20240809
+- [Phoronix](https://www.phoronix.com/) | [Linux's DRM Power Saving Policy Gets Reverted For Now](https://www.phoronix.com/news/DRM-Revert-Power-Saving-Prop)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.5 Released with Plasma Wayland and Dolphin Improvements](https://9to5linux.com/kde-frameworks-6-5-released-with-plasma-wayland-and-dolphin-improvements)
+
 ## 20240808
 - [Phoronix](https://www.phoronix.com/) | [System76 Releases COSMIC Alpha Desktop - It's Looking Quite Interesting](https://www.phoronix.com/news/System76-COSMIC-Alpha)
 - [9to5Linux](https://9to5linux.com/) | [System76 Launches Pop!_OS 24.04 LTS with COSMIC Alpha Desktop Environment](https://9to5linux.com/system76-launches-pop_os-24-04-lts-with-cosmic-alpha-desktop-environment)

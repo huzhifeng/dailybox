@@ -1,3 +1,6 @@
+## 20240809
+- [V2EX](https://www.v2ex.com/) | [求推荐买车,目标明确~](https://www.v2ex.com/t/1063779)
+
 ## 20240808
 - [V2EX](https://www.v2ex.com/) | [特斯拉高位接盘，短短两周从 270 跌到 180，每天夜不能寐，该如何是好？](https://www.v2ex.com/t/1063509)
 

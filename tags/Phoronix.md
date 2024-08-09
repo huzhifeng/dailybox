@@ -1,3 +1,6 @@
+## 20240809
+- [Phoronix](https://www.phoronix.com/) | [Linux's DRM Power Saving Policy Gets Reverted For Now](https://www.phoronix.com/news/DRM-Revert-Power-Saving-Prop)
+
 ## 20240808
 - [Phoronix](https://www.phoronix.com/) | [System76 Releases COSMIC Alpha Desktop - It's Looking Quite Interesting](https://www.phoronix.com/news/System76-COSMIC-Alpha)
 

@@ -1,3 +1,6 @@
+## 20240809
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.5 Released with Plasma Wayland and Dolphin Improvements](https://9to5linux.com/kde-frameworks-6-5-released-with-plasma-wayland-and-dolphin-improvements)
+
 ## 20240808
 - [9to5Linux](https://9to5linux.com/) | [System76 Launches Pop!_OS 24.04 LTS with COSMIC Alpha Desktop Environment](https://9to5linux.com/system76-launches-pop_os-24-04-lts-with-cosmic-alpha-desktop-environment)
 
