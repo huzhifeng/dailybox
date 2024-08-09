@@ -1,3 +1,6 @@
+## 20240809
+- [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ## 20240808
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
 

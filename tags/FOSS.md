@@ -1,3 +1,6 @@
+## 20240809
+- [It's FOSS](https://itsfoss.com/) | [Elevate Your KDE Plasma Experience With These 15 Essential Widgets](https://itsfoss.com/kde-plasma-widgets/)
+
 ## 20240808
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.32: Armbian, Immutable Manjaro, Backing Up VM, APT Improvement and More](https://itsfoss.com/newsletter/foss-weekly-24-32/)
 

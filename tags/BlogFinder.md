@@ -1,3 +1,6 @@
+## 20240809
+- [BlogFinder](https://bf.zzxworld.com/) | [亚麻面料不仅衣服好穿，当洗碗布也是一绝，不染油污耐用](https://www.huotravel.com/lince.html?utm_source=blogfinder)
+
 ## 20240808
 - [BlogFinder](https://bf.zzxworld.com/) | [【科普】为什么“找回密码”功能找不回密码？](https://blog.365sites.top/article/2024-08-08-001?utm_source=blogfinder)
 

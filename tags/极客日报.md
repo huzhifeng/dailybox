@@ -1,3 +1,6 @@
+## 20240809
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度首位AI架构师上岗；苹果高级AI功能月费或高达20美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141053743)
+
 ## 20240808
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应文件传输助手隐私问题；人人影视创始人梁良致歉并出售设备；Google Chrome将允许用户打赏其喜欢的网站| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141019231)
 
