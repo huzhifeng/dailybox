@@ -1,3 +1,6 @@
+## 20240810
+- [BlogFinder](https://bf.zzxworld.com/) | [再现游戏中的料理！《圣兽之王》联动咖啡](https://www.wikimoe.com/post/0sx8cot9?utm_source=blogfinder)
+
 ## 20240809
 - [BlogFinder](https://bf.zzxworld.com/) | [亚麻面料不仅衣服好穿，当洗碗布也是一绝，不染油污耐用](https://www.huotravel.com/lince.html?utm_source=blogfinder)
 

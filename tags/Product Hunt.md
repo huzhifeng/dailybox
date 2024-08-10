@@ -1,3 +1,6 @@
+## 20240810
+- [Product Hunt](https://www.producthunt.com) | [Pegada](https://www.producthunt.com/posts/pegada)
+
 ## 20240809
 - [Product Hunt](https://www.producthunt.com) | [Gan.AI TTS Model & API Playground](https://www.producthunt.com/posts/gan-ai-tts-model-api-playground)
 

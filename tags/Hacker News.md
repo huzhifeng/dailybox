@@ -1,3 +1,8 @@
+## 20240810
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-09](https://www.daemonology.net/hn-daily/2024-08-09.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-10](https://github.com/headllines/hackernews-daily/issues/1492)
+- [Hacker News](https://news.ycombinator.com/front) | [Susan Wojcicki has died](https://news.ycombinator.com/item?id=41207415)
+
 ## 20240809
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-08](https://www.daemonology.net/hn-daily/2024-08-08.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-09](https://github.com/headllines/hackernews-daily/issues/1491)

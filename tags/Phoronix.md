@@ -1,3 +1,6 @@
+## 20240810
+- [Phoronix](https://www.phoronix.com/) | [Niri 0.1.8 Compositor Implements Gradient Borders, Output Management Protocol](https://www.phoronix.com/news/Niri-0.1.8-Wayland-Compositor)
+
 ## 20240809
 - [Phoronix](https://www.phoronix.com/) | [Linux's DRM Power Saving Policy Gets Reverted For Now](https://www.phoronix.com/news/DRM-Revert-Power-Saving-Prop)
 

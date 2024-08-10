@@ -1,3 +1,6 @@
+## 20240810
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.8.2 Video Transcoder Adds FFmpeg 7.0.2 Support and Fixes Bugs](https://9to5linux.com/handbrake-1-8-2-video-transcoder-adds-ffmpeg-7-0-2-support-and-fixes-bugs)
+
 ## 20240809
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.5 Released with Plasma Wayland and Dolphin Improvements](https://9to5linux.com/kde-frameworks-6-5-released-with-plasma-wayland-and-dolphin-improvements)
 
