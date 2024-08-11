@@ -1,3 +1,6 @@
+## 20240811
+- [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ## 20240810
 - [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 

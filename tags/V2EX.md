@@ -1,3 +1,6 @@
+## 20240811
+- [V2EX](https://www.v2ex.com/) | [请问大家是怎么知道年假这种东西的？](https://www.v2ex.com/t/1064156)
+
 ## 20240810
 - [V2EX](https://www.v2ex.com/) | [土地被霸占，如何维护自己权利](https://www.v2ex.com/t/1064004)
 

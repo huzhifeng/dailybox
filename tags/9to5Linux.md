@@ -1,3 +1,6 @@
+## 20240811
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46.4 Desktop Improves Connecting to WPA2 Enterprise Networks](https://9to5linux.com/gnome-46-4-desktop-improves-connecting-to-wpa2-enterprise-networks)
+
 ## 20240810
 - [9to5Linux](https://9to5linux.com/) | [HandBrake 1.8.2 Video Transcoder Adds FFmpeg 7.0.2 Support and Fixes Bugs](https://9to5linux.com/handbrake-1-8-2-video-transcoder-adds-ffmpeg-7-0-2-support-and-fixes-bugs)
 

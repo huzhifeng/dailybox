@@ -1,3 +1,6 @@
+## 20240811
+- [Product Hunt](https://www.producthunt.com) | [Clips to Videos by VMEG](https://www.producthunt.com/posts/clips-to-videos-by-vmeg)
+
 ## 20240810
 - [Product Hunt](https://www.producthunt.com) | [Pegada](https://www.producthunt.com/posts/pegada)
 

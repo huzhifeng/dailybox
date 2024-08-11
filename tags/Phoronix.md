@@ -1,3 +1,6 @@
+## 20240811
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg Merges Vulkan Video Encode Support](https://www.phoronix.com/news/FFmpeg-Adds-Vulkan-Video-Encode)
+
 ## 20240810
 - [Phoronix](https://www.phoronix.com/) | [Niri 0.1.8 Compositor Implements Gradient Borders, Output Management Protocol](https://www.phoronix.com/news/Niri-0.1.8-Wayland-Compositor)
 

@@ -1,3 +1,6 @@
+## 20240811
+- [BlogFinder](https://bf.zzxworld.com/) | [从故障到和谐：我的调音台修理日记](https://blog.pet111.cn/index.php/archives/360/?utm_source=blogfinder)
+
 ## 20240810
 - [BlogFinder](https://bf.zzxworld.com/) | [再现游戏中的料理！《圣兽之王》联动咖啡](https://www.wikimoe.com/post/0sx8cot9?utm_source=blogfinder)
 
