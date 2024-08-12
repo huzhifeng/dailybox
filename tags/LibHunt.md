@@ -1,3 +1,6 @@
+## 20240812
+- [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
+
 ## 20240811
 - [LibHunt](https://www.libhunt.com/) | [.NET Runtime](https://www.libhunt.com/r/runtime)
 

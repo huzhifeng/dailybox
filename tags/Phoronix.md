@@ -1,3 +1,6 @@
+## 20240812
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Looks To Become More Involved With AI Models, Welcomes OMI](https://www.phoronix.com/news/Linux-Foundation-OMI-AI-Models)
+
 ## 20240811
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg Merges Vulkan Video Encode Support](https://www.phoronix.com/news/FFmpeg-Adds-Vulkan-Video-Encode)
 

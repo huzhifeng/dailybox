@@ -1,3 +1,6 @@
+## 20240812
+- [It's FOSS](https://itsfoss.com/) | [13 Open-Source Google Chrome Extensions I Love and Recommend](https://itsfoss.com/open-source-chrome-extensions/)
+
 ## 20240809
 - [It's FOSS](https://itsfoss.com/) | [Elevate Your KDE Plasma Experience With These 15 Essential Widgets](https://itsfoss.com/kde-plasma-widgets/)
 

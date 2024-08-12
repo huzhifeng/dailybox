@@ -1,3 +1,6 @@
+## 20240812
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024)
+
 ## 20240811
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46.4 Desktop Improves Connecting to WPA2 Enterprise Networks](https://9to5linux.com/gnome-46-4-desktop-improves-connecting-to-wpa2-enterprise-networks)
 

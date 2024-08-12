@@ -1,3 +1,6 @@
+## 20240812
+- [BlogFinder](https://bf.zzxworld.com/) | [一加7又去换电池了](https://blog.bailuze.com/135.html?utm_source=blogfinder)
+
 ## 20240811
 - [BlogFinder](https://bf.zzxworld.com/) | [从故障到和谐：我的调音台修理日记](https://blog.pet111.cn/index.php/archives/360/?utm_source=blogfinder)
 

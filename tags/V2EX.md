@@ -1,3 +1,6 @@
+## 20240812
+- [V2EX](https://www.v2ex.com/) | [关于家人即将退休一次性补缴 15 年社保，是否可行](https://www.v2ex.com/t/1064345)
+
 ## 20240811
 - [V2EX](https://www.v2ex.com/) | [请问大家是怎么知道年假这种东西的？](https://www.v2ex.com/t/1064156)
 

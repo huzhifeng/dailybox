@@ -1,3 +1,7 @@
+## 20240812
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Looks To Become More Involved With AI Models, Welcomes OMI](https://www.phoronix.com/news/Linux-Foundation-OMI-AI-Models)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024)
+
 ## 20240811
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg Merges Vulkan Video Encode Support](https://www.phoronix.com/news/FFmpeg-Adds-Vulkan-Video-Encode)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46.4 Desktop Improves Connecting to WPA2 Enterprise Networks](https://9to5linux.com/gnome-46-4-desktop-improves-connecting-to-wpa2-enterprise-networks)

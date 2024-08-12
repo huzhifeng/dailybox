@@ -1,3 +1,6 @@
+## 20240812
+- [Product Hunt](https://www.producthunt.com) | [Indie Hacker Stacks](https://www.producthunt.com/posts/indie-hacker-stacks)
+
 ## 20240811
 - [Product Hunt](https://www.producthunt.com) | [Clips to Videos by VMEG](https://www.producthunt.com/posts/clips-to-videos-by-vmeg)
 
