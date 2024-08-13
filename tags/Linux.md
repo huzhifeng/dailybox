@@ -1,3 +1,6 @@
+## 20240813
+- [Phoronix](https://www.phoronix.com/) | [ASUS ROG Ally X Audio Support Being Fixed Up Ahead Of Linux 6.12](https://www.phoronix.com/news/ASUS-ROG-Ally-X-Audio-Linux)
+
 ## 20240812
 - [Phoronix](https://www.phoronix.com/) | [Linux Foundation Looks To Become More Involved With AI Models, Welcomes OMI](https://www.phoronix.com/news/Linux-Foundation-OMI-AI-Models)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024)

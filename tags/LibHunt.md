@@ -1,3 +1,6 @@
+## 20240813
+- [LibHunt](https://www.libhunt.com/) | [spice](https://www.libhunt.com/r/spice)
+
 ## 20240812
 - [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
 

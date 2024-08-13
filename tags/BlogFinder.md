@@ -1,3 +1,6 @@
+## 20240813
+- [BlogFinder](https://bf.zzxworld.com/) | [游戏中是如何模拟跳跃或抛射的](https://vrast.cn/posts/17525/?utm_source=blogfinder)
+
 ## 20240812
 - [BlogFinder](https://bf.zzxworld.com/) | [一加7又去换电池了](https://blog.bailuze.com/135.html?utm_source=blogfinder)
 

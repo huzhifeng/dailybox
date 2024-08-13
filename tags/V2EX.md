@@ -1,3 +1,6 @@
+## 20240813
+- [V2EX](https://www.v2ex.com/) | [脑子萌发一个想法，不想做程序员了。](https://www.v2ex.com/t/1064615)
+
 ## 20240812
 - [V2EX](https://www.v2ex.com/) | [关于家人即将退休一次性补缴 15 年社保，是否可行](https://www.v2ex.com/t/1064345)
 
