@@ -1,3 +1,8 @@
+## 20240814
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-13](https://www.daemonology.net/hn-daily/2024-08-13.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-14](https://github.com/headllines/hackernews-daily/issues/1496)
+- [Hacker News](https://news.ycombinator.com/front) | [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://news.ycombinator.com/item?id=41242400)
+
 ## 20240813
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-12](https://www.daemonology.net/hn-daily/2024-08-12.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-13](https://github.com/headllines/hackernews-daily/issues/1495)

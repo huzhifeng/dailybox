@@ -1,3 +1,6 @@
+## 20240814
+- [V2EX](https://www.v2ex.com/) | [携百万资金，再次梭哈娜娜](https://www.v2ex.com/t/1064910)
+
 ## 20240813
 - [V2EX](https://www.v2ex.com/) | [脑子萌发一个想法，不想做程序员了。](https://www.v2ex.com/t/1064615)
 

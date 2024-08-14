@@ -1,3 +1,6 @@
+## 20240814
+- [Product Hunt](https://www.producthunt.com) | [GPT Computer Assistant(GCA)](https://www.producthunt.com/posts/gpt-computer-assistant-gca)
+
 ## 20240813
 - [Product Hunt](https://www.producthunt.com) | [Lottielab Interactivity](https://www.producthunt.com/posts/lottielab-interactivity)
 

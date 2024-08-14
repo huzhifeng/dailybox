@@ -1,3 +1,6 @@
+## 20240814
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [黑客声称窃取海量腾讯数据，高达14亿条记录、500GB；美国司法部考虑推动分拆谷歌；Go 1.23版本正式发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141184133)
+
 ## 20240813
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应微信自动清理3天未读消息；微软Copilot AI被指可被黑客操纵；Ubuntu将使用最新内核版本 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141155337)
 

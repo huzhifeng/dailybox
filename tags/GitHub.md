@@ -1,3 +1,6 @@
+## 20240814
+- [GitHub Trending](https://github.com/trending?since=daily) | [versotile-org/verso](https://github.com/versotile-org/verso)
+
 ## 20240813
 - [GitHub Trending](https://github.com/trending?since=daily) | [versotile-org/verso](https://github.com/versotile-org/verso)
 

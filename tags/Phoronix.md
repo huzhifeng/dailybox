@@ -1,3 +1,6 @@
+## 20240814
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X & Ryzen 9 9900X Deliver Excellent Linux Performance](https://www.phoronix.com/review/amd-ryzen-9950x-9900x)
+
 ## 20240813
 - [Phoronix](https://www.phoronix.com/) | [ASUS ROG Ally X Audio Support Being Fixed Up Ahead Of Linux 6.12](https://www.phoronix.com/news/ASUS-ROG-Ally-X-Audio-Linux)
 

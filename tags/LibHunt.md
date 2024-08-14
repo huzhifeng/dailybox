@@ -1,3 +1,6 @@
+## 20240814
+- [LibHunt](https://www.libhunt.com/) | [SurfSense](https://www.libhunt.com/r/SurfSense)
+
 ## 20240813
 - [LibHunt](https://www.libhunt.com/) | [spice](https://www.libhunt.com/r/spice)
 
