@@ -1,3 +1,6 @@
+## 20240815
+- [Product Hunt](https://www.producthunt.com) | [Conversational Replicas by Tavus](https://www.producthunt.com/posts/conversational-replicas-by-tavus)
+
 ## 20240814
 - [Product Hunt](https://www.producthunt.com) | [GPT Computer Assistant(GCA)](https://www.producthunt.com/posts/gpt-computer-assistant-gca)
 

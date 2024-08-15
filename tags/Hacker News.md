@@ -1,3 +1,8 @@
+## 20240815
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-14](https://www.daemonology.net/hn-daily/2024-08-14.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-15](https://github.com/headllines/hackernews-daily/issues/1497)
+- [Hacker News](https://news.ycombinator.com/front) | [Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand](https://news.ycombinator.com/item?id=41254989)
+
 ## 20240814
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-13](https://www.daemonology.net/hn-daily/2024-08-13.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-14](https://github.com/headllines/hackernews-daily/issues/1496)

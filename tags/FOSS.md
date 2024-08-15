@@ -1,3 +1,6 @@
+## 20240815
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.33: COSMIC Desktop Arrives, KDE Widgets, Chrome Extensions, and More](https://itsfoss.com/newsletter/foss-weekly-24-33/)
+
 ## 20240812
 - [It's FOSS](https://itsfoss.com/) | [13 Open-Source Google Chrome Extensions I Love and Recommend](https://itsfoss.com/open-source-chrome-extensions/)
 

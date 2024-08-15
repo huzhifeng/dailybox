@@ -1,3 +1,6 @@
+## 20240815
+- [LibHunt](https://www.libhunt.com/) | [pyvideotrans](https://www.libhunt.com/r/pyvideotrans)
+
 ## 20240814
 - [LibHunt](https://www.libhunt.com/) | [SurfSense](https://www.libhunt.com/r/SurfSense)
 

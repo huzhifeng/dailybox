@@ -1,3 +1,6 @@
+## 20240815
+- [V2EX](https://www.v2ex.com/) | [hello word V2EX 的小伙伴，我是新人 carlos](https://www.v2ex.com/t/1065313)
+
 ## 20240814
 - [V2EX](https://www.v2ex.com/) | [携百万资金，再次梭哈娜娜](https://www.v2ex.com/t/1064910)
 

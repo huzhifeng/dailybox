@@ -1,3 +1,6 @@
+## 20240815
+- [BlogFinder](https://bf.zzxworld.com/) | [Furry主题修改](https://echs.top/art/2024-11?utm_source=blogfinder)
+
 ## 20240814
 - [BlogFinder](https://bf.zzxworld.com/) | [[Advance控制理论]简单的反步控制器设计](https://cutech.space/archives/advancecontroler.html?utm_source=blogfinder)
 

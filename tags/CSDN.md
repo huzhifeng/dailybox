@@ -1,3 +1,6 @@
+## 20240815
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应「苹果税」争议：正与苹果商谈小游戏收入分成；GitHub遭遇大规模宕机后已恢复；华为启动2025届应届生招聘| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141219839)
+
 ## 20240814
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [黑客声称窃取海量腾讯数据，高达14亿条记录、500GB；美国司法部考虑推动分拆谷歌；Go 1.23版本正式发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141184133)
 

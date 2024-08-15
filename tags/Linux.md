@@ -1,3 +1,6 @@
+## 20240815
+- [Phoronix](https://www.phoronix.com/) | [Quantifying The AVX-512 Performance Impact With AMD Zen 5 - Ryzen 9 9950X Benchmarks](https://www.phoronix.com/review/amd-zen5-avx-512-9950x)
+
 ## 20240814
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X & Ryzen 9 9900X Deliver Excellent Linux Performance](https://www.phoronix.com/review/amd-ryzen-9950x-9900x)
 
