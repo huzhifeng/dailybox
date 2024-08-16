@@ -1,3 +1,6 @@
+## 20240816
+- [GitHub Trending](https://github.com/trending?since=daily) | [grafana/grafana](https://github.com/grafana/grafana)
+
 ## 20240815
 - [GitHub Trending](https://github.com/trending?since=daily) | [twbs/bootstrap](https://github.com/twbs/bootstrap)
 

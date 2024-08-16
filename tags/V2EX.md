@@ -1,3 +1,6 @@
+## 20240816
+- [V2EX](https://www.v2ex.com/) | [因果关系和宿命论](https://www.v2ex.com/t/1065540)
+
 ## 20240815
 - [V2EX](https://www.v2ex.com/) | [hello word V2EX 的小伙伴，我是新人 carlos](https://www.v2ex.com/t/1065313)
 

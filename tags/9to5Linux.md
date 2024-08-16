@@ -1,3 +1,6 @@
+## 20240816
+- [9to5Linux](https://9to5linux.com/) | [Tails 6.6 Improves Persistent Storage and Adds Support for Newer Hardware](https://9to5linux.com/tails-6-6-improves-persistent-storage-and-adds-support-for-newer-hardware)
+
 ## 20240812
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024)
 

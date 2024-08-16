@@ -1,3 +1,6 @@
+## 20240816
+- [Product Hunt](https://www.producthunt.com) | [Aster Key](https://www.producthunt.com/posts/aster-key-2)
+
 ## 20240815
 - [Product Hunt](https://www.producthunt.com) | [Conversational Replicas by Tavus](https://www.producthunt.com/posts/conversational-replicas-by-tavus)
 

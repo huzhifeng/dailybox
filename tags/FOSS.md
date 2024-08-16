@@ -1,3 +1,6 @@
+## 20240816
+- [It's FOSS](https://itsfoss.com/) | [I Discovered This Tiny Feature in Ubuntu 24.04 and I Love it](https://itsfoss.com/ubuntu-bluetooth-battery-status/)
+
 ## 20240815
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.33: COSMIC Desktop Arrives, KDE Widgets, Chrome Extensions, and More](https://itsfoss.com/newsletter/foss-weekly-24-33/)
 

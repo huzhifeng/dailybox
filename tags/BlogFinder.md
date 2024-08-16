@@ -1,3 +1,6 @@
+## 20240816
+- [BlogFinder](https://bf.zzxworld.com/) | [批量替换word关键词！批量Word模板指定内容格式化工具V1.0 - 基于word模板轻松批量制作想要的文档](https://www.52txr.cn/2024/wordwordsbat.html?utm_source=blogfinder)
+
 ## 20240815
 - [BlogFinder](https://bf.zzxworld.com/) | [Furry主题修改](https://echs.top/art/2024-11?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240816
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 24.04 Linux Performance For The AMD Ryzen 9 9590X](https://www.phoronix.com/review/ryzen-9950x-windows11-ubuntu)
+
 ## 20240815
 - [Phoronix](https://www.phoronix.com/) | [Quantifying The AVX-512 Performance Impact With AMD Zen 5 - Ryzen 9 9950X Benchmarks](https://www.phoronix.com/review/amd-zen5-avx-512-9950x)
 
