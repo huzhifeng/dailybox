@@ -1,3 +1,6 @@
+## 20240817
+- [V2EX](https://www.v2ex.com/) | [请问自建 dns 的朋友都是用什么设备在跑的？](https://www.v2ex.com/t/1065731)
+
 ## 20240816
 - [V2EX](https://www.v2ex.com/) | [因果关系和宿命论](https://www.v2ex.com/t/1065540)
 

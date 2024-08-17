@@ -1,3 +1,7 @@
+## 20240817
+- [Phoronix](https://www.phoronix.com/) | [Lab Wayland Compositor 0.8 Released, Ported To wlroots 0.18](https://www.phoronix.com/news/Labwc-Lab-Wayland-Compositor-08)
+- [9to5Linux](https://9to5linux.com/) | [Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download](https://9to5linux.com/archinstall-2-8-2-arch-linux-installer-speeds-up-mirror-loading-and-download)
+
 ## 20240816
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 24.04 Linux Performance For The AMD Ryzen 9 9590X](https://www.phoronix.com/review/ryzen-9950x-windows11-ubuntu)
 - [9to5Linux](https://9to5linux.com/) | [Tails 6.6 Improves Persistent Storage and Adds Support for Newer Hardware](https://9to5linux.com/tails-6-6-improves-persistent-storage-and-adds-support-for-newer-hardware)

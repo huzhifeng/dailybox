@@ -1,3 +1,8 @@
+## 20240817
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-16](https://www.daemonology.net/hn-daily/2024-08-16.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-17](https://github.com/headllines/hackernews-daily/issues/1499)
+- [Hacker News](https://news.ycombinator.com/front) | [X ordered to pay €550k to Irish employee fired after yes-or-resign ultimatum](https://news.ycombinator.com/item?id=41272861)
+
 ## 20240816
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-15](https://www.daemonology.net/hn-daily/2024-08-15.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-16](https://github.com/headllines/hackernews-daily/issues/1498)

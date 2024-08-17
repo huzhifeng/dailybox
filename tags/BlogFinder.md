@@ -1,3 +1,6 @@
+## 20240817
+- [BlogFinder](https://bf.zzxworld.com/) | [9️⃣MyBatis篇](https://blog.study996.cn/archives/87b817ad?utm_source=blogfinder)
+
 ## 20240816
 - [BlogFinder](https://bf.zzxworld.com/) | [批量替换word关键词！批量Word模板指定内容格式化工具V1.0 - 基于word模板轻松批量制作想要的文档](https://www.52txr.cn/2024/wordwordsbat.html?utm_source=blogfinder)
 

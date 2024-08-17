@@ -1,3 +1,6 @@
+## 20240817
+- [9to5Linux](https://9to5linux.com/) | [Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download](https://9to5linux.com/archinstall-2-8-2-arch-linux-installer-speeds-up-mirror-loading-and-download)
+
 ## 20240816
 - [9to5Linux](https://9to5linux.com/) | [Tails 6.6 Improves Persistent Storage and Adds Support for Newer Hardware](https://9to5linux.com/tails-6-6-improves-persistent-storage-and-adds-support-for-newer-hardware)
 

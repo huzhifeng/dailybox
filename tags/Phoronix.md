@@ -1,3 +1,6 @@
+## 20240817
+- [Phoronix](https://www.phoronix.com/) | [Lab Wayland Compositor 0.8 Released, Ported To wlroots 0.18](https://www.phoronix.com/news/Labwc-Lab-Wayland-Compositor-08)
+
 ## 20240816
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 24.04 Linux Performance For The AMD Ryzen 9 9590X](https://www.phoronix.com/review/ryzen-9950x-windows11-ubuntu)
 
