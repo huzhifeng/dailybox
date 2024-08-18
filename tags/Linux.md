@@ -1,3 +1,7 @@
+## 20240818
+- [Phoronix](https://www.phoronix.com/) | [It's Looking Like sched_ext Will Try Again To Land For Linux 6.12](https://www.phoronix.com/news/sched_ext-Ahead-Of-Linux-6.12)
+- [9to5Linux](https://9to5linux.com/) | [CachyOS August 2024 Release Adds Support for the COSMIC Desktop Environment](https://9to5linux.com/cachyos-august-2024-release-adds-support-for-the-cosmic-desktop-environment)
+
 ## 20240817
 - [Phoronix](https://www.phoronix.com/) | [Lab Wayland Compositor 0.8 Released, Ported To wlroots 0.18](https://www.phoronix.com/news/Labwc-Lab-Wayland-Compositor-08)
 - [9to5Linux](https://9to5linux.com/) | [Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download](https://9to5linux.com/archinstall-2-8-2-arch-linux-installer-speeds-up-mirror-loading-and-download)

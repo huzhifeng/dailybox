@@ -1,3 +1,6 @@
+## 20240818
+- [LibHunt](https://www.libhunt.com/) | [mpv](https://www.libhunt.com/r/mpv)
+
 ## 20240817
 - [LibHunt](https://www.libhunt.com/) | [glow](https://www.libhunt.com/r/tryglow/glow)
 

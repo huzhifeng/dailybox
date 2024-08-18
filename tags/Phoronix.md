@@ -1,3 +1,6 @@
+## 20240818
+- [Phoronix](https://www.phoronix.com/) | [It's Looking Like sched_ext Will Try Again To Land For Linux 6.12](https://www.phoronix.com/news/sched_ext-Ahead-Of-Linux-6.12)
+
 ## 20240817
 - [Phoronix](https://www.phoronix.com/) | [Lab Wayland Compositor 0.8 Released, Ported To wlroots 0.18](https://www.phoronix.com/news/Labwc-Lab-Wayland-Compositor-08)
 

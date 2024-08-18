@@ -1,3 +1,6 @@
+## 20240818
+- [BlogFinder](https://bf.zzxworld.com/) | [摄影笔记 12：白平衡](https://gshuo.space/%e6%91%84%e5%bd%b1%e7%ac%94%e8%ae%b0-12%ef%bc%9a%e7%99%bd%e5%b9%b3%e8%a1%a1/?utm_source=blogfinder)
+
 ## 20240817
 - [BlogFinder](https://bf.zzxworld.com/) | [9️⃣MyBatis篇](https://blog.study996.cn/archives/87b817ad?utm_source=blogfinder)
 

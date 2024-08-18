@@ -1,3 +1,6 @@
+## 20240818
+- [9to5Linux](https://9to5linux.com/) | [CachyOS August 2024 Release Adds Support for the COSMIC Desktop Environment](https://9to5linux.com/cachyos-august-2024-release-adds-support-for-the-cosmic-desktop-environment)
+
 ## 20240817
 - [9to5Linux](https://9to5linux.com/) | [Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download](https://9to5linux.com/archinstall-2-8-2-arch-linux-installer-speeds-up-mirror-loading-and-download)
 

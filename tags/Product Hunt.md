@@ -1,3 +1,6 @@
+## 20240818
+- [Product Hunt](https://www.producthunt.com) | [Fuzer medium : Transcending ControlNet](https://www.producthunt.com/posts/fuzer-medium-transcending-controlnet)
+
 ## 20240817
 - [Product Hunt](https://www.producthunt.com) | [Focumon (Buildspace S5)](https://www.producthunt.com/posts/focumon-buildspace-s5)
 
