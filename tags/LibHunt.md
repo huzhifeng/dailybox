@@ -1,3 +1,6 @@
+## 20240819
+- [LibHunt](https://www.libhunt.com/) | [llvm-project](https://www.libhunt.com/r/llvm-project)
+
 ## 20240818
 - [LibHunt](https://www.libhunt.com/) | [mpv](https://www.libhunt.com/r/mpv)
 

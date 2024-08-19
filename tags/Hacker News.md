@@ -1,3 +1,9 @@
+## 20240819
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-18](https://www.daemonology.net/hn-daily/2024-08-18.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2024 08 20 HackerNews](https://supertechfans.com/cn/post/2024-08-20-HackerNews/)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-19](https://github.com/headllines/hackernews-daily/issues/1501)
+- [Hacker News](https://news.ycombinator.com/front) | [13ft – A site similar to 12ft.io but self-hosted](https://news.ycombinator.com/item?id=41294067)
+
 ## 20240818
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-17](https://www.daemonology.net/hn-daily/2024-08-17.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-18](https://github.com/headllines/hackernews-daily/issues/1500)

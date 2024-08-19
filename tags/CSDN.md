@@ -1,3 +1,6 @@
+## 20240819
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [百度李彦宏建议年轻人不用非得学AI专业；华为推出5本软件工程教材；谷歌回应要求评测博主「必须给好评」 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141314474)
+
 ## 20240815
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [腾讯回应「苹果税」争议：正与苹果商谈小游戏收入分成；GitHub遭遇大规模宕机后已恢复；华为启动2025届应届生招聘| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141219839)
 

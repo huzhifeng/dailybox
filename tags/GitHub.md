@@ -1,3 +1,7 @@
+## 20240819
+- [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [AabyssZG/Docker-TCP-Scan](https://github.com/AabyssZG/Docker-TCP-Scan)
+
 ## 20240818
 - [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
 

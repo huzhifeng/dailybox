@@ -1,3 +1,7 @@
+## 20240819
+- [Phoronix](https://www.phoronix.com/) | [ASUS ROG Ally X & GT7868Q See HID Fixes With Linux 6.11](https://www.phoronix.com/news/Linux-6.11-HID-ROG-Ally-X-GT786)
+- [9to5Linux](https://9to5linux.com/) | [Serpent OS Gears Up for Alpha Release, Enables Framework 13 and Flathub Support](https://9to5linux.com/serpent-os-gears-up-for-alpha-release-enables-framework-13-and-flathub-support)
+
 ## 20240818
 - [Phoronix](https://www.phoronix.com/) | [It's Looking Like sched_ext Will Try Again To Land For Linux 6.12](https://www.phoronix.com/news/sched_ext-Ahead-Of-Linux-6.12)
 - [9to5Linux](https://9to5linux.com/) | [CachyOS August 2024 Release Adds Support for the COSMIC Desktop Environment](https://9to5linux.com/cachyos-august-2024-release-adds-support-for-the-cosmic-desktop-environment)

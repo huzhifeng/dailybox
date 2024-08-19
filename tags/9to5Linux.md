@@ -1,3 +1,6 @@
+## 20240819
+- [9to5Linux](https://9to5linux.com/) | [Serpent OS Gears Up for Alpha Release, Enables Framework 13 and Flathub Support](https://9to5linux.com/serpent-os-gears-up-for-alpha-release-enables-framework-13-and-flathub-support)
+
 ## 20240818
 - [9to5Linux](https://9to5linux.com/) | [CachyOS August 2024 Release Adds Support for the COSMIC Desktop Environment](https://9to5linux.com/cachyos-august-2024-release-adds-support-for-the-cosmic-desktop-environment)
 

@@ -1,3 +1,6 @@
+## 20240819
+- [Product Hunt](https://www.producthunt.com) | [RatingE](https://www.producthunt.com/posts/ratinge)
+
 ## 20240818
 - [Product Hunt](https://www.producthunt.com) | [Fuzer medium : Transcending ControlNet](https://www.producthunt.com/posts/fuzer-medium-transcending-controlnet)
 

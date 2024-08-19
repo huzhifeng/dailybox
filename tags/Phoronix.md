@@ -1,3 +1,6 @@
+## 20240819
+- [Phoronix](https://www.phoronix.com/) | [ASUS ROG Ally X & GT7868Q See HID Fixes With Linux 6.11](https://www.phoronix.com/news/Linux-6.11-HID-ROG-Ally-X-GT786)
+
 ## 20240818
 - [Phoronix](https://www.phoronix.com/) | [It's Looking Like sched_ext Will Try Again To Land For Linux 6.12](https://www.phoronix.com/news/sched_ext-Ahead-Of-Linux-6.12)
 
