@@ -1,3 +1,7 @@
+## 20240820
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-19](https://www.daemonology.net/hn-daily/2024-08-19.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-20](https://github.com/headllines/hackernews-daily/issues/1502)
+
 ## 20240819
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-18](https://www.daemonology.net/hn-daily/2024-08-18.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2024 08 20 HackerNews](https://supertechfans.com/cn/post/2024-08-20-HackerNews/)

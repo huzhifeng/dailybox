@@ -1,3 +1,6 @@
+## 20240820
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues To Show AMD The Importance Of Software Optimizations: 16% More Ryzen 9 9950X Performance](https://www.phoronix.com/review/linux-os-amd-ryzen9-9950x)
+
 ## 20240819
 - [Phoronix](https://www.phoronix.com/) | [ASUS ROG Ally X & GT7868Q See HID Fixes With Linux 6.11](https://www.phoronix.com/news/Linux-6.11-HID-ROG-Ally-X-GT786)
 

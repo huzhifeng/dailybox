@@ -1,3 +1,6 @@
+## 20240820
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [网易云音乐故障背后：技术降本增效，人手不足排查了半天；MoonBit发布beta | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141350506)
+
 ## 20240819
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [百度李彦宏建议年轻人不用非得学AI专业；华为推出5本软件工程教材；谷歌回应要求评测博主「必须给好评」 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141314474)
 

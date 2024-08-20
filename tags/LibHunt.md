@@ -1,3 +1,6 @@
+## 20240820
+- [LibHunt](https://www.libhunt.com/) | [Cardinal](https://www.libhunt.com/r/Cardinal)
+
 ## 20240819
 - [LibHunt](https://www.libhunt.com/) | [llvm-project](https://www.libhunt.com/r/llvm-project)
 

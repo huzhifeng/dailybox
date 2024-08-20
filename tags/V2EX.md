@@ -1,3 +1,6 @@
+## 20240820
+- [V2EX](https://www.v2ex.com/) | [🙏🏻🙏🏻🙏🏻我是个小公司桌面运维，老板让我给他开发个 AI 大模型……](https://www.v2ex.com/t/1066362)
+
 ## 20240819
 - [V2EX](https://www.v2ex.com/) | [家里进了一只超级大蜘蛛，怎么办？](https://www.v2ex.com/t/1066156)
 

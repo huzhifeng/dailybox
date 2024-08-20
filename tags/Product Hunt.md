@@ -1,3 +1,6 @@
+## 20240820
+- [Product Hunt](https://www.producthunt.com) | [Aicado's GPT](https://www.producthunt.com/posts/aicado-s-gpt)
+
 ## 20240819
 - [Product Hunt](https://www.producthunt.com) | [RatingE](https://www.producthunt.com/posts/ratinge)
 
