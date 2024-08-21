@@ -47,6 +47,14 @@
 			"tags": ["LibHunt", "开源", "产品"]
 		},
 		{
+			"channel": "PH今日热榜",
+			"portal": "https://decohack.com/category/producthunt/",
+			"portal2": "https://github.com/ViggoZ/producthunt-daily-hot",
+			"url": "https://decohack.com/category/producthunt/feed/",
+			"category": "产品",
+			"tags": ["Product Hunt", "产品"]
+		},
+		{
 			"channel": "Phoronix",
 			"portal": "https://www.phoronix.com/",
 			"url": "https://www.phoronix.com/rss.php",
