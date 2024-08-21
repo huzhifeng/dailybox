@@ -135,14 +135,6 @@
 			"tags": ["十年之约"]
 		},
 		{
-			"channel": "积薪",
-			"portal": "https://firewood.news/",
-			"url": "https://firewood.news/rss.xml",
-			"ignoredate": 1,
-			"category": "漫游",
-			"tags": ["积薪"]
-		},
-		{
 			"channel": "优质长文分享会",
 			"portal": "https://m.okjike.com/topics/56d2fabe7cb3331100467e2b",
 			"url": "https://rsshub.app/jike/topic/56d2fabe7cb3331100467e2b",
