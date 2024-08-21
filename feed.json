@@ -177,6 +177,7 @@
 			"portal": "https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd",
 			"portal2": "https://hackernewsrecap.buzzsprout.com/",
 			"url": "https://rsshub.app/xiaoyuzhou/podcast/6456fdfc0a8e51c73e68d0cd",
+			"ignoredate": 1,
 			"category": "资讯",
 			"tags": ["Hacker News"]
 		},
