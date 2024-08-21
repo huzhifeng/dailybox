@@ -1,3 +1,7 @@
+## 20240821
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-20](https://decohack.com/producthunt-daily-24-08-20/)
+- [Product Hunt](https://www.producthunt.com) | [D-ID Video Translate](https://www.producthunt.com/posts/d-id-video-translate)
+
 ## 20240820
 - [Product Hunt](https://www.producthunt.com) | [Aicado's GPT](https://www.producthunt.com/posts/aicado-s-gpt)
 

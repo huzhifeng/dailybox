@@ -1,3 +1,6 @@
+## 20240821
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [《黑神话：悟空》爆火后，游戏科学员工疯狂被挖；OpenAI将向企业开放GPT-4o模型定制版；淘特客服回应接入微信支付|极客头条](https://blog.csdn.net/weixin_39786569/article/details/141381598)
+
 ## 20240820
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [网易云音乐故障背后：技术降本增效，人手不足排查了半天；MoonBit发布beta | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141350506)
 

@@ -1,3 +1,6 @@
+## 20240821
+- [V2EX](https://www.v2ex.com/) | [我再次教育职场](https://www.v2ex.com/t/1066767)
+
 ## 20240820
 - [V2EX](https://www.v2ex.com/) | [🙏🏻🙏🏻🙏🏻我是个小公司桌面运维，老板让我给他开发个 AI 大模型……](https://www.v2ex.com/t/1066362)
 

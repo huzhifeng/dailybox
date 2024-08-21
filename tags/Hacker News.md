@@ -1,3 +1,9 @@
+## 20240821
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-20](https://www.daemonology.net/hn-daily/2024-08-20.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-21](https://github.com/headllines/hackernews-daily/issues/1503)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-16 | AI 加持的 Pixel 9 发布、Go 1.23 发布、韦伯望远镜证实宇宙膨胀率的准确性](https://www.xiaoyuzhoufm.com/episode/66bf7c50db5e6d6bf9d93857)
+- [Hacker News](https://news.ycombinator.com/front) | [ShadPS4 – PlayStation 4 emulator](https://news.ycombinator.com/item?id=41307195)
+
 ## 20240820
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-19](https://www.daemonology.net/hn-daily/2024-08-19.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-20](https://github.com/headllines/hackernews-daily/issues/1502)

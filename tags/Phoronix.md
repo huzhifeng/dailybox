@@ -1,3 +1,6 @@
+## 20240821
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 560.35.03 Linux Driver Released With More Wayland Fixes](https://www.phoronix.com/news/NVIDIA-560.35.03-Linux-Driver)
+
 ## 20240820
 - [Phoronix](https://www.phoronix.com/) | [Intel Continues To Show AMD The Importance Of Software Optimizations: 16% More Ryzen 9 9950X Performance](https://www.phoronix.com/review/linux-os-amd-ryzen9-9950x)
 

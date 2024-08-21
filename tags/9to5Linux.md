@@ -1,3 +1,6 @@
+## 20240821
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Driver Released with Open GPU Kernel Modules by Default](https://9to5linux.com/nvidia-560-linux-driver-released-with-open-gpu-kernel-modules-by-default)
+
 ## 20240819
 - [9to5Linux](https://9to5linux.com/) | [Serpent OS Gears Up for Alpha Release, Enables Framework 13 and Flathub Support](https://9to5linux.com/serpent-os-gears-up-for-alpha-release-enables-framework-13-and-flathub-support)
 

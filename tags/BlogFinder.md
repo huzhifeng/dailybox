@@ -1,3 +1,6 @@
+## 20240821
+- [BlogFinder](https://bf.zzxworld.com/) | [禁用WordPress的默认ico图标](https://www.tsxxc.com/wordpres/tutorials/3051.html?utm_source=blogfinder)
+
 ## 20240820
 - [BlogFinder](https://bf.zzxworld.com/) | [你错了，这才是买房车最该关注的问题](https://blog.ops-coffee.cn/r/the-important-consideration-when-buying-an-rv?utm_source=blogfinder)
 

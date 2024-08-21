@@ -1,3 +1,6 @@
+## 20240821
+- [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
+
 ## 20240820
 - [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
 

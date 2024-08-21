@@ -1,3 +1,7 @@
+## 20240821
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 560.35.03 Linux Driver Released With More Wayland Fixes](https://www.phoronix.com/news/NVIDIA-560.35.03-Linux-Driver)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Driver Released with Open GPU Kernel Modules by Default](https://9to5linux.com/nvidia-560-linux-driver-released-with-open-gpu-kernel-modules-by-default)
+
 ## 20240820
 - [Phoronix](https://www.phoronix.com/) | [Intel Continues To Show AMD The Importance Of Software Optimizations: 16% More Ryzen 9 9950X Performance](https://www.phoronix.com/review/linux-os-amd-ryzen9-9950x)
 
