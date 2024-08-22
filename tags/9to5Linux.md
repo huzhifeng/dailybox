@@ -1,3 +1,6 @@
+## 20240822
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08 Open-Source Software Suite Released with Many Improvements](https://9to5linux.com/kde-gear-24-08-open-source-software-suite-released-with-many-improvements)
+
 ## 20240821
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 560 Linux Driver Released with Open GPU Kernel Modules by Default](https://9to5linux.com/nvidia-560-linux-driver-released-with-open-gpu-kernel-modules-by-default)
 

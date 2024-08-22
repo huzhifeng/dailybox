@@ -1,3 +1,6 @@
+## 20240822
+- [GitHub Trending](https://github.com/trending?since=daily) | [toss/es-toolkit](https://github.com/toss/es-toolkit)
+
 ## 20240821
 - [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
 

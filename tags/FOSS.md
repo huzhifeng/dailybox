@@ -1,3 +1,6 @@
+## 20240822
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/)
+
 ## 20240820
 - [It's FOSS](https://itsfoss.com/) | [Surprisingly, Many Linux Users Don't Know About This Office Suite](https://itsfoss.com/onlyoffice-feature/)
 

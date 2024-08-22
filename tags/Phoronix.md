@@ -1,3 +1,6 @@
+## 20240822
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Will Be Skipping Non-Critical Linux Kernel Updates For September](https://www.phoronix.com/news/Ubuntu-Skipping-Kernel-SRU-Fix)
+
 ## 20240821
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 560.35.03 Linux Driver Released With More Wayland Fixes](https://www.phoronix.com/news/NVIDIA-560.35.03-Linux-Driver)
 

@@ -1,3 +1,6 @@
+## 20240822
+- [BlogFinder](https://bf.zzxworld.com/) | [linux 如何定位进程二进制文件路径](https://h4ck.org.cn/2024/08/17881?utm_source=blogfinder)
+
 ## 20240821
 - [BlogFinder](https://bf.zzxworld.com/) | [禁用WordPress的默认ico图标](https://www.tsxxc.com/wordpres/tutorials/3051.html?utm_source=blogfinder)
 

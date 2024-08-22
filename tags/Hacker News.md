@@ -1,3 +1,8 @@
+## 20240822
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-21](https://www.daemonology.net/hn-daily/2024-08-21.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-22](https://github.com/headllines/hackernews-daily/issues/1504)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-14 | 直播版 Deepfake 太可怕！单张照片实时视频换脸](https://www.xiaoyuzhoufm.com/episode/66bb558a33591c27becf6b61)
+
 ## 20240821
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-20](https://www.daemonology.net/hn-daily/2024-08-20.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-21](https://github.com/headllines/hackernews-daily/issues/1503)
