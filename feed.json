@@ -36,6 +36,7 @@
 			"channel": "GitHub Trending",
 			"portal": "https://github.com/trending?since=daily",
 			"url": "https://rsshub.app/github/trending/daily/any",
+			"ignoredate": 1,
 			"category": "产品",
 			"tags": ["GitHub", "开源", "产品"]
 		},
