@@ -1,3 +1,6 @@
+## 20240823
+- [GitHub Trending](https://github.com/trending?since=daily) | [zed-industries/zed](https://github.com/zed-industries/zed)
+
 ## 20240822
 - [GitHub Trending](https://github.com/trending?since=daily) | [toss/es-toolkit](https://github.com/toss/es-toolkit)
 

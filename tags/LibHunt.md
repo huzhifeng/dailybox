@@ -1,3 +1,6 @@
+## 20240823
+- [LibHunt](https://www.libhunt.com/) | [instant](https://www.libhunt.com/r/instantdb/instant)
+
 ## 20240821
 - [LibHunt](https://www.libhunt.com/) | [revo-grid](https://www.libhunt.com/r/revogrid)
 

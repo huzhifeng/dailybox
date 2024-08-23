@@ -1,3 +1,6 @@
+## 20240823
+- [V2EX](https://www.v2ex.com/) | [在你一生中有什么一直影响你的名言吗](https://www.v2ex.com/t/1067237)
+
 ## 20240822
 - [V2EX](https://www.v2ex.com/) | [结婚 30 来岁结婚之后多久一次夫妻生活是正常的](https://www.v2ex.com/t/1066981)
 

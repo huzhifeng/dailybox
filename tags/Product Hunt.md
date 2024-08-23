@@ -1,3 +1,6 @@
+## 20240823
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-23](https://decohack.com/producthunt-daily-24-08-23/)
+
 ## 20240822
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-22](https://decohack.com/producthunt-daily-24-08-22/)
 - [Product Hunt](https://www.producthunt.com) | [Kraftful 3.0](https://www.producthunt.com/posts/kraftful-3-0)

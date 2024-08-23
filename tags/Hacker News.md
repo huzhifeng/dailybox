@@ -1,3 +1,8 @@
+## 20240823
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-22](https://www.daemonology.net/hn-daily/2024-08-22.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-23](https://github.com/headllines/hackernews-daily/issues/1505)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-13 | 中国风电和太阳能发电合计装机规模首次超过煤电](https://www.xiaoyuzhoufm.com/episode/66b9dfcbdb5e6d6bf9b6948e)
+
 ## 20240822
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-21](https://www.daemonology.net/hn-daily/2024-08-21.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-22](https://github.com/headllines/hackernews-daily/issues/1504)

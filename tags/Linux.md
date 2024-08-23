@@ -1,3 +1,6 @@
+## 20240823
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.294 Introduces New Pipeline Binary Extension](https://www.phoronix.com/news/Vulkan-1.3.294)
+
 ## 20240822
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Will Be Skipping Non-Critical Linux Kernel Updates For September](https://www.phoronix.com/news/Ubuntu-Skipping-Kernel-SRU-Fix)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08 Open-Source Software Suite Released with Many Improvements](https://9to5linux.com/kde-gear-24-08-open-source-software-suite-released-with-many-improvements)
