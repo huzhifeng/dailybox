@@ -1,3 +1,6 @@
+## 20240824
+- [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
+
 ## 20240823
 - [LibHunt](https://www.libhunt.com/) | [instant](https://www.libhunt.com/r/instantdb/instant)
 

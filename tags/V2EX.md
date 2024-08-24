@@ -1,3 +1,6 @@
+## 20240824
+- [V2EX](https://www.v2ex.com/) | [TCP 粘包？ 到底有没有粘包？](https://www.v2ex.com/t/1067508)
+
 ## 20240823
 - [V2EX](https://www.v2ex.com/) | [在你一生中有什么一直影响你的名言吗](https://www.v2ex.com/t/1067237)
 

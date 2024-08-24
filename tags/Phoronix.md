@@ -1,3 +1,6 @@
+## 20240824
+- [Phoronix](https://www.phoronix.com/) | [Mesa's PanVK Vulkan Driver Prepares For Arm Mali Valhall Support](https://www.phoronix.com/news/Mesa-PanVK-Valhall-Prep)
+
 ## 20240823
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.3.294 Introduces New Pipeline Binary Extension](https://www.phoronix.com/news/Vulkan-1.3.294)
 

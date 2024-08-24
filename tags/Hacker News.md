@@ -1,3 +1,8 @@
+## 20240824
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-23](https://www.daemonology.net/hn-daily/2024-08-23.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-24](https://github.com/headllines/hackernews-daily/issues/1506)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-24 | MidJourney 网页体验现已开放，探索 AI 艺术的无限可能](https://www.xiaoyuzhoufm.com/episode/66c97a03ead5fc379211b001)
+
 ## 20240823
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-22](https://www.daemonology.net/hn-daily/2024-08-22.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-23](https://github.com/headllines/hackernews-daily/issues/1505)

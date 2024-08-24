@@ -1,3 +1,6 @@
+## 20240824
+- [BlogFinder](https://bf.zzxworld.com/) | [动态地球仪](https://www.yvii.cn/archives/2028.html?utm_source=blogfinder)
+
 ## 20240823
 - [BlogFinder](https://bf.zzxworld.com/) | [大模型-自动编写SecRule规则验证工具](https://www.xiejingyang.com/2024/08/23/llm-automated-tool-for-writing-and-verifying-secrule-rules/?utm_source=blogfinder)
 
