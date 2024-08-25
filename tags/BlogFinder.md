@@ -1,3 +1,6 @@
+## 20240825
+- [BlogFinder](https://bf.zzxworld.com/) | [我的常用电脑软件清单](https://www.uncleda.com/2583/?utm_source=blogfinder)
+
 ## 20240824
 - [BlogFinder](https://bf.zzxworld.com/) | [动态地球仪](https://www.yvii.cn/archives/2028.html?utm_source=blogfinder)
 

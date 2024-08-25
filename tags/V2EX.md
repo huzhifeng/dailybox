@@ -1,3 +1,6 @@
+## 20240825
+- [V2EX](https://www.v2ex.com/) | [经济下行阶段，一个 37 岁失业程序员的独白（经历/经验分享）](https://www.v2ex.com/t/1067597)
+
 ## 20240824
 - [V2EX](https://www.v2ex.com/) | [TCP 粘包？ 到底有没有粘包？](https://www.v2ex.com/t/1067508)
 

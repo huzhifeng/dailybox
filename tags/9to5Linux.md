@@ -1,3 +1,6 @@
+## 20240825
+- [9to5Linux](https://9to5linux.com/) | [Happy 33rd Birthday, Linux!](https://9to5linux.com/happy-33rd-birthday-linux)
+
 ## 20240822
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08 Open-Source Software Suite Released with Many Improvements](https://9to5linux.com/kde-gear-24-08-open-source-software-suite-released-with-many-improvements)
 

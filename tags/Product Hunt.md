@@ -1,3 +1,6 @@
+## 20240825
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-25](https://decohack.com/producthunt-daily-24-08-25/)
+
 ## 20240823
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-23](https://decohack.com/producthunt-daily-24-08-23/)
 

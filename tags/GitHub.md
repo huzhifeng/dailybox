@@ -1,3 +1,6 @@
+## 20240825
+- [GitHub Trending](https://github.com/trending?since=daily) | [nashtech-garage/yas](https://github.com/nashtech-garage/yas)
+
 ## 20240824
 - [GitHub Trending](https://github.com/trending?since=daily) | [nashtech-garage/yas](https://github.com/nashtech-garage/yas)
 

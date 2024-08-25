@@ -1,3 +1,6 @@
+## 20240825
+- [LibHunt](https://www.libhunt.com/) | [srcbook](https://www.libhunt.com/r/srcbook)
+
 ## 20240824
 - [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
 

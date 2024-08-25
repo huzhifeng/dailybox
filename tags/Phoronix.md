@@ -1,3 +1,6 @@
+## 20240825
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Kernel Features Deliver A Lot For New/Upcoming Intel & AMD Hardware](https://www.phoronix.com/review/linux-611-features)
+
 ## 20240824
 - [Phoronix](https://www.phoronix.com/) | [Mesa's PanVK Vulkan Driver Prepares For Arm Mali Valhall Support](https://www.phoronix.com/news/Mesa-PanVK-Valhall-Prep)
 
