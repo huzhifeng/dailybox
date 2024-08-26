@@ -1,3 +1,6 @@
+## 20240826
+- [LibHunt](https://www.libhunt.com/) | [lago](https://www.libhunt.com/r/lago)
+
 ## 20240825
 - [LibHunt](https://www.libhunt.com/) | [srcbook](https://www.libhunt.com/r/srcbook)
 

@@ -1,3 +1,6 @@
+## 20240826
+- [BlogFinder](https://bf.zzxworld.com/) | [PIP Chill–更精简的依赖包导出工具](https://h4ck.org.cn/2024/08/17921?utm_source=blogfinder)
+
 ## 20240825
 - [BlogFinder](https://bf.zzxworld.com/) | [我的常用电脑软件清单](https://www.uncleda.com/2583/?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240826
+- [It's FOSS](https://itsfoss.com/) | [For Fun Sake, I Installed macOS on Linux in a VM](https://itsfoss.com/macos-linux-vm/)
+
 ## 20240822
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/)
 

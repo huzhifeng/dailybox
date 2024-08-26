@@ -1,3 +1,6 @@
+## 20240826
+- [GitHub Trending](https://github.com/trending?since=daily) | [chen08209/FlClash](https://github.com/chen08209/FlClash)
+
 ## 20240825
 - [GitHub Trending](https://github.com/trending?since=daily) | [nashtech-garage/yas](https://github.com/nashtech-garage/yas)
 

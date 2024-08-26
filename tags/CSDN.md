@@ -1,3 +1,6 @@
+## 20240826
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [传IBM中国收回研发岗位员工访问权限涉千余人；微软软件工程师工资曝光，AI部门平均269万元远超其他部门 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141555873)
+
 ## 20240823
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [雷军回应小米卖一辆车亏6万多；360儿童手表出现错误问答，周鸿祎致歉；苹果被曝四个字符可致iPhone崩溃 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141460195)
 

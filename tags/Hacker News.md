@@ -1,3 +1,9 @@
+## 20240826
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-25](https://www.daemonology.net/hn-daily/2024-08-25.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-26](https://github.com/headllines/hackernews-daily/issues/1508)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-26 | 社交媒体“电报”创始人在法国被捕](https://www.xiaoyuzhoufm.com/episode/66cc4227f78678cbe72dcb55)
+- [Hacker News](https://news.ycombinator.com/front) | [Removing stuff is never obvious yet often better](https://news.ycombinator.com/item?id=41353328)
+
 ## 20240825
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-24](https://www.daemonology.net/hn-daily/2024-08-24.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-25](https://github.com/headllines/hackernews-daily/issues/1507)

@@ -1,3 +1,6 @@
+## 20240826
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-25th-2024)
+
 ## 20240825
 - [9to5Linux](https://9to5linux.com/) | [Happy 33rd Birthday, Linux!](https://9to5linux.com/happy-33rd-birthday-linux)
 

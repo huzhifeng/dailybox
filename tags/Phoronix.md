@@ -1,3 +1,6 @@
+## 20240826
+- [Phoronix](https://www.phoronix.com/) | [AmpereOne A192-32X Benchmarks: 192 Core ARM Server Performance & Power Efficiency](https://www.phoronix.com/review/ampereone-a192-32x)
+
 ## 20240825
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Kernel Features Deliver A Lot For New/Upcoming Intel & AMD Hardware](https://www.phoronix.com/review/linux-611-features)
 
