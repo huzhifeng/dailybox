@@ -1,3 +1,6 @@
+## 20240827
+- [Phoronix](https://www.phoronix.com/) | [LinkedIn Migrates Their Servers From CentOS To Azure Linux](https://www.phoronix.com/news/LinkedIn-Switches-Azure-Linux)
+
 ## 20240826
 - [Phoronix](https://www.phoronix.com/) | [AmpereOne A192-32X Benchmarks: 192 Core ARM Server Performance & Power Efficiency](https://www.phoronix.com/review/ampereone-a192-32x)
 

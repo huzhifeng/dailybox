@@ -1,3 +1,8 @@
+## 20240827
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-26](https://www.daemonology.net/hn-daily/2024-08-26.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-27](https://github.com/headllines/hackernews-daily/issues/1509)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-12 | 将目标重新定义为任务，可以把平凡的目标设定变成一场充满个人成长和冒险的英雄之旅](https://www.xiaoyuzhoufm.com/episode/66b8c7f933591c27be4ce836)
+
 ## 20240826
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-25](https://www.daemonology.net/hn-daily/2024-08-25.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-26](https://github.com/headllines/hackernews-daily/issues/1508)

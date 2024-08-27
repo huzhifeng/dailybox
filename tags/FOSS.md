@@ -1,3 +1,6 @@
+## 20240827
+- [It's FOSS](https://itsfoss.com/) | [13 Tips and Tweaks to Get More Out of KDE Konsole Terminal](https://itsfoss.com/konsole-terminal-tweaks/)
+
 ## 20240826
 - [It's FOSS](https://itsfoss.com/) | [For Fun Sake, I Installed macOS on Linux in a VM](https://itsfoss.com/macos-linux-vm/)
 

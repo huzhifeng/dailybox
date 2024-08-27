@@ -1,3 +1,6 @@
+## 20240827
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果宣布9月10日举行发布会；华为余承东：问界新M7 Pro卖一辆亏近3万元；Steam一夜遭28万次攻击 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141600745)
+
 ## 20240826
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [传IBM中国收回研发岗位员工访问权限涉千余人；微软软件工程师工资曝光，AI部门平均269万元远超其他部门 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141555873)
 

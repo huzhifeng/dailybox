@@ -1,3 +1,7 @@
+## 20240827
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-27](https://decohack.com/producthunt-daily-24-08-27/)
+- [Product Hunt](https://www.producthunt.com) | [Clockwise Prism](https://www.producthunt.com/posts/clockwise-prism)
+
 ## 20240826
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-26](https://decohack.com/producthunt-daily-24-08-26/)
 - [Product Hunt](https://www.producthunt.com) | [CommandDash](https://www.producthunt.com/posts/commanddash)

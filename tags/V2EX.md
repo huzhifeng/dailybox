@@ -1,3 +1,6 @@
+## 20240827
+- [V2EX](https://www.v2ex.com/) | [50 岁开发者的 AI 创业历程与收获](https://www.v2ex.com/t/1068143)
+
 ## 20240826
 - [V2EX](https://www.v2ex.com/) | [[抽奖] 媳妇儿蛋糕店的纯手工月饼支持预定啦～](https://www.v2ex.com/t/1067877)
 

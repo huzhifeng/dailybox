@@ -1,3 +1,6 @@
+## 20240827
+- [GitHub Trending](https://github.com/trending?since=daily) | [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
+
 ## 20240826
 - [GitHub Trending](https://github.com/trending?since=daily) | [chen08209/FlClash](https://github.com/chen08209/FlClash)
 

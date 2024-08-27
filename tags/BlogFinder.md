@@ -1,3 +1,6 @@
+## 20240827
+- [BlogFinder](https://bf.zzxworld.com/) | [解决常见的Windows开机无网络问题](https://vrast.cn/posts/14081/?utm_source=blogfinder)
+
 ## 20240826
 - [BlogFinder](https://bf.zzxworld.com/) | [PIP Chill–更精简的依赖包导出工具](https://h4ck.org.cn/2024/08/17921?utm_source=blogfinder)
 

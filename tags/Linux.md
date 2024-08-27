@@ -1,3 +1,7 @@
+## 20240827
+- [Phoronix](https://www.phoronix.com/) | [LinkedIn Migrates Their Servers From CentOS To Azure Linux](https://www.phoronix.com/news/LinkedIn-Switches-Azure-Linux)
+- [9to5Linux](https://9to5linux.com/) | [Calligra 4.0 Office Suite Is Here with Qt 6 Port, New Sidebar Design, and More](https://9to5linux.com/calligra-4-0-office-suite-is-here-with-qt-6-port-new-sidebar-design-and-more)
+
 ## 20240826
 - [Phoronix](https://www.phoronix.com/) | [AmpereOne A192-32X Benchmarks: 192 Core ARM Server Performance & Power Efficiency](https://www.phoronix.com/review/ampereone-a192-32x)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-25th-2024)
