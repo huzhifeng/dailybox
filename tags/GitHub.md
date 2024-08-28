@@ -1,3 +1,6 @@
+## 20240828
+- [GitHub Trending](https://github.com/trending?since=daily) | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+
 ## 20240827
 - [GitHub Trending](https://github.com/trending?since=daily) | [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
 

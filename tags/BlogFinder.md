@@ -1,3 +1,6 @@
+## 20240828
+- [BlogFinder](https://bf.zzxworld.com/) | [换域名了，辛苦看到了改一下链接](https://yyxy.top/archives/1724830965214?utm_source=blogfinder)
+
 ## 20240827
 - [BlogFinder](https://bf.zzxworld.com/) | [解决常见的Windows开机无网络问题](https://vrast.cn/posts/14081/?utm_source=blogfinder)
 

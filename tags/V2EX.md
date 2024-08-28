@@ -1,3 +1,6 @@
+## 20240828
+- [V2EX](https://www.v2ex.com/) | [10 个打不溜，往哪儿放可以做到每天 200 块稳定收益？](https://www.v2ex.com/t/1068454)
+
 ## 20240827
 - [V2EX](https://www.v2ex.com/) | [50 岁开发者的 AI 创业历程与收获](https://www.v2ex.com/t/1068143)
 

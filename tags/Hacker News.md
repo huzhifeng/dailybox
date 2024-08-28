@@ -1,3 +1,9 @@
+## 20240828
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-27](https://www.daemonology.net/hn-daily/2024-08-27.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-28](https://github.com/headllines/hackernews-daily/issues/1510)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-28 | 旧金山科技工作者利用AI挑战保险拒赔，创立开源平台帮助上诉](https://www.xiaoyuzhoufm.com/episode/66ced60c56bfd3907aacce4d)
+- [Hacker News](https://news.ycombinator.com/front) | [Diffusion Models Are Real-Time Game Engines](https://news.ycombinator.com/item?id=41375548)
+
 ## 20240827
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-26](https://www.daemonology.net/hn-daily/2024-08-26.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-27](https://github.com/headllines/hackernews-daily/issues/1509)

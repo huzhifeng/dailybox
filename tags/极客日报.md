@@ -1,3 +1,6 @@
+## 20240828
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [消息称字节成立“大模型研究院”，知情人士回应；小米“无按键”旗舰手机被曝2025年亮相，代号“朱雀” | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141633735)
+
 ## 20240827
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果宣布9月10日举行发布会；华为余承东：问界新M7 Pro卖一辆亏近3万元；Steam一夜遭28万次攻击 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141600745)
 

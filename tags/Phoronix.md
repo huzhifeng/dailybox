@@ -1,3 +1,6 @@
+## 20240828
+- [Phoronix](https://www.phoronix.com/) | [LLVM's Modern Fortran Compiler "Flang-New" Is Looking Good](https://www.phoronix.com/news/LLVM-Flang-New-Looking-Good)
+
 ## 20240827
 - [Phoronix](https://www.phoronix.com/) | [LinkedIn Migrates Their Servers From CentOS To Azure Linux](https://www.phoronix.com/news/LinkedIn-Switches-Azure-Linux)
 
