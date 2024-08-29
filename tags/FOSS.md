@@ -1,3 +1,6 @@
+## 20240829
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/)
+
 ## 20240827
 - [It's FOSS](https://itsfoss.com/) | [13 Tips and Tweaks to Get More Out of KDE Konsole Terminal](https://itsfoss.com/konsole-terminal-tweaks/)
 

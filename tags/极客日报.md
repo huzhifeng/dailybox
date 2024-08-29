@@ -1,3 +1,6 @@
+## 20240829
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果罕见裁员，服务部门据传解雇百人；OpenAI接近以逾千亿美元估值进行新一轮融资 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141673943)
+
 ## 20240828
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [消息称字节成立“大模型研究院”，知情人士回应；小米“无按键”旗舰手机被曝2025年亮相，代号“朱雀” | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141633735)
 

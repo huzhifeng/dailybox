@@ -1,3 +1,6 @@
+## 20240829
+- [GitHub Trending](https://github.com/trending?since=daily) | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+
 ## 20240828
 - [GitHub Trending](https://github.com/trending?since=daily) | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
 

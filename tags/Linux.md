@@ -1,3 +1,7 @@
+## 20240829
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Optionally Display A QR Code During Kernel Panics](https://www.phoronix.com/news/Linux-6.12-DRM-Panic-QR-Code)
+- [9to5Linux](https://9to5linux.com/) | [Wireshark 4.4 Released with Automatic Profile Switching, Many Improvements](https://9to5linux.com/wireshark-4-4-released-with-automatic-profile-switching-many-improvements)
+
 ## 20240828
 - [Phoronix](https://www.phoronix.com/) | [LLVM's Modern Fortran Compiler "Flang-New" Is Looking Good](https://www.phoronix.com/news/LLVM-Flang-New-Looking-Good)
 

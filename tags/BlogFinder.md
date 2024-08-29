@@ -1,3 +1,6 @@
+## 20240829
+- [BlogFinder](https://bf.zzxworld.com/) | [🔟每日壁纸分享no.00041](https://blog.study996.cn/archives/7202841567982308660?utm_source=blogfinder)
+
 ## 20240828
 - [BlogFinder](https://bf.zzxworld.com/) | [换域名了，辛苦看到了改一下链接](https://yyxy.top/archives/1724830965214?utm_source=blogfinder)
 

@@ -1,3 +1,9 @@
+## 20240829
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-28](https://www.daemonology.net/hn-daily/2024-08-28.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-29](https://github.com/headllines/hackernews-daily/issues/1511)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-29 | 微软向 Wine 团队捐赠 Mono 开源项目](https://www.xiaoyuzhoufm.com/episode/66cede08f78678cbe7b0bf25)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Low Cost Mini PCs](https://news.ycombinator.com/item?id=41389931)
+
 ## 20240828
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-27](https://www.daemonology.net/hn-daily/2024-08-27.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-28](https://github.com/headllines/hackernews-daily/issues/1510)

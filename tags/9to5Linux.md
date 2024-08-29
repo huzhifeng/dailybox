@@ -1,3 +1,6 @@
+## 20240829
+- [9to5Linux](https://9to5linux.com/) | [Wireshark 4.4 Released with Automatic Profile Switching, Many Improvements](https://9to5linux.com/wireshark-4-4-released-with-automatic-profile-switching-many-improvements)
+
 ## 20240827
 - [9to5Linux](https://9to5linux.com/) | [Calligra 4.0 Office Suite Is Here with Qt 6 Port, New Sidebar Design, and More](https://9to5linux.com/calligra-4-0-office-suite-is-here-with-qt-6-port-new-sidebar-design-and-more)
 

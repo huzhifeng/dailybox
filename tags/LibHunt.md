@@ -1,3 +1,6 @@
+## 20240829
+- [LibHunt](https://www.libhunt.com/) | [registry](https://www.libhunt.com/r/opentofu/registry)
+
 ## 20240828
 - [LibHunt](https://www.libhunt.com/) | [knockknock](https://www.libhunt.com/r/knockknock)
 
