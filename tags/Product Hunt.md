@@ -1,3 +1,7 @@
+## 20240830
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-30](https://decohack.com/producthunt-daily-24-08-30/)
+- [Product Hunt](https://www.producthunt.com) | [Medialister](https://www.producthunt.com/posts/medialister)
+
 ## 20240829
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-08-29](https://decohack.com/ph%e4%bb%8a%e6%97%a5%e7%83%ad%e6%a6%9c-2024-08-29/)
 - [Product Hunt](https://www.producthunt.com) | [Emma by Revrag](https://www.producthunt.com/posts/emma-by-revrag-1)

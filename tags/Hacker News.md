@@ -1,3 +1,9 @@
+## 20240830
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-29](https://www.daemonology.net/hn-daily/2024-08-29.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-30](https://github.com/headllines/hackernews-daily/issues/1512)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-11 | OpenAI 联合创始人跳槽至竞争对手 Anthropic 引发热议](https://www.xiaoyuzhoufm.com/episode/66b8c33c33591c27be4baf4d)
+- [Hacker News](https://news.ycombinator.com/front) | [End of the Road: An AnandTech Farewell](https://news.ycombinator.com/item?id=41399872)
+
 ## 20240829
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-28](https://www.daemonology.net/hn-daily/2024-08-28.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-29](https://github.com/headllines/hackernews-daily/issues/1511)

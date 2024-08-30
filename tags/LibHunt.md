@@ -1,3 +1,6 @@
+## 20240830
+- [LibHunt](https://www.libhunt.com/) | [unpkg](https://www.libhunt.com/r/unpkg)
+
 ## 20240829
 - [LibHunt](https://www.libhunt.com/) | [registry](https://www.libhunt.com/r/opentofu/registry)
 

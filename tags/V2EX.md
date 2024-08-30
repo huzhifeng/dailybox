@@ -1,3 +1,6 @@
+## 20240830
+- [V2EX](https://www.v2ex.com/) | [感觉 500M 宽带是比较合理的选择](https://www.v2ex.com/t/1068982)
+
 ## 20240829
 - [V2EX](https://www.v2ex.com/) | [背调，因为前主管负面评价，导致 offer 黄了。](https://www.v2ex.com/t/1068726)
 

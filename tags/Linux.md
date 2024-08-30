@@ -1,3 +1,6 @@
+## 20240830
+- [Phoronix](https://www.phoronix.com/) | [Intel Battlemage Battles More Linux 6.12 Kernel Graphics Driver Changes](https://www.phoronix.com/news/Intel-Ends-Linux-612-Feature-Xe)
+
 ## 20240829
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Optionally Display A QR Code During Kernel Panics](https://www.phoronix.com/news/Linux-6.12-DRM-Panic-QR-Code)
 - [9to5Linux](https://9to5linux.com/) | [Wireshark 4.4 Released with Automatic Profile Switching, Many Improvements](https://9to5linux.com/wireshark-4-4-released-with-automatic-profile-switching-many-improvements)

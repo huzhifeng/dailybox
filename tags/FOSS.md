@@ -1,3 +1,6 @@
+## 20240830
+- [It's FOSS](https://itsfoss.com/) | [How to Reset Raspberry Pi Password](https://itsfoss.com/reset-raspberry-pi-password/)
+
 ## 20240829
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/)
 

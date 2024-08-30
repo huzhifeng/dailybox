@@ -1,3 +1,6 @@
+## 20240830
+- [Phoronix](https://www.phoronix.com/) | [Intel Battlemage Battles More Linux 6.12 Kernel Graphics Driver Changes](https://www.phoronix.com/news/Intel-Ends-Linux-612-Feature-Xe)
+
 ## 20240829
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Optionally Display A QR Code During Kernel Panics](https://www.phoronix.com/news/Linux-6.12-DRM-Panic-QR-Code)
 

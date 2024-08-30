@@ -1,3 +1,6 @@
+## 20240830
+- [BlogFinder](https://bf.zzxworld.com/) | [缅怀我的奶奶](https://chidd.net/2024/08/30/grandma.html?utm_source=blogfinder)
+
 ## 20240829
 - [BlogFinder](https://bf.zzxworld.com/) | [🔟每日壁纸分享no.00041](https://blog.study996.cn/archives/7202841567982308660?utm_source=blogfinder)
 
