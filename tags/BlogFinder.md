@@ -1,3 +1,6 @@
+## 20240831
+- [BlogFinder](https://bf.zzxworld.com/) | [如何在断网时使用电脑](https://wuminboke.site/2024/08/31/translated/using-a-computer-with-no-internet-connection/?utm_source=blogfinder)
+
 ## 20240830
 - [BlogFinder](https://bf.zzxworld.com/) | [缅怀我的奶奶](https://chidd.net/2024/08/30/grandma.html?utm_source=blogfinder)
 

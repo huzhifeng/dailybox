@@ -1,3 +1,9 @@
+## 20240831
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-30](https://www.daemonology.net/hn-daily/2024-08-30.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-31](https://github.com/headllines/hackernews-daily/issues/1513)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-08 | 如何使用"轮廓快跑法" 快速构建任何东西](https://www.xiaoyuzhoufm.com/episode/66b36e214b8eba7e7e3cfda5)
+- [Hacker News](https://news.ycombinator.com/front) | [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://news.ycombinator.com/item?id=41406550)
+
 ## 20240830
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-29](https://www.daemonology.net/hn-daily/2024-08-29.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-30](https://github.com/headllines/hackernews-daily/issues/1512)

@@ -1,3 +1,6 @@
+## 20240831
+- [V2EX](https://www.v2ex.com/) | [智齿导致口臭，哭了](https://www.v2ex.com/t/1069236)
+
 ## 20240830
 - [V2EX](https://www.v2ex.com/) | [感觉 500M 宽带是比较合理的选择](https://www.v2ex.com/t/1068982)
 

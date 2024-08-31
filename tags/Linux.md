@@ -1,3 +1,6 @@
+## 20240831
+- [Phoronix](https://www.phoronix.com/) | [Servo Browser Now Supports Tabbed Browsing, WAV Audio Files](https://www.phoronix.com/news/Servo-August-2024)
+
 ## 20240830
 - [Phoronix](https://www.phoronix.com/) | [Intel Battlemage Battles More Linux 6.12 Kernel Graphics Driver Changes](https://www.phoronix.com/news/Intel-Ends-Linux-612-Feature-Xe)
 
