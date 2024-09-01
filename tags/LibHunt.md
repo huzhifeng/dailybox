@@ -1,3 +1,6 @@
+## 20240901
+- [LibHunt](https://www.libhunt.com/) | [HomeBrew](https://www.libhunt.com/r/brew)
+
 ## 20240831
 - [LibHunt](https://www.libhunt.com/) | [signoz](https://www.libhunt.com/r/signoz)
 

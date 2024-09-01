@@ -1,3 +1,9 @@
+## 20240901
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-31](https://www.daemonology.net/hn-daily/2024-08-31.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-01](https://github.com/headllines/hackernews-daily/issues/1514)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-08-07 | 16 岁小伙写开源书籍，介绍计算机是如何运作的](https://www.xiaoyuzhoufm.com/episode/66b214861f8c44b4eab1ed67)
+- [Hacker News](https://news.ycombinator.com/front) | [Founder Mode](https://news.ycombinator.com/item?id=41415023)
+
 ## 20240831
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-30](https://www.daemonology.net/hn-daily/2024-08-30.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-08-31](https://github.com/headllines/hackernews-daily/issues/1513)

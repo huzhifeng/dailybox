@@ -1,3 +1,6 @@
+## 20240901
+- [V2EX](https://www.v2ex.com/) | [毕业 4 年在 Q 音干到 T11，准备跑路了，谈一谈想法](https://www.v2ex.com/t/1069344)
+
 ## 20240831
 - [V2EX](https://www.v2ex.com/) | [智齿导致口臭，哭了](https://www.v2ex.com/t/1069236)
 

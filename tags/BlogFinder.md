@@ -1,3 +1,6 @@
+## 20240901
+- [BlogFinder](https://bf.zzxworld.com/) | [深入思考问题方法的探索](https://www.edony.ink/deep-thinking-on-complex-problems/?utm_source=blogfinder)
+
 ## 20240831
 - [BlogFinder](https://bf.zzxworld.com/) | [如何在断网时使用电脑](https://wuminboke.site/2024/08/31/translated/using-a-computer-with-no-internet-connection/?utm_source=blogfinder)
 

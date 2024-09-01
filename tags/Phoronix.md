@@ -1,3 +1,6 @@
+## 20240901
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11-rc6 Released With More Bcachefs Fixes & Other Kernel Fixes](https://www.phoronix.com/news/Linux-6.11-rc6-Released)
+
 ## 20240831
 - [Phoronix](https://www.phoronix.com/) | [Servo Browser Now Supports Tabbed Browsing, WAV Audio Files](https://www.phoronix.com/news/Servo-August-2024)
 
