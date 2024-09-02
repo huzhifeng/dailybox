@@ -1,3 +1,9 @@
+## 20240902
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-01](https://www.daemonology.net/hn-daily/2024-09-01.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-02](https://github.com/headllines/hackernews-daily/issues/1515)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-02 | 特斯拉哨兵模式助力警方破案](https://www.xiaoyuzhoufm.com/episode/66d48ad44a0f950f84bfde85)
+- [Hacker News](https://news.ycombinator.com/front) | [1M Users](https://news.ycombinator.com/item?id=41422311)
+
 ## 20240901
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-08-31](https://www.daemonology.net/hn-daily/2024-08-31.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-01](https://github.com/headllines/hackernews-daily/issues/1514)

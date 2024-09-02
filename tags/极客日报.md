@@ -1,3 +1,6 @@
+## 20240902
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [国产GPU独角兽回应解散传闻；​哪吒汽车员工称被违法解除劳动合同；传英特尔将剥离资产削减成本 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141818024)
+
 ## 20240829
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果罕见裁员，服务部门据传解雇百人；OpenAI接近以逾千亿美元估值进行新一轮融资 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141673943)
 

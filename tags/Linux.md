@@ -1,3 +1,7 @@
+## 20240902
+- [Phoronix](https://www.phoronix.com/) | [AMD GCN3 / Fiji Support Being Retired From The GCC Compiler](https://www.phoronix.com/news/AMD-GCN3-Fiji-GCC-Removal)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 130 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-130-is-now-available-for-download-heres-whats-new)
+
 ## 20240901
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11-rc6 Released With More Bcachefs Fixes & Other Kernel Fixes](https://www.phoronix.com/news/Linux-6.11-rc6-Released)
 

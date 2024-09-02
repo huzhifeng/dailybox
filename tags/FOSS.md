@@ -1,3 +1,6 @@
+## 20240902
+- [It's FOSS](https://itsfoss.com/) | [Self Hosting IRC: What are Your Options?](https://itsfoss.com/self-hosted-web-irc/)
+
 ## 20240830
 - [It's FOSS](https://itsfoss.com/) | [How to Reset Raspberry Pi Password](https://itsfoss.com/reset-raspberry-pi-password/)
 

@@ -1,3 +1,6 @@
+## 20240902
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 130 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-130-is-now-available-for-download-heres-whats-new)
+
 ## 20240829
 - [9to5Linux](https://9to5linux.com/) | [Wireshark 4.4 Released with Automatic Profile Switching, Many Improvements](https://9to5linux.com/wireshark-4-4-released-with-automatic-profile-switching-many-improvements)
 
