@@ -1,3 +1,6 @@
+## 20240903
+- [It's FOSS](https://itsfoss.com/) | [Deep Dive With Fastfetch; a Neofetch Alternative](https://itsfoss.com/fine-control-fastfetch/)
+
 ## 20240902
 - [It's FOSS](https://itsfoss.com/) | [Self Hosting IRC: What are Your Options?](https://itsfoss.com/self-hosted-web-irc/)
 

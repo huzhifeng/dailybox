@@ -1,3 +1,6 @@
+## 20240903
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Tuning "Part Two" Merged For GCC Compiler](https://www.phoronix.com/news/AMD-Zen-5-Tuning-Part-2-GCC)
+
 ## 20240902
 - [Phoronix](https://www.phoronix.com/) | [AMD GCN3 / Fiji Support Being Retired From The GCC Compiler](https://www.phoronix.com/news/AMD-GCN3-Fiji-GCC-Removal)
 

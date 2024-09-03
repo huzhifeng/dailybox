@@ -1,3 +1,6 @@
+## 20240903
+- [9to5Linux](https://9to5linux.com/) | [Firefox 131 Beta Improves Translations, Adds Temporary Site Permissions](https://9to5linux.com/firefox-131-beta-improves-translations-adds-temporary-site-permissions)
+
 ## 20240902
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 130 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-130-is-now-available-for-download-heres-whats-new)
 

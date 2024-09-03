@@ -1,3 +1,6 @@
+## 20240903
+- [V2EX](https://www.v2ex.com/) | [朋友说我看了那么多美剧和电影都没有变得聪明！](https://www.v2ex.com/t/1069878)
+
 ## 20240902
 - [V2EX](https://www.v2ex.com/) | [买房无望，是否应该拿所有积蓄换车](https://www.v2ex.com/t/1069615)
 

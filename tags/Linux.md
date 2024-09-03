@@ -1,3 +1,7 @@
+## 20240903
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Tuning "Part Two" Merged For GCC Compiler](https://www.phoronix.com/news/AMD-Zen-5-Tuning-Part-2-GCC)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 131 Beta Improves Translations, Adds Temporary Site Permissions](https://9to5linux.com/firefox-131-beta-improves-translations-adds-temporary-site-permissions)
+
 ## 20240902
 - [Phoronix](https://www.phoronix.com/) | [AMD GCN3 / Fiji Support Being Retired From The GCC Compiler](https://www.phoronix.com/news/AMD-GCN3-Fiji-GCC-Removal)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 130 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-130-is-now-available-for-download-heres-whats-new)

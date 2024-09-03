@@ -1,3 +1,9 @@
+## 20240903
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-02](https://www.daemonology.net/hn-daily/2024-09-02.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-03](https://github.com/headllines/hackernews-daily/issues/1516)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-03 | 创始人模式：AirBnb 创办人分享成功秘诀](https://www.xiaoyuzhoufm.com/episode/66d58e2e4a0f950f84f30ed2)
+- [Hacker News](https://news.ycombinator.com/front) | [Greppability is an underrated code metric](https://news.ycombinator.com/item?id=41430772)
+
 ## 20240902
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-01](https://www.daemonology.net/hn-daily/2024-09-01.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-02](https://github.com/headllines/hackernews-daily/issues/1515)
