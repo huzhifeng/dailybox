@@ -1,3 +1,6 @@
+## 20240904
+- [Phoronix](https://www.phoronix.com/) | [More AMD Zen 5 Tuning/Optimizations Merged For The GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Lands-More-Zen-5-Tuning)
+
 ## 20240903
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Tuning "Part Two" Merged For GCC Compiler](https://www.phoronix.com/news/AMD-Zen-5-Tuning-Part-2-GCC)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 131 Beta Improves Translations, Adds Temporary Site Permissions](https://9to5linux.com/firefox-131-beta-improves-translations-adds-temporary-site-permissions)

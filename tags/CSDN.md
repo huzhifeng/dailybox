@@ -1,3 +1,6 @@
+## 20240904
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [中国苹果税全球最高引争议；董明珠：招大学生年人均成本20万；英伟达遭美国调查，市值一夜蒸发2790亿美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141894882)
+
 ## 20240902
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [国产GPU独角兽回应解散传闻；​哪吒汽车员工称被违法解除劳动合同；传英特尔将剥离资产削减成本 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141818024)
 

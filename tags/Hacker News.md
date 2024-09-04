@@ -1,3 +1,9 @@
+## 20240904
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-03](https://www.daemonology.net/hn-daily/2024-09-03.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-04](https://github.com/headllines/hackernews-daily/issues/1517)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-04 | 大脑是如何在我们睡着的时候巩固记忆的](https://www.xiaoyuzhoufm.com/episode/66d72f034a0f950f844d754e)
+- [Hacker News](https://news.ycombinator.com/front) | [ReMarkable Paper Pro](https://news.ycombinator.com/item?id=41444700)
+
 ## 20240903
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-02](https://www.daemonology.net/hn-daily/2024-09-02.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-03](https://github.com/headllines/hackernews-daily/issues/1516)

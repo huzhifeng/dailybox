@@ -1,3 +1,6 @@
+## 20240904
+- [It's FOSS](https://itsfoss.com/) | [Core, Extra, Multilib? Unraveling the Arch Linux Repositories](https://itsfoss.com/arch-linux-repos/)
+
 ## 20240903
 - [It's FOSS](https://itsfoss.com/) | [Deep Dive With Fastfetch; a Neofetch Alternative](https://itsfoss.com/fine-control-fastfetch/)
 

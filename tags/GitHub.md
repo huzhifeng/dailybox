@@ -1,3 +1,6 @@
+## 20240904
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
 ## 20240903
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 

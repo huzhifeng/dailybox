@@ -1,3 +1,6 @@
+## 20240904
+- [Phoronix](https://www.phoronix.com/) | [More AMD Zen 5 Tuning/Optimizations Merged For The GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Lands-More-Zen-5-Tuning)
+
 ## 20240903
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Tuning "Part Two" Merged For GCC Compiler](https://www.phoronix.com/news/AMD-Zen-5-Tuning-Part-2-GCC)
 
