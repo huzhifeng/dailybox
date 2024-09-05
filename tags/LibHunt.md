@@ -1,3 +1,6 @@
+## 20240905
+- [LibHunt](https://www.libhunt.com/) | [leptos](https://www.libhunt.com/r/leptos)
+
 ## 20240903
 - [LibHunt](https://www.libhunt.com/) | [neon](https://www.libhunt.com/r/neon)
 

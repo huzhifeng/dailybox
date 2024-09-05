@@ -1,3 +1,8 @@
+## 20240905
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-04](https://www.daemonology.net/hn-daily/2024-09-04.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-05](https://github.com/headllines/hackernews-daily/issues/1518)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-01 | 使用 ChatGPT 让混淆的代码变可读](https://www.xiaoyuzhoufm.com/episode/66d47ec34a0f950f84bc9496)
+
 ## 20240904
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-03](https://www.daemonology.net/hn-daily/2024-09-03.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-04](https://github.com/headllines/hackernews-daily/issues/1517)

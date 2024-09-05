@@ -1,3 +1,6 @@
+## 20240905
+- [V2EX](https://www.v2ex.com/) | [今天我 30 岁了！](https://www.v2ex.com/t/1070454)
+
 ## 20240904
 - [V2EX](https://www.v2ex.com/) | [网上看到的段子照进了现实，这种代码出现在我的项目中！](https://www.v2ex.com/t/1070137)
 

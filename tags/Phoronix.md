@@ -1,3 +1,6 @@
+## 20240905
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 15 Might Drop Its AGP Driver For Old Graphics Cards](https://www.phoronix.com/news/FreeBSD-15.0-Might-Drop-AGP)
+
 ## 20240904
 - [Phoronix](https://www.phoronix.com/) | [More AMD Zen 5 Tuning/Optimizations Merged For The GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Lands-More-Zen-5-Tuning)
 

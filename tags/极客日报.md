@@ -1,3 +1,6 @@
+## 20240905
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [淘宝将全面接入微信支付；苹果陷接班人危机，库克挽留多位资深高管；Vue 3.5正式版发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141925595)
+
 ## 20240904
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [中国苹果税全球最高引争议；董明珠：招大学生年人均成本20万；英伟达遭美国调查，市值一夜蒸发2790亿美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141894882)
 

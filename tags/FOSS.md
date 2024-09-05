@@ -1,3 +1,6 @@
+## 20240905
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/)
+
 ## 20240904
 - [It's FOSS](https://itsfoss.com/) | [Core, Extra, Multilib? Unraveling the Arch Linux Repositories](https://itsfoss.com/arch-linux-repos/)
 
