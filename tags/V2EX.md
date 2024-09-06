@@ -1,3 +1,6 @@
+## 20240906
+- [V2EX](https://www.v2ex.com/) | [计划从长沙全家迁移到佛山生活，我这样有问题吗？](https://www.v2ex.com/t/1070716)
+
 ## 20240905
 - [V2EX](https://www.v2ex.com/) | [今天我 30 岁了！](https://www.v2ex.com/t/1070454)
 

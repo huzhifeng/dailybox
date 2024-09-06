@@ -1,3 +1,6 @@
+## 20240906
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [特斯拉辟谣马斯克1.5亿美元北京买房；阿里云通义千问GitHub页面404后已恢复；大模型算法岗平均月薪超6.75万 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/141965051)
+
 ## 20240905
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [淘宝将全面接入微信支付；苹果陷接班人危机，库克挽留多位资深高管；Vue 3.5正式版发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141925595)
 

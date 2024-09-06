@@ -1,3 +1,6 @@
+## 20240906
+- [GitHub Trending](https://github.com/trending?since=daily) | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
 ## 20240905
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 

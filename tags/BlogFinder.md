@@ -1,3 +1,6 @@
+## 20240906
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1725614486](https://blog.mcenahle.com/2024/09/06/da61c40a.html?utm_source=blogfinder)
+
 ## 20240905
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1725526057](https://www.yssk.cn/riji/74fce2f8.html?utm_source=blogfinder)
 

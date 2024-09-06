@@ -1,3 +1,8 @@
+## 20240906
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-05](https://www.daemonology.net/hn-daily/2024-09-05.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-06](https://github.com/headllines/hackernews-daily/issues/1519)
+- [Hacker News](https://news.ycombinator.com/front) | [Did Sandia use a thermonuclear secondary in a product logo?](https://news.ycombinator.com/item?id=41463809)
+
 ## 20240905
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-04](https://www.daemonology.net/hn-daily/2024-09-04.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-05](https://github.com/headllines/hackernews-daily/issues/1518)

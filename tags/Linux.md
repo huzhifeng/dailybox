@@ -1,3 +1,6 @@
+## 20240906
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Not Affected By Inception/SRSO, mitigations=off Yields No Benefit On Ryzen 9000 Series](https://www.phoronix.com/review/amd-zen5-mitigations-off)
+
 ## 20240905
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15 Might Drop Its AGP Driver For Old Graphics Cards](https://www.phoronix.com/news/FreeBSD-15.0-Might-Drop-AGP)
 - [9to5Linux](https://9to5linux.com/) | [QEMU 9.1 Improves ARM and RISC-V Support, Adds Compression Offload Support](https://9to5linux.com/qemu-9-1-improves-arm-and-risc-v-support-adds-compression-offload-support)
