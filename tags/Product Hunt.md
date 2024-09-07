@@ -1,3 +1,7 @@
+## 20240907
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-07](https://decohack.com/producthunt-daily-2024-09-07/)
+- [Product Hunt](https://www.producthunt.com) | [Valuemetrix](https://www.producthunt.com/posts/valuemetrix)
+
 ## 20240906
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-06](https://decohack.com/producthunt-daily-24-09-06/)
 - [Product Hunt](https://www.producthunt.com) | [VideoGen (YC S24)](https://www.producthunt.com/posts/videogen-yc-s24)

@@ -1,3 +1,6 @@
+## 20240907
+- [V2EX](https://www.v2ex.com/) | [头皮痒，什么洗发水止痒去头皮屑的比较好用](https://www.v2ex.com/t/1070900)
+
 ## 20240906
 - [V2EX](https://www.v2ex.com/) | [计划从长沙全家迁移到佛山生活，我这样有问题吗？](https://www.v2ex.com/t/1070716)
 

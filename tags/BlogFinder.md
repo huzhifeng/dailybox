@@ -1,3 +1,6 @@
+## 20240907
+- [BlogFinder](https://bf.zzxworld.com/) | [【转载】傅里叶分析之掐死教程（完整版）](https://cutech.space/archives/Fourierlen.html?utm_source=blogfinder)
+
 ## 20240906
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1725614486](https://blog.mcenahle.com/2024/09/06/da61c40a.html?utm_source=blogfinder)
 

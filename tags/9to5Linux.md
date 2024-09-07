@@ -1,3 +1,6 @@
+## 20240907
+- [9to5Linux](https://9to5linux.com/) | [KDE Slimbook Plasma VI Linux Ultrabook Launches with AMD Ryzen 7 8845HS](https://9to5linux.com/kde-slimbook-plasma-vi-linux-ultrabook-launches-with-amd-ryzen-7-8845hs)
+
 ## 20240905
 - [9to5Linux](https://9to5linux.com/) | [QEMU 9.1 Improves ARM and RISC-V Support, Adds Compression Offload Support](https://9to5linux.com/qemu-9-1-improves-arm-and-risc-v-support-adds-compression-offload-support)
 

@@ -1,3 +1,6 @@
+## 20240907
+- [It's FOSS](https://itsfoss.com/) | [Taking Knowledge in My Own Hands By Self Hosting Wikipedia and Arch Wiki](https://itsfoss.com/self-host-web-archives-kiwix/)
+
 ## 20240905
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/)
 

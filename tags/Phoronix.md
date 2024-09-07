@@ -1,3 +1,6 @@
+## 20240907
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi Showcases Rust On The RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
+
 ## 20240906
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 5 Not Affected By Inception/SRSO, mitigations=off Yields No Benefit On Ryzen 9000 Series](https://www.phoronix.com/review/amd-zen5-mitigations-off)
 

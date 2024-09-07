@@ -1,3 +1,8 @@
+## 20240907
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-06](https://www.daemonology.net/hn-daily/2024-09-06.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-07](https://github.com/headllines/hackernews-daily/issues/1520)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-07 | 研究新发现：食品着色剂让动物皮肤变透明](https://www.xiaoyuzhoufm.com/episode/66dc26e1bfd7110df4e6f2af)
+
 ## 20240906
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-05](https://www.daemonology.net/hn-daily/2024-09-05.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-06](https://github.com/headllines/hackernews-daily/issues/1519)
