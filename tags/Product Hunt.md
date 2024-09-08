@@ -1,3 +1,7 @@
+## 20240908
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-08](https://decohack.com/producthunt-daily-2024-09-08/)
+- [Product Hunt](https://www.producthunt.com) | [CaptionKit](https://www.producthunt.com/posts/captionkit)
+
 ## 20240907
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-07](https://decohack.com/producthunt-daily-2024-09-07/)
 - [Product Hunt](https://www.producthunt.com) | [Valuemetrix](https://www.producthunt.com/posts/valuemetrix)

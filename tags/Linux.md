@@ -1,3 +1,6 @@
+## 20240908
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X vs. Ryzen 9 7950X/7950X3D For Workstation Graphics](https://www.phoronix.com/review/ryzen-9950x-workstation-graphics)
+
 ## 20240907
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi Showcases Rust On The RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
 - [9to5Linux](https://9to5linux.com/) | [KDE Slimbook Plasma VI Linux Ultrabook Launches with AMD Ryzen 7 8845HS](https://9to5linux.com/kde-slimbook-plasma-vi-linux-ultrabook-launches-with-amd-ryzen-7-8845hs)

@@ -1,3 +1,8 @@
+## 20240908
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-07](https://www.daemonology.net/hn-daily/2024-09-07.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-08](https://github.com/headllines/hackernews-daily/issues/1521)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-08 | 如何利用硬件技术加速大语言模型](https://www.xiaoyuzhoufm.com/episode/66dc2d3ebfd7110df4e7de71)
+
 ## 20240907
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-06](https://www.daemonology.net/hn-daily/2024-09-06.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-07](https://github.com/headllines/hackernews-daily/issues/1520)

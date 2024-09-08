@@ -1,3 +1,6 @@
+## 20240908
+- [GitHub Trending](https://github.com/trending?since=daily) | [nginx/nginx](https://github.com/nginx/nginx)
+
 ## 20240907
 - [GitHub Trending](https://github.com/trending?since=daily) | [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 

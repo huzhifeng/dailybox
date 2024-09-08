@@ -1,3 +1,6 @@
+## 20240908
+- [LibHunt](https://www.libhunt.com/) | [lovr](https://www.libhunt.com/r/lovr)
+
 ## 20240907
 - [LibHunt](https://www.libhunt.com/) | [retronews](https://www.libhunt.com/r/retronews)
 

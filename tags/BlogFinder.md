@@ -1,3 +1,6 @@
+## 20240908
+- [BlogFinder](https://bf.zzxworld.com/) | [NAS部署多平台剪切板同步Gcopy，解决多设备剪切板内容同步问题](https://panda995.xyz/network/5095.html?utm_source=blogfinder)
+
 ## 20240907
 - [BlogFinder](https://bf.zzxworld.com/) | [【转载】傅里叶分析之掐死教程（完整版）](https://cutech.space/archives/Fourierlen.html?utm_source=blogfinder)
 
