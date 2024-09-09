@@ -1,3 +1,8 @@
+## 20240909
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-08](https://www.daemonology.net/hn-daily/2024-09-08.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-09](https://github.com/headllines/hackernews-daily/issues/1522)
+- [Hacker News](https://news.ycombinator.com/front) | [QUIC is not quick enough over fast internet](https://news.ycombinator.com/item?id=41484991)
+
 ## 20240908
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-07](https://www.daemonology.net/hn-daily/2024-09-07.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-08](https://github.com/headllines/hackernews-daily/issues/1521)

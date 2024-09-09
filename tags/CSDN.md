@@ -1,3 +1,6 @@
+## 20240909
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [获利超70万元，快手开除泄密员工；华为三折叠手机预约人数破200万；马斯克回应特斯拉要与x.AI分享收入 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142052455)
+
 ## 20240906
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [特斯拉辟谣马斯克1.5亿美元北京买房；阿里云通义千问GitHub页面404后已恢复；大模型算法岗平均月薪超6.75万 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/141965051)
 

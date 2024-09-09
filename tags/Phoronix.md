@@ -1,3 +1,6 @@
+## 20240909
+- [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 vs. AmpereOne 192-Core Benchmarks For Leading AArch64 Server Performance](https://www.phoronix.com/review/ampereone-aws-graviton4)
+
 ## 20240908
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X vs. Ryzen 9 7950X/7950X3D For Workstation Graphics](https://www.phoronix.com/review/ryzen-9950x-workstation-graphics)
 

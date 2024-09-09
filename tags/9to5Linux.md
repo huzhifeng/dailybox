@@ -1,3 +1,6 @@
+## 20240909
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-8th-2024)
+
 ## 20240907
 - [9to5Linux](https://9to5linux.com/) | [KDE Slimbook Plasma VI Linux Ultrabook Launches with AMD Ryzen 7 8845HS](https://9to5linux.com/kde-slimbook-plasma-vi-linux-ultrabook-launches-with-amd-ryzen-7-8845hs)
 

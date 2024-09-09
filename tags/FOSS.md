@@ -1,3 +1,6 @@
+## 20240909
+- [It's FOSS](https://itsfoss.com/) | [What is Hugging Face?](https://itsfoss.com/hugging-face/)
+
 ## 20240907
 - [It's FOSS](https://itsfoss.com/) | [Taking Knowledge in My Own Hands By Self Hosting Wikipedia and Arch Wiki](https://itsfoss.com/self-host-web-archives-kiwix/)
 
