@@ -1,3 +1,6 @@
+## 20240910
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.5 Released with More Bug Fixes for Plasma 6.1 Users](https://9to5linux.com/kde-plasma-6-1-5-released-with-more-bug-fixes-for-plasma-6-1-users)
+
 ## 20240909
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-8th-2024)
 

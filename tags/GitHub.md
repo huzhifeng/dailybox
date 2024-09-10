@@ -1,3 +1,6 @@
+## 20240910
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+
 ## 20240909
 - [GitHub Trending](https://github.com/trending?since=daily) | [RSSNext/Follow](https://github.com/RSSNext/Follow)
 

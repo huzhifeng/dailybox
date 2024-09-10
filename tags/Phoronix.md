@@ -1,3 +1,6 @@
+## 20240910
+- [Phoronix](https://www.phoronix.com/) | [AlmaLinux Announces Certification SIG, Hardware Certification Program](https://www.phoronix.com/news/AlmaLinux-Hardware-Certificate)
+
 ## 20240909
 - [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 vs. AmpereOne 192-Core Benchmarks For Leading AArch64 Server Performance](https://www.phoronix.com/review/ampereone-aws-graviton4)
 

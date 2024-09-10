@@ -1,3 +1,6 @@
+## 20240910
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [罗永浩回应“锤子手机10亿融资被1年花完”质疑；华为鸿蒙超越苹果iOS，成中国市场第二大操作系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142082862)
+
 ## 20240909
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [获利超70万元，快手开除泄密员工；华为三折叠手机预约人数破200万；马斯克回应特斯拉要与x.AI分享收入 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142052455)
 

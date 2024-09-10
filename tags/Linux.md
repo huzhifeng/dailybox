@@ -1,3 +1,7 @@
+## 20240910
+- [Phoronix](https://www.phoronix.com/) | [AlmaLinux Announces Certification SIG, Hardware Certification Program](https://www.phoronix.com/news/AlmaLinux-Hardware-Certificate)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.5 Released with More Bug Fixes for Plasma 6.1 Users](https://9to5linux.com/kde-plasma-6-1-5-released-with-more-bug-fixes-for-plasma-6-1-users)
+
 ## 20240909
 - [Phoronix](https://www.phoronix.com/) | [AWS Graviton4 vs. AmpereOne 192-Core Benchmarks For Leading AArch64 Server Performance](https://www.phoronix.com/review/ampereone-aws-graviton4)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: September 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-8th-2024)
