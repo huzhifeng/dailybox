@@ -1,3 +1,6 @@
+## 20240911
+- [BlogFinder](https://bf.zzxworld.com/) | [购物随想](https://anotherdayu.com/2024/5900/?utm_source=blogfinder)
+
 ## 20240910
 - [BlogFinder](https://bf.zzxworld.com/) | [名侦探柯南：百万美元的五棱星 名探偵コナン 100万ドルの五稜星 (2024)](https://www.tsxxc.com/childs/nosee/3071.html?utm_source=blogfinder)
 

@@ -1,3 +1,8 @@
+## 20240911
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-10](https://www.daemonology.net/hn-daily/2024-09-10.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-11](https://github.com/headllines/hackernews-daily/issues/1524)
+- [Hacker News](https://news.ycombinator.com/front) | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://news.ycombinator.com/item?id=41510252)
+
 ## 20240910
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-09](https://www.daemonology.net/hn-daily/2024-09-09.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-10](https://github.com/headllines/hackernews-daily/issues/1523)

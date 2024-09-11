@@ -1,3 +1,6 @@
+## 20240911
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-11](https://decohack.com/producthunt-daily-2024-09-11/)
+
 ## 20240910
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-10](https://decohack.com/producthunt-daily-2024-09-10/)
 - [Product Hunt](https://www.producthunt.com) | [Rainbow Weather](https://www.producthunt.com/posts/rainbow-weather)

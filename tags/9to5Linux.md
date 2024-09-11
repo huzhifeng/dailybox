@@ -1,3 +1,6 @@
+## 20240911
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.10 to Introduce User-Controlled Permissions Prompts](https://9to5linux.com/ubuntu-24-10-to-introduce-user-controlled-permissions-prompts)
+
 ## 20240910
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.1.5 Released with More Bug Fixes for Plasma 6.1 Users](https://9to5linux.com/kde-plasma-6-1-5-released-with-more-bug-fixes-for-plasma-6-1-users)
 

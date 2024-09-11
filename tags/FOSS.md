@@ -1,3 +1,6 @@
+## 20240911
+- [It's FOSS](https://itsfoss.com/) | [Change Between sysvinit and systemd in MX Linux](https://itsfoss.com/mxlinux-sysvinit-systemd/)
+
 ## 20240910
 - [It's FOSS](https://itsfoss.com/) | [11 Terminal File Managers for Superior File Organization](https://itsfoss.com/terminal-file-managers/)
 

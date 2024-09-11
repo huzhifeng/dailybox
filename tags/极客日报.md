@@ -1,3 +1,6 @@
+## 20240911
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [曝华为三折叠Mate XT被炒到38万元一台，已卖5台；马斯克嘲讽苹果iPhone无新意 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142139145)
+
 ## 20240910
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [罗永浩回应“锤子手机10亿融资被1年花完”质疑；华为鸿蒙超越苹果iOS，成中国市场第二大操作系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142082862)
 

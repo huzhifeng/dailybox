@@ -1,3 +1,6 @@
+## 20240911
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 5 9600X & Ryzen 7 9700X Linux Performance With 105 Watt cTDP](https://www.phoronix.com/review/amd-9600x-9700x-105w)
+
 ## 20240910
 - [Phoronix](https://www.phoronix.com/) | [AlmaLinux Announces Certification SIG, Hardware Certification Program](https://www.phoronix.com/news/AlmaLinux-Hardware-Certificate)
 
