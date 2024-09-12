@@ -1,3 +1,6 @@
+## 20240912
+- [Phoronix](https://www.phoronix.com/) | [AMD XDNA Linux Driver v3 Published For Ryzen AI Upstreaming](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-v3)
+
 ## 20240911
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 5 9600X & Ryzen 7 9700X Linux Performance With 105 Watt cTDP](https://www.phoronix.com/review/amd-9600x-9700x-105w)
 

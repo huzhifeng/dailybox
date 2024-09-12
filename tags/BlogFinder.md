@@ -1,3 +1,6 @@
+## 20240912
+- [BlogFinder](https://bf.zzxworld.com/) | [知识付费正在降级，副业路在何方](https://joojen.com/archives/7794.html?utm_source=blogfinder)
+
 ## 20240911
 - [BlogFinder](https://bf.zzxworld.com/) | [购物随想](https://anotherdayu.com/2024/5900/?utm_source=blogfinder)
 

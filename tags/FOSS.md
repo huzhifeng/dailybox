@@ -1,3 +1,6 @@
+## 20240912
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/)
+
 ## 20240911
 - [It's FOSS](https://itsfoss.com/) | [Change Between sysvinit and systemd in MX Linux](https://itsfoss.com/mxlinux-sysvinit-systemd/)
 

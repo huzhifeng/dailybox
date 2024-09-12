@@ -1,3 +1,8 @@
+## 20240912
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-11](https://www.daemonology.net/hn-daily/2024-09-11.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-12](https://github.com/headllines/hackernews-daily/issues/1525)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-12 | 斯坦福大学研究发现快速充电新方法，大幅延长锂离子电池寿命](https://www.xiaoyuzhoufm.com/episode/66e1b869ee04007d88e0a251)
+
 ## 20240911
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-10](https://www.daemonology.net/hn-daily/2024-09-10.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-11](https://github.com/headllines/hackernews-daily/issues/1524)

@@ -1,3 +1,6 @@
+## 20240912
+- [GitHub Trending](https://github.com/trending?since=daily) | [RSSNext/Follow](https://github.com/RSSNext/Follow)
+
 ## 20240911
 - [GitHub Trending](https://github.com/trending?since=daily) | [RSSNext/Follow](https://github.com/RSSNext/Follow)
 

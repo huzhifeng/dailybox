@@ -1,3 +1,6 @@
+## 20240912
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [机构预计iPhone 16出货量超前代，Max机型或占35%；黄仁勋称产品供不应求：东西都卖光了，每天只睡三个小时 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142168839)
+
 ## 20240911
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [曝华为三折叠Mate XT被炒到38万元一台，已卖5台；马斯克嘲讽苹果iPhone无新意 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142139145)
 

@@ -1,3 +1,6 @@
+## 20240912
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2 Is Now Available for Public Beta Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-2-is-now-available-for-public-beta-testing-heres-whats-new)
+
 ## 20240911
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.10 to Introduce User-Controlled Permissions Prompts](https://9to5linux.com/ubuntu-24-10-to-introduce-user-controlled-permissions-prompts)
 
