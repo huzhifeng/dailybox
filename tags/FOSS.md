@@ -1,3 +1,6 @@
+## 20240913
+- [It's FOSS](https://itsfoss.com/) | [How to Check GPU Usage on Linux Systems](https://itsfoss.com/gpu-usage-linux/)
+
 ## 20240912
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/)
 

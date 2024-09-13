@@ -1,3 +1,7 @@
+## 20240913
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-12](https://www.daemonology.net/hn-daily/2024-09-12.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Boeing workers vote to strike](https://news.ycombinator.com/item?id=41528075)
+
 ## 20240912
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-11](https://www.daemonology.net/hn-daily/2024-09-11.html)
 - [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-12](https://github.com/headllines/hackernews-daily/issues/1525)

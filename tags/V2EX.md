@@ -1,3 +1,6 @@
+## 20240913
+- [V2EX](https://www.v2ex.com/) | [chrome 浏览器看 AV（missav...）没字幕，有无插件可以导入本地字幕外挂播放？](https://www.v2ex.com/t/1072519)
+
 ## 20240912
 - [V2EX](https://www.v2ex.com/) | [2024 年了，国产安卓的推送延迟问题解决了吗？](https://www.v2ex.com/t/1072236)
 

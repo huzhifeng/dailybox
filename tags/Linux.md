@@ -1,3 +1,7 @@
+## 20240913
+- [Phoronix](https://www.phoronix.com/) | [GNOME Foundation Accepting Applications For New Executive Director](https://www.phoronix.com/news/GNOME-Executive-Search-2024)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen3 Linux Laptop Launches with AMD Ryzen 9 7945HX](https://9to5linux.com/tuxedo-gemini-17-gen3-linux-laptop-launches-with-amd-ryzen-9-7945hx)
+
 ## 20240912
 - [Phoronix](https://www.phoronix.com/) | [AMD XDNA Linux Driver v3 Published For Ryzen AI Upstreaming](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-v3)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2 Is Now Available for Public Beta Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-2-is-now-available-for-public-beta-testing-heres-whats-new)

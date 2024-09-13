@@ -1,3 +1,6 @@
+## 20240913
+- [Phoronix](https://www.phoronix.com/) | [GNOME Foundation Accepting Applications For New Executive Director](https://www.phoronix.com/news/GNOME-Executive-Search-2024)
+
 ## 20240912
 - [Phoronix](https://www.phoronix.com/) | [AMD XDNA Linux Driver v3 Published For Ryzen AI Upstreaming](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-v3)
 
