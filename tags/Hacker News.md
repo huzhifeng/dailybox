@@ -1,3 +1,8 @@
+## 20240914
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-13](https://www.daemonology.net/hn-daily/2024-09-13.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-14](https://github.com/headllines/hackernews-daily/issues/1527)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-13 | 苹果需向爱尔兰补缴130亿欧元税款](https://www.xiaoyuzhoufm.com/episode/66e23e32bfd7110df405c584)
+
 ## 20240913
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-12](https://www.daemonology.net/hn-daily/2024-09-12.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Boeing workers vote to strike](https://news.ycombinator.com/item?id=41528075)

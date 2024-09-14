@@ -1,3 +1,6 @@
+## 20240914
+- [V2EX](https://www.v2ex.com/) | [第一次做全麻,居然还有点喜欢这种感觉...](https://www.v2ex.com/t/1072902)
+
 ## 20240913
 - [V2EX](https://www.v2ex.com/) | [chrome 浏览器看 AV（missav...）没字幕，有无插件可以导入本地字幕外挂播放？](https://www.v2ex.com/t/1072519)
 

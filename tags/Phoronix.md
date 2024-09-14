@@ -1,3 +1,6 @@
+## 20240914
+- [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Merges XDG Session Management Wayland Protocol](https://www.phoronix.com/news/Mutter-XDG-Session-Management)
+
 ## 20240913
 - [Phoronix](https://www.phoronix.com/) | [GNOME Foundation Accepting Applications For New Executive Director](https://www.phoronix.com/news/GNOME-Executive-Search-2024)
 

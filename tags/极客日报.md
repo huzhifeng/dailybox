@@ -1,3 +1,6 @@
+## 20240914
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [京东宣布加薪：两年时间实现20薪；苹果AI使iPhone16全系8GB内存；AI教母李飞飞从英伟达等融资2.3亿美元| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142251630)
+
 ## 20240912
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [机构预计iPhone 16出货量超前代，Max机型或占35%；黄仁勋称产品供不应求：东西都卖光了，每天只睡三个小时 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142168839)
 

@@ -1,3 +1,6 @@
+## 20240914
+- [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Merges XDG Session Management Wayland Protocol](https://www.phoronix.com/news/Mutter-XDG-Session-Management)
+
 ## 20240913
 - [Phoronix](https://www.phoronix.com/) | [GNOME Foundation Accepting Applications For New Executive Director](https://www.phoronix.com/news/GNOME-Executive-Search-2024)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen3 Linux Laptop Launches with AMD Ryzen 9 7945HX](https://9to5linux.com/tuxedo-gemini-17-gen3-linux-laptop-launches-with-amd-ryzen-9-7945hx)

@@ -1,3 +1,6 @@
+## 20240914
+- [BlogFinder](https://bf.zzxworld.com/) | [月是故乡明 周刊](https://xiangming.site/864.html?utm_source=blogfinder)
+
 ## 20240913
 - [BlogFinder](https://bf.zzxworld.com/) | [【Crudboy】Cesium实现流动线](https://dengqn.com/article/2444?utm_source=blogfinder)
 
