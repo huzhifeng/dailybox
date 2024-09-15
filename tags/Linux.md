@@ -1,3 +1,6 @@
+## 20240915
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Kernel Released With Some Snapdragon X1 Laptop Support & Other New Hardware](https://www.phoronix.com/news/Linux-6.11)
+
 ## 20240914
 - [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Merges XDG Session Management Wayland Protocol](https://www.phoronix.com/news/Mutter-XDG-Session-Management)
 

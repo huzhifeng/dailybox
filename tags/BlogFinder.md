@@ -1,3 +1,6 @@
+## 20240915
+- [BlogFinder](https://bf.zzxworld.com/) | [广场舞可以称之为艺术么？](https://cgartlab.com/can-square-dance-be-called-art/?utm_source=blogfinder)
+
 ## 20240914
 - [BlogFinder](https://bf.zzxworld.com/) | [月是故乡明 周刊](https://xiangming.site/864.html?utm_source=blogfinder)
 
