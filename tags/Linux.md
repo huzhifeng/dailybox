@@ -1,3 +1,7 @@
+## 20240916
+- [Phoronix](https://www.phoronix.com/) | [Idea Raised For Reducing The Size Of The AMDGPU Driver With Its Massive Header Files](https://www.phoronix.com/news/AMDGPU-Headers-Repo-Idea)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.11 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-11-kernel-released-for-software-freedom-lovers)
+
 ## 20240915
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.11 Kernel Released With Some Snapdragon X1 Laptop Support & Other New Hardware](https://www.phoronix.com/news/Linux-6.11)
 

@@ -1,3 +1,6 @@
+## 20240916
+- [BlogFinder](https://bf.zzxworld.com/) | [巧用 AI 助力论文写作](https://www.sodofast.cn/162.html?utm_source=blogfinder)
+
 ## 20240915
 - [BlogFinder](https://bf.zzxworld.com/) | [广场舞可以称之为艺术么？](https://cgartlab.com/can-square-dance-be-called-art/?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20240916
+- [V2EX](https://www.v2ex.com/) | [台风，没饭吃，要似了](https://www.v2ex.com/t/1073324)
+
 ## 20240915
 - [V2EX](https://www.v2ex.com/) | [公司规矩越来越多，准备跑路，能帮我分析后续做什么方向更好一点吗？](https://www.v2ex.com/t/1073226)
 

@@ -1,3 +1,6 @@
+## 20240916
+- [It's FOSS](https://itsfoss.com/) | [What are Tokens in LLMs? A Beginner’s Guide](https://itsfoss.com/llm-token/)
+
 ## 20240915
 - [It's FOSS](https://itsfoss.com/) | [Installing Docker on Raspberry Pi OS](https://itsfoss.com/raspberry-pi-install-docker/)
 

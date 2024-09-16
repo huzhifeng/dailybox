@@ -1,3 +1,6 @@
+## 20240916
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.11 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-11-kernel-released-for-software-freedom-lovers)
+
 ## 20240913
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen3 Linux Laptop Launches with AMD Ryzen 9 7945HX](https://9to5linux.com/tuxedo-gemini-17-gen3-linux-laptop-launches-with-amd-ryzen-9-7945hx)
 
