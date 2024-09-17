@@ -1,3 +1,7 @@
+## 20240917
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-17](https://decohack.com/producthunt-daily-2024-09-17/)
+- [Product Hunt](https://www.producthunt.com) | [NotCommon](https://www.producthunt.com/posts/notcommon)
+
 ## 20240916
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-16](https://decohack.com/producthunt-daily-2024-09-16/)
 - [Product Hunt](https://www.producthunt.com) | [Phia](https://www.producthunt.com/posts/phia)

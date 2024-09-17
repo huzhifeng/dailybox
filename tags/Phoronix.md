@@ -1,3 +1,6 @@
+## 20240917
+- [Phoronix](https://www.phoronix.com/) | [Initial AMD Zen 5 "Znver5" Support Merged For LLVM/Clang](https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged)
+
 ## 20240916
 - [Phoronix](https://www.phoronix.com/) | [Idea Raised For Reducing The Size Of The AMDGPU Driver With Its Massive Header Files](https://www.phoronix.com/news/AMDGPU-Headers-Repo-Idea)
 

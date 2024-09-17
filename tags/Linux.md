@@ -1,3 +1,7 @@
+## 20240917
+- [Phoronix](https://www.phoronix.com/) | [Initial AMD Zen 5 "Znver5" Support Merged For LLVM/Clang](https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Enters Public Beta Testing with Linux Kernel 6.11 and GNOME 47](https://9to5linux.com/fedora-linux-41-enters-public-beta-testing-with-linux-kernel-6-11-and-gnome-47)
+
 ## 20240916
 - [Phoronix](https://www.phoronix.com/) | [Idea Raised For Reducing The Size Of The AMDGPU Driver With Its Massive Header Files](https://www.phoronix.com/news/AMDGPU-Headers-Repo-Idea)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.11 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-11-kernel-released-for-software-freedom-lovers)

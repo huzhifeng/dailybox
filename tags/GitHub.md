@@ -1,3 +1,6 @@
+## 20240917
+- [GitHub Trending](https://github.com/trending?since=daily) | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+
 ## 20240916
 - [GitHub Trending](https://github.com/trending?since=daily) | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 

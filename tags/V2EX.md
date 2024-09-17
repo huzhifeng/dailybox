@@ -1,3 +1,6 @@
+## 20240917
+- [V2EX](https://www.v2ex.com/) | [一次让我以后只用小米手机的遭遇](https://www.v2ex.com/t/1073479)
+
 ## 20240916
 - [V2EX](https://www.v2ex.com/) | [台风，没饭吃，要似了](https://www.v2ex.com/t/1073324)
 

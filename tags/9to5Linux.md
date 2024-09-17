@@ -1,3 +1,6 @@
+## 20240917
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Enters Public Beta Testing with Linux Kernel 6.11 and GNOME 47](https://9to5linux.com/fedora-linux-41-enters-public-beta-testing-with-linux-kernel-6-11-and-gnome-47)
+
 ## 20240916
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.11 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-11-kernel-released-for-software-freedom-lovers)
 

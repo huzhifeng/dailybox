@@ -1,3 +1,6 @@
+## 20240917
+- [It's FOSS](https://itsfoss.com/) | [Apt, DNF, Zypper, Pip, Cargo, XYZ! App Rules Them All](https://itsfoss.com/app-package-manager/)
+
 ## 20240916
 - [It's FOSS](https://itsfoss.com/) | [What are Tokens in LLMs? A Beginner’s Guide](https://itsfoss.com/llm-token/)
 

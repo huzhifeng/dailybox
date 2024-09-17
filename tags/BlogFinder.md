@@ -1,3 +1,6 @@
+## 20240917
+- [BlogFinder](https://bf.zzxworld.com/) | [明月千里寄相思](https://xiangming.site/867.html?utm_source=blogfinder)
+
 ## 20240916
 - [BlogFinder](https://bf.zzxworld.com/) | [巧用 AI 助力论文写作](https://www.sodofast.cn/162.html?utm_source=blogfinder)
 
