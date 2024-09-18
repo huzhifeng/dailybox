@@ -1,3 +1,7 @@
+## 20240918
+- [Phoronix](https://www.phoronix.com/) | [GNOME 47 Released With Accent Colors, Improved Apps & More](https://www.phoronix.com/news/GNOME-47-Released)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 47 &#8220;Denver&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-47-denver-desktop-environment-officially-released-heres-whats-new)
+
 ## 20240917
 - [Phoronix](https://www.phoronix.com/) | [Initial AMD Zen 5 "Znver5" Support Merged For LLVM/Clang](https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Enters Public Beta Testing with Linux Kernel 6.11 and GNOME 47](https://9to5linux.com/fedora-linux-41-enters-public-beta-testing-with-linux-kernel-6-11-and-gnome-47)

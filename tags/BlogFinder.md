@@ -1,3 +1,6 @@
+## 20240918
+- [BlogFinder](https://bf.zzxworld.com/) | [【共读记·四】一路读下去](http://www.qncd.com/?p=10577&utm_source=blogfinder)
+
 ## 20240917
 - [BlogFinder](https://bf.zzxworld.com/) | [明月千里寄相思](https://xiangming.site/867.html?utm_source=blogfinder)
 

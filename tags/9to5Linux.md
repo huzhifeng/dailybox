@@ -1,3 +1,6 @@
+## 20240918
+- [9to5Linux](https://9to5linux.com/) | [GNOME 47 &#8220;Denver&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-47-denver-desktop-environment-officially-released-heres-whats-new)
+
 ## 20240917
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Enters Public Beta Testing with Linux Kernel 6.11 and GNOME 47](https://9to5linux.com/fedora-linux-41-enters-public-beta-testing-with-linux-kernel-6-11-and-gnome-47)
 

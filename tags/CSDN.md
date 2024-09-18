@@ -1,3 +1,6 @@
+## 20240918
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米SUV路试谍照曝光，外观像法拉利；英特尔CEO宣布40年来最重要转型：7500多员工已离职；iOS 18发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142328228)
+
 ## 20240914
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [京东宣布加薪：两年时间实现20薪；苹果AI使iPhone16全系8GB内存；AI教母李飞飞从英伟达等融资2.3亿美元| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142251630)
 

@@ -1,3 +1,6 @@
+## 20240918
+- [Phoronix](https://www.phoronix.com/) | [GNOME 47 Released With Accent Colors, Improved Apps & More](https://www.phoronix.com/news/GNOME-47-Released)
+
 ## 20240917
 - [Phoronix](https://www.phoronix.com/) | [Initial AMD Zen 5 "Znver5" Support Merged For LLVM/Clang](https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged)
 

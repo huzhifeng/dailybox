@@ -1,3 +1,6 @@
+## 20240918
+- [LibHunt](https://www.libhunt.com/) | [langchain-embeddings](https://www.libhunt.com/r/langchain-embeddings)
+
 ## 20240917
 - [LibHunt](https://www.libhunt.com/) | [middleware](https://www.libhunt.com/r/middlewarehq/middleware)
 

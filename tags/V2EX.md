@@ -1,3 +1,6 @@
+## 20240918
+- [V2EX](https://www.v2ex.com/) | [妹妹马上要结婚了给多少好？](https://www.v2ex.com/t/1073643)
+
 ## 20240917
 - [V2EX](https://www.v2ex.com/) | [一次让我以后只用小米手机的遭遇](https://www.v2ex.com/t/1073479)
 

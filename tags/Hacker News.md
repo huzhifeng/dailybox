@@ -1,3 +1,9 @@
+## 20240918
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-17](https://www.daemonology.net/hn-daily/2024-09-17.html)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2024-09-18](https://github.com/headllines/hackernews-daily/issues/1531)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-17 | 谷歌浏览器搜索结果页面确认移除缓存链接](https://www.xiaoyuzhoufm.com/episode/66e8ed0b3a5ff0a0caea61e3)
+- [Hacker News](https://news.ycombinator.com/front) | [Why wordfreq will not be updated](https://news.ycombinator.com/item?id=41578483)
+
 ## 20240917
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-16](https://www.daemonology.net/hn-daily/2024-09-16.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://news.ycombinator.com/item?id=41564003)
