@@ -1,3 +1,6 @@
+## 20240919
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Lands QR Code For DRM Panic Messages, Intel LNL & BMG Graphics Enabled](https://www.phoronix.com/news/Linux-6.12-DRM-Graphics)
+
 ## 20240918
 - [Phoronix](https://www.phoronix.com/) | [GNOME 47 Released With Accent Colors, Improved Apps & More](https://www.phoronix.com/news/GNOME-47-Released)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47 &#8220;Denver&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-47-denver-desktop-environment-officially-released-heres-whats-new)

@@ -1,3 +1,6 @@
+## 20240919
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1726739063](https://imxcy.cn/archives/419ff752.html?utm_source=blogfinder)
+
 ## 20240918
 - [BlogFinder](https://bf.zzxworld.com/) | [【共读记·四】一路读下去](http://www.qncd.com/?p=10577&utm_source=blogfinder)
 

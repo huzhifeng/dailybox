@@ -1,3 +1,6 @@
+## 20240919
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [小米三折叠手机专利曝光；特斯拉充电60元超时费1600元，客服回应：该费用上不封顶；iOS18被曝新BUG | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142352682)
+
 ## 20240918
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米SUV路试谍照曝光，外观像法拉利；英特尔CEO宣布40年来最重要转型：7500多员工已离职；iOS 18发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142328228)
 

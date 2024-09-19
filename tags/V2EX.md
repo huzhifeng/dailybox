@@ -1,3 +1,6 @@
+## 20240919
+- [V2EX](https://www.v2ex.com/) | [[送会员] 因为孩子，我做了这款 App，投入小几十个，有娃的 v 友进。](https://www.v2ex.com/t/1074110)
+
 ## 20240918
 - [V2EX](https://www.v2ex.com/) | [妹妹马上要结婚了给多少好？](https://www.v2ex.com/t/1073643)
 

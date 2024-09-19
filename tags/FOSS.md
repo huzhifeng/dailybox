@@ -1,3 +1,6 @@
+## 20240919
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/)
+
 ## 20240917
 - [It's FOSS](https://itsfoss.com/) | [Apt, DNF, Zypper, Pip, Cargo, XYZ! App Rules Them All](https://itsfoss.com/app-package-manager/)
 
