@@ -1,3 +1,6 @@
+## 20240920
+- [Phoronix](https://www.phoronix.com/) | [The Fastest AArch64 Linux Distribution On The 192-Core AmpereOne](https://www.phoronix.com/review/linux-os-ampereone)
+
 ## 20240919
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Lands QR Code For DRM Panic Messages, Intel LNL & BMG Graphics Enabled](https://www.phoronix.com/news/Linux-6.12-DRM-Graphics)
 

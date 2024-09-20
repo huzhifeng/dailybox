@@ -1,3 +1,6 @@
+## 20240920
+- [BlogFinder](https://bf.zzxworld.com/) | [懋和道人开通微信公众号的告知书](https://www.dao.js.cn/new/2024092011438.shtml?utm_source=blogfinder)
+
 ## 20240919
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1726739063](https://imxcy.cn/archives/419ff752.html?utm_source=blogfinder)
 

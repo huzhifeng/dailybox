@@ -1,3 +1,6 @@
+## 20240920
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-19](https://www.daemonology.net/hn-daily/2024-09-19.html)
+
 ## 20240919
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-18](https://www.daemonology.net/hn-daily/2024-09-18.html)
 - [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2024-09-16 | ​Mistral首个多模态模型Pixtral 12B来了！](https://www.xiaoyuzhoufm.com/episode/66e7f88a3a5ff0a0cacdd88e)

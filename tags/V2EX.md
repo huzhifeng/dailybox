@@ -1,3 +1,6 @@
+## 20240920
+- [V2EX](https://www.v2ex.com/) | [V2EX 不可以上传图片，大家是怎么发图的？](https://www.v2ex.com/t/1074387)
+
 ## 20240919
 - [V2EX](https://www.v2ex.com/) | [[送会员] 因为孩子，我做了这款 App，投入小几十个，有娃的 v 友进。](https://www.v2ex.com/t/1074110)
 

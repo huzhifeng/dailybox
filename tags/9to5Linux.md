@@ -1,3 +1,6 @@
+## 20240920
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46.5 Released with Mutter and GNOME Shell Improvements](https://9to5linux.com/gnome-46-5-released-with-mutter-and-gnome-shell-improvements)
+
 ## 20240918
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47 &#8220;Denver&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-47-denver-desktop-environment-officially-released-heres-whats-new)
 

@@ -1,3 +1,6 @@
+## 20240920
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信朋友圈已支持发布实况照片；苹果承认更新iPadOS18后会黑屏；用GPT-4生成100字文本需消耗3瓶水 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142374983)
+
 ## 20240919
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [小米三折叠手机专利曝光；特斯拉充电60元超时费1600元，客服回应：该费用上不封顶；iOS18被曝新BUG | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142352682)
 

@@ -1,3 +1,6 @@
+## 20240920
+- [LibHunt](https://www.libhunt.com/) | [openpilot](https://www.libhunt.com/r/openpilot)
+
 ## 20240919
 - [LibHunt](https://www.libhunt.com/) | [codon](https://www.libhunt.com/r/codon)
 

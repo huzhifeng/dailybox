@@ -1,3 +1,7 @@
+## 20240920
+- [Phoronix](https://www.phoronix.com/) | [The Fastest AArch64 Linux Distribution On The 192-Core AmpereOne](https://www.phoronix.com/review/linux-os-ampereone)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 46.5 Released with Mutter and GNOME Shell Improvements](https://9to5linux.com/gnome-46-5-released-with-mutter-and-gnome-shell-improvements)
+
 ## 20240919
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Lands QR Code For DRM Panic Messages, Intel LNL & BMG Graphics Enabled](https://www.phoronix.com/news/Linux-6.12-DRM-Graphics)
 

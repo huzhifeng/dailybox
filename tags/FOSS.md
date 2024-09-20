@@ -1,3 +1,6 @@
+## 20240920
+- [It's FOSS](https://itsfoss.com/) | [Convert and Transfer PDFs and eBooks to Kindle Using Calibre](https://itsfoss.com/calibre-convert-transfer-kindle/)
+
 ## 20240919
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/)
 
