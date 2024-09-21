@@ -1,3 +1,6 @@
+## 20240921
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.10 &#8220;Oracular Oriole&#8221; Enters Public Beta Testing with Linux 6.11, GNOME 47](https://9to5linux.com/ubuntu-24-10-oracular-oriole-enters-public-beta-testing-with-linux-6-11-gnome-47)
+
 ## 20240920
 - [9to5Linux](https://9to5linux.com/) | [GNOME 46.5 Released with Mutter and GNOME Shell Improvements](https://9to5linux.com/gnome-46-5-released-with-mutter-and-gnome-shell-improvements)
 

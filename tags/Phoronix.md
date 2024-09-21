@@ -1,3 +1,6 @@
+## 20240921
+- [Phoronix](https://www.phoronix.com/) | [Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12](https://www.phoronix.com/news/Firewire-Linux-6.12)
+
 ## 20240920
 - [Phoronix](https://www.phoronix.com/) | [The Fastest AArch64 Linux Distribution On The 192-Core AmpereOne](https://www.phoronix.com/review/linux-os-ampereone)
 

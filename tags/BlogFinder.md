@@ -1,3 +1,6 @@
+## 20240921
+- [BlogFinder](https://bf.zzxworld.com/) | [时隔四个月的一篇文章](https://booop.net/an-article-four-months-later/?utm_source=blogfinder)
+
 ## 20240920
 - [BlogFinder](https://bf.zzxworld.com/) | [懋和道人开通微信公众号的告知书](https://www.dao.js.cn/new/2024092011438.shtml?utm_source=blogfinder)
 

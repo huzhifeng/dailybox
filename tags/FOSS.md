@@ -1,3 +1,6 @@
+## 20240921
+- [It's FOSS](https://itsfoss.com/) | [What is a Compute Module? Why should you care about it?](https://itsfoss.com/compute-module/)
+
 ## 20240920
 - [It's FOSS](https://itsfoss.com/) | [Convert and Transfer PDFs and eBooks to Kindle Using Calibre](https://itsfoss.com/calibre-convert-transfer-kindle/)
 

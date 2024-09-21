@@ -1,3 +1,6 @@
+## 20240921
+- [V2EX](https://www.v2ex.com/) | [九年义务教育漏网之鱼，找不到工作，求捞](https://www.v2ex.com/t/1074605)
+
 ## 20240920
 - [V2EX](https://www.v2ex.com/) | [V2EX 不可以上传图片，大家是怎么发图的？](https://www.v2ex.com/t/1074387)
 

@@ -1,3 +1,7 @@
+## 20240921
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-21](https://decohack.com/producthunt-daily-2024-09-21/)
+- [Product Hunt](https://www.producthunt.com) | [Founder Mode Checker](https://www.producthunt.com/posts/founder-mode-checker)
+
 ## 20240920
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-20](https://decohack.com/producthunt-daily-2024-09-20/)
 - [Product Hunt](https://www.producthunt.com) | [Future AGI](https://www.producthunt.com/posts/future-agi)
