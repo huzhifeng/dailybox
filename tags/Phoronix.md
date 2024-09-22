@@ -1,3 +1,6 @@
+## 20240922
+- [Phoronix](https://www.phoronix.com/) | [Bcachefs Hopes To Remove "EXPERIMENTAL" Flag In The Next Year](https://www.phoronix.com/news/Bcachefs-For-Linux-6.12)
+
 ## 20240921
 - [Phoronix](https://www.phoronix.com/) | [Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12](https://www.phoronix.com/news/Firewire-Linux-6.12)
 

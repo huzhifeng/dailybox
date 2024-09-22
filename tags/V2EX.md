@@ -1,3 +1,6 @@
+## 20240922
+- [V2EX](https://www.v2ex.com/) | [感觉读研好孤独如何排解](https://www.v2ex.com/t/1074849)
+
 ## 20240921
 - [V2EX](https://www.v2ex.com/) | [九年义务教育漏网之鱼，找不到工作，求捞](https://www.v2ex.com/t/1074605)
 

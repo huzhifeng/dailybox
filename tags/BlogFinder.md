@@ -1,3 +1,6 @@
+## 20240922
+- [BlogFinder](https://bf.zzxworld.com/) | [【读书记1501】李皖《四十年，一百块砖》](http://www.qncd.com/?p=10591&utm_source=blogfinder)
+
 ## 20240921
 - [BlogFinder](https://bf.zzxworld.com/) | [时隔四个月的一篇文章](https://booop.net/an-article-four-months-later/?utm_source=blogfinder)
 

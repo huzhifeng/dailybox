@@ -1,3 +1,6 @@
+## 20240922
+- [Phoronix](https://www.phoronix.com/) | [Bcachefs Hopes To Remove "EXPERIMENTAL" Flag In The Next Year](https://www.phoronix.com/news/Bcachefs-For-Linux-6.12)
+
 ## 20240921
 - [Phoronix](https://www.phoronix.com/) | [Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12](https://www.phoronix.com/news/Firewire-Linux-6.12)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.10 &#8220;Oracular Oriole&#8221; Enters Public Beta Testing with Linux 6.11, GNOME 47](https://9to5linux.com/ubuntu-24-10-oracular-oriole-enters-public-beta-testing-with-linux-6-11-gnome-47)
