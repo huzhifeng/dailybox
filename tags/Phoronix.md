@@ -1,3 +1,6 @@
+## 20240923
+- [Phoronix](https://www.phoronix.com/) | [AMD HIP RT 2.4 Brings H-PLOC & New Graphics Architecture Support](https://www.phoronix.com/news/AMD-HIP-RT-2.4)
+
 ## 20240922
 - [Phoronix](https://www.phoronix.com/) | [Bcachefs Hopes To Remove "EXPERIMENTAL" Flag In The Next Year](https://www.phoronix.com/news/Bcachefs-For-Linux-6.12)
 

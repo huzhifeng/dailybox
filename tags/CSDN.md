@@ -1,3 +1,6 @@
+## 20240923
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [思科裁员波及中国区，赔偿可选“N+7”；京淘淘回应「卷款20亿元跑路」；郭明錤：高通与英特尔并购可能是一场灾难 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142451626)
+
 ## 20240920
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [微信朋友圈已支持发布实况照片；苹果承认更新iPadOS18后会黑屏；用GPT-4生成100字文本需消耗3瓶水 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142374983)
 

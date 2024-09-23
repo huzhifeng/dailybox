@@ -1,3 +1,6 @@
+## 20240923
+- [V2EX](https://www.v2ex.com/) | [为什么会有人觉得“舔狗”不是骂人？](https://www.v2ex.com/t/1075138)
+
 ## 20240922
 - [V2EX](https://www.v2ex.com/) | [感觉读研好孤独如何排解](https://www.v2ex.com/t/1074849)
 

@@ -1,3 +1,7 @@
+## 20240923
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-23](https://decohack.com/producthunt-daily-2024-09-23/)
+- [Product Hunt](https://www.producthunt.com) | [Slidejoy](https://www.producthunt.com/posts/slidejoy-2)
+
 ## 20240922
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-22](https://decohack.com/producthunt-daily-2024-09-22/)
 - [Product Hunt](https://www.producthunt.com) | [Tubit AI](https://www.producthunt.com/posts/tubit-ai)

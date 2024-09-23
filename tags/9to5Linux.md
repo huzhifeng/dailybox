@@ -1,3 +1,6 @@
+## 20240923
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.09 Adds Calligra as Default Office Suite, Improves Installation](https://9to5linux.com/kaos-linux-2024-09-adds-calligra-as-default-office-suite-improves-installation)
+
 ## 20240921
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.10 &#8220;Oracular Oriole&#8221; Enters Public Beta Testing with Linux 6.11, GNOME 47](https://9to5linux.com/ubuntu-24-10-oracular-oriole-enters-public-beta-testing-with-linux-6-11-gnome-47)
 

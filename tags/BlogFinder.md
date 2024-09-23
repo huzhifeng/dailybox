@@ -1,3 +1,6 @@
+## 20240923
+- [BlogFinder](https://bf.zzxworld.com/) | [工具-Cursor Composer](https://www.xiejingyang.com/2024/09/23/tools-cursor-composer/?utm_source=blogfinder)
+
 ## 20240922
 - [BlogFinder](https://bf.zzxworld.com/) | [【读书记1501】李皖《四十年，一百块砖》](http://www.qncd.com/?p=10591&utm_source=blogfinder)
 

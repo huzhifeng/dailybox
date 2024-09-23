@@ -1,3 +1,6 @@
+## 20240923
+- [It's FOSS](https://itsfoss.com/) | [Generative AI & LLMs: How are They Different or Similar?](https://itsfoss.com/llm-vs-generative-ai/)
+
 ## 20240921
 - [It's FOSS](https://itsfoss.com/) | [What is a Compute Module? Why should you care about it?](https://itsfoss.com/compute-module/)
 

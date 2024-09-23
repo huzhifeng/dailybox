@@ -1,3 +1,6 @@
+## 20240923
+- [LibHunt](https://www.libhunt.com/) | [news.pub](https://www.libhunt.com/r/news.pub)
+
 ## 20240921
 - [LibHunt](https://www.libhunt.com/) | [reskin_sensor](https://www.libhunt.com/r/reskin_sensor)
 
