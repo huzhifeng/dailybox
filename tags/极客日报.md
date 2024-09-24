@@ -1,3 +1,6 @@
+## 20240924
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [首批 iPhone16 Pro 出现触摸失灵；小米两款新车细节曝光，价格预计 12-15 万起 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142491340)
+
 ## 20240923
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [思科裁员波及中国区，赔偿可选“N+7”；京淘淘回应「卷款20亿元跑路」；郭明錤：高通与英特尔并购可能是一场灾难 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142451626)
 

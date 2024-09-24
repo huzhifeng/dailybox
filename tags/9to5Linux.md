@@ -1,3 +1,6 @@
+## 20240924
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.1 Promises Experimental Wayland Session, Styling Improvements](https://9to5linux.com/lxqt-2-1-promises-experimental-wayland-session-styling-improvements)
+
 ## 20240923
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.09 Adds Calligra as Default Office Suite, Improves Installation](https://9to5linux.com/kaos-linux-2024-09-adds-calligra-as-default-office-suite-improves-installation)
 

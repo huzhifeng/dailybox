@@ -1,3 +1,6 @@
+## 20240924
+- [V2EX](https://www.v2ex.com/) | [家庭内部买房争议](https://www.v2ex.com/t/1075419)
+
 ## 20240923
 - [V2EX](https://www.v2ex.com/) | [为什么会有人觉得“舔狗”不是骂人？](https://www.v2ex.com/t/1075138)
 

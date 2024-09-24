@@ -1,3 +1,6 @@
+## 20240924
+- [BlogFinder](https://bf.zzxworld.com/) | [JDZX9-10G电压互感器](https://www.nwazi.com/post/jdzx9huganqi.html?utm_source=blogfinder)
+
 ## 20240923
 - [BlogFinder](https://bf.zzxworld.com/) | [工具-Cursor Composer](https://www.xiejingyang.com/2024/09/23/tools-cursor-composer/?utm_source=blogfinder)
 

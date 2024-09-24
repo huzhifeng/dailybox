@@ -1,3 +1,6 @@
+## 20240924
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Benchmarks](https://www.phoronix.com/review/intel-xeon-6980p-performance)
+
 ## 20240923
 - [Phoronix](https://www.phoronix.com/) | [AMD HIP RT 2.4 Brings H-PLOC & New Graphics Architecture Support](https://www.phoronix.com/news/AMD-HIP-RT-2.4)
 

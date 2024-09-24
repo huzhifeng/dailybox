@@ -1,3 +1,6 @@
+## 20240924
+- [LibHunt](https://www.libhunt.com/) | [llamafile](https://www.libhunt.com/r/llamafile)
+
 ## 20240923
 - [LibHunt](https://www.libhunt.com/) | [news.pub](https://www.libhunt.com/r/news.pub)
 

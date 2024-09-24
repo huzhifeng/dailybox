@@ -1,3 +1,7 @@
+## 20240924
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Benchmarks](https://www.phoronix.com/review/intel-xeon-6980p-performance)
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.1 Promises Experimental Wayland Session, Styling Improvements](https://9to5linux.com/lxqt-2-1-promises-experimental-wayland-session-styling-improvements)
+
 ## 20240923
 - [Phoronix](https://www.phoronix.com/) | [AMD HIP RT 2.4 Brings H-PLOC & New Graphics Architecture Support](https://www.phoronix.com/news/AMD-HIP-RT-2.4)
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2024.09 Adds Calligra as Default Office Suite, Improves Installation](https://9to5linux.com/kaos-linux-2024-09-adds-calligra-as-default-office-suite-improves-installation)
