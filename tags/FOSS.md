@@ -1,3 +1,6 @@
+## 20240925
+- [It's FOSS](https://itsfoss.com/) | [No Camera Found? Getting the Camera App to Work in Ubuntu 24.04](https://itsfoss.com/no-camera-found-ubuntu/)
+
 ## 20240923
 - [It's FOSS](https://itsfoss.com/) | [Generative AI & LLMs: How are They Different or Similar?](https://itsfoss.com/llm-vs-generative-ai/)
 

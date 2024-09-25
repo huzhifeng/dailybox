@@ -1,3 +1,6 @@
+## 20240925
+- [LibHunt](https://www.libhunt.com/) | [kubeai](https://www.libhunt.com/r/kubeai)
+
 ## 20240924
 - [LibHunt](https://www.libhunt.com/) | [llamafile](https://www.libhunt.com/r/llamafile)
 

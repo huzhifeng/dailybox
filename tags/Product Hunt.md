@@ -1,3 +1,7 @@
+## 20240925
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-25](https://decohack.com/producthunt-daily-2024-09-25/)
+- [Product Hunt](https://www.producthunt.com) | [Forecastio](https://www.producthunt.com/posts/forecastio)
+
 ## 20240924
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-24](https://decohack.com/producthunt-daily-2024-09-24/)
 - [Product Hunt](https://www.producthunt.com) | [Sunrise: Guided Journaling & Mindfulness](https://www.producthunt.com/posts/sunrise-guided-journaling-mindfulness)

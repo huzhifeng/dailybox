@@ -1,3 +1,6 @@
+## 20240925
+- [BlogFinder](https://bf.zzxworld.com/) | [【共读记·六】当下我能做的](http://www.qncd.com/?p=10624&utm_source=blogfinder)
+
 ## 20240924
 - [BlogFinder](https://bf.zzxworld.com/) | [JDZX9-10G电压互感器](https://www.nwazi.com/post/jdzx9huganqi.html?utm_source=blogfinder)
 

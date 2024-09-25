@@ -1,3 +1,7 @@
+## 20240925
+- [Phoronix](https://www.phoronix.com/) | [Rust In Linux 6.12 Prepares For Rust Binder, Supports Sanitizers & CPU Mitigations](https://www.phoronix.com/news/Linux-6.12-Rust)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.25 Adds Support for Dell K2 Docks and More Intel USB4 Hubs](https://9to5linux.com/fwupd-1-9-25-adds-support-for-dell-k2-dock-and-more-intel-usb4-hubs)
+
 ## 20240924
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Benchmarks](https://www.phoronix.com/review/intel-xeon-6980p-performance)
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.1 Promises Experimental Wayland Session, Styling Improvements](https://9to5linux.com/lxqt-2-1-promises-experimental-wayland-session-styling-improvements)

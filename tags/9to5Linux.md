@@ -1,3 +1,6 @@
+## 20240925
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.25 Adds Support for Dell K2 Docks and More Intel USB4 Hubs](https://9to5linux.com/fwupd-1-9-25-adds-support-for-dell-k2-dock-and-more-intel-usb4-hubs)
+
 ## 20240924
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.1 Promises Experimental Wayland Session, Styling Improvements](https://9to5linux.com/lxqt-2-1-promises-experimental-wayland-session-styling-improvements)
 

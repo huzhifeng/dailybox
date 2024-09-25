@@ -1,3 +1,6 @@
+## 20240925
+- [V2EX](https://www.v2ex.com/) | [国企工资太低了呀](https://www.v2ex.com/t/1075664)
+
 ## 20240924
 - [V2EX](https://www.v2ex.com/) | [家庭内部买房争议](https://www.v2ex.com/t/1075419)
 

@@ -1,3 +1,6 @@
+## 20240925
+- [Phoronix](https://www.phoronix.com/) | [Rust In Linux 6.12 Prepares For Rust Binder, Supports Sanitizers & CPU Mitigations](https://www.phoronix.com/news/Linux-6.12-Rust)
+
 ## 20240924
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Benchmarks](https://www.phoronix.com/review/intel-xeon-6980p-performance)
 

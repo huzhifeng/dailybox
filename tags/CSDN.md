@@ -1,3 +1,6 @@
+## 20240925
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [余承东称智界R7卖一辆亏三万；OpenAI官方账号遭入侵，沦为加密货币诈骗工具；腾讯客服称鸿蒙微信适配进展顺利 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142515716)
+
 ## 20240924
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [首批 iPhone16 Pro 出现触摸失灵；小米两款新车细节曝光，价格预计 12-15 万起 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142491340)
 
