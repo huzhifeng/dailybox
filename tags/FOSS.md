@@ -1,3 +1,6 @@
+## 20240926
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.39: New File Manager, Webcam Issue in Ubuntu, GNOME 47 Release and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-39/)
+
 ## 20240925
 - [It's FOSS](https://itsfoss.com/) | [No Camera Found? Getting the Camera App to Work in Ubuntu 24.04](https://itsfoss.com/no-camera-found-ubuntu/)
 

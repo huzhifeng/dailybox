@@ -1,3 +1,7 @@
+## 20240926
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 17 Released With AVX-512 Optimization & Up To 2x Better Write Throughput](https://www.phoronix.com/news/PostgreSQL-17-Released)
+- [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 2 Released with Bluetooth Settings, Much-Improved File Manager](https://9to5linux.com/cosmic-alpha-2-released-with-bluetooth-settings-much-improved-file-manager)
+
 ## 20240925
 - [Phoronix](https://www.phoronix.com/) | [Rust In Linux 6.12 Prepares For Rust Binder, Supports Sanitizers & CPU Mitigations](https://www.phoronix.com/news/Linux-6.12-Rust)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.25 Adds Support for Dell K2 Docks and More Intel USB4 Hubs](https://9to5linux.com/fwupd-1-9-25-adds-support-for-dell-k2-dock-and-more-intel-usb4-hubs)

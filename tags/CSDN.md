@@ -1,3 +1,6 @@
+## 20240926
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [吉林一企业禁止员工带苹果设备，违者开除；OpenAI CTO 宣布离职；华为 Mate 70 系列被曝整机已量产 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142548981)
+
 ## 20240925
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [余承东称智界R7卖一辆亏三万；OpenAI官方账号遭入侵，沦为加密货币诈骗工具；腾讯客服称鸿蒙微信适配进展顺利 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142515716)
 

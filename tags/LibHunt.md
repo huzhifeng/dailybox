@@ -1,3 +1,6 @@
+## 20240926
+- [LibHunt](https://www.libhunt.com/) | [LearnOpenGL](https://www.libhunt.com/r/LearnOpenGL)
+
 ## 20240925
 - [LibHunt](https://www.libhunt.com/) | [kubeai](https://www.libhunt.com/r/kubeai)
 

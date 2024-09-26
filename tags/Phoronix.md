@@ -1,3 +1,6 @@
+## 20240926
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 17 Released With AVX-512 Optimization & Up To 2x Better Write Throughput](https://www.phoronix.com/news/PostgreSQL-17-Released)
+
 ## 20240925
 - [Phoronix](https://www.phoronix.com/) | [Rust In Linux 6.12 Prepares For Rust Binder, Supports Sanitizers & CPU Mitigations](https://www.phoronix.com/news/Linux-6.12-Rust)
 

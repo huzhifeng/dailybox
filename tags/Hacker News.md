@@ -1,3 +1,7 @@
+## 20240926
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-25](https://www.daemonology.net/hn-daily/2024-09-25.html)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenAI to Become For-Profit Company](https://news.ycombinator.com/item?id=41655954)
+
 ## 20240925
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-24](https://www.daemonology.net/hn-daily/2024-09-24.html)
 

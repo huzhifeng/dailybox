@@ -1,3 +1,6 @@
+## 20240926
+- [BlogFinder](https://bf.zzxworld.com/) | [Android源码分析：系统进程中事件的读取与分发](https://isming.me/2024-09-26-input-event-read-dispatch/?utm_source=blogfinder)
+
 ## 20240925
 - [BlogFinder](https://bf.zzxworld.com/) | [【共读记·六】当下我能做的](http://www.qncd.com/?p=10624&utm_source=blogfinder)
 

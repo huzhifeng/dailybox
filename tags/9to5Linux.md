@@ -1,3 +1,6 @@
+## 20240926
+- [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 2 Released with Bluetooth Settings, Much-Improved File Manager](https://9to5linux.com/cosmic-alpha-2-released-with-bluetooth-settings-much-improved-file-manager)
+
 ## 20240925
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 1.9.25 Adds Support for Dell K2 Docks and More Intel USB4 Hubs](https://9to5linux.com/fwupd-1-9-25-adds-support-for-dell-k2-dock-and-more-intel-usb4-hubs)
 
