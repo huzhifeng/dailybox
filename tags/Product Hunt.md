@@ -1,3 +1,7 @@
+## 20240927
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-27](https://decohack.com/producthunt-daily-2024-09-27/)
+- [Product Hunt](https://www.producthunt.com) | [Triforce Todos](https://www.producthunt.com/posts/triforce-todos)
+
 ## 20240926
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-09-26](https://decohack.com/producthunt-daily-2024-09-26/)
 - [Product Hunt](https://www.producthunt.com) | [daily.dev Squads](https://www.producthunt.com/posts/daily-dev-squads)

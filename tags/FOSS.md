@@ -1,3 +1,6 @@
+## 20240927
+- [It's FOSS](https://itsfoss.com/) | [Spice Up Your Spotify Experience With Spicetify on Ubuntu](https://itsfoss.com/use-spicetify/)
+
 ## 20240926
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.39: New File Manager, Webcam Issue in Ubuntu, GNOME 47 Release and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-39/)
 

@@ -1,3 +1,6 @@
+## 20240927
+- [Phoronix](https://www.phoronix.com/) | [AmpereOne CPPC CPUFreq Schedutil vs. Performance Governor Benchmarks](https://www.phoronix.com/news/AmpereOne-CPPC-CPUFreq)
+
 ## 20240926
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 17 Released With AVX-512 Optimization & Up To 2x Better Write Throughput](https://www.phoronix.com/news/PostgreSQL-17-Released)
 

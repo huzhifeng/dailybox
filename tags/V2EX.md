@@ -1,3 +1,6 @@
+## 20240927
+- [V2EX](https://www.v2ex.com/) | [该怎么理解同事的这种行为](https://www.v2ex.com/t/1076298)
+
 ## 20240926
 - [V2EX](https://www.v2ex.com/) | [华为云，要脸不，刚注册不到 24 小时就把个人实名注册信息随便泄露出去了](https://www.v2ex.com/t/1076037)
 

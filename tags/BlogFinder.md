@@ -1,3 +1,6 @@
+## 20240927
+- [BlogFinder](https://bf.zzxworld.com/) | [幼儿园组织秋游(中国馆)](https://vrast.cn/posts/52216/?utm_source=blogfinder)
+
 ## 20240926
 - [BlogFinder](https://bf.zzxworld.com/) | [Android源码分析：系统进程中事件的读取与分发](https://isming.me/2024-09-26-input-event-read-dispatch/?utm_source=blogfinder)
 

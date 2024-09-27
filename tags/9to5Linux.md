@@ -1,3 +1,6 @@
+## 20240927
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.2 Office Suite Is Now Available for Download with 85 Bug Fixes](https://9to5linux.com/libreoffice-24-8-2-office-suite-is-now-available-for-download-with-85-bug-fixes)
+
 ## 20240926
 - [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 2 Released with Bluetooth Settings, Much-Improved File Manager](https://9to5linux.com/cosmic-alpha-2-released-with-bluetooth-settings-much-improved-file-manager)
 
