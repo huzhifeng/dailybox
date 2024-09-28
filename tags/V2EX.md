@@ -1,3 +1,6 @@
+## 20240928
+- [V2EX](https://www.v2ex.com/) | [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579)
+
 ## 20240927
 - [V2EX](https://www.v2ex.com/) | [该怎么理解同事的这种行为](https://www.v2ex.com/t/1076298)
 

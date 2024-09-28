@@ -1,3 +1,6 @@
+## 20240928
+- [It's FOSS](https://itsfoss.com/) | [How I Used Monitor Mode on TP-Link WN722N for Fun](https://itsfoss.com/monitor-mode-fun/)
+
 ## 20240927
 - [It's FOSS](https://itsfoss.com/) | [Spice Up Your Spotify Experience With Spicetify on Ubuntu](https://itsfoss.com/use-spicetify/)
 

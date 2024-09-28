@@ -1,3 +1,6 @@
+## 20240928
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD To See Better Laptop Support With Investment Backed By AMD, Dell & Framework](https://www.phoronix.com/news/FreeBSD-Better-Laptops)
+
 ## 20240927
 - [Phoronix](https://www.phoronix.com/) | [AmpereOne CPPC CPUFreq Schedutil vs. Performance Governor Benchmarks](https://www.phoronix.com/news/AmpereOne-CPPC-CPUFreq)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.2 Office Suite Is Now Available for Download with 85 Bug Fixes](https://9to5linux.com/libreoffice-24-8-2-office-suite-is-now-available-for-download-with-85-bug-fixes)

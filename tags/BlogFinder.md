@@ -1,3 +1,6 @@
+## 20240928
+- [BlogFinder](https://bf.zzxworld.com/) | [第二次回家](https://blog.mcenahle.com/2024/09/28/165.html?utm_source=blogfinder)
+
 ## 20240927
 - [BlogFinder](https://bf.zzxworld.com/) | [幼儿园组织秋游(中国馆)](https://vrast.cn/posts/52216/?utm_source=blogfinder)
 

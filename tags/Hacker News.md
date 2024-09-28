@@ -1,3 +1,7 @@
+## 20240928
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-27](https://www.daemonology.net/hn-daily/2024-09-27.html)
+- [Hacker News](https://news.ycombinator.com/front) | [FFT-based ocean-wave rendering, implemented in Godot](https://news.ycombinator.com/item?id=41678412)
+
 ## 20240927
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-26](https://www.daemonology.net/hn-daily/2024-09-26.html)
 - [Hacker News](https://news.ycombinator.com/front) | [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://news.ycombinator.com/item?id=41670210)
