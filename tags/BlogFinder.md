@@ -1,3 +1,6 @@
+## 20240929
+- [BlogFinder](https://bf.zzxworld.com/) | [女子无“才”便是德？还是女子无 “财” 便 是 德](https://www.dengxiaokang.com/archives/1673.html?utm_source=blogfinder)
+
 ## 20240928
 - [BlogFinder](https://bf.zzxworld.com/) | [第二次回家](https://blog.mcenahle.com/2024/09/28/165.html?utm_source=blogfinder)
 

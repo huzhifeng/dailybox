@@ -1,3 +1,6 @@
+## 20240929
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Features Are Super Exciting With Real-Time, Sched_ext, Intel Xe2 & Raspberry Pi 5](https://www.phoronix.com/review/linux-612-features)
+
 ## 20240928
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD To See Better Laptop Support With Investment Backed By AMD, Dell & Framework](https://www.phoronix.com/news/FreeBSD-Better-Laptops)
 

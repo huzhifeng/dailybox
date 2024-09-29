@@ -1,3 +1,7 @@
+## 20240929
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Features Are Super Exciting With Real-Time, Sched_ext, Intel Xe2 & Raspberry Pi 5](https://www.phoronix.com/review/linux-612-features)
+- [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Release for September 2024 Brings Linux Kernel 6.11 and Optimizations](https://9to5linux.com/cachyos-iso-release-for-september-2024-brings-linux-kernel-6-11-and-optimizations)
+
 ## 20240928
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD To See Better Laptop Support With Investment Backed By AMD, Dell & Framework](https://www.phoronix.com/news/FreeBSD-Better-Laptops)
 

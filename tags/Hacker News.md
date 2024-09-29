@@ -1,3 +1,7 @@
+## 20240929
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-28](https://www.daemonology.net/hn-daily/2024-09-28.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Too much efficiency makes everything worse (2022)](https://news.ycombinator.com/item?id=41684082)
+
 ## 20240928
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-27](https://www.daemonology.net/hn-daily/2024-09-27.html)
 - [Hacker News](https://news.ycombinator.com/front) | [FFT-based ocean-wave rendering, implemented in Godot](https://news.ycombinator.com/item?id=41678412)

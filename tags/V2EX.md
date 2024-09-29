@@ -1,3 +1,6 @@
+## 20240929
+- [V2EX](https://www.v2ex.com/) | [00 后，被原生家庭关系所困扰，内耗着，过不去的结，求过来人给点建议。](https://www.v2ex.com/t/1076847)
+
 ## 20240928
 - [V2EX](https://www.v2ex.com/) | [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579)
 

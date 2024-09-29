@@ -1,3 +1,6 @@
+## 20240929
+- [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Release for September 2024 Brings Linux Kernel 6.11 and Optimizations](https://9to5linux.com/cachyos-iso-release-for-september-2024-brings-linux-kernel-6-11-and-optimizations)
+
 ## 20240927
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.2 Office Suite Is Now Available for Download with 85 Bug Fixes](https://9to5linux.com/libreoffice-24-8-2-office-suite-is-now-available-for-download-with-85-bug-fixes)
 
