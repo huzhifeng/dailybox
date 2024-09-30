@@ -1,3 +1,6 @@
+## 20240930
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.1 Slated for Release in December with Revamped Cinnamon Theme](https://9to5linux.com/linux-mint-22-1-slated-for-release-in-december-with-revamped-cinnamon-theme)
+
 ## 20240929
 - [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Release for September 2024 Brings Linux Kernel 6.11 and Optimizations](https://9to5linux.com/cachyos-iso-release-for-september-2024-brings-linux-kernel-6-11-and-optimizations)
 

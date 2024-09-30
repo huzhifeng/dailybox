@@ -1,3 +1,6 @@
+## 20240930
+- [Phoronix](https://www.phoronix.com/) | [DOOM Ported To Run Atop AMD ROCm + LLVM libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
+
 ## 20240929
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Features Are Super Exciting With Real-Time, Sched_ext, Intel Xe2 & Raspberry Pi 5](https://www.phoronix.com/review/linux-612-features)
 

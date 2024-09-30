@@ -1,3 +1,6 @@
+## 20240930
+- [BlogFinder](https://bf.zzxworld.com/) | [使用小尺寸大模型和 Dify 清洗数据：Qwen 2.5 7B](https://soulteary.com/2024/09/30/etl-using-small-size-llm-and-dify-qwen-2-5-7b.html?utm_source=blogfinder)
+
 ## 20240929
 - [BlogFinder](https://bf.zzxworld.com/) | [女子无“才”便是德？还是女子无 “财” 便 是 德](https://www.dengxiaokang.com/archives/1673.html?utm_source=blogfinder)
 

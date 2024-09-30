@@ -1,3 +1,7 @@
+## 20240930
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-29](https://www.daemonology.net/hn-daily/2024-09-29.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Bop Spotter](https://news.ycombinator.com/item?id=41694044)
+
 ## 20240929
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-09-28](https://www.daemonology.net/hn-daily/2024-09-28.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Too much efficiency makes everything worse (2022)](https://news.ycombinator.com/item?id=41684082)

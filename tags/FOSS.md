@@ -1,3 +1,6 @@
+## 20240930
+- [It's FOSS](https://itsfoss.com/) | [Exploring Llamafile: Mozilla's Attempt in the World of Open Source AI](https://itsfoss.com/llamafile/)
+
 ## 20240928
 - [It's FOSS](https://itsfoss.com/) | [How I Used Monitor Mode on TP-Link WN722N for Fun](https://itsfoss.com/monitor-mode-fun/)
 

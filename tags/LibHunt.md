@@ -1,3 +1,6 @@
+## 20240930
+- [LibHunt](https://www.libhunt.com/) | [ClickHouse](https://www.libhunt.com/r/ClickHouse)
+
 ## 20240929
 - [LibHunt](https://www.libhunt.com/) | [CodeBehind Framework](https://www.libhunt.com/r/Code_behind)
 
