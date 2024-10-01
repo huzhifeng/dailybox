@@ -1,3 +1,6 @@
+## 20241001
+- [It's FOSS](https://itsfoss.com/) | [Easily Check NVMe SSD Temperature in Linux](https://itsfoss.com/ssd-temperature-linux/)
+
 ## 20240930
 - [It's FOSS](https://itsfoss.com/) | [Exploring Llamafile: Mozilla's Attempt in the World of Open Source AI](https://itsfoss.com/llamafile/)
 

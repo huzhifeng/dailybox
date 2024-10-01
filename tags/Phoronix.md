@@ -1,3 +1,6 @@
+## 20241001
+- [Phoronix](https://www.phoronix.com/) | [Kernel Recipes 2024 Slides & Videos Posted](https://www.phoronix.com/news/Kernel-Recipes-2024-Slides)
+
 ## 20240930
 - [Phoronix](https://www.phoronix.com/) | [DOOM Ported To Run Atop AMD ROCm + LLVM libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 

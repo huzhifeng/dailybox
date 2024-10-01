@@ -1,3 +1,6 @@
+## 20241001
+- [9to5Linux](https://9to5linux.com/) | [Firefox 132 Enters Beta with Support for Blocking Third-Party Cookie Access](https://9to5linux.com/firefox-132-enters-beta-with-support-for-blocking-third-party-cookie-access)
+
 ## 20240930
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.1 Slated for Release in December with Revamped Cinnamon Theme](https://9to5linux.com/linux-mint-22-1-slated-for-release-in-december-with-revamped-cinnamon-theme)
 
