@@ -1,3 +1,7 @@
+## 20241002
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-02](https://decohack.com/producthunt-daily-2024-10-02/)
+- [Product Hunt](https://www.producthunt.com) | [Semblian 2.0](https://www.producthunt.com/posts/semblian-2-0)
+
 ## 20241001
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-01](https://decohack.com/producthunt-daily-2024-10-01/)
 - [Product Hunt](https://www.producthunt.com) | [Inbox Zero](https://www.producthunt.com/posts/inbox-zero-5)

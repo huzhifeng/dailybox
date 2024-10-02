@@ -1,3 +1,6 @@
+## 20241002
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P SNC3 vs. HEX Clustering Mode Performance](https://www.phoronix.com/review/xeon-6980p-snc3-hex)
+
 ## 20241001
 - [Phoronix](https://www.phoronix.com/) | [Kernel Recipes 2024 Slides & Videos Posted](https://www.phoronix.com/news/Kernel-Recipes-2024-Slides)
 

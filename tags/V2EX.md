@@ -1,3 +1,6 @@
+## 20241002
+- [V2EX](https://www.v2ex.com/) | [好亏啊，加仓美股后，完美踏空泼天富贵](https://www.v2ex.com/t/1077380)
+
 ## 20241001
 - [V2EX](https://www.v2ex.com/) | [想到一个让电车加电🔋像加油⛽️一样方便的 idea](https://www.v2ex.com/t/1077255)
 

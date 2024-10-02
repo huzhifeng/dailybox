@@ -1,3 +1,6 @@
+## 20241002
+- [BlogFinder](https://bf.zzxworld.com/) | [新校区要来了！但是...](https://blog.mcenahle.com/2024/10/02/171.html?utm_source=blogfinder)
+
 ## 20241001
 - [BlogFinder](https://bf.zzxworld.com/) | [马尔代夫 Maafushivaru 之旅 3 —— 完美的首日](https://ssshooter.com/outrigger-maldives-maafushivaru-3/?utm_source=blogfinder)
 
