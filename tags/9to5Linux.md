@@ -1,3 +1,6 @@
+## 20241003
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.50 Adds Support for Configuring Wi-Fi Channel Width in AP Mode](https://9to5linux.com/networkmanager-1-50-adds-support-for-configuring-wi-fi-channel-width-in-ap-mode)
+
 ## 20241001
 - [9to5Linux](https://9to5linux.com/) | [Firefox 132 Enters Beta with Support for Blocking Third-Party Cookie Access](https://9to5linux.com/firefox-132-enters-beta-with-support-for-blocking-third-party-cookie-access)
 

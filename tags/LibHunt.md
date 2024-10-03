@@ -1,3 +1,6 @@
+## 20241003
+- [LibHunt](https://www.libhunt.com/) | [zod](https://www.libhunt.com/r/zod)
+
 ## 20241001
 - [LibHunt](https://www.libhunt.com/) | [uBOL-home](https://www.libhunt.com/r/uBOL-home)
 

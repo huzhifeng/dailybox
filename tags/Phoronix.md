@@ -1,3 +1,6 @@
+## 20241003
+- [Phoronix](https://www.phoronix.com/) | [MRDIMM 8800MT/s vs. DDR5-6400 Memory Performance With Intel Xeon 6](https://www.phoronix.com/review/intel-xeon6-mrdimm-ddr5)
+
 ## 20241002
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P SNC3 vs. HEX Clustering Mode Performance](https://www.phoronix.com/review/xeon-6980p-snc3-hex)
 

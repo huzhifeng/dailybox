@@ -1,3 +1,6 @@
+## 20241003
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/)
+
 ## 20241001
 - [It's FOSS](https://itsfoss.com/) | [Easily Check NVMe SSD Temperature in Linux](https://itsfoss.com/ssd-temperature-linux/)
 

@@ -1,3 +1,6 @@
+## 20241003
+- [V2EX](https://www.v2ex.com/) | [轻易别更新 win11 24h2，又拉了一坨](https://www.v2ex.com/t/1077530)
+
 ## 20241002
 - [V2EX](https://www.v2ex.com/) | [好亏啊，加仓美股后，完美踏空泼天富贵](https://www.v2ex.com/t/1077380)
 

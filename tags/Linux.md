@@ -1,3 +1,7 @@
+## 20241003
+- [Phoronix](https://www.phoronix.com/) | [MRDIMM 8800MT/s vs. DDR5-6400 Memory Performance With Intel Xeon 6](https://www.phoronix.com/review/intel-xeon6-mrdimm-ddr5)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.50 Adds Support for Configuring Wi-Fi Channel Width in AP Mode](https://9to5linux.com/networkmanager-1-50-adds-support-for-configuring-wi-fi-channel-width-in-ap-mode)
+
 ## 20241002
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P SNC3 vs. HEX Clustering Mode Performance](https://www.phoronix.com/review/xeon-6980p-snc3-hex)
 

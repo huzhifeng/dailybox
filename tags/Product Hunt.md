@@ -1,3 +1,7 @@
+## 20241003
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-03](https://decohack.com/producthunt-daily-2024-10-03/)
+- [Product Hunt](https://www.producthunt.com) | [Lookie AI](https://www.producthunt.com/posts/lookie-ai)
+
 ## 20241002
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-02](https://decohack.com/producthunt-daily-2024-10-02/)
 - [Product Hunt](https://www.producthunt.com) | [Semblian 2.0](https://www.producthunt.com/posts/semblian-2-0)
