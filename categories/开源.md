@@ -1,3 +1,6 @@
+## 20241004
+- [It's FOSS](https://itsfoss.com/) | [Tips and Tweaks for Handling Message Threads in Thunderbird](https://itsfoss.com/thunderbird-threading/)
+
 ## 20241003
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/)
 

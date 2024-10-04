@@ -1,3 +1,6 @@
+## 20241004
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes](https://9to5linux.com/fwupd-2-0-open-source-linux-firmware-updater-released-with-major-changes)
+
 ## 20241003
 - [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.50 Adds Support for Configuring Wi-Fi Channel Width in AP Mode](https://9to5linux.com/networkmanager-1-50-adds-support-for-configuring-wi-fi-channel-width-in-ap-mode)
 

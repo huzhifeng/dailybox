@@ -1,3 +1,6 @@
+## 20241004
+- [V2EX](https://www.v2ex.com/) | [qBittorrent 更新了 下载之后发现真恶心](https://www.v2ex.com/t/1077632)
+
 ## 20241003
 - [V2EX](https://www.v2ex.com/) | [轻易别更新 win11 24h2，又拉了一坨](https://www.v2ex.com/t/1077530)
 

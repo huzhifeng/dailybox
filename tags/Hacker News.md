@@ -1,3 +1,7 @@
+## 20241004
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-03](https://www.daemonology.net/hn-daily/2024-10-03.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta Movie Gen](https://news.ycombinator.com/item?id=41740965)
+
 ## 20241003
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-02](https://www.daemonology.net/hn-daily/2024-10-02.html)
 

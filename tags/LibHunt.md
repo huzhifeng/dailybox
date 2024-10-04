@@ -1,3 +1,6 @@
+## 20241004
+- [LibHunt](https://www.libhunt.com/) | [Hexabot](https://www.libhunt.com/r/Hexabot)
+
 ## 20241003
 - [LibHunt](https://www.libhunt.com/) | [zod](https://www.libhunt.com/r/zod)
 

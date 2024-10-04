@@ -1,3 +1,6 @@
+## 20241004
+- [BlogFinder](https://bf.zzxworld.com/) | [PicImpact一个摄影师专用的摄影作品展示网站源码](https://luolt.cn/archives/2905.html?utm_source=blogfinder)
+
 ## 20241003
 - [BlogFinder](https://bf.zzxworld.com/) | [【读书记1504】冯翔《奔袭》](http://www.qncd.com/?p=10671&utm_source=blogfinder)
 

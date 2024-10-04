@@ -1,3 +1,6 @@
+## 20241004
+- [Phoronix](https://www.phoronix.com/) | [ZLUDA Takes On Third Life: Open-Source Multi-GPU CUDA Implementation Focused On AI](https://www.phoronix.com/news/ZLUDA-Third-Life)
+
 ## 20241003
 - [Phoronix](https://www.phoronix.com/) | [MRDIMM 8800MT/s vs. DDR5-6400 Memory Performance With Intel Xeon 6](https://www.phoronix.com/review/intel-xeon6-mrdimm-ddr5)
 

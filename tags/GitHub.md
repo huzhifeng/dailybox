@@ -1,3 +1,6 @@
+## 20241004
+- [GitHub Trending](https://github.com/trending?since=daily) | [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
+
 ## 20241003
 - [GitHub Trending](https://github.com/trending?since=daily) | [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix)
