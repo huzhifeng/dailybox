@@ -1,3 +1,6 @@
+## 20241005
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-05](https://decohack.com/producthunt-daily-2024-10-05/)
+
 ## 20241004
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-04](https://decohack.com/producthunt-daily-2024-10-04/)
 - [Product Hunt](https://www.producthunt.com) | [Graphy AI](https://www.producthunt.com/posts/graphy-ai)

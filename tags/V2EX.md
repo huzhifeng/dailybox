@@ -1,3 +1,6 @@
+## 20241005
+- [V2EX](https://www.v2ex.com/) | [女朋友出去玩不说实话](https://www.v2ex.com/t/1077769)
+
 ## 20241004
 - [V2EX](https://www.v2ex.com/) | [qBittorrent 更新了 下载之后发现真恶心](https://www.v2ex.com/t/1077632)
 

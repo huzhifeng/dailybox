@@ -1,3 +1,6 @@
+## 20241005
+- [BlogFinder](https://bf.zzxworld.com/) | [迁移服务器是一场修行](https://www.sunzhongwei.com/migrating-server-is-spiritual-practice?utm_source=blogfinder)
+
 ## 20241004
 - [BlogFinder](https://bf.zzxworld.com/) | [PicImpact一个摄影师专用的摄影作品展示网站源码](https://luolt.cn/archives/2905.html?utm_source=blogfinder)
 

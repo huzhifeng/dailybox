@@ -1,3 +1,6 @@
+## 20241005
+- [It's FOSS](https://itsfoss.com/) | [What is a Raspberry Pi HAT? What is it Used for?](https://itsfoss.com/raspberry-pi-hat/)
+
 ## 20241004
 - [It's FOSS](https://itsfoss.com/) | [Tips and Tweaks for Handling Message Threads in Thunderbird](https://itsfoss.com/thunderbird-threading/)
 

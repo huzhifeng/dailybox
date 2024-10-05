@@ -1,3 +1,6 @@
+## 20241005
+- [Phoronix](https://www.phoronix.com/) | [Fedora 41 Has Working Intel IPU6 Web Camera Support With Modern Laptops](https://www.phoronix.com/news/Fedora-41-Intel-IPU6-Webcam)
+
 ## 20241004
 - [Phoronix](https://www.phoronix.com/) | [ZLUDA Takes On Third Life: Open-Source Multi-GPU CUDA Implementation Focused On AI](https://www.phoronix.com/news/ZLUDA-Third-Life)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes](https://9to5linux.com/fwupd-2-0-open-source-linux-firmware-updater-released-with-major-changes)
