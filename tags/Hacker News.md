@@ -1,3 +1,6 @@
+## 20241006
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-05](https://www.daemonology.net/hn-daily/2024-10-05.html)
+
 ## 20241005
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-04](https://www.daemonology.net/hn-daily/2024-10-04.html)
 - [Hacker News](https://news.ycombinator.com/front) | [It's Time to Stop Taking Sam Altman at His Word](https://news.ycombinator.com/item?id=41749371)

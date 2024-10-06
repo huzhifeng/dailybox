@@ -1,3 +1,7 @@
+## 20241006
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-06](https://decohack.com/producthunt-daily-2024-10-06/)
+- [Product Hunt](https://www.producthunt.com) | [Open Agent Cloud (Antler F24)](https://www.producthunt.com/posts/open-agent-cloud-antler-f24)
+
 ## 20241005
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-05](https://decohack.com/producthunt-daily-2024-10-05/)
 

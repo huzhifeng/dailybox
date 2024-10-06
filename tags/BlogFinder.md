@@ -1,3 +1,6 @@
+## 20241006
+- [BlogFinder](https://bf.zzxworld.com/) | [LLM 大模型训练-推理显存占用分析](https://bruceyuan.com/post/llm-train-infer-memoery-usage-calculation.html?utm_source=blogfinder)
+
 ## 20241005
 - [BlogFinder](https://bf.zzxworld.com/) | [迁移服务器是一场修行](https://www.sunzhongwei.com/migrating-server-is-spiritual-practice?utm_source=blogfinder)
 

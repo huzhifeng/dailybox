@@ -1,3 +1,6 @@
+## 20241006
+- [LibHunt](https://www.libhunt.com/) | [brisa](https://www.libhunt.com/r/brisa)
+
 ## 20241004
 - [LibHunt](https://www.libhunt.com/) | [Hexabot](https://www.libhunt.com/r/Hexabot)
 

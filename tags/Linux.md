@@ -1,3 +1,6 @@
+## 20241006
+- [Phoronix](https://www.phoronix.com/) | [More Intel Diamond Rapids Enablement Landing For Linux 6.12](https://www.phoronix.com/news/Intel-Diamond-Rapids-More-6.12)
+
 ## 20241005
 - [Phoronix](https://www.phoronix.com/) | [Fedora 41 Has Working Intel IPU6 Web Camera Support With Modern Laptops](https://www.phoronix.com/news/Fedora-41-Intel-IPU6-Webcam)
 
