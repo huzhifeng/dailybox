@@ -1,3 +1,6 @@
+## 20241007
+- [It's FOSS](https://itsfoss.com/) | [Meet Open NotebookLM: An Open Source Alternative to Google's NotebookLM](https://itsfoss.com/open-notebooklm/)
+
 ## 20241005
 - [It's FOSS](https://itsfoss.com/) | [What is a Raspberry Pi HAT? What is it Used for?](https://itsfoss.com/raspberry-pi-hat/)
 

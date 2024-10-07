@@ -1,3 +1,6 @@
+## 20241007
+- [BlogFinder](https://bf.zzxworld.com/) | [【微博】：学校比监狱更甚](https://www.webersongao.com/microposts/4363.html?utm_source=blogfinder)
+
 ## 20241006
 - [BlogFinder](https://bf.zzxworld.com/) | [LLM 大模型训练-推理显存占用分析](https://bruceyuan.com/post/llm-train-infer-memoery-usage-calculation.html?utm_source=blogfinder)
 

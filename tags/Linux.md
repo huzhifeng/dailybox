@@ -1,3 +1,7 @@
+## 20241007
+- [Phoronix](https://www.phoronix.com/) | [Gentoo Linux To See Improved ARM64 Support Thanks To An Ampere Altra Max Server](https://www.phoronix.com/news/Gentoo-Linux-Better-ARM64)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 6th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-6th-2024)
+
 ## 20241006
 - [Phoronix](https://www.phoronix.com/) | [More Intel Diamond Rapids Enablement Landing For Linux 6.12](https://www.phoronix.com/news/Intel-Diamond-Rapids-More-6.12)
 

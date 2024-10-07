@@ -1,3 +1,6 @@
+## 20241007
+- [LibHunt](https://www.libhunt.com/) | [Openstreetmap](https://www.libhunt.com/r/openstreetmap-website)
+
 ## 20241006
 - [LibHunt](https://www.libhunt.com/) | [brisa](https://www.libhunt.com/r/brisa)
 

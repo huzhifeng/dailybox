@@ -1,3 +1,6 @@
+## 20241007
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 6th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-6th-2024)
+
 ## 20241004
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes](https://9to5linux.com/fwupd-2-0-open-source-linux-firmware-updater-released-with-major-changes)
 
