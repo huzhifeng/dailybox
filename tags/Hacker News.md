@@ -1,3 +1,7 @@
+## 20241008
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-07](https://www.daemonology.net/hn-daily/2024-10-07.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://news.ycombinator.com/item?id=41775463)
+
 ## 20241007
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-06](https://www.daemonology.net/hn-daily/2024-10-06.html)
 

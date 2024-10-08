@@ -1,3 +1,7 @@
+## 20241008
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P 1S Performance With DDR5-6400/MRDIMM-8800](https://www.phoronix.com/review/intel-xeon-6980p)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.0 Launches with Self-Install and Full Disk Encryption Images](https://9to5linux.com/opensuse-leap-micro-6-0-launches-with-self-install-and-full-disk-encryption-images)
+
 ## 20241007
 - [Phoronix](https://www.phoronix.com/) | [Gentoo Linux To See Improved ARM64 Support Thanks To An Ampere Altra Max Server](https://www.phoronix.com/news/Gentoo-Linux-Better-ARM64)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 6th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-6th-2024)

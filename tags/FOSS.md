@@ -1,3 +1,6 @@
+## 20241008
+- [It's FOSS](https://itsfoss.com/) | [Create Fun Word Cloud Images Easily in Linux Terminal](https://itsfoss.com/wordcloud/)
+
 ## 20241007
 - [It's FOSS](https://itsfoss.com/) | [Meet Open NotebookLM: An Open Source Alternative to Google's NotebookLM](https://itsfoss.com/open-notebooklm/)
 

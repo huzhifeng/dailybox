@@ -1,3 +1,6 @@
+## 20241008
+- [V2EX](https://www.v2ex.com/) | [2024 年了，回老家务农真能赚到钱吗](https://www.v2ex.com/t/1078260)
+
 ## 20241007
 - [V2EX](https://www.v2ex.com/) | [[求助]如何劝说家里老人不要相信加密货币投资项目](https://www.v2ex.com/t/1078052)
 

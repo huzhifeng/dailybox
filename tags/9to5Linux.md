@@ -1,3 +1,6 @@
+## 20241008
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.0 Launches with Self-Install and Full Disk Encryption Images](https://9to5linux.com/opensuse-leap-micro-6-0-launches-with-self-install-and-full-disk-encryption-images)
+
 ## 20241007
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 6th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-6th-2024)
 

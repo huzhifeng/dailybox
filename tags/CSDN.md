@@ -1,3 +1,6 @@
+## 20241008
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果或将放弃一年一更新模式；英伟达市值超越微软，成为全球第二；纯血鸿蒙官宣 10 月 8 日开启公测 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142753585)
+
 ## 20240926
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [吉林一企业禁止员工带苹果设备，违者开除；OpenAI CTO 宣布离职；华为 Mate 70 系列被曝整机已量产 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142548981)
 

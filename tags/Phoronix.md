@@ -1,3 +1,6 @@
+## 20241008
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P 1S Performance With DDR5-6400/MRDIMM-8800](https://www.phoronix.com/review/intel-xeon-6980p)
+
 ## 20241007
 - [Phoronix](https://www.phoronix.com/) | [Gentoo Linux To See Improved ARM64 Support Thanks To An Ampere Altra Max Server](https://www.phoronix.com/news/Gentoo-Linux-Better-ARM64)
 

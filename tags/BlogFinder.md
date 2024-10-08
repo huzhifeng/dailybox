@@ -1,3 +1,6 @@
+## 20241008
+- [BlogFinder](https://bf.zzxworld.com/) | [说说：#1728379093](https://www.mmbkz.cn/f8297416.html?utm_source=blogfinder)
+
 ## 20241007
 - [BlogFinder](https://bf.zzxworld.com/) | [【微博】：学校比监狱更甚](https://www.webersongao.com/microposts/4363.html?utm_source=blogfinder)
 
