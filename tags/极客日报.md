@@ -1,3 +1,6 @@
+## 20241009
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [微信员工：原生鸿蒙是新技术框架，很多问题要对着文档边做边学；百度宣布新一轮干部轮岗；2024年诺贝尔物理学奖揭晓 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142778544)
+
 ## 20241008
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [苹果或将放弃一年一更新模式；英伟达市值超越微软，成为全球第二；纯血鸿蒙官宣 10 月 8 日开启公测 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142753585)
 

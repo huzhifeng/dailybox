@@ -1,3 +1,6 @@
+## 20241009
+- [It's FOSS](https://itsfoss.com/) | [What Can You do With the Raspberry Pi's Newly Launched AI Camera?](https://itsfoss.com/raspberry-pi-ai-camera-projects/)
+
 ## 20241008
 - [It's FOSS](https://itsfoss.com/) | [Create Fun Word Cloud Images Easily in Linux Terminal](https://itsfoss.com/wordcloud/)
 

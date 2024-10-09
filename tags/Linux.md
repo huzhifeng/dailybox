@@ -1,3 +1,6 @@
+## 20241009
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux)
+
 ## 20241008
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P 1S Performance With DDR5-6400/MRDIMM-8800](https://www.phoronix.com/review/intel-xeon-6980p)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.0 Launches with Self-Install and Full Disk Encryption Images](https://9to5linux.com/opensuse-leap-micro-6-0-launches-with-self-install-and-full-disk-encryption-images)

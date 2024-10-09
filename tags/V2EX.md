@@ -1,3 +1,6 @@
+## 20241009
+- [V2EX](https://www.v2ex.com/) | [中年人节前请了一天假去网吧玩了一天，复盘下](https://www.v2ex.com/t/1078564)
+
 ## 20241008
 - [V2EX](https://www.v2ex.com/) | [2024 年了，回老家务农真能赚到钱吗](https://www.v2ex.com/t/1078260)
 

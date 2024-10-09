@@ -1,3 +1,6 @@
+## 20241009
+- [BlogFinder](https://bf.zzxworld.com/) | [Google 日历的国内替代品 WPS 日历](https://www.sunzhongwei.com/google-calendar-alternative-wps?utm_source=blogfinder)
+
 ## 20241008
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1728379093](https://www.mmbkz.cn/f8297416.html?utm_source=blogfinder)
 
