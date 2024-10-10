@@ -1,3 +1,7 @@
+## 20241010
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-09](https://www.daemonology.net/hn-daily/2024-10-09.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Why we're helping more wikis move away from Fandom](https://news.ycombinator.com/item?id=41797719)
+
 ## 20241009
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-08](https://www.daemonology.net/hn-daily/2024-10-08.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Chemistry Nobel: Computational protein design and protein structure prediction](https://news.ycombinator.com/item?id=41786101)

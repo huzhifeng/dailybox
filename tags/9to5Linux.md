@@ -1,3 +1,6 @@
+## 20241010
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 16 Gen6 Linux Laptop Unveiled as High-End Desktop Replacement](https://9to5linux.com/tuxedo-stellaris-16-gen6-linux-laptop-unveiled-as-high-end-desktop-replacement)
+
 ## 20241008
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.0 Launches with Self-Install and Full Disk Encryption Images](https://9to5linux.com/opensuse-leap-micro-6-0-launches-with-self-install-and-full-disk-encryption-images)
 

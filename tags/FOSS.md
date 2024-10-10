@@ -1,3 +1,6 @@
+## 20241010
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/)
+
 ## 20241009
 - [It's FOSS](https://itsfoss.com/) | [What Can You do With the Raspberry Pi's Newly Launched AI Camera?](https://itsfoss.com/raspberry-pi-ai-camera-projects/)
 

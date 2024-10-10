@@ -1,3 +1,7 @@
+## 20241010
+- [Phoronix](https://www.phoronix.com/) | [Intel Announces Core Ultra 200S Arrow Lake CPUs](https://www.phoronix.com/review/intel-core-ultra-200-arrow-lake)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 16 Gen6 Linux Laptop Unveiled as High-End Desktop Replacement](https://9to5linux.com/tuxedo-stellaris-16-gen6-linux-laptop-unveiled-as-high-end-desktop-replacement)
+
 ## 20241009
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux)
 

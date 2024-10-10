@@ -1,3 +1,6 @@
+## 20241010
+- [LibHunt](https://www.libhunt.com/) | [opentelemetry-collector](https://www.libhunt.com/r/opentelemetry-collector)
+
 ## 20241008
 - [LibHunt](https://www.libhunt.com/) | [Health_server](https://www.libhunt.com/r/Health_server)
 
