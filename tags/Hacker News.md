@@ -1,3 +1,6 @@
+## 20241011
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-10](https://www.daemonology.net/hn-daily/2024-10-10.html)
+
 ## 20241010
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-09](https://www.daemonology.net/hn-daily/2024-10-09.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Why we're helping more wikis move away from Fandom](https://news.ycombinator.com/item?id=41797719)

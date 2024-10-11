@@ -1,3 +1,6 @@
+## 20241011
+- [BlogFinder](https://bf.zzxworld.com/) | [VirtualBox 新 logo 丑爆了](https://dujun.io/the-new-virtualbox-logo-is-not-to-my-taste.html?utm_source=blogfinder)
+
 ## 20241010
 - [BlogFinder](https://bf.zzxworld.com/) | [天山托木尔大峡谷](https://ihaihe.cn/2588.htm?utm_source=blogfinder)
 

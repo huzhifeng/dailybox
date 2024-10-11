@@ -1,3 +1,6 @@
+## 20241011
+- [It's FOSS](https://itsfoss.com/) | [15 VS Code Tips and Tricks to Make Your Coding Experience Better](https://itsfoss.com/vs-code-tips/)
+
 ## 20241010
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/)
 

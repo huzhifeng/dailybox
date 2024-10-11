@@ -1,3 +1,6 @@
+## 20241011
+- [LibHunt](https://www.libhunt.com/) | [indie-wiki-buddy](https://www.libhunt.com/r/indie-wiki-buddy)
+
 ## 20241010
 - [LibHunt](https://www.libhunt.com/) | [opentelemetry-collector](https://www.libhunt.com/r/opentelemetry-collector)
 

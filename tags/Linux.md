@@ -1,3 +1,6 @@
+## 20241011
+- [Phoronix](https://www.phoronix.com/) | [AVX-512 Performance With 256-bit vs. 512-bit Data Path For AMD EPYC 9005 CPUs](https://www.phoronix.com/review/amd-epyc-9755-avx512)
+
 ## 20241010
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces Core Ultra 200S Arrow Lake CPUs](https://www.phoronix.com/review/intel-core-ultra-200-arrow-lake)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 16 Gen6 Linux Laptop Unveiled as High-End Desktop Replacement](https://9to5linux.com/tuxedo-stellaris-16-gen6-linux-laptop-unveiled-as-high-end-desktop-replacement)
