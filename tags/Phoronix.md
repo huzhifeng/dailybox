@@ -1,3 +1,6 @@
+## 20241012
+- [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.38 Brings System Bell, FIFO & Commit Timing Protocols](https://www.phoronix.com/news/Wayland-Protocols-1.38)
+
 ## 20241011
 - [Phoronix](https://www.phoronix.com/) | [AVX-512 Performance With 256-bit vs. 512-bit Data Path For AMD EPYC 9005 CPUs](https://www.phoronix.com/review/amd-epyc-9755-avx512)
 

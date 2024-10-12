@@ -1,3 +1,6 @@
+## 20241012
+- [9to5Linux](https://9to5linux.com/) | [KDE neon 6.2 Is Out with KDE Plasma 6.2 Desktop, Based on Ubuntu 24.04 LTS](https://9to5linux.com/kde-neon-6-2-is-out-with-kde-plasma-6-2-desktop-based-on-ubuntu-24-04-lts)
+
 ## 20241010
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Stellaris 16 Gen6 Linux Laptop Unveiled as High-End Desktop Replacement](https://9to5linux.com/tuxedo-stellaris-16-gen6-linux-laptop-unveiled-as-high-end-desktop-replacement)
 

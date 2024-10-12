@@ -1,3 +1,6 @@
+## 20241012
+- [BlogFinder](https://bf.zzxworld.com/) | [量化人生2](https://bestcoder.cn/%e9%87%8f%e5%8c%96%e4%ba%ba%e7%94%9f2?utm_source=blogfinder)
+
 ## 20241011
 - [BlogFinder](https://bf.zzxworld.com/) | [VirtualBox 新 logo 丑爆了](https://dujun.io/the-new-virtualbox-logo-is-not-to-my-taste.html?utm_source=blogfinder)
 

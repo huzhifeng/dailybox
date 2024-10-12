@@ -1,3 +1,6 @@
+## 20241012
+- [V2EX](https://www.v2ex.com/) | [遇到喜欢的一定要大胆上去要微信啊，后悔中，有啥方法再捞到人？](https://www.v2ex.com/t/1079634)
+
 ## 20241011
 - [V2EX](https://www.v2ex.com/) | [对影视飓风视频下架视频有感](https://www.v2ex.com/t/1079238)
 

@@ -1,3 +1,6 @@
+## 20241012
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [海康威视被曝裁员千人、N+2赔偿，官方回应：是经营策略调整；黄仁勋自曝每天使用ChatGPT | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142871036)
+
 ## 20241010
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [美国考虑“拆分谷歌”；2024年诺贝尔化学奖也颁给了AI；Win11更新Bug致8.63GB缓存不可删除 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142813748)
 

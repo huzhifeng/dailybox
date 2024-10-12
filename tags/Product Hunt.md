@@ -1,3 +1,7 @@
+## 20241012
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-12](https://decohack.com/producthunt-daily-2024-10-12/)
+- [Product Hunt](https://www.producthunt.com) | [Ente Auth](https://www.producthunt.com/posts/ente-auth)
+
 ## 20241011
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-11](https://decohack.com/producthunt-daily-2024-10-11/)
 - [Product Hunt](https://www.producthunt.com) | [Octomind QA Agent](https://www.producthunt.com/posts/octomind-qa-agent)
