@@ -1,3 +1,7 @@
+## 20241013
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-12](https://www.daemonology.net/hn-daily/2024-10-12.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Starship Flight 5 [video]](https://news.ycombinator.com/item?id=41827362)
+
 ## 20241012
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-11](https://www.daemonology.net/hn-daily/2024-10-11.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://news.ycombinator.com/item?id=41818459)

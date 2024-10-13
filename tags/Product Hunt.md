@@ -1,3 +1,7 @@
+## 20241013
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-13](https://decohack.com/producthunt-daily-2024-10-13/)
+- [Product Hunt](https://www.producthunt.com) | [MoneyVision](https://www.producthunt.com/posts/moneyvision)
+
 ## 20241012
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-12](https://decohack.com/producthunt-daily-2024-10-12/)
 - [Product Hunt](https://www.producthunt.com) | [Ente Auth](https://www.producthunt.com/posts/ente-auth)

@@ -1,3 +1,6 @@
+## 20241013
+- [It's FOSS](https://itsfoss.com/) | [10 Things You Can do on Linux but not on Windows](https://itsfoss.com/linux-rules-windows/)
+
 ## 20241011
 - [It's FOSS](https://itsfoss.com/) | [15 VS Code Tips and Tricks to Make Your Coding Experience Better](https://itsfoss.com/vs-code-tips/)
 

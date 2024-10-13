@@ -1,3 +1,6 @@
+## 20241013
+- [BlogFinder](https://bf.zzxworld.com/) | [不一劳永逸的临时docker镜像拉取解决办法](https://nicksxs.me/2024/10/13/%E4%B8%8D%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E4%B8%B4%E6%97%B6docker%E9%95%9C%E5%83%8F%E6%8B%89%E5%8F%96%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/?utm_source=blogfinder)
+
 ## 20241012
 - [BlogFinder](https://bf.zzxworld.com/) | [量化人生2](https://bestcoder.cn/%e9%87%8f%e5%8c%96%e4%ba%ba%e7%94%9f2?utm_source=blogfinder)
 

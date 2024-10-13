@@ -1,3 +1,6 @@
+## 20241013
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Some Old & No Longer Maintained Staging Drivers](https://www.phoronix.com/news/Linux-6.13-Dropping-Old-Drivers)
+
 ## 20241012
 - [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.38 Brings System Bell, FIFO & Commit Timing Protocols](https://www.phoronix.com/news/Wayland-Protocols-1.38)
 - [9to5Linux](https://9to5linux.com/) | [KDE neon 6.2 Is Out with KDE Plasma 6.2 Desktop, Based on Ubuntu 24.04 LTS](https://9to5linux.com/kde-neon-6-2-is-out-with-kde-plasma-6-2-desktop-based-on-ubuntu-24-04-lts)

@@ -1,3 +1,6 @@
+## 20241013
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Some Old & No Longer Maintained Staging Drivers](https://www.phoronix.com/news/Linux-6.13-Dropping-Old-Drivers)
+
 ## 20241012
 - [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.38 Brings System Bell, FIFO & Commit Timing Protocols](https://www.phoronix.com/news/Wayland-Protocols-1.38)
 

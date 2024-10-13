@@ -1,3 +1,6 @@
+## 20241013
+- [V2EX](https://www.v2ex.com/) | [哪里可以买到 Windows 11 LTSC？](https://www.v2ex.com/t/1079824)
+
 ## 20241012
 - [V2EX](https://www.v2ex.com/) | [遇到喜欢的一定要大胆上去要微信啊，后悔中，有啥方法再捞到人？](https://www.v2ex.com/t/1079634)
 
