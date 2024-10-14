@@ -1,3 +1,7 @@
+## 20241014
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9755 DDR5-4800 vs. DDR5-6000 Memory Performance](https://www.phoronix.com/review/amd-epyc-9755-ddr5)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 13th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-13th-2024)
+
 ## 20241013
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Some Old & No Longer Maintained Staging Drivers](https://www.phoronix.com/news/Linux-6.13-Dropping-Old-Drivers)
 

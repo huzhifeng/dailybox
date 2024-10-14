@@ -1,3 +1,6 @@
+## 20241014
+- [V2EX](https://www.v2ex.com/) | [山东农村人，彩票中了二百万，想离开山东，去哪里好？](https://www.v2ex.com/t/1080154)
+
 ## 20241013
 - [V2EX](https://www.v2ex.com/) | [哪里可以买到 Windows 11 LTSC？](https://www.v2ex.com/t/1079824)
 

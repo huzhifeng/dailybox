@@ -1,3 +1,6 @@
+## 20241014
+- [LibHunt](https://www.libhunt.com/) | [caniuse](https://www.libhunt.com/r/caniuse)
+
 ## 20241011
 - [LibHunt](https://www.libhunt.com/) | [indie-wiki-buddy](https://www.libhunt.com/r/indie-wiki-buddy)
 

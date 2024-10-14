@@ -1,3 +1,7 @@
+## 20241014
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-14](https://decohack.com/producthunt-daily-2024-10-14/)
+- [Product Hunt](https://www.producthunt.com) | [Asora](https://www.producthunt.com/posts/asora-3)
+
 ## 20241013
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-13](https://decohack.com/producthunt-daily-2024-10-13/)
 - [Product Hunt](https://www.producthunt.com) | [MoneyVision](https://www.producthunt.com/posts/moneyvision)

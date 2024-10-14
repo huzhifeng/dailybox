@@ -1,3 +1,6 @@
+## 20241014
+- [It's FOSS](https://itsfoss.com/) | [I Ran 9 Popular LLMs on Raspberry Pi 5; Here's What I Found](https://itsfoss.com/llms-for-raspberry-pi/)
+
 ## 20241013
 - [It's FOSS](https://itsfoss.com/) | [10 Things You Can do on Linux but not on Windows](https://itsfoss.com/linux-rules-windows/)
 

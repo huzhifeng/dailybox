@@ -1,3 +1,6 @@
+## 20241014
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [鸿蒙开源四年累计产出1.1亿行代码；苹果被指非法限制员工使用社交媒体；SpaceX“星舰”实现史上首次“筷子”夹火箭| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142909682)
+
 ## 20241012
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [海康威视被曝裁员千人、N+2赔偿，官方回应：是经营策略调整；黄仁勋自曝每天使用ChatGPT | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142871036)
 
