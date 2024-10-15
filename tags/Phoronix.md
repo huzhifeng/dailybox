@@ -1,3 +1,6 @@
+## 20241015
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The AMD AOCC 5.0 Compiler On 5th Gen EPYC](https://www.phoronix.com/review/amd-aocc-5)
+
 ## 20241014
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9755 DDR5-4800 vs. DDR5-6000 Memory Performance](https://www.phoronix.com/review/amd-epyc-9755-ddr5)
 

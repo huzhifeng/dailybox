@@ -1,3 +1,7 @@
+## 20241015
+- [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The AMD AOCC 5.0 Compiler On 5th Gen EPYC](https://www.phoronix.com/review/amd-aocc-5)
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes](https://9to5linux.com/virtualbox-7-1-4-adds-initial-support-for-linux-kernel-6-12-and-other-linux-changes)
+
 ## 20241014
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9755 DDR5-4800 vs. DDR5-6000 Memory Performance](https://www.phoronix.com/review/amd-epyc-9755-ddr5)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 13th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-13th-2024)

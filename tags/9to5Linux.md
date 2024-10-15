@@ -1,3 +1,6 @@
+## 20241015
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes](https://9to5linux.com/virtualbox-7-1-4-adds-initial-support-for-linux-kernel-6-12-and-other-linux-changes)
+
 ## 20241014
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 13th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-13th-2024)
 

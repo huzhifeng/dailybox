@@ -1,3 +1,7 @@
+## 20241015
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-14](https://www.daemonology.net/hn-daily/2024-10-14.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Web Browser Engineering](https://news.ycombinator.com/item?id=41846780)
+
 ## 20241014
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-13](https://www.daemonology.net/hn-daily/2024-10-13.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Huly – Open-source project management platform](https://news.ycombinator.com/item?id=41833902)

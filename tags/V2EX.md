@@ -1,3 +1,6 @@
+## 20241015
+- [V2EX](https://www.v2ex.com/) | [关于彩礼，坐标江西赣州](https://www.v2ex.com/t/1080514)
+
 ## 20241014
 - [V2EX](https://www.v2ex.com/) | [山东农村人，彩票中了二百万，想离开山东，去哪里好？](https://www.v2ex.com/t/1080154)
 

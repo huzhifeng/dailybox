@@ -1,3 +1,6 @@
+## 20241015
+- [BlogFinder](https://bf.zzxworld.com/) | [人不会死-矢萩直树](https://vrast.cn/posts/64774/?utm_source=blogfinder)
+
 ## 20241014
 - [BlogFinder](https://bf.zzxworld.com/) | [说说：#1728898815](https://www.yssk.cn/riji/bacb2354.html?utm_source=blogfinder)
 
