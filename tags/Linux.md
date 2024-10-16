@@ -1,3 +1,6 @@
+## 20241016
+- [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake vs. AMD Strix Point Platform Profile Performance Comparison](https://www.phoronix.com/review/lunar-lake-profiles)
+
 ## 20241015
 - [Phoronix](https://www.phoronix.com/) | [Initial Benchmarks Of The AMD AOCC 5.0 Compiler On 5th Gen EPYC](https://www.phoronix.com/review/amd-aocc-5)
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes](https://9to5linux.com/virtualbox-7-1-4-adds-initial-support-for-linux-kernel-6-12-and-other-linux-changes)

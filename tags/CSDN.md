@@ -1,3 +1,6 @@
+## 20241016
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [iPad mini 7突然发布，起售价3999元；小米Vela系统代码即将开源；苹果三折叠、四折叠手机专利曝光 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142978678)
+
 ## 20241014
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [鸿蒙开源四年累计产出1.1亿行代码；苹果被指非法限制员工使用社交媒体；SpaceX“星舰”实现史上首次“筷子”夹火箭| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142909682)
 

@@ -1,3 +1,6 @@
+## 20241016
+- [V2EX](https://www.v2ex.com/) | [闻所未闻的倒计时思路。。。。。](https://www.v2ex.com/t/1080694)
+
 ## 20241015
 - [V2EX](https://www.v2ex.com/) | [关于彩礼，坐标江西赣州](https://www.v2ex.com/t/1080514)
 

@@ -1,3 +1,6 @@
+## 20241016
+- [BlogFinder](https://bf.zzxworld.com/) | [人生系统的驱动需要增量知识](https://joojen.com/archives/7869.html?utm_source=blogfinder)
+
 ## 20241015
 - [BlogFinder](https://bf.zzxworld.com/) | [人不会死-矢萩直树](https://vrast.cn/posts/64774/?utm_source=blogfinder)
 

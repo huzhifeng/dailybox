@@ -1,3 +1,6 @@
+## 20241016
+- [It's FOSS](https://itsfoss.com/) | [Active Cooling vs Passive Cooling: What's the difference?](https://itsfoss.com/active-passive-cooling/)
+
 ## 20241014
 - [It's FOSS](https://itsfoss.com/) | [I Ran 9 Popular LLMs on Raspberry Pi 5; Here's What I Found](https://itsfoss.com/llms-for-raspberry-pi/)
 

@@ -1,3 +1,6 @@
+## 20241016
+- [LibHunt](https://www.libhunt.com/) | [Blackjack-Strategy-Simulator](https://www.libhunt.com/r/Blackjack-Strategy-Simulator)
+
 ## 20241014
 - [LibHunt](https://www.libhunt.com/) | [caniuse](https://www.libhunt.com/r/caniuse)
 
