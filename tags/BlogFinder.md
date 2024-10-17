@@ -1,3 +1,6 @@
+## 20241017
+- [BlogFinder](https://bf.zzxworld.com/) | [公共DOH收集](https://www.codeqihan.com/post/DOH-shou-ji/?utm_source=blogfinder)
+
 ## 20241016
 - [BlogFinder](https://bf.zzxworld.com/) | [人生系统的驱动需要增量知识](https://joojen.com/archives/7869.html?utm_source=blogfinder)
 

@@ -1,3 +1,7 @@
+## 20241017
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-16](https://www.daemonology.net/hn-daily/2024-10-16.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Escaping the Chrome Sandbox Through DevTools](https://news.ycombinator.com/item?id=41866802)
+
 ## 20241016
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-15](https://www.daemonology.net/hn-daily/2024-10-15.html)
 - [Hacker News](https://news.ycombinator.com/front) | [FTC Announces "Click-to-Cancel" Rule Making It Easier to Cancel Subscriptions](https://news.ycombinator.com/item?id=41858665)

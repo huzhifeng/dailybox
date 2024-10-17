@@ -1,3 +1,6 @@
+## 20241017
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.42: Ubuntu 24.10, Redox OS Review, LLMs on Pi, KDE Plasma 6.2, Linux Terminal on Android and More](https://itsfoss.com/newsletter/foss-weekly-24-42/)
+
 ## 20241016
 - [It's FOSS](https://itsfoss.com/) | [Active Cooling vs Passive Cooling: What's the difference?](https://itsfoss.com/active-passive-cooling/)
 

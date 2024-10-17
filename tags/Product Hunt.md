@@ -1,3 +1,7 @@
+## 20241017
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-17](https://decohack.com/producthunt-daily-2024-10-17/)
+- [Product Hunt](https://www.producthunt.com) | [Kick](https://www.producthunt.com/posts/kick-3)
+
 ## 20241016
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-16](https://decohack.com/producthunt-daily-2024-10-16/)
 - [Product Hunt](https://www.producthunt.com) | [DataMonkey](https://www.producthunt.com/posts/datamonkey)

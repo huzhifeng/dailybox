@@ -1,3 +1,6 @@
+## 20241017
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Engineer Nikita Popov Now The Lead Maintainer For LLVM](https://www.phoronix.com/news/LLVM-Lead-Maintainer-Popov)
+
 ## 20241016
 - [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake vs. AMD Strix Point Platform Profile Performance Comparison](https://www.phoronix.com/review/lunar-lake-profiles)
 

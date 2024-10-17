@@ -1,3 +1,6 @@
+## 20241017
+- [V2EX](https://www.v2ex.com/) | [有 V 友喜欢吃软柿子的不？](https://www.v2ex.com/t/1081085)
+
 ## 20241016
 - [V2EX](https://www.v2ex.com/) | [闻所未闻的倒计时思路。。。。。](https://www.v2ex.com/t/1080694)
 

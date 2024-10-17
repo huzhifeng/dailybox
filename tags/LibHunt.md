@@ -1,3 +1,6 @@
+## 20241017
+- [LibHunt](https://www.libhunt.com/) | [openvmm](https://www.libhunt.com/r/openvmm)
+
 ## 20241016
 - [LibHunt](https://www.libhunt.com/) | [Blackjack-Strategy-Simulator](https://www.libhunt.com/r/Blackjack-Strategy-Simulator)
 
