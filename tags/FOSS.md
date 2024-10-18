@@ -1,3 +1,6 @@
+## 20241018
+- [It's FOSS](https://itsfoss.com/) | [Seamlessly Connect Your Android Phone and Linux Using GSConnect](https://itsfoss.com/gsconnect/)
+
 ## 20241017
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.42: Ubuntu 24.10, Redox OS Review, LLMs on Pi, KDE Plasma 6.2, Linux Terminal on Android and More](https://itsfoss.com/newsletter/foss-weekly-24-42/)
 

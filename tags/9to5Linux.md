@@ -1,3 +1,6 @@
+## 20241018
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware](https://9to5linux.com/calibre-7-20-adds-new-pdf-input-engine-updates-tolino-shine-5-firmware)
+
 ## 20241015
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes](https://9to5linux.com/virtualbox-7-1-4-adds-initial-support-for-linux-kernel-6-12-and-other-linux-changes)
 

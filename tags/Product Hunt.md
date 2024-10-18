@@ -1,3 +1,7 @@
+## 20241018
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-18](https://decohack.com/producthunt-daily-2024-10-18/)
+- [Product Hunt](https://www.producthunt.com) | [CleanMyMac](https://www.producthunt.com/posts/cleanmymac-9128a446-f0cb-4ad0-bed1-90ccceedbb2a)
+
 ## 20241017
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-17](https://decohack.com/producthunt-daily-2024-10-17/)
 - [Product Hunt](https://www.producthunt.com) | [Kick](https://www.producthunt.com/posts/kick-3)

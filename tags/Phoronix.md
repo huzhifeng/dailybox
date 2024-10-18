@@ -1,3 +1,6 @@
+## 20241018
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Poised To Land Prep Patches Working Toward Proxy Execution](https://www.phoronix.com/news/Linux-6.13-Prep-For-Proxy-Exec)
+
 ## 20241017
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Engineer Nikita Popov Now The Lead Maintainer For LLVM](https://www.phoronix.com/news/LLVM-Lead-Maintainer-Popov)
 

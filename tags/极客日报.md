@@ -1,3 +1,6 @@
+## 20241018
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [PC巨头惠普被曝裁员，罕见殃及研发、高层主管；苹果App Store深夜全球故障；华为脑机接口芯片新专利曝光 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143051547)
+
 ## 20241016
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [iPad mini 7突然发布，起售价3999元；小米Vela系统代码即将开源；苹果三折叠、四折叠手机专利曝光 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142978678)
 

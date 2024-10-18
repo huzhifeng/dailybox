@@ -1,3 +1,6 @@
+## 20241018
+- [V2EX](https://www.v2ex.com/) | [突然觉得自己一把年纪了，还那么天真](https://www.v2ex.com/t/1081477)
+
 ## 20241017
 - [V2EX](https://www.v2ex.com/) | [有 V 友喜欢吃软柿子的不？](https://www.v2ex.com/t/1081085)
 

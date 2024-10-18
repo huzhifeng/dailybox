@@ -1,3 +1,6 @@
+## 20241018
+- [BlogFinder](https://bf.zzxworld.com/) | [园艺笔记 07：VPD](https://gshuo.space/%e5%9b%ad%e8%89%ba%e7%ac%94%e8%ae%b0-07%ef%bc%9avpd/?utm_source=blogfinder)
+
 ## 20241017
 - [BlogFinder](https://bf.zzxworld.com/) | [公共DOH收集](https://www.codeqihan.com/post/DOH-shou-ji/?utm_source=blogfinder)
 
