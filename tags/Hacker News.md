@@ -1,3 +1,6 @@
+## 20241019
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-18](https://www.daemonology.net/hn-daily/2024-10-18.html)
+
 ## 20241018
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-17](https://www.daemonology.net/hn-daily/2024-10-17.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Secret 3D Scans in the French Supreme Court](https://news.ycombinator.com/item?id=41877513)

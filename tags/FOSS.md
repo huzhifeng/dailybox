@@ -1,3 +1,6 @@
+## 20241019
+- [It's FOSS](https://itsfoss.com/) | [Pi-Apps: The Unofficial but Definitely Better App Store for Raspberry Pi](https://itsfoss.com/pi-apps-store/)
+
 ## 20241018
 - [It's FOSS](https://itsfoss.com/) | [Seamlessly Connect Your Android Phone and Linux Using GSConnect](https://itsfoss.com/gsconnect/)
 

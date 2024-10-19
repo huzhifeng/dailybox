@@ -1,3 +1,6 @@
+## 20241019
+- [BlogFinder](https://bf.zzxworld.com/) | [李懋和：性别歧视的佼佼者，是如何博笑于世的？](https://www.dao.js.cn/new/2024101911473.shtml?utm_source=blogfinder)
+
 ## 20241018
 - [BlogFinder](https://bf.zzxworld.com/) | [园艺笔记 07：VPD](https://gshuo.space/%e5%9b%ad%e8%89%ba%e7%ac%94%e8%ae%b0-07%ef%bc%9avpd/?utm_source=blogfinder)
 

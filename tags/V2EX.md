@@ -1,3 +1,6 @@
+## 20241019
+- [V2EX](https://www.v2ex.com/) | [谁能举个例子， Win11 究竟哪儿不好用了？](https://www.v2ex.com/t/1081793)
+
 ## 20241018
 - [V2EX](https://www.v2ex.com/) | [突然觉得自己一把年纪了，还那么天真](https://www.v2ex.com/t/1081477)
 

@@ -1,3 +1,6 @@
+## 20241019
+- [Phoronix](https://www.phoronix.com/) | [GNOME Making Progress On Full-Featured USB Portal For Flatpaks](https://www.phoronix.com/news/GNOME-USB-Flatpaks-Portal)
+
 ## 20241018
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Poised To Land Prep Patches Working Toward Proxy Execution](https://www.phoronix.com/news/Linux-6.13-Prep-For-Proxy-Exec)
 

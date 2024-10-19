@@ -1,3 +1,6 @@
+## 20241019
+- [Phoronix](https://www.phoronix.com/) | [GNOME Making Progress On Full-Featured USB Portal For Flatpaks](https://www.phoronix.com/news/GNOME-USB-Flatpaks-Portal)
+
 ## 20241018
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Poised To Land Prep Patches Working Toward Proxy Execution](https://www.phoronix.com/news/Linux-6.13-Prep-For-Proxy-Exec)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware](https://9to5linux.com/calibre-7-20-adds-new-pdf-input-engine-updates-tolino-shine-5-firmware)
