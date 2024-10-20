@@ -1,3 +1,6 @@
+## 20241020
+- [BlogFinder](https://bf.zzxworld.com/) | [信奥一本通-大纲](https://blog.zhwei101.com/archives/xin-ao-yi-ben-tong-da-gang?utm_source=blogfinder)
+
 ## 20241019
 - [BlogFinder](https://bf.zzxworld.com/) | [李懋和：性别歧视的佼佼者，是如何博笑于世的？](https://www.dao.js.cn/new/2024101911473.shtml?utm_source=blogfinder)
 

@@ -1,3 +1,6 @@
+## 20241020
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Patch For Fixing/Boosting Lunar Lake Linux Performance On ASUS Laptops](https://www.phoronix.com/news/Intel-Lunar-Lake-ASUS-AIPT)
+
 ## 20241019
 - [Phoronix](https://www.phoronix.com/) | [GNOME Making Progress On Full-Featured USB Portal For Flatpaks](https://www.phoronix.com/news/GNOME-USB-Flatpaks-Portal)
 

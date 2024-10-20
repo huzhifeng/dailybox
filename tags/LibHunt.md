@@ -1,3 +1,6 @@
+## 20241020
+- [LibHunt](https://www.libhunt.com/) | [Graphite](https://www.libhunt.com/r/Graphite)
+
 ## 20241019
 - [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
 

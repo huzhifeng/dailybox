@@ -1,3 +1,7 @@
+## 20241020
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-20](https://decohack.com/producthunt-daily-2024-10-20/)
+- [Product Hunt](https://www.producthunt.com) | [MyLensAI](https://www.producthunt.com/posts/mylensai)
+
 ## 20241019
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-19](https://decohack.com/producthunt-daily-2024-10-19/)
 - [Product Hunt](https://www.producthunt.com) | [Monet's Loyalty Waitlist](https://www.producthunt.com/posts/monet-s-loyalty-waitlist)
