@@ -1,3 +1,6 @@
+## 20241021
+- [It's FOSS](https://itsfoss.com/) | [TEN AI: Open Source Framework for Quickly Creating Real-Time Multimodal AI Agents](https://itsfoss.com/ten-ai/)
+
 ## 20241019
 - [It's FOSS](https://itsfoss.com/) | [Pi-Apps: The Unofficial but Definitely Better App Store for Raspberry Pi](https://itsfoss.com/pi-apps-store/)
 

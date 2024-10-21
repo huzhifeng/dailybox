@@ -1,3 +1,6 @@
+## 20241021
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [字节回应实习生破坏AI模型训练；内部员工：苹果AI至少落后两年；Unity 6发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143105222)
+
 ## 20241018
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [PC巨头惠普被曝裁员，罕见殃及研发、高层主管；苹果App Store深夜全球故障；华为脑机接口芯片新专利曝光 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143051547)
 

@@ -1,3 +1,6 @@
+## 20241021
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Patches For EPYC To Further Enhance Performance-Per-Watt By Default](https://www.phoronix.com/news/AMD-P-State-EPYC-Linux-Patches)
+
 ## 20241020
 - [Phoronix](https://www.phoronix.com/) | [Intel Posts Patch For Fixing/Boosting Lunar Lake Linux Performance On ASUS Laptops](https://www.phoronix.com/news/Intel-Lunar-Lake-ASUS-AIPT)
 

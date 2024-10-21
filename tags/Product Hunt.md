@@ -1,3 +1,6 @@
+## 20241021
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-21](https://decohack.com/producthunt-daily-2024-10-21/)
+
 ## 20241020
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-20](https://decohack.com/producthunt-daily-2024-10-20/)
 - [Product Hunt](https://www.producthunt.com) | [MyLensAI](https://www.producthunt.com/posts/mylensai)

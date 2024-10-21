@@ -1,3 +1,6 @@
+## 20241021
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 20th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-20th-2024)
+
 ## 20241018
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware](https://9to5linux.com/calibre-7-20-adds-new-pdf-input-engine-updates-tolino-shine-5-firmware)
 
