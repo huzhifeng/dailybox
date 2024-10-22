@@ -1,3 +1,6 @@
+## 20241022
+- [Phoronix](https://www.phoronix.com/) | [System76 Thelio Astra Reviewed: High-End ARM64 Developer Desktop](https://www.phoronix.com/review/system76-thelio-astra)
+
 ## 20241021
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Patches For EPYC To Further Enhance Performance-Per-Watt By Default](https://www.phoronix.com/news/AMD-P-State-EPYC-Linux-Patches)
 

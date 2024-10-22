@@ -1,3 +1,6 @@
+## 20241022
+- [V2EX](https://www.v2ex.com/) | [同一个导师的博士师兄推荐烟草内部岗位，需要好处费 50W，大家觉得靠谱吗？](https://www.v2ex.com/t/1082552)
+
 ## 20241021
 - [V2EX](https://www.v2ex.com/) | [明年高考，妹妹数学很差](https://www.v2ex.com/t/1082174)
 

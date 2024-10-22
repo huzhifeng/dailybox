@@ -1,3 +1,6 @@
+## 20241022
+- [9to5Linux](https://9to5linux.com/) | [System76 Unveils the Thelio Astra ARM64 Ampere-Powered Desktop Computer](https://9to5linux.com/system76-unveils-the-thelio-astra-arm64-ampere-powered-desktop-computer)
+
 ## 20241021
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 20th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-20th-2024)
 

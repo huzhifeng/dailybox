@@ -1,3 +1,6 @@
+## 20241022
+- [BlogFinder](https://bf.zzxworld.com/) | [金价持续走高，何时才能降低](https://www.nwazi.com/post/huangjinjiage1.html?utm_source=blogfinder)
+
 ## 20241021
 - [BlogFinder](https://bf.zzxworld.com/) | [还在续网盘会员吗，更安全的大容量免会员存储空间！是时候入手NAS了](https://panda995.xyz/evaluation/5138.html?utm_source=blogfinder)
 

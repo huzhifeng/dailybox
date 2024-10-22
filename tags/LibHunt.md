@@ -1,3 +1,6 @@
+## 20241022
+- [LibHunt](https://www.libhunt.com/) | [roast](https://www.libhunt.com/r/roast)
+
 ## 20241021
 - [LibHunt](https://www.libhunt.com/) | [syncthing-android](https://www.libhunt.com/r/syncthing-android)
 

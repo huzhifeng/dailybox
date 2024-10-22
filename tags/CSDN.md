@@ -1,3 +1,6 @@
+## 20241022
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [发售仅一个月，iPhone 16全系降价；腾讯副总裁曾宇提出退休申请；GNU Boot再次发现包含非自由代码 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143142472)
+
 ## 20241021
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [字节回应实习生破坏AI模型训练；内部员工：苹果AI至少落后两年；Unity 6发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143105222)
 

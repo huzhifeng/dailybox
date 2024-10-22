@@ -1,3 +1,7 @@
+## 20241022
+- [Phoronix](https://www.phoronix.com/) | [System76 Thelio Astra Reviewed: High-End ARM64 Developer Desktop](https://www.phoronix.com/review/system76-thelio-astra)
+- [9to5Linux](https://9to5linux.com/) | [System76 Unveils the Thelio Astra ARM64 Ampere-Powered Desktop Computer](https://9to5linux.com/system76-unveils-the-thelio-astra-arm64-ampere-powered-desktop-computer)
+
 ## 20241021
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts Linux Patches For EPYC To Further Enhance Performance-Per-Watt By Default](https://www.phoronix.com/news/AMD-P-State-EPYC-Linux-Patches)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 20th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-20th-2024)

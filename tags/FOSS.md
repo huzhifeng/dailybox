@@ -1,3 +1,6 @@
+## 20241022
+- [It's FOSS](https://itsfoss.com/) | [7 Discontinued Linux Distros I Still Miss in 2024](https://itsfoss.com/discontinued-linux-distros/)
+
 ## 20241021
 - [It's FOSS](https://itsfoss.com/) | [TEN AI: Open Source Framework for Quickly Creating Real-Time Multimodal AI Agents](https://itsfoss.com/ten-ai/)
 
