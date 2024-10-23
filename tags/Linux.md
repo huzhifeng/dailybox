@@ -1,3 +1,7 @@
+## 20241023
+- [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Touts DTrace 2.0 Support](https://www.phoronix.com/news/Gentoo-Linux-DTrace-2.0)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 47.1 Released to Improve Quick Settings Accessibility and Display Scaling](https://9to5linux.com/gnome-47-1-released-to-improve-quick-settings-accessibility-and-display-scaling)
+
 ## 20241022
 - [Phoronix](https://www.phoronix.com/) | [System76 Thelio Astra Reviewed: High-End ARM64 Developer Desktop](https://www.phoronix.com/review/system76-thelio-astra)
 - [9to5Linux](https://9to5linux.com/) | [System76 Unveils the Thelio Astra ARM64 Ampere-Powered Desktop Computer](https://9to5linux.com/system76-unveils-the-thelio-astra-arm64-ampere-powered-desktop-computer)

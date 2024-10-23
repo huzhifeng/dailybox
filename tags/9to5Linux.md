@@ -1,3 +1,6 @@
+## 20241023
+- [9to5Linux](https://9to5linux.com/) | [GNOME 47.1 Released to Improve Quick Settings Accessibility and Display Scaling](https://9to5linux.com/gnome-47-1-released-to-improve-quick-settings-accessibility-and-display-scaling)
+
 ## 20241022
 - [9to5Linux](https://9to5linux.com/) | [System76 Unveils the Thelio Astra ARM64 Ampere-Powered Desktop Computer](https://9to5linux.com/system76-unveils-the-thelio-astra-arm64-ampere-powered-desktop-computer)
 

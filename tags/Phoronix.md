@@ -1,3 +1,6 @@
+## 20241023
+- [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Touts DTrace 2.0 Support](https://www.phoronix.com/news/Gentoo-Linux-DTrace-2.0)
+
 ## 20241022
 - [Phoronix](https://www.phoronix.com/) | [System76 Thelio Astra Reviewed: High-End ARM64 Developer Desktop](https://www.phoronix.com/review/system76-thelio-astra)
 

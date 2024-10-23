@@ -1,3 +1,7 @@
+## 20241023
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-23](https://decohack.com/producthunt-daily-2024-10-23/)
+- [Product Hunt](https://www.producthunt.com) | [Treblle 3.0](https://www.producthunt.com/posts/treblle-3-0-2)
+
 ## 20241022
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-22](https://decohack.com/producthunt-daily-2024-10-22/)
 

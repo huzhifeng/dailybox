@@ -1,3 +1,6 @@
+## 20241023
+- [It's FOSS](https://itsfoss.com/) | [I Tried Updating Fedora Offline. Here's How it Went](https://itsfoss.com/offline-update-fedora/)
+
 ## 20241022
 - [It's FOSS](https://itsfoss.com/) | [7 Discontinued Linux Distros I Still Miss in 2024](https://itsfoss.com/discontinued-linux-distros/)
 

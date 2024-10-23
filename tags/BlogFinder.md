@@ -1,3 +1,6 @@
+## 20241023
+- [BlogFinder](https://bf.zzxworld.com/) | [golang excelize 自动解析 excel 单元格的字体颜色](https://www.sunzhongwei.com/golang-excelize-read-excel-cell-font-color?utm_source=blogfinder)
+
 ## 20241022
 - [BlogFinder](https://bf.zzxworld.com/) | [金价持续走高，何时才能降低](https://www.nwazi.com/post/huangjinjiage1.html?utm_source=blogfinder)
 
