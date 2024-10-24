@@ -1,3 +1,6 @@
+## 20241024
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Delivers Strong Linux Performance](https://www.phoronix.com/review/intel-core-ultra-9-285k-linux)
+
 ## 20241023
 - [Phoronix](https://www.phoronix.com/) | [Gentoo Linux Touts DTrace 2.0 Support](https://www.phoronix.com/news/Gentoo-Linux-DTrace-2.0)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47.1 Released to Improve Quick Settings Accessibility and Display Scaling](https://9to5linux.com/gnome-47-1-released-to-improve-quick-settings-accessibility-and-display-scaling)

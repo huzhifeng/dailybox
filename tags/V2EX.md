@@ -1,3 +1,6 @@
+## 20241024
+- [V2EX](https://www.v2ex.com/) | [第一次发帖问一下大家关于父母要不要卖掉老家的房子帮我买新房](https://www.v2ex.com/t/1083248)
+
 ## 20241023
 - [V2EX](https://www.v2ex.com/) | [职业生涯何去何从，真诚求教](https://www.v2ex.com/t/1082959)
 

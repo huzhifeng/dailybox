@@ -1,3 +1,6 @@
+## 20241024
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/)
+
 ## 20241023
 - [It's FOSS](https://itsfoss.com/) | [I Tried Updating Fedora Offline. Here's How it Went](https://itsfoss.com/offline-update-fedora/)
 

@@ -1,3 +1,6 @@
+## 20241024
+- [极客日报](https://blog.csdn.net/csdngeeknews) | [最高赔偿19个月薪资，英特尔以色列裁员方案曝光；库克回应苹果AI何时入华；福特CEO法利爱上小米SU7 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143203608)
+
 ## 20241022
 - [极客日报](https://blog.csdn.net/csdngeeknews) | [发售仅一个月，iPhone 16全系降价；腾讯副总裁曾宇提出退休申请；GNU Boot再次发现包含非自由代码 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/143142472)
 

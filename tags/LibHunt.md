@@ -1,3 +1,6 @@
+## 20241024
+- [LibHunt](https://www.libhunt.com/) | [lila](https://www.libhunt.com/r/lila)
+
 ## 20241022
 - [LibHunt](https://www.libhunt.com/) | [roast](https://www.libhunt.com/r/roast)
 
