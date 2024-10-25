@@ -1,3 +1,6 @@
+## 20241025
+- [GitHub Trending](https://github.com/trending?since=daily) | [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
+
 ## 20241024
 - [GitHub Trending](https://github.com/trending?since=daily) | [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 

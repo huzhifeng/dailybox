@@ -1,3 +1,6 @@
+## 20241025
+- [It's FOSS](https://itsfoss.com/) | [Best Linux Task Managers You Can Run Comfortably in a GUI](https://itsfoss.com/gui-task-managers-linux/)
+
 ## 20241024
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/)
 

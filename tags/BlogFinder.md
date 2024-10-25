@@ -1,3 +1,6 @@
+## 20241025
+- [BlogFinder](https://bf.zzxworld.com/) | [星露谷物语安卓手机美化版](https://luolt.cn/archives/2927.html?utm_source=blogfinder)
+
 ## 20241024
 - [BlogFinder](https://bf.zzxworld.com/) | [抓住双十一好时机，华硕路由器型号盘点，以旧换新补贴价助你畅享高速网络！](https://panda995.xyz/evaluation/5143.html?utm_source=blogfinder)
 

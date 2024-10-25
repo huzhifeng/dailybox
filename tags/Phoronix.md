@@ -1,3 +1,6 @@
+## 20241025
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 5 245K Linux Performance](https://www.phoronix.com/review/intel-core-ultra-5-245k-linux)
+
 ## 20241024
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Delivers Strong Linux Performance](https://www.phoronix.com/review/intel-core-ultra-9-285k-linux)
 

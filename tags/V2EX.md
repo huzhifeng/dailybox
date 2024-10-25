@@ -1,3 +1,6 @@
+## 20241025
+- [V2EX](https://www.v2ex.com/) | [[抽奖] 评论送两套 HHKB studio 可替换键帽套装](https://www.v2ex.com/t/1083631)
+
 ## 20241024
 - [V2EX](https://www.v2ex.com/) | [第一次发帖问一下大家关于父母要不要卖掉老家的房子帮我买新房](https://www.v2ex.com/t/1083248)
 

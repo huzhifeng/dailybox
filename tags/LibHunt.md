@@ -1,3 +1,6 @@
+## 20241025
+- [LibHunt](https://www.libhunt.com/) | [sdk](https://www.libhunt.com/r/bitwarden/sdk)
+
 ## 20241024
 - [LibHunt](https://www.libhunt.com/) | [lila](https://www.libhunt.com/r/lila)
 
