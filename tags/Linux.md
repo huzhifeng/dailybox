@@ -1,3 +1,7 @@
+## 20241026
+- [Phoronix](https://www.phoronix.com/) | [Initial Intel Xe3 OpenGL & Vulkan Driver Code Submitted For Mesa 24.3](https://www.phoronix.com/news/Mesa-24.3-Initial-Intel-Xe3-PTL)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10 Released with Revamped GUI Engine, Compression Presets, and More](https://9to5linux.com/peazip-10-released-with-revamped-gui-engine-compression-presets-and-more)
+
 ## 20241025
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 5 245K Linux Performance](https://www.phoronix.com/review/intel-core-ultra-5-245k-linux)
 

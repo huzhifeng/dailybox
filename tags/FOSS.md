@@ -1,3 +1,6 @@
+## 20241026
+- [It's FOSS](https://itsfoss.com/) | [Raspberry Pi 4 vs Pi 5: What's the Difference?](https://itsfoss.com/raspberry-pi-4-vs-5/)
+
 ## 20241025
 - [It's FOSS](https://itsfoss.com/) | [Best Linux Task Managers You Can Run Comfortably in a GUI](https://itsfoss.com/gui-task-managers-linux/)
 

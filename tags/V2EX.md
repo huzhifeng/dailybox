@@ -1,3 +1,6 @@
+## 20241026
+- [V2EX](https://www.v2ex.com/) | [iOS 開發腦出血偏癱，求開導。。。](https://www.v2ex.com/t/1083851)
+
 ## 20241025
 - [V2EX](https://www.v2ex.com/) | [[抽奖] 评论送两套 HHKB studio 可替换键帽套装](https://www.v2ex.com/t/1083631)
 

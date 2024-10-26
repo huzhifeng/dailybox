@@ -1,3 +1,6 @@
+## 20241026
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10 Released with Revamped GUI Engine, Compression Presets, and More](https://9to5linux.com/peazip-10-released-with-revamped-gui-engine-compression-presets-and-more)
+
 ## 20241023
 - [9to5Linux](https://9to5linux.com/) | [GNOME 47.1 Released to Improve Quick Settings Accessibility and Display Scaling](https://9to5linux.com/gnome-47-1-released-to-improve-quick-settings-accessibility-and-display-scaling)
 

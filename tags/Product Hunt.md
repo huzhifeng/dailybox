@@ -1,3 +1,7 @@
+## 20241026
+- [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-26](https://decohack.com/producthunt-daily-2024-10-26/)
+- [Product Hunt](https://www.producthunt.com) | [Loomos](https://www.producthunt.com/posts/loomos)
+
 ## 20241025
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-25](https://decohack.com/producthunt-daily-2024-10-25/)
 - [Product Hunt](https://www.producthunt.com) | [Scandium](https://www.producthunt.com/posts/scandium)

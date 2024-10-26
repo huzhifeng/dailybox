@@ -1,3 +1,6 @@
+## 20241026
+- [Phoronix](https://www.phoronix.com/) | [Initial Intel Xe3 OpenGL & Vulkan Driver Code Submitted For Mesa 24.3](https://www.phoronix.com/news/Mesa-24.3-Initial-Intel-Xe3-PTL)
+
 ## 20241025
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 5 245K Linux Performance](https://www.phoronix.com/review/intel-core-ultra-5-245k-linux)
 
