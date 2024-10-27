@@ -287,7 +287,7 @@ def main():
             try:
                 logger.debug(url)
                 resp = requests.get(
-                    url, timeout=request_timeout, headers=request_headers)
+                    url, timeout=request_timeout, headers=request_headers,verify=False)
                 resp.raise_for_status()
             except requests.exceptions.RequestException as e_req:
                 logger.warning(e_req)
