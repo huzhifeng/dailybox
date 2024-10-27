@@ -125,6 +125,7 @@
 			"channel": "BlogFinder",
 			"portal": "https://bf.zzxworld.com/",
 			"url": "https://bf.zzxworld.com/feed.xml",
+			"enable": 0,
 			"category": "漫游",
 			"tags": ["BlogFinder"]
 		},
