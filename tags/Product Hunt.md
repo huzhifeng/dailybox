@@ -1,3 +1,6 @@
+## 20241027
+- [Product Hunt](https://www.producthunt.com) | [JustLearn](https://www.producthunt.com/posts/justlearn)
+
 ## 20241026
 - [PH今日热榜](https://decohack.com/category/producthunt/) | [PH今日热榜 | 2024-10-26](https://decohack.com/producthunt-daily-2024-10-26/)
 - [Product Hunt](https://www.producthunt.com) | [Loomos](https://www.producthunt.com/posts/loomos)

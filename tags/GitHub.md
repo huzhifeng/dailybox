@@ -1,3 +1,6 @@
+## 20241027
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+
 ## 20241025
 - [GitHub Trending](https://github.com/trending?since=daily) | [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 

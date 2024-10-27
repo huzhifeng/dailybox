@@ -1,3 +1,6 @@
+## 20241027
+- [Phoronix](https://www.phoronix.com/) | [Linux Working On A Counter To Keep Track Of The Number Of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-hung_task_detect_count)
+
 ## 20241026
 - [Phoronix](https://www.phoronix.com/) | [Initial Intel Xe3 OpenGL & Vulkan Driver Code Submitted For Mesa 24.3](https://www.phoronix.com/news/Mesa-24.3-Initial-Intel-Xe3-PTL)
 

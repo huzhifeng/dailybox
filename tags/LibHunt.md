@@ -1,3 +1,6 @@
+## 20241027
+- [LibHunt](https://www.libhunt.com/) | [sudoku-in-python-packaging](https://www.libhunt.com/r/sudoku-in-python-packaging)
+
 ## 20241025
 - [LibHunt](https://www.libhunt.com/) | [sdk](https://www.libhunt.com/r/bitwarden/sdk)
 
