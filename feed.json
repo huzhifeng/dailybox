@@ -52,6 +52,7 @@
 			"portal": "https://decohack.com/category/producthunt/",
 			"portal2": "https://github.com/ViggoZ/producthunt-daily-hot",
 			"url": "https://decohack.com/category/producthunt/feed/",
+			"enable": 0,
 			"category": "产品",
 			"tags": ["Product Hunt", "产品"]
 		},
