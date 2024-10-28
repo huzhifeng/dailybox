@@ -1,3 +1,6 @@
+## 20241028
+- [It's FOSS](https://itsfoss.com/) | [9 Reasons to Learn Linux](https://itsfoss.com/why-learn-linux/)
+
 ## 20241027
 - [It's FOSS](https://itsfoss.com/) | [Exploring the Lightweight Alpine Linux in Virtual Box](https://itsfoss.com/alpine-linux-virtualbox/)
 

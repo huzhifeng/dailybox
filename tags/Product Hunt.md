@@ -1,3 +1,6 @@
+## 20241028
+- [Product Hunt](https://www.producthunt.com) | [Static Website Hosting](https://www.producthunt.com/posts/static-website-hosting)
+
 ## 20241027
 - [Product Hunt](https://www.producthunt.com) | [JustLearn](https://www.producthunt.com/posts/justlearn)
 

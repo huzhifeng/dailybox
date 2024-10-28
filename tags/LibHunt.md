@@ -1,3 +1,6 @@
+## 20241028
+- [LibHunt](https://www.libhunt.com/) | [data-formulator](https://www.libhunt.com/r/data-formulator)
+
 ## 20241027
 - [LibHunt](https://www.libhunt.com/) | [sudoku-in-python-packaging](https://www.libhunt.com/r/sudoku-in-python-packaging)
 

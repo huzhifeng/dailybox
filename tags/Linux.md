@@ -1,3 +1,7 @@
+## 20241028
+- [Phoronix](https://www.phoronix.com/) | [Firefox 132 Ready With Certificate Compression, Accelerated SVG Filter Primitives](https://www.phoronix.com/news/Mozilla-Firefox-132)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 132 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-132-is-now-available-for-download-heres-whats-new)
+
 ## 20241027
 - [Phoronix](https://www.phoronix.com/) | [Linux Working On A Counter To Keep Track Of The Number Of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-hung_task_detect_count)
 

@@ -1,3 +1,6 @@
+## 20241028
+- [Phoronix](https://www.phoronix.com/) | [Firefox 132 Ready With Certificate Compression, Accelerated SVG Filter Primitives](https://www.phoronix.com/news/Mozilla-Firefox-132)
+
 ## 20241027
 - [Phoronix](https://www.phoronix.com/) | [Linux Working On A Counter To Keep Track Of The Number Of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-hung_task_detect_count)
 

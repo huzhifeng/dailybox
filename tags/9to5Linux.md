@@ -1,3 +1,6 @@
+## 20241028
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 132 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-132-is-now-available-for-download-heres-whats-new)
+
 ## 20241026
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10 Released with Revamped GUI Engine, Compression Presets, and More](https://9to5linux.com/peazip-10-released-with-revamped-gui-engine-compression-presets-and-more)
 
