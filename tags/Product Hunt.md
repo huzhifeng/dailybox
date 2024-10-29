@@ -1,3 +1,6 @@
+## 20241029
+- [Product Hunt](https://www.producthunt.com) | [Horse](https://www.producthunt.com/posts/horse)
+
 ## 20241028
 - [Product Hunt](https://www.producthunt.com) | [Static Website Hosting](https://www.producthunt.com/posts/static-website-hosting)
 

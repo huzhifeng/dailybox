@@ -1,3 +1,7 @@
+## 20241029
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-28](https://www.daemonology.net/hn-daily/2024-10-28.html)
+- [Hacker News](https://news.ycombinator.com/front) | [How I write code using Cursor](https://news.ycombinator.com/item?id=41979203)
+
 ## 20241028
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-27](https://www.daemonology.net/hn-daily/2024-10-27.html)
 

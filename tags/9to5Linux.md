@@ -1,3 +1,6 @@
+## 20241029
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Released with Linux Kernel 6.11, DNF5, GNOME 47, and More](https://9to5linux.com/fedora-linux-41-released-with-linux-kernel-6-11-dnf5-gnome-47-and-more)
+
 ## 20241028
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 132 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-132-is-now-available-for-download-heres-whats-new)
 

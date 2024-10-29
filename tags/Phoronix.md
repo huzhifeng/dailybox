@@ -1,3 +1,6 @@
+## 20241029
+- [Phoronix](https://www.phoronix.com/) | [Crucial Pro DDR5-6400 32GB Kit Performance With Intel Arrow Lake](https://www.phoronix.com/review/crucial-pro-ddr5-6400)
+
 ## 20241028
 - [Phoronix](https://www.phoronix.com/) | [Firefox 132 Ready With Certificate Compression, Accelerated SVG Filter Primitives](https://www.phoronix.com/news/Mozilla-Firefox-132)
 

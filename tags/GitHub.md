@@ -1,3 +1,6 @@
+## 20241029
+- [GitHub Trending](https://github.com/trending?since=daily) | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
+
 ## 20241028
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 

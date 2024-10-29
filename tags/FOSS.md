@@ -1,3 +1,6 @@
+## 20241029
+- [It's FOSS](https://itsfoss.com/) | [He He 😆 Running Windows on Raspberry Pi ... Because Why Not?](https://itsfoss.com/windows-raspberry-pi/)
+
 ## 20241028
 - [It's FOSS](https://itsfoss.com/) | [9 Reasons to Learn Linux](https://itsfoss.com/why-learn-linux/)
 

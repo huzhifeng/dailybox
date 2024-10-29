@@ -1,3 +1,6 @@
+## 20241029
+- [LibHunt](https://www.libhunt.com/) | [embassy](https://www.libhunt.com/r/embassy)
+
 ## 20241028
 - [LibHunt](https://www.libhunt.com/) | [data-formulator](https://www.libhunt.com/r/data-formulator)
 
