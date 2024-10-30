@@ -1,3 +1,7 @@
+## 20241030
+- [Phoronix](https://www.phoronix.com/) | [OpenPaX Announced As "Open-Source Alternative To GrSecurity" With Free Kernel Patch](https://www.phoronix.com/news/Edera-OpenPaX-Announced)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO OS 4 Launches with Ubuntu 24.04 LTS Base and Linux Kernel 6.11](https://9to5linux.com/tuxedo-os-4-launches-with-ubuntu-24-04-lts-base-and-linux-kernel-6-11)
+
 ## 20241029
 - [Phoronix](https://www.phoronix.com/) | [Crucial Pro DDR5-6400 32GB Kit Performance With Intel Arrow Lake](https://www.phoronix.com/review/crucial-pro-ddr5-6400)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 41 Released with Linux Kernel 6.11, DNF5, GNOME 47, and More](https://9to5linux.com/fedora-linux-41-released-with-linux-kernel-6-11-dnf5-gnome-47-and-more)

@@ -1,3 +1,6 @@
+## 20241030
+- [Phoronix](https://www.phoronix.com/) | [OpenPaX Announced As "Open-Source Alternative To GrSecurity" With Free Kernel Patch](https://www.phoronix.com/news/Edera-OpenPaX-Announced)
+
 ## 20241029
 - [Phoronix](https://www.phoronix.com/) | [Crucial Pro DDR5-6400 32GB Kit Performance With Intel Arrow Lake](https://www.phoronix.com/review/crucial-pro-ddr5-6400)
 

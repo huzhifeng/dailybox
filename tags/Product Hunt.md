@@ -1,3 +1,6 @@
+## 20241030
+- [Product Hunt](https://www.producthunt.com) | [Langtail 1.0](https://www.producthunt.com/posts/langtail-1-0)
+
 ## 20241029
 - [Product Hunt](https://www.producthunt.com) | [Horse](https://www.producthunt.com/posts/horse)
 

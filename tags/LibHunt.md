@@ -1,3 +1,6 @@
+## 20241030
+- [LibHunt](https://www.libhunt.com/) | [security-pcc](https://www.libhunt.com/r/security-pcc)
+
 ## 20241029
 - [LibHunt](https://www.libhunt.com/) | [embassy](https://www.libhunt.com/r/embassy)
 

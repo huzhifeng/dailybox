@@ -1,3 +1,6 @@
+## 20241030
+- [V2EX](https://www.v2ex.com/) | [小红书热帖吐槽新款 Mac mini 关机键设计在底部。](https://www.v2ex.com/t/1084917)
+
 ## 20241029
 - [V2EX](https://www.v2ex.com/) | [首发 M1Pro， AC+下月到期，电池 84%，准备去天才吧碰碰运气](https://www.v2ex.com/t/1084520)
 

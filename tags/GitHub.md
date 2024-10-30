@@ -1,3 +1,6 @@
+## 20241030
+- [GitHub Trending](https://github.com/trending?since=daily) | [airtai/faststream](https://github.com/airtai/faststream)
+
 ## 20241029
 - [GitHub Trending](https://github.com/trending?since=daily) | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)
 
