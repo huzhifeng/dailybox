@@ -1,3 +1,6 @@
+## 20241031
+- [V2EX](https://www.v2ex.com/) | [除了免费， Linux 好处都有啥](https://www.v2ex.com/t/1085333)
+
 ## 20241030
 - [V2EX](https://www.v2ex.com/) | [小红书热帖吐槽新款 Mac mini 关机键设计在底部。](https://www.v2ex.com/t/1084917)
 

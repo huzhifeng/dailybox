@@ -1,3 +1,7 @@
+## 20241031
+- [GitHub Trending](https://github.com/trending?since=daily) | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [qasimkhn/r0blox-synapse-x-free](https://github.com/qasimkhn/r0blox-synapse-x-free)
+
 ## 20241030
 - [GitHub Trending](https://github.com/trending?since=daily) | [airtai/faststream](https://github.com/airtai/faststream)
 

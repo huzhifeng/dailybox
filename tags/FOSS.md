@@ -1,3 +1,6 @@
+## 20241031
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.44: Fedora 41 Release, Russia in Linux Kernel, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-24-44/)
+
 ## 20241029
 - [It's FOSS](https://itsfoss.com/) | [He He 😆 Running Windows on Raspberry Pi ... Because Why Not?](https://itsfoss.com/windows-raspberry-pi/)
 

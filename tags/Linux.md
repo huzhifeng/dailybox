@@ -1,3 +1,7 @@
+## 20241031
+- [Phoronix](https://www.phoronix.com/) | [AMD Formally Announces Ryzen 7 9800X3D Specs - Should Be Great For Linux Creators](https://www.phoronix.com/news/AMD-Ryzen-7-9800X3D)
+- [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.2 Released with Lite Theme Manager, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-lite-7-2-released-with-lite-theme-manager-based-on-ubuntu-24-04-lts)
+
 ## 20241030
 - [Phoronix](https://www.phoronix.com/) | [OpenPaX Announced As "Open-Source Alternative To GrSecurity" With Free Kernel Patch](https://www.phoronix.com/news/Edera-OpenPaX-Announced)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO OS 4 Launches with Ubuntu 24.04 LTS Base and Linux Kernel 6.11](https://9to5linux.com/tuxedo-os-4-launches-with-ubuntu-24-04-lts-base-and-linux-kernel-6-11)

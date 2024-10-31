@@ -1,3 +1,6 @@
+## 20241031
+- [Product Hunt](https://www.producthunt.com) | [Edicy](https://www.producthunt.com/posts/edicy)
+
 ## 20241030
 - [Product Hunt](https://www.producthunt.com) | [Langtail 1.0](https://www.producthunt.com/posts/langtail-1-0)
 

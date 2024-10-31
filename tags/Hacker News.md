@@ -1,3 +1,6 @@
+## 20241031
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-30](https://www.daemonology.net/hn-daily/2024-10-30.html)
+
 ## 20241030
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-29](https://www.daemonology.net/hn-daily/2024-10-29.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Australia/Lord_Howe is the weirdest timezone](https://news.ycombinator.com/item?id=41992314)

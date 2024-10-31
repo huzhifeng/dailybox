@@ -1,3 +1,6 @@
+## 20241031
+- [Phoronix](https://www.phoronix.com/) | [AMD Formally Announces Ryzen 7 9800X3D Specs - Should Be Great For Linux Creators](https://www.phoronix.com/news/AMD-Ryzen-7-9800X3D)
+
 ## 20241030
 - [Phoronix](https://www.phoronix.com/) | [OpenPaX Announced As "Open-Source Alternative To GrSecurity" With Free Kernel Patch](https://www.phoronix.com/news/Edera-OpenPaX-Announced)
 
