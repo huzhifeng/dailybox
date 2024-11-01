@@ -1,3 +1,7 @@
+## 20241101
+- [GitHub Trending](https://github.com/trending?since=daily) | [jackc/pgx](https://github.com/jackc/pgx)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [LandonPasana21/Roblox-Blox-Fruits-Script-2024](https://github.com/LandonPasana21/Roblox-Blox-Fruits-Script-2024)
+
 ## 20241031
 - [GitHub Trending](https://github.com/trending?since=daily) | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [qasimkhn/r0blox-synapse-x-free](https://github.com/qasimkhn/r0blox-synapse-x-free)

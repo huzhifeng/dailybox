@@ -1,3 +1,6 @@
+## 20241101
+- [Phoronix](https://www.phoronix.com/) | [Valve Engineer Fixes Massive Performance Issue For RADV Driver With AMD FSR2](https://www.phoronix.com/news/AMD-FSR2-Mesa-24.3-Fix)
+
 ## 20241031
 - [Phoronix](https://www.phoronix.com/) | [AMD Formally Announces Ryzen 7 9800X3D Specs - Should Be Great For Linux Creators](https://www.phoronix.com/news/AMD-Ryzen-7-9800X3D)
 

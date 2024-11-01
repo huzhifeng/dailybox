@@ -1,3 +1,7 @@
+## 20241101
+- [Phoronix](https://www.phoronix.com/) | [Valve Engineer Fixes Massive Performance Issue For RADV Driver With AMD FSR2](https://www.phoronix.com/news/AMD-FSR2-Mesa-24.3-Fix)
+- [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More](https://9to5linux.com/immutable-distro-nitrux-3-7-1-released-with-linux-kernel-6-11-nvidia-565-and-more)
+
 ## 20241031
 - [Phoronix](https://www.phoronix.com/) | [AMD Formally Announces Ryzen 7 9800X3D Specs - Should Be Great For Linux Creators](https://www.phoronix.com/news/AMD-Ryzen-7-9800X3D)
 - [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.2 Released with Lite Theme Manager, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-lite-7-2-released-with-lite-theme-manager-based-on-ubuntu-24-04-lts)

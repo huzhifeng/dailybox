@@ -1,3 +1,6 @@
+## 20241101
+- [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More](https://9to5linux.com/immutable-distro-nitrux-3-7-1-released-with-linux-kernel-6-11-nvidia-565-and-more)
+
 ## 20241031
 - [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.2 Released with Lite Theme Manager, Based on Ubuntu 24.04 LTS](https://9to5linux.com/linux-lite-7-2-released-with-lite-theme-manager-based-on-ubuntu-24-04-lts)
 

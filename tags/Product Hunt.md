@@ -1,3 +1,6 @@
+## 20241101
+- [Product Hunt](https://www.producthunt.com) | [Truva AI](https://www.producthunt.com/posts/truva-ai)
+
 ## 20241031
 - [Product Hunt](https://www.producthunt.com) | [Edicy](https://www.producthunt.com/posts/edicy)
 

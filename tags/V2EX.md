@@ -1,3 +1,6 @@
+## 20241101
+- [V2EX](https://www.v2ex.com/) | [记本次房市政策下一系列痛苦心路历程](https://www.v2ex.com/t/1085740)
+
 ## 20241031
 - [V2EX](https://www.v2ex.com/) | [除了免费， Linux 好处都有啥](https://www.v2ex.com/t/1085333)
 
