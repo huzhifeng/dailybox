@@ -1,3 +1,6 @@
+## 20241102
+- [V2EX](https://www.v2ex.com/) | [M4 Pro 和 M4 Max 的 geekbench 跑分出了 牙膏爆了](https://www.v2ex.com/t/1085983)
+
 ## 20241101
 - [V2EX](https://www.v2ex.com/) | [记本次房市政策下一系列痛苦心路历程](https://www.v2ex.com/t/1085740)
 

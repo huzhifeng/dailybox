@@ -1,3 +1,6 @@
+## 20241102
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-01](https://www.daemonology.net/hn-daily/2024-11-01.html)
+
 ## 20241101
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-10-31](https://www.daemonology.net/hn-daily/2024-10-31.html)
 

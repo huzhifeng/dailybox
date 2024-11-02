@@ -1,3 +1,6 @@
+## 20241102
+- [LibHunt](https://www.libhunt.com/) | [prettier](https://www.libhunt.com/r/prettier)
+
 ## 20241101
 - [LibHunt](https://www.libhunt.com/) | [Twenty](https://www.libhunt.com/r/twenty)
 

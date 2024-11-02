@@ -1,3 +1,6 @@
+## 20241102
+- [GitHub Trending](https://github.com/trending?since=daily) | [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
 ## 20241101
 - [GitHub Trending](https://github.com/trending?since=daily) | [jackc/pgx](https://github.com/jackc/pgx)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [LandonPasana21/Roblox-Blox-Fruits-Script-2024](https://github.com/LandonPasana21/Roblox-Blox-Fruits-Script-2024)

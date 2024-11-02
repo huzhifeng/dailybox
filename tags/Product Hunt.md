@@ -1,3 +1,6 @@
+## 20241102
+- [Product Hunt](https://www.producthunt.com) | [SigmaRemote](https://www.producthunt.com/posts/sigmaremote)
+
 ## 20241101
 - [Product Hunt](https://www.producthunt.com) | [Truva AI](https://www.producthunt.com/posts/truva-ai)
 

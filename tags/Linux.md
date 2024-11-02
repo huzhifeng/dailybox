@@ -1,3 +1,6 @@
+## 20241102
+- [Phoronix](https://www.phoronix.com/) | [Genode-Based Sculpt OS 24.10 Introduces Multi-Monitor Support](https://www.phoronix.com/news/Genode-Sculpt-OS-24.10)
+
 ## 20241101
 - [Phoronix](https://www.phoronix.com/) | [Valve Engineer Fixes Massive Performance Issue For RADV Driver With AMD FSR2](https://www.phoronix.com/news/AMD-FSR2-Mesa-24.3-Fix)
 - [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More](https://9to5linux.com/immutable-distro-nitrux-3-7-1-released-with-linux-kernel-6-11-nvidia-565-and-more)

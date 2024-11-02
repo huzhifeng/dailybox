@@ -1,3 +1,6 @@
+## 20241102
+- [It's FOSS](https://itsfoss.com/) | [I Installed Fedora on Raspberry Pi, Here's How it Compares to the Official Pi OS](https://itsfoss.com/fedora-on-raspberry-pi/)
+
 ## 20241101
 - [It's FOSS](https://itsfoss.com/) | [9 Desktop Effects to Add Eye Candy to Linux Mint](https://itsfoss.com/linux-mint-window-effects/)
 
