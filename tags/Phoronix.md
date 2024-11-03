@@ -1,3 +1,6 @@
+## 20241103
+- [Phoronix](https://www.phoronix.com/) | [Rust-Based Redox OS Gets RISC-V Working, Also Now Booting On The Raspberry Pi 4](https://www.phoronix.com/news/Redox-OS-For-October-2024)
+
 ## 20241102
 - [Phoronix](https://www.phoronix.com/) | [Genode-Based Sculpt OS 24.10 Introduces Multi-Monitor Support](https://www.phoronix.com/news/Genode-Sculpt-OS-24.10)
 

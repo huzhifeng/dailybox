@@ -1,3 +1,6 @@
+## 20241103
+- [GitHub Trending](https://github.com/trending?since=daily) | [getmaxun/maxun](https://github.com/getmaxun/maxun)
+
 ## 20241102
 - [GitHub Trending](https://github.com/trending?since=daily) | [kestra-io/kestra](https://github.com/kestra-io/kestra)
 

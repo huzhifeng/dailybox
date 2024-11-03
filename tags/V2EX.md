@@ -1,3 +1,6 @@
+## 20241103
+- [V2EX](https://www.v2ex.com/) | [2010 年前毕业，还在一线做技术的朋友们 收入大概多少](https://www.v2ex.com/t/1086183)
+
 ## 20241102
 - [V2EX](https://www.v2ex.com/) | [M4 Pro 和 M4 Max 的 geekbench 跑分出了 牙膏爆了](https://www.v2ex.com/t/1085983)
 

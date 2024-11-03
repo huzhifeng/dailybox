@@ -1,3 +1,6 @@
+## 20241103
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Is Getting a Night Light Feature in Cinnamon, Framework Laptop Support](https://9to5linux.com/linux-mint-is-getting-a-night-light-feature-in-cinnamon-framework-laptop-support)
+
 ## 20241101
 - [9to5Linux](https://9to5linux.com/) | [Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More](https://9to5linux.com/immutable-distro-nitrux-3-7-1-released-with-linux-kernel-6-11-nvidia-565-and-more)
 
