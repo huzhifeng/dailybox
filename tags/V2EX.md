@@ -1,3 +1,6 @@
+## 20241104
+- [V2EX](https://www.v2ex.com/) | [进了社会才知道女朋友真的难找](https://www.v2ex.com/t/1086403)
+
 ## 20241103
 - [V2EX](https://www.v2ex.com/) | [2010 年前毕业，还在一线做技术的朋友们 收入大概多少](https://www.v2ex.com/t/1086183)
 

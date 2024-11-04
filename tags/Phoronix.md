@@ -1,3 +1,6 @@
+## 20241104
+- [Phoronix](https://www.phoronix.com/) | [Manjaro Linux Working On "Manjaro Data Donor" As New Data Collection Tool](https://www.phoronix.com/news/Manjaro-Linux-Data-Donor)
+
 ## 20241103
 - [Phoronix](https://www.phoronix.com/) | [Rust-Based Redox OS Gets RISC-V Working, Also Now Booting On The Raspberry Pi 4](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 

@@ -1,3 +1,6 @@
+## 20241104
+- [Product Hunt](https://www.producthunt.com) | [Loopple AI Website Builder](https://www.producthunt.com/posts/loopple-ai-website-builder)
+
 ## 20241103
 - [Product Hunt](https://www.producthunt.com) | [VoteGPT](https://www.producthunt.com/posts/votegpt)
 

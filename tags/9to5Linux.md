@@ -1,3 +1,6 @@
+## 20241104
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024)
+
 ## 20241103
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint Is Getting a Night Light Feature in Cinnamon, Framework Laptop Support](https://9to5linux.com/linux-mint-is-getting-a-night-light-feature-in-cinnamon-framework-laptop-support)
 

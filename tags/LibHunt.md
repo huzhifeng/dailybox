@@ -1,3 +1,6 @@
+## 20241104
+- [LibHunt](https://www.libhunt.com/) | [pg_analytics](https://www.libhunt.com/r/pg_analytics)
+
 ## 20241103
 - [LibHunt](https://www.libhunt.com/) | [deno](https://www.libhunt.com/r/deno)
 

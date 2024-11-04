@@ -1,3 +1,6 @@
+## 20241104
+- [It's FOSS](https://itsfoss.com/) | [9 Things I Do to Improve My Linux Computer's Security](https://itsfoss.com/improve-security-linux/)
+
 ## 20241102
 - [It's FOSS](https://itsfoss.com/) | [I Installed Fedora on Raspberry Pi, Here's How it Compares to the Official Pi OS](https://itsfoss.com/fedora-on-raspberry-pi/)
 

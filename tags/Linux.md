@@ -1,3 +1,7 @@
+## 20241104
+- [Phoronix](https://www.phoronix.com/) | [Manjaro Linux Working On "Manjaro Data Donor" As New Data Collection Tool](https://www.phoronix.com/news/Manjaro-Linux-Data-Donor)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024)
+
 ## 20241103
 - [Phoronix](https://www.phoronix.com/) | [Rust-Based Redox OS Gets RISC-V Working, Also Now Booting On The Raspberry Pi 4](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint Is Getting a Night Light Feature in Cinnamon, Framework Laptop Support](https://9to5linux.com/linux-mint-is-getting-a-night-light-feature-in-cinnamon-framework-laptop-support)

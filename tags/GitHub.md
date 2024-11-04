@@ -1,3 +1,7 @@
+## 20241104
+- [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [jeantecni/Dead10ck-h4ck](https://github.com/jeantecni/Dead10ck-h4ck)
+
 ## 20241103
 - [GitHub Trending](https://github.com/trending?since=daily) | [getmaxun/maxun](https://github.com/getmaxun/maxun)
 
