@@ -1,3 +1,6 @@
+## 20241105
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2.3 Brings Better Support for HDR Displays, Various Bug Fixes](https://9to5linux.com/kde-plasma-6-2-3-brings-better-support-for-hdr-displays-various-bug-fixes)
+
 ## 20241104
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024)
 

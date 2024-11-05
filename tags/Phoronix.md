@@ -1,3 +1,6 @@
+## 20241105
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Fieldbus Just Five Years After Being Merged](https://www.phoronix.com/news/Linux-6.13-Dropping-Fieldbus)
+
 ## 20241104
 - [Phoronix](https://www.phoronix.com/) | [Manjaro Linux Working On "Manjaro Data Donor" As New Data Collection Tool](https://www.phoronix.com/news/Manjaro-Linux-Data-Donor)
 

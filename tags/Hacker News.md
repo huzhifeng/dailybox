@@ -1,3 +1,6 @@
+## 20241105
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-04](https://www.daemonology.net/hn-daily/2024-11-04.html)
+
 ## 20241104
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-03](https://www.daemonology.net/hn-daily/2024-11-03.html)
 - [Hacker News](https://news.ycombinator.com/front) | [I've had a change of heart regarding employee metrics](https://news.ycombinator.com/item?id=42038653)

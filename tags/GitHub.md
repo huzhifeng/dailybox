@@ -1,3 +1,6 @@
+## 20241105
+- [GitHub Trending](https://github.com/trending?since=daily) | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
 ## 20241104
 - [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [jeantecni/Dead10ck-h4ck](https://github.com/jeantecni/Dead10ck-h4ck)

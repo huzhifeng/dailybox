@@ -1,3 +1,6 @@
+## 20241105
+- [LibHunt](https://www.libhunt.com/) | [whattocook](https://www.libhunt.com/r/whattocook)
+
 ## 20241104
 - [LibHunt](https://www.libhunt.com/) | [pg_analytics](https://www.libhunt.com/r/pg_analytics)
 

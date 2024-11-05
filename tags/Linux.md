@@ -1,3 +1,7 @@
+## 20241105
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Fieldbus Just Five Years After Being Merged](https://www.phoronix.com/news/Linux-6.13-Dropping-Fieldbus)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2.3 Brings Better Support for HDR Displays, Various Bug Fixes](https://9to5linux.com/kde-plasma-6-2-3-brings-better-support-for-hdr-displays-various-bug-fixes)
+
 ## 20241104
 - [Phoronix](https://www.phoronix.com/) | [Manjaro Linux Working On "Manjaro Data Donor" As New Data Collection Tool](https://www.phoronix.com/news/Manjaro-Linux-Data-Donor)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024)

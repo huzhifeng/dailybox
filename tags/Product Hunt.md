@@ -1,3 +1,6 @@
+## 20241105
+- [Product Hunt](https://www.producthunt.com) | [Listy+](https://www.producthunt.com/posts/listy-2)
+
 ## 20241104
 - [Product Hunt](https://www.producthunt.com) | [Loopple AI Website Builder](https://www.producthunt.com/posts/loopple-ai-website-builder)
 

@@ -1,3 +1,6 @@
+## 20241105
+- [It's FOSS](https://itsfoss.com/) | [I Ran the Famed SmolLM on Raspberry Pi](https://itsfoss.com/smollm-raspberry-pi/)
+
 ## 20241104
 - [It's FOSS](https://itsfoss.com/) | [9 Things I Do to Improve My Linux Computer's Security](https://itsfoss.com/improve-security-linux/)
 
