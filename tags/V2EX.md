@@ -1,3 +1,6 @@
+## 20241106
+- [V2EX](https://www.v2ex.com/) | [你们的 15p/pm 电池健康度咋样了？](https://www.v2ex.com/t/1087139)
+
 ## 20241105
 - [V2EX](https://www.v2ex.com/) | [因为老婆一个人在家照顾婴儿（三个月），拒绝部门领导周末团建的安排，被 DISS，我该如何调整心态？](https://www.v2ex.com/t/1086793)
 

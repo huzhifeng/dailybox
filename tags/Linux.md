@@ -1,3 +1,6 @@
+## 20241106
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
+
 ## 20241105
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Drop Fieldbus Just Five Years After Being Merged](https://www.phoronix.com/news/Linux-6.13-Dropping-Fieldbus)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2.3 Brings Better Support for HDR Displays, Various Bug Fixes](https://9to5linux.com/kde-plasma-6-2-3-brings-better-support-for-hdr-displays-various-bug-fixes)

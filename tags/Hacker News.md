@@ -1,3 +1,7 @@
+## 20241106
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-05](https://www.daemonology.net/hn-daily/2024-11-05.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Former President Trump has won the presidency](https://news.ycombinator.com/item?id=42057647)
+
 ## 20241105
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-04](https://www.daemonology.net/hn-daily/2024-11-04.html)
 

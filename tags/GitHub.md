@@ -1,3 +1,6 @@
+## 20241106
+- [GitHub Trending](https://github.com/trending?since=daily) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
 ## 20241105
 - [GitHub Trending](https://github.com/trending?since=daily) | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 

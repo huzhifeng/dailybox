@@ -1,3 +1,6 @@
+## 20241106
+- [Product Hunt](https://www.producthunt.com) | [Sona](https://www.producthunt.com/posts/sona-7)
+
 ## 20241105
 - [Product Hunt](https://www.producthunt.com) | [Listy+](https://www.producthunt.com/posts/listy-2)
 
