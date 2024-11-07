@@ -1,3 +1,7 @@
+## 20241107
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Allow Controlling Zero RPM Feature For Radeon RX 7000 Series GPUs](https://www.phoronix.com/news/Linux-6.13-AMDGPU-Zero-Fan)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08.3 Released with More Fixes for Your Favorite KDE Applications](https://9to5linux.com/kde-gear-24-08-3-released-with-more-fixes-for-your-favorite-kde-applications)
+
 ## 20241106
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
 

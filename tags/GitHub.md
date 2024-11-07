@@ -1,3 +1,6 @@
+## 20241107
+- [GitHub Trending](https://github.com/trending?since=daily) | [localsend/localsend](https://github.com/localsend/localsend)
+
 ## 20241106
 - [GitHub Trending](https://github.com/trending?since=daily) | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
 

@@ -1,3 +1,6 @@
+## 20241107
+- [V2EX](https://www.v2ex.com/) | [表弟沉迷网赌怎么办](https://www.v2ex.com/t/1087435)
+
 ## 20241106
 - [V2EX](https://www.v2ex.com/) | [你们的 15p/pm 电池健康度咋样了？](https://www.v2ex.com/t/1087139)
 

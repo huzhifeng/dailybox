@@ -1,3 +1,6 @@
+## 20241107
+- [Product Hunt](https://www.producthunt.com) | [Quorini](https://www.producthunt.com/posts/quorini)
+
 ## 20241106
 - [Product Hunt](https://www.producthunt.com) | [Sona](https://www.producthunt.com/posts/sona-7)
 

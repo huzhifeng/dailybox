@@ -1,3 +1,6 @@
+## 20241107
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08.3 Released with More Fixes for Your Favorite KDE Applications](https://9to5linux.com/kde-gear-24-08-3-released-with-more-fixes-for-your-favorite-kde-applications)
+
 ## 20241105
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.2.3 Brings Better Support for HDR Displays, Various Bug Fixes](https://9to5linux.com/kde-plasma-6-2-3-brings-better-support-for-hdr-displays-various-bug-fixes)
 

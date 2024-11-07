@@ -1,3 +1,6 @@
+## 20241107
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/)
+
 ## 20241105
 - [It's FOSS](https://itsfoss.com/) | [I Ran the Famed SmolLM on Raspberry Pi](https://itsfoss.com/smollm-raspberry-pi/)
 
