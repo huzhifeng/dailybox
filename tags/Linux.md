@@ -1,3 +1,7 @@
+## 20241108
+- [Phoronix](https://www.phoronix.com/) | [Google Axion CPU With GCE C4A vs. AWS Graviton4 Performance](https://www.phoronix.com/review/google-axion-graviton4)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-6 Rolls Out with Wireless Display Improvements, Bug Fixes](https://9to5linux.com/ubuntu-touch-ota-6-rolls-out-with-wireless-display-improvements-bug-fixes)
+
 ## 20241107
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Allow Controlling Zero RPM Feature For Radeon RX 7000 Series GPUs](https://www.phoronix.com/news/Linux-6.13-AMDGPU-Zero-Fan)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08.3 Released with More Fixes for Your Favorite KDE Applications](https://9to5linux.com/kde-gear-24-08-3-released-with-more-fixes-for-your-favorite-kde-applications)

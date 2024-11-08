@@ -1,3 +1,6 @@
+## 20241108
+- [GitHub Trending](https://github.com/trending?since=daily) | [django/django](https://github.com/django/django)
+
 ## 20241107
 - [GitHub Trending](https://github.com/trending?since=daily) | [localsend/localsend](https://github.com/localsend/localsend)
 

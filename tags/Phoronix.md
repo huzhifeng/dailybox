@@ -1,3 +1,6 @@
+## 20241108
+- [Phoronix](https://www.phoronix.com/) | [Google Axion CPU With GCE C4A vs. AWS Graviton4 Performance](https://www.phoronix.com/review/google-axion-graviton4)
+
 ## 20241107
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 To Allow Controlling Zero RPM Feature For Radeon RX 7000 Series GPUs](https://www.phoronix.com/news/Linux-6.13-AMDGPU-Zero-Fan)
 

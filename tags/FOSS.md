@@ -1,3 +1,6 @@
+## 20241108
+- [It's FOSS](https://itsfoss.com/) | [Unlock VLC's Potential With These 9 Simple Tricks](https://itsfoss.com/vlc-tricks/)
+
 ## 20241107
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/)
 

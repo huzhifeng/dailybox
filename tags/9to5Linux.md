@@ -1,3 +1,6 @@
+## 20241108
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-6 Rolls Out with Wireless Display Improvements, Bug Fixes](https://9to5linux.com/ubuntu-touch-ota-6-rolls-out-with-wireless-display-improvements-bug-fixes)
+
 ## 20241107
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.08.3 Released with More Fixes for Your Favorite KDE Applications](https://9to5linux.com/kde-gear-24-08-3-released-with-more-fixes-for-your-favorite-kde-applications)
 

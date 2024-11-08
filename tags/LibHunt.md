@@ -1,3 +1,6 @@
+## 20241108
+- [LibHunt](https://www.libhunt.com/) | [jest](https://www.libhunt.com/r/jest)
+
 ## 20241107
 - [LibHunt](https://www.libhunt.com/) | [React](https://www.libhunt.com/r/react)
 

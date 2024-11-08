@@ -1,3 +1,6 @@
+## 20241108
+- [V2EX](https://www.v2ex.com/) | [大家吃饭会吧唧嘴吗？或者会反感身边的人吃饭吧唧嘴吗？](https://www.v2ex.com/t/1087753)
+
 ## 20241107
 - [V2EX](https://www.v2ex.com/) | [表弟沉迷网赌怎么办](https://www.v2ex.com/t/1087435)
 

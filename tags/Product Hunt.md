@@ -1,3 +1,6 @@
+## 20241108
+- [Product Hunt](https://www.producthunt.com) | [Shootmail](https://www.producthunt.com/posts/shootmail)
+
 ## 20241107
 - [Product Hunt](https://www.producthunt.com) | [Quorini](https://www.producthunt.com/posts/quorini)
 
