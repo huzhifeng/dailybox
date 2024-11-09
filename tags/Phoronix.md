@@ -1,3 +1,6 @@
+## 20241109
+- [Phoronix](https://www.phoronix.com/) | [Hyprland 0.45 Compositor Smooths Round Edges, Window Snapping For Floating Windows](https://www.phoronix.com/news/Hyprland-0.45-Wayland)
+
 ## 20241108
 - [Phoronix](https://www.phoronix.com/) | [Google Axion CPU With GCE C4A vs. AWS Graviton4 Performance](https://www.phoronix.com/review/google-axion-graviton4)
 

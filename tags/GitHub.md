@@ -1,3 +1,6 @@
+## 20241109
+- [GitHub Trending](https://github.com/trending?since=daily) | [zmh-program/chatnio](https://github.com/zmh-program/chatnio)
+
 ## 20241108
 - [GitHub Trending](https://github.com/trending?since=daily) | [django/django](https://github.com/django/django)
 

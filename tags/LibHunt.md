@@ -1,3 +1,6 @@
+## 20241109
+- [LibHunt](https://www.libhunt.com/) | [delta](https://www.libhunt.com/r/delta)
+
 ## 20241108
 - [LibHunt](https://www.libhunt.com/) | [jest](https://www.libhunt.com/r/jest)
 

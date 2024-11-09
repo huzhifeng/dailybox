@@ -1,3 +1,6 @@
+## 20241109
+- [It's FOSS](https://itsfoss.com/) | [Making Your Raspberry Pi Hacking Ready by Installing Kali Linux on it](https://itsfoss.com/kali-linux-raspberry-pi-2/)
+
 ## 20241108
 - [It's FOSS](https://itsfoss.com/) | [Unlock VLC's Potential With These 9 Simple Tricks](https://itsfoss.com/vlc-tricks/)
 

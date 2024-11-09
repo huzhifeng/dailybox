@@ -1,3 +1,6 @@
+## 20241109
+- [V2EX](https://www.v2ex.com/) | [有西药的情况下，中药到底有用没有？](https://www.v2ex.com/t/1087990)
+
 ## 20241108
 - [V2EX](https://www.v2ex.com/) | [大家吃饭会吧唧嘴吗？或者会反感身边的人吃饭吧唧嘴吗？](https://www.v2ex.com/t/1087753)
 

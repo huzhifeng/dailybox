@@ -1,3 +1,6 @@
+## 20241109
+- [Product Hunt](https://www.producthunt.com) | [Diaflow.io](https://www.producthunt.com/posts/diaflow-io)
+
 ## 20241108
 - [Product Hunt](https://www.producthunt.com) | [Shootmail](https://www.producthunt.com/posts/shootmail)
 

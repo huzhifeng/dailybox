@@ -1,3 +1,6 @@
+## 20241109
+- [Phoronix](https://www.phoronix.com/) | [Hyprland 0.45 Compositor Smooths Round Edges, Window Snapping For Floating Windows](https://www.phoronix.com/news/Hyprland-0.45-Wayland)
+
 ## 20241108
 - [Phoronix](https://www.phoronix.com/) | [Google Axion CPU With GCE C4A vs. AWS Graviton4 Performance](https://www.phoronix.com/review/google-axion-graviton4)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-6 Rolls Out with Wireless Display Improvements, Bug Fixes](https://9to5linux.com/ubuntu-touch-ota-6-rolls-out-with-wireless-display-improvements-bug-fixes)
