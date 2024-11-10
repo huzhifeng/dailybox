@@ -1,3 +1,6 @@
+## 20241110
+- [GitHub Trending](https://github.com/trending?since=daily) | [infinition/Bjorn](https://github.com/infinition/Bjorn)
+
 ## 20241109
 - [GitHub Trending](https://github.com/trending?since=daily) | [zmh-program/chatnio](https://github.com/zmh-program/chatnio)
 

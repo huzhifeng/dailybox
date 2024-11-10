@@ -1,3 +1,6 @@
+## 20241110
+- [LibHunt](https://www.libhunt.com/) | [Angular](https://www.libhunt.com/r/angular)
+
 ## 20241109
 - [LibHunt](https://www.libhunt.com/) | [delta](https://www.libhunt.com/r/delta)
 

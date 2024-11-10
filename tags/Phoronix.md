@@ -1,3 +1,6 @@
+## 20241110
+- [Phoronix](https://www.phoronix.com/) | [Linux Optimization Patches Significantly Speed-Up Debuggers Using /proc/kcore](https://www.phoronix.com/news/Linux-Faster-Dragn-proc-kcore)
+
 ## 20241109
 - [Phoronix](https://www.phoronix.com/) | [Hyprland 0.45 Compositor Smooths Round Edges, Window Snapping For Floating Windows](https://www.phoronix.com/news/Hyprland-0.45-Wayland)
 

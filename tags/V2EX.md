@@ -1,3 +1,6 @@
+## 20241110
+- [V2EX](https://www.v2ex.com/) | [24 岁不抽烟不喝酒不吃拼好饭，也能中招高尿酸痛风的吗](https://www.v2ex.com/t/1088224)
+
 ## 20241109
 - [V2EX](https://www.v2ex.com/) | [有西药的情况下，中药到底有用没有？](https://www.v2ex.com/t/1087990)
 

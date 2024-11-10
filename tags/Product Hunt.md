@@ -1,3 +1,6 @@
+## 20241110
+- [Product Hunt](https://www.producthunt.com) | [ChatGPT Mega-Prompt Bundle](https://www.producthunt.com/posts/chatgpt-mega-prompt-bundle)
+
 ## 20241109
 - [Product Hunt](https://www.producthunt.com) | [Diaflow.io](https://www.producthunt.com/posts/diaflow-io)
 
