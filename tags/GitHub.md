@@ -1,3 +1,7 @@
+## 20241111
+- [GitHub Trending](https://github.com/trending?since=daily) | [pr3y/Bruce](https://github.com/pr3y/Bruce)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
+
 ## 20241110
 - [GitHub Trending](https://github.com/trending?since=daily) | [infinition/Bjorn](https://github.com/infinition/Bjorn)
 

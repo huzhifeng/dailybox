@@ -1,3 +1,6 @@
+## 20241111
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Announces Open-Source Hyperlight For Embedded VMM Within Linux/Windows Apps](https://www.phoronix.com/news/Microsoft-Hyperlight-Rust-VMM)
+
 ## 20241110
 - [Phoronix](https://www.phoronix.com/) | [Linux Optimization Patches Significantly Speed-Up Debuggers Using /proc/kcore](https://www.phoronix.com/news/Linux-Faster-Dragn-proc-kcore)
 

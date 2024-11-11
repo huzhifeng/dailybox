@@ -1,3 +1,6 @@
+## 20241111
+- [It's FOSS](https://itsfoss.com/) | [Exploring and Customizing UKUI Desktop in openEuler](https://itsfoss.com/customizing-ukui/)
+
 ## 20241109
 - [It's FOSS](https://itsfoss.com/) | [Making Your Raspberry Pi Hacking Ready by Installing Kali Linux on it](https://itsfoss.com/kali-linux-raspberry-pi-2/)
 

@@ -1,3 +1,6 @@
+## 20241111
+- [V2EX](https://www.v2ex.com/) | [钓鱼前嗤之以鼻，钓鱼后彻底沉迷](https://www.v2ex.com/t/1088573)
+
 ## 20241110
 - [V2EX](https://www.v2ex.com/) | [24 岁不抽烟不喝酒不吃拼好饭，也能中招高尿酸痛风的吗](https://www.v2ex.com/t/1088224)
 

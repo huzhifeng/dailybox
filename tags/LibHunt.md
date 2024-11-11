@@ -1,3 +1,6 @@
+## 20241111
+- [LibHunt](https://www.libhunt.com/) | [shadcn/ui](https://www.libhunt.com/r/ui)
+
 ## 20241110
 - [LibHunt](https://www.libhunt.com/) | [Angular](https://www.libhunt.com/r/angular)
 

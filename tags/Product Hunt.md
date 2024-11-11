@@ -1,3 +1,6 @@
+## 20241111
+- [Product Hunt](https://www.producthunt.com) | [THEO: Power-Up Any AI Assistant](https://www.producthunt.com/posts/theo-power-up-any-ai-assistant)
+
 ## 20241110
 - [Product Hunt](https://www.producthunt.com) | [ChatGPT Mega-Prompt Bundle](https://www.producthunt.com/posts/chatgpt-mega-prompt-bundle)
 

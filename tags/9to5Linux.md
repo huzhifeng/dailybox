@@ -1,3 +1,6 @@
+## 20241111
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-10th-2024)
+
 ## 20241108
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-6 Rolls Out with Wireless Display Improvements, Bug Fixes](https://9to5linux.com/ubuntu-touch-ota-6-rolls-out-with-wireless-display-improvements-bug-fixes)
 
