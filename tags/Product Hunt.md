@@ -1,3 +1,6 @@
+## 20241112
+- [Product Hunt](https://www.producthunt.com) | [JoinBrands: Influencers & UGC Creators](https://www.producthunt.com/posts/joinbrands-influencers-ugc-creators)
+
 ## 20241111
 - [Product Hunt](https://www.producthunt.com) | [THEO: Power-Up Any AI Assistant](https://www.producthunt.com/posts/theo-power-up-any-ai-assistant)
 

@@ -1,3 +1,7 @@
+## 20241112
+- [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Lands Improved GPU Selection Logic For Laptops](https://www.phoronix.com/news/GNOME-Mutter-Multi-GPU-eDP)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.1 File Archiver Improves Resilience to Password Guessing Attacks](https://9to5linux.com/peazip-10-1-file-archiver-improves-resilience-to-password-guessing-attacks)
+
 ## 20241111
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Announces Open-Source Hyperlight For Embedded VMM Within Linux/Windows Apps](https://www.phoronix.com/news/Microsoft-Hyperlight-Rust-VMM)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-10th-2024)

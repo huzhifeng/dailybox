@@ -1,3 +1,6 @@
+## 20241112
+- [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Lands Improved GPU Selection Logic For Laptops](https://www.phoronix.com/news/GNOME-Mutter-Multi-GPU-eDP)
+
 ## 20241111
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Announces Open-Source Hyperlight For Embedded VMM Within Linux/Windows Apps](https://www.phoronix.com/news/Microsoft-Hyperlight-Rust-VMM)
 

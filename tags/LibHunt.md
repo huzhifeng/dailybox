@@ -1,3 +1,6 @@
+## 20241112
+- [LibHunt](https://www.libhunt.com/) | [AvaloniaVisualBasic6](https://www.libhunt.com/r/AvaloniaVisualBasic6)
+
 ## 20241111
 - [LibHunt](https://www.libhunt.com/) | [shadcn/ui](https://www.libhunt.com/r/ui)
 

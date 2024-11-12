@@ -1,3 +1,6 @@
+## 20241112
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.1 File Archiver Improves Resilience to Password Guessing Attacks](https://9to5linux.com/peazip-10-1-file-archiver-improves-resilience-to-password-guessing-attacks)
+
 ## 20241111
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: November 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-10th-2024)
 

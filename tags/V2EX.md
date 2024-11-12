@@ -1,3 +1,6 @@
+## 20241112
+- [V2EX](https://www.v2ex.com/) | [戴着 Apple Watch 睡觉是一种折磨](https://www.v2ex.com/t/1088829)
+
 ## 20241111
 - [V2EX](https://www.v2ex.com/) | [钓鱼前嗤之以鼻，钓鱼后彻底沉迷](https://www.v2ex.com/t/1088573)
 
