@@ -1,3 +1,6 @@
+## 20241113
+- [9to5Linux](https://9to5linux.com/) | [Fedora 42 to Port the Anaconda Installer to Wayland, Default to Anaconda WebUI](https://9to5linux.com/fedora-42-to-port-the-anaconda-installer-to-wayland-default-to-anaconda-webui)
+
 ## 20241112
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.1 File Archiver Improves Resilience to Password Guessing Attacks](https://9to5linux.com/peazip-10-1-file-archiver-improves-resilience-to-password-guessing-attacks)
 

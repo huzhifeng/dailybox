@@ -1,3 +1,6 @@
+## 20241113
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Motherboard For Framework 13 Pricing Starts At $368 In Early Access, $928 For Laptop](https://www.phoronix.com/news/RISC-V-Framework-Early-Access)
+
 ## 20241112
 - [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Lands Improved GPU Selection Logic For Laptops](https://www.phoronix.com/news/GNOME-Mutter-Multi-GPU-eDP)
 

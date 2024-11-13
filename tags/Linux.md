@@ -1,3 +1,7 @@
+## 20241113
+- [Phoronix](https://www.phoronix.com/) | [RISC-V Motherboard For Framework 13 Pricing Starts At $368 In Early Access, $928 For Laptop](https://www.phoronix.com/news/RISC-V-Framework-Early-Access)
+- [9to5Linux](https://9to5linux.com/) | [Fedora 42 to Port the Anaconda Installer to Wayland, Default to Anaconda WebUI](https://9to5linux.com/fedora-42-to-port-the-anaconda-installer-to-wayland-default-to-anaconda-webui)
+
 ## 20241112
 - [Phoronix](https://www.phoronix.com/) | [GNOME Mutter Lands Improved GPU Selection Logic For Laptops](https://www.phoronix.com/news/GNOME-Mutter-Multi-GPU-eDP)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.1 File Archiver Improves Resilience to Password Guessing Attacks](https://9to5linux.com/peazip-10-1-file-archiver-improves-resilience-to-password-guessing-attacks)

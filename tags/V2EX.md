@@ -1,3 +1,6 @@
+## 20241113
+- [V2EX](https://www.v2ex.com/) | [为什么 Python 会有那么多人喜欢用？](https://www.v2ex.com/t/1089258)
+
 ## 20241112
 - [V2EX](https://www.v2ex.com/) | [戴着 Apple Watch 睡觉是一种折磨](https://www.v2ex.com/t/1088829)
 

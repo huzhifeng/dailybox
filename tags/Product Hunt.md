@@ -1,3 +1,6 @@
+## 20241113
+- [Product Hunt](https://www.producthunt.com) | [Vocera](https://www.producthunt.com/posts/vocera)
+
 ## 20241112
 - [Product Hunt](https://www.producthunt.com) | [JoinBrands: Influencers & UGC Creators](https://www.producthunt.com/posts/joinbrands-influencers-ugc-creators)
 

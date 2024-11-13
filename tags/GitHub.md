@@ -1,3 +1,6 @@
+## 20241113
+- [GitHub Trending](https://github.com/trending?since=daily) | [exo-explore/exo](https://github.com/exo-explore/exo)
+
 ## 20241112
 - [GitHub Trending](https://github.com/trending?since=daily) | [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
 
