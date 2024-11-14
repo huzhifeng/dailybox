@@ -1,3 +1,6 @@
+## 20241114
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Enters Beta With Many New Features & Updates](https://www.phoronix.com/news/Red-Hat-RHEL-10-Beta)
+
 ## 20241113
 - [Phoronix](https://www.phoronix.com/) | [RISC-V Motherboard For Framework 13 Pricing Starts At $368 In Early Access, $928 For Laptop](https://www.phoronix.com/news/RISC-V-Framework-Early-Access)
 

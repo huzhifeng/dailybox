@@ -1,3 +1,6 @@
+## 20241114
+- [V2EX](https://www.v2ex.com/) | [无限犹豫在买车和不买车](https://www.v2ex.com/t/1089497)
+
 ## 20241113
 - [V2EX](https://www.v2ex.com/) | [为什么 Python 会有那么多人喜欢用？](https://www.v2ex.com/t/1089258)
 

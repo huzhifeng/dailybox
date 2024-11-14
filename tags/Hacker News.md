@@ -1,3 +1,7 @@
+## 20241114
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-13](https://www.daemonology.net/hn-daily/2024-11-13.html)
+- [Hacker News](https://news.ycombinator.com/front) | [The Onion Buys Alex Jones's Infowars Out of Bankruptcy](https://news.ycombinator.com/item?id=42136259)
+
 ## 20241113
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-12](https://www.daemonology.net/hn-daily/2024-11-12.html)
 - [Hacker News](https://news.ycombinator.com/front) | [No GPS required: our app can now locate underground trains](https://news.ycombinator.com/item?id=42122085)

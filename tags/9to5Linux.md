@@ -1,3 +1,6 @@
+## 20241114
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.3 Office Suite Is Now Available for Download with 88 Bug Fixes](https://9to5linux.com/libreoffice-24-8-3-office-suite-is-now-available-for-download-with-88-bug-fixes)
+
 ## 20241113
 - [9to5Linux](https://9to5linux.com/) | [Fedora 42 to Port the Anaconda Installer to Wayland, Default to Anaconda WebUI](https://9to5linux.com/fedora-42-to-port-the-anaconda-installer-to-wayland-default-to-anaconda-webui)
 

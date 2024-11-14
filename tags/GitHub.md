@@ -1,3 +1,6 @@
+## 20241114
+- [GitHub Trending](https://github.com/trending?since=daily) | [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder)
+
 ## 20241113
 - [GitHub Trending](https://github.com/trending?since=daily) | [exo-explore/exo](https://github.com/exo-explore/exo)
 

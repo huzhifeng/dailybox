@@ -1,3 +1,7 @@
+## 20241114
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Enters Beta With Many New Features & Updates](https://www.phoronix.com/news/Red-Hat-RHEL-10-Beta)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.3 Office Suite Is Now Available for Download with 88 Bug Fixes](https://9to5linux.com/libreoffice-24-8-3-office-suite-is-now-available-for-download-with-88-bug-fixes)
+
 ## 20241113
 - [Phoronix](https://www.phoronix.com/) | [RISC-V Motherboard For Framework 13 Pricing Starts At $368 In Early Access, $928 For Laptop](https://www.phoronix.com/news/RISC-V-Framework-Early-Access)
 - [9to5Linux](https://9to5linux.com/) | [Fedora 42 to Port the Anaconda Installer to Wayland, Default to Anaconda WebUI](https://9to5linux.com/fedora-42-to-port-the-anaconda-installer-to-wayland-default-to-anaconda-webui)

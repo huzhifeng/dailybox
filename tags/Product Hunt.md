@@ -1,3 +1,6 @@
+## 20241114
+- [Product Hunt](https://www.producthunt.com) | [Futudo](https://www.producthunt.com/posts/futudo)
+
 ## 20241113
 - [Product Hunt](https://www.producthunt.com) | [Vocera](https://www.producthunt.com/posts/vocera)
 

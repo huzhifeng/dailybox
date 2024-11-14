@@ -1,3 +1,6 @@
+## 20241114
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/)
+
 ## 20241111
 - [It's FOSS](https://itsfoss.com/) | [Exploring and Customizing UKUI Desktop in openEuler](https://itsfoss.com/customizing-ukui/)
 
