@@ -1,3 +1,6 @@
+## 20241115
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Very Exciting With New Feature Code For AMD EPYC Zen 5, Intel Panter Lake](https://www.phoronix.com/news/Linux-6.13-Features-Early)
+
 ## 20241114
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Enters Beta With Many New Features & Updates](https://www.phoronix.com/news/Red-Hat-RHEL-10-Beta)
 

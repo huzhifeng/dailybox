@@ -1,3 +1,6 @@
+## 20241115
+- [V2EX](https://www.v2ex.com/) | [我们挣不到钱的原因或许是因为过于正直？](https://www.v2ex.com/t/1089869)
+
 ## 20241114
 - [V2EX](https://www.v2ex.com/) | [无限犹豫在买车和不买车](https://www.v2ex.com/t/1089497)
 
