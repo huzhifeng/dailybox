@@ -1,3 +1,6 @@
+## 20241116
+- [It's FOSS](https://itsfoss.com/) | [7 Problems You Might Face After Dual Booting Linux and Windows [And How to Fix Them]](https://itsfoss.com/dual-boot-issues/)
+
 ## 20241114
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/)
 

@@ -1,3 +1,6 @@
+## 20241116
+- [Phoronix](https://www.phoronix.com/) | [TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2](https://www.phoronix.com/news/TUXEDO-Some-Drivers-GPLv2)
+
 ## 20241115
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Very Exciting With New Feature Code For AMD EPYC Zen 5, Intel Panter Lake](https://www.phoronix.com/news/Linux-6.13-Features-Early)
 

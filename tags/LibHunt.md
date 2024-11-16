@@ -1,3 +1,6 @@
+## 20241116
+- [LibHunt](https://www.libhunt.com/) | [Jenkins](https://www.libhunt.com/r/jenkins)
+
 ## 20241113
 - [LibHunt](https://www.libhunt.com/) | [Kanboard](https://www.libhunt.com/r/kanboard)
 

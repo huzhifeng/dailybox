@@ -1,3 +1,6 @@
+## 20241116
+- [GitHub Trending](https://github.com/trending?since=daily) | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+
 ## 20241115
 - [GitHub Trending](https://github.com/trending?since=daily) | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 
