@@ -1,3 +1,6 @@
+## 20241117
+- [LibHunt](https://www.libhunt.com/) | [mdBook](https://www.libhunt.com/r/mdBook)
+
 ## 20241116
 - [LibHunt](https://www.libhunt.com/) | [Jenkins](https://www.libhunt.com/r/jenkins)
 

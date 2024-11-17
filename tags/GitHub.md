@@ -1,3 +1,6 @@
+## 20241117
+- [GitHub Trending](https://github.com/trending?since=daily) | [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
+
 ## 20241116
 - [GitHub Trending](https://github.com/trending?since=daily) | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 

@@ -1,3 +1,6 @@
+## 20241117
+- [Product Hunt](https://www.producthunt.com) | [NFRT](https://www.producthunt.com/posts/nfrt)
+
 ## 20241114
 - [Product Hunt](https://www.producthunt.com) | [Futudo](https://www.producthunt.com/posts/futudo)
 

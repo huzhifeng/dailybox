@@ -1,3 +1,6 @@
+## 20241117
+- [9to5Linux](https://9to5linux.com/) | [Archinstall 3.0 Arch Linux Menu-Based Installer Is Here with a Revamped Interface](https://9to5linux.com/archinstall-3-0-arch-linux-installer-is-here-with-revamped-interface)
+
 ## 20241114
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.3 Office Suite Is Now Available for Download with 88 Bug Fixes](https://9to5linux.com/libreoffice-24-8-3-office-suite-is-now-available-for-download-with-88-bug-fixes)
 

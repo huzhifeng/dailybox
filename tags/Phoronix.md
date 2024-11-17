@@ -1,3 +1,6 @@
+## 20241117
+- [Phoronix](https://www.phoronix.com/) | [Linux Fixes Hosts Randomly Rebooting During Virtualization With Ryzen 7000/8000 CPUs](https://www.phoronix.com/news/Linux-Clear-VMLOAD-VMSAVE-Zen4)
+
 ## 20241116
 - [Phoronix](https://www.phoronix.com/) | [TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2](https://www.phoronix.com/news/TUXEDO-Some-Drivers-GPLv2)
 
