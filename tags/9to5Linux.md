@@ -1,3 +1,6 @@
+## 20241118
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 24.11 Open-Source Video Editor Released with Various Bug Fixes](https://9to5linux.com/shotcut-24-11-open-source-video-editor-released-with-various-bug-fixes)
+
 ## 20241117
 - [9to5Linux](https://9to5linux.com/) | [Archinstall 3.0 Arch Linux Menu-Based Installer Is Here with a Revamped Interface](https://9to5linux.com/archinstall-3-0-arch-linux-installer-is-here-with-revamped-interface)
 

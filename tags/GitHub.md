@@ -1,3 +1,6 @@
+## 20241118
+- [GitHub Trending](https://github.com/trending?since=daily) | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
 ## 20241117
 - [GitHub Trending](https://github.com/trending?since=daily) | [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
 

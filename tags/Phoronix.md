@@ -1,3 +1,6 @@
+## 20241118
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Development Shifts From Features To Bug Fixing](https://www.phoronix.com/news/GCC-15-Enters-Stage-3)
+
 ## 20241117
 - [Phoronix](https://www.phoronix.com/) | [Linux Fixes Hosts Randomly Rebooting During Virtualization With Ryzen 7000/8000 CPUs](https://www.phoronix.com/news/Linux-Clear-VMLOAD-VMSAVE-Zen4)
 

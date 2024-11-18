@@ -1,3 +1,6 @@
+## 20241118
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-17](https://www.daemonology.net/hn-daily/2024-11-17.html)
+
 ## 20241117
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-16](https://www.daemonology.net/hn-daily/2024-11-16.html)
 - [Hacker News](https://news.ycombinator.com/front) | [CSS gets a new logo and it uses the color `rebeccapurple`](https://news.ycombinator.com/item?id=42161919)

@@ -1,3 +1,6 @@
+## 20241118
+- [V2EX](https://www.v2ex.com/) | [信创服务器选型](https://www.v2ex.com/t/1090454)
+
 ## 20241117
 - [V2EX](https://www.v2ex.com/) | [2024 年， Nas 系统选那个？](https://www.v2ex.com/t/1090263)
 

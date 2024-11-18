@@ -1,3 +1,6 @@
+## 20241118
+- [It's FOSS](https://itsfoss.com/) | [What's the Deal with Raspberry Pi's New SD Card? A Hands-On Review](https://itsfoss.com/raspberry-pi-sd-card/)
+
 ## 20241117
 - [It's FOSS](https://itsfoss.com/) | [This Simple Change Improved the Performance of My Homelab Running on Raspberry Pi](https://itsfoss.com/pi-swap-increase/)
 

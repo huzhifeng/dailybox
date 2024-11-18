@@ -1,3 +1,6 @@
+## 20241118
+- [Product Hunt](https://www.producthunt.com) | [Locofy Pro](https://www.producthunt.com/posts/locofy-pro)
+
 ## 20241117
 - [Product Hunt](https://www.producthunt.com) | [NFRT](https://www.producthunt.com/posts/nfrt)
 

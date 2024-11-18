@@ -1,3 +1,6 @@
+## 20241118
+- [LibHunt](https://www.libhunt.com/) | [Avalonia](https://www.libhunt.com/r/Avalonia)
+
 ## 20241117
 - [LibHunt](https://www.libhunt.com/) | [mdBook](https://www.libhunt.com/r/mdBook)
 
