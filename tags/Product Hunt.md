@@ -1,3 +1,6 @@
+## 20241119
+- [Product Hunt](https://www.producthunt.com) | [Blitzit](https://www.producthunt.com/posts/blitzit-2)
+
 ## 20241118
 - [Product Hunt](https://www.producthunt.com) | [Locofy Pro](https://www.producthunt.com/posts/locofy-pro)
 

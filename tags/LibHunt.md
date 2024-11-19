@@ -1,3 +1,6 @@
+## 20241119
+- [LibHunt](https://www.libhunt.com/) | [terraform](https://www.libhunt.com/r/terraform)
+
 ## 20241118
 - [LibHunt](https://www.libhunt.com/) | [Avalonia](https://www.libhunt.com/r/Avalonia)
 

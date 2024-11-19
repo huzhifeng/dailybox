@@ -1,3 +1,6 @@
+## 20241119
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 PM Switches EPYC Turin To AMD P-State, More Aggressive Default For Intel GNR](https://www.phoronix.com/news/Linux-6.13-Power-Management)
+
 ## 20241118
 - [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Development Shifts From Features To Bug Fixing](https://www.phoronix.com/news/GCC-15-Enters-Stage-3)
 

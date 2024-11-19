@@ -1,3 +1,6 @@
+## 20241119
+- [It's FOSS](https://itsfoss.com/) | [Benchmarking Your Linux System: What, Why and How](https://itsfoss.com/benchmark-tools-linux/)
+
 ## 20241118
 - [It's FOSS](https://itsfoss.com/) | [What's the Deal with Raspberry Pi's New SD Card? A Hands-On Review](https://itsfoss.com/raspberry-pi-sd-card/)
 

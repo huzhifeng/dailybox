@@ -1,3 +1,6 @@
+## 20241119
+- [GitHub Trending](https://github.com/trending?since=daily) | [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+
 ## 20241118
 - [GitHub Trending](https://github.com/trending?since=daily) | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
