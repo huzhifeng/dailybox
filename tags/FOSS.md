@@ -1,3 +1,6 @@
+## 20241120
+- [It's FOSS](https://itsfoss.com/) | [Installing the Much Hyped Hyprland on Linux](https://itsfoss.com/install-hyprland/)
+
 ## 20241119
 - [It's FOSS](https://itsfoss.com/) | [Benchmarking Your Linux System: What, Why and How](https://itsfoss.com/benchmark-tools-linux/)
 

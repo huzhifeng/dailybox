@@ -1,3 +1,6 @@
+## 20241120
+- [V2EX](https://www.v2ex.com/) | [关于个人境外收入报税问题](https://www.v2ex.com/t/1091157)
+
 ## 20241119
 - [V2EX](https://www.v2ex.com/) | [鉴于看到很多 V 友 Apple 全设备/平台用微信输入法，来泼个冷水](https://www.v2ex.com/t/1090787)
 

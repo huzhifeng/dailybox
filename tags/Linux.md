@@ -1,3 +1,6 @@
+## 20241120
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi Camera Front End "CFE" Video Capture With Linux 6.13](https://www.phoronix.com/news/Raspberry-Pi-CFE-Linux-6.13)
+
 ## 20241119
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 PM Switches EPYC Turin To AMD P-State, More Aggressive Default For Intel GNR](https://www.phoronix.com/news/Linux-6.13-Power-Management)
 - [9to5Linux](https://9to5linux.com/) | [FreeCAD 1.0 Open-Source 3D Parametric Modeler Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/freecad-1-0-open-source-3d-parametric-modeler-released-heres-whats-new)

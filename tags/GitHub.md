@@ -1,3 +1,7 @@
+## 20241120
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/garak](https://github.com/NVIDIA/garak)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
+
 ## 20241119
 - [GitHub Trending](https://github.com/trending?since=daily) | [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
