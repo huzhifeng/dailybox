@@ -1,3 +1,7 @@
+## 20241121
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-20](https://www.daemonology.net/hn-daily/2024-11-20.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Everyone is capable of, and can benefit from, mathematical thinking](https://news.ycombinator.com/item?id=42200209)
+
 ## 20241120
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-19](https://www.daemonology.net/hn-daily/2024-11-19.html)
 

@@ -1,3 +1,6 @@
+## 20241121
+- [Product Hunt](https://www.producthunt.com) | [Maxim](https://www.producthunt.com/posts/maxim)
+
 ## 20241120
 - [Product Hunt](https://www.producthunt.com) | [Postiz](https://www.producthunt.com/posts/postiz)
 

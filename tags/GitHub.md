@@ -1,3 +1,6 @@
+## 20241121
+- [GitHub Trending](https://github.com/trending?since=daily) | [leaningtech/webvm](https://github.com/leaningtech/webvm)
+
 ## 20241120
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/garak](https://github.com/NVIDIA/garak)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)

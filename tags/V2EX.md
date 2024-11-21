@@ -1,3 +1,6 @@
+## 20241121
+- [V2EX](https://www.v2ex.com/) | [遇见恶性事件，我们应该上前制止吗？](https://www.v2ex.com/t/1091563)
+
 ## 20241120
 - [V2EX](https://www.v2ex.com/) | [关于个人境外收入报税问题](https://www.v2ex.com/t/1091157)
 

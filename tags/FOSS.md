@@ -1,3 +1,6 @@
+## 20241121
+- [It's FOSS](https://itsfoss.com/) | [Customizing Hyprland to Your Liking](https://itsfoss.com/configuring-hyprland/)
+
 ## 20241120
 - [It's FOSS](https://itsfoss.com/) | [Installing the Much Hyped Hyprland on Linux](https://itsfoss.com/install-hyprland/)
 
