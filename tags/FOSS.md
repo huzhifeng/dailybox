@@ -1,3 +1,6 @@
+## 20241122
+- [It's FOSS](https://itsfoss.com/) | [Black Friday Deals for Linux Users — 2024 Edition](https://itsfoss.com/black-friday-linux-2024/)
+
 ## 20241121
 - [It's FOSS](https://itsfoss.com/) | [Customizing Hyprland to Your Liking](https://itsfoss.com/configuring-hyprland/)
 

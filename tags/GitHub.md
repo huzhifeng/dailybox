@@ -1,3 +1,6 @@
+## 20241122
+- [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
 ## 20241121
 - [GitHub Trending](https://github.com/trending?since=daily) | [leaningtech/webvm](https://github.com/leaningtech/webvm)
 

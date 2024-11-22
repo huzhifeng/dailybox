@@ -1,3 +1,6 @@
+## 20241122
+- [V2EX](https://www.v2ex.com/) | [服了，安卓打电话都有广告](https://www.v2ex.com/t/1091768)
+
 ## 20241121
 - [V2EX](https://www.v2ex.com/) | [遇见恶性事件，我们应该上前制止吗？](https://www.v2ex.com/t/1091563)
 

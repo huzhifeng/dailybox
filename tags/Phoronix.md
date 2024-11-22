@@ -1,3 +1,6 @@
+## 20241122
+- [Phoronix](https://www.phoronix.com/) | [AMD Bus Lock Trap Support Merged For Linux 6.13](https://www.phoronix.com/news/AMD-Bus-Lock-Trap-Linux-6.13)
+
 ## 20241121
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 SoC Updates Land With Initial Support For Many Older Apple Devices](https://www.phoronix.com/news/Linux-6.13-SoC-Updates)
 
