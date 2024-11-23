@@ -1,3 +1,6 @@
+## 20241123
+- [Product Hunt](https://www.producthunt.com) | [FormStory io](https://www.producthunt.com/posts/formstory-io)
+
 ## 20241121
 - [Product Hunt](https://www.producthunt.com) | [Maxim](https://www.producthunt.com/posts/maxim)
 

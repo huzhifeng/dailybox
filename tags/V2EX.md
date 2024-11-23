@@ -1,3 +1,6 @@
+## 20241123
+- [V2EX](https://www.v2ex.com/) | [黑五打折了..](https://www.v2ex.com/t/1091966)
+
 ## 20241122
 - [V2EX](https://www.v2ex.com/) | [服了，安卓打电话都有广告](https://www.v2ex.com/t/1091768)
 

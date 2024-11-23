@@ -1,3 +1,6 @@
+## 20241123
+- [GitHub Trending](https://github.com/trending?since=daily) | [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
+
 ## 20241122
 - [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 

@@ -1,3 +1,6 @@
+## 20241123
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Continues "Demikernel" Development LibOS For Kernel-Bypass I/O](https://www.phoronix.com/news/Microsoft-Demikernel-2024)
+
 ## 20241122
 - [Phoronix](https://www.phoronix.com/) | [AMD Bus Lock Trap Support Merged For Linux 6.13](https://www.phoronix.com/news/AMD-Bus-Lock-Trap-Linux-6.13)
 

@@ -1,3 +1,6 @@
+## 20241123
+- [LibHunt](https://www.libhunt.com/) | [electrobun](https://www.libhunt.com/r/electrobun)
+
 ## 20241121
 - [LibHunt](https://www.libhunt.com/) | [pds](https://www.libhunt.com/r/pds)
 
