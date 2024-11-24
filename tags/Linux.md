@@ -1,3 +1,6 @@
+## 20241124
+- [Phoronix](https://www.phoronix.com/) | [AMDXDNA Driver For Ryzen AI Now Ready To Appear In The Linux Kernel](https://www.phoronix.com/news/AMDXDNA-DRM-Misc-Next)
+
 ## 20241123
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Continues "Demikernel" Development LibOS For Kernel-Bypass I/O](https://www.phoronix.com/news/Microsoft-Demikernel-2024)
 

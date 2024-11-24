@@ -1,3 +1,6 @@
+## 20241124
+- [Product Hunt](https://www.producthunt.com) | [NVIDIA Edify 3D](https://www.producthunt.com/posts/nvidia-edify-3d)
+
 ## 20241123
 - [Product Hunt](https://www.producthunt.com) | [FormStory io](https://www.producthunt.com/posts/formstory-io)
 

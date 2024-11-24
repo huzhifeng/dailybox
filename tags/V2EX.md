@@ -1,3 +1,6 @@
+## 20241124
+- [V2EX](https://www.v2ex.com/) | [微软老想往 Edge 首页塞垃圾。](https://www.v2ex.com/t/1092153)
+
 ## 20241123
 - [V2EX](https://www.v2ex.com/) | [黑五打折了..](https://www.v2ex.com/t/1091966)
 

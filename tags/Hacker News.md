@@ -1,3 +1,7 @@
+## 20241124
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-23](https://www.daemonology.net/hn-daily/2024-11-23.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://news.ycombinator.com/item?id=42225481)
+
 ## 20241123
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-22](https://www.daemonology.net/hn-daily/2024-11-22.html)
 
