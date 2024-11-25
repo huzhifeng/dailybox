@@ -1,3 +1,6 @@
+## 20241125
+- [Phoronix](https://www.phoronix.com/) | [FUSE Enhancements Submitted For Linux 6.13](https://www.phoronix.com/news/Linux-6.13-FUSE)
+
 ## 20241124
 - [Phoronix](https://www.phoronix.com/) | [AMDXDNA Driver For Ryzen AI Now Ready To Appear In The Linux Kernel](https://www.phoronix.com/news/AMDXDNA-DRM-Misc-Next)
 

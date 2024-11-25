@@ -1,3 +1,6 @@
+## 20241125
+- [LibHunt](https://www.libhunt.com/) | [oh-my-posh](https://www.libhunt.com/r/oh-my-posh)
+
 ## 20241123
 - [LibHunt](https://www.libhunt.com/) | [electrobun](https://www.libhunt.com/r/electrobun)
 

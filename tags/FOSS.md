@@ -1,3 +1,6 @@
+## 20241125
+- [It's FOSS](https://itsfoss.com/) | [Automounting External Drives in Linux](https://itsfoss.com/automount-drives-linux/)
+
 ## 20241122
 - [It's FOSS](https://itsfoss.com/) | [Black Friday Deals for Linux Users — 2024 Edition](https://itsfoss.com/black-friday-linux-2024/)
 

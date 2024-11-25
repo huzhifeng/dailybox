@@ -1,3 +1,6 @@
+## 20241125
+- [GitHub Trending](https://github.com/trending?since=daily) | [xmrig/xmrig](https://github.com/xmrig/xmrig)
+
 ## 20241124
 - [GitHub Trending](https://github.com/trending?since=daily) | [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 

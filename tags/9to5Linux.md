@@ -1,3 +1,6 @@
+## 20241125
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 133 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-133-is-now-available-for-download-heres-whats-new)
+
 ## 20241119
 - [9to5Linux](https://9to5linux.com/) | [FreeCAD 1.0 Open-Source 3D Parametric Modeler Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/freecad-1-0-open-source-3d-parametric-modeler-released-heres-whats-new)
 

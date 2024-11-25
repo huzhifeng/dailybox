@@ -1,3 +1,7 @@
+## 20241125
+- [Phoronix](https://www.phoronix.com/) | [FUSE Enhancements Submitted For Linux 6.13](https://www.phoronix.com/news/Linux-6.13-FUSE)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 133 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-133-is-now-available-for-download-heres-whats-new)
+
 ## 20241124
 - [Phoronix](https://www.phoronix.com/) | [AMDXDNA Driver For Ryzen AI Now Ready To Appear In The Linux Kernel](https://www.phoronix.com/news/AMDXDNA-DRM-Misc-Next)
 
