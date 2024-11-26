@@ -1,3 +1,6 @@
+## 20241126
+- [9to5Linux](https://9to5linux.com/) | [Firefox 134 Enters Beta, Promises Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/firefox-134-enters-beta-promises-support-for-touchpad-hold-gestures-on-linux)
+
 ## 20241125
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 133 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-133-is-now-available-for-download-heres-whats-new)
 

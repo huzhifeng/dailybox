@@ -1,3 +1,6 @@
+## 20241126
+- [Phoronix](https://www.phoronix.com/) | [Intel Xe2 Lunar Lake Graphics Compute / OpenCL Performance Looking Great](https://www.phoronix.com/review/intel-xe2-lunarlake-compute)
+
 ## 20241125
 - [Phoronix](https://www.phoronix.com/) | [FUSE Enhancements Submitted For Linux 6.13](https://www.phoronix.com/news/Linux-6.13-FUSE)
 

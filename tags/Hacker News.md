@@ -1,3 +1,6 @@
+## 20241126
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-25](https://www.daemonology.net/hn-daily/2024-11-25.html)
+
 ## 20241125
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-24](https://www.daemonology.net/hn-daily/2024-11-24.html)
 - [Hacker News](https://news.ycombinator.com/front) | [RFC 35140: HTTP Do-Not-Stab (2023)](https://news.ycombinator.com/item?id=42232040)

@@ -1,3 +1,6 @@
+## 20241126
+- [LibHunt](https://www.libhunt.com/) | [postiz-app](https://www.libhunt.com/r/postiz-app)
+
 ## 20241125
 - [LibHunt](https://www.libhunt.com/) | [oh-my-posh](https://www.libhunt.com/r/oh-my-posh)
 

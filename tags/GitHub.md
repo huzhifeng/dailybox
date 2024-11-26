@@ -1,3 +1,6 @@
+## 20241126
+- [GitHub Trending](https://github.com/trending?since=daily) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
 ## 20241125
 - [GitHub Trending](https://github.com/trending?since=daily) | [xmrig/xmrig](https://github.com/xmrig/xmrig)
 

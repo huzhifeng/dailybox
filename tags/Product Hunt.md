@@ -1,3 +1,6 @@
+## 20241126
+- [Product Hunt](https://www.producthunt.com) | [KushoAI](https://www.producthunt.com/posts/kushoai-3)
+
 ## 20241125
 - [Product Hunt](https://www.producthunt.com) | [TabTab](https://www.producthunt.com/posts/tabtab-2)
 

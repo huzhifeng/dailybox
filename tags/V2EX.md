@@ -1,3 +1,6 @@
+## 20241126
+- [V2EX](https://www.v2ex.com/) | [去医院看发烧，检查花了 640](https://www.v2ex.com/t/1092795)
+
 ## 20241125
 - [V2EX](https://www.v2ex.com/) | [老婆批了 6000 预算，选择新显卡还是 oppo Find X8](https://www.v2ex.com/t/1092504)
 
