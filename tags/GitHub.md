@@ -1,3 +1,6 @@
+## 20241127
+- [GitHub Trending](https://github.com/trending?since=daily) | [langgenius/dify](https://github.com/langgenius/dify)
+
 ## 20241126
 - [GitHub Trending](https://github.com/trending?since=daily) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 

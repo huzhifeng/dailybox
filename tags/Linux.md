@@ -1,3 +1,7 @@
+## 20241127
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 SoundWire Preps DisCo 2.0 Support](https://www.phoronix.com/news/Linux-6.13-SoundWire-DisCo-2.0)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5](https://9to5linux.com/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5)
+
 ## 20241126
 - [Phoronix](https://www.phoronix.com/) | [Intel Xe2 Lunar Lake Graphics Compute / OpenCL Performance Looking Great](https://www.phoronix.com/review/intel-xe2-lunarlake-compute)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 134 Enters Beta, Promises Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/firefox-134-enters-beta-promises-support-for-touchpad-hold-gestures-on-linux)

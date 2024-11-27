@@ -1,3 +1,6 @@
+## 20241127
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/)
+
 ## 20241125
 - [It's FOSS](https://itsfoss.com/) | [Automounting External Drives in Linux](https://itsfoss.com/automount-drives-linux/)
 

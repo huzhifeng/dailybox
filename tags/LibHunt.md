@@ -1,3 +1,6 @@
+## 20241127
+- [LibHunt](https://www.libhunt.com/) | [samurai](https://www.libhunt.com/r/samurai)
+
 ## 20241126
 - [LibHunt](https://www.libhunt.com/) | [postiz-app](https://www.libhunt.com/r/postiz-app)
 

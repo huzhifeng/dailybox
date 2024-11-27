@@ -1,3 +1,6 @@
+## 20241127
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 SoundWire Preps DisCo 2.0 Support](https://www.phoronix.com/news/Linux-6.13-SoundWire-DisCo-2.0)
+
 ## 20241126
 - [Phoronix](https://www.phoronix.com/) | [Intel Xe2 Lunar Lake Graphics Compute / OpenCL Performance Looking Great](https://www.phoronix.com/review/intel-xe2-lunarlake-compute)
 

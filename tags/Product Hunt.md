@@ -1,3 +1,6 @@
+## 20241127
+- [Product Hunt](https://www.producthunt.com) | [Magicroll.ai](https://www.producthunt.com/posts/magicroll-ai)
+
 ## 20241126
 - [Product Hunt](https://www.producthunt.com) | [KushoAI](https://www.producthunt.com/posts/kushoai-3)
 
