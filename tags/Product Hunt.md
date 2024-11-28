@@ -1,3 +1,6 @@
+## 20241128
+- [Product Hunt](https://www.producthunt.com) | [AnalyzeSphere](https://www.producthunt.com/posts/analyzesphere)
+
 ## 20241127
 - [Product Hunt](https://www.producthunt.com) | [Magicroll.ai](https://www.producthunt.com/posts/magicroll-ai)
 

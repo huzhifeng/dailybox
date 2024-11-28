@@ -1,3 +1,6 @@
+## 20241128
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-27](https://www.daemonology.net/hn-daily/2024-11-27.html)
+
 ## 20241127
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-26](https://www.daemonology.net/hn-daily/2024-11-26.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: App that asks ‘why?’ every time you unlock your phone](https://news.ycombinator.com/item?id=42254156)

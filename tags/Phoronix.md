@@ -1,3 +1,6 @@
+## 20241128
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Performance Bottlenecks Spotted By Mold Developer](https://www.phoronix.com/news/Linux-Kernel-Bottlenecks-Mold)
+
 ## 20241127
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 SoundWire Preps DisCo 2.0 Support](https://www.phoronix.com/news/Linux-6.13-SoundWire-DisCo-2.0)
 

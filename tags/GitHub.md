@@ -1,3 +1,6 @@
+## 20241128
+- [GitHub Trending](https://github.com/trending?since=daily) | [renovatebot/renovate](https://github.com/renovatebot/renovate)
+
 ## 20241127
 - [GitHub Trending](https://github.com/trending?since=daily) | [langgenius/dify](https://github.com/langgenius/dify)
 

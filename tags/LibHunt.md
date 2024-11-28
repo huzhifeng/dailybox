@@ -1,3 +1,6 @@
+## 20241128
+- [LibHunt](https://www.libhunt.com/) | [OpenAI-DotNet](https://www.libhunt.com/r/RageAgainstThePixel/OpenAI-DotNet)
+
 ## 20241127
 - [LibHunt](https://www.libhunt.com/) | [samurai](https://www.libhunt.com/r/samurai)
 

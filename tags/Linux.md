@@ -1,3 +1,7 @@
+## 20241128
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Performance Bottlenecks Spotted By Mold Developer](https://www.phoronix.com/news/Linux-Kernel-Bottlenecks-Mold)
+- [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.4 Desktop Environment Released with Revamped Theme, Night Light](https://9to5linux.com/cinnamon-6-4-desktop-environment-released-with-revamped-theme-night-light)
+
 ## 20241127
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 SoundWire Preps DisCo 2.0 Support](https://www.phoronix.com/news/Linux-6.13-SoundWire-DisCo-2.0)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5](https://9to5linux.com/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5)

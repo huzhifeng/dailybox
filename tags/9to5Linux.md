@@ -1,3 +1,6 @@
+## 20241128
+- [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.4 Desktop Environment Released with Revamped Theme, Night Light](https://9to5linux.com/cinnamon-6-4-desktop-environment-released-with-revamped-theme-night-light)
+
 ## 20241127
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5](https://9to5linux.com/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5)
 
