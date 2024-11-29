@@ -1,3 +1,6 @@
+## 20241129
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-7 Released for Linux Phones with PulseAudio Security Fixes](https://9to5linux.com/ubuntu-touch-ota-7-released-for-linux-phones-with-pulseaudio-security-fixes)
+
 ## 20241128
 - [9to5Linux](https://9to5linux.com/) | [Cinnamon 6.4 Desktop Environment Released with Revamped Theme, Night Light](https://9to5linux.com/cinnamon-6-4-desktop-environment-released-with-revamped-theme-night-light)
 

@@ -1,3 +1,6 @@
+## 20241129
+- [Phoronix](https://www.phoronix.com/) | [AMD BIOS Tuning Guide Impact For Boosting AI/ML Performance On EPYC 9005 Series](https://www.phoronix.com/review/amd-epyc-ai-ml-tuning)
+
 ## 20241128
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Performance Bottlenecks Spotted By Mold Developer](https://www.phoronix.com/news/Linux-Kernel-Bottlenecks-Mold)
 

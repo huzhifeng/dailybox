@@ -1,3 +1,6 @@
+## 20241129
+- [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
+
 ## 20241128
 - [LibHunt](https://www.libhunt.com/) | [OpenAI-DotNet](https://www.libhunt.com/r/RageAgainstThePixel/OpenAI-DotNet)
 

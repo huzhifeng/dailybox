@@ -1,3 +1,6 @@
+## 20241129
+- [Product Hunt](https://www.producthunt.com) | [Bika.ai](https://www.producthunt.com/posts/bika-ai)
+
 ## 20241128
 - [Product Hunt](https://www.producthunt.com) | [AnalyzeSphere](https://www.producthunt.com/posts/analyzesphere)
 
