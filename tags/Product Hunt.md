@@ -1,3 +1,6 @@
+## 20241130
+- [Product Hunt](https://www.producthunt.com) | [Kroto ](https://www.producthunt.com/posts/kroto-3)
+
 ## 20241129
 - [Product Hunt](https://www.producthunt.com) | [Bika.ai](https://www.producthunt.com/posts/bika-ai)
 

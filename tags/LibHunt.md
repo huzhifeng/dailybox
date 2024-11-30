@@ -1,3 +1,6 @@
+## 20241130
+- [LibHunt](https://www.libhunt.com/) | [myduckserver](https://www.libhunt.com/r/myduckserver)
+
 ## 20241129
 - [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
 

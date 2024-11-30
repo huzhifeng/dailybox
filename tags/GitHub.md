@@ -1,3 +1,6 @@
+## 20241130
+- [GitHub Trending](https://github.com/trending?since=daily) | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
 ## 20241129
 - [GitHub Trending](https://github.com/trending?since=daily) | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 

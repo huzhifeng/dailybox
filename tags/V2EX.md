@@ -1,3 +1,6 @@
+## 20241130
+- [V2EX](https://www.v2ex.com/) | [31 岁的我就检查出颈动脉斑块 绝望](https://www.v2ex.com/t/1093962)
+
 ## 20241129
 - [V2EX](https://www.v2ex.com/) | [在数字游民社区住了一个月、随便说点"游民社区"的事儿](https://www.v2ex.com/t/1093626)
 

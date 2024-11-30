@@ -1,3 +1,6 @@
+## 20241130
+- [Phoronix](https://www.phoronix.com/) | [Wayland Color Management Protocol Might Finally Be Close To Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
+
 ## 20241129
 - [Phoronix](https://www.phoronix.com/) | [AMD BIOS Tuning Guide Impact For Boosting AI/ML Performance On EPYC 9005 Series](https://www.phoronix.com/review/amd-epyc-ai-ml-tuning)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-7 Released for Linux Phones with PulseAudio Security Fixes](https://9to5linux.com/ubuntu-touch-ota-7-released-for-linux-phones-with-pulseaudio-security-fixes)

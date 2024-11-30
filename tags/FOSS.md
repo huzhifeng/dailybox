@@ -1,3 +1,6 @@
+## 20241130
+- [It's FOSS](https://itsfoss.com/) | [9 Projects Ideas to Get into DIY Mode With Raspberry Pi Pico](https://itsfoss.com/raspberry-pi-pico-projects/)
+
 ## 20241127
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/)
 
