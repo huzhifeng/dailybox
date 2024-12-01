@@ -1,3 +1,6 @@
+## 20241201
+- [9to5Linux](https://9to5linux.com/) | [Last Arch Linux ISO Release for 2024 Brings Linux Kernel 6.12 and Archinstall 3.0](https://9to5linux.com/last-arch-linux-iso-release-for-2024-brings-linux-kernel-6-12-and-archinstall-3-0)
+
 ## 20241129
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA-7 Released for Linux Phones with PulseAudio Security Fixes](https://9to5linux.com/ubuntu-touch-ota-7-released-for-linux-phones-with-pulseaudio-security-fixes)
 

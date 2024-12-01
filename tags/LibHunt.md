@@ -1,3 +1,6 @@
+## 20241201
+- [LibHunt](https://www.libhunt.com/) | [awesome-compose](https://www.libhunt.com/r/awesome-compose)
+
 ## 20241130
 - [LibHunt](https://www.libhunt.com/) | [myduckserver](https://www.libhunt.com/r/myduckserver)
 

@@ -1,3 +1,6 @@
+## 20241201
+- [Phoronix](https://www.phoronix.com/) | [Turbostat Utility Lands New Features With Linux 6.13](https://www.phoronix.com/news/Linux-6.13-Turbostat)
+
 ## 20241130
 - [Phoronix](https://www.phoronix.com/) | [Wayland Color Management Protocol Might Finally Be Close To Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
 

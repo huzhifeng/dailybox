@@ -1,3 +1,6 @@
+## 20241201
+- [V2EX](https://www.v2ex.com/) | [明明 lets encrypt 可以提供免费证书, 为什么很多人还要花大钱买](https://www.v2ex.com/t/1094129)
+
 ## 20241130
 - [V2EX](https://www.v2ex.com/) | [31 岁的我就检查出颈动脉斑块 绝望](https://www.v2ex.com/t/1093962)
 
