@@ -1,3 +1,6 @@
+## 20241202
+- [It's FOSS](https://itsfoss.com/) | [5 Privacy-Focused Notion Alternatives That I Tried!](https://itsfoss.com/notion-alternatives/)
+
 ## 20241130
 - [It's FOSS](https://itsfoss.com/) | [9 Projects Ideas to Get into DIY Mode With Raspberry Pi Pico](https://itsfoss.com/raspberry-pi-pico-projects/)
 

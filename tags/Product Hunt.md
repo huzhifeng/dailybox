@@ -1,3 +1,6 @@
+## 20241202
+- [Product Hunt](https://www.producthunt.com) | [Pileometer](https://www.producthunt.com/posts/pileometer)
+
 ## 20241130
 - [Product Hunt](https://www.producthunt.com) | [Kroto ](https://www.producthunt.com/posts/kroto-3)
 

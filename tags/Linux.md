@@ -1,3 +1,7 @@
+## 20241202
+- [Phoronix](https://www.phoronix.com/) | [AMD Per-Core Energy Counter Support Slated For Linux 6.14](https://www.phoronix.com/news/AMD-Per-Core-Energy-Linux-6.14)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-1st-2024)
+
 ## 20241201
 - [Phoronix](https://www.phoronix.com/) | [Turbostat Utility Lands New Features With Linux 6.13](https://www.phoronix.com/news/Linux-6.13-Turbostat)
 - [9to5Linux](https://9to5linux.com/) | [Last Arch Linux ISO Release for 2024 Brings Linux Kernel 6.12 and Archinstall 3.0](https://9to5linux.com/last-arch-linux-iso-release-for-2024-brings-linux-kernel-6-12-and-archinstall-3-0)

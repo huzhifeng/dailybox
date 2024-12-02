@@ -1,3 +1,6 @@
+## 20241202
+- [Phoronix](https://www.phoronix.com/) | [AMD Per-Core Energy Counter Support Slated For Linux 6.14](https://www.phoronix.com/news/AMD-Per-Core-Energy-Linux-6.14)
+
 ## 20241201
 - [Phoronix](https://www.phoronix.com/) | [Turbostat Utility Lands New Features With Linux 6.13](https://www.phoronix.com/news/Linux-6.13-Turbostat)
 

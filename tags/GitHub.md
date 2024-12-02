@@ -1,3 +1,6 @@
+## 20241202
+- [GitHub Trending](https://github.com/trending?since=daily) | [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+
 ## 20241201
 - [GitHub Trending](https://github.com/trending?since=daily) | [keephq/keep](https://github.com/keephq/keep)
 

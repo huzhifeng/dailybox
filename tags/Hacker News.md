@@ -1,3 +1,7 @@
+## 20241202
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-01](https://www.daemonology.net/hn-daily/2024-12-01.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Intel Announces Retirement of CEO Pat Gelsinger](https://news.ycombinator.com/item?id=42296067)
+
 ## 20241201
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-11-30](https://www.daemonology.net/hn-daily/2024-11-30.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Advent of Code 2024](https://news.ycombinator.com/item?id=42287231)

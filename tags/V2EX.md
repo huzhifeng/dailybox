@@ -1,3 +1,6 @@
+## 20241202
+- [V2EX](https://www.v2ex.com/) | [每天跑 5~10 万步能减多少？](https://www.v2ex.com/t/1094331)
+
 ## 20241201
 - [V2EX](https://www.v2ex.com/) | [明明 lets encrypt 可以提供免费证书, 为什么很多人还要花大钱买](https://www.v2ex.com/t/1094129)
 

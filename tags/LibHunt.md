@@ -1,3 +1,6 @@
+## 20241202
+- [LibHunt](https://www.libhunt.com/) | [circuit_training](https://www.libhunt.com/r/circuit_training)
+
 ## 20241201
 - [LibHunt](https://www.libhunt.com/) | [awesome-compose](https://www.libhunt.com/r/awesome-compose)
 
