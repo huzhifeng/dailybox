@@ -1,3 +1,6 @@
+## 20241203
+- [LibHunt](https://www.libhunt.com/) | [stagehand](https://www.libhunt.com/r/stagehand)
+
 ## 20241202
 - [LibHunt](https://www.libhunt.com/) | [circuit_training](https://www.libhunt.com/r/circuit_training)
 

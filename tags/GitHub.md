@@ -1,3 +1,6 @@
+## 20241203
+- [GitHub Trending](https://github.com/trending?since=daily) | [myhhub/stock](https://github.com/myhhub/stock)
+
 ## 20241202
 - [GitHub Trending](https://github.com/trending?since=daily) | [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 

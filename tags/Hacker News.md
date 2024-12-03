@@ -1,3 +1,7 @@
+## 20241203
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-02](https://www.daemonology.net/hn-daily/2024-12-02.html)
+- [Hacker News](https://news.ycombinator.com/front) | [South Korean president declares emergency martial law](https://news.ycombinator.com/item?id=42306020)
+
 ## 20241202
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-01](https://www.daemonology.net/hn-daily/2024-12-01.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Intel Announces Retirement of CEO Pat Gelsinger](https://news.ycombinator.com/item?id=42296067)

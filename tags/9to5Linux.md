@@ -1,3 +1,6 @@
+## 20241203
+- [9to5Linux](https://9to5linux.com/) | [Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users](https://9to5linux.com/nitrux-3-8-released-with-linux-kernel-6-12-better-support-for-nvidia-users)
+
 ## 20241202
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-1st-2024)
 

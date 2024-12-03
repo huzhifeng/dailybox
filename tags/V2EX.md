@@ -1,3 +1,6 @@
+## 20241203
+- [V2EX](https://www.v2ex.com/) | [如何花小钱（例如 500 块）获取一定的快乐？](https://www.v2ex.com/t/1094720)
+
 ## 20241202
 - [V2EX](https://www.v2ex.com/) | [每天跑 5~10 万步能减多少？](https://www.v2ex.com/t/1094331)
 

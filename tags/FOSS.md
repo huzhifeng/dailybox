@@ -1,3 +1,6 @@
+## 20241203
+- [It's FOSS](https://itsfoss.com/) | [This Single Proton Pass Feature Saved My Inbox](https://itsfoss.com/proton-pass-hide-my-email/)
+
 ## 20241202
 - [It's FOSS](https://itsfoss.com/) | [5 Privacy-Focused Notion Alternatives That I Tried!](https://itsfoss.com/notion-alternatives/)
 

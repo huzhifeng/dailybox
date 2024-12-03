@@ -1,3 +1,6 @@
+## 20241203
+- [Product Hunt](https://www.producthunt.com) | [Trigger.dev Realtime AI](https://www.producthunt.com/posts/trigger-dev-realtime-ai)
+
 ## 20241202
 - [Product Hunt](https://www.producthunt.com) | [Pileometer](https://www.producthunt.com/posts/pileometer)
 
