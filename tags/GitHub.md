@@ -1,3 +1,6 @@
+## 20241204
+- [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ## 20241203
 - [GitHub Trending](https://github.com/trending?since=daily) | [myhhub/stock](https://github.com/myhhub/stock)
 

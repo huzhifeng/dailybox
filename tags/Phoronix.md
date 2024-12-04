@@ -1,3 +1,6 @@
+## 20241204
+- [Phoronix](https://www.phoronix.com/) | [OpenVPN DCO Looks Like It Might Be Ready For Linux 6.14 To Speed-Up VPN Performance](https://www.phoronix.com/news/OpenVPN-Data-Channel-DCO-Soon)
+
 ## 20241203
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces Arc B-Series "Battlemage" Discrete Graphics With Linux Support](https://www.phoronix.com/review/intel-arc-b580-battlemage)
 

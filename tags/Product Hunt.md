@@ -1,3 +1,6 @@
+## 20241204
+- [Product Hunt](https://www.producthunt.com) | [Coval (YC S24)](https://www.producthunt.com/posts/coval-yc-s24)
+
 ## 20241203
 - [Product Hunt](https://www.producthunt.com) | [Trigger.dev Realtime AI](https://www.producthunt.com/posts/trigger-dev-realtime-ai)
 

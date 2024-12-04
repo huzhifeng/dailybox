@@ -1,3 +1,6 @@
+## 20241204
+- [LibHunt](https://www.libhunt.com/) | [flow](https://www.libhunt.com/r/lmnr-ai/flow)
+
 ## 20241203
 - [LibHunt](https://www.libhunt.com/) | [stagehand](https://www.libhunt.com/r/stagehand)
 

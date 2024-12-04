@@ -1,3 +1,6 @@
+## 20241204
+- [9to5Linux](https://9to5linux.com/) | [This Is the Default Theme of Debian GNU/Linux 13 “Trixie”](https://9to5linux.com/this-is-the-default-theme-of-debian-gnu-linux-13-trixie)
+
 ## 20241203
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users](https://9to5linux.com/nitrux-3-8-released-with-linux-kernel-6-12-better-support-for-nvidia-users)
 

@@ -1,3 +1,7 @@
+## 20241204
+- [Phoronix](https://www.phoronix.com/) | [OpenVPN DCO Looks Like It Might Be Ready For Linux 6.14 To Speed-Up VPN Performance](https://www.phoronix.com/news/OpenVPN-Data-Channel-DCO-Soon)
+- [9to5Linux](https://9to5linux.com/) | [This Is the Default Theme of Debian GNU/Linux 13 “Trixie”](https://9to5linux.com/this-is-the-default-theme-of-debian-gnu-linux-13-trixie)
+
 ## 20241203
 - [Phoronix](https://www.phoronix.com/) | [Intel Announces Arc B-Series "Battlemage" Discrete Graphics With Linux Support](https://www.phoronix.com/review/intel-arc-b580-battlemage)
 - [9to5Linux](https://9to5linux.com/) | [Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users](https://9to5linux.com/nitrux-3-8-released-with-linux-kernel-6-12-better-support-for-nvidia-users)
