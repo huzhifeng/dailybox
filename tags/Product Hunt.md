@@ -1,3 +1,6 @@
+## 20241205
+- [Product Hunt](https://www.producthunt.com) | [SDRx](https://www.producthunt.com/posts/sdrx)
+
 ## 20241204
 - [Product Hunt](https://www.producthunt.com) | [Coval (YC S24)](https://www.producthunt.com/posts/coval-yc-s24)
 

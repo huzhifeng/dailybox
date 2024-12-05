@@ -1,3 +1,7 @@
+## 20241205
+- [GitHub Trending](https://github.com/trending?since=daily) | [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Priyanshuu-2109/GATE-CSE-notes](https://github.com/Priyanshuu-2109/GATE-CSE-notes)
+
 ## 20241204
 - [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 

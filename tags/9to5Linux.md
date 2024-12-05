@@ -1,3 +1,6 @@
+## 20241205
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 565 Linux Graphics Driver Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/nvidia-565-linux-graphics-driver-is-now-available-for-download-heres-whats-new)
+
 ## 20241204
 - [9to5Linux](https://9to5linux.com/) | [This Is the Default Theme of Debian GNU/Linux 13 “Trixie”](https://9to5linux.com/this-is-the-default-theme-of-debian-gnu-linux-13-trixie)
 

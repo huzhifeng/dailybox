@@ -1,3 +1,6 @@
+## 20241205
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.49: KDE's Own Distro, Cinnamon 6.4, OpenWrt's First Router, Bootkit Malware in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-49/)
+
 ## 20241203
 - [It's FOSS](https://itsfoss.com/) | [This Single Proton Pass Feature Saved My Inbox](https://itsfoss.com/proton-pass-hide-my-email/)
 

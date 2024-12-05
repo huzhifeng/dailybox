@@ -1,3 +1,6 @@
+## 20241205
+- [Phoronix](https://www.phoronix.com/) | [COSMIC Alpha 4 Released For System76's Rust-Based Desktop](https://www.phoronix.com/news/COSMIC-Alpha-4-Released)
+
 ## 20241204
 - [Phoronix](https://www.phoronix.com/) | [OpenVPN DCO Looks Like It Might Be Ready For Linux 6.14 To Speed-Up VPN Performance](https://www.phoronix.com/news/OpenVPN-Data-Channel-DCO-Soon)
 

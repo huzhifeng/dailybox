@@ -1,3 +1,6 @@
+## 20241205
+- [LibHunt](https://www.libhunt.com/) | [pydantic-ai](https://www.libhunt.com/r/pydantic-ai)
+
 ## 20241204
 - [LibHunt](https://www.libhunt.com/) | [flow](https://www.libhunt.com/r/lmnr-ai/flow)
 

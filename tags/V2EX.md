@@ -1,3 +1,6 @@
+## 20241205
+- [V2EX](https://www.v2ex.com/) | [交往半年，妹妹闹出“人命”，我该怎么办](https://www.v2ex.com/t/1095239)
+
 ## 20241204
 - [V2EX](https://www.v2ex.com/) | [大家有没有见过没有使用依赖注入的复杂 Go 开源项目](https://www.v2ex.com/t/1094915)
 
