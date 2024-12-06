@@ -1,3 +1,6 @@
+## 20241206
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.1 Released with Simplified and Smoother Upgrades](https://9to5linux.com/opensuse-leap-micro-6-1-released-with-simplified-and-smoother-upgrades)
+
 ## 20241205
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 565 Linux Graphics Driver Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/nvidia-565-linux-graphics-driver-is-now-available-for-download-heres-whats-new)
 

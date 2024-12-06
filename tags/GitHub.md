@@ -1,3 +1,6 @@
+## 20241206
+- [GitHub Trending](https://github.com/trending?since=daily) | [FoundationVision/VAR](https://github.com/FoundationVision/VAR)
+
 ## 20241205
 - [GitHub Trending](https://github.com/trending?since=daily) | [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Priyanshuu-2109/GATE-CSE-notes](https://github.com/Priyanshuu-2109/GATE-CSE-notes)

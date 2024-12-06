@@ -1,3 +1,6 @@
+## 20241206
+- [V2EX](https://www.v2ex.com/) | [为啥今年汽车保费突然上涨了好多](https://www.v2ex.com/t/1095495)
+
 ## 20241205
 - [V2EX](https://www.v2ex.com/) | [交往半年，妹妹闹出“人命”，我该怎么办](https://www.v2ex.com/t/1095239)
 

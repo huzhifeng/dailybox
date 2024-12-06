@@ -1,3 +1,6 @@
+## 20241206
+- [Phoronix](https://www.phoronix.com/) | [Linux Preps For Kunpeng ARM Server SoC With High Bandwidth Memory](https://www.phoronix.com/news/Huawei-Kunpeng-HBM-Linux)
+
 ## 20241205
 - [Phoronix](https://www.phoronix.com/) | [COSMIC Alpha 4 Released For System76's Rust-Based Desktop](https://www.phoronix.com/news/COSMIC-Alpha-4-Released)
 

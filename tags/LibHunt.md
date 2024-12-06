@@ -1,3 +1,6 @@
+## 20241206
+- [LibHunt](https://www.libhunt.com/) | [acton](https://www.libhunt.com/r/acton)
+
 ## 20241205
 - [LibHunt](https://www.libhunt.com/) | [pydantic-ai](https://www.libhunt.com/r/pydantic-ai)
 

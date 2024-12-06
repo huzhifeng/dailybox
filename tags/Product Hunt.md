@@ -1,3 +1,6 @@
+## 20241206
+- [Product Hunt](https://www.producthunt.com) | [WriteMore 2.0](https://www.producthunt.com/posts/writemore-2-0)
+
 ## 20241205
 - [Product Hunt](https://www.producthunt.com) | [SDRx](https://www.producthunt.com/posts/sdrx)
 
