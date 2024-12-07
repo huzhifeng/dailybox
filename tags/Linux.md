@@ -1,3 +1,7 @@
+## 20241207
+- [Phoronix](https://www.phoronix.com/) | [OpenWrt Affected By Security Issue That Could Have Led To Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 31.0 Released with NVIDIA Blur Filter and Background Blur](https://9to5linux.com/obs-studio-31-0-released-with-nvidia-blur-filter-and-background-blur)
+
 ## 20241206
 - [Phoronix](https://www.phoronix.com/) | [Linux Preps For Kunpeng ARM Server SoC With High Bandwidth Memory](https://www.phoronix.com/news/Huawei-Kunpeng-HBM-Linux)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.1 Released with Simplified and Smoother Upgrades](https://9to5linux.com/opensuse-leap-micro-6-1-released-with-simplified-and-smoother-upgrades)

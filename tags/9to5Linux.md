@@ -1,3 +1,6 @@
+## 20241207
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 31.0 Released with NVIDIA Blur Filter and Background Blur](https://9to5linux.com/obs-studio-31-0-released-with-nvidia-blur-filter-and-background-blur)
+
 ## 20241206
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap Micro 6.1 Released with Simplified and Smoother Upgrades](https://9to5linux.com/opensuse-leap-micro-6-1-released-with-simplified-and-smoother-upgrades)
 

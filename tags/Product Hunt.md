@@ -1,3 +1,6 @@
+## 20241207
+- [Product Hunt](https://www.producthunt.com) | [Countless.dev](https://www.producthunt.com/posts/countless-dev)
+
 ## 20241206
 - [Product Hunt](https://www.producthunt.com) | [WriteMore 2.0](https://www.producthunt.com/posts/writemore-2-0)
 

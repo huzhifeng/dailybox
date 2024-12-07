@@ -1,3 +1,6 @@
+## 20241207
+- [V2EX](https://www.v2ex.com/) | [git rebase 那么重要么???](https://www.v2ex.com/t/1095752)
+
 ## 20241206
 - [V2EX](https://www.v2ex.com/) | [为啥今年汽车保费突然上涨了好多](https://www.v2ex.com/t/1095495)
 

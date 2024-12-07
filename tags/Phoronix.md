@@ -1,3 +1,6 @@
+## 20241207
+- [Phoronix](https://www.phoronix.com/) | [OpenWrt Affected By Security Issue That Could Have Led To Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
+
 ## 20241206
 - [Phoronix](https://www.phoronix.com/) | [Linux Preps For Kunpeng ARM Server SoC With High Bandwidth Memory](https://www.phoronix.com/news/Huawei-Kunpeng-HBM-Linux)
 

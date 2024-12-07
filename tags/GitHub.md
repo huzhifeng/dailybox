@@ -1,3 +1,6 @@
+## 20241207
+- [GitHub Trending](https://github.com/trending?since=daily) | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
 ## 20241206
 - [GitHub Trending](https://github.com/trending?since=daily) | [FoundationVision/VAR](https://github.com/FoundationVision/VAR)
 
