@@ -1,3 +1,6 @@
+## 20241208
+- [Product Hunt](https://www.producthunt.com) | [AirMeet](https://www.producthunt.com/posts/airmeet-2)
+
 ## 20241207
 - [Product Hunt](https://www.producthunt.com) | [Countless.dev](https://www.producthunt.com/posts/countless-dev)
 

@@ -1,3 +1,6 @@
+## 20241208
+- [LibHunt](https://www.libhunt.com/) | [onlook](https://www.libhunt.com/r/onlook)
+
 ## 20241206
 - [LibHunt](https://www.libhunt.com/) | [acton](https://www.libhunt.com/r/acton)
 

@@ -1,3 +1,6 @@
+## 20241208
+- [V2EX](https://www.v2ex.com/) | [大家好，关于我转行矿工的生活](https://www.v2ex.com/t/1095904)
+
 ## 20241207
 - [V2EX](https://www.v2ex.com/) | [git rebase 那么重要么???](https://www.v2ex.com/t/1095752)
 

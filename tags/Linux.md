@@ -1,3 +1,6 @@
+## 20241208
+- [Phoronix](https://www.phoronix.com/) | [Linux EFI Zboot Abandoning "Compression Library Museum", Focusing On Gzip & Zstd](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
+
 ## 20241207
 - [Phoronix](https://www.phoronix.com/) | [OpenWrt Affected By Security Issue That Could Have Led To Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 31.0 Released with NVIDIA Blur Filter and Background Blur](https://9to5linux.com/obs-studio-31-0-released-with-nvidia-blur-filter-and-background-blur)
