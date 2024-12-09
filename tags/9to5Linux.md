@@ -1,3 +1,6 @@
+## 20241209
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 500 Computer Launches with the Official Raspberry Pi Monitor](https://9to5linux.com/raspberry-pi-500-computer-launches-with-the-official-raspberry-pi-monitor)
+
 ## 20241207
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 31.0 Released with NVIDIA Blur Filter and Background Blur](https://9to5linux.com/obs-studio-31-0-released-with-nvidia-blur-filter-and-background-blur)
 

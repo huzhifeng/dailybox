@@ -1,3 +1,6 @@
+## 20241209
+- [It's FOSS](https://itsfoss.com/) | [How I Managed to Play AAA Games on Raspberry Pi](https://itsfoss.com/raspberry-pi-moonlight-setup/)
+
 ## 20241206
 - [It's FOSS](https://itsfoss.com/) | [Install raspi-config in Ubuntu on Raspberry Pi](https://itsfoss.com/install-raspi-config-ubuntu/)
 

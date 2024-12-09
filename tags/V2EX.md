@@ -1,3 +1,6 @@
+## 20241209
+- [V2EX](https://www.v2ex.com/) | [明天和意外,你永远不知道哪个会先来](https://www.v2ex.com/t/1096166)
+
 ## 20241208
 - [V2EX](https://www.v2ex.com/) | [大家好，关于我转行矿工的生活](https://www.v2ex.com/t/1095904)
 

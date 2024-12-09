@@ -1,3 +1,6 @@
+## 20241209
+- [Phoronix](https://www.phoronix.com/) | [Rust-Based, Memory-Safe PNG Decoders "Vastly Outperform" C-Based PNG Libraries](https://www.phoronix.com/news/Rust-PNG-Outperforms-C-PNG)
+
 ## 20241208
 - [Phoronix](https://www.phoronix.com/) | [Linux EFI Zboot Abandoning "Compression Library Museum", Focusing On Gzip & Zstd](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
 

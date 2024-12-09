@@ -1,3 +1,6 @@
+## 20241209
+- [GitHub Trending](https://github.com/trending?since=daily) | [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+
 ## 20241207
 - [GitHub Trending](https://github.com/trending?since=daily) | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 

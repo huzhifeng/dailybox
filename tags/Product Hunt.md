@@ -1,3 +1,6 @@
+## 20241209
+- [Product Hunt](https://www.producthunt.com) | [Affiliate+ From Lasso](https://www.producthunt.com/posts/affiliate-from-lasso-2)
+
 ## 20241208
 - [Product Hunt](https://www.producthunt.com) | [AirMeet](https://www.producthunt.com/posts/airmeet-2)
 

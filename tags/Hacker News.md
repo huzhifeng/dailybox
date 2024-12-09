@@ -1,3 +1,7 @@
+## 20241209
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-08](https://www.daemonology.net/hn-daily/2024-12-08.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Itch.io Taken Down by Funko](https://news.ycombinator.com/item?id=42363727)
+
 ## 20241208
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-07](https://www.daemonology.net/hn-daily/2024-12-07.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Nyxt: The Hacker's Browser](https://news.ycombinator.com/item?id=42354691)
