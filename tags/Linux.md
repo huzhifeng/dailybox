@@ -1,3 +1,6 @@
+## 20241210
+- [Phoronix](https://www.phoronix.com/) | [Perf Support For 2,048 CPU Cores Is Becoming Not Enough - Patches Bump Kernel Limit](https://www.phoronix.com/news/Perf-Support-2048-To-4096-Cores)
+
 ## 20241209
 - [Phoronix](https://www.phoronix.com/) | [Rust-Based, Memory-Safe PNG Decoders "Vastly Outperform" C-Based PNG Libraries](https://www.phoronix.com/news/Rust-PNG-Outperforms-C-PNG)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 500 Computer Launches with the Official Raspberry Pi Monitor](https://9to5linux.com/raspberry-pi-500-computer-launches-with-the-official-raspberry-pi-monitor)

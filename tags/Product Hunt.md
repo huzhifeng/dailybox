@@ -1,3 +1,6 @@
+## 20241210
+- [Product Hunt](https://www.producthunt.com) | [Aftercare](https://www.producthunt.com/posts/aftercare)
+
 ## 20241209
 - [Product Hunt](https://www.producthunt.com) | [Affiliate+ From Lasso](https://www.producthunt.com/posts/affiliate-from-lasso-2)
 

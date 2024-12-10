@@ -1,3 +1,7 @@
+## 20241210
+- [GitHub Trending](https://github.com/trending?since=daily) | [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [phamthong-eng/Adobe-Express-2025](https://github.com/phamthong-eng/Adobe-Express-2025)
+
 ## 20241209
 - [GitHub Trending](https://github.com/trending?since=daily) | [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 

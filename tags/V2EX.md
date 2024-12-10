@@ -1,3 +1,6 @@
+## 20241210
+- [V2EX](https://www.v2ex.com/) | [我们的开源项目有办公室了 落座邯郸 欢迎过来喝茶](https://www.v2ex.com/t/1096407)
+
 ## 20241209
 - [V2EX](https://www.v2ex.com/) | [明天和意外,你永远不知道哪个会先来](https://www.v2ex.com/t/1096166)
 

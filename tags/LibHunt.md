@@ -1,3 +1,6 @@
+## 20241210
+- [LibHunt](https://www.libhunt.com/) | [hmpl](https://www.libhunt.com/r/hmpl-language/hmpl)
+
 ## 20241208
 - [LibHunt](https://www.libhunt.com/) | [onlook](https://www.libhunt.com/r/onlook)
 
