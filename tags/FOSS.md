@@ -1,3 +1,6 @@
+## 20241211
+- [It's FOSS](https://itsfoss.com/) | [6 Open-Source Tools for Windows to Enhance Your Frustrating Experience](https://itsfoss.com/open-source-tools-windows/)
+
 ## 20241209
 - [It's FOSS](https://itsfoss.com/) | [How I Managed to Play AAA Games on Raspberry Pi](https://itsfoss.com/raspberry-pi-moonlight-setup/)
 

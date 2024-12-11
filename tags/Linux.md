@@ -1,3 +1,7 @@
+## 20241211
+- [Phoronix](https://www.phoronix.com/) | [OpenMandriva ROME 24.12 Released With KDE Plasma 6 Desktop By Default](https://www.phoronix.com/news/OpenMandriva-ROME-24.12)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.1 &#8220;Xia&#8221; Beta Is Now Available for Download with Cinnamon 6.4](https://9to5linux.com/linux-mint-22-1-xia-beta-is-now-available-for-download-with-cinnamon-6-4)
+
 ## 20241210
 - [Phoronix](https://www.phoronix.com/) | [Perf Support For 2,048 CPU Cores Is Becoming Not Enough - Patches Bump Kernel Limit](https://www.phoronix.com/news/Perf-Support-2048-To-4096-Cores)
 

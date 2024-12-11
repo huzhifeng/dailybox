@@ -1,3 +1,6 @@
+## 20241211
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-10](https://www.daemonology.net/hn-daily/2024-12-10.html)
+
 ## 20241210
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-09](https://www.daemonology.net/hn-daily/2024-12-09.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Tree Calculus](https://news.ycombinator.com/item?id=42373437)

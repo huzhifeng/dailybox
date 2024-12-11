@@ -1,3 +1,6 @@
+## 20241211
+- [V2EX](https://www.v2ex.com/) | [公司采购了 Cusror，并且要求开发强制使用，使用率不足就辞退](https://www.v2ex.com/t/1096692)
+
 ## 20241210
 - [V2EX](https://www.v2ex.com/) | [我们的开源项目有办公室了 落座邯郸 欢迎过来喝茶](https://www.v2ex.com/t/1096407)
 

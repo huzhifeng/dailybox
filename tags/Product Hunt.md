@@ -1,3 +1,6 @@
+## 20241211
+- [Product Hunt](https://www.producthunt.com) | [SmythOS](https://www.producthunt.com/posts/smythos)
+
 ## 20241210
 - [Product Hunt](https://www.producthunt.com) | [Aftercare](https://www.producthunt.com/posts/aftercare)
 
