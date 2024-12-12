@@ -1,3 +1,6 @@
+## 20241212
+- [Phoronix](https://www.phoronix.com/) | [Fedora COSMIC Desktop Spin Proposed For Fedora 42](https://www.phoronix.com/news/Fedora-42-COSMIC-Spin-Proposed)
+
 ## 20241211
 - [Phoronix](https://www.phoronix.com/) | [OpenMandriva ROME 24.12 Released With KDE Plasma 6 Desktop By Default](https://www.phoronix.com/news/OpenMandriva-ROME-24.12)
 

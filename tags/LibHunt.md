@@ -1,3 +1,6 @@
+## 20241212
+- [LibHunt](https://www.libhunt.com/) | [jj](https://www.libhunt.com/r/jj)
+
 ## 20241210
 - [LibHunt](https://www.libhunt.com/) | [hmpl](https://www.libhunt.com/r/hmpl-language/hmpl)
 

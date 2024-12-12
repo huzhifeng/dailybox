@@ -1,3 +1,7 @@
+## 20241212
+- [Phoronix](https://www.phoronix.com/) | [Fedora COSMIC Desktop Spin Proposed For Fedora 42](https://www.phoronix.com/news/Fedora-42-COSMIC-Spin-Proposed)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12 Officially Released, Finally Ports Dolphin to Mobile Devices](https://9to5linux.com/kde-gear-24-12-officially-released-finally-ports-dolphin-to-mobile-devices)
+
 ## 20241211
 - [Phoronix](https://www.phoronix.com/) | [OpenMandriva ROME 24.12 Released With KDE Plasma 6 Desktop By Default](https://www.phoronix.com/news/OpenMandriva-ROME-24.12)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.1 &#8220;Xia&#8221; Beta Is Now Available for Download with Cinnamon 6.4](https://9to5linux.com/linux-mint-22-1-xia-beta-is-now-available-for-download-with-cinnamon-6-4)

@@ -1,3 +1,6 @@
+## 20241212
+- [GitHub Trending](https://github.com/trending?since=daily) | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+
 ## 20241211
 - [GitHub Trending](https://github.com/trending?since=daily) | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 

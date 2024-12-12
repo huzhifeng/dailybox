@@ -1,3 +1,6 @@
+## 20241212
+- [V2EX](https://www.v2ex.com/) | [求助｜被狗撞骨折了，只有对方的微信号，还被拉黑了怎么办？](https://www.v2ex.com/t/1096983)
+
 ## 20241211
 - [V2EX](https://www.v2ex.com/) | [公司采购了 Cusror，并且要求开发强制使用，使用率不足就辞退](https://www.v2ex.com/t/1096692)
 

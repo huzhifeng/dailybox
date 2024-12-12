@@ -1,3 +1,7 @@
+## 20241212
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-11](https://www.daemonology.net/hn-daily/2024-12-11.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Timemap.org – Interactive Map of History](https://news.ycombinator.com/item?id=42397550)
+
 ## 20241211
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-10](https://www.daemonology.net/hn-daily/2024-12-10.html)
 

@@ -1,3 +1,6 @@
+## 20241212
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.50: Beautiful Distros, Open Source for Windows, Thunar Tweaks, Hyprpaper and More](https://itsfoss.com/newsletter/foss-weekly-24-50/)
+
 ## 20241211
 - [It's FOSS](https://itsfoss.com/) | [6 Open-Source Tools for Windows to Enhance Your Frustrating Experience](https://itsfoss.com/open-source-tools-windows/)
 

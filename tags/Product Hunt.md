@@ -1,3 +1,6 @@
+## 20241212
+- [Product Hunt](https://www.producthunt.com) | [Deta Surf](https://www.producthunt.com/posts/deta-surf)
+
 ## 20241211
 - [Product Hunt](https://www.producthunt.com) | [SmythOS](https://www.producthunt.com/posts/smythos)
 
