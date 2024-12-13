@@ -1,3 +1,6 @@
+## 20241213
+- [Product Hunt](https://www.producthunt.com) | [Eze Enterprise](https://www.producthunt.com/posts/eze-enterprise)
+
 ## 20241212
 - [Product Hunt](https://www.producthunt.com) | [Deta Surf](https://www.producthunt.com/posts/deta-surf)
 

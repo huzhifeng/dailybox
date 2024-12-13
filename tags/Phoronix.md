@@ -1,3 +1,6 @@
+## 20241213
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 Battlemage Linux Workstation Graphics Performance](https://www.phoronix.com/review/intel-arc-b580-workstation)
+
 ## 20241212
 - [Phoronix](https://www.phoronix.com/) | [Fedora COSMIC Desktop Spin Proposed For Fedora 42](https://www.phoronix.com/news/Fedora-42-COSMIC-Spin-Proposed)
 

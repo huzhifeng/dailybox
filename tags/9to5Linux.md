@@ -1,3 +1,6 @@
+## 20241213
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.9 Released with New Symbolic Icon for Wine, Various Fixes](https://9to5linux.com/kde-frameworks-6-9-released-with-new-symbolic-icon-for-wine-various-fixes)
+
 ## 20241212
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12 Officially Released, Finally Ports Dolphin to Mobile Devices](https://9to5linux.com/kde-gear-24-12-officially-released-finally-ports-dolphin-to-mobile-devices)
 

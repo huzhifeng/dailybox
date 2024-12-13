@@ -1,3 +1,7 @@
+## 20241213
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 Battlemage Linux Workstation Graphics Performance](https://www.phoronix.com/review/intel-arc-b580-workstation)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.9 Released with New Symbolic Icon for Wine, Various Fixes](https://9to5linux.com/kde-frameworks-6-9-released-with-new-symbolic-icon-for-wine-various-fixes)
+
 ## 20241212
 - [Phoronix](https://www.phoronix.com/) | [Fedora COSMIC Desktop Spin Proposed For Fedora 42](https://www.phoronix.com/news/Fedora-42-COSMIC-Spin-Proposed)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12 Officially Released, Finally Ports Dolphin to Mobile Devices](https://9to5linux.com/kde-gear-24-12-officially-released-finally-ports-dolphin-to-mobile-devices)

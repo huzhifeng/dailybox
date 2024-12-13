@@ -1,3 +1,6 @@
+## 20241213
+- [LibHunt](https://www.libhunt.com/) | [hn-new-jobs](https://www.libhunt.com/r/hn-new-jobs)
+
 ## 20241212
 - [LibHunt](https://www.libhunt.com/) | [jj](https://www.libhunt.com/r/jj)
 

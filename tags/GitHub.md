@@ -1,3 +1,6 @@
+## 20241213
+- [GitHub Trending](https://github.com/trending?since=daily) | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+
 ## 20241212
 - [GitHub Trending](https://github.com/trending?since=daily) | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
 
