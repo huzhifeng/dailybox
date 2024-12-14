@@ -1,3 +1,6 @@
+## 20241214
+- [Phoronix](https://www.phoronix.com/) | [Intel P-State Energy Aware Scheduling Patches Updated For Lunar Lake](https://www.phoronix.com/news/Intel-P-State-EAS-Lunar-Lake)
+
 ## 20241213
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 Battlemage Linux Workstation Graphics Performance](https://www.phoronix.com/review/intel-arc-b580-workstation)
 

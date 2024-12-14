@@ -1,3 +1,6 @@
+## 20241214
+- [LibHunt](https://www.libhunt.com/) | [vimac](https://www.libhunt.com/r/vimac)
+
 ## 20241213
 - [LibHunt](https://www.libhunt.com/) | [hn-new-jobs](https://www.libhunt.com/r/hn-new-jobs)
 

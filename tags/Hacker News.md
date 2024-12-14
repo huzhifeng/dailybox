@@ -1,3 +1,6 @@
+## 20241214
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-13](https://www.daemonology.net/hn-daily/2024-12-13.html)
+
 ## 20241213
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-12](https://www.daemonology.net/hn-daily/2024-12-12.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Show HN: I designed an espresso machine and coffee grinder](https://news.ycombinator.com/item?id=42405046)

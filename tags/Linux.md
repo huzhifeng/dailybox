@@ -1,3 +1,6 @@
+## 20241214
+- [Phoronix](https://www.phoronix.com/) | [Intel P-State Energy Aware Scheduling Patches Updated For Lunar Lake](https://www.phoronix.com/news/Intel-P-State-EAS-Lunar-Lake)
+
 ## 20241213
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 Battlemage Linux Workstation Graphics Performance](https://www.phoronix.com/review/intel-arc-b580-workstation)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.9 Released with New Symbolic Icon for Wine, Various Fixes](https://9to5linux.com/kde-frameworks-6-9-released-with-new-symbolic-icon-for-wine-various-fixes)

@@ -1,3 +1,6 @@
+## 20241214
+- [GitHub Trending](https://github.com/trending?since=daily) | [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
+
 ## 20241213
 - [GitHub Trending](https://github.com/trending?since=daily) | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
 

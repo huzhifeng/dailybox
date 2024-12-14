@@ -1,3 +1,6 @@
+## 20241214
+- [Product Hunt](https://www.producthunt.com) | [Google Gemini 2.0](https://www.producthunt.com/posts/google-gemini-2-0)
+
 ## 20241213
 - [Product Hunt](https://www.producthunt.com) | [Eze Enterprise](https://www.producthunt.com/posts/eze-enterprise)
 

@@ -1,3 +1,6 @@
+## 20241214
+- [It's FOSS](https://itsfoss.com/) | [How I Turned my Raspberry Pi into a Wi-Fi extender](https://itsfoss.com/raspberry-pi-wifi-extender/)
+
 ## 20241212
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.50: Beautiful Distros, Open Source for Windows, Thunar Tweaks, Hyprpaper and More](https://itsfoss.com/newsletter/foss-weekly-24-50/)
 
