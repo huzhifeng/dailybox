@@ -1,3 +1,6 @@
+## 20241215
+- [LibHunt](https://www.libhunt.com/) | [flitter](https://www.libhunt.com/r/flitter)
+
 ## 20241214
 - [LibHunt](https://www.libhunt.com/) | [vimac](https://www.libhunt.com/r/vimac)
 

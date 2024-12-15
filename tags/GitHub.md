@@ -1,3 +1,6 @@
+## 20241215
+- [GitHub Trending](https://github.com/trending?since=daily) | [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+
 ## 20241214
 - [GitHub Trending](https://github.com/trending?since=daily) | [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
 

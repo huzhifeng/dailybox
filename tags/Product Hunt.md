@@ -1,3 +1,6 @@
+## 20241215
+- [Product Hunt](https://www.producthunt.com) | [Pitch Perfect - VC Pitch](https://www.producthunt.com/posts/pitch-perfect-vc-pitch)
+
 ## 20241214
 - [Product Hunt](https://www.producthunt.com) | [Google Gemini 2.0](https://www.producthunt.com/posts/google-gemini-2-0)
 

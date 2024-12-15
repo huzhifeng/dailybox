@@ -1,3 +1,7 @@
+## 20241215
+- [Phoronix](https://www.phoronix.com/) | [Java Throughput/Latency & Power Efficiency Tuning For AMD EPYC Turin](https://www.phoronix.com/review/java-optimizations-epyc-turin)
+- [9to5Linux](https://9to5linux.com/) | [Xfce 4.20 Desktop Environment Released with Experimental Wayland Support](https://9to5linux.com/xfce-4-20-desktop-environment-released-with-experimental-wayland-support)
+
 ## 20241214
 - [Phoronix](https://www.phoronix.com/) | [Intel P-State Energy Aware Scheduling Patches Updated For Lunar Lake](https://www.phoronix.com/news/Intel-P-State-EAS-Lunar-Lake)
 

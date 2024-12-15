@@ -1,3 +1,6 @@
+## 20241215
+- [9to5Linux](https://9to5linux.com/) | [Xfce 4.20 Desktop Environment Released with Experimental Wayland Support](https://9to5linux.com/xfce-4-20-desktop-environment-released-with-experimental-wayland-support)
+
 ## 20241213
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.9 Released with New Symbolic Icon for Wine, Various Fixes](https://9to5linux.com/kde-frameworks-6-9-released-with-new-symbolic-icon-for-wine-various-fixes)
 
