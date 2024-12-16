@@ -1,3 +1,6 @@
+## 20241216
+- [GitHub Trending](https://github.com/trending?since=daily) | [midday-ai/midday](https://github.com/midday-ai/midday)
+
 ## 20241215
 - [GitHub Trending](https://github.com/trending?since=daily) | [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 

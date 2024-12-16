@@ -1,3 +1,6 @@
+## 20241216
+- [It's FOSS](https://itsfoss.com/) | [I Don't See a Reason to Switch to Windows from Linux Anymore in 2025](https://itsfoss.com/not-switching-to-windows/)
+
 ## 20241214
 - [It's FOSS](https://itsfoss.com/) | [How I Turned my Raspberry Pi into a Wi-Fi extender](https://itsfoss.com/raspberry-pi-wifi-extender/)
 

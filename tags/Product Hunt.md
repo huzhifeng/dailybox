@@ -1,3 +1,6 @@
+## 20241216
+- [Product Hunt](https://www.producthunt.com) | [Shapo](https://www.producthunt.com/posts/shapo)
+
 ## 20241215
 - [Product Hunt](https://www.producthunt.com) | [Pitch Perfect - VC Pitch](https://www.producthunt.com/posts/pitch-perfect-vc-pitch)
 

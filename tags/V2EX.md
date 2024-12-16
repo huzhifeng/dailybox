@@ -1,3 +1,6 @@
+## 20241216
+- [V2EX](https://www.v2ex.com/) | [苹果换华为近两周体验](https://www.v2ex.com/t/1097947)
+
 ## 20241215
 - [V2EX](https://www.v2ex.com/) | [接盘步梯老破小顶楼，距离四川的太阳更近一步](https://www.v2ex.com/t/1097674)
 

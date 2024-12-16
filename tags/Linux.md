@@ -1,3 +1,7 @@
+## 20241216
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Beta Performance Looks Great - Initial RHEL 9 vs. RHEL 10 Benchmarks](https://www.phoronix.com/review/rhel-10-beta-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20](https://9to5linux.com/slackware-based-porteux-1-8-is-one-of-the-first-distros-to-ship-with-xfce-4-20)
+
 ## 20241215
 - [Phoronix](https://www.phoronix.com/) | [Java Throughput/Latency & Power Efficiency Tuning For AMD EPYC Turin](https://www.phoronix.com/review/java-optimizations-epyc-turin)
 - [9to5Linux](https://9to5linux.com/) | [Xfce 4.20 Desktop Environment Released with Experimental Wayland Support](https://9to5linux.com/xfce-4-20-desktop-environment-released-with-experimental-wayland-support)

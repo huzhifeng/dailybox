@@ -1,3 +1,6 @@
+## 20241216
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Beta Performance Looks Great - Initial RHEL 9 vs. RHEL 10 Benchmarks](https://www.phoronix.com/review/rhel-10-beta-benchmarks)
+
 ## 20241215
 - [Phoronix](https://www.phoronix.com/) | [Java Throughput/Latency & Power Efficiency Tuning For AMD EPYC Turin](https://www.phoronix.com/review/java-optimizations-epyc-turin)
 
