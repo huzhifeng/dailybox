@@ -1,3 +1,6 @@
+## 20241217
+- [LibHunt](https://www.libhunt.com/) | [esbuild](https://www.libhunt.com/r/esbuild)
+
 ## 20241215
 - [LibHunt](https://www.libhunt.com/) | [flitter](https://www.libhunt.com/r/flitter)
 

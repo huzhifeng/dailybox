@@ -1,3 +1,6 @@
+## 20241217
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-16](https://www.daemonology.net/hn-daily/2024-12-16.html)
+
 ## 20241216
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-15](https://www.daemonology.net/hn-daily/2024-12-15.html)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenERV](https://news.ycombinator.com/item?id=42427888)

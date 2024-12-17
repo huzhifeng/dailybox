@@ -1,3 +1,6 @@
+## 20241217
+- [GitHub Trending](https://github.com/trending?since=daily) | [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+
 ## 20241216
 - [GitHub Trending](https://github.com/trending?since=daily) | [midday-ai/midday](https://github.com/midday-ai/midday)
 

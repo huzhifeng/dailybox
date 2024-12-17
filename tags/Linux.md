@@ -1,3 +1,7 @@
+## 20241217
+- [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix 41 Now Ready For Apple Silicon Devices](https://www.phoronix.com/news/Fedora-Asahi-Remix-41)
+- [9to5Linux](https://9to5linux.com/) | [Kali Linux 2024.4 Released with Linux Kernel 6.11, GNOME 47, and New Hacking Tools](https://9to5linux.com/kali-linux-2024-4-released-with-linux-kernel-6-11-gnome-47-and-new-hacking-tools)
+
 ## 20241216
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Enterprise Linux 10 Beta Performance Looks Great - Initial RHEL 9 vs. RHEL 10 Benchmarks](https://www.phoronix.com/review/rhel-10-beta-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20](https://9to5linux.com/slackware-based-porteux-1-8-is-one-of-the-first-distros-to-ship-with-xfce-4-20)

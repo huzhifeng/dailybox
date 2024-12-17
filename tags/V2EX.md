@@ -1,3 +1,6 @@
+## 20241217
+- [V2EX](https://www.v2ex.com/) | [摸鱼做了一个网站，一个月了，一天没有一个人访问](https://www.v2ex.com/t/1098265)
+
 ## 20241216
 - [V2EX](https://www.v2ex.com/) | [苹果换华为近两周体验](https://www.v2ex.com/t/1097947)
 

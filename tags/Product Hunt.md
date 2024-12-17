@@ -1,3 +1,6 @@
+## 20241217
+- [Product Hunt](https://www.producthunt.com) | [Findr: remember everything](https://www.producthunt.com/posts/findr-remember-everything)
+
 ## 20241216
 - [Product Hunt](https://www.producthunt.com) | [Shapo](https://www.producthunt.com/posts/shapo)
 
