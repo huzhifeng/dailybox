@@ -1,3 +1,7 @@
+## 20241218
+- [GitHub Trending](https://github.com/trending?since=daily) | [DS4SD/docling](https://github.com/DS4SD/docling)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler)
+
 ## 20241217
 - [GitHub Trending](https://github.com/trending?since=daily) | [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
 

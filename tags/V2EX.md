@@ -1,3 +1,6 @@
+## 20241218
+- [V2EX](https://www.v2ex.com/) | [对于未来经济的一些想法](https://www.v2ex.com/t/1098460)
+
 ## 20241217
 - [V2EX](https://www.v2ex.com/) | [摸鱼做了一个网站，一个月了，一天没有一个人访问](https://www.v2ex.com/t/1098265)
 

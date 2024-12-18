@@ -1,3 +1,6 @@
+## 20241218
+- [It's FOSS](https://itsfoss.com/) | [Use Zoom In and Out While Recording in OBS Studio](https://itsfoss.com/obs-zoom/)
+
 ## 20241216
 - [It's FOSS](https://itsfoss.com/) | [I Don't See a Reason to Switch to Windows from Linux Anymore in 2025](https://itsfoss.com/not-switching-to-windows/)
 

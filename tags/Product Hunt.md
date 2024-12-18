@@ -1,3 +1,6 @@
+## 20241218
+- [Product Hunt](https://www.producthunt.com) | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs)
+
 ## 20241217
 - [Product Hunt](https://www.producthunt.com) | [Findr: remember everything](https://www.producthunt.com/posts/findr-remember-everything)
 

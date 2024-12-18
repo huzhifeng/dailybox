@@ -1,3 +1,6 @@
+## 20241218
+- [Phoronix](https://www.phoronix.com/) | [UEFI 2.11 Released With PI 1.9 Bringing LoongArch & RNG Additions](https://www.phoronix.com/news/UEFI-2.11-Specification)
+
 ## 20241217
 - [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix 41 Now Ready For Apple Silicon Devices](https://www.phoronix.com/news/Fedora-Asahi-Remix-41)
 - [9to5Linux](https://9to5linux.com/) | [Kali Linux 2024.4 Released with Linux Kernel 6.11, GNOME 47, and New Hacking Tools](https://9to5linux.com/kali-linux-2024-4-released-with-linux-kernel-6-11-gnome-47-and-new-hacking-tools)

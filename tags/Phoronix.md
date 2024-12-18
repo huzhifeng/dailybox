@@ -1,3 +1,6 @@
+## 20241218
+- [Phoronix](https://www.phoronix.com/) | [UEFI 2.11 Released With PI 1.9 Bringing LoongArch & RNG Additions](https://www.phoronix.com/news/UEFI-2.11-Specification)
+
 ## 20241217
 - [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix 41 Now Ready For Apple Silicon Devices](https://www.phoronix.com/news/Fedora-Asahi-Remix-41)
 
