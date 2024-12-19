@@ -1,3 +1,6 @@
+## 20241219
+- [Product Hunt](https://www.producthunt.com) | [GenFuse AI](https://www.producthunt.com/posts/genfuse-ai)
+
 ## 20241218
 - [Product Hunt](https://www.producthunt.com) | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs)
 

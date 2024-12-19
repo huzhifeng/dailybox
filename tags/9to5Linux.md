@@ -1,3 +1,6 @@
+## 20241219
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.4 Office Suite Is Now Available for Download with 55 Bug Fixes](https://9to5linux.com/libreoffice-24-8-4-office-suite-is-now-available-for-download-with-55-bug-fixes)
+
 ## 20241217
 - [9to5Linux](https://9to5linux.com/) | [Kali Linux 2024.4 Released with Linux Kernel 6.11, GNOME 47, and New Hacking Tools](https://9to5linux.com/kali-linux-2024-4-released-with-linux-kernel-6-11-gnome-47-and-new-hacking-tools)
 

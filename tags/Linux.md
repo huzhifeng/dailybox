@@ -1,3 +1,7 @@
+## 20241219
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.4 Office Suite Is Now Available for Download with 55 Bug Fixes](https://9to5linux.com/libreoffice-24-8-4-office-suite-is-now-available-for-download-with-55-bug-fixes)
+
 ## 20241218
 - [Phoronix](https://www.phoronix.com/) | [UEFI 2.11 Released With PI 1.9 Bringing LoongArch & RNG Additions](https://www.phoronix.com/news/UEFI-2.11-Specification)
 

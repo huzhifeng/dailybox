@@ -1,3 +1,6 @@
+## 20241219
+- [GitHub Trending](https://github.com/trending?since=daily) | [unitreerobotics/unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym)
+
 ## 20241218
 - [GitHub Trending](https://github.com/trending?since=daily) | [DS4SD/docling](https://github.com/DS4SD/docling)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler)

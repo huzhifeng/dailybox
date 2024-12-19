@@ -1,3 +1,6 @@
+## 20241219
+- [LibHunt](https://www.libhunt.com/) | [Genesis](https://www.libhunt.com/r/Genesis-Embodied-AI/Genesis)
+
 ## 20241217
 - [LibHunt](https://www.libhunt.com/) | [esbuild](https://www.libhunt.com/r/esbuild)
 

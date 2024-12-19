@@ -1,3 +1,6 @@
+## 20241219
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
+
 ## 20241218
 - [Phoronix](https://www.phoronix.com/) | [UEFI 2.11 Released With PI 1.9 Bringing LoongArch & RNG Additions](https://www.phoronix.com/news/UEFI-2.11-Specification)
 

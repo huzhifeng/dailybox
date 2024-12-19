@@ -1,3 +1,6 @@
+## 20241219
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.51: OBS Tip, New Linux Tools, Fun With Terminal, New Releases and More](https://itsfoss.com/newsletter/foss-weekly-24-51/)
+
 ## 20241218
 - [It's FOSS](https://itsfoss.com/) | [Use Zoom In and Out While Recording in OBS Studio](https://itsfoss.com/obs-zoom/)
 
