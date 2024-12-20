@@ -1,3 +1,7 @@
+## 20241220
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-19](https://www.daemonology.net/hn-daily/2024-12-19.html)
+- [Hacker News](https://news.ycombinator.com/front) | [The era of open voice assistants](https://news.ycombinator.com/item?id=42467194)
+
 ## 20241219
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-18](https://www.daemonology.net/hn-daily/2024-12-18.html)
 

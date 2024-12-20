@@ -1,3 +1,6 @@
+## 20241220
+- [V2EX](https://www.v2ex.com/) | [B 站出年度报告了， xdm 都看了多少个小时](https://www.v2ex.com/t/1099050)
+
 ## 20241218
 - [V2EX](https://www.v2ex.com/) | [对于未来经济的一些想法](https://www.v2ex.com/t/1098460)
 

@@ -1,3 +1,6 @@
+## 20241220
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
 ## 20241219
 - [GitHub Trending](https://github.com/trending?since=daily) | [unitreerobotics/unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym)
 

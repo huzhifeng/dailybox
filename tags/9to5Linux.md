@@ -1,3 +1,6 @@
+## 20241220
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.5.2 Improves Support for Alpha Protocol, Borderlands 2, and Other Games](https://9to5linux.com/dxvk-2-5-2-improves-support-for-alpha-protocol-borderlands-2-and-other-games)
+
 ## 20241219
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.4 Office Suite Is Now Available for Download with 55 Bug Fixes](https://9to5linux.com/libreoffice-24-8-4-office-suite-is-now-available-for-download-with-55-bug-fixes)
 

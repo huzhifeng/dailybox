@@ -1,3 +1,6 @@
+## 20241220
+- [Product Hunt](https://www.producthunt.com) | [Revfx Account Lookalikes](https://www.producthunt.com/posts/revfx-account-lookalikes)
+
 ## 20241219
 - [Product Hunt](https://www.producthunt.com) | [GenFuse AI](https://www.producthunt.com/posts/genfuse-ai)
 

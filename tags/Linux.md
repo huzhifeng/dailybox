@@ -1,3 +1,7 @@
+## 20241220
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Based CachyOS Takes The Lead On Intel Arrow Lake](https://www.phoronix.com/review/intel-arrowlake-cachyos)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.5.2 Improves Support for Alpha Protocol, Borderlands 2, and Other Games](https://9to5linux.com/dxvk-2-5-2-improves-support-for-alpha-protocol-borderlands-2-and-other-games)
+
 ## 20241219
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 24.8.4 Office Suite Is Now Available for Download with 55 Bug Fixes](https://9to5linux.com/libreoffice-24-8-4-office-suite-is-now-available-for-download-with-55-bug-fixes)

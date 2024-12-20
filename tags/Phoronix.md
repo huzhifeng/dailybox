@@ -1,3 +1,6 @@
+## 20241220
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Based CachyOS Takes The Lead On Intel Arrow Lake](https://www.phoronix.com/review/intel-arrowlake-cachyos)
+
 ## 20241219
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 
