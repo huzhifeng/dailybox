@@ -1,3 +1,6 @@
+## 20241221
+- [V2EX](https://www.v2ex.com/) | [所以，到底 iPhone 百度 AI 的事是真的曾经存在过吗？](https://www.v2ex.com/t/1099268)
+
 ## 20241220
 - [V2EX](https://www.v2ex.com/) | [B 站出年度报告了， xdm 都看了多少个小时](https://www.v2ex.com/t/1099050)
 

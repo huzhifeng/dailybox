@@ -1,3 +1,6 @@
+## 20241221
+- [GitHub Trending](https://github.com/trending?since=daily) | [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
+
 ## 20241220
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 

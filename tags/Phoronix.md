@@ -1,3 +1,6 @@
+## 20241221
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Update Now Uses AutoFDO-Optimized Kernel, Rusticl Driver](https://www.phoronix.com/news/CachyOS-December-2024)
+
 ## 20241220
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Based CachyOS Takes The Lead On Intel Arrow Lake](https://www.phoronix.com/review/intel-arrowlake-cachyos)
 

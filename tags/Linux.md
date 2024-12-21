@@ -1,3 +1,6 @@
+## 20241221
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Update Now Uses AutoFDO-Optimized Kernel, Rusticl Driver](https://www.phoronix.com/news/CachyOS-December-2024)
+
 ## 20241220
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Based CachyOS Takes The Lead On Intel Arrow Lake](https://www.phoronix.com/review/intel-arrowlake-cachyos)
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.5.2 Improves Support for Alpha Protocol, Borderlands 2, and Other Games](https://9to5linux.com/dxvk-2-5-2-improves-support-for-alpha-protocol-borderlands-2-and-other-games)

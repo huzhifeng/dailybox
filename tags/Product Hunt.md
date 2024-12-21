@@ -1,3 +1,6 @@
+## 20241221
+- [Product Hunt](https://www.producthunt.com) | [Memory](https://www.producthunt.com/posts/memory)
+
 ## 20241220
 - [Product Hunt](https://www.producthunt.com) | [Revfx Account Lookalikes](https://www.producthunt.com/posts/revfx-account-lookalikes)
 
