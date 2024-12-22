@@ -1,3 +1,6 @@
+## 20241222
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Patches To Use AMD INVLPGB Instruction Show Huge Speed-Up](https://www.phoronix.com/news/AMD-INVLPGB-Linux-Benefits)
+
 ## 20241221
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Update Now Uses AutoFDO-Optimized Kernel, Rusticl Driver](https://www.phoronix.com/news/CachyOS-December-2024)
 

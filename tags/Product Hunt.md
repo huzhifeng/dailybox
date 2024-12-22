@@ -1,3 +1,6 @@
+## 20241222
+- [Product Hunt](https://www.producthunt.com) | [Home Assistant Voice](https://www.producthunt.com/posts/home-assistant-voice)
+
 ## 20241221
 - [Product Hunt](https://www.producthunt.com) | [Memory](https://www.producthunt.com/posts/memory)
 

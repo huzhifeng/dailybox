@@ -1,3 +1,6 @@
+## 20241222
+- [GitHub Trending](https://github.com/trending?since=daily) | [apankrat/nullboard](https://github.com/apankrat/nullboard)
+
 ## 20241221
 - [GitHub Trending](https://github.com/trending?since=daily) | [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
 
