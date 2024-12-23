@@ -1,3 +1,6 @@
+## 20241223
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-22](https://www.daemonology.net/hn-daily/2024-12-22.html)
+
 ## 20241222
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-21](https://www.daemonology.net/hn-daily/2024-12-21.html)
 - [Hacker News](https://news.ycombinator.com/front) | [We use our own hardware at Fastmail](https://news.ycombinator.com/item?id=42485124)

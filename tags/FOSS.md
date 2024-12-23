@@ -1,3 +1,6 @@
+## 20241223
+- [It's FOSS](https://itsfoss.com/) | [Going Retro With AGC: Smart Computer That Powered Apollo Missions in the 60s](https://itsfoss.com/apollo-guidance-computer/)
+
 ## 20241219
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.51: OBS Tip, New Linux Tools, Fun With Terminal, New Releases and More](https://itsfoss.com/newsletter/foss-weekly-24-51/)
 

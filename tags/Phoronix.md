@@ -1,3 +1,6 @@
+## 20241223
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Looks To Land Rust PCI / Platform Device Driver Support](https://www.phoronix.com/news/Linux-6.14-Rust-PCI-Device-Drv)
+
 ## 20241222
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Patches To Use AMD INVLPGB Instruction Show Huge Speed-Up](https://www.phoronix.com/news/AMD-INVLPGB-Linux-Benefits)
 

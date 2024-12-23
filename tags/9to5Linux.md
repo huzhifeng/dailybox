@@ -1,3 +1,6 @@
+## 20241223
+- [9to5Linux](https://9to5linux.com/) | [Serpent OS Enters Alpha with GNOME and COSMIC Spins, Powered by Linux 6.12 LTS](https://9to5linux.com/serpent-os-enters-alpha-with-gnome-and-cosmic-spins-powered-by-linux-6-12-lts)
+
 ## 20241220
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.5.2 Improves Support for Alpha Protocol, Borderlands 2, and Other Games](https://9to5linux.com/dxvk-2-5-2-improves-support-for-alpha-protocol-borderlands-2-and-other-games)
 

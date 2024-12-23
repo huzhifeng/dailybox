@@ -1,3 +1,6 @@
+## 20241223
+- [V2EX](https://www.v2ex.com/) | [2024 年马上结束了，今年买的最值得的东西是什么](https://www.v2ex.com/t/1099646)
+
 ## 20241221
 - [V2EX](https://www.v2ex.com/) | [所以，到底 iPhone 百度 AI 的事是真的曾经存在过吗？](https://www.v2ex.com/t/1099268)
 
