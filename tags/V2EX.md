@@ -1,3 +1,6 @@
+## 20241224
+- [V2EX](https://www.v2ex.com/) | [感觉尿酸高了，大家有没有什么生活上的建议](https://www.v2ex.com/t/1099862)
+
 ## 20241223
 - [V2EX](https://www.v2ex.com/) | [2024 年马上结束了，今年买的最值得的东西是什么](https://www.v2ex.com/t/1099646)
 

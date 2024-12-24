@@ -1,3 +1,6 @@
+## 20241224
+- [LibHunt](https://www.libhunt.com/) | [litestack](https://www.libhunt.com/r/litestack)
+
 ## 20241219
 - [LibHunt](https://www.libhunt.com/) | [Genesis](https://www.libhunt.com/r/Genesis-Embodied-AI/Genesis)
 

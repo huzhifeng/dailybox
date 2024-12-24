@@ -1,3 +1,6 @@
+## 20241224
+- [Phoronix](https://www.phoronix.com/) | [BIOS Optimizations For AMD 5th Gen EPYC Yield Greater HPC Performance & Power Efficiency](https://www.phoronix.com/review/amd-epyc-9005-hpc-tuning)
+
 ## 20241223
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Looks To Land Rust PCI / Platform Device Driver Support](https://www.phoronix.com/news/Linux-6.14-Rust-PCI-Device-Drv)
 - [9to5Linux](https://9to5linux.com/) | [Serpent OS Enters Alpha with GNOME and COSMIC Spins, Powered by Linux 6.12 LTS](https://9to5linux.com/serpent-os-enters-alpha-with-gnome-and-cosmic-spins-powered-by-linux-6-12-lts)

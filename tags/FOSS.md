@@ -1,3 +1,6 @@
+## 20241224
+- [It's FOSS](https://itsfoss.com/) | [Absolute Essentials You Need to Know to Survive Vi Editor](https://itsfoss.com/vi-editor-basics/)
+
 ## 20241223
 - [It's FOSS](https://itsfoss.com/) | [Going Retro With AGC: Smart Computer That Powered Apollo Missions in the 60s](https://itsfoss.com/apollo-guidance-computer/)
 

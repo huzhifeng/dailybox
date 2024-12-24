@@ -1,3 +1,6 @@
+## 20241224
+- [Phoronix](https://www.phoronix.com/) | [BIOS Optimizations For AMD 5th Gen EPYC Yield Greater HPC Performance & Power Efficiency](https://www.phoronix.com/review/amd-epyc-9005-hpc-tuning)
+
 ## 20241223
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Looks To Land Rust PCI / Platform Device Driver Support](https://www.phoronix.com/news/Linux-6.14-Rust-PCI-Device-Drv)
 
