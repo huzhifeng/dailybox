@@ -1,3 +1,7 @@
+## 20241225
+- [Phoronix](https://www.phoronix.com/) | [systemd Highlights For 2024 From Run0 To Varlink To Advancing systemd-homed](https://www.phoronix.com/news/systemd-2024-highlights)
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support](https://9to5linux.com/mixxx-2-5-open-source-dj-app-released-with-qt-6-port-improved-controller-support)
+
 ## 20241224
 - [Phoronix](https://www.phoronix.com/) | [BIOS Optimizations For AMD 5th Gen EPYC Yield Greater HPC Performance & Power Efficiency](https://www.phoronix.com/review/amd-epyc-9005-hpc-tuning)
 

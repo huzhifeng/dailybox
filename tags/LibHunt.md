@@ -1,3 +1,6 @@
+## 20241225
+- [LibHunt](https://www.libhunt.com/) | [jt_tools](https://www.libhunt.com/r/jt_tools)
+
 ## 20241224
 - [LibHunt](https://www.libhunt.com/) | [litestack](https://www.libhunt.com/r/litestack)
 

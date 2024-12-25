@@ -1,3 +1,6 @@
+## 20241225
+- [V2EX](https://www.v2ex.com/) | [很想采访变道不打转向灯是什么心态](https://www.v2ex.com/t/1100147)
+
 ## 20241224
 - [V2EX](https://www.v2ex.com/) | [感觉尿酸高了，大家有没有什么生活上的建议](https://www.v2ex.com/t/1099862)
 

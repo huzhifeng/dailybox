@@ -1,3 +1,6 @@
+## 20241225
+- [Product Hunt](https://www.producthunt.com) | [LegalCheckPro](https://www.producthunt.com/posts/legalcheckpro)
+
 ## 20241222
 - [Product Hunt](https://www.producthunt.com) | [Home Assistant Voice](https://www.producthunt.com/posts/home-assistant-voice)
 

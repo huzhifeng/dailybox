@@ -1,3 +1,6 @@
+## 20241225
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support](https://9to5linux.com/mixxx-2-5-open-source-dj-app-released-with-qt-6-port-improved-controller-support)
+
 ## 20241223
 - [9to5Linux](https://9to5linux.com/) | [Serpent OS Enters Alpha with GNOME and COSMIC Spins, Powered by Linux 6.12 LTS](https://9to5linux.com/serpent-os-enters-alpha-with-gnome-and-cosmic-spins-powered-by-linux-6-12-lts)
 

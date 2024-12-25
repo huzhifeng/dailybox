@@ -1,3 +1,6 @@
+## 20241225
+- [GitHub Trending](https://github.com/trending?since=daily) | [sxyazi/yazi](https://github.com/sxyazi/yazi)
+
 ## 20241224
 - [GitHub Trending](https://github.com/trending?since=daily) | [raysan5/raylib](https://github.com/raysan5/raylib)
 

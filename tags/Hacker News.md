@@ -1,3 +1,7 @@
+## 20241225
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-24](https://www.daemonology.net/hn-daily/2024-12-24.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
+
 ## 20241224
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-23](https://www.daemonology.net/hn-daily/2024-12-23.html)
 

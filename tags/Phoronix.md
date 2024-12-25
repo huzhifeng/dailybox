@@ -1,3 +1,6 @@
+## 20241225
+- [Phoronix](https://www.phoronix.com/) | [systemd Highlights For 2024 From Run0 To Varlink To Advancing systemd-homed](https://www.phoronix.com/news/systemd-2024-highlights)
+
 ## 20241224
 - [Phoronix](https://www.phoronix.com/) | [BIOS Optimizations For AMD 5th Gen EPYC Yield Greater HPC Performance & Power Efficiency](https://www.phoronix.com/review/amd-epyc-9005-hpc-tuning)
 
