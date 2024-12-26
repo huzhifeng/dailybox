@@ -1,3 +1,6 @@
+## 20241226
+- [LibHunt](https://www.libhunt.com/) | [Lobsters](https://www.libhunt.com/r/lobsters)
+
 ## 20241225
 - [LibHunt](https://www.libhunt.com/) | [jt_tools](https://www.libhunt.com/r/jt_tools)
 

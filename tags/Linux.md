@@ -1,3 +1,6 @@
+## 20241226
+- [Phoronix](https://www.phoronix.com/) | [Intel Linux Performance Optimizations & Intel's Other Open-Source Wins From 2024](https://www.phoronix.com/news/Intel-Linux-Open-Source-2024)
+
 ## 20241225
 - [Phoronix](https://www.phoronix.com/) | [systemd Highlights For 2024 From Run0 To Varlink To Advancing systemd-homed](https://www.phoronix.com/news/systemd-2024-highlights)
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support](https://9to5linux.com/mixxx-2-5-open-source-dj-app-released-with-qt-6-port-improved-controller-support)

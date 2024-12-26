@@ -1,3 +1,6 @@
+## 20241226
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/)
+
 ## 20241224
 - [It's FOSS](https://itsfoss.com/) | [Absolute Essentials You Need to Know to Survive Vi Editor](https://itsfoss.com/vi-editor-basics/)
 

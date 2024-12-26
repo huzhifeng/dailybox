@@ -1,3 +1,6 @@
+## 20241226
+- [GitHub Trending](https://github.com/trending?since=daily) | [microg/GmsCore](https://github.com/microg/GmsCore)
+
 ## 20241225
 - [GitHub Trending](https://github.com/trending?since=daily) | [sxyazi/yazi](https://github.com/sxyazi/yazi)
 

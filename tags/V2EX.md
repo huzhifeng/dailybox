@@ -1,3 +1,6 @@
+## 20241226
+- [V2EX](https://www.v2ex.com/) | [阿里云轻量上架了新款 200Mbps 峰值带宽的服务器, 马爸爸破产送福利?](https://www.v2ex.com/t/1100427)
+
 ## 20241225
 - [V2EX](https://www.v2ex.com/) | [很想采访变道不打转向灯是什么心态](https://www.v2ex.com/t/1100147)
 

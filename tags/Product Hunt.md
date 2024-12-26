@@ -1,3 +1,6 @@
+## 20241226
+- [Product Hunt](https://www.producthunt.com) | [Magnify - Your Rewards Companion](https://www.producthunt.com/posts/magnify-your-rewards-companion)
+
 ## 20241225
 - [Product Hunt](https://www.producthunt.com) | [LegalCheckPro](https://www.producthunt.com/posts/legalcheckpro)
 
