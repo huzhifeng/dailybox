@@ -1,3 +1,6 @@
+## 20241227
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-26](https://www.daemonology.net/hn-daily/2024-12-26.html)
+
 ## 20241226
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-25](https://www.daemonology.net/hn-daily/2024-12-25.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Blackcandy: Self hosted music streaming server](https://news.ycombinator.com/item?id=42512896)

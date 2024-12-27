@@ -1,3 +1,7 @@
+## 20241227
+- [GitHub Trending](https://github.com/trending?since=daily) | [2dust/v2rayN](https://github.com/2dust/v2rayN)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [P4Ul4P4Fy7Cn2/Uniswap-Mev-Bot](https://github.com/P4Ul4P4Fy7Cn2/Uniswap-Mev-Bot)
+
 ## 20241226
 - [GitHub Trending](https://github.com/trending?since=daily) | [microg/GmsCore](https://github.com/microg/GmsCore)
 

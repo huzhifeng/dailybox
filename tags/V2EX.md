@@ -1,3 +1,6 @@
+## 20241227
+- [V2EX](https://www.v2ex.com/) | [大家有没有发现国内吸烟的人越来越多？](https://www.v2ex.com/t/1100686)
+
 ## 20241226
 - [V2EX](https://www.v2ex.com/) | [阿里云轻量上架了新款 200Mbps 峰值带宽的服务器, 马爸爸破产送福利?](https://www.v2ex.com/t/1100427)
 

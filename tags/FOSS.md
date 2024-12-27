@@ -1,3 +1,6 @@
+## 20241227
+- [It's FOSS](https://itsfoss.com/) | [9 Dashboard Tools to Manage Your Homelab Effectively](https://itsfoss.com/homelab-dashboard/)
+
 ## 20241226
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/)
 
