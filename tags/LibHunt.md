@@ -1,3 +1,6 @@
+## 20241228
+- [LibHunt](https://www.libhunt.com/) | [Polyglot-HTML-ZIP-PNG](https://www.libhunt.com/r/Polyglot-HTML-ZIP-PNG)
+
 ## 20241226
 - [LibHunt](https://www.libhunt.com/) | [Lobsters](https://www.libhunt.com/r/lobsters)
 

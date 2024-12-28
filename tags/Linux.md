@@ -1,3 +1,6 @@
+## 20241228
+- [Phoronix](https://www.phoronix.com/) | [A "Safe C++" Being Explored Using The New ClangIR](https://www.phoronix.com/news/RFC-Safe-CXX-Using-ClangIR)
+
 ## 20241227
 - [Phoronix](https://www.phoronix.com/) | [CentOS Stream 10 vs. AlmaLinux 10 Beta vs. RHEL 10 Beta Performance Benchmarks](https://www.phoronix.com/review/centos-stream-10-benchmarks)
 

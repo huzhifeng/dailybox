@@ -1,3 +1,6 @@
+## 20241228
+- [GitHub Trending](https://github.com/trending?since=daily) | [phidatahq/phidata](https://github.com/phidatahq/phidata)
+
 ## 20241227
 - [GitHub Trending](https://github.com/trending?since=daily) | [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [P4Ul4P4Fy7Cn2/Uniswap-Mev-Bot](https://github.com/P4Ul4P4Fy7Cn2/Uniswap-Mev-Bot)
