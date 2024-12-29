@@ -1,3 +1,6 @@
+## 20241229
+- [Phoronix](https://www.phoronix.com/) | [Kdenlive Preparing For An Exciting 2025 With Background Removal Tool & More](https://www.phoronix.com/news/Kdenlive-Background-Removal-25)
+
 ## 20241228
 - [Phoronix](https://www.phoronix.com/) | [A "Safe C++" Being Explored Using The New ClangIR](https://www.phoronix.com/news/RFC-Safe-CXX-Using-ClangIR)
 

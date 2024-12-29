@@ -1,3 +1,7 @@
+## 20241229
+- [GitHub Trending](https://github.com/trending?since=daily) | [apache/echarts](https://github.com/apache/echarts)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [voodoojardelvir48/tron-wallet](https://github.com/voodoojardelvir48/tron-wallet)
+
 ## 20241228
 - [GitHub Trending](https://github.com/trending?since=daily) | [phidatahq/phidata](https://github.com/phidatahq/phidata)
 
