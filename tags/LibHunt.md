@@ -1,3 +1,6 @@
+## 20241230
+- [LibHunt](https://www.libhunt.com/) | [mixbox](https://www.libhunt.com/r/mixbox)
+
 ## 20241228
 - [LibHunt](https://www.libhunt.com/) | [Polyglot-HTML-ZIP-PNG](https://www.libhunt.com/r/Polyglot-HTML-ZIP-PNG)
 

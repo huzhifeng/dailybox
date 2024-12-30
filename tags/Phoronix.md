@@ -1,3 +1,6 @@
+## 20241230
+- [Phoronix](https://www.phoronix.com/) | [Mesa's Terrific Year With Better Vulkan Ray-Tracing, NVK Progress & Same-Day Vulkan 1.4](https://www.phoronix.com/news/Mesa-2024-Highlights)
+
 ## 20241229
 - [Phoronix](https://www.phoronix.com/) | [Kdenlive Preparing For An Exciting 2025 With Background Removal Tool & More](https://www.phoronix.com/news/Kdenlive-Background-Removal-25)
 

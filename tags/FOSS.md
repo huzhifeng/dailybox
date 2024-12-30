@@ -1,3 +1,6 @@
+## 20241230
+- [It's FOSS](https://itsfoss.com/) | [Rediscovering Plan9 from Bell Labs](https://itsfoss.com/plan9/)
+
 ## 20241227
 - [It's FOSS](https://itsfoss.com/) | [9 Dashboard Tools to Manage Your Homelab Effectively](https://itsfoss.com/homelab-dashboard/)
 

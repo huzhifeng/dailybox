@@ -1,3 +1,7 @@
+## 20241230
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-29](https://www.daemonology.net/hn-daily/2024-12-29.html)
+- [Hacker News](https://news.ycombinator.com/front) | [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://news.ycombinator.com/item?id=42546216)
+
 ## 20241229
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-28](https://www.daemonology.net/hn-daily/2024-12-28.html)
 

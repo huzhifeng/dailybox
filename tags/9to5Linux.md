@@ -1,3 +1,6 @@
+## 20241230
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-29th-2024)
+
 ## 20241225
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support](https://9to5linux.com/mixxx-2-5-open-source-dj-app-released-with-qt-6-port-improved-controller-support)
 
