@@ -1,3 +1,6 @@
+## 20241231
+- [Phoronix](https://www.phoronix.com/) | [ZLUDA v4 Released For Initial CUDA Support On Non-NVIDIA GPUs](https://www.phoronix.com/news/ZLUDA-v4-Released)
+
 ## 20241230
 - [Phoronix](https://www.phoronix.com/) | [Mesa's Terrific Year With Better Vulkan Ray-Tracing, NVK Progress & Same-Day Vulkan 1.4](https://www.phoronix.com/news/Mesa-2024-Highlights)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-29th-2024)

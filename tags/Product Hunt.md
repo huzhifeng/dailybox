@@ -1,3 +1,6 @@
+## 20241231
+- [Product Hunt](https://www.producthunt.com) | [MakersTower](https://www.producthunt.com/posts/makerstower)
+
 ## 20241227
 - [Product Hunt](https://www.producthunt.com) | [Block Convey Drive](https://www.producthunt.com/posts/block-convey-drive)
 

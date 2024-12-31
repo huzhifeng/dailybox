@@ -1,3 +1,6 @@
+## 20241231
+- [GitHub Trending](https://github.com/trending?since=daily) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+
 ## 20241230
 - [GitHub Trending](https://github.com/trending?since=daily) | [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 
