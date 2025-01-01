@@ -1,3 +1,6 @@
+## 20250101
+- [V2EX](https://www.v2ex.com/) | [元旦 T 楼！ 送 YouTube Premium + 京东 E 卡 300 元](https://www.v2ex.com/t/1101831)
+
 ## 20241231
 - [V2EX](https://www.v2ex.com/) | [因为房子的问题和女朋友分手了](https://www.v2ex.com/t/1101644)
 

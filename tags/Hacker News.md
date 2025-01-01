@@ -1,3 +1,7 @@
+## 20250101
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-31](https://www.daemonology.net/hn-daily/2024-12-31.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Static search trees: faster than binary search](https://news.ycombinator.com/item?id=42562847)
+
 ## 20241231
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2024-12-30](https://www.daemonology.net/hn-daily/2024-12-30.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Orbit by Mozilla](https://news.ycombinator.com/item?id=42555440)

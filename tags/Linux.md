@@ -1,3 +1,7 @@
+## 20250101
+- [Phoronix](https://www.phoronix.com/) | [GCC Patches Posted For Half-Century Old ALGOL 68 Programming Language](https://www.phoronix.com/news/GCC-ALGOL-68-Language-Front-End)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.2 Open-Source Archive Manager Released with Qt 6 Package for Linux](https://9to5linux.com/peazip-10-2-open-source-archive-manager-released-with-qt-6-package-for-linux)
+
 ## 20241231
 - [Phoronix](https://www.phoronix.com/) | [ZLUDA v4 Released For Initial CUDA Support On Non-NVIDIA GPUs](https://www.phoronix.com/news/ZLUDA-v4-Released)
 

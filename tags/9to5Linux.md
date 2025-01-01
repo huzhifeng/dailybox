@@ -1,3 +1,6 @@
+## 20250101
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.2 Open-Source Archive Manager Released with Qt 6 Package for Linux](https://9to5linux.com/peazip-10-2-open-source-archive-manager-released-with-qt-6-package-for-linux)
+
 ## 20241230
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-29th-2024)
 

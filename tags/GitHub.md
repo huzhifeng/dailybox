@@ -1,3 +1,6 @@
+## 20250101
+- [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 ## 20241231
 - [GitHub Trending](https://github.com/trending?since=daily) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 

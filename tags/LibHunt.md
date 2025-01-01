@@ -1,3 +1,6 @@
+## 20250101
+- [LibHunt](https://www.libhunt.com/) | [react-hook-form](https://www.libhunt.com/r/react-hook-form)
+
 ## 20241230
 - [LibHunt](https://www.libhunt.com/) | [mixbox](https://www.libhunt.com/r/mixbox)
 

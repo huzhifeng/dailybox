@@ -1,3 +1,6 @@
+## 20250101
+- [Phoronix](https://www.phoronix.com/) | [GCC Patches Posted For Half-Century Old ALGOL 68 Programming Language](https://www.phoronix.com/news/GCC-ALGOL-68-Language-Front-End)
+
 ## 20241231
 - [Phoronix](https://www.phoronix.com/) | [ZLUDA v4 Released For Initial CUDA Support On Non-NVIDIA GPUs](https://www.phoronix.com/news/ZLUDA-v4-Released)
 
