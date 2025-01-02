@@ -1,3 +1,6 @@
+## 20250102
+- [LibHunt](https://www.libhunt.com/) | [daisyui](https://www.libhunt.com/r/daisyui)
+
 ## 20250101
 - [LibHunt](https://www.libhunt.com/) | [react-hook-form](https://www.libhunt.com/r/react-hook-form)
 

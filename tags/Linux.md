@@ -1,3 +1,6 @@
+## 20250102
+- [Phoronix](https://www.phoronix.com/) | [Linux Prepares AMD "SRSO_USER_KERNEL_NO" Support For Zen 5 CPUs](https://www.phoronix.com/news/AMD-Linux-SRSO_USER_KERNEL_NO)
+
 ## 20250101
 - [Phoronix](https://www.phoronix.com/) | [GCC Patches Posted For Half-Century Old ALGOL 68 Programming Language](https://www.phoronix.com/news/GCC-ALGOL-68-Language-Front-End)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.2 Open-Source Archive Manager Released with Qt 6 Package for Linux](https://9to5linux.com/peazip-10-2-open-source-archive-manager-released-with-qt-6-package-for-linux)

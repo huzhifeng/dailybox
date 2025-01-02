@@ -1,3 +1,6 @@
+## 20250102
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/)
+
 ## 20241230
 - [It's FOSS](https://itsfoss.com/) | [Rediscovering Plan9 from Bell Labs](https://itsfoss.com/plan9/)
 

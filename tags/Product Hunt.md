@@ -1,3 +1,6 @@
+## 20250102
+- [Product Hunt](https://www.producthunt.com) | [Griply](https://www.producthunt.com/posts/griply-2)
+
 ## 20241231
 - [Product Hunt](https://www.producthunt.com) | [MakersTower](https://www.producthunt.com/posts/makerstower)
 

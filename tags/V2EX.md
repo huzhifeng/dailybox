@@ -1,3 +1,6 @@
+## 20250102
+- [V2EX](https://www.v2ex.com/) | [33 岁才悟透一个道理，有钱是真好](https://www.v2ex.com/t/1101991)
+
 ## 20250101
 - [V2EX](https://www.v2ex.com/) | [元旦 T 楼！ 送 YouTube Premium + 京东 E 卡 300 元](https://www.v2ex.com/t/1101831)
 

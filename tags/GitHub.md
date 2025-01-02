@@ -1,3 +1,6 @@
+## 20250102
+- [GitHub Trending](https://github.com/trending?since=daily) | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+
 ## 20250101
 - [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 

@@ -1,3 +1,6 @@
+## 20250102
+- [Phoronix](https://www.phoronix.com/) | [Linux Prepares AMD "SRSO_USER_KERNEL_NO" Support For Zen 5 CPUs](https://www.phoronix.com/news/AMD-Linux-SRSO_USER_KERNEL_NO)
+
 ## 20250101
 - [Phoronix](https://www.phoronix.com/) | [GCC Patches Posted For Half-Century Old ALGOL 68 Programming Language](https://www.phoronix.com/news/GCC-ALGOL-68-Language-Front-End)
 
