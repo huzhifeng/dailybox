@@ -1,3 +1,6 @@
+## 20250103
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-02](https://www.daemonology.net/hn-daily/2025-01-02.html)
+
 ## 20250102
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-01](https://www.daemonology.net/hn-daily/2025-01-01.html)
 - [Hacker News](https://news.ycombinator.com/front) | [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://news.ycombinator.com/item?id=42572662)

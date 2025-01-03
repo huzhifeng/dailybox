@@ -1,3 +1,6 @@
+## 20250103
+- [LibHunt](https://www.libhunt.com/) | [NeatShift](https://www.libhunt.com/r/NeatShift)
+
 ## 20250102
 - [LibHunt](https://www.libhunt.com/) | [daisyui](https://www.libhunt.com/r/daisyui)
 

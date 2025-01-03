@@ -1,3 +1,6 @@
+## 20250103
+- [Product Hunt](https://www.producthunt.com) | [Symphony](https://www.producthunt.com/posts/symphony-7)
+
 ## 20250102
 - [Product Hunt](https://www.producthunt.com) | [Griply](https://www.producthunt.com/posts/griply-2)
 

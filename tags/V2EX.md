@@ -1,3 +1,6 @@
+## 20250103
+- [V2EX](https://www.v2ex.com/) | [有没有觉得“延迟满足”就是扯淡！](https://www.v2ex.com/t/1102278)
+
 ## 20250102
 - [V2EX](https://www.v2ex.com/) | [33 岁才悟透一个道理，有钱是真好](https://www.v2ex.com/t/1101991)
 

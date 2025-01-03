@@ -1,3 +1,6 @@
+## 20250103
+- [GitHub Trending](https://github.com/trending?since=daily) | [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+
 ## 20250102
 - [GitHub Trending](https://github.com/trending?since=daily) | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
 
