@@ -1,3 +1,6 @@
+## 20250104
+- [V2EX](https://www.v2ex.com/) | [关于今天给前端返回数据的结构的争论](https://www.v2ex.com/t/1102528)
+
 ## 20250103
 - [V2EX](https://www.v2ex.com/) | [有没有觉得“延迟满足”就是扯淡！](https://www.v2ex.com/t/1102278)
 

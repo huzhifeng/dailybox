@@ -1,3 +1,6 @@
+## 20250104
+- [GitHub Trending](https://github.com/trending?since=daily) | [louis-e/arnis](https://github.com/louis-e/arnis)
+
 ## 20250103
 - [GitHub Trending](https://github.com/trending?since=daily) | [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 

@@ -1,3 +1,6 @@
+## 20250104
+- [Phoronix](https://www.phoronix.com/) | [Rusticl OpenCL Driver Nearing Cross-Vendor Shared Virtual Memory Support](https://www.phoronix.com/news/Rusticl-Cross-Vendor-SVM)
+
 ## 20250103
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Talks Up Multi-Path TCP But Dings Linux's Less Than Ideal Support](https://www.phoronix.com/news/Cloudflare-MPTCP-Multi-Path-TCP)
 
