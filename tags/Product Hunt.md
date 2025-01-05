@@ -1,3 +1,6 @@
+## 20250105
+- [Product Hunt](https://www.producthunt.com) | [Infinite Convo](https://www.producthunt.com/posts/infinite-convo)
+
 ## 20250103
 - [Product Hunt](https://www.producthunt.com) | [Symphony](https://www.producthunt.com/posts/symphony-7)
 

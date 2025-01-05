@@ -1,3 +1,6 @@
+## 20250105
+- [V2EX](https://www.v2ex.com/) | [我转发了一张图到前端群，大周末的群里已经爆炸了](https://www.v2ex.com/t/1102700)
+
 ## 20250104
 - [V2EX](https://www.v2ex.com/) | [关于今天给前端返回数据的结构的争论](https://www.v2ex.com/t/1102528)
 
