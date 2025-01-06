@@ -1,3 +1,7 @@
+## 20250106
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Working On "-flto-partition=locality" GCC Option To Boost Performance For Some CPU Workloads](https://www.phoronix.com/news/NVIDIA-GCC-flto-locality)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 134 Is Out with Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/mozilla-firefox-134-is-out-with-support-for-touchpad-hold-gestures-on-linux)
+
 ## 20250105
 - [Phoronix](https://www.phoronix.com/) | [Phoronix Forums Upgrade - Helping To Improve Site Responsiveness](https://www.phoronix.com/news/Phoronix-Forums-VB6-Upgrade)
 

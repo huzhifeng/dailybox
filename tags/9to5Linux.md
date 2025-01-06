@@ -1,3 +1,6 @@
+## 20250106
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 134 Is Out with Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/mozilla-firefox-134-is-out-with-support-for-touchpad-hold-gestures-on-linux)
+
 ## 20250101
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.2 Open-Source Archive Manager Released with Qt 6 Package for Linux](https://9to5linux.com/peazip-10-2-open-source-archive-manager-released-with-qt-6-package-for-linux)
 

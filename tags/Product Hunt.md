@@ -1,3 +1,6 @@
+## 20250106
+- [Product Hunt](https://www.producthunt.com) | [Scrapeless](https://www.producthunt.com/posts/scrapeless)
+
 ## 20250105
 - [Product Hunt](https://www.producthunt.com) | [Infinite Convo](https://www.producthunt.com/posts/infinite-convo)
 

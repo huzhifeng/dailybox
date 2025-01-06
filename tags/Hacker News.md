@@ -1,3 +1,7 @@
+## 20250106
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-05](https://www.daemonology.net/hn-daily/2025-01-05.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Doom, the Gallery Experience](https://news.ycombinator.com/item?id=42607794)
+
 ## 20250105
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-04](https://www.daemonology.net/hn-daily/2025-01-04.html)
 

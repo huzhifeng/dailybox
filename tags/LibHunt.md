@@ -1,3 +1,6 @@
+## 20250106
+- [LibHunt](https://www.libhunt.com/) | [simonwillisonblog](https://www.libhunt.com/r/simonwillisonblog)
+
 ## 20250104
 - [LibHunt](https://www.libhunt.com/) | [tirreno](https://www.libhunt.com/r/tirreno)
 

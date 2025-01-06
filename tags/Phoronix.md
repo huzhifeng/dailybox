@@ -1,3 +1,6 @@
+## 20250106
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Working On "-flto-partition=locality" GCC Option To Boost Performance For Some CPU Workloads](https://www.phoronix.com/news/NVIDIA-GCC-flto-locality)
+
 ## 20250105
 - [Phoronix](https://www.phoronix.com/) | [Phoronix Forums Upgrade - Helping To Improve Site Responsiveness](https://www.phoronix.com/news/Phoronix-Forums-VB6-Upgrade)
 

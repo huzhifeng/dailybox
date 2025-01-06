@@ -1,3 +1,6 @@
+## 20250106
+- [GitHub Trending](https://github.com/trending?since=daily) | [stephansturges/WALDO](https://github.com/stephansturges/WALDO)
+
 ## 20250105
 - [GitHub Trending](https://github.com/trending?since=daily) | [stanford-oval/storm](https://github.com/stanford-oval/storm)
 
