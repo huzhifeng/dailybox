@@ -1,3 +1,6 @@
+## 20250108
+- [LibHunt](https://www.libhunt.com/) | [bazzite](https://www.libhunt.com/r/bazzite)
+
 ## 20250106
 - [LibHunt](https://www.libhunt.com/) | [simonwillisonblog](https://www.libhunt.com/r/simonwillisonblog)
 

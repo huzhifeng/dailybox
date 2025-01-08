@@ -1,18 +1,36 @@
 # Daily Box 20250108
 
 ## 开源
-- [开源服务指南](https://osguider.com/blog/) | [模块化的 SQL 代码检查与格式化工具 | 开源日报 No.462](https://osguider.com/blog/post/daily/daily-462/)
+- [开源日报](https://www.oschina.net/news/column?columnId=25) | [开源日报 | 戴尔重塑品牌；英伟达宣布个人AI超级计算机；没提及人工智能的简历权重直接归到三档；不要再去迷信提示词了；AI眼镜将成新风口](https://www.oschina.net/news/328861)
+- [开源服务指南](https://osguider.com/blog/) | [高性能 NoSQL 数据库：兼容 Cassandra 与 DynamoDB | 开源日报 No.467](https://osguider.com/blog/post/daily/daily-467/)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+- [GitHub Trending](https://github.com/trending?since=daily) | [mudler/LocalAI](https://github.com/mudler/LocalAI)
+- [LibHunt](https://www.libhunt.com/) | [bazzite](https://www.libhunt.com/r/bazzite)
+- [Product Hunt](https://www.producthunt.com) | [2Read ](https://www.producthunt.com/posts/2read-4)
 
 ## 资讯
-- [每日环球视野](https://idai.ly/) | [January 6, 2025](http://m.idai.ly/se/a193iG?1736092800)
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Preps UHBR For Intel Panther Lake, Lower Alchemist GPU Power Use With Whitelisted CPUs](https://www.phoronix.com/news/Linux-6.14-Intel-UHBR-TB)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20250108】虽迟但到](http://www.dapenti.com/blog/more.asp?name=xilei&id=183552)
+- [每日环球视野](https://idai.ly/) | [January 7, 2025](http://m.idai.ly/se/a193iG?1736179200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-07](https://www.daemonology.net/hn-daily/2025-01-07.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Operating System in 1,000 Lines – Intro](https://news.ycombinator.com/item?id=42631873)
+
+## 日报
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报|英伟达重磅发布「核弹」RTX5090，售价高达1.6万元/苹果「廉价版」iPhone新机即将量产/联想公布全球首款量产卷轴屏PC](https://www.ifanr.com/1611451)
+- [极客早知道](https://www.geekpark.net/column/74) | [英伟达发布RTX50系显卡和个人AI超算机；腾讯、宁德回应被列入美国防部名单；小米公布SU7试驾事故初步调查结果 | 极客早知道](https://www.geekpark.net/news/345061)
+- [晚点早知道](https://www.latepost.com/news/index?proma=3) | [汽车和家电国补扩大补贴范围；蜜雪冰城距港股上市更近一步；Temu将上线站内广告丨百亿美元公司动向](https://www.latepost.com/news/dj_detail?id=2727)
+
+## 漫游
+- [竹白先锋作品](https://www.zhubai.wiki/) | [我为什么不快乐？｜No.95](https://open.zhubai.wiki/a/l/t/z/pl/220525/2488713101219549184)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【94版"刘备"开口泪目】跨越5城重走蜀道，揭秘定军山之战真相【三国志战略版】](https://b23.tv/BV1ZjrYYvEyU)
 
 ## 语录
-- "我怎么会知道，这些牡蛎产自哪个海岸呢？" - 薇歌 《猎魔人Ⅴ：火之洗礼》
-- "剑河风急雪片阔，沙口石冻马蹄脱。" - 岑参 《轮台歌奉送封大夫出师西征》
-- "Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind." - The Buddha
+- "比起自己的生命还要重要的东西，并不是这么好找的。" - 潘丽宝·诺可·卡黛娜 《末日时在做什么？能不能再见一面？》
+- "欲渡黄河冰塞川，将登太行雪满山。" - 李白 《行路难·其一》
+- "Don't judge each day by the harvest you reap but by the seeds that you plant." - Robert Louis Stevenson
 
 ## 更多
 - [前一天](archives/daily-box-20250107.md)

@@ -1,3 +1,6 @@
+## 20250108
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Preps UHBR For Intel Panther Lake, Lower Alchemist GPU Power Use With Whitelisted CPUs](https://www.phoronix.com/news/Linux-6.14-Intel-UHBR-TB)
+
 ## 20250106
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Working On "-flto-partition=locality" GCC Option To Boost Performance For Some CPU Workloads](https://www.phoronix.com/news/NVIDIA-GCC-flto-locality)
 

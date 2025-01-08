@@ -1,3 +1,6 @@
+## 20250108
+- [Product Hunt](https://www.producthunt.com) | [2Read ](https://www.producthunt.com/posts/2read-4)
+
 ## 20250106
 - [Product Hunt](https://www.producthunt.com) | [Scrapeless](https://www.producthunt.com/posts/scrapeless)
 

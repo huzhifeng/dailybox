@@ -1,3 +1,6 @@
+## 20250108
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Preps UHBR For Intel Panther Lake, Lower Alchemist GPU Power Use With Whitelisted CPUs](https://www.phoronix.com/news/Linux-6.14-Intel-UHBR-TB)
+
 ## 20250106
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Working On "-flto-partition=locality" GCC Option To Boost Performance For Some CPU Workloads](https://www.phoronix.com/news/NVIDIA-GCC-flto-locality)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 134 Is Out with Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/mozilla-firefox-134-is-out-with-support-for-touchpad-hold-gestures-on-linux)

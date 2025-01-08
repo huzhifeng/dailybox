@@ -1,4 +1,7 @@
 ## 20250108
+- [GitHub Trending](https://github.com/trending?since=daily) | [mudler/LocalAI](https://github.com/mudler/LocalAI)
+
+## 20250108
 - [GitHub Trending](https://github.com/trending?since=daily) | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
 ## 20250106
