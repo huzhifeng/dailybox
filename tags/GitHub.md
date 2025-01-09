@@ -1,3 +1,6 @@
+## 20250109
+- [GitHub Trending](https://github.com/trending?since=daily) | [inkonchain/node](https://github.com/inkonchain/node)
+
 ## 20250108
 - [GitHub Trending](https://github.com/trending?since=daily) | [mudler/LocalAI](https://github.com/mudler/LocalAI)
 

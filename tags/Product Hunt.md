@@ -1,3 +1,6 @@
+## 20250109
+- [Product Hunt](https://www.producthunt.com) | [Fenado AI](https://www.producthunt.com/posts/fenado-ai)
+
 ## 20250108
 - [Product Hunt](https://www.producthunt.com) | [2Read ](https://www.producthunt.com/posts/2read-4)
 

@@ -1,3 +1,6 @@
+## 20250109
+- [V2EX](https://www.v2ex.com/) | [应该帮玩的还行的同事打卡吗](https://www.v2ex.com/t/1103810)
+
 ## 20250105
 - [V2EX](https://www.v2ex.com/) | [我转发了一张图到前端群，大周末的群里已经爆炸了](https://www.v2ex.com/t/1102700)
 

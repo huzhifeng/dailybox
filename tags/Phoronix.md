@@ -1,3 +1,6 @@
+## 20250109
+- [Phoronix](https://www.phoronix.com/) | [Microsoft's Azure Linux Introduces New AMD Graphics Driver Options](https://www.phoronix.com/news/Azure-Linux-3.0.20250102)
+
 ## 20250108
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.14 Preps UHBR For Intel Panther Lake, Lower Alchemist GPU Power Use With Whitelisted CPUs](https://www.phoronix.com/news/Linux-6.14-Intel-UHBR-TB)
 

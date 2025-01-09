@@ -1,3 +1,6 @@
+## 20250109
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Is Now Available for Public Beta Testing, Here’s What’s New](https://9to5linux.com/kde-plasma-6-3-is-now-available-for-public-beta-testing-heres-whats-new)
+
 ## 20250106
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 134 Is Out with Support for Touchpad Hold Gestures on Linux](https://9to5linux.com/mozilla-firefox-134-is-out-with-support-for-touchpad-hold-gestures-on-linux)
 

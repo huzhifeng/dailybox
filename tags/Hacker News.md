@@ -1,3 +1,6 @@
+## 20250109
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-08](https://www.daemonology.net/hn-daily/2025-01-08.html)
+
 ## 20250108
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-07](https://www.daemonology.net/hn-daily/2025-01-07.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Operating System in 1,000 Lines – Intro](https://news.ycombinator.com/item?id=42631873)

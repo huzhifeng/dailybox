@@ -1,3 +1,6 @@
+## 20250109
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.02: Absolute Linux, ShredOS, AI in Kdenlive, Fossify File Manager and More](https://itsfoss.com/newsletter/foss-weekly-25-02/)
+
 ## 20250106
 - [It's FOSS](https://itsfoss.com/) | [Autostart AppImage Applications in Linux](https://itsfoss.com/autostart-appimage-apps/)
 
