@@ -1,3 +1,6 @@
+## 20250110
+- [GitHub Trending](https://github.com/trending?since=daily) | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+
 ## 20250109
 - [GitHub Trending](https://github.com/trending?since=daily) | [inkonchain/node](https://github.com/inkonchain/node)
 

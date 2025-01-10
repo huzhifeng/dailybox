@@ -1,3 +1,7 @@
+## 20250110
+- [Phoronix](https://www.phoronix.com/) | [Lenovo Discovers Situation Of Linux Dropping PCIe Gen 5 NVMe SSDs To Gen 1 Speeds](https://www.phoronix.com/news/Lenovo-Linux-NVMe-Gen5-To-Gen1)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Now Works on the HiFive Premier P550 RISC-V Development Board](https://9to5linux.com/ubuntu-24-04-lts-now-works-on-the-hifive-premier-p550-risc-v-development-board)
+
 ## 20250109
 - [Phoronix](https://www.phoronix.com/) | [Microsoft's Azure Linux Introduces New AMD Graphics Driver Options](https://www.phoronix.com/news/Azure-Linux-3.0.20250102)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Is Now Available for Public Beta Testing, Here’s What’s New](https://9to5linux.com/kde-plasma-6-3-is-now-available-for-public-beta-testing-heres-whats-new)

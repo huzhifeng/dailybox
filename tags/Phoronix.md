@@ -1,3 +1,6 @@
+## 20250110
+- [Phoronix](https://www.phoronix.com/) | [Lenovo Discovers Situation Of Linux Dropping PCIe Gen 5 NVMe SSDs To Gen 1 Speeds](https://www.phoronix.com/news/Lenovo-Linux-NVMe-Gen5-To-Gen1)
+
 ## 20250109
 - [Phoronix](https://www.phoronix.com/) | [Microsoft's Azure Linux Introduces New AMD Graphics Driver Options](https://www.phoronix.com/news/Azure-Linux-3.0.20250102)
 

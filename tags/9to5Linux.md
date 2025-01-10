@@ -1,3 +1,6 @@
+## 20250110
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Now Works on the HiFive Premier P550 RISC-V Development Board](https://9to5linux.com/ubuntu-24-04-lts-now-works-on-the-hifive-premier-p550-risc-v-development-board)
+
 ## 20250109
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Is Now Available for Public Beta Testing, Here’s What’s New](https://9to5linux.com/kde-plasma-6-3-is-now-available-for-public-beta-testing-heres-whats-new)
 
