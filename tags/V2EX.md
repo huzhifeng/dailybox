@@ -1,3 +1,6 @@
+## 20250111
+- [V2EX](https://www.v2ex.com/) | [发现 Linux .do 这个管理员抢了我的 ID 然后把我号删了这件事](https://www.v2ex.com/t/1104357)
+
 ## 20250109
 - [V2EX](https://www.v2ex.com/) | [应该帮玩的还行的同事打卡吗](https://www.v2ex.com/t/1103810)
 

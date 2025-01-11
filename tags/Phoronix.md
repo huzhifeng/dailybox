@@ -1,3 +1,6 @@
+## 20250111
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.9 Released With Various Security & Bug Fixes](https://www.phoronix.com/news/Debian-12.9-Released)
+
 ## 20250110
 - [Phoronix](https://www.phoronix.com/) | [Lenovo Discovers Situation Of Linux Dropping PCIe Gen 5 NVMe SSDs To Gen 1 Speeds](https://www.phoronix.com/news/Lenovo-Linux-NVMe-Gen5-To-Gen1)
 

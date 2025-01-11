@@ -1,3 +1,7 @@
+## 20250111
+- [Phoronix](https://www.phoronix.com/) | [Debian 12.9 Released With Various Security & Bug Fixes](https://www.phoronix.com/news/Debian-12.9-Released)
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.9 “Bookworm” Arrives with 72 Bug Fixes and 38 Security Updates](https://9to5linux.com/debian-12-9-bookworm-arrives-with-72-bug-fixes-and-38-security-updates)
+
 ## 20250110
 - [Phoronix](https://www.phoronix.com/) | [Lenovo Discovers Situation Of Linux Dropping PCIe Gen 5 NVMe SSDs To Gen 1 Speeds](https://www.phoronix.com/news/Lenovo-Linux-NVMe-Gen5-To-Gen1)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Now Works on the HiFive Premier P550 RISC-V Development Board](https://9to5linux.com/ubuntu-24-04-lts-now-works-on-the-hifive-premier-p550-risc-v-development-board)

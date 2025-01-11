@@ -1,3 +1,6 @@
+## 20250111
+- [9to5Linux](https://9to5linux.com/) | [Debian 12.9 “Bookworm” Arrives with 72 Bug Fixes and 38 Security Updates](https://9to5linux.com/debian-12-9-bookworm-arrives-with-72-bug-fixes-and-38-security-updates)
+
 ## 20250110
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04 LTS Now Works on the HiFive Premier P550 RISC-V Development Board](https://9to5linux.com/ubuntu-24-04-lts-now-works-on-the-hifive-premier-p550-risc-v-development-board)
 
