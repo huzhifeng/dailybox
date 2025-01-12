@@ -1,3 +1,6 @@
+## 20250112
+- [It's FOSS](https://itsfoss.com/) | [ArmSoM AIM7: A Promising Upcoming Rockchip Device for AI Development](https://itsfoss.com/armsom-aim7-review/)
+
 ## 20250110
 - [It's FOSS](https://itsfoss.com/) | [Remembering Usenet - The OG Social Network that Existed Even Before the World Wide Web](https://itsfoss.com/remembering-usenet/)
 

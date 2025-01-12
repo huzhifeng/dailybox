@@ -1,3 +1,6 @@
+## 20250112
+- [GitHub Trending](https://github.com/trending?since=daily) | [gabime/spdlog](https://github.com/gabime/spdlog)
+
 ## 20250111
 - [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [t3dotgg/how-i-stripe](https://github.com/t3dotgg/how-i-stripe)

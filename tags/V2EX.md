@@ -1,3 +1,6 @@
+## 20250112
+- [V2EX](https://www.v2ex.com/) | [7 年婚姻结束，家庭问题，人生迷茫](https://www.v2ex.com/t/1104536)
+
 ## 20250111
 - [V2EX](https://www.v2ex.com/) | [发现 Linux .do 这个管理员抢了我的 ID 然后把我号删了这件事](https://www.v2ex.com/t/1104357)
 

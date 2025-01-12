@@ -1,3 +1,6 @@
+## 20250112
+- [Product Hunt](https://www.producthunt.com) | [Taplo](https://www.producthunt.com/posts/taplo)
+
 ## 20250111
 - [Product Hunt](https://www.producthunt.com) | [21st.dev](https://www.producthunt.com/posts/21st-dev-2)
 

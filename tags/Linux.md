@@ -1,3 +1,6 @@
+## 20250112
+- [Phoronix](https://www.phoronix.com/) | [NTSYNC Driver Ready For Enhancing Windows Gaming With Linux 6.14](https://www.phoronix.com/news/Linux-6.14-NTSYNC-Driver-Ready)
+
 ## 20250111
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.9 Released With Various Security & Bug Fixes](https://www.phoronix.com/news/Debian-12.9-Released)
 - [9to5Linux](https://9to5linux.com/) | [Debian 12.9 “Bookworm” Arrives with 72 Bug Fixes and 38 Security Updates](https://9to5linux.com/debian-12-9-bookworm-arrives-with-72-bug-fixes-and-38-security-updates)

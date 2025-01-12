@@ -1,3 +1,6 @@
+## 20250112
+- [Phoronix](https://www.phoronix.com/) | [NTSYNC Driver Ready For Enhancing Windows Gaming With Linux 6.14](https://www.phoronix.com/news/Linux-6.14-NTSYNC-Driver-Ready)
+
 ## 20250111
 - [Phoronix](https://www.phoronix.com/) | [Debian 12.9 Released With Various Security & Bug Fixes](https://www.phoronix.com/news/Debian-12.9-Released)
 
