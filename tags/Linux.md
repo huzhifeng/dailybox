@@ -1,3 +1,7 @@
+## 20250113
+- [Phoronix](https://www.phoronix.com/) | [Linux Attack Vector Controls Updated To More Easily Controlling CPU Security Mitigations](https://www.phoronix.com/news/Linux-CPU-Attack-Vector-Control)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23.5 Released with Xfce 4.20 and Linux 6.12 LTS, Based on Debian 12.9](https://9to5linux.com/mx-linux-23-5-released-with-xfce-4-20-and-linux-kernel-6-12-lts-based-on-debian-12-9)
+
 ## 20250112
 - [Phoronix](https://www.phoronix.com/) | [NTSYNC Driver Ready For Enhancing Windows Gaming With Linux 6.14](https://www.phoronix.com/news/Linux-6.14-NTSYNC-Driver-Ready)
 

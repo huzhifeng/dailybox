@@ -1,3 +1,6 @@
+## 20250113
+- [V2EX](https://www.v2ex.com/) | [当工作变得太轻松。。。。。。](https://www.v2ex.com/t/1104639)
+
 ## 20250112
 - [V2EX](https://www.v2ex.com/) | [7 年婚姻结束，家庭问题，人生迷茫](https://www.v2ex.com/t/1104536)
 

@@ -1,3 +1,6 @@
+## 20250113
+- [Product Hunt](https://www.producthunt.com) | [AI Avatars by Gan.AI](https://www.producthunt.com/posts/ai-avatars-by-gan-ai)
+
 ## 20250112
 - [Product Hunt](https://www.producthunt.com) | [Taplo](https://www.producthunt.com/posts/taplo)
 

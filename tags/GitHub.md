@@ -1,3 +1,6 @@
+## 20250113
+- [GitHub Trending](https://github.com/trending?since=daily) | [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+
 ## 20250112
 - [GitHub Trending](https://github.com/trending?since=daily) | [gabime/spdlog](https://github.com/gabime/spdlog)
 

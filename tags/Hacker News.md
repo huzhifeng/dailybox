@@ -1,3 +1,6 @@
+## 20250113
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-12](https://www.daemonology.net/hn-daily/2025-01-12.html)
+
 ## 20250112
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-11](https://www.daemonology.net/hn-daily/2025-01-11.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Kenney.nl: Free Game Assets](https://news.ycombinator.com/item?id=42671472)

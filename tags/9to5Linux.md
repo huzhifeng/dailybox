@@ -1,3 +1,6 @@
+## 20250113
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 23.5 Released with Xfce 4.20 and Linux 6.12 LTS, Based on Debian 12.9](https://9to5linux.com/mx-linux-23-5-released-with-xfce-4-20-and-linux-kernel-6-12-lts-based-on-debian-12-9)
+
 ## 20250111
 - [9to5Linux](https://9to5linux.com/) | [Debian 12.9 “Bookworm” Arrives with 72 Bug Fixes and 38 Security Updates](https://9to5linux.com/debian-12-9-bookworm-arrives-with-72-bug-fixes-and-38-security-updates)
 

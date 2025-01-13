@@ -1,3 +1,6 @@
+## 20250113
+- [Phoronix](https://www.phoronix.com/) | [Linux Attack Vector Controls Updated To More Easily Controlling CPU Security Mitigations](https://www.phoronix.com/news/Linux-CPU-Attack-Vector-Control)
+
 ## 20250112
 - [Phoronix](https://www.phoronix.com/) | [NTSYNC Driver Ready For Enhancing Windows Gaming With Linux 6.14](https://www.phoronix.com/news/Linux-6.14-NTSYNC-Driver-Ready)
 

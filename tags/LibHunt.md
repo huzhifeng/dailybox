@@ -1,3 +1,6 @@
+## 20250113
+- [LibHunt](https://www.libhunt.com/) | [tabby](https://www.libhunt.com/r/tabby)
+
 ## 20250108
 - [LibHunt](https://www.libhunt.com/) | [bazzite](https://www.libhunt.com/r/bazzite)
 
