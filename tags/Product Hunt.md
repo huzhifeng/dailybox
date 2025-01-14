@@ -1,3 +1,6 @@
+## 20250114
+- [Product Hunt](https://www.producthunt.com) | [Shapen](https://www.producthunt.com/posts/shapen)
+
 ## 20250113
 - [Product Hunt](https://www.producthunt.com) | [AI Avatars by Gan.AI](https://www.producthunt.com/posts/ai-avatars-by-gan-ai)
 

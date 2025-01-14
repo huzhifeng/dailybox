@@ -1,3 +1,7 @@
+## 20250114
+- [Phoronix](https://www.phoronix.com/) | [Intel IPU6 Web Camera Support Still Poses A Challenge For Linux Laptops](https://www.phoronix.com/news/Intel-IPU6-Camera-Challenge-25)
+- [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.3 Is Out with Linux 6.12 Support, RAIDZ Expansion, Fast Dedup, and More](https://9to5linux.com/openzfs-2-3-is-out-with-linux-6-12-support-raidz-expansion-fast-dedup-and-more)
+
 ## 20250113
 - [Phoronix](https://www.phoronix.com/) | [Linux Attack Vector Controls Updated To More Easily Controlling CPU Security Mitigations](https://www.phoronix.com/news/Linux-CPU-Attack-Vector-Control)
 - [9to5Linux](https://9to5linux.com/) | [MX Linux 23.5 Released with Xfce 4.20 and Linux 6.12 LTS, Based on Debian 12.9](https://9to5linux.com/mx-linux-23-5-released-with-xfce-4-20-and-linux-kernel-6-12-lts-based-on-debian-12-9)

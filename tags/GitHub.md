@@ -1,3 +1,6 @@
+## 20250114
+- [GitHub Trending](https://github.com/trending?since=daily) | [automatisch/automatisch](https://github.com/automatisch/automatisch)
+
 ## 20250113
 - [GitHub Trending](https://github.com/trending?since=daily) | [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
 

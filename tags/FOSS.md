@@ -1,3 +1,6 @@
+## 20250114
+- [It's FOSS](https://itsfoss.com/) | [I Feel Like a Hacker Using These Cool Linux Terminal Tools](https://itsfoss.com/hacker-like-linux-terminal-tools/)
+
 ## 20250112
 - [It's FOSS](https://itsfoss.com/) | [ArmSoM AIM7: A Promising Upcoming Rockchip Device for AI Development](https://itsfoss.com/armsom-aim7-review/)
 

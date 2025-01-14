@@ -1,3 +1,6 @@
+## 20250114
+- [LibHunt](https://www.libhunt.com/) | [doompdf](https://www.libhunt.com/r/doompdf)
+
 ## 20250113
 - [LibHunt](https://www.libhunt.com/) | [tabby](https://www.libhunt.com/r/tabby)
 

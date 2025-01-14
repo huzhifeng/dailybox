@@ -1,3 +1,6 @@
+## 20250114
+- [Phoronix](https://www.phoronix.com/) | [Intel IPU6 Web Camera Support Still Poses A Challenge For Linux Laptops](https://www.phoronix.com/news/Intel-IPU6-Camera-Challenge-25)
+
 ## 20250113
 - [Phoronix](https://www.phoronix.com/) | [Linux Attack Vector Controls Updated To More Easily Controlling CPU Security Mitigations](https://www.phoronix.com/news/Linux-CPU-Attack-Vector-Control)
 

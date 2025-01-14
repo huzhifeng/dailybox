@@ -1,3 +1,6 @@
+## 20250114
+- [V2EX](https://www.v2ex.com/) | [公司年会 自己脑子一热报名了 吉他弹唱 昨天发现还没学会 ,但邻居](https://www.v2ex.com/t/1105037)
+
 ## 20250113
 - [V2EX](https://www.v2ex.com/) | [当工作变得太轻松。。。。。。](https://www.v2ex.com/t/1104639)
 
