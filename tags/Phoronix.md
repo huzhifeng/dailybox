@@ -1,3 +1,6 @@
+## 20250115
+- [Phoronix](https://www.phoronix.com/) | [NVMe PCI Endpoint Function Target Driver Coming To Linux 6.14](https://www.phoronix.com/news/Linux-6.14-PCIe-NVMe-Target-EPF)
+
 ## 20250114
 - [Phoronix](https://www.phoronix.com/) | [Intel IPU6 Web Camera Support Still Poses A Challenge For Linux Laptops](https://www.phoronix.com/news/Intel-IPU6-Camera-Challenge-25)
 

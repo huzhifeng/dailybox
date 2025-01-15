@@ -1,3 +1,6 @@
+## 20250115
+- [Phoronix](https://www.phoronix.com/) | [NVMe PCI Endpoint Function Target Driver Coming To Linux 6.14](https://www.phoronix.com/news/Linux-6.14-PCIe-NVMe-Target-EPF)
+
 ## 20250114
 - [Phoronix](https://www.phoronix.com/) | [Intel IPU6 Web Camera Support Still Poses A Challenge For Linux Laptops](https://www.phoronix.com/news/Intel-IPU6-Camera-Challenge-25)
 - [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.3 Is Out with Linux 6.12 Support, RAIDZ Expansion, Fast Dedup, and More](https://9to5linux.com/openzfs-2-3-is-out-with-linux-6-12-support-raidz-expansion-fast-dedup-and-more)

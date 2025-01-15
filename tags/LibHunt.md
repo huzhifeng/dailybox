@@ -1,3 +1,6 @@
+## 20250115
+- [LibHunt](https://www.libhunt.com/) | [Fluent Assertions](https://www.libhunt.com/r/fluentassertions)
+
 ## 20250114
 - [LibHunt](https://www.libhunt.com/) | [doompdf](https://www.libhunt.com/r/doompdf)
 

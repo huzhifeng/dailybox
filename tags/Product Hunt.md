@@ -1,3 +1,6 @@
+## 20250115
+- [Product Hunt](https://www.producthunt.com) | [Master of Pushups](https://www.producthunt.com/posts/master-of-pushups)
+
 ## 20250114
 - [Product Hunt](https://www.producthunt.com) | [Shapen](https://www.producthunt.com/posts/shapen)
 

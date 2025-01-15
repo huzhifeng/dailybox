@@ -1,3 +1,6 @@
+## 20250115
+- [V2EX](https://www.v2ex.com/) | [2025 年了，大家服务器用的什么 Linux 版本](https://www.v2ex.com/t/1105283)
+
 ## 20250114
 - [V2EX](https://www.v2ex.com/) | [公司年会 自己脑子一热报名了 吉他弹唱 昨天发现还没学会 ,但邻居](https://www.v2ex.com/t/1105037)
 

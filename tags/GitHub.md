@@ -1,3 +1,6 @@
+## 20250115
+- [GitHub Trending](https://github.com/trending?since=daily) | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+
 ## 20250114
 - [GitHub Trending](https://github.com/trending?since=daily) | [automatisch/automatisch](https://github.com/automatisch/automatisch)
 
