@@ -1,3 +1,6 @@
+## 20250116
+- [Product Hunt](https://www.producthunt.com) | [SaaS Blueprint](https://www.producthunt.com/posts/saas-blueprint)
+
 ## 20250115
 - [Product Hunt](https://www.producthunt.com) | [Master of Pushups](https://www.producthunt.com/posts/master-of-pushups)
 

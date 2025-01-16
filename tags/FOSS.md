@@ -1,3 +1,6 @@
+## 20250116
+- [It's FOSS](https://itsfoss.com/) | [Taking Screenshots in Hyprland](https://itsfoss.com/taking-screenshots-hyprland/)
+
 ## 20250115
 - [It's FOSS](https://itsfoss.com/) | [Don't Believe These Myths About Dual Booting Linux and Windows](https://itsfoss.com/dual-boot-myths/)
 

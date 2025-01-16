@@ -1,3 +1,6 @@
+## 20250116
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B570 Graphics Performance On Linux](https://www.phoronix.com/review/intel-arc-b570-linux)
+
 ## 20250115
 - [Phoronix](https://www.phoronix.com/) | [NVMe PCI Endpoint Function Target Driver Coming To Linux 6.14](https://www.phoronix.com/news/Linux-6.14-PCIe-NVMe-Target-EPF)
 

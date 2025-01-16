@@ -1,3 +1,6 @@
+## 20250116
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-15](https://www.daemonology.net/hn-daily/2025-01-15.html)
+
 ## 20250115
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-14](https://www.daemonology.net/hn-daily/2025-01-14.html)
 

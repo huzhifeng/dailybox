@@ -1,3 +1,6 @@
+## 20250116
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVlabs/Sana](https://github.com/NVlabs/Sana)
+
 ## 20250115
 - [GitHub Trending](https://github.com/trending?since=daily) | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
