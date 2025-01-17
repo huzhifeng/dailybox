@@ -1,3 +1,6 @@
+## 20250117
+- [LibHunt](https://www.libhunt.com/) | [Nginx](https://www.libhunt.com/r/nginx)
+
 ## 20250115
 - [LibHunt](https://www.libhunt.com/) | [Fluent Assertions](https://www.libhunt.com/r/fluentassertions)
 

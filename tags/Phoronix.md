@@ -1,3 +1,6 @@
+## 20250117
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.305 Published With Three New Extensions](https://www.phoronix.com/news/Vulkan-1.4.305-Released)
+
 ## 20250116
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B570 Graphics Performance On Linux](https://www.phoronix.com/review/intel-arc-b570-linux)
 

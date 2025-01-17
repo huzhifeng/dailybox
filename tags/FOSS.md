@@ -1,3 +1,6 @@
+## 20250117
+- [It's FOSS](https://itsfoss.com/) | [7 Raspberry Pi-Based Laptops and Tablets for Tinkerers](https://itsfoss.com/raspberry-pi-laptop-kits/)
+
 ## 20250116
 - [It's FOSS](https://itsfoss.com/) | [Taking Screenshots in Hyprland](https://itsfoss.com/taking-screenshots-hyprland/)
 

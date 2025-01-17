@@ -1,3 +1,6 @@
+## 20250117
+- [GitHub Trending](https://github.com/trending?since=daily) | [Freika/dawarich](https://github.com/Freika/dawarich)
+
 ## 20250116
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVlabs/Sana](https://github.com/NVlabs/Sana)
 

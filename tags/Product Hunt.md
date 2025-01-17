@@ -1,3 +1,6 @@
+## 20250117
+- [Product Hunt](https://www.producthunt.com) | [Left](https://www.producthunt.com/posts/left-2)
+
 ## 20250116
 - [Product Hunt](https://www.producthunt.com) | [SaaS Blueprint](https://www.producthunt.com/posts/saas-blueprint)
 
