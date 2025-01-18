@@ -1,3 +1,6 @@
+## 20250118
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-17](https://www.daemonology.net/hn-daily/2025-01-17.html)
+
 ## 20250117
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-16](https://www.daemonology.net/hn-daily/2025-01-16.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Canon wants us to pay for using our own camera as a webcam](https://news.ycombinator.com/item?id=42735393)

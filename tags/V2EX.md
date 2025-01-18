@@ -1,3 +1,6 @@
+## 20250118
+- [V2EX](https://www.v2ex.com/) | [请问一下炒股有什么注意事项](https://www.v2ex.com/t/1106052)
+
 ## 20250117
 - [V2EX](https://www.v2ex.com/) | [最后悔的两件事，结婚和生娃](https://www.v2ex.com/t/1105924)
 

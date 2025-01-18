@@ -1,3 +1,6 @@
+## 20250118
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14 To Perform Better With The Drgn Debugger Via Faster /proc/kcore Reads](https://www.phoronix.com/news/Linux-6.14-Faster-kcore-Reads)
+
 ## 20250117
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.305 Published With Three New Extensions](https://www.phoronix.com/news/Vulkan-1.4.305-Released)
 

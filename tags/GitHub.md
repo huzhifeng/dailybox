@@ -1,3 +1,6 @@
+## 20250118
+- [GitHub Trending](https://github.com/trending?since=daily) | [spree/spree](https://github.com/spree/spree)
+
 ## 20250117
 - [GitHub Trending](https://github.com/trending?since=daily) | [Freika/dawarich](https://github.com/Freika/dawarich)
 

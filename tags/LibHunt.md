@@ -1,3 +1,6 @@
+## 20250118
+- [LibHunt](https://www.libhunt.com/) | [smallweb](https://www.libhunt.com/r/smallweb)
+
 ## 20250117
 - [LibHunt](https://www.libhunt.com/) | [Nginx](https://www.libhunt.com/r/nginx)
 
