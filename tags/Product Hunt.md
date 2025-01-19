@@ -1,3 +1,6 @@
+## 20250119
+- [Product Hunt](https://www.producthunt.com) | [Taim](https://www.producthunt.com/posts/taim-3)
+
 ## 20250118
 - [Product Hunt](https://www.producthunt.com) | [Sketch It!](https://www.producthunt.com/posts/sketch-it)
 

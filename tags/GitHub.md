@@ -1,3 +1,6 @@
+## 20250119
+- [GitHub Trending](https://github.com/trending?since=daily) | [facebook/folly](https://github.com/facebook/folly)
+
 ## 20250118
 - [GitHub Trending](https://github.com/trending?since=daily) | [spree/spree](https://github.com/spree/spree)
 

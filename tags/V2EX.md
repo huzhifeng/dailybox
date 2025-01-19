@@ -1,3 +1,6 @@
+## 20250119
+- [V2EX](https://www.v2ex.com/) | [民主是否绝对优于非民主？](https://www.v2ex.com/t/1106260)
+
 ## 20250118
 - [V2EX](https://www.v2ex.com/) | [请问一下炒股有什么注意事项](https://www.v2ex.com/t/1106052)
 

@@ -1,3 +1,7 @@
+## 20250119
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-18](https://www.daemonology.net/hn-daily/2025-01-18.html)
+- [Hacker News](https://news.ycombinator.com/front) | [TikTok goes dark in the US](https://news.ycombinator.com/item?id=42753396)
+
 ## 20250118
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-17](https://www.daemonology.net/hn-daily/2025-01-17.html)
 

@@ -1,3 +1,6 @@
+## 20250119
+- [LibHunt](https://www.libhunt.com/) | [browser-use](https://www.libhunt.com/r/browser-use)
+
 ## 20250118
 - [LibHunt](https://www.libhunt.com/) | [smallweb](https://www.libhunt.com/r/smallweb)
 
