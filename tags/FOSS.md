@@ -1,3 +1,6 @@
+## 20250120
+- [It's FOSS](https://itsfoss.com/) | [Best Kodi Builds to Spice Up Your Media Server Experience](https://itsfoss.com/best-kodi-builds/)
+
 ## 20250117
 - [It's FOSS](https://itsfoss.com/) | [7 Raspberry Pi-Based Laptops and Tablets for Tinkerers](https://itsfoss.com/raspberry-pi-laptop-kits/)
 

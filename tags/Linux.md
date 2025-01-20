@@ -1,3 +1,7 @@
+## 20250120
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 5090 Arrives For Linux Testing](https://www.phoronix.com/review/nvidia-geforce-rtx-5090-pre)
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.4 Linux Firmware Updater Released with New Features and Bug Fixes](https://9to5linux.com/fwupd-2-0-4-linux-firmware-updater-released-with-new-features-and-bug-fixes)
+
 ## 20250119
 - [Phoronix](https://www.phoronix.com/) | [Linux To Allow Adjusting pid_max Per PID Namespace - Helping Old Software](https://www.phoronix.com/news/Linux-6.14-PID-Namespace)
 

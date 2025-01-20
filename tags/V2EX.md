@@ -1,3 +1,6 @@
+## 20250120
+- [V2EX](https://www.v2ex.com/) | [🧧 [领红包封面] 祝 V 友们：蛇年大吉，财运亨通！](https://www.v2ex.com/t/1106447)
+
 ## 20250119
 - [V2EX](https://www.v2ex.com/) | [民主是否绝对优于非民主？](https://www.v2ex.com/t/1106260)
 

@@ -1,3 +1,7 @@
+## 20250120
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
 ## 20250119
 - [GitHub Trending](https://github.com/trending?since=daily) | [facebook/folly](https://github.com/facebook/folly)
 

@@ -1,3 +1,6 @@
+## 20250120
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 5090 Arrives For Linux Testing](https://www.phoronix.com/review/nvidia-geforce-rtx-5090-pre)
+
 ## 20250119
 - [Phoronix](https://www.phoronix.com/) | [Linux To Allow Adjusting pid_max Per PID Namespace - Helping Old Software](https://www.phoronix.com/news/Linux-6.14-PID-Namespace)
 

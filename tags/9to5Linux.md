@@ -1,3 +1,6 @@
+## 20250120
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.4 Linux Firmware Updater Released with New Features and Bug Fixes](https://9to5linux.com/fwupd-2-0-4-linux-firmware-updater-released-with-new-features-and-bug-fixes)
+
 ## 20250114
 - [9to5Linux](https://9to5linux.com/) | [OpenZFS 2.3 Is Out with Linux 6.12 Support, RAIDZ Expansion, Fast Dedup, and More](https://9to5linux.com/openzfs-2-3-is-out-with-linux-6-12-support-raidz-expansion-fast-dedup-and-more)
 

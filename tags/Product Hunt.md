@@ -1,3 +1,6 @@
+## 20250120
+- [Product Hunt](https://www.producthunt.com) | [Edits by Instagram](https://www.producthunt.com/posts/edits-by-instagram)
+
 ## 20250119
 - [Product Hunt](https://www.producthunt.com) | [Taim](https://www.producthunt.com/posts/taim-3)
 

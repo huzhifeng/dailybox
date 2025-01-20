@@ -1,3 +1,6 @@
+## 20250120
+- [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
+
 ## 20250119
 - [LibHunt](https://www.libhunt.com/) | [browser-use](https://www.libhunt.com/r/browser-use)
 
