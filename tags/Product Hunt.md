@@ -1,3 +1,6 @@
+## 20250121
+- [Product Hunt](https://www.producthunt.com) | [DeepSeek R1](https://www.producthunt.com/posts/deepseek-r1)
+
 ## 20250120
 - [Product Hunt](https://www.producthunt.com) | [Edits by Instagram](https://www.producthunt.com/posts/edits-by-instagram)
 

@@ -1,3 +1,6 @@
+## 20250121
+- [V2EX](https://www.v2ex.com/) | [看看 24 小时待机是不是伪需求 你们的 nas 已经在线多久了？](https://www.v2ex.com/t/1106750)
+
 ## 20250120
 - [V2EX](https://www.v2ex.com/) | [🧧 [领红包封面] 祝 V 友们：蛇年大吉，财运亨通！](https://www.v2ex.com/t/1106447)
 

@@ -1,3 +1,6 @@
+## 20250121
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.13 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-13-kernel-released-for-software-freedom-lovers)
+
 ## 20250120
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.4 Linux Firmware Updater Released with New Features and Bug Fixes](https://9to5linux.com/fwupd-2-0-4-linux-firmware-updater-released-with-new-features-and-bug-fixes)
 

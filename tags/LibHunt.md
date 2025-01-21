@@ -1,3 +1,6 @@
+## 20250121
+- [LibHunt](https://www.libhunt.com/) | [kvrocks](https://www.libhunt.com/r/kvrocks)
+
 ## 20250120
 - [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
 

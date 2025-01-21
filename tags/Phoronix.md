@@ -1,3 +1,6 @@
+## 20250121
+- [Phoronix](https://www.phoronix.com/) | [Serpent OS Developing disks-rs To Safely Deal With File-Systems & Block Devices In Rust](https://www.phoronix.com/news/Serpent-OS-disks-rs)
+
 ## 20250120
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 5090 Arrives For Linux Testing](https://www.phoronix.com/review/nvidia-geforce-rtx-5090-pre)
 

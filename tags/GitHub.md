@@ -1,3 +1,7 @@
+## 20250121
+- [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+
 ## 20250120
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)

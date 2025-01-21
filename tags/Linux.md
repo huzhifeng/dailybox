@@ -1,3 +1,7 @@
+## 20250121
+- [Phoronix](https://www.phoronix.com/) | [Serpent OS Developing disks-rs To Safely Deal With File-Systems & Block Devices In Rust](https://www.phoronix.com/news/Serpent-OS-disks-rs)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.13 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-13-kernel-released-for-software-freedom-lovers)
+
 ## 20250120
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce RTX 5090 Arrives For Linux Testing](https://www.phoronix.com/review/nvidia-geforce-rtx-5090-pre)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.4 Linux Firmware Updater Released with New Features and Bug Fixes](https://9to5linux.com/fwupd-2-0-4-linux-firmware-updater-released-with-new-features-and-bug-fixes)

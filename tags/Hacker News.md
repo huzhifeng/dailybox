@@ -1,3 +1,7 @@
+## 20250121
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-20](https://www.daemonology.net/hn-daily/2025-01-20.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Startup Winter: Hacker News Lost Its Faith](https://news.ycombinator.com/item?id=42778266)
+
 ## 20250120
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-19](https://www.daemonology.net/hn-daily/2025-01-19.html)
 - [Hacker News](https://news.ycombinator.com/front) | [DeepSeek-R1](https://news.ycombinator.com/item?id=42768072)
