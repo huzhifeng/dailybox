@@ -1,3 +1,6 @@
+## 20250122
+- [GitHub Trending](https://github.com/trending?since=daily) | [livekit/agents](https://github.com/livekit/agents)
+
 ## 20250121
 - [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)

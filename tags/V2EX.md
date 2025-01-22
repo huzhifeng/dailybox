@@ -1,3 +1,6 @@
+## 20250122
+- [V2EX](https://www.v2ex.com/) | [小年了，如何厚脸皮要钱](https://www.v2ex.com/t/1107042)
+
 ## 20250121
 - [V2EX](https://www.v2ex.com/) | [看看 24 小时待机是不是伪需求 你们的 nas 已经在线多久了？](https://www.v2ex.com/t/1106750)
 

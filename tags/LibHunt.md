@@ -1,3 +1,6 @@
+## 20250122
+- [LibHunt](https://www.libhunt.com/) | [SDL](https://www.libhunt.com/r/SDL)
+
 ## 20250121
 - [LibHunt](https://www.libhunt.com/) | [kvrocks](https://www.libhunt.com/r/kvrocks)
 

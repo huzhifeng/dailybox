@@ -1,3 +1,6 @@
+## 20250122
+- [Phoronix](https://www.phoronix.com/) | [AMD Announces The AMDGPU Composition Stack "ACS" For Advanced Linux Desktop Features](https://www.phoronix.com/news/AMD-AMDGPU-Composition-Stack)
+
 ## 20250121
 - [Phoronix](https://www.phoronix.com/) | [Serpent OS Developing disks-rs To Safely Deal With File-Systems & Block Devices In Rust](https://www.phoronix.com/news/Serpent-OS-disks-rs)
 

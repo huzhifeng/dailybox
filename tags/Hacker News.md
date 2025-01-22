@@ -1,3 +1,7 @@
+## 20250122
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-21](https://www.daemonology.net/hn-daily/2025-01-21.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Ross Ulbricht granted a full pardon](https://news.ycombinator.com/item?id=42786962)
+
 ## 20250121
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-20](https://www.daemonology.net/hn-daily/2025-01-20.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Startup Winter: Hacker News Lost Its Faith](https://news.ycombinator.com/item?id=42778266)

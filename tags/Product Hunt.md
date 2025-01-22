@@ -1,3 +1,6 @@
+## 20250122
+- [Product Hunt](https://www.producthunt.com) | [UPDF AI](https://www.producthunt.com/posts/updf-ai)
+
 ## 20250121
 - [Product Hunt](https://www.producthunt.com) | [DeepSeek R1](https://www.producthunt.com/posts/deepseek-r1)
 
