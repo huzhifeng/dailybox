@@ -1,3 +1,6 @@
+## 20250123
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.04: Must-know Jargon, Kernel 6.13 Released, Mint 22.1, WINE 10 and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-04/)
+
 ## 20250120
 - [It's FOSS](https://itsfoss.com/) | [Best Kodi Builds to Spice Up Your Media Server Experience](https://itsfoss.com/best-kodi-builds/)
 

@@ -1,3 +1,6 @@
+## 20250123
+- [V2EX](https://www.v2ex.com/) | [本 6， 30 岁才 p5 未来很迷茫](https://www.v2ex.com/t/1107326)
+
 ## 20250122
 - [V2EX](https://www.v2ex.com/) | [小年了，如何厚脸皮要钱](https://www.v2ex.com/t/1107042)
 

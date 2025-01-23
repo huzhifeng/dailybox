@@ -1,3 +1,6 @@
+## 20250123
+- [Phoronix](https://www.phoronix.com/) | [Debian 15 Is Codenamed "Duke"](https://www.phoronix.com/news/Debian-15-Duke)
+
 ## 20250122
 - [Phoronix](https://www.phoronix.com/) | [AMD Announces The AMDGPU Composition Stack "ACS" For Advanced Linux Desktop Features](https://www.phoronix.com/news/AMD-AMDGPU-Composition-Stack)
 

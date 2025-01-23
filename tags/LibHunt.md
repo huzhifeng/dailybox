@@ -1,3 +1,6 @@
+## 20250123
+- [LibHunt](https://www.libhunt.com/) | [astro](https://www.libhunt.com/r/astro)
+
 ## 20250122
 - [LibHunt](https://www.libhunt.com/) | [SDL](https://www.libhunt.com/r/SDL)
 

@@ -1,3 +1,6 @@
+## 20250123
+- [Product Hunt](https://www.producthunt.com) | [Trae](https://www.producthunt.com/posts/trae)
+
 ## 20250122
 - [Product Hunt](https://www.producthunt.com) | [UPDF AI](https://www.producthunt.com/posts/updf-ai)
 
