@@ -1,3 +1,6 @@
+## 20250124
+- [V2EX](https://www.v2ex.com/) | [小创业公司，需要带实习生出差去客户那边，问我安全是否有保障 我该怎么做？](https://www.v2ex.com/t/1107555)
+
 ## 20250123
 - [V2EX](https://www.v2ex.com/) | [本 6， 30 岁才 p5 未来很迷茫](https://www.v2ex.com/t/1107326)
 

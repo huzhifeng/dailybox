@@ -1,3 +1,7 @@
+## 20250124
+- [Phoronix](https://www.phoronix.com/) | [Several Linux DRM Drivers Orphaned Due To Developer Health](https://www.phoronix.com/news/Several-Linux-DRM-Orphaned)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 48 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-48-alpha-is-now-available-for-public-testing-heres-whats-new)
+
 ## 20250123
 - [Phoronix](https://www.phoronix.com/) | [Debian 15 Is Codenamed "Duke"](https://www.phoronix.com/news/Debian-15-Duke)
 

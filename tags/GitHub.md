@@ -1,3 +1,6 @@
+## 20250124
+- [GitHub Trending](https://github.com/trending?since=daily) | [teableio/teable](https://github.com/teableio/teable)
+
 ## 20250123
 - [GitHub Trending](https://github.com/trending?since=daily) | [teableio/teable](https://github.com/teableio/teable)
 

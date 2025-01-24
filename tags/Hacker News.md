@@ -1,3 +1,6 @@
+## 20250124
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-23](https://www.daemonology.net/hn-daily/2025-01-23.html)
+
 ## 20250123
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-22](https://www.daemonology.net/hn-daily/2025-01-22.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Tailwind CSS v4.0](https://news.ycombinator.com/item?id=42799136)

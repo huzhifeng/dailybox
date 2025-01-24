@@ -1,3 +1,6 @@
+## 20250124
+- [Phoronix](https://www.phoronix.com/) | [Several Linux DRM Drivers Orphaned Due To Developer Health](https://www.phoronix.com/news/Several-Linux-DRM-Orphaned)
+
 ## 20250123
 - [Phoronix](https://www.phoronix.com/) | [Debian 15 Is Codenamed "Duke"](https://www.phoronix.com/news/Debian-15-Duke)
 
