@@ -1,3 +1,6 @@
+## 20250125
+- [GitHub Trending](https://github.com/trending?since=daily) | [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
 ## 20250124
 - [GitHub Trending](https://github.com/trending?since=daily) | [teableio/teable](https://github.com/teableio/teable)
 

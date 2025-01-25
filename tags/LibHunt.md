@@ -1,3 +1,6 @@
+## 20250125
+- [LibHunt](https://www.libhunt.com/) | [tauri](https://www.libhunt.com/r/tauri)
+
 ## 20250123
 - [LibHunt](https://www.libhunt.com/) | [astro](https://www.libhunt.com/r/astro)
 

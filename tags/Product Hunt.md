@@ -1,3 +1,6 @@
+## 20250125
+- [Product Hunt](https://www.producthunt.com) | [Paymento](https://www.producthunt.com/posts/paymento)
+
 ## 20250123
 - [Product Hunt](https://www.producthunt.com) | [Trae](https://www.producthunt.com/posts/trae)
 

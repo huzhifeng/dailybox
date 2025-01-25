@@ -1,3 +1,6 @@
+## 20250125
+- [Phoronix](https://www.phoronix.com/) | [ISD: A New Interactive Way For systemd Management](https://www.phoronix.com/news/ISD-Interactive-Systemd)
+
 ## 20250124
 - [Phoronix](https://www.phoronix.com/) | [Several Linux DRM Drivers Orphaned Due To Developer Health](https://www.phoronix.com/news/Several-Linux-DRM-Orphaned)
 
