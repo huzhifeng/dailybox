@@ -1,3 +1,6 @@
+## 20250126
+- [Product Hunt](https://www.producthunt.com) | [Catalyst](https://www.producthunt.com/posts/catalyst-6)
+
 ## 20250125
 - [Product Hunt](https://www.producthunt.com) | [Paymento](https://www.producthunt.com/posts/paymento)
 

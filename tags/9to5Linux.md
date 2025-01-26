@@ -1,3 +1,6 @@
+## 20250126
+- [9to5Linux](https://9to5linux.com/) | [Solus 4.7 Released with Linux 6.12 LTS, GNOME 47, KDE Plasma 6.2, and Xfce 4.20](https://9to5linux.com/solus-4-7-released-with-linux-6-12-lts-gnome-47-kde-plasma-6-2-and-xfce-4-20)
+
 ## 20250124
 - [9to5Linux](https://9to5linux.com/) | [GNOME 48 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-48-alpha-is-now-available-for-public-testing-heres-whats-new)
 

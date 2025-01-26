@@ -1,3 +1,6 @@
+## 20250126
+- [GitHub Trending](https://github.com/trending?since=daily) | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster)
+
 ## 20250125
 - [GitHub Trending](https://github.com/trending?since=daily) | [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 

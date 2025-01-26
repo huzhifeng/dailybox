@@ -1,3 +1,7 @@
+## 20250126
+- [Phoronix](https://www.phoronix.com/) | [AMD Squeezes In More RDNA4 Changes For Linux 6.14 - Enables Cleaner Shader On GFX12](https://www.phoronix.com/news/AMDGPU-More-GFX12-Linux-6.14)
+- [9to5Linux](https://9to5linux.com/) | [Solus 4.7 Released with Linux 6.12 LTS, GNOME 47, KDE Plasma 6.2, and Xfce 4.20](https://9to5linux.com/solus-4-7-released-with-linux-6-12-lts-gnome-47-kde-plasma-6-2-and-xfce-4-20)
+
 ## 20250125
 - [Phoronix](https://www.phoronix.com/) | [ISD: A New Interactive Way For systemd Management](https://www.phoronix.com/news/ISD-Interactive-Systemd)
 
