@@ -1,3 +1,6 @@
+## 20250127
+- [It's FOSS](https://itsfoss.com/) | [I Ran Deepseek R1 on Raspberry Pi 5 and No, it Wasn't 200 tokens/s](https://itsfoss.com/deepseek-r1-raspberry-pi-5/)
+
 ## 20250123
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.04: Must-know Jargon, Kernel 6.13 Released, Mint 22.1, WINE 10 and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-04/)
 

@@ -1,3 +1,6 @@
+## 20250127
+- [Phoronix](https://www.phoronix.com/) | [Hyprland 0.47 Wayland Compositor Delivers Experimental HDR, GPU Hotplugging](https://www.phoronix.com/news/Hyprland-0.47-Released)
+
 ## 20250126
 - [Phoronix](https://www.phoronix.com/) | [AMD Squeezes In More RDNA4 Changes For Linux 6.14 - Enables Cleaner Shader On GFX12](https://www.phoronix.com/news/AMDGPU-More-GFX12-Linux-6.14)
 

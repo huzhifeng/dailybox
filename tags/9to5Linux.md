@@ -1,3 +1,6 @@
+## 20250127
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-26th-2025)
+
 ## 20250126
 - [9to5Linux](https://9to5linux.com/) | [Solus 4.7 Released with Linux 6.12 LTS, GNOME 47, KDE Plasma 6.2, and Xfce 4.20](https://9to5linux.com/solus-4-7-released-with-linux-6-12-lts-gnome-47-kde-plasma-6-2-and-xfce-4-20)
 
