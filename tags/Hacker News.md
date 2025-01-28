@@ -1,3 +1,7 @@
+## 20250128
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-27](https://www.daemonology.net/hn-daily/2025-01-27.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Run DeepSeek R1 Dynamic 1.58-bit](https://news.ycombinator.com/item?id=42850222)
+
 ## 20250127
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-26](https://www.daemonology.net/hn-daily/2025-01-26.html)
 - [Hacker News](https://news.ycombinator.com/front) | [A layoff fundamentally changed how I perceive work](https://news.ycombinator.com/item?id=42838700)

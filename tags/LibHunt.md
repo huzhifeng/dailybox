@@ -1,3 +1,6 @@
+## 20250128
+- [LibHunt](https://www.libhunt.com/) | [llama.cpp](https://www.libhunt.com/r/llama.cpp)
+
 ## 20250127
 - [LibHunt](https://www.libhunt.com/) | [Mail-in-a-Box](https://www.libhunt.com/r/mailinabox)
 

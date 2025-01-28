@@ -1,3 +1,6 @@
+## 20250128
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi 5 16GB Running Well For Larger Workloads, More Multi-Tasking](https://www.phoronix.com/review/raspberry-pi-5-16gb)
+
 ## 20250127
 - [Phoronix](https://www.phoronix.com/) | [Hyprland 0.47 Wayland Compositor Delivers Experimental HDR, GPU Hotplugging](https://www.phoronix.com/news/Hyprland-0.47-Released)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-26th-2025)

@@ -1,3 +1,6 @@
+## 20250128
+- [V2EX](https://www.v2ex.com/) | [好多 AI 都识别不出来这是啥字](https://www.v2ex.com/t/1108191)
+
 ## 20250124
 - [V2EX](https://www.v2ex.com/) | [小创业公司，需要带实习生出差去客户那边，问我安全是否有保障 我该怎么做？](https://www.v2ex.com/t/1107555)
 

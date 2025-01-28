@@ -1,3 +1,6 @@
+## 20250128
+- [Product Hunt](https://www.producthunt.com) | [Omakase.ai](https://www.producthunt.com/posts/omakase-ai-2)
+
 ## 20250127
 - [Product Hunt](https://www.producthunt.com) | [Apollo AI](https://www.producthunt.com/posts/apollo-ai)
 

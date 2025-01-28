@@ -1,3 +1,6 @@
+## 20250128
+- [GitHub Trending](https://github.com/trending?since=daily) | [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
 ## 20250127
 - [GitHub Trending](https://github.com/trending?since=daily) | [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 

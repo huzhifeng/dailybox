@@ -1,3 +1,6 @@
+## 20250128
+- [It's FOSS](https://itsfoss.com/) | [How I am Moving Away From Google's Ecosystem](https://itsfoss.com/leaving-google-ecosystem/)
+
 ## 20250127
 - [It's FOSS](https://itsfoss.com/) | [I Ran Deepseek R1 on Raspberry Pi 5 and No, it Wasn't 200 tokens/s](https://itsfoss.com/deepseek-r1-raspberry-pi-5/)
 
