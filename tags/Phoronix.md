@@ -1,3 +1,6 @@
+## 20250129
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Developers Moving From IRC To Matrix For Real-Time Communication](https://www.phoronix.com/news/Ubuntu-Developers-Matrix)
+
 ## 20250128
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi 5 16GB Running Well For Larger Workloads, More Multi-Tasking](https://www.phoronix.com/review/raspberry-pi-5-16gb)
 

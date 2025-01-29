@@ -1,3 +1,6 @@
+## 20250129
+- [Product Hunt](https://www.producthunt.com) | [Email Audit Engine](https://www.producthunt.com/posts/email-audit-engine-2)
+
 ## 20250128
 - [Product Hunt](https://www.producthunt.com) | [Omakase.ai](https://www.producthunt.com/posts/omakase-ai-2)
 

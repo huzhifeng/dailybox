@@ -1,3 +1,6 @@
+## 20250129
+- [GitHub Trending](https://github.com/trending?since=daily) | [ollama/ollama](https://github.com/ollama/ollama)
+
 ## 20250128
 - [GitHub Trending](https://github.com/trending?since=daily) | [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
 
