@@ -1,3 +1,6 @@
+## 20250130
+- [Phoronix](https://www.phoronix.com/) | [Yandex Open-Sources Perforator: Find Code Inefficiencies & "Save Billions of Dollars"](https://www.phoronix.com/news/Yandex-Open-Source-Perforator)
+
 ## 20250129
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Developers Moving From IRC To Matrix For Real-Time Communication](https://www.phoronix.com/news/Ubuntu-Developers-Matrix)
 

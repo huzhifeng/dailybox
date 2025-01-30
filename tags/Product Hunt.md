@@ -1,3 +1,6 @@
+## 20250130
+- [Product Hunt](https://www.producthunt.com) | [Stella AI](https://www.producthunt.com/posts/stella-ai-2)
+
 ## 20250129
 - [Product Hunt](https://www.producthunt.com) | [Email Audit Engine](https://www.producthunt.com/posts/email-audit-engine-2)
 

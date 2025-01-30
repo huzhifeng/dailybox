@@ -1,3 +1,6 @@
+## 20250130
+- [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)
+
 ## 20250129
 - [GitHub Trending](https://github.com/trending?since=daily) | [ollama/ollama](https://github.com/ollama/ollama)
 

@@ -1,3 +1,6 @@
+## 20250130
+- [9to5Linux](https://9to5linux.com/) | [GCompris 25.0 Open-Source Educational Suite Released with Five New Activities](https://9to5linux.com/gcompris-25-0-open-source-educational-suite-released-with-five-new-activities)
+
 ## 20250127
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-26th-2025)
 

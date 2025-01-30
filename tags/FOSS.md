@@ -1,3 +1,6 @@
+## 20250130
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.05: LibreOffice Tip, Launcher Customization, Moving Away from Google and More](https://itsfoss.com/newsletter/foss-weekly-25-05/)
+
 ## 20250128
 - [It's FOSS](https://itsfoss.com/) | [How I am Moving Away From Google's Ecosystem](https://itsfoss.com/leaving-google-ecosystem/)
 

@@ -1,3 +1,7 @@
+## 20250130
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-29](https://www.daemonology.net/hn-daily/2025-01-29.html)
+- [Hacker News](https://news.ycombinator.com/front) | [JavaScript Temporal is coming](https://news.ycombinator.com/item?id=42876840)
+
 ## 20250129
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-28](https://www.daemonology.net/hn-daily/2025-01-28.html)
 - [Hacker News](https://news.ycombinator.com/front) | [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://news.ycombinator.com/item?id=42865527)
