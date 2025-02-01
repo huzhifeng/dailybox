@@ -1,3 +1,6 @@
+## 20250201
+- [GitHub Trending](https://github.com/trending?since=daily) | [jef/streetmerchant](https://github.com/jef/streetmerchant)
+
 ## 20250130
 - [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)
 

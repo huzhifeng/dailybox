@@ -1,3 +1,7 @@
+## 20250201
+- [Phoronix](https://www.phoronix.com/) | [GTK's X11 Backend Now Deprecated, Planned For Removal In GTK 5](https://www.phoronix.com/news/GTK-X11-Now-Deprecated)
+- [9to5Linux](https://9to5linux.com/) | [Security-Focused ParrotOS 6.3 Distro Brings New and Updated Tools, Improvements](https://9to5linux.com/security-focused-parrotos-6-3-distro-brings-new-and-updated-tools-improvements)
+
 ## 20250130
 - [Phoronix](https://www.phoronix.com/) | [Yandex Open-Sources Perforator: Find Code Inefficiencies & "Save Billions of Dollars"](https://www.phoronix.com/news/Yandex-Open-Source-Perforator)
 - [9to5Linux](https://9to5linux.com/) | [GCompris 25.0 Open-Source Educational Suite Released with Five New Activities](https://9to5linux.com/gcompris-25-0-open-source-educational-suite-released-with-five-new-activities)

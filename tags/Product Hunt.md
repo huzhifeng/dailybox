@@ -1,3 +1,6 @@
+## 20250201
+- [Product Hunt](https://www.producthunt.com) | [WeatherNext By Google](https://www.producthunt.com/posts/weathernext-by-google)
+
 ## 20250130
 - [Product Hunt](https://www.producthunt.com) | [Stella AI](https://www.producthunt.com/posts/stella-ai-2)
 

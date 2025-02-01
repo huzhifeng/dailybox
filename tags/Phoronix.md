@@ -1,3 +1,6 @@
+## 20250201
+- [Phoronix](https://www.phoronix.com/) | [GTK's X11 Backend Now Deprecated, Planned For Removal In GTK 5](https://www.phoronix.com/news/GTK-X11-Now-Deprecated)
+
 ## 20250130
 - [Phoronix](https://www.phoronix.com/) | [Yandex Open-Sources Perforator: Find Code Inefficiencies & "Save Billions of Dollars"](https://www.phoronix.com/news/Yandex-Open-Source-Perforator)
 

@@ -1,3 +1,6 @@
+## 20250201
+- [V2EX](https://www.v2ex.com/) | [MasterCard 官网活动数据库疑似被脱，请参加过去年 Master 港卡返现活动的及时锁卡报失](https://www.v2ex.com/t/1108520)
+
 ## 20250128
 - [V2EX](https://www.v2ex.com/) | [好多 AI 都识别不出来这是啥字](https://www.v2ex.com/t/1108191)
 

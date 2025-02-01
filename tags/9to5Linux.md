@@ -1,3 +1,6 @@
+## 20250201
+- [9to5Linux](https://9to5linux.com/) | [Security-Focused ParrotOS 6.3 Distro Brings New and Updated Tools, Improvements](https://9to5linux.com/security-focused-parrotos-6-3-distro-brings-new-and-updated-tools-improvements)
+
 ## 20250130
 - [9to5Linux](https://9to5linux.com/) | [GCompris 25.0 Open-Source Educational Suite Released with Five New Activities](https://9to5linux.com/gcompris-25-0-open-source-educational-suite-released-with-five-new-activities)
 
