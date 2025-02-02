@@ -1,3 +1,6 @@
+## 20250202
+- [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.44 Released With Gas Support For AVX10.2, New Diamond Rapids Instructions](https://www.phoronix.com/news/GNU-Binutils-2.44)
+
 ## 20250201
 - [Phoronix](https://www.phoronix.com/) | [GTK's X11 Backend Now Deprecated, Planned For Removal In GTK 5](https://www.phoronix.com/news/GTK-X11-Now-Deprecated)
 - [9to5Linux](https://9to5linux.com/) | [Security-Focused ParrotOS 6.3 Distro Brings New and Updated Tools, Improvements](https://9to5linux.com/security-focused-parrotos-6-3-distro-brings-new-and-updated-tools-improvements)

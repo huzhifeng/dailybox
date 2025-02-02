@@ -1,3 +1,6 @@
+## 20250202
+- [GitHub Trending](https://github.com/trending?since=daily) | [oumi-ai/oumi](https://github.com/oumi-ai/oumi)
+
 ## 20250201
 - [GitHub Trending](https://github.com/trending?since=daily) | [jef/streetmerchant](https://github.com/jef/streetmerchant)
 

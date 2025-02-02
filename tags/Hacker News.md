@@ -1,3 +1,7 @@
+## 20250202
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-01](https://www.daemonology.net/hn-daily/2025-02-01.html)
+- [Hacker News](https://news.ycombinator.com/front) | [CDC orders mass retraction and revision of submitted research](https://news.ycombinator.com/item?id=42905937)
+
 ## 20250201
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-01-31](https://www.daemonology.net/hn-daily/2025-01-31.html)
 
