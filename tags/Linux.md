@@ -1,3 +1,7 @@
+## 20250203
+- [Phoronix](https://www.phoronix.com/) | [Firefox 135 Published With Safeguards To Prevent Overwhelming The Back History](https://www.phoronix.com/news/Firefox-135-Available)
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 1.9 Released with Linux Kernel 6.13, Docker Support](https://9to5linux.com/slackware-based-porteux-1-9-released-with-linux-kernel-6-13-docker-support)
+
 ## 20250202
 - [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.44 Released With Gas Support For AVX10.2, New Diamond Rapids Instructions](https://www.phoronix.com/news/GNU-Binutils-2.44)
 

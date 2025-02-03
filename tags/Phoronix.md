@@ -1,3 +1,6 @@
+## 20250203
+- [Phoronix](https://www.phoronix.com/) | [Firefox 135 Published With Safeguards To Prevent Overwhelming The Back History](https://www.phoronix.com/news/Firefox-135-Available)
+
 ## 20250202
 - [Phoronix](https://www.phoronix.com/) | [GNU Binutils 2.44 Released With Gas Support For AVX10.2, New Diamond Rapids Instructions](https://www.phoronix.com/news/GNU-Binutils-2.44)
 

@@ -1,3 +1,6 @@
+## 20250203
+- [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
 ## 20250202
 - [GitHub Trending](https://github.com/trending?since=daily) | [oumi-ai/oumi](https://github.com/oumi-ai/oumi)
 

@@ -1,3 +1,6 @@
+## 20250203
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 1.9 Released with Linux Kernel 6.13, Docker Support](https://9to5linux.com/slackware-based-porteux-1-9-released-with-linux-kernel-6-13-docker-support)
+
 ## 20250201
 - [9to5Linux](https://9to5linux.com/) | [Security-Focused ParrotOS 6.3 Distro Brings New and Updated Tools, Improvements](https://9to5linux.com/security-focused-parrotos-6-3-distro-brings-new-and-updated-tools-improvements)
 
