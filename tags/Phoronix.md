@@ -1,3 +1,6 @@
+## 20250204
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Video Encoding/Decoding Improvements For NVIDIA Blackwell GPUs](https://www.phoronix.com/news/FFmpeg-Improvements-NV-RTX-50)
+
 ## 20250203
 - [Phoronix](https://www.phoronix.com/) | [Firefox 135 Published With Safeguards To Prevent Overwhelming The Back History](https://www.phoronix.com/news/Firefox-135-Available)
 

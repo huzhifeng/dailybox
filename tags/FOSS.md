@@ -1,3 +1,6 @@
+## 20250204
+- [It's FOSS](https://itsfoss.com/) | [ArmSoM CM5: Powerful Replacement for Raspberry Pi CM4](https://itsfoss.com/armsom-cm5/)
+
 ## 20250201
 - [It's FOSS](https://itsfoss.com/) | [Using Emacs as Terminal Multiplexer on Windows](https://itsfoss.com/emacs-as-terminal-multiplexer-windows/)
 

@@ -1,3 +1,6 @@
+## 20250204
+- [GitHub Trending](https://github.com/trending?since=daily) | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
 ## 20250203
 - [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
