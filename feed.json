@@ -442,14 +442,6 @@
 			"author": "origin.author"
 		},
 		{
-			"channel": "一句",
-			"portal": "http://yijuzhan.com/",
-			"url": "http://yijuzhan.com/api/word.php?m=json",
-			"category": "语录",
-			"content": "content",
-			"author": "source"
-		},
-		{
 			"channel": "Quotable",
 			"portal": "https://github.com/lukePeavey/quotable",
 			"url": "https://api.quotable.io/random",
