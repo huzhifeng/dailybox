@@ -1,6 +1,9 @@
 ## 20250206
 - [Phoronix](https://www.phoronix.com/) | [SMT Remains Very Advantageous For 5th Gen AMD EPYC Performance](https://www.phoronix.com/review/amd-epyc-zen5-smt)
 
+## 20250205
+- [Phoronix](https://www.phoronix.com/) | [Bisecting The Linux 6.14 Performance Regression With System76 Thelio + AMD Threadripper](https://www.phoronix.com/news/Linux-6.14-Regression-PM)
+
 ## 20250204
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Video Encoding/Decoding Improvements For NVIDIA Blackwell GPUs](https://www.phoronix.com/news/FFmpeg-Improvements-NV-RTX-50)
 

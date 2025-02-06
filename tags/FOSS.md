@@ -1,6 +1,9 @@
 ## 20250206
 - [It's FOSS](https://itsfoss.com/) | [Deleting Linux Entry from Boot Menu from Windows After Removing Linux](https://itsfoss.com/delete-linux-entry-boot-dual/)
 
+## 20250205
+- [It's FOSS](https://itsfoss.com/) | [Missing Windows from Grub After Dual Boot? Here's What You Can Do](https://itsfoss.com/grub-os-prober/)
+
 ## 20250204
 - [It's FOSS](https://itsfoss.com/) | [ArmSoM CM5: Powerful Replacement for Raspberry Pi CM4](https://itsfoss.com/armsom-cm5/)
 

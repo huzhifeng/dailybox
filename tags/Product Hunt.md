@@ -1,6 +1,9 @@
 ## 20250206
 - [Product Hunt](https://www.producthunt.com) | [Lyzr Agent Studio](https://www.producthunt.com/posts/lyzr-agent-studio)
 
+## 20250205
+- [Product Hunt](https://www.producthunt.com) | [Kolosal AI](https://www.producthunt.com/posts/kolosal-ai)
+
 ## 20250204
 - [Product Hunt](https://www.producthunt.com) | [Omniflow](https://www.producthunt.com/posts/omniflow-2)
 

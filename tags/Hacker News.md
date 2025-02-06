@@ -1,6 +1,10 @@
 ## 20250206
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-05](https://www.daemonology.net/hn-daily/2025-02-05.html)
 
+## 20250205
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-04](https://www.daemonology.net/hn-daily/2025-02-04.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2025 02 07 HackerNews](https://supertechfans.com/cn/post/2025-02-07-HackerNews/)
+
 ## 20250204
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-03](https://www.daemonology.net/hn-daily/2025-02-03.html)
 
