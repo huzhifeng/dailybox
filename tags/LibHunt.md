@@ -1,3 +1,6 @@
+## 20250206
+- [LibHunt](https://www.libhunt.com/) | [FinceptTerminal](https://www.libhunt.com/r/FinceptTerminal)
+
 ## 20250203
 - [LibHunt](https://www.libhunt.com/) | [FlashLearn](https://www.libhunt.com/r/FlashLearn)
 

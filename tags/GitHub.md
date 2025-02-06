@@ -1,3 +1,6 @@
+## 20250206
+- [GitHub Trending](https://github.com/trending?since=daily) | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+
 ## 20250204
 - [GitHub Trending](https://github.com/trending?since=daily) | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 

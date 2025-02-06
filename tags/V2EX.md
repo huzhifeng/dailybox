@@ -1,3 +1,6 @@
+## 20250206
+- [V2EX](https://www.v2ex.com/) | [你在左车道 GPS 速度已经 120 了，后面有车迅速接近你，你让不让？](https://www.v2ex.com/t/1109372)
+
 ## 20250203
 - [V2EX](https://www.v2ex.com/) | [大 S 去世了，感觉我们这一代人也基本要完了](https://www.v2ex.com/t/1108760)
 

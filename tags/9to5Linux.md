@@ -1,3 +1,6 @@
+## 20250206
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12.2 Improves Dolphin, Itinerary, Tokodon, and Many Other KDE Apps](https://9to5linux.com/kde-gear-24-12-2-improves-dolphin-itinerary-tokodon-and-many-other-kde-apps)
+
 ## 20250203
 - [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 1.9 Released with Linux Kernel 6.13, Docker Support](https://9to5linux.com/slackware-based-porteux-1-9-released-with-linux-kernel-6-13-docker-support)
 
