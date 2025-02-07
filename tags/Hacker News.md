@@ -1,3 +1,7 @@
+## 20250207
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-06](https://www.daemonology.net/hn-daily/2025-02-06.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://news.ycombinator.com/item?id=42971761)
+
 ## 20250206
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-05](https://www.daemonology.net/hn-daily/2025-02-05.html)
 

@@ -1,3 +1,6 @@
+## 20250207
+- [It's FOSS](https://itsfoss.com/) | [Installing Arch Linux with BTRFS and Disk Encryption](https://itsfoss.com/arch-linux-install-encrypted-btrfs/)
+
 ## 20250206
 - [It's FOSS](https://itsfoss.com/) | [Deleting Linux Entry from Boot Menu from Windows After Removing Linux](https://itsfoss.com/delete-linux-entry-boot-dual/)
 

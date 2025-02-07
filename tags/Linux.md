@@ -1,3 +1,7 @@
+## 20250207
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Showing Off Nice Performance Improvements On AMD Zen 5](https://www.phoronix.com/review/gcc-15-amd-zen5)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP](https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp)
+
 ## 20250206
 - [Phoronix](https://www.phoronix.com/) | [SMT Remains Very Advantageous For 5th Gen AMD EPYC Performance](https://www.phoronix.com/review/amd-epyc-zen5-smt)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12.2 Improves Dolphin, Itinerary, Tokodon, and Many Other KDE Apps](https://9to5linux.com/kde-gear-24-12-2-improves-dolphin-itinerary-tokodon-and-many-other-kde-apps)

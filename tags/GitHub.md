@@ -1,3 +1,6 @@
+## 20250207
+- [GitHub Trending](https://github.com/trending?since=daily) | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+
 ## 20250206
 - [GitHub Trending](https://github.com/trending?since=daily) | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 

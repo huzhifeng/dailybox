@@ -1,3 +1,6 @@
+## 20250207
+- [9to5Linux](https://9to5linux.com/) | [Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP](https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp)
+
 ## 20250206
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 24.12.2 Improves Dolphin, Itinerary, Tokodon, and Many Other KDE Apps](https://9to5linux.com/kde-gear-24-12-2-improves-dolphin-itinerary-tokodon-and-many-other-kde-apps)
 

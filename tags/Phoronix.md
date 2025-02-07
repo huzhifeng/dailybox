@@ -1,3 +1,6 @@
+## 20250207
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Showing Off Nice Performance Improvements On AMD Zen 5](https://www.phoronix.com/review/gcc-15-amd-zen5)
+
 ## 20250206
 - [Phoronix](https://www.phoronix.com/) | [SMT Remains Very Advantageous For 5th Gen AMD EPYC Performance](https://www.phoronix.com/review/amd-epyc-zen5-smt)
 
