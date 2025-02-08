@@ -1,3 +1,6 @@
+## 20250208
+- [Phoronix](https://www.phoronix.com/) | [GNU G-Golf v0.8 Released For Writing GTK Apps In Guile/Scheme](https://www.phoronix.com/news/GNU-G-Golf-0.8)
+
 ## 20250207
 - [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Showing Off Nice Performance Improvements On AMD Zen 5](https://www.phoronix.com/review/gcc-15-amd-zen5)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP](https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp)

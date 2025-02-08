@@ -1,3 +1,6 @@
+## 20250208
+- [GitHub Trending](https://github.com/trending?since=daily) | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
 ## 20250207
 - [GitHub Trending](https://github.com/trending?since=daily) | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 

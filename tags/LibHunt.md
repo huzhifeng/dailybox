@@ -1,3 +1,6 @@
+## 20250208
+- [LibHunt](https://www.libhunt.com/) | [duckduckgo-locales](https://www.libhunt.com/r/duckduckgo-locales)
+
 ## 20250207
 - [LibHunt](https://www.libhunt.com/) | [nitter](https://www.libhunt.com/r/nitter)
 
