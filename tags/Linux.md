@@ -1,3 +1,6 @@
+## 20250209
+- [Phoronix](https://www.phoronix.com/) | [Curious Intel Linux Driver Maintainer Changes In Recent Days](https://www.phoronix.com/news/Intel-Linux-Maintainer-Changes)
+
 ## 20250208
 - [Phoronix](https://www.phoronix.com/) | [GNU G-Golf v0.8 Released For Writing GTK Apps In Guile/Scheme](https://www.phoronix.com/news/GNU-G-Golf-0.8)
 
