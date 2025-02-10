@@ -1,3 +1,6 @@
+## 20250210
+- [It's FOSS](https://itsfoss.com/) | [5 Open-source Local AI Tools for Image Generation I Found Interesting](https://itsfoss.com/local-ai-image-tools/)
+
 ## 20250207
 - [It's FOSS](https://itsfoss.com/) | [Installing Arch Linux with BTRFS and Disk Encryption](https://itsfoss.com/arch-linux-install-encrypted-btrfs/)
 

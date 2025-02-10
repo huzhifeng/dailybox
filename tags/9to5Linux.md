@@ -1,3 +1,6 @@
+## 20250210
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux-Based EndeavourOS Mercury Lands with Linux Kernel 6.13 and Xfce 4.20](https://9to5linux.com/arch-linux-based-endeavouros-mercury-lands-with-linux-kernel-6-13-and-xfce-4-20)
+
 ## 20250207
 - [9to5Linux](https://9to5linux.com/) | [Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP](https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp)
 

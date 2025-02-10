@@ -1,3 +1,6 @@
+## 20250210
+- [Phoronix](https://www.phoronix.com/) | [Python 3.14 Lands A New Interpreter With 3~30% Faster Python Code](https://www.phoronix.com/news/Python-3.14-New-Interpreter)
+
 ## 20250209
 - [Phoronix](https://www.phoronix.com/) | [Curious Intel Linux Driver Maintainer Changes In Recent Days](https://www.phoronix.com/news/Intel-Linux-Maintainer-Changes)
 

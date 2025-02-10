@@ -1,3 +1,6 @@
+## 20250210
+- [GitHub Trending](https://github.com/trending?since=daily) | [yamadashy/repomix](https://github.com/yamadashy/repomix)
+
 ## 20250209
 - [GitHub Trending](https://github.com/trending?since=daily) | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
