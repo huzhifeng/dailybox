@@ -1,3 +1,7 @@
+## 20250211
+- [Phoronix](https://www.phoronix.com/) | [GNOME 48 Now Allows Grouping Notifications By App](https://www.phoronix.com/news/GNOME-48-Notifications-App)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Desktop Environment Officially Released, This Is What’s New](https://9to5linux.com/kde-plasma-6-3-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20250210
 - [Phoronix](https://www.phoronix.com/) | [Python 3.14 Lands A New Interpreter With 3~30% Faster Python Code](https://www.phoronix.com/news/Python-3.14-New-Interpreter)
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux-Based EndeavourOS Mercury Lands with Linux Kernel 6.13 and Xfce 4.20](https://9to5linux.com/arch-linux-based-endeavouros-mercury-lands-with-linux-kernel-6-13-and-xfce-4-20)

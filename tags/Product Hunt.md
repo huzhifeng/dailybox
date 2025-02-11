@@ -1,3 +1,6 @@
+## 20250211
+- [Product Hunt](https://www.producthunt.com) | [Github Copilot Agent Mode](https://www.producthunt.com/posts/github-copilot-agent-mode)
+
 ## 20250208
 - [Product Hunt](https://www.producthunt.com) | [Krea Chat](https://www.producthunt.com/posts/krea-chat-2)
 

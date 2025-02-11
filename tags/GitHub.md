@@ -1,3 +1,7 @@
+## 20250211
+- [GitHub Trending](https://github.com/trending?since=daily) | [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [ImtiazMani/doctor-dok](https://github.com/ImtiazMani/doctor-dok)
+
 ## 20250210
 - [GitHub Trending](https://github.com/trending?since=daily) | [yamadashy/repomix](https://github.com/yamadashy/repomix)
 

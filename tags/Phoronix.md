@@ -1,3 +1,6 @@
+## 20250211
+- [Phoronix](https://www.phoronix.com/) | [GNOME 48 Now Allows Grouping Notifications By App](https://www.phoronix.com/news/GNOME-48-Notifications-App)
+
 ## 20250210
 - [Phoronix](https://www.phoronix.com/) | [Python 3.14 Lands A New Interpreter With 3~30% Faster Python Code](https://www.phoronix.com/news/Python-3.14-New-Interpreter)
 
