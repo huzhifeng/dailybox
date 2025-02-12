@@ -1,3 +1,6 @@
+## 20250212
+- [GitHub Trending](https://github.com/trending?since=daily) | [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
 ## 20250211
 - [GitHub Trending](https://github.com/trending?since=daily) | [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [ImtiazMani/doctor-dok](https://github.com/ImtiazMani/doctor-dok)

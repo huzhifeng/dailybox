@@ -1,3 +1,6 @@
+## 20250212
+- [LibHunt](https://www.libhunt.com/) | [bun](https://www.libhunt.com/r/bun)
+
 ## 20250211
 - [LibHunt](https://www.libhunt.com/) | [Docker Compose](https://www.libhunt.com/r/compose)
 

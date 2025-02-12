@@ -1,3 +1,6 @@
+## 20250212
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Performance For 250Hz vs. 1000Hz Timer Frequency Comparison](https://www.phoronix.com/news/Linux-250Hz-1000Hz-Kernel-2025)
+
 ## 20250211
 - [Phoronix](https://www.phoronix.com/) | [GNOME 48 Now Allows Grouping Notifications By App](https://www.phoronix.com/news/GNOME-48-Notifications-App)
 

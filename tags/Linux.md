@@ -1,3 +1,7 @@
+## 20250212
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Performance For 250Hz vs. 1000Hz Timer Frequency Comparison](https://www.phoronix.com/news/Linux-250Hz-1000Hz-Kernel-2025)
+- [9to5Linux](https://9to5linux.com/) | [Darktable 5.0.1 Adds Support for Leica SL3-S, Minolta DiMAGE 5, and Panasonic S5D](https://9to5linux.com/darktable-5-0-1-adds-support-for-leica-sl3-s-minolta-dimage-5-and-panasonic-s5d)
+
 ## 20250211
 - [Phoronix](https://www.phoronix.com/) | [GNOME 48 Now Allows Grouping Notifications By App](https://www.phoronix.com/news/GNOME-48-Notifications-App)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Desktop Environment Officially Released, This Is What’s New](https://9to5linux.com/kde-plasma-6-3-desktop-environment-officially-released-this-is-whats-new)

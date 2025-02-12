@@ -1,3 +1,6 @@
+## 20250212
+- [It's FOSS](https://itsfoss.com/) | [Flexpilot is an Open Source IDE for AI-Assisted Coding Experience 🚀](https://itsfoss.com/flexpilot-ide/)
+
 ## 20250210
 - [It's FOSS](https://itsfoss.com/) | [5 Open-source Local AI Tools for Image Generation I Found Interesting](https://itsfoss.com/local-ai-image-tools/)
 

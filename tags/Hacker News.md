@@ -1,3 +1,7 @@
+## 20250212
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-11](https://www.daemonology.net/hn-daily/2025-02-11.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Leaking the email of any YouTube user for $10,000](https://news.ycombinator.com/item?id=43024221)
+
 ## 20250211
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-10](https://www.daemonology.net/hn-daily/2025-02-10.html)
 

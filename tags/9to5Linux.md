@@ -1,3 +1,6 @@
+## 20250212
+- [9to5Linux](https://9to5linux.com/) | [Darktable 5.0.1 Adds Support for Leica SL3-S, Minolta DiMAGE 5, and Panasonic S5D](https://9to5linux.com/darktable-5-0-1-adds-support-for-leica-sl3-s-minolta-dimage-5-and-panasonic-s5d)
+
 ## 20250211
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3 Desktop Environment Officially Released, This Is What’s New](https://9to5linux.com/kde-plasma-6-3-desktop-environment-officially-released-this-is-whats-new)
 
