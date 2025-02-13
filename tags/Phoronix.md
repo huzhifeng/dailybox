@@ -1,3 +1,6 @@
+## 20250213
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14-rc3 To Fix Platform Profile Support For Newer AMD-Powered ThinkPads](https://www.phoronix.com/news/Linux-6.14-rc3-Newer-AMD-PP)
+
 ## 20250212
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Performance For 250Hz vs. 1000Hz Timer Frequency Comparison](https://www.phoronix.com/news/Linux-250Hz-1000Hz-Kernel-2025)
 

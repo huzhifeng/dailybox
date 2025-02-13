@@ -1,3 +1,6 @@
+## 20250213
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/)
+
 ## 20250212
 - [It's FOSS](https://itsfoss.com/) | [Flexpilot is an Open Source IDE for AI-Assisted Coding Experience 🚀](https://itsfoss.com/flexpilot-ide/)
 

@@ -1,3 +1,6 @@
+## 20250213
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.14-rc3 To Fix Platform Profile Support For Newer AMD-Powered ThinkPads](https://www.phoronix.com/news/Linux-6.14-rc3-Newer-AMD-PP)
+
 ## 20250212
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.13 Performance For 250Hz vs. 1000Hz Timer Frequency Comparison](https://www.phoronix.com/news/Linux-250Hz-1000Hz-Kernel-2025)
 - [9to5Linux](https://9to5linux.com/) | [Darktable 5.0.1 Adds Support for Leica SL3-S, Minolta DiMAGE 5, and Panasonic S5D](https://9to5linux.com/darktable-5-0-1-adds-support-for-leica-sl3-s-minolta-dimage-5-and-panasonic-s5d)
