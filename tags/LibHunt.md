@@ -1,3 +1,6 @@
+## 20250214
+- [LibHunt](https://www.libhunt.com/) | [MySQL](https://www.libhunt.com/r/mysql-server)
+
 ## 20250212
 - [LibHunt](https://www.libhunt.com/) | [bun](https://www.libhunt.com/r/bun)
 

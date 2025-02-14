@@ -1,3 +1,6 @@
+## 20250214
+- [GitHub Trending](https://github.com/trending?since=daily) | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
 ## 20250213
 - [GitHub Trending](https://github.com/trending?since=daily) | [antonputra/tutorials](https://github.com/antonputra/tutorials)
 

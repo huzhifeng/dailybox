@@ -1,3 +1,7 @@
+## 20250214
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 To Ensure PlayStation 5 Controllers Use The Correct Driver](https://www.phoronix.com/news/Linux-6.15-Ensures-PS5-Driver)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.11 Adds Search Providers for Nix Packages, Docker Hub, and More](https://9to5linux.com/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more)
+
 ## 20250213
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.14-rc3 To Fix Platform Profile Support For Newer AMD-Powered ThinkPads](https://www.phoronix.com/news/Linux-6.14-rc3-Newer-AMD-PP)
 

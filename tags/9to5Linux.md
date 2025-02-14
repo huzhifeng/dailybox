@@ -1,3 +1,6 @@
+## 20250214
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.11 Adds Search Providers for Nix Packages, Docker Hub, and More](https://9to5linux.com/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more)
+
 ## 20250212
 - [9to5Linux](https://9to5linux.com/) | [Darktable 5.0.1 Adds Support for Leica SL3-S, Minolta DiMAGE 5, and Panasonic S5D](https://9to5linux.com/darktable-5-0-1-adds-support-for-leica-sl3-s-minolta-dimage-5-and-panasonic-s5d)
 
