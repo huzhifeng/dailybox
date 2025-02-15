@@ -1,3 +1,7 @@
+## 20250215
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zipstack/unstract](https://github.com/Zipstack/unstract)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
+
 ## 20250214
 - [GitHub Trending](https://github.com/trending?since=daily) | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 

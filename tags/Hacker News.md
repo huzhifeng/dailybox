@@ -1,3 +1,6 @@
+## 20250215
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-14](https://www.daemonology.net/hn-daily/2025-02-14.html)
+
 ## 20250214
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-13](https://www.daemonology.net/hn-daily/2025-02-13.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Zed now predicts your next edit with Zeta, our new open model](https://news.ycombinator.com/item?id=43045606)

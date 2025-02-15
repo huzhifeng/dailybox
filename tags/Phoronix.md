@@ -1,3 +1,6 @@
+## 20250215
+- [Phoronix](https://www.phoronix.com/) | [Karol Herbst Steps Down As Nouveau Maintainer Due To Linux Kernel's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
+
 ## 20250214
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 To Ensure PlayStation 5 Controllers Use The Correct Driver](https://www.phoronix.com/news/Linux-6.15-Ensures-PS5-Driver)
 

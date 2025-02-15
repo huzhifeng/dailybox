@@ -1,3 +1,6 @@
+## 20250215
+- [Product Hunt](https://www.producthunt.com) | [CapybaraDB Beta](https://www.producthunt.com/posts/capybaradb-beta-2)
+
 ## 20250214
 - [Product Hunt](https://www.producthunt.com) | [Subtrace](https://www.producthunt.com/posts/subtrace)
 
