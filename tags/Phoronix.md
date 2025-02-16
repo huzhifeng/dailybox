@@ -1,3 +1,6 @@
+## 20250216
+- [Phoronix](https://www.phoronix.com/) | [Firefox User Manages Experimental Browser Port To GTK4 Toolkit](https://www.phoronix.com/news/Firefox-User-Ports-GTK4)
+
 ## 20250215
 - [Phoronix](https://www.phoronix.com/) | [Karol Herbst Steps Down As Nouveau Maintainer Due To Linux Kernel's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
 

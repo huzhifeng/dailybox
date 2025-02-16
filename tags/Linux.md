@@ -1,3 +1,7 @@
+## 20250216
+- [Phoronix](https://www.phoronix.com/) | [Firefox User Manages Experimental Browser Port To GTK4 Toolkit](https://www.phoronix.com/news/Firefox-User-Ports-GTK4)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 48 Beta Is Now Available for Public Testing with Adwaita Fonts, More](https://9to5linux.com/gnome-48-beta-is-now-available-for-public-testing-with-adwaita-fonts-new-wallpaper)
+
 ## 20250215
 - [Phoronix](https://www.phoronix.com/) | [Karol Herbst Steps Down As Nouveau Maintainer Due To Linux Kernel's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
 

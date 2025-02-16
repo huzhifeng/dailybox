@@ -1,3 +1,6 @@
+## 20250216
+- [GitHub Trending](https://github.com/trending?since=daily) | [tpn/pdfs](https://github.com/tpn/pdfs)
+
 ## 20250215
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zipstack/unstract](https://github.com/Zipstack/unstract)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)

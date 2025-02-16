@@ -1,3 +1,7 @@
+## 20250216
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-15](https://www.daemonology.net/hn-daily/2025-02-15.html)
+- [Hacker News](https://news.ycombinator.com/front) | [“A calculator app? Anyone could make that”](https://news.ycombinator.com/item?id=43066953)
+
 ## 20250215
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-14](https://www.daemonology.net/hn-daily/2025-02-14.html)
 

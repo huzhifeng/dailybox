@@ -1,3 +1,6 @@
+## 20250216
+- [9to5Linux](https://9to5linux.com/) | [GNOME 48 Beta Is Now Available for Public Testing with Adwaita Fonts, More](https://9to5linux.com/gnome-48-beta-is-now-available-for-public-testing-with-adwaita-fonts-new-wallpaper)
+
 ## 20250214
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.11 Adds Search Providers for Nix Packages, Docker Hub, and More](https://9to5linux.com/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more)
 
