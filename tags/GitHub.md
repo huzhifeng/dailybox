@@ -1,3 +1,6 @@
+## 20250217
+- [GitHub Trending](https://github.com/trending?since=daily) | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
 ## 20250216
 - [GitHub Trending](https://github.com/trending?since=daily) | [tpn/pdfs](https://github.com/tpn/pdfs)
 

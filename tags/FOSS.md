@@ -1,3 +1,6 @@
+## 20250217
+- [It's FOSS](https://itsfoss.com/) | [CrowView Note: Turning Raspberry Pi into a Laptop, Sort of](https://itsfoss.com/crowview-note-review/)
+
 ## 20250213
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/)
 

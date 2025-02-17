@@ -1,3 +1,6 @@
+## 20250217
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance](https://www.phoronix.com/review/nvidia-maxwell-to-blackwell)
+
 ## 20250216
 - [Phoronix](https://www.phoronix.com/) | [Firefox User Manages Experimental Browser Port To GTK4 Toolkit](https://www.phoronix.com/news/Firefox-User-Ports-GTK4)
 

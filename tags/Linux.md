@@ -1,3 +1,7 @@
+## 20250217
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance](https://www.phoronix.com/review/nvidia-maxwell-to-blackwell)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025)
+
 ## 20250216
 - [Phoronix](https://www.phoronix.com/) | [Firefox User Manages Experimental Browser Port To GTK4 Toolkit](https://www.phoronix.com/news/Firefox-User-Ports-GTK4)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 48 Beta Is Now Available for Public Testing with Adwaita Fonts, More](https://9to5linux.com/gnome-48-beta-is-now-available-for-public-testing-with-adwaita-fonts-new-wallpaper)

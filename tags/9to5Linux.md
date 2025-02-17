@@ -1,3 +1,6 @@
+## 20250217
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025)
+
 ## 20250216
 - [9to5Linux](https://9to5linux.com/) | [GNOME 48 Beta Is Now Available for Public Testing with Adwaita Fonts, More](https://9to5linux.com/gnome-48-beta-is-now-available-for-public-testing-with-adwaita-fonts-new-wallpaper)
 
