@@ -1,3 +1,6 @@
+## 20250218
+- [It's FOSS](https://itsfoss.com/) | [Kew: Listening to Music in the Linux Terminal](https://itsfoss.com/kew-terminal-player/)
+
 ## 20250217
 - [It's FOSS](https://itsfoss.com/) | [CrowView Note: Turning Raspberry Pi into a Laptop, Sort of](https://itsfoss.com/crowview-note-review/)
 

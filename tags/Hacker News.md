@@ -1,3 +1,7 @@
+## 20250218
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-17](https://www.daemonology.net/hn-daily/2025-02-17.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Live-updating version of the 'What a week, huh?' meme](https://news.ycombinator.com/item?id=43086479)
+
 ## 20250217
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-16](https://www.daemonology.net/hn-daily/2025-02-16.html)
 - [Hacker News](https://news.ycombinator.com/front) | [X users are unable to post “Signal.me” links](https://news.ycombinator.com/item?id=43076710)

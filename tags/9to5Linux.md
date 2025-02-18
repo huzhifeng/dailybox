@@ -1,3 +1,6 @@
+## 20250218
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3.1 Released with Plasma Discover Improvements and Many Bug Fixes](https://9to5linux.com/kde-plasma-6-3-1-released-with-plasma-discover-improvements-and-many-bug-fixes)
+
 ## 20250217
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025)
 

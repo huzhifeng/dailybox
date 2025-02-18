@@ -1,3 +1,7 @@
+## 20250218
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.3.1 Released With A Few Dozen Fixes For The Week](https://www.phoronix.com/news/KDE-Plasma-6.3.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3.1 Released with Plasma Discover Improvements and Many Bug Fixes](https://9to5linux.com/kde-plasma-6-3-1-released-with-plasma-discover-improvements-and-many-bug-fixes)
+
 ## 20250217
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance](https://www.phoronix.com/review/nvidia-maxwell-to-blackwell)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025)

@@ -1,3 +1,7 @@
+## 20250218
+- [GitHub Trending](https://github.com/trending?since=daily) | [cordx56/rustowl](https://github.com/cordx56/rustowl)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Norinthkm/Mev-Bot_SOLANA](https://github.com/Norinthkm/Mev-Bot_SOLANA)
+
 ## 20250217
 - [GitHub Trending](https://github.com/trending?since=daily) | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 

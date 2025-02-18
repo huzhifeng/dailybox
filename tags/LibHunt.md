@@ -1,3 +1,6 @@
+## 20250218
+- [LibHunt](https://www.libhunt.com/) | [docling](https://www.libhunt.com/r/docling)
+
 ## 20250217
 - [LibHunt](https://www.libhunt.com/) | [pgassistant](https://www.libhunt.com/r/pgassistant)
 
