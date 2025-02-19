@@ -179,6 +179,15 @@
 			"tags": ["Hacker News"]
 		},
 		{
+			"channel": "Hacker News 每日播报",
+			"portal": "https://hacker-news.agi.li/",
+			"portal2": "https://github.com/ccbikai/hacker-news",
+			"url": "https://hacker-news.agi.li/rss.xml",
+			"ignoredate": 1,
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "Hacker News Daily Top 10",
 			"portal": "https://github.com/headllines/hackernews-daily",
 			"url": "https://rsshub.app/github/issue/headllines/hackernews-daily",
