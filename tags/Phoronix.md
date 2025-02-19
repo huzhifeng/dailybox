@@ -1,3 +1,6 @@
+## 20250219
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Posted For Enabling Apple Web Camera Support For M-Series Macs](https://www.phoronix.com/news/Apple-Web-Camera-Linux-Patches)
+
 ## 20250218
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.3.1 Released With A Few Dozen Fixes For The Week](https://www.phoronix.com/news/KDE-Plasma-6.3.1-Released)
 

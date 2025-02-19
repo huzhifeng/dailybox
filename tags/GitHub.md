@@ -1,3 +1,7 @@
+## 20250219
+- [GitHub Trending](https://github.com/trending?since=daily) | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat)
+
 ## 20250218
 - [GitHub Trending](https://github.com/trending?since=daily) | [cordx56/rustowl](https://github.com/cordx56/rustowl)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Norinthkm/Mev-Bot_SOLANA](https://github.com/Norinthkm/Mev-Bot_SOLANA)
