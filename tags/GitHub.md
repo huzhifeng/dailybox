@@ -1,3 +1,6 @@
+## 20250220
+- [GitHub Trending](https://github.com/trending?since=daily) | [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+
 ## 20250219
 - [GitHub Trending](https://github.com/trending?since=daily) | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat)

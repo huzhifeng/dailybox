@@ -1,3 +1,6 @@
+## 20250220
+- [Phoronix](https://www.phoronix.com/) | [Linux Finally Introducing A Standardized Way Of Informing User-Space Over Hung GPUs](https://www.phoronix.com/news/Linux-6.14-Wedged-GPUs-User)
+
 ## 20250219
 - [Phoronix](https://www.phoronix.com/) | [Linux Driver Posted For Enabling Apple Web Camera Support For M-Series Macs](https://www.phoronix.com/news/Apple-Web-Camera-Linux-Patches)
 

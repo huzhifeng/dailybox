@@ -1,3 +1,6 @@
+## 20250220
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.2 LTS Is Now Available for Download Powered by Linux Kernel 6.11](https://9to5linux.com/ubuntu-24-04-2-lts-is-now-available-for-download-powered-by-linux-kernel-6-11)
+
 ## 20250218
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3.1 Released with Plasma Discover Improvements and Many Bug Fixes](https://9to5linux.com/kde-plasma-6-3-1-released-with-plasma-discover-improvements-and-many-bug-fixes)
 

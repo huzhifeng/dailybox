@@ -1,3 +1,6 @@
+## 20250220
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/)
+
 ## 20250218
 - [It's FOSS](https://itsfoss.com/) | [Kew: Listening to Music in the Linux Terminal](https://itsfoss.com/kew-terminal-player/)
 
