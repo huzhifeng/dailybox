@@ -1,3 +1,6 @@
+## 20250221
+- [Product Hunt](https://www.producthunt.com) | [Chance AI for iOS](https://www.producthunt.com/posts/chance-ai-for-ios)
+
 ## 20250220
 - [Product Hunt](https://www.producthunt.com) | [Shram 2.0](https://www.producthunt.com/posts/shram-2-0)
 

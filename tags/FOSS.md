@@ -1,3 +1,6 @@
+## 20250221
+- [It's FOSS](https://itsfoss.com/) | [Installing Add-ons and Builds in Kodi](https://itsfoss.com/install-kodi-build-add-on/)
+
 ## 20250220
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/)
 

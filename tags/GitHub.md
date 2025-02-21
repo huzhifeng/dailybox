@@ -1,3 +1,7 @@
+## 20250221
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index)
+
 ## 20250220
 - [GitHub Trending](https://github.com/trending?since=daily) | [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 

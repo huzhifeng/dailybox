@@ -1,3 +1,6 @@
+## 20250221
+- [Phoronix](https://www.phoronix.com/) | [Benchmarks: Excellent Power Efficiency With 5th Gen AMD EPYC Using amd-pstate & Power Profiles](https://www.phoronix.com/review/amd-epyc-pstate-efficiency)
+
 ## 20250220
 - [Phoronix](https://www.phoronix.com/) | [Linux Finally Introducing A Standardized Way Of Informing User-Space Over Hung GPUs](https://www.phoronix.com/news/Linux-6.14-Wedged-GPUs-User)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.2 LTS Is Now Available for Download Powered by Linux Kernel 6.11](https://9to5linux.com/ubuntu-24-04-2-lts-is-now-available-for-download-powered-by-linux-kernel-6-11)

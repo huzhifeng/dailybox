@@ -1,3 +1,8 @@
+## 20250221
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-20](https://www.daemonology.net/hn-daily/2025-02-20.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-02-20](https://hacker-news.agi.li/post/2025-02-20)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta claims torrenting pirated books isn't illegal without proof of seeding](https://news.ycombinator.com/item?id=43125840)
+
 ## 20250220
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-19](https://www.daemonology.net/hn-daily/2025-02-19.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-02-19](https://hacker-news.agi.li/post/2025-02-19)

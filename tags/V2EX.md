@@ -1,3 +1,6 @@
+## 20250221
+- [V2EX](https://www.v2ex.com/) | [Harmony OS Next 是不是要凉了...](https://www.v2ex.com/t/1113345)
+
 ## 20250220
 - [V2EX](https://www.v2ex.com/) | [年前离职后暂时加入了 V 友的创业团队, 现在产品前景不太好, 再找找新工作!](https://www.v2ex.com/t/1112917)
 

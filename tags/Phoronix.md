@@ -1,3 +1,6 @@
+## 20250221
+- [Phoronix](https://www.phoronix.com/) | [Benchmarks: Excellent Power Efficiency With 5th Gen AMD EPYC Using amd-pstate & Power Profiles](https://www.phoronix.com/review/amd-epyc-pstate-efficiency)
+
 ## 20250220
 - [Phoronix](https://www.phoronix.com/) | [Linux Finally Introducing A Standardized Way Of Informing User-Space Over Hung GPUs](https://www.phoronix.com/news/Linux-6.14-Wedged-GPUs-User)
 
