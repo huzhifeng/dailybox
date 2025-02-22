@@ -1,3 +1,7 @@
+## 20250222
+- [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Honeykrisp Vulkan Driver Gains Sparse Support In Mesa 25.1](https://www.phoronix.com/news/Honeykrisp-Sparse-Mesa-25.1)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.3 Archive Manager Improves Integration with GNOME and KDE Plasma](https://9to5linux.com/peazip-10-3-archive-manager-improves-integration-with-gnome-and-kde-plasma)
+
 ## 20250221
 - [Phoronix](https://www.phoronix.com/) | [Benchmarks: Excellent Power Efficiency With 5th Gen AMD EPYC Using amd-pstate & Power Profiles](https://www.phoronix.com/review/amd-epyc-pstate-efficiency)
 

@@ -1,3 +1,6 @@
+## 20250222
+- [Product Hunt](https://www.producthunt.com) | [Trupeer Faces](https://www.producthunt.com/posts/trupeer-faces)
+
 ## 20250221
 - [Product Hunt](https://www.producthunt.com) | [Chance AI for iOS](https://www.producthunt.com/posts/chance-ai-for-ios)
 

@@ -1,3 +1,6 @@
+## 20250222
+- [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Honeykrisp Vulkan Driver Gains Sparse Support In Mesa 25.1](https://www.phoronix.com/news/Honeykrisp-Sparse-Mesa-25.1)
+
 ## 20250221
 - [Phoronix](https://www.phoronix.com/) | [Benchmarks: Excellent Power Efficiency With 5th Gen AMD EPYC Using amd-pstate & Power Profiles](https://www.phoronix.com/review/amd-epyc-pstate-efficiency)
 

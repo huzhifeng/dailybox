@@ -1,3 +1,6 @@
+## 20250222
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.3 Archive Manager Improves Integration with GNOME and KDE Plasma](https://9to5linux.com/peazip-10-3-archive-manager-improves-integration-with-gnome-and-kde-plasma)
+
 ## 20250220
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.2 LTS Is Now Available for Download Powered by Linux Kernel 6.11](https://9to5linux.com/ubuntu-24-04-2-lts-is-now-available-for-download-powered-by-linux-kernel-6-11)
 
