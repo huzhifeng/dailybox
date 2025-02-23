@@ -1,3 +1,6 @@
+## 20250223
+- [Phoronix](https://www.phoronix.com/) | [Valve Snuck The Lenovo Legion Go S Controller Support Into The Linux Kernel](https://www.phoronix.com/news/Legion-Go-S-Controller-Linux)
+
 ## 20250222
 - [Phoronix](https://www.phoronix.com/) | [Asahi Linux's Honeykrisp Vulkan Driver Gains Sparse Support In Mesa 25.1](https://www.phoronix.com/news/Honeykrisp-Sparse-Mesa-25.1)
 

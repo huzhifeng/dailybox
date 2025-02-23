@@ -1,3 +1,6 @@
+## 20250223
+- [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
 ## 20250222
 - [GitHub Trending](https://github.com/trending?since=daily) | [nexus-xyz/network-api](https://github.com/nexus-xyz/network-api)
 
