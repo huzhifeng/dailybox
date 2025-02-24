@@ -1,3 +1,6 @@
+## 20250224
+- [V2EX](https://www.v2ex.com/) | [最基础的 go 并发编程题，难倒了 90%的候选人](https://www.v2ex.com/t/1113786)
+
 ## 20250221
 - [V2EX](https://www.v2ex.com/) | [Harmony OS Next 是不是要凉了...](https://www.v2ex.com/t/1113345)
 

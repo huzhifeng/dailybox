@@ -1,3 +1,6 @@
+## 20250224
+- [Product Hunt](https://www.producthunt.com) | [LFG 2.0](https://www.producthunt.com/posts/lfg-2-0)
+
 ## 20250223
 - [Product Hunt](https://www.producthunt.com) | [IFTTT Mobile Apps](https://www.producthunt.com/posts/ifttt-mobile-apps)
 

@@ -1,3 +1,6 @@
+## 20250224
+- [Phoronix](https://www.phoronix.com/) | [Intel Preps New Performance Optimizations & Features For Linux 6.15 Graphics Driver](https://www.phoronix.com/news/Intel-Linux-6.15-Graphics-Start)
+
 ## 20250223
 - [Phoronix](https://www.phoronix.com/) | [Valve Snuck The Lenovo Legion Go S Controller Support Into The Linux Kernel](https://www.phoronix.com/news/Legion-Go-S-Controller-Linux)
 

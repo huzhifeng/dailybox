@@ -1,3 +1,6 @@
+## 20250224
+- [LibHunt](https://www.libhunt.com/) | [vite](https://www.libhunt.com/r/vite)
+
 ## 20250223
 - [LibHunt](https://www.libhunt.com/) | [typage](https://www.libhunt.com/r/typage)
 
