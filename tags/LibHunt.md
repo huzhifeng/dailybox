@@ -1,3 +1,6 @@
+## 20250225
+- [LibHunt](https://www.libhunt.com/) | [app](https://www.libhunt.com/r/mayo-dayo/app)
+
 ## 20250224
 - [LibHunt](https://www.libhunt.com/) | [vite](https://www.libhunt.com/r/vite)
 

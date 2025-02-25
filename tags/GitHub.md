@@ -1,3 +1,6 @@
+## 20250225
+- [GitHub Trending](https://github.com/trending?since=daily) | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
 ## 20250224
 - [GitHub Trending](https://github.com/trending?since=daily) | [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
 

@@ -1,3 +1,6 @@
+## 20250225
+- [Product Hunt](https://www.producthunt.com) | [Silo Team](https://www.producthunt.com/posts/silo-team)
+
 ## 20250224
 - [Product Hunt](https://www.producthunt.com) | [LFG 2.0](https://www.producthunt.com/posts/lfg-2-0)
 

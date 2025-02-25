@@ -1,3 +1,6 @@
+## 20250225
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9000 vs. Intel Core Ultra Arrow Lake On Linux For Q1-2025 In ~400 Benchmarks](https://www.phoronix.com/review/ryzen9000-core-ultra-linux613)
+
 ## 20250224
 - [Phoronix](https://www.phoronix.com/) | [Intel Preps New Performance Optimizations & Features For Linux 6.15 Graphics Driver](https://www.phoronix.com/news/Intel-Linux-6.15-Graphics-Start)
 
