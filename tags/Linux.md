@@ -1,3 +1,7 @@
+## 20250226
+- [Phoronix](https://www.phoronix.com/) | [AMD Driver Lands DCC For Multi-Plane Formats With RDNA4, Tiling For Video Buffers](https://www.phoronix.com/news/Mesa-25.1-Multi-Plane-DCC-RDNA4)
+- [9to5Linux](https://9to5linux.com/) | [Framework Announces Framework Desktop and 2-in-1 Framework Laptop 12](https://9to5linux.com/framework-announces-framework-desktop-and-2-in-1-framework-laptop-12)
+
 ## 20250225
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9000 vs. Intel Core Ultra Arrow Lake On Linux For Q1-2025 In ~400 Benchmarks](https://www.phoronix.com/review/ryzen9000-core-ultra-linux613)
 

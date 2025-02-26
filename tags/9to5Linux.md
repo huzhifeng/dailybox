@@ -1,3 +1,6 @@
+## 20250226
+- [9to5Linux](https://9to5linux.com/) | [Framework Announces Framework Desktop and 2-in-1 Framework Laptop 12](https://9to5linux.com/framework-announces-framework-desktop-and-2-in-1-framework-laptop-12)
+
 ## 20250222
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.3 Archive Manager Improves Integration with GNOME and KDE Plasma](https://9to5linux.com/peazip-10-3-archive-manager-improves-integration-with-gnome-and-kde-plasma)
 

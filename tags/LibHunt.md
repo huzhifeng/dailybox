@@ -1,3 +1,6 @@
+## 20250226
+- [LibHunt](https://www.libhunt.com/) | [vsc-material-theme](https://www.libhunt.com/r/vsc-material-theme)
+
 ## 20250225
 - [LibHunt](https://www.libhunt.com/) | [app](https://www.libhunt.com/r/mayo-dayo/app)
 

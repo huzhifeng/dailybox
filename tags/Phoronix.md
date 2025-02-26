@@ -1,3 +1,6 @@
+## 20250226
+- [Phoronix](https://www.phoronix.com/) | [AMD Driver Lands DCC For Multi-Plane Formats With RDNA4, Tiling For Video Buffers](https://www.phoronix.com/news/Mesa-25.1-Multi-Plane-DCC-RDNA4)
+
 ## 20250225
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9000 vs. Intel Core Ultra Arrow Lake On Linux For Q1-2025 In ~400 Benchmarks](https://www.phoronix.com/review/ryzen9000-core-ultra-linux613)
 

@@ -1,3 +1,6 @@
+## 20250226
+- [Product Hunt](https://www.producthunt.com) | [Pinch](https://www.producthunt.com/posts/pinch-4)
+
 ## 20250225
 - [Product Hunt](https://www.producthunt.com) | [Silo Team](https://www.producthunt.com/posts/silo-team)
 

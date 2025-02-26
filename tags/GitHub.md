@@ -1,3 +1,6 @@
+## 20250226
+- [GitHub Trending](https://github.com/trending?since=daily) | [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
+
 ## 20250225
 - [GitHub Trending](https://github.com/trending?since=daily) | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
