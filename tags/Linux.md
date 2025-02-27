@@ -1,3 +1,7 @@
+## 20250227
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 570.124.04 Linux Driver Brings Additional Fixes](https://www.phoronix.com/news/NVIDIA-570.124.04-Linux-Driver)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 570 Linux Graphics Driver Released with New Features and Improvements](https://9to5linux.com/nvidia-570-linux-graphics-driver-released-with-new-features-and-improvements)
+
 ## 20250226
 - [Phoronix](https://www.phoronix.com/) | [AMD Driver Lands DCC For Multi-Plane Formats With RDNA4, Tiling For Video Buffers](https://www.phoronix.com/news/Mesa-25.1-Multi-Plane-DCC-RDNA4)
 - [9to5Linux](https://9to5linux.com/) | [Framework Announces Framework Desktop and 2-in-1 Framework Laptop 12](https://9to5linux.com/framework-announces-framework-desktop-and-2-in-1-framework-laptop-12)

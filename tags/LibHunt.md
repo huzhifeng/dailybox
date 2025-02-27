@@ -1,3 +1,6 @@
+## 20250227
+- [LibHunt](https://www.libhunt.com/) | [Wan2.1](https://www.libhunt.com/r/Wan2.1)
+
 ## 20250226
 - [LibHunt](https://www.libhunt.com/) | [vsc-material-theme](https://www.libhunt.com/r/vsc-material-theme)
 

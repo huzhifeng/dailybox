@@ -1,3 +1,6 @@
+## 20250227
+- [GitHub Trending](https://github.com/trending?since=daily) | [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
+
 ## 20250226
 - [GitHub Trending](https://github.com/trending?since=daily) | [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
 

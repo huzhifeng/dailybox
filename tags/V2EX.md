@@ -1,3 +1,6 @@
+## 20250227
+- [V2EX](https://www.v2ex.com/) | [jetbrains 系列软件或许有一天会因为功能过于高级而被抛弃](https://www.v2ex.com/t/1114603)
+
 ## 20250226
 - [V2EX](https://www.v2ex.com/) | [有多少小时候玩《问道》端游的？](https://www.v2ex.com/t/1114340)
 

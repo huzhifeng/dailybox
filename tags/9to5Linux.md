@@ -1,3 +1,6 @@
+## 20250227
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 570 Linux Graphics Driver Released with New Features and Improvements](https://9to5linux.com/nvidia-570-linux-graphics-driver-released-with-new-features-and-improvements)
+
 ## 20250226
 - [9to5Linux](https://9to5linux.com/) | [Framework Announces Framework Desktop and 2-in-1 Framework Laptop 12](https://9to5linux.com/framework-announces-framework-desktop-and-2-in-1-framework-laptop-12)
 

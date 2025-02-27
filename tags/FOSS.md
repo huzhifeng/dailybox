@@ -1,3 +1,6 @@
+## 20250227
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.09: Modern Terminals, RSS Matter, Linux Gaming Tested in 2025 and More](https://itsfoss.com/newsletter/foss-weekly-25-09/)
+
 ## 20250221
 - [It's FOSS](https://itsfoss.com/) | [Installing Add-ons and Builds in Kodi](https://itsfoss.com/install-kodi-build-add-on/)
 

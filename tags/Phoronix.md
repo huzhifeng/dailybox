@@ -1,3 +1,6 @@
+## 20250227
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 570.124.04 Linux Driver Brings Additional Fixes](https://www.phoronix.com/news/NVIDIA-570.124.04-Linux-Driver)
+
 ## 20250226
 - [Phoronix](https://www.phoronix.com/) | [AMD Driver Lands DCC For Multi-Plane Formats With RDNA4, Tiling For Video Buffers](https://www.phoronix.com/news/Mesa-25.1-Multi-Plane-DCC-RDNA4)
 
