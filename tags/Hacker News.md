@@ -1,3 +1,8 @@
+## 20250228
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-27](https://www.daemonology.net/hn-daily/2025-02-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-02-27](https://hacker-news.agi.li/post/2025-02-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://news.ycombinator.com/item?id=43201974)
+
 ## 20250227
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-02-26](https://www.daemonology.net/hn-daily/2025-02-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-02-26](https://hacker-news.agi.li/post/2025-02-26)

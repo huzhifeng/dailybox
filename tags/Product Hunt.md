@@ -1,3 +1,6 @@
+## 20250228
+- [Product Hunt](https://www.producthunt.com) | [Promptimize AI](https://www.producthunt.com/posts/promptimize-ai-2)
+
 ## 20250227
 - [Product Hunt](https://www.producthunt.com) | [Lemni](https://www.producthunt.com/posts/lemni)
 

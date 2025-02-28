@@ -1,3 +1,6 @@
+## 20250228
+- [LibHunt](https://www.libhunt.com/) | [Waterfox](https://www.libhunt.com/r/Waterfox)
+
 ## 20250227
 - [LibHunt](https://www.libhunt.com/) | [Wan2.1](https://www.libhunt.com/r/Wan2.1)
 

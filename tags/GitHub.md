@@ -1,3 +1,6 @@
+## 20250228
+- [GitHub Trending](https://github.com/trending?since=daily) | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
 ## 20250227
 - [GitHub Trending](https://github.com/trending?since=daily) | [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
 

@@ -1,3 +1,6 @@
+## 20250228
+- [V2EX](https://www.v2ex.com/) | [艹， V2EX 居然被举报了，然后 360 的浏览器居然就开始作妖给 V2EX 拦截了，真恶心！](https://www.v2ex.com/t/1114924)
+
 ## 20250227
 - [V2EX](https://www.v2ex.com/) | [jetbrains 系列软件或许有一天会因为功能过于高级而被抛弃](https://www.v2ex.com/t/1114603)
 

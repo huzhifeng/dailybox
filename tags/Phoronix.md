@@ -1,3 +1,6 @@
+## 20250228
+- [Phoronix](https://www.phoronix.com/) | [NetworkManager 1.52 Brings IPVLAN Interface Support, Ethtool FEC Mode](https://www.phoronix.com/news/NetworkManager-1.52-Released)
+
 ## 20250227
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 570.124.04 Linux Driver Brings Additional Fixes](https://www.phoronix.com/news/NVIDIA-570.124.04-Linux-Driver)
 
