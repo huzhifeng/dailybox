@@ -1,3 +1,7 @@
+## 20250301
+- [Phoronix](https://www.phoronix.com/) | [AMD Readies More Graphics Driver Improvements For Linux 6.15](https://www.phoronix.com/news/AMDGPU-Linux-6.15-Round-2)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs Plan Revamped Application Launcher for the Cinnamon Desktop](https://9to5linux.com/linux-mint-devs-plan-revamped-application-launcher-for-the-cinnamon-desktop)
+
 ## 20250228
 - [Phoronix](https://www.phoronix.com/) | [NetworkManager 1.52 Brings IPVLAN Interface Support, Ethtool FEC Mode](https://www.phoronix.com/news/NetworkManager-1.52-Released)
 

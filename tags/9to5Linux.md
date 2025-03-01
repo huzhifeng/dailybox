@@ -1,3 +1,6 @@
+## 20250301
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs Plan Revamped Application Launcher for the Cinnamon Desktop](https://9to5linux.com/linux-mint-devs-plan-revamped-application-launcher-for-the-cinnamon-desktop)
+
 ## 20250227
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 570 Linux Graphics Driver Released with New Features and Improvements](https://9to5linux.com/nvidia-570-linux-graphics-driver-released-with-new-features-and-improvements)
 

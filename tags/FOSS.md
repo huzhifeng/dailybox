@@ -1,3 +1,6 @@
+## 20250301
+- [It's FOSS](https://itsfoss.com/) | [Best Kodi Add-ons to Enhance Your Media Server Experience](https://itsfoss.com/best-kodi-add-ons/)
+
 ## 20250227
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.09: Modern Terminals, RSS Matter, Linux Gaming Tested in 2025 and More](https://itsfoss.com/newsletter/foss-weekly-25-09/)
 

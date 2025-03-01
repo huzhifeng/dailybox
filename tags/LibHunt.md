@@ -1,3 +1,6 @@
+## 20250301
+- [LibHunt](https://www.libhunt.com/) | [react-scan](https://www.libhunt.com/r/react-scan)
+
 ## 20250228
 - [LibHunt](https://www.libhunt.com/) | [Waterfox](https://www.libhunt.com/r/Waterfox)
 
