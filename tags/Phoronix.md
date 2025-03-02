@@ -1,3 +1,6 @@
+## 20250302
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Is Finding Great Success With Vulkan Machine Learning - Competitive With CUDA](https://www.phoronix.com/news/NVIDIA-Vulkan-AI-ML-Success)
+
 ## 20250301
 - [Phoronix](https://www.phoronix.com/) | [AMD Readies More Graphics Driver Improvements For Linux 6.15](https://www.phoronix.com/news/AMDGPU-Linux-6.15-Round-2)
 

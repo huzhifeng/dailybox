@@ -1,3 +1,6 @@
+## 20250302
+- [GitHub Trending](https://github.com/trending?since=daily) | [allenai/olmocr](https://github.com/allenai/olmocr)
+
 ## 20250301
 - [GitHub Trending](https://github.com/trending?since=daily) | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 

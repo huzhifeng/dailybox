@@ -1,3 +1,6 @@
+## 20250302
+- [Product Hunt](https://www.producthunt.com) | [GrowthTrack AI](https://www.producthunt.com/posts/growthtrack-ai)
+
 ## 20250301
 - [Product Hunt](https://www.producthunt.com) | [Guse](https://www.producthunt.com/posts/guse-2)
 
