@@ -1,3 +1,6 @@
+## 20250303
+- [V2EX](https://www.v2ex.com/) | [买车决赛圈，帮忙说说建议](https://www.v2ex.com/t/1115488)
+
 ## 20250301
 - [V2EX](https://www.v2ex.com/) | [谈了快 10 年的女朋友要求 30 万彩礼](https://www.v2ex.com/t/1115118)
 
