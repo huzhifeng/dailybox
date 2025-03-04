@@ -1,3 +1,6 @@
+## 20250304
+- [V2EX](https://www.v2ex.com/) | [太抽象了，绷不住了](https://www.v2ex.com/t/1115826)
+
 ## 20250303
 - [V2EX](https://www.v2ex.com/) | [买车决赛圈，帮忙说说建议](https://www.v2ex.com/t/1115488)
 

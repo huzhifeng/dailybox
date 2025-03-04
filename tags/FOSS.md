@@ -1,3 +1,6 @@
+## 20250304
+- [It's FOSS](https://itsfoss.com/) | [Top 7 Best Open Source Skype Alternatives In 2025](https://itsfoss.com/open-source-skype-alternatives/)
+
 ## 20250301
 - [It's FOSS](https://itsfoss.com/) | [Best Kodi Add-ons to Enhance Your Media Server Experience](https://itsfoss.com/best-kodi-add-ons/)
 
