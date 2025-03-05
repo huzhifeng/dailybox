@@ -1,3 +1,6 @@
+## 20250305
+- [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
+
 ## 20250304
 - [LibHunt](https://www.libhunt.com/) | [Robyn](https://www.libhunt.com/r/Robyn)
 

@@ -1,3 +1,6 @@
+## 20250305
+- [Product Hunt](https://www.producthunt.com) | [Quadratic AI](https://www.producthunt.com/posts/quadratic-ai)
+
 ## 20250304
 - [Product Hunt](https://www.producthunt.com) | [Opera Operator](https://www.producthunt.com/posts/opera-operator)
 
