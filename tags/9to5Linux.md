@@ -1,3 +1,6 @@
+## 20250306
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4 Is Out with RISC-V Support, MIDI2 Support, JACK Control API, and More](https://9to5linux.com/pipewire-1-4-is-out-with-risc-v-support-midi2-support-jack-control-api-and-more)
+
 ## 20250304
 - [9to5Linux](https://9to5linux.com/) | [Firefox 137 Enters Public Beta Testing with HEVC Playback Support on Linux](https://9to5linux.com/firefox-137-enters-public-beta-testing-with-hevc-playback-support-on-linux)
 

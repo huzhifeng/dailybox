@@ -1,3 +1,6 @@
+## 20250306
+- [LibHunt](https://www.libhunt.com/) | [BigDL](https://www.libhunt.com/r/ipex-llm)
+
 ## 20250305
 - [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
 

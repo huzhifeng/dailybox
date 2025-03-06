@@ -1,3 +1,6 @@
+## 20250306
+- [Phoronix](https://www.phoronix.com/) | [SiFive HiFive Premier P550 RISC-V Linux Performance](https://www.phoronix.com/review/sifive-hifive-premier-p550)
+
 ## 20250305
 - [Phoronix](https://www.phoronix.com/) | [Xen 4.20 Hypervisor Released With AMD Zen 5 Support, More Performance Optimizations](https://www.phoronix.com/news/Xen-4.20-Released)
 

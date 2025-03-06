@@ -1,3 +1,6 @@
+## 20250306
+- [GitHub Trending](https://github.com/trending?since=daily) | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
 ## 20250305
 - [GitHub Trending](https://github.com/trending?since=daily) | [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 

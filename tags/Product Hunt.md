@@ -1,3 +1,6 @@
+## 20250306
+- [Product Hunt](https://www.producthunt.com) | [Perigon](https://www.producthunt.com/posts/perigon)
+
 ## 20250305
 - [Product Hunt](https://www.producthunt.com) | [Quadratic AI](https://www.producthunt.com/posts/quadratic-ai)
 

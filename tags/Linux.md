@@ -1,3 +1,7 @@
+## 20250306
+- [Phoronix](https://www.phoronix.com/) | [SiFive HiFive Premier P550 RISC-V Linux Performance](https://www.phoronix.com/review/sifive-hifive-premier-p550)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4 Is Out with RISC-V Support, MIDI2 Support, JACK Control API, and More](https://9to5linux.com/pipewire-1-4-is-out-with-risc-v-support-midi2-support-jack-control-api-and-more)
+
 ## 20250305
 - [Phoronix](https://www.phoronix.com/) | [Xen 4.20 Hypervisor Released With AMD Zen 5 Support, More Performance Optimizations](https://www.phoronix.com/news/Xen-4.20-Released)
 
