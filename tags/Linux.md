@@ -1,3 +1,7 @@
+## 20250307
+- [Phoronix](https://www.phoronix.com/) | [AMD Officially Confirms Ryzen 9 9900X3D + Ryzen 9 9950X3D Pricing & Availability](https://www.phoronix.com/news/Ryzen-9-9900X3D-9950X3D)
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.1 Disk Cloning/Imaging Tool Released with Linux 6.12 LTS](https://9to5linux.com/clonezilla-live-3-2-1-disk-cloning-imaging-tool-released-with-linux-6-12-lts)
+
 ## 20250306
 - [Phoronix](https://www.phoronix.com/) | [SiFive HiFive Premier P550 RISC-V Linux Performance](https://www.phoronix.com/review/sifive-hifive-premier-p550)
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4 Is Out with RISC-V Support, MIDI2 Support, JACK Control API, and More](https://9to5linux.com/pipewire-1-4-is-out-with-risc-v-support-midi2-support-jack-control-api-and-more)

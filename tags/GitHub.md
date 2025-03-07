@@ -1,3 +1,6 @@
+## 20250307
+- [GitHub Trending](https://github.com/trending?since=daily) | [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table)
+
 ## 20250306
 - [GitHub Trending](https://github.com/trending?since=daily) | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 

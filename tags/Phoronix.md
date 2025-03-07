@@ -1,3 +1,6 @@
+## 20250307
+- [Phoronix](https://www.phoronix.com/) | [AMD Officially Confirms Ryzen 9 9900X3D + Ryzen 9 9950X3D Pricing & Availability](https://www.phoronix.com/news/Ryzen-9-9900X3D-9950X3D)
+
 ## 20250306
 - [Phoronix](https://www.phoronix.com/) | [SiFive HiFive Premier P550 RISC-V Linux Performance](https://www.phoronix.com/review/sifive-hifive-premier-p550)
 
