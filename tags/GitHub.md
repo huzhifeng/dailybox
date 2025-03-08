@@ -1,3 +1,6 @@
+## 20250308
+- [GitHub Trending](https://github.com/trending?since=daily) | [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
+
 ## 20250307
 - [GitHub Trending](https://github.com/trending?since=daily) | [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table)
 

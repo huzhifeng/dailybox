@@ -1,3 +1,8 @@
+## 20250308
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-07](https://www.daemonology.net/hn-daily/2025-03-07.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-07](https://hacker-news.agi.li/post/2025-03-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Feds Link Cyberheist to 2022 LastPass Hacks](https://news.ycombinator.com/item?id=43296656)
+
 ## 20250307
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-06](https://www.daemonology.net/hn-daily/2025-03-06.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-06](https://hacker-news.agi.li/post/2025-03-06)

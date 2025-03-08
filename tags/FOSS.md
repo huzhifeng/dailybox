@@ -1,3 +1,6 @@
+## 20250308
+- [It's FOSS](https://itsfoss.com/) | [From OpenBSD to Linux: How Pledge can Enhance Linux Security](https://itsfoss.com/pledge-linux-port/)
+
 ## 20250306
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/)
 
