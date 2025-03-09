@@ -1,3 +1,6 @@
+## 20250309
+- [Phoronix](https://www.phoronix.com/) | [AMD Preparing "High Precision" Mode For Upcoming Instinct MI350X (GFX950)](https://www.phoronix.com/news/AMD-HSA-High-Precision-MI350X)
+
 ## 20250308
 - [Phoronix](https://www.phoronix.com/) | [Rust Coreutils 0.0.30 Enhances GNU Compatibility, Uutils To Port More Common Unix Tools](https://www.phoronix.com/news/uutils-Coreutils-0.0.30)
 

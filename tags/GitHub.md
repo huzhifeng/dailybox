@@ -1,3 +1,6 @@
+## 20250309
+- [GitHub Trending](https://github.com/trending?since=daily) | [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+
 ## 20250308
 - [GitHub Trending](https://github.com/trending?since=daily) | [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 

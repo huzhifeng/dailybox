@@ -1,3 +1,6 @@
+## 20250309
+- [Product Hunt](https://www.producthunt.com) | [Magicam](https://www.producthunt.com/posts/magicam-3)
+
 ## 20250308
 - [Product Hunt](https://www.producthunt.com) | [Tometo](https://www.producthunt.com/posts/tometo)
 
