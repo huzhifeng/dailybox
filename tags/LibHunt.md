@@ -1,3 +1,6 @@
+## 20250310
+- [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
+
 ## 20250309
 - [LibHunt](https://www.libhunt.com/) | [agno](https://www.libhunt.com/r/agno)
 

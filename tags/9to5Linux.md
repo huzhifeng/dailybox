@@ -1,3 +1,6 @@
+## 20250310
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.2 Improves the Linux AppImage Bundle for Ubuntu 22.04 LTS](https://9to5linux.com/audacity-3-7-2-improves-the-linux-appimage-bundle-for-ubuntu-22-04-lts)
+
 ## 20250308
 - [9to5Linux](https://9to5linux.com/) | [Garuda Linux “Broadwing” Released with New Mokka Edition, New Welcome App](https://9to5linux.com/garuda-linux-broadwing-released-with-new-mokka-edition-new-welcome-app)
 

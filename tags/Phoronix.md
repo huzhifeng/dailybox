@@ -1,3 +1,6 @@
+## 20250310
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9845 Makes For A Persuasive Upgrade With Performance & Energy Efficiency](https://www.phoronix.com/review/amd-epyc-9845)
+
 ## 20250309
 - [Phoronix](https://www.phoronix.com/) | [AMD Preparing "High Precision" Mode For Upcoming Instinct MI350X (GFX950)](https://www.phoronix.com/news/AMD-HSA-High-Precision-MI350X)
 

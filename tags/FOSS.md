@@ -1,3 +1,6 @@
+## 20250310
+- [It's FOSS](https://itsfoss.com/) | [Enjoying Self-Hosting Software Locally With CasaOS and Raspberry Pi](https://itsfoss.com/casa-os-raspberry-pi/)
+
 ## 20250308
 - [It's FOSS](https://itsfoss.com/) | [From OpenBSD to Linux: How Pledge can Enhance Linux Security](https://itsfoss.com/pledge-linux-port/)
 

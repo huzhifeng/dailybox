@@ -1,3 +1,7 @@
+## 20250310
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9845 Makes For A Persuasive Upgrade With Performance & Energy Efficiency](https://www.phoronix.com/review/amd-epyc-9845)
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.2 Improves the Linux AppImage Bundle for Ubuntu 22.04 LTS](https://9to5linux.com/audacity-3-7-2-improves-the-linux-appimage-bundle-for-ubuntu-22-04-lts)
+
 ## 20250309
 - [Phoronix](https://www.phoronix.com/) | [AMD Preparing "High Precision" Mode For Upcoming Instinct MI350X (GFX950)](https://www.phoronix.com/news/AMD-HSA-High-Precision-MI350X)
 
