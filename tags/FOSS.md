@@ -1,3 +1,6 @@
+## 20250311
+- [It's FOSS](https://itsfoss.com/) | [Prolong Laptop Battery Life in Linux by Limiting Charging Levels](https://itsfoss.com/limit-battery-charging-linux/)
+
 ## 20250310
 - [It's FOSS](https://itsfoss.com/) | [Enjoying Self-Hosting Software Locally With CasaOS and Raspberry Pi](https://itsfoss.com/casa-os-raspberry-pi/)
 

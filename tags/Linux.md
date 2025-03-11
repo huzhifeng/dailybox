@@ -1,3 +1,7 @@
+## 20250311
+- [Phoronix](https://www.phoronix.com/) | [CrossOver 25.0 Announced - Built Atop Wine 10.0 For Linux & macOS](https://www.phoronix.com/news/CrossOver-25.0-Released)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3.3 Implements Battery Charge Threshold Support for More Devices](https://9to5linux.com/kde-plasma-6-3-3-implements-battery-charge-threshold-support-for-more-devices)
+
 ## 20250310
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9845 Makes For A Persuasive Upgrade With Performance & Energy Efficiency](https://www.phoronix.com/review/amd-epyc-9845)
 - [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.2 Improves the Linux AppImage Bundle for Ubuntu 22.04 LTS](https://9to5linux.com/audacity-3-7-2-improves-the-linux-appimage-bundle-for-ubuntu-22-04-lts)

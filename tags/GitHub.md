@@ -1,3 +1,6 @@
+## 20250311
+- [GitHub Trending](https://github.com/trending?since=daily) | [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
 ## 20250310
 - [GitHub Trending](https://github.com/trending?since=daily) | [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 

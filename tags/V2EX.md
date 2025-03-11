@@ -1,3 +1,6 @@
+## 20250311
+- [V2EX](https://www.v2ex.com/) | [不是，哥们？招 AI 方向前端开发这么卷了吗！](https://www.v2ex.com/t/1117507)
+
 ## 20250309
 - [V2EX](https://www.v2ex.com/) | [今天在高架上出租车双手离开方向盘发微信，这种情况该如何处理？](https://www.v2ex.com/t/1117026)
 

@@ -1,3 +1,8 @@
+## 20250311
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-10](https://www.daemonology.net/hn-daily/2025-03-10.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-10](https://hacker-news.agi.li/post/2025-03-10)
+- [Hacker News](https://news.ycombinator.com/front) | [A 10x Faster TypeScript](https://news.ycombinator.com/item?id=43332830)
+
 ## 20250310
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-09](https://www.daemonology.net/hn-daily/2025-03-09.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-09](https://hacker-news.agi.li/post/2025-03-09)

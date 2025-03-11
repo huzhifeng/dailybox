@@ -1,3 +1,6 @@
+## 20250311
+- [LibHunt](https://www.libhunt.com/) | [cocoindex](https://www.libhunt.com/r/cocoindex)
+
 ## 20250310
 - [LibHunt](https://www.libhunt.com/) | [aider](https://www.libhunt.com/r/aider)
 
