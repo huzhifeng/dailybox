@@ -1,3 +1,6 @@
+## 20250312
+- [Phoronix](https://www.phoronix.com/) | [AMD's 3D V-Cache Optimizer Driver For Squeezing More Ryzen 9 9950X3D Performance](https://www.phoronix.com/review/amd-3d-vcache-optimizer-9950x3d)
+
 ## 20250311
 - [Phoronix](https://www.phoronix.com/) | [CrossOver 25.0 Announced - Built Atop Wine 10.0 For Linux & macOS](https://www.phoronix.com/news/CrossOver-25.0-Released)
 

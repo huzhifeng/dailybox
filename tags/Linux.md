@@ -1,3 +1,7 @@
+## 20250312
+- [Phoronix](https://www.phoronix.com/) | [AMD's 3D V-Cache Optimizer Driver For Squeezing More Ryzen 9 9950X3D Performance](https://www.phoronix.com/review/amd-3d-vcache-optimizer-9950x3d)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26 Open-Source Multimedia Framework Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gstreamer-1-26-open-source-multimedia-framework-released-heres-whats-new)
+
 ## 20250311
 - [Phoronix](https://www.phoronix.com/) | [CrossOver 25.0 Announced - Built Atop Wine 10.0 For Linux & macOS](https://www.phoronix.com/news/CrossOver-25.0-Released)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.3.3 Implements Battery Charge Threshold Support for More Devices](https://9to5linux.com/kde-plasma-6-3-3-implements-battery-charge-threshold-support-for-more-devices)

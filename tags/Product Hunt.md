@@ -1,3 +1,6 @@
+## 20250312
+- [Product Hunt](https://www.producthunt.com) | [Cuckoo](https://www.producthunt.com/posts/cuckoo-6)
+
 ## 20250311
 - [Product Hunt](https://www.producthunt.com) | [LinktoDM](https://www.producthunt.com/posts/linktodm)
 

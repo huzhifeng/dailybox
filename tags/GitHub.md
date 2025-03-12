@@ -1,3 +1,6 @@
+## 20250312
+- [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
 ## 20250311
 - [GitHub Trending](https://github.com/trending?since=daily) | [browser-use/browser-use](https://github.com/browser-use/browser-use)
 

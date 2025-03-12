@@ -1,3 +1,6 @@
+## 20250312
+- [V2EX](https://www.v2ex.com/) | [准备搬新家，和女朋友开始同居了，有什么需要注意的地方。](https://www.v2ex.com/t/1117882)
+
 ## 20250311
 - [V2EX](https://www.v2ex.com/) | [不是，哥们？招 AI 方向前端开发这么卷了吗！](https://www.v2ex.com/t/1117507)
 
