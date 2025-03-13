@@ -1,3 +1,6 @@
+## 20250313
+- [Phoronix](https://www.phoronix.com/) | [Rusticl Wins: Mesa Officially Deprecates Clover OpenCL](https://www.phoronix.com/news/Mesa-Deprecates-OpenCL-Clover)
+
 ## 20250312
 - [Phoronix](https://www.phoronix.com/) | [AMD's 3D V-Cache Optimizer Driver For Squeezing More Ryzen 9 9950X3D Performance](https://www.phoronix.com/review/amd-3d-vcache-optimizer-9950x3d)
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26 Open-Source Multimedia Framework Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gstreamer-1-26-open-source-multimedia-framework-released-heres-whats-new)

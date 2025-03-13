@@ -1,3 +1,6 @@
+## 20250313
+- [Product Hunt](https://www.producthunt.com) | [STORI](https://www.producthunt.com/posts/stori-69db606b-ca59-4790-94bb-e64f3a37c993)
+
 ## 20250312
 - [Product Hunt](https://www.producthunt.com) | [Cuckoo](https://www.producthunt.com/posts/cuckoo-6)
 

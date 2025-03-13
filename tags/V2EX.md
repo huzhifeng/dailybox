@@ -1,3 +1,6 @@
+## 20250313
+- [V2EX](https://www.v2ex.com/) | [这道数学题能让目前所有 AI 原地爆炸](https://www.v2ex.com/t/1118105)
+
 ## 20250312
 - [V2EX](https://www.v2ex.com/) | [准备搬新家，和女朋友开始同居了，有什么需要注意的地方。](https://www.v2ex.com/t/1117882)
 

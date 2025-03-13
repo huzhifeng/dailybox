@@ -1,3 +1,6 @@
+## 20250313
+- [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 ## 20250312
 - [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 

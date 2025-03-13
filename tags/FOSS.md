@@ -1,3 +1,6 @@
+## 20250313
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.11: Limit Battery Charging, File Searching, Sudo Tweaks and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-11/)
+
 ## 20250311
 - [It's FOSS](https://itsfoss.com/) | [Prolong Laptop Battery Life in Linux by Limiting Charging Levels](https://itsfoss.com/limit-battery-charging-linux/)
 
