@@ -1,3 +1,6 @@
+## 20250314
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
 ## 20250313
 - [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 

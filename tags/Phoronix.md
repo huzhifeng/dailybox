@@ -1,3 +1,6 @@
+## 20250314
+- [Phoronix](https://www.phoronix.com/) | [Mediatek DRM Driver Adding MT8365 "Genio 350" Support In Linux 6.15](https://www.phoronix.com/news/Mediatek-MT8365-DRM-Linux-6.15)
+
 ## 20250313
 - [Phoronix](https://www.phoronix.com/) | [Rusticl Wins: Mesa Officially Deprecates Clover OpenCL](https://www.phoronix.com/news/Mesa-Deprecates-OpenCL-Clover)
 

@@ -1,3 +1,6 @@
+## 20250314
+- [V2EX](https://www.v2ex.com/) | [雷车,为什么能把价格打下来](https://www.v2ex.com/t/1118459)
+
 ## 20250313
 - [V2EX](https://www.v2ex.com/) | [这道数学题能让目前所有 AI 原地爆炸](https://www.v2ex.com/t/1118105)
 
