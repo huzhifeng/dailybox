@@ -1,3 +1,6 @@
+## 20250315
+- [V2EX](https://www.v2ex.com/) | [有老哥知道现在还能寄纸质信件么](https://www.v2ex.com/t/1118644)
+
 ## 20250314
 - [V2EX](https://www.v2ex.com/) | [雷车,为什么能把价格打下来](https://www.v2ex.com/t/1118459)
 

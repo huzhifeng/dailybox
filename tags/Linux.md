@@ -1,3 +1,7 @@
+## 20250315
+- [Phoronix](https://www.phoronix.com/) | [Paid XR Desktop For GNOME "Breezy Desktop" In Open Beta With Multi-Display Support](https://www.phoronix.com/news/GNOME-This-Week-Breezy)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.6 Released with Many Face Management Updates and Improvements](https://9to5linux.com/digikam-8-6-released-with-many-face-management-updates-and-improvements)
+
 ## 20250314
 - [Phoronix](https://www.phoronix.com/) | [Mediatek DRM Driver Adding MT8365 "Genio 350" Support In Linux 6.15](https://www.phoronix.com/news/Mediatek-MT8365-DRM-Linux-6.15)
 

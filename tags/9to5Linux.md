@@ -1,3 +1,6 @@
+## 20250315
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.6 Released with Many Face Management Updates and Improvements](https://9to5linux.com/digikam-8-6-released-with-many-face-management-updates-and-improvements)
+
 ## 20250312
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26 Open-Source Multimedia Framework Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gstreamer-1-26-open-source-multimedia-framework-released-heres-whats-new)
 

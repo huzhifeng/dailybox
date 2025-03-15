@@ -1,3 +1,6 @@
+## 20250315
+- [GitHub Trending](https://github.com/trending?since=daily) | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
 ## 20250314
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
