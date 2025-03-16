@@ -1,3 +1,6 @@
+## 20250316
+- [GitHub Trending](https://github.com/trending?since=daily) | [ethereum/solidity](https://github.com/ethereum/solidity)
+
 ## 20250315
 - [GitHub Trending](https://github.com/trending?since=daily) | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 

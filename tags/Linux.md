@@ -1,3 +1,6 @@
+## 20250316
+- [Phoronix](https://www.phoronix.com/) | [Arm Changing Linux Default To Costly "KPTI" Mitigation For Some Newer CPUs](https://www.phoronix.com/news/Arm-Linux-CVE-2024-7881-KPTI)
+
 ## 20250315
 - [Phoronix](https://www.phoronix.com/) | [Paid XR Desktop For GNOME "Breezy Desktop" In Open Beta With Multi-Display Support](https://www.phoronix.com/news/GNOME-This-Week-Breezy)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.6 Released with Many Face Management Updates and Improvements](https://9to5linux.com/digikam-8-6-released-with-many-face-management-updates-and-improvements)

@@ -1,3 +1,6 @@
+## 20250316
+- [LibHunt](https://www.libhunt.com/) | [exo](https://www.libhunt.com/r/exo-lang/exo)
+
 ## 20250315
 - [LibHunt](https://www.libhunt.com/) | [changed-files](https://www.libhunt.com/r/changed-files)
 

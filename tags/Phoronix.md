@@ -1,3 +1,6 @@
+## 20250316
+- [Phoronix](https://www.phoronix.com/) | [Arm Changing Linux Default To Costly "KPTI" Mitigation For Some Newer CPUs](https://www.phoronix.com/news/Arm-Linux-CVE-2024-7881-KPTI)
+
 ## 20250315
 - [Phoronix](https://www.phoronix.com/) | [Paid XR Desktop For GNOME "Breezy Desktop" In Open Beta With Multi-Display Support](https://www.phoronix.com/news/GNOME-This-Week-Breezy)
 
