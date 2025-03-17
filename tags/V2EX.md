@@ -1,3 +1,6 @@
+## 20250317
+- [V2EX](https://www.v2ex.com/) | [人生首次交通事故，经过有点恶心，周一摸鱼发出来给大家图一乐](https://www.v2ex.com/t/1119012)
+
 ## 20250315
 - [V2EX](https://www.v2ex.com/) | [有老哥知道现在还能寄纸质信件么](https://www.v2ex.com/t/1118644)
 

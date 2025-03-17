@@ -1,3 +1,6 @@
+## 20250317
+- [9to5Linux](https://9to5linux.com/) | [GIMP 3.0 Image Editor Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/gimp-3-0-image-editor-is-now-available-for-download-heres-whats-new)
+
 ## 20250315
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.6 Released with Many Face Management Updates and Improvements](https://9to5linux.com/digikam-8-6-released-with-many-face-management-updates-and-improvements)
 

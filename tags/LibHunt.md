@@ -1,3 +1,6 @@
+## 20250317
+- [LibHunt](https://www.libhunt.com/) | [zlib-ng](https://www.libhunt.com/r/zlib-ng)
+
 ## 20250316
 - [LibHunt](https://www.libhunt.com/) | [exo](https://www.libhunt.com/r/exo-lang/exo)
 

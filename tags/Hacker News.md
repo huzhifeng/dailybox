@@ -1,3 +1,8 @@
+## 20250317
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-16](https://www.daemonology.net/hn-daily/2025-03-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-16](https://hacker-news.agi.li/post/2025-03-16)
+- [Hacker News](https://news.ycombinator.com/front) | [The Alexa feature "do not send voice recordings" you enabled no longer available](https://news.ycombinator.com/item?id=43385268)
+
 ## 20250316
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-15](https://www.daemonology.net/hn-daily/2025-03-15.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-15](https://hacker-news.agi.li/post/2025-03-15)

@@ -1,3 +1,6 @@
+## 20250317
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-9-9900x3d)
+
 ## 20250316
 - [Phoronix](https://www.phoronix.com/) | [Arm Changing Linux Default To Costly "KPTI" Mitigation For Some Newer CPUs](https://www.phoronix.com/news/Arm-Linux-CVE-2024-7881-KPTI)
 

@@ -1,3 +1,6 @@
+## 20250317
+- [It's FOSS](https://itsfoss.com/) | [Must Know Ollama Commands for Managing LLMs locally](https://itsfoss.com/ollama-commands/)
+
 ## 20250313
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.11: Limit Battery Charging, File Searching, Sudo Tweaks and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-11/)
 
