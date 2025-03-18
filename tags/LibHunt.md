@@ -1,3 +1,6 @@
+## 20250318
+- [LibHunt](https://www.libhunt.com/) | [minimicro-editor-themes](https://www.libhunt.com/r/minimicro-editor-themes)
+
 ## 20250317
 - [LibHunt](https://www.libhunt.com/) | [zlib-ng](https://www.libhunt.com/r/zlib-ng)
 

@@ -1,3 +1,6 @@
+## 20250318
+- [Phoronix](https://www.phoronix.com/) | [Blender 4.4 Released With Vulkan Improvements & AMD HIP RT No Longer Experimental](https://www.phoronix.com/news/Blender-4.4-Released)
+
 ## 20250317
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-9-9900x3d)
 

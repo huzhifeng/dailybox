@@ -1,3 +1,8 @@
+## 20250318
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-17](https://www.daemonology.net/hn-daily/2025-03-17.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-17](https://hacker-news.agi.li/post/2025-03-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://news.ycombinator.com/item?id=43396735)
+
 ## 20250317
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-16](https://www.daemonology.net/hn-daily/2025-03-16.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-16](https://hacker-news.agi.li/post/2025-03-16)

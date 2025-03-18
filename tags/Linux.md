@@ -1,3 +1,7 @@
+## 20250318
+- [Phoronix](https://www.phoronix.com/) | [Blender 4.4 Released With Vulkan Improvements & AMD HIP RT No Longer Experimental](https://www.phoronix.com/news/Blender-4.4-Released)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Enters Public Beta Testing with Linux Kernel 6.14 and GNOME 48](https://9to5linux.com/fedora-linux-42-enters-public-beta-testing-with-linux-kernel-6-14-and-gnome-48)
+
 ## 20250317
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-9-9900x3d)
 - [9to5Linux](https://9to5linux.com/) | [GIMP 3.0 Image Editor Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/gimp-3-0-image-editor-is-now-available-for-download-heres-whats-new)

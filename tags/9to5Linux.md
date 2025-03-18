@@ -1,3 +1,6 @@
+## 20250318
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Enters Public Beta Testing with Linux Kernel 6.14 and GNOME 48](https://9to5linux.com/fedora-linux-42-enters-public-beta-testing-with-linux-kernel-6-14-and-gnome-48)
+
 ## 20250317
 - [9to5Linux](https://9to5linux.com/) | [GIMP 3.0 Image Editor Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/gimp-3-0-image-editor-is-now-available-for-download-heres-whats-new)
 

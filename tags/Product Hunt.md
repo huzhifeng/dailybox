@@ -1,3 +1,6 @@
+## 20250318
+- [Product Hunt](https://www.producthunt.com) | [Bucket DX](https://www.producthunt.com/posts/bucket-dx)
+
 ## 20250316
 - [Product Hunt](https://www.producthunt.com) | [illustration.app](https://www.producthunt.com/posts/illustration-app)
 
