@@ -1,3 +1,6 @@
+## 20250319
+- [It's FOSS](https://itsfoss.com/) | [Set an AppImage Application as Default App](https://itsfoss.com/set-appimage-as-default/)
+
 ## 20250317
 - [It's FOSS](https://itsfoss.com/) | [Must Know Ollama Commands for Managing LLMs locally](https://itsfoss.com/ollama-commands/)
 

@@ -1,3 +1,6 @@
+## 20250319
+- [GitHub Trending](https://github.com/trending?since=daily) | [makeplane/plane](https://github.com/makeplane/plane)
+
 ## 20250318
 - [GitHub Trending](https://github.com/trending?since=daily) | [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 

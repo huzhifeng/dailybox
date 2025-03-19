@@ -1,3 +1,6 @@
+## 20250319
+- [9to5Linux](https://9to5linux.com/) | [elementary OS 8.0.1 Released with Linux Kernel 6.11 from Ubuntu 24.04.2 LTS](https://9to5linux.com/elementary-os-8-0-1-released-with-linux-kernel-6-11-from-ubuntu-24-04-2-lts)
+
 ## 20250318
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Enters Public Beta Testing with Linux Kernel 6.14 and GNOME 48](https://9to5linux.com/fedora-linux-42-enters-public-beta-testing-with-linux-kernel-6-14-and-gnome-48)
 

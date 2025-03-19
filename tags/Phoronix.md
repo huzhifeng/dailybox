@@ -1,3 +1,6 @@
+## 20250319
+- [Phoronix](https://www.phoronix.com/) | [Another Round Of Rust Compiler Improvements Merged For GCC 15.1](https://www.phoronix.com/news/More-Rust-Merged-GCC-15.1)
+
 ## 20250318
 - [Phoronix](https://www.phoronix.com/) | [Blender 4.4 Released With Vulkan Improvements & AMD HIP RT No Longer Experimental](https://www.phoronix.com/news/Blender-4.4-Released)
 
