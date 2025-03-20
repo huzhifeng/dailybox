@@ -1,3 +1,6 @@
+## 20250320
+- [GitHub Trending](https://github.com/trending?since=daily) | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
 ## 20250319
 - [GitHub Trending](https://github.com/trending?since=daily) | [makeplane/plane](https://github.com/makeplane/plane)
 

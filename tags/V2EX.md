@@ -1,3 +1,6 @@
+## 20250320
+- [V2EX](https://www.v2ex.com/) | [荒谬的个人外汇政策](https://www.v2ex.com/t/1119818)
+
 ## 20250319
 - [V2EX](https://www.v2ex.com/) | [发现 Mac 自带了网络质量测试工具](https://www.v2ex.com/t/1119561)
 
