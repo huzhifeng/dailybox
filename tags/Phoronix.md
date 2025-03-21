@@ -1,3 +1,6 @@
+## 20250321
+- [Phoronix](https://www.phoronix.com/) | [New Intel/AMD GPU Features, Apple Touch Bar Drivers & Other Likely Changes For Linux 6.15](https://www.phoronix.com/news/Linux-6.15-Likely-Features)
+
 ## 20250320
 - [Phoronix](https://www.phoronix.com/) | [Mesa RADV vs. AMDVLK Vulkan Driver Performance For The AMD Radeon RX 9070 Series](https://www.phoronix.com/review/radeon-rx9070-radv-amdvlk)
 

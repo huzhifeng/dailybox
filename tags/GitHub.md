@@ -1,3 +1,6 @@
+## 20250321
+- [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
+
 ## 20250320
 - [GitHub Trending](https://github.com/trending?since=daily) | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 

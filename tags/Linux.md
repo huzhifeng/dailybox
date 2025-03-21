@@ -1,3 +1,7 @@
+## 20250321
+- [Phoronix](https://www.phoronix.com/) | [New Intel/AMD GPU Features, Apple Touch Bar Drivers & Other Likely Changes For Linux 6.15](https://www.phoronix.com/news/Linux-6.15-Likely-Features)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.0 Ebook Manager Released with Much Improved Kobo Support](https://9to5linux.com/calibre-8-0-ebook-manager-released-with-much-improved-kobo-support)
+
 ## 20250320
 - [Phoronix](https://www.phoronix.com/) | [Mesa RADV vs. AMDVLK Vulkan Driver Performance For The AMD Radeon RX 9070 Series](https://www.phoronix.com/review/radeon-rx9070-radv-amdvlk)
 - [9to5Linux](https://9to5linux.com/) | [Ikey Doherty&#8217;s Serpent OS Changes Name to AerynOS](https://9to5linux.com/ikey-dohertys-serpent-os-changes-name-to-aerynos)

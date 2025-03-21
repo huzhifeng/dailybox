@@ -1,3 +1,6 @@
+## 20250321
+- [Product Hunt](https://www.producthunt.com) | [AI Tools Directory - by Whalesync](https://www.producthunt.com/posts/ai-tools-directory-by-whalesync)
+
 ## 20250320
 - [Product Hunt](https://www.producthunt.com) | [RecordAi](https://www.producthunt.com/posts/recordai)
 

@@ -1,3 +1,6 @@
+## 20250321
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.0 Ebook Manager Released with Much Improved Kobo Support](https://9to5linux.com/calibre-8-0-ebook-manager-released-with-much-improved-kobo-support)
+
 ## 20250320
 - [9to5Linux](https://9to5linux.com/) | [Ikey Doherty&#8217;s Serpent OS Changes Name to AerynOS](https://9to5linux.com/ikey-dohertys-serpent-os-changes-name-to-aerynos)
 
