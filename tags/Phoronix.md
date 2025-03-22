@@ -1,3 +1,6 @@
+## 20250322
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Plans To Drop Support For A Useless CRC-32 Checksum In The Kernel Image](https://www.phoronix.com/news/Linux-6.15-Drop-Useless-CRC-32)
+
 ## 20250321
 - [Phoronix](https://www.phoronix.com/) | [New Intel/AMD GPU Features, Apple Touch Bar Drivers & Other Likely Changes For Linux 6.15](https://www.phoronix.com/news/Linux-6.15-Likely-Features)
 

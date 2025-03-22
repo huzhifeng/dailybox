@@ -1,3 +1,8 @@
+## 20250322
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-21](https://www.daemonology.net/hn-daily/2025-03-21.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-21](https://hacker-news.agi.li/post/2025-03-21)
+- [Hacker News](https://news.ycombinator.com/front) | [Monster Cables picked the wrong guy to threaten (2008)](https://news.ycombinator.com/item?id=43442178)
+
 ## 20250321
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-20](https://www.daemonology.net/hn-daily/2025-03-20.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-20](https://hacker-news.agi.li/post/2025-03-20)

@@ -1,3 +1,6 @@
+## 20250322
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
 ## 20250321
 - [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
 

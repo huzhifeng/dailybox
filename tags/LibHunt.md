@@ -1,3 +1,6 @@
+## 20250322
+- [LibHunt](https://www.libhunt.com/) | [Trig.js](https://www.libhunt.com/r/Trig-JS)
+
 ## 20250321
 - [LibHunt](https://www.libhunt.com/) | [tidesdb](https://www.libhunt.com/r/tidesdb)
 

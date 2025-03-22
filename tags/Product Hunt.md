@@ -1,3 +1,6 @@
+## 20250322
+- [Product Hunt](https://www.producthunt.com) | [Claude Web Search](https://www.producthunt.com/posts/claude-web-search)
+
 ## 20250321
 - [Product Hunt](https://www.producthunt.com) | [AI Tools Directory - by Whalesync](https://www.producthunt.com/posts/ai-tools-directory-by-whalesync)
 
