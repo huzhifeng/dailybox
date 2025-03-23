@@ -1,3 +1,6 @@
+## 20250323
+- [GitHub Trending](https://github.com/trending?since=daily) | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
+
 ## 20250322
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 

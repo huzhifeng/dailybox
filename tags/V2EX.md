@@ -1,3 +1,6 @@
+## 20250323
+- [V2EX](https://www.v2ex.com/) | [现在这个就业环境，越来越难反驳读书无用论了](https://www.v2ex.com/t/1120459)
+
 ## 20250322
 - [V2EX](https://www.v2ex.com/) | [存款 200w 可以在北京买房子么？](https://www.v2ex.com/t/1120279)
 

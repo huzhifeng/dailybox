@@ -1,3 +1,6 @@
+## 20250323
+- [LibHunt](https://www.libhunt.com/) | [OpenAI-DotNet](https://www.libhunt.com/r/RageAgainstThePixel/OpenAI-DotNet)
+
 ## 20250322
 - [LibHunt](https://www.libhunt.com/) | [Trig.js](https://www.libhunt.com/r/Trig-JS)
 

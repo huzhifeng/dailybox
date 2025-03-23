@@ -1,3 +1,6 @@
+## 20250323
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Powered Endeavour OS "Mercury Neo" Released](https://www.phoronix.com/news/Endeavour-OS-Mercury-Neo)
+
 ## 20250322
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Plans To Drop Support For A Useless CRC-32 Checksum In The Kernel Image](https://www.phoronix.com/news/Linux-6.15-Drop-Useless-CRC-32)
 

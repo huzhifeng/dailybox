@@ -1,3 +1,6 @@
+## 20250323
+- [9to5Linux](https://9to5linux.com/) | [EndeavourOS Mercury Neo Launches with KDE Plasma 6.3, NVIDIA 570, and Mesa 25](https://9to5linux.com/endeavouros-mercury-neo-launches-with-kde-plasma-6-3-nvidia-570-and-mesa-25)
+
 ## 20250321
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.0 Ebook Manager Released with Much Improved Kobo Support](https://9to5linux.com/calibre-8-0-ebook-manager-released-with-much-improved-kobo-support)
 

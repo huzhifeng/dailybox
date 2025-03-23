@@ -1,3 +1,7 @@
+## 20250323
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Powered Endeavour OS "Mercury Neo" Released](https://www.phoronix.com/news/Endeavour-OS-Mercury-Neo)
+- [9to5Linux](https://9to5linux.com/) | [EndeavourOS Mercury Neo Launches with KDE Plasma 6.3, NVIDIA 570, and Mesa 25](https://9to5linux.com/endeavouros-mercury-neo-launches-with-kde-plasma-6-3-nvidia-570-and-mesa-25)
+
 ## 20250322
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Plans To Drop Support For A Useless CRC-32 Checksum In The Kernel Image](https://www.phoronix.com/news/Linux-6.15-Drop-Useless-CRC-32)
 
