@@ -1,3 +1,6 @@
+## 20250324
+- [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ## 20250323
 - [GitHub Trending](https://github.com/trending?since=daily) | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
 

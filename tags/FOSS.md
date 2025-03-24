@@ -1,3 +1,6 @@
+## 20250324
+- [It's FOSS](https://itsfoss.com/) | [Why do We Use pacman -Syu to System Update as Well as Package Installation in Arch Linux?](https://itsfoss.com/pacman-syu/)
+
 ## 20250320
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.12: GNOME 48 and GIMP 3.0 Released, Switching to IceWM, Ollama Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-12/)
 

@@ -1,3 +1,6 @@
+## 20250324
+- [Phoronix](https://www.phoronix.com/) | [AMD Lands LLVM Flang Fortran Runtime Support For Compiling Directly On The GPU](https://www.phoronix.com/news/AMD-Flang-RT-Build-On-GPU)
+
 ## 20250323
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Powered Endeavour OS "Mercury Neo" Released](https://www.phoronix.com/news/Endeavour-OS-Mercury-Neo)
 

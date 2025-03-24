@@ -1,3 +1,7 @@
+## 20250324
+- [Phoronix](https://www.phoronix.com/) | [AMD Lands LLVM Flang Fortran Runtime Support For Compiling Directly On The GPU](https://www.phoronix.com/news/AMD-Flang-RT-Build-On-GPU)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.14 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-14-officially-released-this-is-whats-new)
+
 ## 20250323
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Powered Endeavour OS "Mercury Neo" Released](https://www.phoronix.com/news/Endeavour-OS-Mercury-Neo)
 - [9to5Linux](https://9to5linux.com/) | [EndeavourOS Mercury Neo Launches with KDE Plasma 6.3, NVIDIA 570, and Mesa 25](https://9to5linux.com/endeavouros-mercury-neo-launches-with-kde-plasma-6-3-nvidia-570-and-mesa-25)

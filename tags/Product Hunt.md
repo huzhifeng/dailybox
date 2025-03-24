@@ -1,3 +1,6 @@
+## 20250324
+- [Product Hunt](https://www.producthunt.com) | [BASE44 2.0](https://www.producthunt.com/posts/base44-2-0)
+
 ## 20250322
 - [Product Hunt](https://www.producthunt.com) | [Claude Web Search](https://www.producthunt.com/posts/claude-web-search)
 
