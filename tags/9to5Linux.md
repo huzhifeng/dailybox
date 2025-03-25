@@ -1,3 +1,6 @@
+## 20250325
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.14 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-14-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+
 ## 20250324
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.14 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-14-officially-released-this-is-whats-new)
 

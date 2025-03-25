@@ -1,3 +1,6 @@
+## 20250325
+- [It's FOSS](https://itsfoss.com/) | [Setting Up Ollama With Docker](https://itsfoss.com/ollama-docker/)
+
 ## 20250324
 - [It's FOSS](https://itsfoss.com/) | [Why do We Use pacman -Syu to System Update as Well as Package Installation in Arch Linux?](https://itsfoss.com/pacman-syu/)
 

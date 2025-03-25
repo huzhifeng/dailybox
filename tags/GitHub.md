@@ -1,3 +1,6 @@
+## 20250325
+- [GitHub Trending](https://github.com/trending?since=daily) | [ossu/computer-science](https://github.com/ossu/computer-science)
+
 ## 20250324
 - [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 

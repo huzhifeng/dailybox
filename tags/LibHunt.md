@@ -1,3 +1,6 @@
+## 20250325
+- [LibHunt](https://www.libhunt.com/) | [setuptools](https://www.libhunt.com/r/setuptools)
+
 ## 20250324
 - [LibHunt](https://www.libhunt.com/) | [Refine](https://www.libhunt.com/r/refine)
 

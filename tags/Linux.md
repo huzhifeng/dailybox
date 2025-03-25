@@ -1,3 +1,7 @@
+## 20250325
+- [Phoronix](https://www.phoronix.com/) | [Latest Batch Of Rust Compiler Updates For GCC 15.1 Lands Support For... For Loops](https://www.phoronix.com/news/Gccrs-Rust-GCC-15-For-Loops)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.14 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-14-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
+
 ## 20250324
 - [Phoronix](https://www.phoronix.com/) | [AMD Lands LLVM Flang Fortran Runtime Support For Compiling Directly On The GPU](https://www.phoronix.com/news/AMD-Flang-RT-Build-On-GPU)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.14 Officially Released, This Is What&#8217;s New](https://9to5linux.com/linux-kernel-6-14-officially-released-this-is-whats-new)

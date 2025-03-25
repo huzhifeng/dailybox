@@ -1,3 +1,6 @@
+## 20250325
+- [Product Hunt](https://www.producthunt.com) | [Zapier MCP](https://www.producthunt.com/posts/zapier-mcp)
+
 ## 20250324
 - [Product Hunt](https://www.producthunt.com) | [BASE44 2.0](https://www.producthunt.com/posts/base44-2-0)
 

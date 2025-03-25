@@ -1,3 +1,6 @@
+## 20250325
+- [Phoronix](https://www.phoronix.com/) | [Latest Batch Of Rust Compiler Updates For GCC 15.1 Lands Support For... For Loops](https://www.phoronix.com/news/Gccrs-Rust-GCC-15-For-Loops)
+
 ## 20250324
 - [Phoronix](https://www.phoronix.com/) | [AMD Lands LLVM Flang Fortran Runtime Support For Compiling Directly On The GPU](https://www.phoronix.com/news/AMD-Flang-RT-Build-On-GPU)
 

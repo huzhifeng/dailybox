@@ -1,3 +1,6 @@
+## 20250325
+- [V2EX](https://www.v2ex.com/) | [各位音乐软件用的什么， 我又用回汽水音乐了。](https://www.v2ex.com/t/1120956)
+
 ## 20250324
 - [V2EX](https://www.v2ex.com/) | [Go 框架使用调研](https://www.v2ex.com/t/1120679)
 
