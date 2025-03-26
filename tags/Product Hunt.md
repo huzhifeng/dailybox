@@ -1,3 +1,6 @@
+## 20250326
+- [Product Hunt](https://www.producthunt.com) | [Needle Knowledge Threader](https://www.producthunt.com/posts/needle-knowledge-threader)
+
 ## 20250325
 - [Product Hunt](https://www.producthunt.com) | [Zapier MCP](https://www.producthunt.com/posts/zapier-mcp)
 

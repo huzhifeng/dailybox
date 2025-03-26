@@ -1,3 +1,6 @@
+## 20250326
+- [GitHub Trending](https://github.com/trending?since=daily) | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
 ## 20250325
 - [GitHub Trending](https://github.com/trending?since=daily) | [ossu/computer-science](https://github.com/ossu/computer-science)
 

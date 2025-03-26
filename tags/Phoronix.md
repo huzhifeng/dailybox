@@ -1,3 +1,6 @@
+## 20250326
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Continues Improving Laptop Support](https://www.phoronix.com/news/Linux-6.15-Laptop-Drivers)
+
 ## 20250325
 - [Phoronix](https://www.phoronix.com/) | [Latest Batch Of Rust Compiler Updates For GCC 15.1 Lands Support For... For Loops](https://www.phoronix.com/news/Gccrs-Rust-GCC-15-For-Loops)
 

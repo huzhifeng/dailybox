@@ -1,3 +1,6 @@
+## 20250326
+- [V2EX](https://www.v2ex.com/) | [突然觉得生活太复杂了，想听听 v 友们的看法](https://www.v2ex.com/t/1121122)
+
 ## 20250325
 - [V2EX](https://www.v2ex.com/) | [各位音乐软件用的什么， 我又用回汽水音乐了。](https://www.v2ex.com/t/1120956)
 
