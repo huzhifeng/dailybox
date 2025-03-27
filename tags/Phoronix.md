@@ -1,3 +1,6 @@
+## 20250327
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Beta Delivering Some Nice Performance Improvements Over Ubuntu 24.10](https://www.phoronix.com/review/ubuntu-2504-beta-benchmarks)
+
 ## 20250326
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Continues Improving Laptop Support](https://www.phoronix.com/news/Linux-6.15-Laptop-Drivers)
 

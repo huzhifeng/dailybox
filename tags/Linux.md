@@ -1,3 +1,7 @@
+## 20250327
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Beta Delivering Some Nice Performance Improvements Over Ubuntu 24.10](https://www.phoronix.com/review/ubuntu-2504-beta-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.2 Office Suite Is Now Available for Download with 83 Bug Fixes](https://9to5linux.com/libreoffice-25-2-2-office-suite-is-now-available-for-download-with-83-bug-fixes)
+
 ## 20250326
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Continues Improving Laptop Support](https://www.phoronix.com/news/Linux-6.15-Laptop-Drivers)
 

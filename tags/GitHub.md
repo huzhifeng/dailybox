@@ -1,3 +1,6 @@
+## 20250327
+- [GitHub Trending](https://github.com/trending?since=daily) | [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
 ## 20250326
 - [GitHub Trending](https://github.com/trending?since=daily) | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 

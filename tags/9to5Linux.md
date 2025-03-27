@@ -1,3 +1,6 @@
+## 20250327
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.2 Office Suite Is Now Available for Download with 83 Bug Fixes](https://9to5linux.com/libreoffice-25-2-2-office-suite-is-now-available-for-download-with-83-bug-fixes)
+
 ## 20250325
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.14 Kernel Released for Those Seeking 100% Freedom for Their PCs](https://9to5linux.com/gnu-linux-libre-6-14-kernel-released-for-those-seeking-100-freedom-for-their-pcs)
 
