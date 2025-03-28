@@ -1,3 +1,8 @@
+## 20250328
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-27](https://www.daemonology.net/hn-daily/2025-03-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-27](https://hacker-news.agi.li/post/2025-03-27)
+- [Hacker News](https://news.ycombinator.com/front) | [I asked police to send me their public surveillance footage of my car](https://news.ycombinator.com/item?id=43504413)
+
 ## 20250327
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-26](https://www.daemonology.net/hn-daily/2025-03-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-26](https://hacker-news.agi.li/post/2025-03-26)

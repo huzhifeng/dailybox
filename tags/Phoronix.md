@@ -1,3 +1,6 @@
+## 20250328
+- [Phoronix](https://www.phoronix.com/) | [GNOME 48 & KDE Plasma 6.3 Delivering Great Wayland Desktop Experience On Ubuntu 25.04 For Linux Gaming](https://www.phoronix.com/review/ubuntu-2504-kde-gnome-way)
+
 ## 20250327
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Beta Delivering Some Nice Performance Improvements Over Ubuntu 24.10](https://www.phoronix.com/review/ubuntu-2504-beta-benchmarks)
 

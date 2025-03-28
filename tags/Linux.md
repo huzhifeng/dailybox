@@ -1,3 +1,6 @@
+## 20250328
+- [Phoronix](https://www.phoronix.com/) | [GNOME 48 & KDE Plasma 6.3 Delivering Great Wayland Desktop Experience On Ubuntu 25.04 For Linux Gaming](https://www.phoronix.com/review/ubuntu-2504-kde-gnome-way)
+
 ## 20250327
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Beta Delivering Some Nice Performance Improvements Over Ubuntu 24.10](https://www.phoronix.com/review/ubuntu-2504-beta-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.2 Office Suite Is Now Available for Download with 83 Bug Fixes](https://9to5linux.com/libreoffice-25-2-2-office-suite-is-now-available-for-download-with-83-bug-fixes)

@@ -1,3 +1,6 @@
+## 20250328
+- [Product Hunt](https://www.producthunt.com) | [Alice 3.0](https://www.producthunt.com/posts/alice-3-0)
+
 ## 20250327
 - [Product Hunt](https://www.producthunt.com) | [Moio](https://www.producthunt.com/posts/moio-2)
 

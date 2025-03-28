@@ -1,3 +1,6 @@
+## 20250328
+- [GitHub Trending](https://github.com/trending?since=daily) | [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+
 ## 20250327
 - [GitHub Trending](https://github.com/trending?since=daily) | [browser-use/browser-use](https://github.com/browser-use/browser-use)
 
