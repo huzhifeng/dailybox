@@ -170,6 +170,13 @@
 			"tags": ["Hacker News"]
 		},
 		{
+			"channel": "Top Hacker News",
+			"portal": "https://www.tophn.co/",
+			"url": "https://tophn.co/atom.xml?points=300&recent=1&lang=en",
+			"category": "资讯",
+			"tags": ["Hacker News"]
+		},
+		{
 			"channel": "HackerNews 每日摘要",
 			"portal": "https://www.supertechfans.com/cn",
 			"portal2": "https://lw9eez9cc6.feishu.cn/wiki/Z408wHLlRi8MdCk6QfacpW6bnB0",
