@@ -1,3 +1,6 @@
+## 20250329
+- [Phoronix](https://www.phoronix.com/) | [Intel's 2025-Q1 Linux Excitement With Battlemage, AVX10 & Other Kernel Improvements](https://www.phoronix.com/news/Intel-Linux-2025-Q1-Recap)
+
 ## 20250328
 - [Phoronix](https://www.phoronix.com/) | [GNOME 48 & KDE Plasma 6.3 Delivering Great Wayland Desktop Experience On Ubuntu 25.04 For Linux Gaming](https://www.phoronix.com/review/ubuntu-2504-kde-gnome-way)
 

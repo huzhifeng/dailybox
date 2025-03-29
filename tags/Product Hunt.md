@@ -1,3 +1,6 @@
+## 20250329
+- [Product Hunt](https://www.producthunt.com) | [Reader Mode 2.0](https://www.producthunt.com/posts/reader-mode-2-0)
+
 ## 20250328
 - [Product Hunt](https://www.producthunt.com) | [Alice 3.0](https://www.producthunt.com/posts/alice-3-0)
 
