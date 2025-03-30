@@ -1,3 +1,7 @@
+## 20250330
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Adds Limine Bootloader, Easier Samba Integration & NTSYNC Wine](https://www.phoronix.com/news/CachyOS-March-2025-Release)
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 25.03 Open-Source Video Editor Released with Various New Features](https://9to5linux.com/shotcut-25-03-open-source-video-editor-released-with-various-new-features)
+
 ## 20250329
 - [Phoronix](https://www.phoronix.com/) | [Intel's 2025-Q1 Linux Excitement With Battlemage, AVX10 & Other Kernel Improvements](https://www.phoronix.com/news/Intel-Linux-2025-Q1-Recap)
 

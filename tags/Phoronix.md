@@ -1,3 +1,6 @@
+## 20250330
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Adds Limine Bootloader, Easier Samba Integration & NTSYNC Wine](https://www.phoronix.com/news/CachyOS-March-2025-Release)
+
 ## 20250329
 - [Phoronix](https://www.phoronix.com/) | [Intel's 2025-Q1 Linux Excitement With Battlemage, AVX10 & Other Kernel Improvements](https://www.phoronix.com/news/Intel-Linux-2025-Q1-Recap)
 

@@ -1,3 +1,6 @@
+## 20250330
+- [GitHub Trending](https://github.com/trending?since=daily) | [agno-agi/agno](https://github.com/agno-agi/agno)
+
 ## 20250329
 - [GitHub Trending](https://github.com/trending?since=daily) | [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 

@@ -1,3 +1,6 @@
+## 20250330
+- [Product Hunt](https://www.producthunt.com) | [HCB](https://www.producthunt.com/posts/hcb)
+
 ## 20250329
 - [Product Hunt](https://www.producthunt.com) | [Reader Mode 2.0](https://www.producthunt.com/posts/reader-mode-2-0)
 

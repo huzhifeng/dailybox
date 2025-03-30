@@ -1,3 +1,6 @@
+## 20250330
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 25.03 Open-Source Video Editor Released with Various New Features](https://9to5linux.com/shotcut-25-03-open-source-video-editor-released-with-various-new-features)
+
 ## 20250327
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.2 Office Suite Is Now Available for Download with 83 Bug Fixes](https://9to5linux.com/libreoffice-25-2-2-office-suite-is-now-available-for-download-with-83-bug-fixes)
 
