@@ -1,3 +1,6 @@
+## 20250331
+- [GitHub Trending](https://github.com/trending?since=daily) | [causify-ai/helpers](https://github.com/causify-ai/helpers)
+
 ## 20250330
 - [GitHub Trending](https://github.com/trending?since=daily) | [agno-agi/agno](https://github.com/agno-agi/agno)
 

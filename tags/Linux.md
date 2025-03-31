@@ -1,3 +1,7 @@
+## 20250331
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 exFAT Can Delete Files Much Faster: 4+ Minutes To 1.6 Second Optimization](https://www.phoronix.com/news/Linux-6.15-exFAT)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 137 Is Now Available with HEVC Playback Support on Linux](https://9to5linux.com/mozilla-firefox-137-is-now-available-with-hevc-playback-support-on-linux)
+
 ## 20250330
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Adds Limine Bootloader, Easier Samba Integration & NTSYNC Wine](https://www.phoronix.com/news/CachyOS-March-2025-Release)
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 25.03 Open-Source Video Editor Released with Various New Features](https://9to5linux.com/shotcut-25-03-open-source-video-editor-released-with-various-new-features)

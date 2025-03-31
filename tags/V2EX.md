@@ -1,3 +1,6 @@
+## 20250331
+- [V2EX](https://www.v2ex.com/) | [给我的小电驴装了一个监控，再也不怕被偷头盔了。](https://www.v2ex.com/t/1122268)
+
 ## 20250329
 - [V2EX](https://www.v2ex.com/) | [关于 loon 的一点疑问， surge 和 loon 如何选择](https://www.v2ex.com/t/1121952)
 

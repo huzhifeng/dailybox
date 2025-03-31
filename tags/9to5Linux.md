@@ -1,3 +1,6 @@
+## 20250331
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 137 Is Now Available with HEVC Playback Support on Linux](https://9to5linux.com/mozilla-firefox-137-is-now-available-with-hevc-playback-support-on-linux)
+
 ## 20250330
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 25.03 Open-Source Video Editor Released with Various New Features](https://9to5linux.com/shotcut-25-03-open-source-video-editor-released-with-various-new-features)
 

@@ -1,3 +1,6 @@
+## 20250331
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 exFAT Can Delete Files Much Faster: 4+ Minutes To 1.6 Second Optimization](https://www.phoronix.com/news/Linux-6.15-exFAT)
+
 ## 20250330
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Adds Limine Bootloader, Easier Samba Integration & NTSYNC Wine](https://www.phoronix.com/news/CachyOS-March-2025-Release)
 
