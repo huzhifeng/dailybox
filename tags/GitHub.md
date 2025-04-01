@@ -1,3 +1,6 @@
+## 20250401
+- [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
 ## 20250331
 - [GitHub Trending](https://github.com/trending?since=daily) | [causify-ai/helpers](https://github.com/causify-ai/helpers)
 

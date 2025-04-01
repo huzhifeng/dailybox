@@ -1,3 +1,8 @@
+## 20250401
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-31](https://www.daemonology.net/hn-daily/2025-03-31.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-31](https://hacker-news.agi.li/post/2025-03-31)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Nue – Apps lighter than a React button](https://news.ycombinator.com/item?id=43543241)
+
 ## 20250331
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-03-30](https://www.daemonology.net/hn-daily/2025-03-30.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-03-30](https://hacker-news.agi.li/post/2025-03-30)

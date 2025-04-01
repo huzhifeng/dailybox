@@ -1,3 +1,6 @@
+## 20250401
+- [Phoronix](https://www.phoronix.com/) | [FUSE File-Systems To Support Much Longer Filenames With Linux 6.15](https://www.phoronix.com/news/Linux-6.15-FUSE)
+
 ## 20250331
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 exFAT Can Delete Files Much Faster: 4+ Minutes To 1.6 Second Optimization](https://www.phoronix.com/news/Linux-6.15-exFAT)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 137 Is Now Available with HEVC Playback Support on Linux](https://9to5linux.com/mozilla-firefox-137-is-now-available-with-hevc-playback-support-on-linux)

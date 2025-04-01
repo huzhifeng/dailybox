@@ -1,3 +1,6 @@
+## 20250401
+- [V2EX](https://www.v2ex.com/) | [不争吵，也不站队，理性且客观地讨论 su7 这件事。](https://www.v2ex.com/t/1122622)
+
 ## 20250331
 - [V2EX](https://www.v2ex.com/) | [给我的小电驴装了一个监控，再也不怕被偷头盔了。](https://www.v2ex.com/t/1122268)
 
