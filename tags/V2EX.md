@@ -1,3 +1,6 @@
+## 20250402
+- [V2EX](https://www.v2ex.com/) | [没开过电车，特斯拉为什么坚持纯视觉？](https://www.v2ex.com/t/1122798)
+
 ## 20250401
 - [V2EX](https://www.v2ex.com/) | [不争吵，也不站队，理性且客观地讨论 su7 这件事。](https://www.v2ex.com/t/1122622)
 

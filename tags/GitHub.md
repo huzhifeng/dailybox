@@ -1,3 +1,6 @@
+## 20250402
+- [GitHub Trending](https://github.com/trending?since=daily) | [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
+
 ## 20250401
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 

@@ -1,3 +1,6 @@
+## 20250402
+- [Product Hunt](https://www.producthunt.com) | [Vapi](https://www.producthunt.com/posts/vapi-2)
+
 ## 20250401
 - [Product Hunt](https://www.producthunt.com) | [Keyword Research Tool](https://www.producthunt.com/posts/keyword-research-tool)
 

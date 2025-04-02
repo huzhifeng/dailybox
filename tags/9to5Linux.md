@@ -1,3 +1,6 @@
+## 20250402
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 137 Open-Source Email Client Released, Here&#8217;s What&#8217;s Changed](https://9to5linux.com/mozilla-thunderbird-137-open-source-email-client-released-heres-whats-changed)
+
 ## 20250331
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 137 Is Now Available with HEVC Playback Support on Linux](https://9to5linux.com/mozilla-firefox-137-is-now-available-with-hevc-playback-support-on-linux)
 

@@ -1,3 +1,6 @@
+## 20250402
+- [It's FOSS](https://itsfoss.com/) | [5 Tools to Enhance Your AppImage Experience on Linux](https://itsfoss.com/appimage-tools/)
+
 ## 20250327
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.13: Kernel 6.14, Zorin 17.3, EU OS, apt Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-13/)
 
