@@ -1,3 +1,6 @@
+## 20250403
+- [V2EX](https://www.v2ex.com/) | [负债 40w，作为程序员，该如何翻身？](https://www.v2ex.com/t/1123110)
+
 ## 20250402
 - [V2EX](https://www.v2ex.com/) | [没开过电车，特斯拉为什么坚持纯视觉？](https://www.v2ex.com/t/1122798)
 

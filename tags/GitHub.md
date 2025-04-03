@@ -1,3 +1,6 @@
+## 20250403
+- [GitHub Trending](https://github.com/trending?since=daily) | [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+
 ## 20250402
 - [GitHub Trending](https://github.com/trending?since=daily) | [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 

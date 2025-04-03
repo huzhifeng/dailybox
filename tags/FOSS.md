@@ -1,3 +1,6 @@
+## 20250403
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/)
+
 ## 20250402
 - [It's FOSS](https://itsfoss.com/) | [5 Tools to Enhance Your AppImage Experience on Linux](https://itsfoss.com/appimage-tools/)
 

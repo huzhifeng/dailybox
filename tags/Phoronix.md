@@ -1,3 +1,6 @@
+## 20250403
+- [Phoronix](https://www.phoronix.com/) | [Intel Updates Linux Patches For Adaptive Sharpness Property, Xe VRAM Self Refresh](https://www.phoronix.com/news/Intel-Adaptive-Sharpness-VRSR)
+
 ## 20250402
 - [Phoronix](https://www.phoronix.com/) | [GNOME & KDE Plasma Wayland Sessions Outperforming Xfce + LXQt On Ubuntu 25.04 For Linux Gaming](https://www.phoronix.com/review/ubuntu-2504-x11-gaming)
 
