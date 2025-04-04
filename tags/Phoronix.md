@@ -1,3 +1,6 @@
+## 20250404
+- [Phoronix](https://www.phoronix.com/) | [AMD RDNA 3.5 Graphics On 2025 Drivers: Windows 11 vs. Ubuntu 25.04 iGPU Performance](https://www.phoronix.com/review/amd-rdna35-ubuntu-2504)
+
 ## 20250403
 - [Phoronix](https://www.phoronix.com/) | [Intel Updates Linux Patches For Adaptive Sharpness Property, Xe VRAM Self Refresh](https://www.phoronix.com/news/Intel-Adaptive-Sharpness-VRSR)
 

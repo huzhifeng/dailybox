@@ -1,3 +1,6 @@
+## 20250404
+- [Product Hunt](https://www.producthunt.com) | [Midjourney v7](https://www.producthunt.com/posts/midjourney-v7)
+
 ## 20250403
 - [Product Hunt](https://www.producthunt.com) | [AutonomyAI](https://www.producthunt.com/posts/autonomyai)
 

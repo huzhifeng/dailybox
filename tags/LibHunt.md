@@ -1,3 +1,6 @@
+## 20250404
+- [LibHunt](https://www.libhunt.com/) | [anime.js](https://www.libhunt.com/r/anime)
+
 ## 20250403
 - [LibHunt](https://www.libhunt.com/) | [starter-workflows](https://www.libhunt.com/r/starter-workflows)
 

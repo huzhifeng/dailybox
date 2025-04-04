@@ -1,3 +1,6 @@
+## 20250404
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.2 Ebook Manager Updates the Kobo Driver with New Tolino Firmware](https://9to5linux.com/calibre-8-2-ebook-manager-updates-the-kobo-driver-with-new-tolino-firmware)
+
 ## 20250402
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 137 Open-Source Email Client Released, Here&#8217;s What&#8217;s Changed](https://9to5linux.com/mozilla-thunderbird-137-open-source-email-client-released-heres-whats-changed)
 

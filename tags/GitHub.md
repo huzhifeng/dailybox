@@ -1,3 +1,6 @@
+## 20250404
+- [GitHub Trending](https://github.com/trending?since=daily) | [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
+
 ## 20250403
 - [GitHub Trending](https://github.com/trending?since=daily) | [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
 

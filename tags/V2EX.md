@@ -1,3 +1,6 @@
+## 20250404
+- [V2EX](https://www.v2ex.com/) | [论点：医生和程序员好像](https://www.v2ex.com/t/1123293)
+
 ## 20250403
 - [V2EX](https://www.v2ex.com/) | [负债 40w，作为程序员，该如何翻身？](https://www.v2ex.com/t/1123110)
 
