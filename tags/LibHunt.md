@@ -1,3 +1,6 @@
+## 20250405
+- [LibHunt](https://www.libhunt.com/) | [clawtype](https://www.libhunt.com/r/clawtype)
+
 ## 20250404
 - [LibHunt](https://www.libhunt.com/) | [anime.js](https://www.libhunt.com/r/anime)
 

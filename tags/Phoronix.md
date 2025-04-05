@@ -1,3 +1,6 @@
+## 20250405
+- [Phoronix](https://www.phoronix.com/) | [RISC-V With Linux 6.15 Adds Support For BFloat16 "BF16" Instructions](https://www.phoronix.com/news/Linux-6.15-RISC-V)
+
 ## 20250404
 - [Phoronix](https://www.phoronix.com/) | [AMD RDNA 3.5 Graphics On 2025 Drivers: Windows 11 vs. Ubuntu 25.04 iGPU Performance](https://www.phoronix.com/review/amd-rdna35-ubuntu-2504)
 

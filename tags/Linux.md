@@ -1,3 +1,7 @@
+## 20250405
+- [Phoronix](https://www.phoronix.com/) | [RISC-V With Linux 6.15 Adds Support For BFloat16 "BF16" Instructions](https://www.phoronix.com/news/Linux-6.15-RISC-V)
+- [9to5Linux](https://9to5linux.com/) | [APT 3.0 Debian Package Manager Released with Revamped Command-Line Interface](https://9to5linux.com/apt-3-0-debian-package-manager-released-with-revamped-command-line-interface)
+
 ## 20250404
 - [Phoronix](https://www.phoronix.com/) | [AMD RDNA 3.5 Graphics On 2025 Drivers: Windows 11 vs. Ubuntu 25.04 iGPU Performance](https://www.phoronix.com/review/amd-rdna35-ubuntu-2504)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.2 Ebook Manager Updates the Kobo Driver with New Tolino Firmware](https://9to5linux.com/calibre-8-2-ebook-manager-updates-the-kobo-driver-with-new-tolino-firmware)

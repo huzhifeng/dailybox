@@ -1,3 +1,6 @@
+## 20250405
+- [9to5Linux](https://9to5linux.com/) | [APT 3.0 Debian Package Manager Released with Revamped Command-Line Interface](https://9to5linux.com/apt-3-0-debian-package-manager-released-with-revamped-command-line-interface)
+
 ## 20250404
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.2 Ebook Manager Updates the Kobo Driver with New Tolino Firmware](https://9to5linux.com/calibre-8-2-ebook-manager-updates-the-kobo-driver-with-new-tolino-firmware)
 

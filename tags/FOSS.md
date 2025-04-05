@@ -1,3 +1,6 @@
+## 20250405
+- [It's FOSS](https://itsfoss.com/) | [7 Code Editors You Can Use for Vibe Coding on Linux](https://itsfoss.com/vibe-coding-editors/)
+
 ## 20250403
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/)
 

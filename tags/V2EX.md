@@ -1,3 +1,6 @@
+## 20250405
+- [V2EX](https://www.v2ex.com/) | [课题组招人线上面试如何防止作弊](https://www.v2ex.com/t/1123403)
+
 ## 20250404
 - [V2EX](https://www.v2ex.com/) | [论点：医生和程序员好像](https://www.v2ex.com/t/1123293)
 
