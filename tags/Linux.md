@@ -1,3 +1,7 @@
+## 20250406
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes PhysX & Flow GPU Code Open-Source](https://www.phoronix.com/news/NVIDIA-OSS-PhysX-Flow-GPU)
+- [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.14 on Ubuntu 24.10, Here&#8217;s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-14-on-ubuntu-24-10-heres-how)
+
 ## 20250405
 - [Phoronix](https://www.phoronix.com/) | [RISC-V With Linux 6.15 Adds Support For BFloat16 "BF16" Instructions](https://www.phoronix.com/news/Linux-6.15-RISC-V)
 - [9to5Linux](https://9to5linux.com/) | [APT 3.0 Debian Package Manager Released with Revamped Command-Line Interface](https://9to5linux.com/apt-3-0-debian-package-manager-released-with-revamped-command-line-interface)

@@ -1,3 +1,8 @@
+## 20250406
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-05](https://www.daemonology.net/hn-daily/2025-04-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-05](https://hacker-news.agi.li/post/2025-04-05)
+- [Hacker News](https://news.ycombinator.com/front) | [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://news.ycombinator.com/item?id=43599637)
+
 ## 20250405
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-04](https://www.daemonology.net/hn-daily/2025-04-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-04](https://hacker-news.agi.li/post/2025-04-04)

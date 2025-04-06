@@ -1,3 +1,6 @@
+## 20250406
+- [LibHunt](https://www.libhunt.com/) | [morphik-core](https://www.libhunt.com/r/morphik-core)
+
 ## 20250405
 - [LibHunt](https://www.libhunt.com/) | [clawtype](https://www.libhunt.com/r/clawtype)
 

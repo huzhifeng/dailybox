@@ -1,3 +1,6 @@
+## 20250406
+- [V2EX](https://www.v2ex.com/) | [Kitty, Wezterm, Alacritty, Ghostty 该用哪个?](https://www.v2ex.com/t/1123532)
+
 ## 20250405
 - [V2EX](https://www.v2ex.com/) | [课题组招人线上面试如何防止作弊](https://www.v2ex.com/t/1123403)
 

@@ -1,3 +1,6 @@
+## 20250406
+- [GitHub Trending](https://github.com/trending?since=daily) | [nuejs/nue](https://github.com/nuejs/nue)
+
 ## 20250405
 - [GitHub Trending](https://github.com/trending?since=daily) | [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
 

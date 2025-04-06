@@ -1,3 +1,6 @@
+## 20250406
+- [Product Hunt](https://www.producthunt.com) | [Scout](https://www.producthunt.com/posts/scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd)
+
 ## 20250405
 - [Product Hunt](https://www.producthunt.com) | [FreeGuessr.com](https://www.producthunt.com/posts/freeguessr-com)
 
