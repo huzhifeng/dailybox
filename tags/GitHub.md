@@ -1,3 +1,6 @@
+## 20250407
+- [GitHub Trending](https://github.com/trending?since=daily) | [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
+
 ## 20250406
 - [GitHub Trending](https://github.com/trending?since=daily) | [nuejs/nue](https://github.com/nuejs/nue)
 

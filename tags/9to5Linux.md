@@ -1,3 +1,6 @@
+## 20250407
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.6.1 Improves Support for Assassin&#8217;s Creed Origins and AMD Vega GPUs](https://9to5linux.com/dxvk-2-6-1-improves-support-for-assassins-creed-origins-and-amd-vega-gpus)
+
 ## 20250406
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.14 on Ubuntu 24.10, Here&#8217;s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-14-on-ubuntu-24-10-heres-how)
 

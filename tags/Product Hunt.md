@@ -1,3 +1,6 @@
+## 20250407
+- [Product Hunt](https://www.producthunt.com) | [Mergify](https://www.producthunt.com/posts/mergify-2)
+
 ## 20250406
 - [Product Hunt](https://www.producthunt.com) | [Scout](https://www.producthunt.com/posts/scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd)
 

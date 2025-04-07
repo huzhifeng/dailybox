@@ -1,3 +1,6 @@
+## 20250407
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Boosting AMD EPYC 9005 Performance Even Higher: ~14% Faster Than Ubuntu 24.04 LTS](https://www.phoronix.com/review/amd-epyc-9005-ubuntu-2504)
+
 ## 20250406
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes PhysX & Flow GPU Code Open-Source](https://www.phoronix.com/news/NVIDIA-OSS-PhysX-Flow-GPU)
 

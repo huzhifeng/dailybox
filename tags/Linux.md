@@ -1,3 +1,7 @@
+## 20250407
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Boosting AMD EPYC 9005 Performance Even Higher: ~14% Faster Than Ubuntu 24.04 LTS](https://www.phoronix.com/review/amd-epyc-9005-ubuntu-2504)
+- [9to5Linux](https://9to5linux.com/) | [DXVK 2.6.1 Improves Support for Assassin&#8217;s Creed Origins and AMD Vega GPUs](https://9to5linux.com/dxvk-2-6-1-improves-support-for-assassins-creed-origins-and-amd-vega-gpus)
+
 ## 20250406
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes PhysX & Flow GPU Code Open-Source](https://www.phoronix.com/news/NVIDIA-OSS-PhysX-Flow-GPU)
 - [9to5Linux](https://9to5linux.com/) | [You Can Now Install Linux Kernel 6.14 on Ubuntu 24.10, Here&#8217;s How](https://9to5linux.com/you-can-now-install-linux-kernel-6-14-on-ubuntu-24-10-heres-how)
