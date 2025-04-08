@@ -1,3 +1,6 @@
+## 20250408
+- [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
+
 ## 20250407
 - [LibHunt](https://www.libhunt.com/) | [Dokku](https://www.libhunt.com/r/dokku)
 

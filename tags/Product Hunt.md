@@ -1,3 +1,6 @@
+## 20250408
+- [Product Hunt](https://www.producthunt.com) | [chatWise](https://www.producthunt.com/posts/chatwise-3)
+
 ## 20250407
 - [Product Hunt](https://www.producthunt.com) | [Mergify](https://www.producthunt.com/posts/mergify-2)
 

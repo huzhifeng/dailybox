@@ -1,3 +1,6 @@
+## 20250408
+- [GitHub Trending](https://github.com/trending?since=daily) | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
+
 ## 20250407
 - [GitHub Trending](https://github.com/trending?since=daily) | [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
 

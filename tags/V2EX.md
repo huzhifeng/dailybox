@@ -1,3 +1,6 @@
+## 20250408
+- [V2EX](https://www.v2ex.com/) | [vscode 写 go 连最基础的补全功能都做得这么差的吗](https://www.v2ex.com/t/1123995)
+
 ## 20250406
 - [V2EX](https://www.v2ex.com/) | [Kitty, Wezterm, Alacritty, Ghostty 该用哪个?](https://www.v2ex.com/t/1123532)
 

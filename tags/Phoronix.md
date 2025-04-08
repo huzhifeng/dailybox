@@ -1,3 +1,6 @@
+## 20250408
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes](https://www.phoronix.com/review/linux-615-features)
+
 ## 20250407
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 Boosting AMD EPYC 9005 Performance Even Higher: ~14% Faster Than Ubuntu 24.04 LTS](https://www.phoronix.com/review/amd-epyc-9005-ubuntu-2504)
 
