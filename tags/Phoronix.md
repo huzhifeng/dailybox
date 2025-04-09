@@ -1,3 +1,6 @@
+## 20250409
+- [Phoronix](https://www.phoronix.com/) | [AMD To Detail ROCm Open-Source Software Progress In June](https://www.phoronix.com/news/AMD-ROCm-June-2025-Announcement)
+
 ## 20250408
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes](https://www.phoronix.com/review/linux-615-features)
 

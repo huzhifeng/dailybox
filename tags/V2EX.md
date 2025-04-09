@@ -1,3 +1,6 @@
+## 20250409
+- [V2EX](https://www.v2ex.com/) | [买五菱星光 S 会不会很没面子](https://www.v2ex.com/t/1124229)
+
 ## 20250408
 - [V2EX](https://www.v2ex.com/) | [vscode 写 go 连最基础的补全功能都做得这么差的吗](https://www.v2ex.com/t/1123995)
 

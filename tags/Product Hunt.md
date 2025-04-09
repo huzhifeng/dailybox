@@ -1,3 +1,6 @@
+## 20250409
+- [Product Hunt](https://www.producthunt.com) | [Sherlock](https://www.producthunt.com/posts/sherlock-22ca6fdc-45ee-48ff-8169-955198c7e247)
+
 ## 20250408
 - [Product Hunt](https://www.producthunt.com) | [chatWise](https://www.producthunt.com/posts/chatwise-3)
 

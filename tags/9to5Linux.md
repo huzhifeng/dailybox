@@ -1,3 +1,6 @@
+## 20250409
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.8 Adds New Plugins to Update the UEFI Signature Database and KEK](https://9to5linux.com/fwupd-2-0-8-adds-new-plugins-to-update-the-uefi-signature-database-and-kek)
+
 ## 20250407
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.6.1 Improves Support for Assassin&#8217;s Creed Origins and AMD Vega GPUs](https://9to5linux.com/dxvk-2-6-1-improves-support-for-assassins-creed-origins-and-amd-vega-gpus)
 
