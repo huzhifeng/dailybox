@@ -1,3 +1,6 @@
+## 20250410
+- [V2EX](https://www.v2ex.com/) | [农村自建房 or 城市商品房](https://www.v2ex.com/t/1124425)
+
 ## 20250409
 - [V2EX](https://www.v2ex.com/) | [买五菱星光 S 会不会很没面子](https://www.v2ex.com/t/1124229)
 

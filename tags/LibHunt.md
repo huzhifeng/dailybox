@@ -1,3 +1,6 @@
+## 20250410
+- [LibHunt](https://www.libhunt.com/) | [SpacetimeDB](https://www.libhunt.com/r/SpacetimeDB)
+
 ## 20250408
 - [LibHunt](https://www.libhunt.com/) | [supabase](https://www.libhunt.com/r/supabase)
 

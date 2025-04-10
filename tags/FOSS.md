@@ -1,3 +1,6 @@
+## 20250410
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/)
+
 ## 20250405
 - [It's FOSS](https://itsfoss.com/) | [7 Code Editors You Can Use for Vibe Coding on Linux](https://itsfoss.com/vibe-coding-editors/)
 

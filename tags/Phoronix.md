@@ -1,3 +1,6 @@
+## 20250410
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Is Bringing Some Nice Usability Improvements For Developers](https://www.phoronix.com/news/GCC-15-Usability-Improvements)
+
 ## 20250409
 - [Phoronix](https://www.phoronix.com/) | [AMD To Detail ROCm Open-Source Software Progress In June](https://www.phoronix.com/news/AMD-ROCm-June-2025-Announcement)
 

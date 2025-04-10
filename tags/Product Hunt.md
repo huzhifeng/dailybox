@@ -1,3 +1,6 @@
+## 20250410
+- [Product Hunt](https://www.producthunt.com) | [Firebase Studio](https://www.producthunt.com/posts/firebase-studio)
+
 ## 20250409
 - [Product Hunt](https://www.producthunt.com) | [Sherlock](https://www.producthunt.com/posts/sherlock-22ca6fdc-45ee-48ff-8169-955198c7e247)
 
