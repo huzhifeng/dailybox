@@ -1,3 +1,6 @@
+## 20250411
+- [GitHub Trending](https://github.com/trending?since=daily) | [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
 ## 20250410
 - [GitHub Trending](https://github.com/trending?since=daily) | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
 

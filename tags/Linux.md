@@ -1,3 +1,6 @@
+## 20250411
+- [Phoronix](https://www.phoronix.com/) | [Intel Preps VRR Refactoring For Linux 6.16, More Xe3 Panther Lake Display Enablement](https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.16-1)
+
 ## 20250410
 - [Phoronix](https://www.phoronix.com/) | [GCC 15 Is Bringing Some Nice Usability Improvements For Developers](https://www.phoronix.com/news/GCC-15-Usability-Improvements)
 

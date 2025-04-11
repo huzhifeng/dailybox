@@ -1,3 +1,6 @@
+## 20250411
+- [It's FOSS](https://itsfoss.com/) | [Formatting Text in Logseq](https://itsfoss.com/logseq-format-text/)
+
 ## 20250410
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/)
 
