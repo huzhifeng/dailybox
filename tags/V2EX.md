@@ -1,3 +1,6 @@
+## 20250412
+- [V2EX](https://www.v2ex.com/) | [很多国家并没有外汇管制，多边贸易为什么一定要用美元结算？](https://www.v2ex.com/t/1124951)
+
 ## 20250410
 - [V2EX](https://www.v2ex.com/) | [农村自建房 or 城市商品房](https://www.v2ex.com/t/1124425)
 

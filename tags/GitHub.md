@@ -1,3 +1,6 @@
+## 20250412
+- [GitHub Trending](https://github.com/trending?since=daily) | [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
+
 ## 20250411
 - [GitHub Trending](https://github.com/trending?since=daily) | [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 

@@ -1,3 +1,6 @@
+## 20250412
+- [LibHunt](https://www.libhunt.com/) | [vexa](https://www.libhunt.com/r/vexa)
+
 ## 20250411
 - [LibHunt](https://www.libhunt.com/) | [WHATWG HTML Standard](https://www.libhunt.com/r/html)
 

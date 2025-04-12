@@ -1,3 +1,7 @@
+## 20250412
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Could See AMD SEV-SNP SVSM vTPM Driver Merged For EPYC CPUs](https://www.phoronix.com/news/Linux-SNP-SVSM-vTPM-Driver-Tip)
+- [9to5Linux](https://9to5linux.com/) | [Pinta 3.0 Open-Source Paint Program Released with GTK4 Port, New Effects](https://9to5linux.com/pinta-3-0-open-source-paint-program-released-with-gtk4-port-new-effects)
+
 ## 20250411
 - [Phoronix](https://www.phoronix.com/) | [Intel Preps VRR Refactoring For Linux 6.16, More Xe3 Panther Lake Display Enablement](https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.16-1)
 

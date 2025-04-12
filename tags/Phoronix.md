@@ -1,3 +1,6 @@
+## 20250412
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Could See AMD SEV-SNP SVSM vTPM Driver Merged For EPYC CPUs](https://www.phoronix.com/news/Linux-SNP-SVSM-vTPM-Driver-Tip)
+
 ## 20250411
 - [Phoronix](https://www.phoronix.com/) | [Intel Preps VRR Refactoring For Linux 6.16, More Xe3 Panther Lake Display Enablement](https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.16-1)
 

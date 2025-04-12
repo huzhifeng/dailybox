@@ -1,3 +1,6 @@
+## 20250412
+- [9to5Linux](https://9to5linux.com/) | [Pinta 3.0 Open-Source Paint Program Released with GTK4 Port, New Effects](https://9to5linux.com/pinta-3-0-open-source-paint-program-released-with-gtk4-port-new-effects)
+
 ## 20250409
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.8 Adds New Plugins to Update the UEFI Signature Database and KEK](https://9to5linux.com/fwupd-2-0-8-adds-new-plugins-to-update-the-uefi-signature-database-and-kek)
 
