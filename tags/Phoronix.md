@@ -1,3 +1,6 @@
+## 20250413
+- [Phoronix](https://www.phoronix.com/) | [Amarok 3.3 Beta Released For Qt6-Powered KDE Music Player](https://www.phoronix.com/news/Amarok-3.3-Beta)
+
 ## 20250412
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Could See AMD SEV-SNP SVSM vTPM Driver Merged For EPYC CPUs](https://www.phoronix.com/news/Linux-SNP-SVSM-vTPM-Driver-Tip)
 

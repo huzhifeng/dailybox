@@ -1,3 +1,6 @@
+## 20250413
+- [V2EX](https://www.v2ex.com/) | [做个小调查：无限滚动 or 翻页按钮](https://www.v2ex.com/t/1125134)
+
 ## 20250412
 - [V2EX](https://www.v2ex.com/) | [很多国家并没有外汇管制，多边贸易为什么一定要用美元结算？](https://www.v2ex.com/t/1124951)
 

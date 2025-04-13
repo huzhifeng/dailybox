@@ -1,3 +1,6 @@
+## 20250413
+- [GitHub Trending](https://github.com/trending?since=daily) | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
 ## 20250412
 - [GitHub Trending](https://github.com/trending?since=daily) | [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
 

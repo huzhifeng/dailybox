@@ -1,3 +1,6 @@
+## 20250413
+- [Product Hunt](https://www.producthunt.com) | [Amazon Nova Sonic](https://www.producthunt.com/posts/amazon-nova-sonic)
+
 ## 20250412
 - [Product Hunt](https://www.producthunt.com) | [Terminal of Woe](https://www.producthunt.com/posts/terminal-of-woe)
 

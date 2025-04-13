@@ -1,3 +1,8 @@
+## 20250413
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-12](https://www.daemonology.net/hn-daily/2025-04-12.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-12](https://hacker-news.agi.li/post/2025-04-12)
+- [Hacker News](https://news.ycombinator.com/front) | [BPS is a GPS alternative that nobody's heard of](https://news.ycombinator.com/item?id=43669308)
+
 ## 20250412
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-11](https://www.daemonology.net/hn-daily/2025-04-11.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-11](https://hacker-news.agi.li/post/2025-04-11)
