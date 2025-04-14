@@ -1,3 +1,6 @@
+## 20250414
+- [Product Hunt](https://www.producthunt.com) | [Brick 1100](https://www.producthunt.com/posts/brick-1100-1102)
+
 ## 20250413
 - [Product Hunt](https://www.producthunt.com) | [Amazon Nova Sonic](https://www.producthunt.com/posts/amazon-nova-sonic)
 

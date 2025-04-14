@@ -1,3 +1,6 @@
+## 20250414
+- [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake On Linux Can Roughly Match Windows 11 Xe2 Graphics - When Not Stuck At 400MHz](https://www.phoronix.com/review/lunarlake-xe2-windows-linux-2025)
+
 ## 20250413
 - [Phoronix](https://www.phoronix.com/) | [Amarok 3.3 Beta Released For Qt6-Powered KDE Music Player](https://www.phoronix.com/news/Amarok-3.3-Beta)
 

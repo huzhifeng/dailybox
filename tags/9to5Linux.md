@@ -1,3 +1,6 @@
+## 20250414
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4.2 Adds Extra MIDI Checks to Avoid 100% CPU Usage on Older Kernels](https://9to5linux.com/pipewire-1-4-2-adds-extra-midi-checks-to-avoid-100-cpu-usage-on-older-kernels)
+
 ## 20250412
 - [9to5Linux](https://9to5linux.com/) | [Pinta 3.0 Open-Source Paint Program Released with GTK4 Port, New Effects](https://9to5linux.com/pinta-3-0-open-source-paint-program-released-with-gtk4-port-new-effects)
 

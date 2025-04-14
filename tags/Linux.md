@@ -1,3 +1,7 @@
+## 20250414
+- [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake On Linux Can Roughly Match Windows 11 Xe2 Graphics - When Not Stuck At 400MHz](https://www.phoronix.com/review/lunarlake-xe2-windows-linux-2025)
+- [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4.2 Adds Extra MIDI Checks to Avoid 100% CPU Usage on Older Kernels](https://9to5linux.com/pipewire-1-4-2-adds-extra-midi-checks-to-avoid-100-cpu-usage-on-older-kernels)
+
 ## 20250413
 - [Phoronix](https://www.phoronix.com/) | [Amarok 3.3 Beta Released For Qt6-Powered KDE Music Player](https://www.phoronix.com/news/Amarok-3.3-Beta)
 

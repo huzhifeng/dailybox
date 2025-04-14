@@ -1,3 +1,6 @@
+## 20250414
+- [GitHub Trending](https://github.com/trending?since=daily) | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
+
 ## 20250413
 - [GitHub Trending](https://github.com/trending?since=daily) | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 
