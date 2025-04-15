@@ -1,3 +1,6 @@
+## 20250415
+- [V2EX](https://www.v2ex.com/) | [每个月的消费比想象的多](https://www.v2ex.com/t/1125622)
+
 ## 20250414
 - [V2EX](https://www.v2ex.com/) | [被威胁后续...](https://www.v2ex.com/t/1125332)
 

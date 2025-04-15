@@ -1,3 +1,6 @@
+## 20250415
+- [Phoronix](https://www.phoronix.com/) | [Fedora Server 42 Is Performing Well On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/fedora-server-42-epyc)
+
 ## 20250414
 - [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake On Linux Can Roughly Match Windows 11 Xe2 Graphics - When Not Stuck At 400MHz](https://www.phoronix.com/review/lunarlake-xe2-windows-linux-2025)
 

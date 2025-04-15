@@ -1,3 +1,7 @@
+## 20250415
+- [Phoronix](https://www.phoronix.com/) | [Fedora Server 42 Is Performing Well On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/fedora-server-42-epyc)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Is Out Now, Powered by Linux Kernel 6.14 and GNOME 48 Desktop](https://9to5linux.com/fedora-linux-42-is-out-now-powered-by-linux-kernel-6-14-and-gnome-48-desktop)
+
 ## 20250414
 - [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake On Linux Can Roughly Match Windows 11 Xe2 Graphics - When Not Stuck At 400MHz](https://www.phoronix.com/review/lunarlake-xe2-windows-linux-2025)
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4.2 Adds Extra MIDI Checks to Avoid 100% CPU Usage on Older Kernels](https://9to5linux.com/pipewire-1-4-2-adds-extra-midi-checks-to-avoid-100-cpu-usage-on-older-kernels)

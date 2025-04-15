@@ -1,3 +1,6 @@
+## 20250415
+- [It's FOSS](https://itsfoss.com/) | [11 Vibe Coding Tools to 10x Your Development on Linux Desktop](https://itsfoss.com/vibe-coding-tools-linux/)
+
 ## 20250413
 - [It's FOSS](https://itsfoss.com/) | [Birth of Unix](https://itsfoss.com/birth-of-unix/)
 

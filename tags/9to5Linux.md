@@ -1,3 +1,6 @@
+## 20250415
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Is Out Now, Powered by Linux Kernel 6.14 and GNOME 48 Desktop](https://9to5linux.com/fedora-linux-42-is-out-now-powered-by-linux-kernel-6-14-and-gnome-48-desktop)
+
 ## 20250414
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4.2 Adds Extra MIDI Checks to Avoid 100% CPU Usage on Older Kernels](https://9to5linux.com/pipewire-1-4-2-adds-extra-midi-checks-to-avoid-100-cpu-usage-on-older-kernels)
 
