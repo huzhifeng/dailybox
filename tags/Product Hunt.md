@@ -1,3 +1,6 @@
+## 20250416
+- [Product Hunt](https://www.producthunt.com) | [Mailgo](https://www.producthunt.com/posts/mailgo-3)
+
 ## 20250415
 - [Product Hunt](https://www.producthunt.com) | [ServiceAgent](https://www.producthunt.com/posts/serviceagent)
 

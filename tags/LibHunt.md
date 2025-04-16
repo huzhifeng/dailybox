@@ -1,3 +1,6 @@
+## 20250416
+- [LibHunt](https://www.libhunt.com/) | [hacktical-c](https://www.libhunt.com/r/hacktical-c)
+
 ## 20250415
 - [LibHunt](https://www.libhunt.com/) | [whenever](https://www.libhunt.com/r/ariebovenberg/whenever)
 

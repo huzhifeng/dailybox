@@ -1,3 +1,6 @@
+## 20250416
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.1-rc1 Released With AMD RDNA4 Improvements, Lots Of RADV & Intel ANV Additions](https://www.phoronix.com/news/Mesa-25.1-rc1-Released)
+
 ## 20250415
 - [Phoronix](https://www.phoronix.com/) | [Fedora Server 42 Is Performing Well On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/fedora-server-42-epyc)
 

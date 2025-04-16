@@ -1,3 +1,7 @@
+## 20250416
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app)
+
 ## 20250415
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 
