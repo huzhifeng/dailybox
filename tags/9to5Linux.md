@@ -1,3 +1,6 @@
+## 20250417
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 “Plucky Puffin” Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/ubuntu-25-04-plucky-puffin-is-now-available-for-download-this-is-whats-new)
+
 ## 20250415
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 42 Is Out Now, Powered by Linux Kernel 6.14 and GNOME 48 Desktop](https://9to5linux.com/fedora-linux-42-is-out-now-powered-by-linux-kernel-6-14-and-gnome-48-desktop)
 

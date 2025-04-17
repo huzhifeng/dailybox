@@ -1,3 +1,6 @@
+## 20250417
+- [LibHunt](https://www.libhunt.com/) | [ClickHouse](https://www.libhunt.com/r/ClickHouse)
+
 ## 20250416
 - [LibHunt](https://www.libhunt.com/) | [hacktical-c](https://www.libhunt.com/r/hacktical-c)
 

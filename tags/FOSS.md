@@ -1,3 +1,6 @@
+## 20250417
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.16: Ubuntu 25.04, Fedora 42, ParticleOS and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-16/)
+
 ## 20250415
 - [It's FOSS](https://itsfoss.com/) | [11 Vibe Coding Tools to 10x Your Development on Linux Desktop](https://itsfoss.com/vibe-coding-tools-linux/)
 
