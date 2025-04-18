@@ -1,3 +1,6 @@
+## 20250418
+- [Phoronix](https://www.phoronix.com/) | [Initial Linux Gaming/Graphics Performance For The NVIDIA GeForce RTX 5060 Ti](https://www.phoronix.com/review/nvidia-rtx-5060ti-linux-gaming)
+
 ## 20250417
 - [Phoronix](https://www.phoronix.com/) | [Framework 13 With AMD Ryzen AI 300 Series "Strix Point" Makes For A Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd-strix-point)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 “Plucky Puffin” Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/ubuntu-25-04-plucky-puffin-is-now-available-for-download-this-is-whats-new)

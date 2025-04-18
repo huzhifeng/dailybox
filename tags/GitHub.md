@@ -1,3 +1,6 @@
+## 20250418
+- [GitHub Trending](https://github.com/trending?since=daily) | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+
 ## 20250417
 - [GitHub Trending](https://github.com/trending?since=daily) | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
 

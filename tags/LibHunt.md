@@ -1,3 +1,6 @@
+## 20250418
+- [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
+
 ## 20250417
 - [LibHunt](https://www.libhunt.com/) | [ClickHouse](https://www.libhunt.com/r/ClickHouse)
 
