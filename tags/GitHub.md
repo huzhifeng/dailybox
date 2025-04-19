@@ -1,3 +1,6 @@
+## 20250419
+- [GitHub Trending](https://github.com/trending?since=daily) | [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
+
 ## 20250418
 - [GitHub Trending](https://github.com/trending?since=daily) | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
 

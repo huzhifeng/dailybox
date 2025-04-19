@@ -1,3 +1,6 @@
+## 20250419
+- [It's FOSS](https://itsfoss.com/) | [Exploring Pages, Links, Tags, and Block References in Logseq](https://itsfoss.com/logseq-pages-links-tags-blocks/)
+
 ## 20250417
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.16: Ubuntu 25.04, Fedora 42, ParticleOS and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-16/)
 

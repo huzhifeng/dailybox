@@ -1,3 +1,6 @@
+## 20250419
+- [LibHunt](https://www.libhunt.com/) | [hn-search](https://www.libhunt.com/r/hn-search)
+
 ## 20250418
 - [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
 

@@ -1,3 +1,6 @@
+## 20250419
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg AV1 Vulkan Encoder Patch Posted](https://www.phoronix.com/news/FFmpeg-AV1-Vulkan-Encoder)
+
 ## 20250418
 - [Phoronix](https://www.phoronix.com/) | [Initial Linux Gaming/Graphics Performance For The NVIDIA GeForce RTX 5060 Ti](https://www.phoronix.com/review/nvidia-rtx-5060ti-linux-gaming)
 
