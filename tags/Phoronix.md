@@ -1,3 +1,6 @@
+## 20250420
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Engineer Posts New NOVA Driver Patches - Still Far From Doing Anything Useful](https://www.phoronix.com/news/NOVA-16-Patches-Still-Early)
+
 ## 20250419
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg AV1 Vulkan Encoder Patch Posted](https://www.phoronix.com/news/FFmpeg-AV1-Vulkan-Encoder)
 

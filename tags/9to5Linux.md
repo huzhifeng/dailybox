@@ -1,3 +1,6 @@
+## 20250420
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.13 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.14](https://9to5linux.com/linux-kernel-6-13-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-14)
+
 ## 20250417
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 “Plucky Puffin” Is Now Available for Download, This Is What&#8217;s New](https://9to5linux.com/ubuntu-25-04-plucky-puffin-is-now-available-for-download-this-is-whats-new)
 

@@ -1,3 +1,6 @@
+## 20250420
+- [Product Hunt](https://www.producthunt.com) | [Controol](https://www.producthunt.com/posts/controol)
+
 ## 20250419
 - [Product Hunt](https://www.producthunt.com) | [Microagents (Beta)](https://www.producthunt.com/posts/microagents-beta)
 

@@ -1,3 +1,6 @@
+## 20250420
+- [It's FOSS](https://itsfoss.com/) | [Tuning Local LLMs With RAG Using Ollama and Langchain](https://itsfoss.com/local-llm-rag-ollama-langchain/)
+
 ## 20250419
 - [It's FOSS](https://itsfoss.com/) | [Exploring Pages, Links, Tags, and Block References in Logseq](https://itsfoss.com/logseq-pages-links-tags-blocks/)
 

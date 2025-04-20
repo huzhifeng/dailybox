@@ -1,3 +1,6 @@
+## 20250420
+- [GitHub Trending](https://github.com/trending?since=daily) | [docmost/docmost](https://github.com/docmost/docmost)
+
 ## 20250419
 - [GitHub Trending](https://github.com/trending?since=daily) | [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
 
