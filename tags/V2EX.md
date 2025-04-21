@@ -1,3 +1,6 @@
+## 20250421
+- [V2EX](https://www.v2ex.com/) | [朋友说自助洗车有前景，我信了，你们觉得呢？](https://www.v2ex.com/t/1127028)
+
 ## 20250418
 - [V2EX](https://www.v2ex.com/) | [自行车通勤，电脑该如何携带？](https://www.v2ex.com/t/1126427)
 

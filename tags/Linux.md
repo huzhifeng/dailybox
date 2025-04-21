@@ -1,3 +1,6 @@
+## 20250421
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 vs. Windows 11 CPU Performance For The AMD Ryzen AI 7 PRO 360](https://www.phoronix.com/review/ryzen-ai-7-pro-360-windows-linux)
+
 ## 20250420
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Engineer Posts New NOVA Driver Patches - Still Far From Doing Anything Useful](https://www.phoronix.com/news/NOVA-16-Patches-Still-Early)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.13 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.14](https://9to5linux.com/linux-kernel-6-13-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-14)

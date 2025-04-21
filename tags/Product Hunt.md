@@ -1,3 +1,6 @@
+## 20250421
+- [Product Hunt](https://www.producthunt.com) | [Outtloud](https://www.producthunt.com/posts/outtloud-2)
+
 ## 20250420
 - [Product Hunt](https://www.producthunt.com) | [Controol](https://www.producthunt.com/posts/controol)
 

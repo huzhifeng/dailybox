@@ -1,3 +1,6 @@
+## 20250421
+- [GitHub Trending](https://github.com/trending?since=daily) | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
+
 ## 20250420
 - [GitHub Trending](https://github.com/trending?since=daily) | [docmost/docmost](https://github.com/docmost/docmost)
 

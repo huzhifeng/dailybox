@@ -1,3 +1,6 @@
+## 20250421
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 vs. Windows 11 CPU Performance For The AMD Ryzen AI 7 PRO 360](https://www.phoronix.com/review/ryzen-ai-7-pro-360-windows-linux)
+
 ## 20250420
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Engineer Posts New NOVA Driver Patches - Still Far From Doing Anything Useful](https://www.phoronix.com/news/NOVA-16-Patches-Still-Early)
 
