@@ -1,3 +1,6 @@
+## 20250422
+- [V2EX](https://www.v2ex.com/) | [2025 年 DIY NAS 系统你会选择那个呢？](https://www.v2ex.com/t/1127276)
+
 ## 20250421
 - [V2EX](https://www.v2ex.com/) | [朋友说自助洗车有前景，我信了，你们觉得呢？](https://www.v2ex.com/t/1127028)
 

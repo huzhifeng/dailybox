@@ -1,3 +1,6 @@
+## 20250422
+- [GitHub Trending](https://github.com/trending?since=daily) | [allenai/olmocr](https://github.com/allenai/olmocr)
+
 ## 20250421
 - [GitHub Trending](https://github.com/trending?since=daily) | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 
