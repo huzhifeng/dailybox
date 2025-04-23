@@ -1,3 +1,6 @@
+## 20250423
+- [LibHunt](https://www.libhunt.com/) | [dia](https://www.libhunt.com/r/nari-labs/dia)
+
 ## 20250421
 - [LibHunt](https://www.libhunt.com/) | [peerd](https://www.libhunt.com/r/peerd)
 

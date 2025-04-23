@@ -1,3 +1,6 @@
+## 20250423
+- [It's FOSS](https://itsfoss.com/) | [Customize Logseq With Themes and Plugins](https://itsfoss.com/logseq-plugins-themes/)
+
 ## 20250420
 - [It's FOSS](https://itsfoss.com/) | [Tuning Local LLMs With RAG Using Ollama and Langchain](https://itsfoss.com/local-llm-rag-ollama-langchain/)
 

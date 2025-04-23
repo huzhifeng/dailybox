@@ -1,3 +1,6 @@
+## 20250423
+- [GitHub Trending](https://github.com/trending?since=daily) | [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+
 ## 20250422
 - [GitHub Trending](https://github.com/trending?since=daily) | [allenai/olmocr](https://github.com/allenai/olmocr)
 

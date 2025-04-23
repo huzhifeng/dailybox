@@ -1,3 +1,6 @@
+## 20250423
+- [Phoronix](https://www.phoronix.com/) | [Orange Pi RV2 Benchmarks: The Most Performant RISC-V Board For Less Than $100 With 8 Cores + 8GB RAM](https://www.phoronix.com/review/orange-pi-rv2-benchmarks)
+
 ## 20250422
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Performance On Linux Has Improved A Lot Since Launch](https://www.phoronix.com/review/intel-arrow-lake-ubuntu-2504)
 

@@ -1,3 +1,9 @@
+## 20250423
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-22](https://www.daemonology.net/hn-daily/2025-04-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-22](https://hacker-news.agi.li/post/2025-04-22)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2025-04-23](https://github.com/headllines/hackernews-daily/issues/1749)
+- [Hacker News](https://news.ycombinator.com/front) | [Open Source Projects Receive Funding to Reclaim the Public Internet](https://news.ycombinator.com/item?id=43769482)
+
 ## 20250422
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-21](https://www.daemonology.net/hn-daily/2025-04-21.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-22](https://hacker-news.agi.li/post/2025-04-22)
