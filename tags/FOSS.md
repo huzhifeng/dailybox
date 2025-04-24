@@ -1,3 +1,6 @@
+## 20250424
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.17: Ubuntu 25.04 and Fedora 42 Release Follow-ups, Logseq, ZimaBoard and More](https://itsfoss.com/newsletter/foss-weekly-25-17/)
+
 ## 20250423
 - [It's FOSS](https://itsfoss.com/) | [Customize Logseq With Themes and Plugins](https://itsfoss.com/logseq-plugins-themes/)
 

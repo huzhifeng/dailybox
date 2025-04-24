@@ -1,3 +1,6 @@
+## 20250424
+- [GitHub Trending](https://github.com/trending?since=daily) | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
 ## 20250423
 - [GitHub Trending](https://github.com/trending?since=daily) | [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 

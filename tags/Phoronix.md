@@ -1,3 +1,6 @@
+## 20250424
+- [Phoronix](https://www.phoronix.com/) | [Lenovo ThinkPad X1 Carbon Gen 13 Aura Can Work Well As A Solid Linux Laptop](https://www.phoronix.com/review/lenovo-thinkpad-x1-gen13-linux)
+
 ## 20250423
 - [Phoronix](https://www.phoronix.com/) | [Orange Pi RV2 Benchmarks: The Most Performant RISC-V Board For Less Than $100 With 8 Cores + 8GB RAM](https://www.phoronix.com/review/orange-pi-rv2-benchmarks)
 
