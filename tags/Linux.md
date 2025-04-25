@@ -1,3 +1,7 @@
+## 20250425
+- [Phoronix](https://www.phoronix.com/) | [Intel 200S Boost Performance Mode Benchmarks On Linux](https://www.phoronix.com/review/intel-200s-boost-linux)
+- [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 7 Desktop Adds Pinned Workspaces, New Accessibility Features](https://9to5linux.com/cosmic-alpha-7-desktop-adds-pinned-workspaces-new-accessibility-features)
+
 ## 20250424
 - [Phoronix](https://www.phoronix.com/) | [Lenovo ThinkPad X1 Carbon Gen 13 Aura Can Work Well As A Solid Linux Laptop](https://www.phoronix.com/review/lenovo-thinkpad-x1-gen13-linux)
 

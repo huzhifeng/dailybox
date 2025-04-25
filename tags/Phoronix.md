@@ -1,3 +1,6 @@
+## 20250425
+- [Phoronix](https://www.phoronix.com/) | [Intel 200S Boost Performance Mode Benchmarks On Linux](https://www.phoronix.com/review/intel-200s-boost-linux)
+
 ## 20250424
 - [Phoronix](https://www.phoronix.com/) | [Lenovo ThinkPad X1 Carbon Gen 13 Aura Can Work Well As A Solid Linux Laptop](https://www.phoronix.com/review/lenovo-thinkpad-x1-gen13-linux)
 

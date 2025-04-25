@@ -1,3 +1,6 @@
+## 20250425
+- [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 7 Desktop Adds Pinned Workspaces, New Accessibility Features](https://9to5linux.com/cosmic-alpha-7-desktop-adds-pinned-workspaces-new-accessibility-features)
+
 ## 20250420
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.13 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.14](https://9to5linux.com/linux-kernel-6-13-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-14)
 

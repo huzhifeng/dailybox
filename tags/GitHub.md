@@ -1,3 +1,6 @@
+## 20250425
+- [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)
+
 ## 20250424
 - [GitHub Trending](https://github.com/trending?since=daily) | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
