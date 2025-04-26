@@ -1,3 +1,6 @@
+## 20250426
+- [Phoronix](https://www.phoronix.com/) | [Fair DRM Scheduler v4 Running Well On Steam Deck, "Looks Solid"](https://www.phoronix.com/news/Fair-DRM-Scheduler-v4)
+
 ## 20250425
 - [Phoronix](https://www.phoronix.com/) | [Intel 200S Boost Performance Mode Benchmarks On Linux](https://www.phoronix.com/review/intel-200s-boost-linux)
 

@@ -1,3 +1,8 @@
+## 20250426
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-25](https://www.daemonology.net/hn-daily/2025-04-25.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-25](https://hacker-news.agi.li/post/2025-04-25)
+- [Hacker News](https://news.ycombinator.com/front) | [ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation](https://news.ycombinator.com/item?id=43801959)
+
 ## 20250425
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-24](https://www.daemonology.net/hn-daily/2025-04-24.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-24](https://hacker-news.agi.li/post/2025-04-24)

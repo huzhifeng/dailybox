@@ -1,3 +1,6 @@
+## 20250426
+- [LibHunt](https://www.libhunt.com/) | [NATS](https://www.libhunt.com/r/nats-server)
+
 ## 20250425
 - [LibHunt](https://www.libhunt.com/) | [docmost](https://www.libhunt.com/r/docmost)
 

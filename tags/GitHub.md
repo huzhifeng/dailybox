@@ -1,3 +1,6 @@
+## 20250426
+- [GitHub Trending](https://github.com/trending?since=daily) | [go-playground/validator](https://github.com/go-playground/validator)
+
 ## 20250425
 - [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)
 
