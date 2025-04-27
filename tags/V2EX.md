@@ -1,3 +1,6 @@
+## 20250427
+- [V2EX](https://www.v2ex.com/) | [墙又高了，还有什么可靠的爬墙方法？](https://www.v2ex.com/t/1128483)
+
 ## 20250426
 - [V2EX](https://www.v2ex.com/) | [imgur 的图片如何查看？ v 友为何喜欢用这个图床？🤔](https://www.v2ex.com/t/1128168)
 

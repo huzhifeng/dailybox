@@ -1,3 +1,6 @@
+## 20250427
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15-rc4 Released With Performance Regression Fix, Corrected Bcachefs Case Folding](https://www.phoronix.com/news/Linux-6.15-rc4-Released)
+
 ## 20250426
 - [Phoronix](https://www.phoronix.com/) | [Fair DRM Scheduler v4 Running Well On Steam Deck, "Looks Solid"](https://www.phoronix.com/news/Fair-DRM-Scheduler-v4)
 

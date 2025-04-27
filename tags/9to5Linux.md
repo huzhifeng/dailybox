@@ -1,3 +1,6 @@
+## 20250427
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: April 27th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-april-27th-2025)
+
 ## 20250425
 - [9to5Linux](https://9to5linux.com/) | [COSMIC Alpha 7 Desktop Adds Pinned Workspaces, New Accessibility Features](https://9to5linux.com/cosmic-alpha-7-desktop-adds-pinned-workspaces-new-accessibility-features)
 
