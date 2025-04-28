@@ -357,6 +357,7 @@
 			"channel": "科技东风",
 			"portal": "https://m.smzdm.com/tag/tn0400v/",
 			"url": "https://m.smzdm.com/tag/feed?name=%E7%A7%91%E6%8A%80%E4%B8%9C%E9%A3%8E&article_tab=0&past_num=0&page=1&time_sort=&feed_sort=2",
+			"enable": 0,
 			"category": "资讯",
 			"tags": ["什么值得买", "科技东风"],
 			"request": {
