@@ -1,3 +1,6 @@
+## 20250428
+- [Product Hunt](https://www.producthunt.com) | [Smart Keys for Mac](https://www.producthunt.com/posts/smart-keys-for-mac)
+
 ## 20250427
 - [Product Hunt](https://www.producthunt.com) | [Once Human](https://www.producthunt.com/posts/once-human)
 

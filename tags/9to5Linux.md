@@ -1,3 +1,6 @@
+## 20250428
+- [9to5Linux](https://9to5linux.com/) | [4MLinux 48.0 Is Now Available for Download, Powered by Linux Kernel 6.12 LTS](https://9to5linux.com/4mlinux-48-0-is-now-available-for-download-powered-by-linux-kernel-6-12-lts)
+
 ## 20250427
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: April 27th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-april-27th-2025)
 

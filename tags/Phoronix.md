@@ -1,3 +1,6 @@
+## 20250428
+- [Phoronix](https://www.phoronix.com/) | [Meson 1.8 Build System Released - Wayland Module Declared Stable](https://www.phoronix.com/news/Meson-1.8-Released)
+
 ## 20250427
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15-rc4 Released With Performance Regression Fix, Corrected Bcachefs Case Folding](https://www.phoronix.com/news/Linux-6.15-rc4-Released)
 
