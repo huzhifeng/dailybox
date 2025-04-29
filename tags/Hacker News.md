@@ -1,3 +1,8 @@
+## 20250429
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-28](https://www.daemonology.net/hn-daily/2025-04-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-28](https://hacker-news.agi.li/post/2025-04-28)
+- [Hacker News](https://news.ycombinator.com/front) | [LibreLingo – FOSS Alternative to Duolingo](https://news.ycombinator.com/item?id=43829035)
+
 ## 20250428
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-27](https://www.daemonology.net/hn-daily/2025-04-27.html)
 - [Top Hacker News](https://www.tophn.co/) | [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)

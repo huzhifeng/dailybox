@@ -1,3 +1,6 @@
+## 20250429
+- [Product Hunt](https://www.producthunt.com) | [Breaktime Buddy](https://www.producthunt.com/posts/breaktime-buddy)
+
 ## 20250428
 - [Product Hunt](https://www.producthunt.com) | [Smart Keys for Mac](https://www.producthunt.com/posts/smart-keys-for-mac)
 

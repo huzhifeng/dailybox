@@ -1,3 +1,6 @@
+## 20250429
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 & Fedora 42 Hit A Long Sought Milestone With HDR Support Working Well On The Linux Desktop](https://www.phoronix.com/review/linux-hdr-2025)
+
 ## 20250428
 - [Phoronix](https://www.phoronix.com/) | [Meson 1.8 Build System Released - Wayland Module Declared Stable](https://www.phoronix.com/news/Meson-1.8-Released)
 
