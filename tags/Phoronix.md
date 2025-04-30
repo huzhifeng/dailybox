@@ -1,3 +1,6 @@
+## 20250430
+- [Phoronix](https://www.phoronix.com/) | [Intel's Vulkan Linux Driver Adds Memory Pool Support For Some Massive Performance Gains](https://www.phoronix.com/news/Intel-Vulkan-Linux-Memory-Pool)
+
 ## 20250429
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.04 & Fedora 42 Hit A Long Sought Milestone With HDR Support Working Well On The Linux Desktop](https://www.phoronix.com/review/linux-hdr-2025)
 

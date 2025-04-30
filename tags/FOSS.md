@@ -1,3 +1,6 @@
+## 20250430
+- [It's FOSS](https://itsfoss.com/) | [Journals and Contents: Two Special Pages in Logseq](https://itsfoss.com/logseq-journals-contents/)
+
 ## 20250428
 - [It's FOSS](https://itsfoss.com/) | [Dual Booting CachyOS and Windows](https://itsfoss.com/dual-boot-cachyos-windows/)
 

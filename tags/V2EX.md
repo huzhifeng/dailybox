@@ -1,3 +1,6 @@
+## 20250430
+- [V2EX](https://www.v2ex.com/) | [大厂的同事们，你们是怎么定位线上故障的？](https://www.v2ex.com/t/1129060)
+
 ## 20250429
 - [V2EX](https://www.v2ex.com/) | [出发去泰国了，享受五一假期生活](https://www.v2ex.com/t/1128820)
 

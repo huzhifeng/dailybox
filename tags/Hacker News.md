@@ -1,3 +1,8 @@
+## 20250430
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-29](https://www.daemonology.net/hn-daily/2025-04-29.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-29](https://hacker-news.agi.li/post/2025-04-29)
+- [Hacker News](https://news.ycombinator.com/front) | [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://news.ycombinator.com/item?id=43844342)
+
 ## 20250429
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-28](https://www.daemonology.net/hn-daily/2025-04-28.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-28](https://hacker-news.agi.li/post/2025-04-28)
