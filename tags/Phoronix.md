@@ -1,3 +1,6 @@
+## 20250501
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Demonstrating Measurable Performance Gains For AMD EPYC Turin](https://www.phoronix.com/review/gcc15-amd-epyc-turin)
+
 ## 20250430
 - [Phoronix](https://www.phoronix.com/) | [Intel's Vulkan Linux Driver Adds Memory Pool Support For Some Massive Performance Gains](https://www.phoronix.com/news/Intel-Vulkan-Linux-Memory-Pool)
 

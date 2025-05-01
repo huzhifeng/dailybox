@@ -1,3 +1,6 @@
+## 20250501
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More](https://itsfoss.com/newsletter/foss-weekly-25-18/)
+
 ## 20250430
 - [It's FOSS](https://itsfoss.com/) | [Journals and Contents: Two Special Pages in Logseq](https://itsfoss.com/logseq-journals-contents/)
 

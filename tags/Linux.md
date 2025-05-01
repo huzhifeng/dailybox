@@ -1,3 +1,6 @@
+## 20250501
+- [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Demonstrating Measurable Performance Gains For AMD EPYC Turin](https://www.phoronix.com/review/gcc15-amd-epyc-turin)
+
 ## 20250430
 - [Phoronix](https://www.phoronix.com/) | [Intel's Vulkan Linux Driver Adds Memory Pool Support For Some Massive Performance Gains](https://www.phoronix.com/news/Intel-Vulkan-Linux-Memory-Pool)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Enters Public Beta Testing with Agama Installer, Linux 6.12 LTS](https://9to5linux.com/opensuse-leap-16-enters-public-beta-testing-with-agama-installer-linux-6-12-lts)

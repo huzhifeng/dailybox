@@ -1,3 +1,8 @@
+## 20250501
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-30](https://www.daemonology.net/hn-daily/2025-04-30.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-01](https://hacker-news.agi.li/post/2025-05-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://news.ycombinator.com/item?id=43856795)
+
 ## 20250430
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-04-29](https://www.daemonology.net/hn-daily/2025-04-29.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-04-29](https://hacker-news.agi.li/post/2025-04-29)

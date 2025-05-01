@@ -1,3 +1,6 @@
+## 20250501
+- [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
+
 ## 20250430
 - [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
 

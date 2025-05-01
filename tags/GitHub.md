@@ -1,3 +1,6 @@
+## 20250501
+- [GitHub Trending](https://github.com/trending?since=daily) | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+
 ## 20250430
 - [GitHub Trending](https://github.com/trending?since=daily) | [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
 
