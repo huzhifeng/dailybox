@@ -1,3 +1,6 @@
+## 20250502
+- [Phoronix](https://www.phoronix.com/) | [Full Disk Encryption Performance With Ubuntu 25.04 + Framework Laptop 13 Strix Point](https://www.phoronix.com/review/ubuntu-2504-encryption)
+
 ## 20250501
 - [Phoronix](https://www.phoronix.com/) | [GCC 15 Compiler Demonstrating Measurable Performance Gains For AMD EPYC Turin](https://www.phoronix.com/review/gcc15-amd-epyc-turin)
 
