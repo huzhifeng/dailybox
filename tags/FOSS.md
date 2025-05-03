@@ -1,3 +1,6 @@
+## 20250503
+- [It's FOSS](https://itsfoss.com/) | [7 Essential Logseq Plugins I Use and Recommend](https://itsfoss.com/logseq-plugins/)
+
 ## 20250501
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More](https://itsfoss.com/newsletter/foss-weekly-25-18/)
 

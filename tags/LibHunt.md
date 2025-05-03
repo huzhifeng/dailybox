@@ -1,3 +1,6 @@
+## 20250503
+- [LibHunt](https://www.libhunt.com/) | [Next-clean-boilerplate](https://www.libhunt.com/r/Next-clean-boilerplate)
+
 ## 20250502
 - [LibHunt](https://www.libhunt.com/) | [felix86](https://www.libhunt.com/r/felix86)
 

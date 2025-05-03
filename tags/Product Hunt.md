@@ -1,3 +1,6 @@
+## 20250503
+- [Product Hunt](https://www.producthunt.com) | [Midjourney Omni Reference](https://www.producthunt.com/posts/midjourney-omni-reference)
+
 ## 20250502
 - [Product Hunt](https://www.producthunt.com) | [// THE WALL //](https://www.producthunt.com/posts/the-wall-3)
 

@@ -1,3 +1,6 @@
+## 20250503
+- [Phoronix](https://www.phoronix.com/) | [Labwc 0.8.4 Ships More Usability Improvements For This Wayland Compositor](https://www.phoronix.com/news/Labwc-0.8.4-Released)
+
 ## 20250502
 - [Phoronix](https://www.phoronix.com/) | [Full Disk Encryption Performance With Ubuntu 25.04 + Framework Laptop 13 Strix Point](https://www.phoronix.com/review/ubuntu-2504-encryption)
 

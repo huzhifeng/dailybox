@@ -1,3 +1,7 @@
+## 20250503
+- [GitHub Trending](https://github.com/trending?since=daily) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [minchin85derzkuu/BlackCap-Grabber-NoDualHook](https://github.com/minchin85derzkuu/BlackCap-Grabber-NoDualHook)
+
 ## 20250502
 - [GitHub Trending](https://github.com/trending?since=daily) | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
