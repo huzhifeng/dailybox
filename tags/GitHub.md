@@ -1,3 +1,6 @@
+## 20250504
+- [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ## 20250503
 - [GitHub Trending](https://github.com/trending?since=daily) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [minchin85derzkuu/BlackCap-Grabber-NoDualHook](https://github.com/minchin85derzkuu/BlackCap-Grabber-NoDualHook)

@@ -1,3 +1,6 @@
+## 20250504
+- [Phoronix](https://www.phoronix.com/) | [Sensor Monitoring For The ASUS ROG MAXIMUS Z690 FORMULA Coming For Linux 6.16](https://www.phoronix.com/news/ASUS-ROG-Z690-FORMULA-HWMON)
+
 ## 20250503
 - [Phoronix](https://www.phoronix.com/) | [Labwc 0.8.4 Ships More Usability Improvements For This Wayland Compositor](https://www.phoronix.com/news/Labwc-0.8.4-Released)
 

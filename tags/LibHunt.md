@@ -1,3 +1,6 @@
+## 20250504
+- [LibHunt](https://www.libhunt.com/) | [glicol](https://www.libhunt.com/r/glicol)
+
 ## 20250503
 - [LibHunt](https://www.libhunt.com/) | [Next-clean-boilerplate](https://www.libhunt.com/r/Next-clean-boilerplate)
 
