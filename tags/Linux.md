@@ -1,3 +1,6 @@
+## 20250505
+- [Phoronix](https://www.phoronix.com/) | [21-Way Intel Core / AMD Ryzen Linux Laptop Comparison On Ubuntu 25.04](https://www.phoronix.com/review/ubuntu-linux-2504-laptops)
+
 ## 20250504
 - [Phoronix](https://www.phoronix.com/) | [Sensor Monitoring For The ASUS ROG MAXIMUS Z690 FORMULA Coming For Linux 6.16](https://www.phoronix.com/news/ASUS-ROG-Z690-FORMULA-HWMON)
 
