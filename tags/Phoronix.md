@@ -1,3 +1,6 @@
+## 20250506
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Soft Announces AmpereOne M With 12 Channel DDR5 Memory](https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement)
+
 ## 20250505
 - [Phoronix](https://www.phoronix.com/) | [21-Way Intel Core / AMD Ryzen Linux Laptop Comparison On Ubuntu 25.04](https://www.phoronix.com/review/ubuntu-linux-2504-laptops)
 

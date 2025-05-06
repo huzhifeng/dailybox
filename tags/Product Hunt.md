@@ -1,3 +1,6 @@
+## 20250506
+- [Product Hunt](https://www.producthunt.com) | [Agenda Hero Magic Pages](https://www.producthunt.com/posts/agenda-hero-magic-pages)
+
 ## 20250505
 - [Product Hunt](https://www.producthunt.com) | [lwlnow](https://www.producthunt.com/posts/lwlnow)
 

@@ -1,3 +1,6 @@
+## 20250506
+- [LibHunt](https://www.libhunt.com/) | [jt_tools](https://www.libhunt.com/r/jt_tools)
+
 ## 20250504
 - [LibHunt](https://www.libhunt.com/) | [glicol](https://www.libhunt.com/r/glicol)
 

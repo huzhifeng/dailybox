@@ -1,3 +1,7 @@
+## 20250506
+- [Phoronix](https://www.phoronix.com/) | [Ampere Computing Soft Announces AmpereOne M With 12 Channel DDR5 Memory](https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement)
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.1-28 Is Out Based on Ubuntu 25.04 and Linux Kernel 6.14](https://9to5linux.com/clonezilla-live-3-2-1-28-is-out-based-on-ubuntu-25-04-and-linux-kernel-6-14)
+
 ## 20250505
 - [Phoronix](https://www.phoronix.com/) | [21-Way Intel Core / AMD Ryzen Linux Laptop Comparison On Ubuntu 25.04](https://www.phoronix.com/review/ubuntu-linux-2504-laptops)
 

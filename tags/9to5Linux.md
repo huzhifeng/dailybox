@@ -1,3 +1,6 @@
+## 20250506
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.1-28 Is Out Based on Ubuntu 25.04 and Linux Kernel 6.14](https://9to5linux.com/clonezilla-live-3-2-1-28-is-out-based-on-ubuntu-25-04-and-linux-kernel-6-14)
+
 ## 20250430
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Leap 16 Enters Public Beta Testing with Agama Installer, Linux 6.12 LTS](https://9to5linux.com/opensuse-leap-16-enters-public-beta-testing-with-agama-installer-linux-6-12-lts)
 

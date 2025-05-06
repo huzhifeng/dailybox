@@ -1,3 +1,8 @@
+## 20250506
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-05](https://www.daemonology.net/hn-daily/2025-05-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-05](https://hacker-news.agi.li/post/2025-05-05)
+- [Hacker News](https://news.ycombinator.com/front) | [The curse of knowing how, or; fixing everything](https://news.ycombinator.com/item?id=43902212)
+
 ## 20250505
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-04](https://www.daemonology.net/hn-daily/2025-05-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-04](https://hacker-news.agi.li/post/2025-05-04)
