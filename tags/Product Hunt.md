@@ -1,3 +1,6 @@
+## 20250507
+- [Product Hunt](https://www.producthunt.com) | [Zapier MCP 2.0](https://www.producthunt.com/posts/zapier-mcp-2-0)
+
 ## 20250506
 - [Product Hunt](https://www.producthunt.com) | [Agenda Hero Magic Pages](https://www.producthunt.com/posts/agenda-hero-magic-pages)
 

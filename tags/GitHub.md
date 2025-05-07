@@ -1,3 +1,6 @@
+## 20250507
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
 ## 20250506
 - [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)

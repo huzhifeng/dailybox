@@ -1,3 +1,6 @@
+## 20250507
+- [V2EX](https://www.v2ex.com/) | [女友生病，求好的医院和建议](https://www.v2ex.com/t/1130190)
+
 ## 20250506
 - [V2EX](https://www.v2ex.com/) | [你们是如何保持白天上班，晚上带娃，然后还精神抖擞的](https://www.v2ex.com/t/1129865)
 

@@ -1,3 +1,6 @@
+## 20250507
+- [LibHunt](https://www.libhunt.com/) | [ruff](https://www.libhunt.com/r/ruff)
+
 ## 20250506
 - [LibHunt](https://www.libhunt.com/) | [jt_tools](https://www.libhunt.com/r/jt_tools)
 

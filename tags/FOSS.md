@@ -1,3 +1,6 @@
+## 20250507
+- [It's FOSS](https://itsfoss.com/) | [Enable or Disable Word Wrap in VS Code](https://itsfoss.com/vs-code-word-wrap/)
+
 ## 20250503
 - [It's FOSS](https://itsfoss.com/) | [7 Essential Logseq Plugins I Use and Recommend](https://itsfoss.com/logseq-plugins/)
 

@@ -1,3 +1,6 @@
+## 20250507
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi OS Updated With More Wayland Work, Likely The Last Based On Debian 12](https://www.phoronix.com/news/Raspberry-Pi-OS-May-2025)
+
 ## 20250506
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing Soft Announces AmpereOne M With 12 Channel DDR5 Memory](https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement)
 

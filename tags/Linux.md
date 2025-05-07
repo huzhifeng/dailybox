@@ -1,3 +1,7 @@
+## 20250507
+- [Phoronix](https://www.phoronix.com/) | [Raspberry Pi OS Updated With More Wayland Work, Likely The Last Based On Debian 12](https://www.phoronix.com/news/Raspberry-Pi-OS-May-2025)
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Launches Kymera Black Linux Desktop Computer for Gamers and Creators](https://9to5linux.com/slimbook-launches-kymera-black-linux-desktop-computer-for-gamers-and-creators)
+
 ## 20250506
 - [Phoronix](https://www.phoronix.com/) | [Ampere Computing Soft Announces AmpereOne M With 12 Channel DDR5 Memory](https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement)
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.1-28 Is Out Based on Ubuntu 25.04 and Linux Kernel 6.14](https://9to5linux.com/clonezilla-live-3-2-1-28-is-out-based-on-ubuntu-25-04-and-linux-kernel-6-14)

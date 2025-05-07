@@ -1,3 +1,6 @@
+## 20250507
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Launches Kymera Black Linux Desktop Computer for Gamers and Creators](https://9to5linux.com/slimbook-launches-kymera-black-linux-desktop-computer-for-gamers-and-creators)
+
 ## 20250506
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.1-28 Is Out Based on Ubuntu 25.04 and Linux Kernel 6.14](https://9to5linux.com/clonezilla-live-3-2-1-28-is-out-based-on-ubuntu-25-04-and-linux-kernel-6-14)
 
