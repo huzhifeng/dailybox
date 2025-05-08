@@ -1,3 +1,6 @@
+## 20250508
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Serval WS Linux Laptop with NVIDIA GeForce RTX 5070 Ti GPU](https://9to5linux.com/system76-refreshes-serval-ws-linux-laptop-with-nvidia-geforce-rtx-5070-ti-gpu)
+
 ## 20250507
 - [9to5Linux](https://9to5linux.com/) | [Slimbook Launches Kymera Black Linux Desktop Computer for Gamers and Creators](https://9to5linux.com/slimbook-launches-kymera-black-linux-desktop-computer-for-gamers-and-creators)
 

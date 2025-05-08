@@ -1,3 +1,6 @@
+## 20250508
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/)
+
 ## 20250507
 - [It's FOSS](https://itsfoss.com/) | [Enable or Disable Word Wrap in VS Code](https://itsfoss.com/vs-code-word-wrap/)
 

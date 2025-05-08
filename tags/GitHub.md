@@ -1,3 +1,6 @@
+## 20250508
+- [GitHub Trending](https://github.com/trending?since=daily) | [voideditor/void](https://github.com/voideditor/void)
+
 ## 20250507
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 

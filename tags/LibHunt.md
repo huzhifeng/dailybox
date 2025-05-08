@@ -1,3 +1,6 @@
+## 20250508
+- [LibHunt](https://www.libhunt.com/) | [aci](https://www.libhunt.com/r/aci)
+
 ## 20250507
 - [LibHunt](https://www.libhunt.com/) | [ruff](https://www.libhunt.com/r/ruff)
 

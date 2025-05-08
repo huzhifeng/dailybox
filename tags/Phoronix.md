@@ -1,3 +1,6 @@
+## 20250508
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Benchmarks On Ubuntu Linux vs. AMD vs. Intel](https://www.phoronix.com/review/snapdragon-x-elite-linux-benchmarks)
+
 ## 20250507
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi OS Updated With More Wayland Work, Likely The Last Based On Debian 12](https://www.phoronix.com/news/Raspberry-Pi-OS-May-2025)
 

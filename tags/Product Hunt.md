@@ -1,3 +1,6 @@
+## 20250508
+- [Product Hunt](https://www.producthunt.com) | [Telebugs](https://www.producthunt.com/posts/telebugs)
+
 ## 20250507
 - [Product Hunt](https://www.producthunt.com) | [Zapier MCP 2.0](https://www.producthunt.com/posts/zapier-mcp-2-0)
 

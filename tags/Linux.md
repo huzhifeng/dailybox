@@ -1,3 +1,7 @@
+## 20250508
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Benchmarks On Ubuntu Linux vs. AMD vs. Intel](https://www.phoronix.com/review/snapdragon-x-elite-linux-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes Serval WS Linux Laptop with NVIDIA GeForce RTX 5070 Ti GPU](https://9to5linux.com/system76-refreshes-serval-ws-linux-laptop-with-nvidia-geforce-rtx-5070-ti-gpu)
+
 ## 20250507
 - [Phoronix](https://www.phoronix.com/) | [Raspberry Pi OS Updated With More Wayland Work, Likely The Last Based On Debian 12](https://www.phoronix.com/news/Raspberry-Pi-OS-May-2025)
 - [9to5Linux](https://9to5linux.com/) | [Slimbook Launches Kymera Black Linux Desktop Computer for Gamers and Creators](https://9to5linux.com/slimbook-launches-kymera-black-linux-desktop-computer-for-gamers-and-creators)
