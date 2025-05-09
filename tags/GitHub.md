@@ -1,3 +1,6 @@
+## 20250509
+- [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
 ## 20250508
 - [GitHub Trending](https://github.com/trending?since=daily) | [voideditor/void](https://github.com/voideditor/void)
 

@@ -1,3 +1,6 @@
+## 20250509
+- [V2EX](https://www.v2ex.com/) | [离职打算 gap 两个月，父母觉得浪费时间少赚两个月的钱。](https://www.v2ex.com/t/1130723)
+
 ## 20250508
 - [V2EX](https://www.v2ex.com/) | [生孩子免税会促进你的生育吗？](https://www.v2ex.com/t/1130370)
 

@@ -1,3 +1,6 @@
+## 20250509
+- [Phoronix](https://www.phoronix.com/) | [Samsung Odyssey OLED G8 G81SF 4K UHD HDR Monitor](https://www.phoronix.com/review/samsung-g8-g81sf)
+
 ## 20250508
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Benchmarks On Ubuntu Linux vs. AMD vs. Intel](https://www.phoronix.com/review/snapdragon-x-elite-linux-benchmarks)
 
