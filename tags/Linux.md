@@ -1,3 +1,7 @@
+## 20250510
+- [Phoronix](https://www.phoronix.com/) | [Bcachefs, Btrfs, EXT4, F2FS & XFS File-System Performance On Linux 6.15](https://www.phoronix.com/review/linux-615-filesystems)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.14 Revamps New Files Dialog, Expands KRunner Unit Conversion](https://9to5linux.com/kde-frameworks-6-14-revamps-new-files-dialog-expands-krunner-unit-conversion)
+
 ## 20250509
 - [Phoronix](https://www.phoronix.com/) | [Samsung Odyssey OLED G8 G81SF 4K UHD HDR Monitor](https://www.phoronix.com/review/samsung-g8-g81sf)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.4 Open-Source Ebook Manager Improves KEPUB Output, Fixes Bugs](https://9to5linux.com/calibre-8-4-open-source-ebook-manager-improves-kepub-output-fixes-bugs)

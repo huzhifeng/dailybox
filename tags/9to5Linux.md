@@ -1,3 +1,6 @@
+## 20250510
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.14 Revamps New Files Dialog, Expands KRunner Unit Conversion](https://9to5linux.com/kde-frameworks-6-14-revamps-new-files-dialog-expands-krunner-unit-conversion)
+
 ## 20250509
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.4 Open-Source Ebook Manager Improves KEPUB Output, Fixes Bugs](https://9to5linux.com/calibre-8-4-open-source-ebook-manager-improves-kepub-output-fixes-bugs)
 

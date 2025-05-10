@@ -1,3 +1,6 @@
+## 20250510
+- [Product Hunt](https://www.producthunt.com) | [Rubber Duck Armada](https://www.producthunt.com/posts/rubber-duck-armada)
+
 ## 20250509
 - [Product Hunt](https://www.producthunt.com) | [Antispace](https://www.producthunt.com/posts/antispace-3)
 

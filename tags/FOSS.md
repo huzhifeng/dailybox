@@ -1,3 +1,6 @@
+## 20250510
+- [It's FOSS](https://itsfoss.com/) | [How I Turned My Old Hi-Fi Speakers into Bluetooth Ones with Raspberry Pi](https://itsfoss.com/raspberry-pi-diy-bluetooth-spekaers/)
+
 ## 20250508
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/)
 

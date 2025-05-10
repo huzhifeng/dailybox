@@ -1,3 +1,6 @@
+## 20250510
+- [GitHub Trending](https://github.com/trending?since=daily) | [element-plus/element-plus](https://github.com/element-plus/element-plus)
+
 ## 20250509
 - [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 
