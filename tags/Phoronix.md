@@ -1,3 +1,6 @@
+## 20250511
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics B570 & B580 Gaming Performance On Linux For Mid 2025](https://www.phoronix.com/review/intel-battlemage-linux-may2025)
+
 ## 20250510
 - [Phoronix](https://www.phoronix.com/) | [Bcachefs, Btrfs, EXT4, F2FS & XFS File-System Performance On Linux 6.15](https://www.phoronix.com/review/linux-615-filesystems)
 

@@ -1,3 +1,7 @@
+## 20250511
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics B570 & B580 Gaming Performance On Linux For Mid 2025](https://www.phoronix.com/review/intel-battlemage-linux-may2025)
+- [9to5Linux](https://9to5linux.com/) | [Flatpak 1.16.1 Linux App Sandboxing Framework Brings More Enhancements](https://9to5linux.com/flatpak-1-16-1-linux-app-sandboxing-framework-brings-more-enhancements)
+
 ## 20250510
 - [Phoronix](https://www.phoronix.com/) | [Bcachefs, Btrfs, EXT4, F2FS & XFS File-System Performance On Linux 6.15](https://www.phoronix.com/review/linux-615-filesystems)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.14 Revamps New Files Dialog, Expands KRunner Unit Conversion](https://9to5linux.com/kde-frameworks-6-14-revamps-new-files-dialog-expands-krunner-unit-conversion)

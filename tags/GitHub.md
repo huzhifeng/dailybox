@@ -1,3 +1,6 @@
+## 20250511
+- [GitHub Trending](https://github.com/trending?since=daily) | [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+
 ## 20250510
 - [GitHub Trending](https://github.com/trending?since=daily) | [element-plus/element-plus](https://github.com/element-plus/element-plus)
 
