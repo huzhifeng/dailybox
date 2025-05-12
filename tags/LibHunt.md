@@ -1,3 +1,6 @@
+## 20250512
+- [LibHunt](https://www.libhunt.com/) | [LedgerSMB](https://www.libhunt.com/r/LedgerSMB)
+
 ## 20250510
 - [LibHunt](https://www.libhunt.com/) | [RealtimeVoiceChat](https://www.libhunt.com/r/RealtimeVoiceChat)
 

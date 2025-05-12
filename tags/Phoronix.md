@@ -1,3 +1,6 @@
+## 20250512
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ PRO 395 Linux Benchmarks: Outright Incredible Performance](https://www.phoronix.com/review/amd-ryzen-ai-max-pro-395)
+
 ## 20250511
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc Graphics B570 & B580 Gaming Performance On Linux For Mid 2025](https://www.phoronix.com/review/intel-battlemage-linux-may2025)
 

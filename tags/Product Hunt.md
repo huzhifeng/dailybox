@@ -1,3 +1,6 @@
+## 20250512
+- [Product Hunt](https://www.producthunt.com) | [Granola for iOS](https://www.producthunt.com/posts/granola-for-ios)
+
 ## 20250511
 - [Product Hunt](https://www.producthunt.com) | [DeckSpeed](https://www.producthunt.com/posts/deckspeed)
 

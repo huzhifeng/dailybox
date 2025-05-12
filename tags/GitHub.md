@@ -1,3 +1,6 @@
+## 20250512
+- [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ## 20250511
 - [GitHub Trending](https://github.com/trending?since=daily) | [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 

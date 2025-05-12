@@ -1,3 +1,6 @@
+## 20250512
+- [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 194 Brings Linux Kernel 6.12.23 LTS and Other Updates](https://9to5linux.com/ipfire-2-29-core-update-194-brings-linux-kernel-6-12-23-lts-and-other-updates)
+
 ## 20250511
 - [9to5Linux](https://9to5linux.com/) | [Flatpak 1.16.1 Linux App Sandboxing Framework Brings More Enhancements](https://9to5linux.com/flatpak-1-16-1-linux-app-sandboxing-framework-brings-more-enhancements)
 
