@@ -1,3 +1,6 @@
+## 20250513
+- [V2EX](https://www.v2ex.com/) | [耗时大半年,我们做了个 AI 智能导游 app,限时送永久会员](https://www.v2ex.com/t/1131474)
+
 ## 20250509
 - [V2EX](https://www.v2ex.com/) | [离职打算 gap 两个月，父母觉得浪费时间少赚两个月的钱。](https://www.v2ex.com/t/1130723)
 

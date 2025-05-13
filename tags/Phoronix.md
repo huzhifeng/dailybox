@@ -1,3 +1,6 @@
+## 20250513
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4565P & EPYC 4585PX Benchmarks Against Xeon 6369P: EPYC 4005 Champions Entry-Level Server Performance](https://www.phoronix.com/review/amd-epyc-4585px-4565p-benchmarks)
+
 ## 20250512
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ PRO 395 Linux Benchmarks: Outright Incredible Performance](https://www.phoronix.com/review/amd-ryzen-ai-max-pro-395)
 

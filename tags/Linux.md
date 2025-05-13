@@ -1,3 +1,6 @@
+## 20250513
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4565P & EPYC 4585PX Benchmarks Against Xeon 6369P: EPYC 4005 Champions Entry-Level Server Performance](https://www.phoronix.com/review/amd-epyc-4585px-4565p-benchmarks)
+
 ## 20250512
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ PRO 395 Linux Benchmarks: Outright Incredible Performance](https://www.phoronix.com/review/amd-ryzen-ai-max-pro-395)
 - [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 194 Brings Linux Kernel 6.12.23 LTS and Other Updates](https://9to5linux.com/ipfire-2-29-core-update-194-brings-linux-kernel-6-12-23-lts-and-other-updates)

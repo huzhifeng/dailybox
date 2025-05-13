@@ -1,3 +1,6 @@
+## 20250513
+- [GitHub Trending](https://github.com/trending?since=daily) | [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS)
+
 ## 20250512
 - [GitHub Trending](https://github.com/trending?since=daily) | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
