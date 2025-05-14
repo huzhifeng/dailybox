@@ -1,3 +1,6 @@
+## 20250514
+- [It's FOSS](https://itsfoss.com/) | [Handling Indentation in VS Code](https://itsfoss.com/vs-code-indentation/)
+
 ## 20250510
 - [It's FOSS](https://itsfoss.com/) | [How I Turned My Old Hi-Fi Speakers into Bluetooth Ones with Raspberry Pi](https://itsfoss.com/raspberry-pi-diy-bluetooth-spekaers/)
 

@@ -1,3 +1,6 @@
+## 20250514
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ## 20250513
 - [GitHub Trending](https://github.com/trending?since=daily) | [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS)
 

@@ -1,3 +1,6 @@
+## 20250514
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900 Series Linux Performance Since Launch](https://www.phoronix.com/review/ryzen-9900-linux-2025)
+
 ## 20250513
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4565P & EPYC 4585PX Benchmarks Against Xeon 6369P: EPYC 4005 Champions Entry-Level Server Performance](https://www.phoronix.com/review/amd-epyc-4585px-4565p-benchmarks)
 

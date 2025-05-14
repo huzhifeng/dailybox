@@ -1,3 +1,6 @@
+## 20250514
+- [V2EX](https://www.v2ex.com/) | [有必要学双拼吗？](https://www.v2ex.com/t/1131675)
+
 ## 20250513
 - [V2EX](https://www.v2ex.com/) | [耗时大半年,我们做了个 AI 智能导游 app,限时送永久会员](https://www.v2ex.com/t/1131474)
 
