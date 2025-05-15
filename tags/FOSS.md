@@ -1,3 +1,6 @@
+## 20250515
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/)
+
 ## 20250514
 - [It's FOSS](https://itsfoss.com/) | [Handling Indentation in VS Code](https://itsfoss.com/vs-code-indentation/)
 

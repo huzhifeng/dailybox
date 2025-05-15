@@ -1,3 +1,6 @@
+## 20250515
+- [LibHunt](https://www.libhunt.com/) | [initializr](https://www.libhunt.com/r/initializr)
+
 ## 20250514
 - [LibHunt](https://www.libhunt.com/) | [Jailer](https://www.libhunt.com/r/Jailer)
 

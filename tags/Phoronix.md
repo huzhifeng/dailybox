@@ -1,3 +1,6 @@
+## 20250515
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.4 Beta Released With Aurorae & KWin-X11](https://www.phoronix.com/news/KDE-Plasma-6.4-Beta)
+
 ## 20250514
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900 Series Linux Performance Since Launch](https://www.phoronix.com/review/ryzen-9900-linux-2025)
 

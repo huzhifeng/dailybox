@@ -1,3 +1,6 @@
+## 20250515
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Now Supports Labwc, Niri, and River Wayland Compositors](https://9to5linux.com/arch-linux-installer-now-supports-labwc-niri-and-river-wayland-compositors)
+
 ## 20250512
 - [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 194 Brings Linux Kernel 6.12.23 LTS and Other Updates](https://9to5linux.com/ipfire-2-29-core-update-194-brings-linux-kernel-6-12-23-lts-and-other-updates)
 

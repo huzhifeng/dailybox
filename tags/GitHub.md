@@ -1,3 +1,6 @@
+## 20250515
+- [GitHub Trending](https://github.com/trending?since=daily) | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
 ## 20250514
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 

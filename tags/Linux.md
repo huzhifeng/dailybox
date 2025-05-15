@@ -1,3 +1,7 @@
+## 20250515
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.4 Beta Released With Aurorae & KWin-X11](https://www.phoronix.com/news/KDE-Plasma-6.4-Beta)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Now Supports Labwc, Niri, and River Wayland Compositors](https://9to5linux.com/arch-linux-installer-now-supports-labwc-niri-and-river-wayland-compositors)
+
 ## 20250514
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9900 Series Linux Performance Since Launch](https://www.phoronix.com/review/ryzen-9900-linux-2025)
 
