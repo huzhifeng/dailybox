@@ -1,3 +1,6 @@
+## 20250516
+- [GitHub Trending](https://github.com/trending?since=daily) | [xming521/WeClone](https://github.com/xming521/WeClone)
+
 ## 20250515
 - [GitHub Trending](https://github.com/trending?since=daily) | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 

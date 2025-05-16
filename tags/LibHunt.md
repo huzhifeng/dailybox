@@ -1,3 +1,6 @@
+## 20250516
+- [LibHunt](https://www.libhunt.com/) | [sql](https://www.libhunt.com/r/sql)
+
 ## 20250515
 - [LibHunt](https://www.libhunt.com/) | [initializr](https://www.libhunt.com/r/initializr)
 

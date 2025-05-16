@@ -1,3 +1,6 @@
+## 20250516
+- [It's FOSS](https://itsfoss.com/) | [Play With Words in Linux Terminal With This Bookmark Inspired Game](https://itsfoss.com/sausage/)
+
 ## 20250515
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/)
 

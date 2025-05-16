@@ -1,3 +1,6 @@
+## 20250516
+- [Phoronix](https://www.phoronix.com/) | [Direct I/O For DMA-BUF Can Yield A Big Performance Win](https://www.phoronix.com/news/Direct-IO-DMA-BUF)
+
 ## 20250515
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.4 Beta Released With Aurorae & KWin-X11](https://www.phoronix.com/news/KDE-Plasma-6.4-Beta)
 
