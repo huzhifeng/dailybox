@@ -1,3 +1,6 @@
+## 20250517
+- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
 ## 20250516
 - [GitHub Trending](https://github.com/trending?since=daily) | [xming521/WeClone](https://github.com/xming521/WeClone)
 

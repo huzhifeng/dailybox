@@ -1,3 +1,6 @@
+## 20250517
+- [Phoronix](https://www.phoronix.com/) | [Niri 25.05 Brings New Features To This Innovative Wayland Compositor](https://www.phoronix.com/news/Niri-25.05-Released)
+
 ## 20250516
 - [Phoronix](https://www.phoronix.com/) | [Direct I/O For DMA-BUF Can Yield A Big Performance Win](https://www.phoronix.com/news/Direct-IO-DMA-BUF)
 

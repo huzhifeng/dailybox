@@ -1,3 +1,6 @@
+## 20250517
+- [LibHunt](https://www.libhunt.com/) | [mug](https://www.libhunt.com/r/mug)
+
 ## 20250516
 - [LibHunt](https://www.libhunt.com/) | [sql](https://www.libhunt.com/r/sql)
 
