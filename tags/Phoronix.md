@@ -1,3 +1,6 @@
+## 20250518
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 To Support The Realtek RTL8127A 10GbE Ethernet Controller](https://www.phoronix.com/news/Linux-6.16-Realtek-RTL8127A)
+
 ## 20250517
 - [Phoronix](https://www.phoronix.com/) | [Niri 25.05 Brings New Features To This Innovative Wayland Compositor](https://www.phoronix.com/news/Niri-25.05-Released)
 

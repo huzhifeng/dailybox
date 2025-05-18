@@ -1,3 +1,6 @@
+## 20250518
+- [GitHub Trending](https://github.com/trending?since=daily) | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 ## 20250517
 - [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 

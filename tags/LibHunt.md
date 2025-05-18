@@ -1,3 +1,6 @@
+## 20250518
+- [LibHunt](https://www.libhunt.com/) | [Qwen3](https://www.libhunt.com/r/Qwen3)
+
 ## 20250517
 - [LibHunt](https://www.libhunt.com/) | [mug](https://www.libhunt.com/r/mug)
 

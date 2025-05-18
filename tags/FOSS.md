@@ -1,3 +1,6 @@
+## 20250518
+- [It's FOSS](https://itsfoss.com/) | [Automatically Format Code On File Save in Visual Studio Code](https://itsfoss.com/vs-code-auto-format-code/)
+
 ## 20250516
 - [It's FOSS](https://itsfoss.com/) | [Play With Words in Linux Terminal With This Bookmark Inspired Game](https://itsfoss.com/sausage/)
 

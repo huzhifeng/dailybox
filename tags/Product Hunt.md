@@ -1,3 +1,6 @@
+## 20250518
+- [Product Hunt](https://www.producthunt.com) | [FunBlocks AI Brainstorming](https://www.producthunt.com/posts/funblocks-ai-brainstorming)
+
 ## 20250517
 - [Product Hunt](https://www.producthunt.com) | [Windsurf Wave 9 ](https://www.producthunt.com/posts/windsurf-wave-9)
 
