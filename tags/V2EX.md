@@ -1,3 +1,6 @@
+## 20250519
+- [V2EX](https://www.v2ex.com/) | [买了大概率会吃灰的商品](https://www.v2ex.com/t/1132801)
+
 ## 20250518
 - [V2EX](https://www.v2ex.com/) | [各位，有高精度调节的混水阀吗？洗澡水调左一点冷，调右一点热，受不了了！](https://www.v2ex.com/t/1132566)
 

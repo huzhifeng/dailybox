@@ -1,3 +1,6 @@
+## 20250519
+- [Product Hunt](https://www.producthunt.com) | [Ollama v0.7](https://www.producthunt.com/posts/ollama-v0-7)
+
 ## 20250518
 - [Product Hunt](https://www.producthunt.com) | [FunBlocks AI Brainstorming](https://www.producthunt.com/posts/funblocks-ai-brainstorming)
 

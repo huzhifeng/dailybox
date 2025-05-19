@@ -1,3 +1,6 @@
+## 20250519
+- [Phoronix](https://www.phoronix.com/) | [Intel Gaudi 3 PCIe Accelerator Cards Now Available - Still Waiting On Upstream Linux Driver](https://www.phoronix.com/news/Intel-Gaudi-3-PCIe-Cards)
+
 ## 20250518
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 To Support The Realtek RTL8127A 10GbE Ethernet Controller](https://www.phoronix.com/news/Linux-6.16-Realtek-RTL8127A)
 

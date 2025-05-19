@@ -1,3 +1,6 @@
+## 20250519
+- [LibHunt](https://www.libhunt.com/) | [Cloud-Computing](https://www.libhunt.com/r/Cloud-Computing)
+
 ## 20250518
 - [LibHunt](https://www.libhunt.com/) | [Qwen3](https://www.libhunt.com/r/Qwen3)
 
