@@ -1,3 +1,6 @@
+## 20250520
+- [Product Hunt](https://www.producthunt.com) | [Entelligence.ai](https://www.producthunt.com/posts/entelligence-ai)
+
 ## 20250519
 - [Product Hunt](https://www.producthunt.com) | [Ollama v0.7](https://www.producthunt.com/posts/ollama-v0-7)
 

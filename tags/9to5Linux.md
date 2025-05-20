@@ -1,3 +1,6 @@
+## 20250520
+- [9to5Linux](https://9to5linux.com/) | [Red Hat Enterprise Linux 10 Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/red-hat-enterprise-linux-10-officially-released-heres-whats-new)
+
 ## 20250515
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Now Supports Labwc, Niri, and River Wayland Compositors](https://9to5linux.com/arch-linux-installer-now-supports-labwc-niri-and-river-wayland-compositors)
 

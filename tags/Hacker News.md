@@ -1,3 +1,8 @@
+## 20250520
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-19](https://www.daemonology.net/hn-daily/2025-05-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-19](https://hacker-news.agi.li/post/2025-05-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Finland announces migration of its rail network to international gauge](https://news.ycombinator.com/item?id=44038835)
+
 ## 20250519
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-18](https://www.daemonology.net/hn-daily/2025-05-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-18](https://hacker-news.agi.li/post/2025-05-18)

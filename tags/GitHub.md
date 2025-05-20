@@ -1,3 +1,6 @@
+## 20250520
+- [GitHub Trending](https://github.com/trending?since=daily) | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
 ## 20250519
 - [GitHub Trending](https://github.com/trending?since=daily) | [neondatabase/neon](https://github.com/neondatabase/neon)
 

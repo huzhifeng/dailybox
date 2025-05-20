@@ -1,3 +1,6 @@
+## 20250520
+- [Phoronix](https://www.phoronix.com/) | [Red Hat Announces The llm-d Open-Source Project For Gen AI](https://www.phoronix.com/news/Red-Hat-llm-d-AI-LLM-Project)
+
 ## 20250519
 - [Phoronix](https://www.phoronix.com/) | [Intel Gaudi 3 PCIe Accelerator Cards Now Available - Still Waiting On Upstream Linux Driver](https://www.phoronix.com/news/Intel-Gaudi-3-PCIe-Cards)
 

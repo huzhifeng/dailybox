@@ -1,3 +1,6 @@
+## 20250520
+- [It's FOSS](https://itsfoss.com/) | [Those Blinking LEDs on Your Raspberry Pi Have Special Meanings](https://itsfoss.com/raspberry-pi-status-led/)
+
 ## 20250518
 - [It's FOSS](https://itsfoss.com/) | [Automatically Format Code On File Save in Visual Studio Code](https://itsfoss.com/vs-code-auto-format-code/)
 

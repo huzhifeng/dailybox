@@ -1,3 +1,6 @@
+## 20250520
+- [V2EX](https://www.v2ex.com/) | [新晋宝爸，请各位 v 友赐名，采纳红包感谢](https://www.v2ex.com/t/1132986)
+
 ## 20250519
 - [V2EX](https://www.v2ex.com/) | [买了大概率会吃灰的商品](https://www.v2ex.com/t/1132801)
 
