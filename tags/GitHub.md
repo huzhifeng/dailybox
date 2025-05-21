@@ -1,3 +1,6 @@
+## 20250521
+- [GitHub Trending](https://github.com/trending?since=daily) | [usememos/memos](https://github.com/usememos/memos)
+
 ## 20250520
 - [GitHub Trending](https://github.com/trending?since=daily) | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 

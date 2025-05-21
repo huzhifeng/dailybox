@@ -1,3 +1,6 @@
+## 20250521
+- [Product Hunt](https://www.producthunt.com) | [Algebras AI](https://www.producthunt.com/posts/algebras-ai)
+
 ## 20250520
 - [Product Hunt](https://www.producthunt.com) | [Entelligence.ai](https://www.producthunt.com/posts/entelligence-ai)
 

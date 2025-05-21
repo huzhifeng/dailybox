@@ -1,3 +1,6 @@
+## 20250521
+- [Phoronix](https://www.phoronix.com/) | [AMD To Focus On Better ROCm Linux Experience In H2-2025, Day-One Client Support](https://www.phoronix.com/news/AMD-ROCm-H2-2025)
+
 ## 20250520
 - [Phoronix](https://www.phoronix.com/) | [Red Hat Announces The llm-d Open-Source Project For Gen AI](https://www.phoronix.com/news/Red-Hat-llm-d-AI-LLM-Project)
 

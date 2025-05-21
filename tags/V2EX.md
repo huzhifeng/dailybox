@@ -1,3 +1,6 @@
+## 20250521
+- [V2EX](https://www.v2ex.com/) | [兄弟们薅羊毛了，新的企业信息查询平台，注册送 5 年 SVIP。](https://www.v2ex.com/t/1133226)
+
 ## 20250520
 - [V2EX](https://www.v2ex.com/) | [新晋宝爸，请各位 v 友赐名，采纳红包感谢](https://www.v2ex.com/t/1132986)
 

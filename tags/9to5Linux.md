@@ -1,3 +1,6 @@
+## 20250521
+- [9to5Linux](https://9to5linux.com/) | [AlmaLinux OS 9.6 Is Out as a Free Alternative to Red Hat Enterprise Linux 9.6](https://9to5linux.com/almalinux-os-9-6-is-out-as-a-free-alternative-to-red-hat-enterprise-linux-9-6)
+
 ## 20250520
 - [9to5Linux](https://9to5linux.com/) | [Red Hat Enterprise Linux 10 Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/red-hat-enterprise-linux-10-officially-released-heres-whats-new)
 

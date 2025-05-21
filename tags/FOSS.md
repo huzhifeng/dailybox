@@ -1,3 +1,6 @@
+## 20250521
+- [It's FOSS](https://itsfoss.com/) | [Use Multi-Cursor in VS Code to Edit Multiple Lines Simultaneously](https://itsfoss.com/vs-code-multi-cursor/)
+
 ## 20250520
 - [It's FOSS](https://itsfoss.com/) | [Those Blinking LEDs on Your Raspberry Pi Have Special Meanings](https://itsfoss.com/raspberry-pi-status-led/)
 
