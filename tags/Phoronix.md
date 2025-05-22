@@ -1,3 +1,6 @@
+## 20250522
+- [Phoronix](https://www.phoronix.com/) | [Canonical Planning For Linux 6.17 To Power Ubuntu 25.10](https://www.phoronix.com/news/Ubuntu-25.10-With-Linux-6.17)
+
 ## 20250521
 - [Phoronix](https://www.phoronix.com/) | [AMD To Focus On Better ROCm Linux Experience In H2-2025, Day-One Client Support](https://www.phoronix.com/news/AMD-ROCm-H2-2025)
 

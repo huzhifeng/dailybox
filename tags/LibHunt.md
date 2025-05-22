@@ -1,3 +1,6 @@
+## 20250522
+- [LibHunt](https://www.libhunt.com/) | [deepshot](https://www.libhunt.com/r/deepshot)
+
 ## 20250520
 - [LibHunt](https://www.libhunt.com/) | [llms-txt](https://www.libhunt.com/r/llms-txt)
 

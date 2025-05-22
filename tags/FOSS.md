@@ -1,3 +1,6 @@
+## 20250522
+- [It's FOSS](https://itsfoss.com/) | [What are MCP Servers and Why People are Crazy About It?](https://itsfoss.com/mcp-servers/)
+
 ## 20250521
 - [It's FOSS](https://itsfoss.com/) | [Use Multi-Cursor in VS Code to Edit Multiple Lines Simultaneously](https://itsfoss.com/vs-code-multi-cursor/)
 
