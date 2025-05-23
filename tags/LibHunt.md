@@ -1,3 +1,6 @@
+## 20250523
+- [LibHunt](https://www.libhunt.com/) | [Svelte](https://www.libhunt.com/r/svelte)
+
 ## 20250522
 - [LibHunt](https://www.libhunt.com/) | [deepshot](https://www.libhunt.com/r/deepshot)
 

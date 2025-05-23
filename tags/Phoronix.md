@@ -1,3 +1,6 @@
+## 20250523
+- [Phoronix](https://www.phoronix.com/) | [Benchmarks: OpenCL Kernel Latency ~76x Lower For Intel Lunar Lake With Updated Compute Runtime](https://www.phoronix.com/review/intel-lunar-lake-compute-ulls)
+
 ## 20250522
 - [Phoronix](https://www.phoronix.com/) | [Canonical Planning For Linux 6.17 To Power Ubuntu 25.10](https://www.phoronix.com/news/Ubuntu-25.10-With-Linux-6.17)
 

@@ -1,3 +1,8 @@
+## 20250523
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-22](https://www.daemonology.net/hn-daily/2025-05-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-22](https://hacker-news.agi.li/post/2025-05-22)
+- [Hacker News](https://news.ycombinator.com/front) | [John Carmack talk at Upper Bound 2025](https://news.ycombinator.com/item?id=44070042)
+
 ## 20250522
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-05-21](https://www.daemonology.net/hn-daily/2025-05-21.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-05-21](https://hacker-news.agi.li/post/2025-05-21)
