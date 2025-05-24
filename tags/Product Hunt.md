@@ -1,3 +1,6 @@
+## 20250524
+- [Product Hunt](https://www.producthunt.com) | [Psyche](https://www.producthunt.com/posts/psyche)
+
 ## 20250523
 - [Product Hunt](https://www.producthunt.com) | [Framer Workshop](https://www.producthunt.com/posts/framer-workshop)
 

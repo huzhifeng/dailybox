@@ -1,3 +1,6 @@
+## 20250524
+- [Phoronix](https://www.phoronix.com/) | [GNOME Web Making It Easier To Toggle WebKit Features](https://www.phoronix.com/news/GNOME-Web-Toggle-Features)
+
 ## 20250523
 - [Phoronix](https://www.phoronix.com/) | [Benchmarks: OpenCL Kernel Latency ~76x Lower For Intel Lunar Lake With Updated Compute Runtime](https://www.phoronix.com/review/intel-lunar-lake-compute-ulls)
 

@@ -1,3 +1,6 @@
+## 20250524
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/qlib](https://github.com/microsoft/qlib)
+
 ## 20250523
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/WSL](https://github.com/microsoft/WSL)
 
