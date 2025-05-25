@@ -1,3 +1,6 @@
+## 20250525
+- [V2EX](https://www.v2ex.com/) | [28 岁 突发性耳聋，给脑力劳动的各位朋友们提个醒](https://www.v2ex.com/t/1134171)
+
 ## 20250524
 - [V2EX](https://www.v2ex.com/) | [PDF 编辑技术很难吗？](https://www.v2ex.com/t/1134009)
 

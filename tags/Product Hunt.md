@@ -1,3 +1,6 @@
+## 20250525
+- [Product Hunt](https://www.producthunt.com) | [AltPage.ai](https://www.producthunt.com/posts/altpage-ai)
+
 ## 20250524
 - [Product Hunt](https://www.producthunt.com) | [Psyche](https://www.producthunt.com/posts/psyche)
 
