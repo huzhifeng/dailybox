@@ -1,3 +1,6 @@
+## 20250526
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
 ## 20250525
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [saxpjexck/lsix](https://github.com/saxpjexck/lsix)

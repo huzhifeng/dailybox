@@ -1,3 +1,6 @@
+## 20250526
+- [9to5Linux](https://9to5linux.com/) | [Firefox 139 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-139-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250522
 - [9to5Linux](https://9to5linux.com/) | [PipeWire 1.4.3 Brings netJACK2 Changes, Improves ALSA audio.channels Support](https://9to5linux.com/pipewire-1-4-3-brings-netjack2-changes-improves-alsa-audio-channels-support)
 

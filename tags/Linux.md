@@ -1,3 +1,7 @@
+## 20250526
+- [Phoronix](https://www.phoronix.com/) | [New Linux Patches Properly Handle The Audio Jack On Sony's PS5 DualSense Controller](https://www.phoronix.com/news/Sony-PS5-DualSense-Audio-Jack)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 139 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-139-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250525
 - [Phoronix](https://www.phoronix.com/) | [Btrfs To See More Performance Improvements With Linux 6.16](https://www.phoronix.com/news/Linux-6.16-Btrfs-Performance)
 

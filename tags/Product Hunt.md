@@ -1,3 +1,6 @@
+## 20250526
+- [Product Hunt](https://www.producthunt.com) | [Clara ](https://www.producthunt.com/posts/clara-b245e2d7-b830-453c-b4ac-11c389ca1da1)
+
 ## 20250525
 - [Product Hunt](https://www.producthunt.com) | [AltPage.ai](https://www.producthunt.com/posts/altpage-ai)
 

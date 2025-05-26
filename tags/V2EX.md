@@ -1,3 +1,6 @@
+## 20250526
+- [V2EX](https://www.v2ex.com/) | [XDM，被裁员了~ 今天最后一天](https://www.v2ex.com/t/1134336)
+
 ## 20250525
 - [V2EX](https://www.v2ex.com/) | [28 岁 突发性耳聋，给脑力劳动的各位朋友们提个醒](https://www.v2ex.com/t/1134171)
 

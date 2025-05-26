@@ -1,3 +1,6 @@
+## 20250526
+- [It's FOSS](https://itsfoss.com/) | [Guide to Using Plugins in Obsidian](https://itsfoss.com/obsidian-use-plugin/)
+
 ## 20250522
 - [It's FOSS](https://itsfoss.com/) | [What are MCP Servers and Why People are Crazy About It?](https://itsfoss.com/mcp-servers/)
 
