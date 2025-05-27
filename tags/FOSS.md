@@ -1,3 +1,6 @@
+## 20250527
+- [It's FOSS](https://itsfoss.com/) | [Better Than Man pages? These Tools Help You Understand Linux Commands](https://itsfoss.com/man-pages-like-tools/)
+
 ## 20250526
 - [It's FOSS](https://itsfoss.com/) | [Guide to Using Plugins in Obsidian](https://itsfoss.com/obsidian-use-plugin/)
 

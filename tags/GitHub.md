@@ -1,3 +1,6 @@
+## 20250527
+- [GitHub Trending](https://github.com/trending?since=daily) | [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+
 ## 20250526
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 

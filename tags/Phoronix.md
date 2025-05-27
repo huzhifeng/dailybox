@@ -1,3 +1,6 @@
+## 20250527
+- [Phoronix](https://www.phoronix.com/) | [ROCm GPU Compute Performance With AMD Ryzen AI MAX+ "Strix Halo"](https://www.phoronix.com/review/amd-strix-halo-rocm-benchmarks)
+
 ## 20250526
 - [Phoronix](https://www.phoronix.com/) | [New Linux Patches Properly Handle The Audio Jack On Sony's PS5 DualSense Controller](https://www.phoronix.com/news/Sony-PS5-DualSense-Audio-Jack)
 

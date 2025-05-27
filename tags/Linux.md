@@ -1,3 +1,7 @@
+## 20250527
+- [Phoronix](https://www.phoronix.com/) | [ROCm GPU Compute Performance With AMD Ryzen AI MAX+ "Strix Halo"](https://www.phoronix.com/review/amd-strix-halo-rocm-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 140 Enters Beta Testing as the Next ESR (Extended Support Release) Series](https://9to5linux.com/firefox-140-enters-beta-testing-as-the-next-esr-extended-support-release-series)
+
 ## 20250526
 - [Phoronix](https://www.phoronix.com/) | [New Linux Patches Properly Handle The Audio Jack On Sony's PS5 DualSense Controller](https://www.phoronix.com/news/Sony-PS5-DualSense-Audio-Jack)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 139 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-139-web-browser-is-now-available-for-download-heres-whats-new)

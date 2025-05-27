@@ -1,3 +1,6 @@
+## 20250527
+- [9to5Linux](https://9to5linux.com/) | [Firefox 140 Enters Beta Testing as the Next ESR (Extended Support Release) Series](https://9to5linux.com/firefox-140-enters-beta-testing-as-the-next-esr-extended-support-release-series)
+
 ## 20250526
 - [9to5Linux](https://9to5linux.com/) | [Firefox 139 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-139-web-browser-is-now-available-for-download-heres-whats-new)
 

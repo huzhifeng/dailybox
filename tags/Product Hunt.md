@@ -1,3 +1,6 @@
+## 20250527
+- [Product Hunt](https://www.producthunt.com) | [SchedX](https://www.producthunt.com/posts/schedx)
+
 ## 20250526
 - [Product Hunt](https://www.producthunt.com) | [Clara ](https://www.producthunt.com/posts/clara-b245e2d7-b830-453c-b4ac-11c389ca1da1)
 

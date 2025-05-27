@@ -1,3 +1,6 @@
+## 20250527
+- [V2EX](https://www.v2ex.com/) | [海鲜市场 7 折卖 jd 饭票](https://www.v2ex.com/t/1134627)
+
 ## 20250526
 - [V2EX](https://www.v2ex.com/) | [XDM，被裁员了~ 今天最后一天](https://www.v2ex.com/t/1134336)
 
