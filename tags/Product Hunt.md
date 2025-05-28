@@ -1,3 +1,6 @@
+## 20250528
+- [Product Hunt](https://www.producthunt.com) | [CodeRabbit VSCode Extension](https://www.producthunt.com/posts/coderabbit-vscode-extension)
+
 ## 20250527
 - [Product Hunt](https://www.producthunt.com) | [SchedX](https://www.producthunt.com/posts/schedx)
 

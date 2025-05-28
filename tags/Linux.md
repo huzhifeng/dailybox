@@ -1,3 +1,7 @@
+## 20250528
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Be Able To Exit User Mode Faster: 2~11% Improvement](https://www.phoronix.com/news/Linux-616-Faster-Exit-User-Mode)
+- [9to5Linux](https://9to5linux.com/) | [Archinstall 3.0.7 Arch Linux Menu-Based Installer Adds Support for Btrfs Snapshots](https://9to5linux.com/archinstall-3-0-7-arch-linux-menu-based-installer-adds-support-for-btrfs-snapshots)
+
 ## 20250527
 - [Phoronix](https://www.phoronix.com/) | [ROCm GPU Compute Performance With AMD Ryzen AI MAX+ "Strix Halo"](https://www.phoronix.com/review/amd-strix-halo-rocm-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 140 Enters Beta Testing as the Next ESR (Extended Support Release) Series](https://9to5linux.com/firefox-140-enters-beta-testing-as-the-next-esr-extended-support-release-series)

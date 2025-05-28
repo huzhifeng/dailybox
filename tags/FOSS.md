@@ -1,3 +1,6 @@
+## 20250528
+- [It's FOSS](https://itsfoss.com/) | [Installing VS Code on Arch Linux Takes Some Thinking](https://itsfoss.com/install-vs-code-arch-linux/)
+
 ## 20250527
 - [It's FOSS](https://itsfoss.com/) | [Better Than Man pages? These Tools Help You Understand Linux Commands](https://itsfoss.com/man-pages-like-tools/)
 

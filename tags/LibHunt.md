@@ -1,3 +1,6 @@
+## 20250528
+- [LibHunt](https://www.libhunt.com/) | [QTradeX-Algo-Trading-SDK](https://www.libhunt.com/r/QTradeX-Algo-Trading-SDK)
+
 ## 20250523
 - [LibHunt](https://www.libhunt.com/) | [Svelte](https://www.libhunt.com/r/svelte)
 

@@ -1,3 +1,6 @@
+## 20250528
+- [9to5Linux](https://9to5linux.com/) | [Archinstall 3.0.7 Arch Linux Menu-Based Installer Adds Support for Btrfs Snapshots](https://9to5linux.com/archinstall-3-0-7-arch-linux-menu-based-installer-adds-support-for-btrfs-snapshots)
+
 ## 20250527
 - [9to5Linux](https://9to5linux.com/) | [Firefox 140 Enters Beta Testing as the Next ESR (Extended Support Release) Series](https://9to5linux.com/firefox-140-enters-beta-testing-as-the-next-esr-extended-support-release-series)
 

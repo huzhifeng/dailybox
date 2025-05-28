@@ -1,3 +1,6 @@
+## 20250528
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Be Able To Exit User Mode Faster: 2~11% Improvement](https://www.phoronix.com/news/Linux-616-Faster-Exit-User-Mode)
+
 ## 20250527
 - [Phoronix](https://www.phoronix.com/) | [ROCm GPU Compute Performance With AMD Ryzen AI MAX+ "Strix Halo"](https://www.phoronix.com/review/amd-strix-halo-rocm-benchmarks)
 
