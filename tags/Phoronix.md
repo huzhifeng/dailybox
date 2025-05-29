@@ -1,3 +1,6 @@
+## 20250529
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4585PX & EPYC 4565P With DDR5-4800 vs. DDR5-5600 Performance](https://www.phoronix.com/review/amd-epyc-4005-ddr5-benchmarks)
+
 ## 20250528
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Be Able To Exit User Mode Faster: 2~11% Improvement](https://www.phoronix.com/news/Linux-616-Faster-Exit-User-Mode)
 

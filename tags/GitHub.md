@@ -1,3 +1,6 @@
+## 20250529
+- [GitHub Trending](https://github.com/trending?since=daily) | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
 ## 20250528
 - [GitHub Trending](https://github.com/trending?since=daily) | [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [linux-do/cdk](https://github.com/linux-do/cdk)

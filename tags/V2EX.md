@@ -1,3 +1,6 @@
+## 20250529
+- [V2EX](https://www.v2ex.com/) | [[抽奖] 送 12 份自家茶叶 - 推广下自家茶园与两款口粮茶](https://www.v2ex.com/t/1135227)
+
 ## 20250527
 - [V2EX](https://www.v2ex.com/) | [海鲜市场 7 折卖 jd 饭票](https://www.v2ex.com/t/1134627)
 
