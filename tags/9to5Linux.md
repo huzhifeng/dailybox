@@ -1,3 +1,6 @@
+## 20250530
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.2 Improves the D3D12 Video Decoder for NVIDIA GPUs, WAV Playback](https://9to5linux.com/gstreamer-1-26-2-improves-the-d3d12-video-decoder-for-nvidia-gpus-wav-playback)
+
 ## 20250528
 - [9to5Linux](https://9to5linux.com/) | [Archinstall 3.0.7 Arch Linux Menu-Based Installer Adds Support for Btrfs Snapshots](https://9to5linux.com/archinstall-3-0-7-arch-linux-menu-based-installer-adds-support-for-btrfs-snapshots)
 

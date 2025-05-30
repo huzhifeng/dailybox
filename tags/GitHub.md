@@ -1,3 +1,6 @@
+## 20250530
+- [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
 ## 20250529
 - [GitHub Trending](https://github.com/trending?since=daily) | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 

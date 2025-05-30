@@ -1,3 +1,6 @@
+## 20250530
+- [LibHunt](https://www.libhunt.com/) | [openbao](https://www.libhunt.com/r/openbao)
+
 ## 20250529
 - [LibHunt](https://www.libhunt.com/) | [CSS-Minecraft](https://www.libhunt.com/r/CSS-Minecraft)
 

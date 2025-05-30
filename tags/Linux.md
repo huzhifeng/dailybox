@@ -1,3 +1,7 @@
+## 20250530
+- [Phoronix](https://www.phoronix.com/) | [WD_BLACK SN8100 2TB PCIe Gen 5.0 NVMe SSD Linux Benchmarks](https://www.phoronix.com/review/wd-black-sn8100-linux)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.2 Improves the D3D12 Video Decoder for NVIDIA GPUs, WAV Playback](https://9to5linux.com/gstreamer-1-26-2-improves-the-d3d12-video-decoder-for-nvidia-gpus-wav-playback)
+
 ## 20250529
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4585PX & EPYC 4565P With DDR5-4800 vs. DDR5-5600 Performance](https://www.phoronix.com/review/amd-epyc-4005-ddr5-benchmarks)
 
