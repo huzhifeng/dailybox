@@ -1,3 +1,6 @@
+## 20250531
+- [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
+
 ## 20250530
 - [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 

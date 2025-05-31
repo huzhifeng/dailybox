@@ -1,3 +1,6 @@
+## 20250531
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Enabling Support For 11 More SoCs, Sophgo SG2044 & More Snapdragon X Laptops](https://www.phoronix.com/news/Linux-6.16-SoCs)
+
 ## 20250530
 - [Phoronix](https://www.phoronix.com/) | [WD_BLACK SN8100 2TB PCIe Gen 5.0 NVMe SSD Linux Benchmarks](https://www.phoronix.com/review/wd-black-sn8100-linux)
 

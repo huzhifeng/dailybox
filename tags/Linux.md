@@ -1,3 +1,7 @@
+## 20250531
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Enabling Support For 11 More SoCs, Sophgo SG2044 & More Snapdragon X Laptops](https://www.phoronix.com/news/Linux-6.16-SoCs)
+- [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for May 2025 Improves Support for Older NVIDIA GPUs](https://9to5linux.com/cachyos-iso-snapshot-for-may-2025-improves-support-for-older-nvidia-gpus)
+
 ## 20250530
 - [Phoronix](https://www.phoronix.com/) | [WD_BLACK SN8100 2TB PCIe Gen 5.0 NVMe SSD Linux Benchmarks](https://www.phoronix.com/review/wd-black-sn8100-linux)
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.2 Improves the D3D12 Video Decoder for NVIDIA GPUs, WAV Playback](https://9to5linux.com/gstreamer-1-26-2-improves-the-d3d12-video-decoder-for-nvidia-gpus-wav-playback)

@@ -1,3 +1,6 @@
+## 20250531
+- [It's FOSS](https://itsfoss.com/) | [How I Run JavaScript in VS Code](https://itsfoss.com/vs-code-run-javascript/)
+
 ## 20250529
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.22: Microsoft's Vim Alternative, Kernel 6.15, UBXI Desktop, End of Ubuntu 20.04 and More](https://itsfoss.com/newsletter/foss-weekly-25-22/)
 
