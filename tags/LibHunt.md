@@ -1,3 +1,6 @@
+## 20250601
+- [LibHunt](https://www.libhunt.com/) | [bolt.new](https://www.libhunt.com/r/bolt.new)
+
 ## 20250530
 - [LibHunt](https://www.libhunt.com/) | [openbao](https://www.libhunt.com/r/openbao)
 

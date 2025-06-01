@@ -1,3 +1,6 @@
+## 20250601
+- [GitHub Trending](https://github.com/trending?since=daily) | [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
+
 ## 20250531
 - [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
 

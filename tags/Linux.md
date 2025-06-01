@@ -1,3 +1,7 @@
+## 20250601
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Shipped With A Nasty Power Regression For Some Systems](https://www.phoronix.com/news/Linux-6.15-nosmt-Power-Regress)
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15](https://9to5linux.com/slackware-based-porteux-2-1-is-one-of-the-first-distros-to-ship-with-linux-6-15)
+
 ## 20250531
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Enabling Support For 11 More SoCs, Sophgo SG2044 & More Snapdragon X Laptops](https://www.phoronix.com/news/Linux-6.16-SoCs)
 - [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for May 2025 Improves Support for Older NVIDIA GPUs](https://9to5linux.com/cachyos-iso-snapshot-for-may-2025-improves-support-for-older-nvidia-gpus)

@@ -1,3 +1,6 @@
+## 20250601
+- [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15](https://9to5linux.com/slackware-based-porteux-2-1-is-one-of-the-first-distros-to-ship-with-linux-6-15)
+
 ## 20250531
 - [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for May 2025 Improves Support for Older NVIDIA GPUs](https://9to5linux.com/cachyos-iso-snapshot-for-may-2025-improves-support-for-older-nvidia-gpus)
 

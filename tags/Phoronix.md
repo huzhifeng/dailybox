@@ -1,3 +1,6 @@
+## 20250601
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Shipped With A Nasty Power Regression For Some Systems](https://www.phoronix.com/news/Linux-6.15-nosmt-Power-Regress)
+
 ## 20250531
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Enabling Support For 11 More SoCs, Sophgo SG2044 & More Snapdragon X Laptops](https://www.phoronix.com/news/Linux-6.16-SoCs)
 
