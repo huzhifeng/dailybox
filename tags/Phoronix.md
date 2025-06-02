@@ -1,3 +1,6 @@
+## 20250602
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Now Conveniently Report Hard/Soft Lockups & RCU Stall Counts](https://www.phoronix.com/news/Linux-6.16-Hard-Soft-Lockups)
+
 ## 20250601
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Shipped With A Nasty Power Regression For Some Systems](https://www.phoronix.com/news/Linux-6.15-nosmt-Power-Regress)
 

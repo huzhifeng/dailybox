@@ -1,3 +1,6 @@
+## 20250602
+- [It's FOSS](https://itsfoss.com/) | [CrowPi 3: An All-in-one AI Learning Kit With Cyberdeck Feel](https://itsfoss.com/crowpi-3-review/)
+
 ## 20250531
 - [It's FOSS](https://itsfoss.com/) | [How I Run JavaScript in VS Code](https://itsfoss.com/vs-code-run-javascript/)
 

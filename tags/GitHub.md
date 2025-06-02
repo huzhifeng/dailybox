@@ -1,3 +1,6 @@
+## 20250602
+- [GitHub Trending](https://github.com/trending?since=daily) | [imputnet/cobalt](https://github.com/imputnet/cobalt)
+
 ## 20250601
 - [GitHub Trending](https://github.com/trending?since=daily) | [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
 

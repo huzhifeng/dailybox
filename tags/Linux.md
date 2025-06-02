@@ -1,3 +1,6 @@
+## 20250602
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Now Conveniently Report Hard/Soft Lockups & RCU Stall Counts](https://www.phoronix.com/news/Linux-6.16-Hard-Soft-Lockups)
+
 ## 20250601
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15 Shipped With A Nasty Power Regression For Some Systems](https://www.phoronix.com/news/Linux-6.15-nosmt-Power-Regress)
 - [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15](https://9to5linux.com/slackware-based-porteux-2-1-is-one-of-the-first-distros-to-ship-with-linux-6-15)

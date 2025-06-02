@@ -1,3 +1,6 @@
+## 20250602
+- [LibHunt](https://www.libhunt.com/) | [optillm](https://www.libhunt.com/r/optillm)
+
 ## 20250601
 - [LibHunt](https://www.libhunt.com/) | [bolt.new](https://www.libhunt.com/r/bolt.new)
 
