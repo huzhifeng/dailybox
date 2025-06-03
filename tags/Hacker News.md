@@ -1,3 +1,8 @@
+## 20250603
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-02](https://www.daemonology.net/hn-daily/2025-06-02.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-02](https://hacker-news.agi.li/post/2025-06-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Quarkdown: A modern Markdown-based typesetting system](https://news.ycombinator.com/item?id=44167592)
+
 ## 20250602
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-01](https://www.daemonology.net/hn-daily/2025-06-01.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-01](https://hacker-news.agi.li/post/2025-06-01)

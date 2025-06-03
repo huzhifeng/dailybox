@@ -1,3 +1,6 @@
+## 20250603
+- [GitHub Trending](https://github.com/trending?since=daily) | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
 ## 20250602
 - [GitHub Trending](https://github.com/trending?since=daily) | [imputnet/cobalt](https://github.com/imputnet/cobalt)
 

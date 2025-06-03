@@ -1,3 +1,6 @@
+## 20250603
+- [LibHunt](https://www.libhunt.com/) | [Wekan](https://www.libhunt.com/r/wekan)
+
 ## 20250602
 - [LibHunt](https://www.libhunt.com/) | [optillm](https://www.libhunt.com/r/optillm)
 

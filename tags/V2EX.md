@@ -1,3 +1,6 @@
+## 20250603
+- [V2EX](https://www.v2ex.com/) | [1500 以内安卓机求推荐--给父母](https://www.v2ex.com/t/1136006)
+
 ## 20250529
 - [V2EX](https://www.v2ex.com/) | [[抽奖] 送 12 份自家茶叶 - 推广下自家茶园与两款口粮茶](https://www.v2ex.com/t/1135227)
 

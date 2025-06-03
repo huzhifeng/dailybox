@@ -1,3 +1,6 @@
+## 20250603
+- [Phoronix](https://www.phoronix.com/) | [SMT Proves Very Advantageous For AMD Ryzen AI MAX Strix Halo Performance](https://www.phoronix.com/review/amd-strix-halo-smt)
+
 ## 20250602
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Will Now Conveniently Report Hard/Soft Lockups & RCU Stall Counts](https://www.phoronix.com/news/Linux-6.16-Hard-Soft-Lockups)
 
