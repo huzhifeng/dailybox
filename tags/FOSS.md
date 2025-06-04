@@ -1,3 +1,6 @@
+## 20250604
+- [It's FOSS](https://itsfoss.com/) | [My Favorite Obsidian Plugins and Their Hidden Settings](https://itsfoss.com/obsidian-plugins/)
+
 ## 20250602
 - [It's FOSS](https://itsfoss.com/) | [CrowPi 3: An All-in-one AI Learning Kit With Cyberdeck Feel](https://itsfoss.com/crowpi-3-review/)
 
