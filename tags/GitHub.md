@@ -1,3 +1,6 @@
+## 20250605
+- [GitHub Trending](https://github.com/trending?since=daily) | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
 ## 20250603
 - [GitHub Trending](https://github.com/trending?since=daily) | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 
