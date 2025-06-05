@@ -1,3 +1,7 @@
+## 20250605
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Developers Deciding What To Do For WiFi With FreeBSD 15: Stable Or Unstable](https://www.phoronix.com/news/FreeBSD-15-WiFi-Plans)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.04.2 Released with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-04-2-released-with-more-improvements-for-your-favorite-kde-apps)
+
 ## 20250604
 - [Phoronix](https://www.phoronix.com/) | [Rust-Based Redox OS Begins Implements X11 Support, GTK3 Port](https://www.phoronix.com/news/Redox-OS-Implementing-X11)
 

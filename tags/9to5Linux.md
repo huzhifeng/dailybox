@@ -1,3 +1,6 @@
+## 20250605
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.04.2 Released with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-04-2-released-with-more-improvements-for-your-favorite-kde-apps)
+
 ## 20250601
 - [9to5Linux](https://9to5linux.com/) | [Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15](https://9to5linux.com/slackware-based-porteux-2-1-is-one-of-the-first-distros-to-ship-with-linux-6-15)
 

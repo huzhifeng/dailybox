@@ -1,3 +1,6 @@
+## 20250605
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/)
+
 ## 20250604
 - [It's FOSS](https://itsfoss.com/) | [My Favorite Obsidian Plugins and Their Hidden Settings](https://itsfoss.com/obsidian-plugins/)
 

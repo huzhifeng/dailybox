@@ -1,3 +1,6 @@
+## 20250605
+- [Product Hunt](https://www.producthunt.com) | [Mistral Code](https://www.producthunt.com/posts/mistral-code)
+
 ## 20250604
 - [Product Hunt](https://www.producthunt.com) | [Spine Research](https://www.producthunt.com/posts/spine-research)
 

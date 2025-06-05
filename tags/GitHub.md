@@ -1,4 +1,7 @@
 ## 20250605
+- [GitHub Trending](https://github.com/trending?since=daily) | [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
+## 20250605
 - [GitHub Trending](https://github.com/trending?since=daily) | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
 ## 20250603
