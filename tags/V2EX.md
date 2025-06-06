@@ -1,3 +1,6 @@
+## 20250606
+- [V2EX](https://www.v2ex.com/) | [第一次被这么恶心到](https://www.v2ex.com/t/1136882)
+
 ## 20250603
 - [V2EX](https://www.v2ex.com/) | [1500 以内安卓机求推荐--给父母](https://www.v2ex.com/t/1136006)
 

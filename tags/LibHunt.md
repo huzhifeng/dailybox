@@ -1,3 +1,6 @@
+## 20250606
+- [LibHunt](https://www.libhunt.com/) | [elide](https://www.libhunt.com/r/elide-dev/elide)
+
 ## 20250604
 - [LibHunt](https://www.libhunt.com/) | [kaniko](https://www.libhunt.com/r/kaniko)
 

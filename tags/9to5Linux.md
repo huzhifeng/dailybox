@@ -1,3 +1,6 @@
+## 20250606
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.4 Office Suite Is Now Available for Download with 52 Bug Fixes](https://9to5linux.com/libreoffice-25-2-4-office-suite-is-now-available-for-download-with-52-bug-fixes)
+
 ## 20250605
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.04.2 Released with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-04-2-released-with-more-improvements-for-your-favorite-kde-apps)
 

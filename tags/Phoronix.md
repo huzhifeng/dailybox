@@ -1,3 +1,6 @@
+## 20250606
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X1 Elite GCC vs. LLVM Clang Compiler Performance](https://www.phoronix.com/review/snapdragon-x1-gcc-clang)
+
 ## 20250605
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD Developers Deciding What To Do For WiFi With FreeBSD 15: Stable Or Unstable](https://www.phoronix.com/news/FreeBSD-15-WiFi-Plans)
 

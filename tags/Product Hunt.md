@@ -1,3 +1,6 @@
+## 20250606
+- [Product Hunt](https://www.producthunt.com) | [Xavier AI](https://www.producthunt.com/posts/xavier-ai)
+
 ## 20250605
 - [Product Hunt](https://www.producthunt.com) | [Mistral Code](https://www.producthunt.com/posts/mistral-code)
 

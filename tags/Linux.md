@@ -1,3 +1,7 @@
+## 20250606
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X1 Elite GCC vs. LLVM Clang Compiler Performance](https://www.phoronix.com/review/snapdragon-x1-gcc-clang)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.4 Office Suite Is Now Available for Download with 52 Bug Fixes](https://9to5linux.com/libreoffice-25-2-4-office-suite-is-now-available-for-download-with-52-bug-fixes)
+
 ## 20250605
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD Developers Deciding What To Do For WiFi With FreeBSD 15: Stable Or Unstable](https://www.phoronix.com/news/FreeBSD-15-WiFi-Plans)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.04.2 Released with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-04-2-released-with-more-improvements-for-your-favorite-kde-apps)

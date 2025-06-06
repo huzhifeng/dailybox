@@ -1,3 +1,6 @@
+## 20250606
+- [GitHub Trending](https://github.com/trending?since=daily) | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+
 ## 20250605
 - [GitHub Trending](https://github.com/trending?since=daily) | [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
 
