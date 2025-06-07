@@ -1,3 +1,6 @@
+## 20250607
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.1.3 Released As Emergency Update For Radeon RX 9000 Series Linux Users](https://www.phoronix.com/news/Mesa-25.1.3-Released)
+
 ## 20250606
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X1 Elite GCC vs. LLVM Clang Compiler Performance](https://www.phoronix.com/review/snapdragon-x1-gcc-clang)
 

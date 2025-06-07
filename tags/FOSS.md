@@ -1,3 +1,6 @@
+## 20250607
+- [It's FOSS](https://itsfoss.com/) | [Transform Your Raspberry Pi 5 Into Miniature Desktop Gaming Rig With These Tower Cases](https://itsfoss.com/raspberry-pi-5-tower-cases/)
+
 ## 20250605
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/)
 

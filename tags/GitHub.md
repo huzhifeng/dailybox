@@ -1,3 +1,6 @@
+## 20250607
+- [GitHub Trending](https://github.com/trending?since=daily) | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+
 ## 20250606
 - [GitHub Trending](https://github.com/trending?since=daily) | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 

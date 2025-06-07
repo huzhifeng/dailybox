@@ -1,3 +1,7 @@
+## 20250607
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-06](https://www.daemonology.net/hn-daily/2025-06-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-06](https://hacker-news.agi.li/post/2025-06-06)
+
 ## 20250606
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-05](https://www.daemonology.net/hn-daily/2025-06-05.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Self-hosting your own media considered harmful according to YouTube](https://news.ycombinator.com/item?id=44197932)

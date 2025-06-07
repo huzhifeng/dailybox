@@ -1,3 +1,6 @@
+## 20250607
+- [Product Hunt](https://www.producthunt.com) | [notclass](https://www.producthunt.com/posts/notclass-4)
+
 ## 20250606
 - [Product Hunt](https://www.producthunt.com) | [Xavier AI](https://www.producthunt.com/posts/xavier-ai)
 
