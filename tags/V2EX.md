@@ -1,3 +1,6 @@
+## 20250608
+- [V2EX](https://www.v2ex.com/) | [有双持果友吗？请教一下感受](https://www.v2ex.com/t/1137157)
+
 ## 20250606
 - [V2EX](https://www.v2ex.com/) | [第一次被这么恶心到](https://www.v2ex.com/t/1136882)
 

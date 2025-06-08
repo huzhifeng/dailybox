@@ -1,3 +1,9 @@
+## 20250608
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-07](https://www.daemonology.net/hn-daily/2025-06-07.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-07](https://hacker-news.agi.li/post/2025-06-07)
+- [Hacker News Daily Top 10](https://github.com/headllines/hackernews-daily) | [Hacker News Daily Top 10 @2025-06-08](https://github.com/headllines/hackernews-daily/issues/1795)
+- [Hacker News](https://news.ycombinator.com/front) | [The last six months in LLMs, illustrated by pelicans on bicycles](https://news.ycombinator.com/item?id=44215352)
+
 ## 20250607
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-06](https://www.daemonology.net/hn-daily/2025-06-06.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-06](https://hacker-news.agi.li/post/2025-06-06)

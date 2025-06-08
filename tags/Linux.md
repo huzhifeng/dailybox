@@ -1,3 +1,7 @@
+## 20250608
+- [Phoronix](https://www.phoronix.com/) | [Linux GPIB Drivers Maturing Into Good Shape 50+ Years After The Bus Was Introduced](https://www.phoronix.com/news/Linux-6.16-Staging)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.2 Will Feature Fingerprint Authentication with Fingwit App](https://9to5linux.com/linux-mint-22-2-will-feature-fingerprint-authentication-with-fingwit-app)
+
 ## 20250607
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.1.3 Released As Emergency Update For Radeon RX 9000 Series Linux Users](https://www.phoronix.com/news/Mesa-25.1.3-Released)
 

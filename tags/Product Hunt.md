@@ -1,3 +1,6 @@
+## 20250608
+- [Product Hunt](https://www.producthunt.com) | [BountyHub ](https://www.producthunt.com/posts/bountyhub-2)
+
 ## 20250607
 - [Product Hunt](https://www.producthunt.com) | [notclass](https://www.producthunt.com/posts/notclass-4)
 

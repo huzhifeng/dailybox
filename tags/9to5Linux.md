@@ -1,3 +1,6 @@
+## 20250608
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.2 Will Feature Fingerprint Authentication with Fingwit App](https://9to5linux.com/linux-mint-22-2-will-feature-fingerprint-authentication-with-fingwit-app)
+
 ## 20250606
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.4 Office Suite Is Now Available for Download with 52 Bug Fixes](https://9to5linux.com/libreoffice-25-2-4-office-suite-is-now-available-for-download-with-52-bug-fixes)
 

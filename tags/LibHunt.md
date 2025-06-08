@@ -1,3 +1,6 @@
+## 20250608
+- [LibHunt](https://www.libhunt.com/) | [Git](https://www.libhunt.com/r/git)
+
 ## 20250606
 - [LibHunt](https://www.libhunt.com/) | [elide](https://www.libhunt.com/r/elide-dev/elide)
 

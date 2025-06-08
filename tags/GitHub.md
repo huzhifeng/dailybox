@@ -1,3 +1,7 @@
+## 20250608
+- [GitHub Trending](https://github.com/trending?since=daily) | [codexu/note-gen](https://github.com/codexu/note-gen)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)
+
 ## 20250607
 - [GitHub Trending](https://github.com/trending?since=daily) | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
