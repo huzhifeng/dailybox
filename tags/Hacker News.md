@@ -1,3 +1,9 @@
+## 20250609
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-08](https://www.daemonology.net/hn-daily/2025-06-08.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-08](https://hacker-news.agi.li/post/2025-06-08)
+- [Hacker News Recap](https://www.xiaoyuzhoufm.com/podcast/6456fdfc0a8e51c73e68d0cd) | [2025-06-09 | 摆脱拖延症，开启高效人生：一线工程师的实用心得](https://www.xiaoyuzhoufm.com/episode/684638d36dbe9284e773d6db)
+- [Hacker News](https://news.ycombinator.com/front) | [FSE meets the FBI](https://news.ycombinator.com/item?id=44220860)
+
 ## 20250608
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-07](https://www.daemonology.net/hn-daily/2025-06-07.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-07](https://hacker-news.agi.li/post/2025-06-07)

@@ -1,3 +1,6 @@
+## 20250609
+- [9to5Linux](https://9to5linux.com/) | [How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux](https://9to5linux.com/how-to-fix-dummy-output-no-sound-issue-on-macbook-computers-running-linux)
+
 ## 20250608
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.2 Will Feature Fingerprint Authentication with Fingwit App](https://9to5linux.com/linux-mint-22-2-will-feature-fingerprint-authentication-with-fingwit-app)
 

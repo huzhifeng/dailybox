@@ -1,3 +1,6 @@
+## 20250609
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4345P 8-Core CPU Performance](https://www.phoronix.com/review/amd-epyc-4345p)
+
 ## 20250608
 - [Phoronix](https://www.phoronix.com/) | [Linux GPIB Drivers Maturing Into Good Shape 50+ Years After The Bus Was Introduced](https://www.phoronix.com/news/Linux-6.16-Staging)
 

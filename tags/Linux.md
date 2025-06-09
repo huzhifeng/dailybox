@@ -1,3 +1,7 @@
+## 20250609
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4345P 8-Core CPU Performance](https://www.phoronix.com/review/amd-epyc-4345p)
+- [9to5Linux](https://9to5linux.com/) | [How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux](https://9to5linux.com/how-to-fix-dummy-output-no-sound-issue-on-macbook-computers-running-linux)
+
 ## 20250608
 - [Phoronix](https://www.phoronix.com/) | [Linux GPIB Drivers Maturing Into Good Shape 50+ Years After The Bus Was Introduced](https://www.phoronix.com/news/Linux-6.16-Staging)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.2 Will Feature Fingerprint Authentication with Fingwit App](https://9to5linux.com/linux-mint-22-2-will-feature-fingerprint-authentication-with-fingwit-app)
