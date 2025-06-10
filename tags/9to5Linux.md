@@ -1,3 +1,6 @@
+## 20250610
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.4 Improves Effect Preview, Studio Fade Out, and Waveform Rendering](https://9to5linux.com/audacity-3-7-4-improves-effect-preview-studio-fade-out-and-waveform-rendering)
+
 ## 20250609
 - [9to5Linux](https://9to5linux.com/) | [How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux](https://9to5linux.com/how-to-fix-dummy-output-no-sound-issue-on-macbook-computers-running-linux)
 

@@ -1,3 +1,6 @@
+## 20250610
+- [Product Hunt](https://www.producthunt.com) | [Wegic](https://www.producthunt.com/posts/wegic-3)
+
 ## 20250608
 - [Product Hunt](https://www.producthunt.com) | [BountyHub ](https://www.producthunt.com/posts/bountyhub-2)
 

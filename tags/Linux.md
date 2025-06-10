@@ -1,3 +1,7 @@
+## 20250610
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15.2 Fixes "Quite Dramatically...Potentially Dangerous" Idle Power Regression](https://www.phoronix.com/news/Linux-6.15.2-Released)
+- [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.4 Improves Effect Preview, Studio Fade Out, and Waveform Rendering](https://9to5linux.com/audacity-3-7-4-improves-effect-preview-studio-fade-out-and-waveform-rendering)
+
 ## 20250609
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4345P 8-Core CPU Performance](https://www.phoronix.com/review/amd-epyc-4345p)
 - [9to5Linux](https://9to5linux.com/) | [How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux](https://9to5linux.com/how-to-fix-dummy-output-no-sound-issue-on-macbook-computers-running-linux)

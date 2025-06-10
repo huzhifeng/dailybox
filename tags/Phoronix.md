@@ -1,3 +1,6 @@
+## 20250610
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15.2 Fixes "Quite Dramatically...Potentially Dangerous" Idle Power Regression](https://www.phoronix.com/news/Linux-6.15.2-Released)
+
 ## 20250609
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4345P 8-Core CPU Performance](https://www.phoronix.com/review/amd-epyc-4345p)
 
