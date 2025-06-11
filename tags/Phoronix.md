@@ -1,3 +1,6 @@
+## 20250611
+- [Phoronix](https://www.phoronix.com/) | [Ultra Ethernet Consortium Publishes UEC 1.0 Specification](https://www.phoronix.com/news/Ultra-Ethernet-1.0-UEC)
+
 ## 20250610
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15.2 Fixes "Quite Dramatically...Potentially Dangerous" Idle Power Regression](https://www.phoronix.com/news/Linux-6.15.2-Released)
 

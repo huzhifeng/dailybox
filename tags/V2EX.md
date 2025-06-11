@@ -1,3 +1,6 @@
+## 20250611
+- [V2EX](https://www.v2ex.com/) | [全世界都在搞 AI，唯有苹果在搞 UI。](https://www.v2ex.com/t/1137837)
+
 ## 20250610
 - [V2EX](https://www.v2ex.com/) | [不予立案到底怎么破？](https://www.v2ex.com/t/1137589)
 

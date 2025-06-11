@@ -1,3 +1,6 @@
+## 20250611
+- [Product Hunt](https://www.producthunt.com) | [Merlio](https://www.producthunt.com/posts/merlio-2)
+
 ## 20250610
 - [Product Hunt](https://www.producthunt.com) | [Wegic](https://www.producthunt.com/posts/wegic-3)
 

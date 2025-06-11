@@ -1,3 +1,6 @@
+## 20250611
+- [GitHub Trending](https://github.com/trending?since=daily) | [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
 ## 20250610
 - [GitHub Trending](https://github.com/trending?since=daily) | [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)
 
