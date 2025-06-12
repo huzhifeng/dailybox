@@ -1,3 +1,6 @@
+## 20250612
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.24: Nano Tips, Wayland-only Ubuntu, End of Mint 20 and 13 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-25-24/)
+
 ## 20250607
 - [It's FOSS](https://itsfoss.com/) | [Transform Your Raspberry Pi 5 Into Miniature Desktop Gaming Rig With These Tower Cases](https://itsfoss.com/raspberry-pi-5-tower-cases/)
 

@@ -1,3 +1,6 @@
+## 20250612
+- [Product Hunt](https://www.producthunt.com) | [kukumber: ](https://www.producthunt.com/posts/kukumber)
+
 ## 20250611
 - [Product Hunt](https://www.producthunt.com) | [Merlio](https://www.producthunt.com/posts/merlio-2)
 

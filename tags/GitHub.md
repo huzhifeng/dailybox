@@ -1,3 +1,6 @@
+## 20250612
+- [GitHub Trending](https://github.com/trending?since=daily) | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+
 ## 20250611
 - [GitHub Trending](https://github.com/trending?since=daily) | [YaLTeR/niri](https://github.com/YaLTeR/niri)
 

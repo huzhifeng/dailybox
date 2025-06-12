@@ -1,3 +1,6 @@
+## 20250612
+- [Phoronix](https://www.phoronix.com/) | [Measuring The Performance Cost To AMD Memory Guard With Ryzen AI PRO CPUs](https://www.phoronix.com/review/amd-memory-guard-ram-encrypt)
+
 ## 20250611
 - [Phoronix](https://www.phoronix.com/) | [Ultra Ethernet Consortium Publishes UEC 1.0 Specification](https://www.phoronix.com/news/Ultra-Ethernet-1.0-UEC)
 

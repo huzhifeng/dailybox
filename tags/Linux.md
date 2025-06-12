@@ -1,3 +1,7 @@
+## 20250612
+- [Phoronix](https://www.phoronix.com/) | [Measuring The Performance Cost To AMD Memory Guard With Ryzen AI PRO CPUs](https://www.phoronix.com/review/amd-memory-guard-ram-encrypt)
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10 Is Out Now as Free Alternative to Red Hat Enterprise Linux 10](https://9to5linux.com/rocky-linux-10-is-out-now-as-free-alternative-to-red-hat-enterprise-linux-10)
+
 ## 20250611
 - [Phoronix](https://www.phoronix.com/) | [Ultra Ethernet Consortium Publishes UEC 1.0 Specification](https://www.phoronix.com/news/Ultra-Ethernet-1.0-UEC)
 

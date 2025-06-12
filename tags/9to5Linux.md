@@ -1,3 +1,6 @@
+## 20250612
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10 Is Out Now as Free Alternative to Red Hat Enterprise Linux 10](https://9to5linux.com/rocky-linux-10-is-out-now-as-free-alternative-to-red-hat-enterprise-linux-10)
+
 ## 20250610
 - [9to5Linux](https://9to5linux.com/) | [Audacity 3.7.4 Improves Effect Preview, Studio Fade Out, and Waveform Rendering](https://9to5linux.com/audacity-3-7-4-improves-effect-preview-studio-fade-out-and-waveform-rendering)
 
