@@ -1,3 +1,6 @@
+## 20250613
+- [LibHunt](https://www.libhunt.com/) | [mochi](https://www.libhunt.com/r/mochilang/mochi)
+
 ## 20250609
 - [LibHunt](https://www.libhunt.com/) | [vite](https://www.libhunt.com/r/vite)
 

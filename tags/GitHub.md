@@ -1,3 +1,6 @@
+## 20250613
+- [GitHub Trending](https://github.com/trending?since=daily) | [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
+
 ## 20250612
 - [GitHub Trending](https://github.com/trending?since=daily) | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 

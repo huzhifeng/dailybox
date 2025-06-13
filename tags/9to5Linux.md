@@ -1,3 +1,6 @@
+## 20250613
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Pro 14 Gen10 Linux Laptop Unveiled with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-pro-14-gen10-linux-laptop-unveiled-with-amd-ryzen-ai-300)
+
 ## 20250612
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10 Is Out Now as Free Alternative to Red Hat Enterprise Linux 10](https://9to5linux.com/rocky-linux-10-is-out-now-as-free-alternative-to-red-hat-enterprise-linux-10)
 

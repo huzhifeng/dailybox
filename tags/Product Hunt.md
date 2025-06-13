@@ -1,3 +1,6 @@
+## 20250613
+- [Product Hunt](https://www.producthunt.com) | [Solar](https://www.producthunt.com/posts/solar-4)
+
 ## 20250612
 - [Product Hunt](https://www.producthunt.com) | [kukumber: ](https://www.producthunt.com/posts/kukumber)
 

@@ -1,3 +1,6 @@
+## 20250613
+- [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.45 Brings Background Effects, Pointer Warp & Session Management](https://www.phoronix.com/news/Wayland-Protocols-1.45)
+
 ## 20250612
 - [Phoronix](https://www.phoronix.com/) | [Measuring The Performance Cost To AMD Memory Guard With Ryzen AI PRO CPUs](https://www.phoronix.com/review/amd-memory-guard-ram-encrypt)
 
