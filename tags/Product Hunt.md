@@ -1,3 +1,6 @@
+## 20250614
+- [Product Hunt](https://www.producthunt.com) | [Copy as Markdown](https://www.producthunt.com/posts/copy-as-markdown)
+
 ## 20250613
 - [Product Hunt](https://www.producthunt.com) | [Solar](https://www.producthunt.com/posts/solar-4)
 

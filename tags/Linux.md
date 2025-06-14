@@ -1,3 +1,6 @@
+## 20250614
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel API Specification Framework Proposed To Help Stabilize User-Space Interfaces](https://www.phoronix.com/news/Linux-API-Spec-Framework)
+
 ## 20250613
 - [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.45 Brings Background Effects, Pointer Warp & Session Management](https://www.phoronix.com/news/Wayland-Protocols-1.45)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Pro 14 Gen10 Linux Laptop Unveiled with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-pro-14-gen10-linux-laptop-unveiled-with-amd-ryzen-ai-300)
