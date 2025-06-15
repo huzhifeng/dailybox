@@ -1,3 +1,6 @@
+## 20250615
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.5 Brings Major Performance Boost to the File and Archive Manager](https://9to5linux.com/peazip-10-5-brings-major-performance-boost-to-the-file-and-archive-manager)
+
 ## 20250613
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Pro 14 Gen10 Linux Laptop Unveiled with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-pro-14-gen10-linux-laptop-unveiled-with-amd-ryzen-ai-300)
 

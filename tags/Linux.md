@@ -1,3 +1,7 @@
+## 20250615
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Looks Like It Could Go Ahead And Make SMP Support Unconditional](https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.5 Brings Major Performance Boost to the File and Archive Manager](https://9to5linux.com/peazip-10-5-brings-major-performance-boost-to-the-file-and-archive-manager)
+
 ## 20250614
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel API Specification Framework Proposed To Help Stabilize User-Space Interfaces](https://www.phoronix.com/news/Linux-API-Spec-Framework)
 

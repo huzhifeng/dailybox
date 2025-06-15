@@ -1,3 +1,6 @@
+## 20250615
+- [GitHub Trending](https://github.com/trending?since=daily) | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+
 ## 20250614
 - [GitHub Trending](https://github.com/trending?since=daily) | [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
 

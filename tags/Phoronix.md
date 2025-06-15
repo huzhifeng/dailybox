@@ -1,3 +1,6 @@
+## 20250615
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Looks Like It Could Go Ahead And Make SMP Support Unconditional](https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond)
+
 ## 20250614
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel API Specification Framework Proposed To Help Stabilize User-Space Interfaces](https://www.phoronix.com/news/Linux-API-Spec-Framework)
 
