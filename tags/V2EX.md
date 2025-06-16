@@ -1,3 +1,6 @@
+## 20250616
+- [V2EX](https://www.v2ex.com/) | [电脑小白求助，电脑打游戏时老是断电式关机，各位大哥有没有 debug 建议](https://www.v2ex.com/t/1138851)
+
 ## 20250614
 - [V2EX](https://www.v2ex.com/) | [你所在的城市的路边停车位开始收费了吗?](https://www.v2ex.com/t/1138543)
 

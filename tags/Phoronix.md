@@ -1,3 +1,6 @@
+## 20250616
+- [Phoronix](https://www.phoronix.com/) | [Trying Out The AMD Developer Cloud For Evaluating Instinct + ROCm](https://www.phoronix.com/review/amd-developer-cloud)
+
 ## 20250615
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Looks Like It Could Go Ahead And Make SMP Support Unconditional](https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond)
 

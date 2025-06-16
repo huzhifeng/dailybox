@@ -1,3 +1,6 @@
+## 20250616
+- [Product Hunt](https://www.producthunt.com) | [SendStock AI](https://www.producthunt.com/posts/sendstock-ai)
+
 ## 20250615
 - [Product Hunt](https://www.producthunt.com) | [WebVisor](https://www.producthunt.com/posts/webvisor)
 

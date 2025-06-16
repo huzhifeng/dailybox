@@ -1,3 +1,6 @@
+## 20250616
+- [Phoronix](https://www.phoronix.com/) | [Trying Out The AMD Developer Cloud For Evaluating Instinct + ROCm](https://www.phoronix.com/review/amd-developer-cloud)
+
 ## 20250615
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Looks Like It Could Go Ahead And Make SMP Support Unconditional](https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.5 Brings Major Performance Boost to the File and Archive Manager](https://9to5linux.com/peazip-10-5-brings-major-performance-boost-to-the-file-and-archive-manager)

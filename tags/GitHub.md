@@ -1,3 +1,6 @@
+## 20250616
+- [GitHub Trending](https://github.com/trending?since=daily) | [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+
 ## 20250615
 - [GitHub Trending](https://github.com/trending?since=daily) | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 
