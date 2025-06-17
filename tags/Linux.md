@@ -1,3 +1,7 @@
+## 20250617
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 575.64 Linux Driver Released With A Few Fixes](https://www.phoronix.com/news/NVIDIA-575.64-Linux-Driver)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-4-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20250616
 - [Phoronix](https://www.phoronix.com/) | [Trying Out The AMD Developer Cloud For Evaluating Instinct + ROCm](https://www.phoronix.com/review/amd-developer-cloud)
 

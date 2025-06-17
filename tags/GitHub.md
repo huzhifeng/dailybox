@@ -1,3 +1,6 @@
+## 20250617
+- [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/lerobot](https://github.com/huggingface/lerobot)
+
 ## 20250616
 - [GitHub Trending](https://github.com/trending?since=daily) | [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
 

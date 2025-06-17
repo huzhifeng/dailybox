@@ -1,3 +1,6 @@
+## 20250617
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 575.64 Linux Driver Released With A Few Fixes](https://www.phoronix.com/news/NVIDIA-575.64-Linux-Driver)
+
 ## 20250616
 - [Phoronix](https://www.phoronix.com/) | [Trying Out The AMD Developer Cloud For Evaluating Instinct + ROCm](https://www.phoronix.com/review/amd-developer-cloud)
 

@@ -1,3 +1,6 @@
+## 20250617
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-4-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20250615
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.5 Brings Major Performance Boost to the File and Archive Manager](https://9to5linux.com/peazip-10-5-brings-major-performance-boost-to-the-file-and-archive-manager)
 
