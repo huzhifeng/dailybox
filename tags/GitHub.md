@@ -1,3 +1,7 @@
+## 20250618
+- [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [belka7538/Blank-Grabber](https://github.com/belka7538/Blank-Grabber)
+
 ## 20250617
 - [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/lerobot](https://github.com/huggingface/lerobot)
 

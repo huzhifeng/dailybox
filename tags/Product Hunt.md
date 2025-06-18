@@ -1,3 +1,6 @@
+## 20250618
+- [Product Hunt](https://www.producthunt.com) | [Kerno Core](https://www.producthunt.com/posts/kerno-core)
+
 ## 20250617
 - [Product Hunt](https://www.producthunt.com) | [Buglet](https://www.producthunt.com/posts/buglet)
 

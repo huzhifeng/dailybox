@@ -1,3 +1,6 @@
+## 20250618
+- [LibHunt](https://www.libhunt.com/) | [trieve](https://www.libhunt.com/r/trieve)
+
 ## 20250617
 - [LibHunt](https://www.libhunt.com/) | [transformers](https://www.libhunt.com/r/transformers)
 

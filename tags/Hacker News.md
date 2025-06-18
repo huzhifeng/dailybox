@@ -1,3 +1,8 @@
+## 20250618
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-17](https://www.daemonology.net/hn-daily/2025-06-17.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-17](https://hacker-news.agi.li/post/2025-06-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Scrappy - make little apps for you and your friends](https://news.ycombinator.com/item?id=44306859)
+
 ## 20250617
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-16](https://www.daemonology.net/hn-daily/2025-06-16.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-16](https://hacker-news.agi.li/post/2025-06-16)

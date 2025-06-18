@@ -1,3 +1,6 @@
+## 20250618
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 17 Open-Source IDE Released with a Major Change for Projects](https://9to5linux.com/qt-creator-17-open-source-ide-released-with-a-major-change-for-projects)
+
 ## 20250617
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-4-desktop-environment-officially-released-this-is-whats-new)
 

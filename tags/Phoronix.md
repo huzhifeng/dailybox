@@ -1,3 +1,6 @@
+## 20250618
+- [Phoronix](https://www.phoronix.com/) | [Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop](https://www.phoronix.com/review/framework-laptop-12)
+
 ## 20250617
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 575.64 Linux Driver Released With A Few Fixes](https://www.phoronix.com/news/NVIDIA-575.64-Linux-Driver)
 
