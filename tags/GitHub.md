@@ -1,3 +1,7 @@
+## 20250619
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+
 ## 20250618
 - [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [belka7538/Blank-Grabber](https://github.com/belka7538/Blank-Grabber)

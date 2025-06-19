@@ -1,3 +1,6 @@
+## 20250619
+- [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.12 Linux Firmware Updater Adds Support for HP Portable USB-C Hubs](https://9to5linux.com/fwupd-2-0-12-linux-firmware-updater-adds-support-for-hp-portable-usb-c-hubs)
+
 ## 20250618
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 17 Open-Source IDE Released with a Major Change for Projects](https://9to5linux.com/qt-creator-17-open-source-ide-released-with-a-major-change-for-projects)
 

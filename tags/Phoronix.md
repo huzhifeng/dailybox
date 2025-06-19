@@ -1,3 +1,6 @@
+## 20250619
+- [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu Linux Performance On The AMD Ryzen AI Max PRO 390 "Strix Halo"](https://www.phoronix.com/review/ryzen-ai-max-390-windows-linux)
+
 ## 20250618
 - [Phoronix](https://www.phoronix.com/) | [Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop](https://www.phoronix.com/review/framework-laptop-12)
 
