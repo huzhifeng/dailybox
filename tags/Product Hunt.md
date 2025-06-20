@@ -1,3 +1,6 @@
+## 20250620
+- [Product Hunt](https://www.producthunt.com) | [Slashit App](https://www.producthunt.com/posts/slashit-app)
+
 ## 20250619
 - [Product Hunt](https://www.producthunt.com) | [RefineAI](https://www.producthunt.com/posts/refineai-2)
 

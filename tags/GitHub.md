@@ -1,3 +1,6 @@
+## 20250620
+- [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+
 ## 20250619
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)

@@ -1,3 +1,6 @@
+## 20250620
+- [LibHunt](https://www.libhunt.com/) | [hurl](https://www.libhunt.com/r/hurl)
+
 ## 20250619
 - [LibHunt](https://www.libhunt.com/) | [Claude-Code-Usage-Monitor](https://www.libhunt.com/r/Claude-Code-Usage-Monitor)
 

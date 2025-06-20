@@ -1,3 +1,6 @@
+## 20250620
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.5 Open-Source E-Book Manager Improves the Kobo Driver](https://9to5linux.com/calibre-8-5-open-source-e-book-manager-improves-the-kobo-driver)
+
 ## 20250619
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.12 Linux Firmware Updater Adds Support for HP Portable USB-C Hubs](https://9to5linux.com/fwupd-2-0-12-linux-firmware-updater-adds-support-for-hp-portable-usb-c-hubs)
 

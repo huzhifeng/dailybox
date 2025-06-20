@@ -1,3 +1,7 @@
+## 20250620
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.319 Published With New Data Graph Extension](https://www.phoronix.com/news/Vulkan-1.4.319-Released)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.5 Open-Source E-Book Manager Improves the Kobo Driver](https://9to5linux.com/calibre-8-5-open-source-e-book-manager-improves-the-kobo-driver)
+
 ## 20250619
 - [Phoronix](https://www.phoronix.com/) | [Windows 11 vs. Ubuntu Linux Performance On The AMD Ryzen AI Max PRO 390 "Strix Halo"](https://www.phoronix.com/review/ryzen-ai-max-390-windows-linux)
 - [9to5Linux](https://9to5linux.com/) | [Fwupd 2.0.12 Linux Firmware Updater Adds Support for HP Portable USB-C Hubs](https://9to5linux.com/fwupd-2-0-12-linux-firmware-updater-adds-support-for-hp-portable-usb-c-hubs)

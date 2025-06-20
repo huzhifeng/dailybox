@@ -1,3 +1,6 @@
+## 20250620
+- [V2EX](https://www.v2ex.com/) | [感觉给自己的时间越来越少了，没有电子阳痿却没时间打游戏。](https://www.v2ex.com/t/1139911)
+
 ## 20250616
 - [V2EX](https://www.v2ex.com/) | [电脑小白求助，电脑打游戏时老是断电式关机，各位大哥有没有 debug 建议](https://www.v2ex.com/t/1138851)
 
