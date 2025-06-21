@@ -1,3 +1,6 @@
+## 20250621
+- [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
 ## 20250620
 - [GitHub Trending](https://github.com/trending?since=daily) | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
 

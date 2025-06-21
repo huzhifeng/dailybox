@@ -1,3 +1,8 @@
+## 20250621
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-20](https://www.daemonology.net/hn-daily/2025-06-20.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-20](https://hacker-news.agi.li/post/2025-06-20)
+- [Hacker News](https://news.ycombinator.com/front) | [Samsung embeds IronSource spyware app on phones across WANA](https://news.ycombinator.com/item?id=44334167)
+
 ## 20250620
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-19](https://www.daemonology.net/hn-daily/2025-06-19.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-19](https://hacker-news.agi.li/post/2025-06-19)

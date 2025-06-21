@@ -1,3 +1,6 @@
+## 20250621
+- [Product Hunt](https://www.producthunt.com) | [MailMood](https://www.producthunt.com/posts/mailmood)
+
 ## 20250620
 - [Product Hunt](https://www.producthunt.com) | [Slashit App](https://www.producthunt.com/posts/slashit-app)
 

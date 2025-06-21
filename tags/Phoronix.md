@@ -1,3 +1,6 @@
+## 20250621
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 Planning To Raise RISC-V Support Baseline To RVA23 Profile](https://www.phoronix.com/news/Ubuntu-25.10-To-Require-RVA23)
+
 ## 20250620
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.319 Published With New Data Graph Extension](https://www.phoronix.com/news/Vulkan-1.4.319-Released)
 

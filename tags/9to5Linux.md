@@ -1,3 +1,6 @@
+## 20250621
+- [9to5Linux](https://9to5linux.com/) | [Darktable 5.2 Open-Source RAW Image Editor Released with New Features](https://9to5linux.com/darktable-5-2-open-source-raw-image-editor-released-with-new-features)
+
 ## 20250620
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.5 Open-Source E-Book Manager Improves the Kobo Driver](https://9to5linux.com/calibre-8-5-open-source-e-book-manager-improves-the-kobo-driver)
 
