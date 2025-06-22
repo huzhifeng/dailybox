@@ -1,3 +1,6 @@
+## 20250622
+- [It's FOSS](https://itsfoss.com/) | [Btop++: Linux System Monitoring Tool That is Definitely Better than Top](https://itsfoss.com/btop-plus-plus/)
+
 ## 20250619
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/)
 

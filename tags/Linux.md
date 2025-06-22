@@ -1,3 +1,6 @@
+## 20250622
+- [Phoronix](https://www.phoronix.com/) | [Disabling Intel Graphics Security Mitigations Can Boost GPU Compute Performance By 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
+
 ## 20250621
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 Planning To Raise RISC-V Support Baseline To RVA23 Profile](https://www.phoronix.com/news/Ubuntu-25.10-To-Require-RVA23)
 - [9to5Linux](https://9to5linux.com/) | [Darktable 5.2 Open-Source RAW Image Editor Released with New Features](https://9to5linux.com/darktable-5-2-open-source-raw-image-editor-released-with-new-features)

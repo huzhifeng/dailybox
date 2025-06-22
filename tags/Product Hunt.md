@@ -1,3 +1,6 @@
+## 20250622
+- [Product Hunt](https://www.producthunt.com) | [CostCuts](https://www.producthunt.com/posts/costcuts)
+
 ## 20250621
 - [Product Hunt](https://www.producthunt.com) | [MailMood](https://www.producthunt.com/posts/mailmood)
 

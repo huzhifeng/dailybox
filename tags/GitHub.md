@@ -1,3 +1,6 @@
+## 20250622
+- [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
 ## 20250621
 - [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
