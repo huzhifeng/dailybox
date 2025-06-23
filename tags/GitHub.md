@@ -1,3 +1,6 @@
+## 20250623
+- [GitHub Trending](https://github.com/trending?since=daily) | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
 ## 20250622
 - [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 

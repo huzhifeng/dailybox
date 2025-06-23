@@ -1,3 +1,6 @@
+## 20250623
+- [Phoronix](https://www.phoronix.com/) | [Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
+
 ## 20250622
 - [Phoronix](https://www.phoronix.com/) | [Disabling Intel Graphics Security Mitigations Can Boost GPU Compute Performance By 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 

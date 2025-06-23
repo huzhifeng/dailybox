@@ -1,3 +1,7 @@
+## 20250623
+- [Phoronix](https://www.phoronix.com/) | [Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.2-15 Disk Cloning/Imaging Tool Released with Various Changes](https://9to5linux.com/clonezilla-live-3-2-2-15-disk-cloning-imaging-tool-released-with-various-changes)
+
 ## 20250622
 - [Phoronix](https://www.phoronix.com/) | [Disabling Intel Graphics Security Mitigations Can Boost GPU Compute Performance By 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 

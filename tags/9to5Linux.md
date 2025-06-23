@@ -1,3 +1,6 @@
+## 20250623
+- [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.2-15 Disk Cloning/Imaging Tool Released with Various Changes](https://9to5linux.com/clonezilla-live-3-2-2-15-disk-cloning-imaging-tool-released-with-various-changes)
+
 ## 20250621
 - [9to5Linux](https://9to5linux.com/) | [Darktable 5.2 Open-Source RAW Image Editor Released with New Features](https://9to5linux.com/darktable-5-2-open-source-raw-image-editor-released-with-new-features)
 
