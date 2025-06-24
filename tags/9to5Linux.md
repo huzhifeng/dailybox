@@ -1,3 +1,6 @@
+## 20250624
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.1 Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-4-1-released-with-various-improvements-and-bug-fixes)
+
 ## 20250623
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.2.2-15 Disk Cloning/Imaging Tool Released with Various Changes](https://9to5linux.com/clonezilla-live-3-2-2-15-disk-cloning-imaging-tool-released-with-various-changes)
 

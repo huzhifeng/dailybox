@@ -1,3 +1,6 @@
+## 20250624
+- [LibHunt](https://www.libhunt.com/) | [PyUIBuilder](https://www.libhunt.com/r/PyUIBuilder)
+
 ## 20250622
 - [LibHunt](https://www.libhunt.com/) | [build-your-own-x](https://www.libhunt.com/r/build-your-own-x)
 

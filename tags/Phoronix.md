@@ -1,3 +1,6 @@
+## 20250624
+- [Phoronix](https://www.phoronix.com/) | [mmc-utils 1.0 Released For Managing MMC Storage On Linux](https://www.phoronix.com/news/mmc-utils-1.0)
+
 ## 20250623
 - [Phoronix](https://www.phoronix.com/) | [Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
 

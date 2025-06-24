@@ -1,3 +1,6 @@
+## 20250624
+- [GitHub Trending](https://github.com/trending?since=daily) | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
+
 ## 20250623
 - [GitHub Trending](https://github.com/trending?since=daily) | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
