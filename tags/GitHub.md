@@ -1,3 +1,6 @@
+## 20250625
+- [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
 ## 20250624
 - [GitHub Trending](https://github.com/trending?since=daily) | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
 

@@ -1,3 +1,6 @@
+## 20250625
+- [It's FOSS](https://itsfoss.com/) | [Linux Jargon Buster: What are Secure Boot & Shim Files?](https://itsfoss.com/secure-boot-shim-file/)
+
 ## 20250622
 - [It's FOSS](https://itsfoss.com/) | [Btop++: Linux System Monitoring Tool That is Definitely Better than Top](https://itsfoss.com/btop-plus-plus/)
 

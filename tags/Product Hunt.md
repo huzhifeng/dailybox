@@ -1,3 +1,6 @@
+## 20250625
+- [Product Hunt](https://www.producthunt.com) | [Rumora](https://www.producthunt.com/posts/rumora)
+
 ## 20250624
 - [Product Hunt](https://www.producthunt.com) | [Zen Agents (by Zencoder)](https://www.producthunt.com/posts/zen-agents-by-zencoder)
 

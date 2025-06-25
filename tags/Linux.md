@@ -1,3 +1,6 @@
+## 20250625
+- [Phoronix](https://www.phoronix.com/) | [AVX-512's Enormous Advantage On AMD EPYC 4005 Series Performance](https://www.phoronix.com/review/amd-epyc-4005-avx512)
+
 ## 20250624
 - [Phoronix](https://www.phoronix.com/) | [mmc-utils 1.0 Released For Managing MMC Storage On Linux](https://www.phoronix.com/news/mmc-utils-1.0)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.1 Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-4-1-released-with-various-improvements-and-bug-fixes)
