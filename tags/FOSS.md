@@ -1,3 +1,6 @@
+## 20250626
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.26: Torvalds-Gates Showdown, Hyprland Premium, Fedora's 32-bit Debacle, Xfce Themes and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-26/)
+
 ## 20250625
 - [It's FOSS](https://itsfoss.com/) | [Linux Jargon Buster: What are Secure Boot & Shim Files?](https://itsfoss.com/secure-boot-shim-file/)
 

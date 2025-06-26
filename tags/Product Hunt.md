@@ -1,3 +1,6 @@
+## 20250626
+- [Product Hunt](https://www.producthunt.com) | [Optibot](https://www.producthunt.com/posts/optibot)
+
 ## 20250625
 - [Product Hunt](https://www.producthunt.com) | [Rumora](https://www.producthunt.com/posts/rumora)
 

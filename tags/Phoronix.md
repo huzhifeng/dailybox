@@ -1,3 +1,6 @@
+## 20250626
+- [Phoronix](https://www.phoronix.com/) | [Mir 2.21 Released With Cursor Scaling & Mouse Keys Support](https://www.phoronix.com/news/Mir-2.21-Released)
+
 ## 20250625
 - [Phoronix](https://www.phoronix.com/) | [AVX-512's Enormous Advantage On AMD EPYC 4005 Series Performance](https://www.phoronix.com/review/amd-epyc-4005-avx512)
 

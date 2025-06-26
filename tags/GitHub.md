@@ -1,3 +1,6 @@
+## 20250626
+- [GitHub Trending](https://github.com/trending?since=daily) | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+
 ## 20250625
 - [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
