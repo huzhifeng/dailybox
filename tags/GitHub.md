@@ -1,3 +1,6 @@
+## 20250627
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/edit](https://github.com/microsoft/edit)
+
 ## 20250626
 - [GitHub Trending](https://github.com/trending?since=daily) | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 
