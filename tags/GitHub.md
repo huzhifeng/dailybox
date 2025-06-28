@@ -1,3 +1,6 @@
+## 20250628
+- [GitHub Trending](https://github.com/trending?since=daily) | [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
 ## 20250627
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/edit](https://github.com/microsoft/edit)
 

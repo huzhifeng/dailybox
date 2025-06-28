@@ -1,3 +1,6 @@
+## 20250628
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Extends Cleaner Shader Support To More AMD CDNA/GFX9 GPUs](https://www.phoronix.com/news/AMD-Cleaner-Shader-CDNA-GFX9)
+
 ## 20250627
 - [Phoronix](https://www.phoronix.com/) | [RADV vs. AMDVLK Driver Performance For Strix Halo Radeon 8060S Graphics](https://www.phoronix.com/review/radv-amdvlk-strix-halo)
 

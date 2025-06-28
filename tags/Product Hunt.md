@@ -1,3 +1,6 @@
+## 20250628
+- [Product Hunt](https://www.producthunt.com) | [Fullpack](https://www.producthunt.com/posts/fullpack)
+
 ## 20250626
 - [Product Hunt](https://www.producthunt.com) | [Optibot](https://www.producthunt.com/posts/optibot)
 
