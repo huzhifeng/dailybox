@@ -1,3 +1,6 @@
+## 20250629
+- [Phoronix](https://www.phoronix.com/) | [Wine-Based Hangover Project Drops QEMU In Favor Of FEX & Box64 For Emulation](https://www.phoronix.com/news/Hangover-10.11-Released)
+
 ## 20250628
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Extends Cleaner Shader Support To More AMD CDNA/GFX9 GPUs](https://www.phoronix.com/news/AMD-Cleaner-Shader-CDNA-GFX9)
 

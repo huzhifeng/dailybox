@@ -1,3 +1,8 @@
+## 20250629
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-28](https://www.daemonology.net/hn-daily/2025-06-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-28](https://hacker-news.agi.li/post/2025-06-28)
+- [Hacker News](https://news.ycombinator.com/front) | [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://news.ycombinator.com/item?id=44411069)
+
 ## 20250628
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-27](https://www.daemonology.net/hn-daily/2025-06-27.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-27](https://hacker-news.agi.li/post/2025-06-27)

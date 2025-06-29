@@ -1,3 +1,6 @@
+## 20250629
+- [GitHub Trending](https://github.com/trending?since=daily) | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+
 ## 20250628
 - [GitHub Trending](https://github.com/trending?since=daily) | [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
