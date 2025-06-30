@@ -1,3 +1,7 @@
+## 20250630
+- [Phoronix](https://www.phoronix.com/) | [The Best Boring Benchmarks: Rocky Linux 10 & AlmaLinux 10 Performance Against RHEL 10](https://www.phoronix.com/review/almalinux-10-rocky-linux-10)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.7 Adds New Tool to Perform Auto-Rotation Based on Content Analysis](https://9to5linux.com/digikam-8-7-adds-new-tool-to-perform-auto-rotation-based-on-content-analysis)
+
 ## 20250629
 - [Phoronix](https://www.phoronix.com/) | [Wine-Based Hangover Project Drops QEMU In Favor Of FEX & Box64 For Emulation](https://www.phoronix.com/news/Hangover-10.11-Released)
 

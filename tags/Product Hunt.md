@@ -1,3 +1,6 @@
+## 20250630
+- [Product Hunt](https://www.producthunt.com) | [Picsart Ignite 2.0: AI for Creators](https://www.producthunt.com/posts/picsart-ignite-2-0-ai-for-creators)
+
 ## 20250629
 - [Product Hunt](https://www.producthunt.com) | [Neura](https://www.producthunt.com/posts/neura-4)
 

@@ -1,3 +1,6 @@
+## 20250630
+- [LibHunt](https://www.libhunt.com/) | [llvm-project-deluge](https://www.libhunt.com/r/llvm-project-deluge)
+
 ## 20250629
 - [LibHunt](https://www.libhunt.com/) | [vet](https://www.libhunt.com/r/vet-run/vet)
 

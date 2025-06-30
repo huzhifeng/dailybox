@@ -1,3 +1,6 @@
+## 20250630
+- [It's FOSS](https://itsfoss.com/) | [Relive the Golden Era: 5 Tools to Get Retro Feel on Linux](https://itsfoss.com/linux-retro-tools/)
+
 ## 20250626
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.26: Torvalds-Gates Showdown, Hyprland Premium, Fedora's 32-bit Debacle, Xfce Themes and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-26/)
 

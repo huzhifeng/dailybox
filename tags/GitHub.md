@@ -1,3 +1,6 @@
+## 20250630
+- [GitHub Trending](https://github.com/trending?since=daily) | [zyronon/typing-word](https://github.com/zyronon/typing-word)
+
 ## 20250629
 - [GitHub Trending](https://github.com/trending?since=daily) | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 

@@ -1,3 +1,6 @@
+## 20250630
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.7 Adds New Tool to Perform Auto-Rotation Based on Content Analysis](https://9to5linux.com/digikam-8-7-adds-new-tool-to-perform-auto-rotation-based-on-content-analysis)
+
 ## 20250624
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.1 Released with Various Improvements and Bug Fixes](https://9to5linux.com/kde-plasma-6-4-1-released-with-various-improvements-and-bug-fixes)
 

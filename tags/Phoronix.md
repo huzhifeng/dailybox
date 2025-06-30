@@ -1,3 +1,6 @@
+## 20250630
+- [Phoronix](https://www.phoronix.com/) | [The Best Boring Benchmarks: Rocky Linux 10 & AlmaLinux 10 Performance Against RHEL 10](https://www.phoronix.com/review/almalinux-10-rocky-linux-10)
+
 ## 20250629
 - [Phoronix](https://www.phoronix.com/) | [Wine-Based Hangover Project Drops QEMU In Favor Of FEX & Box64 For Emulation](https://www.phoronix.com/news/Hangover-10.11-Released)
 
