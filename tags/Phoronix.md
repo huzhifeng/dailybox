@@ -1,3 +1,6 @@
+## 20250701
+- [Phoronix](https://www.phoronix.com/) | [Performance & Power Of The Low-Cost EPYC 4005 "Grado" vs. Original EPYC 7601 Zen 1 Flagship CPU](https://www.phoronix.com/review/amd-epyc-4005-server)
+
 ## 20250630
 - [Phoronix](https://www.phoronix.com/) | [The Best Boring Benchmarks: Rocky Linux 10 & AlmaLinux 10 Performance Against RHEL 10](https://www.phoronix.com/review/almalinux-10-rocky-linux-10)
 

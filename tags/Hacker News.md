@@ -1,3 +1,8 @@
+## 20250701
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-30](https://www.daemonology.net/hn-daily/2025-06-30.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-30](https://hacker-news.agi.li/post/2025-06-30)
+- [Hacker News](https://news.ycombinator.com/front) | [Cloudflare to introduce pay-per-crawl for AI bots](https://news.ycombinator.com/item?id=44432385)
+
 ## 20250630
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-06-29](https://www.daemonology.net/hn-daily/2025-06-29.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-06-29](https://hacker-news.agi.li/post/2025-06-29)

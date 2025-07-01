@@ -1,3 +1,6 @@
+## 20250701
+- [GitHub Trending](https://github.com/trending?since=daily) | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+
 ## 20250630
 - [GitHub Trending](https://github.com/trending?since=daily) | [zyronon/typing-word](https://github.com/zyronon/typing-word)
 

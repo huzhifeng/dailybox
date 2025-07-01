@@ -1,3 +1,7 @@
+## 20250701
+- [Phoronix](https://www.phoronix.com/) | [Performance & Power Of The Low-Cost EPYC 4005 "Grado" vs. Original EPYC 7601 Zen 1 Flagship CPU](https://www.phoronix.com/review/amd-epyc-4005-server)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.2 Improves the Kicker App Menu Widget, Spectacle, and More](https://9to5linux.com/kde-plasma-6-4-2-improves-the-kicker-app-menu-widget-spectacle-and-more)
+
 ## 20250630
 - [Phoronix](https://www.phoronix.com/) | [The Best Boring Benchmarks: Rocky Linux 10 & AlmaLinux 10 Performance Against RHEL 10](https://www.phoronix.com/review/almalinux-10-rocky-linux-10)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.7 Adds New Tool to Perform Auto-Rotation Based on Content Analysis](https://9to5linux.com/digikam-8-7-adds-new-tool-to-perform-auto-rotation-based-on-content-analysis)
