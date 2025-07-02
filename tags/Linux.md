@@ -1,3 +1,7 @@
+## 20250702
+- [Phoronix](https://www.phoronix.com/) | [Firefox 120 To Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
+- [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Release Powered by Linux 6.15 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-release-powered-by-linux-6-15-is-now-available-for-download)
+
 ## 20250701
 - [Phoronix](https://www.phoronix.com/) | [Performance & Power Of The Low-Cost EPYC 4005 "Grado" vs. Original EPYC 7601 Zen 1 Flagship CPU](https://www.phoronix.com/review/amd-epyc-4005-server)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.2 Improves the Kicker App Menu Widget, Spectacle, and More](https://9to5linux.com/kde-plasma-6-4-2-improves-the-kicker-app-menu-widget-spectacle-and-more)

@@ -1,3 +1,6 @@
+## 20250702
+- [9to5Linux](https://9to5linux.com/) | [First Arch Linux ISO Release Powered by Linux 6.15 Is Now Available for Download](https://9to5linux.com/first-arch-linux-iso-release-powered-by-linux-6-15-is-now-available-for-download)
+
 ## 20250701
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.2 Improves the Kicker App Menu Widget, Spectacle, and More](https://9to5linux.com/kde-plasma-6-4-2-improves-the-kicker-app-menu-widget-spectacle-and-more)
 

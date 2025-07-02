@@ -1,3 +1,6 @@
+## 20250702
+- [LibHunt](https://www.libhunt.com/) | [ESLint](https://www.libhunt.com/r/eslint)
+
 ## 20250630
 - [LibHunt](https://www.libhunt.com/) | [llvm-project-deluge](https://www.libhunt.com/r/llvm-project-deluge)
 

@@ -1,3 +1,6 @@
+## 20250702
+- [GitHub Trending](https://github.com/trending?since=daily) | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+
 ## 20250701
 - [GitHub Trending](https://github.com/trending?since=daily) | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 

@@ -1,3 +1,6 @@
+## 20250702
+- [Phoronix](https://www.phoronix.com/) | [Firefox 120 To Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
+
 ## 20250701
 - [Phoronix](https://www.phoronix.com/) | [Performance & Power Of The Low-Cost EPYC 4005 "Grado" vs. Original EPYC 7601 Zen 1 Flagship CPU](https://www.phoronix.com/review/amd-epyc-4005-server)
 
