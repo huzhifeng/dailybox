@@ -1,3 +1,6 @@
+## 20250703
+- [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+
 ## 20250702
 - [GitHub Trending](https://github.com/trending?since=daily) | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 

@@ -1,3 +1,6 @@
+## 20250703
+- [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake Showing Some Performance Improvements With Linux 6.16](https://www.phoronix.com/review/x1-carbon-gen13-linux616)
+
 ## 20250702
 - [Phoronix](https://www.phoronix.com/) | [Firefox 120 To Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
 

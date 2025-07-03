@@ -1,3 +1,6 @@
+## 20250703
+- [Product Hunt](https://www.producthunt.com) | [AppStruct](https://www.producthunt.com/products/appstruct)
+
 ## 20250702
 - [Product Hunt](https://www.producthunt.com) | [String.com](https://www.producthunt.com/products/string-com)
 

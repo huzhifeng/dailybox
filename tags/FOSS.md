@@ -1,3 +1,6 @@
+## 20250703
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/)
+
 ## 20250630
 - [It's FOSS](https://itsfoss.com/) | [Relive the Golden Era: 5 Tools to Get Retro Feel on Linux](https://itsfoss.com/linux-retro-tools/)
 

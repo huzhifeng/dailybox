@@ -1,3 +1,6 @@
+## 20250703
+- [LibHunt](https://www.libhunt.com/) | [anubis](https://www.libhunt.com/r/anubis)
+
 ## 20250702
 - [LibHunt](https://www.libhunt.com/) | [ESLint](https://www.libhunt.com/r/eslint)
 
