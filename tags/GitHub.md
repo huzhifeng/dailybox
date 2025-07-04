@@ -1,3 +1,6 @@
+## 20250704
+- [GitHub Trending](https://github.com/trending?since=daily) | [btjawa/BiliTools](https://github.com/btjawa/BiliTools)
+
 ## 20250703
 - [GitHub Trending](https://github.com/trending?since=daily) | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 

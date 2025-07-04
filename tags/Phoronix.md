@@ -1,3 +1,6 @@
+## 20250704
+- [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Continues Making Progress With Wayland](https://www.phoronix.com/news/Redox-OS-June-2025)
+
 ## 20250703
 - [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake Showing Some Performance Improvements With Linux 6.16](https://www.phoronix.com/review/x1-carbon-gen13-linux616)
 

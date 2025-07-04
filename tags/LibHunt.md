@@ -1,3 +1,6 @@
+## 20250704
+- [LibHunt](https://www.libhunt.com/) | [sunlight](https://www.libhunt.com/r/sunlight)
+
 ## 20250703
 - [LibHunt](https://www.libhunt.com/) | [anubis](https://www.libhunt.com/r/anubis)
 

@@ -1,3 +1,6 @@
+## 20250704
+- [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Continues Making Progress With Wayland](https://www.phoronix.com/news/Redox-OS-June-2025)
+
 ## 20250703
 - [Phoronix](https://www.phoronix.com/) | [Intel Lunar Lake Showing Some Performance Improvements With Linux 6.16](https://www.phoronix.com/review/x1-carbon-gen13-linux616)
 - [9to5Linux](https://9to5linux.com/) | [Debian 13 Installer Now Supports Rescuing of Btrfs Systems Installed via Calamares](https://9to5linux.com/debian-13-installer-now-supports-rescuing-of-btrfs-systems-installed-via-calamares)

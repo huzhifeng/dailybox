@@ -1,3 +1,6 @@
+## 20250704
+- [Product Hunt](https://www.producthunt.com) | [Agnes AI ](https://www.producthunt.com/products/agnes-ai)
+
 ## 20250703
 - [Product Hunt](https://www.producthunt.com) | [AppStruct](https://www.producthunt.com/products/appstruct)
 
