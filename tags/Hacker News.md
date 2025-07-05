@@ -1,3 +1,8 @@
+## 20250705
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-04](https://www.daemonology.net/hn-daily/2025-07-04.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-04](https://hacker-news.agi.li/post/2025-07-04)
+- [Hacker News](https://news.ycombinator.com/front) | [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://news.ycombinator.com/item?id=44469124)
+
 ## 20250704
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-03](https://www.daemonology.net/hn-daily/2025-07-03.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-03](https://hacker-news.agi.li/post/2025-07-03)

@@ -1,3 +1,6 @@
+## 20250705
+- [Product Hunt](https://www.producthunt.com) | [Silenttype](https://www.producthunt.com/products/silenttype-hear-it-save-it)
+
 ## 20250704
 - [Product Hunt](https://www.producthunt.com) | [Agnes AI ](https://www.producthunt.com/products/agnes-ai)
 

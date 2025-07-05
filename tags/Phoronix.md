@@ -1,3 +1,6 @@
+## 20250705
+- [Phoronix](https://www.phoronix.com/) | [SUSE's Agama Installer Switches From X.Org To Wayland For Installation GUI](https://www.phoronix.com/news/SUSE-Agama-16-Installer)
+
 ## 20250704
 - [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Continues Making Progress With Wayland](https://www.phoronix.com/news/Redox-OS-June-2025)
 

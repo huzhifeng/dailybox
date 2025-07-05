@@ -1,3 +1,6 @@
+## 20250705
+- [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
+
 ## 20250704
 - [LibHunt](https://www.libhunt.com/) | [sunlight](https://www.libhunt.com/r/sunlight)
 

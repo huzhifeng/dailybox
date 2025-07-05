@@ -1,3 +1,6 @@
+## 20250705
+- [GitHub Trending](https://github.com/trending?since=daily) | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
 ## 20250704
 - [GitHub Trending](https://github.com/trending?since=daily) | [btjawa/BiliTools](https://github.com/btjawa/BiliTools)
 
