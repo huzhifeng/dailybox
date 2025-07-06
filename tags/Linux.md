@@ -1,3 +1,6 @@
+## 20250706
+- [Phoronix](https://www.phoronix.com/) | [Wayland 1.24 Released With Few Improvements](https://www.phoronix.com/news/Wayland-1.24-Released)
+
 ## 20250705
 - [Phoronix](https://www.phoronix.com/) | [SUSE's Agama Installer Switches From X.Org To Wayland For Installation GUI](https://www.phoronix.com/news/SUSE-Agama-16-Installer)
 

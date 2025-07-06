@@ -1,3 +1,6 @@
+## 20250706
+- [It's FOSS](https://itsfoss.com/) | [Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux](https://itsfoss.com/failed-to-synchronize-all-databases/)
+
 ## 20250703
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/)
 

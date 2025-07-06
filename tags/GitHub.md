@@ -1,3 +1,6 @@
+## 20250706
+- [GitHub Trending](https://github.com/trending?since=daily) | [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
 ## 20250705
 - [GitHub Trending](https://github.com/trending?since=daily) | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 

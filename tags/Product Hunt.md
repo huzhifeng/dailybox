@@ -1,3 +1,6 @@
+## 20250706
+- [Product Hunt](https://www.producthunt.com) | [Cloudflare Pay Per Crawl](https://www.producthunt.com/products/cloudflare)
+
 ## 20250705
 - [Product Hunt](https://www.producthunt.com) | [Silenttype](https://www.producthunt.com/products/silenttype-hear-it-save-it)
 
