@@ -1,3 +1,6 @@
+## 20250707
+- [Product Hunt](https://www.producthunt.com) | [Jukebox](https://www.producthunt.com/products/jukebox-6)
+
 ## 20250706
 - [Product Hunt](https://www.producthunt.com) | [Cloudflare Pay Per Crawl](https://www.producthunt.com/products/cloudflare)
 

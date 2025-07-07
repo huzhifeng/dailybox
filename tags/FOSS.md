@@ -1,3 +1,6 @@
+## 20250707
+- [It's FOSS](https://itsfoss.com/) | [Packet is the Linux App You Didn’t Know You Needed for Fast Android File Transfers](https://itsfoss.com/linux-android-file-transfer/)
+
 ## 20250706
 - [It's FOSS](https://itsfoss.com/) | [Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux](https://itsfoss.com/failed-to-synchronize-all-databases/)
 

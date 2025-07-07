@@ -1,3 +1,8 @@
+## 20250707
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-06](https://www.daemonology.net/hn-daily/2025-07-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-06](https://hacker-news.agi.li/post/2025-07-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://news.ycombinator.com/item?id=44485342)
+
 ## 20250706
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-05](https://www.daemonology.net/hn-daily/2025-07-05.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-05](https://hacker-news.agi.li/post/2025-07-05)

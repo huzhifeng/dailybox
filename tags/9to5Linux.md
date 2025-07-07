@@ -1,3 +1,6 @@
+## 20250707
+- [9to5Linux](https://9to5linux.com/) | [Wayland 1.24 Is Now Available for Download with New Features and Improvements](https://9to5linux.com/wayland-1-24-is-now-available-for-download-with-new-features-and-improvements)
+
 ## 20250703
 - [9to5Linux](https://9to5linux.com/) | [Debian 13 Installer Now Supports Rescuing of Btrfs Systems Installed via Calamares](https://9to5linux.com/debian-13-installer-now-supports-rescuing-of-btrfs-systems-installed-via-calamares)
 

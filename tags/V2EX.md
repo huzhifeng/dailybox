@@ -1,3 +1,6 @@
+## 20250707
+- [V2EX](https://www.v2ex.com/) | [跌了 30W 了。。。求安慰！](https://www.v2ex.com/t/1143551)
+
 ## 20250704
 - [V2EX](https://www.v2ex.com/) | [因小米造车爱小米，也因买小米车而成为米黑](https://www.v2ex.com/t/1143035)
 

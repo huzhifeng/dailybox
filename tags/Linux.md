@@ -1,3 +1,7 @@
+## 20250707
+- [Phoronix](https://www.phoronix.com/) | [AMD openSIL PoC Still Being Worked On For Phoenix SoCs, Turin Code Published](https://www.phoronix.com/news/AMD-openSIL-Phoenix-Turin-2025)
+- [9to5Linux](https://9to5linux.com/) | [Wayland 1.24 Is Now Available for Download with New Features and Improvements](https://9to5linux.com/wayland-1-24-is-now-available-for-download-with-new-features-and-improvements)
+
 ## 20250706
 - [Phoronix](https://www.phoronix.com/) | [Wayland 1.24 Released With Few Improvements](https://www.phoronix.com/news/Wayland-1.24-Released)
 

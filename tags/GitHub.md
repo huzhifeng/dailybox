@@ -1,3 +1,6 @@
+## 20250707
+- [GitHub Trending](https://github.com/trending?since=daily) | [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+
 ## 20250706
 - [GitHub Trending](https://github.com/trending?since=daily) | [MotiaDev/motia](https://github.com/MotiaDev/motia)
 
