@@ -1,3 +1,6 @@
+## 20250708
+- [Product Hunt](https://www.producthunt.com) | [Molku AI](https://www.producthunt.com/products/molku-automatic-data-transfer-in-seconds)
+
 ## 20250707
 - [Product Hunt](https://www.producthunt.com) | [Jukebox](https://www.producthunt.com/products/jukebox-6)
 

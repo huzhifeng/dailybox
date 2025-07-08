@@ -1,3 +1,6 @@
+## 20250708
+- [GitHub Trending](https://github.com/trending?since=daily) | [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
 ## 20250707
 - [GitHub Trending](https://github.com/trending?since=daily) | [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
 

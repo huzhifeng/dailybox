@@ -1,3 +1,6 @@
+## 20250708
+- [LibHunt](https://www.libhunt.com/) | [moley](https://www.libhunt.com/r/moley)
+
 ## 20250707
 - [LibHunt](https://www.libhunt.com/) | [opencode](https://www.libhunt.com/r/opencode)
 

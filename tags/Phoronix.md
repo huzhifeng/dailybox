@@ -1,3 +1,6 @@
+## 20250708
+- [Phoronix](https://www.phoronix.com/) | [IBM Announces Power11 With "99.9999%" Uptime, 55% Better Core Performance Than Power9](https://www.phoronix.com/news/IBM-Power11-Announced)
+
 ## 20250707
 - [Phoronix](https://www.phoronix.com/) | [AMD openSIL PoC Still Being Worked On For Phoenix SoCs, Turin Code Published](https://www.phoronix.com/news/AMD-openSIL-Phoenix-Turin-2025)
 
