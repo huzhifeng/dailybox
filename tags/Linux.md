@@ -1,3 +1,6 @@
+## 20250709
+- [Phoronix](https://www.phoronix.com/) | [AMD's Epic Performance Gains From The Original EPYC 7601 To EPYC 9755 / EPYC 9965](https://www.phoronix.com/review/amd-epyc-9005-7601)
+
 ## 20250708
 - [Phoronix](https://www.phoronix.com/) | [IBM Announces Power11 With "99.9999%" Uptime, 55% Better Core Performance Than Power9](https://www.phoronix.com/news/IBM-Power11-Announced)
 

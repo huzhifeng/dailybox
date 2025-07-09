@@ -1,3 +1,6 @@
+## 20250709
+- [GitHub Trending](https://github.com/trending?since=daily) | [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
+
 ## 20250708
 - [GitHub Trending](https://github.com/trending?since=daily) | [rustfs/rustfs](https://github.com/rustfs/rustfs)
 
