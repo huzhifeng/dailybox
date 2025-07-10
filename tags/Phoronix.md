@@ -1,3 +1,6 @@
+## 20250710
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15.6, 6.12.37 LTS & Other Stable Kernels Deliver TSA Mitigations](https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS)
+
 ## 20250709
 - [Phoronix](https://www.phoronix.com/) | [AMD's Epic Performance Gains From The Original EPYC 7601 To EPYC 9755 / EPYC 9965](https://www.phoronix.com/review/amd-epyc-9005-7601)
 

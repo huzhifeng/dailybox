@@ -1,3 +1,6 @@
+## 20250710
+- [GitHub Trending](https://github.com/trending?since=daily) | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+
 ## 20250709
 - [GitHub Trending](https://github.com/trending?since=daily) | [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
 

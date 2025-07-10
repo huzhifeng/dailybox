@@ -1,3 +1,6 @@
+## 20250710
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Adder WS Linux Laptop Gets Intel Core Ultra i9 and NVIDIA 50 Series](https://9to5linux.com/system76s-adder-ws-linux-laptop-gets-intel-core-ultra-i9-and-nvidia-50-series)
+
 ## 20250707
 - [9to5Linux](https://9to5linux.com/) | [Wayland 1.24 Is Now Available for Download with New Features and Improvements](https://9to5linux.com/wayland-1-24-is-now-available-for-download-with-new-features-and-improvements)
 

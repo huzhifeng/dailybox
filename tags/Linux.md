@@ -1,3 +1,7 @@
+## 20250710
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.15.6, 6.12.37 LTS & Other Stable Kernels Deliver TSA Mitigations](https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS)
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Adder WS Linux Laptop Gets Intel Core Ultra i9 and NVIDIA 50 Series](https://9to5linux.com/system76s-adder-ws-linux-laptop-gets-intel-core-ultra-i9-and-nvidia-50-series)
+
 ## 20250709
 - [Phoronix](https://www.phoronix.com/) | [AMD's Epic Performance Gains From The Original EPYC 7601 To EPYC 9755 / EPYC 9965](https://www.phoronix.com/review/amd-epyc-9005-7601)
 

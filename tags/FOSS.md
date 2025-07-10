@@ -1,3 +1,6 @@
+## 20250710
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/)
+
 ## 20250707
 - [It's FOSS](https://itsfoss.com/) | [Packet is the Linux App You Didn’t Know You Needed for Fast Android File Transfers](https://itsfoss.com/linux-android-file-transfer/)
 
