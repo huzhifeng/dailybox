@@ -1,3 +1,6 @@
+## 20250711
+- [GitHub Trending](https://github.com/trending?since=daily) | [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
+
 ## 20250710
 - [GitHub Trending](https://github.com/trending?since=daily) | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 

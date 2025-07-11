@@ -1,3 +1,7 @@
+## 20250711
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 9070 Ray-Tracing Performance Improving With Mesa 25.2](https://www.phoronix.com/review/mesa-252-radv-rt-rdna4)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.16 Improves Plasma&#8217;s Ability to Detect the Most Powerful GPU](https://9to5linux.com/kde-frameworks-6-16-improves-plasmas-ability-to-detect-the-most-powerful-gpu)
+
 ## 20250710
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15.6, 6.12.37 LTS & Other Stable Kernels Deliver TSA Mitigations](https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS)
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Adder WS Linux Laptop Gets Intel Core Ultra i9 and NVIDIA 50 Series](https://9to5linux.com/system76s-adder-ws-linux-laptop-gets-intel-core-ultra-i9-and-nvidia-50-series)

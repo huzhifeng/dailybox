@@ -1,3 +1,6 @@
+## 20250711
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 9070 Ray-Tracing Performance Improving With Mesa 25.2](https://www.phoronix.com/review/mesa-252-radv-rt-rdna4)
+
 ## 20250710
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.15.6, 6.12.37 LTS & Other Stable Kernels Deliver TSA Mitigations](https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS)
 
