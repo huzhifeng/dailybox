@@ -1,3 +1,8 @@
+## 20250712
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-11](https://www.daemonology.net/hn-daily/2025-07-11.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-11](https://hacker-news.agi.li/post/2025-07-11)
+- [Hacker News](https://news.ycombinator.com/front) | [MacPaint Art from the Mid-80s Still Looks Great Today](https://news.ycombinator.com/item?id=44540402)
+
 ## 20250711
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-10](https://www.daemonology.net/hn-daily/2025-07-10.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-10](https://hacker-news.agi.li/post/2025-07-10)

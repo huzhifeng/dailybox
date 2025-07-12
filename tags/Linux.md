@@ -1,3 +1,6 @@
+## 20250712
+- [Phoronix](https://www.phoronix.com/) | [Wine-Staging 10.2 Release Brings Patch For 11 Year Old Bug](https://www.phoronix.com/news/Wine-Staging-10.2-Released)
+
 ## 20250711
 - [Phoronix](https://www.phoronix.com/) | [AMD Radeon RX 9070 Ray-Tracing Performance Improving With Mesa 25.2](https://www.phoronix.com/review/mesa-252-radv-rt-rdna4)
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.16 Improves Plasma&#8217;s Ability to Detect the Most Powerful GPU](https://9to5linux.com/kde-frameworks-6-16-improves-plasmas-ability-to-detect-the-most-powerful-gpu)

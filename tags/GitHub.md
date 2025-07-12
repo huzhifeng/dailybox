@@ -1,3 +1,6 @@
+## 20250712
+- [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
+
 ## 20250711
 - [GitHub Trending](https://github.com/trending?since=daily) | [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
 
