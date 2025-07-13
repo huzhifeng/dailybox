@@ -1,3 +1,6 @@
+## 20250713
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Ready With Fixes For Old AMD Hardware "Which Wasn't Even Supposed To Run Linux"](https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent)
+
 ## 20250712
 - [Phoronix](https://www.phoronix.com/) | [Wine-Staging 10.2 Release Brings Patch For 11 Year Old Bug](https://www.phoronix.com/news/Wine-Staging-10.2-Released)
 

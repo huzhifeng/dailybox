@@ -1,3 +1,6 @@
+## 20250713
+- [GitHub Trending](https://github.com/trending?since=daily) | [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
 ## 20250712
 - [GitHub Trending](https://github.com/trending?since=daily) | [goauthentik/authentik](https://github.com/goauthentik/authentik)
 

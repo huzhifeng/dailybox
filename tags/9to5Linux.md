@@ -1,3 +1,6 @@
+## 20250713
+- [9to5Linux](https://9to5linux.com/) | [CachyOS July 2025 Update Finally Lets Users Choose the Shell During Installation](https://9to5linux.com/cachyos-july-2025-update-finally-lets-users-choose-the-shell-during-installation)
+
 ## 20250711
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.16 Improves Plasma&#8217;s Ability to Detect the Most Powerful GPU](https://9to5linux.com/kde-frameworks-6-16-improves-plasmas-ability-to-detect-the-most-powerful-gpu)
 
