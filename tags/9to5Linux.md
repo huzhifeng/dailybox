@@ -1,3 +1,6 @@
+## 20250714
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 13th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-13th-2025)
+
 ## 20250713
 - [9to5Linux](https://9to5linux.com/) | [CachyOS July 2025 Update Finally Lets Users Choose the Shell During Installation](https://9to5linux.com/cachyos-july-2025-update-finally-lets-users-choose-the-shell-during-installation)
 

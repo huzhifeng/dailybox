@@ -1,3 +1,7 @@
+## 20250714
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [acuraNJoyer/Gift-Buyer-Tg](https://github.com/acuraNJoyer/Gift-Buyer-Tg)
+
 ## 20250713
 - [GitHub Trending](https://github.com/trending?since=daily) | [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 

@@ -1,3 +1,7 @@
+## 20250714
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.2 NVK vs. NVIDIA R575 Linux Graphics Performance For GeForce RTX 40 Series](https://www.phoronix.com/review/mesa-252-nvk-nvidia)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 13th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-13th-2025)
+
 ## 20250713
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Ready With Fixes For Old AMD Hardware "Which Wasn't Even Supposed To Run Linux"](https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent)
 - [9to5Linux](https://9to5linux.com/) | [CachyOS July 2025 Update Finally Lets Users Choose the Shell During Installation](https://9to5linux.com/cachyos-july-2025-update-finally-lets-users-choose-the-shell-during-installation)

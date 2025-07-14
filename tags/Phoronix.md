@@ -1,3 +1,6 @@
+## 20250714
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.2 NVK vs. NVIDIA R575 Linux Graphics Performance For GeForce RTX 40 Series](https://www.phoronix.com/review/mesa-252-nvk-nvidia)
+
 ## 20250713
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16 Ready With Fixes For Old AMD Hardware "Which Wasn't Even Supposed To Run Linux"](https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent)
 
