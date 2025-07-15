@@ -1,3 +1,6 @@
+## 20250715
+- [9to5Linux](https://9to5linux.com/) | [Blender 4.5 LTS Open-Source 3D Graphics App Makes the Vulkan Backend Stable](https://9to5linux.com/blender-4-5-lts-open-source-3d-graphics-app-makes-the-vulkan-backend-stable)
+
 ## 20250714
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 13th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-13th-2025)
 

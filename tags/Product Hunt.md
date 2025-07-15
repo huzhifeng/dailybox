@@ -1,3 +1,6 @@
+## 20250715
+- [Product Hunt](https://www.producthunt.com) | [Machined V3](https://www.producthunt.com/products/machined)
+
 ## 20250713
 - [Product Hunt](https://www.producthunt.com) | [Planori](https://www.producthunt.com/products/planori)
 

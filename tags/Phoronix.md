@@ -1,3 +1,6 @@
+## 20250715
+- [Phoronix](https://www.phoronix.com/) | [Blender 4.5 LTS Released With Vulkan & Wayland Improvements, Some Optimizations](https://www.phoronix.com/news/Blender-4.5-LTS-Released)
+
 ## 20250714
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.2 NVK vs. NVIDIA R575 Linux Graphics Performance For GeForce RTX 40 Series](https://www.phoronix.com/review/mesa-252-nvk-nvidia)
 

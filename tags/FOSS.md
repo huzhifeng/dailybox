@@ -1,3 +1,6 @@
+## 20250715
+- [It's FOSS](https://itsfoss.com/) | [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/)
+
 ## 20250710
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/)
 
