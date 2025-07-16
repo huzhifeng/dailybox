@@ -1,3 +1,6 @@
+## 20250716
+- [Product Hunt](https://www.producthunt.com) | [Brain MAX by ClickUp](https://www.producthunt.com/products/clickup)
+
 ## 20250715
 - [Product Hunt](https://www.producthunt.com) | [Machined V3](https://www.producthunt.com/products/machined)
 

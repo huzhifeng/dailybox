@@ -1,3 +1,6 @@
+## 20250716
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.2-rc1 Released: Faster RADV Ray-Tracing, NVK Blackwell & More Optimizations](https://www.phoronix.com/news/Mesa-25.2-rc1-Released)
+
 ## 20250715
 - [Phoronix](https://www.phoronix.com/) | [Blender 4.5 LTS Released With Vulkan & Wayland Improvements, Some Optimizations](https://www.phoronix.com/news/Blender-4.5-LTS-Released)
 - [9to5Linux](https://9to5linux.com/) | [Blender 4.5 LTS Open-Source 3D Graphics App Makes the Vulkan Backend Stable](https://9to5linux.com/blender-4-5-lts-open-source-3d-graphics-app-makes-the-vulkan-backend-stable)

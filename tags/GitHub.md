@@ -1,3 +1,6 @@
+## 20250716
+- [GitHub Trending](https://github.com/trending?since=daily) | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+
 ## 20250715
 - [GitHub Trending](https://github.com/trending?since=daily) | [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 

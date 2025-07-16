@@ -1,3 +1,6 @@
+## 20250716
+- [It's FOSS](https://itsfoss.com/) | [Unsure About the Future of Windsurf? Try These Alternative Vibe Coding Editors on Linux](https://itsfoss.com/windsurf-alternatives/)
+
 ## 20250715
 - [It's FOSS](https://itsfoss.com/) | [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/)
 
