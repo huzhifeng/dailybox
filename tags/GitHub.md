@@ -1,3 +1,6 @@
+## 20250717
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
 ## 20250716
 - [GitHub Trending](https://github.com/trending?since=daily) | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
 

@@ -1,3 +1,7 @@
+## 20250717
+- [Phoronix](https://www.phoronix.com/) | [Google Continues Working On "Magma" For Mesa Cross-Platform System Call Interface](https://www.phoronix.com/news/Mesa-Magma-Cross-Platform)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.5 Office Suite Is Now Available for Download with 63 Bug Fixes](https://9to5linux.com/libreoffice-25-2-5-office-suite-is-now-available-for-download-with-63-bug-fixes)
+
 ## 20250716
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.2-rc1 Released: Faster RADV Ray-Tracing, NVK Blackwell & More Optimizations](https://www.phoronix.com/news/Mesa-25.2-rc1-Released)
 

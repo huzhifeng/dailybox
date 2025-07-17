@@ -1,3 +1,6 @@
+## 20250717
+- [Product Hunt](https://www.producthunt.com) | [Snack it](https://www.producthunt.com/products/snack-prompt)
+
 ## 20250716
 - [Product Hunt](https://www.producthunt.com) | [Brain MAX by ClickUp](https://www.producthunt.com/products/clickup)
 

@@ -1,3 +1,6 @@
+## 20250717
+- [Phoronix](https://www.phoronix.com/) | [Google Continues Working On "Magma" For Mesa Cross-Platform System Call Interface](https://www.phoronix.com/news/Mesa-Magma-Cross-Platform)
+
 ## 20250716
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.2-rc1 Released: Faster RADV Ray-Tracing, NVK Blackwell & More Optimizations](https://www.phoronix.com/news/Mesa-25.2-rc1-Released)
 

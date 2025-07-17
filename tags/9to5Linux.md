@@ -1,3 +1,6 @@
+## 20250717
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.5 Office Suite Is Now Available for Download with 63 Bug Fixes](https://9to5linux.com/libreoffice-25-2-5-office-suite-is-now-available-for-download-with-63-bug-fixes)
+
 ## 20250715
 - [9to5Linux](https://9to5linux.com/) | [Blender 4.5 LTS Open-Source 3D Graphics App Makes the Vulkan Backend Stable](https://9to5linux.com/blender-4-5-lts-open-source-3d-graphics-app-makes-the-vulkan-backend-stable)
 
