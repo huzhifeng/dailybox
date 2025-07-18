@@ -1,3 +1,6 @@
+## 20250718
+- [Product Hunt](https://www.producthunt.com) | [NeetoCal V2](https://www.producthunt.com/products/neetocal)
+
 ## 20250717
 - [Product Hunt](https://www.producthunt.com) | [Snack it](https://www.producthunt.com/products/snack-prompt)
 

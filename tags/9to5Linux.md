@@ -1,3 +1,6 @@
+## 20250718
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.7 Adds Support for Generating Page Number Files on MTP-Based Kindles](https://9to5linux.com/calibre-8-7-adds-support-for-generating-page-number-files-on-mtp-based-kindles)
+
 ## 20250717
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.5 Office Suite Is Now Available for Download with 63 Bug Fixes](https://9to5linux.com/libreoffice-25-2-5-office-suite-is-now-available-for-download-with-63-bug-fixes)
 

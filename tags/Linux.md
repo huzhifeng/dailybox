@@ -1,3 +1,7 @@
+## 20250718
+- [Phoronix](https://www.phoronix.com/) | [Intel Compute Runtime 25.27.34303.5 Brings Support For Wildcat Lake & BMG G31](https://www.phoronix.com/news/Intel-CR-25.27.34303.5)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.7 Adds Support for Generating Page Number Files on MTP-Based Kindles](https://9to5linux.com/calibre-8-7-adds-support-for-generating-page-number-files-on-mtp-based-kindles)
+
 ## 20250717
 - [Phoronix](https://www.phoronix.com/) | [Google Continues Working On "Magma" For Mesa Cross-Platform System Call Interface](https://www.phoronix.com/news/Mesa-Magma-Cross-Platform)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.5 Office Suite Is Now Available for Download with 63 Bug Fixes](https://9to5linux.com/libreoffice-25-2-5-office-suite-is-now-available-for-download-with-63-bug-fixes)

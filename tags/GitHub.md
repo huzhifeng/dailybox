@@ -1,3 +1,6 @@
+## 20250718
+- [GitHub Trending](https://github.com/trending?since=daily) | [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
+
 ## 20250717
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 

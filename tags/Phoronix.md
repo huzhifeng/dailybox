@@ -1,3 +1,6 @@
+## 20250718
+- [Phoronix](https://www.phoronix.com/) | [Intel Compute Runtime 25.27.34303.5 Brings Support For Wildcat Lake & BMG G31](https://www.phoronix.com/news/Intel-CR-25.27.34303.5)
+
 ## 20250717
 - [Phoronix](https://www.phoronix.com/) | [Google Continues Working On "Magma" For Mesa Cross-Platform System Call Interface](https://www.phoronix.com/news/Mesa-Magma-Cross-Platform)
 
