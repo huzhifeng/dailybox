@@ -1,3 +1,6 @@
+## 20250719
+- [Phoronix](https://www.phoronix.com/) | [Debian 13.0 "Trixie" Planning For Release On August 9](https://www.phoronix.com/news/Debian-13.0-Release-Date-Aug-9)
+
 ## 20250718
 - [Phoronix](https://www.phoronix.com/) | [Intel Compute Runtime 25.27.34303.5 Brings Support For Wildcat Lake & BMG G31](https://www.phoronix.com/news/Intel-CR-25.27.34303.5)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.7 Adds Support for Generating Page Number Files on MTP-Based Kindles](https://9to5linux.com/calibre-8-7-adds-support-for-generating-page-number-files-on-mtp-based-kindles)

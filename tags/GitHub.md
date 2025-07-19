@@ -1,3 +1,6 @@
+## 20250719
+- [GitHub Trending](https://github.com/trending?since=daily) | [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+
 ## 20250718
 - [GitHub Trending](https://github.com/trending?since=daily) | [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
 
