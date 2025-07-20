@@ -1,3 +1,6 @@
+## 20250720
+- [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
 ## 20250719
 - [GitHub Trending](https://github.com/trending?since=daily) | [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 

@@ -1,3 +1,6 @@
+## 20250720
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Bringing CUDA To RISC-V](https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V)
+
 ## 20250719
 - [Phoronix](https://www.phoronix.com/) | [Debian 13.0 "Trixie" Planning For Release On August 9](https://www.phoronix.com/news/Debian-13.0-Release-Date-Aug-9)
 
