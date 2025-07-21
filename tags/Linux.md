@@ -1,3 +1,7 @@
+## 20250721
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes More Hopper & Blackwell Header Files Open-Source](https://www.phoronix.com/news/NVIDIA-Hopper-Blackwell-DMA)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 141 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-141-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250720
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Bringing CUDA To RISC-V](https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V)
 

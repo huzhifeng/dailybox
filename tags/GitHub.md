@@ -1,3 +1,7 @@
+## 20250721
+- [GitHub Trending](https://github.com/trending?since=daily) | [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
+
 ## 20250720
 - [GitHub Trending](https://github.com/trending?since=daily) | [n8n-io/n8n](https://github.com/n8n-io/n8n)
 

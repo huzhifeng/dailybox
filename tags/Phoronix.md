@@ -1,3 +1,6 @@
+## 20250721
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes More Hopper & Blackwell Header Files Open-Source](https://www.phoronix.com/news/NVIDIA-Hopper-Blackwell-DMA)
+
 ## 20250720
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Bringing CUDA To RISC-V](https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V)
 

@@ -1,3 +1,6 @@
+## 20250721
+- [It's FOSS](https://itsfoss.com/) | [I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks](https://itsfoss.com/kitty-customization/)
+
 ## 20250717
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-29/)
 

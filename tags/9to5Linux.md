@@ -1,3 +1,6 @@
+## 20250721
+- [9to5Linux](https://9to5linux.com/) | [Firefox 141 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-141-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250718
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.7 Adds Support for Generating Page Number Files on MTP-Based Kindles](https://9to5linux.com/calibre-8-7-adds-support-for-generating-page-number-files-on-mtp-based-kindles)
 
