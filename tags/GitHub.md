@@ -1,3 +1,6 @@
+## 20250722
+- [GitHub Trending](https://github.com/trending?since=daily) | [Lissy93/dashy](https://github.com/Lissy93/dashy)
+
 ## 20250721
 - [GitHub Trending](https://github.com/trending?since=daily) | [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)

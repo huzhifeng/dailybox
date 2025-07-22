@@ -1,3 +1,6 @@
+## 20250722
+- [It's FOSS](https://itsfoss.com/) | [I Found a New Open Source Grammar Checker Tool And I Like it... Well... Kind of](https://itsfoss.com/harper-grammar-checker/)
+
 ## 20250721
 - [It's FOSS](https://itsfoss.com/) | [I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks](https://itsfoss.com/kitty-customization/)
 

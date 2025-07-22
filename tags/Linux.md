@@ -1,3 +1,6 @@
+## 20250722
+- [Phoronix](https://www.phoronix.com/) | [A Number Of Problems Make Debian & Other Linux Distros A Pain On Snapdragon X Laptops](https://www.phoronix.com/news/Debian-Struggles-WoA-Laptops)
+
 ## 20250721
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Makes More Hopper & Blackwell Header Files Open-Source](https://www.phoronix.com/news/NVIDIA-Hopper-Blackwell-DMA)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 141 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-141-web-browser-is-now-available-for-download-heres-whats-new)
