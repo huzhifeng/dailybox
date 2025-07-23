@@ -1,3 +1,6 @@
+## 20250723
+- [Phoronix](https://www.phoronix.com/) | [Blender Now Supports Properly Importing & Exporting HDR Videos](https://www.phoronix.com/news/Blender-HDR-Video-Import-Export)
+
 ## 20250722
 - [Phoronix](https://www.phoronix.com/) | [A Number Of Problems Make Debian & Other Linux Distros A Pain On Snapdragon X Laptops](https://www.phoronix.com/news/Debian-Struggles-WoA-Laptops)
 

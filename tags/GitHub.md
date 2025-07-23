@@ -1,3 +1,6 @@
+## 20250723
+- [GitHub Trending](https://github.com/trending?since=daily) | [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
+
 ## 20250722
 - [GitHub Trending](https://github.com/trending?since=daily) | [Lissy93/dashy](https://github.com/Lissy93/dashy)
 
