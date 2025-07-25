@@ -1,3 +1,6 @@
+## 20250725
+- [Product Hunt](https://www.producthunt.com) | [Opal](https://www.producthunt.com/products/google)
+
 ## 20250723
 - [Product Hunt](https://www.producthunt.com) | [Qwen3-Coder](https://www.producthunt.com/products/qwen3)
 

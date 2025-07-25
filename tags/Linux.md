@@ -1,3 +1,6 @@
+## 20250725
+- [Phoronix](https://www.phoronix.com/) | [Final Benchmarks Of Clear Linux On Intel: ~48% Faster Than Ubuntu Out-Of-The-Box](https://www.phoronix.com/review/clear-linux-48p-ubuntu)
+
 ## 20250723
 - [Phoronix](https://www.phoronix.com/) | [Blender Now Supports Properly Importing & Exporting HDR Videos](https://www.phoronix.com/news/Blender-HDR-Video-Import-Export)
 

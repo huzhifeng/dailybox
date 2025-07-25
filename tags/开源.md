@@ -1,3 +1,6 @@
+## 20250725
+- [GitHub Trending](https://github.com/trending?since=daily) | [frappe/hrms](https://github.com/frappe/hrms)
+
 ## 20250723
 - [GitHub Trending](https://github.com/trending?since=daily) | [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
 
