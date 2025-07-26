@@ -1,3 +1,6 @@
+## 20250726
+- [It's FOSS](https://itsfoss.com/) | [5 Open Source Apps You Can use for Seamless File Transfer Between Linux and Android](https://itsfoss.com/file-transfer-apps-linux-android/)
+
 ## 20250722
 - [It's FOSS](https://itsfoss.com/) | [I Found a New Open Source Grammar Checker Tool And I Like it... Well... Kind of](https://itsfoss.com/harper-grammar-checker/)
 

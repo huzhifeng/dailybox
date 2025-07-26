@@ -1,3 +1,6 @@
+## 20250726
+- [GitHub Trending](https://github.com/trending?since=daily) | [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
+
 ## 20250725
 - [GitHub Trending](https://github.com/trending?since=daily) | [frappe/hrms](https://github.com/frappe/hrms)
 

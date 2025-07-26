@@ -1,3 +1,6 @@
+## 20250726
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Sound Code Prepares For Upcoming AMD Hardware](https://www.phoronix.com/news/Linux-6.17-Sound)
+
 ## 20250725
 - [Phoronix](https://www.phoronix.com/) | [Final Benchmarks Of Clear Linux On Intel: ~48% Faster Than Ubuntu Out-Of-The-Box](https://www.phoronix.com/review/clear-linux-48p-ubuntu)
 

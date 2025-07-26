@@ -1,3 +1,6 @@
+## 20250726
+- [LibHunt](https://www.libhunt.com/) | [pieces-os-client-sdk-for-typescript](https://www.libhunt.com/r/pieces-os-client-sdk-for-typescript)
+
 ## 20250722
 - [LibHunt](https://www.libhunt.com/) | [jjui](https://www.libhunt.com/r/jjui)
 
