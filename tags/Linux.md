@@ -1,3 +1,7 @@
+## 20250727
+- [Phoronix](https://www.phoronix.com/) | [AMD Kernel Graphics Driver Exceeds 5.9 Million Lines In Linux 6.16](https://www.phoronix.com/news/Linux-6.16-AMDGPU-Driver-Size)
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
+
 ## 20250726
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Sound Code Prepares For Upcoming AMD Hardware](https://www.phoronix.com/news/Linux-6.17-Sound)
 

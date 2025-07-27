@@ -1,3 +1,6 @@
+## 20250727
+- [9to5Linux](https://9to5linux.com/) | [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
+
 ## 20250721
 - [9to5Linux](https://9to5linux.com/) | [Firefox 141 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-141-web-browser-is-now-available-for-download-heres-whats-new)
 

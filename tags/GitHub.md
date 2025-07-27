@@ -1,3 +1,6 @@
+## 20250727
+- [GitHub Trending](https://github.com/trending?since=daily) | [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+
 ## 20250726
 - [GitHub Trending](https://github.com/trending?since=daily) | [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 

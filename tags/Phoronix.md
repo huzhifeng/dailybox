@@ -1,3 +1,6 @@
+## 20250727
+- [Phoronix](https://www.phoronix.com/) | [AMD Kernel Graphics Driver Exceeds 5.9 Million Lines In Linux 6.16](https://www.phoronix.com/news/Linux-6.16-AMDGPU-Driver-Size)
+
 ## 20250726
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Sound Code Prepares For Upcoming AMD Hardware](https://www.phoronix.com/news/Linux-6.17-Sound)
 
