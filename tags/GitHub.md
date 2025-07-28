@@ -1,3 +1,6 @@
+## 20250728
+- [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 ## 20250727
 - [GitHub Trending](https://github.com/trending?since=daily) | [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
 

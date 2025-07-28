@@ -1,3 +1,6 @@
+## 20250728
+- [Product Hunt](https://www.producthunt.com) | [Singify AI Vocal Remover](https://www.producthunt.com/products/singify-ai-vocal-remover)
+
 ## 20250727
 - [Product Hunt](https://www.producthunt.com) | [One Dollar Resume Review](https://www.producthunt.com/products/one-dollar-resume-review)
 
