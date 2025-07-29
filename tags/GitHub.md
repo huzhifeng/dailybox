@@ -1,3 +1,6 @@
+## 20250729
+- [GitHub Trending](https://github.com/trending?since=daily) | [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
+
 ## 20250728
 - [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 

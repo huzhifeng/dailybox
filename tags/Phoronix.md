@@ -1,3 +1,6 @@
+## 20250729
+- [Phoronix](https://www.phoronix.com/) | [AMD Streaming SDK Updated With Linux Support - But Recommending X.Org Over Wayland](https://www.phoronix.com/news/AMD-Streaming-SDK-Linux)
+
 ## 20250728
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16's New "X86_NATIVE_CPU" Option Enhances I/O & Some Graphics/Gaming Workloads](https://www.phoronix.com/review/linux-616-x86-native-cpu)
 

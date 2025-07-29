@@ -1,3 +1,6 @@
+## 20250729
+- [LibHunt](https://www.libhunt.com/) | [sqlx](https://www.libhunt.com/r/launchbadge/sqlx)
+
 ## 20250728
 - [LibHunt](https://www.libhunt.com/) | [av-app-android-wallet-ui](https://www.libhunt.com/r/av-app-android-wallet-ui)
 
