@@ -1,3 +1,6 @@
+## 20250730
+- [Phoronix](https://www.phoronix.com/) | [AMD Threadripper 9980X + 9970X Linux Benchmarks: Incredible Workstation Performance](https://www.phoronix.com/review/amd-threadripper-9970x-9980x-linux)
+
 ## 20250729
 - [Phoronix](https://www.phoronix.com/) | [AMD Streaming SDK Updated With Linux Support - But Recommending X.Org Over Wayland](https://www.phoronix.com/news/AMD-Streaming-SDK-Linux)
 

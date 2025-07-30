@@ -1,3 +1,6 @@
+## 20250730
+- [It's FOSS](https://itsfoss.com/) | [Diablo-like Games You Can Play With Steam on Linux](https://itsfoss.com/diablo-like-games/)
+
 ## 20250726
 - [It's FOSS](https://itsfoss.com/) | [5 Open Source Apps You Can use for Seamless File Transfer Between Linux and Android](https://itsfoss.com/file-transfer-apps-linux-android/)
 

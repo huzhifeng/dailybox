@@ -1,3 +1,6 @@
+## 20250730
+- [Product Hunt](https://www.producthunt.com) | [ChatGPT study mode](https://www.producthunt.com/products/openai-api)
+
 ## 20250729
 - [Product Hunt](https://www.producthunt.com) | [Magic Patterns](https://www.producthunt.com/products/magicpatterns)
 
