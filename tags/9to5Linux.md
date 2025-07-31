@@ -1,3 +1,6 @@
+## 20250731
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Gets U2F Authentication and Bluetooth Support](https://9to5linux.com/arch-linux-installer-gets-u2f-authentication-and-bluetooth-support)
+
 ## 20250727
 - [9to5Linux](https://9to5linux.com/) | [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
 

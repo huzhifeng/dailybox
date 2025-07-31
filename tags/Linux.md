@@ -1,3 +1,7 @@
+## 20250731
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers](https://www.phoronix.com/review/amd-epyc-4545p)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Gets U2F Authentication and Bluetooth Support](https://9to5linux.com/arch-linux-installer-gets-u2f-authentication-and-bluetooth-support)
+
 ## 20250730
 - [Phoronix](https://www.phoronix.com/) | [AMD Threadripper 9980X + 9970X Linux Benchmarks: Incredible Workstation Performance](https://www.phoronix.com/review/amd-threadripper-9970x-9980x-linux)
 

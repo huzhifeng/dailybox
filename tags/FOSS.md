@@ -1,3 +1,6 @@
+## 20250731
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/)
+
 ## 20250730
 - [It's FOSS](https://itsfoss.com/) | [Diablo-like Games You Can Play With Steam on Linux](https://itsfoss.com/diablo-like-games/)
 

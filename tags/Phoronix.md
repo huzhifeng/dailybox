@@ -1,3 +1,6 @@
+## 20250731
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers](https://www.phoronix.com/review/amd-epyc-4545p)
+
 ## 20250730
 - [Phoronix](https://www.phoronix.com/) | [AMD Threadripper 9980X + 9970X Linux Benchmarks: Incredible Workstation Performance](https://www.phoronix.com/review/amd-threadripper-9970x-9980x-linux)
 
