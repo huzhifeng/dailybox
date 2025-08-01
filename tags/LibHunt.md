@@ -1,3 +1,6 @@
+## 20250801
+- [LibHunt](https://www.libhunt.com/) | [marimo](https://www.libhunt.com/r/marimo)
+
 ## 20250731
 - [LibHunt](https://www.libhunt.com/) | [reactuse](https://www.libhunt.com/r/reactuse)
 

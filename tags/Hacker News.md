@@ -1,3 +1,7 @@
+## 20250801
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-31](https://www.daemonology.net/hn-daily/2025-07-31.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-31](https://hacker-news.agi.li/post/2025-07-31)
+
 ## 20250731
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-07-30](https://www.daemonology.net/hn-daily/2025-07-30.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-07-30](https://hacker-news.agi.li/post/2025-07-30)

@@ -1,3 +1,6 @@
+## 20250801
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.324 Adds Experimental AMD Extension To Help With Ray-Tracing](https://www.phoronix.com/news/Vulkan-1.4.324)
+
 ## 20250731
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers](https://www.phoronix.com/review/amd-epyc-4545p)
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Gets U2F Authentication and Bluetooth Support](https://9to5linux.com/arch-linux-installer-gets-u2f-authentication-and-bluetooth-support)

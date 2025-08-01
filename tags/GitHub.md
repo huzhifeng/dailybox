@@ -1,3 +1,6 @@
+## 20250801
+- [GitHub Trending](https://github.com/trending?since=daily) | [stenzek/duckstation](https://github.com/stenzek/duckstation)
+
 ## 20250731
 - [GitHub Trending](https://github.com/trending?since=daily) | [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
 

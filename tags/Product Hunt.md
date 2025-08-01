@@ -1,3 +1,6 @@
+## 20250801
+- [Product Hunt](https://www.producthunt.com) | [Hecco AI](https://www.producthunt.com/products/hecco-ai-ai-that-understands-health)
+
 ## 20250731
 - [Product Hunt](https://www.producthunt.com) | [Mocha](https://www.producthunt.com/products/mocha-3)
 
