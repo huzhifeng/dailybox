@@ -1,3 +1,6 @@
+## 20250802
+- [Product Hunt](https://www.producthunt.com) | [ZINQ AI](https://www.producthunt.com/products/zinq)
+
 ## 20250801
 - [Product Hunt](https://www.producthunt.com) | [Hecco AI](https://www.producthunt.com/products/hecco-ai-ai-that-understands-health)
 

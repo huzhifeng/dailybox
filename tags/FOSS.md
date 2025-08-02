@@ -1,3 +1,6 @@
+## 20250802
+- [It's FOSS](https://itsfoss.com/) | [Looking for an Ubuntu Manual? Try This Book](https://itsfoss.com/ultimate-ubuntu-handbook-review/)
+
 ## 20250731
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/)
 

@@ -1,3 +1,6 @@
+## 20250802
+- [GitHub Trending](https://github.com/trending?since=daily) | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+
 ## 20250801
 - [GitHub Trending](https://github.com/trending?since=daily) | [stenzek/duckstation](https://github.com/stenzek/duckstation)
 

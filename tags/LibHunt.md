@@ -1,3 +1,6 @@
+## 20250802
+- [LibHunt](https://www.libhunt.com/) | [ladybird](https://www.libhunt.com/r/ladybird)
+
 ## 20250801
 - [LibHunt](https://www.libhunt.com/) | [marimo](https://www.libhunt.com/r/marimo)
 

@@ -1,3 +1,6 @@
+## 20250802
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Memory Management Optimizations, DAMON_STAT & Other Improvements](https://www.phoronix.com/news/Linux-6.17-MM)
+
 ## 20250801
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.324 Adds Experimental AMD Extension To Help With Ray-Tracing](https://www.phoronix.com/news/Vulkan-1.4.324)
 
