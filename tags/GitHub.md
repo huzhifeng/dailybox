@@ -1,3 +1,6 @@
+## 20250803
+- [GitHub Trending](https://github.com/trending?since=daily) | [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
 ## 20250802
 - [GitHub Trending](https://github.com/trending?since=daily) | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 

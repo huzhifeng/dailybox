@@ -1,3 +1,6 @@
+## 20250803
+- [Phoronix](https://www.phoronix.com/) | [Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit](https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17)
+
 ## 20250802
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 Memory Management Optimizations, DAMON_STAT & Other Improvements](https://www.phoronix.com/news/Linux-6.17-MM)
 
