@@ -1,3 +1,6 @@
+## 20250804
+- [Product Hunt](https://www.producthunt.com) | [Kanbanq : Open alpha](https://www.producthunt.com/products/kanbanq-open-alpha)
+
 ## 20250803
 - [Product Hunt](https://www.producthunt.com) | [Hypertune](https://www.producthunt.com/products/hypertune)
 

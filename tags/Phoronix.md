@@ -1,3 +1,6 @@
+## 20250804
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA 580 Beta Linux Driver Brings Fixes, Wayland fifo-v1 Support With Vulkan](https://www.phoronix.com/news/NVIDIA-580-Beta-Linux-Driver)
+
 ## 20250803
 - [Phoronix](https://www.phoronix.com/) | [Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit](https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17)
 

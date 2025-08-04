@@ -1,3 +1,6 @@
+## 20250804
+- [LibHunt](https://www.libhunt.com/) | [ai-telephony-demo](https://www.libhunt.com/r/ai-telephony-demo)
+
 ## 20250802
 - [LibHunt](https://www.libhunt.com/) | [ladybird](https://www.libhunt.com/r/ladybird)
 

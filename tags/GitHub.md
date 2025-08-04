@@ -1,3 +1,6 @@
+## 20250804
+- [GitHub Trending](https://github.com/trending?since=daily) | [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo)
+
 ## 20250803
 - [GitHub Trending](https://github.com/trending?since=daily) | [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
