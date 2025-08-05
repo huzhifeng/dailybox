@@ -1,3 +1,7 @@
+## 20250805
+- [GitHub Trending](https://github.com/trending?since=daily) | [actualbudget/actual](https://github.com/actualbudget/actual)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+
 ## 20250804
 - [GitHub Trending](https://github.com/trending?since=daily) | [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo)
 

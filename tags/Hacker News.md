@@ -1,3 +1,8 @@
+## 20250805
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-04](https://www.daemonology.net/hn-daily/2025-08-04.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-04](https://hacker-news.agi.li/post/2025-08-04)
+- [Hacker News](https://news.ycombinator.com/front) | [uBlock Origin Lite now available for Safari](https://news.ycombinator.com/item?id=44795825)
+
 ## 20250804
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-03](https://www.daemonology.net/hn-daily/2025-08-03.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://news.ycombinator.com/item?id=44785636)

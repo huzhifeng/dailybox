@@ -1,3 +1,6 @@
+## 20250805
+- [V2EX](https://www.v2ex.com/) | [20250805 - Cold Wallet 操作说明](https://www.v2ex.com/t/1150107)
+
 ## 20250712
 - [V2EX](https://www.v2ex.com/) | [房东和雇佣的马仔抢我取证的手机不违法？](https://www.v2ex.com/t/1144769)
 

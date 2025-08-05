@@ -1,3 +1,6 @@
+## 20250805
+- [Phoronix](https://www.phoronix.com/) | [exFAT Fixes Significant Random Write Performance Regression With Linux 6.17](https://www.phoronix.com/news/Linux-6.17-exFAT)
+
 ## 20250804
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA 580 Beta Linux Driver Brings Fixes, Wayland fifo-v1 Support With Vulkan](https://www.phoronix.com/news/NVIDIA-580-Beta-Linux-Driver)
 

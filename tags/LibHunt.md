@@ -1,3 +1,6 @@
+## 20250805
+- [LibHunt](https://www.libhunt.com/) | [carbon](https://www.libhunt.com/r/crbnos/carbon)
+
 ## 20250804
 - [LibHunt](https://www.libhunt.com/) | [ai-telephony-demo](https://www.libhunt.com/r/ai-telephony-demo)
 

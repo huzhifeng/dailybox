@@ -1,3 +1,6 @@
+## 20250805
+- [It's FOSS](https://itsfoss.com/) | [4 Ways I am Encouraging My 4 Year Old Child to Help Learn Coding and Use Computer](https://itsfoss.com/ways-kids-learn-code/)
+
 ## 20250802
 - [It's FOSS](https://itsfoss.com/) | [Looking for an Ubuntu Manual? Try This Book](https://itsfoss.com/ultimate-ubuntu-handbook-review/)
 

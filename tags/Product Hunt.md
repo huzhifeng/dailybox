@@ -1,3 +1,6 @@
+## 20250805
+- [Product Hunt](https://www.producthunt.com) | [Indy AI by Contra](https://www.producthunt.com/products/contra-2)
+
 ## 20250804
 - [Product Hunt](https://www.producthunt.com) | [Kanbanq : Open alpha](https://www.producthunt.com/products/kanbanq-open-alpha)
 
