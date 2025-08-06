@@ -1,3 +1,6 @@
+## 20250806
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.07 Is Out with KDE Plasma 6.4 and Linux 6.15](https://9to5linux.com/independent-distro-kaos-linux-2025-07-is-out-with-kde-plasma-6-4-and-linux-6-15)
+
 ## 20250731
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Gets U2F Authentication and Bluetooth Support](https://9to5linux.com/arch-linux-installer-gets-u2f-authentication-and-bluetooth-support)
 

@@ -1,3 +1,6 @@
+## 20250806
+- [LibHunt](https://www.libhunt.com/) | [KittenTTS](https://www.libhunt.com/r/KittenTTS)
+
 ## 20250805
 - [LibHunt](https://www.libhunt.com/) | [carbon](https://www.libhunt.com/r/crbnos/carbon)
 

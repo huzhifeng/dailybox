@@ -1,3 +1,6 @@
+## 20250806
+- [Product Hunt](https://www.producthunt.com) | [Sequoia Health 2.0](https://www.producthunt.com/products/sequoia-men-s-sexual-wellness)
+
 ## 20250805
 - [Product Hunt](https://www.producthunt.com) | [Indy AI by Contra](https://www.producthunt.com/products/contra-2)
 

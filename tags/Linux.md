@@ -1,3 +1,7 @@
+## 20250806
+- [Phoronix](https://www.phoronix.com/) | [Intel Xe Enabling SR-IOV PF By Default, Marking Driver As "Broken" For Non-4K Kernels](https://www.phoronix.com/news/Intel-Xe-Linux-6.17-PF-4K)
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.07 Is Out with KDE Plasma 6.4 and Linux 6.15](https://9to5linux.com/independent-distro-kaos-linux-2025-07-is-out-with-kde-plasma-6-4-and-linux-6-15)
+
 ## 20250805
 - [Phoronix](https://www.phoronix.com/) | [exFAT Fixes Significant Random Write Performance Regression With Linux 6.17](https://www.phoronix.com/news/Linux-6.17-exFAT)
 

@@ -1,3 +1,6 @@
+## 20250806
+- [Phoronix](https://www.phoronix.com/) | [Intel Xe Enabling SR-IOV PF By Default, Marking Driver As "Broken" For Non-4K Kernels](https://www.phoronix.com/news/Intel-Xe-Linux-6.17-PF-4K)
+
 ## 20250805
 - [Phoronix](https://www.phoronix.com/) | [exFAT Fixes Significant Random Write Performance Regression With Linux 6.17](https://www.phoronix.com/news/Linux-6.17-exFAT)
 
