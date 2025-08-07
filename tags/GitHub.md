@@ -1,3 +1,6 @@
+## 20250807
+- [GitHub Trending](https://github.com/trending?since=daily) | [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware)
+
 ## 20250806
 - [GitHub Trending](https://github.com/trending?since=daily) | [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 

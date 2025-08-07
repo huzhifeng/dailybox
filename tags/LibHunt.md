@@ -1,3 +1,6 @@
+## 20250807
+- [LibHunt](https://www.libhunt.com/) | [gpt-oss](https://www.libhunt.com/r/gpt-oss)
+
 ## 20250806
 - [LibHunt](https://www.libhunt.com/) | [KittenTTS](https://www.libhunt.com/r/KittenTTS)
 

@@ -1,3 +1,6 @@
+## 20250807
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ 395 vs. Ryzen 9 9950X vs. Ryzen 9 9950X3D Linux Performance](https://www.phoronix.com/review/ryzen-ai-max-395-9950x-9950x3d)
+
 ## 20250806
 - [Phoronix](https://www.phoronix.com/) | [Intel Xe Enabling SR-IOV PF By Default, Marking Driver As "Broken" For Non-4K Kernels](https://www.phoronix.com/news/Intel-Xe-Linux-6.17-PF-4K)
 

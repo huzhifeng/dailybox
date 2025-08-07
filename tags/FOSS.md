@@ -1,3 +1,6 @@
+## 20250807
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/)
+
 ## 20250805
 - [It's FOSS](https://itsfoss.com/) | [4 Ways I am Encouraging My 4 Year Old Child to Help Learn Coding and Use Computer](https://itsfoss.com/ways-kids-learn-code/)
 

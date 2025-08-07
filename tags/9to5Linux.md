@@ -1,3 +1,6 @@
+## 20250807
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.3 LTS Is Now Available for Download Powered by Linux Kernel 6.14](https://9to5linux.com/ubuntu-24-04-3-lts-is-now-available-for-download-powered-by-linux-kernel-6-14)
+
 ## 20250806
 - [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.07 Is Out with KDE Plasma 6.4 and Linux 6.15](https://9to5linux.com/independent-distro-kaos-linux-2025-07-is-out-with-kde-plasma-6-4-and-linux-6-15)
 
