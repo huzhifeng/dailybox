@@ -1,3 +1,6 @@
+## 20250808
+- [Phoronix](https://www.phoronix.com/) | [DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs](https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800)
+
 ## 20250807
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ 395 vs. Ryzen 9 9950X vs. Ryzen 9 9950X3D Linux Performance](https://www.phoronix.com/review/ryzen-ai-max-395-9950x-9950x3d)
 

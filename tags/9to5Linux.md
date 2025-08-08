@@ -1,3 +1,6 @@
+## 20250808
+- [9to5Linux](https://9to5linux.com/) | [Tails 7.0 Now Available for Testing, Based on Debian 13 &#8220;Trixie&#8221; and GNOME 48](https://9to5linux.com/tails-7-0-now-available-for-testing-based-on-debian-13-trixie-and-gnome-48)
+
 ## 20250807
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.3 LTS Is Now Available for Download Powered by Linux Kernel 6.14](https://9to5linux.com/ubuntu-24-04-3-lts-is-now-available-for-download-powered-by-linux-kernel-6-14)
 

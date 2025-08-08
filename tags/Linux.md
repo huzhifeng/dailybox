@@ -1,3 +1,7 @@
+## 20250808
+- [Phoronix](https://www.phoronix.com/) | [DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs](https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800)
+- [9to5Linux](https://9to5linux.com/) | [Tails 7.0 Now Available for Testing, Based on Debian 13 &#8220;Trixie&#8221; and GNOME 48](https://9to5linux.com/tails-7-0-now-available-for-testing-based-on-debian-13-trixie-and-gnome-48)
+
 ## 20250807
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ 395 vs. Ryzen 9 9950X vs. Ryzen 9 9950X3D Linux Performance](https://www.phoronix.com/review/ryzen-ai-max-395-9950x-9950x3d)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.3 LTS Is Now Available for Download Powered by Linux Kernel 6.14](https://9to5linux.com/ubuntu-24-04-3-lts-is-now-available-for-download-powered-by-linux-kernel-6-14)

@@ -1,3 +1,6 @@
+## 20250808
+- [Product Hunt](https://www.producthunt.com) | [Hera](https://www.producthunt.com/products/hera-6)
+
 ## 20250807
 - [Product Hunt](https://www.producthunt.com) | [Nas.io v2](https://www.producthunt.com/products/nas-io)
 

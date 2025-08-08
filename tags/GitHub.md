@@ -1,3 +1,6 @@
+## 20250808
+- [GitHub Trending](https://github.com/trending?since=daily) | [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
 ## 20250807
 - [GitHub Trending](https://github.com/trending?since=daily) | [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware)
 
