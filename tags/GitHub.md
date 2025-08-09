@@ -1,3 +1,6 @@
+## 20250809
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/openai-python](https://github.com/openai/openai-python)
+
 ## 20250808
 - [GitHub Trending](https://github.com/trending?since=daily) | [vllm-project/vllm](https://github.com/vllm-project/vllm)
 

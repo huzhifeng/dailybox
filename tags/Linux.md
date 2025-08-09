@@ -1,3 +1,7 @@
+## 20250809
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.325 Released With Untyped Pointers Extension](https://www.phoronix.com/news/Vulkan-1.4.325-Released)
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.10 Open-Source Video Transcoder Brings New &#8220;Social 10MB&#8221; Presets](https://9to5linux.com/handbrake-1-10-open-source-video-transcoder-brings-new-social-10mb-presets)
+
 ## 20250808
 - [Phoronix](https://www.phoronix.com/) | [DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs](https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800)
 - [9to5Linux](https://9to5linux.com/) | [Tails 7.0 Now Available for Testing, Based on Debian 13 &#8220;Trixie&#8221; and GNOME 48](https://9to5linux.com/tails-7-0-now-available-for-testing-based-on-debian-13-trixie-and-gnome-48)

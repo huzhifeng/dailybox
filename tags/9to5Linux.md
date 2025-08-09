@@ -1,3 +1,6 @@
+## 20250809
+- [9to5Linux](https://9to5linux.com/) | [HandBrake 1.10 Open-Source Video Transcoder Brings New &#8220;Social 10MB&#8221; Presets](https://9to5linux.com/handbrake-1-10-open-source-video-transcoder-brings-new-social-10mb-presets)
+
 ## 20250808
 - [9to5Linux](https://9to5linux.com/) | [Tails 7.0 Now Available for Testing, Based on Debian 13 &#8220;Trixie&#8221; and GNOME 48](https://9to5linux.com/tails-7-0-now-available-for-testing-based-on-debian-13-trixie-and-gnome-48)
 

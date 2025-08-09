@@ -1,3 +1,6 @@
+## 20250809
+- [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.325 Released With Untyped Pointers Extension](https://www.phoronix.com/news/Vulkan-1.4.325-Released)
+
 ## 20250808
 - [Phoronix](https://www.phoronix.com/) | [DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs](https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800)
 
