@@ -1,3 +1,6 @@
+## 20250810
+- [Phoronix](https://www.phoronix.com/) | [Debian 14 Eyes LoongArch CPU Support](https://www.phoronix.com/news/Debian-14-Loong64-LoongArch)
+
 ## 20250809
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.325 Released With Untyped Pointers Extension](https://www.phoronix.com/news/Vulkan-1.4.325-Released)
 

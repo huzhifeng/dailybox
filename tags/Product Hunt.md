@@ -1,3 +1,6 @@
+## 20250810
+- [Product Hunt](https://www.producthunt.com) | [SEO Shop Audit](https://www.producthunt.com/products/seo-shop-audit)
+
 ## 20250809
 - [Product Hunt](https://www.producthunt.com) | [VibeScan](https://www.producthunt.com/products/vibescan)
 

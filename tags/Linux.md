@@ -1,3 +1,6 @@
+## 20250810
+- [Phoronix](https://www.phoronix.com/) | [Debian 14 Eyes LoongArch CPU Support](https://www.phoronix.com/news/Debian-14-Loong64-LoongArch)
+
 ## 20250809
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.325 Released With Untyped Pointers Extension](https://www.phoronix.com/news/Vulkan-1.4.325-Released)
 - [9to5Linux](https://9to5linux.com/) | [HandBrake 1.10 Open-Source Video Transcoder Brings New &#8220;Social 10MB&#8221; Presets](https://9to5linux.com/handbrake-1-10-open-source-video-transcoder-brings-new-social-10mb-presets)

@@ -1,3 +1,6 @@
+## 20250810
+- [It's FOSS](https://itsfoss.com/) | [15 Co-Op Games for Linux Steam Gamers in 2025](https://itsfoss.com/co-op-games-linux/)
+
 ## 20250807
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/)
 

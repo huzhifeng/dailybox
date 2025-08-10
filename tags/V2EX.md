@@ -1,3 +1,6 @@
+## 20250810
+- [V2EX](https://www.v2ex.com/) | [求推荐好的提醒软件](https://www.v2ex.com/t/1151347)
+
 ## 20250805
 - [V2EX](https://www.v2ex.com/) | [20250805 - Cold Wallet 操作说明](https://www.v2ex.com/t/1150107)
 

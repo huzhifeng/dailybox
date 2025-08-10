@@ -1,3 +1,6 @@
+## 20250810
+- [GitHub Trending](https://github.com/trending?since=daily) | [exo-explore/exo](https://github.com/exo-explore/exo)
+
 ## 20250809
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/openai-python](https://github.com/openai/openai-python)
 
