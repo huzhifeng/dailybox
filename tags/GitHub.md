@@ -1,3 +1,6 @@
+## 20250811
+- [GitHub Trending](https://github.com/trending?since=daily) | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+
 ## 20250810
 - [GitHub Trending](https://github.com/trending?since=daily) | [exo-explore/exo](https://github.com/exo-explore/exo)
 

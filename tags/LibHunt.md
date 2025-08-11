@@ -1,3 +1,6 @@
+## 20250811
+- [LibHunt](https://www.libhunt.com/) | [bolt](https://www.libhunt.com/r/Beariish/bolt)
+
 ## 20250807
 - [LibHunt](https://www.libhunt.com/) | [gpt-oss](https://www.libhunt.com/r/gpt-oss)
 

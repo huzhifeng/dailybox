@@ -1,3 +1,7 @@
+## 20250811
+- [Phoronix](https://www.phoronix.com/) | [LunarG Announces KosmicKrisp As Vulkan-On-Metal Mesa Driver](https://www.phoronix.com/news/KosmicKrisp-Vulkan-Metal)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025)
+
 ## 20250810
 - [Phoronix](https://www.phoronix.com/) | [Debian 14 Eyes LoongArch CPU Support](https://www.phoronix.com/news/Debian-14-Loong64-LoongArch)
 

@@ -1,3 +1,6 @@
+## 20250811
+- [Product Hunt](https://www.producthunt.com) | [Zpeakr](https://www.producthunt.com/products/zpeakr)
+
 ## 20250810
 - [Product Hunt](https://www.producthunt.com) | [SEO Shop Audit](https://www.producthunt.com/products/seo-shop-audit)
 

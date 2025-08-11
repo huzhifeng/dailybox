@@ -1,3 +1,6 @@
+## 20250811
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025)
+
 ## 20250809
 - [9to5Linux](https://9to5linux.com/) | [HandBrake 1.10 Open-Source Video Transcoder Brings New &#8220;Social 10MB&#8221; Presets](https://9to5linux.com/handbrake-1-10-open-source-video-transcoder-brings-new-social-10mb-presets)
 
