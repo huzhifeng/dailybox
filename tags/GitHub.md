@@ -1,3 +1,6 @@
+## 20250812
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
+
 ## 20250811
 - [GitHub Trending](https://github.com/trending?since=daily) | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 

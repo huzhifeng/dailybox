@@ -1,3 +1,6 @@
+## 20250812
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ 395 With Framework Desktop vs. Intel Core Ultra 9 285K Linux Performance](https://www.phoronix.com/review/amd-ryzen-ai-max-arrow-lake)
+
 ## 20250811
 - [Phoronix](https://www.phoronix.com/) | [LunarG Announces KosmicKrisp As Vulkan-On-Metal Mesa Driver](https://www.phoronix.com/news/KosmicKrisp-Vulkan-Metal)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025)

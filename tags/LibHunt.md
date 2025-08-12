@@ -1,3 +1,6 @@
+## 20250812
+- [LibHunt](https://www.libhunt.com/) | [forgefed](https://www.libhunt.com/r/forgefed)
+
 ## 20250811
 - [LibHunt](https://www.libhunt.com/) | [bolt](https://www.libhunt.com/r/Beariish/bolt)
 

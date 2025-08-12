@@ -1,3 +1,6 @@
+## 20250812
+- [Product Hunt](https://www.producthunt.com) | [What To Build](https://www.producthunt.com/products/what-to-build-2)
+
 ## 20250811
 - [Product Hunt](https://www.producthunt.com) | [Zpeakr](https://www.producthunt.com/products/zpeakr)
 
