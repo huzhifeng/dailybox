@@ -1,3 +1,6 @@
+## 20250813
+- [GitHub Trending](https://github.com/trending?since=daily) | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+
 ## 20250812
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
 

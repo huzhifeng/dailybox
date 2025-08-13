@@ -1,3 +1,6 @@
+## 20250813
+- [Phoronix](https://www.phoronix.com/) | [Intel IDXD Accelerator Driver Cleaned Up For Some "Not So Happy Code Paths"](https://www.phoronix.com/news/Intel-IDXD-Not-So-Happy)
+
 ## 20250812
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ 395 With Framework Desktop vs. Intel Core Ultra 9 285K Linux Performance](https://www.phoronix.com/review/amd-ryzen-ai-max-arrow-lake)
 

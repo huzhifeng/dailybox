@@ -1,3 +1,6 @@
+## 20250813
+- [Product Hunt](https://www.producthunt.com) | [Kandid](https://www.producthunt.com/products/kandid-2)
+
 ## 20250812
 - [Product Hunt](https://www.producthunt.com) | [What To Build](https://www.producthunt.com/products/what-to-build-2)
 
