@@ -1,3 +1,6 @@
+## 20250814
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Threadripper PRO 9995WX Performance With TRX50 + Quad Channel DDR5](https://www.phoronix.com/review/amd-threadripper-9995wx-trx50)
+
 ## 20250813
 - [Phoronix](https://www.phoronix.com/) | [Intel IDXD Accelerator Driver Cleaned Up For Some "Not So Happy Code Paths"](https://www.phoronix.com/news/Intel-IDXD-Not-So-Happy)
 

@@ -1,3 +1,6 @@
+## 20250814
+- [Product Hunt](https://www.producthunt.com) | [Comet by Perplexity](https://www.producthunt.com/products/perplexity-ai)
+
 ## 20250813
 - [Product Hunt](https://www.producthunt.com) | [Kandid](https://www.producthunt.com/products/kandid-2)
 

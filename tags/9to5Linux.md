@@ -1,3 +1,6 @@
+## 20250814
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.0 Is Out as One of the First Distros Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/sparkylinux-8-0-is-out-as-one-of-the-first-distros-based-on-debian-13-trixie)
+
 ## 20250811
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025)
 

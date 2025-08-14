@@ -1,3 +1,6 @@
+## 20250814
+- [GitHub Trending](https://github.com/trending?since=daily) | [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+
 ## 20250813
 - [GitHub Trending](https://github.com/trending?since=daily) | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 

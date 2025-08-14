@@ -1,3 +1,6 @@
+## 20250814
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/)
+
 ## 20250810
 - [It's FOSS](https://itsfoss.com/) | [15 Co-Op Games for Linux Steam Gamers in 2025](https://itsfoss.com/co-op-games-linux/)
 

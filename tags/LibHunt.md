@@ -1,3 +1,6 @@
+## 20250814
+- [LibHunt](https://www.libhunt.com/) | [zustand](https://www.libhunt.com/r/zustand)
+
 ## 20250813
 - [LibHunt](https://www.libhunt.com/) | [MBCompass](https://www.libhunt.com/r/MBCompass)
 
