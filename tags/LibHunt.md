@@ -1,3 +1,6 @@
+## 20250815
+- [LibHunt](https://www.libhunt.com/) | [ghostty](https://www.libhunt.com/r/ghostty)
+
 ## 20250814
 - [LibHunt](https://www.libhunt.com/) | [zustand](https://www.libhunt.com/r/zustand)
 

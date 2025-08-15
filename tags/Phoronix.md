@@ -1,3 +1,6 @@
+## 20250815
+- [Phoronix](https://www.phoronix.com/) | [Intel FRED Suffers A Late "Incompatible Change" To The Architecture](https://www.phoronix.com/news/Intel-FRED-Incompatible-ENDBR64)
+
 ## 20250814
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen Threadripper PRO 9995WX Performance With TRX50 + Quad Channel DDR5](https://www.phoronix.com/review/amd-threadripper-9995wx-trx50)
 

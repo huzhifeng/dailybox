@@ -1,3 +1,6 @@
+## 20250815
+- [GitHub Trending](https://github.com/trending?since=daily) | [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
+
 ## 20250814
 - [GitHub Trending](https://github.com/trending?since=daily) | [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 
