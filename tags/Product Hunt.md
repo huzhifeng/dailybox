@@ -1,3 +1,6 @@
+## 20250816
+- [Product Hunt](https://www.producthunt.com) | [Harmony AI Voice Assistant](https://www.producthunt.com/products/harmony-ai-voice-assistant)
+
 ## 20250815
 - [Product Hunt](https://www.producthunt.com) | [stagewise](https://www.producthunt.com/products/stagewise-2)
 

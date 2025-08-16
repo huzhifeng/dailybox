@@ -1,3 +1,6 @@
+## 20250816
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.16.1 Fixes A Large Intel GPU Driver Performance Regression - Up To 30%](https://www.phoronix.com/news/Linux-6.16.1-Fixes-Intel-i915)
+
 ## 20250815
 - [Phoronix](https://www.phoronix.com/) | [Intel FRED Suffers A Late "Incompatible Change" To The Architecture](https://www.phoronix.com/news/Intel-FRED-Incompatible-ENDBR64)
 
