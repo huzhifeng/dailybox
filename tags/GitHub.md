@@ -1,3 +1,6 @@
+## 20250817
+- [GitHub Trending](https://github.com/trending?since=daily) | [tsoding/nob.h](https://github.com/tsoding/nob.h)
+
 ## 20250816
 - [GitHub Trending](https://github.com/trending?since=daily) | [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
 

@@ -1,3 +1,6 @@
+## 20250817
+- [LibHunt](https://www.libhunt.com/) | [tinylisp](https://www.libhunt.com/r/tinylisp)
+
 ## 20250815
 - [LibHunt](https://www.libhunt.com/) | [ghostty](https://www.libhunt.com/r/ghostty)
 

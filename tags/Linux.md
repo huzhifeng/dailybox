@@ -1,3 +1,6 @@
+## 20250817
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17-rc2 To Better Tune Attack Vector Controls For SRSO Mitigation](https://www.phoronix.com/news/Linux-6.17-rc2-Tune-Attack-Vec)
+
 ## 20250816
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.16.1 Fixes A Large Intel GPU Driver Performance Regression - Up To 30%](https://www.phoronix.com/news/Linux-6.16.1-Fixes-Intel-i915)
 
