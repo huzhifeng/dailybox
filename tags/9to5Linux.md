@@ -1,3 +1,6 @@
+## 20250818
+- [9to5Linux](https://9to5linux.com/) | [Firefox 142 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-142-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250814
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.0 Is Out as One of the First Distros Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/sparkylinux-8-0-is-out-as-one-of-the-first-distros-based-on-debian-13-trixie)
 

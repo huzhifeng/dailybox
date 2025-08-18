@@ -1,3 +1,6 @@
+## 20250818
+- [GitHub Trending](https://github.com/trending?since=daily) | [dtyq/magic](https://github.com/dtyq/magic)
+
 ## 20250817
 - [GitHub Trending](https://github.com/trending?since=daily) | [tsoding/nob.h](https://github.com/tsoding/nob.h)
 

@@ -1,3 +1,6 @@
+## 20250818
+- [It's FOSS](https://itsfoss.com/) | [Access Root Directory in Nautilus File Manager](https://itsfoss.com/access-root-nautilus/)
+
 ## 20250814
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/)
 

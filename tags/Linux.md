@@ -1,3 +1,7 @@
+## 20250818
+- [Phoronix](https://www.phoronix.com/) | [A Deep Dive Into The Power & Thermals For The Framework Desktop With AMD Ryzen AI Max](https://www.phoronix.com/review/framework-desktop-power)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 142 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-142-web-browser-is-now-available-for-download-heres-whats-new)
+
 ## 20250817
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17-rc2 To Better Tune Attack Vector Controls For SRSO Mitigation](https://www.phoronix.com/news/Linux-6.17-rc2-Tune-Attack-Vec)
 

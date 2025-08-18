@@ -1,3 +1,6 @@
+## 20250818
+- [LibHunt](https://www.libhunt.com/) | [OCRmyPDF](https://www.libhunt.com/r/OCRmyPDF)
+
 ## 20250817
 - [LibHunt](https://www.libhunt.com/) | [tinylisp](https://www.libhunt.com/r/tinylisp)
 

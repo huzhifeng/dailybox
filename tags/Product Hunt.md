@@ -1,3 +1,6 @@
+## 20250818
+- [Product Hunt](https://www.producthunt.com) | [Blink](https://www.producthunt.com/products/blink-a-deep-research-agent-for-devs)
+
 ## 20250817
 - [Product Hunt](https://www.producthunt.com) | [Kuzco](https://www.producthunt.com/products/kuzco)
 
