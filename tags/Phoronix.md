@@ -1,3 +1,6 @@
+## 20250819
+- [Phoronix](https://www.phoronix.com/) | [Rusticl vs. AMD ROCm Performance On Ryzen AI Max+ "Strix Halo"](https://www.phoronix.com/review/rocm-rusticl-strix-halo)
+
 ## 20250818
 - [Phoronix](https://www.phoronix.com/) | [A Deep Dive Into The Power & Thermals For The Framework Desktop With AMD Ryzen AI Max](https://www.phoronix.com/review/framework-desktop-power)
 

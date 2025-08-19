@@ -1,3 +1,6 @@
+## 20250819
+- [LibHunt](https://www.libhunt.com/) | [WHATWG HTML Standard](https://www.libhunt.com/r/html)
+
 ## 20250818
 - [LibHunt](https://www.libhunt.com/) | [OCRmyPDF](https://www.libhunt.com/r/OCRmyPDF)
 

@@ -1,3 +1,7 @@
+## 20250819
+- [Phoronix](https://www.phoronix.com/) | [Rusticl vs. AMD ROCm Performance On Ryzen AI Max+ "Strix Halo"](https://www.phoronix.com/review/rocm-rusticl-strix-halo)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 143 Is Now Available for Public Beta Testing, Here&#8217;s What to Expect](https://9to5linux.com/firefox-143-is-now-available-for-public-beta-testing-heres-what-to-expect)
+
 ## 20250818
 - [Phoronix](https://www.phoronix.com/) | [A Deep Dive Into The Power & Thermals For The Framework Desktop With AMD Ryzen AI Max](https://www.phoronix.com/review/framework-desktop-power)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 142 Web Browser Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-142-web-browser-is-now-available-for-download-heres-whats-new)

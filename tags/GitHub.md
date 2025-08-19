@@ -1,3 +1,6 @@
+## 20250819
+- [GitHub Trending](https://github.com/trending?since=daily) | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
 ## 20250818
 - [GitHub Trending](https://github.com/trending?since=daily) | [dtyq/magic](https://github.com/dtyq/magic)
 
