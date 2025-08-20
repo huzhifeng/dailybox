@@ -1,3 +1,6 @@
+## 20250820
+- [LibHunt](https://www.libhunt.com/) | [reference](https://www.libhunt.com/r/rust-lang/reference)
+
 ## 20250819
 - [LibHunt](https://www.libhunt.com/) | [WHATWG HTML Standard](https://www.libhunt.com/r/html)
 

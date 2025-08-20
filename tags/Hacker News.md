@@ -1,3 +1,8 @@
+## 20250820
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-19](https://www.daemonology.net/hn-daily/2025-08-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-19](https://hacker-news.agi.li/post/2025-08-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Why does the US Visa application website do a port-scan of my network?](https://news.ycombinator.com/item?id=44959073)
+
 ## 20250819
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-18](https://www.daemonology.net/hn-daily/2025-08-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-18](https://hacker-news.agi.li/post/2025-08-18)

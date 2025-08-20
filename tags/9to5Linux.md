@@ -1,3 +1,6 @@
+## 20250820
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.8 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-25-8-open-source-office-suite-officially-released-this-is-whats-new)
+
 ## 20250819
 - [9to5Linux](https://9to5linux.com/) | [Firefox 143 Is Now Available for Public Beta Testing, Here&#8217;s What to Expect](https://9to5linux.com/firefox-143-is-now-available-for-public-beta-testing-heres-what-to-expect)
 

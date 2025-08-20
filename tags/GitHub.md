@@ -1,3 +1,6 @@
+## 20250820
+- [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/Archon](https://github.com/coleam00/Archon)
+
 ## 20250819
 - [GitHub Trending](https://github.com/trending?since=daily) | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 

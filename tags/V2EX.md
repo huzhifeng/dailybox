@@ -1,3 +1,6 @@
+## 20250820
+- [V2EX](https://www.v2ex.com/) | [[北京] 线下 Meetup：社区 × 加密 × AI（顶帖捧场、报名参与均有 $V2EX Coin 打赏）](https://www.v2ex.com/t/1153737)
+
 ## 20250813
 - [V2EX](https://www.v2ex.com/) | [贴出你的 OKX 钱包 SOL 二维码，领取 SOL + 社区代币空投！](https://www.v2ex.com/t/1152131)
 

@@ -1,3 +1,6 @@
+## 20250820
+- [Phoronix](https://www.phoronix.com/) | [Mesa 25.2.1 Released: Restores NVK On Kepler, Additional Intel Battlemage ID](https://www.phoronix.com/news/Mesa-25.2.1-Released)
+
 ## 20250819
 - [Phoronix](https://www.phoronix.com/) | [Rusticl vs. AMD ROCm Performance On Ryzen AI Max+ "Strix Halo"](https://www.phoronix.com/review/rocm-rusticl-strix-halo)
 

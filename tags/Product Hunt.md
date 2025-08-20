@@ -1,3 +1,6 @@
+## 20250820
+- [Product Hunt](https://www.producthunt.com) | [Notte](https://www.producthunt.com/products/notte)
+
 ## 20250819
 - [Product Hunt](https://www.producthunt.com) | [Fei](https://www.producthunt.com/products/autonomyai)
 
