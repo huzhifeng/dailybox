@@ -1,3 +1,6 @@
+## 20250821
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 5 340 Windows 11 vs. Ubuntu Linux Performance For Budget "Krackan Point" Laptops](https://www.phoronix.com/review/amd-krackan-point-windows-linux)
+
 ## 20250820
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.2.1 Released: Restores NVK On Kepler, Additional Intel Battlemage ID](https://www.phoronix.com/news/Mesa-25.2.1-Released)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.8 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-25-8-open-source-office-suite-officially-released-this-is-whats-new)

@@ -1,3 +1,6 @@
+## 20250821
+- [LibHunt](https://www.libhunt.com/) | [plutoprint](https://www.libhunt.com/r/plutoprint)
+
 ## 20250820
 - [LibHunt](https://www.libhunt.com/) | [reference](https://www.libhunt.com/r/rust-lang/reference)
 

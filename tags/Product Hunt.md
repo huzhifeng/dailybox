@@ -1,3 +1,6 @@
+## 20250821
+- [Product Hunt](https://www.producthunt.com) | [Syncly Social](https://www.producthunt.com/products/syncly)
+
 ## 20250820
 - [Product Hunt](https://www.producthunt.com) | [Notte](https://www.producthunt.com/products/notte)
 

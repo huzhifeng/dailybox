@@ -1,3 +1,6 @@
+## 20250821
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI 5 340 Windows 11 vs. Ubuntu Linux Performance For Budget "Krackan Point" Laptops](https://www.phoronix.com/review/amd-krackan-point-windows-linux)
+
 ## 20250820
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.2.1 Released: Restores NVK On Kepler, Additional Intel Battlemage ID](https://www.phoronix.com/news/Mesa-25.2.1-Released)
 

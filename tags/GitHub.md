@@ -1,3 +1,6 @@
+## 20250821
+- [GitHub Trending](https://github.com/trending?since=daily) | [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
 ## 20250820
 - [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/Archon](https://github.com/coleam00/Archon)
 
