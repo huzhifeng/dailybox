@@ -1,3 +1,6 @@
+## 20250822
+- [V2EX](https://www.v2ex.com/) | [想问问学历的问题如何从根本上解决？](https://www.v2ex.com/t/1154218)
+
 ## 20250820
 - [V2EX](https://www.v2ex.com/) | [[北京] 线下 Meetup：社区 × 加密 × AI（顶帖捧场、报名参与均有 $V2EX Coin 打赏）](https://www.v2ex.com/t/1153737)
 

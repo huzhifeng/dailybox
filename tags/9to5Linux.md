@@ -1,3 +1,6 @@
+## 20250822
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 8.0 &#8220;Huffman&#8221; Released with AV1 Vulkan Encoder, VVC VA-API Decoding](https://9to5linux.com/ffmpeg-8-0-huffman-released-with-av1-vulkan-encoder-vvc-va-api-decoding)
+
 ## 20250820
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.8 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-25-8-open-source-office-suite-officially-released-this-is-whats-new)
 

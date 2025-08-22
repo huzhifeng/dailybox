@@ -1,3 +1,6 @@
+## 20250822
+- [It's FOSS](https://itsfoss.com/) | [VPNs With "No Logging Policy" You Can Use on Linux](https://itsfoss.com/no-logs-vpn-linux/)
+
 ## 20250821
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/)
 
