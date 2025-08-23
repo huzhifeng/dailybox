@@ -1,3 +1,6 @@
+## 20250823
+- [Phoronix](https://www.phoronix.com/) | [Linux Primed For Significant Performance Gains With Kernel Swap Code Overhaul](https://www.phoronix.com/news/Linux-Swap-Table-Swap-Cache)
+
 ## 20250822
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.3 Lands More Changes To Prepare For OpenGL Mesh Shaders](https://www.phoronix.com/news/Mesa-25.3-More-GL-Mesh-Shaders)
 

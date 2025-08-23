@@ -1,3 +1,6 @@
+## 20250823
+- [GitHub Trending](https://github.com/trending?since=daily) | [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
 ## 20250822
 - [GitHub Trending](https://github.com/trending?since=daily) | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 

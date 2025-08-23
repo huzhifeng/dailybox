@@ -1,3 +1,6 @@
+## 20250823
+- [Phoronix](https://www.phoronix.com/) | [Linux Primed For Significant Performance Gains With Kernel Swap Code Overhaul](https://www.phoronix.com/news/Linux-Swap-Table-Swap-Cache)
+
 ## 20250822
 - [Phoronix](https://www.phoronix.com/) | [Mesa 25.3 Lands More Changes To Prepare For OpenGL Mesh Shaders](https://www.phoronix.com/news/Mesa-25.3-More-GL-Mesh-Shaders)
 - [9to5Linux](https://9to5linux.com/) | [FFmpeg 8.0 &#8220;Huffman&#8221; Released with AV1 Vulkan Encoder, VVC VA-API Decoding](https://9to5linux.com/ffmpeg-8-0-huffman-released-with-av1-vulkan-encoder-vvc-va-api-decoding)
