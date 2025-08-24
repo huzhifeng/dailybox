@@ -1,3 +1,6 @@
+## 20250824
+- [GitHub Trending](https://github.com/trending?since=daily) | [plait-board/drawnix](https://github.com/plait-board/drawnix)
+
 ## 20250823
 - [GitHub Trending](https://github.com/trending?since=daily) | [moeru-ai/airi](https://github.com/moeru-ai/airi)
 

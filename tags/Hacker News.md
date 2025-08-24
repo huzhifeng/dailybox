@@ -1,3 +1,7 @@
+## 20250824
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-23](https://www.daemonology.net/hn-daily/2025-08-23.html)
+- [Hacker News](https://news.ycombinator.com/front) | [A German ISP changed their DNS to block my website](https://news.ycombinator.com/item?id=45003033)
+
 ## 20250823
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-22](https://www.daemonology.net/hn-daily/2025-08-22.html)
 

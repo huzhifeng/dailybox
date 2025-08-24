@@ -1,3 +1,6 @@
+## 20250824
+- [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard](https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard)
+
 ## 20250822
 - [9to5Linux](https://9to5linux.com/) | [FFmpeg 8.0 &#8220;Huffman&#8221; Released with AV1 Vulkan Encoder, VVC VA-API Decoding](https://9to5linux.com/ffmpeg-8-0-huffman-released-with-av1-vulkan-encoder-vvc-va-api-decoding)
 

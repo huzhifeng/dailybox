@@ -1,3 +1,7 @@
+## 20250824
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Introduces Packages Dashboard, GRUB+Btrfs Bootable Snapshots](https://www.phoronix.com/news/CachyOS-August-2025)
+- [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard](https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard)
+
 ## 20250823
 - [Phoronix](https://www.phoronix.com/) | [Linux Primed For Significant Performance Gains With Kernel Swap Code Overhaul](https://www.phoronix.com/news/Linux-Swap-Table-Swap-Cache)
 

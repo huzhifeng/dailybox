@@ -1,3 +1,6 @@
+## 20250824
+- [LibHunt](https://www.libhunt.com/) | [xsl-website](https://www.libhunt.com/r/xsl-website)
+
 ## 20250823
 - [LibHunt](https://www.libhunt.com/) | [tesseral](https://www.libhunt.com/r/tesseral)
 

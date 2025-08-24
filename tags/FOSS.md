@@ -1,3 +1,6 @@
+## 20250824
+- [It's FOSS](https://itsfoss.com/) | [Best Non-Violent Games Available on Steam for Linux Users](https://itsfoss.com/non-violent-games-llinux/)
+
 ## 20250822
 - [It's FOSS](https://itsfoss.com/) | [VPNs With "No Logging Policy" You Can Use on Linux](https://itsfoss.com/no-logs-vpn-linux/)
 

@@ -1,3 +1,6 @@
+## 20250824
+- [Product Hunt](https://www.producthunt.com) | [PerformaMeter](https://www.producthunt.com/products/performameter)
+
 ## 20250822
 - [Product Hunt](https://www.producthunt.com) | [Omnara](https://www.producthunt.com/products/omnara)
 
