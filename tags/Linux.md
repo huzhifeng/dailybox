@@ -1,3 +1,7 @@
+## 20250825
+- [Phoronix](https://www.phoronix.com/) | [Linux 5.15 LTS To 6.17 Benchmarks: Four Years Of Kernel Improvement Net 37% Improvement On AMD EPYC](https://www.phoronix.com/review/linux-515-617-performance)
+- [9to5Linux](https://9to5linux.com/) | [Happy 34th Birthday, Linux!](https://9to5linux.com/happy-34th-birthday-linux)
+
 ## 20250824
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Introduces Packages Dashboard, GRUB+Btrfs Bootable Snapshots](https://www.phoronix.com/news/CachyOS-August-2025)
 - [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard](https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard)

@@ -1,3 +1,6 @@
+## 20250825
+- [9to5Linux](https://9to5linux.com/) | [Happy 34th Birthday, Linux!](https://9to5linux.com/happy-34th-birthday-linux)
+
 ## 20250824
 - [9to5Linux](https://9to5linux.com/) | [CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard](https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard)
 

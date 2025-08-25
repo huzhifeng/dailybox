@@ -1,3 +1,6 @@
+## 20250825
+- [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 ## 20250824
 - [GitHub Trending](https://github.com/trending?since=daily) | [plait-board/drawnix](https://github.com/plait-board/drawnix)
 

@@ -1,3 +1,6 @@
+## 20250825
+- [LibHunt](https://www.libhunt.com/) | [os-yamato](https://www.libhunt.com/r/os-yamato)
+
 ## 20250824
 - [LibHunt](https://www.libhunt.com/) | [xsl-website](https://www.libhunt.com/r/xsl-website)
 
