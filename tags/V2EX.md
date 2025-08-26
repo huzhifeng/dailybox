@@ -1,3 +1,6 @@
+## 20250826
+- [V2EX](https://www.v2ex.com/) | [女生对于彩礼的定位到底是什么](https://www.v2ex.com/t/1155068)
+
 ## 20250822
 - [V2EX](https://www.v2ex.com/) | [想问问学历的问题如何从根本上解决？](https://www.v2ex.com/t/1154218)
 

@@ -1,3 +1,6 @@
+## 20250826
+- [Phoronix](https://www.phoronix.com/) | [Framework Laptop 16 Upgrade Announced With Ryzen AI 300 Series, GeForce RTX 5070](https://www.phoronix.com/news/Framework-16-2025)
+
 ## 20250825
 - [Phoronix](https://www.phoronix.com/) | [Linux 5.15 LTS To 6.17 Benchmarks: Four Years Of Kernel Improvement Net 37% Improvement On AMD EPYC](https://www.phoronix.com/review/linux-515-617-performance)
 - [9to5Linux](https://9to5linux.com/) | [Happy 34th Birthday, Linux!](https://9to5linux.com/happy-34th-birthday-linux)

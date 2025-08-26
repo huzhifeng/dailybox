@@ -1,3 +1,6 @@
+## 20250826
+- [It's FOSS](https://itsfoss.com/) | [Using Nightlight in Hyprland](https://itsfoss.com/nightlight-hyprland/)
+
 ## 20250824
 - [It's FOSS](https://itsfoss.com/) | [Best Non-Violent Games Available on Steam for Linux Users](https://itsfoss.com/non-violent-games-llinux/)
 

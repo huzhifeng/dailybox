@@ -1,3 +1,6 @@
+## 20250826
+- [LibHunt](https://www.libhunt.com/) | [playwright-mcp](https://www.libhunt.com/r/playwright-mcp)
+
 ## 20250825
 - [LibHunt](https://www.libhunt.com/) | [os-yamato](https://www.libhunt.com/r/os-yamato)
 

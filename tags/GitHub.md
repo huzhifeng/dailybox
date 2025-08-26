@@ -1,3 +1,6 @@
+## 20250826
+- [GitHub Trending](https://github.com/trending?since=daily) | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
+
 ## 20250825
 - [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
