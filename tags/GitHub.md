@@ -1,3 +1,6 @@
+## 20250827
+- [GitHub Trending](https://github.com/trending?since=daily) | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
 ## 20250826
 - [GitHub Trending](https://github.com/trending?since=daily) | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
 

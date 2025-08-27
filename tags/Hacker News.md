@@ -1,3 +1,8 @@
+## 20250827
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-26](https://www.daemonology.net/hn-daily/2025-08-26.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-26](https://hacker-news.agi.li/post/2025-08-26)
+- [Hacker News](https://news.ycombinator.com/front) | [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://news.ycombinator.com/item?id=45038653)
+
 ## 20250826
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-25](https://www.daemonology.net/hn-daily/2025-08-25.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-25](https://hacker-news.agi.li/post/2025-08-25)

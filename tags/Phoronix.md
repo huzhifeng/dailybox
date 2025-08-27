@@ -1,3 +1,6 @@
+## 20250827
+- [Phoronix](https://www.phoronix.com/) | [Framework Desktop Power Mode Tuning For Better Performance Or Power Efficiency](https://www.phoronix.com/review/framework-desktop-mode)
+
 ## 20250826
 - [Phoronix](https://www.phoronix.com/) | [Framework Laptop 16 Upgrade Announced With Ryzen AI 300 Series, GeForce RTX 5070](https://www.phoronix.com/news/Framework-16-2025)
 

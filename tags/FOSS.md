@@ -1,3 +1,6 @@
+## 20250827
+- [It's FOSS](https://itsfoss.com/) | [Installing Fedora Linux in the Simplest Possible Way](https://itsfoss.com/install-fedora/)
+
 ## 20250826
 - [It's FOSS](https://itsfoss.com/) | [Using Nightlight in Hyprland](https://itsfoss.com/nightlight-hyprland/)
 

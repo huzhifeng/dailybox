@@ -1,3 +1,7 @@
+## 20250827
+- [Phoronix](https://www.phoronix.com/) | [Framework Desktop Power Mode Tuning For Better Performance Or Power Efficiency](https://www.phoronix.com/review/framework-desktop-mode)
+- [9to5Linux](https://9to5linux.com/) | [QEMU 10.1 Released with TDX Support, Many RISC-V and ARM Improvements](https://9to5linux.com/qemu-10-1-released-with-tdx-support-many-risc-v-and-arm-improvements)
+
 ## 20250826
 - [Phoronix](https://www.phoronix.com/) | [Framework Laptop 16 Upgrade Announced With Ryzen AI 300 Series, GeForce RTX 5070](https://www.phoronix.com/news/Framework-16-2025)
 

@@ -1,3 +1,6 @@
+## 20250827
+- [9to5Linux](https://9to5linux.com/) | [QEMU 10.1 Released with TDX Support, Many RISC-V and ARM Improvements](https://9to5linux.com/qemu-10-1-released-with-tdx-support-many-risc-v-and-arm-improvements)
+
 ## 20250825
 - [9to5Linux](https://9to5linux.com/) | [Happy 34th Birthday, Linux!](https://9to5linux.com/happy-34th-birthday-linux)
 
