@@ -1,3 +1,6 @@
+## 20250828
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/)
+
 ## 20250827
 - [It's FOSS](https://itsfoss.com/) | [Installing Fedora Linux in the Simplest Possible Way](https://itsfoss.com/install-fedora/)
 

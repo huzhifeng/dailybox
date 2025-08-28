@@ -1,3 +1,7 @@
+## 20250828
+- [Phoronix](https://www.phoronix.com/) | [Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel](https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT)
+- [9to5Linux](https://9to5linux.com/) | [First Look at KDE&#8217;s Initial System Setup (KISS) Tool in KDE Plasma 6.5](https://9to5linux.com/first-look-at-kdes-initial-system-setup-kiss-tool-in-kde-plasma-6-5)
+
 ## 20250827
 - [Phoronix](https://www.phoronix.com/) | [Framework Desktop Power Mode Tuning For Better Performance Or Power Efficiency](https://www.phoronix.com/review/framework-desktop-mode)
 - [9to5Linux](https://9to5linux.com/) | [QEMU 10.1 Released with TDX Support, Many RISC-V and ARM Improvements](https://9to5linux.com/qemu-10-1-released-with-tdx-support-many-risc-v-and-arm-improvements)

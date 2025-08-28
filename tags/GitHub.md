@@ -1,3 +1,6 @@
+## 20250828
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/terminal](https://github.com/microsoft/terminal)
+
 ## 20250827
 - [GitHub Trending](https://github.com/trending?since=daily) | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 

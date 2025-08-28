@@ -1,3 +1,6 @@
+## 20250828
+- [Phoronix](https://www.phoronix.com/) | [Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel](https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT)
+
 ## 20250827
 - [Phoronix](https://www.phoronix.com/) | [Framework Desktop Power Mode Tuning For Better Performance Or Power Efficiency](https://www.phoronix.com/review/framework-desktop-mode)
 

@@ -1,3 +1,6 @@
+## 20250828
+- [9to5Linux](https://9to5linux.com/) | [First Look at KDE&#8217;s Initial System Setup (KISS) Tool in KDE Plasma 6.5](https://9to5linux.com/first-look-at-kdes-initial-system-setup-kiss-tool-in-kde-plasma-6-5)
+
 ## 20250827
 - [9to5Linux](https://9to5linux.com/) | [QEMU 10.1 Released with TDX Support, Many RISC-V and ARM Improvements](https://9to5linux.com/qemu-10-1-released-with-tdx-support-many-risc-v-and-arm-improvements)
 

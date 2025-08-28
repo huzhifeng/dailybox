@@ -1,3 +1,6 @@
+## 20250828
+- [Product Hunt](https://www.producthunt.com) | [brek.ai](https://www.producthunt.com/products/brek-ai)
+
 ## 20250827
 - [Product Hunt](https://www.producthunt.com) | [Gemini 2.5 Flash Image](https://www.producthunt.com/products/google)
 

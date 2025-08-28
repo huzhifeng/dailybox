@@ -1,3 +1,6 @@
+## 20250828
+- [LibHunt](https://www.libhunt.com/) | [containers](https://www.libhunt.com/r/containers)
+
 ## 20250826
 - [LibHunt](https://www.libhunt.com/) | [playwright-mcp](https://www.libhunt.com/r/playwright-mcp)
 
