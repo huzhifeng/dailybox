@@ -1,3 +1,6 @@
+## 20250829
+- [It's FOSS](https://itsfoss.com/) | [19 Beautiful Themes to Get a Better Visual Experience With VS Code](https://itsfoss.com/vs-code-themes/)
+
 ## 20250828
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/)
 

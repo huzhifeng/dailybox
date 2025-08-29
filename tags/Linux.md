@@ -1,3 +1,7 @@
+## 20250829
+- [Phoronix](https://www.phoronix.com/) | [Fwupd 2.0.14 Brings New Framework & SteelSeries Hardware Support](https://www.phoronix.com/news/Fwupd-2.0.14-Released)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.8.1 Office Suite Is Already Out with More Than 90 Bug Fixes](https://9to5linux.com/libreoffice-25-8-1-office-suite-is-already-out-with-more-than-90-bug-fixes)
+
 ## 20250828
 - [Phoronix](https://www.phoronix.com/) | [Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel](https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT)
 - [9to5Linux](https://9to5linux.com/) | [First Look at KDE&#8217;s Initial System Setup (KISS) Tool in KDE Plasma 6.5](https://9to5linux.com/first-look-at-kdes-initial-system-setup-kiss-tool-in-kde-plasma-6-5)

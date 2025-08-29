@@ -1,3 +1,6 @@
+## 20250829
+- [Phoronix](https://www.phoronix.com/) | [Fwupd 2.0.14 Brings New Framework & SteelSeries Hardware Support](https://www.phoronix.com/news/Fwupd-2.0.14-Released)
+
 ## 20250828
 - [Phoronix](https://www.phoronix.com/) | [Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel](https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT)
 

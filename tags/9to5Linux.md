@@ -1,3 +1,6 @@
+## 20250829
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.8.1 Office Suite Is Already Out with More Than 90 Bug Fixes](https://9to5linux.com/libreoffice-25-8-1-office-suite-is-already-out-with-more-than-90-bug-fixes)
+
 ## 20250828
 - [9to5Linux](https://9to5linux.com/) | [First Look at KDE&#8217;s Initial System Setup (KISS) Tool in KDE Plasma 6.5](https://9to5linux.com/first-look-at-kdes-initial-system-setup-kiss-tool-in-kde-plasma-6-5)
 

@@ -1,3 +1,6 @@
+## 20250829
+- [GitHub Trending](https://github.com/trending?since=daily) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
 ## 20250828
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/terminal](https://github.com/microsoft/terminal)
 
