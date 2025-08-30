@@ -1,3 +1,6 @@
+## 20250830
+- [Phoronix](https://www.phoronix.com/) | [Wayfire 0.10 Wayland Compositor Brings Experimental Vulkan Rendering](https://www.phoronix.com/news/Wayfire-0.10-Released)
+
 ## 20250829
 - [Phoronix](https://www.phoronix.com/) | [Fwupd 2.0.14 Brings New Framework & SteelSeries Hardware Support](https://www.phoronix.com/news/Fwupd-2.0.14-Released)
 

@@ -1,3 +1,6 @@
+## 20250830
+- [LibHunt](https://www.libhunt.com/) | [seedbox-lite](https://www.libhunt.com/r/seedbox-lite)
+
 ## 20250828
 - [LibHunt](https://www.libhunt.com/) | [containers](https://www.libhunt.com/r/containers)
 

@@ -1,3 +1,6 @@
+## 20250830
+- [V2EX](https://www.v2ex.com/) | [我真的佩服有些品牌的带货主播，可以几句台词说一天。](https://www.v2ex.com/t/1155939)
+
 ## 20250826
 - [V2EX](https://www.v2ex.com/) | [女生对于彩礼的定位到底是什么](https://www.v2ex.com/t/1155068)
 
