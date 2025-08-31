@@ -1,3 +1,6 @@
+## 20250831
+- [LibHunt](https://www.libhunt.com/) | [ai-fullstack-serie](https://www.libhunt.com/r/ai-fullstack-serie)
+
 ## 20250830
 - [LibHunt](https://www.libhunt.com/) | [seedbox-lite](https://www.libhunt.com/r/seedbox-lite)
 

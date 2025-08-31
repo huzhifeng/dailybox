@@ -1,3 +1,6 @@
+## 20250831
+- [Phoronix](https://www.phoronix.com/) | [KDE Krita Merge Request Opened For Wayland Color Management](https://www.phoronix.com/news/Krita-Wayland-HDR-Merge-Request)
+
 ## 20250830
 - [Phoronix](https://www.phoronix.com/) | [Wayfire 0.10 Wayland Compositor Brings Experimental Vulkan Rendering](https://www.phoronix.com/news/Wayfire-0.10-Released)
 

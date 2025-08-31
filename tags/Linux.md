@@ -1,3 +1,6 @@
+## 20250831
+- [Phoronix](https://www.phoronix.com/) | [KDE Krita Merge Request Opened For Wayland Color Management](https://www.phoronix.com/news/Krita-Wayland-HDR-Merge-Request)
+
 ## 20250830
 - [Phoronix](https://www.phoronix.com/) | [Wayfire 0.10 Wayland Compositor Brings Experimental Vulkan Rendering](https://www.phoronix.com/news/Wayfire-0.10-Released)
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.7.1 Brings Improvements for Team Fortress 2, Crysis 3, and Other Games](https://9to5linux.com/dxvk-2-7-1-brings-improvements-for-team-fortress-2-crysis-3-and-other-games)
