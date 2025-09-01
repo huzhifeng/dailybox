@@ -1,3 +1,6 @@
+## 20250901
+- [Phoronix](https://www.phoronix.com/) | [Linux's exFAT File-System Driver Optimization Leads To 16.5x Speedup For Loading Time](https://www.phoronix.com/news/exFAT-Optimize-Bitmap-Loading)
+
 ## 20250831
 - [Phoronix](https://www.phoronix.com/) | [KDE Krita Merge Request Opened For Wayland Color Management](https://www.phoronix.com/news/Krita-Wayland-HDR-Merge-Request)
 

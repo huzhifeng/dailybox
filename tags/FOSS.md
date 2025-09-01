@@ -1,3 +1,6 @@
+## 20250901
+- [It's FOSS](https://itsfoss.com/) | [Installing Proxmox on a Raspberry Pi to run Virtual Machines on it](https://itsfoss.com/install-proxmox-raspberry-pi/)
+
 ## 20250829
 - [It's FOSS](https://itsfoss.com/) | [19 Beautiful Themes to Get a Better Visual Experience With VS Code](https://itsfoss.com/vs-code-themes/)
 

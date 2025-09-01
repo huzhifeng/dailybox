@@ -1,3 +1,6 @@
+## 20250901
+- [Product Hunt](https://www.producthunt.com) | [Lumi.new](https://www.producthunt.com/products/lumi-new-2)
+
 ## 20250831
 - [Product Hunt](https://www.producthunt.com) | [UseArticle](https://www.producthunt.com/products/usearticle-urls-to-affiliate-website)
 
