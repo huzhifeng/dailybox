@@ -1,3 +1,6 @@
+## 20250902
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer&#8217;s LVM (Logical Volume Manager) Support Is Out of Beta](https://9to5linux.com/arch-linux-installers-lvm-logical-volume-manager-support-is-out-of-beta)
+
 ## 20250830
 - [9to5Linux](https://9to5linux.com/) | [DXVK 2.7.1 Brings Improvements for Team Fortress 2, Crysis 3, and Other Games](https://9to5linux.com/dxvk-2-7-1-brings-improvements-for-team-fortress-2-crysis-3-and-other-games)
 

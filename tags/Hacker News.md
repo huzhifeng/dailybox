@@ -1,3 +1,8 @@
+## 20250902
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-01](https://www.daemonology.net/hn-daily/2025-09-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-01](https://hacker-news.agi.li/post/2025-09-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Next.js is infuriating](https://news.ycombinator.com/item?id=45099922)
+
 ## 20250901
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-08-31](https://www.daemonology.net/hn-daily/2025-08-31.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-31](https://hacker-news.agi.li/post/2025-08-31)

@@ -1,3 +1,7 @@
+## 20250902
+- [Phoronix](https://www.phoronix.com/) | [LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/llvm-clang-21-epyc-zen5)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer&#8217;s LVM (Logical Volume Manager) Support Is Out of Beta](https://9to5linux.com/arch-linux-installers-lvm-logical-volume-manager-support-is-out-of-beta)
+
 ## 20250901
 - [Phoronix](https://www.phoronix.com/) | [Linux's exFAT File-System Driver Optimization Leads To 16.5x Speedup For Loading Time](https://www.phoronix.com/news/exFAT-Optimize-Bitmap-Loading)
 

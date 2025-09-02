@@ -1,3 +1,6 @@
+## 20250902
+- [GitHub Trending](https://github.com/trending?since=daily) | [JetBrains/koog](https://github.com/JetBrains/koog)
+
 ## 20250901
 - [GitHub Trending](https://github.com/trending?since=daily) | [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 

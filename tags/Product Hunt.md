@@ -1,3 +1,6 @@
+## 20250902
+- [Product Hunt](https://www.producthunt.com) | [Upvoted](https://www.producthunt.com/products/upvoted-3)
+
 ## 20250901
 - [Product Hunt](https://www.producthunt.com) | [Lumi.new](https://www.producthunt.com/products/lumi-new-2)
 

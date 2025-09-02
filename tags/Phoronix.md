@@ -1,3 +1,6 @@
+## 20250902
+- [Phoronix](https://www.phoronix.com/) | [LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/llvm-clang-21-epyc-zen5)
+
 ## 20250901
 - [Phoronix](https://www.phoronix.com/) | [Linux's exFAT File-System Driver Optimization Leads To 16.5x Speedup For Loading Time](https://www.phoronix.com/news/exFAT-Optimize-Bitmap-Loading)
 
