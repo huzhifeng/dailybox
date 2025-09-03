@@ -1,3 +1,6 @@
+## 20250903
+- [LibHunt](https://www.libhunt.com/) | [pgvector](https://www.libhunt.com/r/pgvector)
+
 ## 20250831
 - [LibHunt](https://www.libhunt.com/) | [ai-fullstack-serie](https://www.libhunt.com/r/ai-fullstack-serie)
 

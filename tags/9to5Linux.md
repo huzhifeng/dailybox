@@ -1,3 +1,6 @@
+## 20250903
+- [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5.3 Open-Source DJ App Brings Major Improvements to Digital Vinyl System](https://9to5linux.com/mixxx-2-5-3-open-source-dj-app-brings-major-improvements-to-digital-vinyl-system)
+
 ## 20250902
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer&#8217;s LVM (Logical Volume Manager) Support Is Out of Beta](https://9to5linux.com/arch-linux-installers-lvm-logical-volume-manager-support-is-out-of-beta)
 

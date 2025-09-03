@@ -1,3 +1,6 @@
+## 20250903
+- [GitHub Trending](https://github.com/trending?since=daily) | [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+
 ## 20250902
 - [GitHub Trending](https://github.com/trending?since=daily) | [JetBrains/koog](https://github.com/JetBrains/koog)
 

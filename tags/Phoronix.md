@@ -1,3 +1,6 @@
+## 20250903
+- [Phoronix](https://www.phoronix.com/) | [Niri 25.08 Wayland Compositor Introduces xwayland-satellite Support](https://www.phoronix.com/news/Niri-25.08-Released)
+
 ## 20250902
 - [Phoronix](https://www.phoronix.com/) | [LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC "Turin"](https://www.phoronix.com/review/llvm-clang-21-epyc-zen5)
 
