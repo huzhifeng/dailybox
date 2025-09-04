@@ -1,3 +1,6 @@
+## 20250904
+- [GitHub Trending](https://github.com/trending?since=daily) | [LukeGus/Termix](https://github.com/LukeGus/Termix)
+
 ## 20250903
 - [GitHub Trending](https://github.com/trending?since=daily) | [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 

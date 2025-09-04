@@ -1,3 +1,6 @@
+## 20250904
+- [9to5Linux](https://9to5linux.com/) | [GNOME 49 Release Candidate Re-Enables X11 Support by Default in GDM](https://9to5linux.com/gnome-49-release-candidate-re-enables-x11-support-by-default-in-gdm)
+
 ## 20250903
 - [9to5Linux](https://9to5linux.com/) | [Mixxx 2.5.3 Open-Source DJ App Brings Major Improvements to Digital Vinyl System](https://9to5linux.com/mixxx-2-5-3-open-source-dj-app-brings-major-improvements-to-digital-vinyl-system)
 

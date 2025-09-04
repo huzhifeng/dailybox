@@ -1,3 +1,8 @@
+## 20250904
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-03](https://www.daemonology.net/hn-daily/2025-09-03.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-03](https://hacker-news.agi.li/post/2025-09-03)
+- [Hacker News](https://news.ycombinator.com/front) | [30 minutes with a stranger](https://news.ycombinator.com/item?id=45124003)
+
 ## 20250903
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-02](https://www.daemonology.net/hn-daily/2025-09-02.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-08-29](https://hacker-news.agi.li/post/2025-08-29)

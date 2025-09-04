@@ -1,3 +1,6 @@
+## 20250904
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 With EXT4 Showing Some Nice Performance Improvements](https://www.phoronix.com/review/linux-617-ext4)
+
 ## 20250903
 - [Phoronix](https://www.phoronix.com/) | [Niri 25.08 Wayland Compositor Introduces xwayland-satellite Support](https://www.phoronix.com/news/Niri-25.08-Released)
 

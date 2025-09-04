@@ -1,3 +1,6 @@
+## 20250904
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More](https://itsfoss.com/newsletter/foss-weekly-25-36/)
+
 ## 20250901
 - [It's FOSS](https://itsfoss.com/) | [Installing Proxmox on a Raspberry Pi to run Virtual Machines on it](https://itsfoss.com/install-proxmox-raspberry-pi/)
 

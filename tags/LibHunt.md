@@ -1,3 +1,6 @@
+## 20250904
+- [LibHunt](https://www.libhunt.com/) | [dotfiles](https://www.libhunt.com/r/azemetre/dotfiles)
+
 ## 20250903
 - [LibHunt](https://www.libhunt.com/) | [pgvector](https://www.libhunt.com/r/pgvector)
 
