@@ -1,3 +1,6 @@
+## 20250905
+- [Phoronix](https://www.phoronix.com/) | [A First Look At Ubuntu 25.10 Performance On AMD Strix Halo / Framework Desktop](https://www.phoronix.com/review/ubuntu-2510-strix-halo)
+
 ## 20250904
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 With EXT4 Showing Some Nice Performance Improvements](https://www.phoronix.com/review/linux-617-ext4)
 

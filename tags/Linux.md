@@ -1,3 +1,7 @@
+## 20250905
+- [Phoronix](https://www.phoronix.com/) | [A First Look At Ubuntu 25.10 Performance On AMD Strix Halo / Framework Desktop](https://www.phoronix.com/review/ubuntu-2510-strix-halo)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.10 E-Book Manager Brings Improvements to the Kindle MTP Driver](https://9to5linux.com/calibre-8-10-e-book-manager-brings-improvements-to-the-kindle-mtp-driver)
+
 ## 20250904
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 With EXT4 Showing Some Nice Performance Improvements](https://www.phoronix.com/review/linux-617-ext4)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49 Release Candidate Re-Enables X11 Support by Default in GDM](https://9to5linux.com/gnome-49-release-candidate-re-enables-x11-support-by-default-in-gdm)

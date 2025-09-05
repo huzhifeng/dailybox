@@ -1,3 +1,6 @@
+## 20250905
+- [Product Hunt](https://www.producthunt.com) | [100 Vibe Coding](https://www.producthunt.com/products/100-vibe-coding)
+
 ## 20250904
 - [Product Hunt](https://www.producthunt.com) | [Spiral](https://www.producthunt.com/products/spiral-7)
 

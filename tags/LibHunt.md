@@ -1,3 +1,6 @@
+## 20250905
+- [LibHunt](https://www.libhunt.com/) | [unix-history-repo](https://www.libhunt.com/r/unix-history-repo)
+
 ## 20250904
 - [LibHunt](https://www.libhunt.com/) | [dotfiles](https://www.libhunt.com/r/azemetre/dotfiles)
 

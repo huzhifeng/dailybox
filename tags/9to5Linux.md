@@ -1,3 +1,6 @@
+## 20250905
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.10 E-Book Manager Brings Improvements to the Kindle MTP Driver](https://9to5linux.com/calibre-8-10-e-book-manager-brings-improvements-to-the-kindle-mtp-driver)
+
 ## 20250904
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49 Release Candidate Re-Enables X11 Support by Default in GDM](https://9to5linux.com/gnome-49-release-candidate-re-enables-x11-support-by-default-in-gdm)
 
