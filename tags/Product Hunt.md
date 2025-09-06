@@ -1,3 +1,6 @@
+## 20250906
+- [Product Hunt](https://www.producthunt.com) | [Dockify ](https://www.producthunt.com/products/dockify)
+
 ## 20250905
 - [Product Hunt](https://www.producthunt.com) | [100 Vibe Coding](https://www.producthunt.com/products/100-vibe-coding)
 

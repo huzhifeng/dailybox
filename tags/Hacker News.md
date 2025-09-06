@@ -1,3 +1,7 @@
+## 20250906
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-05](https://www.daemonology.net/hn-daily/2025-09-05.html)
+- [Hacker News](https://news.ycombinator.com/front) | [996](https://news.ycombinator.com/item?id=45149049)
+
 ## 20250905
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-04](https://www.daemonology.net/hn-daily/2025-09-04.html)
 - [Hacker News](https://news.ycombinator.com/front) | [I Ditched Docker for Podman (and You Should Too)](https://news.ycombinator.com/item?id=45137525)

@@ -1,3 +1,6 @@
+## 20250906
+- [9to5Linux](https://9to5linux.com/) | [KDE Linux Distribution Is Available for Public Testing, Download Now](https://9to5linux.com/kde-linux-distribution-is-available-for-public-testing-download-now)
+
 ## 20250905
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.10 E-Book Manager Brings Improvements to the Kindle MTP Driver](https://9to5linux.com/calibre-8-10-e-book-manager-brings-improvements-to-the-kindle-mtp-driver)
 

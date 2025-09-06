@@ -1,3 +1,6 @@
+## 20250906
+- [LibHunt](https://www.libhunt.com/) | [VibeVoice](https://www.libhunt.com/r/VibeVoice)
+
 ## 20250905
 - [LibHunt](https://www.libhunt.com/) | [unix-history-repo](https://www.libhunt.com/r/unix-history-repo)
 

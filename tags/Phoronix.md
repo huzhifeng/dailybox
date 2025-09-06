@@ -1,3 +1,6 @@
+## 20250906
+- [Phoronix](https://www.phoronix.com/) | [Debian 13.1 Released With An Initial Batch Of Fixes](https://www.phoronix.com/news/Debian-13.1-Released)
+
 ## 20250905
 - [Phoronix](https://www.phoronix.com/) | [A First Look At Ubuntu 25.10 Performance On AMD Strix Halo / Framework Desktop](https://www.phoronix.com/review/ubuntu-2510-strix-halo)
 
