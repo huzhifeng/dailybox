@@ -1,3 +1,6 @@
+## 20250907
+- [LibHunt](https://www.libhunt.com/) | [spec-kit](https://www.libhunt.com/r/spec-kit)
+
 ## 20250906
 - [LibHunt](https://www.libhunt.com/) | [VibeVoice](https://www.libhunt.com/r/VibeVoice)
 

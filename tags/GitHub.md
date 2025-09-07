@@ -1,3 +1,6 @@
+## 20250907
+- [GitHub Trending](https://github.com/trending?since=daily) | [apple/embedding-atlas](https://github.com/apple/embedding-atlas)
+
 ## 20250906
 - [GitHub Trending](https://github.com/trending?since=daily) | [kestra-io/kestra](https://github.com/kestra-io/kestra)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Bump82bsNAp223prime/MEV-BOT-POOL](https://github.com/Bump82bsNAp223prime/MEV-BOT-POOL)

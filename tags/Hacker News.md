@@ -1,3 +1,8 @@
+## 20250907
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-06](https://www.daemonology.net/hn-daily/2025-09-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-04](https://hacker-news.agi.li/post/2025-09-04)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: I recreated Windows XP as my portfolio](https://news.ycombinator.com/item?id=45154609)
+
 ## 20250906
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-05](https://www.daemonology.net/hn-daily/2025-09-05.html)
 - [Hacker News](https://news.ycombinator.com/front) | [996](https://news.ycombinator.com/item?id=45149049)

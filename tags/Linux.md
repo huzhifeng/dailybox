@@ -1,3 +1,6 @@
+## 20250907
+- [Phoronix](https://www.phoronix.com/) | [Intel Preps Wildcat Lake Display Support For Linux 6.18, "enable_panel_replay" Option](https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.18)
+
 ## 20250906
 - [Phoronix](https://www.phoronix.com/) | [Debian 13.1 Released With An Initial Batch Of Fixes](https://www.phoronix.com/news/Debian-13.1-Released)
 - [9to5Linux](https://9to5linux.com/) | [KDE Linux Distribution Is Available for Public Testing, Download Now](https://9to5linux.com/kde-linux-distribution-is-available-for-public-testing-download-now)
