@@ -1,3 +1,6 @@
+## 20250908
+- [9to5Linux](https://9to5linux.com/) | [Kodi 22 &#8220;Piers&#8221; Promises HDR Passthrough on OpenGL and HDR on Wayland](https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland)
+
 ## 20250906
 - [9to5Linux](https://9to5linux.com/) | [KDE Linux Distribution Is Available for Public Testing, Download Now](https://9to5linux.com/kde-linux-distribution-is-available-for-public-testing-download-now)
 

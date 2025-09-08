@@ -1,3 +1,7 @@
+## 20250908
+- [Phoronix](https://www.phoronix.com/) | [First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X](https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510)
+- [9to5Linux](https://9to5linux.com/) | [Kodi 22 &#8220;Piers&#8221; Promises HDR Passthrough on OpenGL and HDR on Wayland](https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland)
+
 ## 20250907
 - [Phoronix](https://www.phoronix.com/) | [Intel Preps Wildcat Lake Display Support For Linux 6.18, "enable_panel_replay" Option](https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.18)
 

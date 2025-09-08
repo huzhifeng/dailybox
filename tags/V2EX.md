@@ -1,3 +1,6 @@
+## 20250908
+- [V2EX](https://www.v2ex.com/) | [亏了 50W 了，怎么办](https://www.v2ex.com/t/1157737)
+
 ## 20250830
 - [V2EX](https://www.v2ex.com/) | [我真的佩服有些品牌的带货主播，可以几句台词说一天。](https://www.v2ex.com/t/1155939)
 

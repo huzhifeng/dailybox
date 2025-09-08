@@ -1,3 +1,6 @@
+## 20250908
+- [It's FOSS](https://itsfoss.com/) | [14 Themes for Beautifying Your Ghostty Terminal](https://itsfoss.com/ghostty-themes/)
+
 ## 20250907
 - [It's FOSS](https://itsfoss.com/) | [Speed Isn't Everything When Buying SSDs - Here's What Really Matters!](https://itsfoss.com/ssd-parameters/)
 
