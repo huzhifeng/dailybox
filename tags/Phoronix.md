@@ -1,3 +1,6 @@
+## 20250909
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen & Intel Core Ultra](https://www.phoronix.com/review/snapdragon-x1e-september)
+
 ## 20250908
 - [Phoronix](https://www.phoronix.com/) | [First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X](https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510)
 

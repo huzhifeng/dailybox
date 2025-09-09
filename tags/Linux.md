@@ -1,3 +1,7 @@
+## 20250909
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen & Intel Core Ultra](https://www.phoronix.com/review/snapdragon-x1e-september)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.5 Fixes Brightness Flickering Issues with AMD GPU Drivers](https://9to5linux.com/kde-plasma-6-4-5-fixes-brightness-flickering-issues-with-amd-gpu-drivers)
+
 ## 20250908
 - [Phoronix](https://www.phoronix.com/) | [First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X](https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510)
 - [9to5Linux](https://9to5linux.com/) | [Kodi 22 &#8220;Piers&#8221; Promises HDR Passthrough on OpenGL and HDR on Wayland](https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland)

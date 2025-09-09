@@ -1,3 +1,6 @@
+## 20250909
+- [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
+
 ## 20250907
 - [LibHunt](https://www.libhunt.com/) | [spec-kit](https://www.libhunt.com/r/spec-kit)
 

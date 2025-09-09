@@ -1,3 +1,6 @@
+## 20250909
+- [GitHub Trending](https://github.com/trending?since=daily) | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+
 ## 20250908
 - [GitHub Trending](https://github.com/trending?since=daily) | [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 

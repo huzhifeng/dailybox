@@ -1,3 +1,6 @@
+## 20250909
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.5 Fixes Brightness Flickering Issues with AMD GPU Drivers](https://9to5linux.com/kde-plasma-6-4-5-fixes-brightness-flickering-issues-with-amd-gpu-drivers)
+
 ## 20250908
 - [9to5Linux](https://9to5linux.com/) | [Kodi 22 &#8220;Piers&#8221; Promises HDR Passthrough on OpenGL and HDR on Wayland](https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland)
 
