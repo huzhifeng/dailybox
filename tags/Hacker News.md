@@ -1,3 +1,8 @@
+## 20250910
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-09](https://www.daemonology.net/hn-daily/2025-09-09.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-09](https://hacker-news.agi.li/post/2025-09-09)
+- [Hacker News](https://news.ycombinator.com/front) | [Pontevedra, Spain declares its entire urban area a "reduced traffic zone"](https://news.ycombinator.com/item?id=45195520)
+
 ## 20250909
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-08](https://www.daemonology.net/hn-daily/2025-09-08.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-08](https://hacker-news.agi.li/post/2025-09-08)

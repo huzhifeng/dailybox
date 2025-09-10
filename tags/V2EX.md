@@ -1,3 +1,6 @@
+## 20250910
+- [V2EX](https://www.v2ex.com/) | [App Store 兑换码免费领｜我们买下了正版二十四节气主题版权 & 设计师招募，只为让原创被看见](https://www.v2ex.com/t/1158243)
+
 ## 20250908
 - [V2EX](https://www.v2ex.com/) | [亏了 50W 了，怎么办](https://www.v2ex.com/t/1157737)
 

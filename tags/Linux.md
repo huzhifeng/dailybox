@@ -1,3 +1,7 @@
+## 20250910
+- [Phoronix](https://www.phoronix.com/) | [openSUSE Disabling Bcachefs Support For Its Linux 6.17+ Kernel Builds](https://www.phoronix.com/news/openSUSE-Disabling-Bcachefs)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Now Supports Fully Automated Installations of Debian 13](https://9to5linux.com/tuxedo-computers-now-supports-fully-automated-installations-of-debian-13)
+
 ## 20250909
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen & Intel Core Ultra](https://www.phoronix.com/review/snapdragon-x1e-september)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.5 Fixes Brightness Flickering Issues with AMD GPU Drivers](https://9to5linux.com/kde-plasma-6-4-5-fixes-brightness-flickering-issues-with-amd-gpu-drivers)

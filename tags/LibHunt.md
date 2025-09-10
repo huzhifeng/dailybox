@@ -1,3 +1,6 @@
+## 20250910
+- [LibHunt](https://www.libhunt.com/) | [orioledb](https://www.libhunt.com/r/orioledb)
+
 ## 20250909
 - [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
 

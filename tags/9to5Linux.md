@@ -1,3 +1,6 @@
+## 20250910
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Now Supports Fully Automated Installations of Debian 13](https://9to5linux.com/tuxedo-computers-now-supports-fully-automated-installations-of-debian-13)
+
 ## 20250909
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.5 Fixes Brightness Flickering Issues with AMD GPU Drivers](https://9to5linux.com/kde-plasma-6-4-5-fixes-brightness-flickering-issues-with-amd-gpu-drivers)
 

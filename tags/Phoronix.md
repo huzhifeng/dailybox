@@ -1,3 +1,6 @@
+## 20250910
+- [Phoronix](https://www.phoronix.com/) | [openSUSE Disabling Bcachefs Support For Its Linux 6.17+ Kernel Builds](https://www.phoronix.com/news/openSUSE-Disabling-Bcachefs)
+
 ## 20250909
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen & Intel Core Ultra](https://www.phoronix.com/review/snapdragon-x1e-september)
 

@@ -1,3 +1,6 @@
+## 20250910
+- [It's FOSS](https://itsfoss.com/) | [I Discovered the Wonderful Compose Key After 15 Years of Using Linux](https://itsfoss.com/compose-key-gnome-linux/)
+
 ## 20250908
 - [It's FOSS](https://itsfoss.com/) | [14 Themes for Beautifying Your Ghostty Terminal](https://itsfoss.com/ghostty-themes/)
 

@@ -1,3 +1,6 @@
+## 20250910
+- [Product Hunt](https://www.producthunt.com) | [10X PPC](https://www.producthunt.com/products/10x-ppc)
+
 ## 20250909
 - [Product Hunt](https://www.producthunt.com) | [Agilepitch](https://www.producthunt.com/products/agilepitch)
 

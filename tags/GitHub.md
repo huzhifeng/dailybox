@@ -1,3 +1,6 @@
+## 20250910
+- [GitHub Trending](https://github.com/trending?since=daily) | [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
 ## 20250909
 - [GitHub Trending](https://github.com/trending?since=daily) | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 
