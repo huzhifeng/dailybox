@@ -1,3 +1,6 @@
+## 20250911
+- [Phoronix](https://www.phoronix.com/) | [Linux Patched For New "VMSCAPE" Vulnerability Affecting Intel & AMD CPUs](https://www.phoronix.com/news/Linux-VMSCAPE)
+
 ## 20250910
 - [Phoronix](https://www.phoronix.com/) | [openSUSE Disabling Bcachefs Support For Its Linux 6.17+ Kernel Builds](https://www.phoronix.com/news/openSUSE-Disabling-Bcachefs)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Now Supports Fully Automated Installations of Debian 13](https://9to5linux.com/tuxedo-computers-now-supports-fully-automated-installations-of-debian-13)

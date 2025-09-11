@@ -1,3 +1,8 @@
+## 20250911
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-10](https://www.daemonology.net/hn-daily/2025-09-10.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-10](https://hacker-news.agi.li/post/2025-09-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Germany is not supporting ChatControl – blocking minority secured](https://news.ycombinator.com/item?id=45209366)
+
 ## 20250910
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-09](https://www.daemonology.net/hn-daily/2025-09-09.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-09](https://hacker-news.agi.li/post/2025-09-09)
