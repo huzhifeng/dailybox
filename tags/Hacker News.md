@@ -1,3 +1,8 @@
+## 20250912
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-11](https://www.daemonology.net/hn-daily/2025-09-11.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-11](https://hacker-news.agi.li/post/2025-09-11)
+- [Hacker News](https://news.ycombinator.com/front) | [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://news.ycombinator.com/item?id=45221274)
+
 ## 20250911
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-10](https://www.daemonology.net/hn-daily/2025-09-10.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-10](https://hacker-news.agi.li/post/2025-09-10)

@@ -1,3 +1,6 @@
+## 20250912
+- [9to5Linux](https://9to5linux.com/) | [Dash to Panel GNOME Shell Extension Gets GNOME 49 Support and New Features](https://9to5linux.com/dash-to-panel-gnome-shell-extension-gets-gnome-49-support-and-new-features)
+
 ## 20250910
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Computers Now Supports Fully Automated Installations of Debian 13](https://9to5linux.com/tuxedo-computers-now-supports-fully-automated-installations-of-debian-13)
 

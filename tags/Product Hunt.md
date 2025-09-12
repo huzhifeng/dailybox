@@ -1,3 +1,6 @@
+## 20250912
+- [Product Hunt](https://www.producthunt.com) | [Claude Memory](https://www.producthunt.com/products/claude-code)
+
 ## 20250911
 - [Product Hunt](https://www.producthunt.com) | [The New Userlist](https://www.producthunt.com/products/userlist)
 

@@ -1,3 +1,6 @@
+## 20250912
+- [Phoronix](https://www.phoronix.com/) | [Intel i915 vs. Xe Graphics Driver Benchmarks For Meteor Lake: Extra Performance In 2025](https://www.phoronix.com/review/intel-mtl-i915-xe-linux)
+
 ## 20250911
 - [Phoronix](https://www.phoronix.com/) | [Linux Patched For New "VMSCAPE" Vulnerability Affecting Intel & AMD CPUs](https://www.phoronix.com/news/Linux-VMSCAPE)
 

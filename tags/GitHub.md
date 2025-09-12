@@ -1,3 +1,7 @@
+## 20250912
+- [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [luis22d/ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)
+
 ## 20250911
 - [GitHub Trending](https://github.com/trending?since=daily) | [vercel/examples](https://github.com/vercel/examples)
 

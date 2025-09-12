@@ -1,3 +1,7 @@
+## 20250912
+- [Phoronix](https://www.phoronix.com/) | [Intel i915 vs. Xe Graphics Driver Benchmarks For Meteor Lake: Extra Performance In 2025](https://www.phoronix.com/review/intel-mtl-i915-xe-linux)
+- [9to5Linux](https://9to5linux.com/) | [Dash to Panel GNOME Shell Extension Gets GNOME 49 Support and New Features](https://9to5linux.com/dash-to-panel-gnome-shell-extension-gets-gnome-49-support-and-new-features)
+
 ## 20250911
 - [Phoronix](https://www.phoronix.com/) | [Linux Patched For New "VMSCAPE" Vulnerability Affecting Intel & AMD CPUs](https://www.phoronix.com/news/Linux-VMSCAPE)
 
