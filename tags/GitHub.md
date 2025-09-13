@@ -1,3 +1,6 @@
+## 20250913
+- [GitHub Trending](https://github.com/trending?since=daily) | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+
 ## 20250912
 - [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [luis22d/ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)
