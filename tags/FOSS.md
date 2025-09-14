@@ -1,3 +1,6 @@
+## 20250914
+- [It's FOSS](https://itsfoss.com/) | [sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command](https://itsfoss.com/sudo-vs-sudo-rs/)
+
 ## 20250911
 - [It's FOSS](https://itsfoss.com/) | [Pironman 5 Max Review: Best Raspberry Pi Case Money can Buy](https://itsfoss.com/pironman-5-max-review/)
 

@@ -1,3 +1,6 @@
+## 20250914
+- [GitHub Trending](https://github.com/trending?since=daily) | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
+
 ## 20250913
 - [GitHub Trending](https://github.com/trending?since=daily) | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 

@@ -1,3 +1,6 @@
+## 20250914
+- [LibHunt](https://www.libhunt.com/) | [QGIS](https://www.libhunt.com/r/QGIS)
+
 ## 20250912
 - [LibHunt](https://www.libhunt.com/) | [Form16x](https://www.libhunt.com/r/Form16x)
 

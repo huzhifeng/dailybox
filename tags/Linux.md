@@ -1,3 +1,6 @@
+## 20250914
+- [Phoronix](https://www.phoronix.com/) | [Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers](https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer)
+
 ## 20250913
 - [Phoronix](https://www.phoronix.com/) | [Linux's New "Sheaves" Per-CPU Caching Layer Showing Massive Wins For AMD Performance](https://www.phoronix.com/news/Linux-Sheaves-AMD-Performance)
 
