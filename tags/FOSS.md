@@ -1,3 +1,6 @@
+## 20250915
+- [It's FOSS](https://itsfoss.com/) | [I Ran Local LLMs on My Android Phone](https://itsfoss.com/android-on-device-ai/)
+
 ## 20250914
 - [It's FOSS](https://itsfoss.com/) | [sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command](https://itsfoss.com/sudo-vs-sudo-rs/)
 

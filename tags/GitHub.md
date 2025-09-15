@@ -1,3 +1,6 @@
+## 20250915
+- [GitHub Trending](https://github.com/trending?since=daily) | [midday-ai/midday](https://github.com/midday-ai/midday)
+
 ## 20250914
 - [GitHub Trending](https://github.com/trending?since=daily) | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
 

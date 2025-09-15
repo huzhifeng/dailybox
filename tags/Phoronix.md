@@ -1,3 +1,6 @@
+## 20250915
+- [Phoronix](https://www.phoronix.com/) | [The Performance Cost To Ubuntu WSL2 On Windows 11 25H2](https://www.phoronix.com/review/windows-11-wsl2-2025)
+
 ## 20250914
 - [Phoronix](https://www.phoronix.com/) | [Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers](https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer)
 

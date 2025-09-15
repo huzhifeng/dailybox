@@ -1,3 +1,6 @@
+## 20250915
+- [9to5Linux](https://9to5linux.com/) | [Canonical to Package and Distribute NVIDIA CUDA within Ubuntu&#8217;s Repositories](https://9to5linux.com/canonical-to-package-and-distribute-nvidia-cuda-within-ubuntus-repositories)
+
 ## 20250912
 - [9to5Linux](https://9to5linux.com/) | [Dash to Panel GNOME Shell Extension Gets GNOME 49 Support and New Features](https://9to5linux.com/dash-to-panel-gnome-shell-extension-gets-gnome-49-support-and-new-features)
 

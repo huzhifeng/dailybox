@@ -1,3 +1,6 @@
+## 20250915
+- [LibHunt](https://www.libhunt.com/) | [flowshapr](https://www.libhunt.com/r/flowshapr)
+
 ## 20250914
 - [LibHunt](https://www.libhunt.com/) | [QGIS](https://www.libhunt.com/r/QGIS)
 

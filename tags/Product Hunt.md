@@ -1,3 +1,6 @@
+## 20250915
+- [Product Hunt](https://www.producthunt.com) | [Slashit App](https://www.producthunt.com/products/slashit-app)
+
 ## 20250914
 - [Product Hunt](https://www.producthunt.com) | [Greenmor Mail](https://www.producthunt.com/products/greenmor-mail)
 

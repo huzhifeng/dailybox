@@ -1,3 +1,6 @@
+## 20250915
+- [V2EX](https://www.v2ex.com/) | [体验下站长的打赏功能！](https://www.v2ex.com/t/1159335)
+
 ## 20250910
 - [V2EX](https://www.v2ex.com/) | [App Store 兑换码免费领｜我们买下了正版二十四节气主题版权 & 设计师招募，只为让原创被看见](https://www.v2ex.com/t/1158243)
 
