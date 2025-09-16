@@ -1,3 +1,6 @@
+## 20250916
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Performance One Year Later](https://www.phoronix.com/review/intel-xeon-6980p-2025)
+
 ## 20250915
 - [Phoronix](https://www.phoronix.com/) | [The Performance Cost To Ubuntu WSL2 On Windows 11 25H2](https://www.phoronix.com/review/windows-11-wsl2-2025)
 

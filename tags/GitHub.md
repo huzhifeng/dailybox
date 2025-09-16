@@ -1,3 +1,6 @@
+## 20250916
+- [GitHub Trending](https://github.com/trending?since=daily) | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
 ## 20250915
 - [GitHub Trending](https://github.com/trending?since=daily) | [midday-ai/midday](https://github.com/midday-ai/midday)
 

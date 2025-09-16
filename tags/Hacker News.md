@@ -1,3 +1,8 @@
+## 20250916
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-15](https://www.daemonology.net/hn-daily/2025-09-15.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-15](https://hacker-news.agi.li/post/2025-09-15)
+- [Hacker News](https://news.ycombinator.com/front) | [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://news.ycombinator.com/item?id=45261163)
+
 ## 20250915
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-14](https://www.daemonology.net/hn-daily/2025-09-14.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-14](https://hacker-news.agi.li/post/2025-09-14)

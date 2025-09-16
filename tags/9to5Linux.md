@@ -1,3 +1,6 @@
+## 20250916
+- [9to5Linux](https://9to5linux.com/) | [Firefox 144 to Strengthen the Encryption of Logins in the Firefox Password Manager](https://9to5linux.com/firefox-144-to-strengthen-the-encryption-of-logins-in-the-firefox-password-manager)
+
 ## 20250915
 - [9to5Linux](https://9to5linux.com/) | [Canonical to Package and Distribute NVIDIA CUDA within Ubuntu&#8217;s Repositories](https://9to5linux.com/canonical-to-package-and-distribute-nvidia-cuda-within-ubuntus-repositories)
 

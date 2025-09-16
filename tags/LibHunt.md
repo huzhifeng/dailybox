@@ -1,3 +1,6 @@
+## 20250916
+- [LibHunt](https://www.libhunt.com/) | [initializr](https://www.libhunt.com/r/initializr)
+
 ## 20250915
 - [LibHunt](https://www.libhunt.com/) | [flowshapr](https://www.libhunt.com/r/flowshapr)
 
