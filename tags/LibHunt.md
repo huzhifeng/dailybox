@@ -1,3 +1,6 @@
+## 20250917
+- [LibHunt](https://www.libhunt.com/) | [servers](https://www.libhunt.com/r/servers)
+
 ## 20250916
 - [LibHunt](https://www.libhunt.com/) | [initializr](https://www.libhunt.com/r/initializr)
 

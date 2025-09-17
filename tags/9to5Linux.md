@@ -1,3 +1,6 @@
+## 20250917
+- [9to5Linux](https://9to5linux.com/) | [GNOME 49 &#8220;Brescia&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-49-brescia-desktop-environment-officially-released-heres-whats-new)
+
 ## 20250916
 - [9to5Linux](https://9to5linux.com/) | [Firefox 144 to Strengthen the Encryption of Logins in the Firefox Password Manager](https://9to5linux.com/firefox-144-to-strengthen-the-encryption-of-logins-in-the-firefox-password-manager)
 

@@ -1,3 +1,6 @@
+## 20250917
+- [Phoronix](https://www.phoronix.com/) | [GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player](https://www.phoronix.com/news/GNOME-49-Released)
+
 ## 20250916
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Performance One Year Later](https://www.phoronix.com/review/intel-xeon-6980p-2025)
 

@@ -1,3 +1,7 @@
+## 20250917
+- [Phoronix](https://www.phoronix.com/) | [GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player](https://www.phoronix.com/news/GNOME-49-Released)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 49 &#8220;Brescia&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-49-brescia-desktop-environment-officially-released-heres-whats-new)
+
 ## 20250916
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P "Granite Rapids" Linux Performance One Year Later](https://www.phoronix.com/review/intel-xeon-6980p-2025)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 144 to Strengthen the Encryption of Logins in the Firefox Password Manager](https://9to5linux.com/firefox-144-to-strengthen-the-encryption-of-logins-in-the-firefox-password-manager)

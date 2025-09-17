@@ -1,3 +1,6 @@
+## 20250917
+- [GitHub Trending](https://github.com/trending?since=daily) | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
 ## 20250916
 - [GitHub Trending](https://github.com/trending?since=daily) | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 

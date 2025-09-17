@@ -1,3 +1,6 @@
+## 20250917
+- [It's FOSS](https://itsfoss.com/) | [Review: Elecrow's All-in-one Starter Kit for Pico 2](https://itsfoss.com/review-elecrows-pico-2-kit/)
+
 ## 20250915
 - [It's FOSS](https://itsfoss.com/) | [I Ran Local LLMs on My Android Phone](https://itsfoss.com/android-on-device-ai/)
 
