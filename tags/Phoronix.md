@@ -1,3 +1,6 @@
+## 20250918
+- [Phoronix](https://www.phoronix.com/) | [Revisiting DDR5-6400 vs. MRDIMM-8800 Performance With Intel Xeon 6 "Granite Rapids"](https://www.phoronix.com/review/ddr5-6400-mrdimm-8800)
+
 ## 20250917
 - [Phoronix](https://www.phoronix.com/) | [GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player](https://www.phoronix.com/news/GNOME-49-Released)
 

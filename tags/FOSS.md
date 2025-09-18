@@ -1,3 +1,6 @@
+## 20250918
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/)
+
 ## 20250917
 - [It's FOSS](https://itsfoss.com/) | [Review: Elecrow's All-in-one Starter Kit for Pico 2](https://itsfoss.com/review-elecrows-pico-2-kit/)
 

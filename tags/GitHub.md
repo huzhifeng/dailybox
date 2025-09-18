@@ -1,3 +1,6 @@
+## 20250918
+- [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
 ## 20250917
 - [GitHub Trending](https://github.com/trending?since=daily) | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 

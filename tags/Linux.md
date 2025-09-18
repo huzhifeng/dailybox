@@ -1,3 +1,7 @@
+## 20250918
+- [Phoronix](https://www.phoronix.com/) | [Revisiting DDR5-6400 vs. MRDIMM-8800 Performance With Intel Xeon 6 "Granite Rapids"](https://www.phoronix.com/review/ddr5-6400-mrdimm-8800)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-5-desktop-environment-is-now-available-for-public-beta-testing)
+
 ## 20250917
 - [Phoronix](https://www.phoronix.com/) | [GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player](https://www.phoronix.com/news/GNOME-49-Released)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49 &#8220;Brescia&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-49-brescia-desktop-environment-officially-released-heres-whats-new)

@@ -1,3 +1,6 @@
+## 20250918
+- [LibHunt](https://www.libhunt.com/) | [vercel](https://www.libhunt.com/r/vercel)
+
 ## 20250917
 - [LibHunt](https://www.libhunt.com/) | [servers](https://www.libhunt.com/r/servers)
 

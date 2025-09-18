@@ -1,3 +1,6 @@
+## 20250918
+- [Product Hunt](https://www.producthunt.com) | [Paste 6](https://www.producthunt.com/products/paste)
+
 ## 20250917
 - [Product Hunt](https://www.producthunt.com) | [Simply Piano for Apple Vision Pro](https://www.producthunt.com/products/simply)
 

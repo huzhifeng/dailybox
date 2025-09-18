@@ -1,3 +1,6 @@
+## 20250918
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-5-desktop-environment-is-now-available-for-public-beta-testing)
+
 ## 20250917
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49 &#8220;Brescia&#8221; Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/gnome-49-brescia-desktop-environment-officially-released-heres-whats-new)
 
