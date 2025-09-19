@@ -1,3 +1,6 @@
+## 20250919
+- [It's FOSS](https://itsfoss.com/) | [Hyprland Made Easy: Preconfigured Beautiful Distros](https://itsfoss.com/hyprland-distros/)
+
 ## 20250918
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/)
 

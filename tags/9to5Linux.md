@@ -1,3 +1,6 @@
+## 20250919
+- [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 197 Introduces a Complete OpenVPN Overhaul](https://9to5linux.com/ipfire-2-29-core-update-197-introduces-a-complete-openvpn-overhaul)
+
 ## 20250918
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-5-desktop-environment-is-now-available-for-public-beta-testing)
 

@@ -1,3 +1,6 @@
+## 20250919
+- [GitHub Trending](https://github.com/trending?since=daily) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
 ## 20250918
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 

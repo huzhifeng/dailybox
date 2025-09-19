@@ -1,3 +1,7 @@
+## 20250919
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.17 File-System Benchmarks, Including OpenZFS & Bcachefs](https://www.phoronix.com/review/linux-617-filesystems)
+- [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 197 Introduces a Complete OpenVPN Overhaul](https://9to5linux.com/ipfire-2-29-core-update-197-introduces-a-complete-openvpn-overhaul)
+
 ## 20250918
 - [Phoronix](https://www.phoronix.com/) | [Revisiting DDR5-6400 vs. MRDIMM-8800 Performance With Intel Xeon 6 "Granite Rapids"](https://www.phoronix.com/review/ddr5-6400-mrdimm-8800)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Is Now Available for Public Beta Testing](https://9to5linux.com/kde-plasma-6-5-desktop-environment-is-now-available-for-public-beta-testing)
