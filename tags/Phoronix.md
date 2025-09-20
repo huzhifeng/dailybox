@@ -1,3 +1,6 @@
+## 20250920
+- [Phoronix](https://www.phoronix.com/) | [Ad-Free Viewing By Showing Your Support During The Phoronix Oktoberfest / Autumn Sale](https://www.phoronix.com/news/Phoronix-Fall-Promotion-2025)
+
 ## 20250919
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.17 File-System Benchmarks, Including OpenZFS & Bcachefs](https://www.phoronix.com/review/linux-617-filesystems)
 

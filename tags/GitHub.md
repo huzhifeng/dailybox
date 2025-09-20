@@ -1,3 +1,6 @@
+## 20250920
+- [GitHub Trending](https://github.com/trending?since=daily) | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+
 ## 20250919
 - [GitHub Trending](https://github.com/trending?since=daily) | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
