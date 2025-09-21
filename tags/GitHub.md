@@ -1,3 +1,6 @@
+## 20250921
+- [GitHub Trending](https://github.com/trending?since=daily) | [flutter/flutter](https://github.com/flutter/flutter)
+
 ## 20250920
 - [GitHub Trending](https://github.com/trending?since=daily) | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 

@@ -1,3 +1,6 @@
+## 20250921
+- [Phoronix](https://www.phoronix.com/) | [Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
+
 ## 20250920
 - [Phoronix](https://www.phoronix.com/) | [Ad-Free Viewing By Showing Your Support During The Phoronix Oktoberfest / Autumn Sale](https://www.phoronix.com/news/Phoronix-Fall-Promotion-2025)
 

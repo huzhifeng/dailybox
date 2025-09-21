@@ -1,3 +1,6 @@
+## 20250921
+- [Product Hunt](https://www.producthunt.com) | [Sparky for Chrome](https://www.producthunt.com/products/sparky-for-chrome)
+
 ## 20250920
 - [Product Hunt](https://www.producthunt.com) | [Pola Browser](https://www.producthunt.com/products/pola-browser)
 
