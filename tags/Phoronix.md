@@ -1,3 +1,6 @@
+## 20250922
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ "Strix Halo" Performance With ROCm 7.0](https://www.phoronix.com/review/amd-rocm-7-strix-halo)
+
 ## 20250921
 - [Phoronix](https://www.phoronix.com/) | [Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18)
 

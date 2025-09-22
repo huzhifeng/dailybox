@@ -1,3 +1,6 @@
+## 20250922
+- [It's FOSS](https://itsfoss.com/) | [How I Configure Polybar to Customize My Linux Desktop](https://itsfoss.com/configuring-polybar-linux/)
+
 ## 20250919
 - [It's FOSS](https://itsfoss.com/) | [Hyprland Made Easy: Preconfigured Beautiful Distros](https://itsfoss.com/hyprland-distros/)
 

@@ -1,3 +1,6 @@
+## 20250922
+- [GitHub Trending](https://github.com/trending?since=daily) | [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
+
 ## 20250921
 - [GitHub Trending](https://github.com/trending?since=daily) | [flutter/flutter](https://github.com/flutter/flutter)
 

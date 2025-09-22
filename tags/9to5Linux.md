@@ -1,3 +1,6 @@
+## 20250922
+- [9to5Linux](https://9to5linux.com/) | [RPM 6.0 Released with Support for Multiple OpenPGP Signatures per Package](https://9to5linux.com/rpm-6-0-released-with-support-for-multiple-openpgp-signatures-per-package)
+
 ## 20250919
 - [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 197 Introduces a Complete OpenVPN Overhaul](https://9to5linux.com/ipfire-2-29-core-update-197-introduces-a-complete-openvpn-overhaul)
 
