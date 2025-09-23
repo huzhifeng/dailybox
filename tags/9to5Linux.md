@@ -1,3 +1,6 @@
+## 20250923
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 32.0 Adds PipeWire Video Capture Improvements, Basic Plugin Manager](https://9to5linux.com/obs-studio-32-0-pipewire-video-capture-improvements-basic-plugin-manager)
+
 ## 20250922
 - [9to5Linux](https://9to5linux.com/) | [RPM 6.0 Released with Support for Multiple OpenPGP Signatures per Package](https://9to5linux.com/rpm-6-0-released-with-support-for-multiple-openpgp-signatures-per-package)
 

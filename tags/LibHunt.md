@@ -1,3 +1,6 @@
+## 20250923
+- [LibHunt](https://www.libhunt.com/) | [RCParsing](https://www.libhunt.com/r/RCParsing)
+
 ## 20250922
 - [LibHunt](https://www.libhunt.com/) | [art-design-pro](https://www.libhunt.com/r/art-design-pro)
 

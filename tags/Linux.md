@@ -1,3 +1,7 @@
+## 20250923
+- [Phoronix](https://www.phoronix.com/) | [Running The Bcachefs DKMS Modules On Ubuntu Linux](https://www.phoronix.com/review/bcachefs-617-dkms)
+- [9to5Linux](https://9to5linux.com/) | [OBS Studio 32.0 Adds PipeWire Video Capture Improvements, Basic Plugin Manager](https://9to5linux.com/obs-studio-32-0-pipewire-video-capture-improvements-basic-plugin-manager)
+
 ## 20250922
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Max+ "Strix Halo" Performance With ROCm 7.0](https://www.phoronix.com/review/amd-rocm-7-strix-halo)
 - [9to5Linux](https://9to5linux.com/) | [RPM 6.0 Released with Support for Multiple OpenPGP Signatures per Package](https://9to5linux.com/rpm-6-0-released-with-support-for-multiple-openpgp-signatures-per-package)
