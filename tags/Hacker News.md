@@ -1,3 +1,8 @@
+## 20250924
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-23](https://www.daemonology.net/hn-daily/2025-09-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-23](https://hacker-news.agi.li/post/2025-09-23)
+- [Hacker News](https://news.ycombinator.com/front) | [US Airlines Push to Strip Away Travelers' Rights by Rolling Back Key Protections](https://news.ycombinator.com/item?id=45359378)
+
 ## 20250923
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-22](https://www.daemonology.net/hn-daily/2025-09-22.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-22](https://hacker-news.agi.li/post/2025-09-22)

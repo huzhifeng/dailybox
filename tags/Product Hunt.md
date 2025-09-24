@@ -1,3 +1,6 @@
+## 20250924
+- [Product Hunt](https://www.producthunt.com) | [Conduit AI](https://www.producthunt.com/products/conduit-ai)
+
 ## 20250923
 - [Product Hunt](https://www.producthunt.com) | [Atla](https://www.producthunt.com/products/atla)
 

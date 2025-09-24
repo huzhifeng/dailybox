@@ -1,3 +1,6 @@
+## 20250924
+- [Phoronix](https://www.phoronix.com/) | [The Massive AI Performance Benefit With AMX On Intel Xeon 6 "Granite Rapids"](https://www.phoronix.com/review/intel-xeon-6-granite-rapids-amx)
+
 ## 20250923
 - [Phoronix](https://www.phoronix.com/) | [Running The Bcachefs DKMS Modules On Ubuntu Linux](https://www.phoronix.com/review/bcachefs-617-dkms)
 

@@ -1,3 +1,6 @@
+## 20250924
+- [LibHunt](https://www.libhunt.com/) | [yt-dlp](https://www.libhunt.com/r/yt-dlp)
+
 ## 20250923
 - [LibHunt](https://www.libhunt.com/) | [RCParsing](https://www.libhunt.com/r/RCParsing)
 

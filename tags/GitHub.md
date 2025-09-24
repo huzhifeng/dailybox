@@ -1,3 +1,6 @@
+## 20250924
+- [GitHub Trending](https://github.com/trending?since=daily) | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+
 ## 20250923
 - [GitHub Trending](https://github.com/trending?since=daily) | [eslint/eslint](https://github.com/eslint/eslint)
 
