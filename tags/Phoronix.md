@@ -1,3 +1,6 @@
+## 20250925
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 18.0 Released With Async I/O, Performance Improvements](https://www.phoronix.com/news/PostgreSQL-18-Released)
+
 ## 20250924
 - [Phoronix](https://www.phoronix.com/) | [The Massive AI Performance Benefit With AMX On Intel Xeon 6 "Granite Rapids"](https://www.phoronix.com/review/intel-xeon-6-granite-rapids-amx)
 

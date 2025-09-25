@@ -1,3 +1,6 @@
+## 20250925
+- [GitHub Trending](https://github.com/trending?since=daily) | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+
 ## 20250924
 - [GitHub Trending](https://github.com/trending?since=daily) | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
 

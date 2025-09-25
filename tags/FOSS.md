@@ -1,3 +1,6 @@
+## 20250925
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/)
+
 ## 20250922
 - [It's FOSS](https://itsfoss.com/) | [How I Configure Polybar to Customize My Linux Desktop](https://itsfoss.com/configuring-polybar-linux/)
 

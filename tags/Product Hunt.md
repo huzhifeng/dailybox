@@ -1,3 +1,6 @@
+## 20250925
+- [Product Hunt](https://www.producthunt.com) | [Wordle Battle](https://www.producthunt.com/products/wordle-battle)
+
 ## 20250924
 - [Product Hunt](https://www.producthunt.com) | [Conduit AI](https://www.producthunt.com/products/conduit-ai)
 

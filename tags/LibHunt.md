@@ -1,3 +1,6 @@
+## 20250925
+- [LibHunt](https://www.libhunt.com/) | [signoz](https://www.libhunt.com/r/signoz)
+
 ## 20250924
 - [LibHunt](https://www.libhunt.com/) | [yt-dlp](https://www.libhunt.com/r/yt-dlp)
 
