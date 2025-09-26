@@ -1,3 +1,6 @@
+## 20250926
+- [Product Hunt](https://www.producthunt.com) | [Neutron](https://www.producthunt.com/products/neutron-2)
+
 ## 20250925
 - [Product Hunt](https://www.producthunt.com) | [Wordle Battle](https://www.producthunt.com/products/wordle-battle)
 

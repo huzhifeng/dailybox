@@ -1,3 +1,6 @@
+## 20250926
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 500+ Launches as the Ultimate All-In-One PC Based on Raspberry Pi 5](https://9to5linux.com/raspberry-pi-500-launches-as-the-ultimate-all-in-one-pc-based-on-raspberry-pi-5)
+
 ## 20250923
 - [9to5Linux](https://9to5linux.com/) | [OBS Studio 32.0 Adds PipeWire Video Capture Improvements, Basic Plugin Manager](https://9to5linux.com/obs-studio-32-0-pipewire-video-capture-improvements-basic-plugin-manager)
 

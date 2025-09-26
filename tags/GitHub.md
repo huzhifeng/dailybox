@@ -1,3 +1,6 @@
+## 20250926
+- [GitHub Trending](https://github.com/trending?since=daily) | [Olow304/memvid](https://github.com/Olow304/memvid)
+
 ## 20250925
 - [GitHub Trending](https://github.com/trending?since=daily) | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
