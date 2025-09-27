@@ -1,3 +1,6 @@
+## 20250927
+- [LibHunt](https://www.libhunt.com/) | [docling](https://www.libhunt.com/r/docling)
+
 ## 20250926
 - [LibHunt](https://www.libhunt.com/) | [arxiv-browse](https://www.libhunt.com/r/arxiv-browse)
 

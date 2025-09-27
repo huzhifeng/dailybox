@@ -1,3 +1,8 @@
+## 20250927
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-26](https://www.daemonology.net/hn-daily/2025-09-26.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-26](https://hacker-news.agi.li/post/2025-09-26)
+- [Hacker News](https://news.ycombinator.com/front) | [Typst: A Possible LaTeX Replacement](https://news.ycombinator.com/item?id=45393842)
+
 ## 20250926
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-25](https://www.daemonology.net/hn-daily/2025-09-25.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-25](https://hacker-news.agi.li/post/2025-09-25)

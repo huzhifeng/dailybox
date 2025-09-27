@@ -1,3 +1,6 @@
+## 20250927
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Developer At Valve Preps More Patches For Improving AMD GCN 1.0 GPUs](https://www.phoronix.com/news/AMDGPU-More-GCN-1.0-SI)
+
 ## 20250926
 - [Phoronix](https://www.phoronix.com/) | [Vulkan 1.4.328 Published With Copy Memory Indirect Extension](https://www.phoronix.com/news/Vulkan-1.4.328)
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 500+ Launches as the Ultimate All-In-One PC Based on Raspberry Pi 5](https://9to5linux.com/raspberry-pi-500-launches-as-the-ultimate-all-in-one-pc-based-on-raspberry-pi-5)

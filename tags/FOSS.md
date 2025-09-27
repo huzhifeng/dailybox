@@ -1,3 +1,6 @@
+## 20250927
+- [It's FOSS](https://itsfoss.com/) | [13 Amazingly Innovative 3D Printed Cases for Raspberry Pi I Came Across](https://itsfoss.com/raspberry-pi-3d-printed-case/)
+
 ## 20250925
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/)
 

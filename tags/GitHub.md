@@ -1,3 +1,6 @@
+## 20250927
+- [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/Dolphin](https://github.com/bytedance/Dolphin)
+
 ## 20250926
 - [GitHub Trending](https://github.com/trending?since=daily) | [Olow304/memvid](https://github.com/Olow304/memvid)
 
