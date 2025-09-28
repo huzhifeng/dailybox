@@ -1,3 +1,6 @@
+## 20250928
+- [GitHub Trending](https://github.com/trending?since=daily) | [imputnet/helium](https://github.com/imputnet/helium)
+
 ## 20250927
 - [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/Dolphin](https://github.com/bytedance/Dolphin)
 

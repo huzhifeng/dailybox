@@ -1,3 +1,6 @@
+## 20250928
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.09 Arrives with Linux 6.16, KDE Gear 25.08](https://9to5linux.com/independent-distro-kaos-linux-2025-09-arrives-with-linux-6-16-kde-gear-25-08)
+
 ## 20250926
 - [9to5Linux](https://9to5linux.com/) | [Raspberry Pi 500+ Launches as the Ultimate All-In-One PC Based on Raspberry Pi 5](https://9to5linux.com/raspberry-pi-500-launches-as-the-ultimate-all-in-one-pc-based-on-raspberry-pi-5)
 

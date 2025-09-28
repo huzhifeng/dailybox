@@ -1,3 +1,7 @@
+## 20250928
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 To Deliver Many Notable Features For AMD CPUs](https://www.phoronix.com/news/Linux-6.18-AMD-CPUs)
+- [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.09 Arrives with Linux 6.16, KDE Gear 25.08](https://9to5linux.com/independent-distro-kaos-linux-2025-09-arrives-with-linux-6-16-kde-gear-25-08)
+
 ## 20250927
 - [Phoronix](https://www.phoronix.com/) | [Linux Driver Developer At Valve Preps More Patches For Improving AMD GCN 1.0 GPUs](https://www.phoronix.com/news/AMDGPU-More-GCN-1.0-SI)
 

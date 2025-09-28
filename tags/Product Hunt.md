@@ -1,3 +1,6 @@
+## 20250928
+- [Product Hunt](https://www.producthunt.com) | [Poke.com](https://www.producthunt.com/products/poke-by-interaction-co)
+
 ## 20250927
 - [Product Hunt](https://www.producthunt.com) | [Recal.dev](https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar)
 

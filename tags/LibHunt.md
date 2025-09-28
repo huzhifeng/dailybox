@@ -1,3 +1,6 @@
+## 20250928
+- [LibHunt](https://www.libhunt.com/) | [Nest](https://www.libhunt.com/r/nest)
+
 ## 20250927
 - [LibHunt](https://www.libhunt.com/) | [docling](https://www.libhunt.com/r/docling)
 
