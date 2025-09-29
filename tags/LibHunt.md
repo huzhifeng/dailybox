@@ -1,3 +1,6 @@
+## 20250929
+- [LibHunt](https://www.libhunt.com/) | [snake](https://www.libhunt.com/r/epidemian/snake)
+
 ## 20250928
 - [LibHunt](https://www.libhunt.com/) | [Nest](https://www.libhunt.com/r/nest)
 

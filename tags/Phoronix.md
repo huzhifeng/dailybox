@@ -1,3 +1,6 @@
+## 20250929
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA, Disney & Google Contribute Open-Source Newton Engine To The Linux Foundation](https://www.phoronix.com/news/Linux-Foundation-Newton)
+
 ## 20250928
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18 To Deliver Many Notable Features For AMD CPUs](https://www.phoronix.com/news/Linux-6.18-AMD-CPUs)
 

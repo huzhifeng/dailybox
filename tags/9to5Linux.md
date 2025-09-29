@@ -1,3 +1,6 @@
+## 20250929
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.17 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-17-kernel-is-now-available-for-software-freedom-lovers)
+
 ## 20250928
 - [9to5Linux](https://9to5linux.com/) | [Independent Distro KaOS Linux 2025.09 Arrives with Linux 6.16, KDE Gear 25.08](https://9to5linux.com/independent-distro-kaos-linux-2025-09-arrives-with-linux-6-16-kde-gear-25-08)
 

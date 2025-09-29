@@ -1,3 +1,7 @@
+## 20250929
+- [GitHub Trending](https://github.com/trending?since=daily) | [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
+
 ## 20250928
 - [GitHub Trending](https://github.com/trending?since=daily) | [imputnet/helium](https://github.com/imputnet/helium)
 

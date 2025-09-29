@@ -1,3 +1,8 @@
+## 20250929
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-28](https://www.daemonology.net/hn-daily/2025-09-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-28](https://hacker-news.agi.li/post/2025-09-28)
+- [Hacker News](https://news.ycombinator.com/front) | [What if I don't want videos of my hobby time available to the world?](https://news.ycombinator.com/item?id=45412419)
+
 ## 20250928
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-09-27](https://www.daemonology.net/hn-daily/2025-09-27.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-09-27](https://hacker-news.agi.li/post/2025-09-27)

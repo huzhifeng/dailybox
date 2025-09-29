@@ -1,3 +1,6 @@
+## 20250929
+- [Product Hunt](https://www.producthunt.com) | [Harmony](https://www.producthunt.com/products/harmony-11)
+
 ## 20250928
 - [Product Hunt](https://www.producthunt.com) | [Poke.com](https://www.producthunt.com/products/poke-by-interaction-co)
 
