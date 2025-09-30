@@ -1,3 +1,6 @@
+## 20250930
+- [GitHub Trending](https://github.com/trending?since=daily) | [commaai/openpilot](https://github.com/commaai/openpilot)
+
 ## 20250929
 - [GitHub Trending](https://github.com/trending?since=daily) | [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)

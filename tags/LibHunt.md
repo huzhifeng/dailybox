@@ -1,3 +1,6 @@
+## 20250930
+- [LibHunt](https://www.libhunt.com/) | [capn-rs](https://www.libhunt.com/r/capn-rs)
+
 ## 20250929
 - [LibHunt](https://www.libhunt.com/) | [snake](https://www.libhunt.com/r/epidemian/snake)
 

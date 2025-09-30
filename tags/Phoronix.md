@@ -1,3 +1,6 @@
+## 20250930
+- [Phoronix](https://www.phoronix.com/) | [Qualcomm Posts Initial Open-Source GPU Driver Patches For Adreno 800 Series](https://www.phoronix.com/news/Linux-Kernel-Adreno-800-Patches)
+
 ## 20250929
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA, Disney & Google Contribute Open-Source Newton Engine To The Linux Foundation](https://www.phoronix.com/news/Linux-Foundation-Newton)
 

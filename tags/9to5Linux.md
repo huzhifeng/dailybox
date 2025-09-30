@@ -1,3 +1,6 @@
+## 20250930
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 580.95.05 Driver Adds Support for YCbCr 4:2:2 Display Modes over HDMI FRL](https://9to5linux.com/nvidia-580-95-05-driver-adds-support-for-ycbcr-422-display-modes-over-hdmi-frl)
+
 ## 20250929
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.17 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-17-kernel-is-now-available-for-software-freedom-lovers)
 

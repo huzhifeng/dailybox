@@ -1,3 +1,6 @@
+## 20250930
+- [Product Hunt](https://www.producthunt.com) | [Claude Sonnet 4.5](https://www.producthunt.com/products/claude)
+
 ## 20250929
 - [Product Hunt](https://www.producthunt.com) | [Harmony](https://www.producthunt.com/products/harmony-11)
 
