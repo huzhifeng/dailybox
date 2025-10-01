@@ -1,3 +1,6 @@
+## 20251001
+- [Phoronix](https://www.phoronix.com/) | [EXT4, EROFS & NTFS3 File-System Drivers Ready With Improvements For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3)
+
 ## 20250930
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Posts Initial Open-Source GPU Driver Patches For Adreno 800 Series](https://www.phoronix.com/news/Linux-Kernel-Adreno-800-Patches)
 

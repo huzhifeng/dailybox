@@ -1,3 +1,6 @@
+## 20251001
+- [GitHub Trending](https://github.com/trending?since=daily) | [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
+
 ## 20250930
 - [GitHub Trending](https://github.com/trending?since=daily) | [commaai/openpilot](https://github.com/commaai/openpilot)
 

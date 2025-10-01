@@ -1,3 +1,7 @@
+## 20251001
+- [Phoronix](https://www.phoronix.com/) | [EXT4, EROFS & NTFS3 File-System Drivers Ready With Improvements For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3)
+- [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.6 Officially Released with LMS Signature Verification Support, More](https://9to5linux.com/openssl-3-6-officially-released-with-lms-signature-verification-support-more)
+
 ## 20250930
 - [Phoronix](https://www.phoronix.com/) | [Qualcomm Posts Initial Open-Source GPU Driver Patches For Adreno 800 Series](https://www.phoronix.com/news/Linux-Kernel-Adreno-800-Patches)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 580.95.05 Driver Adds Support for YCbCr 4:2:2 Display Modes over HDMI FRL](https://9to5linux.com/nvidia-580-95-05-driver-adds-support-for-ycbcr-422-display-modes-over-hdmi-frl)

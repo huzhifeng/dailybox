@@ -1,3 +1,6 @@
+## 20251001
+- [Product Hunt](https://www.producthunt.com) | [Cursor 1.7](https://www.producthunt.com/products/cursor)
+
 ## 20250930
 - [Product Hunt](https://www.producthunt.com) | [Claude Sonnet 4.5](https://www.producthunt.com/products/claude)
 

@@ -1,3 +1,6 @@
+## 20251001
+- [It's FOSS](https://itsfoss.com/) | [Utilizing My Raspberry Pi 4 for Retro Gaming With RetroPie](https://itsfoss.com/retropie-setup/)
+
 ## 20250927
 - [It's FOSS](https://itsfoss.com/) | [13 Amazingly Innovative 3D Printed Cases for Raspberry Pi I Came Across](https://itsfoss.com/raspberry-pi-3d-printed-case/)
 

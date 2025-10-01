@@ -1,3 +1,6 @@
+## 20251001
+- [LibHunt](https://www.libhunt.com/) | [tigerbeetle](https://www.libhunt.com/r/tigerbeetle)
+
 ## 20250930
 - [LibHunt](https://www.libhunt.com/) | [capn-rs](https://www.libhunt.com/r/capn-rs)
 
