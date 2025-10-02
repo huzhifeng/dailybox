@@ -1,3 +1,6 @@
+## 20251002
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-40/)
+
 ## 20251001
 - [It's FOSS](https://itsfoss.com/) | [Utilizing My Raspberry Pi 4 for Retro Gaming With RetroPie](https://itsfoss.com/retropie-setup/)
 

@@ -1,3 +1,6 @@
+## 20251002
+- [Product Hunt](https://www.producthunt.com) | [Mem 2.0](https://www.producthunt.com/products/mem-2-0)
+
 ## 20251001
 - [Product Hunt](https://www.producthunt.com) | [Cursor 1.7](https://www.producthunt.com/products/cursor)
 

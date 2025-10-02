@@ -1,3 +1,6 @@
+## 20251002
+- [9to5Linux](https://9to5linux.com/) | [Cinnamon Desktop Gets Improved Support for Keyboard Layouts and Input Methods](https://9to5linux.com/cinnamon-desktop-gets-improved-support-for-keyboard-layouts-and-input-methods)
+
 ## 20251001
 - [9to5Linux](https://9to5linux.com/) | [OpenSSL 3.6 Officially Released with LMS Signature Verification Support, More](https://9to5linux.com/openssl-3-6-officially-released-with-lms-signature-verification-support-more)
 

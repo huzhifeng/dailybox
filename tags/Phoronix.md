@@ -1,3 +1,6 @@
+## 20251002
+- [Phoronix](https://www.phoronix.com/) | [SiFive Premier P550, Apple M2 Pro/Max/Ultra DTs & Other SoC Changes For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-SoC-DT-Changes)
+
 ## 20251001
 - [Phoronix](https://www.phoronix.com/) | [EXT4, EROFS & NTFS3 File-System Drivers Ready With Improvements For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3)
 
