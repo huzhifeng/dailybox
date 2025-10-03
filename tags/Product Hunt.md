@@ -1,3 +1,6 @@
+## 20251003
+- [Product Hunt](https://www.producthunt.com) | [DayDrift](https://www.producthunt.com/products/daydrift)
+
 ## 20251002
 - [Product Hunt](https://www.producthunt.com) | [Mem 2.0](https://www.producthunt.com/products/mem-2-0)
 

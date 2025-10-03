@@ -1,3 +1,7 @@
+## 20251003
+- [Phoronix](https://www.phoronix.com/) | [Rusticl Performance For AMD Strix Halo Against ROCm OpenCL](https://www.phoronix.com/review/rocm-7-rusticl-opencl)
+- [9to5Linux](https://9to5linux.com/) | [Latest Steam Client Update Improves Support for DualSense Controllers on Linux](https://9to5linux.com/latest-steam-client-update-improves-support-for-dualsense-controllers-on-linux)
+
 ## 20251002
 - [Phoronix](https://www.phoronix.com/) | [SiFive Premier P550, Apple M2 Pro/Max/Ultra DTs & Other SoC Changes For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-SoC-DT-Changes)
 - [9to5Linux](https://9to5linux.com/) | [Cinnamon Desktop Gets Improved Support for Keyboard Layouts and Input Methods](https://9to5linux.com/cinnamon-desktop-gets-improved-support-for-keyboard-layouts-and-input-methods)

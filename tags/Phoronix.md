@@ -1,3 +1,6 @@
+## 20251003
+- [Phoronix](https://www.phoronix.com/) | [Rusticl Performance For AMD Strix Halo Against ROCm OpenCL](https://www.phoronix.com/review/rocm-7-rusticl-opencl)
+
 ## 20251002
 - [Phoronix](https://www.phoronix.com/) | [SiFive Premier P550, Apple M2 Pro/Max/Ultra DTs & Other SoC Changes For Linux 6.18](https://www.phoronix.com/news/Linux-6.18-SoC-DT-Changes)
 

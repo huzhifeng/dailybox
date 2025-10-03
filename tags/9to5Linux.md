@@ -1,3 +1,6 @@
+## 20251003
+- [9to5Linux](https://9to5linux.com/) | [Latest Steam Client Update Improves Support for DualSense Controllers on Linux](https://9to5linux.com/latest-steam-client-update-improves-support-for-dualsense-controllers-on-linux)
+
 ## 20251002
 - [9to5Linux](https://9to5linux.com/) | [Cinnamon Desktop Gets Improved Support for Keyboard Layouts and Input Methods](https://9to5linux.com/cinnamon-desktop-gets-improved-support-for-keyboard-layouts-and-input-methods)
 
