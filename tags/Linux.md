@@ -1,3 +1,6 @@
+## 20251004
+- [Phoronix](https://www.phoronix.com/) | [Many Debian/Ubuntu Packages For Intel Accelerators & Other Intel Software Have Been Orphaned](https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned)
+
 ## 20251003
 - [Phoronix](https://www.phoronix.com/) | [Rusticl Performance For AMD Strix Halo Against ROCm OpenCL](https://www.phoronix.com/review/rocm-7-rusticl-opencl)
 - [9to5Linux](https://9to5linux.com/) | [Latest Steam Client Update Improves Support for DualSense Controllers on Linux](https://9to5linux.com/latest-steam-client-update-improves-support-for-dualsense-controllers-on-linux)

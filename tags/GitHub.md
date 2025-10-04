@@ -1,3 +1,6 @@
+## 20251004
+- [GitHub Trending](https://github.com/trending?since=daily) | [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
 ## 20251003
 - [GitHub Trending](https://github.com/trending?since=daily) | [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 

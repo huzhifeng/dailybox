@@ -1,3 +1,6 @@
+## 20251004
+- [Product Hunt](https://www.producthunt.com) | [Nuxt UI v4](https://www.producthunt.com/products/nuxt-ui)
+
 ## 20251003
 - [Product Hunt](https://www.producthunt.com) | [DayDrift](https://www.producthunt.com/products/daydrift)
 
