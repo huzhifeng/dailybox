@@ -1,3 +1,6 @@
+## 20251005
+- [Product Hunt](https://www.producthunt.com) | [Casio Moflin](https://www.producthunt.com/products/casio-moflin)
+
 ## 20251004
 - [Product Hunt](https://www.producthunt.com) | [Nuxt UI v4](https://www.producthunt.com/products/nuxt-ui)
 

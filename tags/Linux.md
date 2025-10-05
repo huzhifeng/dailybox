@@ -1,3 +1,6 @@
+## 20251005
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 DRM Pull Includes New Tyr & Rocket Drivers, More AMD & Intel GPU Enhancements](https://www.phoronix.com/news/Linux-6.18-DRM)
+
 ## 20251004
 - [Phoronix](https://www.phoronix.com/) | [Many Debian/Ubuntu Packages For Intel Accelerators & Other Intel Software Have Been Orphaned](https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned)
 

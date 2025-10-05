@@ -1,3 +1,6 @@
+## 20251005
+- [GitHub Trending](https://github.com/trending?since=daily) | [paaatrick/playball](https://github.com/paaatrick/playball)
+
 ## 20251004
 - [GitHub Trending](https://github.com/trending?since=daily) | [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 

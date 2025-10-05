@@ -1,3 +1,6 @@
+## 20251005
+- [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
+
 ## 20251003
 - [LibHunt](https://www.libhunt.com/) | [repopal](https://www.libhunt.com/r/repopal)
 
