@@ -1,3 +1,6 @@
+## 20251006
+- [Product Hunt](https://www.producthunt.com) | [TrueWellness](https://www.producthunt.com/products/truewellness)
+
 ## 20251005
 - [Product Hunt](https://www.producthunt.com) | [Casio Moflin](https://www.producthunt.com/products/casio-moflin)
 

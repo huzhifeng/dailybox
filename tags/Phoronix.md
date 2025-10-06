@@ -1,3 +1,6 @@
+## 20251006
+- [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Enables Multi-Threading By Default](https://www.phoronix.com/news/Redox-OS-Multi-Threaded)
+
 ## 20251005
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18 DRM Pull Includes New Tyr & Rocket Drivers, More AMD & Intel GPU Enhancements](https://www.phoronix.com/news/Linux-6.18-DRM)
 

@@ -1,3 +1,6 @@
+## 20251006
+- [GitHub Trending](https://github.com/trending?since=daily) | [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
+
 ## 20251005
 - [GitHub Trending](https://github.com/trending?since=daily) | [paaatrick/playball](https://github.com/paaatrick/playball)
 

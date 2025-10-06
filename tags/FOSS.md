@@ -1,3 +1,6 @@
+## 20251006
+- [It's FOSS](https://itsfoss.com/) | [Can't Recall the Syntax? Try These WYSIWYG Markdown Editors on Linux](https://itsfoss.com/wysiwyg-markdown-editors/)
+
 ## 20251005
 - [It's FOSS](https://itsfoss.com/) | [How I am Using Git and Obsidian for Note Version Management](https://itsfoss.com/git-with-obsidian/)
 

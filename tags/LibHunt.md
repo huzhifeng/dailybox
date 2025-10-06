@@ -1,3 +1,6 @@
+## 20251006
+- [LibHunt](https://www.libhunt.com/) | [dakora](https://www.libhunt.com/r/dakora)
+
 ## 20251005
 - [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
 

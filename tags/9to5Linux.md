@@ -1,3 +1,6 @@
+## 20251006
+- [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.6 Is Now Available for Download with Improved Photoshop Brush Support](https://9to5linux.com/gimp-3-0-6-is-now-available-for-download-with-improved-photoshop-brush-support)
+
 ## 20251003
 - [9to5Linux](https://9to5linux.com/) | [Latest Steam Client Update Improves Support for DualSense Controllers on Linux](https://9to5linux.com/latest-steam-client-update-improves-support-for-dualsense-controllers-on-linux)
 
