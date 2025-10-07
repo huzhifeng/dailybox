@@ -1,3 +1,7 @@
+## 20251007
+- [Phoronix](https://www.phoronix.com/) | [The Many Memory Management Improvements In Linux 6.18](https://www.phoronix.com/news/Linux-6.18-MM)
+- [9to5Linux](https://9to5linux.com/) | [ClamAV 1.5 Open-Source Antivirus Engine Released with Major New Features](https://9to5linux.com/clamav-1-5-open-source-antivirus-engine-released-with-major-new-features)
+
 ## 20251006
 - [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Enables Multi-Threading By Default](https://www.phoronix.com/news/Redox-OS-Multi-Threaded)
 - [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.6 Is Now Available for Download with Improved Photoshop Brush Support](https://9to5linux.com/gimp-3-0-6-is-now-available-for-download-with-improved-photoshop-brush-support)

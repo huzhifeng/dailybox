@@ -1,3 +1,6 @@
+## 20251007
+- [Phoronix](https://www.phoronix.com/) | [The Many Memory Management Improvements In Linux 6.18](https://www.phoronix.com/news/Linux-6.18-MM)
+
 ## 20251006
 - [Phoronix](https://www.phoronix.com/) | [Rust-Written Redox OS Enables Multi-Threading By Default](https://www.phoronix.com/news/Redox-OS-Multi-Threaded)
 
