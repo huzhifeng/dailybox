@@ -1,3 +1,6 @@
+## 20251008
+- [Product Hunt](https://www.producthunt.com) | [Rately](https://www.producthunt.com/products/rately-2)
+
 ## 20251006
 - [Product Hunt](https://www.producthunt.com) | [TrueWellness](https://www.producthunt.com/products/truewellness)
 

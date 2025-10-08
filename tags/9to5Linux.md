@@ -1,3 +1,6 @@
+## 20251008
+- [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro Is the First Linux Laptop to Ship with the COSMIC Desktop](https://9to5linux.com/system76s-oryx-pro-is-the-first-linux-laptop-to-ship-with-the-cosmic-desktop)
+
 ## 20251007
 - [9to5Linux](https://9to5linux.com/) | [ClamAV 1.5 Open-Source Antivirus Engine Released with Major New Features](https://9to5linux.com/clamav-1-5-open-source-antivirus-engine-released-with-major-new-features)
 

@@ -1,3 +1,6 @@
+## 20251008
+- [V2EX](https://www.v2ex.com/) | [怎样开车把事故率降到最低（别说不开车）](https://www.v2ex.com/t/1163725)
+
 ## 20250915
 - [V2EX](https://www.v2ex.com/) | [体验下站长的打赏功能！](https://www.v2ex.com/t/1159335)
 

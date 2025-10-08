@@ -1,3 +1,6 @@
+## 20251008
+- [GitHub Trending](https://github.com/trending?since=daily) | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
 ## 20251007
 - [GitHub Trending](https://github.com/trending?since=daily) | [openemr/openemr](https://github.com/openemr/openemr)
 

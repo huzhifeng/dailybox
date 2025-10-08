@@ -1,3 +1,6 @@
+## 20251008
+- [Phoronix](https://www.phoronix.com/) | [System76 Pop!_OS 24.04 Beta Performing Well In Early Benchmarks](https://www.phoronix.com/review/popos-2404-beta)
+
 ## 20251007
 - [Phoronix](https://www.phoronix.com/) | [The Many Memory Management Improvements In Linux 6.18](https://www.phoronix.com/news/Linux-6.18-MM)
 
