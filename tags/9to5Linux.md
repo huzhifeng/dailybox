@@ -1,3 +1,6 @@
+## 20251009
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.08.2 Rolls Out with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-08-2-rolls-out-with-more-improvements-for-your-favorite-kde-apps)
+
 ## 20251008
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro Is the First Linux Laptop to Ship with the COSMIC Desktop](https://9to5linux.com/system76s-oryx-pro-is-the-first-linux-laptop-to-ship-with-the-cosmic-desktop)
 

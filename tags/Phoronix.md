@@ -1,3 +1,6 @@
+## 20251009
+- [Phoronix](https://www.phoronix.com/) | [Intel's Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source](https://www.phoronix.com/review/intel-open-source-2025)
+
 ## 20251008
 - [Phoronix](https://www.phoronix.com/) | [System76 Pop!_OS 24.04 Beta Performing Well In Early Benchmarks](https://www.phoronix.com/review/popos-2404-beta)
 

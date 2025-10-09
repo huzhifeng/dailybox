@@ -1,3 +1,7 @@
+## 20251009
+- [Phoronix](https://www.phoronix.com/) | [Intel's Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source](https://www.phoronix.com/review/intel-open-source-2025)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.08.2 Rolls Out with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-08-2-rolls-out-with-more-improvements-for-your-favorite-kde-apps)
+
 ## 20251008
 - [Phoronix](https://www.phoronix.com/) | [System76 Pop!_OS 24.04 Beta Performing Well In Early Benchmarks](https://www.phoronix.com/review/popos-2404-beta)
 - [9to5Linux](https://9to5linux.com/) | [System76&#8217;s Oryx Pro Is the First Linux Laptop to Ship with the COSMIC Desktop](https://9to5linux.com/system76s-oryx-pro-is-the-first-linux-laptop-to-ship-with-the-cosmic-desktop)

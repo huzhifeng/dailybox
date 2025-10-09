@@ -1,3 +1,6 @@
+## 20251009
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/)
+
 ## 20251006
 - [It's FOSS](https://itsfoss.com/) | [Can't Recall the Syntax? Try These WYSIWYG Markdown Editors on Linux](https://itsfoss.com/wysiwyg-markdown-editors/)
 

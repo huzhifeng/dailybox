@@ -1,3 +1,6 @@
+## 20251009
+- [Product Hunt](https://www.producthunt.com) | [Stencil by SUPERHANDS](https://www.producthunt.com/products/stencil-by-superhands)
+
 ## 20251008
 - [Product Hunt](https://www.producthunt.com) | [Rately](https://www.producthunt.com/products/rately-2)
 

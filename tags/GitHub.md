@@ -1,3 +1,6 @@
+## 20251009
+- [GitHub Trending](https://github.com/trending?since=daily) | [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+
 ## 20251008
 - [GitHub Trending](https://github.com/trending?since=daily) | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 
