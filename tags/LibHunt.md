@@ -1,3 +1,6 @@
+## 20251010
+- [LibHunt](https://www.libhunt.com/) | [lavandula](https://www.libhunt.com/r/lavandula)
+
 ## 20251009
 - [LibHunt](https://www.libhunt.com/) | [toolkami](https://www.libhunt.com/r/toolkami)
 

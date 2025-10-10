@@ -1,3 +1,6 @@
+## 20251010
+- [Phoronix](https://www.phoronix.com/) | [Python 3.14 Performance Looking Good In Benchmarks](https://www.phoronix.com/review/python-314-benchmarks)
+
 ## 20251009
 - [Phoronix](https://www.phoronix.com/) | [Intel's Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source](https://www.phoronix.com/review/intel-open-source-2025)
 

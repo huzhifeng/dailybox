@@ -1,3 +1,6 @@
+## 20251010
+- [Product Hunt](https://www.producthunt.com) | [Dad Reply v1.5](https://www.producthunt.com/products/dad-reply)
+
 ## 20251009
 - [Product Hunt](https://www.producthunt.com) | [Stencil by SUPERHANDS](https://www.producthunt.com/products/stencil-by-superhands)
 

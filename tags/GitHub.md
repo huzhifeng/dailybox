@@ -1,3 +1,6 @@
+## 20251010
+- [GitHub Trending](https://github.com/trending?since=daily) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
 ## 20251009
 - [GitHub Trending](https://github.com/trending?since=daily) | [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 
