@@ -1,3 +1,6 @@
+## 20251011
+- [Phoronix](https://www.phoronix.com/) | [Intel XPU Manager Deprecates Data Center GPU Max Series & GPU Flex Series](https://www.phoronix.com/news/Intel-XPU-Manager-1.3.3)
+
 ## 20251010
 - [Phoronix](https://www.phoronix.com/) | [Python 3.14 Performance Looking Good In Benchmarks](https://www.phoronix.com/review/python-314-benchmarks)
 

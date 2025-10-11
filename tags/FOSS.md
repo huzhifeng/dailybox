@@ -1,3 +1,6 @@
+## 20251011
+- [It's FOSS](https://itsfoss.com/) | [I Switched From Ollama And LM Studio To llama.cpp And Absolutely Loving It](https://itsfoss.com/llama-cpp/)
+
 ## 20251009
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/)
 

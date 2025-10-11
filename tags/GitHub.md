@@ -1,3 +1,6 @@
+## 20251011
+- [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
 ## 20251010
 - [GitHub Trending](https://github.com/trending?since=daily) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 
