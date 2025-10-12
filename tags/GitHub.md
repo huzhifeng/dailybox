@@ -1,3 +1,6 @@
+## 20251012
+- [GitHub Trending](https://github.com/trending?since=daily) | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
 ## 20251011
 - [GitHub Trending](https://github.com/trending?since=daily) | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 

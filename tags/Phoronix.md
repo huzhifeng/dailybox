@@ -1,3 +1,6 @@
+## 20251012
+- [Phoronix](https://www.phoronix.com/) | [CLUDA Posted For Mesa: Gallium3D API Implemented Atop NVIDIA CUDA Driver API](https://www.phoronix.com/news/Mesa-CLUDA-MR-CUDA-Gallium)
+
 ## 20251011
 - [Phoronix](https://www.phoronix.com/) | [Intel XPU Manager Deprecates Data Center GPU Max Series & GPU Flex Series](https://www.phoronix.com/news/Intel-XPU-Manager-1.3.3)
 

@@ -1,3 +1,6 @@
+## 20251012
+- [LibHunt](https://www.libhunt.com/) | [deepwiki-rs](https://www.libhunt.com/r/deepwiki-rs)
+
 ## 20251010
 - [LibHunt](https://www.libhunt.com/) | [lavandula](https://www.libhunt.com/r/lavandula)
 

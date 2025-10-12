@@ -1,3 +1,6 @@
+## 20251012
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.16 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.17](https://9to5linux.com/linux-kernel-6-16-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-17)
+
 ## 20251009
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.08.2 Rolls Out with More Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-08-2-rolls-out-with-more-improvements-for-your-favorite-kde-apps)
 
