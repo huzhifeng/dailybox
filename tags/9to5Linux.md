@@ -1,3 +1,6 @@
+## 20251013
+- [9to5Linux](https://9to5linux.com/) | [Blender 5.0 Beta Officially Released with HDR and Wide Gamut Display Support](https://9to5linux.com/blender-5-0-beta-officially-released-with-hdr-and-wide-gamut-display)
+
 ## 20251012
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.16 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.17](https://9to5linux.com/linux-kernel-6-16-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-17)
 

@@ -1,3 +1,6 @@
+## 20251013
+- [It's FOSS](https://itsfoss.com/) | [The Affordable Pironman Alternative Mini PC Case for Raspberry Pi 5](https://itsfoss.com/elecrow-raspberry-pi-5-case/)
+
 ## 20251011
 - [It's FOSS](https://itsfoss.com/) | [I Switched From Ollama And LM Studio To llama.cpp And Absolutely Loving It](https://itsfoss.com/llama-cpp/)
 

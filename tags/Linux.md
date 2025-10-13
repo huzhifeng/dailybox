@@ -1,3 +1,7 @@
+## 20251013
+- [Phoronix](https://www.phoronix.com/) | [Mir 2.23 Released With New Documentation For Building A Desktop Environment](https://www.phoronix.com/news/Mir-2.23-Released)
+- [9to5Linux](https://9to5linux.com/) | [Blender 5.0 Beta Officially Released with HDR and Wide Gamut Display Support](https://9to5linux.com/blender-5-0-beta-officially-released-with-hdr-and-wide-gamut-display)
+
 ## 20251012
 - [Phoronix](https://www.phoronix.com/) | [CLUDA Posted For Mesa: Gallium3D API Implemented Atop NVIDIA CUDA Driver API](https://www.phoronix.com/news/Mesa-CLUDA-MR-CUDA-Gallium)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 6.16 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 6.17](https://9to5linux.com/linux-kernel-6-16-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-6-17)

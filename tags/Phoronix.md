@@ -1,3 +1,6 @@
+## 20251013
+- [Phoronix](https://www.phoronix.com/) | [Mir 2.23 Released With New Documentation For Building A Desktop Environment](https://www.phoronix.com/news/Mir-2.23-Released)
+
 ## 20251012
 - [Phoronix](https://www.phoronix.com/) | [CLUDA Posted For Mesa: Gallium3D API Implemented Atop NVIDIA CUDA Driver API](https://www.phoronix.com/news/Mesa-CLUDA-MR-CUDA-Gallium)
 
