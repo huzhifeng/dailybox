@@ -1,3 +1,6 @@
+## 20251014
+- [LibHunt](https://www.libhunt.com/) | [cursed](https://www.libhunt.com/r/cursed)
+
 ## 20251012
 - [LibHunt](https://www.libhunt.com/) | [deepwiki-rs](https://www.libhunt.com/r/deepwiki-rs)
 

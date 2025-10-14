@@ -1,3 +1,6 @@
+## 20251014
+- [Product Hunt](https://www.producthunt.com) | [Deckless](https://www.producthunt.com/products/deckless)
+
 ## 20251011
 - [Product Hunt](https://www.producthunt.com) | [Buildrrr](https://www.producthunt.com/products/buildrrr)
 

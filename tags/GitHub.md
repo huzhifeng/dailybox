@@ -1,3 +1,6 @@
+## 20251014
+- [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/Archon](https://github.com/coleam00/Archon)
+
 ## 20251013
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 

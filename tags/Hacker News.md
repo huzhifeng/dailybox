@@ -1,3 +1,8 @@
+## 20251014
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-13](https://www.daemonology.net/hn-daily/2025-10-13.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-13](https://hacker-news.agi.li/post/2025-10-13)
+- [Hacker News](https://news.ycombinator.com/front) | [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://news.ycombinator.com/item?id=45575391)
+
 ## 20251013
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-12](https://www.daemonology.net/hn-daily/2025-10-12.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-12](https://hacker-news.agi.li/post/2025-10-12)

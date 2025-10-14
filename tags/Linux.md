@@ -1,3 +1,7 @@
+## 20251014
+- [Phoronix](https://www.phoronix.com/) | [Firefox 145 Beta Released With 32-bit Linux Support Dropped](https://www.phoronix.com/news/Firefox-145-Beta)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Out for Beta Testing as First Release to Drop 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-out-for-beta-testing-as-first-release-to-drop-32-bit-support-on-linux)
+
 ## 20251013
 - [Phoronix](https://www.phoronix.com/) | [Mir 2.23 Released With New Documentation For Building A Desktop Environment](https://www.phoronix.com/news/Mir-2.23-Released)
 - [9to5Linux](https://9to5linux.com/) | [Blender 5.0 Beta Officially Released with HDR and Wide Gamut Display Support](https://9to5linux.com/blender-5-0-beta-officially-released-with-hdr-and-wide-gamut-display)

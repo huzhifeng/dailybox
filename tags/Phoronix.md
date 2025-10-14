@@ -1,3 +1,6 @@
+## 20251014
+- [Phoronix](https://www.phoronix.com/) | [Firefox 145 Beta Released With 32-bit Linux Support Dropped](https://www.phoronix.com/news/Firefox-145-Beta)
+
 ## 20251013
 - [Phoronix](https://www.phoronix.com/) | [Mir 2.23 Released With New Documentation For Building A Desktop Environment](https://www.phoronix.com/news/Mir-2.23-Released)
 
