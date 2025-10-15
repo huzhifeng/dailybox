@@ -1,3 +1,6 @@
+## 20251015
+- [GitHub Trending](https://github.com/trending?since=daily) | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
 ## 20251014
 - [GitHub Trending](https://github.com/trending?since=daily) | [coleam00/Archon](https://github.com/coleam00/Archon)
 

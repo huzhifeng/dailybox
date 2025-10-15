@@ -1,3 +1,6 @@
+## 20251015
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9005 Brings Incredible Performance To The Cloud With Amazon M8a Benchmarks](https://www.phoronix.com/review/ec2-m8a-amd-epyc-turin)
+
 ## 20251014
 - [Phoronix](https://www.phoronix.com/) | [Firefox 145 Beta Released With 32-bit Linux Support Dropped](https://www.phoronix.com/news/Firefox-145-Beta)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Out for Beta Testing as First Release to Drop 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-out-for-beta-testing-as-first-release-to-drop-32-bit-support-on-linux)

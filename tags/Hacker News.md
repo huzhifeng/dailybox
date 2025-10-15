@@ -1,3 +1,8 @@
+## 20251015
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-14](https://www.daemonology.net/hn-daily/2025-10-14.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-14](https://hacker-news.agi.li/post/2025-10-14)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple M5 chip](https://news.ycombinator.com/item?id=45591799)
+
 ## 20251014
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-13](https://www.daemonology.net/hn-daily/2025-10-13.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-13](https://hacker-news.agi.li/post/2025-10-13)
