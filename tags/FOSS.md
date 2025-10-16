@@ -1,3 +1,6 @@
+## 20251016
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/)
+
 ## 20251013
 - [It's FOSS](https://itsfoss.com/) | [The Affordable Pironman Alternative Mini PC Case for Raspberry Pi 5](https://itsfoss.com/elecrow-raspberry-pi-5-case/)
 

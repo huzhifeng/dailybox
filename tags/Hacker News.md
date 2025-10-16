@@ -1,3 +1,8 @@
+## 20251016
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-15](https://www.daemonology.net/hn-daily/2025-10-15.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-15](https://hacker-news.agi.li/post/2025-10-15)
+- [Hacker News](https://news.ycombinator.com/front) | [TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)](https://news.ycombinator.com/item?id=45601750)
+
 ## 20251015
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-14](https://www.daemonology.net/hn-daily/2025-10-14.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-14](https://hacker-news.agi.li/post/2025-10-14)

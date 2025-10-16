@@ -1,3 +1,6 @@
+## 20251016
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
 ## 20251015
 - [GitHub Trending](https://github.com/trending?since=daily) | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 

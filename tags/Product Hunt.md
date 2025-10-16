@@ -1,3 +1,6 @@
+## 20251016
+- [Product Hunt](https://www.producthunt.com) | [Paritydeals](https://www.producthunt.com/products/paritydeals)
+
 ## 20251015
 - [Product Hunt](https://www.producthunt.com) | [Waydev AI](https://www.producthunt.com/products/waydev)
 

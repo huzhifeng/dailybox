@@ -1,3 +1,6 @@
+## 20251016
+- [Phoronix](https://www.phoronix.com/) | [Mysterious Intrigue Around An x86 "Corporate Entity Other Than Intel/AMD"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
+
 ## 20251015
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9005 Brings Incredible Performance To The Cloud With Amazon M8a Benchmarks](https://www.phoronix.com/review/ec2-m8a-amd-epyc-turin)
 

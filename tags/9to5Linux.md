@@ -1,3 +1,6 @@
+## 20251016
+- [9to5Linux](https://9to5linux.com/) | [GNOME 49.1 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/gnome-49-1-desktop-released-with-various-improvements-and-bug-fixes)
+
 ## 20251014
 - [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Out for Beta Testing as First Release to Drop 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-out-for-beta-testing-as-first-release-to-drop-32-bit-support-on-linux)
 

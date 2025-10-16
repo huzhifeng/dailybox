@@ -1,3 +1,6 @@
+## 20251016
+- [LibHunt](https://www.libhunt.com/) | [datastar](https://www.libhunt.com/r/datastar)
+
 ## 20251015
 - [LibHunt](https://www.libhunt.com/) | [docstrange](https://www.libhunt.com/r/docstrange)
 
