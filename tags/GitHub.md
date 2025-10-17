@@ -1,3 +1,6 @@
+## 20251017
+- [GitHub Trending](https://github.com/trending?since=daily) | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+
 ## 20251016
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 

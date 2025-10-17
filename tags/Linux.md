@@ -1,3 +1,6 @@
+## 20251017
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 Performance On System76 Thelio Astra / Ampere Altra](https://www.phoronix.com/review/ubuntu-2510-arm64)
+
 ## 20251016
 - [Phoronix](https://www.phoronix.com/) | [Mysterious Intrigue Around An x86 "Corporate Entity Other Than Intel/AMD"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49.1 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/gnome-49-1-desktop-released-with-various-improvements-and-bug-fixes)

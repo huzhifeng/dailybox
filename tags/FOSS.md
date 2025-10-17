@@ -1,3 +1,6 @@
+## 20251017
+- [It's FOSS](https://itsfoss.com/) | [Looking for Open Source Kindle Alternatives? Build it Yourself](https://itsfoss.com/open-source-ebook-readers-options/)
+
 ## 20251016
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/)
 

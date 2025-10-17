@@ -1,3 +1,6 @@
+## 20251017
+- [V2EX](https://www.v2ex.com/) | [眼馋美国的薪资，考虑赴美生娃了](https://www.v2ex.com/t/1166423)
+
 ## 20251008
 - [V2EX](https://www.v2ex.com/) | [怎样开车把事故率降到最低（别说不开车）](https://www.v2ex.com/t/1163725)
 

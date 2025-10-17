@@ -1,3 +1,8 @@
+## 20251017
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-16](https://www.daemonology.net/hn-daily/2025-10-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-16](https://hacker-news.agi.li/post/2025-10-16)
+- [Hacker News](https://news.ycombinator.com/front) | [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://news.ycombinator.com/item?id=45614922)
+
 ## 20251016
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-15](https://www.daemonology.net/hn-daily/2025-10-15.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-15](https://hacker-news.agi.li/post/2025-10-15)
