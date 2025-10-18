@@ -1,3 +1,6 @@
+## 20251018
+- [GitHub Trending](https://github.com/trending?since=daily) | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+
 ## 20251017
 - [GitHub Trending](https://github.com/trending?since=daily) | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
 

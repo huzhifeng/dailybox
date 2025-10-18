@@ -1,3 +1,6 @@
+## 20251018
+- [LibHunt](https://www.libhunt.com/) | [op-grep](https://www.libhunt.com/r/op-grep)
+
 ## 20251016
 - [LibHunt](https://www.libhunt.com/) | [datastar](https://www.libhunt.com/r/datastar)
 

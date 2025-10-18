@@ -1,3 +1,6 @@
+## 20251018
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.7 Open-Source Archive Manager Introduces an Image Viewer](https://9to5linux.com/peazip-10-7-open-source-archive-manager-introduces-an-image-viewer)
+
 ## 20251016
 - [9to5Linux](https://9to5linux.com/) | [GNOME 49.1 Desktop Released with Various Improvements and Bug Fixes](https://9to5linux.com/gnome-49-1-desktop-released-with-various-improvements-and-bug-fixes)
 

@@ -1,3 +1,7 @@
+## 20251018
+- [Phoronix](https://www.phoronix.com/) | [Linux Display Driver Patches Posted For The Qualcomm Snapdragon X2 Elite](https://www.phoronix.com/news/Snapdragon-X2-Display-Support)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.7 Open-Source Archive Manager Introduces an Image Viewer](https://9to5linux.com/peazip-10-7-open-source-archive-manager-introduces-an-image-viewer)
+
 ## 20251017
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 Performance On System76 Thelio Astra / Ampere Altra](https://www.phoronix.com/review/ubuntu-2510-arm64)
 
