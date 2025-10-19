@@ -1,3 +1,8 @@
+## 20251019
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-18](https://www.daemonology.net/hn-daily/2025-10-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-18](https://hacker-news.agi.li/post/2025-10-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Replacement.ai](https://news.ycombinator.com/item?id=45634095)
+
 ## 20251018
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-17](https://www.daemonology.net/hn-daily/2025-10-17.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-17](https://hacker-news.agi.li/post/2025-10-17)

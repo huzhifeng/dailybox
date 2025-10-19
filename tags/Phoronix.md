@@ -1,3 +1,6 @@
+## 20251019
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18-rc2 Will Make Sure To Wipe Stale Information About AMD System Reboots](https://www.phoronix.com/news/Linux-6.18-rc2-AMD-Reboot-Info)
+
 ## 20251018
 - [Phoronix](https://www.phoronix.com/) | [Linux Display Driver Patches Posted For The Qualcomm Snapdragon X2 Elite](https://www.phoronix.com/news/Snapdragon-X2-Display-Support)
 

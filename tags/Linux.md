@@ -1,3 +1,7 @@
+## 20251019
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18-rc2 Will Make Sure To Wipe Stale Information About AMD System Reboots](https://www.phoronix.com/news/Linux-6.18-rc2-AMD-Reboot-Info)
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.8 Adds Support to Automatically Use Monitor Color Profiles on Wayland](https://9to5linux.com/digikam-8-8-adds-support-to-automatically-use-monitor-color-profiles-on-wayland)
+
 ## 20251018
 - [Phoronix](https://www.phoronix.com/) | [Linux Display Driver Patches Posted For The Qualcomm Snapdragon X2 Elite](https://www.phoronix.com/news/Snapdragon-X2-Display-Support)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.7 Open-Source Archive Manager Introduces an Image Viewer](https://9to5linux.com/peazip-10-7-open-source-archive-manager-introduces-an-image-viewer)

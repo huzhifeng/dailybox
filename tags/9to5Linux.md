@@ -1,3 +1,6 @@
+## 20251019
+- [9to5Linux](https://9to5linux.com/) | [digiKam 8.8 Adds Support to Automatically Use Monitor Color Profiles on Wayland](https://9to5linux.com/digikam-8-8-adds-support-to-automatically-use-monitor-color-profiles-on-wayland)
+
 ## 20251018
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.7 Open-Source Archive Manager Introduces an Image Viewer](https://9to5linux.com/peazip-10-7-open-source-archive-manager-introduces-an-image-viewer)
 

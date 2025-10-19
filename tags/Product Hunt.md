@@ -1,3 +1,6 @@
+## 20251019
+- [Product Hunt](https://www.producthunt.com) | [Private Resume Builder](https://www.producthunt.com/products/private-resume-builder-open-source)
+
 ## 20251018
 - [Product Hunt](https://www.producthunt.com) | [Daft Music](https://www.producthunt.com/products/daft-music)
 

@@ -1,3 +1,6 @@
+## 20251019
+- [GitHub Trending](https://github.com/trending?since=daily) | [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+
 ## 20251018
 - [GitHub Trending](https://github.com/trending?since=daily) | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
 
