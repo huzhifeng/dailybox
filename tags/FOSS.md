@@ -1,3 +1,6 @@
+## 20251020
+- [It's FOSS](https://itsfoss.com/) | [I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys](https://itsfoss.com/puter-js-ai-without-api/)
+
 ## 20251017
 - [It's FOSS](https://itsfoss.com/) | [Looking for Open Source Kindle Alternatives? Build it Yourself](https://itsfoss.com/open-source-ebook-readers-options/)
 

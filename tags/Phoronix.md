@@ -1,3 +1,6 @@
+## 20251020
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X vs. 9950X3D On Windows 11 & Ubuntu Linux](https://www.phoronix.com/review/windows-linux-amd-9950x-9950x3d)
+
 ## 20251019
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18-rc2 Will Make Sure To Wipe Stale Information About AMD System Reboots](https://www.phoronix.com/news/Linux-6.18-rc2-AMD-Reboot-Info)
 

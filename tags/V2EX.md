@@ -1,3 +1,6 @@
+## 20251020
+- [V2EX](https://www.v2ex.com/) | [关于计算机在读的小舅子的就业问题](https://www.v2ex.com/t/1166930)
+
 ## 20251017
 - [V2EX](https://www.v2ex.com/) | [眼馋美国的薪资，考虑赴美生娃了](https://www.v2ex.com/t/1166423)
 

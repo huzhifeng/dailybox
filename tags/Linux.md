@@ -1,3 +1,6 @@
+## 20251020
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X vs. 9950X3D On Windows 11 & Ubuntu Linux](https://www.phoronix.com/review/windows-linux-amd-9950x-9950x3d)
+
 ## 20251019
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18-rc2 Will Make Sure To Wipe Stale Information About AMD System Reboots](https://www.phoronix.com/news/Linux-6.18-rc2-AMD-Reboot-Info)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.8 Adds Support to Automatically Use Monitor Color Profiles on Wayland](https://9to5linux.com/digikam-8-8-adds-support-to-automatically-use-monitor-color-profiles-on-wayland)
