@@ -1,3 +1,6 @@
+## 20251021
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-5-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20251019
 - [9to5Linux](https://9to5linux.com/) | [digiKam 8.8 Adds Support to Automatically Use Monitor Color Profiles on Wayland](https://9to5linux.com/digikam-8-8-adds-support-to-automatically-use-monitor-color-profiles-on-wayland)
 

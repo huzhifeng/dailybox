@@ -1,3 +1,6 @@
+## 20251021
+- [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 ## 20251020
 - [GitHub Trending](https://github.com/trending?since=daily) | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 

@@ -1,3 +1,6 @@
+## 20251021
+- [Phoronix](https://www.phoronix.com/) | [Revisiting The SNC3 vs. HEX Mode Performance With Intel Xeon 6 Granite Rapids](https://www.phoronix.com/review/intel-xeon-snc3-hex-benchmarks)
+
 ## 20251020
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 9 9950X vs. 9950X3D On Windows 11 & Ubuntu Linux](https://www.phoronix.com/review/windows-linux-amd-9950x-9950x3d)
 
