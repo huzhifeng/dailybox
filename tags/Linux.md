@@ -1,3 +1,6 @@
+## 20251022
+- [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Agency Making 2026 Investments In systemd, PHP, Servo & More](https://www.phoronix.com/news/STF-2026-systemd-PHP)
+
 ## 20251021
 - [Phoronix](https://www.phoronix.com/) | [Revisiting The SNC3 vs. HEX Mode Performance With Intel Xeon 6 Granite Rapids](https://www.phoronix.com/review/intel-xeon-snc3-hex-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-5-desktop-environment-officially-released-this-is-whats-new)

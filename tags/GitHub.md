@@ -1,3 +1,6 @@
+## 20251022
+- [GitHub Trending](https://github.com/trending?since=daily) | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
 ## 20251021
 - [GitHub Trending](https://github.com/trending?since=daily) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 

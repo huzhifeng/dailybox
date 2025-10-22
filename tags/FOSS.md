@@ -1,3 +1,6 @@
+## 20251022
+- [It's FOSS](https://itsfoss.com/) | [Arduino Alternative Microcontroller Boards for Your DIY Projects in the Post-Qualcomm Era](https://itsfoss.com/arduino-alternative-microcontroller-boards/)
+
 ## 20251020
 - [It's FOSS](https://itsfoss.com/) | [I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys](https://itsfoss.com/puter-js-ai-without-api/)
 

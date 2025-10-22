@@ -1,3 +1,6 @@
+## 20251022
+- [V2EX](https://www.v2ex.com/) | [VScode, Cursor, Kiro, Windsurf， Zed 作为 AI 编辑器只留一个留哪个](https://www.v2ex.com/t/1167490)
+
 ## 20251020
 - [V2EX](https://www.v2ex.com/) | [关于计算机在读的小舅子的就业问题](https://www.v2ex.com/t/1166930)
 

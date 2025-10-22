@@ -1,3 +1,8 @@
+## 20251022
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-21](https://www.daemonology.net/hn-daily/2025-10-21.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-21](https://hacker-news.agi.li/post/2025-10-21)
+- [Hacker News](https://news.ycombinator.com/front) | [Internet's biggest annoyance: Cookie laws should target browsers, not websites](https://news.ycombinator.com/item?id=45667866)
+
 ## 20251021
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-20](https://www.daemonology.net/hn-daily/2025-10-20.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-20](https://hacker-news.agi.li/post/2025-10-20)
