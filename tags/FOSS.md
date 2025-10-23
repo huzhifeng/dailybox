@@ -1,3 +1,6 @@
+## 20251023
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/)
+
 ## 20251022
 - [It's FOSS](https://itsfoss.com/) | [Arduino Alternative Microcontroller Boards for Your DIY Projects in the Post-Qualcomm Era](https://itsfoss.com/arduino-alternative-microcontroller-boards/)
 

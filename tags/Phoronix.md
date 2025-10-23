@@ -1,3 +1,6 @@
+## 20251023
+- [Phoronix](https://www.phoronix.com/) | [Linux's Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin](https://www.phoronix.com/review/cache-aware-scheduling-amd-turin)
+
 ## 20251022
 - [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Agency Making 2026 Investments In systemd, PHP, Servo & More](https://www.phoronix.com/news/STF-2026-systemd-PHP)
 

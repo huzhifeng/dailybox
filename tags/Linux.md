@@ -1,3 +1,7 @@
+## 20251023
+- [Phoronix](https://www.phoronix.com/) | [Linux's Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin](https://www.phoronix.com/review/cache-aware-scheduling-amd-turin)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.04 LTS &#8220;Resolute Raccoon&#8221; Daily Builds Are Now Available for Download](https://9to5linux.com/ubuntu-26-04-lts-resolute-raccoon-daily-builds-are-now-available-for-download)
+
 ## 20251022
 - [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Agency Making 2026 Investments In systemd, PHP, Servo & More](https://www.phoronix.com/news/STF-2026-systemd-PHP)
 

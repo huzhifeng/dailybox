@@ -1,3 +1,6 @@
+## 20251023
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.04 LTS &#8220;Resolute Raccoon&#8221; Daily Builds Are Now Available for Download](https://9to5linux.com/ubuntu-26-04-lts-resolute-raccoon-daily-builds-are-now-available-for-download)
+
 ## 20251021
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-5-desktop-environment-officially-released-this-is-whats-new)
 

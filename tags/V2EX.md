@@ -1,3 +1,6 @@
+## 20251023
+- [V2EX](https://www.v2ex.com/) | [按现在标准来看，我老婆真能算贤妻良母](https://www.v2ex.com/t/1167927)
+
 ## 20251022
 - [V2EX](https://www.v2ex.com/) | [VScode, Cursor, Kiro, Windsurf， Zed 作为 AI 编辑器只留一个留哪个](https://www.v2ex.com/t/1167490)
 

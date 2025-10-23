@@ -1,3 +1,6 @@
+## 20251023
+- [LibHunt](https://www.libhunt.com/) | [Your Spotify](https://www.libhunt.com/r/your_spotify)
+
 ## 20251022
 - [LibHunt](https://www.libhunt.com/) | [minio](https://www.libhunt.com/r/minio)
 

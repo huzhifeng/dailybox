@@ -1,3 +1,6 @@
+## 20251023
+- [Product Hunt](https://www.producthunt.com) | [Xano 2.0](https://www.producthunt.com/products/xano)
+
 ## 20251022
 - [Product Hunt](https://www.producthunt.com) | [Ito](https://www.producthunt.com/products/ito-4)
 
