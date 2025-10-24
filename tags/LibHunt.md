@@ -1,3 +1,6 @@
+## 20251024
+- [LibHunt](https://www.libhunt.com/) | [coreutils](https://www.libhunt.com/r/coreutils/coreutils)
+
 ## 20251023
 - [LibHunt](https://www.libhunt.com/) | [Your Spotify](https://www.libhunt.com/r/your_spotify)
 

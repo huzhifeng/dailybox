@@ -1,3 +1,8 @@
+## 20251024
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-23](https://www.daemonology.net/hn-daily/2025-10-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-23](https://hacker-news.agi.li/post/2025-10-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Roc Camera](https://news.ycombinator.com/item?id=45690251)
+
 ## 20251023
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-10-22](https://www.daemonology.net/hn-daily/2025-10-22.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-10-22](https://hacker-news.agi.li/post/2025-10-22)

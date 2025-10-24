@@ -1,3 +1,6 @@
+## 20251024
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC Turin vs. Intel Xeon 6 Granite Rapids vs. Graviton4 Benchmarks With AWS M8 Instances](https://www.phoronix.com/review/aws-m8a-m8g-m8i-benchmarks)
+
 ## 20251023
 - [Phoronix](https://www.phoronix.com/) | [Linux's Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin](https://www.phoronix.com/review/cache-aware-scheduling-amd-turin)
 

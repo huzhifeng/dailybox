@@ -1,3 +1,6 @@
+## 20251024
+- [GitHub Trending](https://github.com/trending?since=daily) | [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+
 ## 20251023
 - [GitHub Trending](https://github.com/trending?since=daily) | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 

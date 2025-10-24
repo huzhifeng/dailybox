@@ -1,3 +1,6 @@
+## 20251024
+- [Product Hunt](https://www.producthunt.com) | [Tailkits UI](https://www.producthunt.com/products/tailkits)
+
 ## 20251023
 - [Product Hunt](https://www.producthunt.com) | [Xano 2.0](https://www.producthunt.com/products/xano)
 
