@@ -1,3 +1,6 @@
+## 20251025
+- [Phoronix](https://www.phoronix.com/) | [Resources 1.9 Brings Intel Xe GPU Support & Other System Resource Monitoring For GNOME](https://www.phoronix.com/news/GNOME-Resources-1.9)
+
 ## 20251024
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC Turin vs. Intel Xeon 6 Granite Rapids vs. Graviton4 Benchmarks With AWS M8 Instances](https://www.phoronix.com/review/aws-m8a-m8g-m8i-benchmarks)
 

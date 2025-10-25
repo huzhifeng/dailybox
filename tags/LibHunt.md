@@ -1,3 +1,6 @@
+## 20251025
+- [LibHunt](https://www.libhunt.com/) | [Tailwind CSS](https://www.libhunt.com/r/tailwindcss)
+
 ## 20251024
 - [LibHunt](https://www.libhunt.com/) | [coreutils](https://www.libhunt.com/r/coreutils/coreutils)
 

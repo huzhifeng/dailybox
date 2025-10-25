@@ -1,3 +1,6 @@
+## 20251025
+- [Product Hunt](https://www.producthunt.com) | [Friday](https://www.producthunt.com/products/friday-8)
+
 ## 20251024
 - [Product Hunt](https://www.producthunt.com) | [Tailkits UI](https://www.producthunt.com/products/tailkits)
 

@@ -1,3 +1,6 @@
+## 20251025
+- [GitHub Trending](https://github.com/trending?since=daily) | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
+
 ## 20251024
 - [GitHub Trending](https://github.com/trending?since=daily) | [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 
