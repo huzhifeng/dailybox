@@ -1,3 +1,6 @@
+## 20251026
+- [Phoronix](https://www.phoronix.com/) | [Debian Establishes Archive Operations Team, Licensing & New Packages Team](https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team)
+
 ## 20251025
 - [Phoronix](https://www.phoronix.com/) | [Resources 1.9 Brings Intel Xe GPU Support & Other System Resource Monitoring For GNOME](https://www.phoronix.com/news/GNOME-Resources-1.9)
 

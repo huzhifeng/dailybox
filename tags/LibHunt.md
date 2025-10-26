@@ -1,3 +1,6 @@
+## 20251026
+- [LibHunt](https://www.libhunt.com/) | [RealtimeDataPlatform](https://www.libhunt.com/r/RealtimeDataPlatform)
+
 ## 20251025
 - [LibHunt](https://www.libhunt.com/) | [Tailwind CSS](https://www.libhunt.com/r/tailwindcss)
 

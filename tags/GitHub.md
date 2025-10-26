@@ -1,3 +1,6 @@
+## 20251026
+- [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
 ## 20251025
 - [GitHub Trending](https://github.com/trending?since=daily) | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
 

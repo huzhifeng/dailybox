@@ -1,3 +1,6 @@
+## 20251026
+- [It's FOSS](https://itsfoss.com/) | [Ghostty Terminal: Never Understood the Hype Until I tried it](https://itsfoss.com/ghostty-terminal-features/)
+
 ## 20251023
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/)
 

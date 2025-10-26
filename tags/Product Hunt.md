@@ -1,3 +1,6 @@
+## 20251026
+- [Product Hunt](https://www.producthunt.com) | [Dictly](https://www.producthunt.com/products/dictly)
+
 ## 20251025
 - [Product Hunt](https://www.producthunt.com) | [Friday](https://www.producthunt.com/products/friday-8)
 
