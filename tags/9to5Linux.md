@@ -1,3 +1,6 @@
+## 20251027
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 25 Release Candidate Arrives with Various Improvements and Changes](https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes)
+
 ## 20251023
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.04 LTS &#8220;Resolute Raccoon&#8221; Daily Builds Are Now Available for Download](https://9to5linux.com/ubuntu-26-04-lts-resolute-raccoon-daily-builds-are-now-available-for-download)
 

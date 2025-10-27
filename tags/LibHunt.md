@@ -1,3 +1,6 @@
+## 20251027
+- [LibHunt](https://www.libhunt.com/) | [Are-we-fast-yet](https://www.libhunt.com/r/rochus-keller/Are-we-fast-yet)
+
 ## 20251026
 - [LibHunt](https://www.libhunt.com/) | [RealtimeDataPlatform](https://www.libhunt.com/r/RealtimeDataPlatform)
 

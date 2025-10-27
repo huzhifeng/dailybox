@@ -1,3 +1,6 @@
+## 20251027
+- [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 ## 20251026
 - [GitHub Trending](https://github.com/trending?since=daily) | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 

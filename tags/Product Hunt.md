@@ -1,3 +1,6 @@
+## 20251027
+- [Product Hunt](https://www.producthunt.com) | [Velona AI](https://www.producthunt.com/products/velona-ai)
+
 ## 20251026
 - [Product Hunt](https://www.producthunt.com) | [Dictly](https://www.producthunt.com/products/dictly)
 

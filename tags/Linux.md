@@ -1,3 +1,7 @@
+## 20251027
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9965 "Turin" 2P Performance Seeing Some Gains On Linux 6.18](https://www.phoronix.com/news/Linux-6.18-On-AMD-EPYC-Turin)
+- [9to5Linux](https://9to5linux.com/) | [MX Linux 25 Release Candidate Arrives with Various Improvements and Changes](https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes)
+
 ## 20251026
 - [Phoronix](https://www.phoronix.com/) | [Debian Establishes Archive Operations Team, Licensing & New Packages Team](https://www.phoronix.com/news/Debian-Archive-License-Pkg-Team)
 

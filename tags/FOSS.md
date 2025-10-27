@@ -1,3 +1,6 @@
+## 20251027
+- [It's FOSS](https://itsfoss.com/) | [Community Strikes Back: 12 Open Source Projects Born from Resistance](https://itsfoss.com/community-strikes-back-with-forks/)
+
 ## 20251026
 - [It's FOSS](https://itsfoss.com/) | [Ghostty Terminal: Never Understood the Hype Until I tried it](https://itsfoss.com/ghostty-terminal-features/)
 
