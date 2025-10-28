@@ -1,3 +1,6 @@
+## 20251028
+- [Phoronix](https://www.phoronix.com/) | [Three More X.Org Server & XWayland Security Vulnerabilities Made Public](https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025)
+
 ## 20251027
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9965 "Turin" 2P Performance Seeing Some Gains On Linux 6.18](https://www.phoronix.com/news/Linux-6.18-On-AMD-EPYC-Turin)
 

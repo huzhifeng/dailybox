@@ -1,3 +1,6 @@
+## 20251028
+- [Product Hunt](https://www.producthunt.com) | [LLM Stats](https://www.producthunt.com/products/llm-stats)
+
 ## 20251027
 - [Product Hunt](https://www.producthunt.com) | [Velona AI](https://www.producthunt.com/products/velona-ai)
 

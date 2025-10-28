@@ -1,3 +1,6 @@
+## 20251028
+- [LibHunt](https://www.libhunt.com/) | [bash-screensavers](https://www.libhunt.com/r/bash-screensavers)
+
 ## 20251027
 - [LibHunt](https://www.libhunt.com/) | [Are-we-fast-yet](https://www.libhunt.com/r/rochus-keller/Are-we-fast-yet)
 

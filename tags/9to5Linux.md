@@ -1,3 +1,6 @@
+## 20251028
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 43 Officially Released, Now Available for Download](https://9to5linux.com/fedora-linux-43-officially-released-now-available-for-download)
+
 ## 20251027
 - [9to5Linux](https://9to5linux.com/) | [MX Linux 25 Release Candidate Arrives with Various Improvements and Changes](https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes)
 

@@ -1,3 +1,6 @@
+## 20251028
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
 ## 20251027
 - [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 

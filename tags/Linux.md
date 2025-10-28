@@ -1,3 +1,7 @@
+## 20251028
+- [Phoronix](https://www.phoronix.com/) | [Three More X.Org Server & XWayland Security Vulnerabilities Made Public](https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 43 Officially Released, Now Available for Download](https://9to5linux.com/fedora-linux-43-officially-released-now-available-for-download)
+
 ## 20251027
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9965 "Turin" 2P Performance Seeing Some Gains On Linux 6.18](https://www.phoronix.com/news/Linux-6.18-On-AMD-EPYC-Turin)
 - [9to5Linux](https://9to5linux.com/) | [MX Linux 25 Release Candidate Arrives with Various Improvements and Changes](https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes)

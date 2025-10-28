@@ -1,3 +1,6 @@
+## 20251028
+- [V2EX](https://www.v2ex.com/) | [来说说我和小 9 岁女生的爱情故事](https://www.v2ex.com/t/1168960)
+
 ## 20251023
 - [V2EX](https://www.v2ex.com/) | [按现在标准来看，我老婆真能算贤妻良母](https://www.v2ex.com/t/1167927)
 
