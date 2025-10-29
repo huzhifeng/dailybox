@@ -1,3 +1,6 @@
+## 20251029
+- [Phoronix](https://www.phoronix.com/) | [AMD RadeonSI Driver Now Defaults To Enabling ACO For Faster Performance](https://www.phoronix.com/news/RadeonSI-ACO-Default-Mesa-26.0)
+
 ## 20251028
 - [Phoronix](https://www.phoronix.com/) | [Three More X.Org Server & XWayland Security Vulnerabilities Made Public](https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025)
 

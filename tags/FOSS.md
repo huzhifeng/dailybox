@@ -1,3 +1,6 @@
+## 20251029
+- [It's FOSS](https://itsfoss.com/) | [Pomodoro With Super Powers: This Linux App Will Boost Your Productivity](https://itsfoss.com/koncentro-app/)
+
 ## 20251027
 - [It's FOSS](https://itsfoss.com/) | [Community Strikes Back: 12 Open Source Projects Born from Resistance](https://itsfoss.com/community-strikes-back-with-forks/)
 

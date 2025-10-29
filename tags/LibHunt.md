@@ -1,3 +1,6 @@
+## 20251029
+- [LibHunt](https://www.libhunt.com/) | [rsjs](https://www.libhunt.com/r/rsjs)
+
 ## 20251028
 - [LibHunt](https://www.libhunt.com/) | [bash-screensavers](https://www.libhunt.com/r/bash-screensavers)
 

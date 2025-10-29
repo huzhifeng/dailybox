@@ -1,3 +1,6 @@
+## 20251029
+- [Product Hunt](https://www.producthunt.com) | [Command Center](https://www.producthunt.com/products/command-center)
+
 ## 20251028
 - [Product Hunt](https://www.producthunt.com) | [LLM Stats](https://www.producthunt.com/products/llm-stats)
 

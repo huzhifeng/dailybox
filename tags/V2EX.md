@@ -1,3 +1,6 @@
+## 20251029
+- [V2EX](https://www.v2ex.com/) | [针对小米这波舆论，真的是太成功了](https://www.v2ex.com/t/1169164)
+
 ## 20251028
 - [V2EX](https://www.v2ex.com/) | [来说说我和小 9 岁女生的爱情故事](https://www.v2ex.com/t/1168960)
 

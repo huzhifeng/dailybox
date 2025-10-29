@@ -1,3 +1,6 @@
+## 20251029
+- [GitHub Trending](https://github.com/trending?since=daily) | [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
+
 ## 20251028
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 

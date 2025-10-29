@@ -1,3 +1,7 @@
+## 20251029
+- [Phoronix](https://www.phoronix.com/) | [AMD RadeonSI Driver Now Defaults To Enabling ACO For Faster Performance](https://www.phoronix.com/news/RadeonSI-ACO-Default-Mesa-26.0)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 Users Can Now Upgrade to Ubuntu 25.10, Here&#8217;s How](https://9to5linux.com/ubuntu-25-04-users-can-now-upgrade-to-ubuntu-25-10-heres-how)
+
 ## 20251028
 - [Phoronix](https://www.phoronix.com/) | [Three More X.Org Server & XWayland Security Vulnerabilities Made Public](https://www.phoronix.com/news/X.Org-Server-3-Vuln-Oct-2025)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 43 Officially Released, Now Available for Download](https://9to5linux.com/fedora-linux-43-officially-released-now-available-for-download)
