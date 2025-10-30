@@ -1,3 +1,6 @@
+## 20251030
+- [Phoronix](https://www.phoronix.com/) | [LVFS + Fwupd Serve Up More Than 135 Million Firmware Downloads For Linux Users](https://www.phoronix.com/news/LVFS-Fwupd-135-Million-Download)
+
 ## 20251029
 - [Phoronix](https://www.phoronix.com/) | [AMD RadeonSI Driver Now Defaults To Enabling ACO For Faster Performance](https://www.phoronix.com/news/RadeonSI-ACO-Default-Mesa-26.0)
 

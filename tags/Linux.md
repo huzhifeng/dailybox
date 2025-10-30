@@ -1,3 +1,7 @@
+## 20251030
+- [Phoronix](https://www.phoronix.com/) | [LVFS + Fwupd Serve Up More Than 135 Million Firmware Downloads For Linux Users](https://www.phoronix.com/news/LVFS-Fwupd-135-Million-Download)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 25.8](https://9to5linux.com/libreoffice-25-2-7-is-out-as-the-last-update-in-the-series-upgrade-to-libreoffice-25-8)
+
 ## 20251029
 - [Phoronix](https://www.phoronix.com/) | [AMD RadeonSI Driver Now Defaults To Enabling ACO For Faster Performance](https://www.phoronix.com/news/RadeonSI-ACO-Default-Mesa-26.0)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 Users Can Now Upgrade to Ubuntu 25.10, Here&#8217;s How](https://9to5linux.com/ubuntu-25-04-users-can-now-upgrade-to-ubuntu-25-10-heres-how)

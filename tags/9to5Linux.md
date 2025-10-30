@@ -1,3 +1,6 @@
+## 20251030
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 25.8](https://9to5linux.com/libreoffice-25-2-7-is-out-as-the-last-update-in-the-series-upgrade-to-libreoffice-25-8)
+
 ## 20251029
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.04 Users Can Now Upgrade to Ubuntu 25.10, Here&#8217;s How](https://9to5linux.com/ubuntu-25-04-users-can-now-upgrade-to-ubuntu-25-10-heres-how)
 

@@ -1,3 +1,6 @@
+## 20251030
+- [GitHub Trending](https://github.com/trending?since=daily) | [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
+
 ## 20251029
 - [GitHub Trending](https://github.com/trending?since=daily) | [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
 

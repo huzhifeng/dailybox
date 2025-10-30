@@ -1,3 +1,6 @@
+## 20251030
+- [It's FOSS](https://itsfoss.com/) | [Here's How You Can Customize Linux Desktop for Halloween [Dot Files Included]](https://itsfoss.com/hyprland-halloween-customization/)
+
 ## 20251029
 - [It's FOSS](https://itsfoss.com/) | [Pomodoro With Super Powers: This Linux App Will Boost Your Productivity](https://itsfoss.com/koncentro-app/)
 
