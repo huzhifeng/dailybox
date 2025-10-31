@@ -1,3 +1,6 @@
+## 20251031
+- [It's FOSS](https://itsfoss.com/) | [I Found Everything Search Engine Alternative for Linux Users](https://itsfoss.com/fsearch/)
+
 ## 20251030
 - [It's FOSS](https://itsfoss.com/) | [Here's How You Can Customize Linux Desktop for Halloween [Dot Files Included]](https://itsfoss.com/hyprland-halloween-customization/)
 

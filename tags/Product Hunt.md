@@ -1,3 +1,6 @@
+## 20251031
+- [Product Hunt](https://www.producthunt.com) | [ScaryStories Live](https://www.producthunt.com/products/scarystories-live-3)
+
 ## 20251030
 - [Product Hunt](https://www.producthunt.com) | [Base44: The all-new builder](https://www.producthunt.com/products/base44)
 

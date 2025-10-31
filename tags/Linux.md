@@ -1,3 +1,7 @@
+## 20251031
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 amd64v3 Benchmarks: Some Minor & Rare Performance Advantages For Desktop Workloads](https://www.phoronix.com/review/ubuntu-2510-amd64v3)
+- [9to5Linux](https://9to5linux.com/) | [AerynOS 2025.10 Released with GNOME 49.1, KDE Plasma 6.5, and GNU libstdc++](https://9to5linux.com/aerynos-2025-10-released-with-gnome-49-1-kde-plasma-6-5-and-gnu-libstdc)
+
 ## 20251030
 - [Phoronix](https://www.phoronix.com/) | [LVFS + Fwupd Serve Up More Than 135 Million Firmware Downloads For Linux Users](https://www.phoronix.com/news/LVFS-Fwupd-135-Million-Download)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 25.8](https://9to5linux.com/libreoffice-25-2-7-is-out-as-the-last-update-in-the-series-upgrade-to-libreoffice-25-8)

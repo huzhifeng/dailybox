@@ -1,3 +1,6 @@
+## 20251031
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 amd64v3 Benchmarks: Some Minor & Rare Performance Advantages For Desktop Workloads](https://www.phoronix.com/review/ubuntu-2510-amd64v3)
+
 ## 20251030
 - [Phoronix](https://www.phoronix.com/) | [LVFS + Fwupd Serve Up More Than 135 Million Firmware Downloads For Linux Users](https://www.phoronix.com/news/LVFS-Fwupd-135-Million-Download)
 

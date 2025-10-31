@@ -1,3 +1,6 @@
+## 20251031
+- [9to5Linux](https://9to5linux.com/) | [AerynOS 2025.10 Released with GNOME 49.1, KDE Plasma 6.5, and GNU libstdc++](https://9to5linux.com/aerynos-2025-10-released-with-gnome-49-1-kde-plasma-6-5-and-gnu-libstdc)
+
 ## 20251030
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 25.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 25.8](https://9to5linux.com/libreoffice-25-2-7-is-out-as-the-last-update-in-the-series-upgrade-to-libreoffice-25-8)
 

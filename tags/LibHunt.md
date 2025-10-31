@@ -1,3 +1,6 @@
+## 20251031
+- [LibHunt](https://www.libhunt.com/) | [fastrace](https://www.libhunt.com/r/fastrace)
+
 ## 20251029
 - [LibHunt](https://www.libhunt.com/) | [rsjs](https://www.libhunt.com/r/rsjs)
 
