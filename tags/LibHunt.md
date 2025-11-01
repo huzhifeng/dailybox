@@ -1,3 +1,6 @@
+## 20251101
+- [LibHunt](https://www.libhunt.com/) | [dioxus](https://www.libhunt.com/r/dioxus)
+
 ## 20251031
 - [LibHunt](https://www.libhunt.com/) | [fastrace](https://www.libhunt.com/r/fastrace)
 

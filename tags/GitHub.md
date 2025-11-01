@@ -1,3 +1,6 @@
+## 20251101
+- [GitHub Trending](https://github.com/trending?since=daily) | [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+
 ## 20251031
 - [GitHub Trending](https://github.com/trending?since=daily) | [mem0ai/mem0](https://github.com/mem0ai/mem0)
 

@@ -1,3 +1,6 @@
+## 20251101
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser](https://www.phoronix.com/news/Linux-Kernel-WebAssembly)
+
 ## 20251031
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 25.10 amd64v3 Benchmarks: Some Minor & Rare Performance Advantages For Desktop Workloads](https://www.phoronix.com/review/ubuntu-2510-amd64v3)
 

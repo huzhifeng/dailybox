@@ -1,3 +1,6 @@
+## 20251101
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s November 2025 ISO and Archinstall 3.0.12 Installer Are Out Now](https://9to5linux.com/arch-linuxs-november-2025-iso-and-archinstall-3-0-12-installer-are-out-now)
+
 ## 20251031
 - [9to5Linux](https://9to5linux.com/) | [AerynOS 2025.10 Released with GNOME 49.1, KDE Plasma 6.5, and GNU libstdc++](https://9to5linux.com/aerynos-2025-10-released-with-gnome-49-1-kde-plasma-6-5-and-gnu-libstdc)
 
