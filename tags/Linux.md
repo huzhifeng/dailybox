@@ -1,3 +1,6 @@
+## 20251102
+- [Phoronix](https://www.phoronix.com/) | [NASM 3.00 Assembler Is Ready With Intel APX & AVX10 Support](https://www.phoronix.com/news/NASM-3.00-APX-AVX10)
+
 ## 20251101
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser](https://www.phoronix.com/news/Linux-Kernel-WebAssembly)
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s November 2025 ISO and Archinstall 3.0.12 Installer Are Out Now](https://9to5linux.com/arch-linuxs-november-2025-iso-and-archinstall-3-0-12-installer-are-out-now)

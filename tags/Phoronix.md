@@ -1,3 +1,6 @@
+## 20251102
+- [Phoronix](https://www.phoronix.com/) | [NASM 3.00 Assembler Is Ready With Intel APX & AVX10 Support](https://www.phoronix.com/news/NASM-3.00-APX-AVX10)
+
 ## 20251101
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser](https://www.phoronix.com/news/Linux-Kernel-WebAssembly)
 

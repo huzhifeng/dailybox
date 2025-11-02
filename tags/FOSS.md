@@ -1,3 +1,6 @@
+## 20251102
+- [It's FOSS](https://itsfoss.com/) | [The (Almost) Perfect Linux Marketplace App for Flatpak Lovers](https://itsfoss.com/bazaar-app/)
+
 ## 20251031
 - [It's FOSS](https://itsfoss.com/) | [I Found Everything Search Engine Alternative for Linux Users](https://itsfoss.com/fsearch/)
 

@@ -1,3 +1,6 @@
+## 20251102
+- [V2EX](https://www.v2ex.com/) | [提取了住房公积金，果然打了八折，虽预期内，但也挺无奈](https://www.v2ex.com/t/1169987)
+
 ## 20251029
 - [V2EX](https://www.v2ex.com/) | [针对小米这波舆论，真的是太成功了](https://www.v2ex.com/t/1169164)
 

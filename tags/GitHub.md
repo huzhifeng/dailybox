@@ -1,3 +1,6 @@
+## 20251102
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
 ## 20251101
 - [GitHub Trending](https://github.com/trending?since=daily) | [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
