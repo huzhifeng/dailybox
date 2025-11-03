@@ -1,3 +1,6 @@
+## 20251103
+- [It's FOSS](https://itsfoss.com/) | [I Used Instagram from the Linux Terminal. It’s Cool Until It’s Not.](https://itsfoss.com/instagram-cli/)
+
 ## 20251102
 - [It's FOSS](https://itsfoss.com/) | [The (Almost) Perfect Linux Marketplace App for Flatpak Lovers](https://itsfoss.com/bazaar-app/)
 

@@ -1,3 +1,6 @@
+## 20251103
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value](https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics)
+
 ## 20251102
 - [Phoronix](https://www.phoronix.com/) | [NASM 3.00 Assembler Is Ready With Intel APX & AVX10 Support](https://www.phoronix.com/news/NASM-3.00-APX-AVX10)
 

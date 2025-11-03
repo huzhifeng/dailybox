@@ -1,3 +1,7 @@
+## 20251103
+- [Phoronix](https://www.phoronix.com/) | [AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value](https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics)
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU/Linux 6.0 Distro Is Out Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/systemd-free-devuan-gnu-linux-6-0-distro-is-out-based-on-debian-13-trixie)
+
 ## 20251102
 - [Phoronix](https://www.phoronix.com/) | [NASM 3.00 Assembler Is Ready With Intel APX & AVX10 Support](https://www.phoronix.com/news/NASM-3.00-APX-AVX10)
 

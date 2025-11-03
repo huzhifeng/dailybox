@@ -1,3 +1,6 @@
+## 20251103
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU/Linux 6.0 Distro Is Out Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/systemd-free-devuan-gnu-linux-6-0-distro-is-out-based-on-debian-13-trixie)
+
 ## 20251101
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux&#8217;s November 2025 ISO and Archinstall 3.0.12 Installer Are Out Now](https://9to5linux.com/arch-linuxs-november-2025-iso-and-archinstall-3-0-12-installer-are-out-now)
 

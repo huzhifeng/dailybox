@@ -1,3 +1,6 @@
+## 20251103
+- [LibHunt](https://www.libhunt.com/) | [rust-playground](https://www.libhunt.com/r/rust-playground)
+
 ## 20251102
 - [LibHunt](https://www.libhunt.com/) | [nimony](https://www.libhunt.com/r/nimony)
 
