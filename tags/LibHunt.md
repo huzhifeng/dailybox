@@ -1,3 +1,6 @@
+## 20251104
+- [LibHunt](https://www.libhunt.com/) | [django-ninja-aio-crud](https://www.libhunt.com/r/django-ninja-aio-crud)
+
 ## 20251103
 - [LibHunt](https://www.libhunt.com/) | [rust-playground](https://www.libhunt.com/r/rust-playground)
 

@@ -1,3 +1,6 @@
+## 20251104
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Will Finally Support Intel's Adaptive Sharpness Filter "CASF" With Lunar Lake](https://www.phoronix.com/news/Intel-Adaptive-Sharpness-6.19)
+
 ## 20251103
 - [Phoronix](https://www.phoronix.com/) | [AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value](https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics)
 

@@ -1,3 +1,6 @@
+## 20251104
+- [Product Hunt](https://www.producthunt.com) | [MCP Playground](https://www.producthunt.com/products/mcp-playground)
+
 ## 20251103
 - [Product Hunt](https://www.producthunt.com) | [AI Professors by Aden](https://www.producthunt.com/products/ai-powered-form-that-fills-itself)
 
