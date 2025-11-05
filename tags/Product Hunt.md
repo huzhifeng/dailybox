@@ -1,3 +1,6 @@
+## 20251105
+- [Product Hunt](https://www.producthunt.com) | [GitLaw Agent](https://www.producthunt.com/products/gitlaw)
+
 ## 20251104
 - [Product Hunt](https://www.producthunt.com) | [MCP Playground](https://www.producthunt.com/products/mcp-playground)
 

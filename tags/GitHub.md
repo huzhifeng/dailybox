@@ -1,3 +1,6 @@
+## 20251105
+- [GitHub Trending](https://github.com/trending?since=daily) | [sst/opentui](https://github.com/sst/opentui)
+
 ## 20251104
 - [GitHub Trending](https://github.com/trending?since=daily) | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 

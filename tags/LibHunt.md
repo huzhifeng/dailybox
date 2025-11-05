@@ -1,3 +1,6 @@
+## 20251105
+- [LibHunt](https://www.libhunt.com/) | [NoLongerEvil-Thermostat](https://www.libhunt.com/r/NoLongerEvil-Thermostat)
+
 ## 20251104
 - [LibHunt](https://www.libhunt.com/) | [django-ninja-aio-crud](https://www.libhunt.com/r/django-ninja-aio-crud)
 

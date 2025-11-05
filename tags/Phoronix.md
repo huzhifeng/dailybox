@@ -1,3 +1,6 @@
+## 20251105
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Support Additional Arm Mali & Vivante Graphics Hardware](https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante)
+
 ## 20251104
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Will Finally Support Intel's Adaptive Sharpness Filter "CASF" With Lunar Lake](https://www.phoronix.com/news/Intel-Adaptive-Sharpness-6.19)
 

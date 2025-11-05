@@ -1,3 +1,6 @@
+## 20251105
+- [It's FOSS](https://itsfoss.com/) | [It's Time to Bring Back GNOME Office (Hope You Remember It)](https://itsfoss.com/gnome-office-revival/)
+
 ## 20251104
 - [It's FOSS](https://itsfoss.com/) | [What is a Media Server Software? Why You Should Care About it?](https://itsfoss.com/media-server-software/)
 

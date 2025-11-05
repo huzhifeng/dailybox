@@ -1,3 +1,6 @@
+## 20251105
+- [9to5Linux](https://9to5linux.com/) | [LXQt 2.3 Desktop Environment Released with New Features and Enhancements](https://9to5linux.com/lxqt-2-3-desktop-environment-released-with-new-features-and-enhancements)
+
 ## 20251103
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU/Linux 6.0 Distro Is Out Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/systemd-free-devuan-gnu-linux-6-0-distro-is-out-based-on-debian-13-trixie)
 
