@@ -1,3 +1,6 @@
+## 20251106
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Launches CrossOver Preview For Linux ARM64](https://www.phoronix.com/news/CrossOver-Linux-ARM64)
+
 ## 20251105
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Support Additional Arm Mali & Vivante Graphics Hardware](https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante)
 

@@ -1,3 +1,6 @@
+## 20251106
+- [LibHunt](https://www.libhunt.com/) | [bluetui](https://www.libhunt.com/r/bluetui)
+
 ## 20251105
 - [LibHunt](https://www.libhunt.com/) | [NoLongerEvil-Thermostat](https://www.libhunt.com/r/NoLongerEvil-Thermostat)
 

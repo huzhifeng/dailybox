@@ -1,3 +1,6 @@
+## 20251106
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs Introduce New System Administration &#038; System Information Tools](https://9to5linux.com/linux-mint-devs-introduce-new-system-administration-system-information-tools)
+
 ## 20251105
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.3 Desktop Environment Released with New Features and Enhancements](https://9to5linux.com/lxqt-2-3-desktop-environment-released-with-new-features-and-enhancements)
 

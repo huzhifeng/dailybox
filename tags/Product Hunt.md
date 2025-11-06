@@ -1,3 +1,6 @@
+## 20251106
+- [Product Hunt](https://www.producthunt.com) | [Golf](https://www.producthunt.com/products/golf)
+
 ## 20251105
 - [Product Hunt](https://www.producthunt.com) | [GitLaw Agent](https://www.producthunt.com/products/gitlaw)
 

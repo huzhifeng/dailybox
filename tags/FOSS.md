@@ -1,3 +1,6 @@
+## 20251106
+- [It's FOSS](https://itsfoss.com/) | [Fixing Image Thumbnails Not Showing Up in GNOME Files on Fedora Linux](https://itsfoss.com/image-thumbnails-missing-gnome/)
+
 ## 20251105
 - [It's FOSS](https://itsfoss.com/) | [It's Time to Bring Back GNOME Office (Hope You Remember It)](https://itsfoss.com/gnome-office-revival/)
 

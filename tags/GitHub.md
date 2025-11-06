@@ -1,3 +1,6 @@
+## 20251106
+- [GitHub Trending](https://github.com/trending?since=daily) | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)
+
 ## 20251105
 - [GitHub Trending](https://github.com/trending?since=daily) | [sst/opentui](https://github.com/sst/opentui)
 

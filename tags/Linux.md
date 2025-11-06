@@ -1,3 +1,7 @@
+## 20251106
+- [Phoronix](https://www.phoronix.com/) | [CodeWeavers Launches CrossOver Preview For Linux ARM64](https://www.phoronix.com/news/CrossOver-Linux-ARM64)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs Introduce New System Administration &#038; System Information Tools](https://9to5linux.com/linux-mint-devs-introduce-new-system-administration-system-information-tools)
+
 ## 20251105
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Support Additional Arm Mali & Vivante Graphics Hardware](https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante)
 - [9to5Linux](https://9to5linux.com/) | [LXQt 2.3 Desktop Environment Released with New Features and Enhancements](https://9to5linux.com/lxqt-2-3-desktop-environment-released-with-new-features-and-enhancements)
