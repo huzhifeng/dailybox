@@ -1,3 +1,6 @@
+## 20251107
+- [Phoronix](https://www.phoronix.com/) | [Intel's Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD](https://www.phoronix.com/review/rseq-cid-benchmarks)
+
 ## 20251106
 - [Phoronix](https://www.phoronix.com/) | [CodeWeavers Launches CrossOver Preview For Linux ARM64](https://www.phoronix.com/news/CrossOver-Linux-ARM64)
 

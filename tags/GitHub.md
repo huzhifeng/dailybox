@@ -1,3 +1,6 @@
+## 20251107
+- [GitHub Trending](https://github.com/trending?since=daily) | [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon)
+
 ## 20251106
 - [GitHub Trending](https://github.com/trending?since=daily) | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)
 

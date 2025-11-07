@@ -1,3 +1,8 @@
+## 20251107
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-06](https://www.daemonology.net/hn-daily/2025-11-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-06](https://hacker-news.agi.li/post/2025-11-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Leaving Meta and PyTorch](https://news.ycombinator.com/item?id=45843948)
+
 ## 20251106
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-05](https://www.daemonology.net/hn-daily/2025-11-05.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-05](https://hacker-news.agi.li/post/2025-11-05)

@@ -1,3 +1,7 @@
+## 20251107
+- [Phoronix](https://www.phoronix.com/) | [Intel's Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD](https://www.phoronix.com/review/rseq-cid-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 15 Gen10 Linux Laptop Announced with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-15-gen10-linux-laptop-announced-with-amd-ryzen-ai-300)
+
 ## 20251106
 - [Phoronix](https://www.phoronix.com/) | [CodeWeavers Launches CrossOver Preview For Linux ARM64](https://www.phoronix.com/news/CrossOver-Linux-ARM64)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint Devs Introduce New System Administration &#038; System Information Tools](https://9to5linux.com/linux-mint-devs-introduce-new-system-administration-system-information-tools)
