@@ -1,3 +1,8 @@
+## 20251108
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-07](https://www.daemonology.net/hn-daily/2025-11-07.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-07](https://hacker-news.agi.li/post/2025-11-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Valdi – A cross-platform UI framework that delivers native performance](https://news.ycombinator.com/item?id=45852854)
+
 ## 20251107
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-06](https://www.daemonology.net/hn-daily/2025-11-06.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-06](https://hacker-news.agi.li/post/2025-11-06)

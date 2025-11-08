@@ -1,3 +1,7 @@
+## 20251108
+- [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.6.1 Advertises Linux Support](https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1)
+- [9to5Linux](https://9to5linux.com/) | [MKVToolNix 96.0 Released with New CLI Parameter and Improved AV1/IVF Support](https://9to5linux.com/mkvtoolnix-96-0-released-with-new-cli-parameter-and-improved-av1-ivf-support)
+
 ## 20251107
 - [Phoronix](https://www.phoronix.com/) | [Intel's Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD](https://www.phoronix.com/review/rseq-cid-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 15 Gen10 Linux Laptop Announced with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-15-gen10-linux-laptop-announced-with-amd-ryzen-ai-300)

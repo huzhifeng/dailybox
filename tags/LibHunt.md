@@ -1,3 +1,6 @@
+## 20251108
+- [LibHunt](https://www.libhunt.com/) | [jest](https://www.libhunt.com/r/jest)
+
 ## 20251106
 - [LibHunt](https://www.libhunt.com/) | [bluetui](https://www.libhunt.com/r/bluetui)
 

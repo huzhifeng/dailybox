@@ -1,3 +1,6 @@
+## 20251108
+- [GitHub Trending](https://github.com/trending?since=daily) | [simstudioai/sim](https://github.com/simstudioai/sim)
+
 ## 20251107
 - [GitHub Trending](https://github.com/trending?since=daily) | [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon)
 

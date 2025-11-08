@@ -1,3 +1,6 @@
+## 20251108
+- [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.6.1 Advertises Linux Support](https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1)
+
 ## 20251107
 - [Phoronix](https://www.phoronix.com/) | [Intel's Rewrite Of Linux MM CID Code Showing Some Nice Gains For AMD](https://www.phoronix.com/review/rseq-cid-benchmarks)
 
