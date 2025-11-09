@@ -1,3 +1,6 @@
+## 20251109
+- [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
+
 ## 20251108
 - [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.6.1 Advertises Linux Support](https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1)
 

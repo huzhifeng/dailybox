@@ -1,3 +1,6 @@
+## 20251109
+- [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
+
 ## 20251108
 - [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.6.1 Advertises Linux Support](https://www.phoronix.com/news/Ryzen-AI-Software-1.6.1)
 - [9to5Linux](https://9to5linux.com/) | [MKVToolNix 96.0 Released with New CLI Parameter and Improved AV1/IVF Support](https://9to5linux.com/mkvtoolnix-96-0-released-with-new-cli-parameter-and-improved-av1-ivf-support)

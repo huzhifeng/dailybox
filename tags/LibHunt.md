@@ -1,3 +1,6 @@
+## 20251109
+- [LibHunt](https://www.libhunt.com/) | [tidesdb](https://www.libhunt.com/r/tidesdb)
+
 ## 20251108
 - [LibHunt](https://www.libhunt.com/) | [jest](https://www.libhunt.com/r/jest)
 

@@ -1,3 +1,6 @@
+## 20251109
+- [It's FOSS](https://itsfoss.com/) | [7 Privacy Wins You Can Get This Weekend (Linux-First)](https://itsfoss.com/privacy-wins-linux/)
+
 ## 20251106
 - [It's FOSS](https://itsfoss.com/) | [Fixing Image Thumbnails Not Showing Up in GNOME Files on Fedora Linux](https://itsfoss.com/image-thumbnails-missing-gnome/)
 
