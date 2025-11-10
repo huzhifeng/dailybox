@@ -1,3 +1,6 @@
+## 20251110
+- [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Now Available for Download, Drops 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-now-available-for-download-drops-32-bit-support-on-linux)
+
 ## 20251108
 - [9to5Linux](https://9to5linux.com/) | [MKVToolNix 96.0 Released with New CLI Parameter and Improved AV1/IVF Support](https://9to5linux.com/mkvtoolnix-96-0-released-with-new-cli-parameter-and-improved-av1-ivf-support)
 

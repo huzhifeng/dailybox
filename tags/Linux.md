@@ -1,3 +1,7 @@
+## 20251110
+- [Phoronix](https://www.phoronix.com/) | [Can openSUSE Tumbleweed Compete With CachyOS Performance?](https://www.phoronix.com/review/opensuse-tw-cachyos)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Now Available for Download, Drops 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-now-available-for-download-drops-32-bit-support-on-linux)
+
 ## 20251109
 - [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 

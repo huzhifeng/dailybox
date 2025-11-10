@@ -1,3 +1,6 @@
+## 20251110
+- [It's FOSS](https://itsfoss.com/) | [22 Linux Books for $25: This Humble Bundle Is Absurdly Good Value](https://itsfoss.com/linux-for-professionals-bundle/)
+
 ## 20251109
 - [It's FOSS](https://itsfoss.com/) | [7 Privacy Wins You Can Get This Weekend (Linux-First)](https://itsfoss.com/privacy-wins-linux/)
 

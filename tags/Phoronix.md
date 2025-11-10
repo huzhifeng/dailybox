@@ -1,3 +1,6 @@
+## 20251110
+- [Phoronix](https://www.phoronix.com/) | [Can openSUSE Tumbleweed Compete With CachyOS Performance?](https://www.phoronix.com/review/opensuse-tw-cachyos)
+
 ## 20251109
 - [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 

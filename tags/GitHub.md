@@ -1,3 +1,6 @@
+## 20251110
+- [GitHub Trending](https://github.com/trending?since=daily) | [usestrix/strix](https://github.com/usestrix/strix)
+
 ## 20251109
 - [GitHub Trending](https://github.com/trending?since=daily) | [umami-software/umami](https://github.com/umami-software/umami)
 
