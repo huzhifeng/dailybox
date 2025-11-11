@@ -1,3 +1,7 @@
+## 20251111
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 255H Linux CPU Performance](https://www.phoronix.com/review/intel-core-ultra-7-255h-linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.6 Released with Numerous Bug Fixes for Plasma 6.4 Users](https://9to5linux.com/kde-plasma-6-4-6-released-with-numerous-bug-fixes-for-plasma-6-4-users)
+
 ## 20251110
 - [Phoronix](https://www.phoronix.com/) | [Can openSUSE Tumbleweed Compete With CachyOS Performance?](https://www.phoronix.com/review/opensuse-tw-cachyos)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Now Available for Download, Drops 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-now-available-for-download-drops-32-bit-support-on-linux)

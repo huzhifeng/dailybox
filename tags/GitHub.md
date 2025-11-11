@@ -1,3 +1,6 @@
+## 20251111
+- [GitHub Trending](https://github.com/trending?since=daily) | [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
 ## 20251110
 - [GitHub Trending](https://github.com/trending?since=daily) | [usestrix/strix](https://github.com/usestrix/strix)
 

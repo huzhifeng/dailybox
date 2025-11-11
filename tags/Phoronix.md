@@ -1,3 +1,6 @@
+## 20251111
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 255H Linux CPU Performance](https://www.phoronix.com/review/intel-core-ultra-7-255h-linux)
+
 ## 20251110
 - [Phoronix](https://www.phoronix.com/) | [Can openSUSE Tumbleweed Compete With CachyOS Performance?](https://www.phoronix.com/review/opensuse-tw-cachyos)
 

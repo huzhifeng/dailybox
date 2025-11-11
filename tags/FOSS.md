@@ -1,3 +1,6 @@
+## 20251111
+- [It's FOSS](https://itsfoss.com/) | [Tired of Help Scout Pulling the Rug from Under You? Try This Free, Open Source Alternative](https://itsfoss.com/freescout-open-source-help-desk/)
+
 ## 20251110
 - [It's FOSS](https://itsfoss.com/) | [22 Linux Books for $25: This Humble Bundle Is Absurdly Good Value](https://itsfoss.com/linux-for-professionals-bundle/)
 

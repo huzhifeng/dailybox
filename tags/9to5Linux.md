@@ -1,3 +1,6 @@
+## 20251111
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.6 Released with Numerous Bug Fixes for Plasma 6.4 Users](https://9to5linux.com/kde-plasma-6-4-6-released-with-numerous-bug-fixes-for-plasma-6-4-users)
+
 ## 20251110
 - [9to5Linux](https://9to5linux.com/) | [Firefox 145 Is Now Available for Download, Drops 32-Bit Support on Linux](https://9to5linux.com/firefox-145-is-now-available-for-download-drops-32-bit-support-on-linux)
 
