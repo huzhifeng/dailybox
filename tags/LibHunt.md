@@ -1,3 +1,6 @@
+## 20251112
+- [LibHunt](https://www.libhunt.com/) | [CXXGraph](https://www.libhunt.com/r/CXXGraph)
+
 ## 20251110
 - [LibHunt](https://www.libhunt.com/) | [xslt_polyfill](https://www.libhunt.com/r/xslt_polyfill)
 

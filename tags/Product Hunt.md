@@ -1,3 +1,6 @@
+## 20251112
+- [Product Hunt](https://www.producthunt.com) | [Logo.dev](https://www.producthunt.com/products/logo-dev)
+
 ## 20251111
 - [Product Hunt](https://www.producthunt.com) | [C1 Artifacts API](https://www.producthunt.com/products/thesys)
 

@@ -1,3 +1,6 @@
+## 20251112
+- [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
+
 ## 20251111
 - [GitHub Trending](https://github.com/trending?since=daily) | [iptv-org/iptv](https://github.com/iptv-org/iptv)
 

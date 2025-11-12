@@ -1,3 +1,6 @@
+## 20251112
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Nitrux 5.0 Officially Released with Hyprland Desktop, Linux 6.17](https://9to5linux.com/systemd-free-nitrux-5-0-officially-released-with-hyprland-desktop-linux-kernel-6-17)
+
 ## 20251111
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.4.6 Released with Numerous Bug Fixes for Plasma 6.4 Users](https://9to5linux.com/kde-plasma-6-4-6-released-with-numerous-bug-fixes-for-plasma-6-4-users)
 

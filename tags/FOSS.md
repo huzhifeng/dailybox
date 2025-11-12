@@ -1,3 +1,6 @@
+## 20251112
+- [It's FOSS](https://itsfoss.com/) | [Kaspersky Antivirus is Now Available for Linux. Will You Use it?](https://itsfoss.com/news/kaspersky-for-linux/)
+
 ## 20251111
 - [It's FOSS](https://itsfoss.com/) | [Tired of Help Scout Pulling the Rug from Under You? Try This Free, Open Source Alternative](https://itsfoss.com/freescout-open-source-help-desk/)
 

@@ -1,3 +1,6 @@
+## 20251112
+- [Phoronix](https://www.phoronix.com/) | [Valve's Open-Source Radeon Linux Driver "Love Song For Gamers With Old GPUs"](https://www.phoronix.com/news/Valve-Old-AMD-Linux-Love-Song)
+
 ## 20251111
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 7 255H Linux CPU Performance](https://www.phoronix.com/review/intel-core-ultra-7-255h-linux)
 
