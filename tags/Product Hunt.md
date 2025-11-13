@@ -1,3 +1,6 @@
+## 20251113
+- [Product Hunt](https://www.producthunt.com) | [GPT-5.1 Instant and Thinking](https://www.producthunt.com/products/openai)
+
 ## 20251112
 - [Product Hunt](https://www.producthunt.com) | [Logo.dev](https://www.producthunt.com/products/logo-dev)
 

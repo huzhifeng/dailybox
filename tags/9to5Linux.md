@@ -1,3 +1,6 @@
+## 20251113
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based Tails 7.2 Released with Tor Browser 15 Anonymous Web Browser](https://9to5linux.com/debian-based-tails-7-2-released-with-tor-browser-15-anonymous-web-browser)
+
 ## 20251112
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Nitrux 5.0 Officially Released with Hyprland Desktop, Linux 6.17](https://9to5linux.com/systemd-free-nitrux-5-0-officially-released-with-hyprland-desktop-linux-kernel-6-17)
 

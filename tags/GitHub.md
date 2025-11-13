@@ -1,3 +1,6 @@
+## 20251113
+- [GitHub Trending](https://github.com/trending?since=daily) | [wolfpld/tracy](https://github.com/wolfpld/tracy)
+
 ## 20251112
 - [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
 

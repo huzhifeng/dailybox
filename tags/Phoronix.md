@@ -1,3 +1,6 @@
+## 20251113
+- [Phoronix](https://www.phoronix.com/) | [The Incredible Evolution Of AMD EPYC HPC Performance Shown In The Azure Cloud](https://www.phoronix.com/review/amd-epyc-azure-hbv2-hbv5)
+
 ## 20251112
 - [Phoronix](https://www.phoronix.com/) | [Valve's Open-Source Radeon Linux Driver "Love Song For Gamers With Old GPUs"](https://www.phoronix.com/news/Valve-Old-AMD-Linux-Love-Song)
 

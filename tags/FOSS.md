@@ -1,3 +1,6 @@
+## 20251113
+- [It's FOSS](https://itsfoss.com/) | [Nitrux 5.0.0 Released: A 'New Beginning' That's Not for Everyone (By Design)](https://itsfoss.com/news/nitrux-5-release/)
+
 ## 20251112
 - [It's FOSS](https://itsfoss.com/) | [Kaspersky Antivirus is Now Available for Linux. Will You Use it?](https://itsfoss.com/news/kaspersky-for-linux/)
 
