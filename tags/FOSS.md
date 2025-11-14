@@ -1,3 +1,6 @@
+## 20251114
+- [It's FOSS](https://itsfoss.com/) | [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://itsfoss.com/news/mozilla-ai-window-plans/)
+
 ## 20251113
 - [It's FOSS](https://itsfoss.com/) | [Nitrux 5.0.0 Released: A 'New Beginning' That's Not for Everyone (By Design)](https://itsfoss.com/news/nitrux-5-release/)
 

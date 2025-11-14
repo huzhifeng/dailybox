@@ -1,3 +1,6 @@
+## 20251114
+- [Product Hunt](https://www.producthunt.com) | [Scraib.app](https://www.producthunt.com/products/scraib-app)
+
 ## 20251113
 - [Product Hunt](https://www.producthunt.com) | [GPT-5.1 Instant and Thinking](https://www.producthunt.com/products/openai)
 

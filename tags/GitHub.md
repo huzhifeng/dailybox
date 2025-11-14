@@ -1,3 +1,6 @@
+## 20251114
+- [GitHub Trending](https://github.com/trending?since=daily) | [playcanvas/engine](https://github.com/playcanvas/engine)
+
 ## 20251113
 - [GitHub Trending](https://github.com/trending?since=daily) | [wolfpld/tracy](https://github.com/wolfpld/tracy)
 

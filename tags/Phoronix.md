@@ -1,3 +1,6 @@
+## 20251114
+- [Phoronix](https://www.phoronix.com/) | [Nouveau Driver To Support Larger Pages & Compression Support With Linux 6.19](https://www.phoronix.com/news/Linux-6.19-Nouveau-Larger-Pages)
+
 ## 20251113
 - [Phoronix](https://www.phoronix.com/) | [The Incredible Evolution Of AMD EPYC HPC Performance Shown In The Azure Cloud](https://www.phoronix.com/review/amd-epyc-azure-hbv2-hbv5)
 

@@ -1,3 +1,6 @@
+## 20251114
+- [9to5Linux](https://9to5linux.com/) | [Proton 10 Released with Support for Far Horizon, The Riftbreaker, and Other Games](https://9to5linux.com/proton-10-released-with-support-for-far-horizon-the-riftbreaker-and-other-games)
+
 ## 20251113
 - [9to5Linux](https://9to5linux.com/) | [Debian-Based Tails 7.2 Released with Tor Browser 15 Anonymous Web Browser](https://9to5linux.com/debian-based-tails-7-2-released-with-tor-browser-15-anonymous-web-browser)
 
