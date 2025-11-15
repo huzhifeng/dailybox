@@ -1,3 +1,6 @@
+## 20251115
+- [9to5Linux](https://9to5linux.com/) | [Debian 13.2 “Trixie” Released with 123 Bug Fixes and 55 Security Updates](https://9to5linux.com/debian-13-2-trixie-released-with-123-bug-fixes-and-55-security-updates)
+
 ## 20251114
 - [9to5Linux](https://9to5linux.com/) | [Proton 10 Released with Support for Far Horizon, The Riftbreaker, and Other Games](https://9to5linux.com/proton-10-released-with-support-for-far-horizon-the-riftbreaker-and-other-games)
 

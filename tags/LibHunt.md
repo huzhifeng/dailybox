@@ -1,3 +1,6 @@
+## 20251115
+- [LibHunt](https://www.libhunt.com/) | [llguidance](https://www.libhunt.com/r/llguidance)
+
 ## 20251114
 - [LibHunt](https://www.libhunt.com/) | [kana-dojo](https://www.libhunt.com/r/kana-dojo)
 

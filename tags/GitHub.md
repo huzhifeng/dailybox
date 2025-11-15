@@ -1,3 +1,6 @@
+## 20251115
+- [GitHub Trending](https://github.com/trending?since=daily) | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
 ## 20251114
 - [GitHub Trending](https://github.com/trending?since=daily) | [playcanvas/engine](https://github.com/playcanvas/engine)
 
