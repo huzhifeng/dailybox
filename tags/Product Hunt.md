@@ -1,3 +1,6 @@
+## 20251116
+- [Product Hunt](https://www.producthunt.com) | [Gubb.net](https://www.producthunt.com/products/gubb)
+
 ## 20251115
 - [Product Hunt](https://www.producthunt.com) | [Artifacts](https://www.producthunt.com/products/artifacts)
 

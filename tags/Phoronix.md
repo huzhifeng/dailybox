@@ -1,3 +1,6 @@
+## 20251116
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Highlights The Shortcomings With Wayland Screencasting](https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast)
+
 ## 20251115
 - [Phoronix](https://www.phoronix.com/) | [GNOME's Nautilus File Manager Finally Supporting Ctrl+Insert & Shift+Insert](https://www.phoronix.com/news/GNOME-Nautilus-Copy-Paste-Files)
 

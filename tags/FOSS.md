@@ -1,3 +1,6 @@
+## 20251116
+- [It's FOSS](https://itsfoss.com/) | [Better Than Original? 14 Rust-based Alternative CLI Tools to Classic Linux Commands](https://itsfoss.com/rust-alternative-cli-tools/)
+
 ## 20251114
 - [It's FOSS](https://itsfoss.com/) | [Mozilla Unveils Plans for New 'AI Window' Browsing Mode in Firefox, Opens Signups](https://itsfoss.com/news/mozilla-ai-window-plans/)
 
