@@ -1,3 +1,6 @@
+## 20251117
+- [Product Hunt](https://www.producthunt.com) | [sleek.design](https://www.producthunt.com/products/sleek-design)
+
 ## 20251116
 - [Product Hunt](https://www.producthunt.com) | [Gubb.net](https://www.producthunt.com/products/gubb)
 

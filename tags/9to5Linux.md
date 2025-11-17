@@ -1,3 +1,6 @@
+## 20251117
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 18 Installer with Cleaner and More Intuitive Storage UI](https://9to5linux.com/opensuse-releases-agama-18-installer-with-cleaner-and-more-intuitive-storage-ui)
+
 ## 20251115
 - [9to5Linux](https://9to5linux.com/) | [Debian 13.2 “Trixie” Released with 123 Bug Fixes and 55 Security Updates](https://9to5linux.com/debian-13-2-trixie-released-with-123-bug-fixes-and-55-security-updates)
 

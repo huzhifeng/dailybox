@@ -1,3 +1,6 @@
+## 20251117
+- [It's FOSS](https://itsfoss.com/) | [Clean Up Your GNOME Panel With This New Extension](https://itsfoss.com/veil-gnome-extension/)
+
 ## 20251116
 - [It's FOSS](https://itsfoss.com/) | [Better Than Original? 14 Rust-based Alternative CLI Tools to Classic Linux Commands](https://itsfoss.com/rust-alternative-cli-tools/)
 

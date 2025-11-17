@@ -1,3 +1,7 @@
+## 20251117
+- [Phoronix](https://www.phoronix.com/) | [Updated LLVM/Clang Compiler Enables AVX 10.2 & APX For Intel Nova Lake](https://www.phoronix.com/news/LLVM-Clang-NVL-APX-AVX-10.2)
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 18 Installer with Cleaner and More Intuitive Storage UI](https://9to5linux.com/opensuse-releases-agama-18-installer-with-cleaner-and-more-intuitive-storage-ui)
+
 ## 20251116
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Highlights The Shortcomings With Wayland Screencasting](https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast)
 
