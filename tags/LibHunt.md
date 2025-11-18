@@ -1,3 +1,6 @@
+## 20251118
+- [LibHunt](https://www.libhunt.com/) | [linux](https://www.libhunt.com/r/linux)
+
 ## 20251117
 - [LibHunt](https://www.libhunt.com/) | [nuxt](https://www.libhunt.com/r/nuxt)
 

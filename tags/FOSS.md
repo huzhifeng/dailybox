@@ -1,3 +1,6 @@
+## 20251118
+- [It's FOSS](https://itsfoss.com/) | [RustDesk Pulls Ahead of TeamViewer, AnyDesk with Wayland Multi-Scaled Display Support](https://itsfoss.com/news/rustdesk-multi-scaled-display-support/)
+
 ## 20251117
 - [It's FOSS](https://itsfoss.com/) | [Clean Up Your GNOME Panel With This New Extension](https://itsfoss.com/veil-gnome-extension/)
 

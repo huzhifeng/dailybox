@@ -1,3 +1,7 @@
+## 20251118
+- [Phoronix](https://www.phoronix.com/) | [AMD ROCm 7.1 vs. RADV Vulkan For Llama.cpp With The Radeon AI PRO R9700](https://www.phoronix.com/review/rocm-71-llama-cpp-vulkan)
+- [9to5Linux](https://9to5linux.com/) | [Debian Libre Live Images Released for Software Freedom Lovers](https://9to5linux.com/debian-libre-live-images-released-for-software-freedom-lovers)
+
 ## 20251117
 - [Phoronix](https://www.phoronix.com/) | [Updated LLVM/Clang Compiler Enables AVX 10.2 & APX For Intel Nova Lake](https://www.phoronix.com/news/LLVM-Clang-NVL-APX-AVX-10.2)
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 18 Installer with Cleaner and More Intuitive Storage UI](https://9to5linux.com/opensuse-releases-agama-18-installer-with-cleaner-and-more-intuitive-storage-ui)

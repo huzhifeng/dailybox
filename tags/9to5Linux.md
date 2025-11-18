@@ -1,3 +1,6 @@
+## 20251118
+- [9to5Linux](https://9to5linux.com/) | [Debian Libre Live Images Released for Software Freedom Lovers](https://9to5linux.com/debian-libre-live-images-released-for-software-freedom-lovers)
+
 ## 20251117
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 18 Installer with Cleaner and More Intuitive Storage UI](https://9to5linux.com/opensuse-releases-agama-18-installer-with-cleaner-and-more-intuitive-storage-ui)
 

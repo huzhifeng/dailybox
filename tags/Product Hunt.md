@@ -1,3 +1,6 @@
+## 20251118
+- [Product Hunt](https://www.producthunt.com) | [Typeless](https://www.producthunt.com/products/typeless-2)
+
 ## 20251117
 - [Product Hunt](https://www.producthunt.com) | [sleek.design](https://www.producthunt.com/products/sleek-design)
 
