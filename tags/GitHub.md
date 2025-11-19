@@ -1,3 +1,6 @@
+## 20251119
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
 ## 20251118
 - [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [karpathy/reader3](https://github.com/karpathy/reader3)

@@ -1,3 +1,6 @@
+## 20251119
+- [Phoronix](https://www.phoronix.com/) | [AMD Begins Posting Open-Source Linux Patches For Their Next-Gen GPU IP](https://www.phoronix.com/news/AMD-New-GPU-IP-Graphics-12.1)
+
 ## 20251118
 - [Phoronix](https://www.phoronix.com/) | [AMD ROCm 7.1 vs. RADV Vulkan For Llama.cpp With The Radeon AI PRO R9700](https://www.phoronix.com/review/rocm-71-llama-cpp-vulkan)
 - [9to5Linux](https://9to5linux.com/) | [Debian Libre Live Images Released for Software Freedom Lovers](https://9to5linux.com/debian-libre-live-images-released-for-software-freedom-lovers)

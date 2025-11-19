@@ -1,3 +1,6 @@
+## 20251119
+- [It's FOSS](https://itsfoss.com/) | [Microsoft's New Windows AI Feature Comes With Warnings About Malware and Data Theft](https://itsfoss.com/news/new-windows-ai-feature-can-be-tricked/)
+
 ## 20251118
 - [It's FOSS](https://itsfoss.com/) | [RustDesk Pulls Ahead of TeamViewer, AnyDesk with Wayland Multi-Scaled Display Support](https://itsfoss.com/news/rustdesk-multi-scaled-display-support/)
 
