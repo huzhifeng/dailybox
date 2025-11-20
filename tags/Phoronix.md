@@ -1,3 +1,6 @@
+## 20251120
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Slated To Land "mm/cid" Rewrite That Has Very Positive Performance Potential](https://www.phoronix.com/news/MM-CID-For-Linux-6.19)
+
 ## 20251119
 - [Phoronix](https://www.phoronix.com/) | [AMD Begins Posting Open-Source Linux Patches For Their Next-Gen GPU IP](https://www.phoronix.com/news/AMD-New-GPU-IP-Graphics-12.1)
 

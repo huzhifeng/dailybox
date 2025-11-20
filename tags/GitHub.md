@@ -1,3 +1,6 @@
+## 20251120
+- [GitHub Trending](https://github.com/trending?since=daily) | [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
+
 ## 20251119
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 

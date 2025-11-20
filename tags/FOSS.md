@@ -1,3 +1,6 @@
+## 20251120
+- [It's FOSS](https://itsfoss.com/) | [Deploy Your Thanksgiving Dinner with Cranberry sOSS](https://itsfoss.com/cranberry-soss/)
+
 ## 20251119
 - [It's FOSS](https://itsfoss.com/) | [Microsoft's New Windows AI Feature Comes With Warnings About Malware and Data Theft](https://itsfoss.com/news/new-windows-ai-feature-can-be-tricked/)
 

@@ -1,3 +1,7 @@
+## 20251120
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Slated To Land "mm/cid" Rewrite That Has Very Positive Performance Potential](https://www.phoronix.com/news/MM-CID-For-Linux-6.19)
+- [9to5Linux](https://9to5linux.com/) | [Wireshark 4.6.1 Released with Updated Protocol Support and Various Bug Fixes](https://9to5linux.com/wireshark-4-6-1-released-with-updated-protocol-support-and-various-bug-fixes)
+
 ## 20251119
 - [Phoronix](https://www.phoronix.com/) | [AMD Begins Posting Open-Source Linux Patches For Their Next-Gen GPU IP](https://www.phoronix.com/news/AMD-New-GPU-IP-Graphics-12.1)
 

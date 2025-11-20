@@ -1,3 +1,6 @@
+## 20251120
+- [9to5Linux](https://9to5linux.com/) | [Wireshark 4.6.1 Released with Updated Protocol Support and Various Bug Fixes](https://9to5linux.com/wireshark-4-6-1-released-with-updated-protocol-support-and-various-bug-fixes)
+
 ## 20251118
 - [9to5Linux](https://9to5linux.com/) | [Debian Libre Live Images Released for Software Freedom Lovers](https://9to5linux.com/debian-libre-live-images-released-for-software-freedom-lovers)
 
