@@ -1,3 +1,6 @@
+## 20251121
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.15 Open-Source E-Book Manager Improves the Comments Editor](https://9to5linux.com/calibre-8-15-open-source-e-book-manager-improves-the-comments-editor)
+
 ## 20251120
 - [9to5Linux](https://9to5linux.com/) | [Wireshark 4.6.1 Released with Updated Protocol Support and Various Bug Fixes](https://9to5linux.com/wireshark-4-6-1-released-with-updated-protocol-support-and-various-bug-fixes)
 

@@ -1,3 +1,6 @@
+## 20251121
+- [It's FOSS](https://itsfoss.com/) | [Enshittification of Arduino Begins? Qualcomm Starts Clamping Down](https://itsfoss.com/news/enshittification-of-arduino-begins/)
+
 ## 20251120
 - [It's FOSS](https://itsfoss.com/) | [Deploy Your Thanksgiving Dinner with Cranberry sOSS](https://itsfoss.com/cranberry-soss/)
 

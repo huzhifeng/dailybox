@@ -1,3 +1,6 @@
+## 20251121
+- [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
 ## 20251120
 - [GitHub Trending](https://github.com/trending?since=daily) | [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
 

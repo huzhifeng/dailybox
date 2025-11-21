@@ -1,3 +1,6 @@
+## 20251121
+- [Product Hunt](https://www.producthunt.com) | [Lamatic 3.0](https://www.producthunt.com/products/lamatic-ai)
+
 ## 20251120
 - [Product Hunt](https://www.producthunt.com) | [Ramble by Todoist](https://www.producthunt.com/products/todoist)
 

@@ -1,3 +1,6 @@
+## 20251121
+- [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding](https://www.phoronix.com/news/STF-Hiring-New-Head)
+
 ## 20251120
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Slated To Land "mm/cid" Rewrite That Has Very Positive Performance Potential](https://www.phoronix.com/news/MM-CID-For-Linux-6.19)
 

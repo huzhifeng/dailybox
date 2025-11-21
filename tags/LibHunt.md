@@ -1,3 +1,6 @@
+## 20251121
+- [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
+
 ## 20251120
 - [LibHunt](https://www.libhunt.com/) | [wBlock](https://www.libhunt.com/r/wBlock)
 

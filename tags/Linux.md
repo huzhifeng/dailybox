@@ -1,3 +1,7 @@
+## 20251121
+- [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding](https://www.phoronix.com/news/STF-Hiring-New-Head)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 8.15 Open-Source E-Book Manager Improves the Comments Editor](https://9to5linux.com/calibre-8-15-open-source-e-book-manager-improves-the-comments-editor)
+
 ## 20251120
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Slated To Land "mm/cid" Rewrite That Has Very Positive Performance Potential](https://www.phoronix.com/news/MM-CID-For-Linux-6.19)
 - [9to5Linux](https://9to5linux.com/) | [Wireshark 4.6.1 Released with Updated Protocol Support and Various Bug Fixes](https://9to5linux.com/wireshark-4-6-1-released-with-updated-protocol-support-and-various-bug-fixes)
