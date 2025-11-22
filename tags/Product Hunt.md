@@ -1,3 +1,6 @@
+## 20251122
+- [Product Hunt](https://www.producthunt.com) | [Side Space 2.0](https://www.producthunt.com/products/side-space)
+
 ## 20251121
 - [Product Hunt](https://www.producthunt.com) | [Lamatic 3.0](https://www.producthunt.com/products/lamatic-ai)
 

@@ -1,3 +1,6 @@
+## 20251122
+- [GitHub Trending](https://github.com/trending?since=daily) | [traefik/traefik](https://github.com/traefik/traefik)
+
 ## 20251121
 - [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 

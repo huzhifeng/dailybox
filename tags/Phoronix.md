@@ -1,3 +1,6 @@
+## 20251122
+- [Phoronix](https://www.phoronix.com/) | [Linux Device Trees For Cancelled Products? Don't "Waste Time"](https://www.phoronix.com/news/TUXEDO-X1E-Cancelled-DT)
+
 ## 20251121
 - [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding](https://www.phoronix.com/news/STF-Hiring-New-Head)
 

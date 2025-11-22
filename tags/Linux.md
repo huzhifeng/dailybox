@@ -1,3 +1,6 @@
+## 20251122
+- [Phoronix](https://www.phoronix.com/) | [Linux Device Trees For Cancelled Products? Don't "Waste Time"](https://www.phoronix.com/news/TUXEDO-X1E-Cancelled-DT)
+
 ## 20251121
 - [Phoronix](https://www.phoronix.com/) | [Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding](https://www.phoronix.com/news/STF-Hiring-New-Head)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.15 Open-Source E-Book Manager Improves the Comments Editor](https://9to5linux.com/calibre-8-15-open-source-e-book-manager-improves-the-comments-editor)
