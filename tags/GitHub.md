@@ -1,3 +1,6 @@
+## 20251123
+- [GitHub Trending](https://github.com/trending?since=daily) | [wolfpld/tracy](https://github.com/wolfpld/tracy)
+
 ## 20251122
 - [GitHub Trending](https://github.com/trending?since=daily) | [traefik/traefik](https://github.com/traefik/traefik)
 

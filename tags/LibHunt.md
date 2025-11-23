@@ -1,3 +1,6 @@
+## 20251123
+- [LibHunt](https://www.libhunt.com/) | [TypeScript](https://www.libhunt.com/r/TypeScript)
+
 ## 20251121
 - [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
 

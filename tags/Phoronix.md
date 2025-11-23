@@ -1,3 +1,6 @@
+## 20251123
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test](https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory)
+
 ## 20251122
 - [Phoronix](https://www.phoronix.com/) | [Linux Device Trees For Cancelled Products? Don't "Waste Time"](https://www.phoronix.com/news/TUXEDO-X1E-Cancelled-DT)
 
