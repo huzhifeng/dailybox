@@ -1,3 +1,7 @@
+## 20251124
+- [Phoronix](https://www.phoronix.com/) | [Dell Pro Max with GB10 Arrives For Linux Performance Benchmarking](https://www.phoronix.com/review/dell-pro-max-gb10-preview)
+- [9to5Linux](https://9to5linux.com/) | [New Raspberry Pi OS Release Supports Setting HiDPI Scaling, Updates Labwc](https://9to5linux.com/new-raspberry-pi-os-release-adds-support-for-setting-hidpi-scaling-updates-labwc)
+
 ## 20251123
 - [Phoronix](https://www.phoronix.com/) | [Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test](https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory)
 

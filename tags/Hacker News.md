@@ -1,3 +1,8 @@
+## 20251124
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-23](https://www.daemonology.net/hn-daily/2025-11-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-21](https://hacker-news.agi.li/post/2025-11-21)
+- [Hacker News](https://news.ycombinator.com/front) | [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://news.ycombinator.com/item?id=46032539)
+
 ## 20251123
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-22](https://www.daemonology.net/hn-daily/2025-11-22.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-22](https://hacker-news.agi.li/post/2025-11-22)

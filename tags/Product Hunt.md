@@ -1,3 +1,6 @@
+## 20251124
+- [Product Hunt](https://www.producthunt.com) | [Addsubtitle](https://www.producthunt.com/products/addsubtitle-2)
+
 ## 20251123
 - [Product Hunt](https://www.producthunt.com) | [DesignLumo](https://www.producthunt.com/products/designlumo)
 

@@ -1,3 +1,6 @@
+## 20251124
+- [9to5Linux](https://9to5linux.com/) | [New Raspberry Pi OS Release Supports Setting HiDPI Scaling, Updates Labwc](https://9to5linux.com/new-raspberry-pi-os-release-adds-support-for-setting-hidpi-scaling-updates-labwc)
+
 ## 20251121
 - [9to5Linux](https://9to5linux.com/) | [Calibre 8.15 Open-Source E-Book Manager Improves the Comments Editor](https://9to5linux.com/calibre-8-15-open-source-e-book-manager-improves-the-comments-editor)
 
