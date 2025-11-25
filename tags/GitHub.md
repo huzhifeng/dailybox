@@ -1,3 +1,6 @@
+## 20251125
+- [GitHub Trending](https://github.com/trending?since=daily) | [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
+
 ## 20251124
 - [GitHub Trending](https://github.com/trending?since=daily) | [wolfpld/tracy](https://github.com/wolfpld/tracy)
 

@@ -1,3 +1,6 @@
+## 20251125
+- [9to5Linux](https://9to5linux.com/) | [Fedora-Based Ultramarine 43 Is Now Available with Pinebook Pro Support](https://9to5linux.com/fedora-based-ultramarine-43-is-now-available-with-pinebook-pro-support)
+
 ## 20251124
 - [9to5Linux](https://9to5linux.com/) | [New Raspberry Pi OS Release Supports Setting HiDPI Scaling, Updates Labwc](https://9to5linux.com/new-raspberry-pi-os-release-adds-support-for-setting-hidpi-scaling-updates-labwc)
 

@@ -1,3 +1,6 @@
+## 20251125
+- [Product Hunt](https://www.producthunt.com) | [Speakmac](https://www.producthunt.com/products/speakmac)
+
 ## 20251124
 - [Product Hunt](https://www.producthunt.com) | [Addsubtitle](https://www.producthunt.com/products/addsubtitle-2)
 

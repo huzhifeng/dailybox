@@ -1,3 +1,6 @@
+## 20251125
+- [Phoronix](https://www.phoronix.com/) | [Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On](https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches)
+
 ## 20251124
 - [Phoronix](https://www.phoronix.com/) | [Dell Pro Max with GB10 Arrives For Linux Performance Benchmarking](https://www.phoronix.com/review/dell-pro-max-gb10-preview)
 

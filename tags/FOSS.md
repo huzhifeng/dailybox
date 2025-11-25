@@ -1,3 +1,6 @@
+## 20251125
+- [It's FOSS](https://itsfoss.com/) | [The Laptop That Wasn't: TUXEDO Computers Shelves Linux ARM Notebook Plans](https://itsfoss.com/news/tuxedo-computers-shelves-arm-notebook/)
+
 ## 20251124
 - [It's FOSS](https://itsfoss.com/) | [Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows](https://itsfoss.com/news/dell-pro-max-16-plus/)
 
