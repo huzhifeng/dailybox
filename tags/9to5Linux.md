@@ -1,3 +1,6 @@
+## 20251126
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.1 Arrives with Soft Reboots, XFS Enhancements, and More](https://9to5linux.com/rocky-linux-10-1-arrives-with-soft-reboots-xfs-enhancements-and-more)
+
 ## 20251125
 - [9to5Linux](https://9to5linux.com/) | [Fedora-Based Ultramarine 43 Is Now Available with Pinebook Pro Support](https://9to5linux.com/fedora-based-ultramarine-43-is-now-available-with-pinebook-pro-support)
 

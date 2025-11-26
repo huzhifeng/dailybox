@@ -1,3 +1,6 @@
+## 20251126
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Linux Performance Up ~9% One Year Later At ~85% Power Use](https://www.phoronix.com/review/core-ultra-9-285k-2025)
+
 ## 20251125
 - [Phoronix](https://www.phoronix.com/) | [Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On](https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches)
 

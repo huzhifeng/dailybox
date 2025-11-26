@@ -1,3 +1,6 @@
+## 20251126
+- [Product Hunt](https://www.producthunt.com) | [Rubber Duck](https://www.producthunt.com/products/rubber-duck)
+
 ## 20251125
 - [Product Hunt](https://www.producthunt.com) | [Speakmac](https://www.producthunt.com/products/speakmac)
 

@@ -1,3 +1,6 @@
+## 20251126
+- [It's FOSS](https://itsfoss.com/) | [Collabora Launches Desktop Office Suite for Linux](https://itsfoss.com/news/collabora-launches-desktop-office-suite/)
+
 ## 20251125
 - [It's FOSS](https://itsfoss.com/) | [The Laptop That Wasn't: TUXEDO Computers Shelves Linux ARM Notebook Plans](https://itsfoss.com/news/tuxedo-computers-shelves-arm-notebook/)
 
