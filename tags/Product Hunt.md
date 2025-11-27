@@ -1,3 +1,6 @@
+## 20251127
+- [Product Hunt](https://www.producthunt.com) | [NoSho.app](https://www.producthunt.com/products/nosho-app)
+
 ## 20251126
 - [Product Hunt](https://www.producthunt.com) | [Rubber Duck](https://www.producthunt.com/products/rubber-duck)
 

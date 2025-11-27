@@ -1,3 +1,6 @@
+## 20251127
+- [Phoronix](https://www.phoronix.com/) | [Valve-Backed Color Pipeline API For Linux Is Finally Ready For Upstream](https://www.phoronix.com/news/Linux-Color-Pipeline-API-Ready)
+
 ## 20251126
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 285K "Arrow Lake" Linux Performance Up ~9% One Year Later At ~85% Power Use](https://www.phoronix.com/review/core-ultra-9-285k-2025)
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.1 Arrives with Soft Reboots, XFS Enhancements, and More](https://9to5linux.com/rocky-linux-10-1-arrives-with-soft-reboots-xfs-enhancements-and-more)

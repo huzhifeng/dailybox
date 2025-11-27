@@ -1,3 +1,6 @@
+## 20251127
+- [LibHunt](https://www.libhunt.com/) | [penpot](https://www.libhunt.com/r/penpot)
+
 ## 20251125
 - [LibHunt](https://www.libhunt.com/) | [Vibe-Prolog](https://www.libhunt.com/r/Vibe-Prolog)
 

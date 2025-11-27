@@ -1,3 +1,6 @@
+## 20251127
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
 ## 20251126
 - [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 

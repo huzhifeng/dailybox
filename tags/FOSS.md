@@ -1,3 +1,6 @@
+## 20251127
+- [It's FOSS](https://itsfoss.com/) | [Google Just Made Its Sleek New Font Open Source](https://itsfoss.com/news/google-sans-flex/)
+
 ## 20251126
 - [It's FOSS](https://itsfoss.com/) | [Collabora Launches Desktop Office Suite for Linux](https://itsfoss.com/news/collabora-launches-desktop-office-suite/)
 
