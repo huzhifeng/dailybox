@@ -1,3 +1,6 @@
+## 20251128
+- [9to5Linux](https://9to5linux.com/) | [AV Linux 25 Multimedia Production Distro Brings Enlightenment to MX Linux 25](https://9to5linux.com/av-linux-25-multimedia-production-distro-brings-enlightenment-to-mx-linux-25)
+
 ## 20251126
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.1 Arrives with Soft Reboots, XFS Enhancements, and More](https://9to5linux.com/rocky-linux-10-1-arrives-with-soft-reboots-xfs-enhancements-and-more)
 

@@ -1,3 +1,7 @@
+## 20251128
+- [Phoronix](https://www.phoronix.com/) | [Open-Source Nouveau+NVK vs. NVIDIA 580 Linux Gaming/Graphics & Compute Driver Performance](https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26)
+- [9to5Linux](https://9to5linux.com/) | [AV Linux 25 Multimedia Production Distro Brings Enlightenment to MX Linux 25](https://9to5linux.com/av-linux-25-multimedia-production-distro-brings-enlightenment-to-mx-linux-25)
+
 ## 20251127
 - [Phoronix](https://www.phoronix.com/) | [Valve-Backed Color Pipeline API For Linux Is Finally Ready For Upstream](https://www.phoronix.com/news/Linux-Color-Pipeline-API-Ready)
 

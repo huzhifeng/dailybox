@@ -1,3 +1,6 @@
+## 20251128
+- [Product Hunt](https://www.producthunt.com) | [Calk AI 1.0](https://www.producthunt.com/products/calk-ai)
+
 ## 20251127
 - [Product Hunt](https://www.producthunt.com) | [NoSho.app](https://www.producthunt.com/products/nosho-app)
 

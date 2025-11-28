@@ -1,3 +1,6 @@
+## 20251128
+- [It's FOSS](https://itsfoss.com/) | [After Fitbit Killed it in 2016, Pebble Returns with 100% Open Source Software and Hardware](https://itsfoss.com/news/pebble-returns-as-open-source/)
+
 ## 20251127
 - [It's FOSS](https://itsfoss.com/) | [Google Just Made Its Sleek New Font Open Source](https://itsfoss.com/news/google-sans-flex/)
 

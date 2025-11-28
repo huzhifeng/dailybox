@@ -1,3 +1,6 @@
+## 20251128
+- [LibHunt](https://www.libhunt.com/) | [claude-code-router](https://www.libhunt.com/r/claude-code-router)
+
 ## 20251127
 - [LibHunt](https://www.libhunt.com/) | [penpot](https://www.libhunt.com/r/penpot)
 

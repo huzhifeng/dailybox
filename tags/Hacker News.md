@@ -1,3 +1,8 @@
+## 20251128
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-27](https://www.daemonology.net/hn-daily/2025-11-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-27](https://hacker-news.agi.li/post/2025-11-27)
+- [Hacker News](https://news.ycombinator.com/front) | [EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://news.ycombinator.com/item?id=46077393)
+
 ## 20251127
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-26](https://www.daemonology.net/hn-daily/2025-11-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-26](https://hacker-news.agi.li/post/2025-11-26)
