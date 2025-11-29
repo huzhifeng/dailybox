@@ -1,3 +1,6 @@
+## 20251129
+- [LibHunt](https://www.libhunt.com/) | [TextSecure](https://www.libhunt.com/r/Signal-Android)
+
 ## 20251128
 - [LibHunt](https://www.libhunt.com/) | [claude-code-router](https://www.libhunt.com/r/claude-code-router)
 

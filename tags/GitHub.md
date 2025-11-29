@@ -1,3 +1,6 @@
+## 20251129
+- [GitHub Trending](https://github.com/trending?since=daily) | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
 ## 20251128
 - [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
 

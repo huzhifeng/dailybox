@@ -1,3 +1,6 @@
+## 20251129
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.04 LTS: Release Date and New Features](https://itsfoss.com/ubuntu-26-04-release-features/)
+
 ## 20251128
 - [It's FOSS](https://itsfoss.com/) | [After Fitbit Killed it in 2016, Pebble Returns with 100% Open Source Software and Hardware](https://itsfoss.com/news/pebble-returns-as-open-source/)
 

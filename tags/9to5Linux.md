@@ -1,3 +1,6 @@
+## 20251129
+- [9to5Linux](https://9to5linux.com/) | [4MLinux 50.0 Linux Distro Released with Reproducible Builds, New Apps, and More](https://9to5linux.com/4mlinux-50-0-linux-distro-released-with-reproducible-builds-new-apps-and-more)
+
 ## 20251128
 - [9to5Linux](https://9to5linux.com/) | [AV Linux 25 Multimedia Production Distro Brings Enlightenment to MX Linux 25](https://9to5linux.com/av-linux-25-multimedia-production-distro-brings-enlightenment-to-mx-linux-25)
 

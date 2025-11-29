@@ -1,3 +1,8 @@
+## 20251129
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-28](https://www.daemonology.net/hn-daily/2025-11-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-23](https://hacker-news.agi.li/post/2025-11-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://news.ycombinator.com/item?id=46086771)
+
 ## 20251128
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-27](https://www.daemonology.net/hn-daily/2025-11-27.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-27](https://hacker-news.agi.li/post/2025-11-27)
