@@ -1,3 +1,6 @@
+## 20251130
+- [Phoronix](https://www.phoronix.com/) | [Sylve Maturing As A FreeBSD Unified Web Management Interface](https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights)
+
 ## 20251129
 - [Phoronix](https://www.phoronix.com/) | [GNOME Gains New Clipboard Manager Option With "Copyous"](https://www.phoronix.com/news/GNOME-Copyous-Extension)
 - [9to5Linux](https://9to5linux.com/) | [4MLinux 50.0 Linux Distro Released with Reproducible Builds, New Apps, and More](https://9to5linux.com/4mlinux-50-0-linux-distro-released-with-reproducible-builds-new-apps-and-more)

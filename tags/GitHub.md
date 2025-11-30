@@ -1,3 +1,6 @@
+## 20251130
+- [GitHub Trending](https://github.com/trending?since=daily) | [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+
 ## 20251129
 - [GitHub Trending](https://github.com/trending?since=daily) | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 

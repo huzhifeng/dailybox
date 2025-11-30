@@ -1,3 +1,6 @@
+## 20251130
+- [Product Hunt](https://www.producthunt.com) | [Formly 2.0](https://www.producthunt.com/products/formly)
+
 ## 20251129
 - [Product Hunt](https://www.producthunt.com) | [Double Tap](https://www.producthunt.com/products/double-tap)
 

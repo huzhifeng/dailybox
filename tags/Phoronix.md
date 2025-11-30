@@ -1,3 +1,6 @@
+## 20251130
+- [Phoronix](https://www.phoronix.com/) | [Sylve Maturing As A FreeBSD Unified Web Management Interface](https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights)
+
 ## 20251129
 - [Phoronix](https://www.phoronix.com/) | [GNOME Gains New Clipboard Manager Option With "Copyous"](https://www.phoronix.com/news/GNOME-Copyous-Extension)
 
