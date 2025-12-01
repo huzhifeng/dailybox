@@ -1,3 +1,6 @@
+## 20251201
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.18 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-18-kernel-released-for-software-freedom-lovers)
+
 ## 20251129
 - [9to5Linux](https://9to5linux.com/) | [4MLinux 50.0 Linux Distro Released with Reproducible Builds, New Apps, and More](https://9to5linux.com/4mlinux-50-0-linux-distro-released-with-reproducible-builds-new-apps-and-more)
 

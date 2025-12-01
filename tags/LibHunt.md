@@ -1,3 +1,6 @@
+## 20251201
+- [LibHunt](https://www.libhunt.com/) | [aws-cdk](https://www.libhunt.com/r/aws-cdk)
+
 ## 20251129
 - [LibHunt](https://www.libhunt.com/) | [TextSecure](https://www.libhunt.com/r/Signal-Android)
 

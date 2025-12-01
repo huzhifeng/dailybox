@@ -1,3 +1,6 @@
+## 20251201
+- [Phoronix](https://www.phoronix.com/) | [Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable](https://www.phoronix.com/news/Linux-6.19-Rust)
+
 ## 20251130
 - [Phoronix](https://www.phoronix.com/) | [Sylve Maturing As A FreeBSD Unified Web Management Interface](https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights)
 

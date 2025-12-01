@@ -1,3 +1,6 @@
+## 20251201
+- [It's FOSS](https://itsfoss.com/) | ["Less Bugfixing Noise": Last Kernel Release of 2025 is Here and it Could be an LTS](https://itsfoss.com/news/linux-kernel-6-18/)
+
 ## 20251129
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.04 LTS: Release Date and New Features](https://itsfoss.com/ubuntu-26-04-release-features/)
 

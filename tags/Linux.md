@@ -1,3 +1,7 @@
+## 20251201
+- [Phoronix](https://www.phoronix.com/) | [Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable](https://www.phoronix.com/news/Linux-6.19-Rust)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.18 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-18-kernel-released-for-software-freedom-lovers)
+
 ## 20251130
 - [Phoronix](https://www.phoronix.com/) | [Sylve Maturing As A FreeBSD Unified Web Management Interface](https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights)
 

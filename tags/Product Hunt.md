@@ -1,3 +1,6 @@
+## 20251201
+- [Product Hunt](https://www.producthunt.com) | [The ∞ Bar](https://www.producthunt.com/products/the-bar)
+
 ## 20251130
 - [Product Hunt](https://www.producthunt.com) | [Formly 2.0](https://www.producthunt.com/products/formly)
 

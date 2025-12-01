@@ -1,3 +1,6 @@
+## 20251201
+- [GitHub Trending](https://github.com/trending?since=daily) | [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
+
 ## 20251130
 - [GitHub Trending](https://github.com/trending?since=daily) | [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
 
