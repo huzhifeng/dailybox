@@ -1,3 +1,6 @@
+## 20251202
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 590 Linux Graphics Driver Enters Public Beta with Better Wayland Support](https://9to5linux.com/nvidia-590-linux-graphics-driver-enters-public-beta-with-better-wayland-support)
+
 ## 20251201
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.18 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-18-kernel-released-for-software-freedom-lovers)
 

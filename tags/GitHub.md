@@ -1,3 +1,6 @@
+## 20251202
+- [GitHub Trending](https://github.com/trending?since=daily) | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
 ## 20251201
 - [GitHub Trending](https://github.com/trending?since=daily) | [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
 

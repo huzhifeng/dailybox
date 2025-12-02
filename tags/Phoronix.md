@@ -1,3 +1,6 @@
+## 20251202
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size](https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk)
+
 ## 20251201
 - [Phoronix](https://www.phoronix.com/) | [Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable](https://www.phoronix.com/news/Linux-6.19-Rust)
 

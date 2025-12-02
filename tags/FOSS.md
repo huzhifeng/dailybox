@@ -1,3 +1,6 @@
+## 20251202
+- [It's FOSS](https://itsfoss.com/) | [Google's New AI Tool Solves a Problem for Every Lazy Developer](https://itsfoss.com/news/google-code-wiki/)
+
 ## 20251201
 - [It's FOSS](https://itsfoss.com/) | ["Less Bugfixing Noise": Last Kernel Release of 2025 is Here and it Could be an LTS](https://itsfoss.com/news/linux-kernel-6-18/)
 

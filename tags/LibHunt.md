@@ -1,3 +1,6 @@
+## 20251202
+- [LibHunt](https://www.libhunt.com/) | [ghostty-web](https://www.libhunt.com/r/ghostty-web)
+
 ## 20251201
 - [LibHunt](https://www.libhunt.com/) | [aws-cdk](https://www.libhunt.com/r/aws-cdk)
 

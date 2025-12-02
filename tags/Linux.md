@@ -1,3 +1,7 @@
+## 20251202
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size](https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk)
+- [9to5Linux](https://9to5linux.com/) | [NVIDIA 590 Linux Graphics Driver Enters Public Beta with Better Wayland Support](https://9to5linux.com/nvidia-590-linux-graphics-driver-enters-public-beta-with-better-wayland-support)
+
 ## 20251201
 - [Phoronix](https://www.phoronix.com/) | [Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable](https://www.phoronix.com/news/Linux-6.19-Rust)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.18 Kernel Released for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-18-kernel-released-for-software-freedom-lovers)

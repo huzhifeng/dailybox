@@ -1,3 +1,6 @@
+## 20251202
+- [Product Hunt](https://www.producthunt.com) | [Once UI 1.5](https://www.producthunt.com/products/once-ui-for-figma)
+
 ## 20251201
 - [Product Hunt](https://www.producthunt.com) | [The ∞ Bar](https://www.producthunt.com/products/the-bar)
 

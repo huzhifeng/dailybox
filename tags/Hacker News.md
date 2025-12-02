@@ -1,3 +1,8 @@
+## 20251202
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-01](https://www.daemonology.net/hn-daily/2025-12-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-12-01](https://hacker-news.agi.li/post/2025-12-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple Releases Open Weights Video Model](https://news.ycombinator.com/item?id=46117802)
+
 ## 20251201
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-11-30](https://www.daemonology.net/hn-daily/2025-11-30.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-11-30](https://hacker-news.agi.li/post/2025-11-30)
