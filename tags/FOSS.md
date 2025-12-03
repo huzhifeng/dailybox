@@ -1,3 +1,6 @@
+## 20251203
+- [It's FOSS](https://itsfoss.com/) | [Raspberry Pi 5 1GB Variant: Is It Worth $45?](https://itsfoss.com/news/raspberry-pi-5-1gb-worth-it/)
+
 ## 20251202
 - [It's FOSS](https://itsfoss.com/) | [Google's New AI Tool Solves a Problem for Every Lazy Developer](https://itsfoss.com/news/google-code-wiki/)
 

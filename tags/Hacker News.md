@@ -1,3 +1,8 @@
+## 20251203
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-02](https://www.daemonology.net/hn-daily/2025-12-02.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-12-02](https://hacker-news.agi.li/post/2025-12-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Congressional lawmakers 47% pts better at picking stocks](https://news.ycombinator.com/item?id=46134443)
+
 ## 20251202
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-01](https://www.daemonology.net/hn-daily/2025-12-01.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-12-01](https://hacker-news.agi.li/post/2025-12-01)

@@ -1,3 +1,6 @@
+## 20251203
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 Officially Promoted To Being An LTS Kernel](https://www.phoronix.com/news/Linux-6.18-LTS-Kernel)
+
 ## 20251202
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size](https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk)
 

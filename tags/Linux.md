@@ -1,3 +1,7 @@
+## 20251203
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 Officially Promoted To Being An LTS Kernel](https://www.phoronix.com/news/Linux-6.18-LTS-Kernel)
+- [9to5Linux](https://9to5linux.com/) | [It’s Official: Linux Kernel 6.18 Will Be LTS, Supported Until December 2027](https://9to5linux.com/its-official-linux-kernel-6-18-will-be-lts-supported-until-december-2027)
+
 ## 20251202
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size](https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk)
 - [9to5Linux](https://9to5linux.com/) | [NVIDIA 590 Linux Graphics Driver Enters Public Beta with Better Wayland Support](https://9to5linux.com/nvidia-590-linux-graphics-driver-enters-public-beta-with-better-wayland-support)

@@ -1,3 +1,6 @@
+## 20251203
+- [GitHub Trending](https://github.com/trending?since=daily) | [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+
 ## 20251202
 - [GitHub Trending](https://github.com/trending?since=daily) | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 

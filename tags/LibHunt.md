@@ -1,3 +1,6 @@
+## 20251203
+- [LibHunt](https://www.libhunt.com/) | [logward](https://www.libhunt.com/r/logward)
+
 ## 20251202
 - [LibHunt](https://www.libhunt.com/) | [ghostty-web](https://www.libhunt.com/r/ghostty-web)
 

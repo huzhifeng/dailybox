@@ -1,3 +1,6 @@
+## 20251203
+- [Product Hunt](https://www.producthunt.com) | [Fellow 5.0](https://www.producthunt.com/products/fellow-app)
+
 ## 20251202
 - [Product Hunt](https://www.producthunt.com) | [Once UI 1.5](https://www.producthunt.com/products/once-ui-for-figma)
 
