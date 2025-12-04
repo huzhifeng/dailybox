@@ -1,3 +1,6 @@
+## 20251204
+- [Phoronix](https://www.phoronix.com/) | [Printk Improvement For Linux 6.19 Can Significantly Speed-Up Boot Times For Some Systems](https://www.phoronix.com/news/Linux-6.19-Printk)
+
 ## 20251203
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18 Officially Promoted To Being An LTS Kernel](https://www.phoronix.com/news/Linux-6.18-LTS-Kernel)
 

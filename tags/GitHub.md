@@ -1,3 +1,6 @@
+## 20251204
+- [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
+
 ## 20251203
 - [GitHub Trending](https://github.com/trending?since=daily) | [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
 

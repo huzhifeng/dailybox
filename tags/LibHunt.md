@@ -1,3 +1,6 @@
+## 20251204
+- [LibHunt](https://www.libhunt.com/) | [fizzy](https://www.libhunt.com/r/fizzy)
+
 ## 20251203
 - [LibHunt](https://www.libhunt.com/) | [logward](https://www.libhunt.com/r/logward)
 

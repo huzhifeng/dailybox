@@ -1,3 +1,6 @@
+## 20251204
+- [It's FOSS](https://itsfoss.com/) | [Reddit Strangers Built an Open Source Linux Handheld, And They Want Your Help](https://itsfoss.com/news/linux-platform-kit/)
+
 ## 20251203
 - [It's FOSS](https://itsfoss.com/) | [Raspberry Pi 5 1GB Variant: Is It Worth $45?](https://itsfoss.com/news/raspberry-pi-5-1gb-worth-it/)
 

@@ -1,3 +1,6 @@
+## 20251204
+- [Product Hunt](https://www.producthunt.com) | [Protaigé](https://www.producthunt.com/products/protaige)
+
 ## 20251203
 - [Product Hunt](https://www.producthunt.com) | [Fellow 5.0](https://www.producthunt.com/products/fellow-app)
 
