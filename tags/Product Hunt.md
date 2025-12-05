@@ -1,3 +1,6 @@
+## 20251205
+- [Product Hunt](https://www.producthunt.com) | [Bun](https://www.producthunt.com/products/bun-4)
+
 ## 20251204
 - [Product Hunt](https://www.producthunt.com) | [Protaigé](https://www.producthunt.com/products/protaige)
 

@@ -1,3 +1,6 @@
+## 20251205
+- [LibHunt](https://www.libhunt.com/) | [tacopy](https://www.libhunt.com/r/tacopy)
+
 ## 20251204
 - [LibHunt](https://www.libhunt.com/) | [fizzy](https://www.libhunt.com/r/fizzy)
 

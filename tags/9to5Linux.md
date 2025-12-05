@@ -1,3 +1,6 @@
+## 20251205
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen4 Linux Laptop Launches with NVIDIA RTX 5070 Ti GPU](https://9to5linux.com/tuxedo-gemini-17-gen4-linux-laptop-nvidia-rtx-5070-ti-intel-core-i9-14900hx)
+
 ## 20251203
 - [9to5Linux](https://9to5linux.com/) | [It’s Official: Linux Kernel 6.18 Will Be LTS, Supported Until December 2027](https://9to5linux.com/its-official-linux-kernel-6-18-will-be-lts-supported-until-december-2027)
 

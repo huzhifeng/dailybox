@@ -1,3 +1,6 @@
+## 20251205
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 7773X "Milan-X" Performance & Power Nearly Four Years Later](https://www.phoronix.com/review/amd-epyc-milanx-2025)
+
 ## 20251204
 - [Phoronix](https://www.phoronix.com/) | [Printk Improvement For Linux 6.19 Can Significantly Speed-Up Boot Times For Some Systems](https://www.phoronix.com/news/Linux-6.19-Printk)
 

@@ -1,3 +1,6 @@
+## 20251205
+- [It's FOSS](https://itsfoss.com/) | [Valve's FEX-Emu Support Shows a Better Way to Fund Open Source](https://itsfoss.com/news/valve-shows-a-better-way-to-fund-open-source/)
+
 ## 20251204
 - [It's FOSS](https://itsfoss.com/) | [Reddit Strangers Built an Open Source Linux Handheld, And They Want Your Help](https://itsfoss.com/news/linux-platform-kit/)
 

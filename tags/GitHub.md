@@ -1,3 +1,6 @@
+## 20251205
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
+
 ## 20251204
 - [GitHub Trending](https://github.com/trending?since=daily) | [google/adk-go](https://github.com/google/adk-go)
 
