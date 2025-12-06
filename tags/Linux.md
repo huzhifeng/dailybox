@@ -1,3 +1,7 @@
+## 20251206
+- [Phoronix](https://www.phoronix.com/) | [Tenstorrent Blackhole Support & Other New RISC-V + ARM64 Hardware In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-SoCs)
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.8 Open-Source Archive Manager Overhauls Previewing Inside Archives](https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives)
+
 ## 20251205
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 7773X "Milan-X" Performance & Power Nearly Four Years Later](https://www.phoronix.com/review/amd-epyc-milanx-2025)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen4 Linux Laptop Launches with NVIDIA RTX 5070 Ti GPU](https://9to5linux.com/tuxedo-gemini-17-gen4-linux-laptop-nvidia-rtx-5070-ti-intel-core-i9-14900hx)

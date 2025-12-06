@@ -1,3 +1,6 @@
+## 20251206
+- [It's FOSS](https://itsfoss.com/) | [9 GUI Search Tools for Desktop Linux Users Who Don't Want to Use Find, Grep and Xargs Commands](https://itsfoss.com/linux-gui-search-tools/)
+
 ## 20251205
 - [It's FOSS](https://itsfoss.com/) | [Valve's FEX-Emu Support Shows a Better Way to Fund Open Source](https://itsfoss.com/news/valve-shows-a-better-way-to-fund-open-source/)
 

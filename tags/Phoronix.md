@@ -1,3 +1,6 @@
+## 20251206
+- [Phoronix](https://www.phoronix.com/) | [Tenstorrent Blackhole Support & Other New RISC-V + ARM64 Hardware In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-SoCs)
+
 ## 20251205
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 7773X "Milan-X" Performance & Power Nearly Four Years Later](https://www.phoronix.com/review/amd-epyc-milanx-2025)
 

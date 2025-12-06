@@ -1,3 +1,6 @@
+## 20251206
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.8 Open-Source Archive Manager Overhauls Previewing Inside Archives](https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives)
+
 ## 20251205
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO Gemini 17 Gen4 Linux Laptop Launches with NVIDIA RTX 5070 Ti GPU](https://9to5linux.com/tuxedo-gemini-17-gen4-linux-laptop-nvidia-rtx-5070-ti-intel-core-i9-14900hx)
 

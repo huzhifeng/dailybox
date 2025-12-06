@@ -1,3 +1,6 @@
+## 20251206
+- [Product Hunt](https://www.producthunt.com) | [TruGen AI](https://www.producthunt.com/products/trugen-ai)
+
 ## 20251205
 - [Product Hunt](https://www.producthunt.com) | [Bun](https://www.producthunt.com/products/bun-4)
 

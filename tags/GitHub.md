@@ -1,3 +1,6 @@
+## 20251206
+- [GitHub Trending](https://github.com/trending?since=daily) | [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+
 ## 20251205
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
 
