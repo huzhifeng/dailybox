@@ -1,3 +1,6 @@
+## 20251207
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Delivers Working USB3 Support For Apple Silicon Devices](https://www.phoronix.com/news/Linux-6.19-USB3-Apple-M1)
+
 ## 20251206
 - [Phoronix](https://www.phoronix.com/) | [Tenstorrent Blackhole Support & Other New RISC-V + ARM64 Hardware In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-SoCs)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.8 Open-Source Archive Manager Overhauls Previewing Inside Archives](https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives)

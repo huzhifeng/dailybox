@@ -1,3 +1,6 @@
+## 20251207
+- [LibHunt](https://www.libhunt.com/) | [sea-orm](https://www.libhunt.com/r/sea-orm)
+
 ## 20251206
 - [LibHunt](https://www.libhunt.com/) | [jj](https://www.libhunt.com/r/jj)
 

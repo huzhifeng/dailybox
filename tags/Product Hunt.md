@@ -1,3 +1,6 @@
+## 20251207
+- [Product Hunt](https://www.producthunt.com) | [Strater AI](https://www.producthunt.com/products/strater-ai-learn-understand-rember)
+
 ## 20251206
 - [Product Hunt](https://www.producthunt.com) | [TruGen AI](https://www.producthunt.com/products/trugen-ai)
 

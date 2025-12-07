@@ -1,3 +1,8 @@
+## 20251207
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-06](https://www.daemonology.net/hn-daily/2025-12-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-06](https://hacker-podcast.agi.li/episode/2025-12-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Using LLMs at Oxide](https://news.ycombinator.com/item?id=46178347)
+
 ## 20251206
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-05](https://www.daemonology.net/hn-daily/2025-12-05.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Hacker News 每日播报 2025-12-05](https://hacker-news.agi.li/post/2025-12-05)

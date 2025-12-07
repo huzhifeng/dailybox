@@ -1,3 +1,6 @@
+## 20251207
+- [GitHub Trending](https://github.com/trending?since=daily) | [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion)
+
 ## 20251206
 - [GitHub Trending](https://github.com/trending?since=daily) | [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 

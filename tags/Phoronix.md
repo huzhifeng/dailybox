@@ -1,3 +1,6 @@
+## 20251207
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Delivers Working USB3 Support For Apple Silicon Devices](https://www.phoronix.com/news/Linux-6.19-USB3-Apple-M1)
+
 ## 20251206
 - [Phoronix](https://www.phoronix.com/) | [Tenstorrent Blackhole Support & Other New RISC-V + ARM64 Hardware In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-SoCs)
 
