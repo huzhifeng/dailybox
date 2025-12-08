@@ -1,3 +1,6 @@
+## 20251208
+- [It's FOSS](https://itsfoss.com/) | [AI Craze Just Made Your New PC Build Way More Expensive](https://itsfoss.com/news/ai-causes-ram-prices-skyrocket/)
+
 ## 20251206
 - [It's FOSS](https://itsfoss.com/) | [9 GUI Search Tools for Desktop Linux Users Who Don't Want to Use Find, Grep and Xargs Commands](https://itsfoss.com/linux-gui-search-tools/)
 

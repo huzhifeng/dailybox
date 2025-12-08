@@ -1,3 +1,6 @@
+## 20251208
+- [Product Hunt](https://www.producthunt.com) | [Beanvest Quality Investing](https://www.producthunt.com/products/beanvest)
+
 ## 20251207
 - [Product Hunt](https://www.producthunt.com) | [Strater AI](https://www.producthunt.com/products/strater-ai-learn-understand-rember)
 

@@ -1,3 +1,6 @@
+## 20251208
+- [9to5Linux](https://9to5linux.com/) | [Firefox 146 Is Out with Native Support for Fractional Scaled Displays on Wayland](https://9to5linux.com/firefox-146-is-out-with-native-support-for-fractional-scaled-displays-on-wayland)
+
 ## 20251206
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.8 Open-Source Archive Manager Overhauls Previewing Inside Archives](https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives)
 

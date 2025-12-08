@@ -1,3 +1,6 @@
+## 20251208
+- [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
 ## 20251207
 - [GitHub Trending](https://github.com/trending?since=daily) | [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion)
 

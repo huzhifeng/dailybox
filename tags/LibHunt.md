@@ -1,3 +1,6 @@
+## 20251208
+- [LibHunt](https://www.libhunt.com/) | [iced](https://www.libhunt.com/r/iced)
+
 ## 20251207
 - [LibHunt](https://www.libhunt.com/) | [sea-orm](https://www.libhunt.com/r/sea-orm)
 

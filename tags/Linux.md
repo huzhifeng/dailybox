@@ -1,3 +1,7 @@
+## 20251208
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 vs. AMD Radeon RX 9000 vs. NVIDIA RTX 50 Series For Llama.cpp Vulkan Performance](https://www.phoronix.com/review/llama-cpp-vulkan-eoy2025)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 146 Is Out with Native Support for Fractional Scaled Displays on Wayland](https://9to5linux.com/firefox-146-is-out-with-native-support-for-fractional-scaled-displays-on-wayland)
+
 ## 20251207
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19 Delivers Working USB3 Support For Apple Silicon Devices](https://www.phoronix.com/news/Linux-6.19-USB3-Apple-M1)
 
