@@ -1,3 +1,6 @@
+## 20251209
+- [GitHub Trending](https://github.com/trending?since=daily) | [slidevjs/slidev](https://github.com/slidevjs/slidev)
+
 ## 20251208
 - [GitHub Trending](https://github.com/trending?since=daily) | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 

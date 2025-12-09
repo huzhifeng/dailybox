@@ -1,3 +1,8 @@
+## 20251209
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-08](https://www.daemonology.net/hn-daily/2025-12-08.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-08](https://hacker-podcast.agi.li/episode/2025-12-08)
+- [Hacker News](https://news.ycombinator.com/front) | [The universal weight subspace hypothesis](https://news.ycombinator.com/item?id=46199623)
+
 ## 20251208
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-07](https://www.daemonology.net/hn-daily/2025-12-07.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-07](https://hacker-podcast.agi.li/episode/2025-12-07)

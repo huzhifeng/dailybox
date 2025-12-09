@@ -1,3 +1,6 @@
+## 20251209
+- [It's FOSS](https://itsfoss.com/) | [Calibre Now Lets You Chat About Your E-Books Using Local AI](https://itsfoss.com/news/calibre-lm-studio-support/)
+
 ## 20251208
 - [It's FOSS](https://itsfoss.com/) | [AI Craze Just Made Your New PC Build Way More Expensive](https://itsfoss.com/news/ai-causes-ram-prices-skyrocket/)
 

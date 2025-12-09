@@ -1,3 +1,6 @@
+## 20251209
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC Embedded 2005 Series Announced For BGA Zen 5 CPUs](https://www.phoronix.com/review/amd-epyc-embedded-2005)
+
 ## 20251208
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B580 vs. AMD Radeon RX 9000 vs. NVIDIA RTX 50 Series For Llama.cpp Vulkan Performance](https://www.phoronix.com/review/llama-cpp-vulkan-eoy2025)
 

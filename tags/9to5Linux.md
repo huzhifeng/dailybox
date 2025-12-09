@@ -1,3 +1,6 @@
+## 20251209
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.4 Desktop Environment Released with Numerous Bug Fixes](https://9to5linux.com/kde-plasma-6-5-4-desktop-environment-released-with-numerous-bug-fixes)
+
 ## 20251208
 - [9to5Linux](https://9to5linux.com/) | [Firefox 146 Is Out with Native Support for Fractional Scaled Displays on Wayland](https://9to5linux.com/firefox-146-is-out-with-native-support-for-fractional-scaled-displays-on-wayland)
 

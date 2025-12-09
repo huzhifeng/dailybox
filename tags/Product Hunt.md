@@ -1,3 +1,6 @@
+## 20251209
+- [Product Hunt](https://www.producthunt.com) | [GLM-4.6V](https://www.producthunt.com/products/z-ai)
+
 ## 20251208
 - [Product Hunt](https://www.producthunt.com) | [Beanvest Quality Investing](https://www.producthunt.com/products/beanvest)
 
