@@ -1,3 +1,6 @@
+## 20251210
+- [It's FOSS](https://itsfoss.com/) | [A Linux-Powered Smartphone That Has Features You Won&#x27;t Find on Most Phones](https://itsfoss.com/news/divine-d-project/)
+
 ## 20251209
 - [It's FOSS](https://itsfoss.com/) | [Calibre Now Lets You Chat About Your E-Books Using Local AI](https://itsfoss.com/news/calibre-lm-studio-support/)
 

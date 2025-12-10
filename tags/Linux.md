@@ -1,3 +1,6 @@
+## 20251210
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.0 vs. Ubuntu Linux For AMD EPYC Server Performance](https://www.phoronix.com/review/freebsd-15-amd-epyc-linux)
+
 ## 20251209
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC Embedded 2005 Series Announced For BGA Zen 5 CPUs](https://www.phoronix.com/review/amd-epyc-embedded-2005)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.4 Desktop Environment Released with Numerous Bug Fixes](https://9to5linux.com/kde-plasma-6-5-4-desktop-environment-released-with-numerous-bug-fixes)

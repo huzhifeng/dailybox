@@ -1,3 +1,8 @@
+## 20251210
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-09](https://www.daemonology.net/hn-daily/2025-12-09.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-09](https://hacker-podcast.agi.li/episode/2025-12-09)
+- [Hacker News](https://news.ycombinator.com/front) | [Rust in the kernel is no longer experimental](https://news.ycombinator.com/item?id=46213585)
+
 ## 20251209
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-08](https://www.daemonology.net/hn-daily/2025-12-08.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-08](https://hacker-podcast.agi.li/episode/2025-12-08)

@@ -1,3 +1,6 @@
+## 20251210
+- [LibHunt](https://www.libhunt.com/) | [go](https://www.libhunt.com/r/go)
+
 ## 20251209
 - [LibHunt](https://www.libhunt.com/) | [bifrost](https://www.libhunt.com/r/bifrost)
 

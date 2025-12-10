@@ -1,3 +1,6 @@
+## 20251210
+- [Product Hunt](https://www.producthunt.com) | [Vybe](https://www.producthunt.com/products/vybe-4)
+
 ## 20251209
 - [Product Hunt](https://www.producthunt.com) | [GLM-4.6V](https://www.producthunt.com/products/z-ai)
 
