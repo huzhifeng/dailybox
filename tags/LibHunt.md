@@ -1,3 +1,6 @@
+## 20251211
+- [LibHunt](https://www.libhunt.com/) | [opendataloader-pdf](https://www.libhunt.com/r/opendataloader-pdf)
+
 ## 20251210
 - [LibHunt](https://www.libhunt.com/) | [go](https://www.libhunt.com/r/go)
 

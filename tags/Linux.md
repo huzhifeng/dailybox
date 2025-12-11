@@ -1,3 +1,7 @@
+## 20251211
+- [Phoronix](https://www.phoronix.com/) | [AMD GAIA 0.14 Released With Native Support For Linux & macOS](https://www.phoronix.com/news/AMD-GAIA-0.14)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12 Software Suite Released with Many Improvements for KDE Apps](https://9to5linux.com/kde-gear-25-12-software-suite-released-with-many-improvements-for-kde-apps)
+
 ## 20251210
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.0 vs. Ubuntu Linux For AMD EPYC Server Performance](https://www.phoronix.com/review/freebsd-15-amd-epyc-linux)
 

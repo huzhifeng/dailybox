@@ -1,3 +1,6 @@
+## 20251211
+- [Phoronix](https://www.phoronix.com/) | [AMD GAIA 0.14 Released With Native Support For Linux & macOS](https://www.phoronix.com/news/AMD-GAIA-0.14)
+
 ## 20251210
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.0 vs. Ubuntu Linux For AMD EPYC Server Performance](https://www.phoronix.com/review/freebsd-15-amd-epyc-linux)
 

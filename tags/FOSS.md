@@ -1,3 +1,6 @@
+## 20251211
+- [It's FOSS](https://itsfoss.com/) | [The Tor Project is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
+
 ## 20251210
 - [It's FOSS](https://itsfoss.com/) | [A Linux-Powered Smartphone That Has Features You Won&#x27;t Find on Most Phones](https://itsfoss.com/news/divine-d-project/)
 

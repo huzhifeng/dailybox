@@ -1,3 +1,6 @@
+## 20251211
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12 Software Suite Released with Many Improvements for KDE Apps](https://9to5linux.com/kde-gear-25-12-software-suite-released-with-many-improvements-for-kde-apps)
+
 ## 20251209
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.4 Desktop Environment Released with Numerous Bug Fixes](https://9to5linux.com/kde-plasma-6-5-4-desktop-environment-released-with-numerous-bug-fixes)
 

@@ -1,3 +1,8 @@
+## 20251211
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-10](https://www.daemonology.net/hn-daily/2025-12-10.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-10](https://hacker-podcast.agi.li/episode/2025-12-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Patterns.dev](https://news.ycombinator.com/item?id=46226483)
+
 ## 20251210
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-09](https://www.daemonology.net/hn-daily/2025-12-09.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-09](https://hacker-podcast.agi.li/episode/2025-12-09)

@@ -1,3 +1,6 @@
+## 20251211
+- [GitHub Trending](https://github.com/trending?since=daily) | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju)
+
 ## 20251210
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python)
 
