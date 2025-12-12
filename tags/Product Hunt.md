@@ -1,3 +1,6 @@
+## 20251212
+- [Product Hunt](https://www.producthunt.com) | [Visual Editor](https://www.producthunt.com/products/cursor)
+
 ## 20251211
 - [Product Hunt](https://www.producthunt.com) | [echo](https://www.producthunt.com/products/echo-33)
 

@@ -1,3 +1,6 @@
+## 20251212
+- [LibHunt](https://www.libhunt.com/) | [Bindu](https://www.libhunt.com/r/Bindu)
+
 ## 20251211
 - [LibHunt](https://www.libhunt.com/) | [opendataloader-pdf](https://www.libhunt.com/r/opendataloader-pdf)
 

@@ -1,3 +1,6 @@
+## 20251212
+- [Phoronix](https://www.phoronix.com/) | [Cache Aware Scheduling Raises Performance For Intel Xeon 6 Granite Rapids](https://www.phoronix.com/review/intel-xeon-6-cache-sched)
+
 ## 20251211
 - [Phoronix](https://www.phoronix.com/) | [AMD GAIA 0.14 Released With Native Support For Linux & macOS](https://www.phoronix.com/news/AMD-GAIA-0.14)
 

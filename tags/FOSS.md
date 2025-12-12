@@ -1,3 +1,6 @@
+## 20251212
+- [It's FOSS](https://itsfoss.com/) | [Pop!_OS 24.04 LTS Review: Is This the Linux Distro of the Year 2025?](https://itsfoss.com/news/pop-os-24-04-review/)
+
 ## 20251211
 - [It's FOSS](https://itsfoss.com/) | [The Tor Project is Making a Switch to Rust, Ditches C](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 

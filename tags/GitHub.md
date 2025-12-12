@@ -1,3 +1,6 @@
+## 20251212
+- [GitHub Trending](https://github.com/trending?since=daily) | [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
 ## 20251211
 - [GitHub Trending](https://github.com/trending?since=daily) | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju)
 

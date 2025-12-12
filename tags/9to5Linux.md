@@ -1,3 +1,6 @@
+## 20251212
+- [9to5Linux](https://9to5linux.com/) | [pearOS Is Back, Now Based on Arch Linux and Featuring the KDE Plasma Desktop](https://9to5linux.com/pearos-is-back-now-based-on-arch-linux-and-featuring-the-kde-plasma-desktop)
+
 ## 20251211
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12 Software Suite Released with Many Improvements for KDE Apps](https://9to5linux.com/kde-gear-25-12-software-suite-released-with-many-improvements-for-kde-apps)
 
