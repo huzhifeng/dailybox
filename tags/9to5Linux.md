@@ -1,3 +1,6 @@
+## 20251213
+- [9to5Linux](https://9to5linux.com/) | [Grml 2025.12 Linux Distro Is Out Based on Debian Forky and Linux Kernel 6.17](https://9to5linux.com/grml-2025-12-linux-distro-is-out-based-on-debian-forky-and-linux-kernel-6-17)
+
 ## 20251212
 - [9to5Linux](https://9to5linux.com/) | [pearOS Is Back, Now Based on Arch Linux and Featuring the KDE Plasma Desktop](https://9to5linux.com/pearos-is-back-now-based-on-arch-linux-and-featuring-the-kde-plasma-desktop)
 

@@ -1,3 +1,6 @@
+## 20251213
+- [GitHub Trending](https://github.com/trending?since=daily) | [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+
 ## 20251212
 - [GitHub Trending](https://github.com/trending?since=daily) | [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 

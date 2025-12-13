@@ -1,3 +1,8 @@
+## 20251213
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-12](https://www.daemonology.net/hn-daily/2025-12-12.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-12](https://hacker-podcast.agi.li/episode/2025-12-12)
+- [Hacker News](https://news.ycombinator.com/front) | [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://news.ycombinator.com/item?id=46252114)
+
 ## 20251212
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-11](https://www.daemonology.net/hn-daily/2025-12-11.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-11](https://hacker-podcast.agi.li/episode/2025-12-11)

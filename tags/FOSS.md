@@ -1,3 +1,6 @@
+## 20251213
+- [It's FOSS](https://itsfoss.com/) | [What is NTFSPlus and Why Does It Matter for Linux Users?](https://itsfoss.com/ntfsplus/)
+
 ## 20251212
 - [It's FOSS](https://itsfoss.com/) | [Pop!_OS 24.04 LTS Review: Is This the Linux Distro of the Year 2025?](https://itsfoss.com/news/pop-os-24-04-review/)
 

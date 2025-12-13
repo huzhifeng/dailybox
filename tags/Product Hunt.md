@@ -1,3 +1,6 @@
+## 20251213
+- [Product Hunt](https://www.producthunt.com) | [Momotaro](https://www.producthunt.com/products/momotaro-build-better-focus-habits)
+
 ## 20251212
 - [Product Hunt](https://www.producthunt.com) | [Visual Editor](https://www.producthunt.com/products/cursor)
 
