@@ -1,3 +1,6 @@
+## 20251214
+- [GitHub Trending](https://github.com/trending?since=daily) | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
 ## 20251213
 - [GitHub Trending](https://github.com/trending?since=daily) | [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 

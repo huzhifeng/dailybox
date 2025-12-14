@@ -1,3 +1,6 @@
+## 20251214
+- [Phoronix](https://www.phoronix.com/) | [FamFS Hopes To Go Upstream In 2026](https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes)
+
 ## 20251213
 - [Phoronix](https://www.phoronix.com/) | [NFS Lands Initial Support For Directory Delegations In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-NFS)
 

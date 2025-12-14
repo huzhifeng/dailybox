@@ -1,3 +1,6 @@
+## 20251214
+- [LibHunt](https://www.libhunt.com/) | [mistral-vibe](https://www.libhunt.com/r/mistral-vibe)
+
 ## 20251212
 - [LibHunt](https://www.libhunt.com/) | [Bindu](https://www.libhunt.com/r/Bindu)
 

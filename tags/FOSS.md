@@ -1,3 +1,6 @@
+## 20251214
+- [It's FOSS](https://itsfoss.com/) | [YouTube’s AI is Breaking the Creator Ecosystem](https://itsfoss.com/news/youtubes-ai-mod-enshittification/)
+
 ## 20251213
 - [It's FOSS](https://itsfoss.com/) | [What is NTFSPlus and Why Does It Matter for Linux Users?](https://itsfoss.com/ntfsplus/)
 
