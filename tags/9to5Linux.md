@@ -1,3 +1,6 @@
+## 20251215
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2025.12 &#8220;Tiamat&#8221; Released with Debian Forky Base, Linux Kernel 6.17](https://9to5linux.com/sparkylinux-2025-12-tiamat-released-with-debian-forky-base-linux-kernel-6-17)
+
 ## 20251213
 - [9to5Linux](https://9to5linux.com/) | [Grml 2025.12 Linux Distro Is Out Based on Debian Forky and Linux Kernel 6.17](https://9to5linux.com/grml-2025-12-linux-distro-is-out-based-on-debian-forky-and-linux-kernel-6-17)
 

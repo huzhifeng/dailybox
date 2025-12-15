@@ -1,3 +1,6 @@
+## 20251215
+- [LibHunt](https://www.libhunt.com/) | [adk-python](https://www.libhunt.com/r/adk-python)
+
 ## 20251214
 - [LibHunt](https://www.libhunt.com/) | [mistral-vibe](https://www.libhunt.com/r/mistral-vibe)
 

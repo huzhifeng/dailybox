@@ -1,3 +1,7 @@
+## 20251215
+- [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.47 Released With Updated Color Management Protocol](https://www.phoronix.com/news/Wayland-Protocols-1.47)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2025.12 &#8220;Tiamat&#8221; Released with Debian Forky Base, Linux Kernel 6.17](https://9to5linux.com/sparkylinux-2025-12-tiamat-released-with-debian-forky-base-linux-kernel-6-17)
+
 ## 20251214
 - [Phoronix](https://www.phoronix.com/) | [FamFS Hopes To Go Upstream In 2026](https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes)
 

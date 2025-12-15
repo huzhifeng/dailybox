@@ -1,3 +1,6 @@
+## 20251215
+- [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.47 Released With Updated Color Management Protocol](https://www.phoronix.com/news/Wayland-Protocols-1.47)
+
 ## 20251214
 - [Phoronix](https://www.phoronix.com/) | [FamFS Hopes To Go Upstream In 2026](https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes)
 

@@ -1,3 +1,6 @@
+## 20251215
+- [It's FOSS](https://itsfoss.com/) | [7 Projects Killed by Ubuntu (But I Still Miss Them)](https://itsfoss.com/projects-ditched-by-ubuntu/)
+
 ## 20251214
 - [It's FOSS](https://itsfoss.com/) | [YouTube’s AI is Breaking the Creator Ecosystem](https://itsfoss.com/news/youtubes-ai-mod-enshittification/)
 

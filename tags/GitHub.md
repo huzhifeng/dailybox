@@ -1,3 +1,6 @@
+## 20251215
+- [GitHub Trending](https://github.com/trending?since=daily) | [Mebus/cupp](https://github.com/Mebus/cupp)
+
 ## 20251214
 - [GitHub Trending](https://github.com/trending?since=daily) | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
