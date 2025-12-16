@@ -1,3 +1,6 @@
+## 20251216
+- [Phoronix](https://www.phoronix.com/) | [Mozilla Names New CEO, Firefox To Evolve Into A "Modern AI Browser"](https://www.phoronix.com/news/Mozilla-New-CEO-AI)
+
 ## 20251215
 - [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.47 Released With Updated Color Management Protocol](https://www.phoronix.com/news/Wayland-Protocols-1.47)
 

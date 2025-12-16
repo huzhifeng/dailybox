@@ -1,3 +1,7 @@
+## 20251216
+- [Phoronix](https://www.phoronix.com/) | [Mozilla Names New CEO, Firefox To Evolve Into A "Modern AI Browser"](https://www.phoronix.com/news/Mozilla-New-CEO-AI)
+- [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 6 Is Now Available Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/emmabuntus-debian-edition-6-is-now-available-based-on-debian-13-trixie)
+
 ## 20251215
 - [Phoronix](https://www.phoronix.com/) | [Wayland Protocols 1.47 Released With Updated Color Management Protocol](https://www.phoronix.com/news/Wayland-Protocols-1.47)
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 2025.12 &#8220;Tiamat&#8221; Released with Debian Forky Base, Linux Kernel 6.17](https://9to5linux.com/sparkylinux-2025-12-tiamat-released-with-debian-forky-base-linux-kernel-6-17)

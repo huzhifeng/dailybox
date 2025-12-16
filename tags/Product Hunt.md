@@ -1,3 +1,6 @@
+## 20251216
+- [Product Hunt](https://www.producthunt.com) | [Varchive](https://www.producthunt.com/products/varchive)
+
 ## 20251214
 - [Product Hunt](https://www.producthunt.com) | [BlazorOcticons](https://www.producthunt.com/products/blazorocticons)
 

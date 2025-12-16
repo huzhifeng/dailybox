@@ -1,3 +1,6 @@
+## 20251216
+- [GitHub Trending](https://github.com/trending?since=daily) | [Morganamilo/paru](https://github.com/Morganamilo/paru)
+
 ## 20251215
 - [GitHub Trending](https://github.com/trending?since=daily) | [Mebus/cupp](https://github.com/Mebus/cupp)
 

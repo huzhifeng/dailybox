@@ -1,3 +1,6 @@
+## 20251216
+- [It's FOSS](https://itsfoss.com/) | [Is Denmark Really Banning VPNs? A Controversial Bill Has People Worried](https://itsfoss.com/news/denmark-controversial-vpn-bill/)
+
 ## 20251215
 - [It's FOSS](https://itsfoss.com/) | [7 Projects Killed by Ubuntu (But I Still Miss Them)](https://itsfoss.com/projects-ditched-by-ubuntu/)
 

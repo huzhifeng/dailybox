@@ -1,3 +1,6 @@
+## 20251216
+- [LibHunt](https://www.libhunt.com/) | [ArkhamMirror](https://www.libhunt.com/r/ArkhamMirror)
+
 ## 20251215
 - [LibHunt](https://www.libhunt.com/) | [adk-python](https://www.libhunt.com/r/adk-python)
 
