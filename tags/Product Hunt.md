@@ -1,3 +1,6 @@
+## 20251217
+- [Product Hunt](https://www.producthunt.com) | [CanvAi](https://www.producthunt.com/products/canvai)
+
 ## 20251216
 - [Product Hunt](https://www.producthunt.com) | [Varchive](https://www.producthunt.com/products/varchive)
 

@@ -1,3 +1,6 @@
+## 20251217
+- [It's FOSS](https://itsfoss.com/) | [Easier Than Nano! Fresh is a Fresh New Rust-based Terminal Editor for Linux](https://itsfoss.com/fresh-terminal-text-editor/)
+
 ## 20251216
 - [It's FOSS](https://itsfoss.com/) | [Is Denmark Really Banning VPNs? A Controversial Bill Has People Worried](https://itsfoss.com/news/denmark-controversial-vpn-bill/)
 

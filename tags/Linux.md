@@ -1,3 +1,6 @@
+## 20251217
+- [Phoronix](https://www.phoronix.com/) | [Asahi Linux Gets Microphone Working For M2 Pro/Max, Eyes Installer Improvements](https://www.phoronix.com/news/Asahi-Linux-December-2025)
+
 ## 20251216
 - [Phoronix](https://www.phoronix.com/) | [Mozilla Names New CEO, Firefox To Evolve Into A "Modern AI Browser"](https://www.phoronix.com/news/Mozilla-New-CEO-AI)
 - [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 6 Is Now Available Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/emmabuntus-debian-edition-6-is-now-available-based-on-debian-13-trixie)

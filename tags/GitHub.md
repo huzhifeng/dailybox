@@ -1,3 +1,6 @@
+## 20251217
+- [GitHub Trending](https://github.com/trending?since=daily) | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop)
+
 ## 20251216
 - [GitHub Trending](https://github.com/trending?since=daily) | [Morganamilo/paru](https://github.com/Morganamilo/paru)
 
