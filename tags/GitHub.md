@@ -1,3 +1,6 @@
+## 20251218
+- [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
 ## 20251217
 - [GitHub Trending](https://github.com/trending?since=daily) | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop)
 

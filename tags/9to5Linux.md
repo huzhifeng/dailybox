@@ -1,3 +1,6 @@
+## 20251218
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.3 &#8220;Zena&#8221; Beta Is Available for Download with Cinnamon 6.6](https://9to5linux.com/linux-mint-22-3-zena-beta-is-available-for-download-with-cinnamon-6-6)
+
 ## 20251216
 - [9to5Linux](https://9to5linux.com/) | [Emmabuntüs Debian Edition 6 Is Now Available Based on Debian 13 &#8220;Trixie&#8221;](https://9to5linux.com/emmabuntus-debian-edition-6-is-now-available-based-on-debian-13-trixie)
 

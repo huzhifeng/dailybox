@@ -1,3 +1,6 @@
+## 20251218
+- [Product Hunt](https://www.producthunt.com) | [LightBuddy](https://www.producthunt.com/products/lightbuddy)
+
 ## 20251217
 - [Product Hunt](https://www.producthunt.com) | [CanvAi](https://www.producthunt.com/products/canvai)
 

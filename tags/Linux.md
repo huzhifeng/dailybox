@@ -1,3 +1,7 @@
+## 20251218
+- [Phoronix](https://www.phoronix.com/) | [Thunderbird Expanding Microsoft Exchange & Protocol Support For 2026](https://www.phoronix.com/news/Thunderbird-2026-Plans)
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.3 &#8220;Zena&#8221; Beta Is Available for Download with Cinnamon 6.6](https://9to5linux.com/linux-mint-22-3-zena-beta-is-available-for-download-with-cinnamon-6-6)
+
 ## 20251217
 - [Phoronix](https://www.phoronix.com/) | [Asahi Linux Gets Microphone Working For M2 Pro/Max, Eyes Installer Improvements](https://www.phoronix.com/news/Asahi-Linux-December-2025)
 

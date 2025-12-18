@@ -1,3 +1,6 @@
+## 20251218
+- [Phoronix](https://www.phoronix.com/) | [Thunderbird Expanding Microsoft Exchange & Protocol Support For 2026](https://www.phoronix.com/news/Thunderbird-2026-Plans)
+
 ## 20251217
 - [Phoronix](https://www.phoronix.com/) | [Asahi Linux Gets Microphone Working For M2 Pro/Max, Eyes Installer Improvements](https://www.phoronix.com/news/Asahi-Linux-December-2025)
 
