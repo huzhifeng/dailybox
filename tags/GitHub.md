@@ -1,3 +1,6 @@
+## 20251219
+- [GitHub Trending](https://github.com/trending?since=daily) | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
 ## 20251218
 - [GitHub Trending](https://github.com/trending?since=daily) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 

@@ -1,3 +1,6 @@
+## 20251219
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Linux 6.18 LTS Upgrade Offers Worthwhile Benefits For 5th Gen AMD EPYC](https://www.phoronix.com/review/linux-618-lts-amd-epyc)
+
 ## 20251218
 - [Phoronix](https://www.phoronix.com/) | [Thunderbird Expanding Microsoft Exchange & Protocol Support For 2026](https://www.phoronix.com/news/Thunderbird-2026-Plans)
 

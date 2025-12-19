@@ -1,3 +1,6 @@
+## 20251219
+- [9to5Linux](https://9to5linux.com/) | [Kdenlive 25.12 Video Editor Adds New Docking System, Welcome Screen, and More](https://9to5linux.com/kdenlive-25-12-video-editor-adds-new-docking-system-welcome-screen-and-more)
+
 ## 20251218
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.3 &#8220;Zena&#8221; Beta Is Available for Download with Cinnamon 6.6](https://9to5linux.com/linux-mint-22-3-zena-beta-is-available-for-download-with-cinnamon-6-6)
 

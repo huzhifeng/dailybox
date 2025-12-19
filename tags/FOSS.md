@@ -1,3 +1,6 @@
+## 20251219
+- [It's FOSS](https://itsfoss.com/) | [Decentralized YouTube Alternative PeerTube Adds Creator Mode](https://itsfoss.com/news/peertube-8-release/)
+
 ## 20251218
 - [It's FOSS](https://itsfoss.com/) | [The Upcoming Armbian Imager Tool is a Godsend for Non-Raspberry Pi SBC Owners](https://itsfoss.com/news/armbian-imager-quietly-debuts/)
 

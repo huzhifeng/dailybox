@@ -1,3 +1,6 @@
+## 20251219
+- [Product Hunt](https://www.producthunt.com) | [Vurge](https://www.producthunt.com/products/vurge-ai-data-extraction)
+
 ## 20251218
 - [Product Hunt](https://www.producthunt.com) | [LightBuddy](https://www.producthunt.com/products/lightbuddy)
 

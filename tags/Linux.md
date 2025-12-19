@@ -1,3 +1,7 @@
+## 20251219
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Linux 6.18 LTS Upgrade Offers Worthwhile Benefits For 5th Gen AMD EPYC](https://www.phoronix.com/review/linux-618-lts-amd-epyc)
+- [9to5Linux](https://9to5linux.com/) | [Kdenlive 25.12 Video Editor Adds New Docking System, Welcome Screen, and More](https://9to5linux.com/kdenlive-25-12-video-editor-adds-new-docking-system-welcome-screen-and-more)
+
 ## 20251218
 - [Phoronix](https://www.phoronix.com/) | [Thunderbird Expanding Microsoft Exchange & Protocol Support For 2026](https://www.phoronix.com/news/Thunderbird-2026-Plans)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint 22.3 &#8220;Zena&#8221; Beta Is Available for Download with Cinnamon 6.6](https://9to5linux.com/linux-mint-22-3-zena-beta-is-available-for-download-with-cinnamon-6-6)
