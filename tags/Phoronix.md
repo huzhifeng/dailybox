@@ -1,3 +1,6 @@
+## 20251220
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint 22.3 Beta Released With Cinnamon 6.6 Desktop](https://www.phoronix.com/news/Linux-Mint-22.3-Beta)
+
 ## 20251219
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 To Linux 6.18 LTS Upgrade Offers Worthwhile Benefits For 5th Gen AMD EPYC](https://www.phoronix.com/review/linux-618-lts-amd-epyc)
 

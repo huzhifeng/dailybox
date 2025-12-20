@@ -1,3 +1,6 @@
+## 20251220
+- [Product Hunt](https://www.producthunt.com) | [Wave Browser](https://www.producthunt.com/products/wave-browser-2)
+
 ## 20251219
 - [Product Hunt](https://www.producthunt.com) | [Vurge](https://www.producthunt.com/products/vurge-ai-data-extraction)
 

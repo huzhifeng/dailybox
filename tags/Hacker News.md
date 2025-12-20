@@ -1,3 +1,8 @@
+## 20251220
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-19](https://www.daemonology.net/hn-daily/2025-12-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-19](https://hacker-podcast.agi.li/episode/2025-12-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)
+
 ## 20251219
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-18](https://www.daemonology.net/hn-daily/2025-12-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-18](https://hacker-podcast.agi.li/episode/2025-12-18)

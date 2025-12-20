@@ -1,3 +1,6 @@
+## 20251220
+- [It's FOSS](https://itsfoss.com/) | [Watch Out Elasticsearch! Tiger Data&#x27;s PostgreSQL BM25 Search Extension Goes Open Source](https://itsfoss.com/news/tiger-data-pg-textsearch/)
+
 ## 20251219
 - [It's FOSS](https://itsfoss.com/) | [Decentralized YouTube Alternative PeerTube Adds Creator Mode](https://itsfoss.com/news/peertube-8-release/)
 

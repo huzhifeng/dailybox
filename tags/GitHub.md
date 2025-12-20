@@ -1,3 +1,6 @@
+## 20251220
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
 ## 20251219
 - [GitHub Trending](https://github.com/trending?since=daily) | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 

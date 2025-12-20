@@ -1,3 +1,6 @@
+## 20251220
+- [LibHunt](https://www.libhunt.com/) | [speed-comparison](https://www.libhunt.com/r/speed-comparison)
+
 ## 20251219
 - [LibHunt](https://www.libhunt.com/) | [noclip.website](https://www.libhunt.com/r/noclip.website)
 
