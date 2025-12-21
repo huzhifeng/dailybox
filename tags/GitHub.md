@@ -1,3 +1,6 @@
+## 20251221
+- [GitHub Trending](https://github.com/trending?since=daily) | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
 ## 20251220
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 

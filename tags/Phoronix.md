@@ -1,3 +1,6 @@
+## 20251221
+- [Phoronix](https://www.phoronix.com/) | [Intel Prepares For KVM Guest VMs To Support Advanced Performance Extensions (APX)](https://www.phoronix.com/news/Intel-APX-KVM-Guests-Patches)
+
 ## 20251220
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint 22.3 Beta Released With Cinnamon 6.6 Desktop](https://www.phoronix.com/news/Linux-Mint-22.3-Beta)
 

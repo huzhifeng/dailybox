@@ -1,3 +1,6 @@
+## 20251221
+- [It's FOSS](https://itsfoss.com/) | [Linux Apps Without Distro Lock-In? Explore This Lesser Known Snap and Flatpak Alternative](https://itsfoss.com/pkgforge/)
+
 ## 20251220
 - [It's FOSS](https://itsfoss.com/) | [Watch Out Elasticsearch! Tiger Data&#x27;s PostgreSQL BM25 Search Extension Goes Open Source](https://itsfoss.com/news/tiger-data-pg-textsearch/)
 

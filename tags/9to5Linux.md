@@ -1,3 +1,6 @@
+## 20251221
+- [9to5Linux](https://9to5linux.com/) | [Ventoy 1.1.10 Bootable USB Creator Released with Support for AerynOS](https://9to5linux.com/ventoy-1-1-10-bootable-usb-creator-released-with-support-for-aerynos)
+
 ## 20251219
 - [9to5Linux](https://9to5linux.com/) | [Kdenlive 25.12 Video Editor Adds New Docking System, Welcome Screen, and More](https://9to5linux.com/kdenlive-25-12-video-editor-adds-new-docking-system-welcome-screen-and-more)
 
