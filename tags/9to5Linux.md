@@ -1,3 +1,6 @@
+## 20251222
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025)
+
 ## 20251221
 - [9to5Linux](https://9to5linux.com/) | [Ventoy 1.1.10 Bootable USB Creator Released with Support for AerynOS](https://9to5linux.com/ventoy-1-1-10-bootable-usb-creator-released-with-support-for-aerynos)
 

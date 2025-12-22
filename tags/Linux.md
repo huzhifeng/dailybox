@@ -1,3 +1,7 @@
+## 20251222
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19's Significant ~30% Performance Boost For Old AMD Radeon GPUs](https://www.phoronix.com/review/linux-619-amdgpu-radeon)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025)
+
 ## 20251221
 - [Phoronix](https://www.phoronix.com/) | [Intel Prepares For KVM Guest VMs To Support Advanced Performance Extensions (APX)](https://www.phoronix.com/news/Intel-APX-KVM-Guests-Patches)
 - [9to5Linux](https://9to5linux.com/) | [Ventoy 1.1.10 Bootable USB Creator Released with Support for AerynOS](https://9to5linux.com/ventoy-1-1-10-bootable-usb-creator-released-with-support-for-aerynos)

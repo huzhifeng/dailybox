@@ -1,3 +1,6 @@
+## 20251222
+- [It's FOSS](https://itsfoss.com/) | [Away from Cloud: This Local, Offline Tool is Perfect for Personal Project Management on Linux Desktop](https://itsfoss.com/schedule-kanban-board/)
+
 ## 20251221
 - [It's FOSS](https://itsfoss.com/) | [Linux Apps Without Distro Lock-In? Explore This Lesser Known Snap and Flatpak Alternative](https://itsfoss.com/pkgforge/)
 

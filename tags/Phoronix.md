@@ -1,3 +1,6 @@
+## 20251222
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.19's Significant ~30% Performance Boost For Old AMD Radeon GPUs](https://www.phoronix.com/review/linux-619-amdgpu-radeon)
+
 ## 20251221
 - [Phoronix](https://www.phoronix.com/) | [Intel Prepares For KVM Guest VMs To Support Advanced Performance Extensions (APX)](https://www.phoronix.com/news/Intel-APX-KVM-Guests-Patches)
 

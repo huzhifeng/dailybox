@@ -1,3 +1,7 @@
+## 20251222
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-21](https://www.daemonology.net/hn-daily/2025-12-21.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-21](https://hacker-podcast.agi.li/episode/2025-12-21)
+
 ## 20251221
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-20](https://www.daemonology.net/hn-daily/2025-12-20.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-20](https://hacker-podcast.agi.li/episode/2025-12-20)

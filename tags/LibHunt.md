@@ -1,3 +1,6 @@
+## 20251222
+- [LibHunt](https://www.libhunt.com/) | [catalog](https://www.libhunt.com/r/docker-hardened-images/catalog)
+
 ## 20251220
 - [LibHunt](https://www.libhunt.com/) | [speed-comparison](https://www.libhunt.com/r/speed-comparison)
 
