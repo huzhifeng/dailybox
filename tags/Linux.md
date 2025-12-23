@@ -1,3 +1,7 @@
+## 20251223
+- [Phoronix](https://www.phoronix.com/) | [AMD Krackan Point Sub-$500 Laptop Linux Performance Improves By ~8% In Just Six Months](https://www.phoronix.com/review/amd-krackan-point-2025)
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 25.12 Linux Mobile OS Rolls Out Based on Alpine Linux 3.23](https://9to5linux.com/postmarketos-25-12-linux-mobile-os-rolls-out-based-on-alpine-linux-3-23)
+
 ## 20251222
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.19's Significant ~30% Performance Boost For Old AMD Radeon GPUs](https://www.phoronix.com/review/linux-619-amdgpu-radeon)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025)

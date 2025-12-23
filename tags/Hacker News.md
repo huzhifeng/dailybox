@@ -1,3 +1,8 @@
+## 20251223
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-22](https://www.daemonology.net/hn-daily/2025-12-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-22](https://hacker-podcast.agi.li/episode/2025-12-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Inside CECOT – 60 Minutes [video]](https://news.ycombinator.com/item?id=46361024)
+
 ## 20251222
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-21](https://www.daemonology.net/hn-daily/2025-12-21.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-21](https://hacker-podcast.agi.li/episode/2025-12-21)

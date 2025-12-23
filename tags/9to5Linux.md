@@ -1,3 +1,6 @@
+## 20251223
+- [9to5Linux](https://9to5linux.com/) | [postmarketOS 25.12 Linux Mobile OS Rolls Out Based on Alpine Linux 3.23](https://9to5linux.com/postmarketos-25-12-linux-mobile-os-rolls-out-based-on-alpine-linux-3-23)
+
 ## 20251222
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025)
 
