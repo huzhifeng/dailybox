@@ -1,3 +1,7 @@
+## 20251224
+- [Phoronix](https://www.phoronix.com/) | [Wayback 0.3 Released For Advancing This X11 Compatibility Layer](https://www.phoronix.com/news/Wayback-0.3)
+- [9to5Linux](https://9to5linux.com/) | [Parrot 7.0 Ethical Hacking Distro Released with KDE Plasma, RISC-V Support](https://9to5linux.com/parrot-7-0-ethical-hacking-distro-released-with-kde-plasma-risc-v-support)
+
 ## 20251223
 - [Phoronix](https://www.phoronix.com/) | [AMD Krackan Point Sub-$500 Laptop Linux Performance Improves By ~8% In Just Six Months](https://www.phoronix.com/review/amd-krackan-point-2025)
 - [9to5Linux](https://9to5linux.com/) | [postmarketOS 25.12 Linux Mobile OS Rolls Out Based on Alpine Linux 3.23](https://9to5linux.com/postmarketos-25-12-linux-mobile-os-rolls-out-based-on-alpine-linux-3-23)

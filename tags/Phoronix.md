@@ -1,3 +1,6 @@
+## 20251224
+- [Phoronix](https://www.phoronix.com/) | [Wayback 0.3 Released For Advancing This X11 Compatibility Layer](https://www.phoronix.com/news/Wayback-0.3)
+
 ## 20251223
 - [Phoronix](https://www.phoronix.com/) | [AMD Krackan Point Sub-$500 Laptop Linux Performance Improves By ~8% In Just Six Months](https://www.phoronix.com/review/amd-krackan-point-2025)
 

@@ -1,3 +1,6 @@
+## 20251224
+- [9to5Linux](https://9to5linux.com/) | [Parrot 7.0 Ethical Hacking Distro Released with KDE Plasma, RISC-V Support](https://9to5linux.com/parrot-7-0-ethical-hacking-distro-released-with-kde-plasma-risc-v-support)
+
 ## 20251223
 - [9to5Linux](https://9to5linux.com/) | [postmarketOS 25.12 Linux Mobile OS Rolls Out Based on Alpine Linux 3.23](https://9to5linux.com/postmarketos-25-12-linux-mobile-os-rolls-out-based-on-alpine-linux-3-23)
 

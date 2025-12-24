@@ -1,3 +1,6 @@
+## 20251224
+- [Product Hunt](https://www.producthunt.com) | [A2UI](https://www.producthunt.com/products/google)
+
 ## 20251223
 - [Product Hunt](https://www.producthunt.com) | [Apple Health Wrapped 2025](https://www.producthunt.com/products/apple-health-wrapped)
 

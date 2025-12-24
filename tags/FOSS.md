@@ -1,3 +1,6 @@
+## 20251224
+- [It's FOSS](https://itsfoss.com/) | [5 New Linux Distributions We Discovered in 2025](https://itsfoss.com/new-distros-2025/)
+
 ## 20251223
 - [It's FOSS](https://itsfoss.com/) | [Here&#x27;s Our Prediction for the Future of Desktop Linux in 2026](https://itsfoss.com/news/linux-future-prediction-2026/)
 
