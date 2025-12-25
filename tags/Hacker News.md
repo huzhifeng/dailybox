@@ -1,3 +1,8 @@
+## 20251225
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-24](https://www.daemonology.net/hn-daily/2025-12-24.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-24](https://hacker-podcast.agi.li/episode/2025-12-24)
+- [Hacker News](https://news.ycombinator.com/front) | [We invited a man into our home at Christmas and he stayed with us for 45 years](https://news.ycombinator.com/item?id=46383552)
+
 ## 20251224
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-23](https://www.daemonology.net/hn-daily/2025-12-23.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-23](https://hacker-podcast.agi.li/episode/2025-12-23)

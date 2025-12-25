@@ -1,3 +1,6 @@
+## 20251225
+- [Product Hunt](https://www.producthunt.com) | [Press Pitch](https://www.producthunt.com/products/press-pitch)
+
 ## 20251224
 - [Product Hunt](https://www.producthunt.com) | [A2UI](https://www.producthunt.com/products/google)
 

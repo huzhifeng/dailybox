@@ -1,3 +1,6 @@
+## 20251225
+- [9to5Linux](https://9to5linux.com/) | [QEMU 10.2 Officially Released with Live Update Support and Improvements](https://9to5linux.com/qemu-10-2-officially-released-with-live-update-support-and-improvements)
+
 ## 20251224
 - [9to5Linux](https://9to5linux.com/) | [Parrot 7.0 Ethical Hacking Distro Released with KDE Plasma, RISC-V Support](https://9to5linux.com/parrot-7-0-ethical-hacking-distro-released-with-kde-plasma-risc-v-support)
 

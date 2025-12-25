@@ -1,3 +1,6 @@
+## 20251225
+- [LibHunt](https://www.libhunt.com/) | [Mattermost](https://www.libhunt.com/r/mattermost)
+
 ## 20251224
 - [LibHunt](https://www.libhunt.com/) | [FreeDevTools](https://www.libhunt.com/r/FreeDevTools)
 

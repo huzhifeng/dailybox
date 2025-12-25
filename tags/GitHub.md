@@ -1,3 +1,6 @@
+## 20251225
+- [GitHub Trending](https://github.com/trending?since=daily) | [rendercv/rendercv](https://github.com/rendercv/rendercv)
+
 ## 20251224
 - [GitHub Trending](https://github.com/trending?since=daily) | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 

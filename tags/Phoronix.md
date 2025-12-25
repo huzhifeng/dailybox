@@ -1,3 +1,6 @@
+## 20251225
+- [Phoronix](https://www.phoronix.com/) | [Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers](https://www.phoronix.com/review/radeon-radv-amdvlk-final)
+
 ## 20251224
 - [Phoronix](https://www.phoronix.com/) | [Wayback 0.3 Released For Advancing This X11 Compatibility Layer](https://www.phoronix.com/news/Wayback-0.3)
 

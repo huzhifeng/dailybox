@@ -1,3 +1,6 @@
+## 20251225
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/)
+
 ## 20251224
 - [It's FOSS](https://itsfoss.com/) | [5 New Linux Distributions We Discovered in 2025](https://itsfoss.com/new-distros-2025/)
 
