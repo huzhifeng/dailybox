@@ -1,3 +1,6 @@
+## 20251226
+- [GitHub Trending](https://github.com/trending?since=daily) | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
 ## 20251225
 - [GitHub Trending](https://github.com/trending?since=daily) | [rendercv/rendercv](https://github.com/rendercv/rendercv)
 

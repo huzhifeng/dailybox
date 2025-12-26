@@ -1,3 +1,6 @@
+## 20251226
+- [It's FOSS](https://itsfoss.com/) | [CachyOS Wants to Improve Your Server Performance Now](https://itsfoss.com/news/cachyos-server-edition-plans/)
+
 ## 20251225
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/)
 

@@ -1,3 +1,6 @@
+## 20251226
+- [Phoronix](https://www.phoronix.com/) | [Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC](https://www.phoronix.com/news/Coreboot-25.12-Released)
+
 ## 20251225
 - [Phoronix](https://www.phoronix.com/) | [Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers](https://www.phoronix.com/review/radeon-radv-amdvlk-final)
 

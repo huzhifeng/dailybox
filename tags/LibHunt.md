@@ -1,3 +1,6 @@
+## 20251226
+- [LibHunt](https://www.libhunt.com/) | [Qwen-Image-Layered](https://www.libhunt.com/r/Qwen-Image-Layered)
+
 ## 20251225
 - [LibHunt](https://www.libhunt.com/) | [Mattermost](https://www.libhunt.com/r/mattermost)
 

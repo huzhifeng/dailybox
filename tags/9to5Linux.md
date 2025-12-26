@@ -1,3 +1,6 @@
+## 20251226
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.10 Released with Support for FLAC Audio in DASH Manifests](https://9to5linux.com/gstreamer-1-26-10-released-with-support-for-flac-audio-in-dash-manifests)
+
 ## 20251225
 - [9to5Linux](https://9to5linux.com/) | [QEMU 10.2 Officially Released with Live Update Support and Improvements](https://9to5linux.com/qemu-10-2-officially-released-with-live-update-support-and-improvements)
 

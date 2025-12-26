@@ -1,3 +1,7 @@
+## 20251226
+- [Phoronix](https://www.phoronix.com/) | [Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC](https://www.phoronix.com/news/Coreboot-25.12-Released)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.10 Released with Support for FLAC Audio in DASH Manifests](https://9to5linux.com/gstreamer-1-26-10-released-with-support-for-flac-audio-in-dash-manifests)
+
 ## 20251225
 - [Phoronix](https://www.phoronix.com/) | [Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers](https://www.phoronix.com/review/radeon-radv-amdvlk-final)
 - [9to5Linux](https://9to5linux.com/) | [QEMU 10.2 Officially Released with Live Update Support and Improvements](https://9to5linux.com/qemu-10-2-officially-released-with-live-update-support-and-improvements)
