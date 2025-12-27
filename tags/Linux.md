@@ -1,3 +1,6 @@
+## 20251227
+- [Phoronix](https://www.phoronix.com/) | [44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust](https://www.phoronix.com/news/GNOME-2025-Code-Stats)
+
 ## 20251226
 - [Phoronix](https://www.phoronix.com/) | [Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC](https://www.phoronix.com/news/Coreboot-25.12-Released)
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.10 Released with Support for FLAC Audio in DASH Manifests](https://9to5linux.com/gstreamer-1-26-10-released-with-support-for-flac-audio-in-dash-manifests)

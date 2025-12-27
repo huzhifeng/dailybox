@@ -1,3 +1,6 @@
+## 20251227
+- [GitHub Trending](https://github.com/trending?since=daily) | [langgenius/dify](https://github.com/langgenius/dify)
+
 ## 20251226
 - [GitHub Trending](https://github.com/trending?since=daily) | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 

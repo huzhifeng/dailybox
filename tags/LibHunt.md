@@ -1,3 +1,6 @@
+## 20251227
+- [LibHunt](https://www.libhunt.com/) | [aurora](https://www.libhunt.com/r/element-hq/aurora)
+
 ## 20251226
 - [LibHunt](https://www.libhunt.com/) | [Qwen-Image-Layered](https://www.libhunt.com/r/Qwen-Image-Layered)
 
