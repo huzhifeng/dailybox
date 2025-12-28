@@ -1,3 +1,6 @@
+## 20251228
+- [Phoronix](https://www.phoronix.com/) | [Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025](https://www.phoronix.com/news/Fedora-Linux-2025-Highlights)
+
 ## 20251227
 - [Phoronix](https://www.phoronix.com/) | [44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust](https://www.phoronix.com/news/GNOME-2025-Code-Stats)
 

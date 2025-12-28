@@ -1,3 +1,6 @@
+## 20251228
+- [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 ## 20251227
 - [GitHub Trending](https://github.com/trending?since=daily) | [langgenius/dify](https://github.com/langgenius/dify)
 

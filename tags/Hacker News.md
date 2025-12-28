@@ -1,3 +1,8 @@
+## 20251228
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-27](https://www.daemonology.net/hn-daily/2025-12-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-27](https://hacker-podcast.agi.li/episode/2025-12-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://news.ycombinator.com/item?id=46408988)
+
 ## 20251227
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2025-12-26](https://www.daemonology.net/hn-daily/2025-12-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2025-12-26](https://hacker-podcast.agi.li/episode/2025-12-26)

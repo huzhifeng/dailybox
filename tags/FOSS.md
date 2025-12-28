@@ -1,3 +1,6 @@
+## 20251228
+- [It's FOSS](https://itsfoss.com/) | [F*** You! Co-Creator of Go Language is Rightly Furious Over This Appreciation Email](https://itsfoss.com/news/rob-pike-furious/)
+
 ## 20251226
 - [It's FOSS](https://itsfoss.com/) | [CachyOS Wants to Improve Your Server Performance Now](https://itsfoss.com/news/cachyos-server-edition-plans/)
 
