@@ -1,3 +1,6 @@
+## 20251229
+- [It's FOSS](https://itsfoss.com/) | [Debian Embraces Chinese LoongArch Processors with Official Loong64 Support](https://itsfoss.com/news/debian-embraces-loongarch-processors/)
+
 ## 20251228
 - [It's FOSS](https://itsfoss.com/) | [F*** You! Co-Creator of Go Language is Rightly Furious Over This Appreciation Email](https://itsfoss.com/news/rob-pike-furious/)
 
