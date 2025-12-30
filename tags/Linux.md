@@ -1,3 +1,6 @@
+## 20251230
+- [Phoronix](https://www.phoronix.com/) | [Intel's Xe Linux Driver Ready With Multi-Device SVM To End Out 2025](https://www.phoronix.com/news/Intel-Multi-Device-SVM-Linux-7)
+
 ## 20251229
 - [Phoronix](https://www.phoronix.com/) | [The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers](https://www.phoronix.com/review/epyc-cachyos-server-preview)
 

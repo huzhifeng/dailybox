@@ -1,3 +1,6 @@
+## 20251230
+- [It's FOSS](https://itsfoss.com/) | [Experiencing This Powerful NXP  SBC Made Me Realize of My Limitations](https://itsfoss.com/forlinx-nxp-sbc-review/)
+
 ## 20251229
 - [It's FOSS](https://itsfoss.com/) | [Debian Embraces Chinese LoongArch Processors with Official Loong64 Support](https://itsfoss.com/news/debian-embraces-loongarch-processors/)
 

@@ -1,3 +1,6 @@
+## 20251230
+- [GitHub Trending](https://github.com/trending?since=daily) | [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
 ## 20251229
 - [GitHub Trending](https://github.com/trending?since=daily) | [tw93/Mole](https://github.com/tw93/Mole)
 

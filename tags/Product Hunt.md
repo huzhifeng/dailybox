@@ -1,3 +1,6 @@
+## 20251230
+- [Product Hunt](https://www.producthunt.com) | [Gitdocs](https://www.producthunt.com/products/gitdocs-ai)
+
 ## 20251226
 - [Product Hunt](https://www.producthunt.com) | [Erla](https://www.producthunt.com/products/erla)
 
