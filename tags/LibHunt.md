@@ -1,3 +1,6 @@
+## 20251231
+- [LibHunt](https://www.libhunt.com/) | [LLMRouter](https://www.libhunt.com/r/LLMRouter)
+
 ## 20251228
 - [LibHunt](https://www.libhunt.com/) | [cortex-mem](https://www.libhunt.com/r/cortex-mem)
 

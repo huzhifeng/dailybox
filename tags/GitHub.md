@@ -1,3 +1,6 @@
+## 20251231
+- [GitHub Trending](https://github.com/trending?since=daily) | [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
+
 ## 20251230
 - [GitHub Trending](https://github.com/trending?since=daily) | [antiwork/gumroad](https://github.com/antiwork/gumroad)
 

@@ -1,3 +1,6 @@
+## 20251231
+- [It's FOSS](https://itsfoss.com/) | [Open Source New Year Almanac: What Does 2026 Hold for You? 🗓️](https://itsfoss.com/quiz/open-source-new-year-almanac/)
+
 ## 20251230
 - [It's FOSS](https://itsfoss.com/) | [Experiencing This Powerful NXP  SBC Made Me Realize of My Limitations](https://itsfoss.com/forlinx-nxp-sbc-review/)
 

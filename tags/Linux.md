@@ -1,3 +1,7 @@
+## 20251231
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer Adds CUPS, rEFInd Boot, IWD, COSMIC & Power Management Options](https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.15)
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Archinstall 3.0.15 Adds Support for the rEFInd Boot Manager](https://9to5linux.com/arch-linux-installer-archinstall-3-0-15-adds-support-for-the-refind-boot-manager)
+
 ## 20251230
 - [Phoronix](https://www.phoronix.com/) | [Intel's Xe Linux Driver Ready With Multi-Device SVM To End Out 2025](https://www.phoronix.com/news/Intel-Multi-Device-SVM-Linux-7)
 

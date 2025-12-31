@@ -1,3 +1,6 @@
+## 20251231
+- [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Archinstall 3.0.15 Adds Support for the rEFInd Boot Manager](https://9to5linux.com/arch-linux-installer-archinstall-3-0-15-adds-support-for-the-refind-boot-manager)
+
 ## 20251226
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.26.10 Released with Support for FLAC Audio in DASH Manifests](https://9to5linux.com/gstreamer-1-26-10-released-with-support-for-flac-audio-in-dash-manifests)
 

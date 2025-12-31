@@ -1,3 +1,6 @@
+## 20251231
+- [Product Hunt](https://www.producthunt.com) | [Vidcard](https://www.producthunt.com/products/vidcard)
+
 ## 20251230
 - [Product Hunt](https://www.producthunt.com) | [Gitdocs](https://www.producthunt.com/products/gitdocs-ai)
 
