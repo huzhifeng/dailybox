@@ -1,3 +1,6 @@
+## 20260101
+- [9to5Linux](https://9to5linux.com/) | [IceWM 4.0 Lightweight Window Manager Released with an Improved Alt+Tab Switch](https://9to5linux.com/icewm-4-0-lightweight-window-manager-released-with-an-improved-alttab-switch)
+
 ## 20251231
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Archinstall 3.0.15 Adds Support for the rEFInd Boot Manager](https://9to5linux.com/arch-linux-installer-archinstall-3-0-15-adds-support-for-the-refind-boot-manager)
 

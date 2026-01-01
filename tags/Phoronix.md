@@ -1,3 +1,6 @@
+## 20260101
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Starts 2026 With Another "Major Step" Toward Windows NT6 Compatibility](https://www.phoronix.com/news/ReactOS-Starts-2026)
+
 ## 20251231
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer Adds CUPS, rEFInd Boot, IWD, COSMIC & Power Management Options](https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.15)
 

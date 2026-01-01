@@ -1,3 +1,6 @@
+## 20260101
+- [GitHub Trending](https://github.com/trending?since=daily) | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+
 ## 20251231
 - [GitHub Trending](https://github.com/trending?since=daily) | [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
 

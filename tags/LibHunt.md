@@ -1,3 +1,6 @@
+## 20260101
+- [LibHunt](https://www.libhunt.com/) | [pivor](https://www.libhunt.com/r/pivor)
+
 ## 20251231
 - [LibHunt](https://www.libhunt.com/) | [LLMRouter](https://www.libhunt.com/r/LLMRouter)
 

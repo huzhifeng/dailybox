@@ -1,3 +1,6 @@
+## 20260101
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/)
+
 ## 20251231
 - [It's FOSS](https://itsfoss.com/) | [Open Source New Year Almanac: What Does 2026 Hold for You? 🗓️](https://itsfoss.com/quiz/open-source-new-year-almanac/)
 

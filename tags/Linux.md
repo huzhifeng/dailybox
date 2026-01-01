@@ -1,3 +1,7 @@
+## 20260101
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Starts 2026 With Another "Major Step" Toward Windows NT6 Compatibility](https://www.phoronix.com/news/ReactOS-Starts-2026)
+- [9to5Linux](https://9to5linux.com/) | [IceWM 4.0 Lightweight Window Manager Released with an Improved Alt+Tab Switch](https://9to5linux.com/icewm-4-0-lightweight-window-manager-released-with-an-improved-alttab-switch)
+
 ## 20251231
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux Installer Adds CUPS, rEFInd Boot, IWD, COSMIC & Power Management Options](https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.15)
 - [9to5Linux](https://9to5linux.com/) | [Arch Linux Installer Archinstall 3.0.15 Adds Support for the rEFInd Boot Manager](https://9to5linux.com/arch-linux-installer-archinstall-3-0-15-adds-support-for-the-refind-boot-manager)
