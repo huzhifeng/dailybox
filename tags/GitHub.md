@@ -1,3 +1,6 @@
+## 20260102
+- [GitHub Trending](https://github.com/trending?since=daily) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+
 ## 20260101
 - [GitHub Trending](https://github.com/trending?since=daily) | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 

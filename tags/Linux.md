@@ -1,3 +1,7 @@
+## 20260102
+- [Phoronix](https://www.phoronix.com/) | [New Linux Patches Allow More Easily Changing The Tux Kernel Boot Logo](https://www.phoronix.com/news/LInux-Kconfig-Tux-Boot-Logo)
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU+Linux 6.1 Released with Unofficial Raspberry Pi Images](https://9to5linux.com/systemd-free-devuan-gnulinux-6-1-released-with-unofficial-raspberry-pi-images)
+
 ## 20260101
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Starts 2026 With Another "Major Step" Toward Windows NT6 Compatibility](https://www.phoronix.com/news/ReactOS-Starts-2026)
 - [9to5Linux](https://9to5linux.com/) | [IceWM 4.0 Lightweight Window Manager Released with an Improved Alt+Tab Switch](https://9to5linux.com/icewm-4-0-lightweight-window-manager-released-with-an-improved-alttab-switch)

@@ -1,3 +1,6 @@
+## 20260102
+- [Phoronix](https://www.phoronix.com/) | [New Linux Patches Allow More Easily Changing The Tux Kernel Boot Logo](https://www.phoronix.com/news/LInux-Kconfig-Tux-Boot-Logo)
+
 ## 20260101
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Starts 2026 With Another "Major Step" Toward Windows NT6 Compatibility](https://www.phoronix.com/news/ReactOS-Starts-2026)
 

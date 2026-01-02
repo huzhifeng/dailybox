@@ -1,3 +1,6 @@
+## 20260102
+- [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU+Linux 6.1 Released with Unofficial Raspberry Pi Images](https://9to5linux.com/systemd-free-devuan-gnulinux-6-1-released-with-unofficial-raspberry-pi-images)
+
 ## 20260101
 - [9to5Linux](https://9to5linux.com/) | [IceWM 4.0 Lightweight Window Manager Released with an Improved Alt+Tab Switch](https://9to5linux.com/icewm-4-0-lightweight-window-manager-released-with-an-improved-alttab-switch)
 
