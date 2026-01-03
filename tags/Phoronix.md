@@ -1,3 +1,6 @@
+## 20260103
+- [Phoronix](https://www.phoronix.com/) | [Linux Audio Quirk Handling On The Way For Dell Panther Lake Laptops](https://www.phoronix.com/news/Audio-Quirk-Dell-Panther-Lake)
+
 ## 20260102
 - [Phoronix](https://www.phoronix.com/) | [New Linux Patches Allow More Easily Changing The Tux Kernel Boot Logo](https://www.phoronix.com/news/LInux-Kconfig-Tux-Boot-Logo)
 

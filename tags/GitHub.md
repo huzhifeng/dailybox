@@ -1,3 +1,6 @@
+## 20260103
+- [GitHub Trending](https://github.com/trending?since=daily) | [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+
 ## 20260102
 - [GitHub Trending](https://github.com/trending?since=daily) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 

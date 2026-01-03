@@ -1,3 +1,8 @@
+## 20260103
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-02](https://www.daemonology.net/hn-daily/2026-01-02.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-02](https://hacker-podcast.agi.li/episode/2026-01-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Trump says Venezuela’s Maduro captured after strikes](https://news.ycombinator.com/item?id=46473348)
+
 ## 20260102
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-01](https://www.daemonology.net/hn-daily/2026-01-01.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-01](https://hacker-podcast.agi.li/episode/2026-01-01)

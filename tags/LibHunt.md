@@ -1,3 +1,6 @@
+## 20260103
+- [LibHunt](https://www.libhunt.com/) | [go-faas](https://www.libhunt.com/r/go-faas)
+
 ## 20260102
 - [LibHunt](https://www.libhunt.com/) | [ison](https://www.libhunt.com/r/ison)
 
