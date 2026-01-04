@@ -1,3 +1,6 @@
+## 20260104
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
 ## 20260103
 - [GitHub Trending](https://github.com/trending?since=daily) | [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
 

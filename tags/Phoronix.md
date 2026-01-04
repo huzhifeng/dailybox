@@ -1,3 +1,6 @@
+## 20260104
+- [Phoronix](https://www.phoronix.com/) | [TrixiePup64 2601 Released For Debian 13 Powered Puppy Linux In Wayland & X11 Flavors](https://www.phoronix.com/news/TrixiePup64-2601-Released)
+
 ## 20260103
 - [Phoronix](https://www.phoronix.com/) | [Linux Audio Quirk Handling On The Way For Dell Panther Lake Laptops](https://www.phoronix.com/news/Audio-Quirk-Dell-Panther-Lake)
 

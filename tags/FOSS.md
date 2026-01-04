@@ -1,3 +1,6 @@
+## 20260104
+- [It's FOSS](https://itsfoss.com/) | [What Is Liquorix Kernel? Should You Use It?](https://itsfoss.com/liquorix-kernel/)
+
 ## 20260101
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/)
 

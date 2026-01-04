@@ -1,3 +1,6 @@
+## 20260104
+- [Product Hunt](https://www.producthunt.com) | [Nutgrafe](https://www.producthunt.com/products/nutgrafe)
+
 ## 20251231
 - [Product Hunt](https://www.producthunt.com) | [Vidcard](https://www.producthunt.com/products/vidcard)
 
