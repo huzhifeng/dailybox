@@ -1,3 +1,6 @@
+## 20260105
+- [GitHub Trending](https://github.com/trending?since=daily) | [usememos/memos](https://github.com/usememos/memos)
+
 ## 20260104
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 

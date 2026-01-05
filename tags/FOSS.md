@@ -1,3 +1,6 @@
+## 20260105
+- [It's FOSS](https://itsfoss.com/) | [First Good News of 2026!COCOS 4 Game Engine Goes Open Source](https://itsfoss.com/news/cocos-4-game-engine/)
+
 ## 20260104
 - [It's FOSS](https://itsfoss.com/) | [What Is Liquorix Kernel? Should You Use It?](https://itsfoss.com/liquorix-kernel/)
 

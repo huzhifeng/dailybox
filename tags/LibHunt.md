@@ -1,3 +1,6 @@
+## 20260105
+- [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
+
 ## 20260104
 - [LibHunt](https://www.libhunt.com/) | [lar](https://www.libhunt.com/r/lar)
 

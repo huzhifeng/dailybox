@@ -1,3 +1,8 @@
+## 20260105
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-04](https://www.daemonology.net/hn-daily/2026-01-04.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-04](https://hacker-podcast.agi.li/episode/2026-01-04)
+- [Hacker News](https://news.ycombinator.com/front) | [It's hard to justify Tahoe icons](https://news.ycombinator.com/item?id=46497712)
+
 ## 20260104
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-03](https://www.daemonology.net/hn-daily/2026-01-03.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-03](https://hacker-podcast.agi.li/episode/2026-01-03)
