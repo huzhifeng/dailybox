@@ -1,3 +1,6 @@
+## 20260106
+- [Phoronix](https://www.phoronix.com/) | [Transparent Hugepage Performance On Linux 6.18 LTS: Madvise vs. Always](https://www.phoronix.com/review/thp-madvise-always)
+
 ## 20260105
 - [Phoronix](https://www.phoronix.com/) | [Apple SMC Power Driver Posted For Linux Kernel To Finally Expose Battery Stats](https://www.phoronix.com/news/Apple-Silicon-Power-Driver-2026)
 

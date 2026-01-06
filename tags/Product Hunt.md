@@ -1,3 +1,6 @@
+## 20260106
+- [Product Hunt](https://www.producthunt.com) | [2-b.ai](https://www.producthunt.com/products/2-b-ai)
+
 ## 20260105
 - [Product Hunt](https://www.producthunt.com) | [Dashly](https://www.producthunt.com/products/dashly-3)
 

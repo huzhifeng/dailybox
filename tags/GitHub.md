@@ -1,3 +1,6 @@
+## 20260106
+- [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
 ## 20260105
 - [GitHub Trending](https://github.com/trending?since=daily) | [usememos/memos](https://github.com/usememos/memos)
 

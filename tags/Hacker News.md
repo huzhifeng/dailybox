@@ -1,3 +1,8 @@
+## 20260106
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-05](https://www.daemonology.net/hn-daily/2026-01-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-05](https://hacker-podcast.agi.li/episode/2026-01-05)
+- [Hacker News](https://news.ycombinator.com/front) | [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://news.ycombinator.com/item?id=46511153)
+
 ## 20260105
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-04](https://www.daemonology.net/hn-daily/2026-01-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-04](https://hacker-podcast.agi.li/episode/2026-01-04)

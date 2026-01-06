@@ -1,3 +1,6 @@
+## 20260106
+- [LibHunt](https://www.libhunt.com/) | [neurondb](https://www.libhunt.com/r/neurondb)
+
 ## 20260105
 - [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
 

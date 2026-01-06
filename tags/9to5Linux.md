@@ -1,3 +1,6 @@
+## 20260106
+- [9to5Linux](https://9to5linux.com/) | [StarBook Horizon Linux Laptop Now on Sale with 32GB RAM, Wi-Fi 6E, and Coreboot](https://9to5linux.com/starbook-horizon-linux-laptop-now-on-sale-with-32gb-ram-wi-fi-6e-and-coreboot)
+
 ## 20260102
 - [9to5Linux](https://9to5linux.com/) | [Systemd-Free Devuan GNU+Linux 6.1 Released with Unofficial Raspberry Pi Images](https://9to5linux.com/systemd-free-devuan-gnulinux-6-1-released-with-unofficial-raspberry-pi-images)
 

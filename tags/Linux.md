@@ -1,3 +1,7 @@
+## 20260106
+- [Phoronix](https://www.phoronix.com/) | [Transparent Hugepage Performance On Linux 6.18 LTS: Madvise vs. Always](https://www.phoronix.com/review/thp-madvise-always)
+- [9to5Linux](https://9to5linux.com/) | [StarBook Horizon Linux Laptop Now on Sale with 32GB RAM, Wi-Fi 6E, and Coreboot](https://9to5linux.com/starbook-horizon-linux-laptop-now-on-sale-with-32gb-ram-wi-fi-6e-and-coreboot)
+
 ## 20260105
 - [Phoronix](https://www.phoronix.com/) | [Apple SMC Power Driver Posted For Linux Kernel To Finally Expose Battery Stats](https://www.phoronix.com/news/Apple-Silicon-Power-Driver-2026)
 

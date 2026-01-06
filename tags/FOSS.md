@@ -1,3 +1,6 @@
+## 20260106
+- [It's FOSS](https://itsfoss.com/) | [Installing GitHub Desktop on Ubuntu Linux (Because I Like it)](https://itsfoss.com/install-github-desktop-ubuntu/)
+
 ## 20260105
 - [It's FOSS](https://itsfoss.com/) | [First Good News of 2026!COCOS 4 Game Engine Goes Open Source](https://itsfoss.com/news/cocos-4-game-engine/)
 
