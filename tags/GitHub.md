@@ -1,3 +1,6 @@
+## 20260107
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
 ## 20260106
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 

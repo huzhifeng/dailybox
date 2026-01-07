@@ -1,3 +1,6 @@
+## 20260107
+- [Product Hunt](https://www.producthunt.com) | [Market Terminal™](https://www.producthunt.com/products/market-terminal-2)
+
 ## 20260106
 - [Product Hunt](https://www.producthunt.com) | [2-b.ai](https://www.producthunt.com/products/2-b-ai)
 

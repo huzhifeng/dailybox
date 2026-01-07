@@ -1,3 +1,7 @@
+## 20260107
+- [Phoronix](https://www.phoronix.com/) | [Next-Gen AMD Server SoCs To Enjoy Firmware-Agnostic Platform Configuration Approach](https://www.phoronix.com/news/AMD-OSFC-2025-FIrmware-Config)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Gen10 Linux Laptop Unveiled with New OLED Display](https://9to5linux.com/tuxedo-infinitybook-max-16-gen10-linux-laptop-unveiled-with-new-oled-display)
+
 ## 20260106
 - [Phoronix](https://www.phoronix.com/) | [Transparent Hugepage Performance On Linux 6.18 LTS: Madvise vs. Always](https://www.phoronix.com/review/thp-madvise-always)
 - [9to5Linux](https://9to5linux.com/) | [StarBook Horizon Linux Laptop Now on Sale with 32GB RAM, Wi-Fi 6E, and Coreboot](https://9to5linux.com/starbook-horizon-linux-laptop-now-on-sale-with-32gb-ram-wi-fi-6e-and-coreboot)

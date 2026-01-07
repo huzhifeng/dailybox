@@ -1,3 +1,6 @@
+## 20260107
+- [It's FOSS](https://itsfoss.com/) | [Fedora 44 Will Be the First Distro to Adopt KDE&#x27;s Plasma Login Manager](https://itsfoss.com/news/fedora-44-plasma-login-manager/)
+
 ## 20260106
 - [It's FOSS](https://itsfoss.com/) | [Installing GitHub Desktop on Ubuntu Linux (Because I Like it)](https://itsfoss.com/install-github-desktop-ubuntu/)
 

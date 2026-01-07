@@ -1,3 +1,6 @@
+## 20260107
+- [Phoronix](https://www.phoronix.com/) | [Next-Gen AMD Server SoCs To Enjoy Firmware-Agnostic Platform Configuration Approach](https://www.phoronix.com/news/AMD-OSFC-2025-FIrmware-Config)
+
 ## 20260106
 - [Phoronix](https://www.phoronix.com/) | [Transparent Hugepage Performance On Linux 6.18 LTS: Madvise vs. Always](https://www.phoronix.com/review/thp-madvise-always)
 
