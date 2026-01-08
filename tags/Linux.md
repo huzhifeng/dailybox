@@ -1,3 +1,7 @@
+## 20260108
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance](https://www.phoronix.com/review/linux-618-liquorix)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.1 Released with Various Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-12-1-released-with-various-improvements-for-your-favorite-kde-apps)
+
 ## 20260107
 - [Phoronix](https://www.phoronix.com/) | [Next-Gen AMD Server SoCs To Enjoy Firmware-Agnostic Platform Configuration Approach](https://www.phoronix.com/news/AMD-OSFC-2025-FIrmware-Config)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Gen10 Linux Laptop Unveiled with New OLED Display](https://9to5linux.com/tuxedo-infinitybook-max-16-gen10-linux-laptop-unveiled-with-new-oled-display)

@@ -1,3 +1,6 @@
+## 20260108
+- [Product Hunt](https://www.producthunt.com) | [Muze AI](https://www.producthunt.com/products/muze-ai)
+
 ## 20260107
 - [Product Hunt](https://www.producthunt.com) | [Market Terminal™](https://www.producthunt.com/products/market-terminal-2)
 

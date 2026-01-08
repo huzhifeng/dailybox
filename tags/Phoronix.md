@@ -1,3 +1,6 @@
+## 20260108
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance](https://www.phoronix.com/review/linux-618-liquorix)
+
 ## 20260107
 - [Phoronix](https://www.phoronix.com/) | [Next-Gen AMD Server SoCs To Enjoy Firmware-Agnostic Platform Configuration Approach](https://www.phoronix.com/news/AMD-OSFC-2025-FIrmware-Config)
 

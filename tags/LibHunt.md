@@ -1,3 +1,6 @@
+## 20260108
+- [LibHunt](https://www.libhunt.com/) | [IsaacSim](https://www.libhunt.com/r/IsaacSim)
+
 ## 20260107
 - [LibHunt](https://www.libhunt.com/) | [memU](https://www.libhunt.com/r/memU)
 

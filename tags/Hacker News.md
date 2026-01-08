@@ -1,3 +1,8 @@
+## 20260108
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-07](https://www.daemonology.net/hn-daily/2026-01-07.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-07](https://hacker-podcast.agi.li/episode/2026-01-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://news.ycombinator.com/item?id=46537489)
+
 ## 20260107
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-06](https://www.daemonology.net/hn-daily/2026-01-06.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-06](https://hacker-podcast.agi.li/episode/2026-01-06)

@@ -1,3 +1,6 @@
+## 20260108
+- [It's FOSS](https://itsfoss.com/) | [Bose SoundTouch End of Life Gets Less Painful With Public API Release](https://itsfoss.com/news/bose-soundtouch-api/)
+
 ## 20260107
 - [It's FOSS](https://itsfoss.com/) | [Fedora 44 Will Be the First Distro to Adopt KDE&#x27;s Plasma Login Manager](https://itsfoss.com/news/fedora-44-plasma-login-manager/)
 

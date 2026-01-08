@@ -1,3 +1,6 @@
+## 20260108
+- [GitHub Trending](https://github.com/trending?since=daily) | [memvid/memvid](https://github.com/memvid/memvid)
+
 ## 20260107
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
