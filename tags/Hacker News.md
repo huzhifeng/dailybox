@@ -1,3 +1,8 @@
+## 20260109
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-08](https://www.daemonology.net/hn-daily/2026-01-08.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-08](https://hacker-podcast.agi.li/episode/2026-01-08)
+- [Hacker News](https://news.ycombinator.com/front) | [European Commission issues call for evidence on open source](https://news.ycombinator.com/item?id=46550912)
+
 ## 20260108
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-07](https://www.daemonology.net/hn-daily/2026-01-07.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-07](https://hacker-podcast.agi.li/episode/2026-01-07)

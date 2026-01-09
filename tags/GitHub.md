@@ -1,3 +1,6 @@
+## 20260109
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
 ## 20260108
 - [GitHub Trending](https://github.com/trending?since=daily) | [memvid/memvid](https://github.com/memvid/memvid)
 

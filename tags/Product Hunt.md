@@ -1,3 +1,6 @@
+## 20260109
+- [Product Hunt](https://www.producthunt.com) | [Repo Prompt](https://www.producthunt.com/products/repo-prompt)
+
 ## 20260108
 - [Product Hunt](https://www.producthunt.com) | [Muze AI](https://www.producthunt.com/products/muze-ai)
 

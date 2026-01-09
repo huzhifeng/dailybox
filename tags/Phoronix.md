@@ -1,3 +1,6 @@
+## 20260109
+- [Phoronix](https://www.phoronix.com/) | [Mesa 26.0 RADV Lands Dedicated Transfer-Only Queue Using SDMA](https://www.phoronix.com/news/Mesa-26.0-RADV-Transfer-SDMA)
+
 ## 20260108
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance](https://www.phoronix.com/review/linux-618-liquorix)
 

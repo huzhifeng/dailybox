@@ -1,3 +1,6 @@
+## 20260109
+- [LibHunt](https://www.libhunt.com/) | [crush](https://www.libhunt.com/r/crush)
+
 ## 20260108
 - [LibHunt](https://www.libhunt.com/) | [IsaacSim](https://www.libhunt.com/r/IsaacSim)
 
