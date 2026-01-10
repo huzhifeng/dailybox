@@ -1,3 +1,6 @@
+## 20260110
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Is Coming on February 17th, Here&#8217;s What to Expect](https://9to5linux.com/kde-plasma-6-6-desktop-is-coming-on-february-17th-heres-what-to-expect)
+
 ## 20260108
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.1 Released with Various Improvements for Your Favorite KDE Apps](https://9to5linux.com/kde-gear-25-12-1-released-with-various-improvements-for-your-favorite-kde-apps)
 

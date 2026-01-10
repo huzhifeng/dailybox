@@ -1,3 +1,6 @@
+## 20260110
+- [Product Hunt](https://www.producthunt.com) | [Burner Note](https://www.producthunt.com/products/burner-note)
+
 ## 20260109
 - [Product Hunt](https://www.producthunt.com) | [Repo Prompt](https://www.producthunt.com/products/repo-prompt)
 

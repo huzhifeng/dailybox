@@ -1,3 +1,6 @@
+## 20260110
+- [LibHunt](https://www.libhunt.com/) | [zeroshot](https://www.libhunt.com/r/zeroshot)
+
 ## 20260109
 - [LibHunt](https://www.libhunt.com/) | [crush](https://www.libhunt.com/r/crush)
 

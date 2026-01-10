@@ -1,3 +1,6 @@
+## 20260110
+- [It's FOSS](https://itsfoss.com/) | [The Open Source Diary App for Android That Organizes Your Life on a Timeline](https://itsfoss.com/storypad-open-source-diary-app/)
+
 ## 20260108
 - [It's FOSS](https://itsfoss.com/) | [Bose SoundTouch End of Life Gets Less Painful With Public API Release](https://itsfoss.com/news/bose-soundtouch-api/)
 
