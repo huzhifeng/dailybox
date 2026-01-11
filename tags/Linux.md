@@ -1,3 +1,6 @@
+## 20260111
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Safeguard For RISC-V Against Another Microarchitectural Attack Vector](https://www.phoronix.com/news/Linux-6.19-RISC-V-Side-Channel)
+
 ## 20260110
 - [Phoronix](https://www.phoronix.com/) | [Mageia 10 Alpha Released - 32-bit ISOs Still Available](https://www.phoronix.com/news/Mageia-10-Alpha)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Is Coming on February 17th, Here&#8217;s What to Expect](https://9to5linux.com/kde-plasma-6-6-desktop-is-coming-on-february-17th-heres-what-to-expect)

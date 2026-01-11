@@ -1,3 +1,6 @@
+## 20260111
+- [LibHunt](https://www.libhunt.com/) | [Ferrite](https://www.libhunt.com/r/OlaProeis/Ferrite)
+
 ## 20260110
 - [LibHunt](https://www.libhunt.com/) | [zeroshot](https://www.libhunt.com/r/zeroshot)
 

@@ -1,3 +1,6 @@
+## 20260111
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Safeguard For RISC-V Against Another Microarchitectural Attack Vector](https://www.phoronix.com/news/Linux-6.19-RISC-V-Side-Channel)
+
 ## 20260110
 - [Phoronix](https://www.phoronix.com/) | [Mageia 10 Alpha Released - 32-bit ISOs Still Available](https://www.phoronix.com/news/Mageia-10-Alpha)
 

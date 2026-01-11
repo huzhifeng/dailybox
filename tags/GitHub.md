@@ -1,3 +1,6 @@
+## 20260111
+- [GitHub Trending](https://github.com/trending?since=daily) | [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+
 ## 20260110
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
