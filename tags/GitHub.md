@@ -1,3 +1,6 @@
+## 20260112
+- [GitHub Trending](https://github.com/trending?since=daily) | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+
 ## 20260111
 - [GitHub Trending](https://github.com/trending?since=daily) | [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
 

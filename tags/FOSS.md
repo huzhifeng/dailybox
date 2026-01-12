@@ -1,3 +1,6 @@
+## 20260112
+- [It's FOSS](https://itsfoss.com/) | [BTW, Arch Users! Pacman Might Be Getting a Rust Replacement](https://itsfoss.com/news/pacman-rust-treatment/)
+
 ## 20260110
 - [It's FOSS](https://itsfoss.com/) | [The Open Source Diary App for Android That Organizes Your Life on a Timeline](https://itsfoss.com/storypad-open-source-diary-app/)
 

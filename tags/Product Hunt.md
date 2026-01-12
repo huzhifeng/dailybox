@@ -1,3 +1,6 @@
+## 20260112
+- [Product Hunt](https://www.producthunt.com) | [ cubic 2.0](https://www.producthunt.com/products/cubic)
+
 ## 20260111
 - [Product Hunt](https://www.producthunt.com) | [MTV REWIND](https://www.producthunt.com/products/mtv-rewind-music-videos-24-7-ad-free)
 

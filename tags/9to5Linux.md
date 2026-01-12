@@ -1,3 +1,6 @@
+## 20260112
+- [9to5Linux](https://9to5linux.com/) | [Firefox 147 Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/firefox-147-is-now-available-for-download-heres-whats-new)
+
 ## 20260110
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Is Coming on February 17th, Here&#8217;s What to Expect](https://9to5linux.com/kde-plasma-6-6-desktop-is-coming-on-february-17th-heres-what-to-expect)
 

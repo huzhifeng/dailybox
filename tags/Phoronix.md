@@ -1,3 +1,6 @@
+## 20260112
+- [Phoronix](https://www.phoronix.com/) | [Firefox 147 Now Available With XDG Base Directory Specification Support](https://www.phoronix.com/news/Firefox-147-Downloads)
+
 ## 20260111
 - [Phoronix](https://www.phoronix.com/) | [Linux Lands Safeguard For RISC-V Against Another Microarchitectural Attack Vector](https://www.phoronix.com/news/Linux-6.19-RISC-V-Side-Channel)
 
