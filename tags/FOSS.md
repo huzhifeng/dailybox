@@ -1,3 +1,6 @@
+## 20260113
+- [It's FOSS](https://itsfoss.com/) | [Hey Fedora! Listen to This Developer and Make Managing Shell Extensions Better For All of Us](https://itsfoss.com/news/fedora-gnome-extension-manager-proposal/)
+
 ## 20260112
 - [It's FOSS](https://itsfoss.com/) | [BTW, Arch Users! Pacman Might Be Getting a Rust Replacement](https://itsfoss.com/news/pacman-rust-treatment/)
 

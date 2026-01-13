@@ -1,3 +1,6 @@
+## 20260113
+- [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ## 20260112
 - [GitHub Trending](https://github.com/trending?since=daily) | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
 

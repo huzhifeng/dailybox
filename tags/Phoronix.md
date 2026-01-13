@@ -1,3 +1,6 @@
+## 20260113
+- [Phoronix](https://www.phoronix.com/) | [Intel's Fantastic New Open-Source Demonstrator For AMX-BF16: Over 4x The Performance At 69% The Power](https://www.phoronix.com/review/intel-oidn-amx-fp16)
+
 ## 20260112
 - [Phoronix](https://www.phoronix.com/) | [Firefox 147 Now Available With XDG Base Directory Specification Support](https://www.phoronix.com/news/Firefox-147-Downloads)
 

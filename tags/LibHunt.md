@@ -1,3 +1,6 @@
+## 20260113
+- [LibHunt](https://www.libhunt.com/) | [agent-of-empires](https://www.libhunt.com/r/agent-of-empires)
+
 ## 20260111
 - [LibHunt](https://www.libhunt.com/) | [Ferrite](https://www.libhunt.com/r/OlaProeis/Ferrite)
 
