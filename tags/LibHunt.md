@@ -1,3 +1,6 @@
+## 20260114
+- [LibHunt](https://www.libhunt.com/) | [litterbox](https://www.libhunt.com/r/litterbox)
+
 ## 20260113
 - [LibHunt](https://www.libhunt.com/) | [agent-of-empires](https://www.libhunt.com/r/agent-of-empires)
 

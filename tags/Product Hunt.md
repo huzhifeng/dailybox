@@ -1,3 +1,6 @@
+## 20260114
+- [Product Hunt](https://www.producthunt.com) | [0xCal](https://www.producthunt.com/products/0xcal)
+
 ## 20260113
 - [Product Hunt](https://www.producthunt.com) | [Phia](https://www.producthunt.com/products/phia)
 

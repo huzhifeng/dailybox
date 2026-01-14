@@ -1,3 +1,6 @@
+## 20260114
+- [It's FOSS](https://itsfoss.com/) | [Linux Mint 22.3 &quot;Zena&quot; is Officially Available Now! Introduces Two New Apps](https://itsfoss.com/news/linux-mint-22-3-release/)
+
 ## 20260113
 - [It's FOSS](https://itsfoss.com/) | [Hey Fedora! Listen to This Developer and Make Managing Shell Extensions Better For All of Us](https://itsfoss.com/news/fedora-gnome-extension-manager-proposal/)
 

@@ -1,3 +1,6 @@
+## 20260114
+- [Phoronix](https://www.phoronix.com/) | [$99 BeaglePlay Board Achieves "100% Open-Source" Upstream PowerVR Graphics](https://www.phoronix.com/news/BeaglePlay-PowerVR-Success)
+
 ## 20260113
 - [Phoronix](https://www.phoronix.com/) | [Intel's Fantastic New Open-Source Demonstrator For AMX-BF16: Over 4x The Performance At 69% The Power](https://www.phoronix.com/review/intel-oidn-amx-fp16)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.5 Is Out, Improves Support for Older Valve Index VR Headsets](https://9to5linux.com/kde-plasma-6-5-5-is-out-improves-support-for-older-valve-index-vr-headsets)

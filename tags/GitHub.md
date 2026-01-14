@@ -1,3 +1,6 @@
+## 20260114
+- [GitHub Trending](https://github.com/trending?since=daily) | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+
 ## 20260113
 - [GitHub Trending](https://github.com/trending?since=daily) | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 
