@@ -1,3 +1,6 @@
+## 20260116
+- [GitHub Trending](https://github.com/trending?since=daily) | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
+
 ## 20260114
 - [GitHub Trending](https://github.com/trending?since=daily) | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 
