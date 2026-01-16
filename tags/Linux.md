@@ -1,3 +1,7 @@
+## 20260116
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Looks To Enable Intel TSX By Default On Capable CPUs For Better Performance](https://www.phoronix.com/news/Linux-7.0-Intel-TSX-Default)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Games Lab Spin to Switch from Xfce to KDE Plasma with Fedora Linux 44](https://9to5linux.com/fedora-games-lab-spin-to-switch-from-xfce-to-kde-plasma-with-fedora-linux-44)
+
 ## 20260114
 - [Phoronix](https://www.phoronix.com/) | [$99 BeaglePlay Board Achieves "100% Open-Source" Upstream PowerVR Graphics](https://www.phoronix.com/news/BeaglePlay-PowerVR-Success)
 

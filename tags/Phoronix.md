@@ -1,3 +1,6 @@
+## 20260116
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Looks To Enable Intel TSX By Default On Capable CPUs For Better Performance](https://www.phoronix.com/news/Linux-7.0-Intel-TSX-Default)
+
 ## 20260114
 - [Phoronix](https://www.phoronix.com/) | [$99 BeaglePlay Board Achieves "100% Open-Source" Upstream PowerVR Graphics](https://www.phoronix.com/news/BeaglePlay-PowerVR-Success)
 

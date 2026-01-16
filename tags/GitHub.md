@@ -1,4 +1,7 @@
 ## 20260116
+- [GitHub Trending](https://github.com/trending?since=daily) | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+
+## 20260116
 - [GitHub Trending](https://github.com/trending?since=daily) | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
 
 ## 20260114

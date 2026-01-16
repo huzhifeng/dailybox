@@ -1,3 +1,6 @@
+## 20260116
+- [Product Hunt](https://www.producthunt.com) | [TranslateGemma ](https://www.producthunt.com/products/translategemma)
+
 ## 20260114
 - [Product Hunt](https://www.producthunt.com) | [0xCal](https://www.producthunt.com/products/0xcal)
 

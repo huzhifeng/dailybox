@@ -1,4 +1,9 @@
 ## 20260116
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-15](https://www.daemonology.net/hn-daily/2026-01-15.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-15](https://hacker-podcast.agi.li/episode/2026-01-15)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenBSD-current now runs as guest under Apple Hypervisor](https://news.ycombinator.com/item?id=46642560)
+
+## 20260116
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-14](https://hacker-podcast.agi.li/episode/2026-01-14)
 
 ## 20260114

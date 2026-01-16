@@ -1,3 +1,6 @@
+## 20260116
+- [LibHunt](https://www.libhunt.com/) | [pi-mono](https://www.libhunt.com/r/pi-mono)
+
 ## 20260114
 - [LibHunt](https://www.libhunt.com/) | [litterbox](https://www.libhunt.com/r/litterbox)
 
