@@ -1,3 +1,6 @@
+## 20260117
+- [GitHub Trending](https://github.com/trending?since=daily) | [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
+
 ## 20260116
 - [GitHub Trending](https://github.com/trending?since=daily) | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 

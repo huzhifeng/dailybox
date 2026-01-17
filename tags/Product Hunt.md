@@ -1,3 +1,6 @@
+## 20260117
+- [Product Hunt](https://www.producthunt.com) | [Chessmaster AI](https://www.producthunt.com/products/chessmaster-ai)
+
 ## 20260116
 - [Product Hunt](https://www.producthunt.com) | [TranslateGemma ](https://www.producthunt.com/products/translategemma)
 

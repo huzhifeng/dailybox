@@ -1,3 +1,6 @@
+## 20260117
+- [It's FOSS](https://itsfoss.com/) | [11 Interesting ESP32 Microcontroller Projects Beginners Can Try](https://itsfoss.com/esp32-microcontroller-projects/)
+
 ## 20260116
 - [It's FOSS](https://itsfoss.com/) | [Android Power Users Can Now Run Full Desktop Linux Environments Without Root Access](https://itsfoss.com/local-desktop/)
 
