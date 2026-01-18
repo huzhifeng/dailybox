@@ -1,3 +1,6 @@
+## 20260118
+- [GitHub Trending](https://github.com/trending?since=daily) | [puckeditor/puck](https://github.com/puckeditor/puck)
+
 ## 20260117
 - [GitHub Trending](https://github.com/trending?since=daily) | [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 

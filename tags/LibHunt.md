@@ -1,3 +1,6 @@
+## 20260118
+- [LibHunt](https://www.libhunt.com/) | [minikv](https://www.libhunt.com/r/minikv)
+
 ## 20260116
 - [LibHunt](https://www.libhunt.com/) | [pi-mono](https://www.libhunt.com/r/pi-mono)
 

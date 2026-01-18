@@ -1,3 +1,8 @@
+## 20260118
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-17](https://www.daemonology.net/hn-daily/2026-01-17.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-17](https://hacker-podcast.agi.li/episode/2026-01-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Iconify: Library of Open Source Icons](https://news.ycombinator.com/item?id=46665411)
+
 ## 20260117
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-16](https://www.daemonology.net/hn-daily/2026-01-16.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-16](https://hacker-podcast.agi.li/episode/2026-01-16)

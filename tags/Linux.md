@@ -1,3 +1,7 @@
+## 20260118
+- [Phoronix](https://www.phoronix.com/) | [HP OMEN/Victus Gaming Laptops Gaining Fan Control Support Under Linux](https://www.phoronix.com/news/HP-Victus-S-Linux-Fan-Control)
+- [9to5Linux](https://9to5linux.com/) | [Amarok 3.3.2 Brings Improvements to User Interface, Audio Backend, and More](https://9to5linux.com/amarok-3-3-2-released-with-improvements-to-user-interface-audio-backend-and-more)
+
 ## 20260117
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.1 Aims To Have KDE Desktop Installer Option](https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option)
 

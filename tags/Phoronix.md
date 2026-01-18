@@ -1,3 +1,6 @@
+## 20260118
+- [Phoronix](https://www.phoronix.com/) | [HP OMEN/Victus Gaming Laptops Gaining Fan Control Support Under Linux](https://www.phoronix.com/news/HP-Victus-S-Linux-Fan-Control)
+
 ## 20260117
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.1 Aims To Have KDE Desktop Installer Option](https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option)
 
