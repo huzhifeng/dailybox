@@ -1,3 +1,6 @@
+## 20260119
+- [GitHub Trending](https://github.com/trending?since=daily) | [Mebus/cupp](https://github.com/Mebus/cupp)
+
 ## 20260118
 - [GitHub Trending](https://github.com/trending?since=daily) | [puckeditor/puck](https://github.com/puckeditor/puck)
 

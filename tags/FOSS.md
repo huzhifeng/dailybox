@@ -1,3 +1,6 @@
+## 20260119
+- [It's FOSS](https://itsfoss.com/) | [Photoshop Installer Runs on Linux Despite Adobe Not Giving a Damn For Years](https://itsfoss.com/news/photoshop-installer-runs-on-linux/)
+
 ## 20260117
 - [It's FOSS](https://itsfoss.com/) | [11 Interesting ESP32 Microcontroller Projects Beginners Can Try](https://itsfoss.com/esp32-microcontroller-projects/)
 

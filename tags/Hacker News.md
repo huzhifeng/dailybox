@@ -1,3 +1,8 @@
+## 20260119
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-18](https://www.daemonology.net/hn-daily/2026-01-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-18](https://hacker-podcast.agi.li/episode/2026-01-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Radboud University selects Fairphone as standard smartphone for employees](https://news.ycombinator.com/item?id=46676276)
+
 ## 20260118
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-17](https://www.daemonology.net/hn-daily/2026-01-17.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-17](https://hacker-podcast.agi.li/episode/2026-01-17)

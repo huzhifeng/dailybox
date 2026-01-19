@@ -1,3 +1,6 @@
+## 20260119
+- [Phoronix](https://www.phoronix.com/) | [CAKE_MQ Slated For Linux 7.0 To Adapt SCH_CAKE For Today's Multi-Core World](https://www.phoronix.com/news/Linux-7.0-CAKE-MQ)
+
 ## 20260118
 - [Phoronix](https://www.phoronix.com/) | [HP OMEN/Victus Gaming Laptops Gaining Fan Control Support Under Linux](https://www.phoronix.com/news/HP-Victus-S-Linux-Fan-Control)
 
