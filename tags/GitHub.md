@@ -1,3 +1,6 @@
+## 20260120
+- [GitHub Trending](https://github.com/trending?since=daily) | [tobi/try](https://github.com/tobi/try)
+
 ## 20260119
 - [GitHub Trending](https://github.com/trending?since=daily) | [Mebus/cupp](https://github.com/Mebus/cupp)
 

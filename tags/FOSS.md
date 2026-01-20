@@ -1,3 +1,6 @@
+## 20260120
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu&#x27;s Snap Store is Under Siege from Scammers, and The Gates are Open](https://itsfoss.com/news/snap-store-under-siege/)
+
 ## 20260119
 - [It's FOSS](https://itsfoss.com/) | [Photoshop Installer Runs on Linux Despite Adobe Not Giving a Damn For Years](https://itsfoss.com/news/photoshop-installer-runs-on-linux/)
 

@@ -1,3 +1,6 @@
+## 20260120
+- [Product Hunt](https://www.producthunt.com) | [Trace](https://www.producthunt.com/products/trace-23)
+
 ## 20260118
 - [Product Hunt](https://www.producthunt.com) | [Movens](https://www.producthunt.com/products/movens)
 

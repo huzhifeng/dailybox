@@ -1,3 +1,10 @@
+## 20260120
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-19](https://www.daemonology.net/hn-daily/2026-01-19.html)
+- [Top Hacker News](https://www.tophn.co/) | [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 01 21 HackerNews](https://supertechfans.com/cn/post/2026-01-21-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-20](https://hacker-podcast.agi.li/episode/2026-01-20)
+- [Hacker News](https://news.ycombinator.com/front) | [A 26,000-year astronomical monument hidden in plain sight (2019)](https://news.ycombinator.com/item?id=46695628)
+
 ## 20260119
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-18](https://www.daemonology.net/hn-daily/2026-01-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-18](https://hacker-podcast.agi.li/episode/2026-01-18)
