@@ -1,3 +1,6 @@
+## 20260121
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Launches New Slimbook ONE Mini Linux PC, Slimbook Executive Laptop](https://9to5linux.com/slimbook-launches-new-slimbook-one-mini-linux-pc-slimbook-executive-laptop)
+
 ## 20260119
 - [Phoronix](https://www.phoronix.com/) | [CAKE_MQ Slated For Linux 7.0 To Adapt SCH_CAKE For Today's Multi-Core World](https://www.phoronix.com/news/Linux-7.0-CAKE-MQ)
 

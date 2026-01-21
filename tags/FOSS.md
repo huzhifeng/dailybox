@@ -1,3 +1,6 @@
+## 20260121
+- [It's FOSS](https://itsfoss.com/) | [I Ran the Famed Affinity Designer on Linux. Here&#x27;s How It Went](https://itsfoss.com/affinity-on-linux/)
+
 ## 20260120
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu&#x27;s Snap Store is Under Siege from Scammers, and The Gates are Open](https://itsfoss.com/news/snap-store-under-siege/)
 

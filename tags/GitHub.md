@@ -1,3 +1,6 @@
+## 20260121
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+
 ## 20260120
 - [GitHub Trending](https://github.com/trending?since=daily) | [tobi/try](https://github.com/tobi/try)
 

@@ -1,3 +1,6 @@
+## 20260121
+- [9to5Linux](https://9to5linux.com/) | [Slimbook Launches New Slimbook ONE Mini Linux PC, Slimbook Executive Laptop](https://9to5linux.com/slimbook-launches-new-slimbook-one-mini-linux-pc-slimbook-executive-laptop)
+
 ## 20260118
 - [9to5Linux](https://9to5linux.com/) | [Amarok 3.3.2 Brings Improvements to User Interface, Audio Backend, and More](https://9to5linux.com/amarok-3-3-2-released-with-improvements-to-user-interface-audio-backend-and-more)
 

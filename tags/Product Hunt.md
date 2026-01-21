@@ -1,3 +1,6 @@
+## 20260121
+- [Product Hunt](https://www.producthunt.com) | [Forvibe](https://www.producthunt.com/products/forvibe)
+
 ## 20260120
 - [Product Hunt](https://www.producthunt.com) | [Trace](https://www.producthunt.com/products/trace-23)
 

@@ -1,3 +1,10 @@
+## 20260121
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-20](https://www.daemonology.net/hn-daily/2026-01-20.html)
+- [Top Hacker News](https://www.tophn.co/) | [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 01 22 HackerNews](https://supertechfans.com/cn/post/2026-01-22-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-21](https://hacker-podcast.agi.li/episode/2026-01-21)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude's new constitution](https://news.ycombinator.com/item?id=46707572)
+
 ## 20260120
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-19](https://www.daemonology.net/hn-daily/2026-01-19.html)
 - [Top Hacker News](https://www.tophn.co/) | [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
