@@ -1,3 +1,6 @@
+## 20260122
+- [It's FOSS](https://itsfoss.com/) | [This Could be the Best Graphics Editor for Linux Users (Yes, it is Open Source)](https://itsfoss.com/graphite-graphics-editor/)
+
 ## 20260121
 - [It's FOSS](https://itsfoss.com/) | [I Ran the Famed Affinity Designer on Linux. Here&#x27;s How It Went](https://itsfoss.com/affinity-on-linux/)
 

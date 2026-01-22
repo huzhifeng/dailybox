@@ -1,3 +1,6 @@
+## 20260122
+- [9to5Linux](https://9to5linux.com/) | [New Steam Client Update Adds Support for the Razer Raiju V3 Pro Controller](https://9to5linux.com/new-steam-client-update-adds-support-for-the-razer-raiju-v3-pro-controller)
+
 ## 20260121
 - [9to5Linux](https://9to5linux.com/) | [Slimbook Launches New Slimbook ONE Mini Linux PC, Slimbook Executive Laptop](https://9to5linux.com/slimbook-launches-new-slimbook-one-mini-linux-pc-slimbook-executive-laptop)
 

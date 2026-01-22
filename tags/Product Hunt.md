@@ -1,3 +1,6 @@
+## 20260122
+- [Product Hunt](https://www.producthunt.com) | [Doclific](https://www.producthunt.com/products/doclific)
+
 ## 20260121
 - [Product Hunt](https://www.producthunt.com) | [Forvibe](https://www.producthunt.com/products/forvibe)
 

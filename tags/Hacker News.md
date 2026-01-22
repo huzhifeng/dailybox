@@ -1,3 +1,10 @@
+## 20260122
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-21](https://www.daemonology.net/hn-daily/2026-01-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 01 23 HackerNews](https://supertechfans.com/cn/post/2026-01-23-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-22](https://hacker-podcast.agi.li/episode/2026-01-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Capital One to acquire Brex for $5.15B](https://news.ycombinator.com/item?id=46725288)
+
 ## 20260121
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-20](https://www.daemonology.net/hn-daily/2026-01-20.html)
 - [Top Hacker News](https://www.tophn.co/) | [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
