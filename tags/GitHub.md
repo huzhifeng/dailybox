@@ -1,3 +1,6 @@
+## 20260123
+- [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
+
 ## 20260122
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
 

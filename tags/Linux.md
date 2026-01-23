@@ -1,3 +1,6 @@
+## 20260123
+- [Phoronix](https://www.phoronix.com/) | [Vulkan Roadmap 2026 Milestone: Variable Rate Shading, Host Image Copies & More](https://www.phoronix.com/news/Vulkan-Roadmap-2026)
+
 ## 20260122
 - [9to5Linux](https://9to5linux.com/) | [New Steam Client Update Adds Support for the Razer Raiju V3 Pro Controller](https://9to5linux.com/new-steam-client-update-adds-support-for-the-razer-raiju-v3-pro-controller)
 

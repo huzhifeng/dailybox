@@ -1,3 +1,8 @@
+## 20260123
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-22](https://www.daemonology.net/hn-daily/2026-01-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-19](https://hacker-podcast.agi.li/episode/2026-01-19)
+- [Hacker News](https://news.ycombinator.com/front) | [AI Usage Policy](https://news.ycombinator.com/item?id=46730504)
+
 ## 20260122
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-21](https://www.daemonology.net/hn-daily/2026-01-21.html)
 - [Top Hacker News](https://www.tophn.co/) | [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)

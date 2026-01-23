@@ -1,3 +1,6 @@
+## 20260123
+- [Phoronix](https://www.phoronix.com/) | [Vulkan Roadmap 2026 Milestone: Variable Rate Shading, Host Image Copies & More](https://www.phoronix.com/news/Vulkan-Roadmap-2026)
+
 ## 20260119
 - [Phoronix](https://www.phoronix.com/) | [CAKE_MQ Slated For Linux 7.0 To Adapt SCH_CAKE For Today's Multi-Core World](https://www.phoronix.com/news/Linux-7.0-CAKE-MQ)
 
