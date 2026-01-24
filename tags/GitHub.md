@@ -1,3 +1,6 @@
+## 20260124
+- [GitHub Trending](https://github.com/trending?since=daily) | [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+
 ## 20260123
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
 

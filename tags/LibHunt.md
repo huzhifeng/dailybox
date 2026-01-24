@@ -1,3 +1,6 @@
+## 20260124
+- [LibHunt](https://www.libhunt.com/) | [Roslyn](https://www.libhunt.com/r/roslyn)
+
 ## 20260123
 - [LibHunt](https://www.libhunt.com/) | [GeometricTransformer](https://www.libhunt.com/r/GeometricTransformer)
 

@@ -1,3 +1,6 @@
+## 20260124
+- [Product Hunt](https://www.producthunt.com) | [GetThis](https://www.producthunt.com/products/getthis)
+
 ## 20260122
 - [Product Hunt](https://www.producthunt.com) | [Doclific](https://www.producthunt.com/products/doclific)
 

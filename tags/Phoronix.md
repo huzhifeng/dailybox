@@ -1,3 +1,6 @@
+## 20260124
+- [Phoronix](https://www.phoronix.com/) | [A Decade In The Making, Time Slice Extension Could Be Merged For Linux 7.0](https://www.phoronix.com/news/Linux-TIP-Time-Slice-Extension)
+
 ## 20260123
 - [Phoronix](https://www.phoronix.com/) | [Vulkan Roadmap 2026 Milestone: Variable Rate Shading, Host Image Copies & More](https://www.phoronix.com/news/Vulkan-Roadmap-2026)
 

@@ -1,3 +1,6 @@
+## 20260124
+- [It's FOSS](https://itsfoss.com/) | [Good News for Mobile App Developers: Skip Is Now Open Source](https://itsfoss.com/news/skip-goes-open-source/)
+
 ## 20260122
 - [It's FOSS](https://itsfoss.com/) | [This Could be the Best Graphics Editor for Linux Users (Yes, it is Open Source)](https://itsfoss.com/graphite-graphics-editor/)
 

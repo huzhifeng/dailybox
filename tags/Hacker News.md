@@ -1,3 +1,8 @@
+## 20260124
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-23](https://www.daemonology.net/hn-daily/2026-01-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-23](https://hacker-podcast.agi.li/episode/2026-01-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Comma openpilot – Open source driver-assistance](https://news.ycombinator.com/item?id=46740029)
+
 ## 20260123
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-22](https://www.daemonology.net/hn-daily/2026-01-22.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-19](https://hacker-podcast.agi.li/episode/2026-01-19)
