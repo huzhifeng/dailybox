@@ -1,3 +1,6 @@
+## 20260125
+- [Product Hunt](https://www.producthunt.com) | [Hyoi](https://www.producthunt.com/products/hyoi)
+
 ## 20260124
 - [Product Hunt](https://www.producthunt.com) | [GetThis](https://www.producthunt.com/products/getthis)
 

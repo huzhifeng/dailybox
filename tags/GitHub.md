@@ -1,3 +1,6 @@
+## 20260125
+- [GitHub Trending](https://github.com/trending?since=daily) | [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
 ## 20260124
 - [GitHub Trending](https://github.com/trending?since=daily) | [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 

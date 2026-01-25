@@ -1,3 +1,8 @@
+## 20260125
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-24](https://www.daemonology.net/hn-daily/2026-01-24.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-24](https://hacker-podcast.agi.li/episode/2026-01-24)
+- [Hacker News](https://news.ycombinator.com/front) | [This paper has been cited more than 6k times. It's fatally flawed.](https://news.ycombinator.com/item?id=46752151)
+
 ## 20260124
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-23](https://www.daemonology.net/hn-daily/2026-01-23.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-23](https://hacker-podcast.agi.li/episode/2026-01-23)

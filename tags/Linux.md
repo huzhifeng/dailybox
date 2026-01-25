@@ -1,3 +1,7 @@
+## 20260125
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Continuity Document Added: What Happens If Torvalds' Git Repo Goes Away?](https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc)
+- [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.8 Image Editor Released with Wayland and Font Handling Improvements](https://9to5linux.com/gimp-3-0-8-image-editor-released-with-wayland-and-font-handling-improvements)
+
 ## 20260124
 - [Phoronix](https://www.phoronix.com/) | [A Decade In The Making, Time Slice Extension Could Be Merged For Linux 7.0](https://www.phoronix.com/news/Linux-TIP-Time-Slice-Extension)
 

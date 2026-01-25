@@ -1,3 +1,6 @@
+## 20260125
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Continuity Document Added: What Happens If Torvalds' Git Repo Goes Away?](https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc)
+
 ## 20260124
 - [Phoronix](https://www.phoronix.com/) | [A Decade In The Making, Time Slice Extension Could Be Merged For Linux 7.0](https://www.phoronix.com/news/Linux-TIP-Time-Slice-Extension)
 

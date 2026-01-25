@@ -1,3 +1,6 @@
+## 20260125
+- [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.8 Image Editor Released with Wayland and Font Handling Improvements](https://9to5linux.com/gimp-3-0-8-image-editor-released-with-wayland-and-font-handling-improvements)
+
 ## 20260122
 - [9to5Linux](https://9to5linux.com/) | [New Steam Client Update Adds Support for the Razer Raiju V3 Pro Controller](https://9to5linux.com/new-steam-client-update-adds-support-for-the-razer-raiju-v3-pro-controller)
 
