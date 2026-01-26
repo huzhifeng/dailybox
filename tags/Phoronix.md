@@ -1,3 +1,6 @@
+## 20260126
+- [Phoronix](https://www.phoronix.com/) | [Revisiting The Linux 6.19 Performance With "NEXT_BUDDY" Now Disabled](https://www.phoronix.com/review/linux-619-next-buddy)
+
 ## 20260125
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Continuity Document Added: What Happens If Torvalds' Git Repo Goes Away?](https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc)
 

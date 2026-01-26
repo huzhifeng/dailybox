@@ -1,3 +1,6 @@
+## 20260126
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-25th-2026)
+
 ## 20260125
 - [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.8 Image Editor Released with Wayland and Font Handling Improvements](https://9to5linux.com/gimp-3-0-8-image-editor-released-with-wayland-and-font-handling-improvements)
 

@@ -1,3 +1,7 @@
+## 20260126
+- [Phoronix](https://www.phoronix.com/) | [Revisiting The Linux 6.19 Performance With "NEXT_BUDDY" Now Disabled](https://www.phoronix.com/review/linux-619-next-buddy)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-25th-2026)
+
 ## 20260125
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Continuity Document Added: What Happens If Torvalds' Git Repo Goes Away?](https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc)
 - [9to5Linux](https://9to5linux.com/) | [GIMP 3.0.8 Image Editor Released with Wayland and Font Handling Improvements](https://9to5linux.com/gimp-3-0-8-image-editor-released-with-wayland-and-font-handling-improvements)
