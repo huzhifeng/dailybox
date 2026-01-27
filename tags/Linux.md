@@ -1,3 +1,7 @@
+## 20260127
+- [Phoronix](https://www.phoronix.com/) | [TigerVNC 1.16 Released With "w0vncserver" For Sharing Wayland Desktop Sessions](https://www.phoronix.com/news/TigerVNC-1.16)
+- [9to5Linux](https://9to5linux.com/) | [Xfce Desktop Environment Is Getting a Rust-Based Wayland Compositor](https://9to5linux.com/xfce-desktop-environment-is-getting-a-rust-based-wayland-compositor)
+
 ## 20260126
 - [Phoronix](https://www.phoronix.com/) | [Revisiting The Linux 6.19 Performance With "NEXT_BUDDY" Now Disabled](https://www.phoronix.com/review/linux-619-next-buddy)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-25th-2026)

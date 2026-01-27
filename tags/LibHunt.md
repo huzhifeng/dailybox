@@ -1,3 +1,6 @@
+## 20260127
+- [LibHunt](https://www.libhunt.com/) | [jscipy](https://www.libhunt.com/r/jscipy)
+
 ## 20260124
 - [LibHunt](https://www.libhunt.com/) | [Roslyn](https://www.libhunt.com/r/roslyn)
 

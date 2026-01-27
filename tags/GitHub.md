@@ -1,3 +1,7 @@
+## 20260127
+- [GitHub Trending](https://github.com/trending?since=daily) | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+
 ## 20260126
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
 

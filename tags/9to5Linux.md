@@ -1,3 +1,6 @@
+## 20260127
+- [9to5Linux](https://9to5linux.com/) | [Xfce Desktop Environment Is Getting a Rust-Based Wayland Compositor](https://9to5linux.com/xfce-desktop-environment-is-getting-a-rust-based-wayland-compositor)
+
 ## 20260126
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: January 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-25th-2026)
 

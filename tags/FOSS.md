@@ -1,3 +1,6 @@
+## 20260127
+- [It's FOSS](https://itsfoss.com/) | [Meet Roomy: An Open-Source Discord Alternative for the Decentralized Web](https://itsfoss.com/roomy-discord-alternative/)
+
 ## 20260124
 - [It's FOSS](https://itsfoss.com/) | [Good News for Mobile App Developers: Skip Is Now Open Source](https://itsfoss.com/news/skip-goes-open-source/)
 
