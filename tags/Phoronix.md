@@ -1,3 +1,6 @@
+## 20260128
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9850X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux)
+
 ## 20260127
 - [Phoronix](https://www.phoronix.com/) | [TigerVNC 1.16 Released With "w0vncserver" For Sharing Wayland Desktop Sessions](https://www.phoronix.com/news/TigerVNC-1.16)
 

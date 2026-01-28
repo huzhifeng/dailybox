@@ -1,3 +1,8 @@
+## 20260128
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-27](https://www.daemonology.net/hn-daily/2026-01-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-27](https://hacker-podcast.agi.li/episode/2026-01-27)
+- [Hacker News](https://news.ycombinator.com/front) | [ASML staffing changes could result in a net reduction of around 1700 positions](https://news.ycombinator.com/item?id=46792370)
+
 ## 20260127
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-26](https://www.daemonology.net/hn-daily/2026-01-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-26](https://hacker-podcast.agi.li/episode/2026-01-26)

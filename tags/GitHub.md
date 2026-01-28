@@ -1,3 +1,7 @@
+## 20260128
+- [GitHub Trending](https://github.com/trending?since=daily) | [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [antfu/skills](https://github.com/antfu/skills)
+
 ## 20260127
 - [GitHub Trending](https://github.com/trending?since=daily) | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)

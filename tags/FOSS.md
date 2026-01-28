@@ -1,3 +1,6 @@
+## 20260128
+- [It's FOSS](https://itsfoss.com/) | [What is this Clawdbot, Err Moltbot, Everyone&#x27;s Screaming About?](https://itsfoss.com/news/clawdbot-fiasco-explained/)
+
 ## 20260127
 - [It's FOSS](https://itsfoss.com/) | [Meet Roomy: An Open-Source Discord Alternative for the Decentralized Web](https://itsfoss.com/roomy-discord-alternative/)
 

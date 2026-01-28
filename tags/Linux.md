@@ -1,3 +1,7 @@
+## 20260128
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9850X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux)
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based GParted Live 1.8 Released with Linux Kernel 6.18 LTS, GParted 1.8](https://9to5linux.com/debian-based-gparted-live-1-8-released-with-linux-kernel-6-18-lts-gparted-1-8)
+
 ## 20260127
 - [Phoronix](https://www.phoronix.com/) | [TigerVNC 1.16 Released With "w0vncserver" For Sharing Wayland Desktop Sessions](https://www.phoronix.com/news/TigerVNC-1.16)
 - [9to5Linux](https://9to5linux.com/) | [Xfce Desktop Environment Is Getting a Rust-Based Wayland Compositor](https://9to5linux.com/xfce-desktop-environment-is-getting-a-rust-based-wayland-compositor)

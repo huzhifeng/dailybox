@@ -1,3 +1,6 @@
+## 20260128
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based GParted Live 1.8 Released with Linux Kernel 6.18 LTS, GParted 1.8](https://9to5linux.com/debian-based-gparted-live-1-8-released-with-linux-kernel-6-18-lts-gparted-1-8)
+
 ## 20260127
 - [9to5Linux](https://9to5linux.com/) | [Xfce Desktop Environment Is Getting a Rust-Based Wayland Compositor](https://9to5linux.com/xfce-desktop-environment-is-getting-a-rust-based-wayland-compositor)
 
