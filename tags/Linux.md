@@ -1,3 +1,6 @@
+## 20260129
+- [Phoronix](https://www.phoronix.com/) | [Libgcrypt 1.12 Released With VAES/AVX-512 Accelerated AES: 2x Performance On AMD Zen 5](https://www.phoronix.com/news/libgcrypt-1.12)
+
 ## 20260128
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9850X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux)
 - [9to5Linux](https://9to5linux.com/) | [Debian-Based GParted Live 1.8 Released with Linux Kernel 6.18 LTS, GParted 1.8](https://9to5linux.com/debian-based-gparted-live-1-8-released-with-linux-kernel-6-18-lts-gparted-1-8)

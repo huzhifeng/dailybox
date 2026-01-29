@@ -1,3 +1,6 @@
+## 20260129
+- [Phoronix](https://www.phoronix.com/) | [Libgcrypt 1.12 Released With VAES/AVX-512 Accelerated AES: 2x Performance On AMD Zen 5](https://www.phoronix.com/news/libgcrypt-1.12)
+
 ## 20260128
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 9850X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux)
 

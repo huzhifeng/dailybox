@@ -1,3 +1,6 @@
+## 20260129
+- [GitHub Trending](https://github.com/trending?since=daily) | [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+
 ## 20260128
 - [GitHub Trending](https://github.com/trending?since=daily) | [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [antfu/skills](https://github.com/antfu/skills)

@@ -1,3 +1,6 @@
+## 20260129
+- [It's FOSS](https://itsfoss.com/) | [What Happens to Linux After Linus Torvalds? We Finally Have the Answer to This Uncomfortable Question](https://itsfoss.com/news/linux-kernel-continuity-plan/)
+
 ## 20260128
 - [It's FOSS](https://itsfoss.com/) | [What is this Clawdbot, Err Moltbot, Everyone&#x27;s Screaming About?](https://itsfoss.com/news/clawdbot-fiasco-explained/)
 

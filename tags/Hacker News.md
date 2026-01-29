@@ -1,3 +1,8 @@
+## 20260129
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-28](https://www.daemonology.net/hn-daily/2026-01-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-28](https://hacker-podcast.agi.li/episode/2026-01-28)
+- [Hacker News](https://news.ycombinator.com/front) | [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://news.ycombinator.com/item?id=46808251)
+
 ## 20260128
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-27](https://www.daemonology.net/hn-daily/2026-01-27.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-27](https://hacker-podcast.agi.li/episode/2026-01-27)
