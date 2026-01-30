@@ -1,3 +1,6 @@
+## 20260130
+- [GitHub Trending](https://github.com/trending?since=daily) | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+
 ## 20260129
 - [GitHub Trending](https://github.com/trending?since=daily) | [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 

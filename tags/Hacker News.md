@@ -1,3 +1,8 @@
+## 20260130
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-29](https://www.daemonology.net/hn-daily/2026-01-29.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-29](https://hacker-podcast.agi.li/episode/2026-01-29)
+- [Hacker News](https://news.ycombinator.com/front) | [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://news.ycombinator.com/item?id=46822632)
+
 ## 20260129
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-28](https://www.daemonology.net/hn-daily/2026-01-28.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-28](https://hacker-podcast.agi.li/episode/2026-01-28)

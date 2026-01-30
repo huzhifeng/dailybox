@@ -1,3 +1,7 @@
+## 20260130
+- [Phoronix](https://www.phoronix.com/) | [Linux's ublk Adding Batch I/O Dispatch Capability For Greater Performance](https://www.phoronix.com/news/Linux-ublk-Batch-IO-Dispatch)
+- [9to5Linux](https://9to5linux.com/) | [AerynOS 2026.01 Released with Linux Kernel 6.18 LTS, GNOME 49.3, and More](https://9to5linux.com/aerynos-2026-01-released-with-linux-kernel-6-18-lts-gnome-49-3-and-more)
+
 ## 20260129
 - [Phoronix](https://www.phoronix.com/) | [Libgcrypt 1.12 Released With VAES/AVX-512 Accelerated AES: 2x Performance On AMD Zen 5](https://www.phoronix.com/news/libgcrypt-1.12)
 

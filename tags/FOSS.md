@@ -1,3 +1,6 @@
+## 20260130
+- [It's FOSS](https://itsfoss.com/) | [France Just Created Its Own Open Source Alternative to Microsoft Teams and Zoom](https://itsfoss.com/news/france-ditches-microsoft-teams-and-zoom/)
+
 ## 20260129
 - [It's FOSS](https://itsfoss.com/) | [What Happens to Linux After Linus Torvalds? We Finally Have the Answer to This Uncomfortable Question](https://itsfoss.com/news/linux-kernel-continuity-plan/)
 

@@ -1,3 +1,6 @@
+## 20260130
+- [9to5Linux](https://9to5linux.com/) | [AerynOS 2026.01 Released with Linux Kernel 6.18 LTS, GNOME 49.3, and More](https://9to5linux.com/aerynos-2026-01-released-with-linux-kernel-6-18-lts-gnome-49-3-and-more)
+
 ## 20260128
 - [9to5Linux](https://9to5linux.com/) | [Debian-Based GParted Live 1.8 Released with Linux Kernel 6.18 LTS, GParted 1.8](https://9to5linux.com/debian-based-gparted-live-1-8-released-with-linux-kernel-6-18-lts-gparted-1-8)
 

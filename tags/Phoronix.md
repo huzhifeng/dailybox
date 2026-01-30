@@ -1,3 +1,6 @@
+## 20260130
+- [Phoronix](https://www.phoronix.com/) | [Linux's ublk Adding Batch I/O Dispatch Capability For Greater Performance](https://www.phoronix.com/news/Linux-ublk-Batch-IO-Dispatch)
+
 ## 20260129
 - [Phoronix](https://www.phoronix.com/) | [Libgcrypt 1.12 Released With VAES/AVX-512 Accelerated AES: 2x Performance On AMD Zen 5](https://www.phoronix.com/news/libgcrypt-1.12)
 
