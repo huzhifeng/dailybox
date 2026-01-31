@@ -1,3 +1,6 @@
+## 20260131
+- [Phoronix](https://www.phoronix.com/) | [GNOME 50 Is No Longer Treating Variable Rate Refresh "VRR" As Experimental](https://www.phoronix.com/news/GNOME-50-VRR-Not-Experimental)
+
 ## 20260130
 - [Phoronix](https://www.phoronix.com/) | [Linux's ublk Adding Batch I/O Dispatch Capability For Greater Performance](https://www.phoronix.com/news/Linux-ublk-Batch-IO-Dispatch)
 

@@ -1,3 +1,8 @@
+## 20260131
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-30](https://www.daemonology.net/hn-daily/2026-01-30.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-30](https://hacker-podcast.agi.li/episode/2026-01-30)
+- [Hacker News](https://news.ycombinator.com/front) | [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://news.ycombinator.com/item?id=46835336)
+
 ## 20260130
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-29](https://www.daemonology.net/hn-daily/2026-01-29.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-01-29](https://hacker-podcast.agi.li/episode/2026-01-29)

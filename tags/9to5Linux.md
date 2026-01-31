@@ -1,3 +1,6 @@
+## 20260131
+- [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.8 Is Out Based on Ubuntu 24.04.3 LTS, Ports Many Apps to GTK4](https://9to5linux.com/linux-lite-7-8-is-out-based-on-ubuntu-24-04-3-lts-ports-many-apps-to-gtk4)
+
 ## 20260130
 - [9to5Linux](https://9to5linux.com/) | [AerynOS 2026.01 Released with Linux Kernel 6.18 LTS, GNOME 49.3, and More](https://9to5linux.com/aerynos-2026-01-released-with-linux-kernel-6-18-lts-gnome-49-3-and-more)
 

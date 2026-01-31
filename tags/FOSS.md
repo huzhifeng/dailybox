@@ -1,3 +1,6 @@
+## 20260131
+- [It's FOSS](https://itsfoss.com/) | [Your eBooks Don&#x27;t Have to Look Boring, Calibre 9.0 Now has Shelves](https://itsfoss.com/news/calibre-9-0-release/)
+
 ## 20260130
 - [It's FOSS](https://itsfoss.com/) | [France Just Created Its Own Open Source Alternative to Microsoft Teams and Zoom](https://itsfoss.com/news/france-ditches-microsoft-teams-and-zoom/)
 

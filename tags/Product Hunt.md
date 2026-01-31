@@ -1,3 +1,6 @@
+## 20260131
+- [Product Hunt](https://www.producthunt.com) | [Pretty Prompt 1.0 Extension and Web App](https://www.producthunt.com/products/pretty-prompt)
+
 ## 20260130
 - [Product Hunt](https://www.producthunt.com) | [Kalendar.work](https://www.producthunt.com/products/kalendar-work-the-calendly-replacement)
 

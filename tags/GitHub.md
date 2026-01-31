@@ -1,3 +1,6 @@
+## 20260131
+- [GitHub Trending](https://github.com/trending?since=daily) | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth)
+
 ## 20260130
 - [GitHub Trending](https://github.com/trending?since=daily) | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 
