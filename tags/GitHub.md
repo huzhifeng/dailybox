@@ -1,3 +1,6 @@
+## 20260201
+- [GitHub Trending](https://github.com/trending?since=daily) | [termux/termux-app](https://github.com/termux/termux-app)
+
 ## 20260131
 - [GitHub Trending](https://github.com/trending?since=daily) | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth)
 

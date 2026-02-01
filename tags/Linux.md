@@ -1,3 +1,6 @@
+## 20260201
+- [Phoronix](https://www.phoronix.com/) | [GNOME Resources 1.10 Adds Monitoring Support For AMD Ryzen AI NPUs](https://www.phoronix.com/news/GNOME-Resources-1.10)
+
 ## 20260131
 - [Phoronix](https://www.phoronix.com/) | [GNOME 50 Is No Longer Treating Variable Rate Refresh "VRR" As Experimental](https://www.phoronix.com/news/GNOME-50-VRR-Not-Experimental)
 - [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.8 Is Out Based on Ubuntu 24.04.3 LTS, Ports Many Apps to GTK4](https://9to5linux.com/linux-lite-7-8-is-out-based-on-ubuntu-24-04-3-lts-ports-many-apps-to-gtk4)

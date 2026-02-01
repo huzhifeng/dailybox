@@ -1,3 +1,6 @@
+## 20260201
+- [Phoronix](https://www.phoronix.com/) | [GNOME Resources 1.10 Adds Monitoring Support For AMD Ryzen AI NPUs](https://www.phoronix.com/news/GNOME-Resources-1.10)
+
 ## 20260131
 - [Phoronix](https://www.phoronix.com/) | [GNOME 50 Is No Longer Treating Variable Rate Refresh "VRR" As Experimental](https://www.phoronix.com/news/GNOME-50-VRR-Not-Experimental)
 

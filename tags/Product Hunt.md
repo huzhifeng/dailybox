@@ -1,3 +1,6 @@
+## 20260201
+- [Product Hunt](https://www.producthunt.com) | [Hyta](https://www.producthunt.com/products/hyta)
+
 ## 20260131
 - [Product Hunt](https://www.producthunt.com) | [Pretty Prompt 1.0 Extension and Web App](https://www.producthunt.com/products/pretty-prompt)
 
