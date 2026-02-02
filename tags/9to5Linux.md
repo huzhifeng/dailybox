@@ -1,3 +1,6 @@
+## 20260202
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-1st-2026)
+
 ## 20260131
 - [9to5Linux](https://9to5linux.com/) | [Linux Lite 7.8 Is Out Based on Ubuntu 24.04.3 LTS, Ports Many Apps to GTK4](https://9to5linux.com/linux-lite-7-8-is-out-based-on-ubuntu-24-04-3-lts-ports-many-apps-to-gtk4)
 

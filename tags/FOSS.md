@@ -1,3 +1,6 @@
+## 20260202
+- [It's FOSS](https://itsfoss.com/) | [Linux&#x27;s Second-in-Command Greg Kroah-Hartman Bestowed With The European Open Source Award](https://itsfoss.com/news/greg-kroah-hartman-european-open-source-award/)
+
 ## 20260131
 - [It's FOSS](https://itsfoss.com/) | [Your eBooks Don&#x27;t Have to Look Boring, Calibre 9.0 Now has Shelves](https://itsfoss.com/news/calibre-9-0-release/)
 

@@ -1,3 +1,8 @@
+## 20260202
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-01](https://www.daemonology.net/hn-daily/2026-02-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-01](https://hacker-podcast.agi.li/episode/2026-02-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Wikipedia as a doomscrollable social media feed](https://news.ycombinator.com/item?id=46850803)
+
 ## 20260201
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-01-31](https://www.daemonology.net/hn-daily/2026-01-31.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Netbird – Open Source Zero Trust Networking](https://news.ycombinator.com/item?id=46844870)

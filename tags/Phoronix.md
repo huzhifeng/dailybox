@@ -1,3 +1,6 @@
+## 20260202
+- [Phoronix](https://www.phoronix.com/) | [Loongson 3B6000 Benchmarks: How China's LoongArch CPU Compares To AMD Zen 5, Intel Arrow Lake & Raspberry Pi 5](https://www.phoronix.com/review/loongson-3b6000-loongarch)
+
 ## 20260201
 - [Phoronix](https://www.phoronix.com/) | [GNOME Resources 1.10 Adds Monitoring Support For AMD Ryzen AI NPUs](https://www.phoronix.com/news/GNOME-Resources-1.10)
 
