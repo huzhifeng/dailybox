@@ -1,3 +1,6 @@
+## 20260203
+- [Product Hunt](https://www.producthunt.com) | [Codex by OpenAI](https://www.producthunt.com/products/openai)
+
 ## 20260201
 - [Product Hunt](https://www.producthunt.com) | [Hyta](https://www.producthunt.com/products/hyta)
 

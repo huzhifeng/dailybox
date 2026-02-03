@@ -1,3 +1,6 @@
+## 20260203
+- [It's FOSS](https://itsfoss.com/) | [36 Years in Making, GNU&#x27;s Very Own Kernel Project Hurd is Anything But Dead](https://itsfoss.com/news/gnu-hurd-progress-report/)
+
 ## 20260202
 - [It's FOSS](https://itsfoss.com/) | [Linux&#x27;s Second-in-Command Greg Kroah-Hartman Bestowed With The European Open Source Award](https://itsfoss.com/news/greg-kroah-hartman-european-open-source-award/)
 

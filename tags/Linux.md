@@ -1,3 +1,6 @@
+## 20260203
+- [Phoronix](https://www.phoronix.com/) | [Intel Panther Lake Shows Strong Linux CPU Performance & Power Efficiency With Core Ultra X7 358H Benchmarks](https://www.phoronix.com/review/intel-core-ultra-x7-358h-linux)
+
 ## 20260202
 - [Phoronix](https://www.phoronix.com/) | [Loongson 3B6000 Benchmarks: How China's LoongArch CPU Compares To AMD Zen 5, Intel Arrow Lake & Raspberry Pi 5](https://www.phoronix.com/review/loongson-3b6000-loongarch)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-1st-2026)
