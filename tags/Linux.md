@@ -1,3 +1,7 @@
+## 20260204
+- [Phoronix](https://www.phoronix.com/) | [Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing](https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-26-2-open-source-office-suite-officially-released-this-is-whats-new)
+
 ## 20260203
 - [Phoronix](https://www.phoronix.com/) | [Intel Panther Lake Shows Strong Linux CPU Performance & Power Efficiency With Core Ultra X7 358H Benchmarks](https://www.phoronix.com/review/intel-core-ultra-x7-358h-linux)
 

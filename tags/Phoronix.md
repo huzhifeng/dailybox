@@ -1,3 +1,6 @@
+## 20260204
+- [Phoronix](https://www.phoronix.com/) | [Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing](https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New)
+
 ## 20260203
 - [Phoronix](https://www.phoronix.com/) | [Intel Panther Lake Shows Strong Linux CPU Performance & Power Efficiency With Core Ultra X7 358H Benchmarks](https://www.phoronix.com/review/intel-core-ultra-x7-358h-linux)
 

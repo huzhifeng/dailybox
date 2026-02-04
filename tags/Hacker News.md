@@ -1,3 +1,8 @@
+## 20260204
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-03](https://www.daemonology.net/hn-daily/2026-02-03.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-03](https://hacker-podcast.agi.li/episode/2026-02-03)
+- [Hacker News](https://news.ycombinator.com/front) | [I miss thinking hard](https://news.ycombinator.com/item?id=46881264)
+
 ## 20260203
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-02](https://www.daemonology.net/hn-daily/2026-02-02.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-02](https://hacker-podcast.agi.li/episode/2026-02-02)

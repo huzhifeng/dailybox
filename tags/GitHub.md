@@ -1,3 +1,6 @@
+## 20260204
+- [GitHub Trending](https://github.com/trending?since=daily) | [karpathy/nanochat](https://github.com/karpathy/nanochat)
+
 ## 20260203
 - [GitHub Trending](https://github.com/trending?since=daily) | [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 

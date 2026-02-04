@@ -1,3 +1,6 @@
+## 20260204
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-26-2-open-source-office-suite-officially-released-this-is-whats-new)
+
 ## 20260202
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-1st-2026)
 
