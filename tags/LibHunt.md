@@ -1,3 +1,6 @@
+## 20260205
+- [LibHunt](https://www.libhunt.com/) | [AETHRA](https://www.libhunt.com/r/AETHRA)
+
 ## 20260203
 - [LibHunt](https://www.libhunt.com/) | [glang](https://www.libhunt.com/r/pouyathe/glang)
 

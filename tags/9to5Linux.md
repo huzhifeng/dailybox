@@ -1,3 +1,6 @@
+## 20260205
+- [9to5Linux](https://9to5linux.com/) | [Krita 6 Beta Digital Painting App Released with Wayland Color Management Support](https://9to5linux.com/krita-6-beta-digital-painting-app-released-with-wayland-color-management-support)
+
 ## 20260204
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-26-2-open-source-office-suite-officially-released-this-is-whats-new)
 

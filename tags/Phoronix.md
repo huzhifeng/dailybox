@@ -1,3 +1,6 @@
+## 20260205
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B390 Graphics Performance On Linux With Panther Lake](https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux)
+
 ## 20260204
 - [Phoronix](https://www.phoronix.com/) | [Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing](https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New)
 

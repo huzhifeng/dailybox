@@ -1,3 +1,7 @@
+## 20260205
+- [Phoronix](https://www.phoronix.com/) | [Intel Arc B390 Graphics Performance On Linux With Panther Lake](https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux)
+- [9to5Linux](https://9to5linux.com/) | [Krita 6 Beta Digital Painting App Released with Wayland Color Management Support](https://9to5linux.com/krita-6-beta-digital-painting-app-released-with-wayland-color-management-support)
+
 ## 20260204
 - [Phoronix](https://www.phoronix.com/) | [Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing](https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2 Open-Source Office Suite Officially Released, This Is What&#8217;s New](https://9to5linux.com/libreoffice-26-2-open-source-office-suite-officially-released-this-is-whats-new)

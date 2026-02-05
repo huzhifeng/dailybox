@@ -1,3 +1,8 @@
+## 20260205
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-04](https://www.daemonology.net/hn-daily/2026-02-04.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-04](https://hacker-podcast.agi.li/episode/2026-02-04)
+- [Hacker News](https://news.ycombinator.com/front) | [Don't rent the cloud, own instead](https://news.ycombinator.com/item?id=46896146)
+
 ## 20260204
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-03](https://www.daemonology.net/hn-daily/2026-02-03.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-03](https://hacker-podcast.agi.li/episode/2026-02-03)

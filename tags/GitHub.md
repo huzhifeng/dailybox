@@ -1,3 +1,6 @@
+## 20260205
+- [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
 ## 20260204
 - [GitHub Trending](https://github.com/trending?since=daily) | [karpathy/nanochat](https://github.com/karpathy/nanochat)
 

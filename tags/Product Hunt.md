@@ -1,3 +1,6 @@
+## 20260205
+- [Product Hunt](https://www.producthunt.com) | [Voxtral Transcribe 2 by Mistral](https://www.producthunt.com/products/mistral-7b)
+
 ## 20260204
 - [Product Hunt](https://www.producthunt.com) | [Xcode 26.3](https://www.producthunt.com/products/xcode)
 
