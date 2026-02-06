@@ -1,3 +1,8 @@
+## 20260206
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-05](https://www.daemonology.net/hn-daily/2026-02-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-05](https://hacker-podcast.agi.li/episode/2026-02-05)
+- [Hacker News](https://news.ycombinator.com/front) | [I now assume that all ads on Apple news are scams](https://news.ycombinator.com/item?id=46911901)
+
 ## 20260205
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-04](https://www.daemonology.net/hn-daily/2026-02-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-04](https://hacker-podcast.agi.li/episode/2026-02-04)

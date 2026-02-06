@@ -1,3 +1,6 @@
+## 20260206
+- [Phoronix](https://www.phoronix.com/) | [Pushing The Intel Panther Lake CPU Performance Further On Linux](https://www.phoronix.com/review/intel-panther-lake-linux-power)
+
 ## 20260205
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B390 Graphics Performance On Linux With Panther Lake](https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux)
 

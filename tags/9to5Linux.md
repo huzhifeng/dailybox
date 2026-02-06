@@ -1,3 +1,6 @@
+## 20260206
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.2 Ebook Manager Improves the Bookshelf View, Ebook Viewer, and More](https://9to5linux.com/calibre-9-2-ebook-manager-improves-the-bookshelf-view-ebook-viewer-and-more)
+
 ## 20260205
 - [9to5Linux](https://9to5linux.com/) | [Krita 6 Beta Digital Painting App Released with Wayland Color Management Support](https://9to5linux.com/krita-6-beta-digital-painting-app-released-with-wayland-color-management-support)
 

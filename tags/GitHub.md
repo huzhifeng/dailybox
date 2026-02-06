@@ -1,3 +1,6 @@
+## 20260206
+- [GitHub Trending](https://github.com/trending?since=daily) | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
 ## 20260205
 - [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 

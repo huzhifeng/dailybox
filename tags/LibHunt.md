@@ -1,3 +1,6 @@
+## 20260206
+- [LibHunt](https://www.libhunt.com/) | [claudes-c-compiler](https://www.libhunt.com/r/claudes-c-compiler)
+
 ## 20260205
 - [LibHunt](https://www.libhunt.com/) | [AETHRA](https://www.libhunt.com/r/AETHRA)
 

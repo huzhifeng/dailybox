@@ -1,3 +1,7 @@
+## 20260206
+- [Phoronix](https://www.phoronix.com/) | [Pushing The Intel Panther Lake CPU Performance Further On Linux](https://www.phoronix.com/review/intel-panther-lake-linux-power)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.2 Ebook Manager Improves the Bookshelf View, Ebook Viewer, and More](https://9to5linux.com/calibre-9-2-ebook-manager-improves-the-bookshelf-view-ebook-viewer-and-more)
+
 ## 20260205
 - [Phoronix](https://www.phoronix.com/) | [Intel Arc B390 Graphics Performance On Linux With Panther Lake](https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux)
 - [9to5Linux](https://9to5linux.com/) | [Krita 6 Beta Digital Painting App Released with Wayland Color Management Support](https://9to5linux.com/krita-6-beta-digital-painting-app-released-with-wayland-color-management-support)

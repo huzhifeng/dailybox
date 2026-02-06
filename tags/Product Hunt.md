@@ -1,3 +1,6 @@
+## 20260206
+- [Product Hunt](https://www.producthunt.com) | [Y Bombinator](https://www.producthunt.com/products/y-bombinator-3)
+
 ## 20260205
 - [Product Hunt](https://www.producthunt.com) | [Voxtral Transcribe 2 by Mistral](https://www.producthunt.com/products/mistral-7b)
 
