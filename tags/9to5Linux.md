@@ -1,3 +1,6 @@
+## 20260207
+- [9to5Linux](https://9to5linux.com/) | [PeaZip 10.9 Open-Source Archive Manager Released with Improved User Experience](https://9to5linux.com/peazip-10-9-open-source-archive-manager-released-with-improved-user-experience)
+
 ## 20260206
 - [9to5Linux](https://9to5linux.com/) | [Calibre 9.2 Ebook Manager Improves the Bookshelf View, Ebook Viewer, and More](https://9to5linux.com/calibre-9-2-ebook-manager-improves-the-bookshelf-view-ebook-viewer-and-more)
 

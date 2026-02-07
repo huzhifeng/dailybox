@@ -1,3 +1,6 @@
+## 20260207
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/skills](https://github.com/openai/skills)
+
 ## 20260206
 - [GitHub Trending](https://github.com/trending?since=daily) | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 

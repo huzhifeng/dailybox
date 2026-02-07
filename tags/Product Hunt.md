@@ -1,3 +1,6 @@
+## 20260207
+- [Product Hunt](https://www.producthunt.com) | [InspireNote](https://www.producthunt.com/products/inspirenote)
+
 ## 20260206
 - [Product Hunt](https://www.producthunt.com) | [Y Bombinator](https://www.producthunt.com/products/y-bombinator-3)
 
