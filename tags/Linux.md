@@ -1,3 +1,6 @@
+## 20260208
+- [Phoronix](https://www.phoronix.com/) | [A Lot Of Exciting Changes To Look Forward To With Linux 6.20 -- Or Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Feature-Preview)
+
 ## 20260207
 - [Phoronix](https://www.phoronix.com/) | [NetBSD 11.0-RC1 Available For Testing With Enhanced Linux Emulation](https://www.phoronix.com/news/NetBSD-11.0-RC1)
 - [9to5Linux](https://9to5linux.com/) | [PeaZip 10.9 Open-Source Archive Manager Released with Improved User Experience](https://9to5linux.com/peazip-10-9-open-source-archive-manager-released-with-improved-user-experience)

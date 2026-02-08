@@ -1,3 +1,6 @@
+## 20260208
+- [Phoronix](https://www.phoronix.com/) | [A Lot Of Exciting Changes To Look Forward To With Linux 6.20 -- Or Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Feature-Preview)
+
 ## 20260207
 - [Phoronix](https://www.phoronix.com/) | [NetBSD 11.0-RC1 Available For Testing With Enhanced Linux Emulation](https://www.phoronix.com/news/NetBSD-11.0-RC1)
 

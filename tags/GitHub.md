@@ -1,3 +1,6 @@
+## 20260208
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/litebox](https://github.com/microsoft/litebox)
+
 ## 20260207
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/skills](https://github.com/openai/skills)
 

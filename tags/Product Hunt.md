@@ -1,3 +1,6 @@
+## 20260208
+- [Product Hunt](https://www.producthunt.com) | [Snap](https://www.producthunt.com/products/snap-8)
+
 ## 20260207
 - [Product Hunt](https://www.producthunt.com) | [InspireNote](https://www.producthunt.com/products/inspirenote)
 
