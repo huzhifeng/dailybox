@@ -1,3 +1,6 @@
+## 20260209
+- [Phoronix](https://www.phoronix.com/) | [Blender 5.1 Lands Raycast Nodes, Blender Adjusting Release Cycle Moving Forward](https://www.phoronix.com/news/Blender-5.1-Raycast-Nodes)
+
 ## 20260208
 - [Phoronix](https://www.phoronix.com/) | [A Lot Of Exciting Changes To Look Forward To With Linux 6.20 -- Or Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Feature-Preview)
 

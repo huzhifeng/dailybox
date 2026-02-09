@@ -1,3 +1,6 @@
+## 20260209
+- [LibHunt](https://www.libhunt.com/) | [vouch](https://www.libhunt.com/r/mitchellh/vouch)
+
 ## 20260206
 - [LibHunt](https://www.libhunt.com/) | [claudes-c-compiler](https://www.libhunt.com/r/claudes-c-compiler)
 

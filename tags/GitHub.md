@@ -1,3 +1,6 @@
+## 20260209
+- [GitHub Trending](https://github.com/trending?since=daily) | [likec4/likec4](https://github.com/likec4/likec4)
+
 ## 20260208
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/litebox](https://github.com/microsoft/litebox)
 

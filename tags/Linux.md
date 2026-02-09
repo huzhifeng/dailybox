@@ -1,3 +1,7 @@
+## 20260209
+- [Phoronix](https://www.phoronix.com/) | [Blender 5.1 Lands Raycast Nodes, Blender Adjusting Release Cycle Moving Forward](https://www.phoronix.com/news/Blender-5.1-Raycast-Nodes)
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.19 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-19-kernel-is-now-available-for-software-freedom-lovers)
+
 ## 20260208
 - [Phoronix](https://www.phoronix.com/) | [A Lot Of Exciting Changes To Look Forward To With Linux 6.20 -- Or Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Feature-Preview)
 
