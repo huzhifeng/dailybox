@@ -1,3 +1,6 @@
+## 20260210
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6780E Sierra Forest vs. AMD EPYC 9965 On Linux 6.18 Performance](https://www.phoronix.com/review/sierra-forest-epyc-turin-2026)
+
 ## 20260209
 - [Phoronix](https://www.phoronix.com/) | [Blender 5.1 Lands Raycast Nodes, Blender Adjusting Release Cycle Moving Forward](https://www.phoronix.com/news/Blender-5.1-Raycast-Nodes)
 

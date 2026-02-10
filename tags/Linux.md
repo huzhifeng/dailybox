@@ -1,3 +1,7 @@
+## 20260210
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6780E Sierra Forest vs. AMD EPYC 9965 On Linux 6.18 Performance](https://www.phoronix.com/review/sierra-forest-epyc-turin-2026)
+- [9to5Linux](https://9to5linux.com/) | [MythTV 36.0 Open-Source Media Center Is Out Now with Support for FFmpeg 8](https://9to5linux.com/mythtv-36-0-open-source-media-center-is-out-now-with-support-for-ffmpeg-8)
+
 ## 20260209
 - [Phoronix](https://www.phoronix.com/) | [Blender 5.1 Lands Raycast Nodes, Blender Adjusting Release Cycle Moving Forward](https://www.phoronix.com/news/Blender-5.1-Raycast-Nodes)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 6.19 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-6-19-kernel-is-now-available-for-software-freedom-lovers)
