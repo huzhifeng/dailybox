@@ -1,3 +1,6 @@
+## 20260211
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs](https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0)
+
 ## 20260210
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6780E Sierra Forest vs. AMD EPYC 9965 On Linux 6.18 Performance](https://www.phoronix.com/review/sierra-forest-epyc-turin-2026)
 

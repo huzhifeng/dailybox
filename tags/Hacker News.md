@@ -1,3 +1,8 @@
+## 20260211
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-10](https://www.daemonology.net/hn-daily/2026-02-10.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-10](https://hacker-podcast.agi.li/episode/2026-02-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Chrome extensions spying on users' browsing data](https://news.ycombinator.com/item?id=46973083)
+
 ## 20260210
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-09](https://www.daemonology.net/hn-daily/2026-02-09.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-09](https://hacker-podcast.agi.li/episode/2026-02-09)

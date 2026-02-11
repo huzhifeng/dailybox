@@ -1,3 +1,7 @@
+## 20260211
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs](https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0)
+- [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7 Released with Support for DCO Linux Kernel Module, mbedTLS 4](https://9to5linux.com/openvpn-2-7-released-with-support-for-dco-linux-kernel-module-mbedtls-4)
+
 ## 20260210
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6780E Sierra Forest vs. AMD EPYC 9965 On Linux 6.18 Performance](https://www.phoronix.com/review/sierra-forest-epyc-turin-2026)
 - [9to5Linux](https://9to5linux.com/) | [MythTV 36.0 Open-Source Media Center Is Out Now with Support for FFmpeg 8](https://9to5linux.com/mythtv-36-0-open-source-media-center-is-out-now-with-support-for-ffmpeg-8)
