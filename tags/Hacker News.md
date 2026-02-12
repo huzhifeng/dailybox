@@ -1,3 +1,8 @@
+## 20260212
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-11](https://www.daemonology.net/hn-daily/2026-02-11.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-11](https://hacker-podcast.agi.li/episode/2026-02-11)
+- [Hacker News](https://news.ycombinator.com/front) | [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://news.ycombinator.com/item?id=46987559)
+
 ## 20260211
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-10](https://www.daemonology.net/hn-daily/2026-02-10.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-10](https://hacker-podcast.agi.li/episode/2026-02-10)

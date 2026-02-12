@@ -1,3 +1,6 @@
+## 20260212
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Networking: Prepping For WiFi 8 UHR While Dropping Last Parallel Port Ethernet Driver](https://www.phoronix.com/news/Linux-7.0-Networking)
+
 ## 20260211
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs](https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0)
 

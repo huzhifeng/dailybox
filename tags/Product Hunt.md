@@ -1,3 +1,6 @@
+## 20260212
+- [Product Hunt](https://www.producthunt.com) | [Visual Editing by DatoCMS](https://www.producthunt.com/products/dato-cms)
+
 ## 20260211
 - [Product Hunt](https://www.producthunt.com) | [Tines ](https://www.producthunt.com/products/tines)
 

@@ -1,3 +1,7 @@
+## 20260212
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Networking: Prepping For WiFi 8 UHR While Dropping Last Parallel Port Ethernet Driver](https://www.phoronix.com/news/Linux-7.0-Networking)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.4 LTS Is Now Available for Download Powered by Linux Kernel 6.17](https://9to5linux.com/ubuntu-24-04-4-lts-is-now-available-for-download-powered-by-linux-kernel-6-17)
+
 ## 20260211
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs](https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0)
 - [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7 Released with Support for DCO Linux Kernel Module, mbedTLS 4](https://9to5linux.com/openvpn-2-7-released-with-support-for-dco-linux-kernel-module-mbedtls-4)

@@ -1,3 +1,6 @@
+## 20260212
+- [GitHub Trending](https://github.com/trending?since=daily) | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+
 ## 20260211
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
 

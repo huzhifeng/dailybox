@@ -1,3 +1,6 @@
+## 20260212
+- [LibHunt](https://www.libhunt.com/) | [hive](https://www.libhunt.com/r/hive)
+
 ## 20260211
 - [LibHunt](https://www.libhunt.com/) | [Dokku](https://www.libhunt.com/r/dokku)
 
