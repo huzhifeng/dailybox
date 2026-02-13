@@ -1,3 +1,6 @@
+## 20260213
+- [GitHub Trending](https://github.com/trending?since=daily) | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
 ## 20260212
 - [GitHub Trending](https://github.com/trending?since=daily) | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 

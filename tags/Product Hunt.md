@@ -1,3 +1,6 @@
+## 20260213
+- [Product Hunt](https://www.producthunt.com) | [GPT‑5.3‑Codex‑Spark](https://www.producthunt.com/products/openai)
+
 ## 20260212
 - [Product Hunt](https://www.producthunt.com) | [Visual Editing by DatoCMS](https://www.producthunt.com/products/dato-cms)
 

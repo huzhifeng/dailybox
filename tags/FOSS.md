@@ -1,3 +1,6 @@
+## 20260213
+- [It's FOSS](https://itsfoss.com/) | [Session&#x27;s Co-Founder Thinks You Don&#x27;t Need to Ditch WhatsApp Completely](https://itsfoss.com/news/session-co-founder-interview/)
+
 ## 20260203
 - [It's FOSS](https://itsfoss.com/) | [36 Years in Making, GNU&#x27;s Very Own Kernel Project Hurd is Anything But Dead](https://itsfoss.com/news/gnu-hurd-progress-report/)
 

@@ -1,3 +1,6 @@
+## 20260213
+- [Phoronix](https://www.phoronix.com/) | [Evaluating The Performance Cost To AMD SEV-SNP On EPYC 9005 VMs](https://www.phoronix.com/review/amd-epyc-9005-sev-snp)
+
 ## 20260212
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Networking: Prepping For WiFi 8 UHR While Dropping Last Parallel Port Ethernet Driver](https://www.phoronix.com/news/Linux-7.0-Networking)
 

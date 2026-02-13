@@ -1,3 +1,7 @@
+## 20260213
+- [Phoronix](https://www.phoronix.com/) | [Evaluating The Performance Cost To AMD SEV-SNP On EPYC 9005 VMs](https://www.phoronix.com/review/amd-epyc-9005-sev-snp)
+- [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.56 Released with New Features and Improvements](https://9to5linux.com/networkmanager-1-56-released-with-new-features-and-improvements)
+
 ## 20260212
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Networking: Prepping For WiFi 8 UHR While Dropping Last Parallel Port Ethernet Driver](https://www.phoronix.com/news/Linux-7.0-Networking)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 24.04.4 LTS Is Now Available for Download Powered by Linux Kernel 6.17](https://9to5linux.com/ubuntu-24-04-4-lts-is-now-available-for-download-powered-by-linux-kernel-6-17)
