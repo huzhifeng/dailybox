@@ -1,3 +1,6 @@
+## 20260214
+- [Product Hunt](https://www.producthunt.com) | [Cline CLI 2.0](https://www.producthunt.com/products/cline-4)
+
 ## 20260213
 - [Product Hunt](https://www.producthunt.com) | [GPT‑5.3‑Codex‑Spark](https://www.producthunt.com/products/openai)
 

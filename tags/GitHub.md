@@ -1,3 +1,6 @@
+## 20260214
+- [GitHub Trending](https://github.com/trending?since=daily) | [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core)
+
 ## 20260213
 - [GitHub Trending](https://github.com/trending?since=daily) | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 

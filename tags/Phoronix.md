@@ -1,3 +1,6 @@
+## 20260214
+- [Phoronix](https://www.phoronix.com/) | [Intel Ends Work On Quantum Compiler Open-Source Bits](https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End)
+
 ## 20260213
 - [Phoronix](https://www.phoronix.com/) | [Evaluating The Performance Cost To AMD SEV-SNP On EPYC 9005 VMs](https://www.phoronix.com/review/amd-epyc-9005-sev-snp)
 
