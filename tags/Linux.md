@@ -1,3 +1,6 @@
+## 20260215
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs](https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow)
+
 ## 20260214
 - [Phoronix](https://www.phoronix.com/) | [Intel Ends Work On Quantum Compiler Open-Source Bits](https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End)
 

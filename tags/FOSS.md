@@ -1,3 +1,6 @@
+## 20260215
+- [It's FOSS](https://itsfoss.com/) | [Why and How I am Using Emacs for Writing My Next Novel](https://itsfoss.com/emacs-the-ux-ideal-part-deux/)
+
 ## 20260213
 - [It's FOSS](https://itsfoss.com/) | [Session&#x27;s Co-Founder Thinks You Don&#x27;t Need to Ditch WhatsApp Completely](https://itsfoss.com/news/session-co-founder-interview/)
 

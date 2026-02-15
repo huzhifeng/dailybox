@@ -1,3 +1,6 @@
+## 20260215
+- [GitHub Trending](https://github.com/trending?since=daily) | [minio/minio](https://github.com/minio/minio)
+
 ## 20260214
 - [GitHub Trending](https://github.com/trending?since=daily) | [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core)
 
