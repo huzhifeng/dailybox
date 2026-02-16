@@ -1,3 +1,6 @@
+## 20260216
+- [GitHub Trending](https://github.com/trending?since=daily) | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
 ## 20260215
 - [GitHub Trending](https://github.com/trending?since=daily) | [minio/minio](https://github.com/minio/minio)
 

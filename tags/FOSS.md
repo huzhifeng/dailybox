@@ -1,3 +1,6 @@
+## 20260216
+- [It's FOSS](https://itsfoss.com/) | [Reverse Engineering Linux Distro REMnux Marks 15 Years With Major v8 Release Featuring AI Agent Support](https://itsfoss.com/news/remnux-v8-release/)
+
 ## 20260215
 - [It's FOSS](https://itsfoss.com/) | [Why and How I am Using Emacs for Writing My Next Novel](https://itsfoss.com/emacs-the-ux-ideal-part-deux/)
 

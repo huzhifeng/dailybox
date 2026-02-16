@@ -1,3 +1,8 @@
+## 20260216
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-15](https://www.daemonology.net/hn-daily/2026-02-15.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-15](https://hacker-podcast.agi.li/episode/2026-02-15)
+- [Hacker News](https://news.ycombinator.com/front) | [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://news.ycombinator.com/item?id=47031580)
+
 ## 20260215
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-14](https://www.daemonology.net/hn-daily/2026-02-14.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-14](https://hacker-podcast.agi.li/episode/2026-02-14)

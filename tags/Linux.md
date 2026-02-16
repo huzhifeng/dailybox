@@ -1,3 +1,7 @@
+## 20260216
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Better Segregates Legacy CardBus Code To Avoid On Modern PCs](https://www.phoronix.com/news/Linux-7.0-PCI)
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.2 Released with Support for Linux Kernel 6.19, Updated Packages](https://9to5linux.com/sparkylinux-8-2-released-with-support-for-linux-kernel-6-19-updated-packages)
+
 ## 20260215
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs](https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow)
 

@@ -1,3 +1,6 @@
+## 20260216
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Better Segregates Legacy CardBus Code To Avoid On Modern PCs](https://www.phoronix.com/news/Linux-7.0-PCI)
+
 ## 20260215
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs](https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow)
 

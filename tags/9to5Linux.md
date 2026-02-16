@@ -1,3 +1,6 @@
+## 20260216
+- [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.2 Released with Support for Linux Kernel 6.19, Updated Packages](https://9to5linux.com/sparkylinux-8-2-released-with-support-for-linux-kernel-6-19-updated-packages)
+
 ## 20260213
 - [9to5Linux](https://9to5linux.com/) | [NetworkManager 1.56 Released with New Features and Improvements](https://9to5linux.com/networkmanager-1-56-released-with-new-features-and-improvements)
 
