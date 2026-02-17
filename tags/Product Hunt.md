@@ -1,3 +1,6 @@
+## 20260217
+- [Product Hunt](https://www.producthunt.com) | [Qwen3.5](https://www.producthunt.com/products/qwen3)
+
 ## 20260216
 - [Product Hunt](https://www.producthunt.com) | [MockAPI Dog](https://www.producthunt.com/products/mockapi-dog)
 

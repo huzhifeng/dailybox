@@ -1,3 +1,6 @@
+## 20260217
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-6-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20260216
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.2 Released with Support for Linux Kernel 6.19, Updated Packages](https://9to5linux.com/sparkylinux-8-2-released-with-support-for-linux-kernel-6-19-updated-packages)
 

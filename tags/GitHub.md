@@ -1,3 +1,6 @@
+## 20260217
+- [GitHub Trending](https://github.com/trending?since=daily) | [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+
 ## 20260216
 - [GitHub Trending](https://github.com/trending?since=daily) | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 

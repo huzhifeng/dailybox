@@ -1,3 +1,6 @@
+## 20260217
+- [It's FOSS](https://itsfoss.com/) | [Gentoo Takes the First Step to Ditch Microsoft Copilot-Infested GitHub](https://itsfoss.com/news/gentoo-github-switch-begins/)
+
 ## 20260216
 - [It's FOSS](https://itsfoss.com/) | [Reverse Engineering Linux Distro REMnux Marks 15 Years With Major v8 Release Featuring AI Agent Support](https://itsfoss.com/news/remnux-v8-release/)
 

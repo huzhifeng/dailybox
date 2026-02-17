@@ -1,3 +1,6 @@
+## 20260217
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6 Granite Rapids Memory Scaling Performance From 6 To 12 MRDIMMs](https://www.phoronix.com/review/intel-xeon-mrdimm-scaling)
+
 ## 20260216
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Better Segregates Legacy CardBus Code To Avoid On Modern PCs](https://www.phoronix.com/news/Linux-7.0-PCI)
 

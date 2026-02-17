@@ -1,3 +1,8 @@
+## 20260217
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-16](https://www.daemonology.net/hn-daily/2026-02-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-16](https://hacker-podcast.agi.li/episode/2026-02-16)
+- [Hacker News](https://news.ycombinator.com/front) | [GrapheneOS – Break Free from Google and Apple](https://news.ycombinator.com/item?id=47045612)
+
 ## 20260216
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-15](https://www.daemonology.net/hn-daily/2026-02-15.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-15](https://hacker-podcast.agi.li/episode/2026-02-15)

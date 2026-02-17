@@ -1,3 +1,7 @@
+## 20260217
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6 Granite Rapids Memory Scaling Performance From 6 To 12 MRDIMMs](https://www.phoronix.com/review/intel-xeon-mrdimm-scaling)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-6-desktop-environment-officially-released-this-is-whats-new)
+
 ## 20260216
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Better Segregates Legacy CardBus Code To Avoid On Modern PCs](https://www.phoronix.com/news/Linux-7.0-PCI)
 - [9to5Linux](https://9to5linux.com/) | [SparkyLinux 8.2 Released with Support for Linux Kernel 6.19, Updated Packages](https://9to5linux.com/sparkylinux-8-2-released-with-support-for-linux-kernel-6-19-updated-packages)
