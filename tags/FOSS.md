@@ -1,3 +1,6 @@
+## 20260218
+- [It's FOSS](https://itsfoss.com/) | [8 Years Later, Linux-based AsteroidOS 2.0 is Here to Add New Life to Your Old Smartwatch](https://itsfoss.com/news/asteroidos-2-release/)
+
 ## 20260217
 - [It's FOSS](https://itsfoss.com/) | [Gentoo Takes the First Step to Ditch Microsoft Copilot-Infested GitHub](https://itsfoss.com/news/gentoo-github-switch-begins/)
 

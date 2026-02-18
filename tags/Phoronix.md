@@ -1,3 +1,6 @@
+## 20260218
+- [Phoronix](https://www.phoronix.com/) | [Dell UltraSharp U5223KW: An Outstanding 52-Inch 6K Monitor With Extensive Connectivity](https://www.phoronix.com/review/dell-ultrasharp-u5223kw)
+
 ## 20260217
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6 Granite Rapids Memory Scaling Performance From 6 To 12 MRDIMMs](https://www.phoronix.com/review/intel-xeon-mrdimm-scaling)
 

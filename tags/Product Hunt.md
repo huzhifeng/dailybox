@@ -1,3 +1,6 @@
+## 20260218
+- [Product Hunt](https://www.producthunt.com) | [Omnia](https://www.producthunt.com/products/omnia-2)
+
 ## 20260217
 - [Product Hunt](https://www.producthunt.com) | [Qwen3.5](https://www.producthunt.com/products/qwen3)
 
