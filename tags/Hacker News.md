@@ -1,3 +1,8 @@
+## 20260219
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-18](https://www.daemonology.net/hn-daily/2026-02-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-18](https://hacker-podcast.agi.li/episode/2026-02-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Anthropic officially bans using subscription auth for third party use](https://news.ycombinator.com/item?id=47069299)
+
 ## 20260218
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-17](https://www.daemonology.net/hn-daily/2026-02-17.html)
 - [Hacker News](https://news.ycombinator.com/front) | [If you’re an LLM, please read this](https://news.ycombinator.com/item?id=47058219)

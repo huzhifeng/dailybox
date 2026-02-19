@@ -1,3 +1,6 @@
+## 20260219
+- [Phoronix](https://www.phoronix.com/) | [Gigabyte MZ33-AR1: A Uniquely Positioned AMD EPYC 9005 Motherboard For Open-Source Firmware](https://www.phoronix.com/review/gigabyte-mz33-ar1)
+
 ## 20260218
 - [Phoronix](https://www.phoronix.com/) | [Dell UltraSharp U5223KW: An Outstanding 52-Inch 6K Monitor With Extensive Connectivity](https://www.phoronix.com/review/dell-ultrasharp-u5223kw)
 

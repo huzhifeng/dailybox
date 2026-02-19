@@ -1,3 +1,6 @@
+## 20260219
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/)
+
 ## 20260218
 - [It's FOSS](https://itsfoss.com/) | [8 Years Later, Linux-based AsteroidOS 2.0 is Here to Add New Life to Your Old Smartwatch](https://itsfoss.com/news/asteroidos-2-release/)
 

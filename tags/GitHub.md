@@ -1,3 +1,6 @@
+## 20260219
+- [GitHub Trending](https://github.com/trending?since=daily) | [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
 ## 20260218
 - [GitHub Trending](https://github.com/trending?since=daily) | [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
