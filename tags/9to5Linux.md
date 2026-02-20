@@ -1,3 +1,6 @@
+## 20260220
+- [9to5Linux](https://9to5linux.com/) | [Xubuntu 26.04 LTS (Resolute Raccoon) Wallpaper Contest Is Open for Submissions](https://9to5linux.com/xubuntu-26-04-lts-resolute-raccoon-wallpaper-contest-is-open-for-submissions)
+
 ## 20260217
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6 Desktop Environment Officially Released, This Is What&#8217;s New](https://9to5linux.com/kde-plasma-6-6-desktop-environment-officially-released-this-is-whats-new)
 

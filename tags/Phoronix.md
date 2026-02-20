@@ -1,3 +1,6 @@
+## 20260220
+- [Phoronix](https://www.phoronix.com/) | [GNOME 50 Lands Updated Wayland Color Management v2 Support](https://www.phoronix.com/news/GNOME-50-Color-Management-v2)
+
 ## 20260219
 - [Phoronix](https://www.phoronix.com/) | [Gigabyte MZ33-AR1: A Uniquely Positioned AMD EPYC 9005 Motherboard For Open-Source Firmware](https://www.phoronix.com/review/gigabyte-mz33-ar1)
 

@@ -1,3 +1,6 @@
+## 20260220
+- [GitHub Trending](https://github.com/trending?since=daily) | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
+
 ## 20260219
 - [GitHub Trending](https://github.com/trending?since=daily) | [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
