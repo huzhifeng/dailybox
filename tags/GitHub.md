@@ -1,3 +1,6 @@
+## 20260221
+- [GitHub Trending](https://github.com/trending?since=daily) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+
 ## 20260220
 - [GitHub Trending](https://github.com/trending?since=daily) | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
 

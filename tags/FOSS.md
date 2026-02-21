@@ -1,3 +1,6 @@
+## 20260221
+- [It's FOSS](https://itsfoss.com/) | [A Powerful To-Do App for Android That Collects Absolutely None of Your Data](https://itsfoss.com/super-productivity-android-app/)
+
 ## 20260219
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/)
 

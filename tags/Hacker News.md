@@ -1,3 +1,8 @@
+## 20260221
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-20](https://www.daemonology.net/hn-daily/2026-02-20.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-20](https://hacker-podcast.agi.li/episode/2026-02-20)
+- [Hacker News](https://news.ycombinator.com/front) | [I Verified My LinkedIn Identity. Here's What I Handed Over](https://news.ycombinator.com/item?id=47098245)
+
 ## 20260220
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-19](https://www.daemonology.net/hn-daily/2026-02-19.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-19](https://hacker-podcast.agi.li/episode/2026-02-19)

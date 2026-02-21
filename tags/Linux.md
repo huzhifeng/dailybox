@@ -1,3 +1,6 @@
+## 20260221
+- [Phoronix](https://www.phoronix.com/) | [eCryptfs Sees Renewed Patch Activity With Linux 7.0](https://www.phoronix.com/news/Linux-7.0-eCryptfs)
+
 ## 20260220
 - [Phoronix](https://www.phoronix.com/) | [GNOME 50 Lands Updated Wayland Color Management v2 Support](https://www.phoronix.com/news/GNOME-50-Color-Management-v2)
 - [9to5Linux](https://9to5linux.com/) | [Xubuntu 26.04 LTS (Resolute Raccoon) Wallpaper Contest Is Open for Submissions](https://9to5linux.com/xubuntu-26-04-lts-resolute-raccoon-wallpaper-contest-is-open-for-submissions)
