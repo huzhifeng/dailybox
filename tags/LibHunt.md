@@ -1,3 +1,6 @@
+## 20260222
+- [LibHunt](https://www.libhunt.com/) | [stripe-node](https://www.libhunt.com/r/stripe-node)
+
 ## 20260219
 - [LibHunt](https://www.libhunt.com/) | [autark](https://www.libhunt.com/r/ronfriedhaber/autark)
 

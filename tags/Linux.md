@@ -1,3 +1,6 @@
+## 20260222
+- [Phoronix](https://www.phoronix.com/) | [AMD Zen 6 Performance Events & Metrics Merged For Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Perf-Tools)
+
 ## 20260221
 - [Phoronix](https://www.phoronix.com/) | [eCryptfs Sees Renewed Patch Activity With Linux 7.0](https://www.phoronix.com/news/Linux-7.0-eCryptfs)
 

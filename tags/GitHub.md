@@ -1,3 +1,6 @@
+## 20260222
+- [GitHub Trending](https://github.com/trending?since=daily) | [obra/superpowers](https://github.com/obra/superpowers)
+
 ## 20260221
 - [GitHub Trending](https://github.com/trending?since=daily) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 

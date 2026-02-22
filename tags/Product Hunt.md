@@ -1,3 +1,6 @@
+## 20260222
+- [Product Hunt](https://www.producthunt.com) | [Wordy](https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302)
+
 ## 20260221
 - [Product Hunt](https://www.producthunt.com) | [Prism Videos](https://www.producthunt.com/products/prism-videos)
 

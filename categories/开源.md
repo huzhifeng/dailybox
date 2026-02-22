@@ -1,3 +1,6 @@
+## 20260222
+- [It's FOSS](https://itsfoss.com/) | [Serious About Learning Linux? Get 15 O&#x27;Reilly Linux and DevOps eBooks for Under $25](https://itsfoss.com/news/linux-seasoned-admins-bundle/)
+
 ## 20260221
 - [It's FOSS](https://itsfoss.com/) | [A Powerful To-Do App for Android That Collects Absolutely None of Your Data](https://itsfoss.com/super-productivity-android-app/)
 

@@ -1,3 +1,8 @@
+## 20260222
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-21](https://www.daemonology.net/hn-daily/2026-02-21.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-21](https://hacker-podcast.agi.li/episode/2026-02-21)
+- [Hacker News](https://news.ycombinator.com/front) | [How I use Claude Code: Separation of planning and execution](https://news.ycombinator.com/item?id=47106686)
+
 ## 20260221
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-20](https://www.daemonology.net/hn-daily/2026-02-20.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-20](https://hacker-podcast.agi.li/episode/2026-02-20)
