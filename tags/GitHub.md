@@ -1,3 +1,6 @@
+## 20260223
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
 ## 20260222
 - [GitHub Trending](https://github.com/trending?since=daily) | [obra/superpowers](https://github.com/obra/superpowers)
 

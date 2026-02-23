@@ -1,3 +1,6 @@
+## 20260223
+- [It's FOSS](https://itsfoss.com/) | [OpenClaw Alternatives That You Can Run on Raspberry Pi Like Devices](https://itsfoss.com/openclaw-alternatives/)
+
 ## 20260222
 - [It's FOSS](https://itsfoss.com/) | [Serious About Learning Linux? Get 15 O&#x27;Reilly Linux and DevOps eBooks for Under $25](https://itsfoss.com/news/linux-seasoned-admins-bundle/)
 

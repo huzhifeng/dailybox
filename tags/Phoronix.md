@@ -1,3 +1,6 @@
+## 20260223
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD's Rust Kernel Support Could Be Stable Enough To Try This Year](https://www.phoronix.com/news/FreeBSD-Q4-2025-Status-Report)
+
 ## 20260222
 - [Phoronix](https://www.phoronix.com/) | [AMD Zen 6 Performance Events & Metrics Merged For Linux 7.0](https://www.phoronix.com/news/Linux-7.0-Perf-Tools)
 

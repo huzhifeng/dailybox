@@ -1,3 +1,8 @@
+## 20260223
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-22](https://www.daemonology.net/hn-daily/2026-02-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-22](https://hacker-podcast.agi.li/episode/2026-02-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Ladybird Browser adopts Rust](https://news.ycombinator.com/item?id=47120899)
+
 ## 20260222
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-21](https://www.daemonology.net/hn-daily/2026-02-21.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-21](https://hacker-podcast.agi.li/episode/2026-02-21)

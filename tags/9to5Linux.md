@@ -1,3 +1,6 @@
+## 20260223
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-22nd-2026)
+
 ## 20260220
 - [9to5Linux](https://9to5linux.com/) | [Xubuntu 26.04 LTS (Resolute Raccoon) Wallpaper Contest Is Open for Submissions](https://9to5linux.com/xubuntu-26-04-lts-resolute-raccoon-wallpaper-contest-is-open-for-submissions)
 
