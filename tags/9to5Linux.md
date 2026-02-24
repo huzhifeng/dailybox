@@ -1,3 +1,6 @@
+## 20260224
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.1 Is Out to Improve Custom Tiling, Networks Widget, and More](https://9to5linux.com/kde-plasma-6-6-1-is-out-to-improve-custom-tiling-networks-widget-and-more)
+
 ## 20260223
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: February 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-22nd-2026)
 

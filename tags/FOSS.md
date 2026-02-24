@@ -1,3 +1,6 @@
+## 20260224
+- [It's FOSS](https://itsfoss.com/) | [Australia&#x27;s Cyber Agency Releases Azul, an Open Source Malware Analysis Repository](https://itsfoss.com/news/azul-malware-analysis-repository/)
+
 ## 20260223
 - [It's FOSS](https://itsfoss.com/) | [OpenClaw Alternatives That You Can Run on Raspberry Pi Like Devices](https://itsfoss.com/openclaw-alternatives/)
 

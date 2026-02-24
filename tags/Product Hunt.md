@@ -1,3 +1,6 @@
+## 20260224
+- [Product Hunt](https://www.producthunt.com) | [What YC Is Really Betting On?](https://www.producthunt.com/products/what-yc-is-really-betting-on)
+
 ## 20260222
 - [Product Hunt](https://www.producthunt.com) | [Wordy](https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302)
 
