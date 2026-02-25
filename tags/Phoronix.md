@@ -1,3 +1,6 @@
+## 20260225
+- [Phoronix](https://www.phoronix.com/) | [AMD Announces The EPYC 8005 "Sorano" Series](https://www.phoronix.com/news/AMD-EPYC-8005-Series)
+
 ## 20260224
 - [Phoronix](https://www.phoronix.com/) | [Google Cloud N4 Series Benchmarks: Google Axion vs. Intel Xeon vs. AMD EPYC Performance](https://www.phoronix.com/review/google-cloud-n4-arm64-epyc-xeon)
 

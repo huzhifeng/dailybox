@@ -1,3 +1,6 @@
+## 20260225
+- [It's FOSS](https://itsfoss.com/) | [Someone is Bringing Fedora Linux to Phones (And It’s Not Red Hat)](https://itsfoss.com/news/fedora-pocketblue-remix-overview/)
+
 ## 20260224
 - [It's FOSS](https://itsfoss.com/) | [Australia&#x27;s Cyber Agency Releases Azul, an Open Source Malware Analysis Repository](https://itsfoss.com/news/azul-malware-analysis-repository/)
 

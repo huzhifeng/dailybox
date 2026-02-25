@@ -1,3 +1,6 @@
+## 20260225
+- [Product Hunt](https://www.producthunt.com) | [Arzule](https://www.producthunt.com/products/arzule)
+
 ## 20260224
 - [Product Hunt](https://www.producthunt.com) | [What YC Is Really Betting On?](https://www.producthunt.com/products/what-yc-is-really-betting-on)
 

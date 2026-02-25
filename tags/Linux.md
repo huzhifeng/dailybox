@@ -1,3 +1,7 @@
+## 20260225
+- [Phoronix](https://www.phoronix.com/) | [AMD Announces The EPYC 8005 "Sorano" Series](https://www.phoronix.com/news/AMD-EPYC-8005-Series)
+- [9to5Linux](https://9to5linux.com/) | [Thunderbird 148 Email Client Improves Accessibility in Various Tree Views](https://9to5linux.com/thunderbird-148-email-client-improves-accessibility-in-various-tree-views)
+
 ## 20260224
 - [Phoronix](https://www.phoronix.com/) | [Google Cloud N4 Series Benchmarks: Google Axion vs. Intel Xeon vs. AMD EPYC Performance](https://www.phoronix.com/review/google-cloud-n4-arm64-epyc-xeon)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.1 Is Out to Improve Custom Tiling, Networks Widget, and More](https://9to5linux.com/kde-plasma-6-6-1-is-out-to-improve-custom-tiling-networks-widget-and-more)

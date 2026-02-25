@@ -1,3 +1,6 @@
+## 20260225
+- [LibHunt](https://www.libhunt.com/) | [signoz](https://www.libhunt.com/r/signoz)
+
 ## 20260224
 - [LibHunt](https://www.libhunt.com/) | [worldmonitor](https://www.libhunt.com/r/worldmonitor)
 
