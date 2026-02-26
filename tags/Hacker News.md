@@ -1,3 +1,8 @@
+## 20260226
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-25](https://www.daemonology.net/hn-daily/2026-02-25.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-25](https://hacker-podcast.agi.li/episode/2026-02-25)
+- [Hacker News](https://news.ycombinator.com/front) | [RAM now represents 35 percent of bill of materials for HP PCs](https://news.ycombinator.com/item?id=47161160)
+
 ## 20260225
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-24](https://www.daemonology.net/hn-daily/2026-02-24.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-24](https://hacker-podcast.agi.li/episode/2026-02-24)

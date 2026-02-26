@@ -1,3 +1,6 @@
+## 20260226
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://itsfoss.com/newsletter/foss-weekly-26-09/)
+
 ## 20260225
 - [It's FOSS](https://itsfoss.com/) | [Someone is Bringing Fedora Linux to Phones (And It’s Not Red Hat)](https://itsfoss.com/news/fedora-pocketblue-remix-overview/)
 

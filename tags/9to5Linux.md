@@ -1,3 +1,6 @@
+## 20260226
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.1 Open-Source Office Suite Released with 65 Bug Fixes](https://9to5linux.com/libreoffice-26-2-1-open-source-office-suite-released-with-65-bug-fixes)
+
 ## 20260225
 - [9to5Linux](https://9to5linux.com/) | [Thunderbird 148 Email Client Improves Accessibility in Various Tree Views](https://9to5linux.com/thunderbird-148-email-client-improves-accessibility-in-various-tree-views)
 

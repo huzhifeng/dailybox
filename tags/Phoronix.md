@@ -1,3 +1,6 @@
+## 20260226
+- [Phoronix](https://www.phoronix.com/) | [NXP Posts New Linux Accelerator Driver For Their Neutron NPU](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver)
+
 ## 20260225
 - [Phoronix](https://www.phoronix.com/) | [AMD Announces The EPYC 8005 "Sorano" Series](https://www.phoronix.com/news/AMD-EPYC-8005-Series)
 

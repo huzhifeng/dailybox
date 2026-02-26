@@ -1,3 +1,6 @@
+## 20260226
+- [GitHub Trending](https://github.com/trending?since=daily) | [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
+
 ## 20260225
 - [GitHub Trending](https://github.com/trending?since=daily) | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
