@@ -1,3 +1,8 @@
+## 20260227
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-26](https://www.daemonology.net/hn-daily/2026-02-26.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-26](https://hacker-podcast.agi.li/episode/2026-02-26)
+- [Hacker News](https://news.ycombinator.com/front) | [The Hunt for Dark Breakfast](https://news.ycombinator.com/item?id=47176257)
+
 ## 20260226
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-25](https://www.daemonology.net/hn-daily/2026-02-25.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-25](https://hacker-podcast.agi.li/episode/2026-02-25)

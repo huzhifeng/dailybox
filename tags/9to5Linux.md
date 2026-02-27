@@ -1,3 +1,6 @@
+## 20260227
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.4 Adds &#8220;Reading Stats&#8221; to the E-Book Viewer to Show Reading Progress](https://9to5linux.com/calibre-9-4-adds-reading-stats-to-the-e-book-viewer-to-show-reading-progress)
+
 ## 20260226
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.1 Open-Source Office Suite Released with 65 Bug Fixes](https://9to5linux.com/libreoffice-26-2-1-open-source-office-suite-released-with-65-bug-fixes)
 

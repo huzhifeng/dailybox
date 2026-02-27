@@ -1,3 +1,6 @@
+## 20260227
+- [LibHunt](https://www.libhunt.com/) | [idea-reality-mcp](https://www.libhunt.com/r/idea-reality-mcp)
+
 ## 20260225
 - [LibHunt](https://www.libhunt.com/) | [signoz](https://www.libhunt.com/r/signoz)
 

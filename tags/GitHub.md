@@ -1,3 +1,6 @@
+## 20260227
+- [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
 ## 20260226
 - [GitHub Trending](https://github.com/trending?since=daily) | [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
 

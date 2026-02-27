@@ -1,3 +1,6 @@
+## 20260227
+- [Phoronix](https://www.phoronix.com/) | [Intel Media Driver Update Brings Nova Lake S Support, AV1 Improvements](https://www.phoronix.com/news/Intel-Media-Driver-2025Q4)
+
 ## 20260226
 - [Phoronix](https://www.phoronix.com/) | [NXP Posts New Linux Accelerator Driver For Their Neutron NPU](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver)
 
