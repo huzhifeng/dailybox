@@ -1,3 +1,7 @@
+## 20260228
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-27](https://www.daemonology.net/hn-daily/2026-02-27.html)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenAI – How to delete your account](https://news.ycombinator.com/item?id=47193478)
+
 ## 20260227
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-26](https://www.daemonology.net/hn-daily/2026-02-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-26](https://hacker-podcast.agi.li/episode/2026-02-26)

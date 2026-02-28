@@ -1,3 +1,6 @@
+## 20260228
+- [It's FOSS](https://itsfoss.com/) | [Your Linux LTS Kernel Will Be Supported Longer Than You Thought](https://itsfoss.com/news/linux-lts-kernel-support-extension/)
+
 ## 20260226
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://itsfoss.com/newsletter/foss-weekly-26-09/)
 

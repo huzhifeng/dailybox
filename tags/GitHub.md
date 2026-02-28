@@ -1,3 +1,6 @@
+## 20260228
+- [GitHub Trending](https://github.com/trending?since=daily) | [steipete/CodexBar](https://github.com/steipete/CodexBar)
+
 ## 20260227
 - [GitHub Trending](https://github.com/trending?since=daily) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 

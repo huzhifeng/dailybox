@@ -1,3 +1,6 @@
+## 20260228
+- [Phoronix](https://www.phoronix.com/) | [Servo Browser Engine Starts 2026 With Many Notable Improvements](https://www.phoronix.com/news/Servo-January-2026)
+
 ## 20260227
 - [Phoronix](https://www.phoronix.com/) | [Intel Media Driver Update Brings Nova Lake S Support, AV1 Improvements](https://www.phoronix.com/news/Intel-Media-Driver-2025Q4)
 
