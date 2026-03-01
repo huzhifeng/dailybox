@@ -1,3 +1,6 @@
+## 20260301
+- [Phoronix](https://www.phoronix.com/) | [ASUS Linux HID Driver Preparing To See Support For Newer Devices](https://www.phoronix.com/news/ASUS-WMI-Linux-Driver-New-2026)
+
 ## 20260228
 - [Phoronix](https://www.phoronix.com/) | [Servo Browser Engine Starts 2026 With Many Notable Improvements](https://www.phoronix.com/news/Servo-January-2026)
 

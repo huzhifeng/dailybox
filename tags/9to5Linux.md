@@ -1,3 +1,6 @@
+## 20260301
+- [9to5Linux](https://9to5linux.com/) | [AerynOS 2026.02 Released with GNOME 49.4, KDE Plasma 6.6, and COSMIC 1.0.8](https://9to5linux.com/aerynos-2026-02-released-with-gnome-49-4-kde-plasma-6-6-and-cosmic-1-0-8)
+
 ## 20260228
 - [9to5Linux](https://9to5linux.com/) | [BunsenLabs Carbon Is Here with Support for Wayland Sessions, Based on Debian 13](https://9to5linux.com/bunsenlabs-carbon-is-here-with-support-for-wayland-sessions-based-on-debian-13)
 

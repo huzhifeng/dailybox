@@ -1,3 +1,6 @@
+## 20260301
+- [Product Hunt](https://www.producthunt.com) | [OpenFang](https://www.producthunt.com/products/openfang)
+
 ## 20260228
 - [Product Hunt](https://www.producthunt.com) | [Pixel](https://www.producthunt.com/products/pixel-10)
 
