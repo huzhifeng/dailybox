@@ -1,3 +1,6 @@
+## 20260302
+- [It's FOSS](https://itsfoss.com/) | [Sad News! AI&#x27;s RAM Hunger Finds a New Victim in the Orange Pi Neo Linux Handheld](https://itsfoss.com/news/orange-pi-neo-delayed/)
+
 ## 20260228
 - [It's FOSS](https://itsfoss.com/) | [Your Linux LTS Kernel Will Be Supported Longer Than You Thought](https://itsfoss.com/news/linux-lts-kernel-support-extension/)
 

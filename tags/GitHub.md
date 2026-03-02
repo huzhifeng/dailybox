@@ -1,3 +1,6 @@
+## 20260302
+- [GitHub Trending](https://github.com/trending?since=daily) | [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
 ## 20260301
 - [GitHub Trending](https://github.com/trending?since=daily) | [moeru-ai/airi](https://github.com/moeru-ai/airi)
 

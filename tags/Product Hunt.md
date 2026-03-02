@@ -1,3 +1,6 @@
+## 20260302
+- [Product Hunt](https://www.producthunt.com) | [WEIR AI](https://www.producthunt.com/products/weir-ai)
+
 ## 20260301
 - [Product Hunt](https://www.producthunt.com) | [OpenFang](https://www.producthunt.com/products/openfang)
 

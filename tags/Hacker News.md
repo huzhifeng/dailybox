@@ -1,3 +1,8 @@
+## 20260302
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-01](https://www.daemonology.net/hn-daily/2026-03-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-01](https://hacker-podcast.agi.li/episode/2026-03-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft bans the word "Microslop" on its Discord, then locks the server](https://news.ycombinator.com/item?id=47216047)
+
 ## 20260301
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-02-28](https://www.daemonology.net/hn-daily/2026-02-28.html)
 - [Hacker News](https://news.ycombinator.com/front) | [Switch to Claude without starting over](https://news.ycombinator.com/item?id=47204571)

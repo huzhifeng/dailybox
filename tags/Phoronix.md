@@ -1,3 +1,6 @@
+## 20260302
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Shows Off Nice Performance Gains For Databases In Small AMD EPYC Servers](https://www.phoronix.com/news/Linux-7.0-AMD-EPYC-4585PX)
+
 ## 20260301
 - [Phoronix](https://www.phoronix.com/) | [ASUS Linux HID Driver Preparing To See Support For Newer Devices](https://www.phoronix.com/news/ASUS-WMI-Linux-Driver-New-2026)
 
