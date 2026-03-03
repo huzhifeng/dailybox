@@ -1,3 +1,6 @@
+## 20260303
+- [Phoronix](https://www.phoronix.com/) | [Apple Announces "Fusion Architecture" With M5 Pro & M5 Max](https://www.phoronix.com/news/Apple-M5-Pro-M5-Max)
+
 ## 20260302
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Shows Off Nice Performance Gains For Databases In Small AMD EPYC Servers](https://www.phoronix.com/news/Linux-7.0-AMD-EPYC-4585PX)
 

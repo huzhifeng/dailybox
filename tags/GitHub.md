@@ -1,3 +1,6 @@
+## 20260303
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
 ## 20260302
 - [GitHub Trending](https://github.com/trending?since=daily) | [basecamp/omarchy](https://github.com/basecamp/omarchy)
 

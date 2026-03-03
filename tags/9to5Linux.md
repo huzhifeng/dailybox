@@ -1,3 +1,6 @@
+## 20260303
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.2 Improves Support for High-Resolution Mice on Remote Desktops](https://9to5linux.com/kde-plasma-6-6-2-improves-support-for-high-resolution-mice-on-remote-desktops)
+
 ## 20260302
 - [9to5Linux](https://9to5linux.com/) | [IPFire 2.29 Core Update 200 Is Out with Linux 6.18 LTS, IPFire Domain Blocklist](https://9to5linux.com/ipfire-2-29-core-update-200-is-out-with-linux-6-18-lts-ipfire-domain-blocklist)
 

@@ -1,3 +1,6 @@
+## 20260303
+- [Product Hunt](https://www.producthunt.com) | [getviktor.com](https://www.producthunt.com/products/viktor)
+
 ## 20260302
 - [Product Hunt](https://www.producthunt.com) | [WEIR AI](https://www.producthunt.com/products/weir-ai)
 
