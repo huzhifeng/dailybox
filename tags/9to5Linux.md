@@ -1,3 +1,6 @@
+## 20260304
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu, Fedora, Linux Mint Eye Age Verification Amid California Law Backlash](https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash)
+
 ## 20260303
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.2 Improves Support for High-Resolution Mice on Remote Desktops](https://9to5linux.com/kde-plasma-6-6-2-improves-support-for-high-resolution-mice-on-remote-desktops)
 

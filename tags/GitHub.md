@@ -1,3 +1,6 @@
+## 20260304
+- [GitHub Trending](https://github.com/trending?since=daily) | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+
 ## 20260303
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 

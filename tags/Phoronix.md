@@ -1,3 +1,6 @@
+## 20260304
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint Ready With Its Wayland-Compatible Cinnamon Screensaver](https://www.phoronix.com/news/Linux-Mint-Wayland-Screensaver)
+
 ## 20260303
 - [Phoronix](https://www.phoronix.com/) | [Apple Announces "Fusion Architecture" With M5 Pro & M5 Max](https://www.phoronix.com/news/Apple-M5-Pro-M5-Max)
 

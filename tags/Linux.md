@@ -1,3 +1,7 @@
+## 20260304
+- [Phoronix](https://www.phoronix.com/) | [Linux Mint Ready With Its Wayland-Compatible Cinnamon Screensaver](https://www.phoronix.com/news/Linux-Mint-Wayland-Screensaver)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu, Fedora, Linux Mint Eye Age Verification Amid California Law Backlash](https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash)
+
 ## 20260303
 - [Phoronix](https://www.phoronix.com/) | [Apple Announces "Fusion Architecture" With M5 Pro & M5 Max](https://www.phoronix.com/news/Apple-M5-Pro-M5-Max)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.2 Improves Support for High-Resolution Mice on Remote Desktops](https://9to5linux.com/kde-plasma-6-6-2-improves-support-for-high-resolution-mice-on-remote-desktops)

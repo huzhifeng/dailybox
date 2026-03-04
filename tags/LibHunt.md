@@ -1,3 +1,6 @@
+## 20260304
+- [LibHunt](https://www.libhunt.com/) | [uv](https://www.libhunt.com/r/uv)
+
 ## 20260302
 - [LibHunt](https://www.libhunt.com/) | [migrationpilot](https://www.libhunt.com/r/migrationpilot)
 

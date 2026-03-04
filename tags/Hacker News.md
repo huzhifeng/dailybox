@@ -1,3 +1,8 @@
+## 20260304
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-03](https://www.daemonology.net/hn-daily/2026-03-03.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-02-28](https://hacker-podcast.agi.li/episode/2026-02-28)
+- [Hacker News](https://news.ycombinator.com/front) | [Agentic Engineering Patterns](https://news.ycombinator.com/item?id=47243272)
+
 ## 20260303
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-02](https://www.daemonology.net/hn-daily/2026-03-02.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-02](https://hacker-podcast.agi.li/episode/2026-03-02)
