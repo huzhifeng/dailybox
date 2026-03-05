@@ -1,3 +1,7 @@
+## 20260305
+- [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Vulkan & Node.js Working On This Rust-Based Open-Source OS](https://www.phoronix.com/news/Redox-OS-February)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.3 Brings Improvements to Merkuro, Calligra, Kasts, and Other Apps](https://9to5linux.com/kde-gear-25-12-3-brings-improvements-to-merkuro-calligra-kasts-and-other-apps)
+
 ## 20260304
 - [Phoronix](https://www.phoronix.com/) | [Linux Mint Ready With Its Wayland-Compatible Cinnamon Screensaver](https://www.phoronix.com/news/Linux-Mint-Wayland-Screensaver)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu, Fedora, Linux Mint Eye Age Verification Amid California Law Backlash](https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash)

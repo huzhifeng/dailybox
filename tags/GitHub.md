@@ -1,3 +1,6 @@
+## 20260305
+- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
+
 ## 20260304
 - [GitHub Trending](https://github.com/trending?since=daily) | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 

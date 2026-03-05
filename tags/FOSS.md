@@ -1,3 +1,6 @@
+## 20260305
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://itsfoss.com/newsletter/foss-weekly-26-10/)
+
 ## 20260302
 - [It's FOSS](https://itsfoss.com/) | [Sad News! AI&#x27;s RAM Hunger Finds a New Victim in the Orange Pi Neo Linux Handheld](https://itsfoss.com/news/orange-pi-neo-delayed/)
 

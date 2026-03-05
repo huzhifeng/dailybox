@@ -1,3 +1,6 @@
+## 20260305
+- [Product Hunt](https://www.producthunt.com) | [Coursekit](https://www.producthunt.com/products/coursekit)
+
 ## 20260304
 - [Product Hunt](https://www.producthunt.com) | [Kodo](https://www.producthunt.com/products/kodo-3)
 

@@ -1,3 +1,6 @@
+## 20260305
+- [LibHunt](https://www.libhunt.com/) | [chardet](https://www.libhunt.com/r/chardet)
+
 ## 20260304
 - [LibHunt](https://www.libhunt.com/) | [uv](https://www.libhunt.com/r/uv)
 

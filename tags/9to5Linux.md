@@ -1,3 +1,6 @@
+## 20260305
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.3 Brings Improvements to Merkuro, Calligra, Kasts, and Other Apps](https://9to5linux.com/kde-gear-25-12-3-brings-improvements-to-merkuro-calligra-kasts-and-other-apps)
+
 ## 20260304
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu, Fedora, Linux Mint Eye Age Verification Amid California Law Backlash](https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash)
 
