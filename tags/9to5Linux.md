@@ -1,3 +1,6 @@
+## 20260306
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Linux Laptop Now Available with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-16-linux-laptop-now-available-with-amd-ryzen-ai-300)
+
 ## 20260305
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.3 Brings Improvements to Merkuro, Calligra, Kasts, and Other Apps](https://9to5linux.com/kde-gear-25-12-3-brings-improvements-to-merkuro-calligra-kasts-and-other-apps)
 

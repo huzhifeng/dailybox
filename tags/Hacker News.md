@@ -1,3 +1,8 @@
+## 20260306
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-05](https://www.daemonology.net/hn-daily/2026-03-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-05](https://hacker-podcast.agi.li/episode/2026-03-05)
+- [Hacker News](https://news.ycombinator.com/front) | [System76 on Age Verification Laws](https://news.ycombinator.com/item?id=47270784)
+
 ## 20260305
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-04](https://www.daemonology.net/hn-daily/2026-03-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-04](https://hacker-podcast.agi.li/episode/2026-03-04)

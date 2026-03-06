@@ -1,3 +1,7 @@
+## 20260306
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Slab Fix On The Way For A "Severe Performance Regression"](https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix)
+- [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Linux Laptop Now Available with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-16-linux-laptop-now-available-with-amd-ryzen-ai-300)
+
 ## 20260305
 - [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Vulkan & Node.js Working On This Rust-Based Open-Source OS](https://www.phoronix.com/news/Redox-OS-February)
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 25.12.3 Brings Improvements to Merkuro, Calligra, Kasts, and Other Apps](https://9to5linux.com/kde-gear-25-12-3-brings-improvements-to-merkuro-calligra-kasts-and-other-apps)

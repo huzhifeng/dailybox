@@ -1,3 +1,6 @@
+## 20260306
+- [It's FOSS](https://itsfoss.com/) | [Age Verification Laws Are Multiplying Like a Virus, and Your Linux Computer Might be Next](https://itsfoss.com/news/age-verification-pandemic/)
+
 ## 20260305
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://itsfoss.com/newsletter/foss-weekly-26-10/)
 

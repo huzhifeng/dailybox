@@ -1,3 +1,6 @@
+## 20260306
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Slab Fix On The Way For A "Severe Performance Regression"](https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix)
+
 ## 20260305
 - [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Vulkan & Node.js Working On This Rust-Based Open-Source OS](https://www.phoronix.com/news/Redox-OS-February)
 

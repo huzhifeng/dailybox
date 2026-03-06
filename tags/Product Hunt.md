@@ -1,3 +1,6 @@
+## 20260306
+- [Product Hunt](https://www.producthunt.com) | [SuperPowers AI](https://www.producthunt.com/products/superpowers-ai-2)
+
 ## 20260305
 - [Product Hunt](https://www.producthunt.com) | [Coursekit](https://www.producthunt.com/products/coursekit)
 

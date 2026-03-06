@@ -1,3 +1,6 @@
+## 20260306
+- [GitHub Trending](https://github.com/trending?since=daily) | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
 ## 20260305
 - [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
 

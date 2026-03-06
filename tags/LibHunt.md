@@ -1,3 +1,6 @@
+## 20260306
+- [LibHunt](https://www.libhunt.com/) | [cli](https://www.libhunt.com/r/googleworkspace/cli)
+
 ## 20260305
 - [LibHunt](https://www.libhunt.com/) | [chardet](https://www.libhunt.com/r/chardet)
 
