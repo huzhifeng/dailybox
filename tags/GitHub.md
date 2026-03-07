@@ -1,3 +1,6 @@
+## 20260307
+- [GitHub Trending](https://github.com/trending?since=daily) | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)
+
 ## 20260306
 - [GitHub Trending](https://github.com/trending?since=daily) | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 

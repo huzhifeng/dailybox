@@ -1,3 +1,6 @@
+## 20260307
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.1 On Track With Better Realtek WiFi & KDE Desktop Install Option](https://www.phoronix.com/news/FreeBSD-15.1-Realtek-KDE-Wins)
+
 ## 20260306
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Slab Fix On The Way For A "Severe Performance Regression"](https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix)
 

@@ -1,3 +1,8 @@
+## 20260307
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-06](https://www.daemonology.net/hn-daily/2026-03-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-06](https://hacker-podcast.agi.li/episode/2026-03-06)
+- [Hacker News](https://news.ycombinator.com/front) | [LLMs work best when the user defines their acceptance criteria first](https://news.ycombinator.com/item?id=47283337)
+
 ## 20260306
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-05](https://www.daemonology.net/hn-daily/2026-03-05.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-05](https://hacker-podcast.agi.li/episode/2026-03-05)

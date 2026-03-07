@@ -1,3 +1,6 @@
+## 20260307
+- [LibHunt](https://www.libhunt.com/) | [flompt](https://www.libhunt.com/r/flompt)
+
 ## 20260306
 - [LibHunt](https://www.libhunt.com/) | [cli](https://www.libhunt.com/r/googleworkspace/cli)
 

@@ -1,3 +1,6 @@
+## 20260307
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.1 On Track With Better Realtek WiFi & KDE Desktop Install Option](https://www.phoronix.com/news/FreeBSD-15.1-Realtek-KDE-Wins)
+
 ## 20260306
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Slab Fix On The Way For A "Severe Performance Regression"](https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix)
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Linux Laptop Now Available with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-16-linux-laptop-now-available-with-amd-ryzen-ai-300)
