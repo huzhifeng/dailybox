@@ -1,3 +1,6 @@
+## 20260308
+- [9to5Linux](https://9to5linux.com/) | [digiKam 9.0 Open-Source Photo Manager Released as a Massive Update](https://9to5linux.com/digikam-9-0-open-source-photo-manager-released-as-a-massive-update)
+
 ## 20260306
 - [9to5Linux](https://9to5linux.com/) | [TUXEDO InfinityBook Max 16 Linux Laptop Now Available with AMD Ryzen AI 300](https://9to5linux.com/tuxedo-infinitybook-max-16-linux-laptop-now-available-with-amd-ryzen-ai-300)
 

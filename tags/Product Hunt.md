@@ -1,3 +1,6 @@
+## 20260308
+- [Product Hunt](https://www.producthunt.com) | [GetMimic](https://www.producthunt.com/products/getmimic)
+
 ## 20260307
 - [Product Hunt](https://www.producthunt.com) | [FasterGH](https://www.producthunt.com/products/fastergh)
 

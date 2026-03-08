@@ -1,3 +1,6 @@
+## 20260308
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS & More](https://www.phoronix.com/news/FFmpeg-8.1-Coming-Soon)
+
 ## 20260307
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 15.1 On Track With Better Realtek WiFi & KDE Desktop Install Option](https://www.phoronix.com/news/FreeBSD-15.1-Realtek-KDE-Wins)
 

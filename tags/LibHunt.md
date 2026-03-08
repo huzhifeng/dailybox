@@ -1,3 +1,6 @@
+## 20260308
+- [LibHunt](https://www.libhunt.com/) | [librdx](https://www.libhunt.com/r/librdx)
+
 ## 20260307
 - [LibHunt](https://www.libhunt.com/) | [flompt](https://www.libhunt.com/r/flompt)
 

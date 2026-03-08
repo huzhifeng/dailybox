@@ -1,3 +1,6 @@
+## 20260308
+- [GitHub Trending](https://github.com/trending?since=daily) | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+
 ## 20260307
 - [GitHub Trending](https://github.com/trending?since=daily) | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)
 
