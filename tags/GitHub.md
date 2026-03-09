@@ -1,3 +1,6 @@
+## 20260309
+- [GitHub Trending](https://github.com/trending?since=daily) | [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+
 ## 20260308
 - [GitHub Trending](https://github.com/trending?since=daily) | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 

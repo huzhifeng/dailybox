@@ -1,3 +1,6 @@
+## 20260309
+- [Phoronix](https://www.phoronix.com/) | [Intel Publishes XeSS 3 SDK To GitHub - Still As Windows-Only Binaries](https://www.phoronix.com/news/Intel-XeSS-3-SDK-GitHub)
+
 ## 20260308
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS & More](https://www.phoronix.com/news/FFmpeg-8.1-Coming-Soon)
 

@@ -1,3 +1,6 @@
+## 20260309
+- [Phoronix](https://www.phoronix.com/) | [Intel Publishes XeSS 3 SDK To GitHub - Still As Windows-Only Binaries](https://www.phoronix.com/news/Intel-XeSS-3-SDK-GitHub)
+
 ## 20260308
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS & More](https://www.phoronix.com/news/FFmpeg-8.1-Coming-Soon)
 - [9to5Linux](https://9to5linux.com/) | [digiKam 9.0 Open-Source Photo Manager Released as a Massive Update](https://9to5linux.com/digikam-9-0-open-source-photo-manager-released-as-a-massive-update)
