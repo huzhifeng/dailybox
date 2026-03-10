@@ -1,3 +1,6 @@
+## 20260310
+- [GitHub Trending](https://github.com/trending?since=daily) | [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
+
 ## 20260309
 - [GitHub Trending](https://github.com/trending?since=daily) | [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 

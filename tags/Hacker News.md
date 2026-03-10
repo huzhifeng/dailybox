@@ -1,3 +1,8 @@
+## 20260310
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-09](https://www.daemonology.net/hn-daily/2026-03-09.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-09](https://hacker-podcast.agi.li/episode/2026-03-09)
+- [Hacker News](https://news.ycombinator.com/front) | [Two Years of Emacs Solo](https://news.ycombinator.com/item?id=47317616)
+
 ## 20260309
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-08](https://www.daemonology.net/hn-daily/2026-03-08.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-08](https://hacker-podcast.agi.li/episode/2026-03-08)

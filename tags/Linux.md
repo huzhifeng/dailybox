@@ -1,3 +1,7 @@
+## 20260310
+- [Phoronix](https://www.phoronix.com/) | [SUSE Reportedly May Be For Sale Yet Again](https://www.phoronix.com/news/SUSE-Possibly-For-Sale-2026)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.6 Released as the Last Update in the Series with More Fixes](https://9to5linux.com/kde-plasma-6-5-6-released-as-the-last-update-in-the-series-with-more-fixes)
+
 ## 20260309
 - [Phoronix](https://www.phoronix.com/) | [Intel Publishes XeSS 3 SDK To GitHub - Still As Windows-Only Binaries](https://www.phoronix.com/news/Intel-XeSS-3-SDK-GitHub)
 

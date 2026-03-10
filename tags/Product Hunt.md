@@ -1,3 +1,6 @@
+## 20260310
+- [Product Hunt](https://www.producthunt.com) | [Fish Audio S2](https://www.producthunt.com/products/fish-speech)
+
 ## 20260309
 - [Product Hunt](https://www.producthunt.com) | [Nothing Phone (4a) Pro](https://www.producthunt.com/products/nothing-phone-3)
 

@@ -1,3 +1,6 @@
+## 20260310
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.6 Released as the Last Update in the Series with More Fixes](https://9to5linux.com/kde-plasma-6-5-6-released-as-the-last-update-in-the-series-with-more-fixes)
+
 ## 20260308
 - [9to5Linux](https://9to5linux.com/) | [digiKam 9.0 Open-Source Photo Manager Released as a Massive Update](https://9to5linux.com/digikam-9-0-open-source-photo-manager-released-as-a-massive-update)
 
