@@ -1,3 +1,6 @@
+## 20260311
+- [LibHunt](https://www.libhunt.com/) | [autoresearch](https://www.libhunt.com/r/autoresearch)
+
 ## 20260309
 - [LibHunt](https://www.libhunt.com/) | [weave](https://www.libhunt.com/r/Ataraxy-Labs/weave)
 

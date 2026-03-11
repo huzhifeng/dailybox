@@ -1,3 +1,6 @@
+## 20260311
+- [Phoronix](https://www.phoronix.com/) | [D7VK 1.5 Released With Direct3D 3 Now Implemented Over Vulkan](https://www.phoronix.com/news/D7VK-1.5-Released)
+
 ## 20260310
 - [Phoronix](https://www.phoronix.com/) | [SUSE Reportedly May Be For Sale Yet Again](https://www.phoronix.com/news/SUSE-Possibly-For-Sale-2026)
 

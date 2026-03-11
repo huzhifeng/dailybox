@@ -1,3 +1,8 @@
+## 20260311
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-10](https://www.daemonology.net/hn-daily/2026-03-10.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-10](https://hacker-podcast.agi.li/episode/2026-03-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Create value for others and don’t worry about the returns](https://news.ycombinator.com/item?id=47332074)
+
 ## 20260310
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-09](https://www.daemonology.net/hn-daily/2026-03-09.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-09](https://hacker-podcast.agi.li/episode/2026-03-09)
