@@ -1,3 +1,6 @@
+## 20260312
+- [GitHub Trending](https://github.com/trending?since=daily) | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+
 ## 20260311
 - [GitHub Trending](https://github.com/trending?since=daily) | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 

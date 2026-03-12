@@ -1,3 +1,7 @@
+## 20260312
+- [Phoronix](https://www.phoronix.com/) | [AMD HDR/Color Improvement For Their Linux Driver & KDE - Co-Developed By Claude Code](https://www.phoronix.com/news/AMD-More-HDR-KWin-Claude-Code)
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 19 Open-Source IDE Released with Minimap for Text Editors, MCP Server](https://9to5linux.com/qt-creator-19-open-source-ide-released-with-minimap-for-text-editors-mcp-server)
+
 ## 20260311
 - [Phoronix](https://www.phoronix.com/) | [D7VK 1.5 Released With Direct3D 3 Now Implemented Over Vulkan](https://www.phoronix.com/news/D7VK-1.5-Released)
 

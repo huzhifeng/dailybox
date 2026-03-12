@@ -1,3 +1,6 @@
+## 20260312
+- [9to5Linux](https://9to5linux.com/) | [Qt Creator 19 Open-Source IDE Released with Minimap for Text Editors, MCP Server](https://9to5linux.com/qt-creator-19-open-source-ide-released-with-minimap-for-text-editors-mcp-server)
+
 ## 20260310
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.5.6 Released as the Last Update in the Series with More Fixes](https://9to5linux.com/kde-plasma-6-5-6-released-as-the-last-update-in-the-series-with-more-fixes)
 
