@@ -1,3 +1,6 @@
+## 20260313
+- [GitHub Trending](https://github.com/trending?since=daily) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
 ## 20260312
 - [GitHub Trending](https://github.com/trending?since=daily) | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 

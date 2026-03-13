@@ -1,3 +1,6 @@
+## 20260313
+- [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Through Linux 7.0 File-System Benchmarks For EXT4 + XFS](https://www.phoronix.com/review/linux-612-linux-70-xfs-ext4)
+
 ## 20260312
 - [Phoronix](https://www.phoronix.com/) | [AMD HDR/Color Improvement For Their Linux Driver & KDE - Co-Developed By Claude Code](https://www.phoronix.com/news/AMD-More-HDR-KWin-Claude-Code)
 - [9to5Linux](https://9to5linux.com/) | [Qt Creator 19 Open-Source IDE Released with Minimap for Text Editors, MCP Server](https://9to5linux.com/qt-creator-19-open-source-ide-released-with-minimap-for-text-editors-mcp-server)

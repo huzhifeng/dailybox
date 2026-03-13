@@ -1,3 +1,6 @@
+## 20260313
+- [It's FOSS](https://itsfoss.com/) | [Good News! Google Chrome on Linux is Getting the Much Awaited Upgrade](https://feed.itsfoss.com/link/24361/17298787/chrome-linux-arm-announcement)
+
 ## 20260306
 - [It's FOSS](https://itsfoss.com/) | [Age Verification Laws Are Multiplying Like a Virus, and Your Linux Computer Might be Next](https://itsfoss.com/news/age-verification-pandemic/)
 
