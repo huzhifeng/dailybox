@@ -1,3 +1,6 @@
+## 20260314
+- [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
+
 ## 20260313
 - [LibHunt](https://www.libhunt.com/) | [biotrackr](https://www.libhunt.com/r/biotrackr)
 

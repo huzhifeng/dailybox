@@ -1,3 +1,6 @@
+## 20260314
+- [Phoronix](https://www.phoronix.com/) | [Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04](https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04)
+
 ## 20260313
 - [Phoronix](https://www.phoronix.com/) | [Linux 6.12 Through Linux 7.0 File-System Benchmarks For EXT4 + XFS](https://www.phoronix.com/review/linux-612-linux-70-xfs-ext4)
 

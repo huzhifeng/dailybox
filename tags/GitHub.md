@@ -1,3 +1,6 @@
+## 20260314
+- [GitHub Trending](https://github.com/trending?since=daily) | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+
 ## 20260313
 - [GitHub Trending](https://github.com/trending?since=daily) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
