@@ -1,3 +1,6 @@
+## 20260315
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Lands Improvements To Deal With Upcoming Rust Changes, Build Reproducibility](https://www.phoronix.com/news/Linux-7.0-rc4-More-Rust)
+
 ## 20260314
 - [Phoronix](https://www.phoronix.com/) | [Trying Out Snapdragon X Elite With The Acer Swift 14 AI Laptop On Ubuntu 26.04](https://www.phoronix.com/news/Snapdragon-X-Elite-Ubuntu-26.04)
 

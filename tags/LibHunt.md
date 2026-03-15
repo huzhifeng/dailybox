@@ -1,3 +1,6 @@
+## 20260315
+- [LibHunt](https://www.libhunt.com/) | [promptcmd](https://www.libhunt.com/r/promptcmd)
+
 ## 20260314
 - [LibHunt](https://www.libhunt.com/) | [CPython](https://www.libhunt.com/r/cpython)
 

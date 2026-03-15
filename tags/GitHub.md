@@ -1,3 +1,6 @@
+## 20260315
+- [GitHub Trending](https://github.com/trending?since=daily) | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
 ## 20260314
 - [GitHub Trending](https://github.com/trending?since=daily) | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 
