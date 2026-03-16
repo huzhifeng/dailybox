@@ -1,3 +1,6 @@
+## 20260316
+- [It's FOSS](https://itsfoss.com/) | [10 Things Linux Can Do That Windows Still Can’t](https://feed.itsfoss.com/link/24361/17299966/things-linux-can-window-not)
+
 ## 20260313
 - [It's FOSS](https://itsfoss.com/) | [Good News! Google Chrome on Linux is Getting the Much Awaited Upgrade](https://feed.itsfoss.com/link/24361/17298787/chrome-linux-arm-announcement)
 

@@ -1,3 +1,6 @@
+## 20260316
+- [Phoronix](https://www.phoronix.com/) | [Imagination's Open-Source PowerVR Vulkan Driver Now Plays Nicely With Zink OpenGL](https://www.phoronix.com/news/PowerVR-Vulkan-Does-Zink)
+
 ## 20260315
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.0 Lands Improvements To Deal With Upcoming Rust Changes, Build Reproducibility](https://www.phoronix.com/news/Linux-7.0-rc4-More-Rust)
 

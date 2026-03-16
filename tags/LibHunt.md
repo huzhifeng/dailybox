@@ -1,3 +1,6 @@
+## 20260316
+- [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
+
 ## 20260315
 - [LibHunt](https://www.libhunt.com/) | [promptcmd](https://www.libhunt.com/r/promptcmd)
 
