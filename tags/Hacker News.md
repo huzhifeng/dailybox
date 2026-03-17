@@ -1,3 +1,8 @@
+## 20260317
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-16](https://www.daemonology.net/hn-daily/2026-03-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-16](https://hacker-podcast.agi.li/episode/2026-03-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://news.ycombinator.com/item?id=47410870)
+
 ## 20260316
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-15](https://www.daemonology.net/hn-daily/2026-03-15.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-15](https://hacker-podcast.agi.li/episode/2026-03-15)

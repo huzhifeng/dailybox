@@ -1,3 +1,6 @@
+## 20260317
+- [LibHunt](https://www.libhunt.com/) | [smallweb](https://www.libhunt.com/r/smallweb)
+
 ## 20260316
 - [LibHunt](https://www.libhunt.com/) | [ollama](https://www.libhunt.com/r/ollama)
 

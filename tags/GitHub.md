@@ -1,3 +1,6 @@
+## 20260317
+- [GitHub Trending](https://github.com/trending?since=daily) | [obra/superpowers](https://github.com/obra/superpowers)
+
 ## 20260316
 - [GitHub Trending](https://github.com/trending?since=daily) | [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 

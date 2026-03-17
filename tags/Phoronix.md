@@ -1,3 +1,6 @@
+## 20260317
+- [Phoronix](https://www.phoronix.com/) | [System76 New Thelio Mira Linux Desktop Running Strong - Powered By AMD Ryzen 9000 Series](https://www.phoronix.com/review/thelio-mira-r4-n4)
+
 ## 20260316
 - [Phoronix](https://www.phoronix.com/) | [Imagination's Open-Source PowerVR Vulkan Driver Now Plays Nicely With Zink OpenGL](https://www.phoronix.com/news/PowerVR-Vulkan-Does-Zink)
 
