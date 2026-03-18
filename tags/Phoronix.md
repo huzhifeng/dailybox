@@ -1,3 +1,6 @@
+## 20260318
+- [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix 43 Released For Apple Silicon Macs](https://www.phoronix.com/news/Fedora-Asahi-Remix-43)
+
 ## 20260317
 - [Phoronix](https://www.phoronix.com/) | [System76 New Thelio Mira Linux Desktop Running Strong - Powered By AMD Ryzen 9000 Series](https://www.phoronix.com/review/thelio-mira-r4-n4)
 

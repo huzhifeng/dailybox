@@ -1,3 +1,8 @@
+## 20260318
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-17](https://www.daemonology.net/hn-daily/2026-03-17.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-17](https://hacker-podcast.agi.li/episode/2026-03-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Rob Pike's 5 Rules of Programming](https://news.ycombinator.com/item?id=47423647)
+
 ## 20260317
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-16](https://www.daemonology.net/hn-daily/2026-03-16.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-16](https://hacker-podcast.agi.li/episode/2026-03-16)

@@ -1,3 +1,6 @@
+## 20260318
+- [It's FOSS](https://itsfoss.com/) | [Manjaro Linux Team Goes on Strike, Threatens to Fork the Project](https://feed.itsfoss.com/link/24361/17301403/manjaro-team-strike)
+
 ## 20260317
 - [It's FOSS](https://itsfoss.com/) | [Ageless Linux Emerges to Protest OS-Level Age Verification Laws](https://feed.itsfoss.com/link/24361/17300603/ageless-linux)
 

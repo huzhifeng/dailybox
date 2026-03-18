@@ -1,3 +1,6 @@
+## 20260318
+- [LibHunt](https://www.libhunt.com/) | [bridge-ide](https://www.libhunt.com/r/bridge-ide)
+
 ## 20260317
 - [LibHunt](https://www.libhunt.com/) | [smallweb](https://www.libhunt.com/r/smallweb)
 

@@ -1,3 +1,6 @@
+## 20260318
+- [Product Hunt](https://www.producthunt.com) | [OpenObserve](https://www.producthunt.com/products/openobserve)
+
 ## 20260317
 - [Product Hunt](https://www.producthunt.com) | [Codex Subagents](https://www.producthunt.com/products/openai)
 
