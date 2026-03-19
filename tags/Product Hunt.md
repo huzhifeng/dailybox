@@ -1,3 +1,6 @@
+## 20260319
+- [Product Hunt](https://www.producthunt.com) | [Netlify.new](https://www.producthunt.com/products/netlify)
+
 ## 20260318
 - [Product Hunt](https://www.producthunt.com) | [OpenObserve](https://www.producthunt.com/products/openobserve)
 

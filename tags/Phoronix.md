@@ -1,3 +1,6 @@
+## 20260319
+- [Phoronix](https://www.phoronix.com/) | [GNUnet 0.27 Released For Those With "Some Reasonable Pain Tolerance"](https://www.phoronix.com/news/GNUnet-0.27-Released)
+
 ## 20260318
 - [Phoronix](https://www.phoronix.com/) | [Fedora Asahi Remix 43 Released For Apple Silicon Macs](https://www.phoronix.com/news/Fedora-Asahi-Remix-43)
 

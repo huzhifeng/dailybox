@@ -1,3 +1,6 @@
+## 20260319
+- [GitHub Trending](https://github.com/trending?since=daily) | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
+
 ## 20260318
 - [GitHub Trending](https://github.com/trending?since=daily) | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 

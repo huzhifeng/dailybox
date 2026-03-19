@@ -1,3 +1,6 @@
+## 20260319
+- [LibHunt](https://www.libhunt.com/) | [heretic](https://www.libhunt.com/r/heretic)
+
 ## 20260318
 - [LibHunt](https://www.libhunt.com/) | [bridge-ide](https://www.libhunt.com/r/bridge-ide)
 

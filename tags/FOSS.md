@@ -1,3 +1,6 @@
+## 20260319
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More](https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12)
+
 ## 20260318
 - [It's FOSS](https://itsfoss.com/) | [Manjaro Linux Team Goes on Strike, Threatens to Fork the Project](https://feed.itsfoss.com/link/24361/17301403/manjaro-team-strike)
 

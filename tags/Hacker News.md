@@ -1,3 +1,8 @@
+## 20260319
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-18](https://www.daemonology.net/hn-daily/2026-03-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-18](https://hacker-podcast.agi.li/episode/2026-03-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Astral to Join OpenAI](https://news.ycombinator.com/item?id=47438723)
+
 ## 20260318
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-17](https://www.daemonology.net/hn-daily/2026-03-17.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-17](https://hacker-podcast.agi.li/episode/2026-03-17)
