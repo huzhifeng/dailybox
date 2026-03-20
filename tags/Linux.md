@@ -1,3 +1,6 @@
+## 20260320
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.04 Delivers Enhanced Performance For AMD Radeon Linux Gaming](https://www.phoronix.com/review/ubuntu-2604-radeon-gaming)
+
 ## 20260319
 - [Phoronix](https://www.phoronix.com/) | [GNUnet 0.27 Released For Those With "Some Reasonable Pain Tolerance"](https://www.phoronix.com/news/GNUnet-0.27-Released)
 

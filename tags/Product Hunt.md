@@ -1,3 +1,6 @@
+## 20260320
+- [Product Hunt](https://www.producthunt.com) | [Assembly 2.0](https://www.producthunt.com/products/assembly-7)
+
 ## 20260319
 - [Product Hunt](https://www.producthunt.com) | [Netlify.new](https://www.producthunt.com/products/netlify)
 
