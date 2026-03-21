@@ -1,3 +1,6 @@
+## 20260321
+- [It's FOSS](https://itsfoss.com/) | [Turris Omnia NG Wired is a Fanless, Rack-Ready OpenWrt Router with Dual 10G Ports](https://feed.itsfoss.com/link/24361/17303137/turris-omnia-ng-wired)
+
 ## 20260320
 - [It's FOSS](https://itsfoss.com/) | [Systemd’s New Feature Brings Age Verification Option to Linux](https://feed.itsfoss.com/link/24361/17302597/systemd-age-verification)
 

@@ -1,3 +1,6 @@
+## 20260321
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Being Worked On For Pulsar Gaming Mice](https://www.phoronix.com/news/Linux-Driver-Pulsar-Gaming-Mice)
+
 ## 20260320
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.04 Delivers Enhanced Performance For AMD Radeon Linux Gaming](https://www.phoronix.com/review/ubuntu-2604-radeon-gaming)
 

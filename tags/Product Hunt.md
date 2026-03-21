@@ -1,3 +1,6 @@
+## 20260321
+- [Product Hunt](https://www.producthunt.com) | [Vite+ ](https://www.producthunt.com/products/vite-alpha)
+
 ## 20260320
 - [Product Hunt](https://www.producthunt.com) | [Assembly 2.0](https://www.producthunt.com/products/assembly-7)
 

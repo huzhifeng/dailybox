@@ -1,3 +1,6 @@
+## 20260321
+- [GitHub Trending](https://github.com/trending?since=daily) | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+
 ## 20260320
 - [GitHub Trending](https://github.com/trending?since=daily) | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 
