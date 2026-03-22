@@ -1,3 +1,6 @@
+## 20260322
+- [Phoronix](https://www.phoronix.com/) | [mdadm 4.6 Released With Boot Failure Fixes, New Lockless Bitmap](https://www.phoronix.com/news/mdadm-4.6)
+
 ## 20260321
 - [Phoronix](https://www.phoronix.com/) | [Linux Driver Being Worked On For Pulsar Gaming Mice](https://www.phoronix.com/news/Linux-Driver-Pulsar-Gaming-Mice)
 

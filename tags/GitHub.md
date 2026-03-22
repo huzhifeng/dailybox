@@ -1,3 +1,6 @@
+## 20260322
+- [GitHub Trending](https://github.com/trending?since=daily) | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
 ## 20260321
 - [GitHub Trending](https://github.com/trending?since=daily) | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 
