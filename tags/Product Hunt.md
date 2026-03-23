@@ -1,3 +1,6 @@
+## 20260323
+- [Product Hunt](https://www.producthunt.com) | [Claude Usage Tracker](https://www.producthunt.com/products/claude-usage-tracker)
+
 ## 20260322
 - [Product Hunt](https://www.producthunt.com) | [Edgee Claude Code Compression](https://www.producthunt.com/products/edgee)
 

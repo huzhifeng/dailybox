@@ -1,3 +1,6 @@
+## 20260323
+- [It's FOSS](https://itsfoss.com/) | [Someone Forked Systemd to Strip Out Its Age Verification Support](https://feed.itsfoss.com/link/24361/17304579/systemd-fork-strips-out-age-verification)
+
 ## 20260321
 - [It's FOSS](https://itsfoss.com/) | [Turris Omnia NG Wired is a Fanless, Rack-Ready OpenWrt Router with Dual 10G Ports](https://feed.itsfoss.com/link/24361/17303137/turris-omnia-ng-wired)
 

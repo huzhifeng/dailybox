@@ -1,3 +1,6 @@
+## 20260323
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ## 20260322
 - [GitHub Trending](https://github.com/trending?since=daily) | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 

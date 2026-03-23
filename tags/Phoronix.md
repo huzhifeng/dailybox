@@ -1,3 +1,6 @@
+## 20260323
+- [Phoronix](https://www.phoronix.com/) | [Intel FRED Can Yield Great Performance - FRED Benchmarks On Panther Lake](https://www.phoronix.com/review/intel-fred-panther-lake)
+
 ## 20260322
 - [Phoronix](https://www.phoronix.com/) | [mdadm 4.6 Released With Boot Failure Fixes, New Lockless Bitmap](https://www.phoronix.com/news/mdadm-4.6)
 
