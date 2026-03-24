@@ -1,3 +1,6 @@
+## 20260324
+- [Phoronix](https://www.phoronix.com/) | [Pop!_OS 24.04 vs. Ubuntu 24.04 LTS vs. Ubuntu 26.04 Development Benchmarks](https://www.phoronix.com/review/popos-2404-ubuntu-2604)
+
 ## 20260323
 - [Phoronix](https://www.phoronix.com/) | [Intel FRED Can Yield Great Performance - FRED Benchmarks On Panther Lake](https://www.phoronix.com/review/intel-fred-panther-lake)
 

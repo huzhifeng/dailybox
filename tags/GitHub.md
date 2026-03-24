@@ -1,3 +1,6 @@
+## 20260324
+- [GitHub Trending](https://github.com/trending?since=daily) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
 ## 20260323
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 

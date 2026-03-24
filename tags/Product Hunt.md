@@ -1,3 +1,6 @@
+## 20260324
+- [Product Hunt](https://www.producthunt.com) | [Google Gemini in Chrome](https://www.producthunt.com/products/googlegemini-in-chrome)
+
 ## 20260323
 - [Product Hunt](https://www.producthunt.com) | [Claude Usage Tracker](https://www.producthunt.com/products/claude-usage-tracker)
 

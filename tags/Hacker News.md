@@ -1,3 +1,8 @@
+## 20260324
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-23](https://www.daemonology.net/hn-daily/2026-03-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-23](https://hacker-podcast.agi.li/episode/2026-03-23)
+- [Hacker News](https://news.ycombinator.com/front) | [LiteLLM Python package compromised by supply-chain attack](https://news.ycombinator.com/item?id=47501729)
+
 ## 20260323
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-22](https://www.daemonology.net/hn-daily/2026-03-22.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-22](https://hacker-podcast.agi.li/episode/2026-03-22)

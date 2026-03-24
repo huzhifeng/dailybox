@@ -1,3 +1,6 @@
+## 20260324
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu Maker Canonical is Backing Rust Development With $150K/year](https://feed.itsfoss.com/link/24361/17305018/canonical-joins-rust-foundation)
+
 ## 20260323
 - [It's FOSS](https://itsfoss.com/) | [Someone Forked Systemd to Strip Out Its Age Verification Support](https://feed.itsfoss.com/link/24361/17304579/systemd-fork-strips-out-age-verification)
 
