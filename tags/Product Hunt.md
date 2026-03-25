@@ -1,3 +1,6 @@
+## 20260325
+- [Product Hunt](https://www.producthunt.com) | [LayerProof Matte](https://www.producthunt.com/products/layerproof-social-content-generation)
+
 ## 20260324
 - [Product Hunt](https://www.producthunt.com) | [Google Gemini in Chrome](https://www.producthunt.com/products/googlegemini-in-chrome)
 

@@ -1,3 +1,6 @@
+## 20260325
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.6 Delivers An Impressive Edge For Radeon Graphics Over GNOME 50 On Ubuntu 26.04](https://www.phoronix.com/review/ubuntu-2604-gnome-kde)
+
 ## 20260324
 - [Phoronix](https://www.phoronix.com/) | [Pop!_OS 24.04 vs. Ubuntu 24.04 LTS vs. Ubuntu 26.04 Development Benchmarks](https://www.phoronix.com/review/popos-2404-ubuntu-2604)
 

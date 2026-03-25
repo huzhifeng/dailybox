@@ -1,3 +1,6 @@
+## 20260325
+- [GitHub Trending](https://github.com/trending?since=daily) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
 ## 20260324
 - [GitHub Trending](https://github.com/trending?since=daily) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 

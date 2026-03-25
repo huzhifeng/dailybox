@@ -1,3 +1,6 @@
+## 20260325
+- [LibHunt](https://www.libhunt.com/) | [vercel](https://www.libhunt.com/r/vercel)
+
 ## 20260319
 - [LibHunt](https://www.libhunt.com/) | [heretic](https://www.libhunt.com/r/heretic)
 
