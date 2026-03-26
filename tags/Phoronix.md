@@ -1,3 +1,6 @@
+## 20260326
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu Will Switch To ntpd-rs As Its Next Rust System Component](https://www.phoronix.com/news/Ubuntu-Switching-To-ntpd-rs)
+
 ## 20260325
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.6 Delivers An Impressive Edge For Radeon Graphics Over GNOME 50 On Ubuntu 26.04](https://www.phoronix.com/review/ubuntu-2604-gnome-kde)
 

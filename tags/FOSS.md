@@ -1,3 +1,6 @@
+## 20260326
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13)
+
 ## 20260325
 - [It's FOSS](https://itsfoss.com/) | [Android-Based GrapheneOS Refuses Age Verification, May Exit Regions That Enforce It](https://feed.itsfoss.com/link/24361/17305936/grapheneos-refuses-age-verification)
 

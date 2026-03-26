@@ -1,3 +1,8 @@
+## 20260326
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-25](https://www.daemonology.net/hn-daily/2026-03-25.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-25](https://hacker-podcast.agi.li/episode/2026-03-25)
+- [Hacker News](https://news.ycombinator.com/front) | [European Parliament decided that Chat Control 1.0 must stop](https://news.ycombinator.com/item?id=47529646)
+
 ## 20260325
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-24](https://www.daemonology.net/hn-daily/2026-03-24.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-24](https://hacker-podcast.agi.li/episode/2026-03-24)

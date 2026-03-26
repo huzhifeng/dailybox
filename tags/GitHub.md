@@ -1,3 +1,6 @@
+## 20260326
+- [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
 ## 20260325
 - [GitHub Trending](https://github.com/trending?since=daily) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 

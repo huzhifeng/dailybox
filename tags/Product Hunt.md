@@ -1,3 +1,6 @@
+## 20260326
+- [Product Hunt](https://www.producthunt.com) | [Jentic Mini](https://www.producthunt.com/products/jentic-mini)
+
 ## 20260325
 - [Product Hunt](https://www.producthunt.com) | [LayerProof Matte](https://www.producthunt.com/products/layerproof-social-content-generation)
 
