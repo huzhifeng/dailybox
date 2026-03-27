@@ -1,3 +1,8 @@
+## 20260327
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-26](https://www.daemonology.net/hn-daily/2026-03-26.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-26](https://hacker-podcast.agi.li/episode/2026-03-26)
+- [Hacker News](https://news.ycombinator.com/front) | [Hold on to Your Hardware](https://news.ycombinator.com/item?id=47540833)
+
 ## 20260326
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-25](https://www.daemonology.net/hn-daily/2026-03-25.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-25](https://hacker-podcast.agi.li/episode/2026-03-25)

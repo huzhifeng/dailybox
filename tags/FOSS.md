@@ -1,3 +1,6 @@
+## 20260327
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.04 LTS Beta Shows You There&#x27;s Potential in the Stable Release](https://feed.itsfoss.com/link/24361/17307532/ubuntu-26-04-lts-beta)
+
 ## 20260326
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13)
 

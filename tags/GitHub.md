@@ -1,3 +1,6 @@
+## 20260327
+- [GitHub Trending](https://github.com/trending?since=daily) | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
 ## 20260326
 - [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 

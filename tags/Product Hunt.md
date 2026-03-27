@@ -1,3 +1,6 @@
+## 20260327
+- [Product Hunt](https://www.producthunt.com) | [Claude Code auto-fix ](https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud)
+
 ## 20260326
 - [Product Hunt](https://www.producthunt.com) | [Jentic Mini](https://www.producthunt.com/products/jentic-mini)
 

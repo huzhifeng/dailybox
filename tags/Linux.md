@@ -1,3 +1,6 @@
+## 20260327
+- [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.6 Showing Frequent Performance Advantage Over GNOME 50 With NVIDIA R595 Driver](https://www.phoronix.com/review/nvidia-595-kde-gnome)
+
 ## 20260326
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu Will Switch To ntpd-rs As Its Next Rust System Component](https://www.phoronix.com/news/Ubuntu-Switching-To-ntpd-rs)
 
