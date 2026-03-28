@@ -1,3 +1,6 @@
+## 20260328
+- [Phoronix](https://www.phoronix.com/) | [AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents](https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI)
+
 ## 20260327
 - [Phoronix](https://www.phoronix.com/) | [KDE Plasma 6.6 Showing Frequent Performance Advantage Over GNOME 50 With NVIDIA R595 Driver](https://www.phoronix.com/review/nvidia-595-kde-gnome)
 

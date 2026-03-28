@@ -1,3 +1,6 @@
+## 20260328
+- [GitHub Trending](https://github.com/trending?since=daily) | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+
 ## 20260327
 - [GitHub Trending](https://github.com/trending?since=daily) | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 

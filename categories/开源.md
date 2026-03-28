@@ -1,3 +1,6 @@
+## 20260328
+- [It's FOSS](https://itsfoss.com/) | [After a Long Time, Ubuntu Shows Some Respect to Deb Packages](https://feed.itsfoss.com/link/24361/17308126/ubuntu-26-04-deb-in-app-center)
+
 ## 20260327
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.04 LTS Beta Shows You There&#x27;s Potential in the Stable Release](https://feed.itsfoss.com/link/24361/17307532/ubuntu-26-04-lts-beta)
 

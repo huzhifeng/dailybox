@@ -1,3 +1,8 @@
+## 20260328
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-27](https://www.daemonology.net/hn-daily/2026-03-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-27](https://hacker-podcast.agi.li/episode/2026-03-27)
+- [Hacker News](https://news.ycombinator.com/front) | [I put all 8,642 Spanish laws in Git – every reform is a commit](https://news.ycombinator.com/item?id=47553798)
+
 ## 20260327
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-26](https://www.daemonology.net/hn-daily/2026-03-26.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-26](https://hacker-podcast.agi.li/episode/2026-03-26)

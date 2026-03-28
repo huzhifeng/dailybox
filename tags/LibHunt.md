@@ -1,3 +1,6 @@
+## 20260328
+- [LibHunt](https://www.libhunt.com/) | [yoloai](https://www.libhunt.com/r/yoloai)
+
 ## 20260326
 - [LibHunt](https://www.libhunt.com/) | [certwatch_db](https://www.libhunt.com/r/certwatch_db)
 

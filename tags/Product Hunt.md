@@ -1,3 +1,6 @@
+## 20260328
+- [Product Hunt](https://www.producthunt.com) | [SlapMac](https://www.producthunt.com/products/slapmac)
+
 ## 20260327
 - [Product Hunt](https://www.producthunt.com) | [Claude Code auto-fix ](https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud)
 
