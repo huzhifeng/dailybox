@@ -1,3 +1,6 @@
+## 20260329
+- [Phoronix](https://www.phoronix.com/) | [Linux Ham Radio KISS Serial Driver Being Modernized In 2026](https://www.phoronix.com/news/Linux-Ham-Radio-MKISS-2026)
+
 ## 20260328
 - [Phoronix](https://www.phoronix.com/) | [AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents](https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI)
 

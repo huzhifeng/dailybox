@@ -1,3 +1,6 @@
+## 20260329
+- [It's FOSS](https://itsfoss.com/) | [After 6 Years, One of Wayland’s Most Annoying Problems is Finally Getting Fixed](https://feed.itsfoss.com/link/24361/17308544/wayland-session-management)
+
 ## 20260328
 - [It's FOSS](https://itsfoss.com/) | [After a Long Time, Ubuntu Shows Some Respect to Deb Packages](https://feed.itsfoss.com/link/24361/17308126/ubuntu-26-04-deb-in-app-center)
 

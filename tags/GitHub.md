@@ -1,3 +1,6 @@
+## 20260329
+- [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
+
 ## 20260328
 - [GitHub Trending](https://github.com/trending?since=daily) | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
