@@ -1,3 +1,6 @@
+## 20260330
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
 ## 20260329
 - [GitHub Trending](https://github.com/trending?since=daily) | [virattt/dexter](https://github.com/virattt/dexter)
 

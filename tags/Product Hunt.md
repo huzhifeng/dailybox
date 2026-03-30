@@ -1,3 +1,6 @@
+## 20260330
+- [Product Hunt](https://www.producthunt.com) | [FreeCAD 1.1](https://www.producthunt.com/products/freecad-2)
+
 ## 20260329
 - [Product Hunt](https://www.producthunt.com) | [Sheet Ninja](https://www.producthunt.com/products/sheet-ninja-2)
 

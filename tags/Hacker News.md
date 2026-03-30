@@ -1,3 +1,8 @@
+## 20260330
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-29](https://www.daemonology.net/hn-daily/2026-03-29.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-29](https://hacker-podcast.agi.li/episode/2026-03-29)
+- [Hacker News](https://news.ycombinator.com/front) | [Copilot edited an ad into my PR](https://news.ycombinator.com/item?id=47570269)
+
 ## 20260329
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-28](https://www.daemonology.net/hn-daily/2026-03-28.html)
 

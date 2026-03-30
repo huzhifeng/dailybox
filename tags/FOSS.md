@@ -1,3 +1,6 @@
+## 20260330
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.04 LTS Requires More RAM Than Windows 11?](https://feed.itsfoss.com/link/24361/17309586/ubuntu-26-04-minimum-ram-requirement)
+
 ## 20260329
 - [It's FOSS](https://itsfoss.com/) | [After 6 Years, One of Wayland’s Most Annoying Problems is Finally Getting Fixed](https://feed.itsfoss.com/link/24361/17308544/wayland-session-management)
 

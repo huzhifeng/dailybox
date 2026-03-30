@@ -1,3 +1,6 @@
+## 20260330
+- [Phoronix](https://www.phoronix.com/) | [Coreboot 26.03 Released With Support For Intel Panther Lake](https://www.phoronix.com/news/Coreboot-26.03-Released)
+
 ## 20260329
 - [Phoronix](https://www.phoronix.com/) | [Linux Ham Radio KISS Serial Driver Being Modernized In 2026](https://www.phoronix.com/news/Linux-Ham-Radio-MKISS-2026)
 
