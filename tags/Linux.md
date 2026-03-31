@@ -1,3 +1,6 @@
+## 20260331
+- [Phoronix](https://www.phoronix.com/) | [A Lot Of Rust Graphics Driver Changes For Linux 7.1, NVIDIA Nova Driver Additions](https://www.phoronix.com/news/Rust-DRM-For-Linux-7.1)
+
 ## 20260330
 - [Phoronix](https://www.phoronix.com/) | [Coreboot 26.03 Released With Support For Intel Panther Lake](https://www.phoronix.com/news/Coreboot-26.03-Released)
 

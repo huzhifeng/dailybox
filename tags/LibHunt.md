@@ -1,3 +1,6 @@
+## 20260331
+- [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/instructkr/claude-code)
+
 ## 20260330
 - [LibHunt](https://www.libhunt.com/) | [VelesDB](https://www.libhunt.com/r/VelesDB)
 

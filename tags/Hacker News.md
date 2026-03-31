@@ -1,3 +1,8 @@
+## 20260331
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-30](https://www.daemonology.net/hn-daily/2026-03-30.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-30](https://hacker-podcast.agi.li/episode/2026-03-30)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude Code's source code has been leaked via a map file in their NPM registry](https://news.ycombinator.com/item?id=47584540)
+
 ## 20260330
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-03-29](https://www.daemonology.net/hn-daily/2026-03-29.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-03-29](https://hacker-podcast.agi.li/episode/2026-03-29)

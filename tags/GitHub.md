@@ -1,3 +1,7 @@
+## 20260331
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [instructkr/claw-code](https://github.com/instructkr/claw-code)
+
 ## 20260330
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
