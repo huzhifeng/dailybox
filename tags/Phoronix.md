@@ -1,3 +1,6 @@
+## 20260401
+- [Phoronix](https://www.phoronix.com/) | [HarfBuzz 14.0 Released With New GPU Accelerated Text Rendering Library](https://www.phoronix.com/news/HarfBuzz-14.0-Released)
+
 ## 20260331
 - [Phoronix](https://www.phoronix.com/) | [A Lot Of Rust Graphics Driver Changes For Linux 7.1, NVIDIA Nova Driver Additions](https://www.phoronix.com/news/Rust-DRM-For-Linux-7.1)
 

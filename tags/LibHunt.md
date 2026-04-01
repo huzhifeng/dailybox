@@ -1,3 +1,6 @@
+## 20260401
+- [LibHunt](https://www.libhunt.com/) | [claw-code](https://www.libhunt.com/r/claw-code)
+
 ## 20260331
 - [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/instructkr/claude-code)
 

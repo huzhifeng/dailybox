@@ -1,3 +1,6 @@
+## 20260401
+- [It's FOSS](https://itsfoss.com/) | [Arch Installer Goes 4.0 With a New Face and Fewer &#x27;Curses&#x27;](https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release)
+
 ## 20260331
 - [It's FOSS](https://itsfoss.com/) | [LibreOffice vs ONLYOFFICE - Which One Is Right For You?](https://feed.itsfoss.com/link/24361/17310237/libreoffice-vs-onlyoffice)
 

@@ -1,3 +1,6 @@
+## 20260401
+- [Product Hunt](https://www.producthunt.com) | [traceAI](https://www.producthunt.com/products/future-agi)
+
 ## 20260331
 - [Product Hunt](https://www.producthunt.com) | [Solvea ](https://www.producthunt.com/products/solvea)
 
