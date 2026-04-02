@@ -1,3 +1,6 @@
+## 20260402
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Fourth Version Of Cache Aware Scheduling For Linux](https://www.phoronix.com/news/Linux-Cache-Aware-Sched-v4)
+
 ## 20260401
 - [Phoronix](https://www.phoronix.com/) | [HarfBuzz 14.0 Released With New GPU Accelerated Text Rendering Library](https://www.phoronix.com/news/HarfBuzz-14.0-Released)
 

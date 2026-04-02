@@ -1,3 +1,6 @@
+## 20260402
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
 ## 20260401
 - [GitHub Trending](https://github.com/trending?since=daily) | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 

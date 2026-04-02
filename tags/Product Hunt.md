@@ -1,3 +1,6 @@
+## 20260402
+- [Product Hunt](https://www.producthunt.com) | [Claude Code Voice Mode](https://www.producthunt.com/products/claude-code-voice-mode)
+
 ## 20260401
 - [Product Hunt](https://www.producthunt.com) | [traceAI](https://www.producthunt.com/products/future-agi)
 

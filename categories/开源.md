@@ -1,3 +1,6 @@
+## 20260402
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14)
+
 ## 20260401
 - [It's FOSS](https://itsfoss.com/) | [Arch Installer Goes 4.0 With a New Face and Fewer &#x27;Curses&#x27;](https://feed.itsfoss.com/link/24361/17311610/arch-installer-4-0-release)
 
