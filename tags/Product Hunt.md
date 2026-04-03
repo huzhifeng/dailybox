@@ -1,3 +1,6 @@
+## 20260403
+- [Product Hunt](https://www.producthunt.com) | [VoiceOS](https://www.producthunt.com/products/voiceos)
+
 ## 20260402
 - [Product Hunt](https://www.producthunt.com) | [Claude Code Voice Mode](https://www.producthunt.com/products/claude-code-voice-mode)
 

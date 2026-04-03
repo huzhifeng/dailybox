@@ -1,3 +1,6 @@
+## 20260403
+- [Phoronix](https://www.phoronix.com/) | [CachyOS Delivers More Performance Out Of Intel Panther Lake](https://www.phoronix.com/review/cachyos-panther-lake)
+
 ## 20260402
 - [Phoronix](https://www.phoronix.com/) | [Intel Posts Fourth Version Of Cache Aware Scheduling For Linux](https://www.phoronix.com/news/Linux-Cache-Aware-Sched-v4)
 
