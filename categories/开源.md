@@ -1,3 +1,6 @@
+## 20260404
+- [It's FOSS](https://itsfoss.com/) | [Git Isn’t Just for Developers. It Might Be the Best Writing Tool Ever](https://feed.itsfoss.com/link/24361/17313430/git-plain-text-writing)
+
 ## 20260403
 - [It's FOSS](https://itsfoss.com/) | [Proton Launches Workspace and Meet, Takes Aim at Google and Microsoft](https://feed.itsfoss.com/link/24361/17313017/proton-workspace-launch)
 

@@ -1,3 +1,6 @@
+## 20260404
+- [GitHub Trending](https://github.com/trending?since=daily) | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+
 ## 20260403
 - [GitHub Trending](https://github.com/trending?since=daily) | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 

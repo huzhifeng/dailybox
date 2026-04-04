@@ -1,3 +1,6 @@
+## 20260404
+- [Product Hunt](https://www.producthunt.com) | [Sleek Analytics](https://www.producthunt.com/products/sleek-analytics)
+
 ## 20260403
 - [Product Hunt](https://www.producthunt.com) | [VoiceOS](https://www.producthunt.com/products/voiceos)
 

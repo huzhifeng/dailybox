@@ -1,3 +1,6 @@
+## 20260404
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.1 To Expose AMD Zen 6's AVX-512 BMM For Guest VMs](https://www.phoronix.com/news/Linux-7.1-KVM-AVX-512-BMM)
+
 ## 20260403
 - [Phoronix](https://www.phoronix.com/) | [CachyOS Delivers More Performance Out Of Intel Panther Lake](https://www.phoronix.com/review/cachyos-panther-lake)
 
