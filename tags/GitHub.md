@@ -1,3 +1,6 @@
+## 20260405
+- [GitHub Trending](https://github.com/trending?since=daily) | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+
 ## 20260404
 - [GitHub Trending](https://github.com/trending?since=daily) | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 

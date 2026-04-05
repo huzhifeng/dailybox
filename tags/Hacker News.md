@@ -1,3 +1,8 @@
+## 20260405
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-04](https://www.daemonology.net/hn-daily/2026-04-04.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-04](https://hacker-podcast.agi.li/episode/2026-04-04)
+- [Hacker News](https://news.ycombinator.com/front) | [The threat is comfortable drift toward not understanding what you're doing](https://news.ycombinator.com/item?id=47647788)
+
 ## 20260404
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-03](https://www.daemonology.net/hn-daily/2026-04-03.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-03](https://hacker-podcast.agi.li/episode/2026-04-03)

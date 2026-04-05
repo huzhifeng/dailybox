@@ -1,3 +1,6 @@
+## 20260405
+- [It's FOSS](https://itsfoss.com/) | [Can Free VPN and AI Save Firefox From Decline?](https://feed.itsfoss.com/link/24361/17313745/firefox-survival-with-vpn-ai)
+
 ## 20260404
 - [It's FOSS](https://itsfoss.com/) | [Git Isn’t Just for Developers. It Might Be the Best Writing Tool Ever](https://feed.itsfoss.com/link/24361/17313430/git-plain-text-writing)
 

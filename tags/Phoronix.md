@@ -1,3 +1,6 @@
+## 20260405
+- [Phoronix](https://www.phoronix.com/) | [AMD & Valve Deliver Better Kaveri / Kabini APU Experience With Upcoming Linux 7.1](https://www.phoronix.com/news/Linux-7.1-Final-AMDGPU)
+
 ## 20260404
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.1 To Expose AMD Zen 6's AVX-512 BMM For Guest VMs](https://www.phoronix.com/news/Linux-7.1-KVM-AVX-512-BMM)
 
