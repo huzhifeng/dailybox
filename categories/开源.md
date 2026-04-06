@@ -1,3 +1,6 @@
+## 20260406
+- [It's FOSS](https://itsfoss.com/) | [I Found A Terminal Tool That Makes CSV Files Look Stunning](https://feed.itsfoss.com/link/24361/17314389/tennis-csv-tool)
+
 ## 20260405
 - [It's FOSS](https://itsfoss.com/) | [Can Free VPN and AI Save Firefox From Decline?](https://feed.itsfoss.com/link/24361/17313745/firefox-survival-with-vpn-ai)
 

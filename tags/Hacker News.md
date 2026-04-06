@@ -1,3 +1,8 @@
+## 20260406
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-05](https://www.daemonology.net/hn-daily/2026-04-05.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-05](https://hacker-podcast.agi.li/episode/2026-04-05)
+- [Hacker News](https://news.ycombinator.com/front) | [France pulls last gold held in US for $15B gain](https://news.ycombinator.com/item?id=47658146)
+
 ## 20260405
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-04](https://www.daemonology.net/hn-daily/2026-04-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-04](https://hacker-podcast.agi.li/episode/2026-04-04)

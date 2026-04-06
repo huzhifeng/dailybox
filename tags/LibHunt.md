@@ -1,3 +1,6 @@
+## 20260406
+- [LibHunt](https://www.libhunt.com/) | [timesfm](https://www.libhunt.com/r/timesfm)
+
 ## 20260405
 - [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
 

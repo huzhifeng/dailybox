@@ -1,3 +1,6 @@
+## 20260406
+- [GitHub Trending](https://github.com/trending?since=daily) | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+
 ## 20260405
 - [GitHub Trending](https://github.com/trending?since=daily) | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
 
