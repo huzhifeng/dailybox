@@ -1,3 +1,6 @@
+## 20260407
+- [LibHunt](https://www.libhunt.com/) | [asqav-sdk](https://www.libhunt.com/r/asqav-sdk)
+
 ## 20260406
 - [LibHunt](https://www.libhunt.com/) | [timesfm](https://www.libhunt.com/r/timesfm)
 

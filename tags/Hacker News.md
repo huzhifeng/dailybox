@@ -1,3 +1,8 @@
+## 20260407
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-06](https://www.daemonology.net/hn-daily/2026-04-06.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-06](https://hacker-podcast.agi.li/episode/2026-04-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Brutalist Concrete Laptop Stand (2024)](https://news.ycombinator.com/item?id=47673360)
+
 ## 20260406
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-05](https://www.daemonology.net/hn-daily/2026-04-05.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-05](https://hacker-podcast.agi.li/episode/2026-04-05)

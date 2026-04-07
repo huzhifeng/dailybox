@@ -1,3 +1,6 @@
+## 20260407
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.04 Provides More Performance For AMD Ryzen AI Max "Strix Halo"](https://www.phoronix.com/review/ubuntu-2604-ryzen-ai-max)
+
 ## 20260406
 - [Phoronix](https://www.phoronix.com/) | [NetBSD 11.0 Nears Release With RC3 Released For Testing](https://www.phoronix.com/news/NetBSD-11.0-RC3)
 
