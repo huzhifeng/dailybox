@@ -1,3 +1,6 @@
+## 20260410
+- [GitHub Trending](https://github.com/trending?since=daily) | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
 ## 20260409
 - [GitHub Trending](https://github.com/trending?since=daily) | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
 

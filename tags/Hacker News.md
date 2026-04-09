@@ -1,3 +1,6 @@
+## 20260410
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-08](https://hacker-podcast.agi.li/episode/2026-04-08)
+
 ## 20260409
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-07](https://hacker-podcast.agi.li/episode/2026-04-07)
 
