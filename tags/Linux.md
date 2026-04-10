@@ -1,3 +1,6 @@
+## 20260410
+- [Phoronix](https://www.phoronix.com/) | [Firefox 149 vs. Chrome 147 Web Browser Performance On Linux](https://www.phoronix.com/review/firefox-chrome-2026)
+
 ## 20260407
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.04 Provides More Performance For AMD Ryzen AI Max "Strix Halo"](https://www.phoronix.com/review/ubuntu-2604-ryzen-ai-max)
 

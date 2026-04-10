@@ -1,3 +1,6 @@
+## 20260410
+- [It's FOSS](https://itsfoss.com/) | [Is a Clanker Being Used to Carry Out AI Fuzzing in the Linux Kernel?](https://feed.itsfoss.com/link/24361/17316958/linux-kernel-ai-fuzzing)
+
 ## 20260406
 - [It's FOSS](https://itsfoss.com/) | [I Found A Terminal Tool That Makes CSV Files Look Stunning](https://feed.itsfoss.com/link/24361/17314389/tennis-csv-tool)
 

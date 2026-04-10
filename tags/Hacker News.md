@@ -1,4 +1,9 @@
 ## 20260410
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-09](https://www.daemonology.net/hn-daily/2026-04-09.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-09](https://hacker-podcast.agi.li/episode/2026-04-09)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenAI backs Illinois bill that would limit when AI labs can be held liable](https://news.ycombinator.com/item?id=47717587)
+
+## 20260410
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-08](https://hacker-podcast.agi.li/episode/2026-04-08)
 
 ## 20260409
