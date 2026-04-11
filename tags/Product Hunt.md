@@ -1,3 +1,6 @@
+## 20260411
+- [Product Hunt](https://www.producthunt.com) | [Claude for Word](https://www.producthunt.com/products/claude)
+
 ## 20260410
 - [Product Hunt](https://www.producthunt.com) | [Integrations in Spine](https://www.producthunt.com/products/spine-2)
 

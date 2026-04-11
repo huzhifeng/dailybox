@@ -1,3 +1,6 @@
+## 20260411
+- [Phoronix](https://www.phoronix.com/) | [D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan](https://www.phoronix.com/news/D7VK-1.7-Released)
+
 ## 20260410
 - [Phoronix](https://www.phoronix.com/) | [Firefox 149 vs. Chrome 147 Web Browser Performance On Linux](https://www.phoronix.com/review/firefox-chrome-2026)
 
