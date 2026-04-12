@@ -1,3 +1,6 @@
+## 20260412
+- [GitHub Trending](https://github.com/trending?since=daily) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
 ## 20260411
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/markitdown](https://github.com/microsoft/markitdown)
 

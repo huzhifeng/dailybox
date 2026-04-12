@@ -1,3 +1,6 @@
+## 20260412
+- [It's FOSS](https://itsfoss.com/) | [How to Take Screenshots in Linux Mint [Beginner&#x27;s Tip]](https://feed.itsfoss.com/link/24361/17317876/take-screenshots-linux-mint)
+
 ## 20260410
 - [It's FOSS](https://itsfoss.com/) | [Is a Clanker Being Used to Carry Out AI Fuzzing in the Linux Kernel?](https://feed.itsfoss.com/link/24361/17316958/linux-kernel-ai-fuzzing)
 

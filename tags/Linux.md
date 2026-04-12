@@ -1,3 +1,6 @@
+## 20260412
+- [Phoronix](https://www.phoronix.com/) | [Many Wonderful Improvements Expected For Linux 7.1, Especially For AMD & Intel](https://www.phoronix.com/news/Linux-7.1-Features-Early-Look)
+
 ## 20260411
 - [Phoronix](https://www.phoronix.com/) | [D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan](https://www.phoronix.com/news/D7VK-1.7-Released)
 

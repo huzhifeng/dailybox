@@ -1,3 +1,6 @@
+## 20260412
+- [Product Hunt](https://www.producthunt.com) | [Ray](https://www.producthunt.com/products/ray-7)
+
 ## 20260411
 - [Product Hunt](https://www.producthunt.com) | [Claude for Word](https://www.producthunt.com/products/claude)
 
