@@ -1,3 +1,6 @@
+## 20260413
+- [Phoronix](https://www.phoronix.com/) | [GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming](https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM)
+
 ## 20260412
 - [Phoronix](https://www.phoronix.com/) | [Many Wonderful Improvements Expected For Linux 7.1, Especially For AMD & Intel](https://www.phoronix.com/news/Linux-7.1-Features-Early-Look)
 

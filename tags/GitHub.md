@@ -1,3 +1,6 @@
+## 20260413
+- [GitHub Trending](https://github.com/trending?since=daily) | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
 ## 20260412
 - [GitHub Trending](https://github.com/trending?since=daily) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 

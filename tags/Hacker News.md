@@ -1,3 +1,10 @@
+## 20260413
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-12](https://www.daemonology.net/hn-daily/2026-04-12.html)
+- [Top Hacker News](https://www.tophn.co/) | [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 04 14 HackerNews](https://supertechfans.com/cn/post/2026-04-14-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-13](https://hacker-podcast.agi.li/episode/2026-04-13)
+- [Hacker News](https://news.ycombinator.com/front) | [GitHub Stacked PRs](https://news.ycombinator.com/item?id=47757495)
+
 ## 20260412
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-11](https://www.daemonology.net/hn-daily/2026-04-11.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-11](https://hacker-podcast.agi.li/episode/2026-04-11)
