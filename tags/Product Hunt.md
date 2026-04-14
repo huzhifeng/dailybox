@@ -1,3 +1,6 @@
+## 20260414
+- [Product Hunt](https://www.producthunt.com) | [Open Agents](https://www.producthunt.com/products/open-agents-2)
+
 ## 20260413
 - [Product Hunt](https://www.producthunt.com) | [Legitify](https://www.producthunt.com/products/legitify)
 

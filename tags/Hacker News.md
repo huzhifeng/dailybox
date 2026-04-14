@@ -1,3 +1,10 @@
+## 20260414
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-13](https://www.daemonology.net/hn-daily/2026-04-13.html)
+- [Top Hacker News](https://www.tophn.co/) | [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 04 15 HackerNews](https://supertechfans.com/cn/post/2026-04-15-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-12](https://hacker-podcast.agi.li/episode/2026-04-12)
+- [Hacker News](https://news.ycombinator.com/front) | [Stop Flock](https://news.ycombinator.com/item?id=47772012)
+
 ## 20260413
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-12](https://www.daemonology.net/hn-daily/2026-04-12.html)
 - [Top Hacker News](https://www.tophn.co/) | [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)

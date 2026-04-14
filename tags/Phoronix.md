@@ -1,3 +1,6 @@
+## 20260414
+- [Phoronix](https://www.phoronix.com/) | [AMD ROCm 7.2.2 Brings Optimization Guide For Ryzen AI / RDNA 3.5 Hardware](https://www.phoronix.com/news/AMD-ROCm-7.2.2)
+
 ## 20260413
 - [Phoronix](https://www.phoronix.com/) | [GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming](https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM)
 
