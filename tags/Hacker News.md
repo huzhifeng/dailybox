@@ -1,3 +1,7 @@
+## 20260415
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-14](https://www.daemonology.net/hn-daily/2026-04-14.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-14](https://hacker-podcast.agi.li/episode/2026-04-14)
+
 ## 20260414
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-13](https://www.daemonology.net/hn-daily/2026-04-13.html)
 - [Top Hacker News](https://www.tophn.co/) | [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)

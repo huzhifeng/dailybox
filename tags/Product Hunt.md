@@ -1,3 +1,6 @@
+## 20260415
+- [Product Hunt](https://www.producthunt.com) | [Fathom 3.0](https://www.producthunt.com/products/fathom)
+
 ## 20260414
 - [Product Hunt](https://www.producthunt.com) | [Open Agents](https://www.producthunt.com/products/open-agents-2)
 

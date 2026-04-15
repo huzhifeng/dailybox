@@ -1,3 +1,6 @@
+## 20260415
+- [Phoronix](https://www.phoronix.com/) | [Mesa 26.1-rc1 Released For Testing With Many New Vulkan Extensions & Optimizations](https://www.phoronix.com/news/Mesa-26.1-rc1-Released)
+
 ## 20260414
 - [Phoronix](https://www.phoronix.com/) | [AMD ROCm 7.2.2 Brings Optimization Guide For Ryzen AI / RDNA 3.5 Hardware](https://www.phoronix.com/news/AMD-ROCm-7.2.2)
 

@@ -1,3 +1,6 @@
+## 20260415
+- [It's FOSS](https://itsfoss.com/) | [A PHP Dev Just Solved a 20+ Year-Old KDE Plasma Problem No One Else Would](https://feed.itsfoss.com/link/24361/17319404/kde-plasma-per-screen-virtual-desktops)
+
 ## 20260412
 - [It's FOSS](https://itsfoss.com/) | [How to Take Screenshots in Linux Mint [Beginner&#x27;s Tip]](https://feed.itsfoss.com/link/24361/17317876/take-screenshots-linux-mint)
 
