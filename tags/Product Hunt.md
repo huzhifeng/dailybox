@@ -1,3 +1,6 @@
+## 20260416
+- [Product Hunt](https://www.producthunt.com) | [Mantle SAFEs](https://www.producthunt.com/products/withmantle)
+
 ## 20260415
 - [Product Hunt](https://www.producthunt.com) | [Fathom 3.0](https://www.producthunt.com/products/fathom)
 

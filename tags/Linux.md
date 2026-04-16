@@ -1,3 +1,6 @@
+## 20260416
+- [Phoronix](https://www.phoronix.com/) | [Proton 11.0 Beta Released With More Games Playable On Steam Play](https://www.phoronix.com/news/Proton-11.0-Beta)
+
 ## 20260415
 - [Phoronix](https://www.phoronix.com/) | [Mesa 26.1-rc1 Released For Testing With Many New Vulkan Extensions & Optimizations](https://www.phoronix.com/news/Mesa-26.1-rc1-Released)
 
