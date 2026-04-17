@@ -1,3 +1,6 @@
+## 20260417
+- [Phoronix](https://www.phoronix.com/) | [Intel Xe2 Lunar Lake Linux Graphics Performance Up ~17% Over Past Year](https://www.phoronix.com/review/ubuntu-2604-xe2-lunar-lake)
+
 ## 20260416
 - [Phoronix](https://www.phoronix.com/) | [Proton 11.0 Beta Released With More Games Playable On Steam Play](https://www.phoronix.com/news/Proton-11.0-Beta)
 

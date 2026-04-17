@@ -1,3 +1,6 @@
+## 20260417
+- [GitHub Trending](https://github.com/trending?since=daily) | [EvoMap/evolver](https://github.com/EvoMap/evolver)
+
 ## 20260416
 - [GitHub Trending](https://github.com/trending?since=daily) | [EvoMap/evolver](https://github.com/EvoMap/evolver)
 
