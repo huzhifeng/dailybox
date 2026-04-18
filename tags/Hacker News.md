@@ -1,3 +1,10 @@
+## 20260418
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-17](https://www.daemonology.net/hn-daily/2026-04-17.html)
+- [Top Hacker News](https://www.tophn.co/) | [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 04 18 HackerNews](https://supertechfans.com/cn/post/2026-04-18-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-16](https://hacker-podcast.agi.li/episode/2026-04-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://news.ycombinator.com/item?id=47816960)
+
 ## 20260417
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-16](https://www.daemonology.net/hn-daily/2026-04-16.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 04 17 HackerNews](https://supertechfans.com/cn/post/2026-04-17-HackerNews/)

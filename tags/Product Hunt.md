@@ -1,3 +1,6 @@
+## 20260418
+- [Product Hunt](https://www.producthunt.com) | [Vercel Flags](https://www.producthunt.com/products/vercel)
+
 ## 20260417
 - [Product Hunt](https://www.producthunt.com) | [Arky](https://www.producthunt.com/products/arky)
 

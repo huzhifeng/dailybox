@@ -1,3 +1,6 @@
+## 20260418
+- [Phoronix](https://www.phoronix.com/) | [GhostBSD 26.1 Now Based On FreeBSD 15.0, Switches to XLibre X Server](https://www.phoronix.com/news/GhostBSD-26.1-R15.0p2)
+
 ## 20260417
 - [Phoronix](https://www.phoronix.com/) | [Intel Xe2 Lunar Lake Linux Graphics Performance Up ~17% Over Past Year](https://www.phoronix.com/review/ubuntu-2604-xe2-lunar-lake)
 
