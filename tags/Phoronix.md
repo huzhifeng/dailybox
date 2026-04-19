@@ -1,3 +1,6 @@
+## 20260419
+- [Phoronix](https://www.phoronix.com/) | [Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux](https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux)
+
 ## 20260418
 - [Phoronix](https://www.phoronix.com/) | [GhostBSD 26.1 Now Based On FreeBSD 15.0, Switches to XLibre X Server](https://www.phoronix.com/news/GhostBSD-26.1-R15.0p2)
 

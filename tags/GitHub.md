@@ -1,3 +1,6 @@
+## 20260419
+- [GitHub Trending](https://github.com/trending?since=daily) | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
+
 ## 20260418
 - [GitHub Trending](https://github.com/trending?since=daily) | [EvoMap/evolver](https://github.com/EvoMap/evolver)
 

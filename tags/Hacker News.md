@@ -1,3 +1,7 @@
+## 20260419
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-18](https://www.daemonology.net/hn-daily/2026-04-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-18](https://hacker-podcast.agi.li/episode/2026-04-18)
+
 ## 20260418
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-17](https://www.daemonology.net/hn-daily/2026-04-17.html)
 - [Top Hacker News](https://www.tophn.co/) | [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)

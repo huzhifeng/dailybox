@@ -1,3 +1,6 @@
+## 20260419
+- [Product Hunt](https://www.producthunt.com) | [Gemini app for Mac](https://www.producthunt.com/products/gemini-6)
+
 ## 20260418
 - [Product Hunt](https://www.producthunt.com) | [Vercel Flags](https://www.producthunt.com/products/vercel)
 

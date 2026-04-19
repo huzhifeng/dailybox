@@ -1,3 +1,6 @@
+## 20260419
+- [It's FOSS](https://itsfoss.com/) | [Thunderbolt Wants to Do for AI Clients What Thunderbird Did for Email](https://feed.itsfoss.com/link/24361/17321781/thunderbolt-launch)
+
 ## 20260415
 - [It's FOSS](https://itsfoss.com/) | [A PHP Dev Just Solved a 20+ Year-Old KDE Plasma Problem No One Else Would](https://feed.itsfoss.com/link/24361/17319404/kde-plasma-per-screen-virtual-desktops)
 

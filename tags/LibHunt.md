@@ -1,3 +1,6 @@
+## 20260419
+- [LibHunt](https://www.libhunt.com/) | [claude-code-mcp-qa-automation](https://www.libhunt.com/r/claude-code-mcp-qa-automation)
+
 ## 20260415
 - [LibHunt](https://www.libhunt.com/) | [React](https://www.libhunt.com/r/react)
 
