@@ -1,3 +1,8 @@
+## 20260420
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-19](https://www.daemonology.net/hn-daily/2026-04-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-19](https://hacker-podcast.agi.li/episode/2026-04-19)
+- [Hacker News](https://news.ycombinator.com/front) | [All phones sold in the EU to have replaceable batteries from 2027](https://news.ycombinator.com/item?id=47834195)
+
 ## 20260419
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-18](https://www.daemonology.net/hn-daily/2026-04-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-18](https://hacker-podcast.agi.li/episode/2026-04-18)

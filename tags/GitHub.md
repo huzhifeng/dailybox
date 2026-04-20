@@ -1,3 +1,6 @@
+## 20260420
+- [GitHub Trending](https://github.com/trending?since=daily) | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
 ## 20260419
 - [GitHub Trending](https://github.com/trending?since=daily) | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
 

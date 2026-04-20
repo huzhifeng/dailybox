@@ -1,3 +1,6 @@
+## 20260420
+- [Phoronix](https://www.phoronix.com/) | [GNU Coreutils 9.11 Brings New Performance Improvements: Up To 15x Faster cat](https://www.phoronix.com/news/GNU-Coreutils-9.11)
+
 ## 20260419
 - [Phoronix](https://www.phoronix.com/) | [Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux](https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux)
 

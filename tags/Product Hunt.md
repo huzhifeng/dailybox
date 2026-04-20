@@ -1,3 +1,6 @@
+## 20260420
+- [Product Hunt](https://www.producthunt.com) | [tasteit](https://www.producthunt.com/products/tasteit)
+
 ## 20260419
 - [Product Hunt](https://www.producthunt.com) | [Gemini app for Mac](https://www.producthunt.com/products/gemini-6)
 
