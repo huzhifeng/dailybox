@@ -1,3 +1,6 @@
+## 20260421
+- [Phoronix](https://www.phoronix.com/) | [NTFS-3G FUSE Driver Sees First New Release In Four Years](https://www.phoronix.com/news/NTFS-3G-Driver-2026)
+
 ## 20260420
 - [Phoronix](https://www.phoronix.com/) | [GNU Coreutils 9.11 Brings New Performance Improvements: Up To 15x Faster cat](https://www.phoronix.com/news/GNU-Coreutils-9.11)
 

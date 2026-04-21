@@ -1,3 +1,8 @@
+## 20260421
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-20](https://www.daemonology.net/hn-daily/2026-04-20.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-20](https://hacker-podcast.agi.li/episode/2026-04-20)
+- [Hacker News](https://news.ycombinator.com/front) | [Laws of Software Engineering](https://news.ycombinator.com/item?id=47847179)
+
 ## 20260420
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-19](https://www.daemonology.net/hn-daily/2026-04-19.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-19](https://hacker-podcast.agi.li/episode/2026-04-19)

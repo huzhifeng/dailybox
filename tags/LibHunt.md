@@ -1,3 +1,6 @@
+## 20260421
+- [LibHunt](https://www.libhunt.com/) | [bernstein](https://www.libhunt.com/r/bernstein)
+
 ## 20260419
 - [LibHunt](https://www.libhunt.com/) | [claude-code-mcp-qa-automation](https://www.libhunt.com/r/claude-code-mcp-qa-automation)
 
