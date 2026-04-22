@@ -1,3 +1,6 @@
+## 20260422
+- [Phoronix](https://www.phoronix.com/) | [GCC 16 Compiler Nearly Ready For Release With Zen 6, AVX10.2, APX & Algol 68](https://www.phoronix.com/news/GCC-16.1-Coming-Soon)
+
 ## 20260421
 - [Phoronix](https://www.phoronix.com/) | [NTFS-3G FUSE Driver Sees First New Release In Four Years](https://www.phoronix.com/news/NTFS-3G-Driver-2026)
 

@@ -1,3 +1,6 @@
+## 20260422
+- [LibHunt](https://www.libhunt.com/) | [zod](https://www.libhunt.com/r/zod)
+
 ## 20260421
 - [LibHunt](https://www.libhunt.com/) | [bernstein](https://www.libhunt.com/r/bernstein)
 

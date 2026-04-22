@@ -1,3 +1,6 @@
+## 20260422
+- [Product Hunt](https://www.producthunt.com) | [Nova Recruiter](https://www.producthunt.com/products/nova-recruiter)
+
 ## 20260421
 - [Product Hunt](https://www.producthunt.com) | [Devaito](https://www.producthunt.com/products/devaito)
 

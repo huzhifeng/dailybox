@@ -1,3 +1,6 @@
+## 20260422
+- [It's FOSS](https://itsfoss.com/) | [The People Who Put Emulators on Your Steam Deck Now Want to Sell You a Linux Console](https://feed.itsfoss.com/link/24361/17323368/playnix-linux-console)
+
 ## 20260420
 - [It's FOSS](https://itsfoss.com/) | [This Simple GUI Tool Takes the Pain Out of Docker and Podman](https://feed.itsfoss.com/link/24361/17322304/pods-container-management)
 
