@@ -1,3 +1,6 @@
+## 20260424
+- [GitHub Trending](https://github.com/trending?since=daily) | [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
+
 ## 20260422
 - [GitHub Trending](https://github.com/trending?since=daily) | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 
