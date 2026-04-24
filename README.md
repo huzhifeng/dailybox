@@ -1,16 +1,32 @@
 # Daily Box 20260424
 
+## 开源
+- [It's FOSS](https://itsfoss.com/) | [Firefox Has Quietly Integrated Brave&#x27;s Adblock Engine](https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine)
+
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
+- [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+- [Product Hunt](https://www.producthunt.com) | [Spira AI](https://www.producthunt.com/products/spira-ai)
 
 ## 资讯
-- [每日环球视野](https://idai.ly/) | [April 22, 2026](http://m.idai.ly/se/a193iG?1776816000)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-22](https://hacker-podcast.agi.li/episode/2026-04-22)
+- [Phoronix](https://www.phoronix.com/) | [Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware](https://www.phoronix.com/news/Fwupd-2.1.2-Released)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20260424】我们是AI时代的纺织工人](http://www.dapenti.com/blog/more.asp?name=xilei&id=192618)
+- [每日环球视野](https://idai.ly/) | [April 23, 2026](http://m.idai.ly/se/a193iG?1776902400)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-23](https://www.daemonology.net/hn-daily/2026-04-23.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-23](https://hacker-podcast.agi.li/episode/2026-04-23)
+- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek v4](https://news.ycombinator.com/item?id=47884971)
+
+## 日报
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣](https://www.ifanr.com/1663686)
+- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 最强模型 GPT-5.5 上线；传特斯拉与 SpaceX 终将合并；票价 20 万！12306 惊现豪华专列](https://www.geekpark.net/news/363096)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【毕导】我预言了一个物理规律，历时100天我证明了它](https://b23.tv/BV1wPoVB7Egv)
 
 ## 语录
-- "高贵者最愚蠢，卑贱者最聪明！" - 毛泽东 《毛泽东》
-- "吟怀未许老重阳，霜雪无端入鬓长。" - 序灯 《九日吴山宴集值雨次韵》
-- "Communications tools don't get socially interesting until they get technologically boring." - Clay Shirky
+- "为天地立心，为生民立命，为往圣继绝学，为万世开太平。" - 张载 《横渠语录》
+- "楼船夜雪瓜洲渡，铁马秋风大散关。" - 陆游 《书愤五首·其一》
+- "When the world is so complicated, the simple gift of friendship is within all of our hands." - Maria Shriver
 
 ## 更多
 - [前一天](archives/daily-box-20260423.md)

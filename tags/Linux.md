@@ -1,3 +1,6 @@
+## 20260424
+- [Phoronix](https://www.phoronix.com/) | [Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware](https://www.phoronix.com/news/Fwupd-2.1.2-Released)
+
 ## 20260422
 - [Phoronix](https://www.phoronix.com/) | [GCC 16 Compiler Nearly Ready For Release With Zen 6, AVX10.2, APX & Algol 68](https://www.phoronix.com/news/GCC-16.1-Coming-Soon)
 

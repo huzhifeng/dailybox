@@ -1,3 +1,6 @@
+## 20260424
+- [It's FOSS](https://itsfoss.com/) | [Firefox Has Quietly Integrated Brave&#x27;s Adblock Engine](https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine)
+
 ## 20260422
 - [It's FOSS](https://itsfoss.com/) | [The People Who Put Emulators on Your Steam Deck Now Want to Sell You a Linux Console](https://feed.itsfoss.com/link/24361/17323368/playnix-linux-console)
 

@@ -1,3 +1,6 @@
+## 20260424
+- [Product Hunt](https://www.producthunt.com) | [Spira AI](https://www.producthunt.com/products/spira-ai)
+
 ## 20260422
 - [Product Hunt](https://www.producthunt.com) | [Nova Recruiter](https://www.producthunt.com/products/nova-recruiter)
 

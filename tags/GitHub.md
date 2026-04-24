@@ -1,4 +1,7 @@
 ## 20260424
+- [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+
+## 20260424
 - [GitHub Trending](https://github.com/trending?since=daily) | [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
 
 ## 20260422
