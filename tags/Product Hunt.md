@@ -1,3 +1,6 @@
+## 20260425
+- [Product Hunt](https://www.producthunt.com) | [Gemini Personal Intelligence](https://www.producthunt.com/products/gemini-personal-intelligence)
+
 ## 20260424
 - [Product Hunt](https://www.producthunt.com) | [Spira AI](https://www.producthunt.com/products/spira-ai)
 

@@ -1,3 +1,6 @@
+## 20260425
+- [Phoronix](https://www.phoronix.com/) | [Microsoft Reportedly Looking At Rebasing Azure Linux On Fedora](https://www.phoronix.com/news/MS-Azure-Linux-Fedora-Based)
+
 ## 20260424
 - [Phoronix](https://www.phoronix.com/) | [Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware](https://www.phoronix.com/news/Fwupd-2.1.2-Released)
 

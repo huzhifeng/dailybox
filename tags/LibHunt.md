@@ -1,3 +1,6 @@
+## 20260425
+- [LibHunt](https://www.libhunt.com/) | [oai-voice-mode-chat-mac](https://www.libhunt.com/r/oai-voice-mode-chat-mac)
+
 ## 20260422
 - [LibHunt](https://www.libhunt.com/) | [zod](https://www.libhunt.com/r/zod)
 
