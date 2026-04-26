@@ -1,3 +1,8 @@
+## 20260426
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-25](https://www.daemonology.net/hn-daily/2026-04-25.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-25](https://hacker-podcast.agi.li/episode/2026-04-25)
+- [Hacker News](https://news.ycombinator.com/front) | [The West forgot how to make things, now it’s forgetting how to code](https://news.ycombinator.com/item?id=47907879)
+
 ## 20260425
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-24](https://www.daemonology.net/hn-daily/2026-04-24.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-24](https://hacker-podcast.agi.li/episode/2026-04-24)

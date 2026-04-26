@@ -1,3 +1,6 @@
+## 20260426
+- [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://www.phoronix.com/news/Linux-Kernel-Nearly-40M)
+
 ## 20260425
 - [Phoronix](https://www.phoronix.com/) | [Microsoft Reportedly Looking At Rebasing Azure Linux On Fedora](https://www.phoronix.com/news/MS-Azure-Linux-Fedora-Based)
 
