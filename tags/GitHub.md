@@ -1,3 +1,6 @@
+## 20260428
+- [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
+
 ## 20260426
 - [GitHub Trending](https://github.com/trending?since=daily) | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
