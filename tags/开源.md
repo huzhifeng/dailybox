@@ -1,3 +1,6 @@
+## 20260501
+- [GitHub Trending](https://github.com/trending?since=daily) | [warpdotdev/warp](https://github.com/warpdotdev/warp)
+
 ## 20260430
 - [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
 
