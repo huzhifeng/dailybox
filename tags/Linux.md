@@ -1,3 +1,6 @@
+## 20260501
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts HDMI 2.1 FRL Patches For Their AMDGPU Linux Driver](https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches)
+
 ## 20260426
 - [Phoronix](https://www.phoronix.com/) | [The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://www.phoronix.com/news/Linux-Kernel-Nearly-40M)
 

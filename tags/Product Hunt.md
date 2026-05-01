@@ -1,3 +1,6 @@
+## 20260501
+- [Product Hunt](https://www.producthunt.com) | [Marx Finance](https://www.producthunt.com/products/marx-finance)
+
 ## 20260426
 - [Product Hunt](https://www.producthunt.com) | [Happenstance](https://www.producthunt.com/products/happenstance-2)
 

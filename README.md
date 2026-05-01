@@ -2,14 +2,27 @@
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [warpdotdev/warp](https://github.com/warpdotdev/warp)
+- [LibHunt](https://www.libhunt.com/) | [pilotprotocol](https://www.libhunt.com/r/pilotprotocol)
+- [Product Hunt](https://www.producthunt.com) | [Marx Finance](https://www.producthunt.com/products/marx-finance)
 
 ## 资讯
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-29](https://hacker-podcast.agi.li/episode/2026-04-29)
+- [Phoronix](https://www.phoronix.com/) | [AMD Posts HDMI 2.1 FRL Patches For Their AMDGPU Linux Driver](https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20260501】一个中国人在1月份按FOIA法案递交了申请](http://www.dapenti.com/blog/more.asp?name=xilei&id=192759)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-30](https://www.daemonology.net/hn-daily/2026-04-30.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-30](https://hacker-podcast.agi.li/episode/2026-04-30)
+
+## 日报
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果：下季度内存成本压力将显著加大/宇树最便宜人形机器发布/5月1日高速车流或创历史纪录](https://www.ifanr.com/1664760)
+- [极客早知道](https://www.geekpark.net/column/74) | [DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售](https://www.geekpark.net/news/363694)
+- [晚点早知道](https://www.latepost.com/news/index?proma=3) | [五粮液追溯调整财报，掀开白酒行业的隐藏账本](https://www.latepost.com/news/dj_detail?id=3538)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【相变临界】17章主线磨难/沙盘推演全关卡 摆完挂机 简单好抄 明日方舟](https://b23.tv/BV14WRKBYE9P)
 
 ## 语录
-- "人是生而自由的，但却无往不在枷锁之中。" - 卢梭 《社会契约论》
-- "黄衫飞白马，日日青楼下。" - 陈克 《菩萨蛮·赤阑桥尽香街直》
-- "We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it." - The Buddha
+- "恋情未露人已知，本欲独自暗相思。" - 梦枕貘 《阴阳师》
+- "遗民泪尽胡尘里，南望王师又一年。" - 陆游 《秋夜将晓出篱门迎凉有感》
+- "The friendship that can cease has never been real." - Jerome
 
 ## 更多
 - [前一天](archives/daily-box-20260430.md)
