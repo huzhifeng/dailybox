@@ -1,3 +1,6 @@
+## 20260502
+- [Phoronix](https://www.phoronix.com/) | [VideoLAN Publishes Dav2d For Open-Source AV2 Decoder](https://www.phoronix.com/news/Dav2d-Open-Source-AV2-Decode)
+
 ## 20260501
 - [Phoronix](https://www.phoronix.com/) | [AMD Posts HDMI 2.1 FRL Patches For Their AMDGPU Linux Driver](https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches)
 

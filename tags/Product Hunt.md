@@ -1,3 +1,6 @@
+## 20260502
+- [Product Hunt](https://www.producthunt.com) | [Feather](https://www.producthunt.com/products/feather-18)
+
 ## 20260501
 - [Product Hunt](https://www.producthunt.com) | [Marx Finance](https://www.producthunt.com/products/marx-finance)
 

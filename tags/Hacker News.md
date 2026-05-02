@@ -1,3 +1,8 @@
+## 20260502
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-01](https://www.daemonology.net/hn-daily/2026-05-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-01](https://hacker-podcast.agi.li/episode/2026-05-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Why does it take so long to release black fan versions?](https://news.ycombinator.com/item?id=47983352)
+
 ## 20260501
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-04-30](https://www.daemonology.net/hn-daily/2026-04-30.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-04-30](https://hacker-podcast.agi.li/episode/2026-04-30)
