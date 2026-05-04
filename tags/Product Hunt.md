@@ -1,3 +1,6 @@
+## 20260504
+- [Product Hunt](https://www.producthunt.com) | [Manex](https://www.producthunt.com/products/manex)
+
 ## 20260503
 - [Product Hunt](https://www.producthunt.com) | [Aximote In-Car App](https://www.producthunt.com/products/aximote-in-car-app)
 

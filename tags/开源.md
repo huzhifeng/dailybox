@@ -1,3 +1,6 @@
+## 20260504
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
 ## 20260503
 - [GitHub Trending](https://github.com/trending?since=daily) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
