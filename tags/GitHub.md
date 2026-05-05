@@ -1,3 +1,6 @@
+## 20260505
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
 ## 20260504
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 

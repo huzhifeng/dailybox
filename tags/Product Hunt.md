@@ -1,3 +1,6 @@
+## 20260505
+- [Product Hunt](https://www.producthunt.com) | [PaceBar](https://www.producthunt.com/products/pacebar)
+
 ## 20260504
 - [Product Hunt](https://www.producthunt.com) | [Manex](https://www.producthunt.com/products/manex)
 
