@@ -1,3 +1,6 @@
+## 20260506
+- [Product Hunt](https://www.producthunt.com) | [Magic](https://www.producthunt.com/products/magic-13)
+
 ## 20260505
 - [Product Hunt](https://www.producthunt.com) | [PaceBar](https://www.producthunt.com/products/pacebar)
 

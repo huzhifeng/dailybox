@@ -1,3 +1,7 @@
+## 20260506
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [antirez/ds4](https://github.com/antirez/ds4)
+
 ## 20260505
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
