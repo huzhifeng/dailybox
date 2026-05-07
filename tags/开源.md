@@ -1,3 +1,7 @@
+## 20260507
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
 ## 20260506
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [antirez/ds4](https://github.com/antirez/ds4)

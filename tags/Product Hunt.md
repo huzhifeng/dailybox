@@ -1,3 +1,6 @@
+## 20260507
+- [Product Hunt](https://www.producthunt.com) | [Lovie Formation - Incorporation MCP](https://www.producthunt.com/products/lovie-the-ai-native-formation-mcp)
+
 ## 20260506
 - [Product Hunt](https://www.producthunt.com) | [Magic](https://www.producthunt.com/products/magic-13)
 
