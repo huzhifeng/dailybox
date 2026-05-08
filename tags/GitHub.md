@@ -1,3 +1,7 @@
+## 20260508
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
+
 ## 20260507
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
