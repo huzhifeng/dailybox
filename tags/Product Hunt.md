@@ -1,3 +1,6 @@
+## 20260509
+- [Product Hunt](https://www.producthunt.com) | [Codex in Chrome](https://www.producthunt.com/products/openai)
+
 ## 20260508
 - [Product Hunt](https://www.producthunt.com) | [Sutra](https://www.producthunt.com/products/sutra-4)
 
