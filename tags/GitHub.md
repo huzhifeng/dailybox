@@ -1,3 +1,7 @@
+## 20260511
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+
 ## 20260510
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)

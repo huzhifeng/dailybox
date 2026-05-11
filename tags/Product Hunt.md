@@ -1,3 +1,6 @@
+## 20260511
+- [Product Hunt](https://www.producthunt.com) | [Web Speed](https://www.producthunt.com/products/web-speed)
+
 ## 20260510
 - [Product Hunt](https://www.producthunt.com) | [Keel](https://www.producthunt.com/products/keel-3)
 
