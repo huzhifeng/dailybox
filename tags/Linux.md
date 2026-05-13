@@ -1,3 +1,6 @@
+## 20260513
+- [Phoronix](https://www.phoronix.com/) | [Linux Driver Posted For Intel Silicon Security Engine Interface "ISSEI"](https://www.phoronix.com/news/Intel-ISSEI-Linux-Driver)
+
 ## 20260503
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Introduces Unified Live/Install Media, New Storage Driver](https://www.phoronix.com/news/ReactOS-Unified-ISO)
 
