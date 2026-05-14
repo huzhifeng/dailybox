@@ -1,3 +1,6 @@
+## 20260514
+- [Phoronix](https://www.phoronix.com/) | [New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1](https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout)
+
 ## 20260513
 - [Phoronix](https://www.phoronix.com/) | [Linux Driver Posted For Intel Silicon Security Engine Interface "ISSEI"](https://www.phoronix.com/news/Intel-ISSEI-Linux-Driver)
 
