@@ -1,3 +1,10 @@
+## 20260515
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-14](https://www.daemonology.net/hn-daily/2026-05-14.html)
+- [Top Hacker News](https://www.tophn.co/) | [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 05 15 HackerNews](https://supertechfans.com/cn/post/2026-05-15-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-15](https://hacker-podcast.agi.li/episode/2026-05-15)
+- [Hacker News](https://news.ycombinator.com/front) | [I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)
+
 ## 20260514
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-13](https://www.daemonology.net/hn-daily/2026-05-13.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-14](https://hacker-podcast.agi.li/episode/2026-05-14)

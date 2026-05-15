@@ -1,3 +1,6 @@
+## 20260515
+- [Phoronix](https://www.phoronix.com/) | [Wine 11.9 Released With Wayland Pointer Warp, Initial Support For System Threads](https://www.phoronix.com/news/Wine-11.9-Released)
+
 ## 20260514
 - [Phoronix](https://www.phoronix.com/) | [New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1](https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout)
 

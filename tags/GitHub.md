@@ -1,3 +1,7 @@
+## 20260515
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [vercel-labs/zero](https://github.com/vercel-labs/zero)
+
 ## 20260514
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)
