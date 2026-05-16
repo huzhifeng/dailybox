@@ -1,3 +1,6 @@
+## 20260516
+- [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
 ## 20260515
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [vercel-labs/zero](https://github.com/vercel-labs/zero)

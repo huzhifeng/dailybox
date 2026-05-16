@@ -1,3 +1,6 @@
+## 20260516
+- [Phoronix](https://www.phoronix.com/) | [Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve](https://www.phoronix.com/news/AMD-Marek-Joins-Valve)
+
 ## 20260515
 - [Phoronix](https://www.phoronix.com/) | [Wine 11.9 Released With Wayland Pointer Warp, Initial Support For System Threads](https://www.phoronix.com/news/Wine-11.9-Released)
 
