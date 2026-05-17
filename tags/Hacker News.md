@@ -1,3 +1,8 @@
+## 20260517
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-16](https://www.daemonology.net/hn-daily/2026-05-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-16](https://hacker-podcast.agi.li/episode/2026-05-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://news.ycombinator.com/item?id=48166459)
+
 ## 20260516
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-15](https://www.daemonology.net/hn-daily/2026-05-15.html)
 - [Top Hacker News](https://www.tophn.co/) | ['No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)

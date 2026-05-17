@@ -1,3 +1,6 @@
+## 20260517
+- [GitHub Trending](https://github.com/trending?since=daily) | [oven-sh/bun](https://github.com/oven-sh/bun)
+
 ## 20260516
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 

@@ -1,3 +1,6 @@
+## 20260517
+- [Phoronix](https://www.phoronix.com/) | [Open-Source "low_latency_layer" Brings Reflex & Anti-Lag 2 To AMD & Intel GPUs On Linux](https://www.phoronix.com/news/Low-Latency-Layer)
+
 ## 20260516
 - [Phoronix](https://www.phoronix.com/) | [Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve](https://www.phoronix.com/news/AMD-Marek-Joins-Valve)
 

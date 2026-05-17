@@ -1,3 +1,6 @@
+## 20260517
+- [LibHunt](https://www.libhunt.com/) | [apify-gmail-inbox-intel](https://www.libhunt.com/r/apify-gmail-inbox-intel)
+
 ## 20260501
 - [LibHunt](https://www.libhunt.com/) | [pilotprotocol](https://www.libhunt.com/r/pilotprotocol)
 
