@@ -1,3 +1,6 @@
+## 20260518
+- [Phoronix](https://www.phoronix.com/) | [More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit & Others](https://www.phoronix.com/news/Intel-May-2026-OSS-Archived)
+
 ## 20260517
 - [Phoronix](https://www.phoronix.com/) | [Open-Source "low_latency_layer" Brings Reflex & Anti-Lag 2 To AMD & Intel GPUs On Linux](https://www.phoronix.com/news/Low-Latency-Layer)
 

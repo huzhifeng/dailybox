@@ -1,3 +1,10 @@
+## 20260518
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-17](https://www.daemonology.net/hn-daily/2026-05-17.html)
+- [Top Hacker News](https://www.tophn.co/) | [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 05 19 HackerNews](https://supertechfans.com/cn/post/2026-05-19-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-18](https://hacker-podcast.agi.li/episode/2026-05-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://news.ycombinator.com/item?id=48182754)
+
 ## 20260517
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-16](https://www.daemonology.net/hn-daily/2026-05-16.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-16](https://hacker-podcast.agi.li/episode/2026-05-16)
