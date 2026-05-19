@@ -33,6 +33,9 @@ def main():
     today = now.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     yesterday = today - datetime.timedelta(days=1)
     tomorrow = today + datetime.timedelta(days=1)
+    today_str = today.strftime('%Y%m%d')
+    yesterday_str = yesterday.strftime('%Y%m%d')
+    tomorrow_str = tomorrow.strftime('%Y%m%d')
     lastweek = today - datetime.timedelta(weeks=1)
     timestamp = datetime.datetime.now().timestamp()
     items = []
@@ -313,9 +316,6 @@ def main():
 
     categories_obj = {}
     tags_obj = {}
-    today_str = today.strftime('%Y%m%d')
-    yesterday_str = yesterday.strftime('%Y%m%d')
-    tomorrow_str = tomorrow.strftime('%Y%m%d')
     fname_daily_box_today = f'archives/daily-box-{today_str}.md'
     md_daily_box = f'# Daily Box {today_str}\n\n'
 
