@@ -1,3 +1,6 @@
+## 20260519
+- [Product Hunt](https://www.producthunt.com) | [Monocle 3.5 for macOS](https://www.producthunt.com/products/monocle-clear-workspace-clear-mind)
+
 ## 20260517
 - [Product Hunt](https://www.producthunt.com) | [Files SDK](https://www.producthunt.com/products/files-sdk)
 

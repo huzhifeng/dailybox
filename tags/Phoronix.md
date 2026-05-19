@@ -1,3 +1,6 @@
+## 20260519
+- [Phoronix](https://www.phoronix.com/) | [Fedora Retiring Its Deepin Desktop Packages](https://www.phoronix.com/news/Fedora-Removing-Deepin)
+
 ## 20260518
 - [Phoronix](https://www.phoronix.com/) | [More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit & Others](https://www.phoronix.com/news/Intel-May-2026-OSS-Archived)
 
