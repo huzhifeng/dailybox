@@ -1,3 +1,10 @@
+## 20260520
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-19](https://www.daemonology.net/hn-daily/2026-05-19.html)
+- [Top Hacker News](https://www.tophn.co/) | [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 05 21 HackerNews](https://supertechfans.com/cn/post/2026-05-21-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-20](https://hacker-podcast.agi.li/episode/2026-05-20)
+- [Hacker News](https://news.ycombinator.com/front) | [Google Declaring War on the Web](https://news.ycombinator.com/item?id=48214449)
+
 ## 20260519
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-18](https://www.daemonology.net/hn-daily/2026-05-18.html)
 - [Top Hacker News](https://www.tophn.co/) | [Andrej Karpathy joins Anthropic](https://twitter.com/karpathy/status/2056753169888334312)

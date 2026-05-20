@@ -1,3 +1,6 @@
+## 20260520
+- [Product Hunt](https://www.producthunt.com) | [Re_gent](https://www.producthunt.com/products/re_gent)
+
 ## 20260519
 - [Product Hunt](https://www.producthunt.com) | [Monocle 3.5 for macOS](https://www.producthunt.com/products/monocle-clear-workspace-clear-mind)
 

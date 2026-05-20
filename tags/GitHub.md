@@ -1,3 +1,7 @@
+## 20260520
+- [GitHub Trending](https://github.com/trending?since=daily) | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [thananon/9arm-skills](https://github.com/thananon/9arm-skills)
+
 ## 20260519
 - [GitHub Trending](https://github.com/trending?since=daily) | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 

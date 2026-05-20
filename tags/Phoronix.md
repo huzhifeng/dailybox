@@ -1,3 +1,6 @@
+## 20260520
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default](https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default)
+
 ## 20260519
 - [Phoronix](https://www.phoronix.com/) | [Fedora Retiring Its Deepin Desktop Packages](https://www.phoronix.com/news/Fedora-Removing-Deepin)
 
