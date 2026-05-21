@@ -1,3 +1,6 @@
+## 20260521
+- [It's FOSS](https://itsfoss.com/) | [Warp&#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent](https://feed.itsfoss.com/link/24361/17345762/warp-oz-multi-harness-update)
+
 ## 20260424
 - [It's FOSS](https://itsfoss.com/) | [Firefox Has Quietly Integrated Brave&#x27;s Adblock Engine](https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine)
 

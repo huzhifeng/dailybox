@@ -1,3 +1,6 @@
+## 20260521
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA RTX PRO Blackwell Performance Delivering Excellent Linux Performance](https://www.phoronix.com/review/nvidia-rtx-pro-blackwell)
+
 ## 20260520
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default](https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default)
 

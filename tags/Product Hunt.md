@@ -1,3 +1,6 @@
+## 20260521
+- [Product Hunt](https://www.producthunt.com) | [Slideshot](https://www.producthunt.com/products/slideshot)
+
 ## 20260520
 - [Product Hunt](https://www.producthunt.com) | [Re_gent](https://www.producthunt.com/products/re_gent)
 

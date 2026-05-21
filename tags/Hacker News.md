@@ -1,3 +1,8 @@
+## 20260521
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-20](https://www.daemonology.net/hn-daily/2026-05-20.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-17](https://hacker-podcast.agi.li/episode/2026-05-17)
+- [Hacker News](https://news.ycombinator.com/front) | [AI is just unauthorised plagiarism at a bigger scale](https://news.ycombinator.com/item?id=48222383)
+
 ## 20260520
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-19](https://www.daemonology.net/hn-daily/2026-05-19.html)
 - [Top Hacker News](https://www.tophn.co/) | [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
