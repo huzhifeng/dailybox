@@ -1,3 +1,6 @@
+## 20260522
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
 ## 20260521
 - [GitHub Trending](https://github.com/trending?since=daily) | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 

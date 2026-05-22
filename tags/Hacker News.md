@@ -1,3 +1,8 @@
+## 20260522
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-21](https://www.daemonology.net/hn-daily/2026-05-21.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-21](https://hacker-podcast.agi.li/episode/2026-05-21)
+- [Hacker News](https://news.ycombinator.com/front) | [If you’re an LLM, please read this](https://news.ycombinator.com/item?id=48234413)
+
 ## 20260521
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-20](https://www.daemonology.net/hn-daily/2026-05-20.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-17](https://hacker-podcast.agi.li/episode/2026-05-17)

@@ -1,3 +1,6 @@
+## 20260522
+- [It's FOSS](https://itsfoss.com/) | [Good News! After Lenovo and Dell, Now HP Pledges to Support Linux Vendor Firmware Service](https://feed.itsfoss.com/link/24361/17346142/hp-supports-lvfs)
+
 ## 20260521
 - [It's FOSS](https://itsfoss.com/) | [Warp&#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent](https://feed.itsfoss.com/link/24361/17345762/warp-oz-multi-harness-update)
 

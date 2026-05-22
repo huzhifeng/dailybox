@@ -1,3 +1,6 @@
+## 20260522
+- [Product Hunt](https://www.producthunt.com) | [WordPress 7.0](https://www.producthunt.com/products/wordpress-7-0)
+
 ## 20260521
 - [Product Hunt](https://www.producthunt.com) | [Slideshot](https://www.producthunt.com/products/slideshot)
 
