@@ -1,3 +1,6 @@
+## 20260523
+- [It's FOSS](https://itsfoss.com/) | [Firefox Just Saved Us All from Spammy Online PDF Tools](https://feed.itsfoss.com/link/24361/17346790/firefox-pdf-merge)
+
 ## 20260522
 - [It's FOSS](https://itsfoss.com/) | [Good News! After Lenovo and Dell, Now HP Pledges to Support Linux Vendor Firmware Service](https://feed.itsfoss.com/link/24361/17346142/hp-supports-lvfs)
 

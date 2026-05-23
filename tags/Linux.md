@@ -1,3 +1,6 @@
+## 20260523
+- [Phoronix](https://www.phoronix.com/) | [AV2 Codec Looks Like It Will Be Officially Released Next Week](https://www.phoronix.com/news/AV2-Next-Week)
+
 ## 20260522
 - [Phoronix](https://www.phoronix.com/) | [systemd 261-rc1 Released With OS Installer, IMDS Subsystem & New storagectl](https://www.phoronix.com/news/systemd-261-rc1)
 

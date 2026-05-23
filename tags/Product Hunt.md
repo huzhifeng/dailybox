@@ -1,3 +1,6 @@
+## 20260523
+- [Product Hunt](https://www.producthunt.com) | [Memdex](https://www.producthunt.com/products/memdex)
+
 ## 20260522
 - [Product Hunt](https://www.producthunt.com) | [WordPress 7.0](https://www.producthunt.com/products/wordpress-7-0)
 
