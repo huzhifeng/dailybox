@@ -1,3 +1,6 @@
+## 20260524
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)
+
 ## 20260523
 - [Phoronix](https://www.phoronix.com/) | [AV2 Codec Looks Like It Will Be Officially Released Next Week](https://www.phoronix.com/news/AV2-Next-Week)
 

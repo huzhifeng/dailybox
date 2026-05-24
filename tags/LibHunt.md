@@ -1,3 +1,6 @@
+## 20260524
+- [LibHunt](https://www.libhunt.com/) | [l-bom](https://www.libhunt.com/r/l-bom)
+
 ## 20260517
 - [LibHunt](https://www.libhunt.com/) | [apify-gmail-inbox-intel](https://www.libhunt.com/r/apify-gmail-inbox-intel)
 

@@ -1,3 +1,6 @@
+## 20260524
+- [Product Hunt](https://www.producthunt.com) | [WhatCable](https://www.producthunt.com/products/whatcable)
+
 ## 20260523
 - [Product Hunt](https://www.producthunt.com) | [Memdex](https://www.producthunt.com/products/memdex)
 

@@ -1,3 +1,7 @@
+## 20260524
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-23](https://www.daemonology.net/hn-daily/2026-05-23.html)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft open-sources "the earliest DOS source code discovered to date"](https://news.ycombinator.com/item?id=48253386)
+
 ## 20260523
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-22](https://www.daemonology.net/hn-daily/2026-05-22.html)
 
