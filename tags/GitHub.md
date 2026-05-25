@@ -1,3 +1,6 @@
+## 20260525
+- [GitHub Trending](https://github.com/trending?since=daily) | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+
 ## 20260524
 - [GitHub Trending](https://github.com/trending?since=daily) | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 

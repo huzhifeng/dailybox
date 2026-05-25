@@ -1,3 +1,6 @@
+## 20260525
+- [Phoronix](https://www.phoronix.com/) | [RADV Driver Lands Support For VK_KHR_shader_fma](https://www.phoronix.com/news/RADV-VK_KHR_shader_fma)
+
 ## 20260524
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)
 

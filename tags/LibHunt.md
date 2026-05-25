@@ -1,3 +1,6 @@
+## 20260525
+- [LibHunt](https://www.libhunt.com/) | [hister](https://www.libhunt.com/r/hister)
+
 ## 20260524
 - [LibHunt](https://www.libhunt.com/) | [l-bom](https://www.libhunt.com/r/l-bom)
 

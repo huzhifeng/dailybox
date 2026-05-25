@@ -1,3 +1,6 @@
+## 20260525
+- [It's FOSS](https://itsfoss.com/) | [AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes](https://feed.itsfoss.com/link/24361/17347774/amd-vivado-bait-and-switch-on-linux-users)
+
 ## 20260523
 - [It's FOSS](https://itsfoss.com/) | [Firefox Just Saved Us All from Spammy Online PDF Tools](https://feed.itsfoss.com/link/24361/17346790/firefox-pdf-merge)
 

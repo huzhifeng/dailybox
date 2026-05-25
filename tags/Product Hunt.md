@@ -1,3 +1,6 @@
+## 20260525
+- [Product Hunt](https://www.producthunt.com) | [Tiny CV](https://www.producthunt.com/products/tiny-cv)
+
 ## 20260524
 - [Product Hunt](https://www.producthunt.com) | [WhatCable](https://www.producthunt.com/products/whatcable)
 
