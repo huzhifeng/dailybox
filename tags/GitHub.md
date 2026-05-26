@@ -1,3 +1,6 @@
+## 20260526
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ## 20260525
 - [GitHub Trending](https://github.com/trending?since=daily) | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 

@@ -1,3 +1,6 @@
+## 20260526
+- [Product Hunt](https://www.producthunt.com) | [LangPanda](https://www.producthunt.com/products/langpanda)
+
 ## 20260525
 - [Product Hunt](https://www.producthunt.com) | [Tiny CV](https://www.producthunt.com/products/tiny-cv)
 
