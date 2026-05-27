@@ -1,3 +1,6 @@
+## 20260527
+- [Product Hunt](https://www.producthunt.com) | [Layers](https://www.producthunt.com/products/layers-8)
+
 ## 20260526
 - [Product Hunt](https://www.producthunt.com) | [LangPanda](https://www.producthunt.com/products/langpanda)
 
