@@ -1,3 +1,7 @@
+## 20260528
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
+
 ## 20260527
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
