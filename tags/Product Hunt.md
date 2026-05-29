@@ -1,3 +1,6 @@
+## 20260529
+- [Product Hunt](https://www.producthunt.com) | [Hyper: Self-driving Company Brain](https://www.producthunt.com/products/hyper-11)
+
 ## 20260528
 - [Product Hunt](https://www.producthunt.com) | [Granite](https://www.producthunt.com/products/granite)
 

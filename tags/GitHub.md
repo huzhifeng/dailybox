@@ -1,3 +1,6 @@
+## 20260529
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ## 20260528
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
