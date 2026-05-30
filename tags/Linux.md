@@ -1,3 +1,6 @@
+## 20260530
+- [Phoronix](https://www.phoronix.com/) | [Rust Coreutils 0.9 Released With Additional Security Hardening, Zero-Copy I/O](https://www.phoronix.com/news/Rust-Coreutils-0.9)
+
 ## 20260529
 - [Phoronix](https://www.phoronix.com/) | [Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility](https://www.phoronix.com/news/Wine-11.10-Released)
 
