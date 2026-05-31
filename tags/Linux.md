@@ -1,3 +1,6 @@
+## 20260531
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.1-rc6 Released Following Another "Larger-Than-I'd-Wish-For Size" Week](https://www.phoronix.com/news/Linux-7.1-rc6-Released)
+
 ## 20260530
 - [Phoronix](https://www.phoronix.com/) | [Rust Coreutils 0.9 Released With Additional Security Hardening, Zero-Copy I/O](https://www.phoronix.com/news/Rust-Coreutils-0.9)
 

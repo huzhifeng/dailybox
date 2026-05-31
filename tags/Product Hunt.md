@@ -1,3 +1,6 @@
+## 20260531
+- [Product Hunt](https://www.producthunt.com) | [Web Clipper for NotebookLM](https://www.producthunt.com/products/web-clipper-for-notebooklm)
+
 ## 20260530
 - [Product Hunt](https://www.producthunt.com) | [Step 3.7 Flash](https://www.producthunt.com/products/step-3-5-flash)
 

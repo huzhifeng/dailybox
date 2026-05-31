@@ -1,3 +1,7 @@
+## 20260531
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+
 ## 20260530
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 

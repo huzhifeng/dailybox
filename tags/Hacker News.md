@@ -1,3 +1,10 @@
+## 20260531
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-30](https://www.daemonology.net/hn-daily/2026-05-30.html)
+- [Top Hacker News](https://www.tophn.co/) | [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 05 27 HackerNews](https://supertechfans.com/cn/post/2026-05-27-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-31](https://hacker-podcast.agi.li/episode/2026-05-31)
+- [Hacker News](https://news.ycombinator.com/front) | [Codex just found a "workaround" of not having sudo on my PC](https://news.ycombinator.com/item?id=48348578)
+
 ## 20260530
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-29](https://www.daemonology.net/hn-daily/2026-05-29.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 05 31 HackerNews](https://supertechfans.com/cn/post/2026-05-31-HackerNews/)
