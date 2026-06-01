@@ -1,3 +1,6 @@
+## 20260601
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon Diamond Rapids EDAC Driver Changes Readied For Linux 7.2](https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-RRL)
+
 ## 20260531
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.1-rc6 Released Following Another "Larger-Than-I'd-Wish-For Size" Week](https://www.phoronix.com/news/Linux-7.1-rc6-Released)
 

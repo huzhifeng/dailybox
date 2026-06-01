@@ -1,3 +1,9 @@
+## 20260601
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-31](https://www.daemonology.net/hn-daily/2026-05-31.html)
+- [Top Hacker News](https://www.tophn.co/) | [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-05-28](https://hacker-podcast.agi.li/episode/2026-05-28)
+- [Hacker News](https://news.ycombinator.com/front) | [The newest Instagram “exploit” is the goofiest I've seen](https://news.ycombinator.com/item?id=48359102)
+
 ## 20260531
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-30](https://www.daemonology.net/hn-daily/2026-05-30.html)
 - [Top Hacker News](https://www.tophn.co/) | [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
