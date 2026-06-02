@@ -1,3 +1,6 @@
+## 20260602
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
 ## 20260601
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 

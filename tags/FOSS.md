@@ -1,3 +1,6 @@
+## 20260602
+- [It's FOSS](https://itsfoss.com/) | [I Tried This Open Source ChatGPT Alternative on Linux, But Went Back to Ollama](https://feed.itsfoss.com/link/24361/17352583/jan-ai)
+
 ## 20260525
 - [It's FOSS](https://itsfoss.com/) | [AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes](https://feed.itsfoss.com/link/24361/17347774/amd-vivado-bait-and-switch-on-linux-users)
 

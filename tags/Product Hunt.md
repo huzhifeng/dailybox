@@ -1,3 +1,6 @@
+## 20260602
+- [Product Hunt](https://www.producthunt.com) | [Brief](https://www.producthunt.com/products/brief-10)
+
 ## 20260601
 - [Product Hunt](https://www.producthunt.com) | [Tabstack Web Research](https://www.producthunt.com/products/tabstack)
 

@@ -1,3 +1,8 @@
+## 20260602
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-01](https://www.daemonology.net/hn-daily/2026-06-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-01](https://hacker-podcast.agi.li/episode/2026-06-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Please don't spam people looking for employment. It's just cruel](https://news.ycombinator.com/item?id=48370330)
+
 ## 20260601
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-05-31](https://www.daemonology.net/hn-daily/2026-05-31.html)
 - [Top Hacker News](https://www.tophn.co/) | [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)

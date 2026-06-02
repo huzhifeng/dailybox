@@ -1,3 +1,6 @@
+## 20260602
+- [LibHunt](https://www.libhunt.com/) | [fftext](https://www.libhunt.com/r/fftext)
+
 ## 20260525
 - [LibHunt](https://www.libhunt.com/) | [hister](https://www.libhunt.com/r/hister)
 
