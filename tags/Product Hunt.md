@@ -1,3 +1,6 @@
+## 20260603
+- [Product Hunt](https://www.producthunt.com) | [Composer](https://www.producthunt.com/products/composer-3)
+
 ## 20260602
 - [Product Hunt](https://www.producthunt.com) | [Brief](https://www.producthunt.com/products/brief-10)
 

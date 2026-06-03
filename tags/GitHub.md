@@ -1,3 +1,6 @@
+## 20260603
+- [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
 ## 20260602
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
