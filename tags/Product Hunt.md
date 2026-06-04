@@ -1,3 +1,6 @@
+## 20260604
+- [Product Hunt](https://www.producthunt.com) | [Keen Code](https://www.producthunt.com/products/keen-code-a-cli-coding-agent)
+
 ## 20260603
 - [Product Hunt](https://www.producthunt.com) | [Composer](https://www.producthunt.com/products/composer-3)
 
