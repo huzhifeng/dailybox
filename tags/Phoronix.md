@@ -1,3 +1,6 @@
+## 20260605
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.10 To Begin Laying Foundation For Context-Aware Desktop, Other New Features](https://www.phoronix.com/news/Ubuntu-26.10-Desktop-Features)
+
 ## 20260602
 - [Phoronix](https://www.phoronix.com/) | [Benchmarking The Different CachyOS Linux Kernel Flavors](https://www.phoronix.com/review/cachyos-linux-flavors)
 

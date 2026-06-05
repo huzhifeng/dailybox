@@ -1,3 +1,6 @@
+## 20260605
+- [Product Hunt](https://www.producthunt.com) | [VisionSync](https://www.producthunt.com/products/visionsync)
+
 ## 20260604
 - [Product Hunt](https://www.producthunt.com) | [Keen Code](https://www.producthunt.com/products/keen-code-a-cli-coding-agent)
 
