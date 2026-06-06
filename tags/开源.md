@@ -1,3 +1,6 @@
+## 20260606
+- [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
 ## 20260605
 - [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 

@@ -1,3 +1,6 @@
+## 20260606
+- [Phoronix](https://www.phoronix.com/) | [GNOME File Previewer Finally Switches To GTK4, Adds Dark Mode](https://www.phoronix.com/news/GNOME-File-Previewer-GTK4)
+
 ## 20260605
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.10 To Begin Laying Foundation For Context-Aware Desktop, Other New Features](https://www.phoronix.com/news/Ubuntu-26.10-Desktop-Features)
 
