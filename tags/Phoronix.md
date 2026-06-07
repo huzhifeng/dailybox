@@ -1,3 +1,6 @@
+## 20260607
+- [Phoronix](https://www.phoronix.com/) | [Firefox Merges Support For Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
+
 ## 20260606
 - [Phoronix](https://www.phoronix.com/) | [GNOME File Previewer Finally Switches To GTK4, Adds Dark Mode](https://www.phoronix.com/news/GNOME-File-Previewer-GTK4)
 
