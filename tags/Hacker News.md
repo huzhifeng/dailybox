@@ -1,3 +1,10 @@
+## 20260608
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-07](https://www.daemonology.net/hn-daily/2026-06-07.html)
+- [Top Hacker News](https://www.tophn.co/) | [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 09 HackerNews](https://supertechfans.com/cn/post/2026-06-09-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-04](https://hacker-podcast.agi.li/episode/2026-06-04)
+- [Hacker News](https://news.ycombinator.com/front) | [Confidential submission of draft S-1 to the SEC](https://news.ycombinator.com/item?id=48452317)
+
 ## 20260607
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-06](https://www.daemonology.net/hn-daily/2026-06-06.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 08 HackerNews](https://supertechfans.com/cn/post/2026-06-08-HackerNews/)

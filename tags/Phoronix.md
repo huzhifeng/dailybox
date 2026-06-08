@@ -1,3 +1,6 @@
+## 20260608
+- [Phoronix](https://www.phoronix.com/) | [AMD Support Being Added To UFS Host Controller PCI Driver In Linux 7.2](https://www.phoronix.com/news/AMD-ufshcd-pci-Linux-7.2)
+
 ## 20260607
 - [Phoronix](https://www.phoronix.com/) | [Firefox Merges Support For Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
 
