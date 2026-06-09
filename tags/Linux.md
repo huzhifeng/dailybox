@@ -1,3 +1,6 @@
+## 20260609
+- [Phoronix](https://www.phoronix.com/) | [Asterinas 0.18 Released For Rust-Written, Memory Safe Linux Alternative OS](https://www.phoronix.com/news/Asterinas-0.18)
+
 ## 20260608
 - [Phoronix](https://www.phoronix.com/) | [AMD Support Being Added To UFS Host Controller PCI Driver In Linux 7.2](https://www.phoronix.com/news/AMD-ufshcd-pci-Linux-7.2)
 

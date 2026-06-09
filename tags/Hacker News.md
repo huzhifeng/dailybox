@@ -1,3 +1,8 @@
+## 20260609
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-08](https://www.daemonology.net/hn-daily/2026-06-08.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-08](https://hacker-podcast.agi.li/episode/2026-06-08)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft's open source tools were hacked to steal passwords of AI developers](https://news.ycombinator.com/item?id=48457830)
+
 ## 20260608
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-07](https://www.daemonology.net/hn-daily/2026-06-07.html)
 - [Top Hacker News](https://www.tophn.co/) | [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)

@@ -1,3 +1,6 @@
+## 20260609
+- [LibHunt](https://www.libhunt.com/) | [mxc](https://www.libhunt.com/r/mxc)
+
 ## 20260602
 - [LibHunt](https://www.libhunt.com/) | [fftext](https://www.libhunt.com/r/fftext)
 
