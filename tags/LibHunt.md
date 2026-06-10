@@ -1,3 +1,6 @@
+## 20260610
+- [LibHunt](https://www.libhunt.com/) | [riskkernel](https://www.libhunt.com/r/riskkernel)
+
 ## 20260609
 - [LibHunt](https://www.libhunt.com/) | [mxc](https://www.libhunt.com/r/mxc)
 

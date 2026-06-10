@@ -1,3 +1,6 @@
+## 20260610
+- [It's FOSS](https://itsfoss.com/) | [Good News For Linux Terminal Junkies! Proton Drive Now Has a CLI](https://feed.itsfoss.com/link/24361/17357437/proton-drive-cli)
+
 ## 20260609
 - [It's FOSS](https://itsfoss.com/) | [Collabora&#x27;s CODE 26.04 Release Might Be Its Biggest One Yet](https://feed.itsfoss.com/link/24361/17356900/collabora-code-26-04)
 

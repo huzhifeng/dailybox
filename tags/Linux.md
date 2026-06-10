@@ -1,3 +1,6 @@
+## 20260610
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Engineer Devises Patch To Significantly Reduce GCC Bootstrap Time](https://www.phoronix.com/news/NVIDIA-Reduce-GCC-Bootstrap)
+
 ## 20260609
 - [Phoronix](https://www.phoronix.com/) | [Asterinas 0.18 Released For Rust-Written, Memory Safe Linux Alternative OS](https://www.phoronix.com/news/Asterinas-0.18)
 
