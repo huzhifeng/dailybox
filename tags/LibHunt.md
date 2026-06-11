@@ -1,3 +1,6 @@
+## 20260611
+- [LibHunt](https://www.libhunt.com/) | [inversql](https://www.libhunt.com/r/inversql)
+
 ## 20260610
 - [LibHunt](https://www.libhunt.com/) | [riskkernel](https://www.libhunt.com/r/riskkernel)
 

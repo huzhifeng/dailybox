@@ -1,3 +1,6 @@
+## 20260611
+- [Product Hunt](https://www.producthunt.com) | [Asmi AI](https://www.producthunt.com/products/asmi-ai)
+
 ## 20260610
 - [Product Hunt](https://www.producthunt.com) | [iArt.ai](https://www.producthunt.com/products/iart-ai)
 

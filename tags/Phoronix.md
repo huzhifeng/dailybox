@@ -1,3 +1,6 @@
+## 20260611
+- [Phoronix](https://www.phoronix.com/) | [Khronos Releases glTF 2.1 To Make This 3D Asset Standard Work Well For Large Scenes](https://www.phoronix.com/news/Khronos-glTF-2.1-Released)
+
 ## 20260610
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Engineer Devises Patch To Significantly Reduce GCC Bootstrap Time](https://www.phoronix.com/news/NVIDIA-Reduce-GCC-Bootstrap)
 

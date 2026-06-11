@@ -1,3 +1,6 @@
+## 20260611
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24)
+
 ## 20260610
 - [It's FOSS](https://itsfoss.com/) | [Good News For Linux Terminal Junkies! Proton Drive Now Has a CLI](https://feed.itsfoss.com/link/24361/17357437/proton-drive-cli)
 

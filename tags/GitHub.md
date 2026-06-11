@@ -1,3 +1,6 @@
+## 20260611
+- [GitHub Trending](https://github.com/trending?since=daily) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
 ## 20260610
 - [GitHub Trending](https://github.com/trending?since=daily) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
