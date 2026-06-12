@@ -1,3 +1,8 @@
+## 20260612
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-11](https://www.daemonology.net/hn-daily/2026-06-11.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-11](https://hacker-podcast.agi.li/episode/2026-06-11)
+- [Hacker News](https://news.ycombinator.com/front) | [AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)
+
 ## 20260611
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-10](https://www.daemonology.net/hn-daily/2026-06-10.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-10](https://hacker-podcast.agi.li/episode/2026-06-10)

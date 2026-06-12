@@ -1,3 +1,6 @@
+## 20260612
+- [Phoronix](https://www.phoronix.com/) | [Open-Source Success Achieved For Greater Transparency & Security: Running AMD openSIL + Coreboot On EPYC](https://www.phoronix.com/review/amd-opensil-coreboot-ar1)
+
 ## 20260611
 - [Phoronix](https://www.phoronix.com/) | [Khronos Releases glTF 2.1 To Make This 3D Asset Standard Work Well For Large Scenes](https://www.phoronix.com/news/Khronos-glTF-2.1-Released)
 

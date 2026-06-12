@@ -1,3 +1,6 @@
+## 20260612
+- [Product Hunt](https://www.producthunt.com) | [Qursor](https://www.producthunt.com/products/qursor)
+
 ## 20260611
 - [Product Hunt](https://www.producthunt.com) | [Asmi AI](https://www.producthunt.com/products/asmi-ai)
 

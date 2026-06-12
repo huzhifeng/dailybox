@@ -1,3 +1,6 @@
+## 20260612
+- [LibHunt](https://www.libhunt.com/) | [datasette-agent](https://www.libhunt.com/r/datasette-agent)
+
 ## 20260611
 - [LibHunt](https://www.libhunt.com/) | [inversql](https://www.libhunt.com/r/inversql)
 
