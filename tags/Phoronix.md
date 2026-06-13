@@ -1,3 +1,6 @@
+## 20260613
+- [Phoronix](https://www.phoronix.com/) | [Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute](https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo)
+
 ## 20260612
 - [Phoronix](https://www.phoronix.com/) | [Open-Source Success Achieved For Greater Transparency & Security: Running AMD openSIL + Coreboot On EPYC](https://www.phoronix.com/review/amd-opensil-coreboot-ar1)
 

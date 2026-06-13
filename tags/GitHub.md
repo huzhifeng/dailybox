@@ -1,3 +1,6 @@
+## 20260613
+- [GitHub Trending](https://github.com/trending?since=daily) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
 ## 20260612
 - [GitHub Trending](https://github.com/trending?since=daily) | [apple/container](https://github.com/apple/container)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)

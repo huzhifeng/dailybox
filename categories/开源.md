@@ -1,3 +1,6 @@
+## 20260613
+- [It's FOSS](https://itsfoss.com/) | [There is a New X11 Server, Written in Rust, With the Help of AI](https://feed.itsfoss.com/link/24361/17360349/yserver)
+
 ## 20260611
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24)
 

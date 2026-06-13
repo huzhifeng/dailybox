@@ -1,3 +1,8 @@
+## 20260613
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-12](https://www.daemonology.net/hn-daily/2026-06-12.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-12](https://hacker-podcast.agi.li/episode/2026-06-12)
+- [Hacker News](https://news.ycombinator.com/front) | [There is a shadow hanging over this Fable thing](https://news.ycombinator.com/item?id=48513536)
+
 ## 20260612
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-11](https://www.daemonology.net/hn-daily/2026-06-11.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-11](https://hacker-podcast.agi.li/episode/2026-06-11)
