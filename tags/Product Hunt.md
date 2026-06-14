@@ -1,3 +1,6 @@
+## 20260614
+- [Product Hunt](https://www.producthunt.com) | [Athenic 2.0](https://www.producthunt.com/products/athenic-ai)
+
 ## 20260612
 - [Product Hunt](https://www.producthunt.com) | [Qursor](https://www.producthunt.com/products/qursor)
 

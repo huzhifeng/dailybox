@@ -1,3 +1,7 @@
+## 20260614
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Desktop 26.10 &#8220;Stonking Stingray&#8221; Daily Builds Now Available for Download](https://9to5linux.com/ubuntu-desktop-26-10-stonking-stingray-daily-builds-now-available-for-download)
+
 ## 20260613
 - [Phoronix](https://www.phoronix.com/) | [Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute](https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo)
 

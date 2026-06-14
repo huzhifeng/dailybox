@@ -1,3 +1,8 @@
+## 20260614
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-13](https://www.daemonology.net/hn-daily/2026-06-13.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-13](https://hacker-podcast.agi.li/episode/2026-06-13)
+- [Hacker News](https://news.ycombinator.com/front) | [Honda Civics and the Evil Valet](https://news.ycombinator.com/item?id=48523080)
+
 ## 20260613
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-12](https://www.daemonology.net/hn-daily/2026-06-12.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-12](https://hacker-podcast.agi.li/episode/2026-06-12)

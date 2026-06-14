@@ -1,3 +1,6 @@
+## 20260614
+- [Phoronix](https://www.phoronix.com/) | [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
+
 ## 20260613
 - [Phoronix](https://www.phoronix.com/) | [Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute](https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo)
 

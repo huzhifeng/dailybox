@@ -1,3 +1,6 @@
+## 20260614
+- [It's FOSS](https://itsfoss.com/) | [An AI Agent Infiltrated Fedora&#x27;s Bug Tracker and Wreaked Havoc](https://feed.itsfoss.com/link/24361/17360848/fedora-bug-tracker-infiltrated-by-ai-agent)
+
 ## 20260613
 - [It's FOSS](https://itsfoss.com/) | [There is a New X11 Server, Written in Rust, With the Help of AI](https://feed.itsfoss.com/link/24361/17360349/yserver)
 
