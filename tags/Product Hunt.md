@@ -1,3 +1,6 @@
+## 20260615
+- [Product Hunt](https://www.producthunt.com) | [Fonda](https://www.producthunt.com/products/fonda)
+
 ## 20260614
 - [Product Hunt](https://www.producthunt.com) | [Athenic 2.0](https://www.producthunt.com/products/athenic-ai)
 

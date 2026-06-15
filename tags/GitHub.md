@@ -1,3 +1,6 @@
+## 20260615
+- [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
+
 ## 20260614
 - [GitHub Trending](https://github.com/trending?since=daily) | [iptv-org/iptv](https://github.com/iptv-org/iptv)
 
