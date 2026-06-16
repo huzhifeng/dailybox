@@ -1,3 +1,6 @@
+## 20260616
+- [Phoronix](https://www.phoronix.com/) | [Linux Enacts Guidance To Tighten Acceptance Of New File-Systems Into The Kernel](https://www.phoronix.com/news/Linux-New-File-System-Docs)
+
 ## 20260614
 - [Phoronix](https://www.phoronix.com/) | [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 

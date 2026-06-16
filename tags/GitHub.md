@@ -1,3 +1,7 @@
+## 20260616
+- [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [vercel/eve](https://github.com/vercel/eve)
+
 ## 20260615
 - [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
 
