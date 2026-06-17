@@ -1,3 +1,6 @@
+## 20260617
+- [Product Hunt](https://www.producthunt.com) | [Deep Work Plan](https://www.producthunt.com/products/deep-work-plan)
+
 ## 20260616
 - [Product Hunt](https://www.producthunt.com) | [DevCleaner](https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools)
 
