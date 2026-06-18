@@ -1,3 +1,6 @@
+## 20260618
+- [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
+
 ## 20260617
 - [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
 

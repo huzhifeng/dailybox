@@ -1,3 +1,6 @@
+## 20260618
+- [Phoronix](https://www.phoronix.com/) | [Godot 4.7 Released With HDR Output Support](https://www.phoronix.com/news/Godot-4.7-Released)
+
 ## 20260617
 - [Phoronix](https://www.phoronix.com/) | [Bcachefs Tools 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 

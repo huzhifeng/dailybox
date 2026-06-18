@@ -1,3 +1,10 @@
+## 20260618
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-17](https://www.daemonology.net/hn-daily/2026-06-17.html)
+- [Top Hacker News](https://www.tophn.co/) | [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 19 HackerNews](https://supertechfans.com/cn/post/2026-06-19-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-18](https://hacker-podcast.agi.li/episode/2026-06-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: Are You in the Weights?](https://news.ycombinator.com/item?id=48591348)
+
 ## 20260617
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-16](https://www.daemonology.net/hn-daily/2026-06-16.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 18 HackerNews](https://supertechfans.com/cn/post/2026-06-18-HackerNews/)
