@@ -1,3 +1,6 @@
+## 20260619
+- [Product Hunt](https://www.producthunt.com) | [Midjourney Scanner](https://www.producthunt.com/products/midjourney)
+
 ## 20260618
 - [Product Hunt](https://www.producthunt.com) | [VoiceOS](https://www.producthunt.com/products/voiceos)
 

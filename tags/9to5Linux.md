@@ -1,3 +1,6 @@
+## 20260619
+- [9to5Linux](https://9to5linux.com/) | [Latest Raspberry Pi OS Release Is Powered by Linux Kernel 6.18 LTS](https://9to5linux.com/latest-raspberry-pi-os-release-is-powered-by-linux-kernel-6-18-lts)
+
 ## 20260614
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Desktop 26.10 &#8220;Stonking Stingray&#8221; Daily Builds Now Available for Download](https://9to5linux.com/ubuntu-desktop-26-10-stonking-stingray-daily-builds-now-available-for-download)
 

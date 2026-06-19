@@ -1,3 +1,6 @@
+## 20260619
+- [It's FOSS](https://itsfoss.com/) | [Canonical&#x27;s New AI Tool Wants You to Talk to Ubuntu Instead of Type](https://feed.itsfoss.com/link/24361/17363827/myna-ai-speech-to-text-tool)
+
 ## 20260614
 - [It's FOSS](https://itsfoss.com/) | [An AI Agent Infiltrated Fedora&#x27;s Bug Tracker and Wreaked Havoc](https://feed.itsfoss.com/link/24361/17360848/fedora-bug-tracker-infiltrated-by-ai-agent)
 

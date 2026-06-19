@@ -1,3 +1,6 @@
+## 20260619
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR & More Networking Hardware](https://www.phoronix.com/news/Linux-7.2-Networking)
+
 ## 20260618
 - [Phoronix](https://www.phoronix.com/) | [Godot 4.7 Released With HDR Output Support](https://www.phoronix.com/news/Godot-4.7-Released)
 

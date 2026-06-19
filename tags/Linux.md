@@ -1,3 +1,7 @@
+## 20260619
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR & More Networking Hardware](https://www.phoronix.com/news/Linux-7.2-Networking)
+- [9to5Linux](https://9to5linux.com/) | [Latest Raspberry Pi OS Release Is Powered by Linux Kernel 6.18 LTS](https://9to5linux.com/latest-raspberry-pi-os-release-is-powered-by-linux-kernel-6-18-lts)
+
 ## 20260618
 - [Phoronix](https://www.phoronix.com/) | [Godot 4.7 Released With HDR Output Support](https://www.phoronix.com/news/Godot-4.7-Released)
 

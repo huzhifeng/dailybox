@@ -1,3 +1,8 @@
+## 20260619
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-18](https://www.daemonology.net/hn-daily/2026-06-18.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-16](https://hacker-podcast.agi.li/episode/2026-06-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://news.ycombinator.com/item?id=48595511)
+
 ## 20260618
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-17](https://www.daemonology.net/hn-daily/2026-06-17.html)
 - [Top Hacker News](https://www.tophn.co/) | [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
