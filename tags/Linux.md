@@ -1,3 +1,6 @@
+## 20260620
+- [Phoronix](https://www.phoronix.com/) | [Linux's ARM64 NEON Intrinsics CRC64 Code Adapted To Work On 32-bit ARM](https://www.phoronix.com/news/Linux-CRC64-NEON-On-ARM32)
+
 ## 20260619
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR & More Networking Hardware](https://www.phoronix.com/news/Linux-7.2-Networking)
 - [9to5Linux](https://9to5linux.com/) | [Latest Raspberry Pi OS Release Is Powered by Linux Kernel 6.18 LTS](https://9to5linux.com/latest-raspberry-pi-os-release-is-powered-by-linux-kernel-6-18-lts)

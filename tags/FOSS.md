@@ -1,3 +1,6 @@
+## 20260620
+- [It's FOSS](https://itsfoss.com/) | [ArmSoM Sige6 is The First Sige Board to Ditch Rockchip For Allwinner](https://feed.itsfoss.com/link/24361/17364238/armsom-sige6-launched-with-allwinner-soc)
+
 ## 20260619
 - [It's FOSS](https://itsfoss.com/) | [Canonical&#x27;s New AI Tool Wants You to Talk to Ubuntu Instead of Type](https://feed.itsfoss.com/link/24361/17363827/myna-ai-speech-to-text-tool)
 

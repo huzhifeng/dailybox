@@ -1,3 +1,6 @@
+## 20260620
+- [LibHunt](https://www.libhunt.com/) | [release-please](https://www.libhunt.com/r/release-please)
+
 ## 20260614
 - [LibHunt](https://www.libhunt.com/) | [aiclaw](https://www.libhunt.com/r/aiclaw)
 

@@ -1,3 +1,6 @@
+## 20260620
+- [GitHub Trending](https://github.com/trending?since=daily) | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
 ## 20260619
 - [GitHub Trending](https://github.com/trending?since=daily) | [google-research/timesfm](https://github.com/google-research/timesfm)
 
