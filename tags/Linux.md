@@ -1,3 +1,7 @@
+## 20260621
+- [Phoronix](https://www.phoronix.com/) | [Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland](https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing)
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes the Serval WS Linux Laptop with Intel Core Ultra Series 2 CPUs](https://9to5linux.com/system76-refreshes-the-serval-ws-linux-laptop-with-intel-core-ultra-series-2-cpus)
+
 ## 20260620
 - [Phoronix](https://www.phoronix.com/) | [Linux's ARM64 NEON Intrinsics CRC64 Code Adapted To Work On 32-bit ARM](https://www.phoronix.com/news/Linux-CRC64-NEON-On-ARM32)
 

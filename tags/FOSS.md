@@ -1,3 +1,6 @@
+## 20260621
+- [It's FOSS](https://itsfoss.com/) | [Firefox Can Do All This? 21 Features Most Users Never Touch](https://feed.itsfoss.com/link/24361/17364710/firefox-additional-features)
+
 ## 20260620
 - [It's FOSS](https://itsfoss.com/) | [ArmSoM Sige6 is The First Sige Board to Ditch Rockchip For Allwinner](https://feed.itsfoss.com/link/24361/17364238/armsom-sige6-launched-with-allwinner-soc)
 

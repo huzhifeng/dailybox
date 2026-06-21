@@ -1,3 +1,6 @@
+## 20260621
+- [Phoronix](https://www.phoronix.com/) | [Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland](https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing)
+
 ## 20260620
 - [Phoronix](https://www.phoronix.com/) | [Linux's ARM64 NEON Intrinsics CRC64 Code Adapted To Work On 32-bit ARM](https://www.phoronix.com/news/Linux-CRC64-NEON-On-ARM32)
 

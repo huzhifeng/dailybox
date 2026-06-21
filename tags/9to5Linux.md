@@ -1,3 +1,6 @@
+## 20260621
+- [9to5Linux](https://9to5linux.com/) | [System76 Refreshes the Serval WS Linux Laptop with Intel Core Ultra Series 2 CPUs](https://9to5linux.com/system76-refreshes-the-serval-ws-linux-laptop-with-intel-core-ultra-series-2-cpus)
+
 ## 20260619
 - [9to5Linux](https://9to5linux.com/) | [Latest Raspberry Pi OS Release Is Powered by Linux Kernel 6.18 LTS](https://9to5linux.com/latest-raspberry-pi-os-release-is-powered-by-linux-kernel-6-18-lts)
 

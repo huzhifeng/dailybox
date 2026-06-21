@@ -1,3 +1,6 @@
+## 20260621
+- [GitHub Trending](https://github.com/trending?since=daily) | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+
 ## 20260620
 - [GitHub Trending](https://github.com/trending?since=daily) | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
