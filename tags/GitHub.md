@@ -1,3 +1,6 @@
+## 20260622
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
 ## 20260621
 - [GitHub Trending](https://github.com/trending?since=daily) | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
 
