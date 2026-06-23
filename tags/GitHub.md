@@ -1,3 +1,7 @@
+## 20260623
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+
 ## 20260622
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 

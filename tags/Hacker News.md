@@ -1,3 +1,9 @@
+## 20260623
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-22](https://www.daemonology.net/hn-daily/2026-06-22.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 26 HackerNews](https://supertechfans.com/cn/post/2026-06-26-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-25](https://hacker-podcast.agi.li/episode/2026-06-25)
+- [Hacker News](https://news.ycombinator.com/front) | [MicroVMs: Run isolated sandboxes with full lifecycle control](https://news.ycombinator.com/item?id=48642510)
+
 ## 20260622
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-21](https://www.daemonology.net/hn-daily/2026-06-21.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 27 HackerNews](https://supertechfans.com/cn/post/2026-06-27-HackerNews/)
