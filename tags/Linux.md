@@ -1,3 +1,6 @@
+## 20260624
+- [Phoronix](https://www.phoronix.com/) | [MGLRU Improvement Yielding Nice Gains On Linux 7.2: MongoDB 30~100% Higher Throughput](https://www.phoronix.com/news/Linux-7.2-MM)
+
 ## 20260621
 - [Phoronix](https://www.phoronix.com/) | [Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland](https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing)
 - [9to5Linux](https://9to5linux.com/) | [System76 Refreshes the Serval WS Linux Laptop with Intel Core Ultra Series 2 CPUs](https://9to5linux.com/system76-refreshes-the-serval-ws-linux-laptop-with-intel-core-ultra-series-2-cpus)

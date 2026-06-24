@@ -1,3 +1,6 @@
+## 20260624
+- [Product Hunt](https://www.producthunt.com) | [FUTO Swipe](https://www.producthunt.com/products/futo-swipe)
+
 ## 20260623
 - [Product Hunt](https://www.producthunt.com) | [Sipcode](https://www.producthunt.com/products/sipcode)
 
