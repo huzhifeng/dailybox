@@ -1,3 +1,6 @@
+## 20260625
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation & Others Launch "Akrites" To Defend Open-Source Software From AI-Enabled Exploits](https://www.phoronix.com/news/Akrites)
+
 ## 20260624
 - [Phoronix](https://www.phoronix.com/) | [MGLRU Improvement Yielding Nice Gains On Linux 7.2: MongoDB 30~100% Higher Throughput](https://www.phoronix.com/news/Linux-7.2-MM)
 

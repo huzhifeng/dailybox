@@ -1,3 +1,6 @@
+## 20260625
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
 ## 20260624
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Yu9191/wloc](https://github.com/Yu9191/wloc)
