@@ -1,3 +1,6 @@
+## 20260626
+- [Phoronix](https://www.phoronix.com/) | [New Intel Linux Driver Patches Enable HDR Over DP MST Connections](https://www.phoronix.com/news/Intel-HDR-Over-DP-MST)
+
 ## 20260625
 - [Phoronix](https://www.phoronix.com/) | [Linux Foundation & Others Launch "Akrites" To Defend Open-Source Software From AI-Enabled Exploits](https://www.phoronix.com/news/Akrites)
 

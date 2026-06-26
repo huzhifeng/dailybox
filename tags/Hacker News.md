@@ -1,3 +1,10 @@
+## 20260626
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-25](https://www.daemonology.net/hn-daily/2026-06-25.html)
+- [Top Hacker News](https://www.tophn.co/) | [U.S. government will decide who gets to use latest upgrade to ChatGPT](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 26 HackerNews](https://supertechfans.com/cn/post/2026-06-26-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-26](https://hacker-podcast.agi.li/episode/2026-06-26)
+- [Hacker News](https://news.ycombinator.com/front) | [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://news.ycombinator.com/item?id=48692995)
+
 ## 20260625
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-24](https://www.daemonology.net/hn-daily/2026-06-24.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 25 HackerNews](https://supertechfans.com/cn/post/2026-06-25-HackerNews/)

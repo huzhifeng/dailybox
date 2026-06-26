@@ -1,3 +1,6 @@
+## 20260626
+- [Product Hunt](https://www.producthunt.com) | [Group Subscriptions by beehiiv](https://www.producthunt.com/products/beehiiv)
+
 ## 20260625
 - [Product Hunt](https://www.producthunt.com) | [Postproxy - Engagement API](https://www.producthunt.com/products/postproxy)
 
