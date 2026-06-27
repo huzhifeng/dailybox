@@ -1,3 +1,6 @@
+## 20260627
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
 ## 20260626
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)

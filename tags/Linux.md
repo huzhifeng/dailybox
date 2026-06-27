@@ -1,3 +1,6 @@
+## 20260627
+- [Phoronix](https://www.phoronix.com/) | [Linux MD RAID5 Seeing Scalability Improvements Up To 17%](https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work)
+
 ## 20260626
 - [Phoronix](https://www.phoronix.com/) | [New Intel Linux Driver Patches Enable HDR Over DP MST Connections](https://www.phoronix.com/news/Intel-HDR-Over-DP-MST)
 

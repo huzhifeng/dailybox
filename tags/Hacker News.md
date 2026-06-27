@@ -1,3 +1,10 @@
+## 20260627
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-26](https://www.daemonology.net/hn-daily/2026-06-26.html)
+- [Top Hacker News](https://www.tophn.co/) | [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 06 27 HackerNews](https://supertechfans.com/cn/post/2026-06-27-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-23](https://hacker-podcast.agi.li/episode/2026-06-23)
+- [Hacker News](https://news.ycombinator.com/front) | [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://news.ycombinator.com/item?id=48696585)
+
 ## 20260626
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-25](https://www.daemonology.net/hn-daily/2026-06-25.html)
 - [Top Hacker News](https://www.tophn.co/) | [U.S. government will decide who gets to use latest upgrade to ChatGPT](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
