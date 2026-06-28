@@ -1,3 +1,7 @@
+## 20260628
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-27](https://www.daemonology.net/hn-daily/2026-06-27.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-27](https://hacker-podcast.agi.li/episode/2026-06-27)
+
 ## 20260627
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-26](https://www.daemonology.net/hn-daily/2026-06-26.html)
 - [Top Hacker News](https://www.tophn.co/) | [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)

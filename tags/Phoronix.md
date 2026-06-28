@@ -1,3 +1,6 @@
+## 20260628
+- [Phoronix](https://www.phoronix.com/) | [Linux Dropping Old Drivers, AI Detected Vulnerabilities & Other Kernel Highlights Of Q2](https://www.phoronix.com/news/Linux-Kernel-Q2-2026)
+
 ## 20260627
 - [Phoronix](https://www.phoronix.com/) | [Linux MD RAID5 Seeing Scalability Improvements Up To 17%](https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work)
 

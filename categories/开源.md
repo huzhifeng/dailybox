@@ -1,3 +1,6 @@
+## 20260628
+- [It's FOSS](https://itsfoss.com/) | [Every Physics Teacher (And Student) Should Try This Open Source Software](https://feed.itsfoss.com/link/24361/17369273/kde-step)
+
 ## 20260621
 - [It's FOSS](https://itsfoss.com/) | [Firefox Can Do All This? 21 Features Most Users Never Touch](https://feed.itsfoss.com/link/24361/17364710/firefox-additional-features)
 

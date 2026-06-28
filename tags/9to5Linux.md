@@ -1,3 +1,6 @@
+## 20260628
+- [9to5Linux](https://9to5linux.com/) | [Shelly 2.4.1 GUI Package Manager for Arch Linux Improves Networking, Security](https://9to5linux.com/shelly-2-4-1-gui-package-manager-for-arch-linux-improves-networking-security)
+
 ## 20260621
 - [9to5Linux](https://9to5linux.com/) | [System76 Refreshes the Serval WS Linux Laptop with Intel Core Ultra Series 2 CPUs](https://9to5linux.com/system76-refreshes-the-serval-ws-linux-laptop-with-intel-core-ultra-series-2-cpus)
 

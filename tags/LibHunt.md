@@ -1,3 +1,6 @@
+## 20260628
+- [LibHunt](https://www.libhunt.com/) | [signalk-mcp](https://www.libhunt.com/r/signalk-mcp)
+
 ## 20260621
 - [LibHunt](https://www.libhunt.com/) | [ponytail](https://www.libhunt.com/r/ponytail)
 
