@@ -302,6 +302,7 @@
 			"channel": "竹白先锋作品",
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/hip",
+			"enable": 0,
 			"category": "漫游",
 			"tags": ["竹白", "竹白百科", "先锋作品"],
 			"request": {
@@ -320,6 +321,7 @@
 			"channel": "竹白新锐作品",
 			"portal": "https://www.zhubai.wiki/",
 			"url": "https://open.zhubai.wiki/a/zb/s/pl/nep",
+			"enable": 0,
 			"category": "漫游",
 			"tags": ["竹白", "竹白百科", "新锐作品"],
 			"request": {
