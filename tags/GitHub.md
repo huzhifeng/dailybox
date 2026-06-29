@@ -1,3 +1,6 @@
+## 20260629
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
 ## 20260628
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 

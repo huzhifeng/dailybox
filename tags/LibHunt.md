@@ -1,3 +1,6 @@
+## 20260629
+- [LibHunt](https://www.libhunt.com/) | [stripe-node](https://www.libhunt.com/r/stripe-node)
+
 ## 20260628
 - [LibHunt](https://www.libhunt.com/) | [signalk-mcp](https://www.libhunt.com/r/signalk-mcp)
 

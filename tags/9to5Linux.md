@@ -1,3 +1,6 @@
+## 20260629
+- [9to5Linux](https://9to5linux.com/) | [Kodi 22 Beta Improves Linux Support for Remote Keys and HDR Profile Support](https://9to5linux.com/kodi-22-beta-improves-linux-support-for-remote-keys-and-hdr-profile-support)
+
 ## 20260628
 - [9to5Linux](https://9to5linux.com/) | [Shelly 2.4.1 GUI Package Manager for Arch Linux Improves Networking, Security](https://9to5linux.com/shelly-2-4-1-gui-package-manager-for-arch-linux-improves-networking-security)
 

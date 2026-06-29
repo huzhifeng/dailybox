@@ -1,3 +1,6 @@
+## 20260629
+- [It's FOSS](https://itsfoss.com/) | [You Can Spend Up to $11,944 on Purism&#x27;s Librem 16 Linux Laptop](https://feed.itsfoss.com/link/24361/17369622/purism-librem-16)
+
 ## 20260628
 - [It's FOSS](https://itsfoss.com/) | [Every Physics Teacher (And Student) Should Try This Open Source Software](https://feed.itsfoss.com/link/24361/17369273/kde-step)
 

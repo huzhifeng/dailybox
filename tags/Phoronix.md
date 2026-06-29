@@ -1,3 +1,6 @@
+## 20260629
+- [Phoronix](https://www.phoronix.com/) | [Red Hat ARM Engineer Abandons ARM64 Linux Personal Desktop, Goes Back To AMD Ryzen System](https://www.phoronix.com/news/Red-Hat-ARM-Engineer-Back-Ryzen)
+
 ## 20260628
 - [Phoronix](https://www.phoronix.com/) | [Linux Dropping Old Drivers, AI Detected Vulnerabilities & Other Kernel Highlights Of Q2](https://www.phoronix.com/news/Linux-Kernel-Q2-2026)
 
