@@ -1,3 +1,8 @@
+## 20260630
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-29](https://www.daemonology.net/hn-daily/2026-06-29.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-29](https://hacker-podcast.agi.li/episode/2026-06-29)
+- [Hacker News](https://news.ycombinator.com/front) | [European digital ID wallets rely on safety services of Google and Apple](https://news.ycombinator.com/item?id=48730729)
+
 ## 20260629
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-28](https://www.daemonology.net/hn-daily/2026-06-28.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-28](https://hacker-podcast.agi.li/episode/2026-06-28)

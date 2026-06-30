@@ -1,3 +1,7 @@
+## 20260630
+- [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)
+
 ## 20260629
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 

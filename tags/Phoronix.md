@@ -1,3 +1,6 @@
+## 20260630
+- [Phoronix](https://www.phoronix.com/) | [Canonical First Gold Sponsor Of Trifecta Tech For Building More Infrastructure In Rust](https://www.phoronix.com/news/Canonical-Gold-Trifecta-Tech)
+
 ## 20260629
 - [Phoronix](https://www.phoronix.com/) | [Red Hat ARM Engineer Abandons ARM64 Linux Personal Desktop, Goes Back To AMD Ryzen System](https://www.phoronix.com/news/Red-Hat-ARM-Engineer-Back-Ryzen)
 

@@ -1,3 +1,6 @@
+## 20260630
+- [It's FOSS](https://itsfoss.com/) | [AI Agents Could Get Verified Identities, Courtesy of DNS](https://feed.itsfoss.com/link/24361/17370191/linux-foundation-agent-name-service-announcement)
+
 ## 20260629
 - [It's FOSS](https://itsfoss.com/) | [You Can Spend Up to $11,944 on Purism&#x27;s Librem 16 Linux Laptop](https://feed.itsfoss.com/link/24361/17369622/purism-librem-16)
 

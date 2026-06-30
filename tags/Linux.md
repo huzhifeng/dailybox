@@ -1,3 +1,7 @@
+## 20260630
+- [Phoronix](https://www.phoronix.com/) | [Canonical First Gold Sponsor Of Trifecta Tech For Building More Infrastructure In Rust](https://www.phoronix.com/news/Canonical-Gold-Trifecta-Tech)
+- [9to5Linux](https://9to5linux.com/) | [Mageia 10 Officially Released with Linux Kernel 6.18 LTS, KDE Plasma 6.5, and More](https://9to5linux.com/mageia-10-officially-released-with-linux-kernel-6-18-lts-kde-plasma-6-5-and-more)
+
 ## 20260629
 - [Phoronix](https://www.phoronix.com/) | [Red Hat ARM Engineer Abandons ARM64 Linux Personal Desktop, Goes Back To AMD Ryzen System](https://www.phoronix.com/news/Red-Hat-ARM-Engineer-Back-Ryzen)
 - [9to5Linux](https://9to5linux.com/) | [Kodi 22 Beta Improves Linux Support for Remote Keys and HDR Profile Support](https://9to5linux.com/kodi-22-beta-improves-linux-support-for-remote-keys-and-hdr-profile-support)
