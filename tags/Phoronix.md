@@ -1,3 +1,6 @@
+## 20260701
+- [Phoronix](https://www.phoronix.com/) | [Glibc Introduces /etc/tunables.conf For System-Wide Tunables](https://www.phoronix.com/news/Glibc-System-Tunables)
+
 ## 20260630
 - [Phoronix](https://www.phoronix.com/) | [Canonical First Gold Sponsor Of Trifecta Tech For Building More Infrastructure In Rust](https://www.phoronix.com/news/Canonical-Gold-Trifecta-Tech)
 

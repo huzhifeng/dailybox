@@ -1,3 +1,6 @@
+## 20260701
+- [GitHub Trending](https://github.com/trending?since=daily) | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+
 ## 20260630
 - [GitHub Trending](https://github.com/trending?since=daily) | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)

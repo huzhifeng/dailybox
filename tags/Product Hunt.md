@@ -1,3 +1,6 @@
+## 20260701
+- [Product Hunt](https://www.producthunt.com) | [MailAdept by mailwarm](https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20)
+
 ## 20260628
 - [Product Hunt](https://www.producthunt.com) | [Dotient](https://www.producthunt.com/products/dotient)
 

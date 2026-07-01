@@ -1,3 +1,6 @@
+## 20260701
+- [Phoronix](https://www.phoronix.com/) | [Glibc Introduces /etc/tunables.conf For System-Wide Tunables](https://www.phoronix.com/news/Glibc-System-Tunables)
+
 ## 20260630
 - [Phoronix](https://www.phoronix.com/) | [Canonical First Gold Sponsor Of Trifecta Tech For Building More Infrastructure In Rust](https://www.phoronix.com/news/Canonical-Gold-Trifecta-Tech)
 - [9to5Linux](https://9to5linux.com/) | [Mageia 10 Officially Released with Linux Kernel 6.18 LTS, KDE Plasma 6.5, and More](https://9to5linux.com/mageia-10-officially-released-with-linux-kernel-6-18-lts-kde-plasma-6-5-and-more)
