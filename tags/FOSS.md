@@ -1,3 +1,6 @@
+## 20260702
+- [It's FOSS](https://itsfoss.com/) | [Sick of AI Slop, Former Microsoft Engineer Built a New, AI-less Notepad](https://feed.itsfoss.com/link/24361/17371605/tinyretropad-notepad-clone)
+
 ## 20260701
 - [It's FOSS](https://itsfoss.com/) | [6 Backup Tools for Linux Users of All Kind](https://feed.itsfoss.com/link/24361/17370842/linux-backup-tools)
 

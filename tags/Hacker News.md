@@ -1,3 +1,8 @@
+## 20260702
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-01](https://www.daemonology.net/hn-daily/2026-07-01.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-01](https://hacker-podcast.agi.li/episode/2026-07-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Android Developer Verification: Threat masquerading as Protection](https://news.ycombinator.com/item?id=48755965)
+
 ## 20260701
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-06-30](https://www.daemonology.net/hn-daily/2026-06-30.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-06-30](https://hacker-podcast.agi.li/episode/2026-06-30)

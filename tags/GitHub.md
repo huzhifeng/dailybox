@@ -1,3 +1,6 @@
+## 20260702
+- [GitHub Trending](https://github.com/trending?since=daily) | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
 ## 20260701
 - [GitHub Trending](https://github.com/trending?since=daily) | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 

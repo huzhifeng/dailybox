@@ -1,3 +1,7 @@
+## 20260702
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Initial GCC Compiler Patches For AI Compute Extensions "ACE"](https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches)
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 26.04.3 Released as the Last Update in the KDE Gear 26.04 Series](https://9to5linux.com/kde-gear-26-04-3-released-as-the-last-update-in-the-kde-gear-26-04-series)
+
 ## 20260701
 - [Phoronix](https://www.phoronix.com/) | [Glibc Introduces /etc/tunables.conf For System-Wide Tunables](https://www.phoronix.com/news/Glibc-System-Tunables)
 

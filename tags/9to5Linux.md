@@ -1,3 +1,6 @@
+## 20260702
+- [9to5Linux](https://9to5linux.com/) | [KDE Gear 26.04.3 Released as the Last Update in the KDE Gear 26.04 Series](https://9to5linux.com/kde-gear-26-04-3-released-as-the-last-update-in-the-kde-gear-26-04-series)
+
 ## 20260630
 - [9to5Linux](https://9to5linux.com/) | [Mageia 10 Officially Released with Linux Kernel 6.18 LTS, KDE Plasma 6.5, and More](https://9to5linux.com/mageia-10-officially-released-with-linux-kernel-6-18-lts-kde-plasma-6-5-and-more)
 

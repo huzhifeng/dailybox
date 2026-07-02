@@ -1,3 +1,6 @@
+## 20260702
+- [Phoronix](https://www.phoronix.com/) | [Intel Posts Initial GCC Compiler Patches For AI Compute Extensions "ACE"](https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches)
+
 ## 20260701
 - [Phoronix](https://www.phoronix.com/) | [Glibc Introduces /etc/tunables.conf For System-Wide Tunables](https://www.phoronix.com/news/Glibc-System-Tunables)
 
