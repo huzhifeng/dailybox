@@ -1,3 +1,6 @@
+## 20260703
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.11 E-Book Manager Adds Support for Exporting Annotations as HTML Pages](https://9to5linux.com/calibre-9-11-e-book-manager-adds-support-for-exporting-annotations-as-html-pages)
+
 ## 20260702
 - [9to5Linux](https://9to5linux.com/) | [KDE Gear 26.04.3 Released as the Last Update in the KDE Gear 26.04 Series](https://9to5linux.com/kde-gear-26-04-3-released-as-the-last-update-in-the-kde-gear-26-04-series)
 

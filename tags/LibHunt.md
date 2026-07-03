@@ -1,3 +1,6 @@
+## 20260703
+- [LibHunt](https://www.libhunt.com/) | [laravel-livewire-tables](https://www.libhunt.com/r/cleaniquecoders/laravel-livewire-tables)
+
 ## 20260702
 - [LibHunt](https://www.libhunt.com/) | [golemui](https://www.libhunt.com/r/golemui)
 

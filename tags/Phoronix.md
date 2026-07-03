@@ -1,3 +1,6 @@
+## 20260703
+- [Phoronix](https://www.phoronix.com/) | [Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility](https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images)
+
 ## 20260702
 - [Phoronix](https://www.phoronix.com/) | [Intel Posts Initial GCC Compiler Patches For AI Compute Extensions "ACE"](https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches)
 
