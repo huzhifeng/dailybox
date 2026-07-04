@@ -1,3 +1,6 @@
+## 20260704
+- [It's FOSS](https://itsfoss.com/) | [Brave Says This is Not a Privacy Feature, But Using Containers Has Its Perks](https://feed.itsfoss.com/link/24361/17372577/brave-browser-containers)
+
 ## 20260702
 - [It's FOSS](https://itsfoss.com/) | [Sick of AI Slop, Former Microsoft Engineer Built a New, AI-less Notepad](https://feed.itsfoss.com/link/24361/17371605/tinyretropad-notepad-clone)
 

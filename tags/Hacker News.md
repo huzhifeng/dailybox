@@ -1,3 +1,8 @@
+## 20260704
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-03](https://www.daemonology.net/hn-daily/2026-07-03.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-03](https://hacker-podcast.agi.li/episode/2026-07-03)
+- [Hacker News](https://news.ycombinator.com/front) | [The bottleneck might be the air in the room](https://news.ycombinator.com/item?id=48783117)
+
 ## 20260703
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-02](https://www.daemonology.net/hn-daily/2026-07-02.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-02](https://hacker-podcast.agi.li/episode/2026-07-02)

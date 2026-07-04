@@ -1,3 +1,6 @@
+## 20260704
+- [Phoronix](https://www.phoronix.com/) | [GNOME Lands ext-background-effect-v1 Support For Background Blur Effect](https://www.phoronix.com/news/GNOME-Mutter-Background-Blur)
+
 ## 20260703
 - [Phoronix](https://www.phoronix.com/) | [Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility](https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images)
 

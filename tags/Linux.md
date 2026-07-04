@@ -1,3 +1,6 @@
+## 20260704
+- [Phoronix](https://www.phoronix.com/) | [GNOME Lands ext-background-effect-v1 Support For Background Blur Effect](https://www.phoronix.com/news/GNOME-Mutter-Background-Blur)
+
 ## 20260703
 - [Phoronix](https://www.phoronix.com/) | [Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility](https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 9.11 E-Book Manager Adds Support for Exporting Annotations as HTML Pages](https://9to5linux.com/calibre-9-11-e-book-manager-adds-support-for-exporting-annotations-as-html-pages)
