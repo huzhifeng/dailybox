@@ -1,3 +1,6 @@
+## 20260705
+- [Phoronix](https://www.phoronix.com/) | [ReactOS "Open-Source Windows" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
+
 ## 20260704
 - [Phoronix](https://www.phoronix.com/) | [GNOME Lands ext-background-effect-v1 Support For Background Blur Effect](https://www.phoronix.com/news/GNOME-Mutter-Background-Blur)
 

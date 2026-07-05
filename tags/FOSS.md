@@ -1,3 +1,6 @@
+## 20260705
+- [It's FOSS](https://itsfoss.com/) | [Sipeed&#x27;s New KVM Wants AI Agents to See and Control Your Screen](https://feed.itsfoss.com/link/24361/17373238/sipeeds-nanokvm-go-crowdfunding)
+
 ## 20260704
 - [It's FOSS](https://itsfoss.com/) | [Brave Says This is Not a Privacy Feature, But Using Containers Has Its Perks](https://feed.itsfoss.com/link/24361/17372577/brave-browser-containers)
 

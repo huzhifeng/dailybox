@@ -1,3 +1,6 @@
+## 20260705
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+
 ## 20260704
 - [GitHub Trending](https://github.com/trending?since=daily) | [usestrix/strix](https://github.com/usestrix/strix)
 

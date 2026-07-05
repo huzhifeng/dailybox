@@ -1,3 +1,7 @@
+## 20260705
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-04](https://www.daemonology.net/hn-daily/2026-07-04.html)
+- [Hacker News](https://news.ycombinator.com/front) | [If you're a button, you have one job](https://news.ycombinator.com/item?id=48790689)
+
 ## 20260704
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-03](https://www.daemonology.net/hn-daily/2026-07-03.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-03](https://hacker-podcast.agi.li/episode/2026-07-03)

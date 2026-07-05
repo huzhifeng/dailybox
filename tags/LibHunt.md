@@ -1,3 +1,6 @@
+## 20260705
+- [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
+
 ## 20260703
 - [LibHunt](https://www.libhunt.com/) | [laravel-livewire-tables](https://www.libhunt.com/r/cleaniquecoders/laravel-livewire-tables)
 
