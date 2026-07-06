@@ -1,3 +1,7 @@
+## 20260706
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Expected To "Flatten The Pick" For Better Scheduling While Gaming & More](https://www.phoronix.com/news/Linux-7.3-Flattens-The-Pick)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 5th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-5th-2026)
+
 ## 20260705
 - [Phoronix](https://www.phoronix.com/) | [ReactOS "Open-Source Windows" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
 

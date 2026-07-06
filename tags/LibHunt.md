@@ -1,3 +1,6 @@
+## 20260706
+- [LibHunt](https://www.libhunt.com/) | [clavex](https://www.libhunt.com/r/clavex)
+
 ## 20260705
 - [LibHunt](https://www.libhunt.com/) | [claude-code](https://www.libhunt.com/r/claude-code)
 

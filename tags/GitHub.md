@@ -1,3 +1,6 @@
+## 20260706
+- [GitHub Trending](https://github.com/trending?since=daily) | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+
 ## 20260705
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
