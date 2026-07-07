@@ -1,3 +1,6 @@
+## 20260707
+- [Product Hunt](https://www.producthunt.com) | [AI Emaily](https://www.producthunt.com/products/ai-emaily-unified-ai-inbox)
+
 ## 20260703
 - [Product Hunt](https://www.producthunt.com) | [Tamamon](https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows)
 

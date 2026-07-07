@@ -1,3 +1,6 @@
+## 20260707
+- [GitHub Trending](https://github.com/trending?since=daily) | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
 ## 20260706
 - [GitHub Trending](https://github.com/trending?since=daily) | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
 

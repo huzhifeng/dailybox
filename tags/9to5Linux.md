@@ -1,3 +1,6 @@
+## 20260707
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.6 Released with Numerous Bug Fixes and Various Improvements](https://9to5linux.com/kde-plasma-6-6-6-released-with-numerous-bug-fixes-and-various-improvements)
+
 ## 20260706
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 5th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-5th-2026)
 

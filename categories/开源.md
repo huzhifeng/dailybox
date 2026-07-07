@@ -1,3 +1,6 @@
+## 20260707
+- [It's FOSS](https://itsfoss.com/) | [LOL! Storage Bug on Microsoft Windows 11 Could Eat Up 500 GB Disk Space](https://feed.itsfoss.com/link/24361/17374380/windows-11-cam-bug)
+
 ## 20260706
 - [It's FOSS](https://itsfoss.com/) | [Return of The Meme! Hannah Montana Linux Lives Again in 2026](https://feed.itsfoss.com/link/24361/17373750/return-of-hannah-montana-linux)
 

@@ -1,3 +1,6 @@
+## 20260707
+- [Phoronix](https://www.phoronix.com/) | [TUXEDO Computers Switching TUXEDO OS From Ubuntu To Debian Testing](https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian)
+
 ## 20260706
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Expected To "Flatten The Pick" For Better Scheduling While Gaming & More](https://www.phoronix.com/news/Linux-7.3-Flattens-The-Pick)
 
