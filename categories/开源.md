@@ -1,3 +1,6 @@
+## 20260708
+- [It's FOSS](https://itsfoss.com/) | [TUXEDO OS is Ditching Ubuntu for a Debian Base That Never Goes Stable](https://feed.itsfoss.com/link/24361/17374891/tuxedo-os-is-ditching-ubuntu)
+
 ## 20260707
 - [It's FOSS](https://itsfoss.com/) | [LOL! Storage Bug on Microsoft Windows 11 Could Eat Up 500 GB Disk Space](https://feed.itsfoss.com/link/24361/17374380/windows-11-cam-bug)
 

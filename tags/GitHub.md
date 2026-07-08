@@ -1,3 +1,6 @@
+## 20260708
+- [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
 ## 20260707
 - [GitHub Trending](https://github.com/trending?since=daily) | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 

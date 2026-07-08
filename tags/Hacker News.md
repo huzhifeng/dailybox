@@ -1,3 +1,8 @@
+## 20260708
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-07](https://www.daemonology.net/hn-daily/2026-07-07.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-07](https://hacker-podcast.agi.li/episode/2026-07-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://news.ycombinator.com/item?id=48829312)
+
 ## 20260707
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-06](https://www.daemonology.net/hn-daily/2026-07-06.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-06](https://hacker-podcast.agi.li/episode/2026-07-06)

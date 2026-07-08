@@ -1,3 +1,6 @@
+## 20260708
+- [9to5Linux](https://9to5linux.com/) | [Linux Mint&#8217;s Cinnamon 6.8 Desktop Environment Will Fully Support Wayland](https://9to5linux.com/linux-mints-cinnamon-6-8-desktop-environment-will-fully-support-wayland)
+
 ## 20260707
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.6.6 Released with Numerous Bug Fixes and Various Improvements](https://9to5linux.com/kde-plasma-6-6-6-released-with-numerous-bug-fixes-and-various-improvements)
 

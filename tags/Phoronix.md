@@ -1,3 +1,6 @@
+## 20260708
+- [Phoronix](https://www.phoronix.com/) | [AMD ZenDNN 6.0 Brings Many Improvements For Accelerating Inference On Ryzen/EPYC CPUs](https://www.phoronix.com/news/AMD-ZenDNN-6.0)
+
 ## 20260707
 - [Phoronix](https://www.phoronix.com/) | [TUXEDO Computers Switching TUXEDO OS From Ubuntu To Debian Testing](https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian)
 
