@@ -1,3 +1,7 @@
+## 20260709
+- [Phoronix](https://www.phoronix.com/) | [Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs](https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.5 Multimedia Framework Adds Support for H.266/VVC Decoding](https://9to5linux.com/gstreamer-1-28-5-multimedia-framework-adds-support-for-h-266-vvc-decoding)
+
 ## 20260708
 - [Phoronix](https://www.phoronix.com/) | [AMD ZenDNN 6.0 Brings Many Improvements For Accelerating Inference On Ryzen/EPYC CPUs](https://www.phoronix.com/news/AMD-ZenDNN-6.0)
 - [9to5Linux](https://9to5linux.com/) | [Linux Mint&#8217;s Cinnamon 6.8 Desktop Environment Will Fully Support Wayland](https://9to5linux.com/linux-mints-cinnamon-6-8-desktop-environment-will-fully-support-wayland)

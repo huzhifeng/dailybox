@@ -1,3 +1,6 @@
+## 20260709
+- [GitHub Trending](https://github.com/trending?since=daily) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
 ## 20260708
 - [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 

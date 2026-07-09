@@ -1,3 +1,6 @@
+## 20260709
+- [Phoronix](https://www.phoronix.com/) | [Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs](https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix)
+
 ## 20260708
 - [Phoronix](https://www.phoronix.com/) | [AMD ZenDNN 6.0 Brings Many Improvements For Accelerating Inference On Ryzen/EPYC CPUs](https://www.phoronix.com/news/AMD-ZenDNN-6.0)
 

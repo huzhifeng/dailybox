@@ -1,3 +1,6 @@
+## 20260709
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28)
+
 ## 20260708
 - [It's FOSS](https://itsfoss.com/) | [TUXEDO OS is Ditching Ubuntu for a Debian Base That Never Goes Stable](https://feed.itsfoss.com/link/24361/17374891/tuxedo-os-is-ditching-ubuntu)
 
