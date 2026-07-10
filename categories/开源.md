@@ -1,3 +1,6 @@
+## 20260710
+- [It's FOSS](https://itsfoss.com/) | [Linux Mint Now Considers Wayland Stable](https://feed.itsfoss.com/link/24361/17375901/linux-mint-wayland-stable)
+
 ## 20260709
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28)
 

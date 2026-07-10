@@ -1,3 +1,6 @@
+## 20260710
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.10 Reached End of Life, It&#8217;s Time to Upgrade to Ubuntu 26.04 LTS](https://9to5linux.com/ubuntu-25-10-reached-end-of-life-its-time-to-upgrade-to-ubuntu-26-04-lts)
+
 ## 20260709
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.5 Multimedia Framework Adds Support for H.266/VVC Decoding](https://9to5linux.com/gstreamer-1-28-5-multimedia-framework-adds-support-for-h-266-vvc-decoding)
 

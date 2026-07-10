@@ -1,3 +1,6 @@
+## 20260710
+- [LibHunt](https://www.libhunt.com/) | [ClickBench](https://www.libhunt.com/r/ClickBench)
+
 ## 20260709
 - [LibHunt](https://www.libhunt.com/) | [pgrust](https://www.libhunt.com/r/pgrust)
 

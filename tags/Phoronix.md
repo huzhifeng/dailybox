@@ -1,3 +1,6 @@
+## 20260710
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Enabling Second Graphics Pipe For Modern AMD APUs](https://www.phoronix.com/news/Linux-7.3-Second-Pipe-GFX11-APU)
+
 ## 20260709
 - [Phoronix](https://www.phoronix.com/) | [Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs](https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix)
 
