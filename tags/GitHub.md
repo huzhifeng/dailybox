@@ -1,3 +1,6 @@
+## 20260711
+- [GitHub Trending](https://github.com/trending?since=daily) | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+
 ## 20260710
 - [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 

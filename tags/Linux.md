@@ -1,3 +1,6 @@
+## 20260711
+- [Phoronix](https://www.phoronix.com/) | [LLVM Merges x86 LFI "Lightweight Fault Isolation" Target For In-Process Sandboxing](https://www.phoronix.com/news/LLVM-x86-LFI-Merged)
+
 ## 20260710
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Enabling Second Graphics Pipe For Modern AMD APUs](https://www.phoronix.com/news/Linux-7.3-Second-Pipe-GFX11-APU)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.10 Reached End of Life, It&#8217;s Time to Upgrade to Ubuntu 26.04 LTS](https://9to5linux.com/ubuntu-25-10-reached-end-of-life-its-time-to-upgrade-to-ubuntu-26-04-lts)
