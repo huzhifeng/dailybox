@@ -1,3 +1,6 @@
+## 20260712
+- [GitHub Trending](https://github.com/trending?since=daily) | [catchorg/Catch2](https://github.com/catchorg/Catch2)
+
 ## 20260711
 - [GitHub Trending](https://github.com/trending?since=daily) | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 

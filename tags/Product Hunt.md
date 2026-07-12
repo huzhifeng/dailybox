@@ -1,3 +1,6 @@
+## 20260712
+- [Product Hunt](https://www.producthunt.com) | [Second Brain for AI v2](https://www.producthunt.com/products/second-brain-cloudflare)
+
 ## 20260710
 - [Product Hunt](https://www.producthunt.com) | [ChatCut](https://www.producthunt.com/products/chatcut-ai-video-editor)
 

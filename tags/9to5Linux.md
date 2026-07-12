@@ -1,3 +1,6 @@
+## 20260712
+- [9to5Linux](https://9to5linux.com/) | [First Look at COSMIC Desktop Environment&#8217;s Frosted Glass Effect](https://9to5linux.com/first-look-at-cosmic-desktop-environments-frosted-glass-effect)
+
 ## 20260710
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 25.10 Reached End of Life, It&#8217;s Time to Upgrade to Ubuntu 26.04 LTS](https://9to5linux.com/ubuntu-25-10-reached-end-of-life-its-time-to-upgrade-to-ubuntu-26-04-lts)
 

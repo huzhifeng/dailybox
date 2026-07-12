@@ -1,3 +1,6 @@
+## 20260712
+- [Phoronix](https://www.phoronix.com/) | [HFI BIOS Aims To Provide A POST-Like Power On Screen & BIOS Setup Utility For RISC-V](https://www.phoronix.com/news/Harmonic-Firmware-Initiative)
+
 ## 20260711
 - [Phoronix](https://www.phoronix.com/) | [LLVM Merges x86 LFI "Lightweight Fault Isolation" Target For In-Process Sandboxing](https://www.phoronix.com/news/LLVM-x86-LFI-Merged)
 

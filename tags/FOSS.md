@@ -1,3 +1,6 @@
+## 20260712
+- [It's FOSS](https://itsfoss.com/) | [8 Linux Handheld Computers You Can Splurge On](https://feed.itsfoss.com/link/24361/17376876/linux-handhelds)
+
 ## 20260711
 - [It's FOSS](https://itsfoss.com/) | [I Mined and Built My Way Through Space Haven](https://feed.itsfoss.com/link/24361/17376559/space-haven-review)
 
