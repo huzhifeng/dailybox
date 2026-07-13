@@ -1,3 +1,6 @@
+## 20260713
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD Desktop Installer Option Working Through NVIDIA Driver Handling, Licensing](https://www.phoronix.com/news/FreeBSD-Desktop-Install-NVIDIA)
+
 ## 20260712
 - [Phoronix](https://www.phoronix.com/) | [HFI BIOS Aims To Provide A POST-Like Power On Screen & BIOS Setup Utility For RISC-V](https://www.phoronix.com/news/Harmonic-Firmware-Initiative)
 

@@ -1,3 +1,6 @@
+## 20260713
+- [GitHub Trending](https://github.com/trending?since=daily) | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+
 ## 20260712
 - [GitHub Trending](https://github.com/trending?since=daily) | [catchorg/Catch2](https://github.com/catchorg/Catch2)
 

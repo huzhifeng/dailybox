@@ -1,3 +1,6 @@
+## 20260713
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 12th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-12th-2026)
+
 ## 20260712
 - [9to5Linux](https://9to5linux.com/) | [First Look at COSMIC Desktop Environment&#8217;s Frosted Glass Effect](https://9to5linux.com/first-look-at-cosmic-desktop-environments-frosted-glass-effect)
 

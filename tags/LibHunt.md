@@ -1,3 +1,6 @@
+## 20260713
+- [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
+
 ## 20260711
 - [LibHunt](https://www.libhunt.com/) | [fortress](https://www.libhunt.com/r/tiliondev/fortress)
 

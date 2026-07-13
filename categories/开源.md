@@ -1,3 +1,6 @@
+## 20260713
+- [It's FOSS](https://itsfoss.com/) | [Open Book Touch is Crowdfunding: A Buttonless, Open Hardware Answer to Kindle](https://feed.itsfoss.com/link/24361/17379351/open-book-touch-crowdfunding)
+
 ## 20260712
 - [It's FOSS](https://itsfoss.com/) | [8 Linux Handheld Computers You Can Splurge On](https://feed.itsfoss.com/link/24361/17376876/linux-handhelds)
 
