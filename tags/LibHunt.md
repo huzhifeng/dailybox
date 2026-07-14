@@ -1,3 +1,6 @@
+## 20260714
+- [LibHunt](https://www.libhunt.com/) | [N3MO](https://www.libhunt.com/r/N3MO)
+
 ## 20260713
 - [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
 

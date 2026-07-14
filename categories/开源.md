@@ -1,3 +1,6 @@
+## 20260714
+- [It's FOSS](https://itsfoss.com/) | [7 Open Source Trello Alternatives For Your Kanban Boards](https://feed.itsfoss.com/link/24361/17380029/open-source-trello-alternatives)
+
 ## 20260713
 - [It's FOSS](https://itsfoss.com/) | [Open Book Touch is Crowdfunding: A Buttonless, Open Hardware Answer to Kindle](https://feed.itsfoss.com/link/24361/17379351/open-book-touch-crowdfunding)
 

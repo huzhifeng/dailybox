@@ -1,3 +1,6 @@
+## 20260714
+- [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding](https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265)
+
 ## 20260713
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD Desktop Installer Option Working Through NVIDIA Driver Handling, Licensing](https://www.phoronix.com/news/FreeBSD-Desktop-Install-NVIDIA)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: July 12th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-12th-2026)

@@ -1,3 +1,8 @@
+## 20260714
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-13](https://www.daemonology.net/hn-daily/2026-07-13.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-13](https://hacker-podcast.agi.li/episode/2026-07-13)
+- [Hacker News](https://news.ycombinator.com/front) | [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://news.ycombinator.com/item?id=48901569)
+
 ## 20260713
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-12](https://www.daemonology.net/hn-daily/2026-07-12.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-12](https://hacker-podcast.agi.li/episode/2026-07-12)

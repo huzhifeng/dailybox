@@ -1,3 +1,6 @@
+## 20260714
+- [GitHub Trending](https://github.com/trending?since=daily) | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
 ## 20260713
 - [GitHub Trending](https://github.com/trending?since=daily) | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 
