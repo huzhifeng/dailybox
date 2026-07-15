@@ -1,3 +1,6 @@
+## 20260715
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Reaffirms That Linux Is Not "Anti-AI" & Not A "Social Warrior" Project](https://www.phoronix.com/news/Linux-Is-Not-Anti-AI)
+
 ## 20260714
 - [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding](https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265)
 

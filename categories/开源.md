@@ -1,3 +1,6 @@
+## 20260715
+- [It's FOSS](https://itsfoss.com/) | [Cursor AI&#x27;s Silence on a Critical Flaw Jeopardizes Millions of Users](https://feed.itsfoss.com/link/24361/17380640/cursor-ignores-critical-flaw)
+
 ## 20260714
 - [It's FOSS](https://itsfoss.com/) | [7 Open Source Trello Alternatives For Your Kanban Boards](https://feed.itsfoss.com/link/24361/17380029/open-source-trello-alternatives)
 

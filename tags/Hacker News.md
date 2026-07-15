@@ -1,3 +1,8 @@
+## 20260715
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-14](https://www.daemonology.net/hn-daily/2026-07-14.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-14](https://hacker-podcast.agi.li/episode/2026-07-14)
+- [Hacker News](https://news.ycombinator.com/front) | [I tricked Claude into leaking your deepest, darkest secrets](https://news.ycombinator.com/item?id=48916975)
+
 ## 20260714
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-13](https://www.daemonology.net/hn-daily/2026-07-13.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-13](https://hacker-podcast.agi.li/episode/2026-07-13)

@@ -1,3 +1,6 @@
+## 20260715
+- [Product Hunt](https://www.producthunt.com) | [Agently](https://www.producthunt.com/products/agently)
+
 ## 20260714
 - [Product Hunt](https://www.producthunt.com) | [PgDog](https://www.producthunt.com/products/pgdog)
 

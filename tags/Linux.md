@@ -1,3 +1,7 @@
+## 20260715
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Reaffirms That Linux Is Not "Anti-AI" & Not A "Social Warrior" Project](https://www.phoronix.com/news/Linux-Is-Not-Anti-AI)
+- [9to5Linux](https://9to5linux.com/) | [MKVToolNix 100 MKV Manipulation Tool Brings New Features and Enhancements](https://9to5linux.com/mkvtoolnix-100-mkv-manipulation-tool-brings-new-features-and-enhancements)
+
 ## 20260714
 - [Phoronix](https://www.phoronix.com/) | [Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding](https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265)
 

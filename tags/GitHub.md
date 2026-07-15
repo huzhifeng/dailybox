@@ -1,3 +1,6 @@
+## 20260715
+- [GitHub Trending](https://github.com/trending?since=daily) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 ## 20260714
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
