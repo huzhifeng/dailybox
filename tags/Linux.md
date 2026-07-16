@@ -1,3 +1,6 @@
+## 20260716
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 7700X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-7700x3d)
+
 ## 20260715
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Reaffirms That Linux Is Not "Anti-AI" & Not A "Social Warrior" Project](https://www.phoronix.com/news/Linux-Is-Not-Anti-AI)
 - [9to5Linux](https://9to5linux.com/) | [MKVToolNix 100 MKV Manipulation Tool Brings New Features and Enhancements](https://9to5linux.com/mkvtoolnix-100-mkv-manipulation-tool-brings-new-features-and-enhancements)

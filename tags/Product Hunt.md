@@ -1,3 +1,6 @@
+## 20260716
+- [Product Hunt](https://www.producthunt.com) | [Albato AI](https://www.producthunt.com/products/albato)
+
 ## 20260715
 - [Product Hunt](https://www.producthunt.com) | [Agently](https://www.producthunt.com/products/agently)
 

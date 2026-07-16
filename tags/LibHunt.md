@@ -1,3 +1,6 @@
+## 20260716
+- [LibHunt](https://www.libhunt.com/) | [dotfiles](https://www.libhunt.com/r/alxndr/dotfiles)
+
 ## 20260714
 - [LibHunt](https://www.libhunt.com/) | [N3MO](https://www.libhunt.com/r/N3MO)
 

@@ -1,3 +1,6 @@
+## 20260716
+- [It's FOSS](https://itsfoss.com/) | [Remapping the Useless AI Slop Copilot Key in Linux](https://feed.itsfoss.com/link/24361/17381182/remap-copilot-key-linux)
+
 ## 20260715
 - [It's FOSS](https://itsfoss.com/) | [Cursor AI&#x27;s Silence on a Critical Flaw Jeopardizes Millions of Users](https://feed.itsfoss.com/link/24361/17380640/cursor-ignores-critical-flaw)
 
