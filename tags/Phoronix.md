@@ -1,3 +1,6 @@
+## 20260717
+- [Phoronix](https://www.phoronix.com/) | [Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators](https://www.phoronix.com/news/Arm-Core-Local-Accelerator)
+
 ## 20260716
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen 7 7700X3D Linux Performance](https://www.phoronix.com/review/amd-ryzen-7-7700x3d)
 

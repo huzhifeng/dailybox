@@ -1,3 +1,6 @@
+## 20260717
+- [LibHunt](https://www.libhunt.com/) | [tura](https://www.libhunt.com/r/tura)
+
 ## 20260716
 - [LibHunt](https://www.libhunt.com/) | [dotfiles](https://www.libhunt.com/r/alxndr/dotfiles)
 

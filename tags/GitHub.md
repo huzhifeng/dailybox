@@ -1,3 +1,6 @@
+## 20260717
+- [GitHub Trending](https://github.com/trending?since=daily) | [apache/ossie](https://github.com/apache/ossie)
+
 ## 20260716
 - [GitHub Trending](https://github.com/trending?since=daily) | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 

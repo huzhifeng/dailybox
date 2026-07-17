@@ -1,3 +1,6 @@
+## 20260717
+- [It's FOSS](https://itsfoss.com/) | [Linus Torvalds Spent Years Dismissing AI, Only to Vouch for It](https://feed.itsfoss.com/link/24361/17381815/linus-torvalds-on-ai)
+
 ## 20260716
 - [It's FOSS](https://itsfoss.com/) | [Remapping the Useless AI Slop Copilot Key in Linux](https://feed.itsfoss.com/link/24361/17381182/remap-copilot-key-linux)
 

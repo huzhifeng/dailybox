@@ -1,3 +1,7 @@
+## 20260717
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-16](https://www.daemonology.net/hn-daily/2026-07-16.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-16](https://hacker-podcast.agi.li/episode/2026-07-16)
+
 ## 20260716
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-15](https://www.daemonology.net/hn-daily/2026-07-15.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-15](https://hacker-podcast.agi.li/episode/2026-07-15)

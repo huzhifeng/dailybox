@@ -1,3 +1,6 @@
+## 20260717
+- [Product Hunt](https://www.producthunt.com) | [Kimi K3](https://www.producthunt.com/products/kimi-ai-assistant)
+
 ## 20260716
 - [Product Hunt](https://www.producthunt.com) | [Albato AI](https://www.producthunt.com/products/albato)
 

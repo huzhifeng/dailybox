@@ -1,3 +1,6 @@
+## 20260717
+- [9to5Linux](https://9to5linux.com/) | [Wayland 1.26 Is Now Available for Download with New Features and Improvements](https://9to5linux.com/wayland-1-26-is-now-available-for-download-with-new-features-and-improvements)
+
 ## 20260715
 - [9to5Linux](https://9to5linux.com/) | [MKVToolNix 100 MKV Manipulation Tool Brings New Features and Enhancements](https://9to5linux.com/mkvtoolnix-100-mkv-manipulation-tool-brings-new-features-and-enhancements)
 
