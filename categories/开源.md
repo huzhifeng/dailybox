@@ -1,3 +1,6 @@
+## 20260718
+- [It's FOSS](https://itsfoss.com/) | [Become More Productive With These GNOME Extensions](https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity)
+
 ## 20260717
 - [It's FOSS](https://itsfoss.com/) | [Linus Torvalds Spent Years Dismissing AI, Only to Vouch for It](https://feed.itsfoss.com/link/24361/17381815/linus-torvalds-on-ai)
 

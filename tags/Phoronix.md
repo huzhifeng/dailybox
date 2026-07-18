@@ -1,3 +1,6 @@
+## 20260718
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics Driver Preps Fix For Apple Studio Display](https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display)
+
 ## 20260717
 - [Phoronix](https://www.phoronix.com/) | [Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators](https://www.phoronix.com/news/Arm-Core-Local-Accelerator)
 

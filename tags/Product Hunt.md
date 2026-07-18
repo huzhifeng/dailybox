@@ -1,3 +1,6 @@
+## 20260718
+- [Product Hunt](https://www.producthunt.com) | [LiveDemo](https://www.producthunt.com/products/livedemo)
+
 ## 20260717
 - [Product Hunt](https://www.producthunt.com) | [Kimi K3](https://www.producthunt.com/products/kimi-ai-assistant)
 

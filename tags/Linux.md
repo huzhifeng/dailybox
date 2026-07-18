@@ -1,3 +1,7 @@
+## 20260718
+- [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics Driver Preps Fix For Apple Studio Display](https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display)
+- [9to5Linux](https://9to5linux.com/) | [Valve and Collabora Announce Official Arch Linux ARM64 Port for Steam Frame](https://9to5linux.com/valve-and-collabora-announce-official-arch-linux-arm64-port-for-steam-frame)
+
 ## 20260717
 - [Phoronix](https://www.phoronix.com/) | [Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators](https://www.phoronix.com/news/Arm-Core-Local-Accelerator)
 - [9to5Linux](https://9to5linux.com/) | [Wayland 1.26 Is Now Available for Download with New Features and Improvements](https://9to5linux.com/wayland-1-26-is-now-available-for-download-with-new-features-and-improvements)

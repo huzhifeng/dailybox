@@ -1,3 +1,6 @@
+## 20260718
+- [GitHub Trending](https://github.com/trending?since=daily) | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
 ## 20260717
 - [GitHub Trending](https://github.com/trending?since=daily) | [apache/ossie](https://github.com/apache/ossie)
 
