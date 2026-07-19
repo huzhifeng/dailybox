@@ -1,3 +1,6 @@
+## 20260719
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion](https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x)
+
 ## 20260718
 - [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics Driver Preps Fix For Apple Studio Display](https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display)
 

@@ -1,3 +1,6 @@
+## 20260719
+- [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion](https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x)
+
 ## 20260718
 - [Phoronix](https://www.phoronix.com/) | [AMD Linux Graphics Driver Preps Fix For Apple Studio Display](https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display)
 - [9to5Linux](https://9to5linux.com/) | [Valve and Collabora Announce Official Arch Linux ARM64 Port for Steam Frame](https://9to5linux.com/valve-and-collabora-announce-official-arch-linux-arm64-port-for-steam-frame)
