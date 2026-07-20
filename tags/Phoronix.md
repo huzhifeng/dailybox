@@ -1,3 +1,6 @@
+## 20260720
+- [Phoronix](https://www.phoronix.com/) | [Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
+
 ## 20260719
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion](https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x)
 

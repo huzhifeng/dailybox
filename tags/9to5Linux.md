@@ -1,3 +1,6 @@
+## 20260720
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 153 ESR Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-153-esr-is-now-available-for-download-heres-whats-new)
+
 ## 20260718
 - [9to5Linux](https://9to5linux.com/) | [Valve and Collabora Announce Official Arch Linux ARM64 Port for Steam Frame](https://9to5linux.com/valve-and-collabora-announce-official-arch-linux-arm64-port-for-steam-frame)
 

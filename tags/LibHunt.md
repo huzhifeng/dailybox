@@ -1,3 +1,6 @@
+## 20260720
+- [LibHunt](https://www.libhunt.com/) | [hermes-agent](https://www.libhunt.com/r/hermes-agent)
+
 ## 20260718
 - [LibHunt](https://www.libhunt.com/) | [topcoat](https://www.libhunt.com/r/tokio-rs/topcoat)
 

@@ -1,3 +1,7 @@
+## 20260720
+- [Phoronix](https://www.phoronix.com/) | [Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 153 ESR Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-153-esr-is-now-available-for-download-heres-whats-new)
+
 ## 20260719
 - [Phoronix](https://www.phoronix.com/) | [FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion](https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x)
 

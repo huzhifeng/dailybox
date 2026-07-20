@@ -1,3 +1,8 @@
+## 20260720
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-19](https://www.daemonology.net/hn-daily/2026-07-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-19](https://hacker-podcast.agi.li/episode/2026-07-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Xiaomi-Robotics-1](https://news.ycombinator.com/item?id=48974454)
+
 ## 20260719
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-18](https://www.daemonology.net/hn-daily/2026-07-18.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-18](https://hacker-podcast.agi.li/episode/2026-07-18)
