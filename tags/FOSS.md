@@ -1,3 +1,6 @@
+## 20260721
+- [It's FOSS](https://itsfoss.com/) | [GNOME&#x27;s Security Might Be in Peril as Lone Tracker Goes Off](https://feed.itsfoss.com/link/24361/17383916/gnome-security-tracking-limbo)
+
 ## 20260718
 - [It's FOSS](https://itsfoss.com/) | [Become More Productive With These GNOME Extensions](https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity)
 

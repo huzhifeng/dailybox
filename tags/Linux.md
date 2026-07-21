@@ -1,3 +1,7 @@
+## 20260721
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3](https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3)
+- [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.2.14 Released with Initial Support for Linux Kernel 7.2](https://9to5linux.com/virtualbox-7-2-14-released-with-initial-support-for-linux-kernel-7-2)
+
 ## 20260720
 - [Phoronix](https://www.phoronix.com/) | [Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 153 ESR Is Now Available for Download, Here&#8217;s What&#8217;s New](https://9to5linux.com/mozilla-firefox-153-esr-is-now-available-for-download-heres-whats-new)

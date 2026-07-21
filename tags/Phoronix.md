@@ -1,3 +1,6 @@
+## 20260721
+- [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3](https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3)
+
 ## 20260720
 - [Phoronix](https://www.phoronix.com/) | [Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
 
