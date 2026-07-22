@@ -1,3 +1,7 @@
+## 20260722
+- [Phoronix](https://www.phoronix.com/) | [libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android](https://www.phoronix.com/news/libx11-compat)
+- [9to5Linux](https://9to5linux.com/) | [Raspberry Pi Launches 10-Inch Raspberry Pi Touch Display 2 at $80](https://9to5linux.com/raspberry-pi-launches-10-inch-raspberry-pi-touch-display-2-at-80)
+
 ## 20260721
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3](https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3)
 - [9to5Linux](https://9to5linux.com/) | [VirtualBox 7.2.14 Released with Initial Support for Linux Kernel 7.2](https://9to5linux.com/virtualbox-7-2-14-released-with-initial-support-for-linux-kernel-7-2)

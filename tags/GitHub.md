@@ -1,3 +1,6 @@
+## 20260722
+- [GitHub Trending](https://github.com/trending?since=daily) | [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
 ## 20260721
 - [GitHub Trending](https://github.com/trending?since=daily) | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
 

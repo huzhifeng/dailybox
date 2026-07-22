@@ -1,3 +1,6 @@
+## 20260722
+- [Phoronix](https://www.phoronix.com/) | [libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android](https://www.phoronix.com/news/libx11-compat)
+
 ## 20260721
 - [Phoronix](https://www.phoronix.com/) | [AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3](https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3)
 

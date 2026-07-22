@@ -1,3 +1,6 @@
+## 20260722
+- [It's FOSS](https://itsfoss.com/) | [Talk to This Glowing Pyramid on Your Desk, and It&#x27;ll Run Your AI Agent for You](https://feed.itsfoss.com/link/24361/17384756/autonomous-intern-2)
+
 ## 20260721
 - [It's FOSS](https://itsfoss.com/) | [GNOME&#x27;s Security Might Be in Peril as Lone Tracker Goes Off](https://feed.itsfoss.com/link/24361/17383916/gnome-security-tracking-limbo)
 

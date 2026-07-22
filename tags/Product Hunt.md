@@ -1,3 +1,6 @@
+## 20260722
+- [Product Hunt](https://www.producthunt.com) | [Migma AI](https://www.producthunt.com/products/migma-ai)
+
 ## 20260721
 - [Product Hunt](https://www.producthunt.com) | [Rerun](https://www.producthunt.com/products/rerun-2)
 
