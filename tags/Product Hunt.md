@@ -1,3 +1,6 @@
+## 20260723
+- [Product Hunt](https://www.producthunt.com) | [PodcastorAI](https://www.producthunt.com/products/podcastorai)
+
 ## 20260722
 - [Product Hunt](https://www.producthunt.com) | [Migma AI](https://www.producthunt.com/products/migma-ai)
 

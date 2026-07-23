@@ -1,3 +1,6 @@
+## 20260723
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30)
+
 ## 20260722
 - [It's FOSS](https://itsfoss.com/) | [Talk to This Glowing Pyramid on Your Desk, and It&#x27;ll Run Your AI Agent for You](https://feed.itsfoss.com/link/24361/17384756/autonomous-intern-2)
 

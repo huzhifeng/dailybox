@@ -1,3 +1,6 @@
+## 20260723
+- [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.8 Released With New Model Support, More Optimizations](https://www.phoronix.com/news/Ryzen-AI-Software-1.8)
+
 ## 20260722
 - [Phoronix](https://www.phoronix.com/) | [libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android](https://www.phoronix.com/news/libx11-compat)
 
