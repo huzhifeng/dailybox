@@ -1,3 +1,6 @@
+## 20260724
+- [GitHub Trending](https://github.com/trending?since=daily) | [block/buzz](https://github.com/block/buzz)
+
 ## 20260723
 - [GitHub Trending](https://github.com/trending?since=daily) | [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 

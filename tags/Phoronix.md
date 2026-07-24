@@ -1,3 +1,6 @@
+## 20260724
+- [Phoronix](https://www.phoronix.com/) | [AMD Advancing AI 2026: Open, Open-Source & More Open-Source](https://www.phoronix.com/news/AMD-AAI-2026-Open-Source)
+
 ## 20260723
 - [Phoronix](https://www.phoronix.com/) | [Ryzen AI Software 1.8 Released With New Model Support, More Optimizations](https://www.phoronix.com/news/Ryzen-AI-Software-1.8)
 

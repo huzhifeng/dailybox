@@ -1,3 +1,6 @@
+## 20260724
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.5 Open-Source Office Suite Released with More Than 20 Bug Fixes](https://9to5linux.com/libreoffice-26-2-5-open-source-office-suite-released-with-more-than-20-bug-fixes)
+
 ## 20260723
 - [9to5Linux](https://9to5linux.com/) | [Tails 7.10 Anonymous Linux OS Introduces New Shutdown Procedure](https://9to5linux.com/tails-7-10-anonymous-linux-os-introduces-new-shutdown-procedure)
 
