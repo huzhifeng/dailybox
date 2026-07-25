@@ -1,3 +1,6 @@
+## 20260725
+- [Phoronix](https://www.phoronix.com/) | [Kiwi Menu Continues Bringing macOS Vibes To GNOME](https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes)
+
 ## 20260724
 - [Phoronix](https://www.phoronix.com/) | [AMD Advancing AI 2026: Open, Open-Source & More Open-Source](https://www.phoronix.com/news/AMD-AAI-2026-Open-Source)
 

@@ -1,3 +1,6 @@
+## 20260725
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.10 "Stonking Stingray": All the New Features So Far](https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features)
+
 ## 20260723
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30)
 

@@ -1,3 +1,6 @@
+## 20260725
+- [LibHunt](https://www.libhunt.com/) | [ziggity](https://www.libhunt.com/r/ziggity)
+
 ## 20260724
 - [LibHunt](https://www.libhunt.com/) | [harness-training](https://www.libhunt.com/r/harness-training)
 

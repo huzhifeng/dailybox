@@ -1,3 +1,6 @@
+## 20260725
+- [Phoronix](https://www.phoronix.com/) | [Kiwi Menu Continues Bringing macOS Vibes To GNOME](https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes)
+
 ## 20260724
 - [Phoronix](https://www.phoronix.com/) | [AMD Advancing AI 2026: Open, Open-Source & More Open-Source](https://www.phoronix.com/news/AMD-AAI-2026-Open-Source)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.5 Open-Source Office Suite Released with More Than 20 Bug Fixes](https://9to5linux.com/libreoffice-26-2-5-open-source-office-suite-released-with-more-than-20-bug-fixes)
