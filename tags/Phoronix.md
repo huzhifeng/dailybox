@@ -1,3 +1,6 @@
+## 20260726
+- [Phoronix](https://www.phoronix.com/) | [Auto-CPUFreq 3.1 Adds Monitoring Mode To GUI, New Configuration Options & Fixes](https://www.phoronix.com/news/Auto-CPUFreq-3.1)
+
 ## 20260725
 - [Phoronix](https://www.phoronix.com/) | [Kiwi Menu Continues Bringing macOS Vibes To GNOME](https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes)
 

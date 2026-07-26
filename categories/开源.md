@@ -1,3 +1,6 @@
+## 20260726
+- [It's FOSS](https://itsfoss.com/) | [Play Local Music With File-Manager Simplicity](https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player)
+
 ## 20260725
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.10 "Stonking Stingray": All the New Features So Far](https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features)
 
