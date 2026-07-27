@@ -1,3 +1,6 @@
+## 20260727
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack)
+
 ## 20260726
 - [Phoronix](https://www.phoronix.com/) | [Auto-CPUFreq 3.1 Adds Monitoring Mode To GUI, New Configuration Options & Fixes](https://www.phoronix.com/news/Auto-CPUFreq-3.1)
 

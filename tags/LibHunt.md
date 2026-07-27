@@ -1,3 +1,6 @@
+## 20260727
+- [LibHunt](https://www.libhunt.com/) | [trigger_tree](https://www.libhunt.com/r/trigger_tree)
+
 ## 20260725
 - [LibHunt](https://www.libhunt.com/) | [ziggity](https://www.libhunt.com/r/ziggity)
 

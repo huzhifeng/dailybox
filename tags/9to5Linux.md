@@ -1,3 +1,6 @@
+## 20260727
+- [9to5Linux](https://9to5linux.com/) | [Canonical Introduces Virtualization HWE Stack for Ubuntu 26.04 LTS](https://9to5linux.com/canonical-introduces-virtualization-hwe-stack-for-ubuntu-26-04-lts)
+
 ## 20260724
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.5 Open-Source Office Suite Released with More Than 20 Bug Fixes](https://9to5linux.com/libreoffice-26-2-5-open-source-office-suite-released-with-more-than-20-bug-fixes)
 

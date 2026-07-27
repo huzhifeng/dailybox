@@ -1,3 +1,6 @@
+## 20260727
+- [It's FOSS](https://itsfoss.com/) | [Pironman 5 Pro Max Review: SunFounder's Most Capable Pi 5 Case Doubles as an AI Desktop](https://feed.itsfoss.com/link/24361/17388096/pironman-5-pro-max-review)
+
 ## 20260726
 - [It's FOSS](https://itsfoss.com/) | [Play Local Music With File-Manager Simplicity](https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player)
 
