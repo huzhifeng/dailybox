@@ -1,3 +1,6 @@
+## 20260728
+- [GitHub Trending](https://github.com/trending?since=daily) | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+
 ## 20260727
 - [GitHub Trending](https://github.com/trending?since=daily) | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 

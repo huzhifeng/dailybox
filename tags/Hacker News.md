@@ -1,3 +1,9 @@
+## 20260728
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-27](https://www.daemonology.net/hn-daily/2026-07-27.html)
+- [Top Hacker News](https://www.tophn.co/) | [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-27](https://hacker-podcast.agi.li/episode/2026-07-27)
+- [Hacker News](https://news.ycombinator.com/front) | [7.1 Earthquake in Japan](https://news.ycombinator.com/item?id=49080664)
+
 ## 20260727
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-26](https://www.daemonology.net/hn-daily/2026-07-26.html)
 - [Top Hacker News](https://www.tophn.co/) | [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)

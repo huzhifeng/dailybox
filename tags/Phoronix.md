@@ -1,3 +1,6 @@
+## 20260728
+- [Phoronix](https://www.phoronix.com/) | [AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%](https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows)
+
 ## 20260727
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack)
 
