@@ -1,3 +1,6 @@
+## 20260729
+- [GitHub Trending](https://github.com/trending?since=daily) | [pascalorg/editor](https://github.com/pascalorg/editor)
+
 ## 20260728
 - [GitHub Trending](https://github.com/trending?since=daily) | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 

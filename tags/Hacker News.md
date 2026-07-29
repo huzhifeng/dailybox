@@ -1,3 +1,7 @@
+## 20260729
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-28](https://www.daemonology.net/hn-daily/2026-07-28.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-28](https://hacker-podcast.agi.li/episode/2026-07-28)
+
 ## 20260728
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-27](https://www.daemonology.net/hn-daily/2026-07-27.html)
 - [Top Hacker News](https://www.tophn.co/) | [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)

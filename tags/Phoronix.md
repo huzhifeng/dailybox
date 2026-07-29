@@ -1,3 +1,6 @@
+## 20260729
+- [Phoronix](https://www.phoronix.com/) | [Intel Graphics Driver Support For Xe3 "Peak Bandwidth Threshold" Feature In Linux 7.3](https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth)
+
 ## 20260728
 - [Phoronix](https://www.phoronix.com/) | [AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%](https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows)
 

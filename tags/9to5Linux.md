@@ -1,3 +1,6 @@
+## 20260729
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.0 GUI Package Manager for Arch Linux Released as a Major Update](https://9to5linux.com/shelly-3-0-gui-package-manager-for-arch-linux-released-as-a-major-update)
+
 ## 20260727
 - [9to5Linux](https://9to5linux.com/) | [Canonical Introduces Virtualization HWE Stack for Ubuntu 26.04 LTS](https://9to5linux.com/canonical-introduces-virtualization-hwe-stack-for-ubuntu-26-04-lts)
 

@@ -1,3 +1,6 @@
+## 20260729
+- [It's FOSS](https://itsfoss.com/) | [Good News Gamers! GOG is Officially Coming to Linux](https://feed.itsfoss.com/link/24361/17392959/gog-galaxy-is-coming-to-linux)
+
 ## 20260728
 - [It's FOSS](https://itsfoss.com/) | [A GrapheneOS Privacy Feature Just Became the Basis for a Federal Indictment](https://feed.itsfoss.com/link/24361/17390033/grapheneos-duress-password-indictment)
 

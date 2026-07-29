@@ -1,3 +1,6 @@
+## 20260729
+- [LibHunt](https://www.libhunt.com/) | [AgentENV](https://www.libhunt.com/r/AgentENV)
+
 ## 20260727
 - [LibHunt](https://www.libhunt.com/) | [trigger_tree](https://www.libhunt.com/r/trigger_tree)
 

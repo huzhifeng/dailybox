@@ -1,3 +1,6 @@
+## 20260729
+- [Product Hunt](https://www.producthunt.com) | [Denovo](https://www.producthunt.com/products/denovo-business-manager)
+
 ## 20260727
 - [Product Hunt](https://www.producthunt.com) | [Robynn AI - Self Improving Websites](https://www.producthunt.com/products/robynn-ai-self-improving-websites)
 
