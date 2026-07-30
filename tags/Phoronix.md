@@ -1,3 +1,6 @@
+## 20260730
+- [Phoronix](https://www.phoronix.com/) | [Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver](https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan)
+
 ## 20260729
 - [Phoronix](https://www.phoronix.com/) | [Intel Graphics Driver Support For Xe3 "Peak Bandwidth Threshold" Feature In Linux 7.3](https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth)
 

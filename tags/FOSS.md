@@ -1,3 +1,6 @@
+## 20260730
+- [It's FOSS](https://itsfoss.com/) | [I Found a Simple Open WebUI Alternative for Running Ollama Models in a Web Browser](https://feed.itsfoss.com/link/24361/17396275/orionchat)
+
 ## 20260729
 - [It's FOSS](https://itsfoss.com/) | [Good News Gamers! GOG is Officially Coming to Linux](https://feed.itsfoss.com/link/24361/17392959/gog-galaxy-is-coming-to-linux)
 

@@ -1,3 +1,6 @@
+## 20260730
+- [9to5Linux](https://9to5linux.com/) | [GNOME 50.3 Enables Remote Desktop Hardware Acceleration for AMD GPUs](https://9to5linux.com/gnome-50-3-enables-remote-desktop-hardware-acceleration-for-amd-gpus)
+
 ## 20260729
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.0 GUI Package Manager for Arch Linux Released as a Major Update](https://9to5linux.com/shelly-3-0-gui-package-manager-for-arch-linux-released-as-a-major-update)
 

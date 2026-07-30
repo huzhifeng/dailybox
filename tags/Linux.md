@@ -1,3 +1,7 @@
+## 20260730
+- [Phoronix](https://www.phoronix.com/) | [Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver](https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan)
+- [9to5Linux](https://9to5linux.com/) | [GNOME 50.3 Enables Remote Desktop Hardware Acceleration for AMD GPUs](https://9to5linux.com/gnome-50-3-enables-remote-desktop-hardware-acceleration-for-amd-gpus)
+
 ## 20260729
 - [Phoronix](https://www.phoronix.com/) | [Intel Graphics Driver Support For Xe3 "Peak Bandwidth Threshold" Feature In Linux 7.3](https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth)
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.0 GUI Package Manager for Arch Linux Released as a Major Update](https://9to5linux.com/shelly-3-0-gui-package-manager-for-arch-linux-released-as-a-major-update)
