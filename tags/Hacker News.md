@@ -1,3 +1,9 @@
+## 20260731
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-30](https://www.daemonology.net/hn-daily/2026-07-30.html)
+- [Top Hacker News](https://www.tophn.co/) | [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-30](https://hacker-podcast.agi.li/episode/2026-07-30)
+- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek-V4-Flash Update](https://news.ycombinator.com/item?id=49119559)
+
 ## 20260730
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-07-29](https://www.daemonology.net/hn-daily/2026-07-29.html)
 

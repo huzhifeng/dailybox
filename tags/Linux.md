@@ -1,3 +1,7 @@
+## 20260731
+- [Phoronix](https://www.phoronix.com/) | [Servo 0.4 Browser Engine Gets More Websites Rendering Correctly](https://www.phoronix.com/news/Servo-0.4-Released)
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.12 E-Book Manager Adds Option to Convert GIF Images to JPEG/WebP](https://9to5linux.com/calibre-9-12-e-book-manager-adds-option-to-convert-gif-images-to-jpeg-webp)
+
 ## 20260730
 - [Phoronix](https://www.phoronix.com/) | [Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver](https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan)
 - [9to5Linux](https://9to5linux.com/) | [GNOME 50.3 Enables Remote Desktop Hardware Acceleration for AMD GPUs](https://9to5linux.com/gnome-50-3-enables-remote-desktop-hardware-acceleration-for-amd-gpus)

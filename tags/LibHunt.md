@@ -1,3 +1,6 @@
+## 20260731
+- [LibHunt](https://www.libhunt.com/) | [JDK](https://www.libhunt.com/r/jdk)
+
 ## 20260730
 - [LibHunt](https://www.libhunt.com/) | [protocol-in-code](https://www.libhunt.com/r/protocol-in-code)
 

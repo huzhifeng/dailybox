@@ -1,3 +1,6 @@
+## 20260731
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.12 E-Book Manager Adds Option to Convert GIF Images to JPEG/WebP](https://9to5linux.com/calibre-9-12-e-book-manager-adds-option-to-convert-gif-images-to-jpeg-webp)
+
 ## 20260730
 - [9to5Linux](https://9to5linux.com/) | [GNOME 50.3 Enables Remote Desktop Hardware Acceleration for AMD GPUs](https://9to5linux.com/gnome-50-3-enables-remote-desktop-hardware-acceleration-for-amd-gpus)
 

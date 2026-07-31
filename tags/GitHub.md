@@ -1,3 +1,6 @@
+## 20260731
+- [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+
 ## 20260730
 - [GitHub Trending](https://github.com/trending?since=daily) | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
 

@@ -1,3 +1,6 @@
+## 20260731
+- [Phoronix](https://www.phoronix.com/) | [Servo 0.4 Browser Engine Gets More Websites Rendering Correctly](https://www.phoronix.com/news/Servo-0.4-Released)
+
 ## 20260730
 - [Phoronix](https://www.phoronix.com/) | [Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver](https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan)
 

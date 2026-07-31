@@ -1,3 +1,6 @@
+## 20260731
+- [It's FOSS](https://itsfoss.com/) | [Exploring Kittens With Kitty Terminal Emulator](https://feed.itsfoss.com/link/24361/17397287/kittens-kitty)
+
 ## 20260730
 - [It's FOSS](https://itsfoss.com/) | [I Found a Simple Open WebUI Alternative for Running Ollama Models in a Web Browser](https://feed.itsfoss.com/link/24361/17396275/orionchat)
 
