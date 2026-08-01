@@ -1,3 +1,6 @@
+## 20260801
+- [GitHub Trending](https://github.com/trending?since=daily) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+
 ## 20260731
 - [GitHub Trending](https://github.com/trending?since=daily) | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
 

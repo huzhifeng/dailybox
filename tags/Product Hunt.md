@@ -1,3 +1,6 @@
+## 20260801
+- [Product Hunt](https://www.producthunt.com) | [NudgeForMe](https://www.producthunt.com/products/nudgeforme)
+
 ## 20260731
 - [Product Hunt](https://www.producthunt.com) | [Cleanlist AI](https://www.producthunt.com/products/cleanlist-ai)
 

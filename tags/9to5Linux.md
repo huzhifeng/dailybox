@@ -1,3 +1,6 @@
+## 20260801
+- [9to5Linux](https://9to5linux.com/) | [4MLinux 52.0 Released with Better Support for Legacy GPUs, Linux Kernel 6.18 LTS](https://9to5linux.com/4mlinux-52-0-released-with-better-support-for-legacy-gpus-linux-kernel-6-18-lts)
+
 ## 20260731
 - [9to5Linux](https://9to5linux.com/) | [Calibre 9.12 E-Book Manager Adds Option to Convert GIF Images to JPEG/WebP](https://9to5linux.com/calibre-9-12-e-book-manager-adds-option-to-convert-gif-images-to-jpeg-webp)
 

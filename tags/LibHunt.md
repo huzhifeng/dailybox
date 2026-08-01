@@ -1,3 +1,6 @@
+## 20260801
+- [LibHunt](https://www.libhunt.com/) | [ABSL](https://www.libhunt.com/r/Mojo0869/ABSL)
+
 ## 20260731
 - [LibHunt](https://www.libhunt.com/) | [JDK](https://www.libhunt.com/r/jdk)
 

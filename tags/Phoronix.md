@@ -1,3 +1,6 @@
+## 20260801
+- [Phoronix](https://www.phoronix.com/) | [Prominent Arch Linux Developer Resigns After 10 Year Run](https://www.phoronix.com/news/Arch-Linux-Foxboron)
+
 ## 20260731
 - [Phoronix](https://www.phoronix.com/) | [Servo 0.4 Browser Engine Gets More Websites Rendering Correctly](https://www.phoronix.com/news/Servo-0.4-Released)
 
