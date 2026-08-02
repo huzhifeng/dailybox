@@ -1,3 +1,6 @@
+## 20260802
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs](https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver)
+
 ## 20260801
 - [Phoronix](https://www.phoronix.com/) | [Prominent Arch Linux Developer Resigns After 10 Year Run](https://www.phoronix.com/news/Arch-Linux-Foxboron)
 

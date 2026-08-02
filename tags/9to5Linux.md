@@ -1,3 +1,6 @@
+## 20260802
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 45 to Enable Shadow Stack Protection by Default on 64-Bit](https://9to5linux.com/fedora-linux-45-to-enable-shadow-stack-protection-by-default-on-64-bit)
+
 ## 20260801
 - [9to5Linux](https://9to5linux.com/) | [4MLinux 52.0 Released with Better Support for Legacy GPUs, Linux Kernel 6.18 LTS](https://9to5linux.com/4mlinux-52-0-released-with-better-support-for-legacy-gpus-linux-kernel-6-18-lts)
 

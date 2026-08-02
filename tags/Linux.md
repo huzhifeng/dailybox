@@ -1,3 +1,7 @@
+## 20260802
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs](https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver)
+- [9to5Linux](https://9to5linux.com/) | [Fedora Linux 45 to Enable Shadow Stack Protection by Default on 64-Bit](https://9to5linux.com/fedora-linux-45-to-enable-shadow-stack-protection-by-default-on-64-bit)
+
 ## 20260801
 - [Phoronix](https://www.phoronix.com/) | [Prominent Arch Linux Developer Resigns After 10 Year Run](https://www.phoronix.com/news/Arch-Linux-Foxboron)
 - [9to5Linux](https://9to5linux.com/) | [4MLinux 52.0 Released with Better Support for Legacy GPUs, Linux Kernel 6.18 LTS](https://9to5linux.com/4mlinux-52-0-released-with-better-support-for-legacy-gpus-linux-kernel-6-18-lts)
