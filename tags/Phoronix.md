@@ -1,3 +1,6 @@
+## 20260803
+- [Phoronix](https://www.phoronix.com/) | [zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix](https://www.phoronix.com/news/zlib-rs-0.6.7)
+
 ## 20260802
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs](https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver)
 

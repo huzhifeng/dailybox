@@ -1,3 +1,6 @@
+## 20260803
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026)
+
 ## 20260802
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 45 to Enable Shadow Stack Protection by Default on 64-Bit](https://9to5linux.com/fedora-linux-45-to-enable-shadow-stack-protection-by-default-on-64-bit)
 

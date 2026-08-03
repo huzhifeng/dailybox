@@ -1,3 +1,6 @@
+## 20260803
+- [LibHunt](https://www.libhunt.com/) | [marketing-team-eve-template](https://www.libhunt.com/r/marketing-team-eve-template)
+
 ## 20260801
 - [LibHunt](https://www.libhunt.com/) | [ABSL](https://www.libhunt.com/r/Mojo0869/ABSL)
 

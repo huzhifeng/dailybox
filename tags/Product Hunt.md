@@ -1,3 +1,6 @@
+## 20260803
+- [Product Hunt](https://www.producthunt.com) | [Appllama](https://www.producthunt.com/products/appllama)
+
 ## 20260802
 - [Product Hunt](https://www.producthunt.com) | [YourSitee](https://www.producthunt.com/products/yoursitee)
 

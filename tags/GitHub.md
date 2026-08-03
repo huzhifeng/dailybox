@@ -1,3 +1,6 @@
+## 20260803
+- [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
 ## 20260802
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 

@@ -1,3 +1,7 @@
+## 20260803
+- [Phoronix](https://www.phoronix.com/) | [zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix](https://www.phoronix.com/news/zlib-rs-0.6.7)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026)
+
 ## 20260802
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs](https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver)
 - [9to5Linux](https://9to5linux.com/) | [Fedora Linux 45 to Enable Shadow Stack Protection by Default on 64-Bit](https://9to5linux.com/fedora-linux-45-to-enable-shadow-stack-protection-by-default-on-64-bit)

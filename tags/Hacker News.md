@@ -1,3 +1,9 @@
+## 20260803
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-02](https://www.daemonology.net/hn-daily/2026-08-02.html)
+- [Top Hacker News](https://www.tophn.co/) | [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-02](https://hacker-podcast.agi.li/episode/2026-08-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Don't be a meat proxy](https://news.ycombinator.com/item?id=49151933)
+
 ## 20260802
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-01](https://www.daemonology.net/hn-daily/2026-08-01.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-01](https://hacker-podcast.agi.li/episode/2026-08-01)
