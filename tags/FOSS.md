@@ -1,3 +1,6 @@
+## 20260804
+- [It's FOSS](https://itsfoss.com/) | [GNOME Boxes Won't Look Ancient Anymore Thanks to a Glow-Up](https://feed.itsfoss.com/link/24361/17403075/gnome-boxes-glow-up)
+
 ## 20260731
 - [It's FOSS](https://itsfoss.com/) | [Exploring Kittens With Kitty Terminal Emulator](https://feed.itsfoss.com/link/24361/17397287/kittens-kitty)
 

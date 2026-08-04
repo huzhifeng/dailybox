@@ -1,3 +1,7 @@
+## 20260804
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Announces Tokenomics Foundation For "Economics & ROI Of AI Value"](https://www.phoronix.com/news/Linux-Foundation-Tokenomics)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.7.4 Is Out to Improve Spectacle, Discover, and Emoji Selector](https://9to5linux.com/kde-plasma-6-7-4-is-out-to-improve-spectacle-discover-and-emoji-selector)
+
 ## 20260803
 - [Phoronix](https://www.phoronix.com/) | [zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix](https://www.phoronix.com/news/zlib-rs-0.6.7)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026)

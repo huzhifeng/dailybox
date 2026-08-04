@@ -1,3 +1,6 @@
+## 20260804
+- [Phoronix](https://www.phoronix.com/) | [Linux Foundation Announces Tokenomics Foundation For "Economics & ROI Of AI Value"](https://www.phoronix.com/news/Linux-Foundation-Tokenomics)
+
 ## 20260803
 - [Phoronix](https://www.phoronix.com/) | [zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix](https://www.phoronix.com/news/zlib-rs-0.6.7)
 

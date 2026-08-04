@@ -1,3 +1,6 @@
+## 20260804
+- [GitHub Trending](https://github.com/trending?since=daily) | [lyogavin/airllm](https://github.com/lyogavin/airllm)
+
 ## 20260803
 - [GitHub Trending](https://github.com/trending?since=daily) | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 

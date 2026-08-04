@@ -1,3 +1,6 @@
+## 20260804
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.7.4 Is Out to Improve Spectacle, Discover, and Emoji Selector](https://9to5linux.com/kde-plasma-6-7-4-is-out-to-improve-spectacle-discover-and-emoji-selector)
+
 ## 20260803
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026)
 
