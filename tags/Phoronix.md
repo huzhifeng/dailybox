@@ -1,3 +1,6 @@
+## 20260805
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Announces Open-Source Cloudflare OS As AI "Operating System"](https://www.phoronix.com/news/Cloudflare-OS)
+
 ## 20260804
 - [Phoronix](https://www.phoronix.com/) | [Linux Foundation Announces Tokenomics Foundation For "Economics & ROI Of AI Value"](https://www.phoronix.com/news/Linux-Foundation-Tokenomics)
 

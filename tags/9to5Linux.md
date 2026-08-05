@@ -1,3 +1,6 @@
+## 20260805
+- [9to5Linux](https://9to5linux.com/) | [Tails 7.10.1 Is Out as an Emergency Release to Fix Critical Vulnerabilities](https://9to5linux.com/tails-7-10-1-is-out-as-an-emergency-release-to-fix-critical-vulnerabilities)
+
 ## 20260804
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.7.4 Is Out to Improve Spectacle, Discover, and Emoji Selector](https://9to5linux.com/kde-plasma-6-7-4-is-out-to-improve-spectacle-discover-and-emoji-selector)
 

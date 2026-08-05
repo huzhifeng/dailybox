@@ -1,3 +1,6 @@
+## 20260805
+- [It's FOSS](https://itsfoss.com/) | [While Torvalds Makes Peace With AI in Linux, Greg Kroah-Hartman Draws a Line (Sort of)](https://feed.itsfoss.com/link/24361/17403762/linux-drivers-staging-ai-rejection)
+
 ## 20260804
 - [It's FOSS](https://itsfoss.com/) | [GNOME Boxes Won't Look Ancient Anymore Thanks to a Glow-Up](https://feed.itsfoss.com/link/24361/17403075/gnome-boxes-glow-up)
 
