@@ -1,3 +1,6 @@
+## 20260806
+- [Phoronix](https://www.phoronix.com/) | [Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches](https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch)
+
 ## 20260805
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Announces Open-Source Cloudflare OS As AI "Operating System"](https://www.phoronix.com/news/Cloudflare-OS)
 - [9to5Linux](https://9to5linux.com/) | [Tails 7.10.1 Is Out as an Emergency Release to Fix Critical Vulnerabilities](https://9to5linux.com/tails-7-10-1-is-out-as-an-emergency-release-to-fix-critical-vulnerabilities)

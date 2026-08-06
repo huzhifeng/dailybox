@@ -1,3 +1,6 @@
+## 20260806
+- [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/computer](https://github.com/cloudflare/computer)
+
 ## 20260805
 - [GitHub Trending](https://github.com/trending?since=daily) | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)

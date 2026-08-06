@@ -1,3 +1,6 @@
+## 20260806
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More](https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32)
+
 ## 20260805
 - [It's FOSS](https://itsfoss.com/) | [While Torvalds Makes Peace With AI in Linux, Greg Kroah-Hartman Draws a Line (Sort of)](https://feed.itsfoss.com/link/24361/17403762/linux-drivers-staging-ai-rejection)
 

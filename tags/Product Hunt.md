@@ -1,3 +1,6 @@
+## 20260806
+- [Product Hunt](https://www.producthunt.com) | [AI Spend Console by Rippling](https://www.producthunt.com/products/rippling)
+
 ## 20260805
 - [Product Hunt](https://www.producthunt.com) | [Cloudflare Wallets](https://www.producthunt.com/products/cloudflare)
 

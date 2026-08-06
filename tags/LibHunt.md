@@ -1,3 +1,6 @@
+## 20260806
+- [LibHunt](https://www.libhunt.com/) | [workerd](https://www.libhunt.com/r/workerd)
+
 ## 20260805
 - [LibHunt](https://www.libhunt.com/) | [pi](https://www.libhunt.com/r/pi)
 

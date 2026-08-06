@@ -1,3 +1,9 @@
+## 20260806
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-05](https://www.daemonology.net/hn-daily/2026-08-05.html)
+- [Top Hacker News](https://www.tophn.co/) | [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-05](https://hacker-podcast.agi.li/episode/2026-08-05)
+- [Hacker News](https://news.ycombinator.com/front) | [Crime Pays but Botany Doesn't](https://news.ycombinator.com/item?id=49192566)
+
 ## 20260805
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-04](https://www.daemonology.net/hn-daily/2026-08-04.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-04](https://hacker-podcast.agi.li/episode/2026-08-04)
