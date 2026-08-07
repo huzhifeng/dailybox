@@ -1,3 +1,6 @@
+## 20260807
+- [GitHub Trending](https://github.com/trending?since=daily) | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
 ## 20260806
 - [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/computer](https://github.com/cloudflare/computer)
 

@@ -1,3 +1,6 @@
+## 20260807
+- [Phoronix](https://www.phoronix.com/) | [NetworkManager Adopts Policy For AI Coding Assistants](https://www.phoronix.com/news/NetworkManager-AI-Coding-Policy)
+
 ## 20260806
 - [Phoronix](https://www.phoronix.com/) | [Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches](https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch)
 

@@ -1,3 +1,6 @@
+## 20260807
+- [LibHunt](https://www.libhunt.com/) | [sharp](https://www.libhunt.com/r/sharp)
+
 ## 20260806
 - [LibHunt](https://www.libhunt.com/) | [workerd](https://www.libhunt.com/r/workerd)
 

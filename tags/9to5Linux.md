@@ -1,3 +1,6 @@
+## 20260807
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.13 E-Book Manager Improves PDF Output, Content Server, and More](https://9to5linux.com/calibre-9-13-e-book-manager-improves-pdf-output-content-server-and-more)
+
 ## 20260805
 - [9to5Linux](https://9to5linux.com/) | [Tails 7.10.1 Is Out as an Emergency Release to Fix Critical Vulnerabilities](https://9to5linux.com/tails-7-10-1-is-out-as-an-emergency-release-to-fix-critical-vulnerabilities)
 

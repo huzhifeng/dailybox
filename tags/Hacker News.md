@@ -1,3 +1,9 @@
+## 20260807
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-06](https://www.daemonology.net/hn-daily/2026-08-06.html)
+- [Top Hacker News](https://www.tophn.co/) | [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-06](https://hacker-podcast.agi.li/episode/2026-08-06)
+- [Hacker News](https://news.ycombinator.com/front) | [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://news.ycombinator.com/item?id=49204352)
+
 ## 20260806
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-05](https://www.daemonology.net/hn-daily/2026-08-05.html)
 - [Top Hacker News](https://www.tophn.co/) | [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)

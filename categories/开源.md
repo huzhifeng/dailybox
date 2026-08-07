@@ -1,3 +1,6 @@
+## 20260807
+- [It's FOSS](https://itsfoss.com/) | [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://feed.itsfoss.com/link/24361/17404986/illinois-age-verification-bill)
+
 ## 20260806
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More](https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32)
 
