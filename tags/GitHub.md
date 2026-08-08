@@ -1,3 +1,6 @@
+## 20260808
+- [GitHub Trending](https://github.com/trending?since=daily) | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+
 ## 20260807
 - [GitHub Trending](https://github.com/trending?since=daily) | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 

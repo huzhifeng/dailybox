@@ -1,3 +1,6 @@
+## 20260808
+- [LibHunt](https://www.libhunt.com/) | [CircuitVerse](https://www.libhunt.com/r/CircuitVerse)
+
 ## 20260807
 - [LibHunt](https://www.libhunt.com/) | [sharp](https://www.libhunt.com/r/sharp)
 

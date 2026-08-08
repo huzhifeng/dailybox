@@ -1,3 +1,6 @@
+## 20260808
+- [It's FOSS](https://itsfoss.com/) | [OpenSearch Is Done Being Called "the Elasticsearch Fork"](https://feed.itsfoss.com/link/24361/17405401/open-search-bianca-lewis)
+
 ## 20260807
 - [It's FOSS](https://itsfoss.com/) | [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://feed.itsfoss.com/link/24361/17404986/illinois-age-verification-bill)
 

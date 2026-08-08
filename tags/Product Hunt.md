@@ -1,3 +1,6 @@
+## 20260808
+- [Product Hunt](https://www.producthunt.com) | [AstraPixels](https://www.producthunt.com/products/astrapixels)
+
 ## 20260807
 - [Product Hunt](https://www.producthunt.com) | [Rindler](https://www.producthunt.com/products/rindler)
 

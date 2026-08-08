@@ -1,3 +1,6 @@
+## 20260808
+- [Phoronix](https://www.phoronix.com/) | [GNOME Receiving Additional Design Help Thanks To Sovereign Tech Agency Fellowship](https://www.phoronix.com/news/GNOME-Design-Fellowship)
+
 ## 20260807
 - [Phoronix](https://www.phoronix.com/) | [NetworkManager Adopts Policy For AI Coding Assistants](https://www.phoronix.com/news/NetworkManager-AI-Coding-Policy)
 - [9to5Linux](https://9to5linux.com/) | [Calibre 9.13 E-Book Manager Improves PDF Output, Content Server, and More](https://9to5linux.com/calibre-9-13-e-book-manager-improves-pdf-output-content-server-and-more)

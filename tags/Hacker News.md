@@ -1,3 +1,9 @@
+## 20260808
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-07](https://www.daemonology.net/hn-daily/2026-08-07.html)
+- [Top Hacker News](https://www.tophn.co/) | [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-07-29](https://hacker-podcast.agi.li/episode/2026-07-29)
+- [Hacker News](https://news.ycombinator.com/front) | [The Nixpkgs core team has disbanded](https://news.ycombinator.com/item?id=49217993)
+
 ## 20260807
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-06](https://www.daemonology.net/hn-daily/2026-08-06.html)
 - [Top Hacker News](https://www.tophn.co/) | [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
