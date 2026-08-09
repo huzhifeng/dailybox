@@ -1,3 +1,6 @@
+## 20260809
+- [Phoronix](https://www.phoronix.com/) | [Dell Latitude 7320 2-in-1 Seeing Web Camera Support On Linux After Five Years](https://www.phoronix.com/news/Dell-Latitude-7320-Linux-Webcam)
+
 ## 20260808
 - [Phoronix](https://www.phoronix.com/) | [GNOME Receiving Additional Design Help Thanks To Sovereign Tech Agency Fellowship](https://www.phoronix.com/news/GNOME-Design-Fellowship)
 
