@@ -1,3 +1,6 @@
+## 20260810
+- [It's FOSS](https://itsfoss.com/) | [AI Can No Longer Rampage Through Rust's Code Repo](https://feed.itsfoss.com/link/24361/17411230/rust-code-repo-ai-policy)
+
 ## 20260808
 - [It's FOSS](https://itsfoss.com/) | [OpenSearch Is Done Being Called "the Elasticsearch Fork"](https://feed.itsfoss.com/link/24361/17405401/open-search-bianca-lewis)
 

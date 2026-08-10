@@ -1,3 +1,6 @@
+## 20260810
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026)
+
 ## 20260807
 - [9to5Linux](https://9to5linux.com/) | [Calibre 9.13 E-Book Manager Improves PDF Output, Content Server, and More](https://9to5linux.com/calibre-9-13-e-book-manager-improves-pdf-output-content-server-and-more)
 

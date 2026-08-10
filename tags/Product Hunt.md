@@ -1,3 +1,6 @@
+## 20260810
+- [Product Hunt](https://www.producthunt.com) | [AI Group Call](https://www.producthunt.com/products/ai-group-call)
+
 ## 20260808
 - [Product Hunt](https://www.producthunt.com) | [AstraPixels](https://www.producthunt.com/products/astrapixels)
 

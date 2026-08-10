@@ -1,3 +1,9 @@
+## 20260810
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-09](https://www.daemonology.net/hn-daily/2026-08-09.html)
+- [Top Hacker News](https://www.tophn.co/) | [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-07](https://hacker-podcast.agi.li/episode/2026-08-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://news.ycombinator.com/item?id=49239751)
+
 ## 20260809
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-08](https://www.daemonology.net/hn-daily/2026-08-08.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-08](https://hacker-podcast.agi.li/episode/2026-08-08)

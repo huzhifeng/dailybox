@@ -1,3 +1,7 @@
+## 20260810
+- [Phoronix](https://www.phoronix.com/) | [Meta Publishes Muse Glimmer As 30B Open Agentic Model](https://www.phoronix.com/news/Meta-Muse-Glimmer)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026)
+
 ## 20260809
 - [Phoronix](https://www.phoronix.com/) | [Dell Latitude 7320 2-in-1 Seeing Web Camera Support On Linux After Five Years](https://www.phoronix.com/news/Dell-Latitude-7320-Linux-Webcam)
 
