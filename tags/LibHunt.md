@@ -1,3 +1,6 @@
+## 20260811
+- [LibHunt](https://www.libhunt.com/) | [duckduckgo-locales](https://www.libhunt.com/r/duckduckgo-locales)
+
 ## 20260810
 - [LibHunt](https://www.libhunt.com/) | [nono](https://www.libhunt.com/r/nono)
 

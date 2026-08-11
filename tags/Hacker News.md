@@ -1,3 +1,9 @@
+## 20260811
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-10](https://www.daemonology.net/hn-daily/2026-08-10.html)
+- [Top Hacker News](https://www.tophn.co/) | [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-10](https://hacker-podcast.agi.li/episode/2026-08-10)
+- [Hacker News](https://news.ycombinator.com/front) | [France to ban unsolicited telemarketing calls](https://news.ycombinator.com/item?id=49254880)
+
 ## 20260810
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-09](https://www.daemonology.net/hn-daily/2026-08-09.html)
 - [Top Hacker News](https://www.tophn.co/) | [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)

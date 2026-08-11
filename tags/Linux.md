@@ -1,3 +1,6 @@
+## 20260811
+- [Phoronix](https://www.phoronix.com/) | [Up To 12.8x Improvement Observed For gup_test With New Linux MM Patches](https://www.phoronix.com/news/Linux-Batch-Follow-Page-Mask)
+
 ## 20260810
 - [Phoronix](https://www.phoronix.com/) | [Meta Publishes Muse Glimmer As 30B Open Agentic Model](https://www.phoronix.com/news/Meta-Muse-Glimmer)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026)

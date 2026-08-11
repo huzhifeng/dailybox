@@ -1,3 +1,6 @@
+## 20260811
+- [It's FOSS](https://itsfoss.com/) | [Run Hermes on Raspberry Pi, Control It from Your Laptop](https://feed.itsfoss.com/link/24361/17414747/hermes-desktop-remote-gateway)
+
 ## 20260810
 - [It's FOSS](https://itsfoss.com/) | [AI Can No Longer Rampage Through Rust's Code Repo](https://feed.itsfoss.com/link/24361/17411230/rust-code-repo-ai-policy)
 

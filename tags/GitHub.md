@@ -1,3 +1,6 @@
+## 20260811
+- [GitHub Trending](https://github.com/trending?since=daily) | [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+
 ## 20260810
 - [GitHub Trending](https://github.com/trending?since=daily) | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 
