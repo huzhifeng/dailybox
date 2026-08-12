@@ -1,3 +1,6 @@
+## 20260812
+- [LibHunt](https://www.libhunt.com/) | [axe-core](https://www.libhunt.com/r/axe-core)
+
 ## 20260811
 - [LibHunt](https://www.libhunt.com/) | [duckduckgo-locales](https://www.libhunt.com/r/duckduckgo-locales)
 

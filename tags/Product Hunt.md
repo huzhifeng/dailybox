@@ -1,3 +1,6 @@
+## 20260812
+- [Product Hunt](https://www.producthunt.com) | [Assembly Studio](https://www.producthunt.com/products/assembly-7)
+
 ## 20260810
 - [Product Hunt](https://www.producthunt.com) | [AI Group Call](https://www.producthunt.com/products/ai-group-call)
 

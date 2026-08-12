@@ -1,3 +1,6 @@
+## 20260812
+- [It's FOSS](https://itsfoss.com/) | [SimpleX Chat Wants Its 400K+ Users to Become Investors Too](https://feed.itsfoss.com/link/24361/17416295/simplex-chat-investment-drive)
+
 ## 20260811
 - [It's FOSS](https://itsfoss.com/) | [Run Hermes on Raspberry Pi, Control It from Your Laptop](https://feed.itsfoss.com/link/24361/17414747/hermes-desktop-remote-gateway)
 

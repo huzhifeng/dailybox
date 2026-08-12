@@ -1,3 +1,7 @@
+## 20260812
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To "Fair" Regressions](https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair)
+- [9to5Linux](https://9to5linux.com/) | [QEMU 11.1 Released with Universal Flash Storage (UFS) Emulation Support](https://9to5linux.com/qemu-11-1-released-with-universal-flash-storage-ufs-emulation-support)
+
 ## 20260811
 - [Phoronix](https://www.phoronix.com/) | [Up To 12.8x Improvement Observed For gup_test With New Linux MM Patches](https://www.phoronix.com/news/Linux-Batch-Follow-Page-Mask)
 

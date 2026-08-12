@@ -1,3 +1,6 @@
+## 20260812
+- [9to5Linux](https://9to5linux.com/) | [QEMU 11.1 Released with Universal Flash Storage (UFS) Emulation Support](https://9to5linux.com/qemu-11-1-released-with-universal-flash-storage-ufs-emulation-support)
+
 ## 20260810
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026)
 
