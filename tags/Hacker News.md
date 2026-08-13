@@ -1,3 +1,7 @@
+## 20260813
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-12](https://www.daemonology.net/hn-daily/2026-08-12.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-12](https://hacker-podcast.agi.li/episode/2026-08-12)
+
 ## 20260812
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-11](https://www.daemonology.net/hn-daily/2026-08-11.html)
 - [Top Hacker News](https://www.tophn.co/) | [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)

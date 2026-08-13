@@ -1,3 +1,6 @@
+## 20260813
+- [Product Hunt](https://www.producthunt.com) | [Scrimba Explain](https://www.producthunt.com/products/scrimba)
+
 ## 20260812
 - [Product Hunt](https://www.producthunt.com) | [Assembly Studio](https://www.producthunt.com/products/assembly-7)
 

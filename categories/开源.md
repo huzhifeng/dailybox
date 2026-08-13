@@ -1,3 +1,6 @@
+## 20260813
+- [It's FOSS](https://itsfoss.com/) | [Omarchy Bets Its Future on AI Agents While the Linux World Stays Cautious](https://feed.itsfoss.com/link/24361/17417194/omarchy-ai-agent-focus)
+
 ## 20260812
 - [It's FOSS](https://itsfoss.com/) | [SimpleX Chat Wants Its 400K+ Users to Become Investors Too](https://feed.itsfoss.com/link/24361/17416295/simplex-chat-investment-drive)
 

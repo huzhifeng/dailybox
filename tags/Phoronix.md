@@ -1,3 +1,6 @@
+## 20260813
+- [Phoronix](https://www.phoronix.com/) | [Linux Patches Enable Apple M4 NVMe Support](https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches)
+
 ## 20260812
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To "Fair" Regressions](https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair)
 
