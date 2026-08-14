@@ -1,3 +1,6 @@
+## 20260814
+- [Phoronix](https://www.phoronix.com/) | [Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs](https://www.phoronix.com/news/Linux-7.3-Features-Preview)
+
 ## 20260813
 - [Phoronix](https://www.phoronix.com/) | [Linux Patches Enable Apple M4 NVMe Support](https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches)
 

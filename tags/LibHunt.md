@@ -1,3 +1,6 @@
+## 20260814
+- [LibHunt](https://www.libhunt.com/) | [tiktoken](https://www.libhunt.com/r/tiktoken)
+
 ## 20260812
 - [LibHunt](https://www.libhunt.com/) | [axe-core](https://www.libhunt.com/r/axe-core)
 

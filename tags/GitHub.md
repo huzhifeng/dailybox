@@ -1,3 +1,6 @@
+## 20260814
+- [GitHub Trending](https://github.com/trending?since=daily) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+
 ## 20260813
 - [GitHub Trending](https://github.com/trending?since=daily) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 

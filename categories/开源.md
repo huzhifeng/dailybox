@@ -1,3 +1,6 @@
+## 20260814
+- [It's FOSS](https://itsfoss.com/) | [LightDM is Back From The Dead, But Canonical isn't in Charge Anymore](https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back)
+
 ## 20260813
 - [It's FOSS](https://itsfoss.com/) | [Omarchy Bets Its Future on AI Agents While the Linux World Stays Cautious](https://feed.itsfoss.com/link/24361/17417194/omarchy-ai-agent-focus)
 
