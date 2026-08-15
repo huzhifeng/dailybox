@@ -1,3 +1,7 @@
+## 20260815
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-14](https://www.daemonology.net/hn-daily/2026-08-14.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-14](https://hacker-podcast.agi.li/episode/2026-08-14)
+
 ## 20260814
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-13](https://www.daemonology.net/hn-daily/2026-08-13.html)
 - [Top Hacker News](https://www.tophn.co/) | [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)

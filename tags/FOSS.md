@@ -1,3 +1,6 @@
+## 20260815
+- [It's FOSS](https://itsfoss.com/) | [Overshared to an AI? Proton's Tool Will Give You a Reality Check](https://feed.itsfoss.com/link/24361/17418931/proton-ai-paper-trail)
+
 ## 20260814
 - [It's FOSS](https://itsfoss.com/) | [LightDM is Back From The Dead, But Canonical isn't in Charge Anymore](https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back)
 

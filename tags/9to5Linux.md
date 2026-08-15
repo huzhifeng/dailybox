@@ -1,3 +1,6 @@
+## 20260815
+- [9to5Linux](https://9to5linux.com/) | [Canonical Certifies the Advantech AOM-2721 AIoT Board for Ubuntu 24.04 LTS](https://9to5linux.com/canonical-certifies-the-advantech-aom-2721-aiot-board-for-ubuntu-24-04-lts)
+
 ## 20260812
 - [9to5Linux](https://9to5linux.com/) | [QEMU 11.1 Released with Universal Flash Storage (UFS) Emulation Support](https://9to5linux.com/qemu-11-1-released-with-universal-flash-storage-ufs-emulation-support)
 

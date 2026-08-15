@@ -1,3 +1,7 @@
+## 20260815
+- [Phoronix](https://www.phoronix.com/) | [Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture](https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2)
+- [9to5Linux](https://9to5linux.com/) | [Canonical Certifies the Advantech AOM-2721 AIoT Board for Ubuntu 24.04 LTS](https://9to5linux.com/canonical-certifies-the-advantech-aom-2721-aiot-board-for-ubuntu-24-04-lts)
+
 ## 20260814
 - [Phoronix](https://www.phoronix.com/) | [Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs](https://www.phoronix.com/news/Linux-7.3-Features-Preview)
 

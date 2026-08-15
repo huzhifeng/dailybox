@@ -1,3 +1,6 @@
+## 20260815
+- [Phoronix](https://www.phoronix.com/) | [Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture](https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2)
+
 ## 20260814
 - [Phoronix](https://www.phoronix.com/) | [Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs](https://www.phoronix.com/news/Linux-7.3-Features-Preview)
 
