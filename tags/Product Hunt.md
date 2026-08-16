@@ -1,3 +1,6 @@
+## 20260816
+- [Product Hunt](https://www.producthunt.com) | [HarnessRouter Community Edition](https://www.producthunt.com/products/epsilla)
+
 ## 20260814
 - [Product Hunt](https://www.producthunt.com) | [Outcome ](https://www.producthunt.com/products/contentblocks)
 

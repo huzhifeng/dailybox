@@ -1,3 +1,6 @@
+## 20260816
+- [LibHunt](https://www.libhunt.com/) | [jaithon](https://www.libhunt.com/r/jaithon)
+
 ## 20260814
 - [LibHunt](https://www.libhunt.com/) | [tiktoken](https://www.libhunt.com/r/tiktoken)
 

@@ -1,3 +1,6 @@
+## 20260816
+- [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs](https://www.phoronix.com/news/AVX-512-xor-gen-v4)
+
 ## 20260815
 - [Phoronix](https://www.phoronix.com/) | [Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture](https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2)
 

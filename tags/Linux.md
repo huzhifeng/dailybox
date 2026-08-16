@@ -1,3 +1,6 @@
+## 20260816
+- [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs](https://www.phoronix.com/news/AVX-512-xor-gen-v4)
+
 ## 20260815
 - [Phoronix](https://www.phoronix.com/) | [Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture](https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2)
 - [9to5Linux](https://9to5linux.com/) | [Canonical Certifies the Advantech AOM-2721 AIoT Board for Ubuntu 24.04 LTS](https://9to5linux.com/canonical-certifies-the-advantech-aom-2721-aiot-board-for-ubuntu-24-04-lts)
