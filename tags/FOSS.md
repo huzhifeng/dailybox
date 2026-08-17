@@ -1,3 +1,6 @@
+## 20260817
+- [It's FOSS](https://itsfoss.com/) | [Linux 7.2 Arrives With Cache Aware Scheduling After More Than a Year of Work](https://feed.itsfoss.com/link/24361/17420586/linux-kernel-7-2-release)
+
 ## 20260815
 - [It's FOSS](https://itsfoss.com/) | [Overshared to an AI? Proton's Tool Will Give You a Reality Check](https://feed.itsfoss.com/link/24361/17418931/proton-ai-paper-trail)
 

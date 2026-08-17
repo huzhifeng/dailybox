@@ -1,3 +1,6 @@
+## 20260817
+- [Phoronix](https://www.phoronix.com/) | [KTransformers 0.7 Expands AVX-512 Support To Benefit AMD EPYC Servers](https://www.phoronix.com/news/KTransformers-0.7)
+
 ## 20260816
 - [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs](https://www.phoronix.com/news/AVX-512-xor-gen-v4)
 

@@ -1,3 +1,6 @@
+## 20260817
+- [GitHub Trending](https://github.com/trending?since=daily) | [cordiverse/cordis](https://github.com/cordiverse/cordis)
+
 ## 20260816
 - [GitHub Trending](https://github.com/trending?since=daily) | [cordiverse/cordis](https://github.com/cordiverse/cordis)
 

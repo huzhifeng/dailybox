@@ -1,3 +1,6 @@
+## 20260817
+- [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 7.2 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-7-2-kernel-is-now-available-for-software-freedom-lovers)
+
 ## 20260815
 - [9to5Linux](https://9to5linux.com/) | [Canonical Certifies the Advantech AOM-2721 AIoT Board for Ubuntu 24.04 LTS](https://9to5linux.com/canonical-certifies-the-advantech-aom-2721-aiot-board-for-ubuntu-24-04-lts)
 
