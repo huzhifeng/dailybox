@@ -1,3 +1,6 @@
+## 20260818
+- [It's FOSS](https://itsfoss.com/) | [The Xen Project is Serious About Safety, So It Formed a Committee](https://feed.itsfoss.com/link/24361/17422118/xen-project-safety-committee)
+
 ## 20260817
 - [It's FOSS](https://itsfoss.com/) | [Linux 7.2 Arrives With Cache Aware Scheduling After More Than a Year of Work](https://feed.itsfoss.com/link/24361/17420586/linux-kernel-7-2-release)
 

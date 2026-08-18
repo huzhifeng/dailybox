@@ -1,3 +1,6 @@
+## 20260818
+- [LibHunt](https://www.libhunt.com/) | [RUSEON Core](https://www.libhunt.com/r/ruseon-core)
+
 ## 20260816
 - [LibHunt](https://www.libhunt.com/) | [jaithon](https://www.libhunt.com/r/jaithon)
 

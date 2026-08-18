@@ -1,3 +1,6 @@
+## 20260818
+- [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ## 20260817
 - [GitHub Trending](https://github.com/trending?since=daily) | [cordiverse/cordis](https://github.com/cordiverse/cordis)
 

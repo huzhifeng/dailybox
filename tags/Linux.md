@@ -1,3 +1,6 @@
+## 20260818
+- [Phoronix](https://www.phoronix.com/) | [Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46](https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46)
+
 ## 20260817
 - [Phoronix](https://www.phoronix.com/) | [KTransformers 0.7 Expands AVX-512 Support To Benefit AMD EPYC Servers](https://www.phoronix.com/news/KTransformers-0.7)
 - [9to5Linux](https://9to5linux.com/) | [GNU Linux-Libre 7.2 Kernel Is Now Available for Software Freedom Lovers](https://9to5linux.com/gnu-linux-libre-7-2-kernel-is-now-available-for-software-freedom-lovers)

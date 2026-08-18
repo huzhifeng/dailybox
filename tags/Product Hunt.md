@@ -1,3 +1,6 @@
+## 20260818
+- [Product Hunt](https://www.producthunt.com) | [Superflow AI](https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions)
+
 ## 20260816
 - [Product Hunt](https://www.producthunt.com) | [HarnessRouter Community Edition](https://www.producthunt.com/products/epsilla)
 
