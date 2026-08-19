@@ -1,3 +1,9 @@
+## 20260819
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-18](https://www.daemonology.net/hn-daily/2026-08-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [OpenLogi](https://openlogi.org/en)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-18](https://hacker-podcast.agi.li/episode/2026-08-18)
+- [Hacker News](https://news.ycombinator.com/front) | [OpenLogi](https://news.ycombinator.com/item?id=49355606)
+
 ## 20260818
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-17](https://www.daemonology.net/hn-daily/2026-08-17.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-17](https://hacker-podcast.agi.li/episode/2026-08-17)

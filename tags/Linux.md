@@ -1,3 +1,7 @@
+## 20260819
+- [Phoronix](https://www.phoronix.com/) | [PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance](https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [COSMIC 1.6 Desktop Environment Released with More Improvements](https://9to5linux.com/cosmic-1-6-desktop-environment-released-with-more-improvements)
+
 ## 20260818
 - [Phoronix](https://www.phoronix.com/) | [Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46](https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46)
 
