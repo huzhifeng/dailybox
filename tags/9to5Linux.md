@@ -1,3 +1,6 @@
+## 20260820
+- [9to5Linux](https://9to5linux.com/) | [RPM 6.1 Is Here with New Release Model Inspired by the Linux Kernel](https://9to5linux.com/rpm-6-1-is-here-with-new-release-model-inspired-by-the-linux-kernel)
+
 ## 20260819
 - [9to5Linux](https://9to5linux.com/) | [COSMIC 1.6 Desktop Environment Released with More Improvements](https://9to5linux.com/cosmic-1-6-desktop-environment-released-with-more-improvements)
 

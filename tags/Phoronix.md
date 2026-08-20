@@ -1,3 +1,6 @@
+## 20260820
+- [Phoronix](https://www.phoronix.com/) | [RPM 6.1 Released With Clang Build Fixes, New Release Model](https://www.phoronix.com/news/RPM-6.1-Released)
+
 ## 20260819
 - [Phoronix](https://www.phoronix.com/) | [PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance](https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks)
 

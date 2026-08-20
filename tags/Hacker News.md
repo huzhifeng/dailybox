@@ -1,3 +1,9 @@
+## 20260820
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-19](https://www.daemonology.net/hn-daily/2026-08-19.html)
+- [Top Hacker News](https://www.tophn.co/) | [Don't Paste the AI, please](https://dontpastetheai.com/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-19](https://hacker-podcast.agi.li/episode/2026-08-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Don't Paste the AI, please](https://news.ycombinator.com/item?id=49371857)
+
 ## 20260819
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-18](https://www.daemonology.net/hn-daily/2026-08-18.html)
 - [Top Hacker News](https://www.tophn.co/) | [OpenLogi](https://openlogi.org/en)

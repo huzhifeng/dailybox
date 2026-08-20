@@ -1,3 +1,6 @@
+## 20260820
+- [LibHunt](https://www.libhunt.com/) | [deepseek-harness](https://www.libhunt.com/r/deepseek-harness)
+
 ## 20260819
 - [LibHunt](https://www.libhunt.com/) | [solo](https://www.libhunt.com/r/pg83/solo)
 

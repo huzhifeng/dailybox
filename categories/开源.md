@@ -1,3 +1,6 @@
+## 20260820
+- [It's FOSS](https://itsfoss.com/) | [PINE64 is Halting its Linux Hardware Line, and The AI Bubble is to Blame](https://feed.itsfoss.com/link/24361/17423811/pine64-kills-off-linux-hardware)
+
 ## 20260818
 - [It's FOSS](https://itsfoss.com/) | [The Xen Project is Serious About Safety, So It Formed a Committee](https://feed.itsfoss.com/link/24361/17422118/xen-project-safety-committee)
 

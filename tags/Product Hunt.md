@@ -1,3 +1,6 @@
+## 20260820
+- [Product Hunt](https://www.producthunt.com) | [Grok 4.6](https://www.producthunt.com/products/grok-4-6-7)
+
 ## 20260818
 - [Product Hunt](https://www.producthunt.com) | [Superflow AI](https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions)
 
