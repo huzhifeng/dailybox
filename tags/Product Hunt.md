@@ -1,3 +1,6 @@
+## 20260821
+- [Product Hunt](https://www.producthunt.com) | [Supernova](https://www.producthunt.com/products/supernova-ai)
+
 ## 20260820
 - [Product Hunt](https://www.producthunt.com) | [Grok 4.6](https://www.producthunt.com/products/grok-4-6-7)
 

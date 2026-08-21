@@ -1,3 +1,7 @@
+## 20260821
+- [GitHub Trending](https://github.com/trending?since=daily) | [modular/modular](https://github.com/modular/modular)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)
+
 ## 20260820
 - [GitHub Trending](https://github.com/trending?since=daily) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 

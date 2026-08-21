@@ -1,3 +1,6 @@
+## 20260821
+- [It's FOSS](https://itsfoss.com/) | [Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu](https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation)
+
 ## 20260820
 - [It's FOSS](https://itsfoss.com/) | [PINE64 is Halting its Linux Hardware Line, and The AI Bubble is to Blame](https://feed.itsfoss.com/link/24361/17423811/pine64-kills-off-linux-hardware)
 

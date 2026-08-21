@@ -1,3 +1,6 @@
+## 20260821
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs](https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2)
+
 ## 20260820
 - [Phoronix](https://www.phoronix.com/) | [RPM 6.1 Released With Clang Build Fixes, New Release Model](https://www.phoronix.com/news/RPM-6.1-Released)
 - [9to5Linux](https://9to5linux.com/) | [RPM 6.1 Is Here with New Release Model Inspired by the Linux Kernel](https://9to5linux.com/rpm-6-1-is-here-with-new-release-model-inspired-by-the-linux-kernel)

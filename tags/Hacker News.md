@@ -1,3 +1,8 @@
+## 20260821
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-20](https://www.daemonology.net/hn-daily/2026-08-20.html)
+- [Top Hacker News](https://www.tophn.co/) | [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-20](https://hacker-podcast.agi.li/episode/2026-08-20)
+
 ## 20260820
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-19](https://www.daemonology.net/hn-daily/2026-08-19.html)
 - [Top Hacker News](https://www.tophn.co/) | [Don't Paste the AI, please](https://dontpastetheai.com/)
