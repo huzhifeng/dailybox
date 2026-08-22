@@ -1,3 +1,6 @@
+## 20260822
+- [Phoronix](https://www.phoronix.com/) | [AMD RDNA 4m Firmware Published For Linux Ahead Of Launch](https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published)
+
 ## 20260821
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs](https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2)
 

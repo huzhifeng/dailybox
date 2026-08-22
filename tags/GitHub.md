@@ -1,3 +1,6 @@
+## 20260822
+- [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
+
 ## 20260821
 - [GitHub Trending](https://github.com/trending?since=daily) | [modular/modular](https://github.com/modular/modular)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)

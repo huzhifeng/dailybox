@@ -1,3 +1,6 @@
+## 20260822
+- [It's FOSS](https://itsfoss.com/) | [Linux Creator Linus Torvalds Just Used AI to Fix a Kernel Bug](https://feed.itsfoss.com/link/24361/17426094/torvalds-used-ai-fix-kernel-bug)
+
 ## 20260821
 - [It's FOSS](https://itsfoss.com/) | [Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu](https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation)
 

@@ -1,3 +1,8 @@
+## 20260822
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Hacker News](https://news.ycombinator.com/front) | [There's no reason for software to be slow anymore](https://news.ycombinator.com/item?id=49395628)
+
 ## 20260821
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-20](https://www.daemonology.net/hn-daily/2026-08-20.html)
 - [Top Hacker News](https://www.tophn.co/) | [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
