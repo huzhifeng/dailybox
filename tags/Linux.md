@@ -1,3 +1,6 @@
+## 20260823
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps](https://www.phoronix.com/news/ReactOS-Job-Objects)
+
 ## 20260822
 - [Phoronix](https://www.phoronix.com/) | [AMD RDNA 4m Firmware Published For Linux Ahead Of Launch](https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published)
 

@@ -1,3 +1,6 @@
+## 20260823
+- [LibHunt](https://www.libhunt.com/) | [react-native-tour-guide](https://www.libhunt.com/r/react-native-tour-guide)
+
 ## 20260820
 - [LibHunt](https://www.libhunt.com/) | [deepseek-harness](https://www.libhunt.com/r/deepseek-harness)
 

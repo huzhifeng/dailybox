@@ -1,3 +1,7 @@
+## 20260823
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-22](https://www.daemonology.net/hn-daily/2026-08-22.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-22](https://hacker-podcast.agi.li/episode/2026-08-22)
+
 ## 20260822
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
 - [Top Hacker News](https://www.tophn.co/) | [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)

@@ -1,3 +1,6 @@
+## 20260823
+- [Product Hunt](https://www.producthunt.com) | [Construct Computer](https://www.producthunt.com/products/construct-computer)
+
 ## 20260821
 - [Product Hunt](https://www.producthunt.com) | [Supernova](https://www.producthunt.com/products/supernova-ai)
 

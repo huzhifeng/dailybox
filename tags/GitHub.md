@@ -1,3 +1,6 @@
+## 20260823
+- [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
+
 ## 20260822
 - [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
 

@@ -1,3 +1,6 @@
+## 20260823
+- [It's FOSS](https://itsfoss.com/) | [17 GNOME Extensions To Help You Customization Desktop Looks](https://feed.itsfoss.com/link/24361/17426547/gnome-extensions-customization)
+
 ## 20260822
 - [It's FOSS](https://itsfoss.com/) | [Linux Creator Linus Torvalds Just Used AI to Fix a Kernel Bug](https://feed.itsfoss.com/link/24361/17426094/torvalds-used-ai-fix-kernel-bug)
 
