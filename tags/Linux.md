@@ -1,3 +1,7 @@
+## 20260824
+- [Phoronix](https://www.phoronix.com/) | [VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine](https://www.phoronix.com/news/VKD3D-2.1-Released)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 23rd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-23rd-2026)
+
 ## 20260823
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps](https://www.phoronix.com/news/ReactOS-Job-Objects)
 

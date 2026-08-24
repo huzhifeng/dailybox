@@ -1,3 +1,6 @@
+## 20260824
+- [It's FOSS](https://itsfoss.com/) | [TeamSpeak Will Let You Call Your Friends Directly](https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased)
+
 ## 20260823
 - [It's FOSS](https://itsfoss.com/) | [17 GNOME Extensions To Help You Customization Desktop Looks](https://feed.itsfoss.com/link/24361/17426547/gnome-extensions-customization)
 

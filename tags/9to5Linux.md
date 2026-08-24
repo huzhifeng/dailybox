@@ -1,3 +1,6 @@
+## 20260824
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 23rd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-23rd-2026)
+
 ## 20260820
 - [9to5Linux](https://9to5linux.com/) | [RPM 6.1 Is Here with New Release Model Inspired by the Linux Kernel](https://9to5linux.com/rpm-6-1-is-here-with-new-release-model-inspired-by-the-linux-kernel)
 
