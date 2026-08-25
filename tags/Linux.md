@@ -1,3 +1,7 @@
+## 20260825
+- [Phoronix](https://www.phoronix.com/) | [DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake](https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5)
+- [9to5Linux](https://9to5linux.com/) | [Happy 35th Birthday, Linux!](https://9to5linux.com/happy-35th-birthday-linux)
+
 ## 20260824
 - [Phoronix](https://www.phoronix.com/) | [VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine](https://www.phoronix.com/news/VKD3D-2.1-Released)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 23rd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-23rd-2026)

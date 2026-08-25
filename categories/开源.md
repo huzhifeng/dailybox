@@ -1,3 +1,6 @@
+## 20260825
+- [It's FOSS](https://itsfoss.com/) | [This Tiny USB Device Turns Your Phone Into a Keyboard, Mouse, and SSH Terminal](https://feed.itsfoss.com/link/24361/17428059/openterface-keymod-crowdfunding-campaign)
+
 ## 20260824
 - [It's FOSS](https://itsfoss.com/) | [TeamSpeak Will Let You Call Your Friends Directly](https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased)
 

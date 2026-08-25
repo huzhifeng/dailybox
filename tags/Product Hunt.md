@@ -1,3 +1,6 @@
+## 20260825
+- [Product Hunt](https://www.producthunt.com) | [Jotform AI Data Assistant](https://www.producthunt.com/products/jotform)
+
 ## 20260823
 - [Product Hunt](https://www.producthunt.com) | [Construct Computer](https://www.producthunt.com/products/construct-computer)
 

@@ -1,3 +1,6 @@
+## 20260825
+- [GitHub Trending](https://github.com/trending?since=daily) | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
 ## 20260824
 - [GitHub Trending](https://github.com/trending?since=daily) | [openai/codex](https://github.com/openai/codex)
 

@@ -1,3 +1,6 @@
+## 20260825
+- [9to5Linux](https://9to5linux.com/) | [Happy 35th Birthday, Linux!](https://9to5linux.com/happy-35th-birthday-linux)
+
 ## 20260824
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: August 23rd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-23rd-2026)
 

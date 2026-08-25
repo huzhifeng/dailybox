@@ -1,3 +1,6 @@
+## 20260825
+- [LibHunt](https://www.libhunt.com/) | [superpowers](https://www.libhunt.com/r/superpowers)
+
 ## 20260824
 - [LibHunt](https://www.libhunt.com/) | [vomit](https://www.libhunt.com/r/vomit)
 
