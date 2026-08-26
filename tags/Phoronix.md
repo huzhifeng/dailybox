@@ -1,3 +1,6 @@
+## 20260826
+- [Phoronix](https://www.phoronix.com/) | [LibreOffice 26.8 Released With Many Nice Improvements](https://www.phoronix.com/news/LibreOffice-26.8)
+
 ## 20260825
 - [Phoronix](https://www.phoronix.com/) | [DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake](https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5)
 

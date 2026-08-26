@@ -1,3 +1,6 @@
+## 20260826
+- [GitHub Trending](https://github.com/trending?since=daily) | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
 ## 20260825
 - [GitHub Trending](https://github.com/trending?since=daily) | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 

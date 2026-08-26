@@ -1,3 +1,6 @@
+## 20260826
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.8 Open-Source Office Suite Officially Released, This Is What’s New](https://9to5linux.com/libreoffice-26-8-open-source-office-suite-officially-released-this-is-whats-new)
+
 ## 20260825
 - [9to5Linux](https://9to5linux.com/) | [Happy 35th Birthday, Linux!](https://9to5linux.com/happy-35th-birthday-linux)
 

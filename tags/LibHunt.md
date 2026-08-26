@@ -1,3 +1,6 @@
+## 20260826
+- [LibHunt](https://www.libhunt.com/) | [nitter](https://www.libhunt.com/r/nitter)
+
 ## 20260825
 - [LibHunt](https://www.libhunt.com/) | [superpowers](https://www.libhunt.com/r/superpowers)
 
