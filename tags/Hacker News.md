@@ -1,3 +1,9 @@
+## 20260827
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-26](https://www.daemonology.net/hn-daily/2026-08-26.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 01 HackerNews](https://supertechfans.com/cn/post/2026-09-01-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-30](https://hacker-podcast.agi.li/episode/2026-08-30)
+- [Hacker News](https://news.ycombinator.com/front) | [Dwarf Fortress is getting the mother of all magic updates](https://news.ycombinator.com/item?id=49467636)
+
 ## 20260826
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-25](https://www.daemonology.net/hn-daily/2026-08-25.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-25](https://hacker-podcast.agi.li/episode/2026-08-25)

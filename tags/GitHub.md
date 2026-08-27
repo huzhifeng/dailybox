@@ -1,3 +1,7 @@
+## 20260827
+- [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
+
 ## 20260826
 - [GitHub Trending](https://github.com/trending?since=daily) | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
