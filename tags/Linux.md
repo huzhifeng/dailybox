@@ -1,3 +1,6 @@
+## 20260828
+- [Phoronix](https://www.phoronix.com/) | [HP Z4 G6i: A Linux-Friendly Workstation Powered By The Intel Xeon 600 Series](https://www.phoronix.com/review/hp-z4-g6i)
+
 ## 20260826
 - [Phoronix](https://www.phoronix.com/) | [LibreOffice 26.8 Released With Many Nice Improvements](https://www.phoronix.com/news/LibreOffice-26.8)
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.8 Open-Source Office Suite Officially Released, This Is What’s New](https://9to5linux.com/libreoffice-26-8-open-source-office-suite-officially-released-this-is-whats-new)
