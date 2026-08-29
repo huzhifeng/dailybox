@@ -1,3 +1,6 @@
+## 20260829
+- [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.5-RC1 Released With Several Security Fixes](https://www.phoronix.com/news/FreeBSD-14.5-RC1)
+
 ## 20260828
 - [Phoronix](https://www.phoronix.com/) | [HP Z4 G6i: A Linux-Friendly Workstation Powered By The Intel Xeon 600 Series](https://www.phoronix.com/review/hp-z4-g6i)
 

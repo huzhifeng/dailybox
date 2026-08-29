@@ -1,3 +1,6 @@
+## 20260829
+- [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
 ## 20260828
 - [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
