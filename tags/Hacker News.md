@@ -1,3 +1,9 @@
+## 20260830
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-29](https://www.daemonology.net/hn-daily/2026-08-29.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 08 30 HackerNews](https://supertechfans.com/cn/post/2026-08-30-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-30](https://hacker-podcast.agi.li/episode/2026-08-30)
+- [Hacker News](https://news.ycombinator.com/front) | [Terence Tao explains 6 essential mathematical concepts [video]](https://news.ycombinator.com/item?id=49503521)
+
 ## 20260829
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-28](https://www.daemonology.net/hn-daily/2026-08-28.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 08 30 HackerNews](https://supertechfans.com/cn/post/2026-08-30-HackerNews/)

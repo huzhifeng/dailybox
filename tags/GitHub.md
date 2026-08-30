@@ -1,3 +1,6 @@
+## 20260830
+- [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
 ## 20260829
 - [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 

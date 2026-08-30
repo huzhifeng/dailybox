@@ -1,3 +1,6 @@
+## 20260830
+- [Product Hunt](https://www.producthunt.com) | [Superagent](https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents)
+
 ## 20260829
 - [Product Hunt](https://www.producthunt.com) | [God’s Eye View](https://www.producthunt.com/products/god-s-eye-view)
 

@@ -1,3 +1,6 @@
+## 20260830
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3-rc1 With AMD Zen 6 Additions, Better Btrfs Performance & 2026 Steam Controller](https://www.phoronix.com/news/Linux-7.3-rc1-Released)
+
 ## 20260829
 - [Phoronix](https://www.phoronix.com/) | [FreeBSD 14.5-RC1 Released With Several Security Fixes](https://www.phoronix.com/news/FreeBSD-14.5-RC1)
 
