@@ -1,3 +1,10 @@
+## 20260831
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-30](https://www.daemonology.net/hn-daily/2026-08-30.html)
+- [Top Hacker News](https://www.tophn.co/) | [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 08 31 HackerNews](https://supertechfans.com/cn/post/2026-08-31-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-31](https://hacker-podcast.agi.li/episode/2026-08-31)
+- [Hacker News](https://news.ycombinator.com/front) | [A walkable ASCII cyberpunk city in one HTML file [video]](https://news.ycombinator.com/item?id=49512975)
+
 ## 20260830
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-29](https://www.daemonology.net/hn-daily/2026-08-29.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 08 30 HackerNews](https://supertechfans.com/cn/post/2026-08-30-HackerNews/)

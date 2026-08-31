@@ -1,3 +1,6 @@
+## 20260831
+- [Product Hunt](https://www.producthunt.com) | [StackScope](https://www.producthunt.com/products/stackscope-dev)
+
 ## 20260830
 - [Product Hunt](https://www.producthunt.com) | [Superagent](https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents)
 
