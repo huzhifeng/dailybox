@@ -1,3 +1,9 @@
+## 20260901
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-31](https://www.daemonology.net/hn-daily/2026-08-31.html)
+- [Top Hacker News](https://www.tophn.co/) | [Fastpotify](https://fastpotify.rocks/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-28](https://hacker-podcast.agi.li/episode/2026-08-28)
+- [Hacker News](https://news.ycombinator.com/front) | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://news.ycombinator.com/item?id=49520022)
+
 ## 20260831
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-30](https://www.daemonology.net/hn-daily/2026-08-30.html)
 - [Top Hacker News](https://www.tophn.co/) | [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)

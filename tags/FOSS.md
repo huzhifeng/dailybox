@@ -1,3 +1,6 @@
+## 20260901
+- [It's FOSS](https://itsfoss.com/) | [This Dev Spent 8 Years on Intel's Clear Linux, Now He's Undoing Its Biggest Mistake](https://feed.itsfoss.com/link/24361/17436419/the-ur-project-appears)
+
 ## 20260825
 - [It's FOSS](https://itsfoss.com/) | [This Tiny USB Device Turns Your Phone Into a Keyboard, Mouse, and SSH Terminal](https://feed.itsfoss.com/link/24361/17428059/openterface-keymod-crowdfunding-campaign)
 

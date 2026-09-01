@@ -1,3 +1,6 @@
+## 20260901
+- [Product Hunt](https://www.producthunt.com) | [Sider Code](https://www.producthunt.com/products/sider-code-customize-any-website)
+
 ## 20260831
 - [Product Hunt](https://www.producthunt.com) | [StackScope](https://www.producthunt.com/products/stackscope-dev)
 
