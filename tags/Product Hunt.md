@@ -1,3 +1,6 @@
+## 20260902
+- [Product Hunt](https://www.producthunt.com) | [CleanShot 5.0 with Studio Mode](https://www.producthunt.com/products/cleanshot)
+
 ## 20260901
 - [Product Hunt](https://www.producthunt.com) | [Sider Code](https://www.producthunt.com/products/sider-code-customize-any-website)
 

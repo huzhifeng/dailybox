@@ -1,3 +1,9 @@
+## 20260902
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-01](https://www.daemonology.net/hn-daily/2026-09-01.html)
+- [Top Hacker News](https://www.tophn.co/) | [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-01](https://hacker-podcast.agi.li/episode/2026-09-01)
+- [Hacker News](https://news.ycombinator.com/front) | [A Note from LWN](https://news.ycombinator.com/item?id=49535752)
+
 ## 20260901
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-08-31](https://www.daemonology.net/hn-daily/2026-08-31.html)
 - [Top Hacker News](https://www.tophn.co/) | [Fastpotify](https://fastpotify.rocks/)

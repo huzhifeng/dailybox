@@ -1,3 +1,6 @@
+## 20260902
+- [It's FOSS](https://itsfoss.com/) | [An Honorless Move! Ubisoft Decides Linux isn't Worth the Effort](https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support)
+
 ## 20260901
 - [It's FOSS](https://itsfoss.com/) | [This Dev Spent 8 Years on Intel's Clear Linux, Now He's Undoing Its Biggest Mistake](https://feed.itsfoss.com/link/24361/17436419/the-ur-project-appears)
 

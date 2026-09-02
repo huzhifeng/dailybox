@@ -1,3 +1,6 @@
+## 20260902
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 7.1 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 7.2](https://9to5linux.com/linux-kernel-7-1-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-7-2)
+
 ## 20260826
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.8 Open-Source Office Suite Officially Released, This Is What’s New](https://9to5linux.com/libreoffice-26-8-open-source-office-suite-officially-released-this-is-whats-new)
 

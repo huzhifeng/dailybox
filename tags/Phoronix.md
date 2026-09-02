@@ -1,3 +1,6 @@
+## 20260902
+- [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen For Linux Updated & Looking Real Good For RAID Arrays](https://www.phoronix.com/news/AVX-512-xor-gen-v5)
+
 ## 20260901
 - [Phoronix](https://www.phoronix.com/) | [Lekuo SouthBridge Max Puts An AMD B650 Chipset Onto A PCIe Card For More I/O](https://www.phoronix.com/review/lekuo-southbridge-max)
 

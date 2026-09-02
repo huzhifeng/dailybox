@@ -1,3 +1,6 @@
+## 20260902
+- [GitHub Trending](https://github.com/trending?since=daily) | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+
 ## 20260901
 - [GitHub Trending](https://github.com/trending?since=daily) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 

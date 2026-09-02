@@ -1,3 +1,7 @@
+## 20260902
+- [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen For Linux Updated & Looking Real Good For RAID Arrays](https://www.phoronix.com/news/AVX-512-xor-gen-v5)
+- [9to5Linux](https://9to5linux.com/) | [Linux Kernel 7.1 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 7.2](https://9to5linux.com/linux-kernel-7-1-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-7-2)
+
 ## 20260901
 - [Phoronix](https://www.phoronix.com/) | [Lekuo SouthBridge Max Puts An AMD B650 Chipset Onto A PCIe Card For More I/O](https://www.phoronix.com/review/lekuo-southbridge-max)
 
