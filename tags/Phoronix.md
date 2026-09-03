@@ -1,3 +1,6 @@
+## 20260903
+- [Phoronix](https://www.phoronix.com/) | [21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously](https://www.phoronix.com/news/Linux-Shutdown-Async-21)
+
 ## 20260902
 - [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen For Linux Updated & Looking Real Good For RAID Arrays](https://www.phoronix.com/news/AVX-512-xor-gen-v5)
 

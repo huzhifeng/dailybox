@@ -1,3 +1,7 @@
+## 20260903
+- [Phoronix](https://www.phoronix.com/) | [21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously](https://www.phoronix.com/news/Linux-Shutdown-Async-21)
+- [9to5Linux](https://9to5linux.com/) | [Audacity 4.0 Open-Source Audio Editor Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/audacity-4-0-open-source-audio-editor-officially-released-heres-whats-new)
+
 ## 20260902
 - [Phoronix](https://www.phoronix.com/) | [AVX-512 xor_gen For Linux Updated & Looking Real Good For RAID Arrays](https://www.phoronix.com/news/AVX-512-xor-gen-v5)
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 7.1 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 7.2](https://9to5linux.com/linux-kernel-7-1-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-7-2)

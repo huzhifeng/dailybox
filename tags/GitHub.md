@@ -1,3 +1,6 @@
+## 20260903
+- [GitHub Trending](https://github.com/trending?since=daily) | [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
 ## 20260902
 - [GitHub Trending](https://github.com/trending?since=daily) | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
 

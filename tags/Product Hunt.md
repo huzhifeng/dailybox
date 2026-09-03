@@ -1,3 +1,6 @@
+## 20260903
+- [Product Hunt](https://www.producthunt.com) | [Nex](https://www.producthunt.com/products/nex-4)
+
 ## 20260902
 - [Product Hunt](https://www.producthunt.com) | [CleanShot 5.0 with Studio Mode](https://www.producthunt.com/products/cleanshot)
 

@@ -1,3 +1,6 @@
+## 20260903
+- [LibHunt](https://www.libhunt.com/) | [apify-mcp-server](https://www.libhunt.com/r/apify-mcp-server)
+
 ## 20260901
 - [LibHunt](https://www.libhunt.com/) | [agentconnect](https://www.libhunt.com/r/agentconnect)
 

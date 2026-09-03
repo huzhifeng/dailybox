@@ -1,3 +1,9 @@
+## 20260903
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-02](https://www.daemonology.net/hn-daily/2026-09-02.html)
+- [Top Hacker News](https://www.tophn.co/) | [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-02](https://hacker-podcast.agi.li/episode/2026-09-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Audacity 4.0](https://news.ycombinator.com/item?id=49548395)
+
 ## 20260902
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-01](https://www.daemonology.net/hn-daily/2026-09-01.html)
 - [Top Hacker News](https://www.tophn.co/) | [A Note from LWN](https://lwn.net/Articles/1090585/)

@@ -1,3 +1,6 @@
+## 20260903
+- [9to5Linux](https://9to5linux.com/) | [Audacity 4.0 Open-Source Audio Editor Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/audacity-4-0-open-source-audio-editor-officially-released-heres-whats-new)
+
 ## 20260902
 - [9to5Linux](https://9to5linux.com/) | [Linux Kernel 7.1 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 7.2](https://9to5linux.com/linux-kernel-7-1-reaches-end-of-life-its-time-to-upgrade-to-linux-kernel-7-2)
 

@@ -1,3 +1,6 @@
+## 20260903
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36)
+
 ## 20260902
 - [It's FOSS](https://itsfoss.com/) | [An Honorless Move! Ubisoft Decides Linux isn't Worth the Effort](https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support)
 
