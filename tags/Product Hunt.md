@@ -1,3 +1,6 @@
+## 20260904
+- [Product Hunt](https://www.producthunt.com) | [Google Gemini 3.8 Flash and Cyber](https://www.producthunt.com/products/gemini-3-8-flash)
+
 ## 20260903
 - [Product Hunt](https://www.producthunt.com) | [Nex](https://www.producthunt.com/products/nex-4)
 

@@ -1,3 +1,7 @@
+## 20260904
+- [Phoronix](https://www.phoronix.com/) | [NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary](https://www.phoronix.com/news/NetworkManager-AI-Canary)
+- [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.6 Open-Source Office Suite Released with More Than 30 Bug Fixes](https://9to5linux.com/libreoffice-26-2-6-open-source-office-suite-released-with-more-than-30-bug-fixes)
+
 ## 20260903
 - [Phoronix](https://www.phoronix.com/) | [21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously](https://www.phoronix.com/news/Linux-Shutdown-Async-21)
 - [9to5Linux](https://9to5linux.com/) | [Audacity 4.0 Open-Source Audio Editor Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/audacity-4-0-open-source-audio-editor-officially-released-heres-whats-new)

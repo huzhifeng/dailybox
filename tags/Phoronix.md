@@ -1,3 +1,6 @@
+## 20260904
+- [Phoronix](https://www.phoronix.com/) | [NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary](https://www.phoronix.com/news/NetworkManager-AI-Canary)
+
 ## 20260903
 - [Phoronix](https://www.phoronix.com/) | [21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously](https://www.phoronix.com/news/Linux-Shutdown-Async-21)
 

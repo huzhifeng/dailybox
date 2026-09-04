@@ -1,3 +1,6 @@
+## 20260904
+- [LibHunt](https://www.libhunt.com/) | [Grafana](https://www.libhunt.com/r/grafana)
+
 ## 20260903
 - [LibHunt](https://www.libhunt.com/) | [apify-mcp-server](https://www.libhunt.com/r/apify-mcp-server)
 

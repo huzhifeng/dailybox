@@ -1,3 +1,9 @@
+## 20260904
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-03](https://www.daemonology.net/hn-daily/2026-09-03.html)
+- [Top Hacker News](https://www.tophn.co/) | [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-03](https://hacker-podcast.agi.li/episode/2026-09-03)
+- [Hacker News](https://news.ycombinator.com/front) | [Discovery of a new OpenAI agent message board](https://news.ycombinator.com/item?id=49563355)
+
 ## 20260903
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-02](https://www.daemonology.net/hn-daily/2026-09-02.html)
 - [Top Hacker News](https://www.tophn.co/) | [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
