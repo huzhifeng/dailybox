@@ -1,3 +1,6 @@
+## 20260905
+- [Product Hunt](https://www.producthunt.com) | [Ponytail](https://www.producthunt.com/products/ponytail)
+
 ## 20260904
 - [Product Hunt](https://www.producthunt.com) | [Google Gemini 3.8 Flash and Cyber](https://www.producthunt.com/products/gemini-3-8-flash)
 

@@ -1,3 +1,9 @@
+## 20260905
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-04](https://www.daemonology.net/hn-daily/2026-09-04.html)
+- [Top Hacker News](https://www.tophn.co/) | [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-04](https://hacker-podcast.agi.li/episode/2026-09-04)
+- [Hacker News](https://news.ycombinator.com/front) | [Nitter has more working instances than before the takedowns](https://news.ycombinator.com/item?id=49571634)
+
 ## 20260904
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-03](https://www.daemonology.net/hn-daily/2026-09-03.html)
 - [Top Hacker News](https://www.tophn.co/) | [Discovery of a new OpenAI agent message board](https://collusion.wiki/)

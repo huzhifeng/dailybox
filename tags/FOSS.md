@@ -1,3 +1,6 @@
+## 20260905
+- [It's FOSS](https://itsfoss.com/) | [I Tried This Rust Tool, and It Immediately Made Bash Modern](https://feed.itsfoss.com/link/24361/17440361/flyline)
+
 ## 20260903
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36)
 

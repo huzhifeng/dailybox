@@ -1,3 +1,6 @@
+## 20260905
+- [Phoronix](https://www.phoronix.com/) | [Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1](https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes)
+
 ## 20260904
 - [Phoronix](https://www.phoronix.com/) | [NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary](https://www.phoronix.com/news/NetworkManager-AI-Canary)
 

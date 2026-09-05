@@ -1,3 +1,6 @@
+## 20260905
+- [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
+
 ## 20260904
 - [GitHub Trending](https://github.com/trending?since=daily) | [fmtlib/fmt](https://github.com/fmtlib/fmt)
 

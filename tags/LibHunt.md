@@ -1,3 +1,6 @@
+## 20260905
+- [LibHunt](https://www.libhunt.com/) | [fable51-worlds](https://www.libhunt.com/r/fable51-worlds)
+
 ## 20260904
 - [LibHunt](https://www.libhunt.com/) | [Grafana](https://www.libhunt.com/r/grafana)
 
