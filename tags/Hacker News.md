@@ -1,3 +1,9 @@
+## 20260906
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-05](https://www.daemonology.net/hn-daily/2026-09-05.html)
+- [Top Hacker News](https://www.tophn.co/) | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-08-27](https://hacker-podcast.agi.li/episode/2026-08-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Isar Aerospace reaches orbit and deploys payloads on second flight](https://news.ycombinator.com/item?id=49584083)
+
 ## 20260905
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-04](https://www.daemonology.net/hn-daily/2026-09-04.html)
 - [Top Hacker News](https://www.tophn.co/) | [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)

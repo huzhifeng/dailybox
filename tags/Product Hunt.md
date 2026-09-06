@@ -1,3 +1,6 @@
+## 20260906
+- [Product Hunt](https://www.producthunt.com) | [DocsAlot Visual Editor](https://www.producthunt.com/products/docsalot-2)
+
 ## 20260905
 - [Product Hunt](https://www.producthunt.com) | [Ponytail](https://www.producthunt.com/products/ponytail)
 

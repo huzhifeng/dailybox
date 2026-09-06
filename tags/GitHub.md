@@ -1,3 +1,6 @@
+## 20260906
+- [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
+
 ## 20260905
 - [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
 

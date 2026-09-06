@@ -1,3 +1,6 @@
+## 20260906
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3-rc2 Scheduler Fix For Cache Aware Load Scheduling Misfits On Hybrid CPUs](https://www.phoronix.com/news/Linux-7.3-rc2-Scheduler-Fixes)
+
 ## 20260905
 - [Phoronix](https://www.phoronix.com/) | [Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1](https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes)
 
