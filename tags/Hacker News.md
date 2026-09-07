@@ -1,3 +1,8 @@
+## 20260907
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-06](https://www.daemonology.net/hn-daily/2026-09-06.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 09 HackerNews](https://supertechfans.com/cn/post/2026-09-09-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-08](https://hacker-podcast.agi.li/episode/2026-09-08)
+
 ## 20260906
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-05](https://www.daemonology.net/hn-daily/2026-09-05.html)
 - [Top Hacker News](https://www.tophn.co/) | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)

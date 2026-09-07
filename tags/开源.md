@@ -1,3 +1,7 @@
+## 20260907
+- [GitHub Trending](https://github.com/trending?since=daily) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)
+
 ## 20260906
 - [GitHub Trending](https://github.com/trending?since=daily) | [mattpocock/skills](https://github.com/mattpocock/skills)
 

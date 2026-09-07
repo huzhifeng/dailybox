@@ -1,3 +1,6 @@
+## 20260907
+- [Phoronix](https://www.phoronix.com/) | [Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86](https://www.phoronix.com/news/x86-CPU-With-APX-x86S)
+
 ## 20260906
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.3-rc2 Scheduler Fix For Cache Aware Load Scheduling Misfits On Hybrid CPUs](https://www.phoronix.com/news/Linux-7.3-rc2-Scheduler-Fixes)
 
