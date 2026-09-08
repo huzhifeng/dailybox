@@ -1,3 +1,10 @@
+## 20260908
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-07](https://www.daemonology.net/hn-daily/2026-09-07.html)
+- [Top Hacker News](https://www.tophn.co/) | [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 09 HackerNews](https://supertechfans.com/cn/post/2026-09-09-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-08](https://hacker-podcast.agi.li/episode/2026-09-08)
+- [Hacker News](https://news.ycombinator.com/front) | [Muse – Meta’s personal AI agent](https://news.ycombinator.com/item?id=49615537)
+
 ## 20260907
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-06](https://www.daemonology.net/hn-daily/2026-09-06.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 09 HackerNews](https://supertechfans.com/cn/post/2026-09-09-HackerNews/)

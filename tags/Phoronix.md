@@ -1,3 +1,6 @@
+## 20260908
+- [Phoronix](https://www.phoronix.com/) | [systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions](https://www.phoronix.com/news/systemd-262-rc2)
+
 ## 20260907
 - [Phoronix](https://www.phoronix.com/) | [Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86](https://www.phoronix.com/news/x86-CPU-With-APX-x86S)
 
