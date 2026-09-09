@@ -1,3 +1,9 @@
+## 20260909
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-08](https://www.daemonology.net/hn-daily/2026-09-08.html)
+- [Top Hacker News](https://www.tophn.co/) | [I Resigned from Anthropic Today](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-07](https://hacker-podcast.agi.li/episode/2026-09-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Tailwind Labs is joining Shopify](https://news.ycombinator.com/item?id=49626190)
+
 ## 20260908
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-07](https://www.daemonology.net/hn-daily/2026-09-07.html)
 - [Top Hacker News](https://www.tophn.co/) | [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)

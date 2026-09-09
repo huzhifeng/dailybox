@@ -1,3 +1,6 @@
+## 20260909
+- [LibHunt](https://www.libhunt.com/) | [NavierStokesAndEuler](https://www.libhunt.com/r/NavierStokesAndEuler)
+
 ## 20260905
 - [LibHunt](https://www.libhunt.com/) | [fable51-worlds](https://www.libhunt.com/r/fable51-worlds)
 

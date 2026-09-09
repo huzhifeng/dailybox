@@ -1,3 +1,6 @@
+## 20260909
+- [It's FOSS](https://itsfoss.com/) | [Privacy Notes: Markdown Editor With Built-in Encrypted Vault](https://feed.itsfoss.com/link/24361/17443408/privacy-notes)
+
 ## 20260905
 - [It's FOSS](https://itsfoss.com/) | [I Tried This Rust Tool, and It Immediately Made Bash Modern](https://feed.itsfoss.com/link/24361/17440361/flyline)
 

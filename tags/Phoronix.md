@@ -1,3 +1,6 @@
+## 20260909
+- [Phoronix](https://www.phoronix.com/) | [System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics](https://www.phoronix.com/news/System76-Thelio-Mira-AI)
+
 ## 20260908
 - [Phoronix](https://www.phoronix.com/) | [systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions](https://www.phoronix.com/news/systemd-262-rc2)
 

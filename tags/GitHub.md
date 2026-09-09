@@ -1,3 +1,6 @@
+## 20260909
+- [GitHub Trending](https://github.com/trending?since=daily) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
 ## 20260908
 - [GitHub Trending](https://github.com/trending?since=daily) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)
