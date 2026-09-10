@@ -1,3 +1,9 @@
+## 20260910
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-09](https://www.daemonology.net/hn-daily/2026-09-09.html)
+- [Top Hacker News](https://www.tophn.co/) | [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-09](https://hacker-podcast.agi.li/episode/2026-09-09)
+- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek v4.1 Flash](https://news.ycombinator.com/item?id=49639090)
+
 ## 20260909
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-08](https://www.daemonology.net/hn-daily/2026-09-08.html)
 - [Top Hacker News](https://www.tophn.co/) | [I Resigned from Anthropic Today](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)

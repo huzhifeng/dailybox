@@ -1,3 +1,6 @@
+## 20260910
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.4.3 Linux Graphical Installer Improves Disk Partitioning, Locale](https://9to5linux.com/calamares-3-4-3-linux-graphical-installer-improves-disk-partitioning-locale)
+
 ## 20260904
 - [9to5Linux](https://9to5linux.com/) | [LibreOffice 26.2.6 Open-Source Office Suite Released with More Than 30 Bug Fixes](https://9to5linux.com/libreoffice-26-2-6-open-source-office-suite-released-with-more-than-30-bug-fixes)
 

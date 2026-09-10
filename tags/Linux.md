@@ -1,3 +1,7 @@
+## 20260910
+- [Phoronix](https://www.phoronix.com/) | [Intel BFF Driver Slated For Linux 7.4 Introduction](https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4)
+- [9to5Linux](https://9to5linux.com/) | [Calamares 3.4.3 Linux Graphical Installer Improves Disk Partitioning, Locale](https://9to5linux.com/calamares-3-4-3-linux-graphical-installer-improves-disk-partitioning-locale)
+
 ## 20260909
 - [Phoronix](https://www.phoronix.com/) | [System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics](https://www.phoronix.com/news/System76-Thelio-Mira-AI)
 

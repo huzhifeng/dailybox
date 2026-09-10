@@ -1,3 +1,6 @@
+## 20260910
+- [Product Hunt](https://www.producthunt.com) | [Suno v6](https://www.producthunt.com/products/suno)
+
 ## 20260909
 - [Product Hunt](https://www.producthunt.com) | [ChatGPT Images 2.5](https://www.producthunt.com/products/openai)
 
