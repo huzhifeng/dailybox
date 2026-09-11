@@ -1,3 +1,6 @@
+## 20260911
+- [Product Hunt](https://www.producthunt.com) | [Cline Desktop App](https://www.producthunt.com/products/cline-4)
+
 ## 20260910
 - [Product Hunt](https://www.producthunt.com) | [Suno v6](https://www.producthunt.com/products/suno)
 

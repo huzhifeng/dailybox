@@ -1,3 +1,6 @@
+## 20260911
+- [It's FOSS](https://itsfoss.com/) | [Bottles' Founder Has Managed to Run Microsoft 365 on Linux](https://feed.itsfoss.com/link/24361/17445336/bottles-microsoft-365-early-look)
+
 ## 20260910
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More](https://feed.itsfoss.com/link/24361/17444269/foss-weekly-26-37)
 

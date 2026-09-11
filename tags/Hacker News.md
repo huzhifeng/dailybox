@@ -1,3 +1,9 @@
+## 20260911
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-10](https://www.daemonology.net/hn-daily/2026-09-10.html)
+- [Top Hacker News](https://www.tophn.co/) | [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-10](https://hacker-podcast.agi.li/episode/2026-09-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+
 ## 20260910
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-09](https://www.daemonology.net/hn-daily/2026-09-09.html)
 - [Top Hacker News](https://www.tophn.co/) | [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)

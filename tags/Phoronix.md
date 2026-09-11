@@ -1,3 +1,6 @@
+## 20260911
+- [Phoronix](https://www.phoronix.com/) | [Mold High Speed Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux](https://www.phoronix.com/news/Mold-Linker-In-Rust-Coming)
+
 ## 20260910
 - [Phoronix](https://www.phoronix.com/) | [Intel BFF Driver Slated For Linux 7.4 Introduction](https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4)
 

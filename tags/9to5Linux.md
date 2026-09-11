@@ -1,3 +1,6 @@
+## 20260911
+- [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 24 Installer with Networking and Storage Improvements](https://9to5linux.com/opensuse-releases-agama-24-installer-with-networking-and-storage-improvements)
+
 ## 20260910
 - [9to5Linux](https://9to5linux.com/) | [Calamares 3.4.3 Linux Graphical Installer Improves Disk Partitioning, Locale](https://9to5linux.com/calamares-3-4-3-linux-graphical-installer-improves-disk-partitioning-locale)
 
