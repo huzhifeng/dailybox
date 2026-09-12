@@ -1,3 +1,9 @@
+## 20260912
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-11](https://www.daemonology.net/hn-daily/2026-09-11.html)
+- [Top Hacker News](https://www.tophn.co/) | [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-06](https://hacker-podcast.agi.li/episode/2026-09-06)
+- [Hacker News](https://news.ycombinator.com/front) | [google.com/goto: Google's anti-scraping update](https://news.ycombinator.com/item?id=49668386)
+
 ## 20260911
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-10](https://www.daemonology.net/hn-daily/2026-09-10.html)
 - [Top Hacker News](https://www.tophn.co/) | [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)

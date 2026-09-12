@@ -1,3 +1,6 @@
+## 20260912
+- [It's FOSS](https://itsfoss.com/) | [This Tiny Fingerprint Key Unlocks Linux, Approves SSH and AI Agents](https://feed.itsfoss.com/link/24361/17446441/immurok-review)
+
 ## 20260911
 - [It's FOSS](https://itsfoss.com/) | [Bottles' Founder Has Managed to Run Microsoft 365 on Linux](https://feed.itsfoss.com/link/24361/17445336/bottles-microsoft-365-early-look)
 

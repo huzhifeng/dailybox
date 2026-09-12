@@ -1,3 +1,6 @@
+## 20260912
+- [LibHunt](https://www.libhunt.com/) | [hn-without-ai](https://www.libhunt.com/r/hn-without-ai)
+
 ## 20260911
 - [LibHunt](https://www.libhunt.com/) | [PostgreSQL](https://www.libhunt.com/r/postgres)
 

@@ -1,3 +1,6 @@
+## 20260912
+- [Phoronix](https://www.phoronix.com/) | [Intel Reverses Decision To Cancel Their Open-Source Font Project](https://www.phoronix.com/news/Intel-One-Mono-Saved)
+
 ## 20260911
 - [Phoronix](https://www.phoronix.com/) | [Mold High Speed Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux](https://www.phoronix.com/news/Mold-Linker-In-Rust-Coming)
 

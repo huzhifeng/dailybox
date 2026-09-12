@@ -1,3 +1,6 @@
+## 20260912
+- [Product Hunt](https://www.producthunt.com) | [QApilot MCP for Android](https://www.producthunt.com/products/qapilot)
+
 ## 20260911
 - [Product Hunt](https://www.producthunt.com) | [Cline Desktop App](https://www.producthunt.com/products/cline-4)
 

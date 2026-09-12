@@ -1,3 +1,6 @@
+## 20260912
+- [GitHub Trending](https://github.com/trending?since=daily) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
 ## 20260911
 - [GitHub Trending](https://github.com/trending?since=daily) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
