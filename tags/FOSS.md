@@ -1,3 +1,6 @@
+## 20260913
+- [It's FOSS](https://itsfoss.com/) | [MAKERphone 2.0 Lets You Build a 4G Phone and Vibe-Code Its Apps](https://feed.itsfoss.com/link/24361/17460718/makerphone-2-annoucement)
+
 ## 20260912
 - [It's FOSS](https://itsfoss.com/) | [This Tiny Fingerprint Key Unlocks Linux, Approves SSH and AI Agents](https://feed.itsfoss.com/link/24361/17446441/immurok-review)
 

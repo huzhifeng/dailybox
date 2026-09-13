@@ -1,3 +1,6 @@
+## 20260913
+- [9to5Linux](https://9to5linux.com/) | [Shotwell 0.33 Open-Source Image Viewer for GNOME Is Here with GTK4 Port](https://9to5linux.com/shotwell-0-33-open-source-image-viewer-for-gnome-is-here-with-gtk4-port)
+
 ## 20260911
 - [9to5Linux](https://9to5linux.com/) | [openSUSE Releases Agama 24 Installer with Networking and Storage Improvements](https://9to5linux.com/opensuse-releases-agama-24-installer-with-networking-and-storage-improvements)
 

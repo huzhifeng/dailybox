@@ -1,3 +1,9 @@
+## 20260913
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-12](https://www.daemonology.net/hn-daily/2026-09-12.html)
+- [Top Hacker News](https://www.tophn.co/) | [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-11](https://hacker-podcast.agi.li/episode/2026-09-11)
+- [Hacker News](https://news.ycombinator.com/front) | [JetKVM Mini](https://news.ycombinator.com/item?id=49681152)
+
 ## 20260912
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-11](https://www.daemonology.net/hn-daily/2026-09-11.html)
 - [Top Hacker News](https://www.tophn.co/) | [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)

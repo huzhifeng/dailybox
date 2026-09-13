@@ -1,3 +1,6 @@
+## 20260913
+- [Product Hunt](https://www.producthunt.com) | [Clipwise ](https://www.producthunt.com/products/clipwise-notion-web-clipper)
+
 ## 20260912
 - [Product Hunt](https://www.producthunt.com) | [QApilot MCP for Android](https://www.producthunt.com/products/qapilot)
 

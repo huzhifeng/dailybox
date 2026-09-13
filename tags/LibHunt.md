@@ -1,3 +1,6 @@
+## 20260913
+- [LibHunt](https://www.libhunt.com/) | [schemagate](https://www.libhunt.com/r/schemagate)
+
 ## 20260912
 - [LibHunt](https://www.libhunt.com/) | [hn-without-ai](https://www.libhunt.com/r/hn-without-ai)
 

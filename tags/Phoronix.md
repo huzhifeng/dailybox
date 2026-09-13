@@ -1,3 +1,6 @@
+## 20260913
+- [Phoronix](https://www.phoronix.com/) | [Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization](https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant)
+
 ## 20260912
 - [Phoronix](https://www.phoronix.com/) | [Intel Reverses Decision To Cancel Their Open-Source Font Project](https://www.phoronix.com/news/Intel-One-Mono-Saved)
 
