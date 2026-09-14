@@ -1,3 +1,6 @@
+## 20260914
+- [Product Hunt](https://www.producthunt.com) | [appdesigns](https://www.producthunt.com/products/appdesigns)
+
 ## 20260913
 - [Product Hunt](https://www.producthunt.com) | [Clipwise ](https://www.producthunt.com/products/clipwise-notion-web-clipper)
 
