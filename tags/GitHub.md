@@ -1,3 +1,6 @@
+## 20260915
+- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
 ## 20260914
 - [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 

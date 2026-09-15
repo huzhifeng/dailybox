@@ -1,3 +1,6 @@
+## 20260915
+- [Phoronix](https://www.phoronix.com/) | [AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs](https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6)
+
 ## 20260913
 - [Phoronix](https://www.phoronix.com/) | [Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization](https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant)
 

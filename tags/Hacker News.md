@@ -1,3 +1,9 @@
+## 20260915
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-14](https://www.daemonology.net/hn-daily/2026-09-14.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 17 HackerNews](https://supertechfans.com/cn/post/2026-09-17-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-16](https://hacker-podcast.agi.li/episode/2026-09-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://news.ycombinator.com/item?id=49715813)
+
 ## 20260914
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-13](https://www.daemonology.net/hn-daily/2026-09-13.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 18 HackerNews](https://supertechfans.com/cn/post/2026-09-18-HackerNews/)

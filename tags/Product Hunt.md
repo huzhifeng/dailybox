@@ -1,3 +1,6 @@
+## 20260915
+- [Product Hunt](https://www.producthunt.com) | [Thoughts for Mac](https://www.producthunt.com/products/thoughts-for-mac)
+
 ## 20260914
 - [Product Hunt](https://www.producthunt.com) | [appdesigns](https://www.producthunt.com/products/appdesigns)
 

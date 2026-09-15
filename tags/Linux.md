@@ -1,3 +1,6 @@
+## 20260915
+- [Phoronix](https://www.phoronix.com/) | [AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs](https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6)
+
 ## 20260913
 - [Phoronix](https://www.phoronix.com/) | [Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization](https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant)
 - [9to5Linux](https://9to5linux.com/) | [Shotwell 0.33 Open-Source Image Viewer for GNOME Is Here with GTK4 Port](https://9to5linux.com/shotwell-0-33-open-source-image-viewer-for-gnome-is-here-with-gtk4-port)
