@@ -1,3 +1,7 @@
+## 20260916
+- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+
 ## 20260915
 - [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 

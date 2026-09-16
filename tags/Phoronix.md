@@ -1,3 +1,6 @@
+## 20260916
+- [Phoronix](https://www.phoronix.com/) | [Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes](https://www.phoronix.com/news/Mesa-26.2.3-Released)
+
 ## 20260915
 - [Phoronix](https://www.phoronix.com/) | [AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs](https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6)
 
