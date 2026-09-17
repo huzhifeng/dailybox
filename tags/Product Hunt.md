@@ -1,3 +1,6 @@
+## 20260917
+- [Product Hunt](https://www.producthunt.com) | [Figo](https://www.producthunt.com/products/figo-3)
+
 ## 20260916
 - [Product Hunt](https://www.producthunt.com) | [Jottoo](https://www.producthunt.com/products/jottoo)
 

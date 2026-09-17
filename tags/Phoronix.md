@@ -1,3 +1,6 @@
+## 20260917
+- [Phoronix](https://www.phoronix.com/) | [Jemalloc 5.4 Released With Portability Improvements, Code Cleanups](https://www.phoronix.com/news/Jemalloc-5.4)
+
 ## 20260916
 - [Phoronix](https://www.phoronix.com/) | [Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes](https://www.phoronix.com/news/Mesa-26.2.3-Released)
 
