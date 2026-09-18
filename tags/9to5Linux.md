@@ -1,3 +1,6 @@
+## 20260918
+- [9to5Linux](https://9to5linux.com/) | [Calibre 9.15 E-Book Manager Introduces &#8220;Create Your Own Adventure&#8221; Writing Game](https://9to5linux.com/calibre-9-15-e-book-manager-introduces-create-your-own-adventure-writing-game)
+
 ## 20260913
 - [9to5Linux](https://9to5linux.com/) | [Shotwell 0.33 Open-Source Image Viewer for GNOME Is Here with GTK4 Port](https://9to5linux.com/shotwell-0-33-open-source-image-viewer-for-gnome-is-here-with-gtk4-port)
 

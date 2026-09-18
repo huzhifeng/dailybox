@@ -1,3 +1,6 @@
+## 20260918
+- [LibHunt](https://www.libhunt.com/) | [jemalloc](https://www.libhunt.com/r/jemalloc)
+
 ## 20260913
 - [LibHunt](https://www.libhunt.com/) | [schemagate](https://www.libhunt.com/r/schemagate)
 

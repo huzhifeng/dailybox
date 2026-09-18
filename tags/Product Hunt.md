@@ -1,3 +1,6 @@
+## 20260918
+- [Product Hunt](https://www.producthunt.com) | [Nepotism Network](https://www.producthunt.com/products/nepo-network)
+
 ## 20260917
 - [Product Hunt](https://www.producthunt.com) | [Figo](https://www.producthunt.com/products/figo-3)
 

@@ -1,3 +1,6 @@
+## 20260918
+- [It's FOSS](https://itsfoss.com/) | [GrapheneOS Isn't Happy With Google Over Pixel's Widening Head Start](https://feed.itsfoss.com/link/24361/17466072/grapheneos-android-17-qpr1-fiasco)
+
 ## 20260913
 - [It's FOSS](https://itsfoss.com/) | [MAKERphone 2.0 Lets You Build a 4G Phone and Vibe-Code Its Apps](https://feed.itsfoss.com/link/24361/17460718/makerphone-2-annoucement)
 

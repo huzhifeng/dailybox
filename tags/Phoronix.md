@@ -1,3 +1,6 @@
+## 20260918
+- [Phoronix](https://www.phoronix.com/) | [AMD Strix Halo Enjoys Some Performance Gains On Ubuntu 26.10, Especially With amd64v3](https://www.phoronix.com/review/ubuntu-2610-strix-halo)
+
 ## 20260917
 - [Phoronix](https://www.phoronix.com/) | [Jemalloc 5.4 Released With Portability Improvements, Code Cleanups](https://www.phoronix.com/news/Jemalloc-5.4)
 
