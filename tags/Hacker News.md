@@ -1,3 +1,9 @@
+## 20260919
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-18](https://www.daemonology.net/hn-daily/2026-09-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [AI posters don't have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-14](https://hacker-podcast.agi.li/episode/2026-09-14)
+- [Hacker News](https://news.ycombinator.com/front) | [Laya the open source version of Jev](https://news.ycombinator.com/item?id=49765348)
+
 ## 20260918
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-17](https://www.daemonology.net/hn-daily/2026-09-17.html)
 - [Top Hacker News](https://www.tophn.co/) | [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)

@@ -1,3 +1,6 @@
+## 20260919
+- [Phoronix](https://www.phoronix.com/) | [Wine-Staging 11.18 Adds New Patches To Further Improve WoW64](https://www.phoronix.com/news/Wine-Staging-11.18)
+
 ## 20260918
 - [Phoronix](https://www.phoronix.com/) | [AMD Strix Halo Enjoys Some Performance Gains On Ubuntu 26.10, Especially With amd64v3](https://www.phoronix.com/review/ubuntu-2610-strix-halo)
 
