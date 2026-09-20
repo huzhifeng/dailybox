@@ -1,3 +1,7 @@
+## 20260920
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-19](https://www.daemonology.net/hn-daily/2026-09-19.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-19](https://hacker-podcast.agi.li/episode/2026-09-19)
+
 ## 20260919
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-18](https://www.daemonology.net/hn-daily/2026-09-18.html)
 - [Top Hacker News](https://www.tophn.co/) | [AI posters don't have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)

@@ -1,3 +1,6 @@
+## 20260920
+- [Phoronix](https://www.phoronix.com/) | [Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception](https://www.phoronix.com/news/Gzip-1.15-Released)
+
 ## 20260919
 - [Phoronix](https://www.phoronix.com/) | [Wine-Staging 11.18 Adds New Patches To Further Improve WoW64](https://www.phoronix.com/news/Wine-Staging-11.18)
 
