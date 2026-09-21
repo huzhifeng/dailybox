@@ -1,3 +1,6 @@
+## 20260921
+- [Phoronix](https://www.phoronix.com/) | [AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7](https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7)
+
 ## 20260920
 - [Phoronix](https://www.phoronix.com/) | [Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception](https://www.phoronix.com/news/Gzip-1.15-Released)
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.3.3-37 Disk Imaging Tool Released with Linux Kernel 7.1](https://9to5linux.com/clonezilla-live-3-3-3-37-disk-imaging-tool-released-with-linux-kernel-7-1)

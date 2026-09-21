@@ -1,3 +1,7 @@
+## 20260921
+- [GitHub Trending](https://github.com/trending?since=daily) | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)
+
 ## 20260920
 - [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 

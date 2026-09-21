@@ -1,3 +1,6 @@
+## 20260921
+- [Phoronix](https://www.phoronix.com/) | [AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7](https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7)
+
 ## 20260920
 - [Phoronix](https://www.phoronix.com/) | [Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception](https://www.phoronix.com/news/Gzip-1.15-Released)
 
