@@ -1,3 +1,10 @@
+## 20260922
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-21](https://www.daemonology.net/hn-daily/2026-09-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 23 HackerNews](https://supertechfans.com/cn/post/2026-09-23-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-21](https://hacker-podcast.agi.li/episode/2026-09-21)
+- [Hacker News](https://news.ycombinator.com/front) | [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://news.ycombinator.com/item?id=49806430)
+
 ## 20260921
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-20](https://www.daemonology.net/hn-daily/2026-09-20.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 23 HackerNews](https://supertechfans.com/cn/post/2026-09-23-HackerNews/)

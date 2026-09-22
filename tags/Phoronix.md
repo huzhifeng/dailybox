@@ -1,3 +1,6 @@
+## 20260922
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo](https://www.phoronix.com/news/Linux-7.3-Strix-Halo)
+
 ## 20260921
 - [Phoronix](https://www.phoronix.com/) | [AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7](https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7)
 
