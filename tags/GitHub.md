@@ -1,3 +1,6 @@
+## 20260923
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
 ## 20260922
 - [GitHub Trending](https://github.com/trending?since=daily) | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
 

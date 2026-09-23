@@ -1,3 +1,9 @@
+## 20260923
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-22](https://www.daemonology.net/hn-daily/2026-09-22.html)
+- [Top Hacker News](https://www.tophn.co/) | [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-22](https://hacker-podcast.agi.li/episode/2026-09-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude Code reads AGENTS.md only when telemetry is on [fixed]](https://news.ycombinator.com/item?id=49814947)
+
 ## 20260922
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-21](https://www.daemonology.net/hn-daily/2026-09-21.html)
 - [Top Hacker News](https://www.tophn.co/) | [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)

@@ -1,3 +1,6 @@
+## 20260923
+- [LibHunt](https://www.libhunt.com/) | [rpi-eeprom](https://www.libhunt.com/r/rpi-eeprom)
+
 ## 20260918
 - [LibHunt](https://www.libhunt.com/) | [jemalloc](https://www.libhunt.com/r/jemalloc)
 

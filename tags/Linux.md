@@ -1,3 +1,6 @@
+## 20260923
+- [Phoronix](https://www.phoronix.com/) | [Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics](https://www.phoronix.com/news/DXVK-IGDEXT)
+
 ## 20260922
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo](https://www.phoronix.com/news/Linux-7.3-Strix-Halo)
 

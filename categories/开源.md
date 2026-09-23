@@ -1,3 +1,6 @@
+## 20260923
+- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #3: The Token Rug Pull](https://feed.itsfoss.com/link/24361/17471237/local-ai-weekly-3)
+
 ## 20260918
 - [It's FOSS](https://itsfoss.com/) | [GrapheneOS Isn't Happy With Google Over Pixel's Widening Head Start](https://feed.itsfoss.com/link/24361/17466072/grapheneos-android-17-qpr1-fiasco)
 

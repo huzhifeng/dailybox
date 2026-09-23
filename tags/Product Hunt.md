@@ -1,3 +1,6 @@
+## 20260923
+- [Product Hunt](https://www.producthunt.com) | [AgentScore ](https://www.producthunt.com/products/latitude-4)
+
 ## 20260922
 - [Product Hunt](https://www.producthunt.com) | [PixelCrew](https://www.producthunt.com/products/pixelcrew)
 
