@@ -1,3 +1,6 @@
+## 20260924
+- [LibHunt](https://www.libhunt.com/) | [apowerb](https://www.libhunt.com/r/apowerb)
+
 ## 20260923
 - [LibHunt](https://www.libhunt.com/) | [rpi-eeprom](https://www.libhunt.com/r/rpi-eeprom)
 

@@ -1,3 +1,6 @@
+## 20260924
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
 ## 20260923
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/financial-services](https://github.com/anthropics/financial-services)
 

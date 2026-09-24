@@ -1,3 +1,9 @@
+## 20260924
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-23](https://www.daemonology.net/hn-daily/2026-09-23.html)
+- [Top Hacker News](https://www.tophn.co/) | [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-23](https://hacker-podcast.agi.li/episode/2026-09-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://news.ycombinator.com/item?id=49827794)
+
 ## 20260923
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-22](https://www.daemonology.net/hn-daily/2026-09-22.html)
 - [Top Hacker News](https://www.tophn.co/) | [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)

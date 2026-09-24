@@ -1,3 +1,6 @@
+## 20260924
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39)
+
 ## 20260923
 - [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #3: The Token Rug Pull](https://feed.itsfoss.com/link/24361/17471237/local-ai-weekly-3)
 

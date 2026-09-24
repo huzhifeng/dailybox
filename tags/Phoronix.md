@@ -1,3 +1,6 @@
+## 20260924
+- [Phoronix](https://www.phoronix.com/) | [Fedora Discussion Raises The Idea Of Replacing LibreOffice With Collabora Office](https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office)
+
 ## 20260923
 - [Phoronix](https://www.phoronix.com/) | [Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics](https://www.phoronix.com/news/DXVK-IGDEXT)
 
