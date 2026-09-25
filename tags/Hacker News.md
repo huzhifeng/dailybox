@@ -1,3 +1,9 @@
+## 20260925
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-24](https://www.daemonology.net/hn-daily/2026-09-24.html)
+- [Top Hacker News](https://www.tophn.co/) | [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-24](https://hacker-podcast.agi.li/episode/2026-09-24)
+- [Hacker News](https://news.ycombinator.com/front) | [Dutch governments builds alternative for Microsoft based on NixOS](https://news.ycombinator.com/item?id=49841563)
+
 ## 20260924
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-23](https://www.daemonology.net/hn-daily/2026-09-23.html)
 - [Top Hacker News](https://www.tophn.co/) | [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)

@@ -1,3 +1,6 @@
+## 20260925
+- [Phoronix](https://www.phoronix.com/) | [Approaching A 10 Second Linux Kernel Build](https://www.phoronix.com/review/near-10-sec-kernel-build)
+
 ## 20260924
 - [Phoronix](https://www.phoronix.com/) | [Fedora Discussion Raises The Idea Of Replacing LibreOffice With Collabora Office](https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office)
 

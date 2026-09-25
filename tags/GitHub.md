@@ -1,3 +1,6 @@
+## 20260925
+- [GitHub Trending](https://github.com/trending?since=daily) | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
 ## 20260924
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/financial-services](https://github.com/anthropics/financial-services)
 

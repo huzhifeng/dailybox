@@ -1,3 +1,6 @@
+## 20260925
+- [LibHunt](https://www.libhunt.com/) | [dotguard](https://www.libhunt.com/r/dotguard)
+
 ## 20260924
 - [LibHunt](https://www.libhunt.com/) | [apowerb](https://www.libhunt.com/r/apowerb)
 
