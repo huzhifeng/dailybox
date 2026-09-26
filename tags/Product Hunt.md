@@ -1,3 +1,6 @@
+## 20260926
+- [Product Hunt](https://www.producthunt.com) | [Chit](https://www.producthunt.com/products/chit-2)
+
 ## 20260925
 - [Product Hunt](https://www.producthunt.com) | [Bleetz Network](https://www.producthunt.com/products/bleetz-network)
 

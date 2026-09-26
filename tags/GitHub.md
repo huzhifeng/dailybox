@@ -1,3 +1,6 @@
+## 20260926
+- [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
 ## 20260925
 - [GitHub Trending](https://github.com/trending?since=daily) | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 

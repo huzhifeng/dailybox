@@ -1,3 +1,6 @@
+## 20260926
+- [LibHunt](https://www.libhunt.com/) | [gigwatch](https://www.libhunt.com/r/gigwatch)
+
 ## 20260925
 - [LibHunt](https://www.libhunt.com/) | [dotguard](https://www.libhunt.com/r/dotguard)
 

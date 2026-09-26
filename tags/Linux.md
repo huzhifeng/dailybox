@@ -1,3 +1,6 @@
+## 20260926
+- [Phoronix](https://www.phoronix.com/) | [AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM](https://www.phoronix.com/news/Linux-7.3-rc5-DRM)
+
 ## 20260925
 - [Phoronix](https://www.phoronix.com/) | [Approaching A 10 Second Linux Kernel Build](https://www.phoronix.com/review/near-10-sec-kernel-build)
 

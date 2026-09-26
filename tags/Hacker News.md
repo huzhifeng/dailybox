@@ -1,3 +1,9 @@
+## 20260926
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-25](https://www.daemonology.net/hn-daily/2026-09-25.html)
+- [Top Hacker News](https://www.tophn.co/) | [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-25](https://hacker-podcast.agi.li/episode/2026-09-25)
+- [Hacker News](https://news.ycombinator.com/front) | [Breaking Up with Google Play: Why Conversations Is Now Free](https://news.ycombinator.com/item?id=49855315)
+
 ## 20260925
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-24](https://www.daemonology.net/hn-daily/2026-09-24.html)
 - [Top Hacker News](https://www.tophn.co/) | [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
