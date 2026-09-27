@@ -1,3 +1,6 @@
+## 20260927
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness](https://www.phoronix.com/news/Linux-LZ4-Clean-Resync)
+
 ## 20260926
 - [Phoronix](https://www.phoronix.com/) | [AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM](https://www.phoronix.com/news/Linux-7.3-rc5-DRM)
 

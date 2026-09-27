@@ -1,3 +1,6 @@
+## 20260927
+- [It's FOSS](https://itsfoss.com/) | [AlmaLinux Puts Software Certification in the Hands of Users](https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched)
+
 ## 20260925
 - [It's FOSS](https://itsfoss.com/) | [The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC](https://feed.itsfoss.com/link/24361/17473313/netherlands-dawo-initiative)
 

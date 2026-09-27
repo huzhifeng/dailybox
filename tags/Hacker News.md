@@ -1,3 +1,9 @@
+## 20260927
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-26](https://www.daemonology.net/hn-daily/2026-09-26.html)
+- [Top Hacker News](https://www.tophn.co/) | [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-26](https://hacker-podcast.agi.li/episode/2026-09-26)
+- [Hacker News](https://news.ycombinator.com/front) | [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://news.ycombinator.com/item?id=49864642)
+
 ## 20260926
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-25](https://www.daemonology.net/hn-daily/2026-09-25.html)
 - [Top Hacker News](https://www.tophn.co/) | [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)

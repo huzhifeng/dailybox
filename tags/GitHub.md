@@ -1,3 +1,6 @@
+## 20260927
+- [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
 ## 20260926
 - [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
