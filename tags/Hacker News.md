@@ -1,3 +1,10 @@
+## 20260928
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-27](https://www.daemonology.net/hn-daily/2026-09-27.html)
+- [Top Hacker News](https://www.tophn.co/) | [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026 09 29 HackerNews](https://supertechfans.com/cn/post/2026-09-29-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-09-27](https://hacker-podcast.agi.li/episode/2026-09-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://news.ycombinator.com/item?id=49883844)
+
 ## 20260927
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-26](https://www.daemonology.net/hn-daily/2026-09-26.html)
 - [Top Hacker News](https://www.tophn.co/) | [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)

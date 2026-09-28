@@ -1,3 +1,6 @@
+## 20260928
+- [Product Hunt](https://www.producthunt.com) | [GenCode](https://www.producthunt.com/products/genspark)
+
 ## 20260927
 - [Product Hunt](https://www.producthunt.com) | [Cuey](https://www.producthunt.com/products/cuey-2)
 

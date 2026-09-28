@@ -1,3 +1,7 @@
+## 20260928
+- [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
+
 ## 20260927
 - [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 

@@ -1,3 +1,6 @@
+## 20260928
+- [Phoronix](https://www.phoronix.com/) | [NVIDIA Developing "Display Config Server" To Improve Linux/Wayland On Display Walls](https://www.phoronix.com/news/NVIDIA-Display-Config-Server)
+
 ## 20260927
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness](https://www.phoronix.com/news/Linux-LZ4-Clean-Resync)
 
