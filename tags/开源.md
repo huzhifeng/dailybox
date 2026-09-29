@@ -1,3 +1,6 @@
+## 20260930
+- [GitHub Trending](https://github.com/trending?since=daily) | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
 ## 20260928
 - [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
