@@ -1,3 +1,7 @@
+## 20260929
+- [GitHub Trending](https://github.com/trending?since=daily) | [tester-army/e2e](https://github.com/tester-army/e2e)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
+
 ## 20260928
 - [GitHub Trending](https://github.com/trending?since=daily) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
