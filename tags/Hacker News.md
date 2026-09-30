@@ -1,3 +1,8 @@
+## 20260930
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-29](https://www.daemonology.net/hn-daily/2026-09-29.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-05 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-05-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-04](https://hacker-podcast.agi.li/episode/2026-10-04)
+
 ## 20260929
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-09-28](https://www.daemonology.net/hn-daily/2026-09-28.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-06-HackerNews/)

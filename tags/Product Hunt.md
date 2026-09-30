@@ -1,3 +1,6 @@
+## 20260930
+- [Product Hunt](https://www.producthunt.com) | [Aktar](https://www.producthunt.com/products/aktar)
+
 ## 20260929
 - [Product Hunt](https://www.producthunt.com) | [Timeless Code](https://www.producthunt.com/products/timeos)
 
