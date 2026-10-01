@@ -1,3 +1,6 @@
+## 20261002
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+
 ## 20261001
 - [GitHub Trending](https://github.com/trending?since=daily) | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
