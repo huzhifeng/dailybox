@@ -1,3 +1,6 @@
+## 20261001
+- [Phoronix](https://www.phoronix.com/) | [Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks](https://www.phoronix.com/review/fedora-45-beta-benchmarks)
+
 ## 20260928
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Developing "Display Config Server" To Improve Linux/Wayland On Display Walls](https://www.phoronix.com/news/NVIDIA-Display-Config-Server)
 

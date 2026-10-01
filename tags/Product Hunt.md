@@ -1,3 +1,6 @@
+## 20261001
+- [Product Hunt](https://www.producthunt.com) | [Bracket](https://www.producthunt.com/products/bracket-2027)
+
 ## 20260930
 - [Product Hunt](https://www.producthunt.com) | [Aktar](https://www.producthunt.com/products/aktar)
 
