@@ -1,3 +1,6 @@
+## 20261002
+- [Product Hunt](https://www.producthunt.com) | [Wu](https://www.producthunt.com/products/wu)
+
 ## 20261001
 - [Product Hunt](https://www.producthunt.com) | [Bracket](https://www.producthunt.com/products/bracket-2027)
 

@@ -1,3 +1,6 @@
+## 20261002
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo](https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees)
+
 ## 20261001
 - [Phoronix](https://www.phoronix.com/) | [Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks](https://www.phoronix.com/review/fedora-45-beta-benchmarks)
 
