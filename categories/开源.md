@@ -1,3 +1,6 @@
+## 20261003
+- [It's FOSS](https://itsfoss.com/) | [We View Consumer Data as Toxic Waste](https://feed.itsfoss.com/link/24361/17484548/obscura-carl-dong)
+
 ## 20260927
 - [It's FOSS](https://itsfoss.com/) | [AlmaLinux Puts Software Certification in the Hands of Users](https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched)
 

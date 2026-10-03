@@ -1,3 +1,6 @@
+## 20261003
+- [Product Hunt](https://www.producthunt.com) | [Prefer](https://www.producthunt.com/products/prefer-2)
+
 ## 20260928
 - [Product Hunt](https://www.producthunt.com) | [GenCode](https://www.producthunt.com/products/genspark)
 

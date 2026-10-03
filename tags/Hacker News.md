@@ -1,4 +1,10 @@
 ## 20261003
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-02](https://www.daemonology.net/hn-daily/2026-10-02.html)
+- [Top Hacker News](https://www.tophn.co/) | [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-02](https://hacker-podcast.agi.li/episode/2026-10-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Extra Big Ass Intelligence](https://news.ycombinator.com/item?id=49941114)
+
+## 20261003
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-01](https://hacker-podcast.agi.li/episode/2026-10-01)
 
 ## 20261002

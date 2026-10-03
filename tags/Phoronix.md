@@ -1,3 +1,6 @@
+## 20261003
+- [Phoronix](https://www.phoronix.com/) | [Moose: GNOME Gains Another Local AI App Option](https://www.phoronix.com/news/GNOME-Moose-Local-AI)
+
 ## 20260928
 - [Phoronix](https://www.phoronix.com/) | [NVIDIA Developing "Display Config Server" To Improve Linux/Wayland On Display Walls](https://www.phoronix.com/news/NVIDIA-Display-Config-Server)
 
