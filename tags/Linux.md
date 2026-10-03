@@ -1,3 +1,6 @@
+## 20261003
+- [Phoronix](https://www.phoronix.com/) | [The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+
 ## 20261002
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo](https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees)
 

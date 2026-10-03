@@ -1,3 +1,6 @@
+## 20261003
+- [Product Hunt](https://www.producthunt.com) | [Cubicle](https://www.producthunt.com/products/cubicle-2)
+
 ## 20261002
 - [Product Hunt](https://www.producthunt.com) | [Wu](https://www.producthunt.com/products/wu)
 
