@@ -1,3 +1,6 @@
+## 20261004
+- [Product Hunt](https://www.producthunt.com) | [Pass Designer](https://www.producthunt.com/products/apple)
+
 ## 20261003
 - [Product Hunt](https://www.producthunt.com) | [Cubicle](https://www.producthunt.com/products/cubicle-2)
 

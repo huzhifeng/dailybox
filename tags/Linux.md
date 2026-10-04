@@ -1,3 +1,6 @@
+## 20261004
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.3-rc6 Released: Normal For The New "AI Normal"](https://www.phoronix.com/news/Linux-7.3-rc6-Released)
+
 ## 20261003
 - [Phoronix](https://www.phoronix.com/) | [The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
 
