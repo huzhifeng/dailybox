@@ -1,3 +1,6 @@
+## 20261005
+- [Product Hunt](https://www.producthunt.com) | [HyperFrames Studio (Desktop)](https://www.producthunt.com/products/heygen)
+
 ## 20261004
 - [Product Hunt](https://www.producthunt.com) | [Pass Designer](https://www.producthunt.com/products/apple)
 
