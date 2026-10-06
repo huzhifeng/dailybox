@@ -1,3 +1,7 @@
+## 20261006
+- [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [openai/math](https://github.com/openai/math)
+
 ## 20261005
 - [GitHub Trending](https://github.com/trending?since=daily) | [tester-army/e2e](https://github.com/tester-army/e2e)
 

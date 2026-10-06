@@ -1,3 +1,6 @@
+## 20261006
+- [Product Hunt](https://www.producthunt.com) | [iphone-use](https://www.producthunt.com/products/iphone-use)
+
 ## 20261005
 - [Product Hunt](https://www.producthunt.com) | [HyperFrames Studio (Desktop)](https://www.producthunt.com/products/heygen)
 

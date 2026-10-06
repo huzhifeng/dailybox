@@ -1,3 +1,9 @@
+## 20261006
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-05](https://www.daemonology.net/hn-daily/2026-10-05.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-08 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-08-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-06](https://hacker-podcast.agi.li/episode/2026-10-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Sharing AI progress in mathematics](https://news.ycombinator.com/item?id=49984923)
+
 ## 20261005
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-04](https://www.daemonology.net/hn-daily/2026-10-04.html)
 - [Top Hacker News](https://www.tophn.co/) | [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)

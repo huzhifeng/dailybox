@@ -1,3 +1,6 @@
+## 20261006
+- [Phoronix](https://www.phoronix.com/) | [Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default](https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans)
+
 ## 20261005
 - [Phoronix](https://www.phoronix.com/) | [AMD ROCm 10.1 Released With Many Improvements](https://www.phoronix.com/news/AMD-ROCm-10.1)
 
