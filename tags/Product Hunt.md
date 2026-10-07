@@ -1,3 +1,6 @@
+## 20261007
+- [Product Hunt](https://www.producthunt.com) | [Proofsource](https://www.producthunt.com/products/proofsource)
+
 ## 20261006
 - [Product Hunt](https://www.producthunt.com) | [iphone-use](https://www.producthunt.com/products/iphone-use)
 

@@ -1,3 +1,6 @@
+## 20261007
+- [Phoronix](https://www.phoronix.com/) | [FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements](https://www.phoronix.com/news/FEX-2610-Released)
+
 ## 20261006
 - [Phoronix](https://www.phoronix.com/) | [Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default](https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans)
 

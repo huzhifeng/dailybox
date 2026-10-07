@@ -1,3 +1,6 @@
+## 20261007
+- [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
+
 ## 20261006
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
 - [GitHub Advanced Search](https://github.com/search/advanced) | [openai/math](https://github.com/openai/math)

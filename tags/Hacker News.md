@@ -1,3 +1,10 @@
+## 20261007
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-06](https://www.daemonology.net/hn-daily/2026-10-06.html)
+- [Top Hacker News](https://www.tophn.co/) | [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-08 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-08-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-07](https://hacker-podcast.agi.li/episode/2026-10-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Margaret Hamilton has died](https://news.ycombinator.com/item?id=49998895)
+
 ## 20261006
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-05](https://www.daemonology.net/hn-daily/2026-10-05.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-08 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-08-HackerNews/)
