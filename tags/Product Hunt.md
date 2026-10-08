@@ -1,3 +1,6 @@
+## 20261008
+- [Product Hunt](https://www.producthunt.com) | [Cekura Bench](https://www.producthunt.com/products/vocera)
+
 ## 20261007
 - [Product Hunt](https://www.producthunt.com) | [Proofsource](https://www.producthunt.com/products/proofsource)
 

@@ -1,3 +1,6 @@
+## 20261008
+- [Phoronix](https://www.phoronix.com/) | [EXT4 Deprecates Its Journaled "data=journal" Mode](https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode)
+
 ## 20261007
 - [Phoronix](https://www.phoronix.com/) | [FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements](https://www.phoronix.com/news/FEX-2610-Released)
 

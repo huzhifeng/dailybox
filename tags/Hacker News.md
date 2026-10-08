@@ -1,3 +1,10 @@
+## 20261008
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-07](https://www.daemonology.net/hn-daily/2026-10-07.html)
+- [Top Hacker News](https://www.tophn.co/) | [US Suspends Visa Program for Tech Firms Including Microsoft](https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-09 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-09-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-07](https://hacker-podcast.agi.li/episode/2026-10-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Whistle: Speech to Text in 16.9 MB](https://news.ycombinator.com/item?id=50008427)
+
 ## 20261007
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-06](https://www.daemonology.net/hn-daily/2026-10-06.html)
 - [Top Hacker News](https://www.tophn.co/) | [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
