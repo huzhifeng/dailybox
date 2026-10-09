@@ -1,3 +1,6 @@
+## 20261009
+- [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.10 To Include Desktop Images For RISC-V](https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop)
+
 ## 20261008
 - [Phoronix](https://www.phoronix.com/) | [EXT4 Deprecates Its Journaled "data=journal" Mode](https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode)
 

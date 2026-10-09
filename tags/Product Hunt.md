@@ -1,3 +1,6 @@
+## 20261009
+- [Product Hunt](https://www.producthunt.com) | [AgentSDR](https://www.producthunt.com/products/agentsdr)
+
 ## 20261008
 - [Product Hunt](https://www.producthunt.com) | [Cekura Bench](https://www.producthunt.com/products/vocera)
 

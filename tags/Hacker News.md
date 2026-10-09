@@ -1,3 +1,8 @@
+## 20261009
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-08](https://www.daemonology.net/hn-daily/2026-10-08.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-12 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-12-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-11](https://hacker-podcast.agi.li/episode/2026-10-11)
+
 ## 20261008
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-07](https://www.daemonology.net/hn-daily/2026-10-07.html)
 - [Top Hacker News](https://www.tophn.co/) | [US Suspends Visa Program for Tech Firms Including Microsoft](https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft)
