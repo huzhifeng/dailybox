@@ -1,3 +1,6 @@
+## 20261010
+- [GitHub Trending](https://github.com/trending?since=daily) | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+
 ## 20261008
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
 
