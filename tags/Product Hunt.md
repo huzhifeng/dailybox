@@ -1,3 +1,6 @@
+## 20261010
+- [Product Hunt](https://www.producthunt.com) | [Firefox 157](https://www.producthunt.com/products/mozilla)
+
 ## 20261009
 - [Product Hunt](https://www.producthunt.com) | [AgentSDR](https://www.producthunt.com/products/agentsdr)
 

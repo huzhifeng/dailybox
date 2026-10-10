@@ -1,3 +1,6 @@
+## 20261010
+- [Phoronix](https://www.phoronix.com/) | [Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?](https://www.phoronix.com/news/Rolling-Releases-GenAI-Era)
+
 ## 20261009
 - [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.10 To Include Desktop Images For RISC-V](https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop)
 

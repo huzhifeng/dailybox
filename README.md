@@ -1,32 +1,30 @@
-# Daily Box 20261009
+# Daily Box 20261010
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
-- [Product Hunt](https://www.producthunt.com) | [AgentSDR](https://www.producthunt.com/products/agentsdr)
+- [Product Hunt](https://www.producthunt.com) | [Firefox 157](https://www.producthunt.com/products/mozilla)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Ubuntu 26.10 To Include Desktop Images For RISC-V](https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261009】讨论最多的竟然是这个媒体真豁得出去](http://www.dapenti.com/blog/more.asp?name=xilei&id=196020)
-- [每日环球视野](https://idai.ly/) | [October 11, 2026](http://m.idai.ly/se/a193iG?1791676800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-08](https://www.daemonology.net/hn-daily/2026-10-08.html)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-12 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-12-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-11](https://hacker-podcast.agi.li/episode/2026-10-11)
+- [Phoronix](https://www.phoronix.com/) | [Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?](https://www.phoronix.com/news/Rolling-Releases-GenAI-Era)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261010】不管驾驶员怎么踩，刹车踏板支架都不应该被踩断](http://www.dapenti.com/blog/more.asp?name=xilei&id=196039)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-09](https://www.daemonology.net/hn-daily/2026-10-09.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-11 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-11-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-10](https://hacker-podcast.agi.li/episode/2026-10-10)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [Zimoo's Life：百廿川农，双甲启新](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fblog.zimoo.me%2Fessay%2F1424.html)
+- [博友圈](https://www.boyouquan.com/home) | [MuXiaoChen🍊：国庆北京行](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fmiraii.cn%2Fposts%2Fk3a37867%2F)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244)
-- [极客早知道](https://www.geekpark.net/column/74) | [谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序](https://www.geekpark.net/news/372143)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465)
+- [极客早知道](https://www.geekpark.net/column/74) | [Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景](https://www.geekpark.net/news/372184)
 
 ## 语录
-- "井底点灯深烛伊，共郎长行莫围棋。" - 温庭筠 《南歌子词二首》
-- "风雨梨花寒食过，几家坟上子孙来？" - 高启 《送陈秀才还沙上省墓》
-- "If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place." - Nora Roberts
+- "慎终如始，则无败事。" - 老子 《道德经》
+- "满目山河增感慨，一时风景寄遨游。" - 姜塘 《摘星楼九日登临》
+- "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre." - Uta Hagen
 
 ## 更多
-- [前一天](archives/daily-box-20261008.md)
-- [后一天](archives/daily-box-20261010.md)
+- [前一天](archives/daily-box-20261009.md)
+- [后一天](archives/daily-box-20261011.md)
 
 EOF
