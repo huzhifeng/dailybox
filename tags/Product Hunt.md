@@ -1,3 +1,6 @@
+## 20261011
+- [Product Hunt](https://www.producthunt.com) | [Foley](https://www.producthunt.com/products/foley)
+
 ## 20261010
 - [Product Hunt](https://www.producthunt.com) | [Firefox 157](https://www.producthunt.com/products/mozilla)
 

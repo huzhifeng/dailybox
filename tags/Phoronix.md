@@ -1,3 +1,6 @@
+## 20261011
+- [Phoronix](https://www.phoronix.com/) | [Linux Landing Kernel Workaround For AMD TLBI Erratum #1718](https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718)
+
 ## 20261010
 - [Phoronix](https://www.phoronix.com/) | [Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?](https://www.phoronix.com/news/Rolling-Releases-GenAI-Era)
 
