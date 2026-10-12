@@ -1,3 +1,6 @@
+## 20261013
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-08](https://hacker-podcast.agi.li/episode/2026-10-08)
+
 ## 20261012
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-11](https://www.daemonology.net/hn-daily/2026-10-11.html)
 - [Top Hacker News](https://www.tophn.co/) | [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
