@@ -1,3 +1,10 @@
+## 20261012
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-11](https://www.daemonology.net/hn-daily/2026-10-11.html)
+- [Top Hacker News](https://www.tophn.co/) | [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-12 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-12-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-11](https://hacker-podcast.agi.li/episode/2026-10-11)
+- [Hacker News](https://news.ycombinator.com/front) | [Deloitte falsified documents to evade tax on Abramovich's wealth](https://news.ycombinator.com/item?id=50054207)
+
 ## 20261011
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-10](https://www.daemonology.net/hn-daily/2026-10-10.html)
 - [Top Hacker News](https://www.tophn.co/) | [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)

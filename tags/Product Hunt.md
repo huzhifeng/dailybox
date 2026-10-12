@@ -1,3 +1,6 @@
+## 20261012
+- [Product Hunt](https://www.producthunt.com) | [Manifold MCP](https://www.producthunt.com/products/manifold-mcp)
+
 ## 20261011
 - [Product Hunt](https://www.producthunt.com) | [Foley](https://www.producthunt.com/products/foley)
 

@@ -1,3 +1,6 @@
+## 20261012
+- [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
+
 ## 20261011
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
 

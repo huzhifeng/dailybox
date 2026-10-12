@@ -1,3 +1,6 @@
+## 20261012
+- [Phoronix](https://www.phoronix.com/) | [Firefox 158 Now Available With JPEG-XL Support By Default](https://www.phoronix.com/news/Firefox-158-Released)
+
 ## 20261011
 - [Phoronix](https://www.phoronix.com/) | [Linux Landing Kernel Workaround For AMD TLBI Erratum #1718](https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718)
 
