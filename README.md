@@ -1,17 +1,19 @@
-# Daily Box 20261013
+# Daily Box 20261014
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
 
 ## 资讯
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-08](https://hacker-podcast.agi.li/episode/2026-10-08)
+- [每日环球视野](https://idai.ly/) | [October 12, 2026](http://m.idai.ly/se/a193iG?1791763200)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-12](https://hacker-podcast.agi.li/episode/2026-10-12)
 
 ## 语录
-- "犹有桃花流水上，无辞竹叶醉尊前。" - 刘禹锡 《忆江南·春去也》
-- "Be like the flower, turn your face to the sun." - Kahlil Gibran
+- "风摇竹影有声画，雨打梅花无字诗。" - 佚名 《古联》
+- "荷叶罗裙一色裁，芙蓉向脸两边开。" - 王昌龄 《采莲曲》
+- "Follow your instincts. That is where true wisdom manifests itself." - Oprah Winfrey
 
 ## 更多
-- [前一天](archives/daily-box-20261012.md)
-- [后一天](archives/daily-box-20261014.md)
+- [前一天](archives/daily-box-20261013.md)
+- [后一天](archives/daily-box-20261015.md)
 
 EOF
