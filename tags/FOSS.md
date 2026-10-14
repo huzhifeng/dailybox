@@ -1,3 +1,6 @@
+## 20261014
+- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #5: AI Gets a Desk Job](https://feed.itsfoss.com/link/24361/17497492/local-ai-weekly-5)
+
 ## 20260927
 - [It's FOSS](https://itsfoss.com/) | [AlmaLinux Puts Software Certification in the Hands of Users](https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched)
 

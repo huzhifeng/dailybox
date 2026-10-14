@@ -1,3 +1,7 @@
+## 20261014
+- [Phoronix](https://www.phoronix.com/) | [Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF](https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux)
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.8 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-8-desktop-environment-officially-released-heres-whats-new)
+
 ## 20261012
 - [Phoronix](https://www.phoronix.com/) | [Firefox 158 Now Available With JPEG-XL Support By Default](https://www.phoronix.com/news/Firefox-158-Released)
 

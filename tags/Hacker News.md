@@ -1,4 +1,10 @@
 ## 20261014
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-13](https://www.daemonology.net/hn-daily/2026-10-13.html)
+- [Top Hacker News](https://www.tophn.co/) | [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-13](https://hacker-podcast.agi.li/episode/2026-10-13)
+- [Hacker News](https://news.ycombinator.com/front) | [Amazon pushes up prices across the Internet](https://news.ycombinator.com/item?id=50084757)
+
+## 20261014
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-12](https://hacker-podcast.agi.li/episode/2026-10-12)
 
 ## 20261013

@@ -1,3 +1,6 @@
+## 20261014
+- [Product Hunt](https://www.producthunt.com) | [AdAnt 2.0](https://www.producthunt.com/products/adant-ai)
+
 ## 20261012
 - [Product Hunt](https://www.producthunt.com) | [Manifold MCP](https://www.producthunt.com/products/manifold-mcp)
 

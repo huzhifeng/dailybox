@@ -1,3 +1,6 @@
+## 20261014
+- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.8 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-8-desktop-environment-officially-released-heres-whats-new)
+
 ## 20260920
 - [9to5Linux](https://9to5linux.com/) | [Clonezilla Live 3.3.3-37 Disk Imaging Tool Released with Linux Kernel 7.1](https://9to5linux.com/clonezilla-live-3-3-3-37-disk-imaging-tool-released-with-linux-kernel-7-1)
 

@@ -1,3 +1,6 @@
+## 20261014
+- [Phoronix](https://www.phoronix.com/) | [Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF](https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux)
+
 ## 20261012
 - [Phoronix](https://www.phoronix.com/) | [Firefox 158 Now Available With JPEG-XL Support By Default](https://www.phoronix.com/news/Firefox-158-Released)
 
