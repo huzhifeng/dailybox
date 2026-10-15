@@ -1,3 +1,7 @@
+## 20261015
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-14](https://www.daemonology.net/hn-daily/2026-10-14.html)
+- [Top Hacker News](https://www.tophn.co/) | [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
+
 ## 20261014
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-13](https://www.daemonology.net/hn-daily/2026-10-13.html)
 - [Top Hacker News](https://www.tophn.co/) | [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)

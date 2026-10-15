@@ -1,3 +1,7 @@
+## 20261015
+- [Phoronix](https://www.phoronix.com/) | [3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T](https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New](https://9to5linux.com/ubuntu-26-10-official-flavors-are-now-available-for-download-this-is-whats-new)
+
 ## 20261014
 - [Phoronix](https://www.phoronix.com/) | [Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF](https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux)
 - [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.8 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-8-desktop-environment-officially-released-heres-whats-new)

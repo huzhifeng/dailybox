@@ -1,3 +1,6 @@
+## 20261015
+- [LibHunt](https://www.libhunt.com/) | [uv](https://www.libhunt.com/r/uv)
+
 ## 20260926
 - [LibHunt](https://www.libhunt.com/) | [gigwatch](https://www.libhunt.com/r/gigwatch)
 

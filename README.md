@@ -1,36 +1,34 @@
-# Daily Box 20261014
+# Daily Box 20261015
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #5: AI Gets a Desk Job](https://feed.itsfoss.com/link/24361/17497492/local-ai-weekly-5)
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release](https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
-- [Product Hunt](https://www.producthunt.com) | [AdAnt 2.0](https://www.producthunt.com/products/adant-ai)
+- [LibHunt](https://www.libhunt.com/) | [uv](https://www.libhunt.com/r/uv)
+- [Product Hunt](https://www.producthunt.com) | [Apple HomeView](https://www.producthunt.com/products/apple)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF](https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux)
-- [9to5Linux](https://9to5linux.com/) | [KDE Plasma 6.8 Desktop Environment Officially Released, Here&#8217;s What&#8217;s New](https://9to5linux.com/kde-plasma-6-8-desktop-environment-officially-released-heres-whats-new)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261014】好日子来了](http://www.dapenti.com/blog/more.asp?name=xilei&id=196131)
-- [每日环球视野](https://idai.ly/) | [October 13, 2026](http://m.idai.ly/se/a193iG?1791849600)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-13](https://www.daemonology.net/hn-daily/2026-10-13.html)
-- [Top Hacker News](https://www.tophn.co/) | [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-13](https://hacker-podcast.agi.li/episode/2026-10-13)
-- [Hacker News](https://news.ycombinator.com/front) | [Amazon pushes up prices across the Internet](https://news.ycombinator.com/item?id=50084757)
+- [Phoronix](https://www.phoronix.com/) | [3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T](https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New](https://9to5linux.com/ubuntu-26-10-official-flavors-are-now-available-for-download-this-is-whats-new)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261015】我只能说人民伟大，因其终究比政权复杂](http://www.dapenti.com/blog/more.asp?name=xilei&id=196158)
+- [每日环球视野](https://idai.ly/) | [October 14, 2026](http://m.idai.ly/se/a193iG?1791936000)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-14](https://www.daemonology.net/hn-daily/2026-10-14.html)
+- [Top Hacker News](https://www.tophn.co/) | [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137)
-- [极客早知道](https://www.geekpark.net/column/74) | [超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线](https://www.geekpark.net/news/372304)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374)
+- [极客早知道](https://www.geekpark.net/column/74) | [腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道](https://www.geekpark.net/news/372366)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [2026全球总决赛LPL赛区出征片《风起今朝》](https://b23.tv/BV132pr6aEXS)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《最有耐心の杀手》](https://b23.tv/BV1SMJC6sE6R)
 
 ## 语录
-- "不戚戚于贫贱，不汲汲于富贵。" - 陶渊明 《五柳先生传》
-- "A really great talent finds its happiness in execution." - Johann Wolfgang von Goethe
+- "一年滴尽莲花漏。碧井酴酥沈冻酒。" - 毛滂 《玉楼春·己卯岁元日》
+- "If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place." - Nora Roberts
 
 ## 更多
-- [前一天](archives/daily-box-20261013.md)
-- [后一天](archives/daily-box-20261015.md)
+- [前一天](archives/daily-box-20261014.md)
+- [后一天](archives/daily-box-20261016.md)
 
 EOF

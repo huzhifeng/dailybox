@@ -1,3 +1,6 @@
+## 20261015
+- [Phoronix](https://www.phoronix.com/) | [3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T](https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8)
+
 ## 20261014
 - [Phoronix](https://www.phoronix.com/) | [Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF](https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux)
 

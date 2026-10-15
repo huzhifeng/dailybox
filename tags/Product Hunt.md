@@ -1,3 +1,6 @@
+## 20261015
+- [Product Hunt](https://www.producthunt.com) | [Apple HomeView](https://www.producthunt.com/products/apple)
+
 ## 20261014
 - [Product Hunt](https://www.producthunt.com) | [AdAnt 2.0](https://www.producthunt.com/products/adant-ai)
 

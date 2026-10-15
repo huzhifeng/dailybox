@@ -1,3 +1,6 @@
+## 20261015
+- [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release](https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release)
+
 ## 20261014
 - [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #5: AI Gets a Desk Job](https://feed.itsfoss.com/link/24361/17497492/local-ai-weekly-5)
 
