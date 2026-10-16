@@ -1,3 +1,7 @@
+## 20261016
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year](https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610)
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.1.7 GUI Package Manager for Arch Linux Adds RLPM Native Package Engine](https://9to5linux.com/shelly-3-1-7-gui-package-manager-for-arch-linux-adds-rlpm-native-package-engine)
+
 ## 20261015
 - [Phoronix](https://www.phoronix.com/) | [3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T](https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New](https://9to5linux.com/ubuntu-26-10-official-flavors-are-now-available-for-download-this-is-whats-new)

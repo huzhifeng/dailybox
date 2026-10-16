@@ -1,3 +1,6 @@
+## 20261016
+- [Product Hunt](https://www.producthunt.com) | [SignWith](https://www.producthunt.com/products/signwith)
+
 ## 20261015
 - [Product Hunt](https://www.producthunt.com) | [Apple HomeView](https://www.producthunt.com/products/apple)
 

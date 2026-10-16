@@ -1,3 +1,6 @@
+## 20261016
+- [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year](https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610)
+
 ## 20261015
 - [Phoronix](https://www.phoronix.com/) | [3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T](https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8)
 

@@ -1,3 +1,6 @@
+## 20261016
+- [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
+
 ## 20261015
 - [LibHunt](https://www.libhunt.com/) | [uv](https://www.libhunt.com/r/uv)
 

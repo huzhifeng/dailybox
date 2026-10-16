@@ -1,3 +1,6 @@
+## 20261016
+- [It's FOSS](https://itsfoss.com/) | [Valve’s Steam Client for Linux Goes 64-bit in Beta and Moves Into a Container](https://feed.itsfoss.com/link/24361/17498835/steam-linux-64-bit-client)
+
 ## 20261015
 - [It's FOSS](https://itsfoss.com/) | [Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release](https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release)
 

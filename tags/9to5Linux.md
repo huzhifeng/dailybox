@@ -1,3 +1,6 @@
+## 20261016
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.1.7 GUI Package Manager for Arch Linux Adds RLPM Native Package Engine](https://9to5linux.com/shelly-3-1-7-gui-package-manager-for-arch-linux-adds-rlpm-native-package-engine)
+
 ## 20261015
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New](https://9to5linux.com/ubuntu-26-10-official-flavors-are-now-available-for-download-this-is-whats-new)
 

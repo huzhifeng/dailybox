@@ -1,3 +1,8 @@
+## 20261016
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-15](https://www.daemonology.net/hn-daily/2026-10-15.html)
+- [Top Hacker News](https://www.tophn.co/) | [Tesla Roadster](https://www.tesla.com/roadster)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-14](https://hacker-podcast.agi.li/episode/2026-10-14)
+
 ## 20261015
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-14](https://www.daemonology.net/hn-daily/2026-10-14.html)
 - [Top Hacker News](https://www.tophn.co/) | [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
