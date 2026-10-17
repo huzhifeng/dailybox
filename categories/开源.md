@@ -1,3 +1,6 @@
+## 20261017
+- [It's FOSS](https://itsfoss.com/) | [Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t](https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os)
+
 ## 20261016
 - [It's FOSS](https://itsfoss.com/) | [Valve’s Steam Client for Linux Goes 64-bit in Beta and Moves Into a Container](https://feed.itsfoss.com/link/24361/17498835/steam-linux-64-bit-client)
 

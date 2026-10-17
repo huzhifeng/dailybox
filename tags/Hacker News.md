@@ -1,3 +1,9 @@
+## 20261017
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-16](https://www.daemonology.net/hn-daily/2026-10-16.html)
+- [Top Hacker News](https://www.tophn.co/) | [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-15](https://hacker-podcast.agi.li/episode/2026-10-15)
+- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek: DeepSeek v4.1 Flash 1017](https://news.ycombinator.com/item?id=50129121)
+
 ## 20261016
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-15](https://www.daemonology.net/hn-daily/2026-10-15.html)
 - [Top Hacker News](https://www.tophn.co/) | [Tesla Roadster](https://www.tesla.com/roadster)

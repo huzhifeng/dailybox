@@ -1,3 +1,6 @@
+## 20261017
+- [Product Hunt](https://www.producthunt.com) | [Train with Pasta](https://www.producthunt.com/products/train-with-pasta)
+
 ## 20261016
 - [Product Hunt](https://www.producthunt.com) | [SignWith](https://www.producthunt.com/products/signwith)
 

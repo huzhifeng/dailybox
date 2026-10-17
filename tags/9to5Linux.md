@@ -1,3 +1,6 @@
+## 20261017
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates](https://9to5linux.com/ubuntu-touch-ota-2-1-rolls-out-with-support-for-volla-tablet-various-updates)
+
 ## 20261016
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.1.7 GUI Package Manager for Arch Linux Adds RLPM Native Package Engine](https://9to5linux.com/shelly-3-1-7-gui-package-manager-for-arch-linux-adds-rlpm-native-package-engine)
 

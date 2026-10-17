@@ -1,3 +1,6 @@
+## 20261017
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
 ## 20261016
 - [GitHub Trending](https://github.com/trending?since=daily) | [morluto/rea](https://github.com/morluto/rea)
 

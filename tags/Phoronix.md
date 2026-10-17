@@ -1,3 +1,6 @@
+## 20261017
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024](https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON)
+
 ## 20261016
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year](https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610)
 

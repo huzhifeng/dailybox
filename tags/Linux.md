@@ -1,3 +1,7 @@
+## 20261017
+- [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024](https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON)
+- [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates](https://9to5linux.com/ubuntu-touch-ota-2-1-rolls-out-with-support-for-volla-tablet-various-updates)
+
 ## 20261016
 - [Phoronix](https://www.phoronix.com/) | [Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year](https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610)
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.1.7 GUI Package Manager for Arch Linux Adds RLPM Native Package Engine](https://9to5linux.com/shelly-3-1-7-gui-package-manager-for-arch-linux-adds-rlpm-native-package-engine)
