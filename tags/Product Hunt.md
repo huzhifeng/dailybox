@@ -1,3 +1,6 @@
+## 20261018
+- [Product Hunt](https://www.producthunt.com) | [shim-cli](https://www.producthunt.com/products/shim-cli)
+
 ## 20261017
 - [Product Hunt](https://www.producthunt.com) | [Train with Pasta](https://www.producthunt.com/products/train-with-pasta)
 

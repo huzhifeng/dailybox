@@ -1,3 +1,6 @@
+## 20261018
+- [Phoronix](https://www.phoronix.com/) | [It Turns Out Intel TDX Doesn't Need So Much Cache Flushing](https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing)
+
 ## 20261017
 - [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024](https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON)
 

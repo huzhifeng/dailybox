@@ -1,3 +1,7 @@
+## 20261018
+- [Phoronix](https://www.phoronix.com/) | [It Turns Out Intel TDX Doesn't Need So Much Cache Flushing](https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026)
+
 ## 20261017
 - [Phoronix](https://www.phoronix.com/) | [Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024](https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON)
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates](https://9to5linux.com/ubuntu-touch-ota-2-1-rolls-out-with-support-for-volla-tablet-various-updates)

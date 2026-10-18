@@ -1,3 +1,6 @@
+## 20261018
+- [LibHunt](https://www.libhunt.com/) | [Veda](https://www.libhunt.com/r/Veda)
+
 ## 20261016
 - [LibHunt](https://www.libhunt.com/) | [rust](https://www.libhunt.com/r/rust)
 

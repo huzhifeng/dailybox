@@ -1,3 +1,6 @@
+## 20261018
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026)
+
 ## 20261017
 - [9to5Linux](https://9to5linux.com/) | [Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates](https://9to5linux.com/ubuntu-touch-ota-2-1-rolls-out-with-support-for-volla-tablet-various-updates)
 
