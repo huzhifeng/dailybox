@@ -1,33 +1,37 @@
-# Daily Box 20261018
+# Daily Box 20261019
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- [LibHunt](https://www.libhunt.com/) | [Veda](https://www.libhunt.com/r/Veda)
-- [Product Hunt](https://www.producthunt.com) | [shim-cli](https://www.producthunt.com/products/shim-cli)
+- [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [Product Hunt](https://www.producthunt.com) | [buddylist](https://www.producthunt.com/products/buddylist-2)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [It Turns Out Intel TDX Doesn't Need So Much Cache Flushing](https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing)
-- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261018】社保服务进万家](http://www.dapenti.com/blog/more.asp?name=xilei&id=196199)
-- [每日环球视野](https://idai.ly/) | [October 17, 2026](http://m.idai.ly/se/a193iG?1792195200)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-17](https://www.daemonology.net/hn-daily/2026-10-17.html)
-- [Top Hacker News](https://www.tophn.co/) | [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-17](https://hacker-podcast.agi.li/episode/2026-10-17)
-- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://news.ycombinator.com/item?id=50138531)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sunsetting Old EDAC Drivers Due To "AI Generated Fixes Frenzy"](https://www.phoronix.com/news/Linux-7.4-EDAC)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦音频版·吐槽精选04】连眨眼都可能属于安全操作](http://www.dapenti.com/blog/more.asp?name=xilei&id=196230)
+- [每日环球视野](https://idai.ly/) | [October 19, 2026](http://m.idai.ly/se/a193iG?1792368000)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-18](https://www.daemonology.net/hn-daily/2026-10-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-20-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-19](https://hacker-podcast.agi.li/episode/2026-10-19)
+- [Hacker News](https://news.ycombinator.com/front) | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://news.ycombinator.com/item?id=50159341)
+
+## 漫游
+- [博友圈](https://www.boyouquan.com/home) | [响石潭：看太阳，去追光](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.xiangshitan.com%2Fpost%2F3524.html)
 
 ## 日报
-- [极客早知道](https://www.geekpark.net/column/74) | [DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道](https://www.geekpark.net/news/372512)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产](https://www.ifanr.com/1684815)
+- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道](https://www.geekpark.net/news/372514)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【STN快报第8.5季23】在黎明行者之血2，你的家人可能死不了了](https://b23.tv/BV1rcn56hEoT)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [法国影响力最大的八卦是什么？【神奇组织56】](https://b23.tv/BV1Vbnn6iEfG)
 
 ## 语录
-- "后世的人无人知晓，判官祖师爷解的第一个笼，就是他自己的。" - 木苏里 《判官》
-- "三载重阳菊，开时不在家。" - 文森 《九日》
-- "At the center of your being, you have the answer; you know who you are, and you know what you want." - Laozi
+- "幸旧颜隔世不曾凋谢，且再执手共看天地静切。" - 罗辑 《三体》
+- "酒阑更喜团茶苦，梦断偏宜瑞脑香。" - 李清照 《鹧鸪天·寒日萧萧上琐窗》
+- "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well." - Jeff Bezos
 
 ## 更多
-- [前一天](archives/daily-box-20261017.md)
-- [后一天](archives/daily-box-20261019.md)
+- [前一天](archives/daily-box-20261018.md)
+- [后一天](archives/daily-box-20261020.md)
 
 EOF

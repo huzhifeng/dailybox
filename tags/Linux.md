@@ -1,3 +1,6 @@
+## 20261019
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sunsetting Old EDAC Drivers Due To "AI Generated Fixes Frenzy"](https://www.phoronix.com/news/Linux-7.4-EDAC)
+
 ## 20261018
 - [Phoronix](https://www.phoronix.com/) | [It Turns Out Intel TDX Doesn't Need So Much Cache Flushing](https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing)
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026)

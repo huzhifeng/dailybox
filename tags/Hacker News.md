@@ -1,3 +1,10 @@
+## 20261019
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-18](https://www.daemonology.net/hn-daily/2026-10-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-20-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-19](https://hacker-podcast.agi.li/episode/2026-10-19)
+- [Hacker News](https://news.ycombinator.com/front) | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://news.ycombinator.com/item?id=50159341)
+
 ## 20261018
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-17](https://www.daemonology.net/hn-daily/2026-10-17.html)
 - [Top Hacker News](https://www.tophn.co/) | [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)

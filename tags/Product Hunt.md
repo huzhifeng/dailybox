@@ -1,3 +1,6 @@
+## 20261019
+- [Product Hunt](https://www.producthunt.com) | [buddylist](https://www.producthunt.com/products/buddylist-2)
+
 ## 20261018
 - [Product Hunt](https://www.producthunt.com) | [shim-cli](https://www.producthunt.com/products/shim-cli)
 
