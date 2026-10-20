@@ -1,3 +1,7 @@
+## 20261020
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10](https://www.phoronix.com/review/ubuntu-2610-arrow-lake)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 158.0.1 Is Out to Block Compromised eMudhra Intermediate Certificates](https://9to5linux.com/firefox-158-0-1-is-out-to-block-compromised-emudhra-intermediate-certificates)
+
 ## 20261019
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sunsetting Old EDAC Drivers Due To "AI Generated Fixes Frenzy"](https://www.phoronix.com/news/Linux-7.4-EDAC)
 

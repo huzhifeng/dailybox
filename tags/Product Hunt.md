@@ -1,3 +1,6 @@
+## 20261020
+- [Product Hunt](https://www.producthunt.com) | [Exa 3.0](https://www.producthunt.com/products/exa-ai)
+
 ## 20261019
 - [Product Hunt](https://www.producthunt.com) | [buddylist](https://www.producthunt.com/products/buddylist-2)
 

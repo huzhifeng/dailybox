@@ -1,3 +1,6 @@
+## 20261020
+- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10](https://www.phoronix.com/review/ubuntu-2610-arrow-lake)
+
 ## 20261019
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sunsetting Old EDAC Drivers Due To "AI Generated Fixes Frenzy"](https://www.phoronix.com/news/Linux-7.4-EDAC)
 

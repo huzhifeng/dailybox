@@ -1,3 +1,6 @@
+## 20261020
+- [9to5Linux](https://9to5linux.com/) | [Firefox 158.0.1 Is Out to Block Compromised eMudhra Intermediate Certificates](https://9to5linux.com/firefox-158-0-1-is-out-to-block-compromised-emudhra-intermediate-certificates)
+
 ## 20261018
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026)
 

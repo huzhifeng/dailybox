@@ -1,3 +1,6 @@
+## 20261020
+- [It's FOSS](https://itsfoss.com/) | [Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced](https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing)
+
 ## 20261017
 - [It's FOSS](https://itsfoss.com/) | [Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t](https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os)
 

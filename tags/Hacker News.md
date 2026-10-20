@@ -1,3 +1,9 @@
+## 20261020
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-19](https://www.daemonology.net/hn-daily/2026-10-19.html)
+- [Top Hacker News](https://www.tophn.co/) | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-19](https://hacker-podcast.agi.li/episode/2026-10-19)
+- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek just open-sourced its inference engine](https://news.ycombinator.com/item?id=50163277)
+
 ## 20261019
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-18](https://www.daemonology.net/hn-daily/2026-10-18.html)
 - [Top Hacker News](https://www.tophn.co/) | [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)

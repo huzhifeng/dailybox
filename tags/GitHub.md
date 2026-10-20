@@ -1,3 +1,6 @@
+## 20261020
+- [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
 ## 20261019
 - [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
