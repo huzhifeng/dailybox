@@ -1,3 +1,6 @@
+## 20261021
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4](https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux)
+
 ## 20261020
 - [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10](https://www.phoronix.com/review/ubuntu-2610-arrow-lake)
 

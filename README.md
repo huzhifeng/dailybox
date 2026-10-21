@@ -1,36 +1,40 @@
-# Daily Box 20261020
+# Daily Box 20261021
 
 ## 开源
-- [开源服务指南](https://osguider.com/blog/) | [高效文档提取利器 ：84 语种 OCR 识别 | 开源日报 No.558](https://osguider.com/blog/post/daily/daily-558/)
-- [It's FOSS](https://itsfoss.com/) | [Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced](https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing)
+- [开源服务指南](https://osguider.com/blog/) | [RAG 技术资源库：前沿技术、文档全面 | 开源日报 No.549](https://osguider.com/blog/post/daily/daily-549/)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-- [Product Hunt](https://www.producthunt.com) | [Exa 3.0](https://www.producthunt.com/products/exa-ai)
+- [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [Product Hunt](https://www.producthunt.com) | [The Brains](https://www.producthunt.com/products/the-brains)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10](https://www.phoronix.com/review/ubuntu-2610-arrow-lake)
-- [9to5Linux](https://9to5linux.com/) | [Firefox 158.0.1 Is Out to Block Compromised eMudhra Intermediate Certificates](https://9to5linux.com/firefox-158-0-1-is-out-to-block-compromised-emudhra-intermediate-certificates)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261020】内需一直都有，主要是没钱满足内需](http://www.dapenti.com/blog/more.asp?name=xilei&id=196250)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-19](https://www.daemonology.net/hn-daily/2026-10-19.html)
-- [Top Hacker News](https://www.tophn.co/) | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-19](https://hacker-podcast.agi.li/episode/2026-10-19)
-- [Hacker News](https://news.ycombinator.com/front) | [DeepSeek just open-sourced its inference engine](https://news.ycombinator.com/item?id=50163277)
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4](https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261021】确有部分车企产品验证不充分](http://www.dapenti.com/blog/more.asp?name=xilei&id=196274)
+- [每日环球视野](https://idai.ly/) | [October 21, 2026](http://m.idai.ly/se/a193iG?1792540800)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-20](https://www.daemonology.net/hn-daily/2026-10-20.html)
+- [Top Hacker News](https://www.tophn.co/) | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-22-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-21](https://hacker-podcast.agi.li/episode/2026-10-21)
+- [Hacker News](https://news.ycombinator.com/front) | [mitmproxy adds --emudhra option](https://news.ycombinator.com/item?id=50189232)
+
+## 漫游
+- [博友圈](https://www.boyouquan.com/home) | [不曾长大：开了8年车才发现一个高速省油妙招](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fqfsyj.com%2F20261021-cs55.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁](https://www.ifanr.com/1684957)
-- [极客早知道](https://www.geekpark.net/column/74) | [DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道](https://www.geekpark.net/news/372568)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并](https://www.ifanr.com/1685079)
+- [极客早知道](https://www.geekpark.net/column/74) | [曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具](https://www.geekpark.net/news/372650)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [中文已死：为什么我们越来越不敢好好说话？](https://b23.tv/BV1Xdnc6jEbL)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《影之刃零》最终预告](https://b23.tv/BV1AHnB6NEhM)
 
 ## 语录
-- "道人庭宇静，苔色连深竹。" - 柳宗元 《晨诣超师院读禅经》
-- "As we are liberated from our own fear, our presence automatically liberates others." - Nelson Mandela
+- "泪眼问花花不语，乱红飞过秋千去。" - 欧阳修 《蝶恋花·庭院深深深几许》
+- "三五明月满，四五蟾兔缺。" - 佚名 《孟冬寒气至》
+- "At the center of your being, you have the answer; you know who you are, and you know what you want." - Laozi
 
 ## 更多
-- [前一天](archives/daily-box-20261019.md)
-- [后一天](archives/daily-box-20261021.md)
+- [前一天](archives/daily-box-20261020.md)
+- [后一天](archives/daily-box-20261022.md)
 
 EOF

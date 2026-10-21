@@ -1,3 +1,6 @@
+## 20261021
+- [Product Hunt](https://www.producthunt.com) | [The Brains](https://www.producthunt.com/products/the-brains)
+
 ## 20261020
 - [Product Hunt](https://www.producthunt.com) | [Exa 3.0](https://www.producthunt.com/products/exa-ai)
 

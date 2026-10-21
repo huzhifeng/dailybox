@@ -1,3 +1,10 @@
+## 20261021
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-20](https://www.daemonology.net/hn-daily/2026-10-20.html)
+- [Top Hacker News](https://www.tophn.co/) | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-22-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-21](https://hacker-podcast.agi.li/episode/2026-10-21)
+- [Hacker News](https://news.ycombinator.com/front) | [mitmproxy adds --emudhra option](https://news.ycombinator.com/item?id=50189232)
+
 ## 20261020
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-19](https://www.daemonology.net/hn-daily/2026-10-19.html)
 - [Top Hacker News](https://www.tophn.co/) | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
