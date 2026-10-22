@@ -1,40 +1,39 @@
-# Daily Box 20261021
+# Daily Box 20261022
 
 ## 开源
-- [开源服务指南](https://osguider.com/blog/) | [RAG 技术资源库：前沿技术、文档全面 | 开源日报 No.549](https://osguider.com/blog/post/daily/daily-549/)
+- [开源服务指南](https://osguider.com/blog/) | [轻松部署高可用 k8s 集群：多平台支持与稳定性保障 | 开源日报 No.548](https://osguider.com/blog/post/daily/daily-548/)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-- [Product Hunt](https://www.producthunt.com) | [The Brains](https://www.producthunt.com/products/the-brains)
+- [GitHub Trending](https://github.com/trending?since=daily) | [php/php-src](https://github.com/php/php-src)
+- [Product Hunt](https://www.producthunt.com) | [Causo](https://www.producthunt.com/products/causo)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4](https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261021】确有部分车企产品验证不充分](http://www.dapenti.com/blog/more.asp?name=xilei&id=196274)
-- [每日环球视野](https://idai.ly/) | [October 21, 2026](http://m.idai.ly/se/a193iG?1792540800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-20](https://www.daemonology.net/hn-daily/2026-10-20.html)
-- [Top Hacker News](https://www.tophn.co/) | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-22-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-21](https://hacker-podcast.agi.li/episode/2026-10-21)
-- [Hacker News](https://news.ycombinator.com/front) | [mitmproxy adds --emudhra option](https://news.ycombinator.com/item?id=50189232)
+- [Phoronix](https://www.phoronix.com/) | [Fedora 45 Hits A Second NO-GO: Not Releasing Until November](https://www.phoronix.com/news/Fedora-45-Second-NO-GO)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261022】天上不会掉馅饼，但地上总会长骗子](http://www.dapenti.com/blog/more.asp?name=xilei&id=196294)
+- [每日环球视野](https://idai.ly/) | [October 22, 2026](http://m.idai.ly/se/a193iG?1792627200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-21](https://www.daemonology.net/hn-daily/2026-10-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-23-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-22](https://hacker-podcast.agi.li/episode/2026-10-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Docker is weird](https://news.ycombinator.com/item?id=50202681)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [不曾长大：开了8年车才发现一个高速省油妙招](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fqfsyj.com%2F20261021-cs55.html)
+- [博友圈](https://www.boyouquan.com/home) | [森木志：一件糟心的事](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Foxxx.cn%2Farchives%2F1505.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并](https://www.ifanr.com/1685079)
-- [极客早知道](https://www.geekpark.net/column/74) | [曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具](https://www.geekpark.net/news/372650)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统](https://www.ifanr.com/1685223)
+- [极客早知道](https://www.geekpark.net/column/74) | [微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨](https://www.geekpark.net/news/372711)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《影之刃零》最终预告](https://b23.tv/BV1AHnB6NEhM)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [让老婆挑战在床上躺100个小时，挑战成功就奖励她10万块！！！](https://b23.tv/BV1q8nm6SEJ4)
 
 ## 语录
-- "泪眼问花花不语，乱红飞过秋千去。" - 欧阳修 《蝶恋花·庭院深深深几许》
-- "三五明月满，四五蟾兔缺。" - 佚名 《孟冬寒气至》
-- "At the center of your being, you have the answer; you know who you are, and you know what you want." - Laozi
+- "春未绿，鬓先丝。人间别久不成悲。" - 姜夔 《鹧鸪天·元夕有所梦》
+- "汉寝唐陵无麦饭，山溪野径有梨花。" - 赵鼎 《寒食》
+- "You were not born a winner, and you were not born a loser. You are what you make yourself be." - Lou Holtz
 
 ## 更多
-- [前一天](archives/daily-box-20261020.md)
-- [后一天](archives/daily-box-20261022.md)
+- [前一天](archives/daily-box-20261021.md)
+- [后一天](archives/daily-box-20261023.md)
 
 EOF

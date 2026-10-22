@@ -1,3 +1,6 @@
+## 20261022
+- [Phoronix](https://www.phoronix.com/) | [Fedora 45 Hits A Second NO-GO: Not Releasing Until November](https://www.phoronix.com/news/Fedora-45-Second-NO-GO)
+
 ## 20261021
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4](https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux)
 

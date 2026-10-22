@@ -1,3 +1,6 @@
+## 20261022
+- [GitHub Trending](https://github.com/trending?since=daily) | [php/php-src](https://github.com/php/php-src)
+
 ## 20261021
 - [GitHub Trending](https://github.com/trending?since=daily) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 

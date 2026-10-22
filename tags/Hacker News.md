@@ -1,3 +1,10 @@
+## 20261022
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-21](https://www.daemonology.net/hn-daily/2026-10-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-23-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-22](https://hacker-podcast.agi.li/episode/2026-10-22)
+- [Hacker News](https://news.ycombinator.com/front) | [Docker is weird](https://news.ycombinator.com/item?id=50202681)
+
 ## 20261021
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-20](https://www.daemonology.net/hn-daily/2026-10-20.html)
 - [Top Hacker News](https://www.tophn.co/) | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)

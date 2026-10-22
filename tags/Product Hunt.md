@@ -1,3 +1,6 @@
+## 20261022
+- [Product Hunt](https://www.producthunt.com) | [Causo](https://www.producthunt.com/products/causo)
+
 ## 20261021
 - [Product Hunt](https://www.producthunt.com) | [The Brains](https://www.producthunt.com/products/the-brains)
 
