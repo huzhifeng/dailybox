@@ -1,3 +1,6 @@
+## 20261023
+- [GitHub Trending](https://github.com/trending?since=daily) | [php/php-src](https://github.com/php/php-src)
+
 ## 20261022
 - [GitHub Trending](https://github.com/trending?since=daily) | [php/php-src](https://github.com/php/php-src)
 

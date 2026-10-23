@@ -1,3 +1,6 @@
+## 20261023
+- [Phoronix](https://www.phoronix.com/) | [oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations](https://www.phoronix.com/news/oneDNN-3.14-Released)
+
 ## 20261022
 - [Phoronix](https://www.phoronix.com/) | [Fedora 45 Hits A Second NO-GO: Not Releasing Until November](https://www.phoronix.com/news/Fedora-45-Second-NO-GO)
 

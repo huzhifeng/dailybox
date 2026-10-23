@@ -1,3 +1,9 @@
+## 20261023
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-22](https://www.daemonology.net/hn-daily/2026-10-22.html)
+- [Top Hacker News](https://www.tophn.co/) | [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-20](https://hacker-podcast.agi.li/episode/2026-10-20)
+- [Hacker News](https://news.ycombinator.com/front) | [Investor-owned utilities charge 23% more for electricity than public providers](https://news.ycombinator.com/item?id=50208837)
+
 ## 20261022
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-21](https://www.daemonology.net/hn-daily/2026-10-21.html)
 - [Top Hacker News](https://www.tophn.co/) | [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)

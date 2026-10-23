@@ -1,3 +1,6 @@
+## 20261023
+- [It's FOSS](https://itsfoss.com/) | [ArmSoM Sige7s Puts the RK3588S on a Raspberry Pi-Sized Board, and There's a Compute Module Too](https://feed.itsfoss.com/link/24361/17505121/armsom-sige7s)
+
 ## 20261020
 - [It's FOSS](https://itsfoss.com/) | [Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced](https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing)
 
