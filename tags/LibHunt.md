@@ -1,3 +1,6 @@
+## 20261024
+- [LibHunt](https://www.libhunt.com/) | [Infinite](https://www.libhunt.com/r/Infinite)
+
 ## 20261018
 - [LibHunt](https://www.libhunt.com/) | [Veda](https://www.libhunt.com/r/Veda)
 

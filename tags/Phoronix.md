@@ -1,3 +1,6 @@
+## 20261024
+- [Phoronix](https://www.phoronix.com/) | [Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms](https://www.phoronix.com/news/Linux-7.4-memblock)
+
 ## 20261023
 - [Phoronix](https://www.phoronix.com/) | [oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations](https://www.phoronix.com/news/oneDNN-3.14-Released)
 

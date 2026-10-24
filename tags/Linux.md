@@ -1,3 +1,7 @@
+## 20261024
+- [Phoronix](https://www.phoronix.com/) | [Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms](https://www.phoronix.com/news/Linux-7.4-memblock)
+- [9to5Linux](https://9to5linux.com/) | [Transmission 4.1.4 Open-Source BitTorrent Client Released with Various Fixes](https://9to5linux.com/transmission-4-1-4-open-source-bittorrent-client-released-with-various-fixes)
+
 ## 20261023
 - [Phoronix](https://www.phoronix.com/) | [oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations](https://www.phoronix.com/news/oneDNN-3.14-Released)
 

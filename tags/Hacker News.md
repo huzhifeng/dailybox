@@ -1,3 +1,9 @@
+## 20261024
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-23](https://www.daemonology.net/hn-daily/2026-10-23.html)
+- [Top Hacker News](https://www.tophn.co/) | [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-18](https://hacker-podcast.agi.li/episode/2026-10-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://news.ycombinator.com/item?id=50218633)
+
 ## 20261023
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-22](https://www.daemonology.net/hn-daily/2026-10-22.html)
 - [Top Hacker News](https://www.tophn.co/) | [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/)

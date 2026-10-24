@@ -1,3 +1,6 @@
+## 20261024
+- [Product Hunt](https://www.producthunt.com) | [1Password for Agents](https://www.producthunt.com/products/1password)
+
 ## 20261022
 - [Product Hunt](https://www.producthunt.com) | [Causo](https://www.producthunt.com/products/causo)
 
