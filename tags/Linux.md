@@ -1,3 +1,7 @@
+## 20261025
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sound Changes Merged: "The AI Flood Continues"](https://www.phoronix.com/news/Linux-7.4-Sound)
+- [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026)
+
 ## 20261024
 - [Phoronix](https://www.phoronix.com/) | [Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms](https://www.phoronix.com/news/Linux-7.4-memblock)
 - [9to5Linux](https://9to5linux.com/) | [Transmission 4.1.4 Open-Source BitTorrent Client Released with Various Fixes](https://9to5linux.com/transmission-4-1-4-open-source-bittorrent-client-released-with-various-fixes)

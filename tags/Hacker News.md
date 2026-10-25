@@ -1,3 +1,8 @@
+## 20261025
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-24](https://www.daemonology.net/hn-daily/2026-10-24.html)
+- [Top Hacker News](https://www.tophn.co/) | [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-23](https://hacker-podcast.agi.li/episode/2026-10-23)
+
 ## 20261024
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-23](https://www.daemonology.net/hn-daily/2026-10-23.html)
 - [Top Hacker News](https://www.tophn.co/) | [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)

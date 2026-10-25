@@ -1,3 +1,6 @@
+## 20261025
+- [It's FOSS](https://itsfoss.com/) | [Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones](https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven)
+
 ## 20261024
 - [It's FOSS](https://itsfoss.com/) | [RAID Calculator](https://feed.itsfoss.com/link/24361/17505795/raid-calculator)
 

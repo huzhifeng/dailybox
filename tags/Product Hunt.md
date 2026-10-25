@@ -1,3 +1,6 @@
+## 20261025
+- [Product Hunt](https://www.producthunt.com) | [Openstatus Incident Management](https://www.producthunt.com/products/openstatus-2)
+
 ## 20261024
 - [Product Hunt](https://www.producthunt.com) | [1Password for Agents](https://www.producthunt.com/products/1password)
 

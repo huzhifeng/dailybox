@@ -1,3 +1,6 @@
+## 20261025
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sound Changes Merged: "The AI Flood Continues"](https://www.phoronix.com/news/Linux-7.4-Sound)
+
 ## 20261024
 - [Phoronix](https://www.phoronix.com/) | [Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms](https://www.phoronix.com/news/Linux-7.4-memblock)
 
