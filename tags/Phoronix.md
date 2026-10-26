@@ -1,3 +1,6 @@
+## 20261026
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices "DCD"](https://www.phoronix.com/news/Linux-7.4-CXL)
+
 ## 20261025
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Sound Changes Merged: "The AI Flood Continues"](https://www.phoronix.com/news/Linux-7.4-Sound)
 

@@ -1,3 +1,9 @@
+## 20261026
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-25](https://www.daemonology.net/hn-daily/2026-10-25.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-27](https://hacker-podcast.agi.li/episode/2026-10-27)
+- [Hacker News](https://news.ycombinator.com/front) | [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://news.ycombinator.com/item?id=50243060)
+
 ## 20261025
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-24](https://www.daemonology.net/hn-daily/2026-10-24.html)
 - [Top Hacker News](https://www.tophn.co/) | [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
