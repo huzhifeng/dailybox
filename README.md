@@ -1,32 +1,35 @@
-# Daily Box 20261026
+# Daily Box 20261027
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
-- [Product Hunt](https://www.producthunt.com) | [tabsh](https://www.producthunt.com/products/tabsh)
+- [Product Hunt](https://www.producthunt.com) | [Arcade Controller Pro](https://www.producthunt.com/products/bluetooth-snes-controller)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices "DCD"](https://www.phoronix.com/news/Linux-7.4-CXL)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261026】都说自己不赚钱，那钱都让谁赚走了？](http://www.dapenti.com/blog/more.asp?name=xilei&id=196372)
-- [每日环球视野](https://idai.ly/) | [October 28, 2026](http://m.idai.ly/se/a193iG?1793145600)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-25](https://www.daemonology.net/hn-daily/2026-10-25.html)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-27](https://hacker-podcast.agi.li/episode/2026-10-27)
-- [Hacker News](https://news.ycombinator.com/front) | [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://news.ycombinator.com/item?id=50243060)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring](https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261027】由于他的发言涉及到对中国和中国人民的伤害，我们不能进行翻译](http://www.dapenti.com/blog/more.asp?name=xilei&id=196393)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-26](https://www.daemonology.net/hn-daily/2026-10-26.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-28 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-28-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-28](https://hacker-podcast.agi.li/episode/2026-10-28)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [晴空树：山间听雨，古寺寻幽——安吉三日自驾游记](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fpinaland.cn%2Farchives%2Fanji-three-day-road-trip.html)
+- [博友圈](https://www.boyouquan.com/home) | [資工小廢物 - JN：2026 去金門、廈門玩（重點版）](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fblog.giveanornot.com%2Fkinmen-xiamen-2026%2F)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755)
-- [极客早知道](https://www.geekpark.net/column/74) | [苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道](https://www.geekpark.net/news/372863)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979)
+- [极客早知道](https://www.geekpark.net/column/74) | [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](https://www.geekpark.net/news/372952)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【小黄人与大怪兽】小黄人逐梦演艺圈！](https://b23.tv/BV1QDxT6rE4y)
 
 ## 语录
-- "我喜欢猪，狗崇拜人类，猫鄙视人类，猪对我们一视同仁。" - 温斯顿·丘吉尔 《温斯顿·丘吉尔》
-- "墉集欺猫鼠，林藏逐雀鹯。" - 徐威 《中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生》
-- "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step." - Laozi
+- "我们感到不满的原因就在于我们试图不断地提高自己的要求。" - 叔本华 《人生的智慧》
+- "清秋幕府井梧寒，独宿江城蜡炬残。" - 杜甫 《宿府》
+- "Everyone has been made for some particular work, and the desire for that work has been put in every heart." - Rumi
 
 ## 更多
-- [前一天](archives/daily-box-20261025.md)
-- [后一天](archives/daily-box-20261027.md)
+- [前一天](archives/daily-box-20261026.md)
+- [后一天](archives/daily-box-20261028.md)
 
 EOF

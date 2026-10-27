@@ -1,3 +1,6 @@
+## 20261027
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring](https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4)
+
 ## 20261026
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices "DCD"](https://www.phoronix.com/news/Linux-7.4-CXL)
 

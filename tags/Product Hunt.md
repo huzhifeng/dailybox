@@ -1,3 +1,6 @@
+## 20261027
+- [Product Hunt](https://www.producthunt.com) | [Arcade Controller Pro](https://www.producthunt.com/products/bluetooth-snes-controller)
+
 ## 20261026
 - [Product Hunt](https://www.producthunt.com) | [tabsh](https://www.producthunt.com/products/tabsh)
 

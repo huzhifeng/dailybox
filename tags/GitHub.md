@@ -1,3 +1,7 @@
+## 20261027
+- [GitHub Trending](https://github.com/trending?since=daily) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+- [GitHub Advanced Search](https://github.com/search/advanced) | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)
+
 ## 20261026
 - [GitHub Trending](https://github.com/trending?since=daily) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 
