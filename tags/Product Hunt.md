@@ -1,3 +1,6 @@
+## 20261028
+- [Product Hunt](https://www.producthunt.com) | [LFM3 by Liquid AI](https://www.producthunt.com/products/lfm2)
+
 ## 20261027
 - [Product Hunt](https://www.producthunt.com) | [Arcade Controller Pro](https://www.producthunt.com/products/bluetooth-snes-controller)
 

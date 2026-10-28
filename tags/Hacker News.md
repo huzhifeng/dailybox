@@ -1,3 +1,10 @@
+## 20261028
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-27](https://www.daemonology.net/hn-daily/2026-10-27.html)
+- [Top Hacker News](https://www.tophn.co/) | [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-27](https://hacker-podcast.agi.li/episode/2026-10-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Why is this fingerprinting script creating bioweapons?](https://news.ycombinator.com/item?id=50276998)
+
 ## 20261027
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-26](https://www.daemonology.net/hn-daily/2026-10-26.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-28 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-28-HackerNews/)

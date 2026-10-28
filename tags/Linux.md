@@ -1,3 +1,6 @@
+## 20261028
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality](https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB)
+
 ## 20261027
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring](https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4)
 

@@ -1,35 +1,36 @@
-# Daily Box 20261027
+# Daily Box 20261028
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
-- [Product Hunt](https://www.producthunt.com) | [Arcade Controller Pro](https://www.producthunt.com/products/bluetooth-snes-controller)
-- [GitHub Advanced Search](https://github.com/search/advanced) | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)
+- [Product Hunt](https://www.producthunt.com) | [LFM3 by Liquid AI](https://www.producthunt.com/products/lfm2)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring](https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261027】由于他的发言涉及到对中国和中国人民的伤害，我们不能进行翻译](http://www.dapenti.com/blog/more.asp?name=xilei&id=196393)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-26](https://www.daemonology.net/hn-daily/2026-10-26.html)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-28 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-28-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-28](https://hacker-podcast.agi.li/episode/2026-10-28)
+- [Phoronix](https://www.phoronix.com/) | [Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality](https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261028】到底存不存在“字节时间”](http://www.dapenti.com/blog/more.asp?name=xilei&id=196415)
+- [每日环球视野](https://idai.ly/) | [October 28, 2026](http://m.idai.ly/se/a193iG?1793145600)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-27](https://www.daemonology.net/hn-daily/2026-10-27.html)
+- [Top Hacker News](https://www.tophn.co/) | [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-27](https://hacker-podcast.agi.li/episode/2026-10-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Why is this fingerprinting script creating bioweapons?](https://news.ycombinator.com/item?id=50276998)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [資工小廢物 - JN：2026 去金門、廈門玩（重點版）](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fblog.giveanornot.com%2Fkinmen-xiamen-2026%2F)
+- [博友圈](https://www.boyouquan.com/home) | [水拍石：重负](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.leitao.cn%2F11538.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979)
-- [极客早知道](https://www.geekpark.net/column/74) | [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](https://www.geekpark.net/news/372952)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等](https://sspai.com/post/117750)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告](https://www.ifanr.com/1686109)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【小黄人与大怪兽】小黄人逐梦演艺圈！](https://b23.tv/BV1QDxT6rE4y)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [男生最怕的事也莫过于此](https://b23.tv/BV1eyxj6qEjF)
 
 ## 语录
-- "我们感到不满的原因就在于我们试图不断地提高自己的要求。" - 叔本华 《人生的智慧》
-- "清秋幕府井梧寒，独宿江城蜡炬残。" - 杜甫 《宿府》
-- "Everyone has been made for some particular work, and the desire for that work has been put in every heart." - Rumi
+- "谁说……我大夏无神！吾乃杨戬！" - 三九音域 《我在精神病院学斩神》
+- "梅定妒，菊应羞。画阑开处冠中秋。" - 李清照 《鹧鸪天·桂花》
+- "Just trust yourself, then you will know how to live." - Johann Wolfgang von Goethe
 
 ## 更多
-- [前一天](archives/daily-box-20261026.md)
-- [后一天](archives/daily-box-20261028.md)
+- [前一天](archives/daily-box-20261027.md)
+- [后一天](archives/daily-box-20261029.md)
 
 EOF
