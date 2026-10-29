@@ -1,3 +1,6 @@
+## 20261029
+- [GitHub Trending](https://github.com/trending?since=daily) | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+
 ## 20261028
 - [GitHub Trending](https://github.com/trending?since=daily) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 

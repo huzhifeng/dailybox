@@ -1,3 +1,6 @@
+## 20261029
+- [Phoronix](https://www.phoronix.com/) | [Fedora Linux 45 Shipping Next Week On 3 November](https://www.phoronix.com/news/Fedora-45-Ships-Next-Week)
+
 ## 20261028
 - [Phoronix](https://www.phoronix.com/) | [Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality](https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB)
 
