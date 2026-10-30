@@ -1,3 +1,6 @@
+## 20261030
+- [Product Hunt](https://www.producthunt.com) | [Faylee](https://www.producthunt.com/products/faylee)
+
 ## 20261029
 - [Product Hunt](https://www.producthunt.com) | [TopAgent](https://www.producthunt.com/products/topmessage)
 

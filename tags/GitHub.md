@@ -1,3 +1,6 @@
+## 20261030
+- [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
 ## 20261029
 - [GitHub Trending](https://github.com/trending?since=daily) | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 

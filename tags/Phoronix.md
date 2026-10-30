@@ -1,3 +1,6 @@
+## 20261030
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden](https://www.phoronix.com/news/PostgreSQL-19-Late)
+
 ## 20261029
 - [Phoronix](https://www.phoronix.com/) | [Fedora Linux 45 Shipping Next Week On 3 November](https://www.phoronix.com/news/Fedora-45-Ships-Next-Week)
 
