@@ -1,3 +1,6 @@
+## 20261031
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-26](https://hacker-podcast.agi.li/episode/2026-10-26)
+
 ## 20261029
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-28](https://www.daemonology.net/hn-daily/2026-10-28.html)
 - [Top Hacker News](https://www.tophn.co/) | [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
