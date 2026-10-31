@@ -1,3 +1,6 @@
+## 20261031
+- [Phoronix](https://www.phoronix.com/) | [OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds](https://www.phoronix.com/news/OpenShot-4.1-Released)
+
 ## 20261030
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden](https://www.phoronix.com/news/PostgreSQL-19-Late)
 
