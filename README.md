@@ -1,35 +1,34 @@
-# Daily Box 20261031
+# Daily Box 20261101
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-- [Product Hunt](https://www.producthunt.com) | [Secret Key](https://www.producthunt.com/products/secret-key)
-- [GitHub Advanced Search](https://github.com/search/advanced) | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+- [Product Hunt](https://www.producthunt.com) | [agentmash](https://www.producthunt.com/products/agentmash)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds](https://www.phoronix.com/news/OpenShot-4.1-Released)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261031】只需改一个词，就一通百通便于理解了](http://www.dapenti.com/blog/more.asp?name=xilei&id=196472)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-30](https://www.daemonology.net/hn-daily/2026-10-30.html)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-01 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-01-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-31](https://hacker-podcast.agi.li/episode/2026-10-31)
-- [Hacker News](https://news.ycombinator.com/front) | [An Italian farmer found some unknown seeds in his attic and planted them](https://news.ycombinator.com/item?id=50320963)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations & AMDGPU HDMI 2.1 Default](https://www.phoronix.com/news/Linux-7.4-rc1)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261101】我们都不是圣人、更不是神仙](http://www.dapenti.com/blog/more.asp?name=xilei&id=196483)
+- [每日环球视野](https://idai.ly/) | [November 1, 2026](http://m.idai.ly/se/a193iG?1793491200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-31](https://www.daemonology.net/hn-daily/2026-10-31.html)
+- [Top Hacker News](https://www.tophn.co/) | [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-02 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-02-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-01](https://hacker-podcast.agi.li/episode/2026-11-01)
+- [Hacker News](https://news.ycombinator.com/front) | [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://news.ycombinator.com/item?id=50326821)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [小林先森：现在这个年代，还有人看个人博客吗？](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fblog.1edg.cn%2F859)
+- [博友圈](https://www.boyouquan.com/home) | [灰常记忆：十月的更新](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fbestcherish.com%2F9654.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」](https://www.ifanr.com/1686979)
-- [极客早知道](https://www.geekpark.net/column/74) | [苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道](https://www.geekpark.net/news/373220)
+- [极客早知道](https://www.geekpark.net/column/74) | [ DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人](https://www.geekpark.net/news/373243)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [是该让爸妈兑现催生时的承诺了](https://b23.tv/BV1M5xz64EFq)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [大肥鱼适合做女朋友吗？（2）](https://b23.tv/BV1y5xW63EVq)
 
 ## 语录
-- "日啖荔枝三百颗，不辞长作岭南人。" - 苏轼 《惠州一绝》
-- "梅定妒，菊应羞。画阑开处冠中秋。" - 李清照 《鹧鸪天·桂花》
-- "Everything you can imagine is real." - Pablo Picasso
+- "正雁水夜清，卧虹平帖。" - 吴文英 《暗香·送魏句滨宰吴县解组分韵得阖字》
+- "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 
 ## 更多
-- [前一天](archives/daily-box-20261030.md)
-- [后一天](archives/daily-box-20261101.md)
+- [前一天](archives/daily-box-20261031.md)
+- [后一天](archives/daily-box-20261102.md)
 
 EOF

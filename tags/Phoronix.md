@@ -1,3 +1,6 @@
+## 20261101
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations & AMDGPU HDMI 2.1 Default](https://www.phoronix.com/news/Linux-7.4-rc1)
+
 ## 20261031
 - [Phoronix](https://www.phoronix.com/) | [OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds](https://www.phoronix.com/news/OpenShot-4.1-Released)
 
