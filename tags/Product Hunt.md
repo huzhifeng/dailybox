@@ -1,3 +1,6 @@
+## 20261102
+- [Product Hunt](https://www.producthunt.com) | [Agent Inbox](https://www.producthunt.com/products/agent-inbox)
+
 ## 20261101
 - [Product Hunt](https://www.producthunt.com) | [agentmash](https://www.producthunt.com/products/agentmash)
 

@@ -1,3 +1,6 @@
+## 20261102
+- [Phoronix](https://www.phoronix.com/) | [Radeon RADV Vulkan Driver Adopts An LLM Policy](https://www.phoronix.com/news/RADV-Adopts-LLM-Policy)
+
 ## 20261101
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations & AMDGPU HDMI 2.1 Default](https://www.phoronix.com/news/Linux-7.4-rc1)
 

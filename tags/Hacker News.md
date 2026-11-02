@@ -1,3 +1,10 @@
+## 20261102
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-01](https://www.daemonology.net/hn-daily/2026-11-01.html)
+- [Top Hacker News](https://www.tophn.co/) | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-03 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-03-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-02](https://hacker-podcast.agi.li/episode/2026-11-02)
+- [Hacker News](https://news.ycombinator.com/front) | [Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks](https://news.ycombinator.com/item?id=50341462)
+
 ## 20261101
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-10-31](https://www.daemonology.net/hn-daily/2026-10-31.html)
 - [Top Hacker News](https://www.tophn.co/) | [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)
