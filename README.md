@@ -1,36 +1,36 @@
-# Daily Box 20261102
+# Daily Box 20261103
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-- [Product Hunt](https://www.producthunt.com) | [Agent Inbox](https://www.producthunt.com/products/agent-inbox)
+- [Product Hunt](https://www.producthunt.com) | [Hookdeck Inspect](https://www.producthunt.com/products/hookdeck)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Radeon RADV Vulkan Driver Adopts An LLM Policy](https://www.phoronix.com/news/RADV-Adopts-LLM-Policy)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261102】网约车上不要打电话](http://www.dapenti.com/blog/more.asp?name=xilei&id=196515)
-- [每日环球视野](https://idai.ly/) | [November 2, 2026](http://m.idai.ly/se/a193iG?1793577600)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-01](https://www.daemonology.net/hn-daily/2026-11-01.html)
-- [Top Hacker News](https://www.tophn.co/) | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-03 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-03-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-02](https://hacker-podcast.agi.li/episode/2026-11-02)
-- [Hacker News](https://news.ycombinator.com/front) | [Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks](https://news.ycombinator.com/item?id=50341462)
+- [Phoronix](https://www.phoronix.com/) | [GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports](https://www.phoronix.com/news/GIMP-3.2.8-Released)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261103】预制娃](http://www.dapenti.com/blog/more.asp?name=xilei&id=196534)
+- [每日环球视野](https://idai.ly/) | [November 3, 2026](http://m.idai.ly/se/a193iG?1793664000)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-02](https://www.daemonology.net/hn-daily/2026-11-02.html)
+- [Top Hacker News](https://www.tophn.co/) | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-04 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-04-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-03](https://hacker-podcast.agi.li/episode/2026-11-03)
+- [Hacker News](https://news.ycombinator.com/front) | [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://news.ycombinator.com/item?id=50358582)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [平哥偶记：博友文章与坛友日常中的烟火气](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.pgoj.top%2Farchives%2Fboyou-tanyou-yanhuoqi.html)
+- [博友圈](https://www.boyouquan.com/home) | [因为很想念：修路](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fltmltm.cn%2Fbk%2F1508.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力](https://www.ifanr.com/1687043)
-- [极客早知道](https://www.geekpark.net/column/74) | [​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场](https://www.geekpark.net/news/373252)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189)
+- [极客早知道](https://www.geekpark.net/column/74) | [马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份](https://www.geekpark.net/news/373358)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [哟西！故乡的樱花开了！](https://b23.tv/BV1w34A62Eq2)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」](https://b23.tv/BV1XJ4g6WEyL)
 
 ## 语录
-- "此生此夜不长好，明月明年何处看。" - 苏轼 《阳关曲 / 中秋月》
-- "We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it." - The Buddha
+- "时间之剑斩不断执念，却能斩灭神格。" - 三九音域 《我在精神病院学斩神》
+- "雁字无多，写得相思几许。" - 周密 《扫花游·九日怀归》
+- "A good head and a good heart are always a formidable combination." - Nelson Mandela
 
 ## 更多
-- [前一天](archives/daily-box-20261101.md)
-- [后一天](archives/daily-box-20261103.md)
+- [前一天](archives/daily-box-20261102.md)
+- [后一天](archives/daily-box-20261104.md)
 
 EOF

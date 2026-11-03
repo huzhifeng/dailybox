@@ -1,3 +1,10 @@
+## 20261103
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-02](https://www.daemonology.net/hn-daily/2026-11-02.html)
+- [Top Hacker News](https://www.tophn.co/) | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-04 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-04-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-03](https://hacker-podcast.agi.li/episode/2026-11-03)
+- [Hacker News](https://news.ycombinator.com/front) | [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://news.ycombinator.com/item?id=50358582)
+
 ## 20261102
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-01](https://www.daemonology.net/hn-daily/2026-11-01.html)
 - [Top Hacker News](https://www.tophn.co/) | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)

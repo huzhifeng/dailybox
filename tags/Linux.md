@@ -1,3 +1,6 @@
+## 20261103
+- [Phoronix](https://www.phoronix.com/) | [GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports](https://www.phoronix.com/news/GIMP-3.2.8-Released)
+
 ## 20261102
 - [Phoronix](https://www.phoronix.com/) | [Radeon RADV Vulkan Driver Adopts An LLM Policy](https://www.phoronix.com/news/RADV-Adopts-LLM-Policy)
 
