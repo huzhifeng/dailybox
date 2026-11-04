@@ -36,6 +36,9 @@ def main():
     today_str = today.strftime('%Y%m%d')
     yesterday_str = yesterday.strftime('%Y%m%d')
     tomorrow_str = tomorrow.strftime('%Y%m%d')
+    prev_day = yesterday - datetime.timedelta(days=1)
+    prev_day_str = prev_day.strftime('%Y%m%d')
+    next_day_str = today_str
     lastweek = today - datetime.timedelta(weeks=1)
     timestamp = datetime.datetime.now().timestamp()
     items = []
@@ -89,11 +92,11 @@ def main():
                 else:
                     logger.warning('Other bozo exception, please attention')
                     continue
-            updated = resp.feed.get('updated_parsed', today)
+            updated = resp.feed.get('updated_parsed', yesterday)
             if isinstance(updated, time.struct_time):
                 updated = datetime.datetime(*updated[:6])
-            if updated < today:
-                logger.debug('updated date(%s) < today(%s), feed: %s', updated, today, feed['channel'])
+            if updated < yesterday:
+                logger.debug('updated date(%s) < yesterday(%s), feed: %s', updated, yesterday, feed['channel'])
                 if 'ignoredate' in feed and feed['ignoredate'] == 1:
                     logger.debug('ignore date')
                 else:
@@ -117,7 +120,7 @@ def main():
                     if 'slash_comments' in entry and int(entry['slash_comments']) < 10:
                         continue
                 published = entry.get('published_parsed' if entry.has_key(
-                    'published_parsed') else 'updated_parsed', today)
+                    'published_parsed') else 'updated_parsed', yesterday)
                 if isinstance(published, time.struct_time):
                     published = datetime.datetime(*published[:6])
                 if not published:
@@ -129,9 +132,9 @@ def main():
                             published = published.replace(tzinfo=None)
                     else:
                         continue
-                if published.date() != today.date():
-                    logger.debug('published date(%s) != today(%s), feed %s, entry: %s %s',
-                                    published, today, feed['channel'], entry.title, entry.link)
+                if published.date() != yesterday.date():
+                    logger.debug('published date(%s) != yesterday(%s), feed %s, entry: %s %s',
+                                    published, yesterday, feed['channel'], entry.title, entry.link)
                     if 'ignoredate' in feed and feed['ignoredate'] == 1:
                         logger.debug('ignore published date, check url instead')
                         if check_url_in_tag_file(feed['tags'][0], entry.link):
@@ -316,8 +319,8 @@ def main():
 
     categories_obj = {}
     tags_obj = {}
-    fname_daily_box_today = f'archives/daily-box-{today_str}.md'
-    md_daily_box = f'# Daily Box {today_str}\n\n'
+    fname_daily_box_today = f'archives/daily-box-{yesterday_str}.md'
+    md_daily_box = f'# Daily Box {yesterday_str}\n\n'
 
     for item in items:
         category = item['category']
@@ -346,7 +349,7 @@ def main():
     for category, category_val in categories_obj.items():
         md_daily_box += f'## {category}\n'
         md_daily_box += f'{category_val}\n'
-        md_category = f'## {today_str}\n{category_val}\n'
+        md_category = f'## {yesterday_str}\n{category_val}\n'
         Path('categories').mkdir(parents=True, exist_ok=True)
         fname_category = f'categories/{category}.md'
         md_old = ''
@@ -357,8 +360,8 @@ def main():
             fd_category_new.write(f'{md_category}{md_old}')
 
     md_daily_box += '## 更多\n'
-    md_daily_box += f'- [前一天](daily-box-{yesterday_str}.md)\n'
-    md_daily_box += f'- [后一天](daily-box-{tomorrow_str}.md)\n\n'
+    md_daily_box += f'- [前一天](daily-box-{prev_day_str}.md)\n'
+    md_daily_box += f'- [后一天](daily-box-{next_day_str}.md)\n\n'
     md_daily_box += 'EOF'
     print(md_daily_box)
 
@@ -374,7 +377,7 @@ def main():
     fd_readme.close()
 
     for tag, tag_val in tags_obj.items():
-        md_tag = f'## {today_str}\n{tag_val}\n'
+        md_tag = f'## {yesterday_str}\n{tag_val}\n'
         Path('tags').mkdir(parents=True, exist_ok=True)
         fname_tag = f'tags/{tag}.md'
         md_old = ''

@@ -1,7 +1,7 @@
 name: Daily Box Bot
 on: 
   schedule:
-    - cron:  '45 11 * * *'
+    - cron:  '30 0 * * *'
 jobs:
   Dialy-Box-Bot-Actions:
     runs-on: ubuntu-latest
@@ -37,7 +37,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Bot: update $(date +%Y%m%d)"
+          git commit -m "Bot: update $(date -d 'yesterday' +%Y%m%d)"
       - name: Push changes
         if: ${{ env.changed == 'true' }}
         uses: ad-m/github-push-action@master
