@@ -30,7 +30,11 @@ def main():
     """Main loop."""
     timezone = pytz.timezone('Asia/Shanghai')
     now = datetime.datetime.now(timezone)
-    today = now.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
+    today_env = os.getenv('TODAY')
+    if today_env:
+        today = datetime.datetime.strptime(today_env, '%Y-%m-%d')
+    else:
+        today = now.replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     yesterday = today - datetime.timedelta(days=1)
     tomorrow = today + datetime.timedelta(days=1)
     today_str = today.strftime('%Y%m%d')
