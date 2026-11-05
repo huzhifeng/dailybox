@@ -1,36 +1,35 @@
-# Daily Box 20261103
+# Daily Box 20261104
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-- [Product Hunt](https://www.producthunt.com) | [Hookdeck Inspect](https://www.producthunt.com/products/hookdeck)
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Product Hunt](https://www.producthunt.com) | [Clocknext](https://www.producthunt.com/products/clocknext)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports](https://www.phoronix.com/news/GIMP-3.2.8-Released)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261103】预制娃](http://www.dapenti.com/blog/more.asp?name=xilei&id=196534)
-- [每日环球视野](https://idai.ly/) | [November 3, 2026](http://m.idai.ly/se/a193iG?1793664000)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-02](https://www.daemonology.net/hn-daily/2026-11-02.html)
-- [Top Hacker News](https://www.tophn.co/) | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-04 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-04-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-03](https://hacker-podcast.agi.li/episode/2026-11-03)
-- [Hacker News](https://news.ycombinator.com/front) | [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://news.ycombinator.com/item?id=50358582)
+- [Phoronix](https://www.phoronix.com/) | [LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains](https://www.phoronix.com/news/LZ4-1.11-Released)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261104】TRUMP OUT](http://www.dapenti.com/blog/more.asp?name=xilei&id=196556)
+- [每日环球视野](https://idai.ly/) | [November 5, 2026](http://m.idai.ly/se/a193iG?1793836800)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-03](https://www.daemonology.net/hn-daily/2026-11-03.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-04](https://hacker-podcast.agi.li/episode/2026-11-04)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [因为很想念：修路](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fltmltm.cn%2Fbk%2F1508.html)
+- [博友圈](https://www.boyouquan.com/home) | [随风沐虐：红果短剧，根本停不下来！](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.munue.com%2F822.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189)
-- [极客早知道](https://www.geekpark.net/column/74) | [马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份](https://www.geekpark.net/news/373358)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时](https://www.ifanr.com/1687750)
+- [极客早知道](https://www.geekpark.net/column/74) | [Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道](https://www.geekpark.net/news/373494)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」](https://b23.tv/BV1XJ4g6WEyL)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [真的需要摸吗？MacBook Pro PROLED XDR上手](https://b23.tv/BV1NS4t6oEXQ)
 
 ## 语录
-- "时间之剑斩不断执念，却能斩灭神格。" - 三九音域 《我在精神病院学斩神》
-- "雁字无多，写得相思几许。" - 周密 《扫花游·九日怀归》
-- "A good head and a good heart are always a formidable combination." - Nelson Mandela
+- "我想伟大的思想家确实有同样的想法。" - postman开发人员 《网络》
+- "黄沙百战穿金甲，不破楼兰终不还。" - 王昌龄 《从军行七首·其四》
+- "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all." - Edward de Bono
 
 ## 更多
-- [前一天](archives/daily-box-20261102.md)
-- [后一天](archives/daily-box-20261104.md)
+- [前一天](archives/daily-box-20261103.md)
+- [后一天](archives/daily-box-20261105.md)
 
 EOF

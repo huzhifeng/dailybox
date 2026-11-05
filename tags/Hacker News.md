@@ -1,3 +1,8 @@
+## 20261104
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-03](https://www.daemonology.net/hn-daily/2026-11-03.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-04](https://hacker-podcast.agi.li/episode/2026-11-04)
+
 ## 20261103
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-02](https://www.daemonology.net/hn-daily/2026-11-02.html)
 - [Top Hacker News](https://www.tophn.co/) | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
