@@ -1,3 +1,10 @@
+## 20261105
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-04](https://www.daemonology.net/hn-daily/2026-11-04.html)
+- [Top Hacker News](https://www.tophn.co/) | [Sshole](https://sshhole.com)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-05](https://hacker-podcast.agi.li/episode/2026-11-05)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude Code sends your email address to websites](https://news.ycombinator.com/item?id=50385272)
+
 ## 20261104
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-03](https://www.daemonology.net/hn-daily/2026-11-03.html)
 - [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)
