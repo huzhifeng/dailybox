@@ -1,5 +1,9 @@
 ## 20261105
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
+- [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)
+
+## 20261105
+- [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
 
 ## 20261104
 - [Phoronix](https://www.phoronix.com/) | [LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains](https://www.phoronix.com/news/LZ4-1.11-Released)

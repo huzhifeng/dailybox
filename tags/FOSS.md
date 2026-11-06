@@ -1,3 +1,6 @@
+## 20261105
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
+
 ## 20261025
 - [It's FOSS](https://itsfoss.com/) | [Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones](https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven)
 

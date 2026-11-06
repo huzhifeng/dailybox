@@ -1,15 +1,19 @@
 # Daily Box 20261105
 
+## 开源
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
+
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [LibHunt](https://www.libhunt.com/) | [bruno](https://www.libhunt.com/r/bruno)
 
 ## 资讯
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
+- [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)
 - [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261105】环球同此凉热](http://www.dapenti.com/blog/more.asp?name=xilei&id=196580)
 - [每日环球视野](https://idai.ly/) | [November 5, 2026](http://m.idai.ly/se/a193iG?1793836800)
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-04](https://www.daemonology.net/hn-daily/2026-11-04.html)
 - [Top Hacker News](https://www.tophn.co/) | [Sshole](https://sshhole.com)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-05](https://hacker-podcast.agi.li/episode/2026-11-05)
 - [Hacker News](https://news.ycombinator.com/front) | [Claude Code sends your email address to websites](https://news.ycombinator.com/item?id=50385272)
 
@@ -22,11 +26,12 @@
 - [极客早知道](https://www.geekpark.net/column/74) | [中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber](https://www.geekpark.net/news/373554)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【2026全球总决赛】11月6日 DK vs BLG](https://b23.tv/BV1Zj4v6aEuj)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《崩坏：星穹铁道》公益第三卷：「抵达彩色的彼方」](https://b23.tv/BV1Ly4i6AE5b)
 
 ## 语录
-- "少小虽非投笔吏，论功还欲请长缨。" - 祖咏 《望蓟门》
-- "Don't smother each other. No one can grow in the shade." - Leo Buscaglia
+- "苟利国家生死以，岂因祸福避趋之！" - 林则徐 《赴戍登程口占示家人·其二》
+- "今古长如白练飞，一条界破青山色。" - 徐凝 《庐山瀑布》
+- "Ardently do today what must be done. Who knows? Tomorrow, death comes." - The Buddha
 
 ## 更多
 - [前一天](archives/daily-box-20261104.md)

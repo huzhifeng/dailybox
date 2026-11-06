@@ -1,3 +1,6 @@
+## 20261105
+- [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)
+
 ## 20261025
 - [9to5Linux](https://9to5linux.com/) | [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026)
 
