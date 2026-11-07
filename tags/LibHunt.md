@@ -1,3 +1,6 @@
+## 20261106
+- [LibHunt](https://www.libhunt.com/) | [switch](https://www.libhunt.com/r/switch)
+
 ## 20261105
 - [LibHunt](https://www.libhunt.com/) | [bruno](https://www.libhunt.com/r/bruno)
 

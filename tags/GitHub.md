@@ -1,3 +1,6 @@
+## 20261106
+- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+
 ## 20261105
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 

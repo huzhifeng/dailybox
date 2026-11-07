@@ -1,40 +1,35 @@
-# Daily Box 20261105
+# Daily Box 20261106
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
+- [It's FOSS](https://itsfoss.com/) | [Kitty 0.50 Picks Up Where You Left Off After a System Restart](https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-- [LibHunt](https://www.libhunt.com/) | [bruno](https://www.libhunt.com/r/bruno)
+- [LibHunt](https://www.libhunt.com/) | [switch](https://www.libhunt.com/r/switch)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
-- [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261105】环球同此凉热](http://www.dapenti.com/blog/more.asp?name=xilei&id=196580)
-- [每日环球视野](https://idai.ly/) | [November 5, 2026](http://m.idai.ly/se/a193iG?1793836800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-04](https://www.daemonology.net/hn-daily/2026-11-04.html)
-- [Top Hacker News](https://www.tophn.co/) | [Sshole](https://sshhole.com)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-05](https://hacker-podcast.agi.li/episode/2026-11-05)
-- [Hacker News](https://news.ycombinator.com/front) | [Claude Code sends your email address to websites](https://news.ycombinator.com/item?id=50385272)
-
-## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [魏文超博客：《和女儿有关的二三小事》](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.weiwenchao.com%2F2915.html)
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261106】只要我们停止开发大模型，中国大模型也会停止进步的](http://www.dapenti.com/blog/more.asp?name=xilei&id=196604)
+- [每日环球视野](https://idai.ly/) | [November 6, 2026](http://m.idai.ly/se/a193iG?1793923200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-05](https://www.daemonology.net/hn-daily/2026-11-05.html)
+- [Top Hacker News](https://www.tophn.co/) | [Tesla winds down Cybertruck production after years of poor sales in few markets](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-06](https://hacker-podcast.agi.li/episode/2026-11-06)
+- [Hacker News](https://news.ycombinator.com/front) | [Libghostty 1.0](https://news.ycombinator.com/item?id=50399933)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032)
-- [极客早知道](https://www.geekpark.net/column/74) | [中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber](https://www.geekpark.net/news/373554)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票](https://www.ifanr.com/1688251)
+- [极客早知道](https://www.geekpark.net/column/74) | [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](https://www.geekpark.net/news/373639)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《崩坏：星穹铁道》公益第三卷：「抵达彩色的彼方」](https://b23.tv/BV1Ly4i6AE5b)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《绝区零》未明通讯丨知更鸟&卡芙卡](https://b23.tv/BV1oU4762EHR)
 
 ## 语录
-- "苟利国家生死以，岂因祸福避趋之！" - 林则徐 《赴戍登程口占示家人·其二》
-- "今古长如白练飞，一条界破青山色。" - 徐凝 《庐山瀑布》
-- "Ardently do today what must be done. Who knows? Tomorrow, death comes." - The Buddha
+- "草木摇杀气，星辰无光彩。" - 李白 《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》
+- "When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it." - A. Powell Davies
 
 ## 更多
-- [前一天](archives/daily-box-20261104.md)
-- [后一天](archives/daily-box-20261106.md)
+- [前一天](archives/daily-box-20261105.md)
+- [后一天](archives/daily-box-20261107.md)
 
 EOF

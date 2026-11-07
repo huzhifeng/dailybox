@@ -1,3 +1,6 @@
+## 20261106
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
+
 ## 20261105
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
 

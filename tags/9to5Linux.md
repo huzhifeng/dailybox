@@ -1,3 +1,6 @@
+## 20261106
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
+
 ## 20261105
 - [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)
 

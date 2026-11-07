@@ -1,3 +1,7 @@
+## 20261106
+- [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
+- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
+
 ## 20261105
 - [Phoronix](https://www.phoronix.com/) | [AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4](https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes)
 - [9to5Linux](https://9to5linux.com/) | [OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes](https://9to5linux.com/openvpn-2-7-9-released-with-linux-and-gui-improvements-bug-fixes)

@@ -1,3 +1,6 @@
+## 20261106
+- [It's FOSS](https://itsfoss.com/) | [Kitty 0.50 Picks Up Where You Left Off After a System Restart](https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release)
+
 ## 20261105
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
 
