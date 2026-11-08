@@ -1,3 +1,6 @@
+## 20261107
+- [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
+
 ## 20261106
 - [LibHunt](https://www.libhunt.com/) | [switch](https://www.libhunt.com/r/switch)
 

@@ -1,3 +1,6 @@
+## 20261107
+- [9to5Linux](https://9to5linux.com/) | [System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop](https://9to5linux.com/system76-teases-cosmic-theme-constellations-for-its-cosmic-desktop)
+
 ## 20261106
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
 

@@ -1,3 +1,9 @@
+## 20261107
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-06](https://www.daemonology.net/hn-daily/2026-11-06.html)
+- [Top Hacker News](https://www.tophn.co/) | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-07](https://hacker-podcast.agi.li/episode/2026-11-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://news.ycombinator.com/item?id=50407882)
+
 ## 20261106
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-05](https://www.daemonology.net/hn-daily/2026-11-05.html)
 - [Top Hacker News](https://www.tophn.co/) | [Tesla winds down Cybertruck production after years of poor sales in few markets](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)

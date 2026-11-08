@@ -1,3 +1,6 @@
+## 20261107
+- [Phoronix](https://www.phoronix.com/) | [OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps](https://www.phoronix.com/news/OpenIndiana-2026.10)
+
 ## 20261106
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
 

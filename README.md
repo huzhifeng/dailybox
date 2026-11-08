@@ -1,35 +1,35 @@
-# Daily Box 20261106
-
-## 开源
-- [It's FOSS](https://itsfoss.com/) | [Kitty 0.50 Picks Up Where You Left Off After a System Restart](https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release)
+# Daily Box 20261107
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-- [LibHunt](https://www.libhunt.com/) | [switch](https://www.libhunt.com/r/switch)
+- [GitHub Trending](https://github.com/trending?since=daily) | [zed-industries/zed](https://github.com/zed-industries/zed)
+- [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
-- [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261106】只要我们停止开发大模型，中国大模型也会停止进步的](http://www.dapenti.com/blog/more.asp?name=xilei&id=196604)
-- [每日环球视野](https://idai.ly/) | [November 6, 2026](http://m.idai.ly/se/a193iG?1793923200)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-05](https://www.daemonology.net/hn-daily/2026-11-05.html)
-- [Top Hacker News](https://www.tophn.co/) | [Tesla winds down Cybertruck production after years of poor sales in few markets](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-06](https://hacker-podcast.agi.li/episode/2026-11-06)
-- [Hacker News](https://news.ycombinator.com/front) | [Libghostty 1.0](https://news.ycombinator.com/item?id=50399933)
+- [Phoronix](https://www.phoronix.com/) | [OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps](https://www.phoronix.com/news/OpenIndiana-2026.10)
+- [9to5Linux](https://9to5linux.com/) | [System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop](https://9to5linux.com/system76-teases-cosmic-theme-constellations-for-its-cosmic-desktop)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦音频版·吐槽精选05】你以为你知道，其实你全错了](http://www.dapenti.com/blog/more.asp?name=xilei&id=196615)
+- [每日环球视野](https://idai.ly/) | [November 7, 2026](http://m.idai.ly/se/a193iG?1794009600)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-06](https://www.daemonology.net/hn-daily/2026-11-06.html)
+- [Top Hacker News](https://www.tophn.co/) | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-07](https://hacker-podcast.agi.li/episode/2026-11-07)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://news.ycombinator.com/item?id=50407882)
+
+## 漫游
+- [博友圈](https://www.boyouquan.com/home) | [浮生事：羊肉汤锅](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fetom.top%2Farchives%2Fso275.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票](https://www.ifanr.com/1688251)
-- [极客早知道](https://www.geekpark.net/column/74) | [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](https://www.geekpark.net/news/373639)
+- [极客早知道](https://www.geekpark.net/column/74) | [收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案](https://www.geekpark.net/news/373649)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《绝区零》未明通讯丨知更鸟&卡芙卡](https://b23.tv/BV1oU4762EHR)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [货币战争有自己的黑暗大法师【水无月菌】](https://b23.tv/BV1yP4x6SEbt)
 
 ## 语录
-- "草木摇杀气，星辰无光彩。" - 李白 《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》
-- "When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it." - A. Powell Davies
+- "近水楼台先得月，向阳花木易为春。" - 苏麟 《断句》
+- "蕃汉断消息，死生长别离。" - 张籍 《没蕃故人》
+- "Leave no stone unturned." - Euripides
 
 ## 更多
-- [前一天](archives/daily-box-20261105.md)
-- [后一天](archives/daily-box-20261107.md)
+- [前一天](archives/daily-box-20261106.md)
+- [后一天](archives/daily-box-20261108.md)
 
 EOF

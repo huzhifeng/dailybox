@@ -1,3 +1,7 @@
+## 20261107
+- [Phoronix](https://www.phoronix.com/) | [OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps](https://www.phoronix.com/news/OpenIndiana-2026.10)
+- [9to5Linux](https://9to5linux.com/) | [System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop](https://9to5linux.com/system76-teases-cosmic-theme-constellations-for-its-cosmic-desktop)
+
 ## 20261106
 - [Phoronix](https://www.phoronix.com/) | [ReactOS Lands Initial USB3 Driver Support](https://www.phoronix.com/news/ReactOS-Initial-USB-3.0)
 - [9to5Linux](https://9to5linux.com/) | [GStreamer 1.28.9 Multimedia Framework Adds Support for mpph264enc Encoder](https://9to5linux.com/gstreamer-1-28-9-multimedia-framework-adds-support-for-the-mpph264enc-encoder)
