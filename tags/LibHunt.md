@@ -1,3 +1,6 @@
+## 20261108
+- [LibHunt](https://www.libhunt.com/) | [hermes-agent](https://www.libhunt.com/r/hermes-agent)
+
 ## 20261107
 - [LibHunt](https://www.libhunt.com/) | [zed](https://www.libhunt.com/r/zed)
 

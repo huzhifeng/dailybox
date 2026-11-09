@@ -1,3 +1,6 @@
+## 20261108
+- [It's FOSS](https://itsfoss.com/) | [Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code](https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl)
+
 ## 20261106
 - [It's FOSS](https://itsfoss.com/) | [Kitty 0.50 Picks Up Where You Left Off After a System Restart](https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release)
 

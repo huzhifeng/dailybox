@@ -1,3 +1,6 @@
+## 20261108
+- [GitHub Trending](https://github.com/trending?since=daily) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
 ## 20261107
 - [GitHub Trending](https://github.com/trending?since=daily) | [zed-industries/zed](https://github.com/zed-industries/zed)
 

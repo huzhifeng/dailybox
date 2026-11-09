@@ -1,3 +1,6 @@
+## 20261108
+- [9to5Linux](https://9to5linux.com/) | [Slax Linux Is Back with a Revamped Desktop, New Tools, and More](https://9to5linux.com/slax-linux-is-back-with-a-revamped-desktop-new-tools-and-more)
+
 ## 20261107
 - [9to5Linux](https://9to5linux.com/) | [System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop](https://9to5linux.com/system76-teases-cosmic-theme-constellations-for-its-cosmic-desktop)
 

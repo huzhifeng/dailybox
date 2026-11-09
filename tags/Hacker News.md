@@ -1,3 +1,9 @@
+## 20261108
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-07](https://www.daemonology.net/hn-daily/2026-11-07.html)
+- [Top Hacker News](https://www.tophn.co/) | [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-30](https://hacker-podcast.agi.li/episode/2026-10-30)
+- [Hacker News](https://news.ycombinator.com/front) | [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://news.ycombinator.com/item?id=50418176)
+
 ## 20261107
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-06](https://www.daemonology.net/hn-daily/2026-11-06.html)
 - [Top Hacker News](https://www.tophn.co/) | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)

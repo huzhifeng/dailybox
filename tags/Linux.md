@@ -1,3 +1,7 @@
+## 20261108
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement](https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4)
+- [9to5Linux](https://9to5linux.com/) | [Slax Linux Is Back with a Revamped Desktop, New Tools, and More](https://9to5linux.com/slax-linux-is-back-with-a-revamped-desktop-new-tools-and-more)
+
 ## 20261107
 - [Phoronix](https://www.phoronix.com/) | [OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps](https://www.phoronix.com/news/OpenIndiana-2026.10)
 - [9to5Linux](https://9to5linux.com/) | [System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop](https://9to5linux.com/system76-teases-cosmic-theme-constellations-for-its-cosmic-desktop)

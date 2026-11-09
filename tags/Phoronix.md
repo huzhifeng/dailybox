@@ -1,3 +1,6 @@
+## 20261108
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement](https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4)
+
 ## 20261107
 - [Phoronix](https://www.phoronix.com/) | [OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps](https://www.phoronix.com/news/OpenIndiana-2026.10)
 
