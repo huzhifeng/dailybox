@@ -1,3 +1,7 @@
+## 20261109
+- [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)
+
 ## 20261108
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement](https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4)
 - [9to5Linux](https://9to5linux.com/) | [Slax Linux Is Back with a Revamped Desktop, New Tools, and More](https://9to5linux.com/slax-linux-is-back-with-a-revamped-desktop-new-tools-and-more)

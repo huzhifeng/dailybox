@@ -1,38 +1,37 @@
-# Daily Box 20261108
+# Daily Box 20261109
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code](https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl)
+- [It's FOSS](https://itsfoss.com/) | [SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026](https://feed.itsfoss.com/link/24361/17518527/openeuler-summit-2026)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-- [LibHunt](https://www.libhunt.com/) | [hermes-agent](https://www.libhunt.com/r/hermes-agent)
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
+- [LibHunt](https://www.libhunt.com/) | [yaak](https://www.libhunt.com/r/yaak)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement](https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4)
-- [9to5Linux](https://9to5linux.com/) | [Slax Linux Is Back with a Revamped Desktop, New Tools, and More](https://9to5linux.com/slax-linux-is-back-with-a-revamped-desktop-new-tools-and-more)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261108】星空与圆月是公平的，它会一直陪着抬头望见月亮的人](http://www.dapenti.com/blog/more.asp?name=xilei&id=196623)
-- [每日环球视野](https://idai.ly/) | [November 8, 2026](http://m.idai.ly/se/a193iG?1794096000)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-07](https://www.daemonology.net/hn-daily/2026-11-07.html)
-- [Top Hacker News](https://www.tophn.co/) | [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-10-30](https://hacker-podcast.agi.li/episode/2026-10-30)
-- [Hacker News](https://news.ycombinator.com/front) | [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://news.ycombinator.com/item?id=50418176)
+- [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261109】她不一样，她懂显卡](http://www.dapenti.com/blog/more.asp?name=xilei&id=196653)
+- [每日环球视野](https://idai.ly/) | [November 9, 2026](http://m.idai.ly/se/a193iG?1794182400)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-08](https://www.daemonology.net/hn-daily/2026-11-08.html)
+- [Top Hacker News](https://www.tophn.co/) | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-09](https://hacker-podcast.agi.li/episode/2026-11-09)
+- [Hacker News](https://news.ycombinator.com/front) | [Fable 5.2 one-shotted my nephew's dream game](https://news.ycombinator.com/item?id=50433659)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [白熊阿丸的小屋：从内耗到外耗，以及自爱](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fblog.bxaw.name%2Farchives%2FFrom-Inner-Turmoil-to-Self-Love.html)
+- [博友圈](https://www.boyouquan.com/home) | [织梦岁月：几番踩坑，下一台笔记本不选联想了](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fzhujianlin.com%2Farchives%2F2500.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379)
-- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层](https://www.geekpark.net/news/373687)
-
-## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [选举大败特朗普和马斯克这下惨了](https://b23.tv/BV1WEWs66EBP)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654)
+- [极客早知道](https://www.geekpark.net/column/74) | [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](https://www.geekpark.net/news/373736)
 
 ## 语录
-- "庭前落尽梧桐，水边开彻芙蓉。" - 朱庭玉 《天净沙·秋》
-- "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!" - Charlotte Perkins Gilman
+- "如果有来生，要做一只鸟，飞越永恒，没有迷途的苦恼。" - 三毛 《说给自己听》
+- "一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。" - 徐再思 《水仙子·夜雨》
+- "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another." - Eustace Budgell
 
 ## 更多
-- [前一天](archives/daily-box-20261107.md)
-- [后一天](archives/daily-box-20261109.md)
+- [前一天](archives/daily-box-20261108.md)
+- [后一天](archives/daily-box-20261110.md)
 
 EOF

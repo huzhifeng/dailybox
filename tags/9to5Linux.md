@@ -1,3 +1,6 @@
+## 20261109
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)
+
 ## 20261108
 - [9to5Linux](https://9to5linux.com/) | [Slax Linux Is Back with a Revamped Desktop, New Tools, and More](https://9to5linux.com/slax-linux-is-back-with-a-revamped-desktop-new-tools-and-more)
 

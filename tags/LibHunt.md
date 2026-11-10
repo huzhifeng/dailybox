@@ -1,3 +1,6 @@
+## 20261109
+- [LibHunt](https://www.libhunt.com/) | [yaak](https://www.libhunt.com/r/yaak)
+
 ## 20261108
 - [LibHunt](https://www.libhunt.com/) | [hermes-agent](https://www.libhunt.com/r/hermes-agent)
 

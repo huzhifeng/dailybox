@@ -1,3 +1,9 @@
+## 20261109
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-08](https://www.daemonology.net/hn-daily/2026-11-08.html)
+- [Top Hacker News](https://www.tophn.co/) | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-09](https://hacker-podcast.agi.li/episode/2026-11-09)
+- [Hacker News](https://news.ycombinator.com/front) | [Fable 5.2 one-shotted my nephew's dream game](https://news.ycombinator.com/item?id=50433659)
+
 ## 20261108
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-07](https://www.daemonology.net/hn-daily/2026-11-07.html)
 - [Top Hacker News](https://www.tophn.co/) | [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)

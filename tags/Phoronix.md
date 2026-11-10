@@ -1,3 +1,6 @@
+## 20261109
+- [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
+
 ## 20261108
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement](https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4)
 

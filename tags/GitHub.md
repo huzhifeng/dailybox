@@ -1,3 +1,6 @@
+## 20261109
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
+
 ## 20261108
 - [GitHub Trending](https://github.com/trending?since=daily) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
