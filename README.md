@@ -1,37 +1,35 @@
-# Daily Box 20261109
+# Daily Box 20261110
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026](https://feed.itsfoss.com/link/24361/17518527/openeuler-summit-2026)
+- [It's FOSS](https://itsfoss.com/) | [The Company Behind GameOS is Now Building an AI Desktop OS Based on Linux](https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
-- [LibHunt](https://www.libhunt.com/) | [yaak](https://www.libhunt.com/r/yaak)
+- [LibHunt](https://www.libhunt.com/) | [x402](https://www.libhunt.com/r/x402)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
-- [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261109】她不一样，她懂显卡](http://www.dapenti.com/blog/more.asp?name=xilei&id=196653)
-- [每日环球视野](https://idai.ly/) | [November 9, 2026](http://m.idai.ly/se/a193iG?1794182400)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-08](https://www.daemonology.net/hn-daily/2026-11-08.html)
-- [Top Hacker News](https://www.tophn.co/) | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-09](https://hacker-podcast.agi.li/episode/2026-11-09)
-- [Hacker News](https://news.ycombinator.com/front) | [Fable 5.2 one-shotted my nephew's dream game](https://news.ycombinator.com/item?id=50433659)
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores](https://www.phoronix.com/review/amd-epyc-9996)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 160 Email Client Released with Various Improvements](https://9to5linux.com/mozilla-thunderbird-160-email-client-released-with-various-improvements)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261110】仙之人兮列如麻](http://www.dapenti.com/blog/more.asp?name=xilei&id=196676)
+- [每日环球视野](https://idai.ly/) | [November 10, 2026](http://m.idai.ly/se/a193iG?1794268800)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-09](https://www.daemonology.net/hn-daily/2026-11-09.html)
+- [Top Hacker News](https://www.tophn.co/) | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-10](https://hacker-podcast.agi.li/episode/2026-11-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Tracking Anthropic-discovered vulnerabilities](https://news.ycombinator.com/item?id=50447074)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [织梦岁月：几番踩坑，下一台笔记本不选联想了](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fzhujianlin.com%2Farchives%2F2500.html)
+- [博友圈](https://www.boyouquan.com/home) | [叶开红雪：我到訪時的庫克山](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fyekaihongxue.com%2F2026%2F11%2F10%2Fmountcook%2F)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654)
-- [极客早知道](https://www.geekpark.net/column/74) | [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](https://www.geekpark.net/news/373736)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜](https://www.ifanr.com/1688852)
+- [极客早知道](https://www.geekpark.net/column/74) | [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员](https://www.geekpark.net/news/373796)
 
 ## 语录
-- "如果有来生，要做一只鸟，飞越永恒，没有迷途的苦恼。" - 三毛 《说给自己听》
-- "一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。" - 徐再思 《水仙子·夜雨》
-- "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another." - Eustace Budgell
+- "此日六军同驻马，当时七夕笑牵牛。" - 李商隐 《马嵬·其二》
+- "You're never a loser until you quit trying." - Mike Ditka
 
 ## 更多
-- [前一天](archives/daily-box-20261108.md)
-- [后一天](archives/daily-box-20261110.md)
+- [前一天](archives/daily-box-20261109.md)
+- [后一天](archives/daily-box-20261111.md)
 
 EOF

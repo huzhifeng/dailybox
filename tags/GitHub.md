@@ -1,3 +1,6 @@
+## 20261110
+- [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
+
 ## 20261109
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
 

@@ -1,3 +1,6 @@
+## 20261110
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 160 Email Client Released with Various Improvements](https://9to5linux.com/mozilla-thunderbird-160-email-client-released-with-various-improvements)
+
 ## 20261109
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)
 

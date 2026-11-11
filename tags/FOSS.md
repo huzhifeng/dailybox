@@ -1,3 +1,6 @@
+## 20261110
+- [It's FOSS](https://itsfoss.com/) | [The Company Behind GameOS is Now Building an AI Desktop OS Based on Linux](https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled)
+
 ## 20261109
 - [It's FOSS](https://itsfoss.com/) | [SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026](https://feed.itsfoss.com/link/24361/17518527/openeuler-summit-2026)
 

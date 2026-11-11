@@ -1,3 +1,7 @@
+## 20261110
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores](https://www.phoronix.com/review/amd-epyc-9996)
+- [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 160 Email Client Released with Various Improvements](https://9to5linux.com/mozilla-thunderbird-160-email-client-released-with-various-improvements)
+
 ## 20261109
 - [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Firefox 160 Is Now Available for Download, Here’s What&#8217;s New](https://9to5linux.com/mozilla-firefox-160-is-now-available-for-download-heres-whats-new)

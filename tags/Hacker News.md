@@ -1,3 +1,9 @@
+## 20261110
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-09](https://www.daemonology.net/hn-daily/2026-11-09.html)
+- [Top Hacker News](https://www.tophn.co/) | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-10](https://hacker-podcast.agi.li/episode/2026-11-10)
+- [Hacker News](https://news.ycombinator.com/front) | [Tracking Anthropic-discovered vulnerabilities](https://news.ycombinator.com/item?id=50447074)
+
 ## 20261109
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-08](https://www.daemonology.net/hn-daily/2026-11-08.html)
 - [Top Hacker News](https://www.tophn.co/) | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)

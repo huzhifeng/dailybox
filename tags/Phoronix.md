@@ -1,3 +1,6 @@
+## 20261110
+- [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores](https://www.phoronix.com/review/amd-epyc-9996)
+
 ## 20261109
 - [Phoronix](https://www.phoronix.com/) | [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](https://www.phoronix.com/news/Firefox-160-Released)
 
