@@ -1,3 +1,6 @@
+## 20261111
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Enabling The GPU D-Series "Crescent Island" Driver Support For Linux 7.5](https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5)
+
 ## 20261110
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores](https://www.phoronix.com/review/amd-epyc-9996)
 

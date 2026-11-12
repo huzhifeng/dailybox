@@ -1,3 +1,7 @@
+## 20261111
+- [Phoronix](https://www.phoronix.com/) | [Intel Continues Enabling The GPU D-Series "Crescent Island" Driver Support For Linux 7.5](https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5)
+- [9to5Linux](https://9to5linux.com/) | [Linux’s exFAT Progs 1.4.4 Adds Optional I/O Statistics Collection for Profiling](https://9to5linux.com/linuxs-exfat-progs-1-4-4-adds-optional-i-o-statistics-collection-for-profiling)
+
 ## 20261110
 - [Phoronix](https://www.phoronix.com/) | [AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores](https://www.phoronix.com/review/amd-epyc-9996)
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 160 Email Client Released with Various Improvements](https://9to5linux.com/mozilla-thunderbird-160-email-client-released-with-various-improvements)

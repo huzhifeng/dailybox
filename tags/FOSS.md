@@ -1,3 +1,6 @@
+## 20261111
+- [It's FOSS](https://itsfoss.com/) | [The AI-Assisted Linux Driver for DisplayLink Gets Legal Notice](https://feed.itsfoss.com/link/24361/17522155/synaptics-vino-fiasco)
+
 ## 20261110
 - [It's FOSS](https://itsfoss.com/) | [The Company Behind GameOS is Now Building an AI Desktop OS Based on Linux](https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled)
 

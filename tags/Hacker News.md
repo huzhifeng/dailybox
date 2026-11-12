@@ -1,3 +1,9 @@
+## 20261111
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-10](https://www.daemonology.net/hn-daily/2026-11-10.html)
+- [Top Hacker News](https://www.tophn.co/) | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-08](https://hacker-podcast.agi.li/episode/2026-11-08)
+- [Hacker News](https://news.ycombinator.com/front) | [93% of paint splatters are valid Perl programs (2019)](https://news.ycombinator.com/item?id=50459745)
+
 ## 20261110
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-09](https://www.daemonology.net/hn-daily/2026-11-09.html)
 - [Top Hacker News](https://www.tophn.co/) | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)

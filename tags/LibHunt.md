@@ -1,3 +1,6 @@
+## 20261111
+- [LibHunt](https://www.libhunt.com/) | [vmodal_sdk_flutter](https://www.libhunt.com/r/vmodal_sdk_flutter)
+
 ## 20261110
 - [LibHunt](https://www.libhunt.com/) | [x402](https://www.libhunt.com/r/x402)
 

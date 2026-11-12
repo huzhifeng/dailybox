@@ -1,3 +1,6 @@
+## 20261111
+- [GitHub Trending](https://github.com/trending?since=daily) | [meta/astryx](https://github.com/meta/astryx)
+
 ## 20261110
 - [GitHub Trending](https://github.com/trending?since=daily) | [anthropics/skills](https://github.com/anthropics/skills)
 

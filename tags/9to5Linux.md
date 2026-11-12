@@ -1,3 +1,6 @@
+## 20261111
+- [9to5Linux](https://9to5linux.com/) | [Linux’s exFAT Progs 1.4.4 Adds Optional I/O Statistics Collection for Profiling](https://9to5linux.com/linuxs-exfat-progs-1-4-4-adds-optional-i-o-statistics-collection-for-profiling)
+
 ## 20261110
 - [9to5Linux](https://9to5linux.com/) | [Mozilla Thunderbird 160 Email Client Released with Various Improvements](https://9to5linux.com/mozilla-thunderbird-160-email-client-released-with-various-improvements)
 
