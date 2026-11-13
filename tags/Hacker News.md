@@ -1,3 +1,9 @@
+## 20261112
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-11](https://www.daemonology.net/hn-daily/2026-11-11.html)
+- [Top Hacker News](https://www.tophn.co/) | [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-11](https://hacker-podcast.agi.li/episode/2026-11-11)
+- [Hacker News](https://news.ycombinator.com/front) | [Gemini 4 Hydrogen and Orchestrator](https://news.ycombinator.com/item?id=50472260)
+
 ## 20261111
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-10](https://www.daemonology.net/hn-daily/2026-11-10.html)
 - [Top Hacker News](https://www.tophn.co/) | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)

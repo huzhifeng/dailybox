@@ -1,3 +1,6 @@
+## 20261112
+- [9to5Linux](https://9to5linux.com/) | [Libreboot 26.11 Open-Source BIOS/UEFI Firmware Brings Various Improvements](https://9to5linux.com/libreboot-26-11-open-source-bios-uefi-firmware-brings-various-improvements)
+
 ## 20261111
 - [9to5Linux](https://9to5linux.com/) | [Linux’s exFAT Progs 1.4.4 Adds Optional I/O Statistics Collection for Profiling](https://9to5linux.com/linuxs-exfat-progs-1-4-4-adds-optional-i-o-statistics-collection-for-profiling)
 

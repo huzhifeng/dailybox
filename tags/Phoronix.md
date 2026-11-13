@@ -1,3 +1,6 @@
+## 20261112
+- [Phoronix](https://www.phoronix.com/) | [Rust 1.100 Released With The "Never" Type Finally Stable](https://www.phoronix.com/news/Rust-1.100-Released)
+
 ## 20261111
 - [Phoronix](https://www.phoronix.com/) | [Intel Continues Enabling The GPU D-Series "Crescent Island" Driver Support For Linux 7.5](https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5)
 

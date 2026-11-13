@@ -1,3 +1,6 @@
+## 20261112
+- [LibHunt](https://www.libhunt.com/) | [openconstructor](https://www.libhunt.com/r/Kuloka/openconstructor)
+
 ## 20261111
 - [LibHunt](https://www.libhunt.com/) | [vmodal_sdk_flutter](https://www.libhunt.com/r/vmodal_sdk_flutter)
 

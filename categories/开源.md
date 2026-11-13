@@ -1,3 +1,6 @@
+## 20261112
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff](https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46)
+
 ## 20261111
 - [It's FOSS](https://itsfoss.com/) | [The AI-Assisted Linux Driver for DisplayLink Gets Legal Notice](https://feed.itsfoss.com/link/24361/17522155/synaptics-vino-fiasco)
 

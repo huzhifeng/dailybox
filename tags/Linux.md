@@ -1,3 +1,7 @@
+## 20261112
+- [Phoronix](https://www.phoronix.com/) | [Rust 1.100 Released With The "Never" Type Finally Stable](https://www.phoronix.com/news/Rust-1.100-Released)
+- [9to5Linux](https://9to5linux.com/) | [Libreboot 26.11 Open-Source BIOS/UEFI Firmware Brings Various Improvements](https://9to5linux.com/libreboot-26-11-open-source-bios-uefi-firmware-brings-various-improvements)
+
 ## 20261111
 - [Phoronix](https://www.phoronix.com/) | [Intel Continues Enabling The GPU D-Series "Crescent Island" Driver Support For Linux 7.5](https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5)
 - [9to5Linux](https://9to5linux.com/) | [Linux’s exFAT Progs 1.4.4 Adds Optional I/O Statistics Collection for Profiling](https://9to5linux.com/linuxs-exfat-progs-1-4-4-adds-optional-i-o-statistics-collection-for-profiling)
