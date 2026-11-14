@@ -1,3 +1,7 @@
+## 20261113
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source)
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.32 Is Out Now to Fix 15-Year-Old Data Integrity Bug](https://9to5linux.com/kde-frameworks-6-32-is-out-now-to-fix-15-year-old-data-integrity-bug)
+
 ## 20261112
 - [Phoronix](https://www.phoronix.com/) | [Rust 1.100 Released With The "Never" Type Finally Stable](https://www.phoronix.com/news/Rust-1.100-Released)
 - [9to5Linux](https://9to5linux.com/) | [Libreboot 26.11 Open-Source BIOS/UEFI Firmware Brings Various Improvements](https://9to5linux.com/libreboot-26-11-open-source-bios-uefi-firmware-brings-various-improvements)

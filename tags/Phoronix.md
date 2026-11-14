@@ -1,3 +1,6 @@
+## 20261113
+- [Phoronix](https://www.phoronix.com/) | [Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source)
+
 ## 20261112
 - [Phoronix](https://www.phoronix.com/) | [Rust 1.100 Released With The "Never" Type Finally Stable](https://www.phoronix.com/news/Rust-1.100-Released)
 

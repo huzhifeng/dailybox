@@ -1,3 +1,6 @@
+## 20261113
+- [It's FOSS](https://itsfoss.com/) | [Slax Linux Makes a Comeback](https://feed.itsfoss.com/link/24361/17523951/slax-linux-returns)
+
 ## 20261112
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff](https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46)
 

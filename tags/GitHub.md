@@ -1,3 +1,6 @@
+## 20261113
+- [GitHub Trending](https://github.com/trending?since=daily) | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+
 ## 20261112
 - [GitHub Trending](https://github.com/trending?since=daily) | [meta/astryx](https://github.com/meta/astryx)
 

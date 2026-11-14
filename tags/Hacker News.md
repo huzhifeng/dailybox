@@ -1,3 +1,8 @@
+## 20261113
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-12](https://www.daemonology.net/hn-daily/2026-11-12.html)
+- [Top Hacker News](https://www.tophn.co/) | [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
+- [Hacker News](https://news.ycombinator.com/front) | [FAA issues national ground stop – lifted 4.5 hours later](https://news.ycombinator.com/item?id=50489641)
+
 ## 20261112
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-11](https://www.daemonology.net/hn-daily/2026-11-11.html)
 - [Top Hacker News](https://www.tophn.co/) | [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)

@@ -1,3 +1,6 @@
+## 20261113
+- [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.32 Is Out Now to Fix 15-Year-Old Data Integrity Bug](https://9to5linux.com/kde-frameworks-6-32-is-out-now-to-fix-15-year-old-data-integrity-bug)
+
 ## 20261112
 - [9to5Linux](https://9to5linux.com/) | [Libreboot 26.11 Open-Source BIOS/UEFI Firmware Brings Various Improvements](https://9to5linux.com/libreboot-26-11-open-source-bios-uefi-firmware-brings-various-improvements)
 
