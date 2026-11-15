@@ -1,3 +1,9 @@
+## 20261114
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-13](https://www.daemonology.net/hn-daily/2026-11-13.html)
+- [Top Hacker News](https://www.tophn.co/) | [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-14](https://hacker-podcast.agi.li/episode/2026-11-14)
+- [Hacker News](https://news.ycombinator.com/front) | [Nvidia deliberately kept GPU prices high through circular financing deals](https://news.ycombinator.com/item?id=50501631)
+
 ## 20261113
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-12](https://www.daemonology.net/hn-daily/2026-11-12.html)
 - [Top Hacker News](https://www.tophn.co/) | [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)

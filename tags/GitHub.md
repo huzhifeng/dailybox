@@ -1,3 +1,6 @@
+## 20261114
+- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
 ## 20261113
 - [GitHub Trending](https://github.com/trending?since=daily) | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 

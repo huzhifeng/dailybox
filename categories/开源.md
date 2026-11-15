@@ -1,3 +1,6 @@
+## 20261114
+- [It's FOSS](https://itsfoss.com/) | [Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side](https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment)
+
 ## 20261113
 - [It's FOSS](https://itsfoss.com/) | [Slax Linux Makes a Comeback](https://feed.itsfoss.com/link/24361/17523951/slax-linux-returns)
 

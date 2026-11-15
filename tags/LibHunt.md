@@ -1,3 +1,6 @@
+## 20261114
+- [LibHunt](https://www.libhunt.com/) | [aws-emulator](https://www.libhunt.com/r/aws-emulator)
+
 ## 20261112
 - [LibHunt](https://www.libhunt.com/) | [openconstructor](https://www.libhunt.com/r/Kuloka/openconstructor)
 

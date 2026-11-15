@@ -1,3 +1,6 @@
+## 20261114
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.3 GUI Package Manager for Arch Linux Brings New Built-in Theme](https://9to5linux.com/shelly-3-3-gui-package-manager-for-arch-linux-brings-new-built-in-theme)
+
 ## 20261113
 - [9to5Linux](https://9to5linux.com/) | [KDE Frameworks 6.32 Is Out Now to Fix 15-Year-Old Data Integrity Bug](https://9to5linux.com/kde-frameworks-6-32-is-out-now-to-fix-15-year-old-data-integrity-bug)
 

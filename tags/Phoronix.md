@@ -1,3 +1,6 @@
+## 20261114
+- [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy](https://www.phoronix.com/news/Redox-OS-Golang-GIMP)
+
 ## 20261113
 - [Phoronix](https://www.phoronix.com/) | [Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source)
 
