@@ -1,3 +1,6 @@
+## 20261115
+- [GitHub Trending](https://github.com/trending?since=daily) | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+
 ## 20261114
 - [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 

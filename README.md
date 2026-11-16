@@ -1,34 +1,34 @@
-# Daily Box 20261114
+# Daily Box 20261115
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side](https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment)
+- [It's FOSS](https://itsfoss.com/) | [Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually](https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-- [LibHunt](https://www.libhunt.com/) | [aws-emulator](https://www.libhunt.com/r/aws-emulator)
+- [GitHub Trending](https://github.com/trending?since=daily) | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+- [LibHunt](https://www.libhunt.com/) | [runner-images](https://www.libhunt.com/r/runner-images)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy](https://www.phoronix.com/news/Redox-OS-Golang-GIMP)
-- [9to5Linux](https://9to5linux.com/) | [Shelly 3.3 GUI Package Manager for Arch Linux Brings New Built-in Theme](https://9to5linux.com/shelly-3-3-gui-package-manager-for-arch-linux-brings-new-built-in-theme)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261114】潮汐学校](http://www.dapenti.com/blog/more.asp?name=xilei&id=196741)
-- [每日环球视野](https://idai.ly/) | [November 14, 2026](http://m.idai.ly/se/a193iG?1794614400)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-13](https://www.daemonology.net/hn-daily/2026-11-13.html)
-- [Top Hacker News](https://www.tophn.co/) | [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-14](https://hacker-podcast.agi.li/episode/2026-11-14)
-- [Hacker News](https://news.ycombinator.com/front) | [Nvidia deliberately kept GPU prices high through circular financing deals](https://news.ycombinator.com/item?id=50501631)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc3 Released: "The Usual Noise All Over"](https://www.phoronix.com/news/Linux-7.4-rc3-Released)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261115】老师一定要生孩子吗？能不能保证新老师不怀孕？](http://www.dapenti.com/blog/more.asp?name=xilei&id=196752)
+- [每日环球视野](https://idai.ly/) | [November 15, 2026](http://m.idai.ly/se/a193iG?1794700800)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-14](https://www.daemonology.net/hn-daily/2026-11-14.html)
+- [Top Hacker News](https://www.tophn.co/) | [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-15](https://hacker-podcast.agi.li/episode/2026-11-15)
+- [Hacker News](https://news.ycombinator.com/front) | [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://news.ycombinator.com/item?id=50509411)
+
+## 漫游
+- [博友圈](https://www.boyouquan.com/home) | [云心怀鹤：新南机1952：文化商业合集](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fbluehe.cn%2Farchives%2Fnew-nanji)
 
 ## 日报
-- [极客早知道](https://www.geekpark.net/column/74) | [传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生](https://www.geekpark.net/news/373993)
-
-## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [BLG S16夺冠赞歌《仰望星空》](https://b23.tv/BV14VsJ6aEJd)
+- [极客早知道](https://www.geekpark.net/column/74) | [曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队](https://www.geekpark.net/news/373994)
 
 ## 语录
-- "斜月照帘帷，忆君和梦稀。" - 毛熙震 《菩萨蛮·梨花满院飘香雪》
-- "Genuine sincerity opens people's hearts, while manipulation causes them to close." - Daisaku Ikeda
+- "糁径杨花铺白毡，点溪荷叶叠青钱。" - 杜甫 《绝句漫兴九首·其七》
+- "相顾无相识，长歌怀采薇。" - 王绩 《野望》
+- "The foolish man seeks happiness in the distance, the wise grows it under his feet." - James Oppenheim
 
 ## 更多
-- [前一天](archives/daily-box-20261113.md)
-- [后一天](archives/daily-box-20261115.md)
+- [前一天](archives/daily-box-20261114.md)
+- [后一天](archives/daily-box-20261116.md)
 
 EOF

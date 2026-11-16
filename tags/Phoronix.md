@@ -1,3 +1,6 @@
+## 20261115
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc3 Released: "The Usual Noise All Over"](https://www.phoronix.com/news/Linux-7.4-rc3-Released)
+
 ## 20261114
 - [Phoronix](https://www.phoronix.com/) | [Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy](https://www.phoronix.com/news/Redox-OS-Golang-GIMP)
 

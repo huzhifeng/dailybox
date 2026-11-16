@@ -1,3 +1,6 @@
+## 20261115
+- [It's FOSS](https://itsfoss.com/) | [Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually](https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client)
+
 ## 20261114
 - [It's FOSS](https://itsfoss.com/) | [Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side](https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment)
 
