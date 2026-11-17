@@ -1,3 +1,9 @@
+## 20261116
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-15](https://www.daemonology.net/hn-daily/2026-11-15.html)
+- [Top Hacker News](https://www.tophn.co/) | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-16](https://hacker-podcast.agi.li/episode/2026-11-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://news.ycombinator.com/item?id=50524736)
+
 ## 20261115
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-14](https://www.daemonology.net/hn-daily/2026-11-14.html)
 - [Top Hacker News](https://www.tophn.co/) | [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)

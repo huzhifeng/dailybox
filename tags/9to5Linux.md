@@ -1,3 +1,6 @@
+## 20261116
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.3 Released with More Post-Quantum Cryptography Improvements](https://9to5linux.com/rocky-linux-10-3-released-with-more-post-quantum-cryptography-improvements)
+
 ## 20261114
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.3 GUI Package Manager for Arch Linux Brings New Built-in Theme](https://9to5linux.com/shelly-3-3-gui-package-manager-for-arch-linux-brings-new-built-in-theme)
 

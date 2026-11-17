@@ -1,3 +1,6 @@
+## 20261116
+- [LibHunt](https://www.libhunt.com/) | [ggml](https://www.libhunt.com/r/ggml)
+
 ## 20261115
 - [LibHunt](https://www.libhunt.com/) | [runner-images](https://www.libhunt.com/r/runner-images)
 

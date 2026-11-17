@@ -1,3 +1,7 @@
+## 20261116
+- [Phoronix](https://www.phoronix.com/) | [AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates](https://www.phoronix.com/news/AlmaLinux-10.3-Released)
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.3 Released with More Post-Quantum Cryptography Improvements](https://9to5linux.com/rocky-linux-10-3-released-with-more-post-quantum-cryptography-improvements)
+
 ## 20261115
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc3 Released: "The Usual Noise All Over"](https://www.phoronix.com/news/Linux-7.4-rc3-Released)
 

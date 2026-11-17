@@ -1,34 +1,39 @@
-# Daily Box 20261115
+# Daily Box 20261116
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually](https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client)
+- [It's FOSS](https://itsfoss.com/) | [Microsoft’s Outage Shows the Cost of One Vendor Running Everything](https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-- [LibHunt](https://www.libhunt.com/) | [runner-images](https://www.libhunt.com/r/runner-images)
+- [GitHub Trending](https://github.com/trending?since=daily) | [dream-num/univer](https://github.com/dream-num/univer)
+- [LibHunt](https://www.libhunt.com/) | [ggml](https://www.libhunt.com/r/ggml)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc3 Released: "The Usual Noise All Over"](https://www.phoronix.com/news/Linux-7.4-rc3-Released)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261115】老师一定要生孩子吗？能不能保证新老师不怀孕？](http://www.dapenti.com/blog/more.asp?name=xilei&id=196752)
-- [每日环球视野](https://idai.ly/) | [November 15, 2026](http://m.idai.ly/se/a193iG?1794700800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-14](https://www.daemonology.net/hn-daily/2026-11-14.html)
-- [Top Hacker News](https://www.tophn.co/) | [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-15](https://hacker-podcast.agi.li/episode/2026-11-15)
-- [Hacker News](https://news.ycombinator.com/front) | [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://news.ycombinator.com/item?id=50509411)
+- [Phoronix](https://www.phoronix.com/) | [AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates](https://www.phoronix.com/news/AlmaLinux-10.3-Released)
+- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.3 Released with More Post-Quantum Cryptography Improvements](https://9to5linux.com/rocky-linux-10-3-released-with-more-post-quantum-cryptography-improvements)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦音频版·吐槽精选07】人知道“飞机杯”不是飞机，系统只看见“飞机”两个字](http://www.dapenti.com/blog/more.asp?name=xilei&id=196787)
+- [每日环球视野](https://idai.ly/) | [November 16, 2026](http://m.idai.ly/se/a193iG?1794787200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-15](https://www.daemonology.net/hn-daily/2026-11-15.html)
+- [Top Hacker News](https://www.tophn.co/) | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-16](https://hacker-podcast.agi.li/episode/2026-11-16)
+- [Hacker News](https://news.ycombinator.com/front) | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://news.ycombinator.com/item?id=50524736)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [云心怀鹤：新南机1952：文化商业合集](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fbluehe.cn%2Farchives%2Fnew-nanji)
+- [博友圈](https://www.boyouquan.com/home) | [风渡言：秋日的中山公园](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.fdsay.com%2F2026%2F11%2Fqiu-ri-de-zhong-shan-gong-yuan%2F)
 
 ## 日报
-- [极客早知道](https://www.geekpark.net/column/74) | [曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队](https://www.geekpark.net/news/373994)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760)
+- [极客早知道](https://www.geekpark.net/column/74) | [消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚](https://www.geekpark.net/news/374056)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [梅耶·马斯克带你走进无限暖暖3.0](https://b23.tv/BV18msM6zEqc)
 
 ## 语录
-- "糁径杨花铺白毡，点溪荷叶叠青钱。" - 杜甫 《绝句漫兴九首·其七》
-- "相顾无相识，长歌怀采薇。" - 王绩 《野望》
-- "The foolish man seeks happiness in the distance, the wise grows it under his feet." - James Oppenheim
+- "金钱是有史以来最普遍也是最有效的互信系统。" - 尤瓦尔•赫拉利 《人类简史：从动物到上帝》
+- "随风潜入夜，润物细无声。" - 杜甫 《春夜喜雨》
+- "The world is round so that friendship may encircle it." - Pierre Teilhard de Chardin
 
 ## 更多
-- [前一天](archives/daily-box-20261114.md)
-- [后一天](archives/daily-box-20261116.md)
+- [前一天](archives/daily-box-20261115.md)
+- [后一天](archives/daily-box-20261117.md)
 
 EOF

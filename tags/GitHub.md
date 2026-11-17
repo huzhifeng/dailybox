@@ -1,3 +1,6 @@
+## 20261116
+- [GitHub Trending](https://github.com/trending?since=daily) | [dream-num/univer](https://github.com/dream-num/univer)
+
 ## 20261115
 - [GitHub Trending](https://github.com/trending?since=daily) | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 

@@ -1,3 +1,6 @@
+## 20261116
+- [It's FOSS](https://itsfoss.com/) | [Microsoft’s Outage Shows the Cost of One Vendor Running Everything](https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction)
+
 ## 20261115
 - [It's FOSS](https://itsfoss.com/) | [Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually](https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client)
 
