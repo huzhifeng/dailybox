@@ -1,39 +1,40 @@
-# Daily Box 20261116
+# Daily Box 20261117
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Microsoft’s Outage Shows the Cost of One Vendor Running Everything](https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction)
+- [It's FOSS](https://itsfoss.com/) | [Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users](https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [dream-num/univer](https://github.com/dream-num/univer)
-- [LibHunt](https://www.libhunt.com/) | [ggml](https://www.libhunt.com/r/ggml)
+- [GitHub Trending](https://github.com/trending?since=daily) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+- [LibHunt](https://www.libhunt.com/) | [levelrail](https://www.libhunt.com/r/levelrail)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates](https://www.phoronix.com/news/AlmaLinux-10.3-Released)
-- [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.3 Released with More Post-Quantum Cryptography Improvements](https://9to5linux.com/rocky-linux-10-3-released-with-more-post-quantum-cryptography-improvements)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦音频版·吐槽精选07】人知道“飞机杯”不是飞机，系统只看见“飞机”两个字](http://www.dapenti.com/blog/more.asp?name=xilei&id=196787)
-- [每日环球视野](https://idai.ly/) | [November 16, 2026](http://m.idai.ly/se/a193iG?1794787200)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-15](https://www.daemonology.net/hn-daily/2026-11-15.html)
-- [Top Hacker News](https://www.tophn.co/) | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-16](https://hacker-podcast.agi.li/episode/2026-11-16)
-- [Hacker News](https://news.ycombinator.com/front) | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://news.ycombinator.com/item?id=50524736)
+- [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
+- [9to5Linux](https://9to5linux.com/) | [AV Linux 25.3 Multimedia Production Distro Released with Xfce by Default](https://9to5linux.com/av-linux-25-3-multimedia-production-distro-released-with-xfce-by-default)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261117】有没有超越别人的捷径](http://www.dapenti.com/blog/more.asp?name=xilei&id=196808)
+- [每日环球视野](https://idai.ly/) | [November 17, 2026](http://m.idai.ly/se/a193iG?1794873600)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-16](https://www.daemonology.net/hn-daily/2026-11-16.html)
+- [Top Hacker News](https://www.tophn.co/) | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-17](https://hacker-podcast.agi.li/episode/2026-11-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Quad9's withdrawal from France: A canary in the coal mine](https://news.ycombinator.com/item?id=50538994)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [风渡言：秋日的中山公园](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.fdsay.com%2F2026%2F11%2Fqiu-ri-de-zhong-shan-gong-yuan%2F)
+- [博友圈](https://www.boyouquan.com/home) | [频率：惠州西湖与大亚湾](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fpinlyu.com%2Flife%2Ftravel-in-huizhou%2F)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760)
-- [极客早知道](https://www.geekpark.net/column/74) | [消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚](https://www.geekpark.net/news/374056)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915)
+- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道](https://www.geekpark.net/news/374109)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [梅耶·马斯克带你走进无限暖暖3.0](https://b23.tv/BV18msM6zEqc)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [在普罗米厄的怀抱下](https://b23.tv/BV16Bs26FEAM)
 
 ## 语录
-- "金钱是有史以来最普遍也是最有效的互信系统。" - 尤瓦尔•赫拉利 《人类简史：从动物到上帝》
-- "随风潜入夜，润物细无声。" - 杜甫 《春夜喜雨》
-- "The world is round so that friendship may encircle it." - Pierre Teilhard de Chardin
+- "夫天地者，万物之逆旅也；光阴者，百代之过客也。" - 李白 《春夜宴从弟桃花园序》
+- "秋萧索。梧桐落尽西风恶。" - 黄机 《忆秦娥·秋萧索》
+- "I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is." - Alan Watts
 
 ## 更多
-- [前一天](archives/daily-box-20261115.md)
-- [后一天](archives/daily-box-20261117.md)
+- [前一天](archives/daily-box-20261116.md)
+- [后一天](archives/daily-box-20261118.md)
 
 EOF

@@ -1,3 +1,6 @@
+## 20261117
+- [LibHunt](https://www.libhunt.com/) | [levelrail](https://www.libhunt.com/r/levelrail)
+
 ## 20261116
 - [LibHunt](https://www.libhunt.com/) | [ggml](https://www.libhunt.com/r/ggml)
 

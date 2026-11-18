@@ -1,3 +1,6 @@
+## 20261117
+- [It's FOSS](https://itsfoss.com/) | [Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users](https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt)
+
 ## 20261116
 - [It's FOSS](https://itsfoss.com/) | [Microsoft’s Outage Shows the Cost of One Vendor Running Everything](https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction)
 

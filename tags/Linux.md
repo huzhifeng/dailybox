@@ -1,3 +1,7 @@
+## 20261117
+- [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
+- [9to5Linux](https://9to5linux.com/) | [AV Linux 25.3 Multimedia Production Distro Released with Xfce by Default](https://9to5linux.com/av-linux-25-3-multimedia-production-distro-released-with-xfce-by-default)
+
 ## 20261116
 - [Phoronix](https://www.phoronix.com/) | [AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates](https://www.phoronix.com/news/AlmaLinux-10.3-Released)
 - [9to5Linux](https://9to5linux.com/) | [Rocky Linux 10.3 Released with More Post-Quantum Cryptography Improvements](https://9to5linux.com/rocky-linux-10-3-released-with-more-post-quantum-cryptography-improvements)

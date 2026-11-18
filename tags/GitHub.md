@@ -1,3 +1,6 @@
+## 20261117
+- [GitHub Trending](https://github.com/trending?since=daily) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+
 ## 20261116
 - [GitHub Trending](https://github.com/trending?since=daily) | [dream-num/univer](https://github.com/dream-num/univer)
 

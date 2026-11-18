@@ -1,3 +1,9 @@
+## 20261117
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-16](https://www.daemonology.net/hn-daily/2026-11-16.html)
+- [Top Hacker News](https://www.tophn.co/) | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-17](https://hacker-podcast.agi.li/episode/2026-11-17)
+- [Hacker News](https://news.ycombinator.com/front) | [Quad9's withdrawal from France: A canary in the coal mine](https://news.ycombinator.com/item?id=50538994)
+
 ## 20261116
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-15](https://www.daemonology.net/hn-daily/2026-11-15.html)
 - [Top Hacker News](https://www.tophn.co/) | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)

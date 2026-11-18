@@ -1,3 +1,6 @@
+## 20261117
+- [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
+
 ## 20261116
 - [Phoronix](https://www.phoronix.com/) | [AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates](https://www.phoronix.com/news/AlmaLinux-10.3-Released)
 
