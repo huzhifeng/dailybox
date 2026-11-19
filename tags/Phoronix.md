@@ -1,3 +1,6 @@
+## 20261118
+- [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
+
 ## 20261117
 - [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
 

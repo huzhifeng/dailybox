@@ -1,3 +1,6 @@
+## 20261118
+- [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+
 ## 20261117
 - [GitHub Trending](https://github.com/trending?since=daily) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 

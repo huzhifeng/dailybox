@@ -1,3 +1,10 @@
+## 20261118
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-17](https://www.daemonology.net/hn-daily/2026-11-17.html)
+- [Top Hacker News](https://www.tophn.co/) | [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-19 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-19-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-18](https://hacker-podcast.agi.li/episode/2026-11-18)
+- [Hacker News](https://news.ycombinator.com/front) | [We need smart people who give a shit](https://news.ycombinator.com/item?id=50554045)
+
 ## 20261117
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-16](https://www.daemonology.net/hn-daily/2026-11-16.html)
 - [Top Hacker News](https://www.tophn.co/) | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)

@@ -1,40 +1,39 @@
-# Daily Box 20261117
+# Daily Box 20261118
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users](https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt)
+- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #10: Say It, Don't Type It](https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-- [LibHunt](https://www.libhunt.com/) | [levelrail](https://www.libhunt.com/r/levelrail)
+- [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
-- [9to5Linux](https://9to5linux.com/) | [AV Linux 25.3 Multimedia Production Distro Released with Xfce by Default](https://9to5linux.com/av-linux-25-3-multimedia-production-distro-released-with-xfce-by-default)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261117】有没有超越别人的捷径](http://www.dapenti.com/blog/more.asp?name=xilei&id=196808)
-- [每日环球视野](https://idai.ly/) | [November 17, 2026](http://m.idai.ly/se/a193iG?1794873600)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-16](https://www.daemonology.net/hn-daily/2026-11-16.html)
-- [Top Hacker News](https://www.tophn.co/) | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-17](https://hacker-podcast.agi.li/episode/2026-11-17)
-- [Hacker News](https://news.ycombinator.com/front) | [Quad9's withdrawal from France: A canary in the coal mine](https://news.ycombinator.com/item?id=50538994)
+- [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261118】黄仁勋被迫辞职后，所有负面消息都爆出来了](http://www.dapenti.com/blog/more.asp?name=xilei&id=196828)
+- [每日环球视野](https://idai.ly/) | [November 18, 2026](http://m.idai.ly/se/a193iG?1794960000)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-17](https://www.daemonology.net/hn-daily/2026-11-17.html)
+- [Top Hacker News](https://www.tophn.co/) | [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-19 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-19-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-18](https://hacker-podcast.agi.li/episode/2026-11-18)
+- [Hacker News](https://news.ycombinator.com/front) | [We need smart people who give a shit](https://news.ycombinator.com/item?id=50554045)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [频率：惠州西湖与大亚湾](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fpinlyu.com%2Flife%2Ftravel-in-huizhou%2F)
+- [博友圈](https://www.boyouquan.com/home) | [小猪的窝：欲速则不达](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fezo.biz%2FDiary%2F1837.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915)
-- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道](https://www.geekpark.net/news/374109)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万](https://www.ifanr.com/1690255)
+- [极客早知道](https://www.geekpark.net/column/74) | [WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道](https://www.geekpark.net/news/374177)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [在普罗米厄的怀抱下](https://b23.tv/BV16Bs26FEAM)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [纯黑《GTA6》丧心病狂攻略解说 第一期](https://b23.tv/BV1AZs461ETU)
 
 ## 语录
-- "夫天地者，万物之逆旅也；光阴者，百代之过客也。" - 李白 《春夜宴从弟桃花园序》
-- "秋萧索。梧桐落尽西风恶。" - 黄机 《忆秦娥·秋萧索》
-- "I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is." - Alan Watts
+- "盈盈一水间，脉脉不得语。" - 佚名 《迢迢牵牛星》
+- "佳人应怪我，别后寡信轻诺。" - 柳永 《尾犯·夜雨滴空阶》
+- "In skating over thin ice our safety is in our speed." - Ralph Waldo Emerson
 
 ## 更多
-- [前一天](archives/daily-box-20261116.md)
-- [后一天](archives/daily-box-20261118.md)
+- [前一天](archives/daily-box-20261117.md)
+- [后一天](archives/daily-box-20261119.md)
 
 EOF

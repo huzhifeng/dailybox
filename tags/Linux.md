@@ -1,3 +1,7 @@
+## 20261118
+- [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)
+
 ## 20261117
 - [Phoronix](https://www.phoronix.com/) | [Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution](https://www.phoronix.com/news/Java4Shell-Vulnerability)
 - [9to5Linux](https://9to5linux.com/) | [AV Linux 25.3 Multimedia Production Distro Released with Xfce by Default](https://9to5linux.com/av-linux-25-3-multimedia-production-distro-released-with-xfce-by-default)

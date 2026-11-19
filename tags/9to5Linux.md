@@ -1,3 +1,6 @@
+## 20261118
+- [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)
+
 ## 20261117
 - [9to5Linux](https://9to5linux.com/) | [AV Linux 25.3 Multimedia Production Distro Released with Xfce by Default](https://9to5linux.com/av-linux-25-3-multimedia-production-distro-released-with-xfce-by-default)
 

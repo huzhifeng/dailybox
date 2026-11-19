@@ -1,3 +1,6 @@
+## 20261118
+- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #10: Say It, Don't Type It](https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10)
+
 ## 20261117
 - [It's FOSS](https://itsfoss.com/) | [Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users](https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt)
 
