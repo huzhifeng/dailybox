@@ -1,3 +1,6 @@
+## 20261119
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4 GUI Package Manager for Arch Linux Introduces Firmware Updates](https://9to5linux.com/shelly-3-4-gui-package-manager-for-arch-linux-introduces-firmware-updates)
+
 ## 20261118
 - [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)
 

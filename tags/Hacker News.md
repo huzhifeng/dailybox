@@ -1,3 +1,10 @@
+## 20261119
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-18](https://www.daemonology.net/hn-daily/2026-11-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-20-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-18](https://hacker-podcast.agi.li/episode/2026-11-18)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude solves two open problems in the physics of black holes](https://news.ycombinator.com/item?id=50563148)
+
 ## 20261118
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-17](https://www.daemonology.net/hn-daily/2026-11-17.html)
 - [Top Hacker News](https://www.tophn.co/) | [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)

@@ -1,3 +1,6 @@
+## 20261119
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47)
+
 ## 20261118
 - [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #10: Say It, Don't Type It](https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10)
 

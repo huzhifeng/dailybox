@@ -1,3 +1,6 @@
+## 20261119
+- [GitHub Trending](https://github.com/trending?since=daily) | [cursor/plugins](https://github.com/cursor/plugins)
+
 ## 20261118
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 

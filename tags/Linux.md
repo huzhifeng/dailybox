@@ -1,3 +1,7 @@
+## 20261119
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Optionally Block /proc/kcore Access For Better Security](https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore)
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4 GUI Package Manager for Arch Linux Introduces Firmware Updates](https://9to5linux.com/shelly-3-4-gui-package-manager-for-arch-linux-introduces-firmware-updates)
+
 ## 20261118
 - [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
 - [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)

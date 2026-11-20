@@ -1,3 +1,6 @@
+## 20261119
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Optionally Block /proc/kcore Access For Better Security](https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore)
+
 ## 20261118
 - [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
 

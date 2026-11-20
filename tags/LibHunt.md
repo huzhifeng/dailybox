@@ -1,3 +1,6 @@
+## 20261119
+- [LibHunt](https://www.libhunt.com/) | [llms-txt](https://www.libhunt.com/r/llms-txt)
+
 ## 20261117
 - [LibHunt](https://www.libhunt.com/) | [levelrail](https://www.libhunt.com/r/levelrail)
 

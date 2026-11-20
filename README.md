@@ -1,39 +1,38 @@
-# Daily Box 20261118
+# Daily Box 20261119
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Local AI Weekly #10: Say It, Don't Type It](https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10)
+- [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47)
 
 ## 产品
-- [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- [GitHub Trending](https://github.com/trending?since=daily) | [cursor/plugins](https://github.com/cursor/plugins)
+- [LibHunt](https://www.libhunt.com/) | [llms-txt](https://www.libhunt.com/r/llms-txt)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience](https://www.phoronix.com/review/dell-xps-14-panther-lake)
-- [9to5Linux](https://9to5linux.com/) | [Debian-Based Peppermint OS Updated ISO Now Available with XLibre](https://9to5linux.com/debian-based-peppermint-os-updated-iso-now-available-with-xlibre)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261118】黄仁勋被迫辞职后，所有负面消息都爆出来了](http://www.dapenti.com/blog/more.asp?name=xilei&id=196828)
-- [每日环球视野](https://idai.ly/) | [November 18, 2026](http://m.idai.ly/se/a193iG?1794960000)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-17](https://www.daemonology.net/hn-daily/2026-11-17.html)
-- [Top Hacker News](https://www.tophn.co/) | [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-19 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-19-HackerNews/)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Optionally Block /proc/kcore Access For Better Security](https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore)
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4 GUI Package Manager for Arch Linux Introduces Firmware Updates](https://9to5linux.com/shelly-3-4-gui-package-manager-for-arch-linux-introduces-firmware-updates)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261119】三十年河东，三十年河西](http://www.dapenti.com/blog/more.asp?name=xilei&id=196849)
+- [每日环球视野](https://idai.ly/) | [November 19, 2026](http://m.idai.ly/se/a193iG?1795046400)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-18](https://www.daemonology.net/hn-daily/2026-11-18.html)
+- [Top Hacker News](https://www.tophn.co/) | [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-20-HackerNews/)
 - [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-18](https://hacker-podcast.agi.li/episode/2026-11-18)
-- [Hacker News](https://news.ycombinator.com/front) | [We need smart people who give a shit](https://news.ycombinator.com/item?id=50554045)
+- [Hacker News](https://news.ycombinator.com/front) | [Claude solves two open problems in the physics of black holes](https://news.ycombinator.com/item?id=50563148)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [小猪的窝：欲速则不达](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fezo.biz%2FDiary%2F1837.html)
+- [博友圈](https://www.boyouquan.com/home) | [森木志：让花成花，让树成树](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Foxxx.cn%2Farchives%2F1508.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万](https://www.ifanr.com/1690255)
-- [极客早知道](https://www.geekpark.net/column/74) | [WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道](https://www.geekpark.net/news/374177)
-
-## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [纯黑《GTA6》丧心病狂攻略解说 第一期](https://b23.tv/BV1AZs461ETU)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473)
+- [极客早知道](https://www.geekpark.net/column/74) | [1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道](https://www.geekpark.net/news/374235)
+- [晚点早知道](https://www.latepost.com/news/index?proma=3) | [药明康德的底牌：当全球供应链安全遇上中国商业效率](https://www.latepost.com/news/dj_detail?id=3818)
 
 ## 语录
-- "盈盈一水间，脉脉不得语。" - 佚名 《迢迢牵牛星》
-- "佳人应怪我，别后寡信轻诺。" - 柳永 《尾犯·夜雨滴空阶》
-- "In skating over thin ice our safety is in our speed." - Ralph Waldo Emerson
+- "二秋叶神媛，七夕望仙妃。" - 任希古 《和长孙秘监七夕》
+- "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded." - Mark Twain
 
 ## 更多
-- [前一天](archives/daily-box-20261117.md)
-- [后一天](archives/daily-box-20261119.md)
+- [前一天](archives/daily-box-20261118.md)
+- [后一天](archives/daily-box-20261120.md)
 
 EOF
