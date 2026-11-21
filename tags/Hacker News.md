@@ -1,3 +1,10 @@
+## 20261120
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-19](https://www.daemonology.net/hn-daily/2026-11-19.html)
+- [Top Hacker News](https://www.tophn.co/) | [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-21 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-21-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-19](https://hacker-podcast.agi.li/episode/2026-11-19)
+- [Hacker News](https://news.ycombinator.com/front) | [Inkling 2 Mini](https://news.ycombinator.com/item?id=50581260)
+
 ## 20261119
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-18](https://www.daemonology.net/hn-daily/2026-11-18.html)
 - [Top Hacker News](https://www.tophn.co/) | [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)

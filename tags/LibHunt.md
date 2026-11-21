@@ -1,3 +1,6 @@
+## 20261120
+- [LibHunt](https://www.libhunt.com/) | [web-search-api-benchmark](https://www.libhunt.com/r/web-search-api-benchmark)
+
 ## 20261119
 - [LibHunt](https://www.libhunt.com/) | [llms-txt](https://www.libhunt.com/r/llms-txt)
 

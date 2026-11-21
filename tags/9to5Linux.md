@@ -1,3 +1,6 @@
+## 20261120
+- [9to5Linux](https://9to5linux.com/) | [FFmpeg 9.1 &#8220;Gauss&#8221; Multimedia Framework Is Out with APV Vulkan Encoder](https://9to5linux.com/ffmpeg-9-1-gauss-multimedia-framework-is-out-with-apv-vulkan-encoder)
+
 ## 20261119
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.4 GUI Package Manager for Arch Linux Introduces Firmware Updates](https://9to5linux.com/shelly-3-4-gui-package-manager-for-arch-linux-introduces-firmware-updates)
 

@@ -1,3 +1,6 @@
+## 20261120
+- [Phoronix](https://www.phoronix.com/) | [Libreboot Abandons Anti-AI Policy After One Month](https://www.phoronix.com/news/Libreboot-Drops-AI-Policy)
+
 ## 20261119
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.5 To Optionally Block /proc/kcore Access For Better Security](https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore)
 

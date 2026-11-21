@@ -1,3 +1,6 @@
+## 20261120
+- [It's FOSS](https://itsfoss.com/) | [GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives](https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure)
+
 ## 20261119
 - [It's FOSS](https://itsfoss.com/) | [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47)
 
