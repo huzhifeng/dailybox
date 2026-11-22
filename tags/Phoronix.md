@@ -1,3 +1,6 @@
+## 20261121
+- [Phoronix](https://www.phoronix.com/) | [Sashiko AI Introducing Linux Performance Specialist Review Stage](https://www.phoronix.com/news/Sashiko-AI-Performance-Review)
+
 ## 20261120
 - [Phoronix](https://www.phoronix.com/) | [Libreboot Abandons Anti-AI Policy After One Month](https://www.phoronix.com/news/Libreboot-Drops-AI-Policy)
 

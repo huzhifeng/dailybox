@@ -1,3 +1,6 @@
+## 20261121
+- [9to5Linux](https://9to5linux.com/) | [DietPi 10.9 Released with Support for Odroid C5 and Orange Pi Zero 4](https://9to5linux.com/dietpi-10-9-released-with-support-for-odroid-c5-and-orange-pi-zero-4)
+
 ## 20261120
 - [9to5Linux](https://9to5linux.com/) | [FFmpeg 9.1 &#8220;Gauss&#8221; Multimedia Framework Is Out with APV Vulkan Encoder](https://9to5linux.com/ffmpeg-9-1-gauss-multimedia-framework-is-out-with-apv-vulkan-encoder)
 

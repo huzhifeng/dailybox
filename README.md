@@ -1,37 +1,39 @@
-# Daily Box 20261120
+# Daily Box 20261121
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives](https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure)
+- [It's FOSS](https://itsfoss.com/) | [Owl OS is a New Kali Linux Competitor](https://feed.itsfoss.com/link/24361/17536916/owl-os-launch)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- [LibHunt](https://www.libhunt.com/) | [web-search-api-benchmark](https://www.libhunt.com/r/web-search-api-benchmark)
+- [LibHunt](https://www.libhunt.com/) | [skills](https://www.libhunt.com/r/off-grid-ai/skills)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Libreboot Abandons Anti-AI Policy After One Month](https://www.phoronix.com/news/Libreboot-Drops-AI-Policy)
-- [9to5Linux](https://9to5linux.com/) | [FFmpeg 9.1 &#8220;Gauss&#8221; Multimedia Framework Is Out with APV Vulkan Encoder](https://9to5linux.com/ffmpeg-9-1-gauss-multimedia-framework-is-out-with-apv-vulkan-encoder)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261120】人类有两件事情同时发生，非同寻常](http://www.dapenti.com/blog/more.asp?name=xilei&id=196875)
-- [每日环球视野](https://idai.ly/) | [November 20, 2026](http://m.idai.ly/se/a193iG?1795132800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-19](https://www.daemonology.net/hn-daily/2026-11-19.html)
-- [Top Hacker News](https://www.tophn.co/) | [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-21 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-21-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-19](https://hacker-podcast.agi.li/episode/2026-11-19)
-- [Hacker News](https://news.ycombinator.com/front) | [Inkling 2 Mini](https://news.ycombinator.com/item?id=50581260)
+- [Phoronix](https://www.phoronix.com/) | [Sashiko AI Introducing Linux Performance Specialist Review Stage](https://www.phoronix.com/news/Sashiko-AI-Performance-Review)
+- [9to5Linux](https://9to5linux.com/) | [DietPi 10.9 Released with Support for Odroid C5 and Orange Pi Zero 4](https://9to5linux.com/dietpi-10-9-released-with-support-for-odroid-c5-and-orange-pi-zero-4)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261121】如果我们不卖给他们，他们就会自己造](http://www.dapenti.com/blog/more.asp?name=xilei&id=196882)
+- [每日环球视野](https://idai.ly/) | [November 21, 2026](http://m.idai.ly/se/a193iG?1795219200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-20](https://www.daemonology.net/hn-daily/2026-11-20.html)
+- [Top Hacker News](https://www.tophn.co/) | [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-22-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-13](https://hacker-podcast.agi.li/episode/2026-11-13)
+- [Hacker News](https://news.ycombinator.com/front) | [Inkling-2-Mini in 5.4 GB Memory](https://news.ycombinator.com/item?id=50591853)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [频率：APEC中国年，相约深圳](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fpinlyu.com%2Fopinions%2Fapec2026-shenzhen%2F)
+- [博友圈](https://www.boyouquan.com/home) | [朱小呆：十一月，漫度时光](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fzhujay.com%2Fblog%2Fblog_detail.html%3Fid%3D1296)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验](https://www.ifanr.com/1690759)
-- [极客早知道](https://www.geekpark.net/column/74) | [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机](https://www.geekpark.net/news/374299)
+- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办](https://www.geekpark.net/news/374300)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星](https://b23.tv/BV1d7yGzsEMG)
 
 ## 语录
-- "生活既危险又稍纵即逝。" - 伊丽莎白·吉尔伯特 《女孩之城》
-- "北风吹雪四更初，嘉瑞天教及岁除。" - 陆游 《除夜雪》
-- "To lead people walk behind them." - Laozi
+- "不管风吹浪打，胜似闲庭信步。" - 毛泽东 《毛泽东语录精选》
+- "墉集欺猫鼠，林藏逐雀鹯。" - 徐威 《中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生》
+- "The most technologically efficient machine that man has ever invented is the book." - Northrop Frye
 
 ## 更多
-- [前一天](archives/daily-box-20261119.md)
-- [后一天](archives/daily-box-20261121.md)
+- [前一天](archives/daily-box-20261120.md)
+- [后一天](archives/daily-box-20261122.md)
 
 EOF

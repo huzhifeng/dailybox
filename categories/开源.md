@@ -1,3 +1,6 @@
+## 20261121
+- [It's FOSS](https://itsfoss.com/) | [Owl OS is a New Kali Linux Competitor](https://feed.itsfoss.com/link/24361/17536916/owl-os-launch)
+
 ## 20261120
 - [It's FOSS](https://itsfoss.com/) | [GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives](https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure)
 

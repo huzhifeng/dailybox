@@ -1,3 +1,6 @@
+## 20261121
+- [LibHunt](https://www.libhunt.com/) | [skills](https://www.libhunt.com/r/off-grid-ai/skills)
+
 ## 20261120
 - [LibHunt](https://www.libhunt.com/) | [web-search-api-benchmark](https://www.libhunt.com/r/web-search-api-benchmark)
 
