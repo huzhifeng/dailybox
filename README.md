@@ -1,39 +1,37 @@
-# Daily Box 20261121
+# Daily Box 20261122
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Owl OS is a New Kali Linux Competitor](https://feed.itsfoss.com/link/24361/17536916/owl-os-launch)
+- [It's FOSS](https://itsfoss.com/) | [Your Linux Laptop Won't Suspend? Here's What You Can Do](https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- [LibHunt](https://www.libhunt.com/) | [skills](https://www.libhunt.com/r/off-grid-ai/skills)
+- [LibHunt](https://www.libhunt.com/) | [aer1-kit](https://www.libhunt.com/r/aer1-kit)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Sashiko AI Introducing Linux Performance Specialist Review Stage](https://www.phoronix.com/news/Sashiko-AI-Performance-Review)
-- [9to5Linux](https://9to5linux.com/) | [DietPi 10.9 Released with Support for Odroid C5 and Orange Pi Zero 4](https://9to5linux.com/dietpi-10-9-released-with-support-for-odroid-c5-and-orange-pi-zero-4)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261121】如果我们不卖给他们，他们就会自己造](http://www.dapenti.com/blog/more.asp?name=xilei&id=196882)
-- [每日环球视野](https://idai.ly/) | [November 21, 2026](http://m.idai.ly/se/a193iG?1795219200)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-20](https://www.daemonology.net/hn-daily/2026-11-20.html)
-- [Top Hacker News](https://www.tophn.co/) | [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-22-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-13](https://hacker-podcast.agi.li/episode/2026-11-13)
-- [Hacker News](https://news.ycombinator.com/front) | [Inkling-2-Mini in 5.4 GB Memory](https://news.ycombinator.com/item?id=50591853)
+- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc4 Released: "It's Huge. What A Surprise."](https://www.phoronix.com/news/Linux-7.4-rc4-Released)
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2026.11 Removes KDE Plasma and Qt 5, Adds Linux 7.2 and Noctalia 5.6](https://9to5linux.com/kaos-linux-2026-11-removes-kde-plasma-and-qt-5-adds-linux-7-2-and-noctalia-5-6)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261122】一大批身体康健、经验丰富的低龄老年人](http://www.dapenti.com/blog/more.asp?name=xilei&id=196897)
+- [每日环球视野](https://idai.ly/) | [November 22, 2026](http://m.idai.ly/se/a193iG?1795305600)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-21](https://www.daemonology.net/hn-daily/2026-11-21.html)
+- [Top Hacker News](https://www.tophn.co/) | [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-23-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-20](https://hacker-podcast.agi.li/episode/2026-11-20)
+- [Hacker News](https://news.ycombinator.com/front) | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://news.ycombinator.com/item?id=50603845)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [朱小呆：十一月，漫度时光](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fzhujay.com%2Fblog%2Fblog_detail.html%3Fid%3D1296)
+- [博友圈](https://www.boyouquan.com/home) | [梁三川：第一次观鸟](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fliangmouyin.com%2Fblog%2Ffirst-time-birdwatching%2F)
 
 ## 日报
-- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办](https://www.geekpark.net/news/374300)
-
-## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星](https://b23.tv/BV1d7yGzsEMG)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元](https://www.ifanr.com/1690857)
+- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道](https://www.geekpark.net/news/374304)
 
 ## 语录
-- "不管风吹浪打，胜似闲庭信步。" - 毛泽东 《毛泽东语录精选》
-- "墉集欺猫鼠，林藏逐雀鹯。" - 徐威 《中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生》
-- "The most technologically efficient machine that man has ever invented is the book." - Northrop Frye
+- "自能成羽翼，何须仰云梯。" - 王勃 《观内怀仙》
+- "丹枫万叶碧云边，黄花千点幽岩下。" - 张抡 《踏莎行·秋入云山》
+- "If you find yourself in a hole, the first thing to do is stop digging." - Will Rogers
 
 ## 更多
-- [前一天](archives/daily-box-20261120.md)
-- [后一天](archives/daily-box-20261122.md)
+- [前一天](archives/daily-box-20261121.md)
+- [后一天](archives/daily-box-20261123.md)
 
 EOF

@@ -1,3 +1,6 @@
+## 20261122
+- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2026.11 Removes KDE Plasma and Qt 5, Adds Linux 7.2 and Noctalia 5.6](https://9to5linux.com/kaos-linux-2026-11-removes-kde-plasma-and-qt-5-adds-linux-7-2-and-noctalia-5-6)
+
 ## 20261121
 - [9to5Linux](https://9to5linux.com/) | [DietPi 10.9 Released with Support for Odroid C5 and Orange Pi Zero 4](https://9to5linux.com/dietpi-10-9-released-with-support-for-odroid-c5-and-orange-pi-zero-4)
 

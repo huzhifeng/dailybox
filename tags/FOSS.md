@@ -1,3 +1,6 @@
+## 20261122
+- [It's FOSS](https://itsfoss.com/) | [Your Linux Laptop Won't Suspend? Here's What You Can Do](https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock)
+
 ## 20261121
 - [It's FOSS](https://itsfoss.com/) | [Owl OS is a New Kali Linux Competitor](https://feed.itsfoss.com/link/24361/17536916/owl-os-launch)
 

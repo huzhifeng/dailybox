@@ -1,3 +1,6 @@
+## 20261122
+- [LibHunt](https://www.libhunt.com/) | [aer1-kit](https://www.libhunt.com/r/aer1-kit)
+
 ## 20261121
 - [LibHunt](https://www.libhunt.com/) | [skills](https://www.libhunt.com/r/off-grid-ai/skills)
 
