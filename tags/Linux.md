@@ -1,3 +1,7 @@
+## 20261123
+- [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 162 Will Restore Windows to Their Saved Positions on GNOME 51 and Later](https://9to5linux.com/firefox-162-will-restore-windows-to-their-saved-positions-on-gnome-51-and-later)
+
 ## 20261122
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc4 Released: "It's Huge. What A Surprise."](https://www.phoronix.com/news/Linux-7.4-rc4-Released)
 - [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2026.11 Removes KDE Plasma and Qt 5, Adds Linux 7.2 and Noctalia 5.6](https://9to5linux.com/kaos-linux-2026-11-removes-kde-plasma-and-qt-5-adds-linux-7-2-and-noctalia-5-6)

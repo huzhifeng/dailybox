@@ -1,3 +1,10 @@
+## 20261123
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-22](https://www.daemonology.net/hn-daily/2026-11-22.html)
+- [Top Hacker News](https://www.tophn.co/) | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-24 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-24-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-23](https://hacker-podcast.agi.li/episode/2026-11-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://news.ycombinator.com/item?id=50620349)
+
 ## 20261122
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-21](https://www.daemonology.net/hn-daily/2026-11-21.html)
 - [Top Hacker News](https://www.tophn.co/) | [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)

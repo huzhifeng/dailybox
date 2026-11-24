@@ -1,37 +1,41 @@
-# Daily Box 20261122
+# Daily Box 20261123
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Your Linux Laptop Won't Suspend? Here's What You Can Do](https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock)
+- [It's FOSS](https://itsfoss.com/) | [No One is Using Real Firefox Browser on iPhones (Blame it on Apple)](https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- [LibHunt](https://www.libhunt.com/) | [aer1-kit](https://www.libhunt.com/r/aer1-kit)
+- [LibHunt](https://www.libhunt.com/) | [banyan](https://www.libhunt.com/r/nbmany-web/banyan)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc4 Released: "It's Huge. What A Surprise."](https://www.phoronix.com/news/Linux-7.4-rc4-Released)
-- [9to5Linux](https://9to5linux.com/) | [KaOS Linux 2026.11 Removes KDE Plasma and Qt 5, Adds Linux 7.2 and Noctalia 5.6](https://9to5linux.com/kaos-linux-2026-11-removes-kde-plasma-and-qt-5-adds-linux-7-2-and-noctalia-5-6)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261122】一大批身体康健、经验丰富的低龄老年人](http://www.dapenti.com/blog/more.asp?name=xilei&id=196897)
-- [每日环球视野](https://idai.ly/) | [November 22, 2026](http://m.idai.ly/se/a193iG?1795305600)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-21](https://www.daemonology.net/hn-daily/2026-11-21.html)
-- [Top Hacker News](https://www.tophn.co/) | [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-23-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-20](https://hacker-podcast.agi.li/episode/2026-11-20)
-- [Hacker News](https://news.ycombinator.com/front) | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://news.ycombinator.com/item?id=50603845)
+- [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
+- [9to5Linux](https://9to5linux.com/) | [Firefox 162 Will Restore Windows to Their Saved Positions on GNOME 51 and Later](https://9to5linux.com/firefox-162-will-restore-windows-to-their-saved-positions-on-gnome-51-and-later)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261123】我说他们应该去找局外人，但他现在就是局外人](http://www.dapenti.com/blog/more.asp?name=xilei&id=196923)
+- [每日环球视野](https://idai.ly/) | [November 23, 2026](http://m.idai.ly/se/a193iG?1795392000)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-22](https://www.daemonology.net/hn-daily/2026-11-22.html)
+- [Top Hacker News](https://www.tophn.co/) | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-24 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-24-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-23](https://hacker-podcast.agi.li/episode/2026-11-23)
+- [Hacker News](https://news.ycombinator.com/front) | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://news.ycombinator.com/item?id=50620349)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [梁三川：第一次观鸟](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fliangmouyin.com%2Fblog%2Ffirst-time-birdwatching%2F)
+- [博友圈](https://www.boyouquan.com/home) | [飞絮落叶雪：广州印象](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.mrhe.net%2Fpost%2F3790.html)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元](https://www.ifanr.com/1690857)
-- [极客早知道](https://www.geekpark.net/column/74) | [OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道](https://www.geekpark.net/news/374304)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119)
+- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」](https://www.geekpark.net/news/374375)
+
+## 视频
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！](https://b23.tv/BV1qYyRz5EdM)
 
 ## 语录
-- "自能成羽翼，何须仰云梯。" - 王勃 《观内怀仙》
-- "丹枫万叶碧云边，黄花千点幽岩下。" - 张抡 《踏莎行·秋入云山》
-- "If you find yourself in a hole, the first thing to do is stop digging." - Will Rogers
+- "让美丽的夜空带我们踏过平庸。" - 南仁东 《追记“时代楷模”南仁东》
+- "断虹霁雨，净秋空，山染修眉新绿。" - 黄庭坚 《念奴娇·断虹霁雨》
+- "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him." - Johann Wolfgang von Goethe
 
 ## 更多
-- [前一天](archives/daily-box-20261121.md)
-- [后一天](archives/daily-box-20261123.md)
+- [前一天](archives/daily-box-20261122.md)
+- [后一天](archives/daily-box-20261124.md)
 
 EOF

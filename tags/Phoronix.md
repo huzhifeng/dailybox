@@ -1,3 +1,6 @@
+## 20261123
+- [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
+
 ## 20261122
 - [Phoronix](https://www.phoronix.com/) | [Linux 7.4-rc4 Released: "It's Huge. What A Surprise."](https://www.phoronix.com/news/Linux-7.4-rc4-Released)
 

@@ -1,3 +1,6 @@
+## 20261123
+- [It's FOSS](https://itsfoss.com/) | [No One is Using Real Firefox Browser on iPhones (Blame it on Apple)](https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute)
+
 ## 20261122
 - [It's FOSS](https://itsfoss.com/) | [Your Linux Laptop Won't Suspend? Here's What You Can Do](https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock)
 

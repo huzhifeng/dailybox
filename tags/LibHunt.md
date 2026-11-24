@@ -1,3 +1,6 @@
+## 20261123
+- [LibHunt](https://www.libhunt.com/) | [banyan](https://www.libhunt.com/r/nbmany-web/banyan)
+
 ## 20261122
 - [LibHunt](https://www.libhunt.com/) | [aer1-kit](https://www.libhunt.com/r/aer1-kit)
 
