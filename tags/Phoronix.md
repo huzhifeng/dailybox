@@ -1,3 +1,6 @@
+## 20261124
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
+
 ## 20261123
 - [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
 

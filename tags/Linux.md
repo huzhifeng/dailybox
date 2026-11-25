@@ -1,3 +1,7 @@
+## 20261124
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
+- [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)
+
 ## 20261123
 - [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
 - [9to5Linux](https://9to5linux.com/) | [Firefox 162 Will Restore Windows to Their Saved Positions on GNOME 51 and Later](https://9to5linux.com/firefox-162-will-restore-windows-to-their-saved-positions-on-gnome-51-and-later)

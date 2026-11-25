@@ -1,3 +1,6 @@
+## 20261124
+- [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)
+
 ## 20261123
 - [9to5Linux](https://9to5linux.com/) | [Firefox 162 Will Restore Windows to Their Saved Positions on GNOME 51 and Later](https://9to5linux.com/firefox-162-will-restore-windows-to-their-saved-positions-on-gnome-51-and-later)
 

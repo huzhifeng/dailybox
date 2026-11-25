@@ -1,41 +1,36 @@
-# Daily Box 20261123
-
-## 开源
-- [It's FOSS](https://itsfoss.com/) | [No One is Using Real Firefox Browser on iPhones (Blame it on Apple)](https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute)
+# Daily Box 20261124
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- [LibHunt](https://www.libhunt.com/) | [banyan](https://www.libhunt.com/r/nbmany-web/banyan)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Zstd 1.6 Released With Many Fixes, New Performance Optimizations](https://www.phoronix.com/news/Zstandard-Zstd-1.6)
-- [9to5Linux](https://9to5linux.com/) | [Firefox 162 Will Restore Windows to Their Saved Positions on GNOME 51 and Later](https://9to5linux.com/firefox-162-will-restore-windows-to-their-saved-positions-on-gnome-51-and-later)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261123】我说他们应该去找局外人，但他现在就是局外人](http://www.dapenti.com/blog/more.asp?name=xilei&id=196923)
-- [每日环球视野](https://idai.ly/) | [November 23, 2026](http://m.idai.ly/se/a193iG?1795392000)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-22](https://www.daemonology.net/hn-daily/2026-11-22.html)
-- [Top Hacker News](https://www.tophn.co/) | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-24 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-24-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-23](https://hacker-podcast.agi.li/episode/2026-11-23)
-- [Hacker News](https://news.ycombinator.com/front) | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://news.ycombinator.com/item?id=50620349)
+- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
+- [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261124】乔布斯回归用了12年，老黄用了12天](http://www.dapenti.com/blog/more.asp?name=xilei&id=196949)
+- [每日环球视野](https://idai.ly/) | [November 24, 2026](http://m.idai.ly/se/a193iG?1795478400)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-23](https://www.daemonology.net/hn-daily/2026-11-23.html)
+- [Top Hacker News](https://www.tophn.co/) | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-25 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-25-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-24](https://hacker-podcast.agi.li/episode/2026-11-24)
+- [Hacker News](https://news.ycombinator.com/front) | [Ternary Bonsai 2.5 27B](https://news.ycombinator.com/item?id=50633922)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [飞絮落叶雪：广州印象](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwww.mrhe.net%2Fpost%2F3790.html)
+- [博友圈](https://www.boyouquan.com/home) | [Wangxinyang：一程比赛，一路风景 | ​横店之行，圆满结束](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwangxinyang.top%2Farchives%2Fyi-cheng-bi-sai-yi-lu-feng-jing-heng-dian-zhi-xing-yuan-man-jie-shu)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119)
-- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」](https://www.geekpark.net/news/374375)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400)
+- [极客早知道](https://www.geekpark.net/column/74) | [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](https://www.geekpark.net/news/374438)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！](https://b23.tv/BV1qYyRz5EdM)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《明日方舟：终末地》小刻EP - JUST THE START](https://b23.tv/BV1YhyzzhEJU)
 
 ## 语录
-- "让美丽的夜空带我们踏过平庸。" - 南仁东 《追记“时代楷模”南仁东》
-- "断虹霁雨，净秋空，山染修眉新绿。" - 黄庭坚 《念奴娇·断虹霁雨》
-- "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him." - Johann Wolfgang von Goethe
+- "民感桑林雨，云施李靖龙。" - 赵汝愚 《雨后送李将军还祠偕同寅饮一杯亭》
+- "You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?" - W. Clement Stone
 
 ## 更多
-- [前一天](archives/daily-box-20261122.md)
-- [后一天](archives/daily-box-20261124.md)
+- [前一天](archives/daily-box-20261123.md)
+- [后一天](archives/daily-box-20261125.md)
 
 EOF
