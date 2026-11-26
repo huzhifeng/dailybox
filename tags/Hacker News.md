@@ -1,3 +1,10 @@
+## 20261125
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-24](https://www.daemonology.net/hn-daily/2026-11-24.html)
+- [Top Hacker News](https://www.tophn.co/) | [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-26 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-26-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-25](https://hacker-podcast.agi.li/episode/2026-11-25)
+- [Hacker News](https://news.ycombinator.com/front) | [Much shorter version of GRH Lean verification from Anthropic](https://news.ycombinator.com/item?id=50648050)
+
 ## 20261124
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-23](https://www.daemonology.net/hn-daily/2026-11-23.html)
 - [Top Hacker News](https://www.tophn.co/) | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)

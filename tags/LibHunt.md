@@ -1,3 +1,6 @@
+## 20261125
+- [LibHunt](https://www.libhunt.com/) | [formal-math](https://www.libhunt.com/r/formal-math)
+
 ## 20261123
 - [LibHunt](https://www.libhunt.com/) | [banyan](https://www.libhunt.com/r/nbmany-web/banyan)
 

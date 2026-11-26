@@ -1,3 +1,6 @@
+## 20261125
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
+
 ## 20261124
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
 

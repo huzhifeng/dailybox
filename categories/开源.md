@@ -1,3 +1,6 @@
+## 20261125
+- [It's FOSS](https://itsfoss.com/) | [Meet Warty, the AI Launcher Canonical Is Building for Ubuntu](https://feed.itsfoss.com/link/24361/17540845/ubuntu-ai-launcher-plans)
+
 ## 20261123
 - [It's FOSS](https://itsfoss.com/) | [No One is Using Real Firefox Browser on iPhones (Blame it on Apple)](https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute)
 

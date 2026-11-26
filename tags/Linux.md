@@ -1,3 +1,7 @@
+## 20261125
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)
+
 ## 20261124
 - [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
 - [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)

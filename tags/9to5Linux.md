@@ -1,3 +1,6 @@
+## 20261125
+- [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)
+
 ## 20261124
 - [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)
 

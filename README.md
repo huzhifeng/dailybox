@@ -1,36 +1,40 @@
-# Daily Box 20261124
+# Daily Box 20261125
+
+## 开源
+- [It's FOSS](https://itsfoss.com/) | [Meet Warty, the AI Launcher Canonical Is Building for Ubuntu](https://feed.itsfoss.com/link/24361/17540845/ubuntu-ai-launcher-plans)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- [LibHunt](https://www.libhunt.com/) | [formal-math](https://www.libhunt.com/r/formal-math)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [Linus Torvalds: "Tell Your AI Companion To Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
-- [9to5Linux](https://9to5linux.com/) | [Peppermint OS Void Launches as a Loaded Edition Based on Void Linux](https://9to5linux.com/peppermint-os-void-launches-as-a-loaded-edition-based-on-void-linux)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261124】乔布斯回归用了12年，老黄用了12天](http://www.dapenti.com/blog/more.asp?name=xilei&id=196949)
-- [每日环球视野](https://idai.ly/) | [November 24, 2026](http://m.idai.ly/se/a193iG?1795478400)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-23](https://www.daemonology.net/hn-daily/2026-11-23.html)
-- [Top Hacker News](https://www.tophn.co/) | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-25 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-25-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-24](https://hacker-podcast.agi.li/episode/2026-11-24)
-- [Hacker News](https://news.ycombinator.com/front) | [Ternary Bonsai 2.5 27B](https://news.ycombinator.com/item?id=50633922)
+- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
+- [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261125】他们用自己的真金白银支撑了不断后退的股市](http://www.dapenti.com/blog/more.asp?name=xilei&id=196962)
+- [每日环球视野](https://idai.ly/) | [November 25, 2026](http://m.idai.ly/se/a193iG?1795564800)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-24](https://www.daemonology.net/hn-daily/2026-11-24.html)
+- [Top Hacker News](https://www.tophn.co/) | [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-26 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-26-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-25](https://hacker-podcast.agi.li/episode/2026-11-25)
+- [Hacker News](https://news.ycombinator.com/front) | [Much shorter version of GRH Lean verification from Anthropic](https://news.ycombinator.com/item?id=50648050)
 
 ## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [Wangxinyang：一程比赛，一路风景 | ​横店之行，圆满结束](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fwangxinyang.top%2Farchives%2Fyi-cheng-bi-sai-yi-lu-feng-jing-heng-dian-zhi-xing-yuan-man-jie-shu)
+- [博友圈](https://www.boyouquan.com/home) | [小猪的窝：人生污点](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fezo.biz%2FDiary%2F1856.html)
 
 ## 日报
-- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400)
-- [极客早知道](https://www.geekpark.net/column/74) | [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](https://www.geekpark.net/news/374438)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128)
+- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道](https://www.geekpark.net/news/374500)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [《明日方舟：终末地》小刻EP - JUST THE START](https://b23.tv/BV1YhyzzhEJU)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [特朗普与民主党抽象乱斗](https://b23.tv/BV1xzy2zMExY)
 
 ## 语录
-- "民感桑林雨，云施李靖龙。" - 赵汝愚 《雨后送李将军还祠偕同寅饮一杯亭》
-- "You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?" - W. Clement Stone
+- "死亡不属于工人阶级！" - 弗拉基米尔·伊里奇·列宁 《列宁全集》
+- "人老去西风白发，蝶愁来明日黄花。" - 张可久 《折桂令·九日》
+- "Friendship is always a sweet responsibility, never an opportunity." - Kahlil Gibran
 
 ## 更多
-- [前一天](archives/daily-box-20261123.md)
-- [后一天](archives/daily-box-20261125.md)
+- [前一天](archives/daily-box-20261124.md)
+- [后一天](archives/daily-box-20261126.md)
 
 EOF
