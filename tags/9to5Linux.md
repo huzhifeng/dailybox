@@ -1,3 +1,6 @@
+## 20261126
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4.2 Package Manager for Arch Linux Distros Adds TUI Mouse Support](https://9to5linux.com/shelly-3-4-2-package-manager-for-arch-linux-distros-adds-tui-mouse-support)
+
 ## 20261125
 - [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)
 

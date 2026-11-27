@@ -1,3 +1,7 @@
+## 20261126
+- [Phoronix](https://www.phoronix.com/) | [It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5](https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready)
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4.2 Package Manager for Arch Linux Distros Adds TUI Mouse Support](https://9to5linux.com/shelly-3-4-2-package-manager-for-arch-linux-distros-adds-tui-mouse-support)
+
 ## 20261125
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
 - [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)

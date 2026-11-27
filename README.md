@@ -1,40 +1,38 @@
-# Daily Box 20261125
+# Daily Box 20261126
 
 ## 开源
-- [It's FOSS](https://itsfoss.com/) | [Meet Warty, the AI Launcher Canonical Is Building for Ubuntu](https://feed.itsfoss.com/link/24361/17540845/ubuntu-ai-launcher-plans)
+- [It's FOSS](https://itsfoss.com/) | [Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats](https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai)
 
 ## 产品
 - [GitHub Trending](https://github.com/trending?since=daily) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-- [LibHunt](https://www.libhunt.com/) | [formal-math](https://www.libhunt.com/r/formal-math)
+- [LibHunt](https://www.libhunt.com/) | [agents.md](https://www.libhunt.com/r/agents.md)
 
 ## 资讯
-- [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
-- [9to5Linux](https://9to5linux.com/) | [Pop!_OS 26.04 LTS Is Now Available for Download, Based on Ubuntu 26.04 LTS](https://9to5linux.com/pop_os-26-04-lts-is-now-available-for-download-based-on-ubuntu-26-04-lts)
-- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261125】他们用自己的真金白银支撑了不断后退的股市](http://www.dapenti.com/blog/more.asp?name=xilei&id=196962)
-- [每日环球视野](https://idai.ly/) | [November 25, 2026](http://m.idai.ly/se/a193iG?1795564800)
-- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-24](https://www.daemonology.net/hn-daily/2026-11-24.html)
-- [Top Hacker News](https://www.tophn.co/) | [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
-- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-26 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-26-HackerNews/)
-- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-25](https://hacker-podcast.agi.li/episode/2026-11-25)
-- [Hacker News](https://news.ycombinator.com/front) | [Much shorter version of GRH Lean verification from Anthropic](https://news.ycombinator.com/item?id=50648050)
-
-## 漫游
-- [博友圈](https://www.boyouquan.com/home) | [小猪的窝：人生污点](https://www.boyouquan.com/go?from=feed&link=https%3A%2F%2Fezo.biz%2FDiary%2F1856.html)
+- [Phoronix](https://www.phoronix.com/) | [It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5](https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready)
+- [9to5Linux](https://9to5linux.com/) | [Shelly 3.4.2 Package Manager for Arch Linux Distros Adds TUI Mouse Support](https://9to5linux.com/shelly-3-4-2-package-manager-for-arch-linux-distros-adds-tui-mouse-support)
+- [喷嚏网](http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei) | [【喷嚏图卦20261126】中国经济一直在增长，可我怎么没感觉到](http://www.dapenti.com/blog/more.asp?name=xilei&id=196977)
+- [每日环球视野](https://idai.ly/) | [November 26, 2026](http://m.idai.ly/se/a193iG?1795651200)
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-25](https://www.daemonology.net/hn-daily/2026-11-25.html)
+- [Top Hacker News](https://www.tophn.co/) | [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-27 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-27-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-26](https://hacker-podcast.agi.li/episode/2026-11-26)
+- [Hacker News](https://news.ycombinator.com/front) | [AI made self-hosting fun again](https://news.ycombinator.com/item?id=50660180)
 
 ## 日报
-- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128)
-- [极客早知道](https://www.geekpark.net/column/74) | [黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道](https://www.geekpark.net/news/374500)
+- [派早报](https://sspai.com/tag/%E6%B4%BE%E6%97%A9%E6%8A%A5) | [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
+- [爱范儿早报](https://www.ifanr.com/category/ifanrnews) | [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611)
+- [极客早知道](https://www.geekpark.net/column/74) | [智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道](https://www.geekpark.net/news/374546)
 
 ## 视频
-- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [特朗普与民主党抽象乱斗](https://b23.tv/BV1xzy2zMExY)
+- [哔哩哔哩综合热门](https://www.bilibili.com/v/popular/all/) | [【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】](https://b23.tv/BV1Em1jz5EpX)
 
 ## 语录
-- "死亡不属于工人阶级！" - 弗拉基米尔·伊里奇·列宁 《列宁全集》
-- "人老去西风白发，蝶愁来明日黄花。" - 张可久 《折桂令·九日》
-- "Friendship is always a sweet responsibility, never an opportunity." - Kahlil Gibran
+- "不知为向，明明想和你说话，却骗你说，风雨正好，该去写点诗句。" - 西贝 《路人》
+- "儿童见说深惊讶，却问何方是故乡。" - 殷尧藩 《同州端午》
+- "Truth is generally the best vindication against slander." - Abraham Lincoln
 
 ## 更多
-- [前一天](archives/daily-box-20261124.md)
-- [后一天](archives/daily-box-20261126.md)
+- [前一天](archives/daily-box-20261125.md)
+- [后一天](archives/daily-box-20261127.md)
 
 EOF

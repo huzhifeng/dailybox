@@ -1,3 +1,6 @@
+## 20261126
+- [Phoronix](https://www.phoronix.com/) | [It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5](https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready)
+
 ## 20261125
 - [Phoronix](https://www.phoronix.com/) | [PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice](https://www.phoronix.com/review/postgresql-19-benchmarks)
 

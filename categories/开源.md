@@ -1,3 +1,6 @@
+## 20261126
+- [It's FOSS](https://itsfoss.com/) | [Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats](https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai)
+
 ## 20261125
 - [It's FOSS](https://itsfoss.com/) | [Meet Warty, the AI Launcher Canonical Is Building for Ubuntu](https://feed.itsfoss.com/link/24361/17540845/ubuntu-ai-launcher-plans)
 

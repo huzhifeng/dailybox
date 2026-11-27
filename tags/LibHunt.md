@@ -1,3 +1,6 @@
+## 20261126
+- [LibHunt](https://www.libhunt.com/) | [agents.md](https://www.libhunt.com/r/agents.md)
+
 ## 20261125
 - [LibHunt](https://www.libhunt.com/) | [formal-math](https://www.libhunt.com/r/formal-math)
 
