@@ -1,3 +1,10 @@
+## 20261127
+- [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-26](https://www.daemonology.net/hn-daily/2026-11-26.html)
+- [Top Hacker News](https://www.tophn.co/) | [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
+- [HackerNews 每日摘要](https://www.supertechfans.com/cn) | [2026-11-28 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-28-HackerNews/)
+- [Hacker News 每日播报](https://hacker-news.agi.li/) | [Agili 的 Hacker Podcast 2026-11-27](https://hacker-podcast.agi.li/episode/2026-11-27)
+- [Hacker News](https://news.ycombinator.com/front) | [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://news.ycombinator.com/item?id=50672565)
+
 ## 20261126
 - [Hacker News Daily](https://www.daemonology.net/hn-daily/) | [Daily Hacker News for 2026-11-25](https://www.daemonology.net/hn-daily/2026-11-25.html)
 - [Top Hacker News](https://www.tophn.co/) | [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)

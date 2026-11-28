@@ -1,3 +1,6 @@
+## 20261127
+- [Phoronix](https://www.phoronix.com/) | [GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC](https://www.phoronix.com/review/gmktec-evo-x2)
+
 ## 20261126
 - [Phoronix](https://www.phoronix.com/) | [It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5](https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready)
 

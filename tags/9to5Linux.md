@@ -1,3 +1,6 @@
+## 20261127
+- [9to5Linux](https://9to5linux.com/) | [digiKam 9.2 Photo Manager Adds Support for New Sony and Canon Cameras](https://9to5linux.com/digikam-9-2-photo-manager-adds-support-for-new-sony-and-canon-cameras)
+
 ## 20261126
 - [9to5Linux](https://9to5linux.com/) | [Shelly 3.4.2 Package Manager for Arch Linux Distros Adds TUI Mouse Support](https://9to5linux.com/shelly-3-4-2-package-manager-for-arch-linux-distros-adds-tui-mouse-support)
 

@@ -1,3 +1,6 @@
+## 20261127
+- [It's FOSS](https://itsfoss.com/) | [A Better Black Friday Gift: Linux Foundation Certifications at Up to 65% Off](https://feed.itsfoss.com/link/24361/17541993/lf-cyber-monday-offer-26)
+
 ## 20261126
 - [It's FOSS](https://itsfoss.com/) | [Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats](https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai)
 
